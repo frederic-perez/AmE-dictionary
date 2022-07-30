@@ -1,3 +1,7 @@
+__an uphill task__  
+__easy peasy__  
+__front and center__  
+__leave (one’s) mark__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set (something) out__  
@@ -33,6 +37,7 @@ __take a fit__ To become very or unreasonably angry or upset; to have an outburs
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
+__take it away!__  
 __take pride in someone or something__ :three::hammer:  
 __take the edge off__  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
@@ -96,6 +101,7 @@ __vertically challenged__ Short; not tall in stature. (Pseudo-politically correc
 __wake up on the wrong side of (the) bed__ To be in a particularly and persistently irritable, unhappy, or grouchy mood or state, especially when it is not in line with one’s normal disposition. _I’m sorry I snapped at you earlier, I think I just woke up on the wrong side of the bed today._  
 __wallflower__ Someone who remains on the outer edges of a social event, especially a dance or party, and does not participate due to being shy or unpopular. _I used to be a real wallflower when I was in high school. It wasn’t until I got to college that I finally started having a bit more confidence and began enjoying myself at parties._  
 __wash something down__ _Wash it down with a glass of milk._  
+__water down__  
 __water torture__  
 __watering hole__ _Revelers can move around watering holes with impunity._  
 __weather permitting__ :two::hammer:  

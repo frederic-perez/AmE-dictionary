@@ -1,3 +1,8 @@
+__abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
+__akimbo__ _adj, adv_ /uh-KIM-boh/  
+__atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
+__busyness__ _n_  
+__emphysema__ _n_ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __Goth__ _n_  
 __grandiose__ _adj_  
 __grapevine__ _n_  
@@ -7,10 +12,13 @@ __hamlet__ _n_ :three::hammer:
 __hang-glider__ _n_  
 __hard pressed__  
 __heap__ _v_ (heaped)  
+__heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp through disappointment in love.  
 __heifer__ _n_  
+__heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
 __hemicycle__ _n_  
 __heydays__  
 __hinterland__ _n_  
+__hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
 __histrionics__ _n_ Theatrical arts or performances. _Syn_ theatrical performance, representation _They had lunch, then went to the theater to enjoy an hour of histrionics._  
 __hive__ _n_ _A hive of art in the center of downtown._  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
@@ -69,6 +77,7 @@ __K-pop__ _n_ _The characteristic pop music of South Korea._
 __kale__ _n_  
 __kangaroo word__  
 __kayak__ _v_  
+__keiretsu__ _n_  
 __keno__ _n_ A game of chance, similar to lotto, that uses balls rather than counters.  
 __ketamine__ _n_ (Special K)  
 __kiddo__ _n_ _Bring the kiddos._  
@@ -193,6 +202,7 @@ __matinee__ _n_ :two::hammer:
 __matron__ _n_ _A jailhouse matron._  
 __mayo__ _n_ :mega:  
 __maypole__ _n_ _Maypole and morris dancers._  
+__mbira__ _n_ _Syn_ kalimba, thumb piano  
 __meander__ _v_ :two::hammer:  
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
@@ -244,6 +254,7 @@ __mogul__ _n_ :two::hammer:
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mojo__ _n_  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
+__molluscum contagiosum__ _n_  
 __mollycoddle<sup>1</sup>__ _v tr_ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] To be overprotective and indulgent toward. _Syn_ pamper  
 __mollycoddle<sup>2</sup>__ _n_ A person, especially a man or a boy, who is pampered and overprotected.  
 __molt<sup>1</sup>__ _v_  
@@ -382,7 +393,8 @@ __outrageous__ _adj_ :two::hammer: _Outrageous innovations._ _Outrageous stodgy.
 __outshine__ _v_  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
-__overhaul__ _n_  
+__overhaul<sup>1</sup>__ _v_ :dart:  
+__overhaul<sup>2</sup>__ _n_  
 __overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
 __overly__  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
@@ -484,6 +496,7 @@ __plush__ _n_ _A plush booth in the bar._
 __plushy__ _adj_  
 __Pluto__ _n_  
 __ply__ _v_ :three: _Yatchs ply between the islands._ _Little shops where craftmen still ply their wares._  
+__pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
 __pod__ _n_ _Pea pod._  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __poignant__ _adj_  
@@ -612,6 +625,7 @@ __rendition__ _n_ :two::hammer:
 __renewal__ _n_  
 __repertoire__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
+__resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
 __respite__ _n_ :two::hammer:  
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
@@ -642,6 +656,7 @@ __rockery__ _n_ :four::hammer:
 __roll call__ _n_ _A unique roll call of featured designers._  
 __rollicking__  
 __rolling hills__ _n_ :three::hammer:  
+__rom-com__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
 __rooftop deck__ _n_ :two::hammer:  
 __rosette__ _n_  
@@ -872,6 +887,7 @@ __stellar__ _adj_ _Stellar events._
 __stem__ _v_  
 __sterling__ _adj_ :two::hammer: _A sterling job._  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
+__stevedore__ _n_  
 __stew<sup>1</sup>__ _n_  
 __stew<sup>2</sup>__ _v_  
 __stilt__  
