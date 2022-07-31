@@ -1,13 +1,26 @@
+__’hood__ _n slang_ Short for neighborhood.  
 __abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __akimbo__ _adj, adv_ /uh-KIM-boh/  
+__arguably__  
 __atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
+__await__ _v_ _Our staff awaits your arrival._  
+__ball game__ _n_ _Take me out to the ball game._  
+__bandeaus__ _n_  
+__bigwig__ _n informal_ A very important person. _Walls are covered with caricatures of show-biz bigwigs._  
+__bustling__ _adj_ _Both bustling and cozy hotels abound._  
 __busyness__ _n_  
+__correspondent__ _n_  
+__cufflinks__ _n_  
+__earrring__ _n_ :pencil2:  
 __emphysema__ _n_ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
+__foliaged__ _adj_  
+__front__ _v_ _Fronting a band._  
 __Goth__ _n_  
 __grandiose__ _adj_  
 __grapevine__ _n_  
 __grove__ _n_ :two::hammer:  
 __gullies__ _n_  
+__halsters__ _n_  
 __hamlet__ _n_ :three::hammer:  
 __hang-glider__ _n_  
 __hard pressed__  
@@ -21,9 +34,11 @@ __hinterland__ _n_
 __hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
 __histrionics__ _n_ Theatrical arts or performances. _Syn_ theatrical performance, representation _They had lunch, then went to the theater to enjoy an hour of histrionics._  
 __hive__ _n_ _A hive of art in the center of downtown._  
+__hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __homespun__  
 __honeymoon__ _n_  
+__hotbed__  
 __hotspot__ _n_  
 __house__ _v_  
 __iconoclast__ _n_ /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
@@ -33,6 +48,7 @@ __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch
 __incunabula__ _n pl_  
 __inebriated__ _adj_  
 __inlay__ _n_ _Wood inlay._  
+__inordinately__  
 __inroads__ _n_  
 __inscrutable__ _adj_ /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
 __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
@@ -184,6 +200,7 @@ __manatee__ _n_ _The Antillean manatee is a large marine mammal with walrus-like
 __Mancunian__ _adj, n_  
 __Mandela effect__ _n_ A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
 __maneurisms__ _n_  
+__Manhattanite__ _n_  
 __manic episode__ _n_  
 __manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
 __mano a mano__ _adj, adv, n_  
@@ -340,6 +357,7 @@ __noteworthy__
 __noticeboard__ _n_  
 __notoriously__ _adv_ :two::hammer:  
 __novella__ _n_  
+__novices__ _n_  
 __nuance__ _n_ :two::mega: /NOO-ahnss/ A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._  
 __nubbly__  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
@@ -405,6 +423,7 @@ __Pacu__ _n_ :astonished: A South American fresh-water fish.
 __paganism__ _n_  
 __pageantry__ _n_ :two::hammer:  
 __painstakingly__  
+__palate__ _n_  
 __pamper__ _v_ :two::hammer:  
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
@@ -437,11 +456,13 @@ __patty__ _n_ _Two beef patties topped with knockwurst._
 __pavers__ _n_  
 __pavilion__ _n_ :two::hammer:  
 __payload__ _n_  
+__paysleys__ _n_  
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __pedestal__ _n_  
 __pedigree__  
 __pediment__ _n_  
+__peephole__  
 __peerless__ _adj_ _Peerless scenic beauty._  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
@@ -459,6 +480,7 @@ __pergola__ _n_
 __peristyle__  
 __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._  
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
+__perusal__ _n_  
 __pervasive__  
 __pet__ _v_ _Petting the farm animals._  
 __pewter__ _n_ :two::hammer:  
@@ -497,6 +519,7 @@ __plushy__ _adj_
 __Pluto__ _n_  
 __ply__ _v_ :three: _Yatchs ply between the islands._ _Little shops where craftmen still ply their wares._  
 __pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
+__pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
 __pod__ _n_ _Pea pod._  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __poignant__ _adj_  
@@ -507,6 +530,7 @@ __pontoon__ _n_ _Pedal a pontoon boat._
 __pool table__  
 __pool__ _n_ :two::hammer: _Heated pool._  
 __pork pie__ _n_  
+__porterhouse__  
 __portico__ _n_  
 __Portuguese__ _adj, n_  
 __postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
@@ -521,6 +545,7 @@ __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _T
 __premier__ _adj_ :two::hammer: _Chicago is one of the premier dining destinations in the country._  
 __preposterous__  
 __preprandial__ _adj_ _Preprandial drinkers._  
+__prepsters__  
 __presbytery__ _n_  
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
 __prescient__ _adj_ :es: clarividente, profético  
@@ -574,6 +599,8 @@ __quail<sup>1</sup>__ _n_ :two::hammer: _Quails marinated in yoghurt._
 __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
 __quaint__ _adj_ :eight::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._  
 __quake__ _v_ _Quaking aspen._  
+__qualm__ _v_  
+__quench__ _v_  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quintessential__ _adj_ :three::hammer:  
 __quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
@@ -667,6 +694,7 @@ __rotunda__ _n_ :four::hammer:
 __round out__ _v_ _Alluring martinis round out the experience._  
 __rousing__ _adj_ :three::hammer: _A rousing crowd._  
 __rowdy__ _adj_ :two::hammer: _A rowdy guilty pleasure._  
+__ruches__ _n_  
 __rugged__ _adj_ :two::hammer:  
 __rummage__ _v_  
 __running shoes__ _n_  
@@ -735,6 +763,7 @@ __seasonal pool__ _n_ A pool that is opened for a few months during the calendar
 __seat sticks__  
 __seating__ _n_ _Plenty of garden seating._  
 __secluded__ _adj_  
+__seersuckers__ _n_  
 __seesaw__  
 __seethe__ _v_  
 __segue__ _v_ (segues)  
@@ -762,8 +791,10 @@ __short break__ _n_ A UK social services term of art for a brief respite during 
 __shortcoming__ _n_  
 __shoulder__ _v_  
 __shove__ _v_  
+__show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
 __showbiz__ _n_  
 __showdown__ _n_  
+__showdown__ _n_ :two::hammer:  
 __showplace__ _n_  
 __showroom__ _n_  
 __showrunner__ _n_ :two::hammer:  
@@ -801,6 +832,7 @@ __sleuth__ _n_ :two::hammer:
 __slice__ _n_ _A taste of a very diverse slice of East of England life._  
 __slick__ _adj_ :two::hammer: _A natural water slide eroded into slick rock._ _Slick dance arrangements._  
 __slider__ _n_ _Enjoy Asian inspired sliders, salads amd more._  
+__slithering__ _adj_  
 __sliver__ _n_  
 __slog__ _n_ _The trail is a thrilling slog up the Virgin River._  
 __sloppy__  
@@ -965,6 +997,7 @@ __takeover__ _n_
 __talented__ _adj_  
 __tamarind__  
 __tangy__ _adj_ _Tangy BBQ duck._  
+__tankinis__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
 __tantalizing__ _adj_ :two::hammer:  
 __tanzanite__  
@@ -1000,6 +1033,7 @@ __thoughout__
 __thought-provoking__ _adj_ :two: Challenging or causing someone to think, esp about things they have not thought about before.  
 __thoughtful__ _adj_  
 __three ring circus__  
+__thrift shop__ _n_ A shop which sells used goods (especially clothes) at low prices. A shop that sells secondhand articles and especially clothes and is often run for charitable purposes.  
 __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
 __thrift__ _n_ _Thrift store._  
 __thrifty__ _adj_ _Thrifty car rental._  
@@ -1133,7 +1167,7 @@ __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, di
 __vicissitudes__ _n pl_  
 __vie__ _v_  
 __Viking__ _n_ :pencil2:  
-__villa__ _n_  
+__villa__ _n_ :two::hammer:  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __vineyard__ _n_  
 __vintner__ _n_  

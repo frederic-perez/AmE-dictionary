@@ -1,7 +1,11 @@
 __an uphill task__  
+__bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
+__bound to (be or do something)__ _It’s bound to be an exciting game._  
 __easy peasy__  
+__filled to the brim__ _A city practically filled to the brim with entertainment._  
 __front and center__  
 __leave (one’s) mark__  
+__pay homage (to someone or something)__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set (something) out__  
@@ -11,8 +15,9 @@ __shed (some) light on (something)__
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
-__sing along__  
+__sing along__ :two::hammer:  
 __sleep in__  
+__smash hit__  
 __sneeze at__  
 __social hour__ :two: Time spent talking and hanging out with people.  
 __spin the beans__  
@@ -27,6 +32,7 @@ __sticky fingers__
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __stow away__  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
+__sweet tooth__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
@@ -62,6 +68,7 @@ __the spur of the moment__
 __the terrible twos__ A developmental stage of children, generally at or around the age of two, marked by increased rebelliousness and frequent tantrums. _Becca’s been having really bad temper tantrums lately and just keeps saying “no” to everything we say to her. I guess she’s going into the terrible twos._  
 __the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
 __the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
+__the usual suspects__ _Side vegetables contain all the usual suspects._  
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
@@ -107,7 +114,7 @@ __watering hole__ _Revelers can move around watering holes with impunity._
 __weather permitting__ :two::hammer:  
 __well in advance__ _Book tickets well in advance._  
 __what’s up with__  
-__while away__  
+__while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __white-knuckle__  
