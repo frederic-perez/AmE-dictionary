@@ -1,10 +1,25 @@
+__4-1-1__  
+__amp up__ (amping up)  
 __an uphill task__  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __bound to (be or do something)__ _It’s bound to be an exciting game._  
+__break the bank__  
+__call ahead__ _Travelers can also call ahead for a door to door shuttle._  
+__coming of age__  
+__crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
+__cutting edge__ _Cutting edge fashion._  
+__dance the night away__  
 __easy peasy__  
+__et alia__  
 __filled to the brim__ _A city practically filled to the brim with entertainment._  
 __front and center__  
+__get in your face__ _We might get in your face but we can also charm you out of your socks._  
+__go wrong__  
+__in no time__ :two::hammer:  
+__in-the-know__  
+__knock your socks off__  
 __leave (one’s) mark__  
+__no less than__ :dart:  
 __pay homage (to someone or something)__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
@@ -94,7 +109,7 @@ __to the fullest__
 __tongue-in-cheek__  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
-__tour de force__ :two::hammer:  
+__tour de force__ :three::hammer:  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
@@ -113,13 +128,15 @@ __water torture__
 __watering hole__ _Revelers can move around watering holes with impunity._  
 __weather permitting__ :two::hammer:  
 __well in advance__ _Book tickets well in advance._  
+__well-heeled__ Having plenty of money; prosperous.  
 __what’s up with__  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __white-knuckle__  
 __wipe the floor__  
-__with a twist__ :two::hammer:  
+__witching hour__ _The pizzeria servers until the witching hours._  
+__with a twist__ :three::hammer:  
 __within walking distance__  
 __yake your pick__  
 __young at heart__  
