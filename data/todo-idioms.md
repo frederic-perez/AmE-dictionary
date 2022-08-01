@@ -1,18 +1,3 @@
-__4-1-1__  
-__amp up__ (amping up)  
-__an uphill task__  
-__bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
-__bound to (be or do something)__ _It’s bound to be an exciting game._  
-__break the bank__  
-__call ahead__ _Travelers can also call ahead for a door to door shuttle._  
-__coming of age__  
-__crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
-__cutting edge__ _Cutting edge fashion._  
-__dance the night away__  
-__easy peasy__  
-__et alia__  
-__filled to the brim__ _A city practically filled to the brim with entertainment._  
-__front and center__  
 __get in your face__ _We might get in your face but we can also charm you out of your socks._  
 __go wrong__  
 __in no time__ :two::hammer:  

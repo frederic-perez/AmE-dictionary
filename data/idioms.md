@@ -42,7 +42,7 @@ __(the) next thing (one) knows__ All of a sudden; out of nowhere; without warnin
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
-__411__ (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
+__411__ :two: (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
 __800-pound gorilla__ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
@@ -173,9 +173,10 @@ __amirite__ A comical way of writing “am I right,” an interjection used to f
 __amount to nothing__ To result in no tangible or appreciable difference.  
 __amount to something__  
 __amount to__ :four::hammer:  
-__amped-up__ _Amped-up crowd._  
+__amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
 __an eye for an eye, a tooth for a tooth__ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
+__an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
@@ -404,12 +405,14 @@ __blue pill__
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
+__bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
 __born to the purple__ _Both were born to the purple._  
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
 __bounce back__  
+__bound to (be or do something)__ _It’s bound to be an exciting game._  
 __bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __boy oh boy__ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
@@ -419,7 +422,7 @@ __brainwave__ A sudden idea or moment of inspiration; a brainstorm.
 __brass monkeys__ Very cold weather.  
 __breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
 __break a leg__ _interj_ :three: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
-__break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
+__break the bank__ :two: To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __break the ice__ To make people who have not met before feel more relaxed with each other.  
 __break your back__ To work extremely hard.  
 __break your duck__ To do something for the first time.  
@@ -472,6 +475,7 @@ __by the same token__ :two::hammer:
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __call (all) the shots__  
+__call ahead__ _Travelers can also call ahead for a door to door shuttle._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
 __call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
 __call of nature__ The need to go to the toilet.  
@@ -584,7 +588,7 @@ __come to think of it__ _Come to think of it, I haven’t seen too many bullshit
 __come together__ :three::hammer:  
 __come-one-come-all__  
 __comfort food__ Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._  
-__coming-of-age__ :two: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
+__coming-of-age__ :three: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
@@ -615,6 +619,7 @@ __cross one’s mind__ _It never crossed my mind._
 __cross swords__ To fight or argue. _They had crossed swords many times._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
+__crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
 __crushing blow__ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __crux of the matter__ _She saw the crux of the matter in seconds._  
 __cry foul__  
@@ -636,8 +641,9 @@ __cut someone some slack__ _Cut her some slack—she’s nervous!_
 __cut the line__  
 __cut the spin__  
 __cut ties with (someone)__ :four::hammer: _I was cutting ties without even knowing._  
+__cutting edge__ _Cutting edge fashion._  
 __damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers.  
-__dance the night away__ :three: To dance the entire evening. _We danced the night away._  
+__dance the night away__ :four: To dance the entire evening. _We danced the night away._  
 __dark days__ Times of extreme misfortune or difficult.  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
@@ -738,6 +744,7 @@ __early bird__ _No early birds allowed because it just wouldn’t be fair to the
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
+__easy peasy__  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __echo chamber__  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
@@ -753,6 +760,7 @@ __endgame__ :three: The final stages of a process, development, or activity.
 __engine room__ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
+__et alia__  
 __eureka moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
 __every cloud has a silver lining__ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
@@ -811,7 +819,7 @@ __fighting the good fight__
 __figure it out__  
 __fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
 __fill up__ __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
-__filled to the brim__ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
+__filled to the brim__ :two: __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ _A city practically filled to the brim with entertainment._ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer.  
 __find (something) out the hard way__ To learn or discover something through personal experience, especially that which is difficult, painful, or unpleasant. Can also be phrased as “find out about something the hard way.”  
 __finders keepers(, losers weepers)__  
@@ -878,7 +886,7 @@ __Friendsgiving__ A Thanksgiving celebration among friends. It often takes place
 __from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from bad to worse__  
 __from rags to riches__ From being poor to being wealthy.  
-__front and center__ :three::hammer:  
+__front and center__ :four::hammer:  
 __frost the cake__  
 __fruit loop__  
 __fuck a duck__ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
