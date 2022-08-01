@@ -1,18 +1,3 @@
-__’hood__ _n slang_ Short for neighborhood.  
-__abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
-__akimbo__ _adj, adv_ /uh-KIM-boh/  
-__all-encompassing__ _adj_ _An all-encompassing experience._  
-__amusement park__  
-__arguably__  
-__atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
-__await__ _v_ _Our staff awaits your arrival._  
-__ball game__ _n_ _Take me out to the ball game._  
-__bandeaus__ _n_  
-__belvedere__ _n_ [:scroll: From Italian, beautiful view]  
-__bigwig__ _n informal_ A very important person. _Walls are covered with caricatures of show-biz bigwigs._  
-__birding__ _n_  
-__bode__ _v_  
-__brooding__ _adj_  
 __Brooklynites__ _n_  
 __bustling__ _adj_ _Both bustling and cozy hotels abound._  
 __busyness__ _n_  

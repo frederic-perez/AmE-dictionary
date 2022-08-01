@@ -13,6 +13,7 @@ __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part o
 __-wise__ _suffix_  
 __, so why (even) bother?__  
 __, to say the least.__  
+__’hood__ _n slang_ Short for neighborhood.  
 __’tis__ _contraction_ Contraction of _it is_.  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __101__ _adj_ (only after noun) Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
@@ -80,6 +81,7 @@ __abruptly__
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __abscission__ _n_ The act of cutting off. _ Syn_ cutting off _He had surgery for the abscission of a malignancy._  
 __abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
+__abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
@@ -321,6 +323,7 @@ __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; 
 __airy__ _adj_ _The master bedroom is airy._  
 __aisle__ _n_ :mega: /īl/  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
+__akimbo__ _adj, adv_ /uh-KIM-boh/  
 __akin__ _adj_ :seven::mega: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc. Similar in quality or character. _Syn_ kindred _The students watched the principal approaching with a feeling akin to terror._  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__ _adj, adv_ :two::hammer:  
@@ -352,6 +355,7 @@ __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __
 __all of a sudden__ _adv_ Without warning.  
 __all righty__  
 __all that said,__  
+__all-encompassing__ _adj_ _An all-encompassing experience._  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-knowing__ _adj_ _Not even the all-knowing Google has a definitive answer to my question._  
 __all-nighters__ _n_  
@@ -459,7 +463,7 @@ __ample__ _adj_ :nine: __1__ Enough or more than enough. _Ample evidence._ _Ther
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
-__amusement park__ _n_ :two::hammer:  
+__amusement park__ _n_ :three::hammer:  
 __anachronism__  
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
@@ -679,7 +683,7 @@ __arena__ _n_ _In the professional and personal arenas._
 __Argentine__ _n_ _The pope is an Argentine._  
 __argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
-__arguably__ _adv_ :three::hammer:  
+__arguably__ _adv_ :four::hammer:  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :two::mega::hammer:  
@@ -810,6 +814,7 @@ __atolls__ _n_
 __atone__ _v_ :three::hammer: (atoned)  
 __atonement__ _n_  
 __atop__  
+__atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
 __atraumatic__ _adj_ Without injury.  
 __atrium__ _n_ :two::hammer:  
 __atrocious__  
@@ -892,6 +897,7 @@ __avoidance__ _n_
 __avow__ _v_ :two::hammer: (avowed)  
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
+__await__ _v_ _Our staff awaits your arrival._  
 __awakening__ _n_  
 __awash__ _adj, adv_ :nine::m: /əˈwɒʃ, əˈwɔʃ/ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
@@ -1006,6 +1012,7 @@ __balked__ _v_
 __ball bearings__  
 __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
+__ball game__ _n_ _Take me out to the ball game._  
 __ball player__  
 __balladeer__  
 __ballast__ _n_ :two::hammer:  
@@ -1030,6 +1037,7 @@ __bamboozle__ _v_ :five: /bam-BOO-zul/ To deceive, trick, or confuse. To take in
 __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
+__bandeaus__ _n_  
 __bandit__ _n_ :two::hammer:  
 __banditry__ _n_ :two: The activities of bandits.  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
@@ -1269,7 +1277,7 @@ __belt__ _n_ A swallow or a gulp of an alcoholic drink.
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __beltway__ _n_ :dart:  
-__belvedere__ _n_ :four::hammer: _Towers with belvederes and balconies._  
+__belvedere__ _n_ :five::hammer: [:scroll: From Italian, beautiful view] _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
@@ -1373,6 +1381,7 @@ __biggie__ _n_ _slang_ :four::hammer: _Pearl Harbor was a biggie._
 __bigness__ _n_ __1__ The characteristic of being big. __2__ Size.  
 __bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
+__bigwig__ _n informal_ A very important person. _Walls are covered with caricatures of show-biz bigwigs._  
 __bijou__ _n_ __1__ A small dainty usually ornamental piece of delicate workmanship. A small, exquisitely wrought trinket. __2__ Something delicate, elegant, or highly prized.  
 __bike__ _v intr_ To ride a bike.  
 __bikeshed<sup>1</sup>__ _n_  
@@ -1409,6 +1418,7 @@ __bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I’m going to 
 __bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.  
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birdie__ _n_  
+__birding__ _n_  
 __birds of the same feather__  
 __birdseed__ _n_ Seeds that you give to birds as food.  
 __Birkenstock__ _n_  
@@ -1915,7 +1925,7 @@ __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._
 __brood<sup>2</sup>__ _v_ :three::hammer: (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
-__brooding<sup>1</sup>__ _adj, n_ :eight: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
+__brooding<sup>1</sup>__ _adj, n_ :nine: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broom shrubs__ _n_  
