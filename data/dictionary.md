@@ -1928,6 +1928,7 @@ __brooder house__
 __brooding<sup>1</sup>__ _adj, n_ :nine: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
+__Brooklynites__ _n_  
 __broom shrubs__ _n_  
 __broomstick__ _n_  
 __broth__  
@@ -2125,9 +2126,10 @@ __busticate__ _v_ _informal US_ To break.
 __bustiers__ _n_  
 __bustle<sup>1</sup>__ _v_  
 __bustle<sup>2</sup>__ _n_ :three::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
-__bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
+__bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
+__busyness__ _n_  
 __but then again__ _adv_ Alternative form of _then again_.  
 __butcher paper__  
 __butcher__ _n_ _Lindsay makes championship haggis at her family butchers._  
@@ -3124,7 +3126,7 @@ __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
 __comfit__ _n_  
-__comfort food__  
+__comfort food__ _n_ :two::hammer:  
 __comfort__ _n_ :pencil2:  
 __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
 __comforter sets__  
@@ -3318,6 +3320,7 @@ __consoled__ _v_
 __consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :seven: /kuhn-spik-yoo-uhs/ (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
+__constable__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __constituency__ _n_ :seven::hammer: /kənˈstɪtʃ u ən si/ (constituencies)  
 __constituent__ _n_ :six::hammer: (constituents)  
 __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
@@ -3365,7 +3368,7 @@ __contretemps__ _n_ :two: An unforeseen event that disrupts the normal course of
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :six: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
-__contrive__ _v_ :two::hammer: (contriving)  
+__contrive__ _v_ :three::hammer: (contriving)  
 __contrived__ _adj_ :three: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
@@ -3467,7 +3470,7 @@ __corpus__ _n_ _A big corpus of examples._
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
 __corrective__ _adj_ _Preventive and corrective maintenance._  
-__correspondent__ _adj, n_  
+__correspondent__ _adj, n_ :two::hammer:  
 __corridor__ _n_ :three::hammer: :es: puente aéreo  
 __corrosion__  
 __corrugate__ _v_  
@@ -3526,6 +3529,7 @@ __coupon__ _n_
 __course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
+__courteous__ _adj_ _Remember it is courtesous to tip your driver for their service._  
 __courtyard__ _n_ :three::hammer: :es: patio  
 __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
@@ -3755,7 +3759,7 @@ __cues__ _n_
 __cuff links__  
 __cuffed__ _v_  
 __cuffing season__ _n_ A period during the fall and winter seasons, including holidays from Thanksgiving to Valentine’s Day, when people are more inclined to pair up in committed romantic relationships: _I’m sitting out cuffing season this year—I was miserable tied down like that last winter._  
-__cufflinks__  
+__cufflinks__ _n_ :two::hammer:  
 __cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :five::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
@@ -4120,6 +4124,7 @@ __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by 
 __dentifrice__ _n_  
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __deontology__ _n_  
+__depart__ _v_ _Buses depart every 30 minutes._  
 __departed__  
 __dependable__ _adj_ :three::hammer: _Applicants are required to have a dependable vehicle._  
 __deplete__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
@@ -4341,6 +4346,7 @@ __discompose__ _v_
 __disconsolate__ _adj_  
 __discontinuation__ _n_ _Assessing the safety of oral anticoagulation discontinuation._  
 __discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
+__discount store__  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
 __discouraging__  
@@ -4551,6 +4557,7 @@ __doodle__ _v_ _Good thinking can happen while doodling about it on a paper tabl
 __doofer__ _n informal_  
 __dookie-wookie__  
 __doomscrolling__ _n_ (doom-scrolling) The practice of obsessively checking online news for updates, especially on social media feeds, with the expectation that the news will be bad, such that the feeling of dread from this negative expectation fuels a compulsion to continue looking for updates in a self-perpetuating cycle.  
+__door to door__ _adj, adv_ :two::hammer:  
 __door-to-door dash__  
 __doorbuster__ _n_ :four: (door-buster) A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
@@ -4629,7 +4636,7 @@ __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.
 __downline__ _n_  
 __downplay__ _v tr_ :seven::hammer: (downplayed)  
 __downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
-__downright__ _adv_ :dart::six::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
+__downright__ _adv_ :dart::seven::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
 __downsize__ _v_  
 __downslope__ _n_  

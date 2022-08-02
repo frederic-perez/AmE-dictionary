@@ -1,18 +1,3 @@
-__Brooklynites__ _n_  
-__bustling__ _adj_ _Both bustling and cozy hotels abound._  
-__busyness__ _n_  
-__chockfull__  
-__comfort food__ _n_  
-__constable__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
-__contrive__ _v_  
-__correspondent__ _n_  
-__courteous__ _adj_ _Remember it is courtesous to tip your driver for their service._  
-__cufflinks__ _n_  
-__dazzling__ _adj_  
-__depart__ _v_ _Buses depart every 30 minutes._  
-__discount store__  
-__door to door__ _adj, adv_ :two::hammer:  
-__downright__  
 __earrring__ _n_ :pencil2:  
 __emphysema__ _n_ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __encompassing__ _v_  
