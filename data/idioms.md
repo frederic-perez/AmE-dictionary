@@ -548,6 +548,7 @@ __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing
 __chip away__ :dart: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip in__  
 __chip on (someone) shoulders__ :nine::m::dart: (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
+__chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
 __churn something up__  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
@@ -922,6 +923,7 @@ __get around__
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get going__  
 __get in the last word__ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
+__get in your face__ _We might get in your face but we can also charm you out of your socks._  
 __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get in(to) hot water__ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
 __get off__ _I always get off the bus a stop early on the way to work._  
@@ -1028,6 +1030,7 @@ __go to the mattresses__ To enter into or prepare for a lengthy war, battle, or 
 __go to wrack and ruin__ _cliché_ To fall into severe or total decay, degradation, or ruination, as from disuse or lack of upkeep. (“Wrack,” a now-archaic word meaning wreckage or destruction, is also often spelled “rack.”) _It greatly pains me that my grandfather’s estate has been left to go to wrack and ruin. If only we’d been able to afford for someone to look after it all these years._  
 __go under the hammer__ :two: To be put up for or sold at auction.  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
+__go wrong__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
 __God is in the detail(s)__ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
@@ -1380,7 +1383,7 @@ __in layman’s terms__ In words that can be understood by people outside of a g
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
 __in lieu of (something)__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __in no circumstances__ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
-__in no time (at all)__ In a very little amount of time. _That test was so easy, I was done in no time._  
+__in no time (at all)__ :three: In a very little amount of time. _That test was so easy, I was done in no time._  
 __in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ All at once, with a single decisive or powerful action.  
@@ -1434,6 +1437,7 @@ __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in 
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in your birthday suit__ Naked.  
 __in your face__  
+__in-the-know__  
 __in(to) shape__ In good, robust health; strong or fit.  
 __incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
 __inner circle__ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
@@ -1538,7 +1542,7 @@ __knock (one’s) head against a/the wall__ To attempt continuously and fruitles
 __knock (someone) over with a feather__ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
 __knock it off__ To stop doing whatever one is doing. Often used as an imperative. _Knock it off, you two! I don’t want to see any more fighting._  
 __knock on wood__  
-__knock the socks off (someone or something)__  
+__knock the socks off (someone or something)__ :two::hammer:  
 __knocked out of the park__  
 __knocked up__ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ :dart: To be dying, to be close to death.  
@@ -1594,6 +1598,7 @@ __leap to (someone’s) mind__ To suddenly or immediately materialize in someone
 __leaps and bounds__ :dart: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._  
 __learn the ropes__ :two::hammer:  
 __leather-lunged__ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
+__leave (one’s) mark__  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
@@ -1854,6 +1859,7 @@ __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfish
 __no hard feelings__ :two::hammer:  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no kidding__  
+__no less than__ :dart:  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
@@ -2050,7 +2056,7 @@ __pat (one) on the back__ To praise one. _The only reason he stays late at work 
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
 __pay (one’s) last respects__ To show or express one’s respect for someone who has died, especially by attending their funeral, wake, memorial service, etc. _Anyone who wishes to pay their last respects to my husband is welcome to do so at the viewing this Saturday, from 10 AM to 4 PM._  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
-__pay homage (to someone or something)__  
+__pay homage (to someone or something)__ :two::hammer:  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
@@ -2275,20 +2281,24 @@ __sell out__ :two::hammer:
 __sell someone a pup__ To swindle someone by selling them something worthless.  
 __send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
 __send off__  
+__set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone or something) off__  
+__set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set (something) in cement__ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
+__set (something) out__  
 __set about (doing something)__ To undertake a task; to begin doing something. _After the meeting, I’ll set about writing a draft of the report._  
 __set down<sup>1</sup>__ To seat, to cause to sit.  
 __set in stone__ No longer changeable. _The agreement is not yet set in stone._ _Our mindset is never set in stone, but constantly in flux._  
+__set the pace__  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__  
-__seventh heaven__ :astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
+__seventh heaven__ :two::astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
 __shake a leg__ :two::hammer:  
 __shake off__ Free oneself or get rid of something or someone, as in _I’ve had a hard time shaking off this cold_, or _She forged ahead, shaking off all the other runners._  
 __shaken up__ Greatly startled, shocked, or upset. _I was very shaken up after the car accident. I couldn’t even speak properly to the police for about an hour._  
 __shame on (one)__ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
 __shank’s nag__ :dart: One’s legs and feet, used for walking; travel by foot. Also “shanks’ nag.” A reference to the shank—the lower leg between the knee and the ankle—and the use of ponies or horses for travel. _My bicycle fell apart three miles away from home, so I had to use shank’s nag to go the rest of the way._  
-__shed (some) light on (something)__  
+__shed (some) light on (something)__ :two::hammer:  
 __shed a tear__ To cry or weep, especially from grief; to grieve or mourn in general. _Everyone in the room was shedding tears by the end of the ceremony._  
 __shine (one) on__  
 __shine (someone) on__ _Don’t shine me on._  

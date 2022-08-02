@@ -1,17 +1,3 @@
-__get in your face__ _We might get in your face but we can also charm you out of your socks._  
-__go wrong__  
-__in no time__ :two::hammer:  
-__in-the-know__  
-__knock your socks off__  
-__leave (one’s) mark__  
-__no less than__ :dart:  
-__pay homage (to someone or something)__  
-__set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
-__set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
-__set (something) out__  
-__set the pace__  
-__seventh heaven__  
-__shed (some) light on (something)__  
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
