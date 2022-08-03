@@ -105,9 +105,13 @@ __while away__ :two::hammer: _Nothing welcomes the summer season better than whi
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __white-knuckle__  
+__whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
+__wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
+__window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wipe the floor__  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with a twist__ :three::hammer:  
+__with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __within walking distance__  
 __yake your pick__  
 __young at heart__  

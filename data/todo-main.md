@@ -1,3 +1,7 @@
+__ jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
+__brouhaha__ _n_ /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
+__cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
+__discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
 __earrring__ _n_ :pencil2:  
 __emphysema__ _n_ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __encompassing__ _v_  
@@ -47,6 +51,7 @@ __impervious__ _adj_
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
 __incunabula__ _n pl_  
 __inebriated__ _adj_  
+__ineffable__ _adj_ /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __inlay__ _n_ _Wood inlay._  
 __inordinately__  
 __inroads__ _n_  
@@ -304,6 +309,7 @@ __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They w
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __munch__ _v_  
+__mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
 __munitions__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
@@ -611,6 +617,7 @@ __quake__ _v_ _Quaking aspen._
 __qualm__ _v_  
 __quench__ _v_  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
+__quiddity__ _n_ /ˈkwɪdɪtɪ/  
 __quintessential__ _adj_ :three::hammer:  
 __quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
 __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
@@ -651,6 +658,7 @@ __refreshment__ _n_
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __refurbish__ _v_ :two::hammer: (refurbished)  
 __refurbishment__  
+__refuse__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regatta__ _n_ :two::hammer:  
 __regiment__ _n_ _Several regiments of soldiers._  
 __reindeer__ _n pl_ :two::hammer:  
@@ -1134,6 +1142,7 @@ __tuff rock__
 __tuition__ _n_  
 __tune-up__ _n_ _Overnight tune-ups and repairs._  
 __turmeric__ _n_ :two::hammer:  
+__turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
 __turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
 __turntable__ _n_  
 __turntables__ _n_  
@@ -1188,6 +1197,7 @@ __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the 
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
+__vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicissitudes__ _n pl_  
 __vie__ _v_  
 __Viking__ _n_ :pencil2:  
