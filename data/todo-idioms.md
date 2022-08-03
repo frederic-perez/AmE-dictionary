@@ -1,3 +1,4 @@
+__keep cool__  
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
@@ -21,6 +22,7 @@ __stuffed to the gills__ Completely full; teeming; having no room to spare. _I�
 __sweet tooth__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
+__take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
 __take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  

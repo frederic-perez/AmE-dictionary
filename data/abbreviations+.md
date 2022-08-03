@@ -166,6 +166,7 @@ __RV__ :two: Recreational vehicle.
 __s/s__ Stainless steel. _s/s appliances._  
 __s&h__ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
 __S&L__ _An S&L swinger._  
+__SARS__ /sɑːz/ Severe acute respiratory syndrome; a severe viral infection of the lungs characterized by high fever, a dry cough, and breathing difficulties. It is contagious, having an airborne mode of transmission.  
 __SAT__ _trademark_ :three: (in the US) A test of a student’s verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __SEAL__ _n_ (Military) Sea, Air, Land. _(US Navy military special forces team member)_ A member of the Sea Air and Land Teams, an elite special operations unit of the United States Navy. _It is something U.S. Navy SEALs do._  
 __Sen.__ (pl. Sens.) _Sen. Bernie Sanders._  

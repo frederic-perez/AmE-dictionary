@@ -1,4 +1,4 @@
-__ jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
+__blueprint__ _n_  
 __brouhaha__ _n_ /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
 __cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
 __discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
@@ -26,6 +26,7 @@ __gum ball machine__ _n_ :camera:
 __halsters__ _n_  
 __hamlet__ _n_ :three::hammer:  
 __hang-glider__ _n_  
+__hangover__ _n_ _A new pill touted as the end of hangovers sold out less than 24 hours after it was released_ :es: resaca  
 __hard pressed__  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __heap__ _v_ (heaped)  
@@ -78,6 +79,7 @@ __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.
 __jambalaya__ _n_  
 __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
 __jarring__ _adj_  
+__jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
 __jaunt__ _n_ :three::hammer:  
 __javelin__ _n_ :mega:  
 __jazzed__  
@@ -631,6 +633,7 @@ __rambler__ _n_
 __rampant__ _adj_  
 __rampart__ _n_ :two::hammer:  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
+__rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
 __rapture__ _v_  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
@@ -768,6 +771,9 @@ __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. 
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __scone__ _n_ :four::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
+__scrap<sup>1</sup>__ _n_  
+__scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
+__scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :two: Extremely pleasing, esp. to the taste; delectable.  
@@ -1153,6 +1159,7 @@ __twist__ _n_ :three::hammer: _An innovative twist._
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
 __uber__ _adj_ :two::hammer:  
+__ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umpteen__ _adj, n_  
 __unabashed__ _adj_ :three::hammer: _Unabashed humor._  
@@ -1173,6 +1180,7 @@ __unparalleled__ _adj_ :two::hammer:
 __unpretentious__  
 __unsavory__ _adj_ /ʌnˈseɪ və ri/  
 __unscathed__ _adj_  
+__unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
 __unwind__ _v_ :four: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__  
@@ -1196,6 +1204,8 @@ __venison__ _n_
 __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
+__verruciform__ _adj_ In the shape of a wart.  
+__verrucose__ _adj_ (verrucous) Covered with warts or wartlike projections.  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicissitudes__ _n pl_  
