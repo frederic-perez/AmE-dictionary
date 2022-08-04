@@ -1,18 +1,3 @@
-__afield__ _adv_ _A little farther afield._  
-__blueprint__ _n_  
-__brewpub__ _n_  
-__brouhaha__ _n_ /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
-__bum__ _v_ _It may be easier to rent a car or bum a ride._  
-__cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
-__cityscape__ _n_  
-__dead-end__ _v intr_ _I-84 dead-ends at Portland._  
-__deck__ _n_ __2c__ The roadway of a bridge or an elevated freeway.  
-__discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
-__dislike__ _v_  
-__drawbridge__ _n_  
-__earrring__ _n_ :pencil2:  
-__emphysema__ _n_ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
-__encompassing__ _v_  
 __endure__ _v_  
 __enoteca__ _n_  
 __eschew__ _v_  

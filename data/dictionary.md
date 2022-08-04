@@ -239,7 +239,7 @@ __affordable__ _adj_ :two::pencil2::hammer:
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :three: A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
-__afield__  
+__afield__ _adv_ :two::hammer: _A little farther afield._  
 __afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
@@ -1576,7 +1576,7 @@ __blue-ribbon__ _adj_ _Blue-ribbon fisheries._
 __bluebell__ _n_  
 __bluegill__  
 __bluegrass__  
-__blueprint__ _n_ :seven::hammer: (blueprints)  
+__blueprint__ _n_ :eight::hammer: (blueprints)  
 __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
@@ -1860,6 +1860,7 @@ __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confid
 __brethren__ _n_ :three::hammer: _Political brethren._  
 __breviary__ _n_ A book containing the hymns, offices, and prayers for the canonical hours.  
 __brew__ _n_ :two: __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_ _They stop in after work for one or more brews._  
+__brewpub__ _n_  
 __briar__ _n_ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
@@ -1934,7 +1935,7 @@ __broomstick__ _n_
 __broth__  
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __Brothers Grimm__ _n_  
-__brouhaha__ _n_ :three::hammer:  
+__brouhaha__ _n_ :four: /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
 __browbeaten__ _adj_  
@@ -2031,7 +2032,7 @@ __bully__
 __bulrush__ _n_ A tall strong water plant. :es: junco  
 __bulwark__ _n_ :nine::m: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
-__bum<sup>2</sup>__ _v_ :two::hammer:  
+__bum<sup>2</sup>__ _v_ :three::hammer: _It may be easier to rent a car or bum a ride._  
 __bum<sup>3</sup>>__ _n_ :four: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ _informal_ A single-minded enthusiast of a specific sport: _a ski bum._ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
@@ -2562,6 +2563,7 @@ __cesarean<sup>1</sup>__ _adj_
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
+__cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
 __cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
 __chads__ _n_  
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
@@ -2844,6 +2846,7 @@ __cistern__ _n_ :three::hammer: _More than a hundred households depend on cister
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __citizenry__  
 __City__ _n_ :two: Short for City of London.  
+__cityscape__ _n_  
 __civil__ _adj_ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
 __clad__ _v_ _A scantily clad spider._  
@@ -3937,6 +3940,7 @@ __dead bolt__ _n_
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead__ _adj_ _Dead batteries._  
+__dead-end__ _v intr_ _I-84 dead-ends at Portland._  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadlock__ _n_ /ˈdɛdˌlɒk/  
@@ -3987,7 +3991,7 @@ __decidious__ _adj_
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
-__deck<sup>1</sup>__ _n informal_ :three: The ground or floor. _An enticing outdoor deck._ _An elevated deck with with mountain views._  
+__deck<sup>1</sup>__ _n informal_ :four: The ground or floor. _An enticing outdoor deck._ _An elevated deck with with mountain views._ __2c__ The roadway of a bridge or an elevated freeway.  
 __deck<sup>2</sup>__ _v_ :four::hammer: :es: adornar, engalanar _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
@@ -4334,6 +4338,7 @@ __disbelief__ _n_
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
 __discerning__ _adj_ :dart: _Downtown Boulder has everything a discerning diner could ask for and more._  
+__discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  
@@ -4396,6 +4401,7 @@ __disinterest__ _n_ :three::pencil2::hammer:
 __disinterested__ _adj_  
 __disjune<sup>1</sup>__ _n_ Breakfast.  
 __disjune<sup>2</sup>__ _v_ To breakfast.  
+__dislike__ _v_  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
 __disloyal__  
@@ -4683,7 +4689,7 @@ __draw close__ _v_ Move towards. _He was drawing close to a decision._
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I’ll draw some blood to be sure._ _We win, lose and draw together._  
-__drawbridge__  
+__drawbridge__ _n_ :two::hammer:  
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
 __drawl<sup>2</sup>__ _n_ :four::hammer: _A Southern drawl._ _He was from Texas and spoke with a slight drawl._  
@@ -4885,7 +4891,7 @@ __earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, u
 __earmuffs__ _n_ :two::hammer:  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
-__earring__ _n_ :two::pencil2: An ornament worn on or suspended from the ear, especially the earlobe.  
+__earring__ _n_ :three::pencil2: An ornament worn on or suspended from the ear, especially the earlobe.  
 __earth-shattering__  
 __earthing__ _n_ Fastening electrical equipment to earth.  
 __Earthling__ _n_  
@@ -5071,7 +5077,7 @@ __emote__ _v_
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
 __emphasize__ _v_ :four::pencil2::hammer:  
-__emphysema__ _n_ :two::hammer::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/  
+__emphysema__ _n_ :three::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __Empire State__ _n_ The U.S. State of New York.  
 __empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
 __emporium__ _n_ :three::astonished: A large retail store, especially one selling a great variety of articles.  
@@ -5093,6 +5099,7 @@ __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative di
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
 __encompass__ _v_ :seven::hammer: (encompasses) _Very large-scale computing encompasses a varied range of systems._  
+__encompassing__ _v_  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
