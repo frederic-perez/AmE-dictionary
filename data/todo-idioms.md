@@ -1,4 +1,8 @@
+__chime in__  
+__I kid you not__  
+__it goes without saying__  
 __keep cool__  
+__make or break__  
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
@@ -60,7 +64,7 @@ __the usual suspects__ _Side vegetables contain all the usual suspects._
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
-__then again__ :two::hammer:  
+__then again__ :three::hammer: _Then again, you might not remember it._  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
@@ -98,7 +102,7 @@ __wallflower__ Someone who remains on the outer edges of a social event, especia
 __wash something down__ _Wash it down with a glass of milk._  
 __water down__  
 __water torture__  
-__watering hole__ _Revelers can move around watering holes with impunity._  
+__watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
 __weather permitting__ :two::hammer:  
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
@@ -115,5 +119,6 @@ __witching hour__ _The pizzeria servers until the witching hours._
 __with a twist__ :three::hammer:  
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __within walking distance__  
+__word of mouth__  
 __yake your pick__  
 __young at heart__  

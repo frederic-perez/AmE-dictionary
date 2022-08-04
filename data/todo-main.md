@@ -1,7 +1,15 @@
+__afield__ _adv_ _A little farther afield._  
 __blueprint__ _n_  
+__brewpub__ _n_  
 __brouhaha__ _n_ /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
+__bum__ _v_ _It may be easier to rent a car or bum a ride._  
 __cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
+__cityscape__ _n_  
+__dead-end__ _v intr_ _I-84 dead-ends at Portland._  
+__deck__ _n_ __2c__ The roadway of a bridge or an elevated freeway.  
 __discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
+__dislike__ _v_  
+__drawbridge__ _n_  
 __earrring__ _n_ :pencil2:  
 __emphysema__ _n_ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __encompassing__ _v_  
@@ -18,8 +26,9 @@ __gazillion__ _n_
 __Goth__ _n_  
 __grandiose__ _adj_  
 __grapevine__ _n_  
+__grating__ _n_ _The bridge is not paved but rather is an open grating._  
 __grove__ _n_ :two::hammer:  
-__grub__ _n_  
+__grub__ _n_ :two::hammer: _Decent pub grub._  
 __Guggenheim__ _n_ [:scroll: The surname is German, said to mean literally “swamp hamlet” or “cuckoo hamlet.”]  
 __gullies__ _n_  
 __gum ball machine__ _n_ :camera:  
@@ -31,6 +40,7 @@ __hard pressed__
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __heap__ _v_ (heaped)  
 __heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp through disappointment in love.  
+__Hefe Weizen__ _n_ :three: Wheat beer.  
 __heifer__ _n_  
 __heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
 __hemicycle__ _n_  
@@ -104,6 +114,7 @@ __keiretsu__ _n_
 __keno__ _n_ A game of chance, similar to lotto, that uses balls rather than counters.  
 __ketamine__ _n_ (Special K)  
 __kiddo__ _n_ _Bring the kiddos._  
+__kiln__ _n_  
 __kiosk__ _n_ _Information kiosks._  
 __kipper__ _n_  
 __kitchen garden__  
@@ -142,6 +153,7 @@ __lemongrass__ _n_ :two::hammer:
 __letterman__ _n_  
 __libation__ _n_ :six::hammer:  
 __licentious__ _adj_  
+__light rail__ _n_  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :three::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
@@ -353,6 +365,7 @@ __nightcap__ _n_ _A romantic nightcap._
 __nightcaps__  
 __nimrod__ _n_  
 __nitty-gritty__ _n_ :two::hammer:  
+__nix__ _v_  
 __no-frills__ _adj_ _informal_  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
@@ -360,10 +373,9 @@ __nomadic__
 __Nordic jumps__ _n_  
 __nori__ _n_ _Nori crusted tuna._  
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
-__nosh__ _n_  
-__nosh<sup>1</sup>__ _n_  
-__nosh<sup>2</sup>__ _v tr_ :two::hammer:  
-__noshing__ _v_  
+__nosh<sup>1</sup>__ _v intr_ _informal_ :three: To snack or eat between meals. _Late-night noshing._  
+__nosh<sup>2</sup>__ _v tr_ to snack on: _to nosh potato chips._  
+__nosh<sup>3</sup>__ _n_ A snack.  
 __nosy__  
 __not-for-profit__ _adj_  
 __noteworthy__  
@@ -392,6 +404,7 @@ __off-color__ _adj_ _An off-color remark._
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
+__oft__ _adv_  
 __ollie__ _n_  
 __omelet__ _n_ :mega: (omelette)  
 __omnibus__ _n_  
@@ -669,7 +682,7 @@ __rejoice__ _v_
 __rejuvenated__ _adj_  
 __relatable__ _adj_  
 __remarkably__  
-__remembrance__ _n_  
+__remembrance__ _n_ :two::hammer:  
 __remiss__ _adj_  
 __remix__ _n, v_ :mega:  
 __rendition__ _n_ :two::hammer:  
@@ -710,6 +723,7 @@ __rolling hills__ _n_ :four::hammer:
 __rom-com__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
 __rooftop deck__ _n_ :two::hammer:  
+__Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rosette__ _n_  
 __rosewood__  
 __rosy__  
@@ -790,6 +804,7 @@ __searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; hig
 __seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
 __seat sticks__  
 __seating__ _n_ _Plenty of garden seating._  
+__seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __seersuckers__ _n_  
 __seesaw__  
@@ -1011,6 +1026,7 @@ __surefire__ _n_ _A surefire way to see the secrets of the Park._
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
 __sustenance__ _n_  
+__swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
@@ -1082,6 +1098,7 @@ __throughout__
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
 __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
+__thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
@@ -1111,6 +1128,7 @@ __topiary__ _adj, n_ :three::hammer: _Topiary garden._
 __toppings__ _n_  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __tote bag__ _n_  
+__tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
 __towpath__  
 __traboule__ _n_  
@@ -1169,6 +1187,7 @@ __undeniably__ _adv_ _An undeniably true Chicago snack._
 __underbelly__ _n_ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __underdog__  
+__underemployed__  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
@@ -1257,6 +1276,7 @@ __whodunnit__ _n informal_
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
 __wide-eyed__ _adj_ _Wide-eyed ingenue._  
+__widen__ _v_ _Widening the sidewalks._  
 __wildflowers__ _n_ :two::hammer:  
 __wildfowl__  
 __wily__  
@@ -1288,6 +1308,7 @@ __yeast__ _n_
 __yesteryear__ _n_ :two::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __yogurt__ _n_ (yoghourt)  
+__yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
 __zero in__  
