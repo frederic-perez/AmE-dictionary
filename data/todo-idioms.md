@@ -1,8 +1,15 @@
+__bang for one’s buck__ _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
+__be on vacation__ _During January and February the trolleys are on vacation._  
+__before you know it__  
+__buckle up__ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._  
 __chime in__  
 __I kid you not__  
+__in spades__ _Cultural savvy. Portland’s got it in spades._  
 __it goes without saying__  
 __keep cool__  
+__Lady Luck__  
 __make or break__  
+__oh my!__  
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
@@ -13,6 +20,7 @@ __sneeze at__
 __social hour__ :two: Time spent talking and hanging out with people.  
 __spin the beans__  
 __spot-on__  
+__square off__ _These top-ranked players will square off against fierce competitors._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -40,7 +48,7 @@ __take pride in someone or something__ :three::hammer:
 __take the edge off__  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
-__tall tale__ :two::hammer:  
+__tall tale__ :three::hammer:  
 __tap into__ :two::hammer: _Tap into the dark side of the Force._  
 __teem with (someone or something)__ To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
@@ -52,6 +60,7 @@ __that’s my girl__ An expression used to express praise or pride for a female 
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
+__the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
@@ -78,7 +87,7 @@ __til you drop__
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
-__to name (but) a few__  
+__to name (but) a few__ :two::hammer:  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to the core__ _Charming to the core._  
@@ -106,6 +115,7 @@ __watering hole__ :two::hammer: _Revelers can move around watering holes with im
 __weather permitting__ :two::hammer:  
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
+__west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
 __what’s up with__  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
@@ -117,6 +127,7 @@ __window-shopping__ The act of visiting stores, or looking in their windows, to 
 __wipe the floor__  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with a twist__ :three::hammer:  
+__with a view__ _Chateau with a view._  
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __within walking distance__  
 __word of mouth__  
