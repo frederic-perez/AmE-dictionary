@@ -1,18 +1,3 @@
-__abound__ _v intr_ _By foot, by rail, by trail: options abound._  
-__angler__ _n_  
-__arboretum__ _n_  
-__arboriculture__ _n_  
-__baby trailer__ _n_  
-__bid__ _n_  
-__blowout__ _n_ __3a__ A large party or other social affair. _Music blowout._  
-__dogwoods__ _n_  
-__dot__ _v_ _Statues and fountains dot every turn._  
-__drawbridge__ _n_  
-__encompass__ _v_  
-__endure__ _v_  
-__enoteca__ _n_  
-__eschew__ _v_  
-__exude__ _v_  
 __facade__ _n_  
 __fallout__ _n_  
 __fir tree__ _n_ :es: abeto  

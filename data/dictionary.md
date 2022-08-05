@@ -66,7 +66,7 @@ __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrabl
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :pencil2: (Aborigine)  
-__abound__ _v_ :five::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._  
+__abound__ _v intr_ :six::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._ _By foot, by rail, by trail: options abound._  
 __about-face__  
 __aboveboard<sup>1</<up>__ _adj_ :two: Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
 __aboveboard<sup>2</<up>__ _adv_  
@@ -499,7 +499,7 @@ __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.
 __angle iron__  
 __angle__ _v_  
 __angler fish__ _n_ :camera:  
-__angler__ _n_ :five::hammer: (anglers)  
+__angler__ _n_ :six::hammer: (anglers)  
 __angling__ _v_ :four::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ _adj_ :two::hammer:  
@@ -655,7 +655,8 @@ __Arapahoe__
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__ _n_ :six::hammer:  
+__arboretum__ _n_ :seven::hammer:  
+__arboriculture__ _n_  
 __arcade game__  
 __arcade__ _n_ _Catering capabilities, 2 bars, billards and an arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
@@ -924,6 +925,7 @@ __baby blue__ _n_ :camera:
 __baby bump__ _n_ :astonished: The enlarged abdomen of a pregnant woman. _Dressing your baby bump._  
 __baby formula__ _n_ (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
 __baby shower__ _n_ :two::hammer:  
+__baby trailer__ _n_  
 __baby__ _v tr_ __1__ To treat with love and attention. __2__ To treat (someone) like a baby; pamper or overprotect.  
 __Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia from about 586 to about 538 bc. __2__ (Historical Terms) The exile of the seven popes in Avignon (1309–77).  
 __Babylonian exile__ _n_ Babylonian captivity.  
@@ -1355,7 +1357,7 @@ __bickering__ _n_ A quarrel about petty points. _Everyday bickering._
 __bicyclist__  
 __bid farewell__  
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn’t bid him farewell._  
-__bid<sup>2</sup>__ _n_ :six::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
+__bid<sup>2</sup>__ _n_ :seven::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
 __bidding war__  
 __bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collector was held behind closed doors in the Chatelet._  
 __bide__ _v_  
@@ -1559,7 +1561,7 @@ __blowflies__ _n_
 __blowgun__ _n_  
 __blowhard__ _n_ :two: A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  
 __blown call__  
-__blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowout__ _n informal_ :eight: __3a__ A large party or other social affair. _Music blowout._ __b__ A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
 __blowtorch__ _n_ :two::hammer:  
 __blowup bed__ _n_  
@@ -4533,6 +4535,7 @@ __dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._
 __dognap__ _v_ To steal (a dog), esp. for the purpose of selling it for profit.  
 __dogsled__  
 __dogtrot__ _n_  
+__dogwoods__ _n_  
 __doilies__  
 __doings__ _n_  
 __dojo__ _n_  
@@ -4586,7 +4589,7 @@ __dormer__ _n_ :camera:
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
-__dot__ _v_ :three: (dotted) Mark with a dot. _Wooden stools dot the floor of hot spots._  
+__dot__ _v_ :four: (dotted) __1__ Mark with a dot. _Wooden stools dot the floor of hot spots._ __2__ 10. (tr) to scatter or intersperse (with dots or something resembling dots): _bushes dotting the plain._ _Statues and fountains dot every turn._  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
@@ -4689,7 +4692,7 @@ __draw close__ _v_ Move towards. _He was drawing close to a decision._
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I’ll draw some blood to be sure._ _We win, lose and draw together._  
-__drawbridge__ _n_ :two::hammer:  
+__drawbridge__ _n_ :three::hammer:  
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
 __drawl<sup>2</sup>__ _n_ :four::hammer: _A Southern drawl._ _He was from Texas and spoke with a slight drawl._  
@@ -5098,8 +5101,7 @@ __encampment__ _n_ :two::hammer:
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
-__encompass__ _v_ :seven::hammer: (encompasses) _Very large-scale computing encompasses a varied range of systems._  
-__encompassing__ _v_  
+__encompass__ _v_ :nine::hammer: (encompasses, encompassing) _Very large-scale computing encompasses a varied range of systems._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
@@ -5125,8 +5127,7 @@ __endpiece__ _n_
 __endpoint__ _n_ _Surrogate endpoints._  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
-__endure__ _v_ Last for a long time.  
-__enduring__ _v_  
+__endure__ _v_ :three: Last for a long time.  
 __enervate__ _v_ :astonished: To weaken.  
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
@@ -5144,6 +5145,7 @@ __enlivened__
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
 __ennui__ _n_ :two::hammer:  
 __enormous__ _adj_ :mega: /ɪˈnɔːməs/  
+__enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
 __enquiry__  
 __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
@@ -5252,7 +5254,7 @@ __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that run
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
-__eschew__ _v_ :two: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
+__eschew__ _v_ :three: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
 __Eskimo__ _n_ :two::mega:  
@@ -5413,7 +5415,7 @@ __extremes__
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
-__exude__ _v_  
+__exude__ _v_ :two::hammer:  
 __exult__ _v intr_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
