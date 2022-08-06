@@ -1,18 +1,3 @@
-__facade__ _n_  
-__fallout__ _n_  
-__fir tree__ _n_ :es: abeto  
-__foliaged__ _adj_  
-__forested__ _v_ _A forested municipal park._  
-__frisky__ _adj_  
-__frolic__ _v_  
-__front__ _v_ _Fronting a band._  
-__gazillion__ _n_  
-__glitzy__ _adj_  
-__Goth__ _n_  
-__grandiose__ _adj_  
-__grapevine__ _n_  
-__grating__ _n_ _The bridge is not paved but rather is an open grating._  
-__grove__ _n_ :two::hammer:  
 __grub__ _n_ :two::hammer: _Decent pub grub._  
 __Guggenheim__ _n_ [:scroll: The surname is German, said to mean literally “swamp hamlet” or “cuckoo hamlet.”]  
 __gullies__ _n_  

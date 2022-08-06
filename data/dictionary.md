@@ -5446,8 +5446,7 @@ __fabric softener__
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
-__façade__ _n_ :two::hammer:  
-__facade__ _n_ (façade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
+__façade__ _n_ :four::hammer: (facade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
 __face left__ _n_ (vs face right) _Two admirals did a left face and screwed everything up._  
 __face off__ _v_ :two::hammer: _(sports)_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
@@ -5502,7 +5501,7 @@ __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of
 __falling star__ _n_ A meteor; shooting star.  
 __falloff__  
 __Fallon, NV__ _n_  
-__fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
+__fallout__ _n informal_ :nine::m::dart: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
 __fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
 __false flag operation__ _n_ An act committed with the intent of disguising the actual source of responsibility and pinning blame on another party.  
@@ -5770,7 +5769,7 @@ __fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.
 __finicky__ _adj_ :four: /FIN-ih-kee/ Very particular in tastes or standards. _The young boy was a finicky eater, and his parents found it challenging to come up with ideas for healthy meals that he would enjoy._  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
-__fir__ _n_ :two::hammer: :es: abeto  
+__fir__ _n_ :three:hammer: _Fir tree._ :es: abeto  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire engine__ _n_ (fire truck) _You can ride a train, pony or fire engine._  
 __fire irons__  
@@ -6025,6 +6024,7 @@ __fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livest
 __foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
 __foldout chair__ _n_  
 __foldout__ _n_ _Foldout map of NYC._  
+__foliaged__ _adj_  
 __folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow-up__ _n_ :two::astonished::hammer:  
@@ -6105,7 +6105,7 @@ __foreseeable__
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
-__forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
+__forested__ _adj_ :two: Covered with forest. :es: arbolado _A forested park rich in game._ _A forested municipal park._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
 __foretell__  
 __foretoken__ _n_ An event that is experienced as indicating important things to come. _Syn_ augury, preindication, sign _He refused to think that the rain was a foretoken of gloom for his date that night._  
@@ -6248,6 +6248,7 @@ __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._
 __frilly__  
 __fringe__  
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
+__frisky__ _adj_  
 __frisson__ _n_ :four: A sudden strong feeling of excitement, fear, or pleasure. _Syn_ shudder, thrill  
 __frites__ _n pl_ Chipped potatoes. _Steak frites._  
 __fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
@@ -6257,12 +6258,13 @@ __frizzle__ _v_ _Frizzled beard._
 __frock__  
 __frogman__ _n_ :two::hammer:  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
-__frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
+__frolic<sup>2</sup>__ _v_ :three::hammer: (frolicked)  
 __from afar__  
 __from the git-go__  
 __from the rooter to the rooter__  
 __front man__ _n_ :two::hammer: (frontman)  
 __front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
+__front__ _v_ _Fronting a band._  
 __front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
 __frontline<sup>1</sup>__ _n_ (front line)  
@@ -6475,6 +6477,7 @@ __gaze<sup>1</sup>__ _n_
 __gaze<sup>2</sup>__ _v_  
 __gazebo__ _n_ :five::mega::hammer:  
 __gazette__ _n_  
+__gazillion__ _n_  
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
@@ -6614,7 +6617,7 @@ __glisten__ _n, v_ :mute:[glis~~t~~en]
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“private parties on Park Avenue and Central Park West, where the literati mingled with glitterati” (Skylines)._  
 __glitz__ _n_ :two::hammer:  
-__glitzy__  
+__glitzy__ _adj_ :two::hammer:  
 __gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
 __gloat<sup>1</sup>__ _v_ :eight::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __gloat<sup>2</sup>__ _n_  
@@ -6740,6 +6743,7 @@ __gossamer<sup>1</sup>__ _adj_ :two: /GAH-suh-mer/ Sheer, light, delicate, or te
 __gossamer<sup>2</sup>__ _n_ :two::hammer: /GAH-suh-mer/  
 __gossipy__ _adj_  
 __gotcha__  
+__Goth__ _n_  
 __gouge<sup>1</sup>__ _v_ :eight: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
 __gouge<sup>2</sup>__ _n_  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
@@ -6776,11 +6780,12 @@ __granddaddy__ _n_ :pencil2:
 __grandeur__ _n_  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
-__grandiose__  
+__grandiose__ _adj_ :two::hammer:  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
 __granted<sup>2</sup>__ _adv_ Admittedly.  
+__grapevine__ _n_  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphomania__ _n_ /graf-oh-MAY-nee-uh/ An obsessive inclination to write.  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -6796,7 +6801,7 @@ __grate<sup>2</sup>__ _v_ :seven: (grates, grated, grating) __1__ To reduce to f
 __grateful__  
 __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
 __gratin__ _n_ _Sweet potato gratin._  
-__grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
+__grating<sup>1</sup>__ _n_ :four::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __gratuity__ _n_ :two::hammer: (gratuities)  
 __graupel__ _n_ Precipitation consisting of snow pellets.  
@@ -6914,7 +6919,7 @@ __groupie__ _n_ :two::hammer: (groupies)
 __grouse<sup>1</sup>__ _v intr_ :seven: /grous/ To complain or to grumble. _We groused about the uncomfortable seating._  
 __grouse<sup>2</sup>__ _n_ /grous/ A complaint.  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
-__grove__ _n_ :three::hammer:  
+__grove__ _n_ :five::hammer:  
 __grovel__ _v_ :six: (groveling) To lie or creep in a prostrate position, as in subservience or humility. _Syn_ cower, cringe, fawn _The prisoners groveled before the emperor, hoping that he would commute their sentences._  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
