@@ -1,3 +1,9 @@
+__beachcomb__ _v_ To search for and collect objects such as seashells and driftwood along the seashore.  
+__bellman__ _n_  
+__cantilever__ _v_  
+__crisscross__ _v_  
+__filbert__ _n_ :es: avellana  
+__gamut__ _n_  
 __grub__ _n_ :two::hammer: _Decent pub grub._  
 __Guggenheim__ _n_ [:scroll: The surname is German, said to mean literally “swamp hamlet” or “cuckoo hamlet.”]  
 __gullies__ _n_  
@@ -10,6 +16,7 @@ __hangover__ _n_ _A new pill touted as the end of hangovers sold out less than 2
 __hard pressed__  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __harkening__ _v_  
+__hatchery__ _n_ A place for hatching eggs (as of poultry or fish).  
 __heap__ _v_ (heaped)  
 __heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp through disappointment in love.  
 __Hefe Weizen__ _n_ :three: Wheat beer.  
@@ -129,7 +136,7 @@ __lemongrass__ _n_ :two::hammer:
 __letterman__ _n_  
 __libation__ _n_ :six::hammer:  
 __licentious__ _adj_  
-__light rail__ _n_ :two::hammer:  
+__light rail__ _n_ :three::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :three::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
@@ -163,7 +170,7 @@ __lucrative__ _adj_ /ˈluːkrətɪv/ Producing a profit; profitable; remunerativ
 __Luddite__ _n_ /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __luge__ _n_  
 __luminaria__ _n_  
-__luminary__ _n_ _The luminary Charles Darwin._  
+__luminary__ _n_ :two::hammer: (luminaries) _The luminary Charles Darwin._  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __luncheon__  
 __lurks__ _v_  
@@ -409,6 +416,7 @@ __otter__ _n_
 __outcrop__ _n_ :three::hammer:  
 __outcry__ _n_  
 __outfitter__ _n_ _Horseback outfitter._  
+__outgrowth__ _n_  
 __outing__ _n_  
 __outlandish__ _adj_  
 __outpost__ _n_  
@@ -443,6 +451,7 @@ __pansexual__
 __pantomime__ _v_  
 __paper lantern__ _n_ :camera:  
 __paradoxical__ _adj_ :two::hammer:  
+__paragliding__ _n_ The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
 __paraphernalia__  
 __paratransit__ _adj_ _Paratransit services._  
@@ -542,8 +551,10 @@ __pontoon__ _n_ _Pedal a pontoon boat._
 __pool table__  
 __pool__ _n_ :two::hammer: _Heated pool._  
 __pork pie__ _n_  
+__porter__ _n_  
 __porterhouse__ _n_ :four::hammer: _Its tender dry-aged porterhouse is unmatched._  
 __portico__ _n_  
+__Portlander__ _n_  
 __Portuguese__ _adj, n_  
 __postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
 __pot-bellied__ _adj_ _Pot-bellied seahorses._  
@@ -939,6 +950,7 @@ __stardom__ _n_
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
 __stargaze__ _v_  
 __stash__ _v_  
+__stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
 __stationer__ _n_  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
@@ -956,6 +968,7 @@ __steeped__ _v_ :two::hammer: _This region is steeped in history._
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
+__stepping stone__  
 __sterling__ _adj_ :two::hammer: _A sterling job._  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
 __stevedore__ _n_  
@@ -988,6 +1001,7 @@ __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
 __stunning__ _adj_ :three::hammer:  
 __sturdy__ _adj_  
+__sturgeon__ _n_ :es: esturión  
 __stylesetter__  
 __stymied__ _v_  
 __subcontinent__ _n_  
@@ -1017,7 +1031,7 @@ __supreme__ _adj_ /səˈprim, sʊ-/
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
-__sustenance__ _n_  
+__sustenance__ _n_ :two::hammer:  
 __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
 __swashbuckling__ _adj_  
@@ -1035,6 +1049,7 @@ __tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._
 __tabbouleh__ _n_  
 __tabletop__ _adj, n_  
 __tackle__ _n_  
+__taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __Tahitian__  
 __takeover__ _n_  
 __talented__ _adj_  
@@ -1251,7 +1266,7 @@ __wares__ _n_ _The retailers showcase their wares on the runway._
 __watchword__ _n_ :two::hammer:  
 __water flumes__ _n_  
 __waterbugs__ _n_  
-__waterfront__ _n_  
+__waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
 __watering hole__ _n_ :five: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __wedding band__ _n_  
 __wee__ _n_  
@@ -1283,6 +1298,7 @@ __wily__
 __wimpy__ _adj_  
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
+__winter__ _v_ _Explorers wintered in the neighborhood in 1805._  
 __wintering__ _v_  
 __wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  

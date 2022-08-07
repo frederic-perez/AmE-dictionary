@@ -3,6 +3,7 @@ __be on vacation__ _During January and February the trolleys are on vacation._
 __before you know it__  
 __buckle up__ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._  
 __chime in__  
+__faint of heart__  
 __I kid you not__  
 __in spades__ _Cultural savvy. Portland’s got it in spades._  
 __it goes without saying__  
@@ -27,6 +28,7 @@ __stag party__
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step up__  
+__steppingstone__  
 __sticky fingers__  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __stow away__  
@@ -63,6 +65,7 @@ __the floor is yours__ You can talk now. _That’s all I have to say—the floor
 __the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
+__the name of the game__ The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the spur of the moment__  
@@ -121,6 +124,7 @@ __while away__ :two::hammer: _Nothing welcomes the summer season better than whi
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __white-knuckle__  
+__whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
