@@ -1158,6 +1158,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __beach__ _v_  
+__beachcomb__ _v_ To search for and collect objects such as seashells and driftwood along the seashore.  
 __beachhead__ _n_ :four::hammer:  
 __bead__ _n_ __4__ :astonished: (Firearms, Gunnery, Ordnance & Artillery) A small metallic knob acting as the sight of a firearm.  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
@@ -1263,6 +1264,7 @@ __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests’ lu
 __bellicose__  
 __belligerence__ _n_ A hostile or warlike attitude, nature, or inclination. _Syn_ pugnacity, aggressiveness _The little lawyer glared at me a moment, and then the belligerence faded out of his face._  
 __belligerent__  
+__bellman__ _n_  
 __bellow<sup>1</sup>__ _n_  
 __bellow<sup>2</sup>__ _v_ :six::hammer: (bellowed)  
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
@@ -2337,7 +2339,7 @@ __canter up__ _v_
 __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait of a horse. _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
-__cantilever__ _v_ :three::hammer: (cantilevered)  
+__cantilever__ _v_ :four::hammer: (cantilevered)  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __canyoned__ _adj_ _Canyoned city streets._  
 __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
@@ -3661,7 +3663,7 @@ __crisp<sup>2</sup>__ _v_
 __crisp<sup>3</sup>__ _n_  
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
 __crisply__ _adv_ _Nuggent greeted him crisply._  
-__crisscross__ _v_ :two::hammer:  
+__crisscross__ _v_ :three::hammer:  
 __crisscrossed__ _adj_  
 __critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
 __critical mass__  
@@ -5732,6 +5734,7 @@ __figure skating__
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
 __figure<sup>2</sup>__ _v_ _informal_  
 __figurehead__ _n_ :three::hammer:  
+__filbert__ _n_ :es: avellana  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  
 __file suit__ _v_  
@@ -6412,6 +6415,7 @@ __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __
 __game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gamely__  
 __gamine__  
+__gamut__ _n_  
 __ganache__ _n_ A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
 __gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
@@ -6927,7 +6931,7 @@ __growl<sup>2</sup>__ _v_ :seven::hammer: (growled, growling) _The dogs were gro
 __growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container brought by a customer for beer.  
 __grown-up<sup>1</sup>__ _adj_  
 __grown-up<sup>2</sup>__ _n_  
-__grub__ _n_ _slang_ :five: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._ _English grub._  
+__grub__ _n_ _slang_ :seven: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._ _Decent pub grub._  
 __grubbing__ _v_ :two::hammer:  
 __grubstake__ _n_ Supplies or funds advanced to a mining prospector or a person starting a business in return for a promised share of the profits.  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
@@ -6959,6 +6963,7 @@ __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a televisi
 __guesthouse__ _n_  
 __guffaw<sup>1</sup>__ _n_ :two::hammer:  
 __guffaw<sup>2</sup>__ _v_ :nine: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
+__Guggenheim__ _n_ [:scroll: The surname is German, said to mean literally “swamp hamlet” or “cuckoo hamlet.”]  
 __guibble__  
 __guide__ _n, v_ :mute:[g~~u~~ide]  
 __guidepost__ _n_  
@@ -6981,13 +6986,14 @@ __gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._
 __gull__ _v_ _They feared being gulled._  
 __gullibility__  
 __gullible__ _adj_ :eight::mega: Naive and easily deceived or tricked.  
-__gullies__  
+__gullies__ _n_ :two::hammer:  
 __gulls__  
 __gully washer__ _n_ _We had a real gully washer in the forenoon._  
 __gully__ _n_  
 __gulosity__ _n_ Excessive appetite. _Syn_ greediness  
 __gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
 __gulp<sup>2</sup>__ _v_ :five::hammer: _They gulped their soft drinks._  
+__gum ball machine__ _n_ :camera:  
 __gum stump__  
 __gum tree__  
 __gum up__  
@@ -7106,7 +7112,7 @@ __ham hocks__ _n_ :two::hammer:
 __ham-and-egger__ _n_ _informal US_ An ordinary person of little consequence.  
 __hamburger__ _n_ :mega:  
 __hamdbill__ _n_  
-__hamlet__ _n_ :two::hammer:  
+__hamlet__ _n_ :five::hammer:  
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper<sup>1</sup>__ _n_ :three::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
@@ -7129,7 +7135,7 @@ __handout__ _n_ :five::hammer: (handouts)
 __hands on__  
 __hands-free__ _adj_ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
-__hands-on__ _adj_ :two::hammer: _A hands-on implementation strategy._ _A hands-on director._  
+__hands-on__ _adj_ :three::hammer: _A hands-on implementation strategy._ _A hands-on director._ _Hours of hands-on fun._  
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
 __handsome__ _adj_ :mute:[han~~d~~some]  
 __handspring__ _n_ An acrobatic feat in which one starts from a standing position and wheels the body forward or backward in a complete circle, landing first on the hands and then on the feet, without contact by the rest of the body.  
@@ -7137,11 +7143,13 @@ __handstand__ _n_ An act or instance of supporting the body in a vertical positi
 __handsy__ _adj_ Prone to touching other people with one’s hands, especially inappropriately.  
 __handyman__ _n_ :three::hammer:  
 __hang out__ _phr v_  
+__hang-glider__ _n_  
 __hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My real estate agent says there are some legal hang-ups that might delay the sale of our home._  
 __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :four: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
+__hangover__ _n_ _A new pill touted as the end of hangovers sold out less than 24 hours after it was released_ :es: resaca  
 __Hangul__ _n_ /häng′go͞ol/ The alphabetic system of writing used in Korea, invented in the 1400s.  
 __hank__ _n_ :four::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  

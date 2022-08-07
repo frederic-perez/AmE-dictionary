@@ -1,18 +1,3 @@
-__beachcomb__ _v_ To search for and collect objects such as seashells and driftwood along the seashore.  
-__bellman__ _n_  
-__cantilever__ _v_  
-__crisscross__ _v_  
-__filbert__ _n_ :es: avellana  
-__gamut__ _n_  
-__grub__ _n_ :two::hammer: _Decent pub grub._  
-__Guggenheim__ _n_ [:scroll: The surname is German, said to mean literally “swamp hamlet” or “cuckoo hamlet.”]  
-__gullies__ _n_  
-__gum ball machine__ _n_ :camera:  
-__halsters__ _n_  
-__hamlet__ _n_ :three::hammer:  
-__hands-on__ _adj_ _Hours of hands-on fun._  
-__hang-glider__ _n_  
-__hangover__ _n_ _A new pill touted as the end of hangovers sold out less than 24 hours after it was released_ :es: resaca  
 __hard pressed__  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __harkening__ _v_  
