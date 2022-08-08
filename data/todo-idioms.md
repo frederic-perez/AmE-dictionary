@@ -4,6 +4,7 @@ __before you know it__
 __buckle up__ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._  
 __chime in__  
 __faint of heart__  
+__far and wide__  
 __I kid you not__  
 __in spades__ _Cultural savvy. Portland’s got it in spades._  
 __it goes without saying__  

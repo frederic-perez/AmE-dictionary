@@ -1,3 +1,17 @@
+__action-packed__ _adj_ Full of activities, events and excitement.  
+__ambiance__ _n_  
+__attendee__ _n_  
+__attentive__ _adj_  
+__blimp__ _n_ __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. _A World War II blimp hangar._  
+__bountiful__ _adj_  
+__braised__ _adj_ (Cookery) Cooked by braising. _Braised Cornish hen._  
+__chive__ _n_ _Chive sauce._  
+__chophouse__ _n_  
+__cornerstone__ _n_  
+__exhilarating__  
+__fairway__ _n_  
+__gorge__ _n_  
+__gracious__ _adj_ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
 __hard pressed__  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __harkening__ _v_  
@@ -18,12 +32,14 @@ __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __homespun__  
 __honeymoon__ _n_  
+__horseradish__ _n_  
 __hotbed__ _n_ :two::hammer:  
 __hotspot__ _n_  
 __house__ _v_  
 __hubbub__  
 __iconoclast__ _n_ /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __imbue__ _v_  
+__impeccable__  
 __impervious__ _adj_  
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
 __incunabula__ _n pl_  
@@ -260,6 +276,7 @@ __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the sou
 __mogul__ _n_ :two::hammer:  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mojo__ _n_  
+__molding__ _n_ _Mahogany moldings._  
 __moll__ _n_ _Mingle with mobsters and molls._  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
 __molluscum contagiosum__ _n_  
@@ -424,7 +441,7 @@ __paganism__ _n_
 __pageantry__ _n_ :two::hammer:  
 __painstakingly__  
 __palate__ _n_  
-__pamper__ _v_ :four::hammer:  
+__pamper__ _v tr_ :five::hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._  
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
 __panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
@@ -449,6 +466,7 @@ __parsec__ _n_ [:scroll: C20: from parallax + second]
 __parterre__ _n_ _A rose parterre._  
 __partridge__ _n_  
 __partygoer__ _n_  
+__pasta__  
 __pastime__ _n_ :two::hammer:  
 __pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
 __patron__ _n_ :seven::hammer: (patrons) _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
@@ -485,7 +503,7 @@ __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __perusal__ _n_  
 __pervasive__  
-__pet__ _v_ _Petting the farm animals._  
+__pet__ _v_ :two::hammer: _Petting the farm animals._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -649,7 +667,7 @@ __redeem__ _v_
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __reef__ _n_  
 __reenactment__ _n_  
-__refectory__ _n_  
+__refectory__ _n_ :two::hammer:  
 __refreshment__ _n_  
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __refurbish__ _v_ :two::hammer: (refurbished)  
@@ -661,6 +679,7 @@ __reindeer__ _n pl_ :two::hammer:
 __rejoice__ _v_  
 __rejuvenated__ _adj_  
 __relatable__ _adj_  
+__reluctant__ _v_ _Reluctant to leave._  
 __remarkably__  
 __remembrance__ _n_ :two::hammer:  
 __remiss__ _adj_  
@@ -809,7 +828,7 @@ __shearing__ _n_ _Sheep shearing._
 __shearling__ _n_ _Luxurious shearlings._  
 __sheer__ _adj_ _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
-__shenanigan__ _n informal_ _Pulling shenanigans._  
+__shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shoe leather__ _n_  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
@@ -955,6 +974,8 @@ __stellar__ _adj_ _Stellar events._
 __stem__ _v_  
 __stepping stone__  
 __sterling__ _adj_ :two::hammer: _A sterling job._  
+__stern__ _n_ :es: popa  
+__sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
 __stevedore__ _n_  
 __stew<sup>1</sup>__ _n_  
@@ -1022,7 +1043,7 @@ __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
-__sweeping__ _adj_ :five::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._  
+__sweeping__ _adj_ :six::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._  
 __sweet-tooth__  
 __switchback__ _n_ :two::hammer:  
 __swoon__ _v_  
@@ -1257,7 +1278,7 @@ __wedding band__ _n_
 __wee__ _n_  
 __well versed__ _adj_  
 __wellrounded__  
-__wet bar__ _n_ :astonished:  
+__wet bar__ _n_ :two::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
 __wet suit__ _n_  
 __wetback__  
 __wharf__ _n_ :three: __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
@@ -1305,6 +1326,7 @@ __yakisoba__ _n_
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __yarns__ _n_ :two::hammer:  
 __yatch__ _n_ :mega:  
+__year-round__ _adj_ :three: Existing, active, or continuous throughout the year: _a year-round resort._  
 __yearn__ _v_  
 __yeast__ _n_  
 __yesteryear__ _n_ :two::hammer:  
