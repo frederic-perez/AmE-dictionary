@@ -152,6 +152,7 @@ __acrophobia__
 __across__ _adj, adv, prep_ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
+__action-packed__ _adj_ Full of activities, events and excitement.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
@@ -417,7 +418,7 @@ __alumni__ _n pl_ :two::hammer:
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
-__ambiance__ _n_ _Relaxing ambiance._  
+__ambiance__ _n_ :two::hammer: _Relaxing ambiance._  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
 __ambiguous__ _adj_ /am-big-yoo-uhs/  
@@ -828,8 +829,8 @@ __attainability__
 __attainment__ _n_ :two::hammer: _Scientific attainments._  
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
-__attendee__ _n_ :two::mega::hammer:  
-__attentive__  
+__attendee__ _n_ :three::mega::hammer:  
+__attentive__ _adj_ :two::hammer:  
 __attest__ _v_ :three::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
@@ -1508,7 +1509,7 @@ __blemished__ _v_
 __blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of tea._ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :three::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
-__blimp__ _n_ :two: __1__ A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._  
+__blimp__ _n_ :three: __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._ _A World War II blimp hangar._  
 __blin__ _n_ (blinis)  
 __blind as a bat__  
 __blind date__  
@@ -1762,7 +1763,7 @@ __Bouncing Betty__
 __bouncy house__ _n_  
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
-__bountiful__ _adj_ :four: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
+__bountiful__ _adj_ :five: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
 __bounty__ _n_ :four: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
@@ -1803,6 +1804,7 @@ __brainpower__ _n_
 __brainwash__ _v_  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
+__braised__ _adj_ (Cookery) Cooked by braising. _Braised Cornish hen._  
 __brambles__ _n_ :six::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
@@ -2751,7 +2753,7 @@ __chit-chat<sup>2</sup>__ _v_
 __chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
 __chivalry__ _n_ :four::hammer:  
-__chive__ _n_ :two::hammer: :es: cebollino, cebolleta  
+__chive__ _n_ :three::hammer: _Chive sauce._ :es: cebollino, cebolleta  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
 __chlorophyll__ _n_ :four::pencil2::hammer:  
@@ -2768,7 +2770,7 @@ __chomp__ _v_ :two::hammer: _He chomped his cigar._
 __chomping__ _n_ :two::hammer:  
 __chop<sup>1</sup>__ _n_ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
 __chop<sup>2</sup>__ _v_  
-__chophouse__ _n_ A restaurant that specializes in serving steaks and chops of meat.  
+__chophouse__ _n_ :two: A restaurant that specializes in serving steaks and chops of meat.  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ _n, v_ :mute:[c~~h~~ord]  
@@ -3461,7 +3463,7 @@ __corn<sup>1</sup>__ _n_ :es: callo
 __corn<sup>2</sup>__ _v tr_ :astonished: __1__ To cause to form hard particles; granulate. __2a__ To season and preserve with granulated salt. __b__ To preserve (beef, for example) in brine. __3__ To feed (animals) with corn or grain.  
 __cornball__  
 __corned beef__ _n_ :three: [:scroll: From corn, _to preserve with granulated salt or brine._] Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine. _Syn_ bully beef, corn beef :es: carne de vaca en conserva _Corned beef sandwiches._  
-__cornerstone__ _n_ :two::pencil2::hammer:  
+__cornerstone__ _n_ :three::pencil2::hammer:  
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :six::hammer:  
@@ -5364,7 +5366,7 @@ __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]
 __exhibit__ _n_  
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
-__exhilarating__ _adj_ :nine: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
+__exhilarating__ _adj_ :nine::m: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
 __exhilaration__ _n_  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
@@ -5486,7 +5488,7 @@ __fair shake__
 __fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of England._ :fr: belle _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairground attraction__  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
-__fairway__ _n_ The long part of a golf course that you hit the ball along to get to the hole.  
+__fairway__ _n_ :two: The long part of a golf course that you hit the ball along to get to the hole.  
 __fait accompli__  
 __faiway__ _n_ _The turf of the lush green fairways._  
 __fall for__ _phr v_  
@@ -6732,7 +6734,7 @@ __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._
 __goosebump__ _n_  
 __Gordian knot__ _n_ :three::hammer: _Gordian legal knot._  
 __gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
-__gorge<sup>1</sup>__ _n_  
+__gorge<sup>1</sup>__ _n_ :two::hammer:  
 __gorge<sup>2</sup>__ _v_ :two::hammer: (gorging)  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
 __gorgonize__ _v tr_ :three: /GOR-guh-nyz/ [:scroll: After Gorgon, any of the three monstrous sisters in Greek mythology: Stheno, Euryale, and Medusa. They had snakes for hair and turned into stone anyone who looked into their eyes (apparently it was OK to objectify people in those days).] To paralyze, petrify, or hypnotize. To affect as a Gorgon might; hypnotize; petrify.  
@@ -6758,7 +6760,7 @@ __gout__ _n_ :two::hammer:
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._ _Priceless pieces from The Beatles grace the walls._  
-__gracious__ _adj_ :six::hammer: _He was very gracious._ _An attitude of gravious humility._  
+__gracious__ _adj_ :seven::hammer: _He was very gracious._ _An attitude of gracious humility._ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
 __grade<sup>1</sup>__ _n_ :three::hammer: _The grade over the mountain was well protected._ _Their jeep waited at a grade crossing for five minutes._  
@@ -7175,6 +7177,7 @@ __harass__ _v_
 __harbinger__ _n_ :five: One that indicates or foreshadows what is to come. _Syn_ herald, precursor, forerunner  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
+__hard pressed__  
 __hard rock__ _n_  
 __hard sell__  
 __hard-ball__  

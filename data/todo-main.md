@@ -1,18 +1,3 @@
-__action-packed__ _adj_ Full of activities, events and excitement.  
-__ambiance__ _n_  
-__attendee__ _n_  
-__attentive__ _adj_  
-__blimp__ _n_ __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. _A World War II blimp hangar._  
-__bountiful__ _adj_  
-__braised__ _adj_ (Cookery) Cooked by braising. _Braised Cornish hen._  
-__chive__ _n_ _Chive sauce._  
-__chophouse__ _n_  
-__cornerstone__ _n_  
-__exhilarating__  
-__fairway__ _n_  
-__gorge__ _n_  
-__gracious__ _adj_ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
-__hard pressed__  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __harkening__ _v_  
 __hatchery__ _n_ A place for hatching eggs (as of poultry or fish).  
