@@ -1,8 +1,17 @@
+__adjudicate__ _v_ /uh-JOO-dih-kayt/ To adjudicate a dispute between parties is to make an official decision about which party is right. Adjudicate is also used to mean “to act as judge.” _The case will be adjudicated in the state courts._  
+__bellwether__ _n_  
+__capote__ _n_ A long, usually hooded cloak or coat. _Syn_ hooded coat _The men wore matching black capotes with hoods that obscured their features, and we watched in terror as they advanced in the dim light._  
+__crepuscular__ _adj_ /krih-PUHSS-kyuh-ler/ Crepuscular means “of, relating to, or resembling twilight.” It is also used in zoological contexts to describe creatures that are active during twilight, or to the activities of such creatures. _As evening came on, fireflies began to appear in the crepuscular gloaming._  
+__cynical__ _adj_ /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
+__eminently__ _adv_ /EM-uh-nunt-lee/ Eminently is used as a synonym of very and means “to a high degree.” _All three outfielders are eminently capable of making an All-Star-caliber catch to help their team._  
+__gush__ _v intr_  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __harkening__ _v_  
 __hatchery__ _n_ A place for hatching eggs (as of poultry or fish).  
 __heap__ _v_ (heaped)  
 __heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp through disappointment in love.  
+__heartstring__ _n_ /HAHRT-string/ Heartstring is used, usually in the plural, to refer to someone’s deepest emotions or affections. _The movie’s emotional ending really pulls at your heartstrings._  
+__heckle__ _v tr_  
 __Hefe Weizen__ _n_ :three: Wheat beer.  
 __heifer__ _n_  
 __heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
@@ -22,6 +31,7 @@ __hotbed__ _n_ :two::hammer:
 __hotspot__ _n_  
 __house__ _v_  
 __hubbub__  
+__hypocorism__ _n_ A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_  
 __iconoclast__ _n_ /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __imbue__ _v_  
 __impeccable__  
@@ -114,6 +124,7 @@ __lauded__ _v_
 __lavish__ _adj_ :three::hammer: _A lavish castle surrounded by 600 acres of state._  
 __leatherware__ _n_  
 __ledger__ _n_  
+__legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
 __legit__ _adj_ _informal_ :two::hammer:  
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
@@ -122,6 +133,7 @@ __lemongrass__ _n_ :two::hammer:
 __letterman__ _n_  
 __libation__ _n_ :six::hammer:  
 __licentious__ _adj_  
+__lido__ _n_ A recreational facility including a swimming pool for water sports.  
 __light rail__ _n_ :three::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :three::hammer:  
@@ -242,6 +254,7 @@ __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
 __michelada__ _n_  
+__micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
 __microbrew__ _n_ :four::hammer:  
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
@@ -447,6 +460,7 @@ __pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors 
 __parishioner__ _n_  
 __parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
+__paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parterre__ _n_ _A rose parterre._  
 __partridge__ _n_  
@@ -684,6 +698,7 @@ __revel__ _v intr_ :three::hammer:
 __revelry__ _n_ :two::hammer:  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
 __revue__ _n_ :two::hammer: _A musical revue._ _Improv revues._  
+__rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
 __rhododendrons__ _n_ :pencil2:  
 __rib eye__ _n_ _Rib eye steaks._  
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
@@ -695,6 +710,7 @@ __riff__ _v_
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
 __riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._  
+__riposte__ _n_ :astonished: /rih-POHST/ A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
 __riverfront__  
 __riverside__  
 __roam__ _v_ _Cuts of beef served tableside by a parade of roaming carvers._  
@@ -1295,6 +1311,7 @@ __wishful__ _adj_ _A wishful thought._
 __wishy-washy__  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  
+__wizen__ _v_  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __womance__ _n_ A close friendship between women.  
 __wondrous__ _adj_ :four::hammer:  

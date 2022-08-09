@@ -130,11 +130,17 @@ __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, 
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wipe the floor__  
+__wit’s end__ :dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __witching hour__ _The pizzeria servers until the witching hours._  
+__with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
 __with a twist__ :three::hammer:  
 __with a view__ _Chateau with a view._  
+__with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
+__within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within walking distance__  
+__won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__  
+__work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __yake your pick__  
 __young at heart__  
