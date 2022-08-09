@@ -1,18 +1,3 @@
-__adjudicate__ _v_ /uh-JOO-dih-kayt/ To adjudicate a dispute between parties is to make an official decision about which party is right. Adjudicate is also used to mean “to act as judge.” _The case will be adjudicated in the state courts._  
-__bellwether__ _n_  
-__capote__ _n_ A long, usually hooded cloak or coat. _Syn_ hooded coat _The men wore matching black capotes with hoods that obscured their features, and we watched in terror as they advanced in the dim light._  
-__crepuscular__ _adj_ /krih-PUHSS-kyuh-ler/ Crepuscular means “of, relating to, or resembling twilight.” It is also used in zoological contexts to describe creatures that are active during twilight, or to the activities of such creatures. _As evening came on, fireflies began to appear in the crepuscular gloaming._  
-__cynical__ _adj_ /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
-__eminently__ _adv_ /EM-uh-nunt-lee/ Eminently is used as a synonym of very and means “to a high degree.” _All three outfielders are eminently capable of making an All-Star-caliber catch to help their team._  
-__gush__ _v intr_  
-__hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
-__harkening__ _v_  
-__hatchery__ _n_ A place for hatching eggs (as of poultry or fish).  
-__heap__ _v_ (heaped)  
-__heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp through disappointment in love.  
-__heartstring__ _n_ /HAHRT-string/ Heartstring is used, usually in the plural, to refer to someone’s deepest emotions or affections. _The movie’s emotional ending really pulls at your heartstrings._  
-__heckle__ _v tr_  
-__Hefe Weizen__ _n_ :three: Wheat beer.  
 __heifer__ _n_  
 __heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
 __hemicycle__ _n_  

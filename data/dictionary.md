@@ -186,6 +186,7 @@ __adjoin__ _v_ Lie adjacent to another or share a boundary. _Syn_ abut, edge, bo
 __adjoining__ _adj_ _An adjoining room._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
 __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
+__adjudicate__ _v_ /uh-JOO-dih-kayt/ To adjudicate a dispute between parties is to make an official decision about which party is right. Adjudicate is also used to mean “to act as judge.” _The case will be adjudicated in the state courts._  
 __adjudicator__  
 __adjunct__ _adj, n_ _Adjunct professors._  
 __adjunctive__ _adj_  
@@ -1271,7 +1272,7 @@ __bellow<sup>2</sup>__ _v_ :six::hammer: (bellowed)
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
-__bellwether__ _n_ :two::hammer:  
+__bellwether__ _n_ :three::hammer:  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
 __belong__ _v_ /bɪˈlɒŋ/  
@@ -2362,6 +2363,7 @@ __capitulate__ _v_ :three: (capitulated) __1__ To surrender under specified cond
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
 __capon__ _n_ :two: A male chicken castrated when young to improve the quality of its flesh for food.  
+__capote__ _n_ A long, usually hooded cloak or coat. _Syn_ hooded coat _The men wore matching black capotes with hoods that obscured their features, and we watched in terror as they advanced in the dim light._  
 __cappie__ _n_  
 __caprice__  
 __capricious__ _adj_ /kuh-prish-uhs, -pree-shuhs/  
@@ -3639,6 +3641,7 @@ __crepe paper bells__
 __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
 __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
+__crepuscular__ _adj_ /krih-PUHSS-kyuh-ler/ Crepuscular means “of, relating to, or resembling twilight.” It is also used in zoological contexts to describe creatures that are active during twilight, or to the activities of such creatures. _As evening came on, fireflies began to appear in the crepuscular gloaming._  
 __crescendo__ _v_ (crescendoed)  
 __Crescent City__  
 __crescent<sup>1</sup>__ _n_ :three::mute:[cres~~c~~ent]/ˈkrɛs ənt/:hammer:  
@@ -3846,7 +3849,7 @@ __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
-__cynical__ _adj_ :two::pencil2::hammer:  
+__cynical__ _adj_ :three::pencil2: /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
 __cynophilist__ _n_ /sy-NOH-fi-list/ [:scroll: From From Greek kyon (dog) + -philia (love).] One who loves dogs.  
 __cypress__ _n_ :astonished:  
 __cyst__ _n_ :mega: _Ganglion cysts._  
@@ -5074,6 +5077,7 @@ __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corr
 __emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
 __eminent__  
+__eminently__ _adv_ /EM-uh-nunt-lee/ Eminently is used as a synonym of very and means “to a high degree.” _All three outfielders are eminently capable of making an All-Star-caliber catch to help their team._  
 __emissary__ _n_ :two: __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
@@ -7189,6 +7193,7 @@ __hard-driving__ _adj_ _Hard-driving individuals._
 __hard-liner__ _n_  
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
+__hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __hardball__  
 __hardhat__ _n_  
 __hardier__  
@@ -7237,7 +7242,7 @@ __Hatch Act__
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ :eight: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
-__hatchery__ _n_ _A fish hatchery._ :es: criadero, vivero  
+__hatchery__ _n_ :two: A place for hatching eggs (as of poultry or fish). _A fish hatchery._ :es: criadero, vivero  
 __hatchet__ _n_ :two::hammer:  
 __hatred__ _n_  
 __hauberk__ _n_ (Arms & Armour (excluding Firearms)) A long coat of mail, often sleeveless.  
@@ -7306,12 +7311,14 @@ __headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ _adj_ :six::hammer: _Heady events._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
-__heap__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
+__heap<sup>1</sup>__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
+__heap<sup>2</sup>__ _v_ (heaped)  
 __hearing__ _n_ :two::hammer: _law_ _Court hearing._  
 __hearkened__  
 __hearsay__ _n_ :nine: /ˈhɪəˌseɪ/ /ˈhɪərˌseɪ/ __1__ Unverified information heard or received from another; rumor. Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._ __2__ (Law) A statement made out of court and not under oath which is offered as proof that what is stated is true.  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
+__heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp through disappointment in love.  
 __heartedly__  
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
@@ -7319,6 +7326,7 @@ __heartfelt__ _adj_ :two: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt 
 __hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
+__heartstring__ _n_ /HAHRT-string/ Heartstring is used, usually in the plural, to refer to someone’s deepest emotions or affections. _The movie’s emotional ending really pulls at your heartstrings._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
@@ -7344,7 +7352,7 @@ __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._
 __heavy-handed__  
 __hebdomadal__ _adj_ /heb-DOM-uh-duhl/ [:scroll: From Latin hebdomas, from Greek hepta (seven).] Weekly. A rare word for weekly. _A hebdomadal journal._  
 __hecatombs__  
-__heckle__ _v_ :three::hammer: (heckled)  
+__heckle__ _v tr_ :four::hammer: (heckled)  
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
@@ -7363,6 +7371,7 @@ __heedless__ _adj_ :two: /hēd′lĭs/ Marked by or paying little heed; unmindfu
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
 __heel<sup>2</sup>__ _v_  
+__Hefe Weizen__ _n_ :three: Wheat beer.  
 __heft<sup>1</sup>__ _n_ :two::hammer:  
 __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
