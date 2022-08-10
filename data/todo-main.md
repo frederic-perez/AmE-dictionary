@@ -1,18 +1,3 @@
-__back road__ _n_ _Cycle low-traffic back roads._  
-__barnyard__  
-__bayfront__ _n_  
-__buff__ _n_  
-__canoeing__  
-__commission__ _v_ _An outdoor exhibit of commissioned site-specific sculptures._  
-__cozy__ _adj_ _There are many cozy B and B inns._  
-__crunch__ _v_ _Shi Shi and Bai Yun play, nap, explore and crunch bamboo._  
-__curving__ _adj_ Not straight; having or marked by a curve or smoothly rounded bend.  
-__driving range__ _n_ :two::hammer: (Golf)  
-__egret__ _n_  
-__fast-paced__  
-__fish__ _n pl_  
-__forestry__  
-__free-range__ _adj_ (free-ranging) _Free-ranging animals._  
 __galore__  
 __gloomy__ _adj_  
 __gracious__ _adj_ _Gracious accommodations._  

@@ -941,6 +941,7 @@ __back down__ _v_ :two::hammer:
 __back end__ _n_ _Dante Exi, started two games at the back end of the trip._  
 __back off__ _phr v_ :five: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
+__back road__ _n_ _Cycle low-traffic back roads._  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you’re standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-office__ _adj_ Of or relating to the inner workings of a business or institution. _Syn_ internal _Back-office analytics._  
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
@@ -1096,7 +1097,7 @@ __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barm
 __barn__ _n_ _Out of the barn._  
 __barnacle__ _n_ __2__ A person or thing that is difficult to get rid of.  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
-__barnyard__ _n_ :pencil2: The area surrounding a barn, often enclosed by a fence.  
+__barnyard__ _n_ :two::pencil2: The area surrounding a barn, often enclosed by a fence.  
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
@@ -1157,6 +1158,7 @@ __bawdiness__
 __bawdy__ _adj_ :three::hammer: _Bawdy humor._  
 __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
 __bay leaves__  
+__bayfront__ _n_  
 __bays__ _n_  
 __bazillion__  
 __beach__ _v_  
@@ -2326,6 +2328,7 @@ __cannibalize__ _v_
 __cannolis__  
 __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
+__canoeing__  
 __canon__ _n_  
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ :two::hammer: _A dense canopy of snow._  
@@ -3159,7 +3162,7 @@ __commentary__
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
 __commiserate__ _v_ :six::hammer:  
-__commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
+__commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __commitment__ _n_ /kəˈmɪt mənt/  
 __committal__ _n_ _A committal graveside service will be held for the family._  
@@ -3567,7 +3570,7 @@ __coxswain__
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
-__cozy<sup>1</sup>__ _adj_ :four::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._  
+__cozy<sup>1</sup>__ _adj_ :five::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._ _There are many cozy B and B inns._  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
@@ -3731,7 +3734,8 @@ __crummy__ _adj_ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crumm
 __crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
 __crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
 __crumple<sup>2</sup>__ _n_  
-__crunch__ _n_ :two::hammer: (crunches)  
+__crunch<sup>1</sup>__ _n_ :two::hammer: (crunches)  
+__crunch<sup>2</sup>__ _v_ _Shi Shi and Bai Yun play, nap, explore and crunch bamboo._  
 __crunchtime__  
 __crusade__ _n_  
 __crusader__  
@@ -3819,6 +3823,7 @@ __curtailment__
 __curtained-off__ _adj_ Separated from the rest of a room or area by a curtain. _Six curtained-off beds._  
 __curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
 __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
+__curving__ _adj_ Not straight; having or marked by a curve or smoothly rounded bend.  
 __cushy__ _n_ _A cushy modern life._  
 __cusp__ _n_ :four: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
@@ -4745,6 +4750,7 @@ __driven snow__ _n_ Snow which has been moved by wind and collected into snowdri
 __driver__ _n_ _(golf)_  
 __drivetrains__  
 __driveway__  
+__driving range__ _n_ :two::hammer: (Golf)  
 __drizzle<sup>1</sup>__ _v_ :three::hammer: (drizzled) _Chicken pieces drizzled in a spicy coconut sauce._  
 __drizzle<sup>2</sup>__ _n_  
 __drizzly__ _adj_ :two::hammer:  
@@ -4991,7 +4997,7 @@ __egotists__
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress<sup>1</sup>__ _n_ :two::hammer:  
 __egress<sup>2</sup>__ _v intr_ To go out; emerge.  
-__egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
+__egret__ _n_ :six: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ _n_ :two::mute:[ei~~gh~~t]:hammer:  
@@ -5568,6 +5574,7 @@ __fashionista__ _n_
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
+__fast-paced__  
 __fast-talk__ _v_  
 __fast-track<sup>1</sup>__ _adj_ :three: Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
 __fast-track<sup>2</sup>__ _v tr_ :four: To speed up the progress of (a project or person).  
@@ -5809,7 +5816,7 @@ __firsthand__ _n_ :two::hammer:
 __firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Geography_ A relatively narrow inlet of the sea, esp in Scotland.  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
-__fish__ _n_ :three: (_n pl_ fish or fishes)  
+__fish__ _n_ :four: (_n pl_ fish or fishes)  
 __fishing tackle__  
 __fishmonger__ _n_  
 __fishpond__ _n_ :two::hammer: _A rainwater fishpond on the roof._  
@@ -6116,6 +6123,7 @@ __Forest Recreation Park__
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ :two: Covered with forest. :es: arbolado _A forested park rich in game._ _A forested municipal park._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
+__forestry__  
 __foretell__  
 __foretoken__ _n_ An event that is experienced as indicating important things to come. _Syn_ augury, preindication, sign _He refused to think that the rain was a foretoken of gloom for his date that night._  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
@@ -6219,6 +6227,7 @@ __free range__ _n_ :two: Supposed to mean that poultry is allowed to roam withou
 __free rein__  
 __free ride__ _n_ _informal_ :two: Something that is obtained or granted without cost to or effort by the recipient.  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
+__free-range__ _adj_ (free-ranging) _Free-ranging animals._  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freebooter__ _n_ :two: Someone who takes spoils or plunder (as in war). _Syn_ looter, pillager, plunderer, raider _He was a genial freebooter, living off the enemy, without fear or shame._  
