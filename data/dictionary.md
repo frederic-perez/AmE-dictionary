@@ -6418,7 +6418,7 @@ __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who 
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __galloping__  
 __gallows__ _n_ :two::hammer:  
-__galore<sup>1</sup>__ _adj_ :three::hammer: _The terrace offers sunbathing opportunities galore._  
+__galore<sup>1</sup>__ _adj_ :four::hammer: _The terrace offers sunbathing opportunities galore._  
 __galore<sup>2</sup>__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
@@ -6645,7 +6645,7 @@ __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sig
 __globetrotting__ _adj_ Traveling or involving travel to a lot of different countries.  
 __gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._  
 __gloom<sup>2</sup>__ _v_  
-__gloomy__ _adj_ _Winter is coming—but will the gloomiest forecasts come to pass?_  
+__gloomy__ _adj_ :two::hammer: _Winter is coming—but will the gloomiest forecasts come to pass?_  
 __gloppy__ _adj_ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :four::hammer: /GLAHSS/ (glossing) _We mustn’t gloss over disagreements._  
 __glossiness__  
@@ -6773,7 +6773,7 @@ __gout__ _n_ :two::hammer:
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._ _Priceless pieces from The Beatles grace the walls._  
-__gracious__ _adj_ :seven::hammer: _He was very gracious._ _An attitude of gracious humility._ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
+__gracious__ _adj_ :eight::hammer: _He was very gracious._ _An attitude of gracious humility._ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
 __grade<sup>1</sup>__ _n_ :three::hammer: _The grade over the mountain was well protected._ _Their jeep waited at a grade crossing for five minutes._  
@@ -7240,6 +7240,7 @@ __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._
 __hash<sup>2</sup>__ _v_  
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
+__hassle__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
 __hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
@@ -7261,7 +7262,7 @@ __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passe
 __hauler__ _n_ :two::hammer: (or haulier)  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
 __haunt<sup>1</sup>__ _v_  
-__haunt<sup>2</sup>__ _n_ :two::hammer: _It is a favorite BYOD haunt._  
+__haunt<sup>2</sup>__ _n_ :three::hammer: _It is a favorite BYOD haunt._  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
 __haunting__ _adj_ :dart::two: Continually recurring to the mind; unforgettable: _a haunting melody._  
 __hauteur__  
@@ -7365,7 +7366,7 @@ __heckle__ _v tr_ :four::hammer: (heckled)
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :nine::m::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._ _The hectic pace of the city._ :es: agitado  
+__hectic__ _adj_ :nine::m::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._ _The hectic pace of the city._ _A beautiful diversion from your hectic day._ :es: agitado  
 __hector<sup>1</sup>__ _n_ A bully.  
 __hector<sup>2</sup>__ _v tr_ :four: To intimidate or dominate in a blustering way. _Chávez hectored the United States often._  
 __hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.  
@@ -7387,6 +7388,7 @@ __hefted up__
 __hefty__ _adj_ :two::hammer:  
 __hegemony__ _n_ The predominant influence, as of a state, region, or group, over another or others. _Syn_ domination _Many great works of art were created during the hegemony of Athens in Greece._  
 __hegira__ _n_  
+__heifer__ _n_  
 __height__ _n_ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :four::hammer:  
 __heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
@@ -7397,6 +7399,7 @@ __heist capers__
 __heist__ _n_ :six: A robbery; a burglary. _A train heist._ _A jewelry heist._ _A true-life heist drama._  
 __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
 __heliograph__  
+__heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
 __hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: _You are one hell of a good cook._ __b__ Used as an intensive: _How the hell should I know?_ _Hell yes!_  
@@ -7414,6 +7417,7 @@ __helpless__
 __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
 __hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hem<sup>2</sup>__ _v_  
+__hemicycle__ _n_  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
 __hemlines__ _n_ :two::hammer:  
 __hemlock__ _n_ :two::hammer: :es: cicuta  
@@ -7446,19 +7450,19 @@ __Herod__ _n_
 __Herodotus__ _n_  
 __heroics__ _n_ Ostentatious or vainglorious or extravagant or melodramatic conduct. _DH David Ortiz will be remembered for his postseason heroics._  
 __heroine__ _n_ _Heroine stories._  
-__heron__ _n_ :three::hammer: (herons)  
+__heron__ _n_ :four::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
 __herringbone__ _n_ _Basketball shoes with herringbone designs._  
 __Hershey kisses__  
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hesperidium__ _n_ The fruit of a citrus plant, as an orange.  
-__hew__ _v_ :nine: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
+__hew__ _v_ :nine::m: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._ _A hand-hewn cave._  
 __hex key__ _n_ Allen key. _Hex key set._  
 __hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
 __hex<sup>2</sup>__ _v_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hey__  
-__heyday__ _n_ :eight: The period of one’s greatest popularity, vigor, or prosperity.  
+__heyday__ _n_ :nine: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
 __hibachi__ _n_ :two::hammer:  
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
@@ -7511,10 +7515,11 @@ __hinder__ _v_ :two::hammer:
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinge__ _v_  
 __hinky__  
-__hinterland__ _n_ :five: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hinterland__ _n_ :six: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ _n_ :camera:  
 __hip__ _adj_ :three::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
+__hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
 __hippocampus__ _n_ :pencil2:  
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
 __hires__ _n_  
@@ -7525,6 +7530,7 @@ __histamine__ _n_
 __historic__ _adj_  
 __historical__ _adj_  
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
+__histrionics__ _n_ Theatrical arts or performances. _Syn_ theatrical performance, representation _They had lunch, then went to the theater to enjoy an hour of histrionics._  
 __hit man__  
 __hit out__ _v_  
 __hit parade__  

@@ -1,18 +1,3 @@
-__galore__  
-__gloomy__ _adj_  
-__gracious__ _adj_ _Gracious accommodations._  
-__hassle__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
-__haunt__ _n_  
-__hectic__ _adj_ _A beautiful diversion from your hectic day._  
-__heifer__ _n_  
-__heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
-__hemicycle__ _n_  
-__heron__ _n_  
-__hewn__ _v_ _A hand-hewn cave._  
-__heydays__  
-__hinterland__ _n_  
-__hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
-__histrionics__ _n_ Theatrical arts or performances. _Syn_ theatrical performance, representation _They had lunch, then went to the theater to enjoy an hour of histrionics._  
 __hive__ _n_ _A hive of art in the center of downtown._  
 __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
