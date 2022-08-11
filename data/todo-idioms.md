@@ -1,18 +1,3 @@
-__bang for one’s buck__ _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
-__be on vacation__ _During January and February the trolleys are on vacation._  
-__before you know it__  
-__buckle up__ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._  
-__chime in__  
-__faint of heart__  
-__far and wide__  
-__I kid you not__  
-__in spades__ _Cultural savvy. Portland’s got it in spades._  
-__it goes without saying__  
-__keep cool__  
-__Lady Luck__  
-__make or break__  
-__oh my!__  
-__shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
 __sing along__ :two::hammer:  
