@@ -1,18 +1,3 @@
-__action-packed__ _adj_  
-__blackout curtains__  
-__bonfire__ _n_  
-__crockery__ _n_ :two::hammer:  
-__delectation__ _n_ :dart:  
-__dinghy__ _n_ _Rubber dinghy and fishing safaris._  
-__dreamboat__ _n_  
-__elk__ _n_  
-__ethos__ _n_  
-__forestry__  
-__frank__ _v_ (franked)  
-__garret__ _n_  
-__geld__ _v_ (gelded)  
-__good egg__ _n informal_ An agreeable or trustworthy person.  
-__halibut__ _n_  
 __Hamsa__ _n_  
 __hearty__ _adj_  
 __hemidemisemiquaver__ _n_  

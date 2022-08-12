@@ -152,7 +152,7 @@ __acrophobia__
 __across__ _adj, adv, prep_ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
-__action-packed__ _adj_ Full of activities, events and excitement.  
+__action-packed__ _adj_ :two: Full of activities, events and excitement.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
@@ -1472,6 +1472,7 @@ __blackjack<sup>2</sup>__ _v_ :two::hammer:
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
 __blackmail__ _n_  
+__blackout curtains__  
 __blackout__ _n_ :two::hammer: _Blackout dates._ _Blackout curtain._  
 __blackpool__  
 __blah story__  
@@ -1670,7 +1671,7 @@ __bone chips__ _n pl_ Small pieces of cancellous bone generally used to fill bon
 __bone spurs__  
 __bone__ _n_ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
 __bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the lammergeier, or the osprey).  
-__bonfire__ _n_ :two::hammer:  
+__bonfire__ _n_ :three::hammer:  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
 __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_  
@@ -3683,6 +3684,7 @@ __croak__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
 __crock__ _n_ :two::hammer:  
+__crockery__ _n_ :two::hammer:  
 __croft__ _n_ :three::hammer::pencil2:  
 __cromagnon__ _n_ :mega:  
 __crone__ _n_ :three: A witchlike old woman.  
@@ -4086,7 +4088,7 @@ __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; 
 __deking__  
 __dekulakization__ _n_  
 __delectable__ _adj_ :nine::m::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._ _A delectable range of bath treats._  
-__delectation__ _n_  
+__delectation__ _n_ :dart::two::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
 __deleterious__ _adj_ :seven: Harmful often in a subtle or unexpected way. Having a harmful effect; injurious. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._  
@@ -4303,7 +4305,7 @@ __dine__ _v_
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
 __dingbat__ _n_  
-__dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
+__dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. _Rubber dinghy and fishing safaris._  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
 __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
 __dingy__ _adj_  
@@ -4714,6 +4716,7 @@ __drayman__
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :three::hammer:  
 __dread<sup>3</sup>__ _adj_  
+__dreamboat__ _n_  
 __dreamy__ _adj_ :four: __4__ _informal_ Inspiring delight; wonderful.  
 __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
@@ -5041,7 +5044,7 @@ __eligibility__
 __eligible__ _adj_  
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
-__elk__ _n_ (_n pl_ elk or elks)  
+__elk__ _n_ :two::hammer: (_n pl_ elk or elks)  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __elope__ _v intr_ :nine::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
@@ -6123,7 +6126,7 @@ __Forest Recreation Park__
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ :two: Covered with forest. :es: arbolado _A forested park rich in game._ _A forested municipal park._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
-__forestry__  
+__forestry__ _n_ :two::hammer:  
 __foretell__  
 __foretoken__ _n_ An event that is experienced as indicating important things to come. _Syn_ augury, preindication, sign _He refused to think that the rain was a foretoken of gloom for his date that night._  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
@@ -6202,6 +6205,7 @@ __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in Mar
 __franchise__ _n_ :two: __2a__ The right of membership in a professional sports league. __b__ A team and its operating organization having such membership. _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
 __frangible__ _adj_ :two: Capable of being broken; breakable.  
+__frank__ _v_ (franked)  
 __frankincense__ _n_ :two::astonished: :es: incienso  
 __Frappuccino__  
 __frat house__  
@@ -6460,6 +6464,7 @@ __garment__
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnet__ _n_ :two::hammer: :es: granate  
 __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
+__garret__ _n_  
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
@@ -6502,6 +6507,7 @@ __gearbox__
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gel__ _v_ (gelled) _His hair was neatly gelled._  
+__geld__ _v_ (gelded)  
 __gelding__ _n_ :three:hammer:  
 __gelid__ _adj_ :two: Extremely cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._ _Gelid water._ _A man of gelid reserve._  
 __gelt__  
@@ -6727,7 +6733,7 @@ __gonorrhea__
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
 __Good Book__ _n_  
-__good egg__ _n_ _A heel who learns how to be a good egg._  
+__good egg__ _n informal_ :two: An agreeable or trustworthy person. _A heel who learns how to be a good egg._  
 __good for you__  
 __Good Friday__ _n_ :three::hammer:  
 __good Samaritan__  
@@ -7115,6 +7121,7 @@ __half-hearted__ _adj_ Done with no real interest or enthusiasm.
 __half-wits__  
 __halfback__  
 __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
+__halibut__ _n_  
 __hall boy__ _n_  
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :seven: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic. _High fashion is the hallmark of that boutique._  
