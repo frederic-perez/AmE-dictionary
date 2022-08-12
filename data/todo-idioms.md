@@ -1,4 +1,16 @@
-__shoot the breeze__  
+__as you please__  
+__belly up__  
+__beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
+__far and wide__ _Shoppers flock from far and wide._  
+__for keeps__  
+__for that matter__  
+__generally speaking__ Used to say that a statement describes a general feeling or opinion relating to or affecting all the people or things in a group. _Generally speaking, people like her as a leader._  
+__have a say (in something)__ _He has a say in the matter._  
+__in its own right__ Because of its own special qualities and not because of a connection with something else. _Though it’s based on a best-selling novel, the movie is great in its own right._  
+__make waves__  
+__new blood__  
+__prick up (one’s) ears__  
+__shoot the breeze__ :two::hammer:  
 __simply put__ :two::hammer:  
 __sing along__ :two::hammer:  
 __sleep in__  
@@ -129,6 +141,3 @@ __word of mouth__
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __yake your pick__  
 __young at heart__  
-__belly up__  
-__for keeps__  
-__for that matter__  

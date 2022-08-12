@@ -1,3 +1,21 @@
+__action-packed__ _adj_  
+__blackout curtains__  
+__bonfire__ _n_  
+__crockery__ _n_ :two::hammer:  
+__delectation__ _n_ :dart:  
+__dinghy__ _n_ _Rubber dinghy and fishing safaris._  
+__dreamboat__ _n_  
+__elk__ _n_  
+__ethos__ _n_  
+__forestry__  
+__frank__ _v_ (franked)  
+__garret__ _n_  
+__geld__ _v_ (gelded)  
+__good egg__ _n informal_ An agreeable or trustworthy person.  
+__halibut__ _n_  
+__Hamsa__ _n_  
+__hearty__ _adj_  
+__hemidemisemiquaver__ _n_  
 __hive__ _n_ _A hive of art in the center of downtown._  
 __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
@@ -31,6 +49,7 @@ __intemperate__ _adj_
 __interpretive__ _adj_ :two::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._  
 __intersperse__ _v_  
 __interspersed__ _v_  
+__intertwine__ _v_  
 __intricacy__ _n_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
@@ -62,6 +81,7 @@ __juniper__ _n_ _Juniper is the basis for any gin._
 __junket__ _n_ /JUNK-ut/ __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
 __junkjard__ _n_  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
+__jut__ _v_ (jutting)  
 __juvenile__  
 __K-pop__ _n_ _The characteristic pop music of South Korea._  
 __kale__ _n_  
@@ -98,6 +118,8 @@ __lampoon__ _n_ :two::hammer: _All get a solid lampooning._
 __lamppost__ _n_  
 __landline__ _n_ (phone)  
 __lap__ _v_ :astonished: _Vampire bats feed by lapping the blood of their prey through small cuts made with their razor sharp incisor teeth._  
+__Lapland__ _n_  
+__Laponia__ _n_  
 __laquer__ _n_  
 __lashing__ _n_ _A toasted muffin with serious lashings of Hollandaise sauce._  
 __lateral thinking__  
@@ -120,7 +142,7 @@ __light rail__ _n_ :three::hammer:
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :three::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
-__lingonberry__ _n_ :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
+__lingonberry__ _n_ :two::hammer: :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
 __lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
 __lintel__ _n_  
 __liquefaction__ _n_  
@@ -149,6 +171,7 @@ __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitut
 __lucrative__ _adj_ /ˈluːkrətɪv/ Producing a profit; profitable; remunerative.  
 __Luddite__ _n_ /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __luge__ _n_  
+__lumberjack__ _n_  
 __luminaria__ _n_  
 __luminary__ _n_ :two::hammer: (luminaries) _The luminary Charles Darwin._  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
@@ -174,7 +197,7 @@ __mainstream__
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
-__makeover__ _n_ _The ultimated makeover story of a maid-turned-princess._  
+__makeover__ _n_ :two::hammer: _The ultimate makeover story of a maid-turned-princess._  
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallrats__  
@@ -250,6 +273,7 @@ __misphrase__ _v tr_
 __misstep__ _n_ :pencil2:  
 __mix-and-match__ _adj_ _Mix-and-match designs._  
 __mixologist__ _n_ :two::hammer:  
+__mixology__ _n_  
 __mnemonic__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
@@ -288,7 +312,7 @@ __moveable__ _adj_ _Moveable bridges._
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
-__munch__ _v_  
+__munch__ _v_ :two::hammer:  
 __mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
 __munitions__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
@@ -342,6 +366,7 @@ __nomadic__
 __Nordic jumps__ _n_  
 __nori__ _n_ _Nori crusted tuna._  
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
+__Norse__ _adj, n_  
 __nosh<sup>1</sup>__ _v intr_ _informal_ :three: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _v tr_ to snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
@@ -363,7 +388,7 @@ __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
-__occasion__ _n_ An event that occurs at a critical time. _It was needed only on special occasions._  
+__occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
 __octopi__ _n pl_ A plural of octopus.  
 __odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
@@ -380,6 +405,7 @@ __omnibus__ _n_
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
+__onslaught__ _n_  
 __op-ed__ _adj, n_ :mega:  
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
@@ -486,6 +512,7 @@ __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, di
 __perusal__ _n_  
 __pervasive__  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
+__petticoat__  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -563,6 +590,7 @@ __prick__ _v_
 __prickly__ _adj_  
 __priestess__ _n_  
 __prime__ _adj_ _Prime steaks._  
+__primeval__ _adj_  
 __primo__ _adj, adv, n_  
 __primrose__ _n_  
 __pristine__ _adj_  
@@ -611,7 +639,7 @@ __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, r
 __quaint__ _adj_ :eight::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._  
 __quake__ _v_ _Quaking aspen._  
 __qualm__ _v_  
-__quench__ _v_  
+__quench__ _v_ :two::hammer:  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
 __quintessential__ _adj_ :three::hammer:  
@@ -707,6 +735,7 @@ __rollicking__
 __rolling hills__ _n_ :four::hammer:  
 __rom-com__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
+__romp__ _v_  
 __rooftop deck__ _n_ :two::hammer:  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rosette__ _n_  
@@ -737,6 +766,7 @@ __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented
 __salient__ _adj_ /SAIL-yunt/  
 __samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
+__Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
 __samurai__ _n_ :mega:  
 __San Diegans__ _n_  
 __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
@@ -754,6 +784,7 @@ __savage__
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy__ _adj_ _Savvy travelers._  
+__sawdust__ _n_  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
@@ -772,7 +803,7 @@ __schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or mor
 __schuss__ _v_  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
-__scone__ _n_ :four::hammer: (scones) _Cookery_ :es: bollo  
+__scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
 __scour__ _v_  
 __scrap<sup>1</sup>__ _n_  
@@ -948,6 +979,7 @@ __stardom__ _n_
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
 __stargaze__ _v_  
 __stash__ _v_  
+__stately__ _adj_ _A stately afternoon tea._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
 __stationer__ _n_  
@@ -999,6 +1031,7 @@ __strobe lights__
 __stroganoff__  
 __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
+__stuffy__ _adj_ :two::hammer: _A stuffy routine meeting._  
 __stunning__ _adj_ :three::hammer:  
 __sturdy__ _adj_  
 __sturgeon__ _n_ :es: esturión  
@@ -1083,6 +1116,7 @@ __terra cotta__ _n_ :pencil2:
 __terrazzo__  
 __testament__ _n_  
 __thalis__  
+__thaw__ _v_ _Let the meat thaw out and simmer._  
 __The Crown__ _n_  
 __theatregoer__ _n_  
 __thicket__ _n_  
@@ -1125,6 +1159,7 @@ __timeshare__
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
 __tobogganer__  
+__tobogganing__ _n_ _Summer tobogganing run._  
 __toil__ _v_ _Artisans toil in fascinating foundries._  
 __toll__ _n_ _Emotional toll._  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
@@ -1204,6 +1239,7 @@ __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _Aft
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
+__unharness__ _v_  
 __unheeded__  
 __unkempt__ _adj_  
 __unmissable__  
@@ -1216,6 +1252,7 @@ __unsurmountable__ _adj_
 __unwind__ _v_ :four: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
+__upholder__ _n_  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __uptown__ _adj, adv, n_ :two::hammer:  
@@ -1288,6 +1325,7 @@ __whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in ju
 __whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
 __white-knuckled__  
 __whitewater__ _n_ :three::hammer:  
+__whizz__ _v_  
 __whodunnit__ _n informal_  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
@@ -1328,6 +1366,7 @@ __yearn__ _v_
 __yeast__ _n_  
 __yesteryear__ _n_ :two::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
+__Yggdrasil__ _n_  
 __yogurt__ _n_ (yoghourt)  
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
