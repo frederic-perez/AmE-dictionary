@@ -7139,6 +7139,7 @@ __hammam__ _n_
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper<sup>1</sup>__ _n_ :three::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
 __hamper<sup>2</sup>__ _v_ :astonished::five::hammer: (hampered)  
+__Hamsa__ _n_  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
 __hamstring__ _n_ :four::hammer: /ˈhæmˌstrɪŋ/  
 __hand blender__ _n_  
@@ -7347,7 +7348,7 @@ __heartstring__ _n_ /HAHRT-string/ Heartstring is used, usually in the plural, t
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
-__hearty<sup>1</sup>__ _adj_ :eight::astonished:hammer: _Hearty fare._ __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._ _Hearty portions._ _A hearty steakhouse menu._  
+__hearty<sup>1</sup>__ _adj_ :nine::astonished:hammer: _Hearty fare._ __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._ _Hearty portions._ _A hearty steakhouse menu._  
 __hearty<sup>2</sup>__ _n_  
 __heat > to catch a lot of heat__  
 __heatedly__ _adv_ _Clashed heatedly._  
@@ -7425,6 +7426,7 @@ __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, r
 __hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hem<sup>2</sup>__ _v_  
 __hemicycle__ _n_  
+__hemidemisemiquaver__ _n_  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
 __hemlines__ _n_ :two::hammer:  
 __hemlock__ _n_ :two::hammer: :es: cicuta  
@@ -7548,7 +7550,7 @@ __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this 
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hitherto__ _adj, adv_ :five::hammer:  
-__hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
+__hive__ _n_ :two::hammer: (hives) _A hive of art in the center of downtown._ _Allergic reactions include rash, hives, and swelling of the face._  
 __HMOs__  
 __ho__  
 __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn’t capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
@@ -7599,6 +7601,7 @@ __holdover__
 __holdup__ _v_  
 __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a single stroke.  
 __hole up__ _v_ :two::hammer: (holed up)  
+__hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
 __holler__ _v_ :four: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
@@ -7606,6 +7609,7 @@ __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hi
 __holloware bullion__  
 __holly__ _n_ :two::astonished::pencil2: Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
 __Hollywood__ _n_ :mega: /ˈhɒlɪˌwʊd/  
+__holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __Holy Ghost__ _n_ :two::hammer:  
 __Holy Rood__  
 __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
@@ -7626,7 +7630,7 @@ __homeowner__
 __homesick__ _adj_ :two::hammer:  
 __homesickness__ _n_  
 __homesite__ _n_ :two::hammer:  
-__homespun<sup>1</sup>__ _adj_ :two::hammer:  
+__homespun<sup>1</sup>__ _adj_ :three::hammer:  
 __homespun<sup>2</sup>__ _n_  
 __homestand__ _n_ :five: A series of games played at a team’s home field.  
 __homestead<sup>1</sup>__ _n_ :six::hammer:  
@@ -7643,6 +7647,7 @@ __hondo__ _n_ One hundred. _I got this bycicle for a hondo._
 __hone__ _v_ _Visitors can hone their skills on classic games._  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, blunt, sincere, up front  
 __honeycomb__ _n_ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
+__honeymoon__ _n_  
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _n_ _“Fragrant harbor” is the literal translation of Hong Kong._  
@@ -7697,7 +7702,7 @@ __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, es
 __horselaugh__  
 __horseplay__ _n_  
 __horsepower__ _n_ _Physical horsepower._  
-__horseradish__ _n_ :two::hammer:  
+__horseradish__ _n_ :three::hammer:  
 __horseshit__ _n_ _That’s like horseshit squared!_  
 __horseshoe__ _n_ :two::hammer: (horseshoes) :es: herradura  
 __horsetails__ _n_  
@@ -7728,14 +7733,14 @@ __hot__ _adj_ _We’ve got a hot crowd tonight._
 __hot-button__ _adj_ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
 __hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
-__hotbed__ _n_ :seven: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hotbed__ _n_ :nine: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotboxing__  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hotfoot__ _v_  
 __hothead__ _n_ :three::hammer:  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hots d’oeuvres__ _n_ /or-DERVEs/  
-__hotspot__  
+__hotspot__ _n_ :two::hammer:  
 __hotspur<sup>1</sup>__ _n_ /HOT-spuhr/ A rash, hotheaded person.  
 __hotspur<sup>2</sup>__ _adj_ /HOT-spuhr/ Having a rash, hotheaded temperament.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
@@ -7751,7 +7756,7 @@ __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ 
 __House Speaker__  
 __house trailer__ _n_ A mobile home.  
 __house wine__ _n_ :es: vino de la casa  
-__house__ _v_  
+__house__ _v_ :two::hammer:  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __house<sup>1</sup>__ _n_ __9__ (often House) A family line including ancestors and descendants, especially a royal or noble family: _the House of Orange._ _The houses of Navarre, Castile, and Aragon._  
 __house<sup>2</sup>__ _v_  
@@ -7773,7 +7778,7 @@ __hoverboard__ _n_ :two::hammer:
 __howl__ _v_ :two::hammer:  
 __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
-__hubbub__ _n_ :five::hammer:  
+__hubbub__ _n_ :six::hammer:  
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -7855,7 +7860,7 @@ __hyperpnea__ _n_ Abnormally deep breathing.
 __hypertensive__ _adj, n_ _To be hypertensive._  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
-__hypocorism__ _n_ A pet name, esp one using a diminutive affix: _“Sally” is a hypocorism for “Sarah”._  
+__hypocorism__ _n_ :two: A pet name, esp one using a diminutive affix. A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_ _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__  
 __hypocrite__  
 __hypocritical__ _adj_ :two::hammer::pencil2:  
@@ -7887,7 +7892,7 @@ __icicles__ _n_ :two::hammer:
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __icky__ _adj_ :three::hammer:  
 __iconoclasm__  
-__iconoclast__  
+__iconoclast__ _n_ :two: /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __iconoclastic__  
 __ID window__  
 __id__ _n_  

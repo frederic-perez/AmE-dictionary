@@ -1,18 +1,3 @@
-__Hamsa__ _n_  
-__hearty__ _adj_  
-__hemidemisemiquaver__ _n_  
-__hive__ _n_ _A hive of art in the center of downtown._  
-__hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
-__holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
-__homespun__  
-__honeymoon__ _n_  
-__horseradish__ _n_  
-__hotbed__ _n_ :two::hammer:  
-__hotspot__ _n_  
-__house__ _v_  
-__hubbub__  
-__hypocorism__ _n_ A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_  
-__iconoclast__ _n_ /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __illustrious__ _adj_  
 __imbue__ _v_  
 __impeccable__  
