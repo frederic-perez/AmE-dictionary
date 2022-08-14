@@ -1,18 +1,3 @@
-__illustrious__ _adj_  
-__imbue__ _v_  
-__impeccable__  
-__impervious__ _adj_  
-__impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
-__incunabula__ _n pl_  
-__inebriated__ _adj_  
-__ineffable__ _adj_ /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
-__inescapable__ _adj_ _In Portland, nature is inescapable._  
-__inlay__ _n_ _Wood inlay._  
-__inordinately__  
-__inroads__ _n_  
-__inscrutable__ _adj_ /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
-__insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
-__inspirit__ _v tr_ To instill courage or life into.  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __intemperate__ _adj_  
