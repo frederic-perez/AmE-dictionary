@@ -1,3 +1,28 @@
+__antipodean__ _adj_ _Syn_ antipodal  
+__bespoke__ _adj_ _Delivering bespoke professional services._  
+__boggle__ _v_ _The mind boggles._  
+__boon__  
+__bottle__ _v_ _Find a balance between bottling-up feelings and overreacting._  
+__bric-a-brac__  
+__carvery__ _n_  
+__chartered__ _adj_ :four::hammer: _Chartered accountants._  
+__confectionery__ _n_  
+__consecrate__ _v_ _The current church building was consecrated in 1909._  
+__conveyancing__ _n_ :two: The branch of legal practice dealing with the conveyance of property or real estate.  
+__cover charge__ _n_  
+__craniosacral__ _adj_  
+__decadent__ _adj_ :two::hammer: _Renowned for decadent and unique signature items._  
+__dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
+__donburi__ _n_  
+__ecumenical__ _adj_  
+__efect__ _v_ (effecting) _A view to effecting opportunities._  
+__ferret__ _n_  
+__fizz__ _n_  
+__frontline__  
+__grubby__  
+__gruff__ _adj_  
+__iffy__  
+__in-house__  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __intemperate__ _adj_  
@@ -8,6 +33,7 @@ __intertwine__ _v_
 __intricacy__ _n_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
+__iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
 __iron__ _n_ _(golf)_  
 __islander__  
 __islet__  
@@ -76,6 +102,7 @@ __lap__ _v_ :astonished: _Vampire bats feed by lapping the blood of their prey t
 __Lapland__ _n_  
 __Laponia__ _n_  
 __laquer__ _n_  
+__larder__ _n_  
 __lashing__ _n_ _A toasted muffin with serious lashings of Hollandaise sauce._  
 __lateral thinking__  
 __lauded__ _v_  
@@ -146,13 +173,14 @@ __Magna Carta__
 __magnum opus__ _n_ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._  
 __maharaja__ _n_  
 __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
+__mainland__ _n_ _Free delivery anywhare in mainland UK._  
 __mainline__  
 __mainstay__ _n_ :five::hammer:  
 __mainstream__  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
-__makeover__ _n_ :two::hammer: _The ultimate makeover story of a maid-turned-princess._  
+__makeover__ _n_ :three::hammer: _The ultimate makeover story of a maid-turned-princess._  
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallrats__  
@@ -307,6 +335,7 @@ __nibble on__
 __nibble__ _v_  
 __nibble<sup>1</sup>__ _n_ _Tasty oriental nibbles._  
 __nibble<sup>2</sup>__ _v_ :two::hammer: (nibbling) _You were nibbling on housemade pastries._  
+__nick__ _v_ _Marbles that we knicked from Greece._  
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
 __nightcap__ _n_ _A romantic nightcap._  
 __nightcaps__  
@@ -316,6 +345,7 @@ __nitty-gritty__ _n_ :two::hammer:
 __nix__ _v_  
 __no-frills__ _adj_ _informal_  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
+__no-nonsense__ _adj_ _A no-nonsense approach._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
 __Nordic jumps__ _n_  
@@ -361,6 +391,7 @@ __on-site__ _adj_ :two::hammer:
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __onslaught__ _n_  
+__onus__ _n_  
 __op-ed__ _adj, n_ :mega:  
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
@@ -573,6 +604,7 @@ __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anythi
 __prudery__ _n_  
 __pry__ _v_  
 __psyched__ _v_  
+__psychic reading__ _n_  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
 __punctilious__ _adj_ :dart: /pʌŋkˈtɪlɪəs/  
@@ -730,6 +762,7 @@ __sangria__ _n_
 __Saratoga__ _n_  
 __sardonic__ _adj_ Scornfully or cynically mocking. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
+__sashimi__ _n_  
 __sassy__  
 __sate__ _v_ _Sate your appetite._  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
@@ -757,6 +790,7 @@ __schnitzel__ _n_ :es: escalope
 __schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._  
 __schuss__ _v_  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
+__scion__ _n_  
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
@@ -779,6 +813,7 @@ __sealioning__ _n_ A critical term for a form of trolling that involves relentle
 __searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; highly critical. _Shakespeare’s searing tragedy._  
 __seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
 __seat sticks__  
+__seater__ _n_ __2__ One that has a specified number of seats—used in combination _a 2-seater jet._ _110 seater restaurant._  
 __seating__ _n_ _Plenty of garden seating._  
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
@@ -934,6 +969,7 @@ __stardom__ _n_
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
 __stargaze__ _v_  
 __stash__ _v_  
+__stately home__ _n_ _BrE_ A large mansion, esp one open to the public.  
 __stately__ _adj_ _A stately afternoon tea._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
@@ -973,6 +1009,7 @@ __storm<sup>1</sup>__ _n_ _A storm of dishes._
 __storm<sup>2</sup>__ _v_ _The U.S. women also stormed the 1996 Olympics._  
 __storybook__ _n_  
 __stow__ _v tr_  
+__straightedge__ _adj, n_ _Straightedge shave and head massage._  
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
@@ -1022,6 +1059,7 @@ __survival skills__ _n_
 __sustenance__ _n_ :two::hammer:  
 __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
+__swash__ _n_  
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
@@ -1035,6 +1073,7 @@ __synecdoche__ _n_ /sɪnˈɛkdəkɪ/
 __synonymous__ _n_ :pencil2:  
 __tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._  
 __tabbouleh__ _n_  
+__tableside__ _n_ _Topless tableside dancing._  
 __tabletop__ _adj, n_  
 __tackle__ _n_  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
@@ -1043,6 +1082,7 @@ __takeover__ _n_
 __talented__ _adj_  
 __tamarind__  
 __tangy__ _adj_ _Tangy BBQ duck._  
+__tankard__ _n_  
 __tankinis__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
 __tantalizing__ _adj_ :three::hammer:  
@@ -1126,6 +1166,7 @@ __top-flight__ _adj_ _Top-flight restaurant._
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
 __toppings__ _n_  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
+__toss__ _v_ _Create your own salad to be freshly tossed._  
 __tote bag__ _n_  
 __tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
@@ -1139,7 +1180,7 @@ __travertine__ _n_
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
-__treasure trove__ _n_ _Portland’s downtown is a treasure trove of architectural gems._  
+__treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
 __treetops__ _n_  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
@@ -1175,6 +1216,7 @@ __turntables__ _n_
 __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
 __turret__ _n_  
 __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
+__tweak__ _v_ _Tweak your workout routine._  
 __twist__ _n_ :three::hammer: _An innovative twist._  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
@@ -1185,6 +1227,8 @@ __umpteen__ _adj, n_
 __unabashed__ _adj_ :three::hammer: _Unabashed humor._  
 __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
 __unapologetic__ _adj_  
+__unassuming__ _adj_  
+__uncouth__  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
@@ -1227,6 +1271,7 @@ __venison__ _n_
 __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
+__vermeil__ _adj, n_  
 __verruciform__ _adj_ In the shape of a wart.  
 __verrucose__ _adj_ (verrucous) Covered with warts or wartlike projections.  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
@@ -1319,7 +1364,7 @@ __yatch__ _n_ :mega:
 __year-round__ _adj_ :three: Existing, active, or continuous throughout the year: _a year-round resort._  
 __yearn__ _v_  
 __yeast__ _n_  
-__yesteryear__ _n_ :two::hammer:  
+__yesteryear__ _n_ :three::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __Yggdrasil__ _n_  
 __yogurt__ _n_ (yoghourt)  
@@ -1327,6 +1372,6 @@ __yummy__ _adj_ _Yummy food._
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
 __zero in__  
-__zesty__  
+__zesty__ _adj_ :two::hammer: _Fruits with zesty peel._  
 __zinch__  
 __zipline__ _n_  

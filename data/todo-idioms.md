@@ -1,3 +1,9 @@
+__at (one’s) leisure__ _Enjoy coffee at your leisure._  
+__bring (something) to the table__ _What she brings to the table._  
+__from time to time__  
+__grasp the nettle__ _BrE_  
+__leaps and bounds__  
+__made to order__  
 __sleep in__  
 __smash hit__  
 __sneeze at__  
@@ -91,6 +97,7 @@ __until all hours (of the day and night)__ Until a very late hour of the night o
 __up and running__  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up-and-coming__ _Up-and-coming writers and artists._  
+__vamp up__  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
 __wake up on the wrong side of (the) bed__ To be in a particularly and persistently irritable, unhappy, or grouchy mood or state, especially when it is not in line with one’s normal disposition. _I’m sorry I snapped at you earlier, I think I just woke up on the wrong side of the bed today._  
 __wallflower__ Someone who remains on the outer edges of a social event, especially a dance or party, and does not participate due to being shy or unpopular. _I used to be a real wallflower when I was in high school. It wasn’t until I got to college that I finally started having a bit more confidence and began enjoying myself at parties._  
