@@ -413,6 +413,7 @@ __booby prize__ :astonished: A mock prize given to the worst player or performer
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
 __born to the purple__ _Both were born to the purple._  
+__bottle up__ :two::hammer: _Find a balance between bottling up feelings and overreacting._  
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  

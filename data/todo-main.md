@@ -1,18 +1,3 @@
-__antipodean__ _adj_ _Syn_ antipodal  
-__bespoke__ _adj_ _Delivering bespoke professional services._  
-__boggle__ _v_ _The mind boggles._  
-__boon__  
-__bottle__ _v_ _Find a balance between bottling-up feelings and overreacting._  
-__bric-a-brac__  
-__carvery__ _n_  
-__chartered__ _adj_ :four::hammer: _Chartered accountants._  
-__confectionery__ _n_  
-__consecrate__ _v_ _The current church building was consecrated in 1909._  
-__conveyancing__ _n_ :two: The branch of legal practice dealing with the conveyance of property or real estate.  
-__cover charge__ _n_  
-__craniosacral__ _adj_  
-__decadent__ _adj_ :two::hammer: _Renowned for decadent and unique signature items._  
-__dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
 __donburi__ _n_  
 __ecumenical__ _adj_  
 __efect__ _v_ (effecting) _A view to effecting opportunities._  

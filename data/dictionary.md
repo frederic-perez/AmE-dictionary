@@ -561,6 +561,7 @@ __anticlimax__ _n_
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
 __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
+__antipodean__ _adj_ _Syn_ antipodal  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :five::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antiquity__ _n_ _The wise men of antiquity._  
@@ -1330,7 +1331,7 @@ __besmirch__ _v_ :seven: /bih-SMERCH/ /bɪˈsmɜrtʃ/ (besmirched, besmirching) 
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
+__bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
@@ -1626,7 +1627,7 @@ __bog<sup>2</sup>__ _v_
 __bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
 __bogeyman__ _n_ Variant of boogeyman.  
 __bogged down__ _phr v_  
-__boggles__ _v_  
+__boggle__ _v_ :two::hammer: _The mind boggles._  
 __bogs__  
 __bogus__ _adj_ __1__ Counterfeit or fake; not genuine: _bogus money; bogus tasks._ _The art dealer proved the painting to be bogus._  
 __bohemian__ _adj_ _Bohemian boutiques._  
@@ -1753,7 +1754,6 @@ __botnet__
 __bottle fly__ _n_  
 __bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles.  
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
-__bottled up__ _v_  
 __bottom-line__ _adj_ _Fun also leads to bottom-line results._  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __boudoir__ _n_ :two::hammer:  
@@ -1872,8 +1872,7 @@ __breviary__ _n_ A book containing the hymns, offices, and prayers for the canon
 __brew__ _n_ :two: __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_ _They stop in after work for one or more brews._  
 __brewpub__ _n_  
 __briar__ _n_ :three::hammer: _Briar patch._  
-__bric-a-brac stores__  
-__bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
+__bric-a-brac__ _n_ :three: Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Bric-a-brac stores._ _Syn_ knickknackery, whatnot  
 __brick oven__ _n_ _Brick-oven pizza._  
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
 __brick-a-brac__ _n_  
@@ -2446,6 +2445,7 @@ __carve out__ _v_ :seven::hammer: (carved out)
 __carve__ _v_ :two::hammer: _Feast on oversized hand-carved sandwiches._ _Grilled meats carved tableside._  
 __carveouts__  
 __carver__ _n_ _Cuts of beef served tableside by a parade of roaming carvers._  
+__carvery__ _n_  
 __cascading__  
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
@@ -2643,7 +2643,7 @@ __Charter of Liberties__ _n_
 __charter school__ _n_ An experimental public school for kindergarten through grade 12; created and organized by teachers and parents and community leaders; operates independently of other schools.  
 __charter<sup>1</sup>__ _n_ :three::hammer: _Private jet charter._  
 __charter<sup>2</sup>__ _v_  
-__chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
+__chartered__ _adj_ :five: A chartered professional person has passed examinations in their profession. _Chartered accountants._  
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
 __chase__ _v_ :two: __3__ To decorate (metal) by engraving or embossing. _The infant received six bowls, gilded and chased._ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
@@ -3267,7 +3267,7 @@ __conduit__ _n_ :six::hammer:
 __coneys__  
 __confabulate__ _v_ :four: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
-__confectionery__ _n_  
+__confectionery__ _n_ :two::hammer:  
 __confederacy__  
 __Confederate flag__  
 __confederate<sup>1</sup>__ _adj_  
@@ -3319,7 +3319,7 @@ __consciousness__ _n_
 __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
-__consecrate__ _v_  
+__consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
 __consecutive__  
 __consensual__  
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
@@ -3398,6 +3398,7 @@ __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
 __conveyance__ _n_  
+__conveyancing__ _n_ :two: The branch of legal practice dealing with the conveyance of property or real estate.  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
 __convivial__ _adj_ :six: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._ _Convivial atmosphere._  
@@ -3550,7 +3551,7 @@ __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
-__cover charge__ _n_ :two: A fixed amount paid when arriving or added to the bill at a nightclub or restaurant for entertainment or services.  
+__cover charge__ _n_ :three: A fixed amount paid when arriving or added to the bill at a nightclub or restaurant for entertainment or services.  
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
@@ -3600,6 +3601,7 @@ __craggy__ _adj_ :six::hammer: _Craggy shore._
 __crakle__ _v_ _The phone collection crackles._  
 __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ _A late-night cram session._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :five::hammer: (cramps, cramped)  
+__craniosacral__ _adj_  
 __crank out__  
 __crank up__  
 __crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
@@ -3992,7 +3994,7 @@ __deburr__ _v_
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
 __decadence__ _n_ :two: __1__ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation __2a__ Behavior that is considered immoral because it concentrates too much on pleasure. _A life of sexual decadence._ __b__ So much pleasure that it almost seems morally wrong. _Eating like that every night is pure decadence._ _Enjoy elegant decadence._  
-__decadent__ _adj_ :five::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Decadent glory._  
+__decadent__ _adj_ :seven::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Renowned for decadent and unique signature items._ _Decadent glory._  
 __decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :two::hammer:  
 __decals__  
@@ -4523,6 +4525,7 @@ __docket__ _n_ :five::hammer:
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
+__dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :four::dart: /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. Dishonest or unreliable. Marked by skill in deception. _They try to protect members from dodgy sites._  
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
