@@ -1,18 +1,3 @@
-__501(c)(3)__ _n_ A charitable organization, named after Internal Revenue Code, Section 501(c)(3), which gives such organizations tax-exempt status. _501(c)(3) organization._  
-__appointed__ _adj_ :two::hammer:  
-__Arapahoe__  
-__atrium hotel__ _n_ _The first atrium hotel in America._  
-__barren__ _adj_  
-__bathhouse__ _n_ _Also RV campground with bath-house._  
-__batik__ _n_  
-__blackout date__ _n_ _Blackout dates apply._  
-__blackout period__ _n_ _Blackout periods may apply._  
-__boast__ _v_ _Our beautifully renovated hotel boasts 123 rooms._  
-__bucking__ _v_ _Bucking broncos._  
-__burgeoning__ _adj_  
-__campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
-__chauffeured__ _adj_ :two: Driven by a chauffeur.  
-__closeout__ _n_ :dart: A sale of goods at very low prices because a store wants to get rid of them.  
 __coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
 __coin-op__ _adj_ _Coin-op guest laundry._  
 __commendable__  

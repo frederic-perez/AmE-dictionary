@@ -24,6 +24,7 @@ __21__ _n_ Drinking game.
 __35-degree day__  
 __4-H__ _n_ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __411__ _n_  
+__501(c)(3)__ _n_ A charitable organization, named after Internal Revenue Code, Section 501(c)(3), which gives such organizations tax-exempt status. _501(c)(3) organization._  
 __8-track__ _n_ (eight-track) A form of magnetic tape technology for audio storage, popular from the mid-1960s to the early 1980s. _The eight-track audio tape._  
 __a bird in the hand is worth two in the bush__  
 __a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
@@ -623,7 +624,7 @@ __apple-knocker__ _n_ /AP-uhl nok-uhr/ __1__ [:scroll: The phrase came from frui
 __applesauce__  
 __applied science__ _n_  
 __appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
-__appointed__ _adj_ :three: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
+__appointed__ _adj_ :five: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
 __apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog; felt the comments were not apposite to the discussion._  
 __apposition__ _n_ :two::hammer: (grammar)  
@@ -654,7 +655,7 @@ __aqueduct__ _n_ :three::hammer:
 __aquifer__ _n_ :two::hammer:  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
-__Arapahoe__  
+__Arapahoe__ _n_ :two::hammer:  
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
@@ -820,6 +821,7 @@ __atonement__ _n_
 __atop__  
 __atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
 __atraumatic__ _adj_ Without injury.  
+__atrium hotel__ _n_ _The first atrium hotel in America._  
 __atrium__ _n_ :two::hammer:  
 __atrocious__  
 __atrocity__  
@@ -1109,7 +1111,7 @@ __barrel bombs__
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank’s barrel._  
 __barrel<sup>2</sup>__ _v_ _informal_ :three: To move or progress rapidly. _A truck barreling toward you._ _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
-__barren__ _adj_ :two::hammer:  
+__barren__ _adj_ :three::hammer:  
 __barrette__ _n_ :two: A small clasp for holding the hair in place.  
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
@@ -1141,9 +1143,10 @@ __bat__ _v_ _My community has really gone to bat for my family and I over and ov
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bate__ _v_ (bated) _They watched with bated breath._  
 __bath tissue__  
-__bathhouses__  
+__bathhouse__ _n_ :two::hammer: _Also RV campground with bath-house._  
 __bathwater__ _n_ Water in which a person bathes. _Let’s not throw out the baby with the bathwater._  
 __bathymetry__ _n_ :two: The measurement of the depth of bodies of water.  
+__batik__ _n_  
 __baton__ _n_ :two::hammer:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
 __batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
@@ -1474,7 +1477,7 @@ __blacklist<sup>1</sup>__ _n_
 __blacklist<sup>2</sup>__ _v_  
 __blackmail__ _n_  
 __blackout curtains__  
-__blackout__ _n_ :two::hammer: _Blackout dates._ _Blackout curtain._  
+__blackout__ _n_ :four::hammer: _Blackout dates apply_ _Blackout curtain._ _Blackout periods may apply._  
 __blackpool__  
 __blah story__  
 __blanched__ _v_  
@@ -1605,7 +1608,7 @@ __boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typica
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardrooms__  
 __boardwalk__  
-__boast__ _v_ :eight: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._  
+__boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
 __boatswain__  
 __bob<sup>1</sup>__ _v tr_ :seven::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
@@ -2094,7 +2097,7 @@ __burden__ _n_
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
 __burgeon__ _v_  
-__burgeoning__ _adj_ :nine: Rapidly developing or growing; flourishing.  
+__burgeoning__ _adj_ :nine::m: Rapidly developing or growing; flourishing.  
 __burgermeister__  
 __burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
 __burgundy__ _n_ :three: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
@@ -2302,6 +2305,7 @@ __camouflage__
 __camp<sup>1</sup>__ _n_ :four::hammer: _The Pacquiao camp did not object._ _Available May-August for groups, camps, and conferences._  
 __camp<sup>2</sup>__ _adj_ _A classic camp comedy._  
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
+__campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
 __camper shell__  
 __camper__ _n_ :three::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
 __campground__ _n_ :three: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
@@ -2659,7 +2663,7 @@ __chattel__ _n_ :three: An article of movable personal property. _Syn_ personalt
 __chatter<sup>1</sup>__ _n_ _A machine-gun chatter._  
 __chatter<sup>2</sup>__ _v_  
 __chatterbox__ _n informal_ :four::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
-__chauffeured__ _v_  
+__chauffeured__ _adj_ :three: Driven by a chauffeur.  
 __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
 __cheapen__ _v_  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
@@ -2977,6 +2981,7 @@ __close the loops__
 __closed shop__ _n_ A business establishment in which union membership is a condition of employment.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __closely__ _adv_ :two::hammer: _Obama’s words are being watched closely by world leaders._ _Watch closely._  
+__closeout__ _n_ :dart: A sale of goods at very low prices because a store wants to get rid of them.  
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
 __closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
