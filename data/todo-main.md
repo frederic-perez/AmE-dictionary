@@ -1,17 +1,60 @@
+__501(c)(3)__ _n_ A charitable organization, named after Internal Revenue Code, Section 501(c)(3), which gives such organizations tax-exempt status. _501(c)(3) organization._  
+__appointed__ _adj_ :two::hammer:  
+__Arapahoe__  
+__atrium hotel__ _n_ _The first atrium hotel in America._  
+__barren__ _adj_  
+__bathhouse__ _n_ _Also RV campground with bath-house._  
+__batik__ _n_  
+__blackout date__ _n_ _Blackout dates apply._  
+__blackout period__ _n_ _Blackout periods may apply._  
+__boast__ _v_ _Our beautifully renovated hotel boasts 123 rooms._  
+__bucking__ _v_ _Bucking broncos._  
+__burgeoning__ _adj_  
+__campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
+__chauffeured__ _adj_ :two: Driven by a chauffeur.  
+__closeout__ _n_ :dart: A sale of goods at very low prices because a store wants to get rid of them.  
+__coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
+__coin-op__ _adj_ _Coin-op guest laundry._  
+__commendable__  
+__concierge level__ _n_ :two::hammer:  
+__concourse__ _n_ _Art works on display in the concourses and terminal._  
+__conservatory__ _n_ _A tropical conservatory._  
+__continental breakfast__  
+__dazzling__  
+__deliver__ _v_ _We deliver._  
+__diorama__ _n_ :two::hammer:  
+__discerning__ _adj_ _A discerning traveler._  
+__dog fight__ _n_  
 __donburi__ _n_  
+__double take__ _n_ (double take) A delayed reaction to an unusual remark or circumstance after first either failing to notice anything unusual or reacting inappropriately, often performed as a comic device.  
 __ecumenical__ _adj_  
 __efect__ _v_ (effecting) _A view to effecting opportunities._  
+__encashment__ _n_  
+__etch__ _v_ _A profile identifying each peak is etched in a huge relief along the sidewalk._  
+__executive suite__ _n_  
+__extravaganza__  
+__famed__ _adj_  
 __ferret__ _n_  
+__finch__ _n_  
 __fizz__ _n_  
+__floodlight__  
 __frontline__  
+__galleria__ _n_ _Cafe galleria._  
+__gateway__ _n_  
+__gauge railroad__  
+__gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
+__grand dame__ _n_ __3__ A building or institution regarded as noteworthy on account of its age and historic prominence. _Grand dame hotel._  
 __grubby__  
 __gruff__ _adj_  
+__horseshoe__ _n_ :two::hammer:  
 __iffy__  
+__iguanodon__ _n_  
 __in-house__  
+__incentive__  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __intemperate__ _adj_  
-__interpretive__ _adj_ :two::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._  
+__interpretive__ _adj_ :three::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._ _A one-mile interpretive trail._  
 __intersperse__ _v_  
 __interspersed__ _v_  
 __intertwine__ _v_  
@@ -22,6 +65,7 @@ __iridology__ _n_ The study of the iris of the eye, especially as associated wit
 __iron__ _n_ _(golf)_  
 __islander__  
 __islet__  
+x__Italianate__ _adj_ Italian in style or character.  
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
@@ -46,14 +90,17 @@ __Juneteenth__
 __juniper__ _n_ _Juniper is the basis for any gin._  
 __junket__ _n_ /JUNK-ut/ __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
 __junkjard__ _n_  
+__jury__ _v_ (juried) _Juried art events._  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
 __jut__ _v_ (jutting)  
 __juvenile__  
 __K-pop__ _n_ _The characteristic pop music of South Korea._  
+__kachina__ _n_  
 __kale__ _n_  
 __kangaroo word__  
 __kayak__ _v_  
 __kayaking__  
+__kazoo__ _n_  
 __keiretsu__ _n_  
 __keno__ _n_ A game of chance, similar to lotto, that uses balls rather than counters.  
 __ketamine__ _n_ (Special K)  
@@ -78,6 +125,7 @@ __lace__ _n_ _Delicate lace._
 __laced__ _v_ _The brick streets are laced with sculptures._  
 __lacy__ _adj_  
 __Lady Liberty__ _n_ :two::hammer:  
+__Lafayette__ _n_  
 __laid-back__ _adj_ :three::hammer: _A fun and laid-back casino._ _A laid-back atmosphere._  
 __Lalique__  
 __lampoon__ _n_ :two::hammer: _All get a solid lampooning._  
@@ -88,6 +136,7 @@ __Lapland__ _n_
 __Laponia__ _n_  
 __laquer__ _n_  
 __larder__ _n_  
+__larger-than-life__ _adj_  
 __lashing__ _n_ _A toasted muffin with serious lashings of Hollandaise sauce._  
 __lateral thinking__  
 __lauded__ _v_  
@@ -105,7 +154,7 @@ __leviathan__ _n_ _You can sometimes see migrating leviathans._
 __libation__ _n_ :six::hammer:  
 __licentious__ _adj_  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
-__light rail__ _n_ :three::hammer:  
+__light rail__ _n_ :four::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :three::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
@@ -128,6 +177,7 @@ __logomachist__
 __longboat__ _n_ _A Viking longboat._  
 __loophole__ _n_ __2__ A small hole or slit in a wall, especially one through which small arms may be fired.  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
+__loose slots__ _n_ :two: Term used to describe slots that are generous payers, relative to the location they’re in. A loose slot will pay higher than the average payback percentage, sometimes by a considerable margin.  
 __loquacious__ _adj_ :astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __lore__ _n_ :three::hammer: _Crazy folk lore._  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
@@ -143,6 +193,7 @@ __luminaria__ _n_
 __luminary__ _n_ :two::hammer: (luminaries) _The luminary Charles Darwin._  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __luncheon__  
+__lurk__ _v_  
 __lurks__ _v_  
 __luscious__ _adj_ :two::hammer: _Luscious burgers._  
 __lush__ _adj_ :seven::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._ _A lush tropical forest._  
@@ -174,6 +225,7 @@ __manatee__ _n_ _The Antillean manatee is a large marine mammal with walrus-like
 __Mancunian__ _adj, n_  
 __Mandela effect__ _n_ A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
 __maneurisms__ _n_  
+__mangrove__ _n_  
 __Manhattanite__ _n_  
 __manic episode__ _n_  
 __manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
@@ -205,6 +257,7 @@ __megalomaniac__ _adj_
 __megastore__ _n_ :mega:  
 __meld__ _v_ /MELD/ To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._  
 __mellow__ _adj_ _A mellow vibe._  
+__melodrama__ _n_  
 __meltdown__  
 __memento__ _n_ :two::hammer: (mementoes)  
 __memorabilia__  
@@ -231,6 +284,7 @@ __micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (t
 __microbrew__ _n_ :four::hammer:  
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
+__mile high city__  
 __minimalist__ _adj_  
 __minnow__ _n_ _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __Miranda rights__ _n_  
@@ -252,6 +306,7 @@ __molding__ _n_ _Mahogany moldings._
 __moll__ _n_ _Mingle with mobsters and molls._  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
 __molluscum contagiosum__ _n_  
+__Molly Brown__ _n_  
 __mollycoddle<sup>1</sup>__ _v tr_ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] To be overprotective and indulgent toward. _Syn_ pamper  
 __mollycoddle<sup>2</sup>__ _n_ A person, especially a man or a boy, who is pampered and overprotected.  
 __molt<sup>1</sup>__ _v_  
@@ -265,6 +320,7 @@ __Moor__ _n_
 __moor__ _n_ :two::hammer: _Heather-filled moors._  
 __Moorish__ _adj_ _Moorish architecture._  
 __mop top hair__  
+__moray eel__ _n_  
 __moreish__ _adj_ :two::hammer: _Moreish cocktails._  
 __moreover__ _adv_ _Syn_ furthermore, also, further, in addition, too, as well, besides, likewise, what is more, to boot, additionally, into the bargain, withal  
 __morganatic__ _adj_  
@@ -279,6 +335,7 @@ __mousy__ _adj_ _A mousy accountant._
 __moveable__ _adj_ _Moveable bridges._  
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
+__mulch__ _n_  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __munch__ _v_ :two::hammer:  
 __mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
@@ -369,6 +426,8 @@ __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butch
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
 __oft__ _adv_  
+__okapi__ _n_  
+__Oktoberfest__ _n_  
 __ollie__ _n_  
 __omelet__ _n_ :mega: (omelette)  
 __omnibus__ _n_  
@@ -377,6 +436,8 @@ __one-of-a-kind__ _adj_ :two: Unique.
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __onslaught__ _n_  
 __onus__ _n_  
+__onyx__  
+__oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
 __op-ed__ _adj, n_ :mega:  
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
@@ -394,6 +455,7 @@ __ossify__ _v_ To change into bone; to become set in a rigidly conventional patt
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __otter__ _n_ :two::hammer: _Keep a look out for the sea otters._  
 __outcrop__ _n_ :three::hammer:  
+__outcropping__ _n_  
 __outcry__ _n_  
 __outfitter__ _n_ _Horseback outfitter._  
 __outgrowth__ _n_  
@@ -416,10 +478,11 @@ __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  
 __paganism__ _n_  
-__pageantry__ _n_ :two::hammer:  
+__pageantry__ _n_ :three::hammer:  
 __painstakingly__  
 __palate__ _n_  
-__pamper__ _v tr_ :five::hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._  
+__pamper__ _v tr_ :six:hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
+__pampering__ _n_  
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
 __panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
@@ -459,6 +522,7 @@ __paysleys__ _n_
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __pedestal__ _n_  
+__pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
 __pedigree__  
 __pediment__ _n_  
 __peephole__  
@@ -506,7 +570,7 @@ __piquancy__
 __pique__ _v_ _The video piqued your interest._  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __pizzeria__ _n_ :mega:  
-__planter__ _n_ :three: __3__ An early settler or colonist.  
+__planter__ _n_ :four: __3__ An early settler or colonist.  
 __plantman__ _n_  
 __plantwoman__ _n_  
 __Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
@@ -556,6 +620,7 @@ __prepsters__
 __presbytery__ _n_  
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
 __prescient__ _adj_ :es: clarividente, profético  
+__presidential suite__ _n_  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __prick__ _v_  
 __prickly__ _adj_  
@@ -594,7 +659,8 @@ __pulmonarias__ _n_
 __punch__ _n_ :es: ponche  
 __punctilious__ _adj_ :dart: /pʌŋkˈtɪlɪəs/  
 __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
-__punt__ _v_ _Punting on the river._  
+__punt<sup>1</sup>__ _n_ __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole.  
+__punt<sup>2</sup>__ _v_ _Punting on the river._  
 __punting__ _n_  
 __pupil__ _n_ /ˈpjuːpəl/  
 __purebred__  
@@ -622,6 +688,7 @@ __radar__ _n_ :mega:
 __rafting__ _n_ _River rafting._  
 __rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __ragu__ _n_  
+__rail car__  
 __raillery__ _n_  
 __rambler__ _n_  
 __rampant__ _adj_  
@@ -654,7 +721,7 @@ __reenactment__ _n_
 __refectory__ _n_ :two::hammer:  
 __refreshment__ _n_  
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
-__refurbish__ _v_ :two::hammer: (refurbished)  
+__refurbish__ _v_ :three::hammer: (refurbished)  
 __refurbishment__  
 __refuse__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regatta__ _n_ :three::hammer:  
@@ -703,6 +770,7 @@ __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._
 __Robert Burns__ _n_  
 __rockery__ _n_ :four::hammer:  
 __roll call__ _n_ _A unique roll call of featured designers._  
+__rollaway bed__  
 __rollicking__  
 __rolling hills__ _n_ :four::hammer:  
 __rom-com__  
@@ -714,7 +782,7 @@ __rosette__ _n_
 __rosewood__  
 __rosy__  
 __Rottweiler__ _n_  
-__rotunda__ _n_ :four::hammer:  
+__rotunda__ _n_ :six::hammer:  
 __round out__ _v_ _Alluring martinis round out the experience._  
 __rousing__ _adj_ :four::hammer: _A rousing crowd._ _A rousing tale._  
 __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._  
@@ -827,6 +895,7 @@ __sheet__ _n_ _A three-sheeted bed._
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shoe leather__ _n_  
+__shoeshine__ _n_  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoppe__ _n_ Variant of shop.  
 __shoreline__ _n_  
@@ -850,7 +919,7 @@ __sickbed__ _n_ A sick person’s bed.
 __side-splitting__ _adj_ _Side-splitting laughs._  
 __sideburns__ _n_  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
-__sightsee__ _v_  
+__sightsee__ _v_ :two::hammer:  
 __signage__ _n_ :two::hammer:  
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
@@ -882,6 +951,7 @@ __slithering__ _adj_
 __sliver__ _n_  
 __slog__ _n_ _The trail is a thrilling slog up the Virgin River._  
 __sloppy__  
+__slot machine__ _n_  
 __sloth__ _n_  
 __slough__ _n_  
 __slushies__ _n_ _Boozy slushies._  
@@ -904,6 +974,9 @@ __snuffbox__ _n_ :two::hammer:
 __sobriquet__ _n_ (soubriquet)  
 __social hour__ _n_  
 __socialite__  
+__sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
+__sofa bed__ _n_ :two::hammer:  
+__soloist__ _n_  
 __sonnet__ _n_  
 __sorely__ _adv_ _Sorely needed._  
 __sorrowful__  
@@ -933,7 +1006,7 @@ __splendid__ _adj_
 __splendor__ _n_ :three::hammer:  
 __splendour__ _n_  
 __splurge<sup>1</sup>__ _n_  
-__splurge<sup>2</sup>__ _v_  
+__splurge<sup>2</sup>__ _v_ :two::hammer:  
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
@@ -945,6 +1018,7 @@ __staddle__ _n_ /ˈstædəl/ __1__ A support or prop, esp a low flat-topped ston
 __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
 __stage play__  
 __stage show__  
+__stagecoach__ _n_  
 __stance__ _n_ :two::hammer:  
 __standee__  
 __standout__ _n_  
@@ -959,8 +1033,9 @@ __stately__ _adj_ _A stately afternoon tea._
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
 __stationer__ _n_  
-__statuary<sup>1</sup>__ _n_ :es: estatuas  
+__statuary<sup>1</sup>__ _n_ :two::hammer: :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
+__stature__ _n_ _A golf facility of world class stature._  
 __staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
 __staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
 __steak__ _n_ /steɪk/  
@@ -998,6 +1073,7 @@ __straightedge__ _adj, n_ _Straightedge shave and head massage._
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
+__stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
 __strife__ _n_  
@@ -1030,6 +1106,7 @@ __sum up__
 __summertime__ _n_ :pencil2:  
 __summiteer__ _n_ :astonished: An official who takes part in a summit conference.  
 __sumptuous__ _adj_ :three: /SUMP-shuh-wus/ Things that are extremely costly, rich, luxurious, or magnificent. _The hotel’s most sumptuous suite overlooks the lush gardens and includes a palatial marble bathroom with a spa and a commodious, intricately tiled walk-in shower._ _A sumptuous Sunday feast._  
+__sun deck__ _n_ A roof, balcony, or terrace used for sunbathing.  
 __suncatcher__ _n_  
 __sundae__ _n_  
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
@@ -1111,7 +1188,7 @@ __three-wheeler__ _n_
 __thrift shop__ _n_ A shop which sells used goods (especially clothes) at low prices. A shop that sells secondhand articles and especially clothes and is often run for charitable purposes.  
 __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
 __thrift__ _n_ _Thrift store._  
-__thrifty__ _adj_ _Thrifty car rental._  
+__thrifty__ _adj_ :two::hammer: _Thrifty car rental._  
 __throat__ _n_ _Throat clearing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
@@ -1152,6 +1229,7 @@ __topiary__ _adj, n_ :three::hammer: _Topiary garden._
 __toppings__ _n_  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __toss__ _v_ _Create your own salad to be freshly tossed._  
+__tot__ _n_  
 __tote bag__ _n_  
 __tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
@@ -1219,6 +1297,7 @@ __underbelly__ _n_ _The seedy underbelly of New York City._
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __underdog__  
 __underemployed__  
+__underfoot__ _adv_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
@@ -1233,7 +1312,7 @@ __unsavory__ _adj_ /ʌnˈseɪ və ri/
 __unscathed__ _adj_  
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
-__unwind__ _v_ :four: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
+__unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
 __upholder__ _n_  
@@ -1247,6 +1326,8 @@ __V8__ _n_ _(beverage)_
 __vacuous__  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
+__vampire bat__ _n_  
+__van__ _n_  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veal__ _n_  
 __vein__ _n_ :two::hammer: (not vessel)  
@@ -1277,6 +1358,7 @@ __voles__ _n_ _Water voles._
 __voucher__ _n_ _A lunch voucher._  
 __wade__ _v_  
 __waffle__  
+__wager__ _v_ :two::hammer:  
 __waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
 __wainscoting__ _n_  
 __walk-in__ _n_ _Appointments or walk-ins are welcome!_  
@@ -1291,7 +1373,7 @@ __water flumes__ _n_
 __waterbugs__ _n_  
 __waterfowl__ _n_  
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
-__watering hole__ _n_ :five: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
+__watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __wedding band__ _n_  
 __wee__ _n_  
 __well versed__ _adj_  
@@ -1300,7 +1382,7 @@ __wet bar__ _n_ :two::astonished: A small bar, as in the home or a hotel suite, 
 __wet suit__ _n_  
 __wetback__  
 __wharf__ _n_ :three: __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
-__wheelbarrow__ _n_  
+__wheelbarrow__ _n_ :two::hammer:  
 __wheelhouse__ _n_  
 __wherry__ _n_  
 __whimsical__ _adj_  
@@ -1309,7 +1391,7 @@ __whirlpool__ _n_
 __whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
 __whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
 __white-knuckled__  
-__whitewater__ _n_ :three::hammer:  
+__whitewater__ _n_ :four::hammer: _Whitewater rafting._  
 __whizz__ _v_  
 __whodunnit__ _n informal_  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
@@ -1324,6 +1406,7 @@ __wimpy__ _adj_
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
 __winter__ _v_ _Explorers wintered in the neighborhood in 1805._  
+__winterfest__ _n_ Any of various winter festivals.  
 __wintering__ _v_  
 __wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  
@@ -1337,6 +1420,7 @@ __wonky__ _adj_
 __woods__ _n pl_  
 __woodsy__ _adj_ :two::hammer: _A warm, woodsy room._  
 __word-hoard__ _n_ :dart: A person’s vocabulary.  
+__work desk__ _n_ :two: A desk used for work; a desk in the workplace.  
 __workforce__ _n_ (work force)  
 __worksheet__ _n_ _Ask for a library worksheet._  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  

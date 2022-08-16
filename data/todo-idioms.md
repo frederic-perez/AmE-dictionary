@@ -3,7 +3,10 @@ __bring (something) to the table__ _What she brings to the table._
 __from time to time__  
 __grasp the nettle__ _BrE_  
 __leaps and bounds__  
-__made to order__  
+__made to order__ :two::hammer:  
+__make the most of__ _Make the most of your trip._  
+__rest assured__ _Rest assured you’ll sleep like an angel._  
+__rock bottom__  
 __sleep in__  
 __smash hit__  
 __sneeze at__  
@@ -41,7 +44,7 @@ __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/o
 __tall order__  
 __tall tale__ :three::hammer:  
 __tap into__ :two::hammer: _Tap into the dark side of the Force._  
-__teem with (someone or something)__ To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._  
+__teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
 __test (one’s) mettle__  
@@ -105,10 +108,11 @@ __wash something down__ _Wash it down with a glass of milk._
 __water down__  
 __water torture__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
-__weather permitting__ :two::hammer:  
+__weather permitting__ :three::hammer:  
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
+__what the heck__  
 __what’s up with__  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
