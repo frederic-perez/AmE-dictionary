@@ -1,3 +1,6 @@
+__alleviate__ _v_ /uh-LEE-vee-ayt/  
+__carceral__ _adj_ /KAHR-suh-rul/ Of, relating to, or suggesting a jail or prison. _The room was eerily quiet and had a carceral aesthetic._ _Her article stressed the importance of rehabilitative measures in carceral institutions, such as career preparation and mental health support._  
+__chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
 __coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
 __coin-op__ _adj_ _Coin-op guest laundry._  
 __commendable__  
@@ -7,6 +10,7 @@ __conservatory__ _n_ _A tropical conservatory._
 __continental breakfast__  
 __dazzling__  
 __deliver__ _v_ _We deliver._  
+__dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
 __diorama__ _n_ :two::hammer:  
 __discerning__ _adj_ _A discerning traveler._  
 __dog fight__ _n_  
@@ -27,15 +31,18 @@ __frontline__
 __galleria__ _n_ _Cafe galleria._  
 __gateway__ _n_  
 __gauge railroad__  
+__gegenschein__ _n_ A faint glowing spot in the sky, exactly opposite the position of the sun. _Syn_ counterglow _The gegenschein is so faint that it cannot be seen if there is any moonlight or if it falls in the vicinity of the Milky Way._  
 __gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
 __grand dame__ _n_ __3__ A building or institution regarded as noteworthy on account of its age and historic prominence. _Grand dame hotel._  
 __grubby__  
 __gruff__ _adj_  
 __horseshoe__ _n_ :two::hammer:  
+__hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __iffy__  
 __iguanodon__ _n_  
 __in-house__  
 __incentive__  
+__inflection point__ _n_ A moment of dramatic change, especially in the development of a company, industry, or market.  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __intemperate__ _adj_  
@@ -50,10 +57,13 @@ __iridology__ _n_ The study of the iris of the eye, especially as associated wit
 __iron__ _n_ _(golf)_  
 __islander__  
 __islet__  
-x__Italianate__ _adj_ Italian in style or character.  
+__Italianate__ _adj_ Italian in style or character.  
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
+__jackrabbit<sup>1</sup>__ _n_ /JAK-rab-it/ [:scroll: The word jackrabbit is a misnomer. A jackrabbit is a hare, not a rabbit. It is called a jackrabbit because of its long ears, as if those of a jackass. The metaphorical use is from a jackrabbit’s sudden movement. This has given us the slang “jackrabbit start” meaning a start in which a person accelerates very quickly as a traffic light turns green, maybe even before the light has turned.] Any of various hares having long ears and very long hind legs.  
+__jackrabbit<sup>2</sup>__ _v intr_ To move or begin to move very quickly.  
+__jackrabbit<sup>3</sup>__ _adj_ Moving or beginning to move very quickly.  
 __Jacob’s ladder__ _n_  
 __jaded__ _adj_ _A jaded traveler._  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
@@ -151,6 +161,7 @@ __liquidate__ _v_ _The store liquidates overstocks and discontinued items._
 __lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __listing__ _n_ _Lodging listings._  
+__litany__ _n_ /LIT-uh-nee/  
 __living room__ _n_  
 __living statue__  
 __loanword__ _n_ :two::hammer:  
@@ -240,6 +251,7 @@ __mediocre__
 __meerkats__ _n_  
 __megalomaniac__ _adj_  
 __megastore__ _n_ :mega:  
+__melancholia__ _n_ /mel-un-KOH-lee-uh/  
 __meld__ _v_ /MELD/ To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._  
 __mellow__ _adj_ _A mellow vibe._  
 __melodrama__ _n_  
@@ -270,6 +282,7 @@ __microbrew__ _n_ :four::hammer:
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
 __mile high city__  
+__miniate__ _v tr_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
 __minimalist__ _adj_  
 __minnow__ _n_ _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __Miranda rights__ _n_  
@@ -445,6 +458,7 @@ __outcry__ _n_
 __outfitter__ _n_ _Horseback outfitter._  
 __outgrowth__ _n_  
 __outing__ _n_  
+__outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_  
 __outpost__ _n_  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
@@ -571,6 +585,7 @@ __plump__ _v_
 __plush__ _n_ _A plush booth in the bar._  
 __plushy__ _adj_  
 __Pluto__ _n_  
+__plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
 __ply__ _v_ :three: _Yatchs ply between the islands._ _Little shops where craftmen still ply their wares._  
 __pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
 __pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
@@ -762,6 +777,7 @@ __rom-com__
 __Romanesque__ _adj_ :three::hammer: :es: románico  
 __romp__ _v_  
 __rooftop deck__ _n_ :two::hammer:  
+__roorback__ _n_ A false or slanderous story used for political advantage.  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rosette__ _n_  
 __rosewood__  
@@ -771,6 +787,7 @@ __rotunda__ _n_ :six::hammer:
 __round out__ _v_ _Alluring martinis round out the experience._  
 __rousing__ _adj_ :four::hammer: _A rousing crowd._ _A rousing tale._  
 __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._  
+__rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __ruches__ _n_  
 __rugged__ _adj_ :three::hammer: _The rugged trail._  
 __rummage__ _v_  
@@ -865,6 +882,9 @@ __sequela__ _n_ A morbid condition following or occurring as a consequence of an
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __Serengeti__ _n_ :pencil2:  
 __serigraph__ _n_  
+__serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
+__serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.  
+__serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquipedalian__ _adj, n_  
 __sesquipedalianism__ _n_ /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
 __shallot__ _n_  
@@ -913,7 +933,7 @@ __silviculture__ _n_
 __simulcast__  
 __sinfully__ _adv_ _Sinfully delicious desserts._  
 __sing-along__ _n_  
-__singlet__ _n_  
+__singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
 __sit__ _v_ _The nightlife district sits just north of the Chicago River._  
 __sizzle__ _v_ :three::hammer: _Sizzling burgers/soups._  
 __skate__ _n_ _Need skates? Rent them for $10._  

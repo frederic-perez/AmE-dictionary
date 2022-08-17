@@ -2,6 +2,7 @@ __at (one’s) leisure__ _Enjoy coffee at your leisure._
 __bring (something) to the table__ _What she brings to the table._  
 __from time to time__  
 __grasp the nettle__ _BrE_  
+__holy moley__ An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __leaps and bounds__  
 __made to order__ :two::hammer:  
 __make the most of__ _Make the most of your trip._  
@@ -135,5 +136,10 @@ __within walking distance__
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
+__written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __yake your pick__  
+__yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
+__yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
+__you look a little peaked__ You look ill, especially as if you might vomit. _You look a little peaked since you got off that roller coaster. Do you want some ginger ale to settle your stomach?_  
+__you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __young at heart__  
