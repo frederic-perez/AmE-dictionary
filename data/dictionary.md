@@ -372,6 +372,7 @@ __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. 
 __allegedly__  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
+__alleviate__ _v_ /uh-LEE-vee-ayt/  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
 __allies__ _n_  
@@ -2394,6 +2395,7 @@ __carbine__ _n_
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __carcass__ _n_ :two: Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
+__carceral__ _adj_ /KAHR-suh-rul/ Of, relating to, or suggesting a jail or prison. _The room was eerily quiet and had a carceral aesthetic._ _Her article stressed the importance of rehabilitative measures in carceral institutions, such as career preparation and mental health support._  
 __card reader__ _n_  
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
@@ -2700,6 +2702,7 @@ __cherry blossoms__ _n_
 __cherry pick__ _v_ (cherrypick)  
 __cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
+__chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
 __chevron__ _n_  
 __chewed up__  
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
@@ -3054,6 +3057,7 @@ __coerced__
 __coercion__ _n_  
 __coeval__ _adj, n_ :two::hammer:  
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
+__coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
 __coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee-table book__  
 __coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
@@ -3079,6 +3083,7 @@ __coiffure<sup>2</sup>__ _v tr_ To arrange or dress (hair).
 __coil__ _v_ :two::hammer:  
 __coin purse__  
 __coin__ _v_ :four::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._ _The first casino was coining millions._  
+__coin-op__ _adj_ Coin-operated. _Coin-op guest laundry._  
 __coincided__ _v_  
 __coincidental__  
 __coincidentally__  
@@ -3161,7 +3166,7 @@ __commandeered__ _v_ :astonished::two::hammer:
 __commander in chief__  
 __commemorate__ _v_ /kuh-MEM-uh-rayt/  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
-__commendable__ _adj_ :four: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
+__commendable__ _adj_ :five: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__ _adj_ :three: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
@@ -3247,6 +3252,7 @@ __concertmistress__ _n_ A woman who is the first violinist in a symphony orchest
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
 __concession__ _n_ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __conch__ _n_ _A conch farm._  
+__concierge level__ _n_ :two::hammer:  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
 __conciliatory__ _adj_  
 __concise__  
@@ -3255,7 +3261,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :seven::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
-__concourse__ _n_ :seven::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._  
+__concourse__ _n_ :eight::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
@@ -3330,7 +3336,7 @@ __consensual__
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
-__conservatory__ _n_ :six: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
+__conservatory__ _n_ :seven: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. _A tropical conservatory._ :es: invernadero  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
 __consign__ _v_ (consigned) _Fashionable consigned clothes._  
 __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
@@ -3370,6 +3376,7 @@ __contested shot__ _n_ (vs uncontested shot)
 __contextualize__ _v_ :dart::four:  
 __contiguous > the contiguous U.S.__  
 __continence__ _n_ :two::hammer:  
+__continental breakfast__  
 __contingency plan__ _n_ :two::hammer:  
 __contingency__ _n_ :seven::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _adj_ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
@@ -4108,7 +4115,7 @@ __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate 
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
 __deliver<sup>1</sup>__ _v tr_ :two::hammer:  
-__deliver<sup>2</sup>__ _v intr_ :dart::six: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
+__deliver<sup>2</sup>__ _v intr_ :dart::seven: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
 __deliverance__ _n_ :five::hammer: _Hope and deliverance._  
 __delivers__  
 __delivery note__  
@@ -4287,6 +4294,7 @@ __digs__ _n_ _Sherman took digs at the NFL during a news conference._
 __dike__ _n_ :pencil2: (dyke)  
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
+__dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
 __dilemma__  
 __dilettante__ _n_ A dabbler in an art or a field of knowledge. _Syn_ sciolist _He claimed to be serious about his paintings, but he was at heart a mere dilettante._  
 __diligent__ _adj_ :two::dart: Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
@@ -4320,7 +4328,7 @@ __dinking<sup>2</sup>__ _v_
 __dinky__ _adj_ :four: Of small size or consequence; insignificant. _A dinky little community._  
 __diocese__ _n_  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
-__diorama__ _n_  
+__diorama__ _n_ :three::hammer:  
 __dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
 __diphthong__ _n_  
@@ -4360,7 +4368,7 @@ __disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
-__discerning__ _adj_ :dart: _Downtown Boulder has everything a discerning diner could ask for and more._  
+__discerning__ _adj_ :dart::two::hammer: _Downtown Boulder has everything a discerning diner could ask for and more._ _A discerning traveler._  
 __discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  

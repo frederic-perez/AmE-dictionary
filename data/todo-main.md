@@ -1,18 +1,3 @@
-__alleviate__ _v_ /uh-LEE-vee-ayt/  
-__carceral__ _adj_ /KAHR-suh-rul/ Of, relating to, or suggesting a jail or prison. _The room was eerily quiet and had a carceral aesthetic._ _Her article stressed the importance of rehabilitative measures in carceral institutions, such as career preparation and mental health support._  
-__chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
-__coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
-__coin-op__ _adj_ _Coin-op guest laundry._  
-__commendable__  
-__concierge level__ _n_ :two::hammer:  
-__concourse__ _n_ _Art works on display in the concourses and terminal._  
-__conservatory__ _n_ _A tropical conservatory._  
-__continental breakfast__  
-__dazzling__  
-__deliver__ _v_ _We deliver._  
-__dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
-__diorama__ _n_ :two::hammer:  
-__discerning__ _adj_ _A discerning traveler._  
 __dog fight__ _n_  
 __donburi__ _n_  
 __double take__ _n_ (double take) A delayed reaction to an unusual remark or circumstance after first either failing to notice anything unusual or reacting inappropriately, often performed as a comic device.  
