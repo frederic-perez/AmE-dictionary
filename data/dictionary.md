@@ -360,6 +360,7 @@ __all righty__
 __all that said,__  
 __all-encompassing__ _adj_ _An all-encompassing experience._  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
+__all-inclusive__ _adj_ _All-inclusive package._  
 __all-knowing__ _adj_ _Not even the all-knowing Google has a definitive answer to my question._  
 __all-nighters__ _n_  
 __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
@@ -562,6 +563,7 @@ __anticlimactic__ _adj_ :pencil2:
 __anticlimax__ _n_  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
+__antipasto__ _n_ (_n pl_ antipastos or antipasti)  
 __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
 __antipodean__ _adj_ _Syn_ antipodal  
 __antiquated__ _adj_ :three::hammer:  
@@ -897,7 +899,7 @@ __average Joe__ _n_ _slang_ :two: An ordinary man.
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
 __aviary__ _n_ :three::hammer:  
-__avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._  
+__avid__ _adj_ :five::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avoidance__ _n_  
@@ -917,6 +919,7 @@ __ax__
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
+__Ayurveda__ _n_  
 __azure<sup>1</sup>__ _n_ :two::hammer:  
 __azure<sup>2</sup>__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
@@ -962,6 +965,7 @@ __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
+__backpacking__ _n_  
 __backpedal__ _v_ :two::hammer:  
 __backslid__ _v_  
 __backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
@@ -1422,6 +1426,7 @@ __binging__ _v_
 __binocular__ _adj_ :mega: Adapted for or using both eyes.  
 __binoculars__ _n pl_ (plurale tantum)  
 __bio__ _n_ :two::hammer:  
+__biography__  
 __biomass__  
 __biome__ _n_  
 __biopic__  
@@ -1607,7 +1612,7 @@ __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A 
 __board__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
 __boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typically while their owners are on vacation. _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
-__boardrooms__  
+__boardroom__ _n_ :two::hammer: _Private boardrooms available._  
 __boardwalk__  
 __boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
@@ -1732,6 +1737,7 @@ __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; boo
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
 __bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
+__booty__ _n_ _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
 __bop<sup>1</sup>__ _v tr_ :three: To hit or strike.  
@@ -1812,7 +1818,7 @@ __brainpower__ _n_
 __brainwash__ _v_  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
-__braised__ _adj_ (Cookery) Cooked by braising. _Braised Cornish hen._  
+__braised__ _adj_ :two: (Cookery) Cooked by braising. _Braised Cornish hen._ _Braised lamb steak._  
 __brambles__ _n_ :six::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
@@ -2016,7 +2022,8 @@ __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation.
 __bugbear__ _n_ :three: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __bugger__ _n_ :two::hammer: (buggers)  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
-__bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
+__bugle<sup>1</sup>__ _n_ :three::hammer: _The echo of Chinese bugles._  
+__bugle<sup>2</sup>__ _v_ _Bugling elk._  
 __bugout__  
 __build a future__ _phr_ :es: labrarse un futuro  
 __build up__  
@@ -2805,7 +2812,7 @@ __chrome__ _n_
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chuck out__ _v_  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
-__chuck-wagon__ _n_ _Chuck-wagon supper._  
+__chuck-wagon__ _n_ :two::hammer: _Chuck-wagon supper._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
@@ -3063,6 +3070,7 @@ __coffee-table book__
 __coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
 __coffice__ _n_ _informal_ A coffee shop used as if it is one’s office. _The coffee shop down this street is my coffice for 3 hours every day._  
+__cog railroad__  
 __cog railway__  
 __cog__ _n_ :eight: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
@@ -3269,7 +3277,7 @@ __concussive__
 __condemn__ _v_ :mute:[condem~~n~~]  
 __condition__ _n_ :two::hammer:  
 __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
-__condo__ _n_ :three::hammer: (condos) _Luxury condos._  
+__condo__ _n_ :four::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :five::hammer: _The vehicle doesn’t seem conducive to passing._  
@@ -3423,7 +3431,7 @@ __cooing__ _n_
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
 __cookie__ _n_ [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”]  
-__cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
+__cookout__ _n_ :three: A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool your jets__  
@@ -3443,6 +3451,7 @@ __cop-out__ _n informal_ Something you do or say in order to avoid doing or acce
 __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __cope__ _n_ _A grey cope._  
+__copier__ _n_ _Copier service._  
 __copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  

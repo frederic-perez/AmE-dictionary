@@ -1,18 +1,3 @@
-__all-inclusive__ _adj_ _All-inclusive package._  
-__antipasto__ _n_ (_n pl_ antipastos or antipasti)  
-__avid__ _adj_  
-__Ayurveda__ _n_  
-__backpacking__ _n_  
-__biography__  
-__boardroom__ _n_ _Private boardrooms available._  
-__booty__ _n_ _You can shake your booty at late-night hot spots._  
-__braised__ _adj_ Cooked by braising. _Braised lamb steak._  
-__bugle__ _v_ _Bugling elk._  
-__chuckwagon__ _n_ _Chuckwagon suppers._  
-__cog railroad__  
-__condo__ _n_  
-__cookouts__ _n_ :two::hammer:  
-__copier__ _n_ _Copier service._  
 __decal__ _n_ _Look for our decal when making dining plans._  
 __delectable__ _adj_ _Delectable egg._  
 __dog fight__ _n_  
