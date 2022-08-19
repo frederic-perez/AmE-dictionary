@@ -1,18 +1,3 @@
-__above and beyond__ Exceeding expectations or requirements.  
-__at (one’s) leisure__ _Enjoy coffee at your leisure._  
-__at its best__ Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._  
-__best-kept secret__  
-__bring (something) to the table__ _What she brings to the table._  
-__days gone by__ _Read about the colorful characters of days gone by._  
-__from time to time__  
-__grasp the nettle__ _BrE_  
-__holy moley__ An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
-__if only__  
-__just another day at the office__  
-__leaps and bounds__  
-__made to order__ :two::hammer:  
-__make the most of__ _Make the most of your trip._  
-__rest assured__ _Rest assured you’ll sleep like an angel._  
 __rock bottom__  
 __sleep in__  
 __smash hit__  
