@@ -1,18 +1,3 @@
-__decal__ _n_ _Look for our decal when making dining plans._  
-__delectable__ _adj_ _Delectable egg._  
-__dog fight__ _n_  
-__donburi__ _n_  
-__double take__ _n_ (double take) A delayed reaction to an unusual remark or circumstance after first either failing to notice anything unusual or reacting inappropriately, often performed as a comic device.  
-__drygoods__ _n_  
-__dude ranch__ _n_ :two: A vacation resort offering activities (such as horseback riding) typical of western ranches.  
-__ecumenical__ _adj_  
-__efect__ _v_ (effecting) _A view to effecting opportunities._  
-__elk__  
-__embroider__ _v_ _Embroidered headwear._  
-__encashment__ _n_  
-__etch__ _v_ _A profile identifying each peak is etched in a huge relief along the sidewalk._  
-__executive suite__ _n_  
-__extravaganza__  
 __famed__ _adj_  
 __ferret__ _n_  
 __finch__ _n_  

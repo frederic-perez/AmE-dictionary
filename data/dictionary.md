@@ -4017,8 +4017,7 @@ __debutante__
 __decadence__ _n_ :two: __1__ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation __2a__ Behavior that is considered immoral because it concentrates too much on pleasure. _A life of sexual decadence._ __b__ So much pleasure that it almost seems morally wrong. _Eating like that every night is pure decadence._ _Enjoy elegant decadence._  
 __decadent__ _adj_ :seven::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Renowned for decadent and unique signature items._ _Decadent glory._  
 __decaf__ _n_ Decaffeinated coffee.  
-__decal__ _n_ :two::hammer:  
-__decals__  
+__decal__ _n_ :four::hammer: _Look for our decal when making dining plans._  
 __decamped__ _v_  
 __decant__ _v_ :two::hammer:  
 __decanter__ _n_ :two::hammer:  
@@ -4556,6 +4555,7 @@ __doer__ _n_
 __doeskin__ _n_ :two::hammer: _A roeskin belt._ _A doeskin wallet._  
 __doff__ _v_ :five: (doffed, doffing; vs don _v_) __1__ To take off; remove: _doff one’s clothes._ __2__ To tip or remove (one’s hat) in salutation. _Doff his hat._ _Both doffed their hats as they met._ __3__ To put aside; discard.  
 __dog days__  
+__dog fight__ _n_  
 __dog sledding__  
 __dog tag__  
 __dog whistle__ _adj_  
@@ -4593,6 +4593,7 @@ __dominatrix__ _n_
 __domino effect__ _n_ A cumulative effect produced when one event sets off a chain of similar events. _The domino effect of increasing the speed limit in one of several contiguous states._  
 __don__ _v_ Put on (an item of clothing).  
 __don’t tell me it’s raining__  
+__donburi__ _n_  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donjon__ _n_ :four::hammer: _The donjon was impervious to time._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -4640,7 +4641,7 @@ __double down__ _v_ :nine::m: To become more tenacious, zealous, or resolute in 
 __double feature__ _n_ A movie program consisting of two full-length films.  
 __double glazing__ _n_  
 __double step__ _v_  
-__double take__ _n_ :two::hammer:  
+__double take__ _n_ :three: (double take) A delayed reaction to an unusual remark or circumstance after first either failing to notice anything unusual or reacting inappropriately, often performed as a comic device.  
 __double up__ _phr v_ To bend suddenly, as in pain or laughter.  
 __double-check__ _v_  
 __double-cross__ _n_  
@@ -4826,6 +4827,7 @@ __dry run__ _n_ :two::hammer:
 __dry spel__  
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _Pladur_  
 __dry-aged beef__ _n_ Beef that has been hung or placed on a rack to dry for several weeks.  
+__drygoods__ _n_  
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __dub__ _v_ (dubbed)  
@@ -4843,6 +4845,7 @@ __duct__ _n_ _They damaged a very large AT&T phone duct._
 __ductile__ _adj_ :two::hammer:  
 __dud<sup>1</sup>__ _n informal_ :eight: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ _Contemporary duds for women and men alike._ _Stylish duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
+__dude ranch__ _n_ :two: A vacation resort offering activities (such as horseback riding) typical of western ranches.  
 __dude__ _n_ Man, guy, friend.  
 __dudettes__  
 __dudgeon__ _n_  
@@ -4977,7 +4980,7 @@ __ecosystem__ _n_
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
-__ecumenical__ _adj_ :two: Of worldwide scope or applicability. _Syn_ universal _The movement against violence is intended to be an ecumenical one, applicable to all nations._  
+__ecumenical__ _adj_ :three: Of worldwide scope or applicability. _Syn_ universal _The movement against violence is intended to be an ecumenical one, applicable to all nations._  
 __eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly by redness, itching, and the outbreak of lesions that may discharge serous matter and become encrusted and scaly.  
 __ED prescription__  
 __edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracious, wolfish, esurient, rapacious, ravening _The edacious vultures soon devoured the animal’s remains._  
@@ -4995,7 +4998,7 @@ __educated guess__ _n_ :three::hammer:
 __eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :eight::hammer:  
 __eerily__ _adv_ :three::hammer:  
-__effect__ _v_  
+__effect__ _v_ :two::hammer: (effecting) _A view to effecting opportunities._  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
 __effigy__ _n_ :five::hammer: (effigies)  
@@ -5069,7 +5072,7 @@ __eligibility__
 __eligible__ _adj_  
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
-__elk__ _n_ :two::hammer: (_n pl_ elk or elks)  
+__elk__ _n_ :three::hammer: /ɛlk/ (_n pl_ elk or elks) :es: alce  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __elope__ _v intr_ :nine::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
@@ -5100,7 +5103,7 @@ __embolden__ _v_ :three::hammer:
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embrace__ _v_ :six::hammer: (embraced) _The best role models embrace their flaws._ _Embrace people as they are._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
-__embroider__ _v_ :two: (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
+__embroider__ _v_ :three: (embroidered) __1__ To do decorative needlework (upon). _Embroidered headwear._ __2__ To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __embroil__ _v_ (embroiled)  
 __embryo__  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
@@ -5140,6 +5143,7 @@ __enactment__
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
 __encampment__ _n_ :two::hammer:  
+__encashment__ _n_  
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
@@ -5321,7 +5325,7 @@ __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate
 __estuary__ _n_ :three::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
-__etch__ _v_ :six::hammer: (etched, etching)  
+__etch__ _v_ :seven::hammer: (etched, etching) _A profile identifying each peak is etched in a huge relief along the sidewalk._  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
@@ -5391,6 +5395,7 @@ __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt o
 __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
 __execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
+__executive suite__ _n_  
 __exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
@@ -5451,7 +5456,7 @@ __extoll__ _v_ :six::hammer: (extolled, extolling)
 __extort__ _v_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__  
-__extravaganza__ _n_ :two::hammer:  
+__extravaganza__ _n_ :three::hammer:  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
