@@ -1,3 +1,8 @@
+__ailurophile__ _n_ One who loves cats.  
+__asset__ _n_ __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
+__charisma__ _n_ /kuh-RIZ-muh/  
+__cinder__ _n_ A fragment of incombustible matter left after a wood or coal or charcoal fire. _Syn_ clinker  
+__elute__ _v tr_ /ee/i-LOOT/ To wash out or extract, especially with a solvent.  
 __famed__ _adj_  
 __ferret__ _n_  
 __finch__ _n_  
@@ -24,6 +29,7 @@ __hibachi__ _n_ _Original hibachi cooking._
 __hickory__ _n_ _The steaks are grilled over a hickory flame._  
 __horseshoe__ _n_ :two::hammer:  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
+__iatrogenic__ _adj_  
 __iffy__  
 __iguanodon__ _n_  
 __in-house__  
@@ -134,6 +140,7 @@ __legit__ _adj_ _informal_ :two::hammer:
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
 __leisurely<sup>2</sup>__ _adv_  
+__lemming__ _n_ /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
 __lemongrass__ _n_ :two::hammer:  
 __letterman__ _n_  
 __leviathan__ _n_ _You can sometimes see migrating leviathans._  
@@ -894,6 +901,7 @@ __shallot__ _n_
 __shanghai__ _v_ :astonished:  
 __Shangri-la__ _n_ :mega:  
 __shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
+__shard__ _n_ /SHAHRD/ Shard refers to “a small piece or part” of something, and is often used as a synonym of scrap. _A single shard of sunlight pierced the dense forest canopy, illuminating the entrance to the ancient ruin._  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __sheared__ _adj_ _Sheared mink._  
 __shearing__ _n_ _Sheep shearing._  
@@ -1264,6 +1272,7 @@ __tribulation__ _n_
 __tributary__ _n_  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
 __trip__ _v_ _Tripping the fuses._  
+__trivial__ _adj_ /TRIV-ee-ul/ Of little worth or importance.  
 __trolley__ _n_ :two::hammer: _A motorized trolley._  
 __trompe-l’oeil__  
 __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
@@ -1438,6 +1447,7 @@ __worksheet__ _n_ _Ask for a library worksheet._
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
 __woven__ _n_  
 __wow__ _v_  
+__wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
 __wreak-havoc__ _v_  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
