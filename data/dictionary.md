@@ -309,6 +309,7 @@ __ailerons__
 __ailing__ _v_ :four::hammer: _It is ailing the NFL._  
 __ailment__ _n_ :five: An often persistent bodily disorder or disease; a cause for complaining. Mild illness. _Syn_ complaint, ill _She pretended that she was always well now, and concealed her ailments so craftily that we had to probe for them._  
 __ails__ _v_ :two::hammer:  
+__ailurophile__ _n_ One who loves cats.  
 __aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalless, haphazard, vagrant, directionless, unguided _After several hours of aimless driving, we were getting low on fuel._  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
@@ -773,7 +774,7 @@ __assault__ _n_ :two::hammer:
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n_ :two::hammer:  
-__asset__  
+__asset__ _n_ :two: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assets__  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduous__ _adj_  
@@ -2647,7 +2648,7 @@ __chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._
 __chargrilled__ _adj_ :two: (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
 __charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
-__charisma__ _n_ :mute:[c~~h~~arisma]  
+__charisma__ _n_ :two::mute:[c~~h~~arisma]:hammer: /kuh-RIZ-muh/  
 __charlatan__ _n_ :three: A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._  
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect’s basement left little doubt that he was the killer we were seeking._ _It served as the hospital’s charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
@@ -2846,7 +2847,7 @@ __cigarillo__ _n_ :pencil2::camera::two::hammer:
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
 __cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._  
 __Cincy__ _n_ _informal_ Clipping of Cincinnati.  
-__cinder__  
+__cinder__ _n_ :two: A fragment of incombustible matter left after a wood or coal or charcoal fire. _Syn_ clinker  
 __cinder-block town__  
 __Cinderella__ _n_ :two: /sin-duh-rel-uh/ __5__ A person or thing that achieves unexpected or sudden success or recognition, especially after obscurity, neglect, or misery (often used attributively): _Which team will find themselves the Cinderella of this year’s college basketball season?_  
 __cine__ _n_ :mega:  
@@ -5079,7 +5080,7 @@ __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/
 __elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
-__elute__ _v_ _The future of drug-eluting stents._  
+__elute__ _v tr_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_ Abnormally thin.  
@@ -5558,7 +5559,7 @@ __falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrep
 __falter__ _v_  
 __faltered__ _v_  
 __fame__ _v_  
-__famed__ _adj_ Something that’s famed is very well-known, or famous. Your dad’s famed brownies are the highlight of every bake sale in town.  
+__famed__ _adj_ :two: Something that’s famed is very well-known, or famous. _Your dad’s famed brownies are the highlight of every bake sale in town._  
 __familiar__ _adj_ :two::hammer: _I’m not familiar with it._ _No, I’m not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _n_ :two::hammer: _It could be feasst or famine._  
@@ -5704,7 +5705,7 @@ __ferny__
 __ferocious__ _adj_ :two::hammer:  
 __ferret out__ _v_ :two::hammer:  
 __ferret-faced__  
-__ferret<sup>1</sup>__ _n_ :four::hammer:  
+__ferret<sup>1</sup>__ _n_ :five::hammer:  
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
 __Ferris wheel__ _n_  
@@ -5802,7 +5803,7 @@ __filmmaker__ _n_ :two: One who directs or produces movies.
 __filthy__ _adj_  
 __finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful methods.  
 __finalize__ _v_  
-__finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
+__finch__ _n_ :two: Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
 __fine-grained__ _adj_ (versus coarse-grained) _Fine-grained communication (in the context of parallel computing)._  
 __fine-tune__ _v_  
@@ -5866,12 +5867,12 @@ __fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, a
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
 __fittingly__ _adv_ :two::hammer:  
 __fivesomes__  
-__fix__ _n_ _A quick fix of French fries._  
+__fix__ _n_ :two::hammer: _A quick fix of French fries._ __6__ _slang_ An amount or dose of something craved, especially an intravenous injection of a narcotic. _Get your sports fix with ESPN’s Dan Patrick._  
 __fixable__ _adj_ _A lot of that is fixable._  
 __fixer__ _n_ _Political fixers._  
 __fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, usually for sale at a low price. _Don’t be afraid to take on a fixer-upper._  
 __fixture__ _n_ :five::hammer: _A Premier League fixture._ _He had been a fixture and a legend._ _The bar is a neighborhood fixture since 1972._  
-__fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
+__fizz<sup>1</sup>__ _n_ :four::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle up__  
 __fizzle__ _v_ :three::hammer: (fizzled)  
@@ -5928,6 +5929,7 @@ __flashback__
 __flashcard__ _n_ (flash card)  
 __flashlight__ _n_  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
+__flat fishing__ _n_  
 __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
@@ -6002,7 +6004,7 @@ __flog a dead horse__
 __flog__ _v_ :four::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
-__floodlight__ _n_ :two::hammer:  
+__floodlight__ _n_ :three::hammer:  
 __floor show__  
 __floor vote__ _n_  
 __floor<sup>1</sup>__ _n_ __9__ The right of one member to speak from such a place in preference to other members: _The senator from Alaska has the floor._ _The floor is closed._  
@@ -6095,12 +6097,12 @@ __fool<sup>2</sup>__ _v_ _Don’t fool yourself—that’s phony bullshit._
 __fool<sup>3</sup>__ _adj_ _informal_  
 __foolhardy__ _adj_ :four: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
-__foosball__ _n_ :four::hammer: _Foosball table._  
+__foosball__ _n_ :five::hammer: _Foosball table._  
 __foot-stomping__  
 __foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the foot. _They were stung by a man who sells socks without feet._  
 __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
-__foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
+__foothill__ _n_ :four: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :four::hammer: _A foothold._  
 __footing__ _n_ :two::hammer: _I found my footing._ _Last year a student died after losing her footing here._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
@@ -6233,7 +6235,8 @@ __frame grab__
 __frame__ _v_ _He framed Roger Rabbit._  
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
 __franchise__ _n_ :two: __2a__ The right of membership in a professional sports league. __b__ A team and its operating organization having such membership. _Romo is the Cowboys franchise quarterback._  
-__franchisees__  
+__franchisee__ _n_  
+__franchiser__ _n_  
 __frangible__ _adj_ :two: Capable of being broken; breakable.  
 __frank__ _v_ (franked)  
 __frankincense__ _n_ :two::astonished: :es: incienso  

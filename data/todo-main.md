@@ -1,18 +1,3 @@
-__ailurophile__ _n_ One who loves cats.  
-__asset__ _n_ __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
-__charisma__ _n_ /kuh-RIZ-muh/  
-__cinder__ _n_ A fragment of incombustible matter left after a wood or coal or charcoal fire. _Syn_ clinker  
-__elute__ _v tr_ /ee/i-LOOT/ To wash out or extract, especially with a solvent.  
-__famed__ _adj_  
-__ferret__ _n_  
-__finch__ _n_  
-__fix__ _n_ __6__ _slang_ An amount or dose of something craved, especially an intravenous injection of a narcotic. _Get your sports fix with ESPN’s Dan Patrick._  
-__fizz__ _n_  
-__flat fishing__ _n_  
-__floodlight__  
-__foosball__ _n_  
-__foothill__ _n_ :two::hammer:  
-__franchiser__ _n_  
 __frontline__  
 __galleria__ _n_ _Cafe galleria._  
 __galore__  
