@@ -1,18 +1,3 @@
-__advocate__ _v_ _She advocated for me when the doctors were wrong._  
-__artful__  
-__bandurria__ _n_  
-__casualty__ _n_  
-__chafe__ _v_  
-__cheesy__ _adj_  
-__contrivance__ _n_  
-__cursory__  
-__demonize__ _v_  
-__dogshit__ _n_  
-__dovetail__ _v_ :two::hammer:  
-__extravaganza__  
-__facetious__ _adj_  
-__floater__ _n_ :two::hammer: _Floaters and flashes._ _Are you seeing new floaters?_  
-__flog__ _v_  
 __forshake__ _v_  
 __frontline__  
 __fuel__ _v_ :mega:  
@@ -992,7 +977,7 @@ __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smash__ _adj_ _Our sixth smash year!_  
 __smattering__  
-__smilet /ˈsmaɪlɪt/ A little smile.  
+__smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smortasbord__  
 __snarky__ _adj_ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  

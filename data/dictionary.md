@@ -222,7 +222,8 @@ __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The peti
 __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
-__advocate__ _n_ :mega:  
+__advocate<sup>1</sup>__ _v_ _She advocated for me when the doctors were wrong._  
+__advocate<sup>2</sup>__ _n_ :mega:  
 __aegis__ _n_ :two: /ˈiːdʒɪs/ (egis) __1__ Sponsorship or protection; auspices (esp in the phrase _under the aegis of_). __2__ (Greek myth) The shield of Zeus, often represented in art as a goatskin.  
 __aerials__  
 __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
@@ -719,6 +720,7 @@ __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a
 __arrowroot__  
 __arson__ _n_  
 __artery__ _n_ :mega:  
+__artful__  
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
@@ -1054,6 +1056,7 @@ __bandanna__ _n_ :two::hammer:
 __bandeaus__ _n_  
 __bandit__ _n_ :two::hammer:  
 __banditry__ _n_ :two: The activities of bandits.  
+__bandurria__ _n_  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
@@ -2493,7 +2496,7 @@ __castigation__ _n_
 __castle__ _n, v_ :mute:[cas~~t~~le]  
 __castoff__ _n_  
 __casual__ _adj_ _He put on casual clothes._  
-__casualties__  
+__casualty__ _n_ :two::hammer:  
 __cat__ _n informal_  
 __cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
@@ -2592,7 +2595,7 @@ __Cessna__
 __cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
 __cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
 __chads__ _n_  
-__chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
+__chafe<sup>1</sup>__ _v_ :nine: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._ _To the chef’s chagrin, the sauce was too sweet._  
@@ -2699,7 +2702,7 @@ __cheese__ _adj_
 __cheese-eater__  
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
-__cheesy__ _adj_  
+__cheesy__ _adj_ :two::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
@@ -3403,7 +3406,7 @@ __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know
 __contretemps__ _n_ :two: An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_ :six: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
+__contrivance__ _n_ :seven: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :three::hammer: (contriving)  
 __contrived__ _adj_ :three: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
@@ -3842,7 +3845,7 @@ __curriculum vitae__ _n_
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ :two: /ˈkəːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
-__cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
+__cursory__ _adj_ :eight: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _adj_ :three: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
@@ -4145,7 +4148,7 @@ __demean__ _v_ :five::hammer: (demeaned, demeaning)
 __demeanor__ _n_ :two::hammer:  
 __demigod__  
 __demographic__ _adj_  
-__demonize__ _v tr_ :five::hammer: (demonizing)  
+__demonize__ _v tr_ :six::hammer: (demonizing)  
 __demonstrate__ _v_ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
@@ -4573,6 +4576,7 @@ __dogleg<sup>1</sup>__ _n_
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
 __dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __dognap__ _v_ To steal (a dog), esp. for the purpose of selling it for profit.  
+__dogshit__ _n_  
 __dogsled__  
 __dogtrot__ _n_  
 __dogwoods__ _n_  
@@ -4663,7 +4667,7 @@ __dourly__
 __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
-__dovetail__ _v_ (dovetails) :three::hammer:  
+__dovetail__ _v_ :five::hammer:  
 __dowager__  
 __dowdy__ _adj_ :two::hammer:  
 __down pat__ _adj_ Understood perfectly. _Sun_ mastered _Cy already had the presentation down pat._  
@@ -5457,7 +5461,7 @@ __extoll__ _v_ :six::hammer: (extolled, extolling)
 __extort__ _v_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__  
-__extravaganza__ _n_ :three::hammer:  
+__extravaganza__ _n_ :four::hammer:  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
@@ -5501,7 +5505,7 @@ __face time__ _n_ :dart: __1__ Time that you spend at your job because you want 
 __face value__ _n_ :three::hammer:  
 __face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __facelift__ _n_ :two::hammer: (face-lift)  
-__facetious__ _adj_ :six::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
+__facetious__ _adj_ :seven::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
 __facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
@@ -5995,13 +5999,13 @@ __flitter__ _v_ :four: (flitting) Move back and forth very rapidly. _Syn_ flicke
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :four::hammer:  
-__floater__ _n_ :four::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
+__floater__ _n_ :six::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._ _(Vision)_ _Floaters and flashes._ _Are you seeing new floaters?_  
 __floaties__  
 __flock<sup>1</sup>__ _n_  
 __flock<sup>2</sup>__ _v_  
 __floe__ _n_ :two::hammer: _Ice floe._  
 __flog a dead horse__  
-__flog__ _v_ :four::hammer: (flogged, flogging)  
+__flog__ _v_ :five::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
 __floodlight__ _n_ :three::hammer:  
