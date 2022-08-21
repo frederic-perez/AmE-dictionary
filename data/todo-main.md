@@ -1,15 +1,35 @@
+__advocate__ _v_ _She advocated for me when the doctors were wrong._  
+__artful__  
+__bandurria__ _n_  
+__casualty__ _n_  
+__chafe__ _v_  
+__cheesy__ _adj_  
+__contrivance__ _n_  
+__cursory__  
+__demonize__ _v_  
+__dogshit__ _n_  
+__dovetail__ _v_ :two::hammer:  
+__extravaganza__  
+__facetious__ _adj_  
+__floater__ _n_ :two::hammer: _Floaters and flashes._ _Are you seeing new floaters?_  
+__flog__ _v_  
+__forshake__ _v_  
 __frontline__  
+__fuel__ _v_ :mega:  
 __galleria__ _n_ _Cafe galleria._  
 __galore__  
 __gateway__ _n_  
 __gauge railroad__  
 __gegenschein__ _n_ A faint glowing spot in the sky, exactly opposite the position of the sun. _Syn_ counterglow _The gegenschein is so faint that it cannot be seen if there is any moonlight or if it falls in the vicinity of the Milky Way._  
+__glib__ _adj_  
 __gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
 __grand dame__ _n_ __3__ A building or institution regarded as noteworthy on account of its age and historic prominence. _Grand dame hotel._  
 __grandiose__ _adj_  
 __groovy__ _adj_ _Including groovy memorabilia._  
 __grubby__  
+__grudge__ _n_  
 __gruff__ _adj_  
+__hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
 __hibachi__ _n_ _Original hibachi cooking._  
 __hickory__ _n_ _The steaks are grilled over a hickory flame._  
 __horseshoe__ _n_ :two::hammer:  
@@ -98,6 +118,7 @@ __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.
 __labyrinthine__ _adj_  
 __lace__ _n_ _Delicate lace._  
 __laced__ _v_ _The brick streets are laced with sculptures._  
+__laceration__ _n_  
 __lacy__ _adj_  
 __Lady Liberty__ _n_ :two::hammer:  
 __Lafayette__ _n_  
@@ -121,7 +142,7 @@ __leasing__ _n_
 __leatherware__ _n_  
 __ledger__ _n_  
 __legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
-__legit__ _adj_ _informal_ :two::hammer:  
+__legit__ _adj_ _informal_ :four::hammer:  
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
 __leisurely<sup>2</sup>__ _adv_  
@@ -243,7 +264,7 @@ __melodrama__ _n_
 __meltdown__  
 __memento__ _n_ :two::hammer: (mementoes)  
 __memorabilia__  
-__menagerie__  
+__menagerie__ _n_ :two::hammer:  
 __menial__ _adj_ :mega:  
 __mephitic__ _adj_  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
@@ -262,6 +283,7 @@ __metaverse__ _n_ /ˈmɛtəˌvɜːs/
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
+__miasma__ _n_  
 __michelada__ _n_  
 __micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
 __microbrew__ _n_ :four::hammer:  
@@ -277,6 +299,7 @@ __Miranda rights__ _n_
 __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
 __mischievous__ _adj_  
 __misconstrue__ _v tr_  
+__misgivings__ _n_  
 __misphrase__ _v tr_  
 __misstep__ _n_ :pencil2:  
 __mix-and-match__ _adj_ _Mix-and-match designs._  
@@ -376,6 +399,7 @@ __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._
 __no-nonsense__ _adj_ _A no-nonsense approach._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
+__nonplus__ _n, v_  
 __Nordic jumps__ _n_  
 __nori__ _n_ _Nori crusted tuna._  
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
@@ -447,7 +471,7 @@ __outfitter__ _n_ _Horseback outfitter._
 __outgrowth__ _n_  
 __outing__ _n_  
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
-__outlandish__ _adj_  
+__outlandish__ _adj_ :two::hammer:  
 __outpost__ _n_  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
@@ -464,6 +488,7 @@ __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
 __pachyderm__  
 __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
+__package__ _n_ :mega:  
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  
 __paganism__ _n_  
@@ -691,6 +716,7 @@ __rapture__ _v_
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
+__rationalize__ _v_  
 __raucous__ _adj_ :two::hammer:  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __raver__ _n_  
@@ -720,6 +746,7 @@ __regatta__ _n_ :three::hammer:
 __regiment__ _n_ _Several regiments of soldiers._  
 __reindeer__ _n pl_ :two::hammer:  
 __rejoice__ _v_  
+__rejoicing__ _n_ :pencil2:  
 __rejuvenated__ _adj_  
 __relatable__ _adj_  
 __reluctant__ _v_ _Reluctant to leave._  
@@ -733,9 +760,11 @@ __renewal__ _n_
 __repertoire__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
+__resonate__ _v_  
 __respite__ _n_ :three::hammer:  
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
+__retcon__ _n_  
 __retiree__ _n_  
 __retrace__ _v_  
 __retsina__ _n_  
@@ -770,6 +799,7 @@ __rolling hills__ _n_ :four::hammer:
 __rom-com__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
 __romp__ _v_  
+__ronin__  
 __rooftop deck__ _n_ :two::hammer:  
 __roorback__ _n_ A false or slanderous story used for political advantage.  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
@@ -785,6 +815,7 @@ __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable
 __ruches__ _n_  
 __rugged__ _adj_ :three::hammer: _The rugged trail._  
 __rummage__ _v_  
+__run in__ _n_  
 __running shoes__ _n_  
 __runway__ _n_  
 __Russian salad__ _n_  
@@ -983,6 +1014,7 @@ __sorely__ _adv_ _Sorely needed._
 __sorrowful__  
 __sought-after__  
 __soul food__ _n_  
+__soul-searching__ _n_ Examination of one’s conscience especially with regard to motives and values.  
 __southerly__ _adj_  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -1034,6 +1066,7 @@ __stately__ _adj_ _A stately afternoon tea._
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
 __stationer__ _n_  
+__stationery__ _n_  
 __statuary<sup>1</sup>__ _n_ :two::hammer: :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __stature__ _n_ _A golf facility of world class stature._  
@@ -1218,6 +1251,7 @@ __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or requ
 __timeshare__  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
+__tobbogan__ _v intr_  
 __tobogganer__  
 __tobogganing__ _n_ _Summer tobogganing run._  
 __toffee__  
@@ -1279,6 +1313,7 @@ __tune-up__ _n_ _Overnight tune-ups and repairs._
 __turmeric__ _n_ :two::hammer:  
 __turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
 __turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
+__turnip__ _n_  
 __turntable__ _n_  
 __turntables__ _n_  
 __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
@@ -1304,6 +1339,7 @@ __underdog__
 __underemployed__  
 __underfoot__ _adv_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
+__underling__ _n_  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
@@ -1382,6 +1418,7 @@ __watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water ho
 __wedding band__ _n_  
 __wee__ _n_  
 __well versed__ _adj_  
+__well-read__ _adj_  
 __wellrounded__  
 __wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
 __wet suit__ _n_  
@@ -1407,6 +1444,7 @@ __widen__ _v_ _Widening the sidewalks._
 __wildflowers__ _n_ :two::hammer:  
 __wildfowl__  
 __Willamette__ _n_  
+__willy-nilly__ _adj, adv_  
 __wily__  
 __wimpy__ _adj_  
 __wind chimes__ _n pl_  
