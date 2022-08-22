@@ -61,6 +61,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Sacha Baron Cohen](https://www.youtube.com/results?gl=US&search_query=Sacha+Baron+Cohen)
 - [Sarah Silverman](https://www.youtube.com/results?gl=US&search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?gl=US&search_query=Scott+Aukerman)
+- [Sid Caesar](https://www.youtube.com/results?search_query=Sid+Caesar)
 - [Stephen Colbert](https://www.youtube.com/results?gl=US&search_query=Stephen+Colbert)
 - [Steve Carrell](https://www.youtube.com/results?gl=US&search_query=Steve+Carell)
 - [Steve Martin](https://www.youtube.com/results?gl=US&search_query=Steve+Martin) is a virtuoso banjo player.
