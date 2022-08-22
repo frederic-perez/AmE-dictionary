@@ -6184,7 +6184,7 @@ __formals__ _n_
 __Formica__  
 __formidable__  
 __formulate__ _v_ _I was formulating my question._  
-__forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
+__forsake__ _v_ :seven: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken<sup>1</sup>__ _v_ The past participle of forsake.  
 __forsaken<sup>2</sup>__ _adj_ :two: Completely deserted or helpless; abandoned.  
 __forswear__ _v_ :two::hammer:  
@@ -6326,7 +6326,7 @@ __front runner__ _n_ :three::hammer: (front-runner, frontrunner)
 __front__ _v_ _Fronting a band._  
 __front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
-__frontline<sup>1</sup>__ _n_ (front line)  
+__frontline<sup>1</sup>__ _n_ :two::hammer: (front line)  
 __frontline<sup>2</sup>__ _adj_ :two: (front-line) __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frontrunner__ _n_  
@@ -6353,6 +6353,7 @@ __fuddy-duddy__
 __fudge<sup>1</sup>__ _n_ :two::hammer:  
 __fudge<sup>2</sup>__ _adj_  
 __fudge<sup>3</sup>__ _v_ :four::hammer: _You can’t fudge this thinking._ _Fudging statistics._  
+__fuel__ _v_ :mega:  
 __fugacious__ _adj_ Passing away quickly; evanescent. _Syn_ ephemeral, passing, short-lived, transitory, transient  
 __fulcrum__ _n_ :four::hammer:  
 __fulfilling__  
@@ -6451,6 +6452,7 @@ __gallant__ _adj_
 __gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
+__galleria__ _n_ _Cafe galleria._  
 __galley__ _n_ :three::hammer: :es: galera  
 __Gallicism__ _n_  
 __gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
@@ -6459,7 +6461,7 @@ __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who 
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __galloping__  
 __gallows__ _n_ :two::hammer:  
-__galore<sup>1</sup>__ _adj_ :four::hammer: _The terrace offers sunbathing opportunities galore._  
+__galore<sup>1</sup>__ _adj_ :five::hammer: _The terrace offers sunbathing opportunities galore._  
 __galore<sup>2</sup>__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
@@ -6522,7 +6524,7 @@ __gat__
 __gated community__ _n_ :two::hammer:  
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
 __gatekeeper__ _n_ :three::hammer:  
-__gateway__  
+__gateway__ _n_ :two::hammer:  
 __gathering__ _n_ _Family gathering._  
 __Gatling gun__ _n_  
 __gauche__ _adj_ Lacking social polish; tactless. _Syn_ unpolished, graceless _Wendy was quite friendly, but her lack of manners made her seem gauche in formal settings._  
@@ -6542,6 +6544,7 @@ __gazillion__ _n_
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
+__gegenschein__ _n_ A faint glowing spot in the sky, exactly opposite the position of the sun. _Syn_ counterglow _The gegenschein is so faint that it cannot be seen if there is any moonlight or if it falls in the vicinity of the Milky Way._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gel__ _v_ (gelled) _His hair was neatly gelled._  
 __geld__ _v_ (gelded)  
@@ -6666,7 +6669,7 @@ __glaucoma__ _n_ :mega:
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :six: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glen__ _n_ :three: A small, narrow, secluded valley.  
-__glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
+__glib__ _adj_ :seven::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
 __glimmer__ _n, v_  
 __glimpse<sup>1</sup>__ _n_  
@@ -6752,6 +6755,7 @@ __gofer__ _n_ _slang_
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
+__gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
 __gold rush__  
 __gold-digger__ _n_ One who forms a romantic relationship with a rich person for money. From the metaphorical use of the term for someone who digs for gold. In the beginning, the terms gold-digger and gold-miner were synonymous. Then came the metaphorical sense of the term gold-digger, someone forming a relationship for money, instead of love. Originally, a gold-digger was a woman and a gold-miner a man. Traditional boundaries are blurred now.  
 __Golden Boot__ _n_ _The race for the Golden Boot._  
@@ -6833,6 +6837,7 @@ __graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the e
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
 __gramps__  
 __grana padano__  
+__grand dame__ _n_ __3__ A building or institution regarded as noteworthy on account of its age and historic prominence. _Grand dame hotel._  
 __Grand Guignol<sup>1</sup>__ _n_ An event, entertainment, etc., of a sensational or horrific nature. [:scroll: From Le Grand Guignol (literally, The Great Puppet), a theater in Paris that specialized in such entertainment.]  
 __Grand Guignol<sup>2</sup>__ _adj_ Gruesome, grotesque, or horrifying.  
 __grand jury__  
@@ -6842,7 +6847,7 @@ __granddaddy__ _n_ :pencil2:
 __grandeur__ _n_  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
-__grandiose__ _adj_ :two::hammer:  
+__grandiose__ _adj_ :three::hammer:  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
@@ -6957,6 +6962,7 @@ __groomed__
 __groomers__  
 __groove<sup>1</sup>__ _n_ :six::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __groove<sup>2</sup>__ _v_ :two::hammer: _The Wall-E toy dances and grooves to your music._  
+__groovy__ _adj_ _Including groovy memorabilia._  
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
 __grope__ _v_ :two::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
@@ -6991,9 +6997,10 @@ __grown-up<sup>1</sup>__ _adj_
 __grown-up<sup>2</sup>__ _n_  
 __grub__ _n_ _slang_ :seven: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._ _Decent pub grub._  
 __grubbing__ _v_ :two::hammer:  
+__grubby__ _adj_  
 __grubstake__ _n_ Supplies or funds advanced to a mining prospector or a person starting a business in return for a promised share of the profits.  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
-__grudge<sup>2</sup>__ _n_ :eight: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don’t hold any grudges._ _Holding a grudge._ :es: rencor  
+__grudge<sup>2</sup>__ _n_ :nine: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don’t hold any grudges._ _Holding a grudge._ :es: rencor  
 __grudging__ _adj_ _That behavior had won the soldier’s respect, and grudging affection._  
 __grudgingly__ _adv_ :four::hammer:  
 __gruel__ _n_ :three::hammer:  
@@ -10127,6 +10134,7 @@ __narcissism__ _n_
 __narcissistic__ _adj_ :three::pencil2::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__ _n_ :two::hammer:  
+__narrow-gauge railroad__ _n_  
 __narrow-minded__ _adj_  
 __narrowcast<sup>1</sup>__ _v_  
 __narrowcast<sup>2</sup>__ _n_  

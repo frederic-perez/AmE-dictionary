@@ -1,18 +1,3 @@
-__forshake__ _v_  
-__frontline__  
-__fuel__ _v_ :mega:  
-__galleria__ _n_ _Cafe galleria._  
-__galore__  
-__gateway__ _n_  
-__gauge railroad__  
-__gegenschein__ _n_ A faint glowing spot in the sky, exactly opposite the position of the sun. _Syn_ counterglow _The gegenschein is so faint that it cannot be seen if there is any moonlight or if it falls in the vicinity of the Milky Way._  
-__glib__ _adj_  
-__gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
-__grand dame__ _n_ __3__ A building or institution regarded as noteworthy on account of its age and historic prominence. _Grand dame hotel._  
-__grandiose__ _adj_  
-__groovy__ _adj_ _Including groovy memorabilia._  
-__grubby__  
-__grudge__ _n_  
 __gruff__ _adj_  
 __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
 __hibachi__ _n_ _Original hibachi cooking._  
