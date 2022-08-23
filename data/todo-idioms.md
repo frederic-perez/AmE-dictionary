@@ -1,5 +1,8 @@
 __(just) a stone’s throw from (something)__  
+__a lick with the rough side of the tongue__ Severe criticism; a stern reprimand. _I thought my project was fine, but did you hear Ms. Miller’s critique? Boy, that was a lick with the rough side of the tongue!_  
+__a lot on (one’s) plate__ A lot to do. _I just have a lot on my plate right now while I’m finishing up my degree and doing this huge project for work._  
 __a man of his word__ _He is a man of his word._  
+__arm’s length__ A distance intentionally kept from something or between something, equal (literally or figuratively) to an arm’s span. Typically used in the phrase “keep at an arm’s length.” _Nancy has been keeping me at an arm’s length ever since she found out I was gossiping about her._  
 __blowhard__ One who tends to speak in an arrogant or conceited manner. _Oh, that guy’s a real blowhard—he’s not nearly as great as he thinks he is._  
 __borrowed time__ _I’m living on borrowed time._  
 __break their backs__  
@@ -117,6 +120,7 @@ __touch base__ :two::hammer:
 __tour de force__ :three::hammer:  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
+__true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __twofer__  
 __uncanny valley__  

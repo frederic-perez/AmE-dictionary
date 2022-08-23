@@ -1,5 +1,6 @@
 __admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
 __adventuresome__ _adj_  
+__amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __antler__ _n_  
 __atop__  
 __boardwalk__ _n_ _Boot heels clap on the boardwalk._  
@@ -10,14 +11,19 @@ __coo__ _v_ _Cooing for the beautiful damsel is encouraged._
 __craft__ _v_  
 __cross-country__ _n_  
 __Cybex__ _n_ _Cybex weights._  
+__decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
 __docent__ _n_ _Special docent-guided tours can be arranged in advance._  
+__embrocation__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ liniment _The dressings on my wound and the embrocation on my sprained wrist steadily subdue the pains which I have felt so far._  
 __en route__ _adj, adv_  
+__epitome__ _n_ /ih-PIT-uh-mee/  
 __flowstone__ _n_ _Flowstone curtains._  
 __forest__ _v_  
+__gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __gift certificate__  
 __gondola__ _n_ _Walking distance to Aspen Mountain gondola._  
 __gorge__ _n_  
 __grand__ _adj_  
+__groundhog day__ _n_ /GRAUND-hog day/ [:scroll: After the 1993 film Groundhog Day in which the lead character, a television weatherman, relives a day in a time loop] A situation in which events are repeated as if in a loop, especially when such events are of a tedious or monotonous nature.  
 __gruff__ _adj_  
 __hassle__ _n_ _Advance seat assignment to avoid boarding hassles._  
 __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
@@ -341,6 +347,7 @@ __moveable__ _adj_ _Moveable bridges._
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
 __mulch__ _n_  
+__mullet__ _n_ /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __munch__ _v_ :two::hammer:  
 __mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
@@ -717,6 +724,7 @@ __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to 
 __rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
 __rapt__ _adj_  
 __rapture__ _v_  
+__rash__ _adj_ /RASH/  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
@@ -732,6 +740,7 @@ __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more b
 __reckoning__ _n_  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recount__ _v_  
+__recurse__ _v_ /ri-KUHRS/  
 __Red Cross__ _n_  
 __red panda__  
 __red rice__ _n_  
@@ -859,6 +868,7 @@ __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy__ _adj_ _Savvy travelers._  
 __sawdust__ _n_  
+__scab__ _n_ :es: costra  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
@@ -1340,7 +1350,7 @@ __uber__ _adj_ :two::hammer:
 __ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umpteen__ _adj, n_  
-__unabashed__ _adj_ :three::hammer: _Unabashed humor._  
+__unabashed__ _adj_ :four::hammer: /un-uh-BASHT/ _Unabashed humor._  
 __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
 __unapologetic__ _adj_  
 __unassuming__ _adj_  
