@@ -1,10 +1,32 @@
+__admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
+__adventuresome__ _adj_  
+__antler__ _n_  
+__atop__  
+__boardwalk__ _n_ _Boot heels clap on the boardwalk._  
+__buck__ _v_ _See live rodeo bucking animals._  
+__bud__ _v_  
+__concession__ _n_ _The zoo also offers food concessions and picnic areas._  
+__coo__ _v_ _Cooing for the beautiful damsel is encouraged._  
+__craft__ _v_  
+__cross-country__ _n_  
+__Cybex__ _n_ _Cybex weights._  
+__docent__ _n_ _Special docent-guided tours can be arranged in advance._  
+__en route__ _adj, adv_  
+__flowstone__ _n_ _Flowstone curtains._  
+__forest__ _v_  
+__gift certificate__  
+__gondola__ _n_ _Walking distance to Aspen Mountain gondola._  
+__gorge__ _n_  
+__grand__ _adj_  
 __gruff__ _adj_  
+__hassle__ _n_ _Advance seat assignment to avoid boarding hassles._  
 __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
 __hibachi__ _n_ _Original hibachi cooking._  
 __hickory__ _n_ _The steaks are grilled over a hickory flame._  
 __horseshoe__ _n_ :two::hammer:  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __iatrogenic__ _adj_  
+__ice sculpting__  
 __iffy__  
 __iguanodon__ _n_  
 __in-house__  
@@ -97,6 +119,7 @@ __Lalique__
 __lampoon__ _n_ :two::hammer: _All get a solid lampooning._  
 __lamppost__ _n_  
 __landline__ _n_ (phone)  
+__lap pool__ _n_  
 __lap__ _v_ :astonished: _Vampire bats feed by lapping the blood of their prey through small cuts made with their razor sharp incisor teeth._  
 __Lapland__ _n_  
 __Laponia__ _n_  
@@ -136,6 +159,7 @@ __lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __listing__ _n_ _Lodging listings._  
 __litany__ _n_ /LIT-uh-nee/  
+__living area__  
 __living room__ _n_  
 __living statue__  
 __loanword__ _n_ :two::hammer:  
@@ -212,6 +236,7 @@ __martyrship__ _n_
 __mash__ _n_ _Used mash goes to feed a local farmer’s pigs._  
 __mashup__ _n_ :two::hammer: _A fantastic mashup of illuminated characters._  
 __mason__ _n_ :astonished:  
+__masseuse__ _n_  
 __massif__ _n_ :two::hammer: :es: macizo  
 __masterpieces__ _n_  
 __matinee__ _n_ :two::hammer:  
@@ -244,7 +269,7 @@ __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to m
 __merino__ _n_ _Merino wool._  
 __mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
 __meso__ _prefix_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
-__mesquite__ _n_ _Tender mesquite-grilled steaks._  
+__mesquite__ _n_ :two::hammer: _Tender mesquite-grilled steaks._  
 __meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to members of its own category.  
 __meta<sup>2</sup>__ _adv_ In a self-referential manner.  
 __meta<sup>3</sup>__ _n_ Something that is self-referential.  
@@ -306,7 +331,8 @@ __morganatic__ _adj_
 __morris__ _n_ An English folk dance in which a story is enacted by costumed dancers. _Maypole and morris dancers._  
 __mortgage__ _n_ :mega:  
 __mortified__  
-__mosey__ _v intr_  
+__mosey<sup>1</sup>__ _n_  
+__mosey<sup>2</sup>__ _v intr_  
 __motif__ _n_  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __mousetrap__ _n_  
@@ -374,6 +400,7 @@ __Nordic jumps__ _n_
 __nori__ _n_ _Nori crusted tuna._  
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
 __Norse__ _adj, n_  
+__nose-to-nose__ _adj_  
 __nosh<sup>1</sup>__ _v intr_ _informal_ :three: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _v tr_ to snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
@@ -483,6 +510,7 @@ __Paralympic Games__
 __paraphernalia__  
 __paratransit__ _adj_ _Paratransit services._  
 __parcel__ _n_  
+__parched__ _adj_ _Quench your parched throat with a long tall cool Yard of Beer._  
 __pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
 __parishioner__ _n_  
 __parlance__ _n_  
@@ -490,6 +518,7 @@ __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _Afte
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parterre__ _n_ _A rose parterre._  
+__partial__ _adj_ _Partial kitchen._  
 __partridge__ _n_  
 __partygoer__ _n_  
 __pasta__  
@@ -511,6 +540,7 @@ __pedigree__
 __pediment__ _n_  
 __peephole__  
 __peerless__ _adj_ _Peerless scenic beauty._  
+__pen__ _v_  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __pennant__ _n_ /PEN-uhnt/ __1__ A long tapering flag. __2__ A flag symbolizing a sports championship or another achievement. __3__ A victory, championship, etc.  
@@ -544,10 +574,12 @@ __pico de gallo__ _n_ :two::hammer:
 __picturesque__ _adj_ :four::hammer:  
 __pigeonhole__ _v_  
 __piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
+__pike__ _n_  
 __pin__ _v_ _Pinned it against the wall._  
 __pinback__ _n_ :two::hammer:  
 __pine nuts__  
 __pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
+__piñon__ _n_ _A 30-minute excursion through pines and piñons._  
 __Pinot Gris__ _n_  
 __pinstripes__ _n_  
 __piquancy__  
@@ -580,6 +612,7 @@ __poignant__ _adj_
 __polecats__ _n_  
 __Pompeii__ _n_  
 __pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
+__ponderosa pine__  
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __pool table__  
 __pool__ _n_ :two::hammer: _Heated pool._  
@@ -660,8 +693,9 @@ __quaff__ _v_
 __quaffing__ _v_  
 __quail<sup>1</sup>__ _n_ :three::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
-__quaint__ _adj_ :nine::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._ _A quaint cottage._  
+__quaint__ _adj_ :nine::m::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._ _A quaint cottage._ _Quaint Victorian buildings._  
 __quake__ _v_ _Quaking aspen._  
+__qualify__ _v_  
 __qualm__ _v_  
 __quench__ _v_ :two::hammer:  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
@@ -699,6 +733,7 @@ __reckoning__ _n_
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recount__ _v_  
 __Red Cross__ _n_  
+__red panda__  
 __red rice__ _n_  
 __red snapper__ _n_  
 __redeem__ _v_  
@@ -758,7 +793,7 @@ __riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course o
 __riposte__ _n_ :astonished: /rih-POHST/ A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
 __riverfront__  
 __riverside__  
-__roam__ _v_ _Cuts of beef served tableside by a parade of roaming carvers._  
+__roam__ _v_ :two::hammer: _Cuts of beef served tableside by a parade of roaming carvers._  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __Robert Burns__ _n_  
 __rockery__ _n_ :four::hammer:  
@@ -812,6 +847,7 @@ __sangria__ _n_
 __Saratoga__ _n_  
 __sardonic__ _adj_ Scornfully or cynically mocking. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
+__sarsaparilla__ _n_  
 __sashimi__ _n_  
 __sassy__  
 __sate__ _v_ _Sate your appetite._  
@@ -851,7 +887,7 @@ __scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvag
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
-__scrumptious__ _adj_ :three: Extremely pleasing, esp. to the taste; delectable.  
+__scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrutiny__ _n_  
 __scumbag__  
 __sea bass__ _n_ _Chilean sea bass._  
@@ -898,6 +934,7 @@ __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shoe leather__ _n_  
 __shoeshine__ _n_  
+__shoot out__ _n_  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoppe__ _n_ Variant of shop.  
 __shoreline__ _n_  
@@ -1013,15 +1050,17 @@ __splurge<sup>2</sup>__ _v_ :two::hammer:
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
+__spruce__  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __spurious__ _adj_ Lacking authenticity or validity in essence or origin; not genuine. _Syn_ specious, unauthentic _The professor explained to the student that her essay had received a “C” due to numerous examples of spurious reasoning._  
+__square dancing__ _n_ American country dancing in which couples form squares.  
 __squats__ _n_  
 __squeamish__ _adj_  
 __staddle__ _n_ /ˈstædəl/ __1__ A support or prop, esp a low flat-topped stone structure for supporting hay or corn stacks about two feet above ground level. _Staddle stones are mushroom-shaped stones on which granaries are rested. This helps keep the grain dry and stops rodents from climbing in._ __2__ A supporting frame for such a stack __3__ The lower part of a hay or corn stack.  
 __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
 __stage play__  
 __stage show__  
-__stagecoach__ _n_  
+__stagecoach__ _n_ :two::hammer:  
 __stance__ _n_ :two::hammer:  
 __standee__  
 __standout__ _n_  
@@ -1062,20 +1101,23 @@ __stevedore__ _n_
 __stew<sup>1</sup>__ _n_  
 __stew<sup>2</sup>__ _v_  
 __stilt__  
+__stockade__ _n_  
 __stockfish__ _n_  
 __stodgy__ _n_  
 __stoneware__ _n_  
 __stooges__ _n_  
-__stopover__ _n_ :two::hammer: :es: estancia  
+__stopover__ _n_ :three::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
 __stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle._  
 __storefront__ _n_ :two::hammer:  
 __storm<sup>1</sup>__ _n_ _A storm of dishes._  
 __storm<sup>2</sup>__ _v_ _The U.S. women also stormed the 1996 Olympics._  
 __storybook__ _n_  
 __stow__ _v tr_  
+__straddle__ _v_  
 __straightedge__ _adj, n_ _Straightedge shave and head massage._  
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
+__streamside__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
@@ -1118,6 +1160,7 @@ __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneou
 __sundry__ _n_ _Unique selection of sundries and cosmetics._  
 __super-duper__  
 __superintendent__  
+__superlative__ _adj_ _Superlative works._  
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
 __supreme__ _adj_ /səˈprim, sʊ-/  
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
@@ -1142,7 +1185,7 @@ __tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._
 __tabbouleh__ _n_  
 __tableside__ _n_ _Topless tableside dancing._  
 __tabletop__ _adj, n_  
-__tackle__ _n_  
+__tackle__ _n_ :two::hammer: _Bait and tackle available._  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __Tahitian__  
 __takeover__ _n_  
@@ -1256,7 +1299,7 @@ __treetops__ _n_
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
 __trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
-__trestle__ _n_ _Railway trestles._  
+__trestle__ _n_ :two::hammer: _Railway trestles._  
 __tribulation__ _n_  
 __tributary__ _n_  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
@@ -1323,6 +1366,7 @@ __unsavory__ _adj_ /ʌnˈseɪ və ri/
 __unscathed__ _adj_  
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
+__unwavering__ _adj_  
 __unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
@@ -1456,6 +1500,7 @@ __yogurt__ _n_ (yoghourt)
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
+__zephyr__ _n_  
 __zero in__  
 __zesty__ _adj_ :two::hammer: _Fruits with zesty peel._  
 __zinch__  

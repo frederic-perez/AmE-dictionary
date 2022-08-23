@@ -1,9 +1,12 @@
+__(just) a stone’s throw from (something)__  
 __a man of his word__ _He is a man of his word._  
 __blowhard__ One who tends to speak in an arrogant or conceited manner. _Oh, that guy’s a real blowhard—he’s not nearly as great as he thinks he is._  
 __borrowed time__ _I’m living on borrowed time._  
 __break their backs__  
 __call to action__  
+__catch (one’s) breath__  
 __clear the air__  
+__compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
 __fair game__  
 __far and wide__  
 __fight the good fight__  
@@ -15,10 +18,14 @@ __I hear you__
 __in awe (of someone or something)__  
 __long-winded__  
 __mark my word(s)__  
+__mix and match__  
 __not on my watch__  
 __on thin ice__  
+__one and only__  
+__one-of-a-kind__  
 __put in a good word for someone__  
 __rock bottom__  
+__rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __sleep in__  
 __smash hit__  
@@ -125,7 +132,7 @@ __wash something down__ _Wash it down with a glass of milk._
 __water down__  
 __water torture__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
-__weather permitting__ :three::hammer:  
+__weather permitting__ :four::hammer: _Weather permitting, you can experience a spectacular view of the city below from atop this mountain._  
 __wee hours__  
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
