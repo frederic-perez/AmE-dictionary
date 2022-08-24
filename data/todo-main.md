@@ -1,9 +1,12 @@
+__abrogate__ _v_ /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. _Citizens voted to abrogate the antiquated law._  
 __admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
 __adventuresome__ _adj_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __antler__ _n_  
+__arcane__ _adj_  
 __atop__  
 __boardwalk__ _n_ _Boot heels clap on the boardwalk._  
+__brackish__ _adj_ /BRACK-ish/ Brackish is typically used to mean “somewhat salty,” and most often describes water or bodies of water, such as rivers, lakes, and estuaries. _The mangrove swamp is home to many species of plants and animals that thrive in brackish water._  
 __buck__ _v_ _See live rodeo bucking animals._  
 __bud__ _v_  
 __concession__ _n_ _The zoo also offers food concessions and picnic areas._  
@@ -12,14 +15,18 @@ __craft__ _v_
 __cross-country__ _n_  
 __Cybex__ _n_ _Cybex weights._  
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
+__diphthong__ _n_ [:scroll: Middle English diptonge, from Old French diptongue, from Late Latin diphthongus, from Greek diphthongos : di-, two + phthongos, sound] A complex speech sound or glide that begins with one vowel and gradually changes to another vowel within the same syllable, as (oi) in _boil_ or (ī) in _fine_.  
 __docent__ _n_ _Special docent-guided tours can be arranged in advance._  
 __embrocation__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ liniment _The dressings on my wound and the embrocation on my sprained wrist steadily subdue the pains which I have felt so far._  
 __en route__ _adj, adv_  
 __epitome__ _n_ /ih-PIT-uh-mee/  
 __flowstone__ _n_ _Flowstone curtains._  
+__footpad__ _n_ A thief who preys on pedestrians. _Syn_ padder _The footpad was known to local police, as he had a habit of preying on tourists in the center of town._  
 __forest__ _v_  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __gift certificate__  
+__glitch__ _n_ /GLITCH/ A glitch is a usually minor malfunction or a problem that causes a temporary setback. _The email went out to everyone in the company because of a technical glitch._  
+__glitten__ _n_ A fingerless glove having a hoodlike pouch at the knuckles that can be pulled over the fingers for protection.  
 __gondola__ _n_ _Walking distance to Aspen Mountain gondola._  
 __gorge__ _n_  
 __grand__ _adj_  
@@ -35,6 +42,7 @@ __iatrogenic__ _adj_
 __ice sculpting__  
 __iffy__  
 __iguanodon__ _n_  
+__immutable__ _adj_ /ih-MYOO-tuh-bul/  
 __in-house__  
 __incentive__  
 __inexpensive__ _adj_  
@@ -152,6 +160,7 @@ __leviathan__ _n_ _You can sometimes see migrating leviathans._
 __libation__ _n_ :six::hammer:  
 __licentious__ _adj_  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
+__liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The liegeman was expected to provide military support if his lord went to battle._  
 __light rail__ _n_ :four::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :three::hammer:  
@@ -354,6 +363,7 @@ __mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from L
 __munitions__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
+__murse__ _n_ A man’s purse.  
 __muse__ _v_ /MYOOZ/ To muse about something is to think about it carefully and thoroughly. The word can also mean “to become absorbed in thought,” or “to think or say something in a thoughtful way.” _The conversation meandered, as the cousins mused about what had changed and what had remained the same since the last family reunion._  
 __mushy__ _adj_ :two::hammer: _Mushy peas._  
 __musketeer__ _n_  
@@ -372,6 +382,7 @@ __narrowboat__
 __nativity__ _n_  
 __naughty__ _adj, n_ :mega:  
 __Neapolitan__ _adj, n_ :two::pencil2:  
+__nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necklace__ _n_ :two::hammer:  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
@@ -531,6 +542,7 @@ __partygoer__ _n_
 __pasta__  
 __pastime__ _n_ :two::hammer:  
 __pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
+__patina__ _n_ /puh-TEE-nuh/  
 __patron__ _n_ :seven::hammer: (patrons) _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
 __patronize__ _v_  
 __patty__ _n_ _Two beef patties topped with knockwurst._  
@@ -568,6 +580,7 @@ __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, di
 __perusal__ _n_  
 __pervasive__  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
+__petrichor__ _n_  
 __petticoat__  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
@@ -726,6 +739,7 @@ __rapt__ _adj_
 __rapture__ _v_  
 __rash__ _adj_ /RASH/  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
+__rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashomon_ (based on Ryunosuke Akutagawa’s 1922 short story “In a Grove”) which showed a crime described by different people in different ways] Relating to differing accounts or subjective interpretations of an event.  
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
 __rationalize__ _v_  
@@ -945,6 +959,7 @@ __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or some
 __shoe leather__ _n_  
 __shoeshine__ _n_  
 __shoot out__ _n_  
+__shootie__ _n_ /ˈʃuːtɪ/ A fashionable shoe that covers the ankle.  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoppe__ _n_ Variant of shop.  
 __shoreline__ _n_  
@@ -1134,6 +1149,7 @@ __stretch<sup>1</sup>__ _n_
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
 __strife__ _n_  
 __strifle__ _n_  
+__stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strive__ _v_  
 __strobe lights__  
@@ -1168,6 +1184,7 @@ __suncatcher__ _n_
 __sundae__ _n_  
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
 __sundry__ _n_ _Unique selection of sundries and cosmetics._  
+__sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __super-duper__  
 __superintendent__  
 __superlative__ _adj_ _Superlative works._  
@@ -1306,6 +1323,7 @@ __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or 
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
 __treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
 __treetops__ _n_  
+__treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
 __trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
