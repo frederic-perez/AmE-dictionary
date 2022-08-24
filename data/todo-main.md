@@ -16,10 +16,14 @@ __cross-country__ _n_
 __Cybex__ _n_ _Cybex weights._  
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
 __diphthong__ _n_ [:scroll: Middle English diptonge, from Old French diptongue, from Late Latin diphthongus, from Greek diphthongos : di-, two + phthongos, sound] A complex speech sound or glide that begins with one vowel and gradually changes to another vowel within the same syllable, as (oi) in _boil_ or (ī) in _fine_.  
+__dire__ _adj_ _No matter how dire the news may be, there’s always something you can do. _  
 __docent__ _n_ _Special docent-guided tours can be arranged in advance._  
+__dysphoria__ _n_  
+__embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
 __embrocation__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ liniment _The dressings on my wound and the embrocation on my sprained wrist steadily subdue the pains which I have felt so far._  
 __en route__ _adj, adv_  
 __epitome__ _n_ /ih-PIT-uh-mee/  
+__excess__ _adj_  
 __flowstone__ _n_ _Flowstone curtains._  
 __footpad__ _n_ A thief who preys on pedestrians. _Syn_ padder _The footpad was known to local police, as he had a habit of preying on tourists in the center of town._  
 __forest__ _v_  
@@ -208,6 +212,7 @@ __luscious__ _adj_ :two::hammer: _Luscious burgers._
 __lush__ _adj_ :seven::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._ _A lush tropical forest._  
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
+__lymphoma__ _n_  
 __macaw__ _n_ :es: guacamayo  
 __mackerel__ _n_  
 __Madchester__ _n_ Manchester, UK.  
@@ -581,6 +586,7 @@ __perusal__ _n_
 __pervasive__  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
 __petrichor__ _n_  
+__petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
 __petticoat__  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
@@ -595,6 +601,7 @@ __picturesque__ _adj_ :four::hammer:
 __pigeonhole__ _v_  
 __piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
 __pike__ _n_  
+__pimple__ _n_  
 __pin__ _v_ _Pinned it against the wall._  
 __pinback__ _n_ :two::hammer:  
 __pine nuts__  
@@ -605,6 +612,7 @@ __pinstripes__ _n_
 __piquancy__  
 __pique__ _v_ _The video piqued your interest._  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
+__pit__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._  
 __pizzeria__ _n_ :mega:  
 __planter__ _n_ :four: __3__ An early settler or colonist.  
 __plantman__ _n_  
@@ -906,6 +914,7 @@ __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws.
 __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
 __scour__ _v_  
+__scrap__ _v_  
 __scrap<sup>1</sup>__ _n_  
 __scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
@@ -932,6 +941,7 @@ __seersuckers__ _n_
 __seesaw__  
 __seethe__ _v_  
 __segue__ _v_ (segues)  
+__self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
 __self-serving__ _adj_  
 __send-off__  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
@@ -1381,6 +1391,7 @@ __underemployed__
 __underfoot__ _adv_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
+__unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
