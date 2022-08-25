@@ -3,6 +3,7 @@ __admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold on
 __adventuresome__ _adj_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __antler__ _n_  
+__apropos__ _prep_ /ap-ruh-POH/ Apropos means “with regard to.” It is frequently used in the phrase “apropos of.” _Sean interrupted our conversation about politics and, apropos of nothing, asked who we thought would win the basketball game._  
 __arcane__ _adj_  
 __atop__  
 __boardwalk__ _n_ _Boot heels clap on the boardwalk._  
@@ -25,8 +26,10 @@ __en route__ _adj, adv_
 __epitome__ _n_ /ih-PIT-uh-mee/  
 __excess__ _adj_  
 __flowstone__ _n_ _Flowstone curtains._  
+__flunky__ _n_ A person of unquestioning obedience. _Syn_ stooge, yes-man _I liked the play, but I felt that the character of Joe was too much of a flunky, always trying to please Roger and never standing up for himself._  
 __footpad__ _n_ A thief who preys on pedestrians. _Syn_ padder _The footpad was known to local police, as he had a habit of preying on tourists in the center of town._  
 __forest__ _v_  
+__frolic__ _v_ /FRAH-lik/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __gift certificate__  
 __glitch__ _n_ /GLITCH/ A glitch is a usually minor malfunction or a problem that causes a temporary setback. _The email went out to everyone in the company because of a technical glitch._  
@@ -36,6 +39,7 @@ __gorge__ _n_
 __grand__ _adj_  
 __groundhog day__ _n_ /GRAUND-hog day/ [:scroll: After the 1993 film Groundhog Day in which the lead character, a television weatherman, relives a day in a time loop] A situation in which events are repeated as if in a loop, especially when such events are of a tedious or monotonous nature.  
 __gruff__ _adj_  
+__harelip__ _n_ A congenital cleft in the middle of the upper lip. _Syn_ cheiloschisis, cleft lip _The insurance company argued that the surgery to correct her harelip was not medically necessary._  
 __hassle__ _n_ _Advance seat assignment to avoid boarding hassles._  
 __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
 __hibachi__ _n_ _Original hibachi cooking._  
@@ -87,6 +91,8 @@ __jazzed__
 __jingoism__ _n_ /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
+__Jones<sup>1</sup>__ _n_ __1__ One’s neighbors or social equals. Typically used in the phrase: _keeping up with the Joneses._ __2__ An addiction or craving, especially for drugs.  
+__Jones<sup>2</sup>__ _v intr_ To have an intense longing.  
 __jostle__ _v_  
 __jouster__ _n_  
 __juke__ _v_  
@@ -279,7 +285,7 @@ __melodrama__ _n_
 __meltdown__  
 __memento__ _n_ :two::hammer: (mementoes)  
 __memorabilia__  
-__menagerie__ _n_ :two::hammer:  
+__menagerie__ _n_ :three: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
 __menial__ _adj_ :mega:  
 __mephitic__ _adj_  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
@@ -444,6 +450,8 @@ __oasis__ _n_ (_n pl_ oases)
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
+__obtrude<sup>1</sup>__ _v tr_ /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc.  
+__obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
@@ -482,6 +490,7 @@ __ornate__ _adj_ :three::hammer: /ɔrˈneɪt/
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
+__ostentatious__ _adj_ /ah-stun-TAY-shus/  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __otter__ _n_ :two::hammer: _Keep a look out for the sea otters._  
 __outcrop__ _n_ :three::hammer:  
@@ -550,6 +559,7 @@ __pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience
 __patina__ _n_ /puh-TEE-nuh/  
 __patron__ _n_ :seven::hammer: (patrons) _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
 __patronize__ _v_  
+__patsy__ _n_ /PAT-see/ One who is easily taken advantage of, by being deceived, unfairly blamed, or ridiculed.  
 __patty__ _n_ _Two beef patties topped with knockwurst._  
 __pavers__ _n_  
 __pavilion__ _n_ :two::hammer:  
