@@ -1,18 +1,3 @@
-__abrogate__ _v_ /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. _Citizens voted to abrogate the antiquated law._  
-__admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
-__adventuresome__ _adj_  
-__amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
-__antler__ _n_  
-__apropos__ _prep_ /ap-ruh-POH/ Apropos means “with regard to.” It is frequently used in the phrase “apropos of.” _Sean interrupted our conversation about politics and, apropos of nothing, asked who we thought would win the basketball game._  
-__arcane__ _adj_  
-__atop__  
-__boardwalk__ _n_ _Boot heels clap on the boardwalk._  
-__brackish__ _adj_ /BRACK-ish/ Brackish is typically used to mean “somewhat salty,” and most often describes water or bodies of water, such as rivers, lakes, and estuaries. _The mangrove swamp is home to many species of plants and animals that thrive in brackish water._  
-__buck__ _v_ _See live rodeo bucking animals._  
-__bud__ _v_  
-__concession__ _n_ _The zoo also offers food concessions and picnic areas._  
-__coo__ _v_ _Cooing for the beautiful damsel is encouraged._  
-__craft__ _v_  
 __cross-country__ _n_  
 __Cybex__ _n_ _Cybex weights._  
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  

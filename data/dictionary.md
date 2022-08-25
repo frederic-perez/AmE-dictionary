@@ -76,6 +76,7 @@ __abrade__ _v_
 __abrasive__ _adj_ /uh-BRAY-siv/ _Customer service requires being able to satisfy the polite subscribers but also the abrasive ones who argue with the terms of agreement._  
 __abreast__ _adv_ :seven: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
+__abrogate__ _v_ /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. _Citizens voted to abrogate the antiquated law._  
 __abrogation__ _n_ :two::hammer:  
 __abrupt__ _adj_ /uh-BRUPT/  
 __abruptly__  
@@ -196,6 +197,7 @@ __adjusted__
 __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin<sup>1</sup>__ _n_ _informal_ Short for administration.  
 __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin stuff._  
+__admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonish__ _v_ /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
@@ -211,6 +213,7 @@ __adulterate__ _v_
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
+__adventuresome__ _adj_  
 __adverse__ _adj_  
 __adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n informal_ :three: _Brit_ Short for advertisement.  
@@ -471,6 +474,7 @@ __amplification__ _n_ __2__ Material added to a statement, story, etc, in order 
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
 __amusement park__ _n_ :three::hammer:  
+__amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__  
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
@@ -573,7 +577,7 @@ __antique__ _n_ :five::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._
 __antiquity__ _n_ _The wise men of antiquity._  
 __antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
 __antithetical__ _adj_ /an-tuh-THET-ih-kul/  
-__antler__ _n_ :two::hammer: _Antler chandelier._  
+__antler__ _n_ :three::hammer: _Antler chandelier._  
 __antral__ _adj_ :two::hammer:  
 __antre__ _n_ /AN-tuhr/ A cave, cavern, cavity, etc.  
 __antsy__ _adj_ :three: Restless, impatient.  
@@ -650,7 +654,7 @@ __après__ _prep_ :three: After. Often used in combination: _an après-dinner en
 __apricate__ _v_ To bask in the sun.  
 __apropos<sup>1</sup>__ _adj_ :mega::four: /ˌæp rəˈpoʊ/ Being at once opportune and to the point. _Syn_ relevant, timely _His book about safe investment, published right before the stock market crash, was more apropos than he expected._  
 __apropos<sup>2</sup>__ _adv_ /ˌæp rəˈpoʊ/  
-__apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/  
+__apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/ /ap-ruh-POH/ Apropos means “with regard to.” It is frequently used in the phrase “apropos of.” _Sean interrupted our conversation about politics and, apropos of nothing, asked who we thought would win the basketball game._  
 __apse__ _n_ :es: ápside  
 __apt__  
 __aquanaut__ _n_  
@@ -669,7 +673,7 @@ __arboriculture__ _n_
 __arcade game__  
 __arcade__ _n_ _Catering capabilities, 2 bars, billards and an arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
-__arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
+__arcane__ _adj_ :six: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
 __arch<sup>1</sup>__ _n_ (arches _n pl_)  
 __arch<sup>2</sup>__ _adj_ :two::hammer: _Her character is arch and fake._  
 __archaea__ _n_  
@@ -824,7 +828,8 @@ __atoll__ _n_ :es: atolón
 __atolls__ _n_  
 __atone__ _v_ :three::hammer: (atoned)  
 __atonement__ _n_  
-__atop__  
+__atop<sup>1</sup>__ _adv_  
+__atop<sup>2</sup>__ _prep_  
 __atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
 __atraumatic__ _adj_ Without injury.  
 __atrium hotel__ _n_ _The first atrium hotel in America._  
@@ -1617,7 +1622,7 @@ __board__ _n_ :four: __6a__ A table at which official meetings are held; a counc
 __boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typically while their owners are on vacation. _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardroom__ _n_ :two::hammer: _Private boardrooms available._  
-__boardwalk__  
+__boardwalk__ _n_ :two::hammer: _Boot heels clap on the boardwalk._  
 __boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
 __boatswain__  
@@ -1809,7 +1814,7 @@ __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a suppo
 __bracing swim__  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
-__brackish__ _adj_ :three: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
+__brackish__ _adj_ :four: __1__ /BRACK-ish/ Brackish is typically used to mean “somewhat salty,” and most often describes water or bodies of water, such as rivers, lakes, and estuaries. Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ _The mangrove swamp is home to many species of plants and animals that thrive in brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
 __bradypnea__ _n_ Abnormally slow breathing.  
 __bradyseism__ _n_ :two::hammer:  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
@@ -2007,6 +2012,7 @@ __buckskin__ _n_ :two::hammer: (buckskins)
 __bucktooth__ _n_ /ˈbʌkˌtuːθ/  
 __buckwheat__ _n_  
 __buckwheats__  
+__bud__ _v_  
 __budding__  
 __buddy__  
 __budge__ _v_ :three::hammer: (budged)  
@@ -3262,7 +3268,7 @@ __concertina__
 __concertmaster__  
 __concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
-__concession__ _n_ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
+__concession__ _n_ :two::hammer: _The zoo also offers food concessions and picnic areas._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __conch__ _n_ _A conch farm._  
 __concierge level__ _n_ :two::hammer:  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
@@ -3430,7 +3436,7 @@ __convoke__ _v_ To call together to a meeting.
 __convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
 __conwise__  
-__coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
+__coo__ _v_ :seven: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._ _Cooing for the beautiful damsel is encouraged._  
 __cooing__ _n_  
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
@@ -3617,7 +3623,8 @@ __crackpot<sup>1</sup>__ _n_
 __crackpot<sup>2</sup>__ _adj_  
 __cradle__ _v_ (cradling)  
 __craft beer money__  
-__craft__ _n_ :four::hammer: (crafts) _Craft sake._  
+__craft<sup>1</sup>__ _n_ :four::hammer: (crafts) _Craft sake._  
+__craft<sup>2</sup>__ _v_  
 __craftman__  
 __crafty__  
 __crag__ _n_ :four::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
