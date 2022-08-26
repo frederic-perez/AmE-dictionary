@@ -6,6 +6,7 @@ __arm’s length__ A distance intentionally kept from something or between somet
 __around Robin Hood’s barn__ On a long, indirect route. _A: “What took you guys so long to get here?” B: “Well, rather than just going through town, our esteemed driver took us all around Robin Hood’s barn instead!”_  
 __at the end of (one ’s) tether__ Completely worn out, exasperated, or exhausted; having no more patience, endurance, or energy left. _Joshua has been throwing a tantrum all afternoon, and with all the other things I have to get done, I’m simply at the end of my tether!_  
 __at top speed__ As fast as something or someone can go. _Once Tom caught the ball, he took off at top speed toward the end zone._  
+__at your leisure__  
 __blowhard__ One who tends to speak in an arrogant or conceited manner. _Oh, that guy’s a real blowhard—he’s not nearly as great as he thinks he is._  
 __borrowed time__ _I’m living on borrowed time._  
 __break their backs__  
@@ -19,6 +20,7 @@ __far and wide__
 __fight the good fight__  
 __four-letter word__  
 __gaslight__  
+__gold rush__  
 __good Lord__  
 __have skin in the game__ _I have no skin in the game._  
 __hero’s journey__  
@@ -34,6 +36,7 @@ __one-of-a-kind__
 __put in a good word for someone__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
+__see for (oneself)__  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __sleep in__  
 __smash hit__  
@@ -69,6 +72,7 @@ __take a fit__ To become very or unreasonably angry or upset; to have an outburs
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
+__take heart__  
 __take it away!__  
 __take pride in someone or something__ :three::hammer:  
 __take the edge off__  
@@ -113,6 +117,7 @@ __throw out the baby with the bath water__ _HR 37 disapproves of everything, thr
 __tick someone off__  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __til you drop__  
+__time capsule__  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
