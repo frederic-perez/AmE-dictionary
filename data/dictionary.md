@@ -97,6 +97,7 @@ __abutting__ _adj_
 __abuzz__ _adj_ :two::hammer:  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
 __abyss__ _n_ :astonished::mega::six:  
+__acacia__ _n_  
 __accenting__ _v_  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
 __accessory__ _adj, n_ :pencil2:  
@@ -197,7 +198,7 @@ __adjusted__
 __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin<sup>1</sup>__ _n_ _informal_ Short for administration.  
 __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin stuff._  
-__admission__ _n_ :two::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
+__admission__ _n_ :three::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonish__ _v_ /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
@@ -213,7 +214,7 @@ __adulterate__ _v_
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
-__adventuresome__ _adj_  
+__adventuresome__ _adj_ :two::hammer:  
 __adverse__ _adj_  
 __adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n informal_ :three: _Brit_ Short for advertisement.  
@@ -232,7 +233,7 @@ __aerials__
 __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
 __aero-hydroponics__  
 __aerospike engine__ _n_  
-__afar__ _adv_ :three: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
+__afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
 __affable__ _adj_ :two::hammer: /AF-uh-bul/  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :seven::hammer:  
@@ -671,7 +672,7 @@ __arbor__ _n_ :two::hammer: _An arbor of live oaks._
 __arboretum__ _n_ :seven::hammer:  
 __arboriculture__ _n_  
 __arcade game__  
-__arcade__ _n_ _Catering capabilities, 2 bars, billards and an arcade._  
+__arcade__ _n_ :two::hammer: _Catering capabilities, 2 bars, billards and an arcade._ _West’s oldest amusement arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :six: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
 __arch<sup>1</sup>__ _n_ (arches _n pl_)  
@@ -1917,7 +1918,7 @@ __Brisbane__ _n_ :mega: /ˈbrɪz beɪn, -bən/
 __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
 __brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
-__brisket__ _n_ :four::hammer:  
+__brisket__ _n_ :five::hammer: _BBQ beef brisket._  
 __briskly__  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
 __bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
@@ -2071,7 +2072,7 @@ __bumbling__ _adj_
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
-__bumper boat__ _n_  
+__bumper boat__ _n_ :two::hammer:  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumpers__ _n_ _The bumpers of vehicles._  
@@ -2257,6 +2258,7 @@ __cadaver__ _n_ :four::mega:
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
 __cadence__ _n_ :three::hammer:  
+__cadet__ _n_  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
@@ -2822,7 +2824,7 @@ __chrome__ _n_
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chuck out__ _v_  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
-__chuck-wagon__ _n_ :two::hammer: _Chuck-wagon supper._  
+__chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
@@ -3076,6 +3078,7 @@ __coeval__ _adj, n_ :two::hammer:
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
 __coffee mill__ _n_ _Syn_ coffee grinder  
+__coffee pot__ _n_  
 __coffee-table book__  
 __coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
@@ -3268,7 +3271,7 @@ __concertina__
 __concertmaster__  
 __concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
-__concession__ _n_ :two::hammer: _The zoo also offers food concessions and picnic areas._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
+__concession__ _n_ :three::hammer: _The zoo also offers food concessions and picnic areas._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._ _Concession car._  
 __conch__ _n_ _A conch farm._  
 __concierge level__ _n_ :two::hammer:  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
@@ -3423,6 +3426,7 @@ __convection__ _n_
 __convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
 __convenience store__  
+__convenience__ _n_ _Visitor conveniences are easily accessible._  
 __conventioneer__ _n_  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
@@ -3731,7 +3735,8 @@ __crooked__ _adj_ :three::hammer: _Crooked media._
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
-__cross-country__ _adj_ :two::hammer:  
+__cross-country<sup>1</sup>__ _adj_ :two::hammer:  
+__cross-country<sup>2</sup>__ _n_  
 __cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __cross-grained__ _adj_ Difficult to deal with.  
@@ -3843,7 +3848,7 @@ __cure-all__ _n_
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __Curia__ _n_ :four: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
-__curios__  
+__curio__ _n_ :two::hammer: _Curio shop._  
 __curlicue<sup>1</sup>__ _n_ :two::hammer:  
 __curlicue<sup>2</sup>__ _v_ (curlicued)  
 __curly__ _adj_ /ˈkɜr li/ The Three Little Pigs _is a curly tail for the whole family._  

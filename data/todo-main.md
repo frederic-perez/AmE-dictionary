@@ -1,18 +1,3 @@
-__acacia__ _n_  
-__admission__ _n_ _Free admission._  
-__adventuresome__  
-__afar__  
-__arcade__ _n_ _West’s oldest amusement arcade._  
-__brisket__ _n_ _BBQ beef brisket._  
-__bumper boat__ _n_  
-__cadet__ _n_  
-__chasm__ _n_  
-__chuck-wagon__ _n_ _A chuck-wagon barbecue._  
-__coffee pot__ _n_  
-__concession__ _adj_ _Concession car._  
-__convenience__ _n_ _Visitor conveniences are easily accessible._  
-__cross-country__ _n_  
-__curio__ _n_ _Curio shop._  
 __Cybex__ _n_ _Cybex weights._  
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
 __deep dish pizza__  
