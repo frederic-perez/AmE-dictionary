@@ -1,18 +1,3 @@
-__Cybex__ _n_ _Cybex weights._  
-__decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
-__deep dish pizza__  
-__depot__ _n_  
-__diphthong__ _n_ [:scroll: Middle English diptonge, from Old French diptongue, from Late Latin diphthongus, from Greek diphthongos : di-, two + phthongos, sound] A complex speech sound or glide that begins with one vowel and gradually changes to another vowel within the same syllable, as (oi) in _boil_ or (ī) in _fine_.  
-__dire__ _adj_ _No matter how dire the news may be, there’s always something you can do. _  
-__docent__ _n_ _Special docent-guided tours can be arranged in advance._  
-__dysphoria__ _n_  
-__ecology__ _n_  
-__embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
-__embrocation__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ liniment _The dressings on my wound and the embrocation on my sprained wrist steadily subdue the pains which I have felt so far._  
-__en route__ _adj, adv_  
-__epitome__ _n_ /ih-PIT-uh-mee/  
-__excess__ _adj_  
-__expat__  
 __fiasco__  
 __flambeau__ _n_  
 __float fishing__  

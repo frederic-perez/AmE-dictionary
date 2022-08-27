@@ -3893,6 +3893,7 @@ __cutting-edge__ _adj_ :four::hammer: _Cutting-edge research._
 __cuttlefish__ _n_ _Cuttlefish bones._  
 __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
 __cyanide__ _n_ A very strong poison.  
+__Cybex__ _n_ _Cybex weights._  
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
 __cynical__ _adj_ :three::pencil2: /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
@@ -4034,6 +4035,7 @@ __decadence__ _n_ :two: __1__ A process, condition, or period of deterioration o
 __decadent__ _adj_ :seven::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Renowned for decadent and unique signature items._ _Decadent glory._  
 __decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :four::hammer: _Look for our decal when making dining plans._  
+__decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
 __decamped__ _v_  
 __decant__ _v_ :two::hammer:  
 __decanter__ _n_ :two::hammer:  
@@ -4072,6 +4074,7 @@ __deed__ _n_ _The deed is set in motion._
 __deedee__ _v_  
 __deem__ _v_  
 __deep cut__ _n_ :five: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
+__deep dish pizza__  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
@@ -4191,6 +4194,7 @@ __deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnabl
 __depolarize__ _v_  
 __deposit__ _n_  
 __deposition__ _n_ :three::hammer:  
+__depot__ _n_  
 __depraved__ _adj_  
 __depravity__  
 __depress__ _v_ _Depressing a company’s value._  
@@ -4355,7 +4359,7 @@ __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses eq
 __diorama__ _n_ :three::hammer:  
 __dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
-__diphthong__ _n_  
+__diphthong__ _n_ :two: [:scroll: Middle English diptonge, from Old French diptongue, from Late Latin diphthongus, from Greek diphthongos : di-, two + phthongos, sound] A complex speech sound or glide that begins with one vowel and gradually changes to another vowel within the same syllable, as (oi) in _boil_ or (ī) in _fine_.  
 __diplodocus__ _n_  
 __diploma__  
 __diplomat__ _n_ :mega:  
@@ -4364,7 +4368,7 @@ __diplopia__ _n_ A pathological condition of vision in which a single object app
 __dips__ _n_  
 __dipsomania__  
 __dipstick__  
-__dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._  
+__dire__ _adj_ :nine: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._ _No matter how dire the news may be, there’s always something you can do._  
 __direct object__  
 __direction__ _n_ :two::mega:  
 __dirge__ _n_ :three::hammer:  
@@ -4555,7 +4559,7 @@ __do-gooder__
 __doable__ _adj_ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
-__docent__ _n_ :four: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc.  
+__docent__ _n_ :five: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc. _Special docent-guided tours can be arranged in advance._  
 __docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
@@ -4932,7 +4936,7 @@ __dysfunction__ _n_ :pencil2: (dysfunctional)
 __dysfunctional__  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphemism__ _n_  
-__dysphoria__ _n_ :two: An emotional state characterized by anxiety, depression, or unease.  
+__dysphoria__ _n_ :three: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
 __dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
@@ -4993,6 +4997,7 @@ __eclampsia__
 __éclat__ _n_  
 __eclectic__ _adj_ :two::pencil2::hammer:  
 __ecliptic__ _n_  
+__ecology__ _n_  
 __ecosystem__ _n_  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
@@ -5118,8 +5123,10 @@ __embodiment__
 __embody__ _v_  
 __embolden__ _v_ :three::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
+__embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
 __embrace__ _v_ :six::hammer: (embraced) _The best role models embrace their flaws._ _Embrace people as they are._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
+__embrocation__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ liniment _The dressings on my wound and the embrocation on my sprained wrist steadily subdue the pains which I have felt so far._  
 __embroider__ _v_ :three: (embroidered) __1__ To do decorative needlework (upon). _Embroidered headwear._ __2__ To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __embroil__ _v_ (embroiled)  
 __embryo__  
@@ -5153,7 +5160,8 @@ __empty-net/power-play/short-handed goal__
 __emulate__ _v_  
 __emulsified__ _v_  
 __en masse__ _adv_ :three: In one group or body; all together: _The protesters marched en masse to the capitol._ _Cruz supporters are going to bolt to Rubio en masse._ _Cavalry could not deploy en masse owing to the marshes, hedges, and ditches._  
-__en route__ _adv_ On or along the way: _We are en route to the museum. The store is en route._  
+__en route<sup>1</sup>__ _adj_  
+__en route<sup>2</sup>__ _adv_ :two: On or along the way: _We are en route to the museum. The store is en route._  
 __en suite__ _adv_ :two: As part of a set; forming a unit: _a hotel room with bathroom en suite._  
 __enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
@@ -5274,7 +5282,7 @@ __Episcopalian__
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
 __epithet__ _n_ :nine: /EP-uh-thet/ (epithets) __1__ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ An epithet is a nickname or descriptive term used to refer to someone. _You need to listen to me and not Clueless Kevin over there._ _Walmart removed the racial epithet from the headline._ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
-__epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :nine::m::mega: /ih-PIT-uh-mee/ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
@@ -5396,7 +5404,7 @@ __exasperation__ _n_ :two::hammer:
 __exceed__ _v_  
 __exceedingly__  
 __excelsior__  
-__excess__ _adj_ :five::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
+__excess__ _adj_ :six::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
 __excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
 __excommunicate__ _v_  
@@ -5437,7 +5445,7 @@ __exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or 
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :four::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
-__expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
+__expat__ _n_ :two::hammer: _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
