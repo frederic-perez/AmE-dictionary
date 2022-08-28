@@ -105,6 +105,7 @@ __mos.__ Months.
 __MP__ __1__ Member of Parliament. __2__ Military police.  
 __MQTT__ Message Queuing Telemetry Transport.  
 __mRNA__ Messenger RNA.  
+__MSG__ Monosodium glutamate. _Always trans-fat free with no added MSG._  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __MVA__ Motor vehicle accident, or multi-vehicle accident.  
 __N/A__ Not available.  

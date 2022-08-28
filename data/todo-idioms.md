@@ -26,6 +26,8 @@ __have skin in the game__ _I have no skin in the game._
 __hero’s journey__  
 __I hear you__  
 __in awe (of someone or something)__  
+__in the making__  
+__just because__  
 __long-winded__  
 __mark my word(s)__  
 __mix and match__  
@@ -169,6 +171,7 @@ __wipe the floor__
 __wit’s end__ :dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
+__with a bang__ _Chamber music with a bang!_  
 __with a twist__ :three::hammer:  
 __with a view__ _Chateau with a view._  
 __with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
