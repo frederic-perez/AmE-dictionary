@@ -1,18 +1,3 @@
-__abound__ _v_  
-__arboretum__ _n_  
-__artisanal__ _adj_ _Artisanal cheeses._  
-__badger__  
-__batting cage__ _n_  
-__betterment__  
-__botanicals__ _n_  
-__camper__  
-__carryout__ _n_ Takeout. _Carryout available._  
-__chrysalis__ _n_ (_n pl_ chrysalises or chrysalides)  
-__cinnamon roll__  
-__clog__ _n_ Any of various wooden or wooden-soled shoes.  
-__cob__ _n_ _Savor corn on the cob._  
-__comfort food__  
-__commencement__ _n_ _The high school commencement ceremony._  
 __concession__ _n_  
 __concourse__ _n_  
 __consign__ _v_  

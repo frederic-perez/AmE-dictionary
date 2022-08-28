@@ -67,7 +67,7 @@ __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrabl
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :pencil2: (Aborigine)  
-__abound__ _v intr_ :six::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._ _By foot, by rail, by trail: options abound._  
+__abound__ _v intr_ :seven::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._ _By foot, by rail, by trail: options abound._  
 __about-face__  
 __aboveboard<sup>1</<up>__ _adj_ :two: Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
 __aboveboard<sup>2</<up>__ _adv_  
@@ -669,7 +669,7 @@ __Arapahoe__ _n_ :two::hammer:
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__ _n_ :seven::hammer:  
+__arboretum__ _n_ :eight::hammer:  
 __arboriculture__ _n_  
 __arcade game__  
 __arcade__ _n_ :two::hammer: _Catering capabilities, 2 bars, billards and an arcade._ _West’s oldest amusement arcade._  
@@ -733,7 +733,7 @@ __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or othe
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artillery__ _n_  
-__artisanal__ _adj_  
+__artisanal__ _adj_ :two::hammer: _Artisanal cheeses._  
 __artistry__  
 __artsy__ _adj_ :four::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
@@ -993,7 +993,7 @@ __badass<sup>1</sup>__ _n_
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _n_ _It’s just what Bond fans want in a baddie._  
 __bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
-__badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
+__badger__ _n_ :three::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She wants him so badly!_  
@@ -1167,7 +1167,7 @@ __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, an
 __batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
-__batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
+__batting cage__ _n_ :two::hammer: _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
@@ -1363,6 +1363,7 @@ __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affi
 __betrothal__ _n_  
 __betrothed__ _adj_ :four: Engaged to be married.  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
+__betterment__  
 __bettors__  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
 __bevel<sup>2</sup>__ _v_ :two::hammer:  
@@ -1768,6 +1769,7 @@ __bossom__ _n_
 __bossy__ _adj_  
 __bosun__ _n_ :two::hammer: _Bosun’s chairs._ _The aviation bosun._  
 __bot__ _n_  
+__botanicals__ _n_  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
 __bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
 __botnet__  
@@ -2327,7 +2329,7 @@ __camp<sup>2</sup>__ _adj_ _A classic camp comedy._
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
 __camper shell__  
-__camper__ _n_ :three::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
+__camper__ _n_ :four::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
 __campground__ _n_ :three: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
 __campier__ _adj_ _Campier presentations._  
@@ -2456,7 +2458,7 @@ __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting fles
 __carry a torch__  
 __carry the cross__  
 __carry-on bag__  
-__carryout__ _n_ :two::hammer: _A Chinese carryout._ _It focuses on delivery and carryout._  
+__carryout__ _n_ :three: Takeout. _Carryout available._ _A Chinese carryout._ _It focuses on delivery and carryout._  
 __carryover__ _n_ _A carryover vehicle._  
 __carsick__ _adj_ Suffering from motion sickness caused by travel in a motor vehicle.  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
@@ -2822,6 +2824,7 @@ __Christmas fly__
 __Christmas__ _n_ :mute:[C~~h~~istmas]  
 __chrome__ _n_  
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
+__chrysalis__ _n_ (_n pl_ chrysalises or chrysalides)  
 __chuck out__ _v_  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
@@ -2864,6 +2867,7 @@ __Cinderella__ _n_ :two: /sin-duh-rel-uh/ __5__ A person or thing that achieves 
 __cine__ _n_ :mega:  
 __cinephile__ _n_ :mega:  
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
+__cinnamon roll__  
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __circa__  
@@ -2993,6 +2997,7 @@ __clock out__ _v_
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
 __clockwork__ _n_  
 __clod__ _n_ :five::hammer: /klɒd/ _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
+__clog__ _n_ Any of various wooden or wooden-soled shoes.  
 __clogging__ _v_  
 __cloisonné__ _adj, n_ _Cloisonné vases._  
 __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
@@ -3048,7 +3053,7 @@ __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat
 __coats-of-arms__ _n pl_  
 __coattails__ _n_ :three::hammer: _I think we’re going to be riding his coattails a little bit._  
 __coaxing__ _v_  
-__cob__  
+__cob__ _n_ :two::hammer: _Savor corn on the cob._  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble up__ _phr v_  
 __cobble__ _v_ :two::hammer: (cobbled)  
@@ -3172,7 +3177,7 @@ __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
 __comfit__ _n_  
-__comfort food__ _n_ :two::hammer:  
+__comfort food__ _n_ :three::hammer:  
 __comfort__ _n_ :pencil2:  
 __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
 __comforter sets__  
@@ -3186,6 +3191,7 @@ __command__ _v_ _Those who graduate with degrees in STEM fields are expected to 
 __commandeered__ _v_ :astonished::two::hammer:  
 __commander in chief__  
 __commemorate__ _v_ /kuh-MEM-uh-rayt/  
+__commencement__ _n_ _The high school commencement ceremony._  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :five: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
