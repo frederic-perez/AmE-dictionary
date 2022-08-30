@@ -1,18 +1,3 @@
-__concession__ _n_  
-__concourse__ _n_  
-__consign__ _v_  
-__delectable__ _adj_ :two::hammer: _A delectable ice cream._  
-__dressage__ _n_  
-__dunk tanks__  
-__esteemed__ _adj_ :two::hammer:  
-__expansive__  
-__fiasco__  
-__finesse__ _v_  
-__flambeau__ _n_  
-__float fishing__  
-__flowstone__ _n_ _Flowstone curtains._  
-__flunky__ _n_ A person of unquestioning obedience. _Syn_ stooge, yes-man _I liked the play, but I felt that the character of Joe was too much of a flunky, always trying to please Roger and never standing up for himself._  
-__footpad__ _n_ A thief who preys on pedestrians. _Syn_ padder _The footpad was known to local police, as he had a habit of preying on tourists in the center of town._  
 __forest__ _v_  
 __frolic__ _v_ /FRAH-lik/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  

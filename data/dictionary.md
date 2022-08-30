@@ -3277,7 +3277,7 @@ __concertina__
 __concertmaster__  
 __concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
-__concession__ _n_ :three::hammer: _The zoo also offers food concessions and picnic areas._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._ _Concession car._  
+__concession__ _n_ :four::hammer: _The zoo also offers food concessions and picnic areas._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._ _Concession car._  
 __conch__ _n_ _A conch farm._  
 __concierge level__ _n_ :two::hammer:  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
@@ -3288,7 +3288,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :seven::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
-__concourse__ _n_ :eight::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._  
+__concourse__ _n_ :nine::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
@@ -3365,7 +3365,7 @@ __consequently__
 __conservancies__  
 __conservatory__ _n_ :seven: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. _A tropical conservatory._ :es: invernadero  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
-__consign__ _v_ (consigned) _Fashionable consigned clothes._  
+__consign__ _v_ :two::hammer: (consigned) _Fashionable consigned clothes._  
 __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
@@ -4783,6 +4783,7 @@ __drenches__ _v_
 __dress rehearsal__  
 __dress shoes__  
 __dress up__ _v_  
+__dressage__ _n_  
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
 __dressing__ _n_ :two::hammer: _It’s going to take longer to get to that turkey and dressing._  
@@ -4907,6 +4908,7 @@ __dunce__ _n_ :three: A person regarded as dim-witted or foolish. _We are comple
 __dune__ _n_  
 __dung fork__ _n_  
 __dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
+__dunk tanks__  
 __dunno__  
 __duo__  
 __dupe__ _n_ _A dupe of a president._  
@@ -5348,7 +5350,7 @@ __essential<sup>2</sup>__ _n_
 __establish__ _v_ _Established 1978._  
 __estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __esteem__ _v_ _Our esteemed allies._  
-__esteemed__ _adj_  
+__esteemed__ _adj_ :three::hammer:  
 __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
@@ -5449,7 +5451,7 @@ __existential__ _n_ :pencil2:
 __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
 __exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
-__expansive__ _adj_ :four::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
+__expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ :two::hammer: _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
@@ -5765,7 +5767,7 @@ __fey__ _adj_ :two::hammer:
 __fez__ _n_  
 __fiancé__ _n_ A man who is engaged to be married.  
 __fiancée__ _n_ A woman who is engaged to be married.  
-__fiasco__  
+__fiasco__ _n_ :two::hammer:  
 __fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
 __fib<sup>2</sup>__ _v_ :two: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
@@ -5839,7 +5841,7 @@ __fine-grained__ _adj_ (versus coarse-grained) _Fine-grained communication (in t
 __fine-tune__ _v_  
 __finery__ _n_ :three: Beautiful clothes and jewelry, especially the type that people wear only on special occasions. Elaborate or showy decoration, esp clothing and jewelry.  
 __finesse<sup>1</sup>__ _n_ :two::hammer:  
-__finesse<sup>2</sup>__ _v_ :two: /fuh-NESS/ To handle, deal with, or do (something) in an indirect and skillful or clever way. _The forward finessed the ball past two defenders and powered it to the left of the goalie for a score._  
+__finesse<sup>2</sup>__ _v_ :three: /fuh-NESS/ To handle, deal with, or do (something) in an indirect and skillful or clever way. _The forward finessed the ball past two defenders and powered it to the left of the goalie for a score._  
 __finger food__ _n_ Food intended to be eaten with the fingers.  
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
@@ -5937,6 +5939,7 @@ __flak vest__
 __flak__ _n_ :seven: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
 __flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
+__flambeau__ _n_  
 __flamboyant__ _adj_ :four::hammer:  
 __flameouts__  
 __flaming hair__  
@@ -6023,6 +6026,7 @@ __flit<sup>1</sup>__ _v_ :two::hammer:
 __flit<sup>2</sup>__ _n_  
 __flitter__ _v_ :four: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
 __flitty__  
+__float fishing__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :four::hammer:  
 __floater__ _n_ :six::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._ _(Vision)_ _Floaters and flashes._ _Are you seeing new floaters?_  
@@ -6057,6 +6061,7 @@ __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disreg
 __flowerpot__ _n_ _Clay flowerpot._  
 __flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flown__ _v_ :two::hammer: _Fresh fish is flown in daily from all over the globe._ _The flag was flown at half mast._  
+__flowstone__ _n_ _Flowstone curtains._  
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
@@ -6069,7 +6074,7 @@ __flummox__ _v_ :seven::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ 
 __flummoxed__ _adj_ :two: Perplexed or bewildered. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
-__flunky__ _n_ :four: (flunkie) __1a__ A liveried servant. __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
+__flunky__ _n_ :five: (flunkie) __1a__ A liveried servant. A person of unquestioning obedience. _Syn_ stooge, yes-man _I liked the play, but I felt that the character of Joe was too much of a flunky, always trying to please Roger and never standing up for himself._ __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
 __fluorescent__ _adj, n_ :mute:[fluores~~c~~ent]  
 __fluoridation__ _n_ The addition of a fluoride to the water supply (to prevent dental decay). _Syn_ fluoridization  
 __flurry > in a flurry__  
@@ -6138,6 +6143,7 @@ __footing__ _n_ :two::hammer: _I found my footing._ _Last year a student died af
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose<sup>1</sup>__ _adj_ :three::pencil2::hammer: _Footloose knights._  
 __footloose<sup>2</sup>__ _n_ _Travel clothes for the footloose._  
+__footpad__ _n_ A thief who preys on pedestrians. _Syn_ padder _The footpad was known to local police, as he had a habit of preying on tourists in the center of town._  
 __footpath__ _n_ A narrow path for persons on foot.  
 __footprint__ _n_ _Two pools set in the footprints of the Twin Towers._  
 __footwork__ _n_ :two::hammer:  
