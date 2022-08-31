@@ -236,7 +236,7 @@ __aerospike engine__ _n_
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
 __affable__ _adj_ :two::hammer: /AF-uh-bul/  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
-__affidavit__ _n_ :seven::hammer:  
+__affidavit__ _n_ :eight::hammer:  
 __affiliate__  
 __affix__ _v_  
 __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
@@ -1843,6 +1843,7 @@ __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was 
 __brasserie__ _n_  
 __brassiere__ _n_  
 __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._  
+__brattice__ _n_  
 __bratty__  
 __bratwurst__ _n_  
 __bravado__ _n_ :five: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._  
@@ -4281,7 +4282,7 @@ __deviltry__
 __devious__ _adj_  
 __devoid__ _adj_ :two::hammer:  
 __devoir__ _n_ :two::hammer:  
-__devolve__ _v_ _The party must devolve power._  
+__devolve__ _v_ :two: /dih-VAHLV/ __1__ To gradually go from an advanced state to a less advanced state. _Over time, the weekly book club meetings devolved into mean-spirited gossip sessions._ _The party must devolve power._ __2__ To pass something, such as responsibility or power, from one person or group to another person or group at a lower level of authority.  
 __devolved__ _v_  
 __devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
 __devotee__ _n_ _Burning Man devotees._  
@@ -4612,6 +4613,7 @@ __dole__ _n_
 __dolirometer__  
 __dollhouse__  
 __dollop__ _n_ :six::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
+__dolphin kick__ _n_  
 __dolt__ _n_ :two: A stupid person; a dunce.  
 __dome__ _n_  
 __domestic__ _adj_  
@@ -5425,6 +5427,7 @@ __excruciating__ _adj_ :three: Very painful.
 __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._  
 __exculpate__ _v_ :two: /EK-skull-payt/ To clear from alleged fault or guilt. To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
+__excursus__ _n_ A message that departs from the main subject. _Syn_ digression, divagation, parenthesis, aside _After yet another long excursus on the subject of housecats, the absent-minded professor finally returned to his main point._  
 __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
 __execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
@@ -6017,6 +6020,7 @@ __flip (me) the bird__
 __flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. __2__ To go crazy; have a mental breakdown.  
 __flip side__ _n_ A different aspect of something (especially the opposite aspect).  
 __flip the bird__  
+__flip turn__ _n_  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :three: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
 __flippant__ _adj_ :seven::astonished: / FLIP-unt / Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
@@ -6191,6 +6195,7 @@ __forerunner__ _n_ :two::hammer:
 __foreseeable__  
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
+__forest__ _v_  
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ :two: Covered with forest. :es: arbolado _A forested park rich in game._ _A forested municipal park._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
@@ -6349,7 +6354,7 @@ __frizzle__ _v_ _Frizzled beard._
 __frock__  
 __frogman__ _n_ :two::hammer:  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
-__frolic<sup>2</sup>__ _v_ :three::hammer: (frolicked)  
+__frolic<sup>2</sup>__ _v_ :four: /FRAH-lik/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
 __from afar__  
 __from the git-go__  
 __from the rooter to the rooter__  
@@ -6459,6 +6464,7 @@ __gab<sup>1</sup>__ _v_ :two::hammer:
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
 __gabbing__  
 __gabelle__ _n_ A tax, especially the salt tax imposed in France before 1790.  
+__gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __gabfest__  
 __gable__ _n_ :two::hammer:  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
@@ -6516,6 +6522,7 @@ __Ganjapreneur__
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
 __gar__ _n_  
+__garage sale__ _n_  
 __garb__ _n_ :five::hammer: _They wore medical garb of some variety._ _In a prison garb._ :es: atuendo  
 __garbage chute__ _n_ :camera:  
 __garbage island__  
@@ -6552,6 +6559,7 @@ __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies�
 __gasket__ _n_ :three::hammer: :es: junta  
 __gasolene__ _n_ :two::hammer::pencil2: _Syn_ gasoline, petrol, gas  
 __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
+__gastropod__ _n_ _Syn_ univalve  
 __gat__  
 __gated community__ _n_ :two::hammer:  
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
@@ -6570,7 +6578,7 @@ __gauzy__ _adj_ :two::hammer:
 __gavel__ _n_ :six::hammer: _The judge’s gavel._  
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
-__gazebo__ _n_ :five::mega::hammer:  
+__gazebo__ _n_ :six::mega::hammer: _The park also features a theater and an entertainment gazebo._  
 __gazette__ _n_  
 __gazillion__ _n_  
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
@@ -6649,6 +6657,7 @@ __Gibson glass__
 __giddily__  
 __giddiness__ _n_ :two::hammer:  
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
+__gift certificate__  
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
@@ -6698,6 +6707,7 @@ __glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cind
 __glasses__ _n pl_ (plurale tantum)  
 __glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero  
 __glaucoma__ _n_ :mega:  
+__glaze__ _n_  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :six: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glen__ _n_ :three: A small, narrow, secluded valley.  
@@ -6712,6 +6722,7 @@ __glissade<sup>1</sup>__ _n_
 __glissade<sup>2</sup>__ _v_  
 __glisten__ _n, v_ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
+__glitch__ _n_ /GLITCH/ A glitch is a usually minor malfunction or a problem that causes a temporary setback. _The email went out to everyone in the company because of a technical glitch._  
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“private parties on Park Avenue and Central Park West, where the literati mingled with glitterati” (Skylines)._  
 __glitz__ _n_ :two::hammer:  
 __glitzy__ _adj_ :two::hammer:  

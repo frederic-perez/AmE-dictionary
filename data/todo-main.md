@@ -1,18 +1,3 @@
-__affidavit__ _n_  
-__brattice__ _n_  
-__devolve__ _v_ /dih-VAHLV/ __1__ To gradually go from an advanced state to a less advanced state. _Over time, the weekly book club meetings devolved into mean-spirited gossip sessions._ __2__ To pass something, such as responsibility or power, from one person or group to another person or group at a lower level of authority.  
-__dolphin kick__ _n_  
-__excursus__ _n_ A message that departs from the main subject. _Syn_ digression, divagation, parenthesis, aside _After yet another long excursus on the subject of housecats, the absent-minded professor finally returned to his main point._  
-__flip turn__ _n_  
-__forest__ _v_  
-__frolic__ _v_ /FRAH-lik/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
-__gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
-__garage sale__ _n_  
-__gastropod__ _n_ _Syn_ univalve  
-__gazebo__ _n_ _The park also features a theater and an entertainment gazebo._  
-__gift certificate__  
-__glaze__ _n_  
-__glitch__ _n_ /GLITCH/ A glitch is a usually minor malfunction or a problem that causes a temporary setback. _The email went out to everyone in the company because of a technical glitch._  
 __glitten__ _n_ A fingerless glove having a hoodlike pouch at the knuckles that can be pulled over the fingers for protection.  
 __Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __golf course__  
