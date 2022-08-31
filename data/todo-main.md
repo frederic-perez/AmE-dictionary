@@ -1,12 +1,20 @@
+__affidavit__ _n_  
+__brattice__ _n_  
+__devolve__ _v_ /dih-VAHLV/ __1__ To gradually go from an advanced state to a less advanced state. _Over time, the weekly book club meetings devolved into mean-spirited gossip sessions._ __2__ To pass something, such as responsibility or power, from one person or group to another person or group at a lower level of authority.  
+__dolphin kick__ _n_  
+__excursus__ _n_ A message that departs from the main subject. _Syn_ digression, divagation, parenthesis, aside _After yet another long excursus on the subject of housecats, the absent-minded professor finally returned to his main point._  
+__flip turn__ _n_  
 __forest__ _v_  
 __frolic__ _v_ /FRAH-lik/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __garage sale__ _n_  
+__gastropod__ _n_ _Syn_ univalve  
 __gazebo__ _n_ _The park also features a theater and an entertainment gazebo._  
 __gift certificate__  
 __glaze__ _n_  
 __glitch__ _n_ /GLITCH/ A glitch is a usually minor malfunction or a problem that causes a temporary setback. _The email went out to everyone in the company because of a technical glitch._  
 __glitten__ _n_ A fingerless glove having a hoodlike pouch at the knuckles that can be pulled over the fingers for protection.  
+__Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __golf course__  
 __gondola__ _n_ _Walking distance to Aspen Mountain gondola._  
 __gorge__ _n_  
@@ -70,6 +78,7 @@ __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.
 __jarring__ _adj_  
 __jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
 __jaunt__ _n_ :six::hammer:  
+__jaunty__ _adj_ /JAWN-tee/ Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._  
 __javelin__ _n_ :mega:  
 __jazzed__  
 __jeopardize__ _v_  
@@ -209,8 +218,10 @@ __lush__ _adj_ :seven::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoo
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
 __lymphoma__ _n_  
+__macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
 __macaw__ _n_ :es: guacamayo  
 __mackerel__ _n_  
+__Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
 __Madchester__ _n_ Manchester, UK.  
 __madding__ _adj_ :astonished: _Madding crowds._  
 __made-to-order__ _adj_ _Made-to-order sandwiches._  
@@ -511,6 +522,7 @@ __overhaul<sup>2</sup>__ _n_
 __overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
 __overly__  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
+__overwhelm__ _v_ /oh-ver-WELM/  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
 __pachyderm__  
@@ -863,6 +875,7 @@ __ronin__
 __rooftop deck__ _n_ :two::hammer:  
 __roorback__ _n_ A false or slanderous story used for political advantage.  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
+__rose-colored__ _adj_ /ROZ-kuhl-uhrd/ [:scroll: From Latin rosa (rose), from Greek rhodon (rose). Yes, a rhododendron is a rose tree, literally speaking.] __1__ Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form “to see through rose-colored glasses.” __2__ Of a bright pink or red color.  
 __rosemaling__ _n_  
 __rosette__ _n_  
 __rosewood__  
@@ -973,6 +986,7 @@ __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._
 __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
 __self-serving__ _adj_  
 __send-off__  
+__sensibility__ _n_ /sen-suh-BIL-uh-tee/  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __Serengeti__ _n_ :pencil2:  
@@ -1293,6 +1307,7 @@ __teeming__ _adj_
 __teethe__ _v_  
 __teetotaler__  
 __teetotaling__ _n_  
+__teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __tenement__  
@@ -1500,6 +1515,7 @@ __virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The l
 __visitor__  
 __viticulture__ _n_  
 __vocation__ _n_ /voh-KAY-shun/  
+__vociferous__ _adj_ /voh-SIF-uh-rus/  
 __voles__ _n_ _Water voles._  
 __voucher__ _n_ _A lunch voucher._  
 __wade__ _v_  
@@ -1581,6 +1597,7 @@ __wow__ _v_
 __wrangler__ _n_  
 __wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
 __wreak-havoc__ _v_  
+__xenial__ _adj_ Of, relating to, or constituting hospitality or relations between host and guest and especially among the ancient Greeks between persons of different cities.  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __yarn__ _n_ :four::hammer:  
