@@ -1,18 +1,3 @@
-__glitten__ _n_ A fingerless glove having a hoodlike pouch at the knuckles that can be pulled over the fingers for protection.  
-__Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
-__golf course__  
-__gondola__ _n_ _Walking distance to Aspen Mountain gondola._  
-__gorge__ _n_  
-__grand__ _adj_  
-__grandest__ _adj_ _The grandest mile of scenery in Colorado._  
-__groundhog day__ _n_ /GRAUND-hog day/ [:scroll: After the 1993 film Groundhog Day in which the lead character, a television weatherman, relives a day in a time loop] A situation in which events are repeated as if in a loop, especially when such events are of a tedious or monotonous nature.  
-__gruff__ _adj_  
-__hardy__ _adj_ _There are hundreds of trails for hardy backpackers._  
-__harelip__ _n_ A congenital cleft in the middle of the upper lip. _Syn_ cheiloschisis, cleft lip _The insurance company argued that the surgery to correct her harelip was not medically necessary._  
-__hassle__ _n_ _Advance seat assignment to avoid boarding hassles._  
-__haunting__ _adj_  
-__hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
-__hibachi__ _n_ _Original hibachi cooking._  
 __hickory__ _n_ _The steaks are grilled over a hickory flame._  
 __hip__ _adj_ _A hip hangout for cocktails._  
 __hoist__ _n_  

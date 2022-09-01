@@ -6723,6 +6723,7 @@ __glissade<sup>2</sup>__ _v_
 __glisten__ _n, v_ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
 __glitch__ _n_ /GLITCH/ A glitch is a usually minor malfunction or a problem that causes a temporary setback. _The email went out to everyone in the company because of a technical glitch._  
+__glitten__ _n_ A fingerless glove having a hoodlike pouch at the knuckles that can be pulled over the fingers for protection.  
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“private parties on Park Avenue and Central Park West, where the literati mingled with glitterati” (Skylines)._  
 __glitz__ _n_ :two::hammer:  
 __glitzy__ _adj_ :two::hammer:  
@@ -6794,6 +6795,7 @@ __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_ :three: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
 __Godspeed__ _n_ _And Godspeed to you all._  
+__Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
@@ -6808,11 +6810,12 @@ __golden__ _adj_ :astonished: __4__ Indicating the fiftieth event of a series.
 __goldenrod__ _n_  
 __goldfinch__ _n_ :es: jilguero  
 __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
+__golf course__  
 __golf__ _n_ :mega:  
 __golliwog__ _n_  
 __gomer__ _n_ _slang_ :dart: [:scroll: origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] A first-year Air Force Academy cadet, esp a clumsy trainee. _Gomer Pyle._  
 __gonads__ _n_  
-__gondola__ _n_ :two::astonished: _A 10-person rescue gondola can be attached to a helicopter._ _The gondola carries visitors from the base to the top station._  
+__gondola__ _n_ :three::hammer::astonished: _A 10-person rescue gondola can be attached to a helicopter._ _The gondola carries visitors from the base to the top station._ _Walking distance to Aspen Mountain gondola._  
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
@@ -6837,7 +6840,7 @@ __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._
 __goosebump__ _n_  
 __Gordian knot__ _n_ :three::hammer: _Gordian legal knot._  
 __gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
-__gorge<sup>1</sup>__ _n_ :two::hammer:  
+__gorge<sup>1</sup>__ _n_ :three::hammer:  
 __gorge<sup>2</sup>__ _v_ :two::hammer: (gorging)  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
 __gorgonize__ _v tr_ :three: /GOR-guh-nyz/ [:scroll: After Gorgon, any of the three monstrous sisters in Greek mythology: Stheno, Euryale, and Medusa. They had snakes for hair and turned into stone anyone who looked into their eyes (apparently it was OK to objectify people in those days).] To paralyze, petrify, or hypnotize. To affect as a Gorgon might; hypnotize; petrify.  
@@ -6885,8 +6888,10 @@ __Grand Guignol<sup>1</sup>__ _n_ An event, entertainment, etc., of a sensationa
 __Grand Guignol<sup>2</sup>__ _adj_ Gruesome, grotesque, or horrifying.  
 __grand jury__  
 __grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
-__grand__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
+__grand<sup>1</sup>__ _adj_  
+__grand<sup>2</sup>__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __granddaddy__ _n_ :pencil2:  
+__grandest__ _adj_ _The grandest mile of scenery in Colorado._  
 __grandeur__ _n_  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
@@ -7019,7 +7024,7 @@ __ground zero__ _n_ :two::hammer:
 __ground-breaking__  
 __groundbreaker__ _n_ :three::hammer:  
 __groundbreaking__ _adj_ :two::hammer: _Groundbreaking science._  
-__Groundhog Day__  
+__groundhog day__ _n_ :two: /GRAUND-hog day/ (Groundhog Day) [:scroll: After the 1993 film Groundhog Day in which the lead character, a television weatherman, relives a day in a time loop] A situation in which events are repeated as if in a loop, especially when such events are of a tedious or monotonous nature.  
 __groundnut__ _n_  
 __groundskeeper__  
 __groundstroke__ _n_  
@@ -7049,7 +7054,7 @@ __grudgingly__ _adv_ :four::hammer:
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
 __gruelling__  
-__gruff__ _adj_ :five::hammer:  
+__gruff__ _adj_ :six::hammer:  
 __gruffly__  
 __grum__ _adj_ [:scroll: Probably a blend of grim + glum.] Surly or gloomy.  
 __grumble<sup>1</sup>__ _n_  
@@ -7311,9 +7316,10 @@ __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship’s staple. 
 __hardware__ _n_  
 __hardwood<sup>1</sup>__ _n_ :three::hammer:  
 __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
-__hardy__ _adj_ :five::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._  
+__hardy__ _adj_ :six::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._ _There are hundreds of trails for hardy backpackers._  
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
+__harelip__ _n_ A congenital cleft in the middle of the upper lip. _Syn_ cheiloschisis, cleft lip _The insurance company argued that the surgery to correct her harelip was not medically necessary._  
 __hares__ _n_  
 __harissa__ _n_ :three: A spicy North African sauce made from chili peppers, garlic, cumin, and other seasonings.  
 __hark__ _v_ :two::hammer: (harking)  
@@ -7335,7 +7341,8 @@ __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._
 __hash<sup>2</sup>__ _v_  
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
-__hassle__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
+__hassle<sup>1</sup>__ _n_ _Advance seat assignment to avoid boarding hassles._  
+__hassle<sup>2</sup>__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
 __hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
@@ -7359,7 +7366,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt<sup>1</sup>__ _v_  
 __haunt<sup>2</sup>__ _n_ :three::hammer: _It is a favorite BYOD haunt._  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
-__haunting__ _adj_ :dart::two: Continually recurring to the mind; unforgettable: _a haunting melody._  
+__haunting__ _adj_ :dart::three: Continually recurring to the mind; unforgettable: _a haunting melody._  
 __hauteur__  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
@@ -7520,6 +7527,7 @@ __hemlock__ _n_ :two::hammer: :es: cicuta
 __hemmed__ _v_ :three::hammer:  
 __hemming__  
 __hemodynamic__ _adj_  
+__hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
@@ -7560,7 +7568,7 @@ __hex<sup>2</sup>__ _v_ __1__ To put a hex on. __2__ To bring or wish bad luck t
 __hey__  
 __heyday__ _n_ :nine: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
-__hibachi__ _n_ :two::hammer:  
+__hibachi__ _n_ :three::hammer: _Original hibachi cooking._  
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
