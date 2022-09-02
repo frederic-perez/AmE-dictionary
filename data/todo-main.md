@@ -1,3 +1,10 @@
+__brandish__ _v_ /BRAN-dish/  
+__chicken feed__ _n_ /CHIK-en feed/ [:scroll: Why chicken feed, as opposed to, say, cattle feed. The term alludes to a chicken’s relatively small size and hence their needing a small amount of feed. Also, they scratch at the soil in search for insects, seeds, etc.] A small amount of something, especially money.  
+__effulgence__ _n_ /ih-FULL-junss/ Effulgence means “radiant splendor” or “brilliance.” _The state capitol’s golden dome shone with brilliant effulgence in the late afternoon light._  
+__fancier__ _n_ A person having a strong liking for something. _Syn_ enthusiast _I am somewhat of a fowl fancier, and I have seldom seen a better grown goose._  
+__fussy__ _adj_ :astonished:  
+__grandiose__ _adj_ /gran-dee-OHSS/ Grandiose is most often used disapprovingly to describe something that seems impressive or is intended to be impressive, but is either not possible or practical. _The committee eventually scaled back the most outlandish parts of its plans for the festival, including a grandiose scheme to bring in live peacocks for the event._  
+__harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
 __hickory__ _n_ _The steaks are grilled over a hickory flame._  
 __hip__ _adj_ _A hip hangout for cocktails._  
 __hoist__ _n_  
@@ -5,6 +12,7 @@ __homecoming__ _n_ _Prom homecoming._
 __homestead__ _n_ :two::hammer:  
 __hookups__ _n_ _Hookups for RVs._  
 __horseshoe__ _n_ :two::hammer:  
+__hotheaded__ _adj_ /HOT-hed-id/ __1__ Easily angered. __2__ Very angry. __3__ Rash.  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __iatrogenic__ _adj_  
 __ice sculpting__  
@@ -1249,6 +1257,7 @@ __tabletop__ _adj, n_
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __Tahitian__  
+__Taj Mahal__ _n_ /taj/tazh muh-HUHL/HAHL/ [:scroll: After Taj Mahal, a mausoleum in Agra, India] Something, especially a building, that is luxurious or an extraordinary example of its kind.  
 __take-out__  
 __takeover__ _n_  
 __talented__ _adj_  
@@ -1405,12 +1414,14 @@ __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity 
 __turret__ _n_ :two::hammer:  
 __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
 __tweak__ _v_ _Tweak your workout routine._  
+__twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
 __twist__ _n_ :three::hammer: _An innovative twist._  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
 __uber__ _adj_ :two::hammer:  
 __ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
+__umbrage__ _n_ /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
 __umpteen__ _adj, n_  
 __unabashed__ _adj_ :four::hammer: /un-uh-BASHT/ _Unabashed humor._  
 __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
