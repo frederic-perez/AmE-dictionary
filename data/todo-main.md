@@ -1,18 +1,3 @@
-__brandish__ _v_ /BRAN-dish/  
-__chicken feed__ _n_ /CHIK-en feed/ [:scroll: Why chicken feed, as opposed to, say, cattle feed. The term alludes to a chicken’s relatively small size and hence their needing a small amount of feed. Also, they scratch at the soil in search for insects, seeds, etc.] A small amount of something, especially money.  
-__effulgence__ _n_ /ih-FULL-junss/ Effulgence means “radiant splendor” or “brilliance.” _The state capitol’s golden dome shone with brilliant effulgence in the late afternoon light._  
-__fancier__ _n_ A person having a strong liking for something. _Syn_ enthusiast _I am somewhat of a fowl fancier, and I have seldom seen a better grown goose._  
-__fussy__ _adj_ :astonished:  
-__grandiose__ _adj_ /gran-dee-OHSS/ Grandiose is most often used disapprovingly to describe something that seems impressive or is intended to be impressive, but is either not possible or practical. _The committee eventually scaled back the most outlandish parts of its plans for the festival, including a grandiose scheme to bring in live peacocks for the event._  
-__harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
-__hickory__ _n_ _The steaks are grilled over a hickory flame._  
-__hip__ _adj_ _A hip hangout for cocktails._  
-__hoist__ _n_  
-__homecoming__ _n_ _Prom homecoming._  
-__homestead__ _n_ :two::hammer:  
-__hookups__ _n_ _Hookups for RVs._  
-__horseshoe__ _n_ :two::hammer:  
-__hotheaded__ _adj_ /HOT-hed-id/ __1__ Easily angered. __2__ Very angry. __3__ Rash.  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __iatrogenic__ _adj_  
 __ice sculpting__  

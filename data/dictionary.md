@@ -1837,6 +1837,7 @@ __branch__ _v_ (branched)
 __brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
 __brander__  
 __branding iron__ _n_ :camera:  
+__brandish__ _v_ /BRAN-dish/  
 __branzino__  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
@@ -2734,6 +2735,7 @@ __chicanery__ _n_ :six: The use of clever plans or actions to deceive people. De
 __Chick-fil-A__ _n_  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
+__chicken feed__ _n_ /CHIK-en feed/ [:scroll: Why chicken feed, as opposed to, say, cattle feed. The term alludes to a chicken’s relatively small size and hence their needing a small amount of feed. Also, they scratch at the soil in search for insects, seeds, etc.] A small amount of something, especially money.  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __chicken pot pie__  
@@ -5040,7 +5042,7 @@ __effluent__
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
-__effulgence__ _n_ A brilliant radiance. _Syn_ refulgence, shine, radiance  
+__effulgence__ _n_ :two: /ih-FULL-junss/ Effulgence means “radiant splendor” or “brilliance.” A brilliant radiance. _Syn_ refulgence, shine, radiance _The state capitol’s golden dome shone with brilliant effulgence in the late afternoon light._  
 __effulgent__ _adj_ :two: [:scroll: C18: from Latin _effulgēre_ to shine forth, from _fulgēre_ to shine] Radiant; brilliant.  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
 __effusive__ _adj_ :two::hammer:  
@@ -5606,6 +5608,7 @@ __fan<sup>2</sup>__ _v_ _Jack should have to fan the fire a little._
 __fanaticism__ _n_ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
+__fancier__ _n_ A person having a strong liking for something. _Syn_ enthusiast _I am somewhat of a fowl fancier, and I have seldom seen a better grown goose._  
 __fanciful__  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
@@ -6452,7 +6455,7 @@ __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, wo
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __fussbudget__ _n_ :two::hammer:  
-__fussy__ _adj_ __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
+__fussy__ _adj_ :two::astonished: __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __fustian<sup>1</sup>__ _n_  
 __fustian<sup>2</sup>__ _adj_ :two: __1__ Cheap; worthless. __2__ Pompous; bombastic.  
 __futile__ _adj_ :three::hammer:  
@@ -6895,7 +6898,7 @@ __grandest__ _adj_ _The grandest mile of scenery in Colorado._
 __grandeur__ _n_  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
-__grandiose__ _adj_ :three::hammer:  
+__grandiose__ _adj_ :four: /gran-dee-OHSS/ Grandiose is most often used disapprovingly to describe something that seems impressive or is intended to be impressive, but is either not possible or practical. _The committee eventually scaled back the most outlandish parts of its plans for the festival, including a grandiose scheme to bring in live peacocks for the event._  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
@@ -7324,6 +7327,7 @@ __hares__ _n_
 __harissa__ _n_ :three: A spicy North African sauce made from chili peppers, garlic, cumin, and other seasonings.  
 __hark__ _v_ :two::hammer: (harking)  
 __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.  
+__harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
 __harmonize__ _v_  
 __harness__ _v_ :three::hammer: _Harnessing big data._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
@@ -7341,9 +7345,9 @@ __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._
 __hash<sup>2</sup>__ _v_  
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
+__hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __hassle<sup>1</sup>__ _n_ _Advance seat assignment to avoid boarding hassles._  
 __hassle<sup>2</sup>__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
-__hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
 __hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
 __hastily__ _adv_ _A hastily arranged news conference._  
@@ -7572,7 +7576,7 @@ __hibachi__ _n_ :three::hammer: _Original hibachi cooking._
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
-__hickory__ _n_ :two::hammer: _Hickory charcoal-grilled steaks._  
+__hickory__ _n_ :three::hammer: _Hickory charcoal-grilled steaks._ _The steaks are grilled over a hickory flame._  
 __hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
 __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
@@ -7621,7 +7625,7 @@ __hinge__ _v_
 __hinky__  
 __hinterland__ _n_ :six: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ _n_ :camera:  
-__hip__ _adj_ :three::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._  
+__hip__ _adj_ :four::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._ _A hip hangout for cocktails._  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
 __hippocampus__ _n_ :pencil2:  
@@ -7671,7 +7675,7 @@ __hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.
 __hog<sup>2</sup>__ _v_ :two: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
-__hoist<sup>1</sup>__ _n_ :es: montacargas  
+__hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
 __hokey__ _adj_ :two::hammer: _It may sound hokey._  
@@ -7716,7 +7720,7 @@ __home furnishing__ _n_
 __home school__ _v_  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
-__homecoming__ _n_ :two::hammer: _She had been homecoming queen._  
+__homecoming__ _n_ :three::hammer: _She had been homecoming queen._ _Prom homecoming._  
 __homegoods__  
 __homeground__ _adj_ (home-ground) __1__ Grown or produced in one’s own garden or country. :es: de cosecha propia __2__ Belonging to one’s own particular locality or country. _Home-grown talent._  
 __homegrown__ _adj_  
@@ -7728,7 +7732,7 @@ __homesite__ _n_ :two::hammer:
 __homespun<sup>1</sup>__ _adj_ :three::hammer:  
 __homespun<sup>2</sup>__ _n_  
 __homestand__ _n_ :five: A series of games played at a team’s home field.  
-__homestead<sup>1</sup>__ _n_ :six::hammer:  
+__homestead<sup>1</sup>__ _n_ :eight::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
 __homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
@@ -7764,7 +7768,7 @@ __hoofprint__ _n_ (hoofprints)
 __hook up__  
 __hookah__ _n_  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
-__hookup__ _n_  
+__hookup__ _n_ :two::hammer: _Hookups for RVs._  
 __hooky__ _n_ _informal_ Absence without leave; truancy: _play hooky from school._ Failure to attend (especially school). _A kid playing hooky._  
 __hooly__ _adj_ Careful or gentle.  
 __hoop dress__  
@@ -7799,7 +7803,7 @@ __horseplay__ _n_
 __horsepower__ _n_ _Physical horsepower._  
 __horseradish__ _n_ :three::hammer:  
 __horseshit__ _n_ _That’s like horseshit squared!_  
-__horseshoe__ _n_ :two::hammer: (horseshoes) :es: herradura  
+__horseshoe__ _n_ :four::hammer: (horseshoes) :es: herradura  
 __horsetails__ _n_  
 __horsewares__ _n_  
 __horsey__ _adj_ (horsy)  
@@ -7833,6 +7837,7 @@ __hotboxing__
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hotfoot__ _v_  
 __hothead__ _n_ :three::hammer:  
+__hotheaded__ _adj_ /HOT-hed-id/ __1__ Easily angered. __2__ Very angry. __3__ Rash.  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hots d’oeuvres__ _n_ /or-DERVEs/  
 __hotspot__ _n_ :two::hammer:  
