@@ -259,6 +259,7 @@ __badgering the witness__ Term used when an attorney is questioning a witness on
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __balancing act__  
 __ball and chain__ A wife.  
+__ball hog__ _sports_ A player who monopolizes the ball without including teammates in an attempt to score, move the ball, or maintain possession. Usually used for basketball and football (soccer). _Boy, you’re being a real ball hog today! Why don’t you pass it to one of your teammates for a change?_  
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ballpark figure__ :two: A rough numerical estimate.  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
@@ -270,13 +271,14 @@ __bare (one’s) teeth__ To display an angry, violent, and/or threatening reacti
 __barking up the wrong tree__ Looking in the wrong place.  
 __barnburner__ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
 __barrel of laugh__ :two: Someone who is very funny.  
-__barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
+__barrel of laughs__ :two: Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around. _A: “Is Mr. Grant always cranky?” B: “Oh, yeah—he’s a real barrel of laughs!”_ _I always have so much fun when Katie’s around—she’s totally a barrel of laughs!_  
 __bat an eye__ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn’t even bat an eye when I told her I was moving out._  
 __bats in the belfry__  
 __batten down the hatches__ To prepare for a challenging situation. While this originated as a nautical phrase, it is now used for any sort of imminent problem. _There’s a tornado coming—batten down the hatches!_  
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __be (all) set (to do something)__ To be ready or about to do something. _I was set to get in the shower when the phone rang._  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
+__be (flat) on (one’s) back__ To have no strength or ability to get up. Often used when someone is sick or injured, but it can be used figuratively as well. _Oh man, I’m flat on my back with this flu. I haven’t been out of bed in days!_  
 __be (just) good friends__ A phrase used to emphasize that two people are not in a romantic relationship. _Oh, he’s not my boyfriend—we’re just good friends._  
 __be (of) no use to man or beast__ To be completely useless; to serve no purpose; to be unsuitable to anyone or anything. _After 20 years, my faithful old truck finally broke down for good. It’s no use to man or beast anymore._  
 __be (one’s) last resort__ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
@@ -312,6 +314,7 @@ __be in bad with (someone)__ To be disliked or out of favor with someone; to be 
 __be in for a surprise__ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
 __be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in over (one’s) head__ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
+__be in pursuit__ Following or chasing someone or something. _The burglar got away, but I called the police, and now they’re in pursuit._  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be kept in the dark (about something)__ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
 __be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
@@ -372,6 +375,7 @@ __beat the bushes (for someone or something)__ To search for someone or somethin
 __beat the clock__ :two: To finish something before the time is up.  
 __beat the shit out of (someone)__ :two::hammer: _I expect them to beat the shit out of the Eagles._  
 __beat your head against the wall__ To try to do something that is hopeless.  
+__beautiful people__ Stylish, glamorous, and often wealthy people admired by others. _I wish we were as cool as them—man, they are really the beautiful people._  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __beef up__ :two: To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
 __been there, done that__  
@@ -392,6 +396,7 @@ __bend over backwards__ To try very hard to do something. This phrase has its or
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
+__between dog and wolf__ Between dusk and daylight. _What were you guys doing out between dog and wolf? You better not have been getting into trouble last night!_  
 __beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
@@ -599,6 +604,7 @@ __come close to blows__ To nearly devolve into a physical fight.
 __come down the pike__ :dart: Appear, become prominent, as in _He was the best writer to come down the pike in a long time._ The noun pike here is short for “turnpike” or “road.” _You should take this job offer—who knows when another will come down the pike?_  
 __come into play__ To become a factor in a particular situation. _Once personal insults come into play, it’s very hard to resolve a situation calmly._  
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
+__come of age__  
 __come out of the woodwork__ To appear unexpectedly, or from unexpected places. _No one had anything negative to say when I first pitched this idea, but now people are coming out of the woodwork to criticize it._ _Ever since Liam won the lottery, his so-called relatives have been coming out of the woodwork._  
 __come out__  
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
@@ -611,6 +617,7 @@ __come together__ :three::hammer:
 __come-one-come-all__  
 __comfort food__ Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._  
 __coming-of-age__ :three: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
+__compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
@@ -805,6 +812,7 @@ __face value__
 __faint of heart__ :three: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
+__fair game__  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
 __fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
 __fall from the sky__ _This trust doesn’t fall from the sky._  
@@ -821,7 +829,7 @@ __fan service__
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  
 __far and away__ :astonished:  
-__far and wide__ :four::hammer: _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
+__far and wide__ :five::hammer: _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
 __far cry (from something)__ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
@@ -837,6 +845,7 @@ __fender bender__ :three: A little car accident. _Stranded by a fender bender._
 __few and far between__ :two: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
+__fight the good fight__  
 __fight tooth and nail__  
 __fighting the good fight__  
 __figure it out__  
@@ -896,6 +905,7 @@ __for years/weeks/days to come__ :dart: Used to emphasize that something will co
 __forever and a day__ :two: __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __fork over the dough__ To pay, generally unwillingly, a certain amount of money.  
 __forty winks__ :three: A short sleep during the day. A short nap.  
+__four-letter word__  
 __freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
 __freak out__ (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
@@ -924,7 +934,7 @@ __funny feeling__ An intuition or premonition about something; a sense of forekn
 __gag me with a spoon__ An expression of disgust or annoyance.  
 __game changer__  
 __garbage in, garbage out__  
-__gaslight__ :two: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gaslight__ :three: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __gender fluid__ Not strictly identifying as one distinct gender, perhaps identifying as a different gender at different times, or identifying as more than one gender at once. _My sex is male, but I’m gender fluid, and I feel more feminine than masculine some days._  
 __generally speaking__ Used to say that a statement describes a general feeling or opinion relating to or affecting all the people or things in a group. _Generally speaking, people like her as a leader._  
@@ -1060,6 +1070,7 @@ __God is in the detail(s)__ Any action or plan one undertakes should be done car
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
+__gold rush__  
 __golden goose__ :three: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
 __golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ The years following one’s retirement (generally after the age of 65).  
@@ -1073,6 +1084,7 @@ __good God!__ An oath expressing surprise, shock, frustration, anger, or annoyan
 __good going__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__good Lord__  
 __good old__ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don’t need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good riddance__ :two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  

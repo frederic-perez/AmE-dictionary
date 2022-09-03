@@ -1,18 +1,3 @@
-__ball hog__ _sports_ A player who monopolizes the ball without including teammates in an attempt to score, move the ball, or maintain possession. Usually used for basketball and football (soccer). _Boy, you’re being a real ball hog today! Why don’t you pass it to one of your teammates for a change?_  
-__barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around. _A: “Is Mr. Grant always cranky?” B: “Oh, yeah—he’s a real barrel of laughs!”_ _I always have so much fun when Katie’s around—she’s totally a barrel of laughs!_  
-__be (flat) on (one’s) back__ To have no strength or ability to get up. Often used when someone is sick or injured, but it can be used figuratively as well. _Oh man, I’m flat on my back with this flu. I haven’t been out of bed in days!_  
-__be in pursuit__ Following or chasing someone or something. _The burglar got away, but I called the police, and now they’re in pursuit._  
-__beautiful people__ Stylish, glamorous, and often wealthy people admired by others. _I wish we were as cool as them—man, they are really the beautiful people._  
-__between dog and wolf__ Between dusk and daylight. _What were you guys doing out between dog and wolf? You better not have been getting into trouble last night!_  
-__come of age__  
-__compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
-__fair game__  
-__far and wide__  
-__fight the good fight__  
-__four-letter word__  
-__gaslight__  
-__gold rush__  
-__good Lord__  
 __green with envy__ Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
 __have skin in the game__ _I have no skin in the game._  
 __hero’s journey__  
