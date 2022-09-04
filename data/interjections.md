@@ -28,7 +28,7 @@ __heck__ :two: Used as a mild oath.
 __hell yeah__  
 __hell yes/no__ _mainly US informal_ :two: Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hiya__ An informal term of greeting.  
-__hmm__ :two::hammer:  
+__hmm__ :three: A sound made when considering or puzzling over something.  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __holy cannoli__ :two: An expression that usually accompanies shock or excitement. _Holy cannoli, what the hell was that?_  
 __holy guacamole__ An exclamation said when surprised, used when in shock or disbelief.  

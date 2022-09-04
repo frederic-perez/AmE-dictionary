@@ -1,3 +1,16 @@
+__apoptosis__ _n_  
+__budgetary__ _n_ _All positions are subject to final budgetary approval._  
+__carpal tunnel syndrome__ _n_  
+__cash__ _v_ _Cash a check._  
+__coalesce__ _v_  
+__cognizant__ _adj_  
+__crank__ _n_ __1__ A device for transmitting rotary motion, consisting of a handle or arm attached at right angles to a shaft. _Crank start._  
+__deluge__ _n_  
+__dicey__ _adj_  
+__dichotomy__  
+__empathetic__  
+__entail__ _v_  
+__fraught__ _adj_ _Predicting the future is fraught with danger._  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __iatrogenic__ _adj_  
 __ice sculpting__  
@@ -698,6 +711,7 @@ __pulmonarias__ _n_
 __pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
 __punch__ _n_ :es: ponche  
 __punctilious__ _adj_ :dart: /pʌŋkˈtɪlɪəs/  
+__pundit__  
 __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
 __punt<sup>1</sup>__ _n_ __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole.  
 __punt<sup>2</sup>__ _v_ _Punting on the river._  
@@ -969,7 +983,7 @@ __shaved ice__ _n_ _Glacee flavored shaved ice._
 __sheared__ _adj_ _Sheared mink._  
 __shearing__ _n_ _Sheep shearing._  
 __shearling__ _n_ _Luxurious shearlings._  
-__sheer__ _adj_ _The city’s sheer density of concert spaces._  
+__sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
@@ -1110,6 +1124,7 @@ __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._
 __stage play__  
 __stage show__  
 __stagecoach__ _n_ :two::hammer:  
+__stakeholder__ _n_  
 __stance__ _n_ :two::hammer:  
 __standee__  
 __standout__ _n_  
@@ -1149,6 +1164,7 @@ __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.
 __stevedore__ _n_  
 __stew<sup>1</sup>__ _n_  
 __stew<sup>2</sup>__ _v_  
+__stewardship__ _n_  
 __stilt__  
 __stockade__ _n_  
 __stockfish__ _n_  
@@ -1174,6 +1190,7 @@ __stretch<sup>1</sup>__ _n_
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
 __strife__ _n_  
 __strifle__ _n_  
+__strike__ _v_ _The challenges strike me as fundamental._  
 __stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strive__ _v_ :two::hammer: (striving)  
@@ -1258,6 +1275,7 @@ __tap into__
 __taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __tartan__ _n_ :two::hammer: _Trinket and tartan shops._  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
+__task__ _v_ (tasked)  
 __taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
 __tater tots__ _n_  
 __tatterdemalion__ _n_ _rare_  
@@ -1380,6 +1398,7 @@ __trove__ _n_ :three::hammer:
 __truffles__ _n_ :pencil2:  
 __trunk__ _n_ _Leatherbound Tibetan trunks._  
 __truss__ _n_ _Trusses of grapes._  
+__trustworthy__  
 __tryst__ _n_ An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tub__ _n_  
 __tubing<sup>1</sup>__ _adj_ _A lift-served, lighted tubing hill._  
@@ -1455,6 +1474,7 @@ __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, esta
 __vampire bat__ _n_  
 __van__ _n_  
 __varsity__ _n_  
+__vast__ _adj_  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veal__ _n_  
 __vein__ _n_ :two::hammer: (not vessel)  
@@ -1472,6 +1492,7 @@ __viands__ _n_
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicissitudes__ _n pl_  
 __vie__ _v_  
+__vigorous__ _adj_  
 __Viking__ _n_ :pencil2:  
 __villa__ _n_ :two::hammer:  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
