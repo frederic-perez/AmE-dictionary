@@ -608,6 +608,7 @@ __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand ra
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
+__apoptosis__ _n_  
 __aposematic__ _adj_  
 __apostasy__ _n_ :two::hammer:  
 __apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
@@ -2023,6 +2024,7 @@ __buddy__
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _n_ _I had already sent my editor a budget line on the story._  
 __budget__ _n_ :two::hammer: _The surface energy budget._  
+__budgetary__ _n_ _All positions are subject to final budgetary approval._  
 __buff<sup>1</sup>__ _n informal_ :nine::m: /bʌf/ (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ _Culture buffs._ _A history buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
@@ -2451,6 +2453,7 @@ __carom<sup>2</sup>__ _n_ (caroms)
 __carouse__ _v_ :six: (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. _Syn_ roister _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
 __carousel__  
 __carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
+__carpal tunnel syndrome__ _n_  
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
 __carpool__ _v_ :four::hammer:  
@@ -2488,6 +2491,7 @@ __caseous__ _adj_ Resembling cheese.
 __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
 __cash rebate__  
+__cash__ _v_ _Cash a check._  
 __cashier<sup>1</sup>__ _n_ :two: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashier<sup>2</sup>__ _v_ To dismiss from a position of command or responsibility, especially for disciplinary reasons: _was dishonorably cashiered from the army._  
 __cashmere__  
@@ -3046,7 +3050,7 @@ __co-opted__ _v_
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
 __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
-__coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
+__coalesce__ _v_ :pencil2::five::hammer: (coalescing) :es: fundirse  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
 __coaster brakes__  
@@ -3098,7 +3102,7 @@ __cogency__
 __cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
-__cognizant__ _adj_ :two: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
+__cognizant__ _adj_ :three: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognomen__ _n_  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
 __cogwheel__  
@@ -3649,7 +3653,7 @@ __cramp__ _n_ :five::hammer: (cramps, cramped)
 __craniosacral__ _adj_  
 __crank out__  
 __crank up__  
-__crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
+__crank<sup>1</sup>__ _n_ :five::hammer: __1__ A device for transmitting rotary motion, consisting of a handle or arm attached at right angles to a shaft. _Crank start._ _informal_ _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
@@ -4159,7 +4163,7 @@ __dell__ _n_ A small secluded wooded valley.
 __delouse__ _v_ :two::hammer: _They’re deloused once a month._  
 __delphinium__ _n_  
 __delude__ _v_ :four::hammer: (deluded)  
-__deluge<sup>1</sup>__ _n_ :six: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
+__deluge<sup>1</sup>__ _n_ :seven: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _adj_ :two::hammer: _Deluxe album._ _Deluxe hotels._  
@@ -4303,8 +4307,8 @@ __diaphanous__ _adj_ :two: Very sheer and light; almost completely transparent o
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
-__dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
-__dichotomy__ _n_ :three::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
+__dicey__ _adj_ _informal_ :nine::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
+__dichotomy__ _n_ :four::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
 __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
 __dictate__ _v_  
@@ -5158,6 +5162,7 @@ __emoji__ _n pl_
 __emollient__ _adj_ :five: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
 __emote__ _v_  
+__empathetic__  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
 __emphasize__ _v_ :four::pencil2::hammer:  
@@ -5244,7 +5249,7 @@ __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as 
 __ensue__ _v_ :seven::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
-__entail<sup>1</sup>__ _v_ :eight::hammer: (entails) /ɪnˈteɪl/  
+__entail<sup>1</sup>__ _v_ :nine::hammer: (entails) /ɪnˈteɪl/  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
@@ -6290,7 +6295,7 @@ __frat__ _n_ _informal_ A college fraternity. _A frat house._
 __fraternal twin__ _n_ One of a pair of twins, not necessarily resembling each other or of the same sex, that develop from two separately fertilized ova. Compare _identical twin._  
 __frats__ _n_  
 __fraudulent__ _adj_  
-__fraught__ _adj_ :nine::m: __1__ (of a situation or course of action) Filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :nine::m: __1__ (of a situation or course of action) Filled with (something undesirable). _Marketing any new product is fraught with danger._ _Predicting the future is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :three::hammer: _A bitter partisan fray._  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person’s nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _The alliance between the groups frayed._  
 __frayed__ _adj_ __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) under great strain. _Frayed nerves._  
@@ -7838,6 +7843,7 @@ __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to
 __hotfoot__ _v_  
 __hothead__ _n_ :three::hammer:  
 __hotheaded__ _adj_ /HOT-hed-id/ __1__ Easily angered. __2__ Very angry. __3__ Rash.  
+__hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hots d’oeuvres__ _n_ /or-DERVEs/  
 __hotspot__ _n_ :two::hammer:  
@@ -7977,7 +7983,7 @@ __hysteria__
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
-__iatrogenic__ _adj_ :two: Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
+__iatrogenic__ _adj_ :three: Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
 __Ibuprofen__  
 __ice cream cone__  
 __ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  

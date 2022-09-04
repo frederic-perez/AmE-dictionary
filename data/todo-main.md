@@ -1,18 +1,3 @@
-__apoptosis__ _n_  
-__budgetary__ _n_ _All positions are subject to final budgetary approval._  
-__carpal tunnel syndrome__ _n_  
-__cash__ _v_ _Cash a check._  
-__coalesce__ _v_  
-__cognizant__ _adj_  
-__crank__ _n_ __1__ A device for transmitting rotary motion, consisting of a handle or arm attached at right angles to a shaft. _Crank start._  
-__deluge__ _n_  
-__dicey__ _adj_  
-__dichotomy__  
-__empathetic__  
-__entail__ _v_  
-__fraught__ _adj_ _Predicting the future is fraught with danger._  
-__hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
-__iatrogenic__ _adj_  
 __ice sculpting__  
 __iffy__  
 __iguanodon__ _n_  
