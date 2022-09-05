@@ -1,18 +1,3 @@
-__aqueous__ _adj_  
-__cap__ _n_ _NASA’s AEGIS has a four-megabyte cap of available RAM._  
-__disclosure__ _n_  
-__extant__ _adj_  
-__fiddle__ _v_ _Fiddling with a handheld device._  
-__fleece__ _n_  
-__glut__ _v_ (glutted) _The market is glutted with more than a dozen touch technologies._  
-__handheld__ _adj, n_  
-__hysteresis__ _n_  
-__ice sculpting__  
-__iffy__  
-__iguanodon__ _n_  
-__ill-fated__ _adj_  
-__immutable__ _adj_ /ih-MYOO-tuh-bul/  
-__in-house__  
 __incentive__  
 __inductee__ _n_  
 __inexpensive__ _adj_  

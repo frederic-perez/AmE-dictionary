@@ -663,6 +663,7 @@ __aquanaut__ _n_
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
 __aqueduct__ _n_ :three::hammer:  
+__aqueous__ _adj_  
 __aquifer__ _n_ :two::hammer:  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
@@ -2378,7 +2379,7 @@ __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. 
 __cantilever__ _v_ :four::hammer: (cantilevered)  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __canyoned__ _adj_ _Canyoned city streets._  
-__cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
+__cap<sup>1</sup>__ _n informal_ :four::hammer: _NASA’s AEGIS has a four-megabyte cap of available RAM._ __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
@@ -4415,6 +4416,7 @@ __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or 
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  
 __disclaimer__ _n_ :two::hammer:  
+__disclosure__ _n_  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discomfited__ _adj_ :two: Uncomfortable.  
 __discomfiture__ _n_ :two::hammer:  
@@ -5489,6 +5491,7 @@ __expound__ _v_
 __expropriate__ _v_ To take (a property) for public use.  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
+__extant__ _adj_  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __extensively__ _adv_ _She’s been working extensively._  
@@ -5790,6 +5793,7 @@ __fibromyalgia__ _n_ :dart::pencil2:
 __fibroplasia__ _n_  
 __fickle__ _adj_ :two::hammer: _A fickle ally._  
 __ficus__ _n_ :mega:  
+__fiddle__ _v_ _Fiddling with a handheld device._  
 __fiddle-faddle__  
 __fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
@@ -5997,7 +6001,8 @@ __flecked__ _v_ _Floor flecked with blood._
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __flee__ _v_ :three::hammer: _He was forced to flee Ukraine._ _Fleeing New York._  
-__fleece__ _v_ :nine::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
+__fleece<sup>1</sup>__ _n_  
+__fleece<sup>2</sup>__ _v_ :nine::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
 __fleecy__  
 __fleeting__  
 __fleetingly__  
@@ -6754,7 +6759,7 @@ __glower<sup>2</sup>__ _v_ :five::hammer: (glowered, glowering)
 __glue > a glue-type player__  
 __glum__ _adj_ :six: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don’t smile, giggle, or laugh — and they’re rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, “Why so glum?” _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._ _He sounded glum._  
 __glut<sup>1</sup>__ _n_ :seven: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it’s time to clean your room.  
-__glut<sup>2</sup>__ _v_  
+__glut<sup>2</sup>__ _v_ :two::hammer: (glutted) _The market is glutted with more than a dozen touch technologies._  
 __glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ gourmand, gorger, gannet, gobbler, pig _He is a real glutton when it comes to junk food, but somehow he stays skinny as a toothpick._  
 __glycemic__  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
@@ -7247,6 +7252,7 @@ __hand-pick__ _v_ :two::hammer:
 __handcuff__ _v_ _It is handcuffed by lack of funds._  
 __handglider__  
 __handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
+__handheld__ _adj, n_  
 __handicap__ _v_ _All entrants are handicapped according to the potential performance of their boats._  
 __handicraft__ _n_  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
@@ -7979,6 +7985,7 @@ __hypotensive__
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysterectomy__ _n_ :two: Surgical removal of part or all of the uterus.  
+__hysteresis__ _n_  
 __hysteria__  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
@@ -7989,6 +7996,7 @@ __ice cream cone__
 __ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  
 __ice house__ _n_ _Insulated ice houses._  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
+__ice sculpting__  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
 __ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
 __ice-cold__ _adj_  
@@ -8015,17 +8023,18 @@ __idle__ _v_
 __idolatry__ _n_ :three::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
 __idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :five::pencil2: Excellent and delightful in all respects. _An idyllic setting for romantic dinners._  
-__iffy__ _adj_ _slang_ :seven: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
+__iffy__ _adj_ _slang_ :eight: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
 __ignoble__ _adj_ :two::hammer:  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
+__iguanodon__ _n_  
 __IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
 __ilk__ _n_ :four: Type or kind: _can’t trust people of that ilk._  
 __ill__  
-__ill-fated__ _adj_  
+__ill-fated__ _adj_ :two::hammer:  
 __illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__ _adj_ :two::hammer:  
@@ -8051,6 +8060,7 @@ __immobile__
 __immodest__ _adj_  
 __immolate__ _v_ :mega:  
 __immortalize__ _v_ Make famous forever.  
+__immutable__ _adj_ /ih-MYOO-tuh-bul/  
 __imp__ _n_ :two::hammer: _Its imp genius._  
 __impact__ _n_ _Sterling struggled to make an impact in the second half._  
 __impairment__  
@@ -8111,7 +8121,7 @@ __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.
 __in the long run__  
 __in__ _prep_ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _adj_ :dart: _He will conduct an in-depth review._  
-__in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
+__in-house__ _adj_ :four::hammer: _In-house experts._ _An in-house system._  
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
 __in-tray__ _n_ _What’s in the in-tray of NHS England’s new chief executive?_  
 __in-your-face__ _adj_ _An in-your-face farewell._  
