@@ -1,6 +1,16 @@
+__aqueous__ _adj_  
+__cap__ _n_ _NASA’s AEGIS has a four-megabyte cap of available RAM._  
+__disclosure__ _n_  
+__extant__ _adj_  
+__fiddle__ _v_ _Fiddling with a handheld device._  
+__fleece__ _n_  
+__glut__ _v_ (glutted) _The market is glutted with more than a dozen touch technologies._  
+__handheld__ _adj, n_  
+__hysteresis__ _n_  
 __ice sculpting__  
 __iffy__  
 __iguanodon__ _n_  
+__ill-fated__ _adj_  
 __immutable__ _adj_ /ih-MYOO-tuh-bul/  
 __in-house__  
 __incentive__  
@@ -443,6 +453,7 @@ __on-site__ _adj_ :two::hammer:
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __onslaught__ _n_  
+__ontology__ _n_  
 __onus__ _n_  
 __onyx__  
 __oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
@@ -463,7 +474,7 @@ __ossify__ _v_ To change into bone; to become set in a rigidly conventional patt
 __ostentatious__ _adj_ /ah-stun-TAY-shus/  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __otter__ _n_ :two::hammer: _Keep a look out for the sea otters._  
-__outcrop__ _n_ :three::hammer:  
+__outcrop__ _n_ :four::hammer:  
 __outcropping__ _n_  
 __outcry__ _n_  
 __outfitter__ _n_ :four::hammer: _Outfitter shop._ _River outfitters._ _Horseback outfitter._  
@@ -499,7 +510,7 @@ __pamper__ _v tr_ :six:hammer: _We’ll pamper you with a complimentary morning 
 __pampering__ _n_  
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
-__panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
+__panacea__ _n_ :two: /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__ _n_ :three: Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._  
 __panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __panna cotta__ _n_  
@@ -821,6 +832,7 @@ __riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course o
 __riposte__ _n_ :astonished: /rih-POHST/ A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
 __riverfront__  
 __riverside__  
+__roadblock__ _n_ _Substantial roadblocks stand in the way._  
 __roam__ _v_ :two::hammer: _Cuts of beef served tableside by a parade of roaming carvers._  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __Robert Burns__ _n_  
@@ -1110,6 +1122,7 @@ __stage play__
 __stage show__  
 __stagecoach__ _n_ :two::hammer:  
 __stakeholder__ _n_  
+__stale__ _adj_  
 __stance__ _n_ :two::hammer:  
 __standee__  
 __standout__ _n_  
@@ -1282,6 +1295,7 @@ __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or am
 __terra cotta__ _n_ :pencil2:  
 __terrazzo__  
 __testament__ _n_  
+__testbed__ _n_  
 __thalis__  
 __thaw__ _v_ _Let the meat thaw out and simmer._  
 __The Crown__ _n_  
@@ -1497,7 +1511,7 @@ __waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic
 __wainscoting__ _n_  
 __wakeboarding__  
 __walk-in__ _n_ _Appointments or walk-ins are welcome!_  
-__walk-up__ _n_ _Bike rental for walk-ups._  
+__walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.  
 __wall clock time__ _n_  
 __walleye__ _n_ _Walleye fishing._  
 __wanderlust__ _n_ :two::hammer:  

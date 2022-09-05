@@ -1,10 +1,12 @@
 __by no means__ Not in any way; not at all; absolutely not.  
 __fire hose__ A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
+__get by__  
 __green with envy__ Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
 __have skin in the game__ _I have no skin in the game._  
 __hero’s journey__  
 __I hear you__  
 __in awe (of someone or something)__  
+__in round numbers__  
 __in the making__  
 __just because__  
 __let alone__  
@@ -12,6 +14,7 @@ __long-winded__
 __mark my word(s)__  
 __mix and match__  
 __not on my watch__  
+__on the upswing__  
 __on thin ice__  
 __one and only__  
 __one-of-a-kind__  
