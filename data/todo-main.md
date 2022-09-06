@@ -1,3 +1,12 @@
+__adjure__ _v_ /uh-JOOR/ To adjure is to urge or advise earnestly, or to solemnly command someone as if they are under oath or the penalty of a curse.  
+__artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
+__assiduous__ _adj_ /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
+__cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
+__cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
+__defenestration__ _n_  
+__demeanor__ _n_ /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
+__dodo__ _n_  
+__imbed__ _v_ [Imbed is simply an alternate spelling of _embed._ It has all of the same meanings and can be used in the same way as _embed_, but it’s much less commonly used.]  
 __incentive__  
 __inductee__ _n_  
 __inexpensive__ _adj_  
@@ -164,7 +173,7 @@ __luge__ _n_
 __lull__ _v_ _CAmping under the stars with the sound of the river lulling you to sleep is hard to beat._  
 __lumberjack__ _n_  
 __luminaria__ _n_  
-__luminary__ _n_ :two::hammer: (luminaries) _The luminary Charles Darwin._  
+__luminary__ _n_ :three: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __luncheon__ _n_ :two::hammer:  
 __lurk__ _v_  
@@ -195,6 +204,7 @@ __majestic__ _adj_
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
 __makeover__ _n_ :three::hammer: _The ultimate makeover story of a maid-turned-princess._  
+__maki__ _n_ [:scroll: from Japanese, literally: roll]  
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallrats__  
@@ -390,7 +400,7 @@ __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust;
 __nomadic__  
 __nonplus__ _n, v_  
 __Nordic jumps__ _n_  
-__nori__ _n_ _Nori crusted tuna._  
+__nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especially as a seasoning or as a wrapper for sushi. _Nori crusted tuna._  
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
 __Norse__ _adj, n_  
 __nose-to-nose__ _adj_  
@@ -496,7 +506,7 @@ __pampering__ _n_
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
 __panacea__ _n_ :two: /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
-__panache__ _n_ :three: Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._  
+__panache__ _n_ :four: /puh-NAHSH/ [:scroll: Originally, the word referred to an ornamental tuft or plume of feathers, and especially one affixed to a helmet.] When we say that someone has panache, we are saying that they have energy, spirit, and style. Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._ _Ever the showman, he not only caught the ball, he made a diving catch and caught it with panache._  
 __panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
@@ -706,6 +716,7 @@ __purveyor__
 __pustule__ _n_  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
 __pylon__ _n_  
+__quadragenarian__ _adj, n_  
 __quaff__ _v_  
 __quaffing__ _v_  
 __quail<sup>1</sup>__ _n_ :three::hammer: _Quails marinated in yoghurt._  
@@ -835,6 +846,7 @@ __rooftop deck__ _n_ :two::hammer:
 __roorback__ _n_ A false or slanderous story used for political advantage.  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rose-colored__ _adj_ /ROZ-kuhl-uhrd/ [:scroll: From Latin rosa (rose), from Greek rhodon (rose). Yes, a rhododendron is a rose tree, literally speaking.] __1__ Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form “to see through rose-colored glasses.” __2__ Of a bright pink or red color.  
+__roseate__ _adj_ /ROH-zee-uht/ayt/ __1__ Like a rose, especially in color: pink, red, etc. __2__ Bright; favorable; promising. __3__ Unreasonably optimistic.  
 __rosemaling__ _n_  
 __rosette__ _n_  
 __rosewood__  
@@ -1256,6 +1268,7 @@ __tantalizing__ _adj_ :three::hammer:
 __tanzanite__  
 __tap into__  
 __taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
+__tapioca__ _n_  
 __tartan__ _n_ :two::hammer: _Trinket and tartan shops._  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __task__ _v_ (tasked)  
@@ -1286,6 +1299,7 @@ __thaw__ _v_ _Let the meat thaw out and simmer._
 __The Crown__ _n_  
 __theatregoer__ _n_  
 __thicket__ _n_  
+__third rail__ _n_ /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thoroughbred__  
 __thoroughfare__ _n_ :seven::hammer: _A vibrant shopping thoroughfare._  

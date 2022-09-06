@@ -1,5 +1,7 @@
+__blow the coop__ To leave or escape (something). _This lecture is so boring. Come on, let’s blow the coop and go get a drink somewhere!_  
 __by no means__ Not in any way; not at all; absolutely not.  
 __fire hose__ A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
+__get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
 __get by__  
 __green with envy__ Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
 __have skin in the game__ _I have no skin in the game._  
@@ -121,6 +123,7 @@ __treasure hunt__
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __twofer__  
 __uncanny valley__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
