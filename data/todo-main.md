@@ -1,11 +1,17 @@
 __adjure__ _v_ /uh-JOOR/ To adjure is to urge or advise earnestly, or to solemnly command someone as if they are under oath or the penalty of a curse.  
+__Americana__ _n pl_  
 __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
 __assiduous__ _adj_ /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
+__betrayal__ _n_  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
 __cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
 __defenestration__ _n_  
 __demeanor__ _n_ /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __dodo__ _n_  
+__eye-watering__ _adj_ Painful or extremely unpleasant: _eye-watering electricity bills._  
+__floor__ _v_ __3a__ To knock down. __b__ To stun; overwhelm: _The very idea floored me._  
+__handover__ _n_  
+__hoary__ _adj_  
 __imbed__ _v_ [Imbed is simply an alternate spelling of _embed._ It has all of the same meanings and can be used in the same way as _embed_, but it’s much less commonly used.]  
 __incentive__  
 __inductee__ _n_  
@@ -259,6 +265,7 @@ __menial__ _adj_ :mega:
 __mephitic__ _adj_  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
 __mercurial__ _adj_ Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._  
+__mercury__ _n_ /mûr′kyə-rē/  
 __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
 __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
 __merino__ _n_ _Merino wool._  
@@ -960,6 +967,7 @@ __send-off__
 __sensibility__ _n_ /sen-suh-BIL-uh-tee/  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
+__sequester__ _v_  
 __Serengeti__ _n_ :pencil2:  
 __serigraph__ _n_  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
@@ -1037,6 +1045,7 @@ __sleuth__ _n_ :two::hammer:
 __slice__ _n_ :two::hammer: _A free plain slice of cheesecake._ _A taste of a very diverse slice of East of England life._  
 __slick__ _adj_ :two::hammer: _A natural water slide eroded into slick rock._ _Slick dance arrangements._  
 __slider__ _n_ _Enjoy Asian inspired sliders, salads amd more._  
+__slither__ _v_ _I have started slithering out of bed to deal with anxiety in the morning._  
 __slithering__ _adj_  
 __sliver__ _n_  
 __slog__ _n_ _The trail is a thrilling slog up the Virgin River._  
@@ -1597,6 +1606,7 @@ __yogurt__ _n_ (yoghourt)
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
+__zeitgeist__ _n_ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
 __zephyr__ _n_  
 __zero in__  
 __zesty__ _adj_ :three::hammer: _Fruits with zesty peel._ _Zesty appetizers._  

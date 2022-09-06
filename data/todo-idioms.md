@@ -1,6 +1,7 @@
 __blow the coop__ To leave or escape (something). _This lecture is so boring. Come on, let’s blow the coop and go get a drink somewhere!_  
 __by no means__ Not in any way; not at all; absolutely not.  
 __fire hose__ A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
+__game-changer__  
 __get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
 __get by__  
 __green with envy__ Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
@@ -10,22 +11,28 @@ __I hear you__
 __in awe (of someone or something)__  
 __in round numbers__  
 __in the making__  
+__joking aside__ Used to introduce a serious statement that follows a humorous statement. _It looks like this is a job for Superman! But joking aside, this is a serious problem and we’re going to need help._  
 __just because__  
+__key into (something)__  
 __let alone__  
 __long-winded__  
 __mark my word(s)__  
 __mix and match__  
 __not on my watch__  
+__on a lark__  
 __on the upswing__  
 __on thin ice__  
 __one and only__  
 __one-of-a-kind__  
+__out of pocket__  
+__pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
 __put in a good word for someone__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __see for (oneself)__  
 __see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
+__skinny-dipping__  
 __sleep in__  
 __smash hit__  
 __sneeze at__  
