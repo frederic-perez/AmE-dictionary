@@ -419,6 +419,7 @@ __blood, sweat, and tears__ A lot of effort and suffering.
 __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and/or conjunctiva (the inside of the eyelid) are colored red due to the prominence of superficial blood vessels. Bloodshot eyes can be the result of a wide range of conditions, including tiredness, eyestrain, irritation, conjunctivitis, injury, or more serious inflammatory conditions. _I’ve got these really bloodshot eyes from studying all night long._  
 __blow (one’s) mind__ :two::hammer:  
 __blow someone out of the water__  
+__blow the coop__ To leave or escape (something). _This lecture is so boring. Come on, let’s blow the coop and go get a drink somewhere!_  
 __blow your top__ To become very angry.  
 __blowhard__ One who tends to speak in an arrogant or conceited manner. _Oh, that guy’s a real blowhard—he’s not nearly as great as he thinks he is._  
 __blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to the bluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
@@ -490,6 +491,7 @@ __by all accounts__ :dart::three: From all the reports (that are available); acc
 __by and large__  
 __by any chance__ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
+__by no means__ Not in any way; not at all; absolutely not.  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__  
 __by the dozen__  
@@ -858,6 +860,7 @@ __finders keepers(, losers weepers)__
 __finger on the pulse__  
 __finger-licking good__ Very tasty.  
 __fingers crossed__ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
+__fire hose__ A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
 __firing both barrels all the time__ _You know your father: firing both barrels all the time._  
 __first and foremost__ :two::hammer:  
@@ -933,12 +936,14 @@ __full stop__
 __funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __gag me with a spoon__ An expression of disgust or annoyance.  
 __game changer__  
+__game-changer__  
 __garbage in, garbage out__  
 __gaslight__ :three: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __gender fluid__ Not strictly identifying as one distinct gender, perhaps identifying as a different gender at different times, or identifying as more than one gender at once. _My sex is male, but I’m gender fluid, and I feel more feminine than masculine some days._  
 __generally speaking__ Used to say that a statement describes a general feeling or opinion relating to or affecting all the people or things in a group. _Generally speaking, people like her as a leader._  
 __gentleman’s agreement__ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
+__get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
 __get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears.  
 __get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
@@ -954,6 +959,7 @@ __get ahead of (oneself)__ To plan or become overly excited for a possible futur
 __get along with__ To have a good relationship with someone.  
 __get around to__ :dart: (get round to) Find the time or occasion for, as in _Dean never gets around to cleaning up the garage._ _Dreams and goals I might get around to at some time._  
 __get around__  
+__get by__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get going__  
 __get in the last word__ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
@@ -1111,7 +1117,7 @@ __great deal__ :dart: (often followed by \`of’) a large number or amount or ex
 __Greek__ :two::astonished::hammer: _It’s all greek to me._ _It’s in Greek and almost impossible to decode._  
 __green folding__ Paper money, especially in large amounts. _How much green folding is this repair job gonna cost me?_  
 __green thumb__ _Practical ideas for novice green thumbs and expert gardeners alike._  
-__green with envy__ Very jealous.  
+__green with envy__ :two: Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
 __greener pastures__ :two: A better or more exciting job or place.  
 __grifter__ Someone who swindles other people. _Mom, don’t be a fool and give this guy more money when he hasn’t done a single part of this job right so far. He’s a total grifter!_  
 __grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something).  
@@ -1219,7 +1225,7 @@ __have one foot in the grave__ To be very old and close to death.
 __have one’s heart in it__ (put one’s heart in it) Be emotionally involved in something, undertake something enthusiastically, as in _Nancy puts her heart in her teaching._ This expression may also be put negatively as one’s heart is not in it, as in _She decided to quit; her heart just wasn’t in this kind of work._  
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
 __have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
-__have skin in the game__ To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance.  
+__have skin in the game__ :two: To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance. _I have no skin in the game._  
 __have someone pegged__ :two: _She had me pegged on that, too._ _You got me pegged._ :es: Me has calado.  
 __have teeth__ To have enough power or support of authority to compel obedience or punish offenders, as of a law. _This new law against littering has teeth, so if you don’t pick up your trash, you’ll get a hefty fine._  
 __have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
@@ -1265,6 +1271,7 @@ __hem and haw__ :dart: To speak in an evasive, vague, roundabout way in order to
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __here and there__ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __here you are__ Here is what you needed or asked for; I present this to you.  
+__hero’s journey__  
 __hide and seek__ A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
 __high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _We’re just waiting for the high muckety muck to give us the green light before we get the project started._  
 __high note__ The most successful, impressive, or climactic point (of something).  
@@ -1353,7 +1360,7 @@ __hunt where the ducks are__ To pursue or look for one’s objectives, results, 
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly.  
 __hustle and bustle__ Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
 __I feel you/that__ _slang_ I understand, agree with, or can relate to what you’re saying. _No, I feel you, that’s too much money to pay for a concert. I’m OK with skipping it._  
-__I hear you__ :three: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
+__I hear you__ :four: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
 __I kid you not__  
 __I rest my case__  
 __I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
@@ -1396,6 +1403,7 @@ __in all truthfulness__ In one’s sincere opinion; without any disingenuousness
 __in all__  
 __in and of itself__ Considering it alone.  
 __in any event__ :three: In any case: _In any event, the audience seemed pleased with your performance._  
+__in awe (of someone or something)__  
 __in bits and pieces__ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in broad daylight__ Out in the open during the daytime, when anyone can see what’s happening. _The gangland feud is getting so bad that people are being shot in broad daylight._ _A sniper who prays on victims in broad daylight._  
 __in check__ Under control; contained or restrained. _Keep those emotions in check._  
@@ -1434,6 +1442,7 @@ __in place__ :two::hammer:
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ Currently being discussed or under consideration. _I just don’t see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
+__in round numbers__  
 __in short order__ :four: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
 __in spades__ :two::dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._ _Cultural savvy. Portland’s got it in spades._  
@@ -1454,7 +1463,7 @@ __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; 
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
-__in the making__  
+__in the making__ :two::hammer:  
 __in the middle of nowhere__ In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
 __in the midst of (something)__ :two::hammer:  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
@@ -1507,6 +1516,7 @@ __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington 
 __Johnnie-come-lately__ _n_ :three: (Johnny-come-lately) Someone new to a situation or status. _We were a Johnny-came-lately._  
 __Johnny One-Note__ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
 __joined at the hip__ :two: To be exceptionally close to someone.  
+__joking aside__ Used to introduce a serious statement that follows a humorous statement. _It looks like this is a job for Superman! But joking aside, this is a serious problem and we’re going to need help._  
 __jollies__ _slang_ Gun, thrills, enjoyment.  
 __jolly (someone) along__ To encourage someone (to do something), especially in a positive, cheerful manner.  
 __jolly (someone) up__ To make (someone) happier or more cheerful; to cheer (someone) up.  
@@ -1521,6 +1531,7 @@ __jump through hoops__ To do a lot of difficult things before you are allowed to
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just another day at the office__  
+__just because__  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just the same (to one)__  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
