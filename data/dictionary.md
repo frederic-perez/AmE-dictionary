@@ -193,7 +193,7 @@ __adjudicate__ _v_ /uh-JOO-dih-kayt/ To adjudicate a dispute between parties is 
 __adjudicator__  
 __adjunct__ _adj, n_ _Adjunct professors._  
 __adjunctive__ _adj_  
-__adjure__ _v_ _Syn_ command  
+__adjure__ _v_ :two: /uh-JOOR/ To adjure is to urge or advise earnestly, or to solemnly command someone as if they are under oath or the penalty of a curse. _Syn_ command  
 __adjusted__  
 __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin<sup>1</sup>__ _n_ _informal_ Short for administration.  
@@ -448,6 +448,7 @@ __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggest
 __amend__ _v_ _The Texas constitution was amended in 1891._  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
+__Americana__ _n pl_  
 __Ames__ _n_ _Ames, Iowa._  
 __amethyst__ _n_ :three::pencil2::hammer:  
 __ametropia__ _n_  
@@ -733,6 +734,7 @@ __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
+__artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artillery__ _n_  
 __artisanal__ _adj_ :two::hammer: _Artisanal cheeses._  
@@ -786,7 +788,7 @@ __asses__ _n_ :two::hammer:
 __asset__ _n_ :two: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assets__  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
-__assiduous__ _adj_  
+__assiduous__ _adj_ :two: /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
 __assiduously__ _adv_ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
@@ -1361,6 +1363,7 @@ __beta__ _n_ :mega:
 __bethren__ _n_  
 __betoken__ _v_  
 __betray__ _v_ :three::hammer: /bɪˈtreɪ/  
+__betrayal__ _n_  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
 __betrothed__ _adj_ :four: Engaged to be married.  
@@ -3105,7 +3108,8 @@ __cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_
 __cognate__  
 __cognizant__ _adj_ :three: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognomen__ _n_  
-__cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
+__cognoscente__ _n_ :two: A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
+__cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
 __cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
@@ -4107,7 +4111,7 @@ __defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, 
 __defection__ _n_ :nine: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
-__defenestration__ _n_ Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
+__defenestration__ _n_ :two: Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :six: (deferred) To delay or cause to be delayed until a future time; postpone.  
 __deference__ _n_ :five::hammer:  
@@ -4174,7 +4178,7 @@ __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudic
 __demagogy__  
 __démarche__ _n_  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
-__demeanor__ _n_ :two::hammer:  
+__demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__  
 __demographic__ _adj_  
 __demonize__ _v tr_ :six::hammer: (demonizing)  
@@ -4584,7 +4588,7 @@ __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily d
 __dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :four::dart: /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. Dishonest or unreliable. Marked by skill in deception. _They try to protect members from dodgy sites._  
-__dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
+__dodo__ _n_ _informal_ :three: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doer__ _n_  
 __doeskin__ _n_ :two::hammer: _A roeskin belt._ _A doeskin wallet._  
@@ -5517,7 +5521,7 @@ __eye patch__
 __eye raiser__  
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
 __eye-popping__ _adj_ :three: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
-__eye-watering__ _adj_  
+__eye-watering__ _adj_ :two: Painful or extremely unpleasant: _eye-watering electricity bills._  
 __eyeball<sup>1</sup>__ _n_ :two:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __eyeblack__ _n_ :two: Any of various dark pigments applied under the eyes especially by athletes to reduce solar glare. _He displayed a homophobic slur on his eyeblack._  
@@ -6059,7 +6063,7 @@ __floodlight__ _n_ :three::hammer:
 __floor show__  
 __floor vote__ _n_  
 __floor<sup>1</sup>__ _n_ __9__ The right of one member to speak from such a place in preference to other members: _The senator from Alaska has the floor._ _The floor is closed._  
-__floor<sup>2</sup>__ _v_ :three::hammer: (floored) _I’m kinda floored by what I’m noticing._ _I was completely floored._  
+__floor<sup>2</sup>__ _v_ :four::hammer: (floored) __3a__ To knock down. __b__ To stun; overwhelm: _The very idea floored me._ _I’m kinda floored by what I’m noticing._ _I was completely floored._  
 __floozy__ _n_ A woman who has a lot of sexual relationships.  
 __flop<sup>1</sup>__ _n_ :five::hammer: _You stay at the flop he’s got rented for you._ _One of the most expensive flop in Broadway history._ _Kevin Bell was a flop._  
 __flop<sup>2</sup>__ _v_ :four::dart: (flops, flopping) __5__ (Sports) To exaggerate or simulate a fall after contact or near-contact with an opposing player in order to induce a referee to call a penalty; to dive. _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
@@ -7261,6 +7265,7 @@ __handkerchief__ _n_ :mute:[han~~d~~kerchief]
 __handmaiden__ _n_ /HAND-may-duhn/ [:scroll: From hand + maiden, referring to a young woman who was ready at hand to serve her lady.] __1__ Someone or something that is subservient to another. __2__ A personal maid.  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
+__handover__ _n_  
 __hands on__  
 __hands-free__ _adj_ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
@@ -7667,7 +7672,7 @@ __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weari
 __hoagie__ _n_ :two: /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoard__ _v_  
 __hoarsely__  
-__hoary__ _adj_ :two::hammer:  
+__hoary__ _adj_ :three::hammer:  
 __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
 __hobble<sup>2</sup>__ _n_  
 __hobgoblin__ _n_  
@@ -8044,7 +8049,7 @@ __imagination__ _n_ :mega:
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
-__imbed__ _v_ (imbedding) Less common spelling of _embed_.  
+__imbed__ _v_ :two: [Imbed is simply an alternate spelling of _embed._ It has all of the same meanings and can be used in the same way as _embed_, but it’s much less commonly used.]  
 __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). _Syn_ soak up, absorb  
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  

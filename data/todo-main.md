@@ -1,18 +1,3 @@
-__adjure__ _v_ /uh-JOOR/ To adjure is to urge or advise earnestly, or to solemnly command someone as if they are under oath or the penalty of a curse.  
-__Americana__ _n pl_  
-__artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
-__assiduous__ _adj_ /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
-__betrayal__ _n_  
-__cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
-__cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
-__defenestration__ _n_  
-__demeanor__ _n_ /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
-__dodo__ _n_  
-__eye-watering__ _adj_ Painful or extremely unpleasant: _eye-watering electricity bills._  
-__floor__ _v_ __3a__ To knock down. __b__ To stun; overwhelm: _The very idea floored me._  
-__handover__ _n_  
-__hoary__ _adj_  
-__imbed__ _v_ [Imbed is simply an alternate spelling of _embed._ It has all of the same meanings and can be used in the same way as _embed_, but it’s much less commonly used.]  
 __incentive__  
 __inductee__ _n_  
 __inexpensive__ _adj_  
