@@ -238,6 +238,7 @@ __affable__ _adj_ :two::hammer: /AF-uh-bul/
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :eight::hammer:  
 __affiliate__  
+__affirmance__ _n_  
 __affix__ _v_  
 __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
@@ -455,6 +456,7 @@ __ametropia__ _n_
 __amiable__  
 __amicable__ _adj_  
 __amicably__ _adv_ :mega: /ˈæmɪkəblɪ/  
+__amicus curiae__ _n_  
 __amid__  
 __Amish__ _n_ _Amish country._  
 __amiss<sup>1</sup>__ _adj_ :four: _Jack had sensed something amiss._  
@@ -543,6 +545,7 @@ __anodized__ _v_ :two::hammer:
 __anodyne<sup>1</sup>__ _adj_  
 __anodyne<sup>2</sup>__ _n_ :two: __1__ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller __2__ Anything that alleviates mental distress.  
 __anomic__  
+__Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
 __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, originally worn in polar regions, but now worn for any outdoor activity.  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
@@ -3686,7 +3689,7 @@ __creaky__ _adj_ _Creaky infrastructure._
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
 __crease<sup>2</sup>__ _v_ :three::hammer:  
 __cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
-__credence__ _n_ :six::hammer:  
+__credence__ _n_ :seven::hammer:  
 __credenza__ _n_  
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
@@ -7512,7 +7515,7 @@ __hegemony__ _n_ The predominant influence, as of a state, region, or group, ove
 __hegira__ _n_  
 __heifer__ _n_  
 __height__ _n_ :mute:[hei~~gh~~t]  
-__heightened__ _adj_ :four::hammer:  
+__heightened__ _adj_ :five::hammer: _A heightened awareness of problems._  
 __heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ _n_ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
@@ -8152,6 +8155,7 @@ __incel__ _n_ A person who is involuntarily celibate; the state or condition of 
 __incendiary__ _adj_ :two: Arousing to action or rebellion. _Syn_ inflammatory, incitive, instigative, rabble-rousing, seditious _The incendiary remarks in the pamphlet spurred the villagers to revolt._ _He launched an incendiary attack._  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
+__incentive__  
 __incentivize__ _v tr_ :two::hammer: /ɪnˈsɛn tɪˌvaɪz/  
 __inception__ _n_ :three::hammer:  
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
@@ -8210,7 +8214,7 @@ __indomitable__ _adj_ :six: Very determined and impossible to defeat. Incapable 
 __indubitably__ _adv_ Without doubt; certainly.  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
-__inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
+__inductee__ _n_ :two: Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
@@ -8225,6 +8229,7 @@ __inequitable__
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _adj_ _Helium is inert._  
 __inescapable__ _adj_ :three: Impossible to escape or avoid; inevitable: _inescapable consequences._ _In Portland, nature is inescapable._ _Syn_ certain  
+__inexpensive__ _adj_  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
 __inextricable__ _adj_  
@@ -8246,8 +8251,9 @@ __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an e
 __infirm__ _adj_ :three: __1__ Weak in body or mind, especially from old age or disease. _Syn_ debile, sapless, weakly, decrepit, feeble, rickety, weak __2__ Not strong or stable; shaky: _an infirm foundation._  
 __infirmity__ _n_ :two::astonished: Bad health or a particular illness.  
 __inflammable__ _adj_ /in-FLAM-uh-bul/  
-__inflatable<sup>1</sup>__ _adj_  
+__inflatable<sup>1</sup>__ _adj_ :two::hammer: _Inflatable kayak._  
 __inflatable<sup>2</sup>__ _n_  
+__inflection point__ _n_ A moment of dramatic change, especially in the development of a company, industry, or market.  
 __influence-peddling__ _n_ :three::hammer:  
 __influencer__ _n_ :mega:  
 __influenza__ _n_ :two: _Syn_ flu, grippe  
@@ -8326,11 +8332,12 @@ __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can p
 __instating__  
 __instigate__ _v_ Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
-__instill__ _v_ :seven::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
+__instill__ _v_ :eight::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__  
 __insular__ _adj_ _His small, insular group of loyalists._  
+__insulated__ _adj_ _Insulated coffee pitcher._  
 __insulation__ _n_ :four::hammer:  
 __insure__ _v_ :two::hammer:  
 __insurmountable__ _adj_ _Alabama built an insurmountable 21-3 halftime lead._  
@@ -8341,7 +8348,7 @@ __integer__ _n_ :mega: /ˈɪntɪʤɚ/
 __integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
-__intemperate__ _adj_ :three: /in-TEM-puh-rut/ __1__ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._ __2__ Having extreme conditions. _The plant is able to survive in intemperate climates._ __3__ Having or showing a lack of emotional calmness or control. _The journalist apologized for her intemperate rant against the mayor._  
+__intemperate__ _adj_ :four: /in-TEM-puh-rut/ __1__ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._ __2__ Having extreme conditions. _The plant is able to survive in intemperate climates._ __3__ Having or showing a lack of emotional calmness or control. _The journalist apologized for her intemperate rant against the mayor._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __inter__ _v_ (interred) To place in a grave or tomb; bury.  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
@@ -8366,6 +8373,7 @@ __internecine__ _adj_
 __internment__ _n_  
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
+__interpretive__ _adj_ :three::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._ _A one-mile interpretive trail._  
 __interpunct__ _n_  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  

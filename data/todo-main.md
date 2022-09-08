@@ -1,18 +1,3 @@
-__affirmance__ _n_  
-__amicus curiae__ _n_  
-__Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
-__credence__ _n_  
-__heightened__ _adj_ _A heightened awareness of problems._  
-__incentive__  
-__inductee__ _n_  
-__inexpensive__ _adj_  
-__inflatable__ _adj_ _Inflatable kayak._  
-__inflection point__ _n_ A moment of dramatic change, especially in the development of a company, industry, or market.  
-__instill__ _v_  
-__insulated__ _adj_ _Insulated coffee pitcher._  
-__intemperate__ _adj_  
-__interpretive__ _adj_ :three::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._ _A one-mile interpretive trail._  
-__intersperse__ _v_  
 __interspersed__ _v_  
 __intertwine__ _v_  
 __intricacy__ _n_  
