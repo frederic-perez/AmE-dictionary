@@ -1,8 +1,12 @@
+__be hoist by (one’s) own petard__  
+__cat-and-mouse game__  
+__keep up with (someone or something)__  
 __key into (something)__  
 __let alone__  
 __long-winded__  
 __mark my word(s)__  
 __mix and match__  
+__much ado about nothing__  
 __not on my watch__  
 __on a lark__  
 __on the upswing__  
@@ -41,6 +45,7 @@ __sweet tooth__
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
+__take (great) pains (to do something)__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
 __take (something) to the bank__  

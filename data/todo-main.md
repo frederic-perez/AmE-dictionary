@@ -1,3 +1,8 @@
+__affirmance__ _n_  
+__amicus curiae__ _n_  
+__Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
+__credence__ _n_  
+__heightened__ _adj_ _A heightened awareness of problems._  
 __incentive__  
 __inductee__ _n_  
 __inexpensive__ _adj_  
@@ -285,7 +290,7 @@ __mischievous__ _adj_
 __misconstrue__ _v tr_  
 __misgivings__ _n_  
 __misphrase__ _v tr_  
-__misstep__ _n_ :pencil2:  
+__misstep__ _n_ :two::pencil2::hammer:  
 __mix-and-match__ _adj_ _Mix-and-match designs._  
 __mixologist__ _n_ :two::hammer:  
 __mixology__ _n_  
@@ -361,6 +366,7 @@ __Neapolitan__ _adj, n_ :two::pencil2:
 __nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necklace__ _n_ :two::hammer:  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
+__nefarious__ _adj_  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
 __neocortex__ _n_  
 __neophyte__ _n_  
@@ -370,6 +376,7 @@ __nerve-racking__ _adj_
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __neurotypical__ _adj, n_  
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
+__newsworthy__ _adj_  
 __newts__ _n_ _A pond teeming with frogs and newts._  
 __nexus__ _n_  
 __nibble on__  
@@ -439,6 +446,7 @@ __omnibus__ _n_
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
+__onerous__ _adj_ :astonished:  
 __onslaught__ _n_  
 __ontology__ _n_  
 __onus__ _n_  
@@ -630,6 +638,7 @@ __pontoon__ _n_ _Pedal a pontoon boat._
 __poodle__  
 __pool table__  
 __pool__ _n_ :two::hammer: _Heated pool._  
+__pore__ _v intr_  
 __pork pie__ _n_  
 __porter__ _n_  
 __porterhouse__ _n_ :four::hammer: _Its tender dry-aged porterhouse is unmatched._  
@@ -755,6 +764,7 @@ __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more b
 __reckoning__ _n_  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recount__ _v_  
+__recoup__ _v_  
 __recumbent__ _adj_  
 __recurse__ _v_ /ri-KUHRS/  
 __Red Cross__ _n_  
@@ -894,6 +904,7 @@ __savvy__ _adj_ _Savvy travelers._
 __sawdust__ _n_  
 __scab__ _n_ :es: costra  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
+__scalp__ _n_ __3__ A trophy or token signifying conquest.  
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
 __scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
@@ -1097,6 +1108,7 @@ __splendor__ _n_ :three::hammer:
 __splendour__ _n_  
 __splurge<sup>1</sup>__ _n_  
 __splurge<sup>2</sup>__ _v_ :two::hammer:  
+__spoofing__ _n_ :dart: The act or an instance of impersonating another person on the internet or via email.  
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
@@ -1117,6 +1129,7 @@ __stale__ _adj_
 __stance__ _n_ :two::hammer:  
 __standee__  
 __standout__ _n_  
+__standstill__ _n_  
 __star anise__ _n_ :es: anís estrellado  
 __starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
 __stardom__ _n_  
@@ -1283,6 +1296,7 @@ __teetotum__ _n_ A top, usually having four lettered sides, that is used to play
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __tenement__  
+__tenterhook__ _n_  
 __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
 __terra cotta__ _n_ :pencil2:  
 __terrazzo__  
