@@ -1,3 +1,26 @@
+__blackboard__ _n_  
+__brownout__ _n_ (vs _blackout_)  
+__cascade__ _v_ _Cascading failures._  
+__centrifuge__ _n_  
+__chalkboard__ _n_ _Chalkboards did not require much upkeep._  
+__colocate__ _v_  
+__complacent__ _adj_  
+__craze__ _n_  
+__defray__ _v_  
+__dot-com__ _adj, n_ _The bursting of the dot-com bubble._  
+__failover<sup>1</sup>__ _n_  
+__failover<sup>2</sup>__ _v_  
+__flipside__ _n_  
+__foist__ _v_ (foisted)  
+__folly__  
+__gouge__ _v_  
+__governance__ _n_  
+__highfalutin__ _adj_  
+__hitherto__  
+__hotbed__ _n_  
+__impervious__  
+__incommunicado__  
+__incur__ _v_  
 __interspersed__ _v_  
 __intertwine__ _v_  
 __intricacy__ _n_  
@@ -51,6 +74,7 @@ __K-pop__ _n_ _The characteristic pop music of South Korea._
 __kachina__ _n_  
 __kale__ _n_  
 __kangaroo word__  
+__kaput__  
 __kayak__ _v_  
 __kayaking__  
 __kazoo__ _n_  
@@ -112,6 +136,7 @@ __lemongrass__ _n_ :two::hammer:
 __letterman__ _n_  
 __leviathan__ _n_ _You can sometimes see migrating leviathans._  
 __libation__ _n_ :six::hammer:  
+__licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
 __licentious__ _adj_  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
 __liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The liegeman was expected to provide military support if his lord went to battle._  
@@ -322,6 +347,7 @@ __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._
 __mulch__ _n_  
 __mule deer__  
 __mullet__ _n_ /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
+__multipronged__ _adj_  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __munch__ _v_ :two::hammer:  
 __mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
@@ -637,6 +663,7 @@ __potsticker__ _n_
 __potty-train__ _v_  
 __poutine__  
 __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
+__power-cycle__ _v_  
 __powermark__ _n_  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __premier__ _adj_ :three::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
@@ -663,6 +690,7 @@ __privy__
 __prix fixe__ _n_ :seven::hammer: _Prix fixe dinner._ _Prix-fixe specials._ _A la carte or elegant prix fixe dining._  
 __probate__ _adj_ _Probate records._  
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
+__proctor__  
 __procurator__ _n_ One authorized to manage the affairs of another; an agent. _Syn_ proxy, placeholder _The wealthy businessman’s procurator arrived at the auction to bid on his behalf._  
 __procure__ _v_ :two::hammer:  
 __produce__ _n_ Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._  
@@ -678,6 +706,7 @@ __Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Gree
 __protracted__ _adj_ _A protracted discussion._  
 __providence__ _n_ Prudent management; economy. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
 __provider__ _n_  
+__provost__ _n_  
 __prowess__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
@@ -686,6 +715,7 @@ __psyched__ _v_
 __psychic reading__ _n_  
 __pulmonarias__ _n_  
 __pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
+__punch list__ _n_  
 __punch__ _n_ :es: ponche  
 __punctilious__ _adj_ :dart: /pʌŋkˈtɪlɪəs/  
 __pundit__  
@@ -697,8 +727,9 @@ __pupil__ _n_ /ˈpjuːpəl/
 __purebred__  
 __puree__ _n_ :mega:  
 __purist__  
-__purport__ _v_  
+__purport__ _v_ :two::hammer:  
 __purveyor__  
+__pushback__ _n_  
 __pustule__ _n_  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
 __pylon__ _n_  
@@ -746,6 +777,7 @@ __raw bar__
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
+__recitation__ _n_  
 __reckoning__ _n_  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recount__ _v_  
@@ -794,6 +826,7 @@ __restaurateur__ _n_
 __retcon__ _n_  
 __retiree__ _n_  
 __retrace__ _v_  
+__retrofit__ _v_  
 __retsina__ _n_  
 __revel__ _v intr_ :three::hammer:  
 __revelry__ _n_ :two::hammer:  
@@ -845,6 +878,7 @@ __rousing__ _adj_ :five::hammer: _A rousing crowd._ _A rousing tale._
 __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._  
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __ruches__ _n_  
+__ruckus__ _n_  
 __rugged__ _adj_ :three::hammer: _The rugged trail._  
 __rummage__ _v_  
 __run in__ _n_  
@@ -937,6 +971,7 @@ __seating__ _n_ :two::hammer: _Plenty of garden seating._
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __sedge__ _n_ _Sedge meadows._  
+__seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
 __seethe__ _v_  
@@ -1132,6 +1167,7 @@ __statuary<sup>2</sup>__ _adj_
 __stature__ _n_ _A golf facility of world class stature._  
 __staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
 __staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
+__steadfast__ _adj_  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
 __steam room__ _n_  
@@ -1151,7 +1187,7 @@ __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.
 __stevedore__ _n_  
 __stew<sup>1</sup>__ _n_  
 __stew<sup>2</sup>__ _v_  
-__stewardship__ _n_  
+__stewardship__ _n_ :two::hammer:  
 __stilt__  
 __stockade__ _n_  
 __stockfish__ _n_  
@@ -1170,6 +1206,7 @@ __straddle__ _v_
 __straightedge__ _adj, n_ _Straightedge shave and head massage._  
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
+__stranglehold__ _n_  
 __streamside__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __stretch limousine__ _n_ :two::hammer:  
@@ -1343,6 +1380,7 @@ __tombola__ _n_ _The green fingered young lady of the house runs a great tombola
 __tonic__ _n_ _The perfect tonic to the excesses of the night before._  
 __tony__ _adj_ _Tony boutiques._  
 __tootsie__ _n_ /ˈtʊtsɪ/  
+__top__ _v_ _The investment soon topped a billion dollars._  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
@@ -1434,6 +1472,7 @@ __underling__ _n_
 __unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
+__unfazed__ _adj_  
 __unforgiving__ _adj_  
 __unharness__ _v_  
 __unheeded__  
@@ -1448,8 +1487,10 @@ __unsurmountable__ _adj_
 __unwavering__ _adj_  
 __unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__  
+__up to now__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
 __upholder__ _n_  
+__upkeep__ _n_ _Chalkboards did not require much upkeep._  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __uptown__ _adj, adv, n_ :two::hammer:  
@@ -1575,6 +1616,7 @@ __wow__ _v_
 __wrangler__ _n_  
 __wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
 __wreak-havoc__ _v_  
+__Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
 __xenial__ _adj_ Of, relating to, or constituting hospitality or relations between host and guest and especially among the ancient Greeks between persons of different cities.  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  

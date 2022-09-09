@@ -1,20 +1,35 @@
+__amount to__  
+__around the clock__ _Engineers work around the clock for three days trying to recover._  
 __be hoist by (one’s) own petard__  
+__bring (someone or something) to a halt__  
 __cat-and-mouse game__  
+__get around it__ _There is just no getting around it._  
+__go a long way__  
+__keep a close eye on (someone or something)__  
+__keep an eye out__  
+__keep tab(s) on__  
 __keep up with (someone or something)__  
 __key into (something)__  
 __let alone__  
+__live up to__ _Classroom technology failed to live up to its promise._  
 __long-winded__  
+__low-hanging fruit__  
 __mark my word(s)__  
+__miss the mark__  
 __mix and match__  
 __much ado about nothing__  
 __not on my watch__  
+__off the charts__  
 __on a lark__  
+__on the face of it__ _That seems totally bizarre on the face of it._  
+__on the sidelines__  
 __on the upswing__  
 __on thin ice__  
 __one and only__  
 __one-of-a-kind__  
 __out of pocket__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
+__put (someone or something) to the test__  
 __put in a good word for someone__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
@@ -99,6 +114,7 @@ __through the roof__
 __throw a party__  
 __throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
 __throw hands__  
+__throw money at (someone or something)__  
 __throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
 __tick someone off__  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
@@ -165,6 +181,7 @@ __with all (one’s) might__ Utilizing all of one’s power and strength to do s
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within walking distance__  
+__without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__ :two::hammer:  
 __work like a charm__  
