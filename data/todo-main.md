@@ -1,18 +1,3 @@
-__blackboard__ _n_  
-__brownout__ _n_ (vs _blackout_)  
-__cascade__ _v_ _Cascading failures._  
-__centrifuge__ _n_  
-__chalkboard__ _n_ _Chalkboards did not require much upkeep._  
-__colocate__ _v_  
-__complacent__ _adj_  
-__craze__ _n_  
-__defray__ _v_  
-__dot-com__ _adj, n_ _The bursting of the dot-com bubble._  
-__failover<sup>1</sup>__ _n_  
-__failover<sup>2</sup>__ _v_  
-__flipside__ _n_  
-__foist__ _v_ (foisted)  
-__folly__  
 __gouge__ _v_  
 __governance__ _n_  
 __highfalutin__ _adj_  

@@ -1490,6 +1490,7 @@ __black swan__ _n_ /BLAK swan/ [:scroll: From the former belief that all swans w
 __black-eyed peas__  
 __blackball__ _v_ Expel from a community or group. _Syn_ banish, cast out, ostracize, shun, ban _They must not know about my sordid past, because if they did, they would immediately blackball me._  
 __blackbirder__  
+__blackboard__ _n_  
 __blacked out__ _v_  
 __blackening__  
 __blackface__  
@@ -1983,7 +1984,7 @@ __browbeaten__ _adj_
 __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
 __Brownie__ _n_ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownnose__ _v_ (brownnosing) :pencil2:  
-__brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
+__brownout__ _n_ :three: (vs _blackout_) A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstone__ _n_ :two: __2__ A brick or stone townhouse, especially one faced with reddish-brown sandstone. _Elegant multi-million dollar brownstones._  
 __browse__ _v_ :three: To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._ _Visitors can browse museums and galleries._  
 __bruin__  
@@ -2485,7 +2486,7 @@ __carve__ _v_ :two::hammer: _Feast on oversized hand-carved sandwiches._ _Grille
 __carveouts__  
 __carver__ _n_ _Cuts of beef served tableside by a parade of roaming carvers._  
 __carvery__ _n_  
-__cascading__  
+__cascade__ _v_ :two::hammer: _Cascading failures._  
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case study__ _n_ :two::hammer:  
@@ -2604,7 +2605,7 @@ __censer__ _n_ :two: A container for burning incense.
 __censure motion__  
 __centennial__  
 __centerpiece__  
-__centrifuge__ _n_ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
+__centrifuge__ _n_ :two::hammer: _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
 __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
@@ -2629,7 +2630,7 @@ __chain smoker__
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
-__chalkboard__ _n_ :three: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard. _Check the chalkboard for daily specials._  
+__chalkboard__ _n_ :four: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard. _Check the chalkboard for daily specials._ _Chalkboards did not require much upkeep._  
 __chalkstone__ _n_ A deposit of urates around a joint or in the external ear; diagnostic of advanced or chronic gout. _Syn_ tophus _Once the doctor saw the chalkstone, he knew his patient was suffering from gout._  
 __chalky__ _adj_ _Chalky skin._  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
@@ -3161,6 +3162,7 @@ __colloquialism__ _n_ A colloquialism is an instance of informal language or a l
 __colloquium__  
 __collude__ _v_ :three: Act in unison or agreement and in secret towards a deceitful or illegal purpose. _Syn_ conspire, connive _Several local officials have been jailed on charges of colluding with the Mafia._  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__colocate__ _v_  
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
 __colonnade__  
@@ -3247,7 +3249,7 @@ __compelling__ _adj_ :seven: Compelling means attractive, or irresistible, or re
 __compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
-__complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
+__complacent__ _adj_ :four: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
 __complex__ _adj, n, v_ :mega:  
 __compliance__ _n_ :three::hammer: _Compliance guy._  
@@ -3682,7 +3684,7 @@ __crawl<sup>1</sup>__ _n_
 __crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
 __crayon__ _n_  
 __craze<sup>1</sup>__ _v_ :two::hammer: (crazed)  
-__craze<sup>2</sup>__ _n_  
+__craze<sup>2</sup>__ _n_ :two::hammer:  
 __creak__ _v_ :three::hammer: (creaked)  
 __creaking__ _n_ A squeaking sound. _Door creakings._  
 __creaky__ _adj_ _Creaky infrastructure._  
@@ -4132,7 +4134,7 @@ __deflated__ _v_
 __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
 __deflect__ _v_  
 __deflection__ _n_ :two::hammer:  
-__defray__ _v_  
+__defray__ _v_ :two::hammer:  
 __defrock__ _v tr_ :two: /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
 __defrost__  
 __defry__  
@@ -4674,6 +4676,7 @@ __dornick__ _n_ A small stone that is easy to throw.
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
 __dot__ _v_ :four: (dotted) __1__ Mark with a dot. _Wooden stools dot the floor of hot spots._ __2__ 10. (tr) to scatter or intersperse (with dots or something resembling dots): _bushes dotting the plain._ _Statues and fountains dot every turn._  
+__dot-com__ _adj, n_ _The bursting of the dot-com bubble._  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
@@ -5574,7 +5577,8 @@ __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made whi
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
-__failover__ _n_  
+__failover<sup>1</sup>__ _n_ :two::hammer:  
+__failover<sup>2</sup>__ _v_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
 __faint__ _adj_ :two::hammer: _Faint irony._  
 __faint-hearted__  
@@ -6046,6 +6050,7 @@ __flip-flop<sup>2</sup>__ _v_ :three: Reverse (a direction, attitude, or course 
 __flippant__ _adj_ :seven::astonished: / FLIP-unt / Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
 __flipper__  
 __flippers__ _n_ :camera:  
+__flipside__ _n_  
 __flit<sup>1</sup>__ _v_ :two::hammer:  
 __flit<sup>2</sup>__ _n_  
 __flitter__ _v_ :four: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
@@ -6128,7 +6133,7 @@ __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by ol
 __foible__ _n_ :six: A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  
 __foil<sup>1</sup>__ _n_ :four::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
-__foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
+__foist__ _v_ :five: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
 __fold<sup>1</sup>__ _v_ :five: __8a__ _Informal_ To discontinue operating; close: _They had to fold the company a year after they started it._ _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ __b__ _Games_ To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
@@ -6138,7 +6143,7 @@ __foliaged__ _adj_
 __folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow-up__ _n_ :two::astonished::hammer:  
-__folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
+__folly__ _n_ :eight: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
 __fomite__ _n_ /FOH-myte/ Any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another. _Syn_ vehicle  
 __fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
