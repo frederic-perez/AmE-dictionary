@@ -1,5 +1,14 @@
+__agendum__ _n_ Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
+__carrefour__ _n_ A junction where one street or road crosses another. _Syn_ crossroad, crossway, intersection, crossing _When his jalopy broke down right in the middle of a busy carrefour, he swore he would invest in a more reliable car._  
+__cloying__ _adj_ :es: empalagoso  
+__conciliate__ _v_ /kun-SILL-ee-ayt/  
+__daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
+__daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
+__facsimile__ _n_ /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._  
 __gouge__ _v_  
 __governance__ _n_  
+__greenwash<sup>1</sup>__ _v_  
+__greenwash<sup>2</sup>__ _n_  
 __highfalutin__ _adj_  
 __hitherto__  
 __hotbed__ _n_  
@@ -78,6 +87,7 @@ __knitter__ _n_
 __knowckwurst__ _n_  
 __knowledgeable__ _adj_ :two::hammer:  
 __koi pond__ _n_ Ponds used for holding koi carp, usually as part of a garden.  
+__koinobori__ _n_ [:scroll: In Japanese, _carp streamer_]  
 __kooky__ _adj_ :two::hammer:  
 __Kowtow__  
 __kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
@@ -90,6 +100,7 @@ __laceration__ _n_
 __lacy__ _adj_  
 __Lady Liberty__ _n_ :two::hammer:  
 __Lafayette__ _n_  
+__laggy__ _adj_  
 __laid-back__ _adj_ :three::hammer: _A fun and laid-back casino._ _A laid-back atmosphere._  
 __Lalique__  
 __lamp shade__ _n_  
@@ -176,6 +187,7 @@ __luxurious__ _adj_ _Luxurious furs._
 __lymphoma__ _n_  
 __macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
 __macaw__ _n_ :es: guacamayo  
+__MacGyver__ _v tr_ _slang_ To make, form, or repair (something) with what is conveniently on hand.  
 __mackerel__ _n_  
 __Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
 __Madchester__ _n_ Manchester, UK.  
@@ -227,6 +239,7 @@ __masterpieces__ _n_
 __mastodon__ _n_ :es: mastodonte  
 __matinee__ _n_ :two::hammer:  
 __matron__ _n_ _A jailhouse matron._  
+__mawkish__ _adj_ | MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
 __mayo__ _n_ :mega:  
 __maypole__ _n_ _Maypole and morris dancers._  
 __maze__ _n_ _Sundance Cinemas will offer more than a maze of screens._  
@@ -361,6 +374,7 @@ __naughty__ _adj, n_ :mega:
 __Neapolitan__ _adj, n_ :two::pencil2:  
 __nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necklace__ _n_ :two::hammer:  
+__necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
 __nefarious__ _adj_  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
@@ -574,6 +588,7 @@ __pet__ _v_ :two::hammer: _Petting the farm animals._
 __petrichor__ _n_  
 __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
 __petticoat__  
+__pettifog__ _v_  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -1120,6 +1135,7 @@ __sprite__ _n_ _Mischievous sprites._
 __spruce__  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __spurious__ _adj_ Lacking authenticity or validity in essence or origin; not genuine. _Syn_ specious, unauthentic _The professor explained to the student that her essay had received a “C” due to numerous examples of spurious reasoning._  
+__squabble__ _v_  
 __square dancing__ _n_ American country dancing in which couples form squares.  
 __squats__ _n_  
 __squeaky__ _adj_ _Squeaky cheese curds._  
@@ -1246,6 +1262,7 @@ __supreme__ _adj_ /səˈprim, sʊ-/
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
+__sus__ _adj_ _slang_ Suspicious, suspect.  
 __sustenance__ _n_ :two::hammer:  
 __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
@@ -1306,6 +1323,7 @@ __tenement__
 __tenterhook__ _n_  
 __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
 __terra cotta__ _n_ :pencil2:  
+__terraform__ _v_  
 __terrazzo__  
 __testament__ _n_  
 __testbed__ _n_  
@@ -1480,6 +1498,7 @@ __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __urbane__ _adj_ _Urbane customer._  
+__use case__ _n_  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __utterly__  
@@ -1532,6 +1551,7 @@ __walk-in__ _n_ _Appointments or walk-ins are welcome!_
 __walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.  
 __wall clock time__ _n_  
 __walleye__ _n_ _Walleye fishing._  
+__wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __wanderlust__ _n_ :two::hammer:  
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
@@ -1582,6 +1602,7 @@ __wintering__ _v_
 __winze__  
 __wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  
+__Wite-Out__ _n_  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  
 __wizen__ _v_  
