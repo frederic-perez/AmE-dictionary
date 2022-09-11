@@ -277,7 +277,7 @@ __age<sup>2</sup>__ _v_
 __ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
 __agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
-__agendum__  
+__agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
 __aggravate__ _v_ (aggravated) :two::hammer:  
@@ -1138,8 +1138,9 @@ __barrette__ _n_ :two: A small clasp for holding the hair in place.
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
 __barrow__ _n_  
-__barter<sup>1</sup>__ _n_  
-__barter<sup>2</sup>__ _v_ :three::hammer: (bartered)  
+__barter<sup>1</sup>__ _n_ :es: trueque  
+__barter<sup>2</sup>__ _v_ :four::hammer: (bartered)  
+__barter<sup>3</sup>__ _adj_  
 __barware__  
 __bas-relief__ _n_  
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
@@ -1386,6 +1387,7 @@ __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
 __bibliophile__ _n_  
 __bibliopole__ _n_ A dealer in rare books.  
+__bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully selected reading materials are used to assist a subject in solving personal problems or for other therapeutic purposes.  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
 __bicyclist__  
@@ -2042,7 +2044,7 @@ __buffet<sup>1</sup>__ _n_ _A ten-dollar buffet._
 __buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :two::hammer:  
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
-__bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
+__bug__ _v informal_ :nine: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __bugbear__ _n_ :three: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __bugger__ _n_ :two::hammer: (buggers)  
@@ -2465,6 +2467,7 @@ __carpal tunnel syndrome__ _n_
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
 __carpool__ _v_ :four::hammer:  
+__carrefour__ _n_ A junction where one street or road crosses another. _Syn_ crossroad, crossway, intersection, crossing _When his jalopy broke down right in the middle of a busy carrefour, he swore he would invest in a more reliable car._  
 __carrel__  
 __carrier pilot__ _n_  
 __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
@@ -3038,7 +3041,7 @@ __clough__ _n_ :three::hammer:
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
-__cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
+__cloying__ _adj_ :five::hammer: :es: empalagoso _She is cordial without being cloying._  
 __Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
 __clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
@@ -3229,6 +3232,7 @@ __commodity__ _n_ _Communication on a commodity cluster._
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ :two::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
+__commonplace__ _adj, n_  
 __commonwealth__ _n_  
 __Commonwealth__ _n_  
 __commotion__ _n_  
@@ -3298,6 +3302,7 @@ __concession__ _n_ :four::hammer: _The zoo also offers food concessions and picn
 __conch__ _n_ _A conch farm._  
 __concierge level__ _n_ :two::hammer:  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
+__conciliate__ _v_ /kun-SILL-ee-ayt/  
 __conciliatory__ _adj_  
 __concise__  
 __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
@@ -3944,6 +3949,8 @@ __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._
 __dainty__ _adj_ _Dainty eyebrows._  
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :five: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
+__daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
+__daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
 __dale__ _n_ _Secluded dales._  
 __dalliance__  
 __dally__ _v_ :six::hammer: (dallied, dallying)  
@@ -4009,7 +4016,7 @@ __Day Zero__
 __daybeds__ _n_  
 __dayglow__  
 __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the wall in a daze of half sleep._  
-__dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
+__dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
 __de-escalate__ _v_ :four::pencil2::hammer:  
@@ -4927,6 +4934,7 @@ __dun-colored__ _adj_ Having a dun color ._Dun-colored hair._
 __dunce__ _n_ :three: A person regarded as dim-witted or foolish. _We are complete dunces at self-perfection._  
 __dune__ _n_  
 __dung fork__ _n_  
+__dung__ _n, v_  
 __dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
 __dunk tanks__  
 __dunno__  
@@ -5296,6 +5304,7 @@ __envision__ _v_ :four::hammer:
 __eolian__ _adj_ :two: /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind. Borne, deposited, produced, or eroded by the wind.  
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __epee__  
+__epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its pronunciation easier.  
 __ephemera__  
 __ephemeral<sup>1</sup>__ _adj_ :five: /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory. Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
@@ -5455,7 +5464,7 @@ __exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
-__exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
+__exert__ _v_ :nine: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :nine::m:hammer: /ɪgˈzɜr ʃən/ _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
@@ -5560,7 +5569,7 @@ __facetious__ _adj_ :seven::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/
 __facetiousness__  
 __facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
-__facsimile<sup>1</sup>__ _n_ :four::hammer: _The lander had two facsimile cameras._  
+__facsimile<sup>1</sup>__ _n_ :five: /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._ _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
 __facsimile<sup>3</sup>__ _v_  
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  

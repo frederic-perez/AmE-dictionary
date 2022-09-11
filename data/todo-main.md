@@ -1,18 +1,3 @@
-__agendum__ _n_ Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
-__barter__ _adj, n, v_ :es: trueque  
-__bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully selected reading materials are used to assist a subject in solving personal problems or for other therapeutic purposes.  
-__bug__ _v_  
-__carrefour__ _n_ A junction where one street or road crosses another. _Syn_ crossroad, crossway, intersection, crossing _When his jalopy broke down right in the middle of a busy carrefour, he swore he would invest in a more reliable car._  
-__cloying__ _adj_ :es: empalagoso  
-__commonplace__ _adj, n_  
-__conciliate__ _v_ /kun-SILL-ee-ayt/  
-__daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
-__daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
-__dazzle__ _v_  
-__dung__ _n, v_  
-__epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its pronunciation easier.  
-__exert__ _v_  
-__facsimile__ _n_ /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._  
 __frugal__ _adj_  
 __gouge__ _v_  
 __governance__ _n_  
