@@ -1,3 +1,4 @@
+__add up to (something)__  
 __amount to__  
 __around the clock__ _Engineers work around the clock for three days trying to recover._  
 __be hoist by (one’s) own petard__  
@@ -10,6 +11,7 @@ __cross swords__
 __eye candy__  
 __get around it__ _There is just no getting around it._  
 __go a long way__  
+__goof up__  
 __head in the clouds, to have one’s__ Daydreaming, absentminded. _In the clouds_ has been used figuratively to mean obscure or fanciful since the mid-seventeenth century. It was not until relatively recent times that a vague, dreamy person was said to have his or her head in the clouds.  
 __keep a close eye on (someone or something)__  
 __keep an eye out__  
@@ -19,6 +21,7 @@ __key into (something)__
 __let alone__  
 __live up to__ _Classroom technology failed to live up to its promise._  
 __long-winded__  
+__look down on (someone or something)__  
 __low-hanging fruit__  
 __mark my word(s)__  
 __miss the mark__  
@@ -127,6 +130,7 @@ __tick someone off__
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __til you drop__  
 __time capsule__  
+__to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
@@ -171,6 +175,7 @@ __while away__ :two::hammer: _Nothing welcomes the summer season better than whi
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
+__white lie__  
 __white-knuckle__  
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  

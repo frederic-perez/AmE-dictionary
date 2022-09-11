@@ -1,10 +1,19 @@
 __agendum__ _n_ Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
+__barter__ _adj, n, v_ :es: trueque  
+__bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully selected reading materials are used to assist a subject in solving personal problems or for other therapeutic purposes.  
+__bug__ _v_  
 __carrefour__ _n_ A junction where one street or road crosses another. _Syn_ crossroad, crossway, intersection, crossing _When his jalopy broke down right in the middle of a busy carrefour, he swore he would invest in a more reliable car._  
 __cloying__ _adj_ :es: empalagoso  
+__commonplace__ _adj, n_  
 __conciliate__ _v_ /kun-SILL-ee-ayt/  
 __daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
 __daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
+__dazzle__ _v_  
+__dung__ _n, v_  
+__epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its pronunciation easier.  
+__exert__ _v_  
 __facsimile__ _n_ /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._  
+__frugal__ _adj_  
 __gouge__ _v_  
 __governance__ _n_  
 __greenwash<sup>1</sup>__ _v_  
@@ -45,6 +54,7 @@ __jaunty__ _adj_ /JAWN-tee/ Lively in manner or appearance. _The server whistled
 __javelin__ _n_ :mega:  
 __jazzed__  
 __jeopardize__ _v_  
+__jilted__ _adj_ Rebuffed (by a lover) without warning.  
 __jingoism__ _n_ /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
@@ -178,8 +188,7 @@ __luminaria__ _n_
 __luminary__ _n_ :three: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __luncheon__ _n_ :two::hammer:  
-__lurk__ _v_  
-__lurks__ _v_  
+__lurk__ _v_ :three::hammer:  
 __luscious__ _adj_ :two::hammer: _Luscious burgers._  
 __lush__ _adj_ :seven::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._ _A lush tropical forest._  
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
@@ -219,6 +228,7 @@ __Mandela effect__ _n_ A phenomenon involving a large group of people all incorr
 __maneurisms__ _n_  
 __mangrove__ _n_  
 __Manhattanite__ _n_  
+__mania__ _n_  
 __manic episode__ _n_  
 __manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
 __mano a mano__ _adj, adv, n_  
@@ -584,6 +594,7 @@ __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __perusal__ _n_  
 __pervasive__  
+__pet name__ _n_  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
 __petrichor__ _n_  
 __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
@@ -1280,6 +1291,7 @@ __synecdoche__ _n_ /sɪnˈɛkdəkɪ/
 __synonymous__ _n_ :pencil2:  
 __tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._  
 __tabbouleh__ _n_  
+__table__ _v_ Hold back to a later time. _Let’s table that idea._  
 __tableside__ _n_ _Topless tableside dancing._  
 __tabletop__ _adj, n_  
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
@@ -1294,6 +1306,7 @@ __tandem__ _n_
 __tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
 __tankard__ _n_  
 __tankinis__ _n_  
+__tanner__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
 __tantalizing__ _adj_ :three::hammer:  
 __tanzanite__  
@@ -1530,6 +1543,7 @@ __vicissitudes__ _n pl_
 __vie__ _v_  
 __vigorous__ _adj_  
 __Viking__ _n_ :pencil2:  
+__vilify__ _v_  
 __villa__ _n_ :two::hammer:  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __vineyard__ _n_  
