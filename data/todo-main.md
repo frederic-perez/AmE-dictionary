@@ -1,18 +1,3 @@
-__frugal__ _adj_  
-__gouge__ _v_  
-__governance__ _n_  
-__greenwash<sup>1</sup>__ _v_  
-__greenwash<sup>2</sup>__ _n_  
-__highfalutin__ _adj_  
-__hitherto__  
-__hotbed__ _n_  
-__impervious__  
-__incommunicado__  
-__incur__ _v_  
-__interspersed__ _v_  
-__intertwine__ _v_  
-__intricacy__ _n_  
-__inverness__ _n_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
 __iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  

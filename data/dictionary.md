@@ -6411,7 +6411,7 @@ __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college s
 __frowzy__ _adj_  
 __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
 __frozen yogurt__ _n_ :two::hammer: _Non-fat frozen yogurt._  
-__frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
+__frugal__ _adj_ :four: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
 __Fruit Belt__ _n_ Fruit Belt is a term in the United States for an area where the microclimate provides good conditions for fruit growing. Fruit Belts are prominent around the North American Great Lakes region.  
@@ -6890,13 +6890,14 @@ __gossamer<sup>2</sup>__ _n_ :two::hammer: /GAH-suh-mer/
 __gossipy__ _adj_  
 __gotcha__  
 __Goth__ _n_  
-__gouge<sup>1</sup>__ _v_ :eight: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
+__gouge<sup>1</sup>__ _v_ :nine: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
 __gouge<sup>2</sup>__ _n_  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourd__ _n_ Decorative varieties of squash that aren’t eaten.  
 __gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
 __gout__ _n_ :two::hammer:  
+__governance__ _n_  
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._ _Priceless pieces from The Beatles grace the walls._  
@@ -6991,7 +6992,8 @@ __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the wa
 __greenhouse__ _n_ :three::hammer: :es: invernadero  
 __greenlight__ _v_  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
-__greenwash__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
+__greenwash<sup>1</sup>__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
+__greenwash<sup>2</sup>__ _n_  
 __Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
 __gregarious__ _adj_ /grih-GAIR-ee-us/ _Syn_ social, sociable  
 __greige<sup>1</sup>__ _n_ __1__ [:scroll: A blend of gray + beige.] A color between gray and beige. __2__ [:scroll: From French grège (raw, unfinished) influenced by gray/beige.] A fabric or yarn that has not undergone bleaching, dying, or other finishing processes.  
@@ -7636,7 +7638,7 @@ __high-rise<sup>2</sup>__ _n_ :two::hammer: (high rise) _The building was a show
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
 __highball__ _n_ _The passengers were sipping highballs at the bar._  
-__highfalutin__ _adj_  
+__highfalutin__ _adj_ :two::hammer:  
 __highlands__  
 __highlight__ _v_  
 __highly__ _adv_ _I highly recommend it._  
@@ -7681,7 +7683,7 @@ __hit the sack__
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
-__hitherto__ _adj, adv_ :five::hammer:  
+__hitherto__ _adj, adv_ :six::hammer:  
 __hive__ _n_ :two::hammer: (hives) _A hive of art in the center of downtown._ _Allergic reactions include rash, hives, and swelling of the face._  
 __HMOs__  
 __ho__  
@@ -7865,7 +7867,7 @@ __hot__ _adj_ _We’ve got a hot crowd tonight._
 __hot-button__ _adj_ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
 __hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
-__hotbed__ _n_ :nine: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hotbed__ _n_ :nine::m: /ˈhɒtˌbɛd/ A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotboxing__  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hotfoot__ _v_  
@@ -8108,7 +8110,7 @@ __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain 
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :nine: __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
+__impervious__ _adj_ :nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
 __impetus__ _n_ :six: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -8186,6 +8188,7 @@ __incipient__ _adj_ _An incipient building._
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
+__incommunicado__  
 __inconclusive__ _adj_  
 __incongruities__ _n_  
 __incongruous__ _adj_  
@@ -8202,7 +8205,7 @@ __incumbency__
 __incumbent<sup>1</sup>__ _adj_ _It’s incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :five: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __incunabula__ _n pl_  
-__incur__ _v_  
+__incur__ _v_ :two::hammer:  
 __indecorous__ _adj_  
 __indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
 __indefinite__  
@@ -8391,7 +8394,7 @@ __interpretive__ _adj_ :three::astonished: Relating to or marked by interpretati
 __interpunct__ _n_  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
-__intertwine__ _v_ :three::hammer: (intertwined)  
+__intertwine__ _v_ :four::hammer: (intertwined)  
 __intervene__ _v_ :four::hammer:  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
@@ -8402,7 +8405,7 @@ __intramural__
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
 __intransigent__ _adj_ :two: /in-TRAN-suh-junt/ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
-__intricacy__ _n_ :three::mega::hammer: (intricacies)  
+__intricacy__ _n_ :four::mega::hammer: /ˈɪn trɪ kə si/ (intricacies)  
 __intricate__ _adj_ :two::hammer:  
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
@@ -8415,6 +8418,7 @@ __invariably__ _adj, adv_ _You’ll invariably notice it._
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
+__inverness__ _n_  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
 __invincible__ _adj_ /in-VIN-suh-bul/  
