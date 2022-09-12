@@ -1,18 +1,3 @@
-__add up to (something)__  
-__amount to__  
-__around the clock__ _Engineers work around the clock for three days trying to recover._  
-__be hoist by (one’s) own petard__  
-__blow up (one’s) phone__ To call someone repeatedly and/or send someone a lot of text messages. _A: “Hey, your phone keeps lighting up!” B: “Ugh, I wonder who’s blowing up my phone.”_  
-__bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
-__born in the purple__ Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
-__bring (someone or something) to a halt__  
-__cat-and-mouse game__  
-__cross swords__  
-__eye candy__  
-__get around it__ _There is just no getting around it._  
-__go a long way__  
-__goof up__  
-__head in the clouds, to have one’s__ Daydreaming, absentminded. _In the clouds_ has been used figuratively to mean obscure or fanciful since the mid-seventeenth century. It was not until relatively recent times that a vague, dreamy person was said to have his or her head in the clouds.  
 __keep a close eye on (someone or something)__  
 __keep an eye out__  
 __keep tab(s) on__  

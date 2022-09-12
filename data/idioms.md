@@ -142,7 +142,7 @@ __across the board__
 __act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __Adam’s ale__ _slang_ Water.  
 __add insult to injury__ :two: To hurt the feelings of a person who is already upset.  
-__add up to__ To equal or amount to something.  
+__add up to (something)__ :two: To equal or amount to something.  
 __admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit.  
 __adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __advanced in years__ Of an older age.  
@@ -176,7 +176,7 @@ __amateur hour__
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ To result in no tangible or appreciable difference.  
 __amount to something__  
-__amount to__ :four::hammer:  
+__amount to__ :five::hammer:  
 __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
 __an eye for an eye, a tooth for a tooth__ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
@@ -193,7 +193,7 @@ __arm’s length__ A distance intentionally kept from something or between somet
 __armchair expert__  
 __armed to the teeth__ :two: Fully armed, having many weapons.  
 __around Robin Hood’s barn__ On a long, indirect route. _A: “What took you guys so long to get here?” B: “Well, rather than just going through town, our esteemed driver took us all around Robin Hood’s barn instead!”_  
-__around the clock__ :two: Without stopping. _Syn_ for 24 hours, round the clock  
+__around the clock__ :three: Without stopping. _Syn_ for 24 hours, round the clock _Engineers work around the clock for three days trying to recover._  
 __around the corner__ :two: Going to happen soon.  
 __as a duck takes to water__ _cliché_ Easily and naturally. _She took to singing just as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as blind as a bat__ Unable to see well.  
@@ -307,6 +307,7 @@ __be hard hit (by something)__ To be adversely affected (by something) to a grea
 __be hard on (one)__  
 __be hard pressed__  
 __be here to stay__ :two: (is here to stay) To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
+__be hoist by (one’s) own petard__  
 __be honor-bound to do (something)__ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
@@ -420,16 +421,19 @@ __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and
 __blow (one’s) mind__ :two::hammer:  
 __blow someone out of the water__  
 __blow the coop__ To leave or escape (something). _This lecture is so boring. Come on, let’s blow the coop and go get a drink somewhere!_  
+__blow up (one’s) phone__ To call someone repeatedly and/or send someone a lot of text messages. _A: “Hey, your phone keeps lighting up!” B: “Ugh, I wonder who’s blowing up my phone.”_  
 __blow your top__ To become very angry.  
 __blowhard__ One who tends to speak in an arrogant or conceited manner. _Oh, that guy’s a real blowhard—he’s not nearly as great as he thinks he is._  
 __blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to the bluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
 __blue pill__  
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
+__bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
-__born to the purple__ _Both were born to the purple._  
+__born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
+__born to the purple__ Born in the purple. _Both were born to the purple._  
 __borrowed time__ _I’m living on borrowed time._  
 __bottle up__ :two::hammer: _Find a balance between bottling up feelings and overreacting._  
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
@@ -455,6 +459,7 @@ __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._
 __bridge the gap__  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring (someone or something) to a halt__  
 __bring (someone) to terms__ To compel a person or group to agree to or do something, especially a set of demands or conditions. _The rebels’ unflinching siege of the king’s palace eventually brought the government to terms._  
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __bring (something) to the table__ :two: To provide or offer a useful skill or attribute. _He brings years of leadership experience to the table._  
@@ -539,6 +544,7 @@ __castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic,
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat__ __2__ _n_ _dated_ _slang_ A man. _A: “You ever hear of Tom Michelson?” B: “The cat who runs the Double Dice bar over on Santa Monica? Yeah, I’ve heard of him.”_  
+__cat-and-mouse game__  
 __catch (one’s) breath__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
 __catch a snooze__ To sleep or take a nap, especially of a short duration.  
@@ -647,7 +653,7 @@ __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and sli
 __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and make sure that every last minor detail is completed. _Make sure the legal team crosses their t’s and dots their i’s when drawing up the contract._  
 __cross my heart (and hope to die)__ A vow that one is being truthful. _Billy’s the one who broke the cookie jar—cross my heart and hope to die!_  
 __cross one’s mind__ _It never crossed my mind._  
-__cross swords__ To fight or argue. _They had crossed swords many times._  
+__cross swords__ :two: To fight or argue. _They had crossed swords many times._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
@@ -806,7 +812,7 @@ __excuse my French__
 __exert (oneself)__ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __extra pair of hands__ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
-__eye candy__ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
+__eye candy__ :three: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye-opening__ Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
 __eye-to-eye__ _You can get eye-to-eye with a dolphin._  
 __F-ing__  
@@ -957,6 +963,7 @@ __get a jump on (someone or something)__
 __get a kick out of (someone or something)__ :eight: To get a sense of enjoyment, amusement, or excitement from someone or something. _Even as an adult, I still get a kick out of building sandcastles at the beach._ _You’ll get a kick out of this!_  
 __get ahead of (oneself)__ To plan or become overly excited for a possible future event.  
 __get along with__ To have a good relationship with someone.  
+__get around it__ _There is just no getting around it._  
 __get around to__ :dart: (get round to) Find the time or occasion for, as in _Dean never gets around to cleaning up the garage._ _Dreams and goals I might get around to at some time._  
 __get around__  
 __get by__  
@@ -1022,7 +1029,7 @@ __glad tidings__ Favorable, beneficial, or happy news. Usually used with the ver
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
-__go a long way__ :dart::five: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
+__go a long way__ :dart::six: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go after (someone or something)__  
 __go along__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor.  
@@ -1100,6 +1107,7 @@ __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immed
 __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _informal_  
+__goof up__  
 __got them covered__  
 __grab a bite__  
 __grand poobah__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
@@ -1243,6 +1251,7 @@ __have/put skin in the game__
 __hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head and shoulders above someone or something__  
+__head in the clouds, to have one’s__ Daydreaming, absentminded. _In the clouds_ has been used figuratively to mean obscure or fanciful since the mid-seventeenth century. It was not until relatively recent times that a vague, dreamy person was said to have his or her head in the clouds.  
 __head on shoulders__  
 __head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
