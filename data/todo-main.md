@@ -1,5 +1,36 @@
+__adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
+__advertisement__  
+__almond__ _n_ :mega:  
+__apache__ _n_ :mega:  
+__architecture__ _n_ :mega:  
+__arrange__ _v_ _Let’s arrange a meeting._  
+__Artemis__ _n_ :mega:  
+__Australia__ _n_ :mega:  
+__bona fide__  
+__callous__  
+__cashier__ _n_ :mega:  
+__cheesy__  
+__coercion__  
+__comfortable__ _adj_ :mega:  
+__cope__ _v_ _Coping strategies._  
+__coupon__ _n_ :mega:  
+__denigration__ _n_  
+__despondent__ _adj_  
+__dove tail__ _v_  
+__enthusiastic__ _adj_ :mega:  
+__flamboyant__  
+__flap T__  
+__footage__ _n_ :mega:  
+__gimmicky__ _adj_  
+__half__ _adj, adv, n_ :mega:  
+__harangue__ _n_  
+__heckler__  
+__hungover__ _adj_ (hung over) _You look hung over._  
+__impede__ _v_ :mega:  
+__incentivize__ _v_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
+__iota__ _n_ :mega:  
 __iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
 __iron__ _n_ _(golf)_  
 __islander__  
@@ -324,7 +355,7 @@ __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They w
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
 __mulch__ _n_  
 __mule deer__  
-__mullet__ _n_ /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
+__mullet__ _n_ :two: /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
 __multipronged__ _adj_  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __munch__ _v_ :two::hammer:  
@@ -366,6 +397,7 @@ __nerve-racking__ _adj_
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __neurotypical__ _adj, n_  
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
+__news__ _n_ :mega:  
 __newsworthy__ _adj_  
 __newts__ _n_ _A pond teeming with frogs and newts._  
 __nexus__ _n_  
@@ -380,6 +412,7 @@ __nightcap__ _n_ _A romantic nightcap._
 __nightcaps__  
 __nightspot__ _n_ :two: An informal word for nightclub.  
 __nimrod__ _n_  
+__nip__ _v_  
 __nitty-gritty__ _n_ :two::hammer:  
 __nix__ _v_  
 __no-frills__ _adj_ _informal_  
@@ -437,6 +470,7 @@ __on-site__ _adj_ :two::hammer:
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __onerous__ _adj_ :astonished:  
+__onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
 __onus__ _n_  
@@ -637,6 +671,7 @@ __porterhouse__ _n_ :four::hammer: _Its tender dry-aged porterhouse is unmatched
 __portico__ _n_  
 __Portlander__ _n_  
 __Portuguese__ _adj, n_  
+__possum__ _n_  
 __postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
 __pot-bellied__ _adj_ _Pot-bellied seahorses._  
 __potentate__ _n_ :two: One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
@@ -886,6 +921,7 @@ __San Diegans__ _n_
 __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
+__sap__ _v_  
 __Saratoga__ _n_  
 __sardonic__ _adj_ Scornfully or cynically mocking. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
@@ -1149,7 +1185,7 @@ __statuary<sup>2</sup>__ _adj_
 __stature__ _n_ _A golf facility of world class stature._  
 __staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
 __staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
-__steadfast__ _adj_  
+__steadfast__ _adj_ :two::hammer:  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
 __steam room__ _n_  
@@ -1261,7 +1297,7 @@ __synecdoche__ _n_ /sɪnˈɛkdəkɪ/
 __synonymous__ _n_ :pencil2:  
 __tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._  
 __tabbouleh__ _n_  
-__table__ _v_ Hold back to a later time. _Let’s table that idea._  
+__table__ _v_ :two: Hold back to a later time. _Let’s table that idea._  
 __tableside__ _n_ _Topless tableside dancing._  
 __tabletop__ _adj, n_  
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
@@ -1424,6 +1460,7 @@ __tuff rock__
 __tuition__ _n_  
 __tune-up__ _n_ _Overnight tune-ups and repairs._  
 __turmeric__ _n_ :two::hammer:  
+__turnabout__ _n_  
 __turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
 __turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
 __turnip__ _n_  
@@ -1450,6 +1487,7 @@ __uncouth__
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
+__undercut__ _v_  
 __underdog__  
 __underemployed__  
 __underfoot__ _adv_  
@@ -1482,6 +1520,7 @@ __upscale__ _adj_ :three::hammer: _Upscale shops._
 __uptown__ _adj, adv, n_ :two::hammer:  
 __urbane__ _adj_ _Urbane customer._  
 __use case__ _n_  
+__use__ _v_ _informal_  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __utterly__  
@@ -1541,6 +1580,7 @@ __wannabe__ _adj, n_
 __wares__ _n_ _The retailers showcase their wares on the runway._  
 __watchword__ _n_ :two::hammer:  
 __water flumes__ _n_  
+__water__ _n_ :mega:  
 __waterbugs__ _n_  
 __waterfowl__ _n_  
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
@@ -1618,7 +1658,7 @@ __yeast__ _n_
 __yesteryear__ _n_ :three::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __Yggdrasil__ _n_  
-__yogurt__ _n_ (yoghourt)  
+__yogurt__ _n_ :two::hammer: (yoghourt)  
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  

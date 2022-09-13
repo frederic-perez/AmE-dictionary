@@ -1,9 +1,23 @@
+__(one’s) heart of hearts__  
+__blow someone away__  
+__blow your stack__  
+__borrowed time__ _We might be on borrowed time._  
+__bucket list__ _That’s one of my bucket list items._  
+__burn your bridges__  
+__catch one’s breath__  
+__cut down (on something)__ _Cut down on smoking._  
+__cut from the same cloth__  
+__duke it out__  
+__God forbid__  
+__Hail Mary__  
+__have a screw loose__  
+__have bats in the belfry__  
 __keep a close eye on (someone or something)__  
 __keep an eye out__  
 __keep tab(s) on__  
 __keep up with (someone or something)__  
 __key into (something)__  
-__let alone__  
+__let alone__ :two::hammer:  
 __live up to__ _Classroom technology failed to live up to its promise._  
 __long-winded__  
 __look down on (someone or something)__  
@@ -15,6 +29,7 @@ __money doesn’t grow on trees__ Money should not be wasted because it is not s
 __much ado about nothing__  
 __not on my watch__  
 __off the charts__  
+__on (one’s) plate__  
 __on a lark__  
 __on the face of it__ _That seems totally bizarre on the face of it._  
 __on the sidelines__  
@@ -23,13 +38,17 @@ __on thin ice__
 __one and only__  
 __one-of-a-kind__  
 __out of pocket__  
+__out the wazoo__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
+__plead the 5th__  
 __put (someone or something) to the test__  
 __put in a good word for someone__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
+__save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __see for (oneself)__  
 __see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  
+__shoot the breeze__  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __skinny-dipping__  
 __sleep in__  
@@ -71,6 +90,7 @@ __take heart__
 __take it away!__  
 __take pride in someone or something__ :three::hammer:  
 __take the edge off__  
+__talk trash__  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :three::hammer:  
@@ -83,6 +103,7 @@ __test the water(s)__
 __thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
 __that’s a given__  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
+__the big picture__  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
@@ -124,6 +145,7 @@ __to no end__ Greatly; very much. _I was pleased to no end when you wrote of mak
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to the core__ _Charming to the core._  
 __to the fullest__  
+__to the hilt__  
 __tongue-in-cheek__  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
@@ -132,6 +154,7 @@ __treasure hunt__
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __twofer__  
 __uncanny valley__  
