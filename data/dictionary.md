@@ -210,6 +210,7 @@ __adroit__ _adj_ :three::hammer:
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulate__ _v_ :mega:  
 __adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
+__adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
 __adulterate__ _v_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
@@ -218,6 +219,7 @@ __adventuresome__ _adj_ :two::hammer:
 __adverse__ _adj_  
 __adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n informal_ :three: _Brit_ Short for advertisement.  
+__advertisement__  
 __advice__ _n_ :two: [:reminder_ribbon: You can remember that advice is a noun spelled with the ending _-ice_ because it also rhymes with _ice_, which is also a noun.] _This is my unsolicited advice._  
 __advisable__ _adj_ /ædˈvaɪ zə bəl/  
 __advise__ _v_ [:reminder_ribbon: You can remember that advise is a verb because it rhymes with _advertise_, which is also a verb.]  
@@ -397,7 +399,7 @@ __alloy<sup>2</sup>__ _v_ :two::dart: (alloyed) __2__ To combine; mix. _These si
 __allusion__ _n_ :two: Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
-__almond__ _adj, n_ :mute:[a~~l~~mond]  
+__almond__ _adj, n_ :two::mega::mute:[a~~l~~mond]:hammer:  
 __almoner__ _n_ :es: limosnero  
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
@@ -591,6 +593,7 @@ __any longer__
 __anybody’s guess__  
 __anytime__  
 __apace__ _adv_ With speed; quickly; swiftly. _Syn_ chop-chop, quickly, rapidly, speedily _Concussion concerns continue apace._  
+__apache__ _n_ :mega:  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
 __apartment__ _n_  
@@ -692,6 +695,7 @@ __archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/
 __Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :five::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :mute:[arc~~h~~itect]  
+__architecture__ _n_ :mega:  
 __archivist__  
 __archpriest__ _n_  
 __archrival__ _n_  
@@ -720,7 +724,7 @@ __arms race__
 __armscye__ _n_  
 __arose__ _v_ :two::hammer:  
 __arpents__ _n_ :two::hammer:  
-__arrange__ _v_  
+__arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
 __arrangement__ _n_  
 __array__ _v_ (arrayed)  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
@@ -730,6 +734,7 @@ __arrive__ _v_ _He arrived in England in April 1376._
 __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __arrowroot__  
 __arson__ _n_  
+__Artemis__ _n_ :mega:  
 __artery__ _n_ :mega:  
 __artful__  
 __artichoke__ _n_ :three::hammer:  
@@ -891,6 +896,7 @@ __auspices__
 __Aussie__ _n_ _informal_  
 __austere__  
 __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
+__Australia__ _n_ :mega:  
 __authorial__  
 __authoritative__ _adj_  
 __autism__ _n_ /ˈɔ tɪz əm/  
@@ -1693,7 +1699,7 @@ __bombshell__ _n_
 __bombsights__  
 __bon ton__  
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
-__bona fide__ _adj_ :nine: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
+__bona fide__ _adj_ :nine::m: /ˈboʊ nəˌfaɪd, ˈbɒn ə; ˈboʊ nəˈfaɪ di/ (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bona fides__ _n_ /boh-nuh-FYE-deez/  
 __bonanza__ _n_ :four::hammer: _Banana bonanza._  
 __bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner’s store.  
@@ -2503,7 +2509,7 @@ __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _o
 __cash flow__  
 __cash rebate__  
 __cash__ _v_ _Cash a check._  
-__cashier<sup>1</sup>__ _n_ :two: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
+__cashier<sup>1</sup>__ _n_ :three::mega: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashier<sup>2</sup>__ _v_ To dismiss from a position of command or responsibility, especially for disciplinary reasons: _was dishonorably cashiered from the army._  
 __cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that’s right._  
@@ -2729,7 +2735,7 @@ __cheese__ _adj_
 __cheese-eater__  
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
-__cheesy__ _adj_ :two::hammer:  
+__cheesy__ _adj_ :three::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
@@ -3096,7 +3102,7 @@ __codpiece__ _n_
 __coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
 __coerce__ _v_  
 __coerced__  
-__coercion__ _n_  
+__coercion__ _n_ :two::hammer:  
 __coeval__ _adj, n_ :two::hammer:  
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
@@ -3199,7 +3205,7 @@ __comeuppance__
 __comfit__ _n_  
 __comfort food__ _n_ :three::hammer:  
 __comfort__ _n_ :pencil2:  
-__comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
+__comfortable__ _adj_ :two::dart::mega::hammer: /ˈkʌmftəbəl/  
 __comforter sets__  
 __comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
@@ -3492,7 +3498,8 @@ __cop__ _v_ _My deal was that all charges were dropped against her and I would c
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
-__cope__ _n_ _A grey cope._  
+__cope<sup>1</sup>__ _n_ _A grey cope._  
+__cope<sup>2</sup>__ _v_ _Coping strategies._  
 __copier__ _n_ _Copier service._  
 __copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  

@@ -1,18 +1,3 @@
-__adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
-__advertisement__  
-__almond__ _n_ :mega:  
-__apache__ _n_ :mega:  
-__architecture__ _n_ :mega:  
-__arrange__ _v_ _Let’s arrange a meeting._  
-__Artemis__ _n_ :mega:  
-__Australia__ _n_ :mega:  
-__bona fide__  
-__callous__  
-__cashier__ _n_ :mega:  
-__cheesy__  
-__coercion__  
-__comfortable__ _adj_ :mega:  
-__cope__ _v_ _Coping strategies._  
 __coupon__ _n_ :mega:  
 __denigration__ _n_  
 __despondent__ _adj_  
