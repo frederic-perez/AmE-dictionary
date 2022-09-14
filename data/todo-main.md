@@ -1,18 +1,3 @@
-__broadside__ _n_ /BRAWD-syde/ The word broadside most often refers to a very strong and harsh spoken or written attack, but it has other meanings as well, among them “an attack by a ship in which all the guns on one side of the ship are fired together.” _Although the freshman representative knew her decision was bound to be unpopular, she was taken aback by the broadside leveled at her by her hometown newspaper’s editorial page._  
-__coruscate__ _v intr_ /KOR-uh-skayt/ __1__ To sparkle, flash, or gleam. __2__ To display great style or technique.  
-__coupon__ _n_ :mega:  
-__denigration__ _n_  
-__despondent__ _adj_  
-__dove tail__ _v_  
-__enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
-__enthusiastic__ _adj_ :mega:  
-__flamboyant__  
-__flap T__  
-__footage__ _n_ :mega:  
-__gimmicky__ _adj_  
-__half__ _adj, adv, n_ :mega:  
-__harangue__ _n_  
-__heckler__  
 __hungover__ _adj_ (hung over) _You look hung over._  
 __impede__ _v_ :mega:  
 __incentivize__ _v_  

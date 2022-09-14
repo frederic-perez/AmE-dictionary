@@ -1953,6 +1953,7 @@ __broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or deba
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broadloom__ _n_  
+__broadside__ _n_ /BRAWD-syde/ The word broadside most often refers to a very strong and harsh spoken or written attack, but it has other meanings as well, among them “an attack by a ship in which all the guns on one side of the ship are fired together.” _Although the freshman representative knew her decision was bound to be unpopular, she was taken aback by the broadside leveled at her by her hometown newspaper’s editorial page._  
 __broadsided__  
 __brocade__  
 __broccoli__ _n_ :three::pencil2::hammer:  
@@ -3564,7 +3565,7 @@ __corrugated__
 __corsages__  
 __cortisol__ _n_ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
-__coruscate__ _v_ :four::astonished: Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._  
+__coruscate__ _v intr_ :five::astonished: /KOR-uh-skayt/ __1__ To sparkle, flash, or gleam. Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._ __2__ To display great style or technique.  
 __corvine__ _adj_ Of, resembling, or characteristic of crows.  
 __cosset__ _v_  
 __cosseted__  
@@ -3611,7 +3612,7 @@ __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to e
 __coup__ _n, v_ :mute:[cou~~p~~]  
 __coupe__ _n_ (coupé) A closed two-door car shorter than a sedan of the same model. _Coupes, two door models usually sportier than sedans._  
 __coupled__ _v_  
-__coupon__ _n_  
+__coupon__ _n_ :two::mega::hammer:  
 __course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
@@ -4216,6 +4217,7 @@ __dengue fever__
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
+__denigration__ _n_  
 __denizen__ _n_ :six: (denizens) An inhabitant; a resident. _Syn_ dweller _I wandered through the empty streets, looking for a single denizen of this hamlet, but found not one._  
 __denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
@@ -4278,7 +4280,7 @@ __despicable__
 __despise__ _v_  
 __despoil__ _v_ :three::hammer: (despoiled, despoiling)  
 __despondency__  
-__despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
+__despondent__ _adj_ :seven: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
 __destitute__ _adj_ :seven::astonished: In great need of food, shelter etc. Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._ _They were left destitute when he died._ :es: indigente _Destitute peasants._  
@@ -4721,6 +4723,7 @@ __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.
 __dour__ _adj_ :six: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
+__dove tail__ _v_  
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
 __dovetail__ _v_ :five::hammer:  
@@ -5214,6 +5217,7 @@ __enamored__
 __encampment__ _n_ :two::hammer:  
 __encashment__ _n_  
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
+__enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
 __encompass__ _v_ :nine::hammer: (encompasses, encompassing) _Very large-scale computing encompasses a varied range of systems._  
@@ -5283,6 +5287,7 @@ __enthralling__ _adj_ :two::hammer:
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
+__enthusiastic__ _adj_ :mega:  
 __entice__ _v_ :two::hammer: (enticing)  
 __enticing__ _adj_ :two::hammer: _An enticing outdoor deck._  
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
@@ -5982,13 +5987,14 @@ __flak__ _n_ :seven: If you’re taking flak, chances are you’re in a bad situ
 __flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
 __flambeau__ _n_  
-__flamboyant__ _adj_ :four::hammer:  
+__flamboyant__ _adj_ :five::hammer:  
 __flameouts__  
 __flaming hair__  
 __flange__  
 __flank<sup>1</sup>__ _n_ :two: The side of an animal or a person between the ribs and hip. :es: costado  
 __flank<sup>2</sup>__ _v_  
 __flanker__ _n_ (football/rubgy/soccer position)  
+__flap T__  
 __flap__ _n_ :four::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._ _The sound of paper flaps on bicycle spokes._  
 __flapjack__ _n_  
 __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
@@ -6181,7 +6187,7 @@ __foosball__ _n_ :five::hammer: _Foosball table._
 __foot-stomping__  
 __foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the foot. _They were stung by a man who sells socks without feet._  
 __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
-__footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
+__footage__ _n_ :three::mega::hammer: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :four: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :four::hammer: _A foothold._  
 __footing__ _n_ :two::hammer: _I found my footing._ _Last year a student died after losing her footing here._  
@@ -6708,7 +6714,7 @@ __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by
 __gilt-framed__  
 __gimbal__ _n_ _A sensor on a pivoting gimbal._  
 __gimmick__ _n_ :three::hammer: (gimmicks) _No “get in the door” gimmicks._  
-__gimmicky__  
+__gimmicky__ _adj_ :two::hammer:  
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin and tonic__ _n_ :pencil2:  
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
@@ -7249,7 +7255,7 @@ __halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butche
 __halcyon__ _adj_ :six::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
 __hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
-__half__ _adj, adv, n_ :mute:[ha~~l~~f]  
+__half__ _adj, adv, n_ :two::mega::mute:[ha~~l~~f]:hammer:  
 __half-baked__ _adj_ :dart: _A half-baked plan to launch a start-up._  
 __half-cocked__  
 __half-hearted__ _adj_ Done with no real interest or enthusiasm.  
@@ -7329,7 +7335,7 @@ __happenstance__ _n_ A chance circumstance. _Syn_ coincidence
 __happy feet__  
 __haps__ _n_ :two::hammer: _What’s the haps?_  
 __haptic__ _adj_ Of or relating to the sense of touch; tactile.  
-__harangue<sup>1</sup>__ _n_ :three: (harangues) A speech or piece of writing characterized by strong feeling or expression; a tirade. _Syn_ rant _The coach’s angry harangue during halftime somehow managed to motivate the team._  
+__harangue<sup>1</sup>__ _n_ :four: (harangues) A speech or piece of writing characterized by strong feeling or expression; a tirade. _Syn_ rant _The coach’s angry harangue during halftime somehow managed to motivate the team._  
 __harangue<sup>2</sup>__ _v_ :six::hammer: (harangued, haranguing)  
 __harass__ _v_  
 __harbinger__ _n_ :five: One that indicates or foreshadows what is to come. _Syn_ herald, precursor, forerunner  
@@ -7511,7 +7517,7 @@ __heavy-handed__
 __hebdomadal__ _adj_ /heb-DOM-uh-duhl/ [:scroll: From Latin hebdomas, from Greek hepta (seven).] Weekly. A rare word for weekly. _A hebdomadal journal._  
 __hecatombs__  
 __heckle__ _v tr_ :four::hammer: (heckled)  
-__heckler__ _n_ :four::hammer:  
+__heckler__ _n_ :five::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
 __hectic__ _adj_ :nine::m::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._ _The hectic pace of the city._ _A beautiful diversion from your hectic day._ :es: agitado  
