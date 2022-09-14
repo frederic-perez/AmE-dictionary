@@ -1,7 +1,10 @@
+__broadside__ _n_ /BRAWD-syde/ The word broadside most often refers to a very strong and harsh spoken or written attack, but it has other meanings as well, among them “an attack by a ship in which all the guns on one side of the ship are fired together.” _Although the freshman representative knew her decision was bound to be unpopular, she was taken aback by the broadside leveled at her by her hometown newspaper’s editorial page._  
+__coruscate__ _v intr_ /KOR-uh-skayt/ __1__ To sparkle, flash, or gleam. __2__ To display great style or technique.  
 __coupon__ _n_ :mega:  
 __denigration__ _n_  
 __despondent__ _adj_  
 __dove tail__ _v_  
+__enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
 __enthusiastic__ _adj_ :mega:  
 __flamboyant__  
 __flap T__  
@@ -13,6 +16,7 @@ __heckler__
 __hungover__ _adj_ (hung over) _You look hung over._  
 __impede__ _v_ :mega:  
 __incentivize__ _v_  
+__invective__ _n_ /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
 __iota__ _n_ :mega:  
@@ -113,6 +117,7 @@ __larger-than-life__ _adj_
 __lashing__ _n_ _A toasted muffin with serious lashings of Hollandaise sauce._  
 __lateral thinking__  
 __lauded__ _v_  
+__launder__ _v_  
 __lavish__ _adj_ :three::hammer: _A lavish castle surrounded by 600 acres of state._  
 __lease__ _n_  
 __leasing__ _n_  
@@ -430,6 +435,7 @@ __Nymphean__ _adj_ _Nymphean theater._
 __oasis__ _n_ (_n pl_ oases)  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
+__obliterate__ _v_ /uh-BLIT-uh-rayt/  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obtrude<sup>1</sup>__ _v tr_ /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc.  
 __obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
@@ -589,6 +595,7 @@ __petrichor__ _n_
 __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
 __petticoat__  
 __pettifog__ _v_  
+__pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -622,6 +629,7 @@ __Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish ar
 __platted__ _v_  
 __playpark__ _n_  
 __pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
+__plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abundance.  
 __plenteous__ _adj_  
 __plentiful__  
 __plenty__ _n_ _There are plenty of shops._  
@@ -1234,6 +1242,7 @@ __stymied__ _v_
 __subcontinent__ _n_  
 __subdued__ _adj_ _The subdued dining room._  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
+__substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __suburbia__ _n_  
 __succint__  
 __succulent__ _n_ A succulent plant, such as a sedum or cactus.  
@@ -1374,6 +1383,7 @@ __timely__ _adv_ _In a timely manner._
 __timepiece__ _n_ :three::hammer:  
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __timeshare__  
+__titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
 __tobbogan__ _v intr_  
@@ -1520,6 +1530,7 @@ __varsity__ _n_
 __vast__ _adj_  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veal__ _n_  
+__veiling__ _n_ Sheer material, such as gauze or fine lace, used for veils. _Syn_ netting, gauze _The seamstress attached a lace trim to the veiling, so that it would match the bride’s dress._  
 __vein__ _n_ :two::hammer: (not vessel)  
 __veneer__ _n_ _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
