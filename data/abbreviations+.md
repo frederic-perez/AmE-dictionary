@@ -40,6 +40,7 @@ __DEA__
 __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
+__DoS__ Denial of service. _We ended up DoS’ing our cafes._  
 __DOY__ Day of year.  
 __DSLR__  
 __DWI__  
@@ -172,6 +173,7 @@ __SAT__ _trademark_ :three: (in the US) A test of a student’s verbal and mathe
 __SEAL__ _n_ (Military) Sea, Air, Land. _(US Navy military special forces team member)_ A member of the Sea Air and Land Teams, an elite special operations unit of the United States Navy. _It is something U.S. Navy SEALs do._  
 __Sen.__ (pl. Sens.) _Sen. Bernie Sanders._  
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
+__SLA__ Service level agreement.  
 __SMH__ Shaking my head.  
 __STI__ :five: Sexually transmitted infection.  
 __SW__ Southwest.  

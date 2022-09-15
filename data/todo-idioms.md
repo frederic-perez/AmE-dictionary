@@ -11,10 +11,12 @@ __catch one’s breath__
 __cut down (on something)__ _Cut down on smoking._  
 __cut from the same cloth__  
 __duke it out__  
+__everyone can find fault, few can do better__  
 __God forbid__  
 __Hail Mary__  
 __have a screw loose__  
 __have bats in the belfry__  
+__in (one’s) book__  
 __keep a close eye on (someone or something)__  
 __keep an eye out__  
 __keep tab(s) on__  
@@ -34,6 +36,7 @@ __not on my watch__
 __off the charts__  
 __on (one’s) plate__  
 __on a lark__  
+__on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on the face of it__ _That seems totally bizarre on the face of it._  
 __on the sidelines__  
 __on the upswing__  
@@ -48,6 +51,7 @@ __put (someone or something) to the test__
 __put in a good word for someone__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
+__roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
 __save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __see for (oneself)__  
 __see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  

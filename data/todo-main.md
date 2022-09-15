@@ -1,6 +1,15 @@
+__awry__ _adv_  
+__boot__ _v_ _We needed ways to boot people from the bridge._  
+__caffeine__ _n_ (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
+__cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
+__ciphertext__ _n_ A message which has been transformed by a cipher so that it can be read only by those privy to the secrets of the cipher.  
+__data mining__ _n_  
+__failover__ _n_  
 __hungover__ _adj_ (hung over) _You look hung over._  
 __impede__ _v_ :mega:  
 __incentivize__ _v_  
+__ingrained__ _adj_  
+__instant message__ _n_  
 __invective__ _n_ /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
@@ -116,6 +125,7 @@ __leisurely<sup>2</sup>__ _adv_
 __lemming__ _n_ /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
 __lemongrass__ _n_ :two::hammer:  
 __letterman__ _n_  
+__leverage__ _v_  
 __leviathan__ _n_ _You can sometimes see migrating leviathans._  
 __libation__ _n_ :six::hammer:  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
@@ -459,6 +469,7 @@ __operating system__
 __opulent__ _adj_  
 __orchestration__ _n_  
 __orderliness__ _n_  
+__orderly__ _adj_ _Since this is an orderly shutdown, zero queries are lost._  
 __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
 __ornament__ _n_  
 __ornamental__ _adj_  
@@ -684,7 +695,7 @@ __privy__
 __prix fixe__ _n_ :seven::hammer: _Prix fixe dinner._ _Prix-fixe specials._ _A la carte or elegant prix fixe dining._  
 __probate__ _adj_ _Probate records._  
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
-__proctor__  
+__proctor__ _v tr_ :three: To supervise (an examination). _I’m proctoring a DiRT exercise._  
 __procurator__ _n_ One authorized to manage the affairs of another; an agent. _Syn_ proxy, placeholder _The wealthy businessman’s procurator arrived at the auction to bid on his behalf._  
 __procure__ _v_ :two::hammer:  
 __produce__ _n_ Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._  
@@ -940,6 +951,7 @@ __scion__ _n_
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
+__scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_  
 __scrap__ _v_  
 __scrap<sup>1</sup>__ _n_  
