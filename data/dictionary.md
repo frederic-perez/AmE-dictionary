@@ -936,7 +936,7 @@ __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sa
 __awestruck__ _adj_  
 __awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
-__awry__ _adj_ :five: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
+__awry__ _adj, adv_ :six: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
@@ -1759,7 +1759,7 @@ __booster shot__ _n_ An additional dose of an immunizing agent, such as a vaccin
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
-__boot<sup>2</sup>__ _v_ :three::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
+__boot<sup>2</sup>__ _v_ :four::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._ _We needed ways to boot people from the bridge._  
 __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.  
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
@@ -2289,6 +2289,7 @@ __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before th
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
 __caffè Americano__ _n_ (often just an Americano) A shot of espresso with two shots of water. It’s popularly said that it was named for the American GIs in Europe during World War II, who couldn’t handle the intensity of Italian espresso. They’d dilute it with water to make the taste more palatable.  
 __caffè macchiato__ _n_ The name macchiato comes from the Italian word _macchiare_, which means “to stain or spot.” So essentially, a caffè macchiato is a stained (or spotted) coffee.  
+__caffeine__ _n_ (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
@@ -2596,6 +2597,7 @@ __cavity__ _n_ :es: caries
 __cavort__ _v_ :six::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
+__cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
 __ceasefire__ _n_ :three::hammer:  
 __cede__  
@@ -2895,6 +2897,7 @@ __cineplex__ _n_ _Sequels ruled the cineplex this weekend._
 __cinnamon roll__  
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
+__ciphertext__ _n_ A message which has been transformed by a cipher so that it can be read only by those privy to the secrets of the cipher.  
 __circa__  
 __circadian__ _adj_ :three::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
@@ -4002,6 +4005,7 @@ __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._  
 __dashing__ _adj_ :two::hammer: _A dashing atmosphere._ _I think I look rather dashing._  
 __dastard__ _adj_  
+__data mining__ _n_  
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ _n_ :two: The use of a datalogger  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -5598,7 +5602,7 @@ __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made whi
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
-__failover<sup>1</sup>__ _n_ :two::hammer:  
+__failover<sup>1</sup>__ _n_ :three::hammer:  
 __failover<sup>2</sup>__ _v_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
 __faint__ _adj_ :two::hammer: _Faint irony._  
@@ -7962,6 +7966,7 @@ __Humvee__ _n_ :two::hammer:
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
 __hunger strike__  
+__hungover__ _adj_ (hung over) _You look hung over._  
 __hunk__ _n_ :two: /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ _The hunk of grey rock that orbits our planet._ __2__ :dart: _slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :four::hammer: (hunkered)  
@@ -8113,7 +8118,7 @@ __impeachment__ _n_ :two::hammer:
 __impeccable__ _adj_ :seven::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
-__impede__ _v_ :six: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
+__impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
 __impediment__  
 __impedimenta__ _n_  
 __impel__ _v_ :two: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
@@ -8185,7 +8190,7 @@ __incendiary__ _adj_ :two: Arousing to action or rebellion. _Syn_ inflammatory, 
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
 __incentive__  
-__incentivize__ _v tr_ :two::hammer: /ɪnˈsɛn tɪˌvaɪz/  
+__incentivize__ _v tr_ :three::hammer: /ɪnˈsɛn tɪˌvaɪz/  
 __inception__ _n_ :three::hammer:  
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
@@ -8298,7 +8303,7 @@ __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike sim
 __inglenook__  
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrain__ _v_ :two: To fix deeply or indelibly, as in the mind.  
-__ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
+__ingrained__ _adj_ :five::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ An ungrateful person.  
 __ingratiate__ _v_ :three::hammer:  
 __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
@@ -8359,6 +8364,7 @@ __inspirit__ _v tr_ To instill courage or life into.
 __inspissate__ _v_ To undergo thickening or cause to thicken, as by boiling or evaporation. _Syn_ condense, thicken _The recipe then instructed the cook to inspissate the sauce by adding flour._  
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
+__instant message__ _n_  
 __instating__  
 __instigate__ _v_ Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
@@ -8428,12 +8434,14 @@ __inure__ _v_ :two::hammer: (inured)
 __inured__ _adj_ Made tough by habitual exposure. _Syn_ hardened _Doctors become inured to death._  
 __inurnment__  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
-__invective__ _n_ :five: Abusive or insulting language.  
+__invective__ _n_ :six: /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inverness__ _n_  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
+__investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
+__invigorating__ _adj_  
 __invincible__ _adj_ /in-VIN-suh-bul/  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  

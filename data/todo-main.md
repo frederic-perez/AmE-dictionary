@@ -1,18 +1,3 @@
-__awry__ _adv_  
-__boot__ _v_ _We needed ways to boot people from the bridge._  
-__caffeine__ _n_ (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
-__cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
-__ciphertext__ _n_ A message which has been transformed by a cipher so that it can be read only by those privy to the secrets of the cipher.  
-__data mining__ _n_  
-__failover__ _n_  
-__hungover__ _adj_ (hung over) _You look hung over._  
-__impede__ _v_ :mega:  
-__incentivize__ _v_  
-__ingrained__ _adj_  
-__instant message__ _n_  
-__invective__ _n_ /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
-__investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
-__invigorating__ _adj_  
 __iota__ _n_ :mega:  
 __iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
 __iron__ _n_ _(golf)_  
