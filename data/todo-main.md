@@ -1,18 +1,3 @@
-__ab initio__ _adv_ From the beginning.  
-__aforementioned__ _adj_ Mentioned previously.  
-__agrochemical__ _n_  
-__allude__ _v_  
-__ample__ _adj_  
-__argue__ _v_  
-__assay__ _n_  
-__attrition__ _n_  
-__cartridge__ _n_ _Database cartridges._  
-__chemoinformatics__  
-__chiral__ _adj_ _Chiral molecules._  
-__collarbone__ _n_ The clavicle.  
-__compliance__ _n_  
-__contention__ _n_  
-__de novo__ _adj, adv_ _Computer-based de novo design of drug-like molecules._  
 __demosaick__ _v_  
 __disparate__ _adj_ _Integration of this disparate data is essential for researchers._  
 __drudgery__ _n_  

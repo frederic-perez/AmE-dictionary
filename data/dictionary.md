@@ -33,6 +33,7 @@ __a great deal__ _adv_
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __A-list__  
 __A4__ _adj, n_ :astonished: _A4 stainless steel._  
+__ab initio__ _adv_ From the beginning.  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
@@ -254,7 +255,7 @@ __afield__ _adv_ :two::hammer: _A little farther afield._
 __afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
-__aforementioned__ _adj_ :two::hammer:  
+__aforementioned__ _adj_ :three: Mentioned previously.  
 __afoul__ _adj_ :two::hammer:  
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __African American__ _n_ _As many as one third of the cowboys on the great cattle drives were African American._  
@@ -300,6 +301,7 @@ __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also kno
 __agrarian__  
 __agribusiness__ _n_  
 __agritourism__ _n_  
+__agrochemical__ _n_  
 __agronomy__ _n_  
 __aground__ _adj, adv_ :three: __1__ With the bottom stuck on the ground beneath a body of water; stranded. In a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough. _The ghost ship ran aground._ __2__ On or onto the ground.  
 __aguacate__ _n_ /ˌɑːɡwəˈkɑːteɪ/ An avocado. _Syn_ alligator pear, avocado, avocado pear _Jim prepared his special aguacate dip and served it with tortilla chips._  
@@ -396,6 +398,7 @@ __allotted__
 __allowance__ _n_ :three::hammer:  
 __alloy<sup>1</sup>__ _n_  
 __alloy<sup>2</sup>__ _v_ :two::dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
+__allude__ _v_  
 __allusion__ _n_ :two: Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
@@ -475,7 +478,7 @@ __amp__ _n_ _Amps & alcohol._
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __amphibian__ _n_ :pencil2:  
 __amphitheater__ _n_ :two::hammer: _Wind and water are responsible for the natural amphitheater._  
-__ample__ _adj_ :nine: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
+__ample__ _adj_ :nine::m: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -709,6 +712,7 @@ __Argentine__ _n_ _The pope is an Argentine._
 __argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
 __arguably__ _adv_ :four::hammer:  
+__argue__ _v_  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :two::mega::hammer:  
@@ -790,6 +794,7 @@ __aspirin__ _n_ :mega:
 __assail__ _v_ :three: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ _n_ :two::hammer:  
+__assay__ _n_  
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n_ :two::hammer:  
@@ -868,7 +873,7 @@ __attract__ _v_
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _v tr, v intr_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
-__attrition__ _n_ :seven: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._  
+__attrition__ _n_ :eight: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
@@ -2492,6 +2497,7 @@ __carted__ _v_
 __cartel__ _n_ :three::hammer:  
 __carthorse__ _n_  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
+__cartridge__ _n_ _Database cartridges._  
 __carve out__ _v_ :seven::hammer: (carved out)  
 __carve__ _v_ :two::hammer: _Feast on oversized hand-carved sandwiches._ _Grilled meats carved tableside._  
 __carveouts__  
@@ -2741,6 +2747,7 @@ __cheesecloth__ _n_ :three::hammer:
 __cheesy__ _adj_ :three::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
+__chemoinformatics__  
 __chemtrail__ _n_ :camera:  
 __chenier__  
 __chenille throws__  
@@ -2802,6 +2809,7 @@ __Chippendale__ _adj_ Of or relating to an 18th century English furniture style 
 __chipper__ _adj_ :four: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
 __chippy<sup>1</sup>__ _adj_  
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
+__chiral__ _adj_ _Chiral molecules._  
 __chiropody__ _n_  
 __chiropractor__ _n_  
 __chirp away__ _v_  
@@ -3158,7 +3166,7 @@ __collage__ _v_
 __collapse__ _v_ :pencil2:  
 __collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
 __collar__ _n_ _Accessories include collars, scarves, gloves and more._  
-__collarbone__ _n_ :three: The clavicle.  
+__collarbone__ _n_ :four: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collateral damage__  
 __colleague__ _n_ :three::mega::mute:[colleag~~u~~e] /KAH-leeg/  
@@ -3266,7 +3274,7 @@ __complacency__
 __complacent__ _adj_ :four: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
 __complex__ _adj, n, v_ :mega:  
-__compliance__ _n_ :three::hammer: _Compliance guy._  
+__compliance__ _n_ :four::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
 __complimentary__ _adj_ :nine::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
@@ -4031,6 +4039,7 @@ __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the w
 __dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
+__de novo__ _adj, adv_ _Computer-based de novo design of drug-like molecules._  
 __de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
