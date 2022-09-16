@@ -1,3 +1,26 @@
+__ab initio__ _adv_ From the beginning.  
+__aforementioned__ _adj_ Mentioned previously.  
+__agrochemical__ _n_  
+__allude__ _v_  
+__ample__ _adj_  
+__argue__ _v_  
+__assay__ _n_  
+__attrition__ _n_  
+__cartridge__ _n_ _Database cartridges._  
+__chemoinformatics__  
+__chiral__ _adj_ _Chiral molecules._  
+__collarbone__ _n_ The clavicle.  
+__compliance__ _n_  
+__contention__ _n_  
+__de novo__ _adj, adv_ _Computer-based de novo design of drug-like molecules._  
+__demosaick__ _v_  
+__disparate__ _adj_ _Integration of this disparate data is essential for researchers._  
+__drudgery__ _n_  
+__elucidation__ _n_  
+__engender__ _v_  
+__further__ _adv_ _We will not discuss it further._  
+__gecko__ _n_  
+__hinder__ _v_  
 __iota__ _n_ :mega:  
 __iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
 __iron__ _n_ _(golf)_  
@@ -117,8 +140,10 @@ __licensure__ _n_ The act or an instance of granting a license, usually to pract
 __licentious__ _adj_  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
 __liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The liegeman was expected to provide military support if his lord went to battle._  
+__ligand__ _n_  
 __light rail__ _n_ :four::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
+__likewise__ _adv_  
 __lilac__  
 __limestone__ _n_ :three::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
@@ -242,6 +267,7 @@ __memorabilia__
 __menagerie__ _n_ :three: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
 __menial__ _adj_ :mega:  
 __mephitic__ _adj_  
+__Mercer’s condition__ _n_  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
 __mercurial__ _adj_ Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._  
 __mercury__ _n_ /mûr′kyə-rē/  
@@ -256,7 +282,10 @@ __meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to me
 __meta<sup>2</sup>__ _adv_ In a self-referential manner.  
 __meta<sup>3</sup>__ _n_ Something that is self-referential.  
 __meta<sup>4</sup>__ _prefix_ Denoting transformation, transcending, going beyond, etc.  
+__metabolites__ _n_  
+__metadata__ _n pl_  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
+__metering__ _n_  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
@@ -267,6 +296,7 @@ __microbrew__ _n_ :four::hammer:
 __microdermabrasion__ _n_  
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
+__middleware__ _n_  
 __midget race track__  
 __mile high city__  
 __minestrone__ _n_  
@@ -316,11 +346,13 @@ __mortgage__ _n_ :mega:
 __mortified__  
 __mosey<sup>1</sup>__ _n_  
 __mosey<sup>2</sup>__ _v intr_  
+__mote__ _n_ _Smart camera motes._  
 __motif__ _n_  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __mousetrap__ _n_  
 __mousy__ _adj_ _A mousy accountant._  
 __moveable__ _adj_ _Moveable bridges._  
+__mow__ _v_  
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
 __mulch__ _n_  
@@ -451,6 +483,7 @@ __op-ed__ _adj, n_ :mega:
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __operating system__  
+__optic flow__ _n_  
 __opulent__ _adj_  
 __orchestration__ _n_  
 __orderliness__ _n_  
@@ -559,6 +592,8 @@ __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.
 __penstemon__ _n_  
 __people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
 __peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
+__perch__ _v_  
+__percolation__ _n_  
 __perennial__ _adj_ :two::hammer: _A perennial favorite._  
 __perfect__ _v_  
 __perfidious__ _adj_  
@@ -567,6 +602,7 @@ __perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy o
 __pergola__ _n_  
 __peristyle__  
 __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._  
+__pertinent__ _adj_  
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __perusal__ _n_  
 __pervasive__  
@@ -579,8 +615,10 @@ __pettifog__ _v_
 __pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
+__pharmacophores__ _n_  
 __phenom__  
 __Philly__ _n_ _The small-time Philly boxer Rocky Balboa._  
+__phonotaxis__ _n_ _Cricket phonotaxis._  
 __piano bar__  
 __pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
@@ -693,6 +731,7 @@ __prompt__ _adj_ _Prompt, safe, and reliable._
 __proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
+__protonation__ _n_  
 __protracted__ _adj_ _A protracted discussion._  
 __providence__ _n_ Prudent management; economy. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
 __provider__ _n_  
@@ -750,6 +789,7 @@ __rampant__ _adj_
 __rampart__ _n_ :two::hammer:  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
 __rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
+__random forest__  
 __range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode the range an miners searched for gold._  
 __rapt__ _adj_  
 __rapture__ _v_  
@@ -766,6 +806,7 @@ __ravishing__
 __raw bar__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
+__recall__ _v_  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
 __recitation__ _n_  
 __reckoning__ _n_  
@@ -806,6 +847,7 @@ __remix__ _n, v_ :mega:
 __rendition__ _n_ :two::hammer:  
 __renewal__ _n_  
 __repeat__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
+__repercussion__ _n_  
 __repertoire__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
@@ -869,7 +911,7 @@ __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __ruches__ _n_  
 __ruckus__ _n_  
-__rugged__ _adj_ :three::hammer: _The rugged trail._  
+__rugged__ _adj_ :four::hammer: _The rugged trail._  
 __rummage__ _v_  
 __run in__ _n_  
 __running shoes__ _n_  
@@ -886,6 +928,7 @@ __saga__ _n_ /SAH-guh/ A long and complicated story or series of events. Saga fi
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
 __saint__ _v_ (sainted) _The chef should be sainted._  
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
+__salamander__ _n_  
 __salient__ _adj_ /SAIL-yunt/  
 __samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
@@ -917,6 +960,7 @@ __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina
 __scalp__ _n_ __3__ A trophy or token signifying conquest.  
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
+__scapula__ _n_  
 __scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
 __scar__ _v_  
 __scarlet letter__ _n_  
@@ -943,6 +987,7 @@ __scrap<sup>1</sup>__ _n_
 __scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
+__screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
@@ -1039,6 +1084,7 @@ __sizzle__ _v_ :three::hammer: _Sizzling burgers/soups._
 __skate__ _n_ _Need skates? Rent them for $10._  
 __skeeball__ _n_  
 __skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
+__sketch__ _v_ _Let us briefly sketch its major challenges._  
 __skewer__ _n_ _Skewers of meats, vegetables, and fruits._  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skit__ _n_ :two::hammer: _Skit theater._  
@@ -1111,6 +1157,7 @@ __spent volcano__
 __sphinx__ _n_  
 __spiffed__ _v_  
 __spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
+__spindle__ _n_  
 __spinner__ _n_  
 __spiral__ _v_ _It spirals out of control._  
 __spire__ _n_ :four::hammer:  
@@ -1139,9 +1186,12 @@ __stage show__
 __stagecoach__ _n_ :two::hammer:  
 __stakeholder__ _n_  
 __stale__ _adj_  
+__stalk__ _n_  
 __stance__ _n_ :two::hammer:  
+__standardize__ _v_  
 __standee__  
 __standout__ _n_  
+__standpoint__ _n_ _From a technical standpoint._  
 __standstill__ _n_  
 __star anise__ _n_ :es: anís estrellado  
 __starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
@@ -1290,7 +1340,7 @@ __tankard__ _n_
 __tankinis__ _n_  
 __tanner__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
-__tantalizing__ _adj_ :three::hammer:  
+__tantalizing__ _adj_ :four:hammer: _A tantalizing question._  
 __tanzanite__  
 __tap into__  
 __taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
@@ -1303,6 +1353,7 @@ __tater tots__ _n_
 __tatterdemalion__ _n_ _rare_  
 __tattered__ _adj_ _The famous_ Tattered Cover Bookstore.  
 __taunt__ _v_  
+__tautomer__ _n_  
 __tavern__ _n_  
 __technical__ _adj_ _Technical garments._  
 __tedium__ _n_ _The bitter tedium of his daily life._  
@@ -1461,6 +1512,7 @@ __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pur
 __unapologetic__ _adj_  
 __unassuming__ _adj_  
 __uncouth__  
+__undemosaick__ _v_ _Undemosaicked pixels._  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
@@ -1504,6 +1556,7 @@ __utterly__
 __V8__ _n_ _(beverage)_  
 __vacationer__ _n_  
 __vacuous__  
+__valence__ _n_  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vampire bat__ _n_  
@@ -1524,10 +1577,12 @@ __vermeil__ _adj, n_
 __verruciform__ _adj_ In the shape of a wart.  
 __verrucose__ _adj_ (verrucous) Covered with warts or wartlike projections.  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
+__vexing__ _adj_ _A vexing problem._  
 __viands__ _n_  
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicissitudes__ _n pl_  
 __vie__ _v_  
+__viewfinder__ _n_  
 __vigorous__ _adj_  
 __Viking__ _n_ :pencil2:  
 __vilify__ _v_  
@@ -1564,6 +1619,7 @@ __waterfowl__ _n_
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
 __watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __waterpark__  
+__wave goodbye__ _n_ A motion of the hand used to say goodbye. _A kiss and a wave goodbye._ _Waving goodbye to the paper lab book._  
 __wedding band__ _n_  
 __wee__ _n_  
 __well versed__ _adj_  
@@ -1588,6 +1644,7 @@ __whizz__ _v_
 __whodunnit__ _n informal_  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
+__wholly__ _adv_  
 __wide-eyed__ _adj_ _Wide-eyed ingenue._  
 __widen__ _v_ _Widening the sidewalks._  
 __wildflowers__ _n_ :two::hammer:  

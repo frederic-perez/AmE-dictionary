@@ -2,12 +2,14 @@ __(one’s) heart of hearts__
 __blow someone away__  
 __blow your stack__  
 __borrowed time__ _We might be on borrowed time._  
+__bound to (be or do something)__  
 __Box and Cox__ Two people who always miss each other and thus are never together. The phrase comes from the 19th-century story of the same name, in which two men named Box and Cox rent the same room at different times of day. _Since I’ve been on night work all week, Irene and I are like Box and Cox these days, constantly missing each other. I hope to actually spend time with her over the weekend!_  
 __brace of shakes__ Instantly, quickly, or in an extremely short amount of time, as of a task or event. “Brace,” taken from the old French for the arms’ breadth from hand to hand, means twice; the phrase as a whole refers either to an old nautical term, meaning the time it takes the sail to shake twice as it takes up the wind, or else the short time it takes to shake a dice-box twice. Often used in the phrase “in a brace of shakes.” _I’ll have that ready for you in a brace of shakes._ _We’ll be there in a brace of shakes._  
 __brazen it out__ To face a difficult, uncertain, or intimidating situation with brave or impudent self-confidence. _I’m terrified to give this presentation, but I just have to brazen it out and hope for the best._  
 __bucket list__ _That’s one of my bucket list items._  
 __burn your bridges__  
 __catch one’s breath__  
+__come to grips__  
 __cut down (on something)__ _Cut down on smoking._  
 __cut from the same cloth__  
 __duke it out__  
