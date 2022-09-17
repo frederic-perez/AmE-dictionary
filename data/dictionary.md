@@ -4218,6 +4218,7 @@ __demonize__ _v tr_ :six::hammer: (demonizing)
 __demonstrate__ _v_ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
+__demosaicing__ _adj_ (de-mosaicing, demosaicking)  
 __demur__ _v_ (demurred) :four::hammer: (demurred)  
 __demure__ _adj_ :four: Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
@@ -4528,6 +4529,7 @@ __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vi
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ _n_ :two::hammer:  
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
+__disparate__ _adj_ _Integration of this disparate data is essential for researchers._  
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
@@ -4886,7 +4888,7 @@ __drub__ _v_ :two::hammer:
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
-__drudgery__ _n_ :six::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
+__drudgery__ _n_ :seven::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drug user__ _n_ :two: A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
@@ -5158,6 +5160,7 @@ __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive pe
 __elope__ _v intr_ :nine::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
+__elucidation__ _n_  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
 __elute__ _v tr_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
@@ -5265,6 +5268,7 @@ __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Alt
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ :three::hammer: _I’m engaged with my work._  
+__engender__ _v_  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  
@@ -6502,7 +6506,8 @@ __furor__ _n_ _Social media furor._
 __furrier__ _n_ A person whose occupation is selling, making, dressing, or repairing fur garments.  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :three::hammer: (furrowed) _His brow was furrowed._  
-__further__ _v tr_ :three: To help the progress of; promote.  
+__further<sup>1</sup>__ _adv_ _We will not discuss it further._  
+__further<sup>2</sup>__ _v tr_ :three: To help the progress of; promote.  
 __furtive__ _adj_ /FER-tiv/  
 __fuschia__ _n_ (fuschias)  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
@@ -6643,6 +6648,7 @@ __gazette__ _n_
 __gazillion__ _n_  
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
+__gecko__ _n_  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __gegenschein__ _n_ A faint glowing spot in the sky, exactly opposite the position of the sun. _Syn_ counterglow _The gegenschein is so faint that it cannot be seen if there is any moonlight or if it falls in the vicinity of the Milky Way._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
@@ -7680,7 +7686,7 @@ __hillbilly__ _n_ :two::hammer:
 __hillocks__  
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
-__hinder__ _v_ :two::hammer:  
+__hinder__ _v_ :three::hammer:  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinge__ _v_  
 __hinky__  
@@ -8460,7 +8466,7 @@ __involute<sup>2</sup>__ _n_ /IN-vuh-loot/ A curve traced by a point on a string
 __involute<sup>3</sup>__ _v intr_ /in-vuh-LOOT/ __1__ To curl up. __2__ To return to a former condition or to a normal state.  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __iodine__ _n_ :es: yodo  
-__iota__ _n_ A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
+__iota__ _n_ :two::mega: A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
 __ipso facto__ _adv_  
 __irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -8468,13 +8474,14 @@ __irate<sup>2</sup>__ _v_ :two::hammer:
 __ire__ _n_ :two::hammer:  
 __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
 __irenic__ _adj_ Inclined or disposed to peace; not quarrelsome or unruly. _Syn_ pacific, pacifical, pacifist, pacifistic, peaceable, peaceful  
+__iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irk__ _v_ _What irks you?_  
 __irksome__  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
-__iron<sup>1</sup>__ _n_ :mega::dart:  
+__iron<sup>1</sup>__ _n_ :two::mega::dart: _(golf)_  
 __iron<sup>2</sup>__ _v_ :mega: (ironing)  
 __ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._  
 __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical endurance.  
@@ -8486,16 +8493,18 @@ __irritating__ _adj_ _Syn_ annoying, tiresome
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __ischemic__ _adj_  
 __island__  
-__islet__ _n_ :two::hammer: _Transplanting islet cells into the liver._  
+__islander__  
+__islet__ _n_ :three::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
 __issue<sup>1</sup>__ _n_ :two::hammer: _She died without issue._ (decendency?)  
 __issue<sup>2</sup>__ _v_  
-__isthmus__  
+__isthmus__ _n_ :two::hammer:  
 __IT Band__  
 __it dawned on someone__  
 __it so happens__  
 __it takes a village__ _prov_ :two: Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
+__Italianate__ _adj_ Italian in style or character.  
 __italicize__ _v_  
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __iteration__ _n_ :mega: /ˌɪt əˈreɪ ʃən/  

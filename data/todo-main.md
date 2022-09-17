@@ -1,18 +1,3 @@
-__demosaick__ _v_  
-__disparate__ _adj_ _Integration of this disparate data is essential for researchers._  
-__drudgery__ _n_  
-__elucidation__ _n_  
-__engender__ _v_  
-__further__ _adv_ _We will not discuss it further._  
-__gecko__ _n_  
-__hinder__ _v_  
-__iota__ _n_ :mega:  
-__iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
-__iron__ _n_ _(golf)_  
-__islander__  
-__islet__  
-__isthmus__ _n_  
-__Italianate__ _adj_ Italian in style or character.  
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
