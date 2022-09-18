@@ -1,3 +1,21 @@
+__abrupt__ _adj_ _An abrupt decrease._  
+__account__ _v_ _Measure cross-traffic and account for it._  
+__assess__ _v_  
+__assessment__ _n_ :pencil2:  
+__bearing__ _adj, n_ _Those numbers do not have much bearing on performance over time._  
+__benchmark__ _v_  
+__commensurate__ _adj_ _Salary will be commensurate with the candidate’s qualification._  
+__confounding__ _adj_ _Confounding factors._  
+__congestion__ _n_ _The congestion during peak hours._  
+__cross-compiler__ _n_  
+__decrease__ _n_ _An abrupt decrease._  
+__encompass__ _v_  
+__expenditure__ _n_  
+__fairly__  
+__footing__ _n_ _Competing on an equal footing._  
+__generous__ _adj_  
+__increase__ _n_ _The factor of increase._  
+__inset__ _n_  
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
@@ -116,6 +134,7 @@ __lighthouse__ _n_ /ˈlaɪtˌhaʊs/
 __likewise__ _adv_  
 __lilac__  
 __limestone__ _n_ :three::hammer:  
+__limitless__  
 __line up__ _v_ _Huge crowds are lining up._  
 __lingonberry__ _n_ :two::hammer: :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
 __lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
@@ -316,7 +335,7 @@ __mortgage__ _n_ :mega:
 __mortified__  
 __mosey<sup>1</sup>__ _n_  
 __mosey<sup>2</sup>__ _v intr_  
-__mote__ _n_ _Smart camera motes._  
+__mote__ _n_ :two::hammer:  
 __motif__ _n_  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __mousetrap__ _n_  
@@ -412,6 +431,7 @@ __nuance__ _n_ :two::mega: /NOO-ahnss/ A subtle distinction, variation, or quali
 __nubbly__  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
+__nutrition label__ _n_  
 __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
 __Nymphean__ _adj_ _Nymphean theater._  
 __oasis__ _n_ (_n pl_ oases)  
@@ -443,6 +463,7 @@ __on-site__ _adj_ :two::hammer:
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __onerous__ _adj_ :astonished:  
+__ongoing__ _adj_ _Ongoing efforts._  
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
@@ -614,8 +635,11 @@ __pizzeria__ _n_ :mega:
 __planter__ _n_ :four: __3__ An early settler or colonist.  
 __plantman__ _n_  
 __plantwoman__ _n_  
+__plateau<sup>1</sup>__ _n_  
+__plateau<sup>2</sup>__ _v_  
 __Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
 __platted__ _v_  
+__plausible__ _adj_  
 __playpark__ _n_  
 __pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
 __plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abundance.  
@@ -638,6 +662,7 @@ __pod__ _n_ _Pea pod._
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __poignant__ _adj_  
 __polecats__ _n_  
+__policiymaker__ _n_  
 __policyholder__  
 __Pompeii__ _n_  
 __pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
@@ -682,6 +707,8 @@ __primeval__ _adj_
 __primitive__ _n_ __4b__ An artist having or affecting a simple, direct, unschooled style, as of painting. __c__ A work of art created by a primitive artist. _Primitives, collectibles and gifts for all._  
 __primo__ _adj, adv, n_  
 __primrose__ _n_  
+__principled__ _adj_ _A principled foundation._  
+__prior__ _n_ _They deblur the captured images using the motion path as a prior._  
 __pristine__ _adj_  
 __privacy lock__  
 __privy__  
@@ -978,6 +1005,7 @@ __seating__ _n_ :two::hammer: _Plenty of garden seating._
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __sedge__ _n_ _Sedge meadows._  
+__seek__ _v_ _We seek to characterize the performance variations._  
 __seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
@@ -1021,6 +1049,7 @@ __shoppe__ _n_ :two: Variant of shop.
 __shoreline__ _n_  
 __short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
 __shortcoming__ _n_  
+__shortfall__ _n_  
 __shoulder__ _v_  
 __shove__ _v_  
 __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
@@ -1044,6 +1073,7 @@ __signage__ _n_ :three::hammer: _Backlit signage._
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
 __signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._  
+__significant__ _adj_ _Time of day is significant._  
 __silviculture__ _n_  
 __simulcast__  
 __sinfully__ _adv_ _Sinfully delicious desserts._  
@@ -1058,6 +1088,7 @@ __sketch__ _v_ _Let us briefly sketch its major challenges._
 __skewer__ _n_ _Skewers of meats, vegetables, and fruits._  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skit__ _n_ :two::hammer: _Skit theater._  
+__skyrocket__ _v_  
 __skyview__ _n_ _Skyview banquet facility._  
 __skywalk__ _n_  
 __slake__ _v_  
@@ -1232,6 +1263,7 @@ __stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ ad
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strive__ _v_ :two::hammer: (striving)  
 __strobe lights__  
+__strobing__ _n_ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
 __stroganoff__  
 __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
@@ -1301,6 +1333,7 @@ __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often w
 __Tahitian__  
 __Taj Mahal__ _n_ /taj/tazh muh-HUHL/HAHL/ [:scroll: After Taj Mahal, a mausoleum in Agra, India] Something, especially a building, that is luxurious or an extraordinary example of its kind.  
 __take-out__  
+__takeaway__ _n_  
 __takeover__ _n_  
 __talented__ _adj_  
 __tamarind__  
@@ -1336,7 +1369,9 @@ __teetotum__ _n_ A top, usually having four lettered sides, that is used to play
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __tenement__  
+__tenet__ _n_  
 __tenterhook__ _n_  
+__tenure-track__  
 __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
 __terra cotta__ _n_ :pencil2:  
 __terraform__ _v_  
@@ -1381,8 +1416,9 @@ __til__ _conj, prep_
 __till__ _v_ (tilled)  
 __Tilt-A-Whirl__ _n_  
 __time-consuming__ _adj_  
+__time-stamp__ _v_ _These events are time-stamped._  
 __timeless__ _adj, adv, n_ :two::hammer:  
-__timely__ _adv_ _In a timely manner._  
+__timely__ _adv_ :two::hammer: _In a timely manner._  
 __timepiece__ _n_ :three::hammer:  
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __timeshare__  
@@ -1413,6 +1449,7 @@ __tot__ _n_
 __tote bag__ _n_  
 __tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
+__touting__ _v_  
 __towpath__  
 __traboule__ _n_  
 __trade-off__ _n_ :two::hammer: (trade-offs)  

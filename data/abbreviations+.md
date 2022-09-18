@@ -7,6 +7,7 @@ __AAA__ (Automotive Engineering) Automobile Association of America.
 __AAPI__ Asian Americans and Pacific Islanders.  
 __AAVE__ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
 __AB__ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
+__ABD__ All but dissertation. A doctoral candidate who has completed required courses and examinations but not a dissertation. _Applicants who are ABD may apply._  
 __ACK__ Acknowledge/Acknowledgement/Acknowledged.  
 __ACL__ Anterior cruciate ligament.  
 __ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  

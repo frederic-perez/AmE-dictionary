@@ -1,4 +1,5 @@
 __(one’s) heart of hearts__  
+__batteries included__ _informal_ I a product usability (mostly in software) it states that the product comes together with all possible parts required for full usability. _A batteries include approach._  
 __blow someone away__  
 __blow your stack__  
 __borrowed time__ _We might be on borrowed time._  
@@ -19,11 +20,13 @@ __Hail Mary__
 __have a screw loose__  
 __have bats in the belfry__  
 __in (one’s) book__  
+__in their own right__  
 __keep a close eye on (someone or something)__  
 __keep an eye out__  
 __keep tab(s) on__  
 __keep up with (someone or something)__  
 __key into (something)__  
+__lessons learned__  
 __let alone__ :two::hammer:  
 __live up to__ _Classroom technology failed to live up to its promise._  
 __long-winded__  
