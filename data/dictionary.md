@@ -79,7 +79,7 @@ __abreast__ _adv_ :seven: Side by side and facing the same way. _The path was wi
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
 __abrogate__ _v_ /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. _Citizens voted to abrogate the antiquated law._  
 __abrogation__ _n_ :two::hammer:  
-__abrupt__ _adj_ /uh-BRUPT/  
+__abrupt__ _adj_ :two::hammer: /uh-BRUPT/ _An abrupt decrease._  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __abscission__ _n_ The act of cutting off. _ Syn_ cutting off _He had surgery for the abscission of a malignancy._  
@@ -120,7 +120,8 @@ __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger
 __accordion door__ _n_ _He pushed open the phone booth’s accordion doors._  
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
-__account__ _n_ :five::hammer: _By many accounts, Americans are tired of the Democratic and Republican Parties._ _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
+__account<sup>1</sup>__ _n_ :five::hammer: _By many accounts, Americans are tired of the Democratic and Republican Parties._ _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
+__account<sup>2</sup>__ _v tr_ _Measure cross-traffic and account for it._  
 __accountant__ _n_ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
@@ -797,9 +798,10 @@ __assault__ _n_ :two::hammer:
 __assay__ _n_  
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
-__asses__ _n_ :two::hammer:  
-__asset__ _n_ :two: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
-__assets__  
+__asses__ _n pl_ :two::hammer:  
+__assess__ _v tr_  
+__assessment__ _n_ :pencil2:  
+__asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduous__ _adj_ :two: /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
 __assiduously__ _adv_ :pencil2::two::hammer:  
@@ -1217,7 +1219,8 @@ __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._
 __bear down__ _v_  
 __bear hug__  
 __bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
-__bearing__ _n_ :six::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._  
+__bearing<sup>1</sup>__ _n_ :seven::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._  
+__bearing<sup>2</sup>__ _adj_  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
@@ -1330,7 +1333,8 @@ __bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bem
 __bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _n_ _Snow will dust the benches and valleys._  
-__benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
+__benchmark<sup>1</sup>__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
+__benchmark<sup>2</sup>__ _v_  
 __benchmarking__ _n_  
 __bender__ _n_ :three: __2__ _slang_ A spree, especially a drinking spree. _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
@@ -3233,7 +3237,7 @@ __commencement__ _n_ _The high school commencement ceremony._
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :five: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__ _adj_ :three: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
+__commensurate__ _adj_ :four: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
@@ -3363,6 +3367,7 @@ __confluence__ _n_
 __conform__ _v_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
+__confounding__ _adj_ _Confounding factors._  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
@@ -3370,6 +3375,7 @@ __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
+__congestion__ _n_ _The congestion during peak hours._  
 __conglomerate__  
 __conglomerates__  
 __congrats__ _n pl_ _Congrats on your wedding._  
@@ -3782,6 +3788,7 @@ __crooked__ _adj_ :three::hammer: _Crooked media._
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
+__cross-compiler__ _n_  
 __cross-country<sup>1</sup>__ _adj_ :two::hammer:  
 __cross-country<sup>2</sup>__ _n_  
 __cross-examination__ _n_  
@@ -4111,6 +4118,7 @@ __decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily wh
 __deconstruct__ _v_  
 __décor__ _n_  
 __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
+__decrease__ _n_ _An abrupt decrease._  
 __decreed__ _v_  
 __decrepit__ _adj_ :two::hammer:  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
@@ -5236,7 +5244,7 @@ __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative di
 __enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
-__encompass__ _v_ :nine::hammer: (encompasses, encompassing) _Very large-scale computing encompasses a varied range of systems._  
+__encompass__ _v_ :nine::m::hammer: (encompasses, encompassing) _Very large-scale computing encompasses a varied range of systems._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
@@ -5522,7 +5530,7 @@ __expedited shipping__ _n_ (vs _regular shipping_) Expedited shipping is a fast 
 __expeditiously__  
 __expendable<sup>1</sup>__ _adj_  
 __expendable<sup>2</sup>__ _n_ Something that is expendable.  
-__expenditure__ _n_ :seven: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
+__expenditure__ _n_ :eight: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
 __explant__ _v_ To remove (living tissue) from the natural site of growth and place in a medium for culture.  
@@ -5625,7 +5633,7 @@ __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condi
 __fair shake__  
 __fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of England._ :fr: belle _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairground attraction__  
-__fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
+__fairly__ _adv_ :four::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fairway__ _n_ :two: The long part of a golf course that you hit the ball along to get to the hole.  
 __fait accompli__  
 __faiway__ _n_ _The turf of the lush green fairways._  
@@ -6207,7 +6215,7 @@ __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cos
 __footage__ _n_ :three::mega::hammer: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :four: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :four::hammer: _A foothold._  
-__footing__ _n_ :two::hammer: _I found my footing._ _Last year a student died after losing her footing here._  
+__footing__ _n_ :three::hammer: _I found my footing._ _Last year a student died after losing her footing here._ _Competing on an equal footing._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose<sup>1</sup>__ _adj_ :three::pencil2::hammer: _Footloose knights._  
 __footloose<sup>2</sup>__ _n_ _Travel clothes for the footloose._  

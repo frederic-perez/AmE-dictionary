@@ -1,18 +1,3 @@
-__abrupt__ _adj_ _An abrupt decrease._  
-__account__ _v_ _Measure cross-traffic and account for it._  
-__assess__ _v_  
-__assessment__ _n_ :pencil2:  
-__bearing__ _adj, n_ _Those numbers do not have much bearing on performance over time._  
-__benchmark__ _v_  
-__commensurate__ _adj_ _Salary will be commensurate with the candidate’s qualification._  
-__confounding__ _adj_ _Confounding factors._  
-__congestion__ _n_ _The congestion during peak hours._  
-__cross-compiler__ _n_  
-__decrease__ _n_ _An abrupt decrease._  
-__encompass__ _v_  
-__expenditure__ _n_  
-__fairly__  
-__footing__ _n_ _Competing on an equal footing._  
 __generous__ _adj_  
 __increase__ _n_ _The factor of increase._  
 __inset__ _n_  
