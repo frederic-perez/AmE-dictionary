@@ -425,6 +425,7 @@ __altar boy__
 __alter__ _v_  
 __altercation__  
 __alternating caps__ _n_ Used to convey sarcasm or mockery across the internet. Can also be used to purposefully mislead and create humour.  
+__altiloquent__ _adj_ /al-TIL-uh-kwuhnt/ Pompous or pretentious.  
 __altitude sickness__  
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
@@ -456,8 +457,9 @@ __amend__ _v_ _The Texas constitution was amended in 1891._
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
 __Americana__ _n pl_  
+__Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espresso coffee diluted with hot water.  
 __Ames__ _n_ _Ames, Iowa._  
-__amethyst__ _n_ :three::pencil2::hammer:  
+__amethyst__ _n_ :four::pencil2::hammer:  
 __ametropia__ _n_  
 __amiable__  
 __amicable__ _adj_  
@@ -927,7 +929,7 @@ __average citizens__
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
-__aviary__ _n_ :three::hammer:  
+__aviary__ _n_ :four: A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
 __avid__ _adj_ :five::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
@@ -1169,6 +1171,7 @@ __basing__
 __basket case__  
 __basketful__ _n_ __1__ A sufficient quantity to fill a basket; the amount contained in a basket. __2__ Any considerable quantity. _Teachers once received apples by the basketful._ _Ed scored great goals by the basketful._  
 __basketry__ _n_  
+__bass drum__ _n_  
 __bass__ _n_ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
@@ -2010,6 +2013,7 @@ __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnor
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
+__brume__ _n_ /broom/ Fog or mist.  
 __bruncher__ _n_ _Sunday brunchers._  
 __bruschetta__ _n_ :two::hammer: _Ostrich bruschetta._  
 __brush fire__ _n_ _Brush fires in California._  
@@ -3083,7 +3087,7 @@ __co-opted__ _v_
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
 __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
-__coalesce__ _v_ :pencil2::five::hammer: (coalescing) :es: fundirse  
+__coalesce__ _v_ :pencil2::six: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
 __coaster brakes__  
@@ -3619,6 +3623,7 @@ __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dr
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_ :three: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
+__counteroffensive__ _n_  
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _v_ _Countervailing evidence._  
@@ -5539,6 +5544,7 @@ __explicate__ _v_
 __explication__ _n_  
 __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
 __exploit<sup>2</sup>__ _v_ :mega:  
+__exponent__ _n_ /ik-SPOH-nunt/ Exponent refers to “someone who supports a particular cause or belief” as well as “someone who is known for a particular method or style.” _He was a leading exponent of animal rights._  
 __exposé__ _n_ :two: A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
 __expose__ _v_  
 __expostulate__ _v_ :three::hammer:  
@@ -6674,6 +6680,7 @@ __Generation Xers__
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
 __generic__ _adj, n_ _A generic diet cola._  
+__generous__ _adj_  
 __genetic algorithm__ _n_  
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
@@ -6881,7 +6888,7 @@ __Golden Boot__ _n_ _The race for the Golden Boot._
 __golden parachute__ _n_ An agreement to pay generous compensation to a company executive if dismissed. From the idea of a parachute softening the blow of an ejection from a high office and the color golden alluding to the large payment received on dismissal.  
 __golden rule__  
 __golden__ _adj_ :astonished: __4__ Indicating the fiftieth event of a series.  
-__goldenrod__ _n_  
+__goldenrod__ _n_ :two::hammer:  
 __goldfinch__ _n_ :es: jilguero  
 __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
 __golf course__  
@@ -8031,6 +8038,7 @@ __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The 
 __hymnals__  
 __hyperbole__ _n_ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces.  
 __hyperbolic__ _adj_ :six: Exaggerated.  
+__hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
 __hyperpnea__ _n_ Abnormally deep breathing.  
@@ -8071,7 +8079,7 @@ __icicles__ _n_ :two::hammer:
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __icky__ _adj_ :three::hammer:  
 __iconoclasm__  
-__iconoclast__ _n_ :two: /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
+__iconoclast__ _n_ :three: /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __iconoclastic__  
 __ID window__  
 __id__ _n_  
@@ -8238,6 +8246,7 @@ __inconsequential__ _adj_ :two: Lacking worth or importance. _His work seems tri
 __inconspicuous__ _adj_ :two::hammer:  
 __incontrovertible__ _adj_ :two: Not open to question. _Syn_ indisputable  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
+__increase__ _n_ _The factor of increase._  
 __incrementally__ _adv_ _Make it incrementally better._  
 __incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Every paper which would incriminate him was destroyed before he left the house._  
 __incubus__  
@@ -8370,8 +8379,7 @@ __ins and outs__ _pl n_ :two::hammer:
 __insatiable__ _adj_ _An insatiable learner._  
 __inscribed__ _v_  
 __inscrutable__ _adj_ :four: /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
-__inset<sup>1</sup>__ _v_ :two::hammer:  
-__inset<sup>2</sup>__ _n_  
+__inset<sup>2</sup>__ _n_ :two::hammer:  
 __insidious__  
 __insinuate__ _v_ /in-SIN-yuh-wayt/  
 __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  

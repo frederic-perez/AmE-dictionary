@@ -1,18 +1,3 @@
-__altiloquent__ _adj_ /al-TIL-uh-kwuhnt/ Pompous or pretentious.  
-__Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espresso coffee diluted with hot water.  
-__amethyst__ _n_ :pencil2:  
-__aviary__ _n_ A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
-__bass drum__ _n_  
-__brume__ _n_ /broom/ Fog or mist.  
-__coalesce__ _v_ /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
-__counteroffensive__ _n_  
-__exponent__ _n_ /ik-SPOH-nunt/ Exponent refers to “someone who supports a particular cause or belief” as well as “someone who is known for a particular method or style.” _He was a leading exponent of animal rights._  
-__generous__ _adj_  
-__goldenrod__  
-__hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
-__iconoclast__ _n_  
-__increase__ _n_ _The factor of increase._  
-__inset__ _n_  
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
