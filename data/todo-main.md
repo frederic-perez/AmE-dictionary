@@ -1,4 +1,16 @@
+__altiloquent__ _adj_ /al-TIL-uh-kwuhnt/ Pompous or pretentious.  
+__Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espresso coffee diluted with hot water.  
+__amethyst__ _n_ :pencil2:  
+__aviary__ _n_ A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
+__bass drum__ _n_  
+__brume__ _n_ /broom/ Fog or mist.  
+__coalesce__ _v_ /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
+__counteroffensive__ _n_  
+__exponent__ _n_ /ik-SPOH-nunt/ Exponent refers to “someone who supports a particular cause or belief” as well as “someone who is known for a particular method or style.” _He was a leading exponent of animal rights._  
 __generous__ _adj_  
+__goldenrod__  
+__hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
+__iconoclast__ _n_  
 __increase__ _n_ _The factor of increase._  
 __inset__ _n_  
 __itty-bitty__ _adj_ _informal_ Very small.  
@@ -72,6 +84,7 @@ __labyrinthine__ _adj_
 __lace__ _n_ _Delicate lace._  
 __laced__ _v_ _The brick streets are laced with sculptures._  
 __laceration__ _n_  
+__laconic__ _adj_ /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
 __lacy__ _adj_  
 __Lady Liberty__ _n_ :two::hammer:  
 __Lafayette__ _n_  
@@ -744,6 +757,7 @@ __pushback__ _n_
 __pustule__ _n_  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
 __pylon__ _n_  
+__pyrite__ _n_ _Syn_ fool’s gold  
 __quadragenarian__ _adj, n_  
 __quaff__ _v_  
 __quaffing__ _v_  
@@ -770,6 +784,7 @@ __rambler__ _n_
 __rampant__ _adj_  
 __rampart__ _n_ :two::hammer:  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
+__rancid__ _adj_ /RAN-sid/  
 __rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
 __random forest__  
 __range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode the range an miners searched for gold._  
@@ -893,6 +908,7 @@ __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __ruches__ _n_  
 __ruckus__ _n_  
+__rufescent__ _adj_ /ru-FES-uhnt/ [:scroll::astonished: From Latin rufus (red, reddish)] Reddish.  
 __rugged__ _adj_ :four::hammer: _The rugged trail._  
 __rummage__ _v_  
 __run in__ _n_  
@@ -1021,6 +1037,7 @@ __shaved ice__ _n_ _Glacee flavored shaved ice._
 __sheared__ _adj_ _Sheared mink._  
 __shearing__ _n_ _Sheep shearing._  
 __shearling__ _n_ _Luxurious shearlings._  
+__sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time in a month that a predator had managed to tear through the sheepcotes wire._  
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
@@ -1105,6 +1122,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smorgasbord__ _n_ :two::hammer:  
 __snack__ _v_  
+__snare drum__ _n_  
 __snarky__ _adj_ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowcat__ _n_ :two::hammer:  
 __snowcoach__ _n_ :two::hammer:  
