@@ -90,6 +90,7 @@ __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got 
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolve__ _v_  
 __abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
+__abstract__ _v_  
 __abstruse__ _adj_ :two: /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure. Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__ _adj_ :two::hammer:  
@@ -2160,6 +2161,7 @@ __burkini__
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __Burmese__ _adj, n_  
+__burn-in__ _n_ _A burn-in procedure of 24 hours._  
 __burner phone__ _n_ A prepaid cell phone that is not bound to a contract with a carrier and is usually intended to be disposed of after use.  
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
@@ -3434,6 +3436,7 @@ __constructive__ _adj_ _Constructive criticism._
 __construe__ _v_ :nine: /kun-STROO/ (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ To understand or explain the sense or intention of something in a particular way. _Syn_ explain _The website provides medical information but that information should not be construed as a diagnosis._ __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). To analyze the arrangement and connection of words in a sentence. _The teacher asked the students to construe the Greek philosopher’s statement._ __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultation__ _n_ _Call for a consultation._  
 __consultee__ _n_  
+__consulting__ _n_ :dart:  
 __consumable__  
 __consumer electronics__  
 __consumption__ _n_ __3a__ Tuberculosis. __b__ A progressive wasting away of the body especially from pulmonary tuberculosis.  
@@ -4858,6 +4861,7 @@ __drift__ _n_ :two::hammer: _You get the drift._
 __drifter__ _n_ :seven::hammer:  
 __drifting__  
 __driftwood__ _n_ :two::hammer: _Driftwood logs._  
+__drill down__ _v_  
 __drill<sup>1</sup>__ _n_ :five::hammer:(power tool) _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it’s also to teach something by repeating facts over and over: “I hate math, because my teacher just drills multiplication tables.” _And Gasol drills the ball._  
 __drink and use__  
@@ -5629,7 +5633,7 @@ __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made whi
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
-__failover<sup>1</sup>__ _n_ :three::hammer:  
+__failover<sup>1</sup>__ _n_ :four::hammer:  
 __failover<sup>2</sup>__ _v_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
 __faint__ _adj_ :two::hammer: _Faint irony._  
@@ -8525,15 +8529,16 @@ __italicize__ _v_
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __iteration__ _n_ :mega: /ˌɪt əˈreɪ ʃən/  
 __itinerant__ _adj_  
-__itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
+__itty-bitty__ _adj_ _informal_ :two: Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
-__ivy__ _n_ :five::hammer: :es: hiedra  
+__ivy__ _n_ :six::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :seven: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection, especially of a vaccine: _Have you gotten your flu jab yet?_ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
 __jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
+__jack cheeses__  
 __jack it up__ _v_  
 __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the slang went._  
 __jack-o’-lantern__ _n_ :two::hammer:  
@@ -8543,11 +8548,14 @@ __jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behavior or stupidity.
 __jacket potatoes__ _n_  
 __jackhammer__  
 __jackpot__  
-__jackrabbit__ _n_  
+__jackrabbit<sup>1</sup>__ _n_ :two: /JAK-rab-it/ [:scroll: The word jackrabbit is a misnomer. A jackrabbit is a hare, not a rabbit. It is called a jackrabbit because of its long ears, as if those of a jackass. The metaphorical use is from a jackrabbit’s sudden movement. This has given us the slang “jackrabbit start” meaning a start in which a person accelerates very quickly as a traffic light turns green, maybe even before the light has turned.] Any of various hares having long ears and very long hind legs.  
+__jackrabbit<sup>2</sup>__ _v intr_ To move or begin to move very quickly.  
+__jackrabbit<sup>3</sup>__ _adj_ Moving or beginning to move very quickly.  
+__Jacob’s ladder__ _n_  
 __Jacquerie__ _n_  
 __Jacques__ _n_ :four::hammer: _The onslaught of the Jacques._  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
-__jaded__ _adj_ :four: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
+__jaded__ _adj_ :five: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them. _A jaded traveler._  
 __Jag__ _n_ _informal_ A Jaguar car: often understood as a symbol of affluence.  
 __jagged__ _adj_ :two::hammer:  
 __jagging__  
@@ -8558,8 +8566,9 @@ __jakes__ _n_ _The flattery was seldom more than sheep jakes._
 __jalopy__ _n informal_ A dilapidated old vehicle or aircraft. Old car.  
 __jam up__ _v_  
 __jam__ _v_ :two::hammer:  
+__jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
 __jamb__ _n_ :two::hammer: _(building)_ _Window jamb._  
-__jambalaya__ _n_  
+__jambalaya__ _n_ :two::hammer:  
 __jamboree__ _n_ :four::hammer: _A campfire jamboree._  
 __jammies__ _n_ :two::hammer:  
 __jampacked__ _v_  

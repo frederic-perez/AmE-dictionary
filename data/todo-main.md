@@ -1,18 +1,3 @@
-__abstract__ _v_  
-__burn-in__ _n_ _A burn-in procedure of 24 hours._  
-__consulting__ _n_ :dart:  
-__drill down__ _v_  
-__failover__ _n_  
-__itty-bitty__ _adj_ _informal_ Very small.  
-__ivy__ _n_ :es: hiedra  
-__jack cheeses__  
-__jackrabbit<sup>1</sup>__ _n_ /JAK-rab-it/ [:scroll: The word jackrabbit is a misnomer. A jackrabbit is a hare, not a rabbit. It is called a jackrabbit because of its long ears, as if those of a jackass. The metaphorical use is from a jackrabbit’s sudden movement. This has given us the slang “jackrabbit start” meaning a start in which a person accelerates very quickly as a traffic light turns green, maybe even before the light has turned.] Any of various hares having long ears and very long hind legs.  
-__jackrabbit<sup>2</sup>__ _v intr_ To move or begin to move very quickly.  
-__jackrabbit<sup>3</sup>__ _adj_ Moving or beginning to move very quickly.  
-__Jacob’s ladder__ _n_  
-__jaded__ _adj_ _A jaded traveler._  
-__jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
-__jambalaya__ _n_  
 __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
 __jarring__ _adj_  
 __jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
