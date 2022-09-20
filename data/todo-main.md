@@ -1,3 +1,8 @@
+__abstract__ _v_  
+__burn-in__ _n_ _A burn-in procedure of 24 hours._  
+__consulting__ _n_ :dart:  
+__drill down__ _v_  
+__failover__ _n_  
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
@@ -268,7 +273,7 @@ __microbrew__ _n_ :four::hammer:
 __microdermabrasion__ _n_  
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
-__middleware__ _n_  
+__middleware__ _n_ :two::hammer:  
 __midget race track__  
 __mile high city__  
 __minestrone__ _n_  
@@ -354,6 +359,7 @@ __nameplate__ _n_
 __namesake__  
 __narcissistic__ _adj_ :pencil2:  
 __narrowboat__  
+__nascent__  
 __nativity__ _n_  
 __naughty__ _adj, n_ :mega:  
 __Neapolitan__ _adj, n_ :two::pencil2:  
@@ -1487,6 +1493,7 @@ __turnabout__ _n_
 __turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
 __turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
 __turnip__ _n_  
+__turnkey__ _adj_ _Turnkey solutions._  
 __turntable__ _n_  
 __turntables__ _n_  
 __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
@@ -1533,6 +1540,7 @@ __unscathed__ _adj_
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
 __unwavering__ _adj_  
+__unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
 __unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__  
 __up to now__  
@@ -1541,6 +1549,7 @@ __upholder__ _n_
 __upkeep__ _n_ _Chalkboards did not require much upkeep._  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
+__uptime__ _n_  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __urbane__ _adj_ _Urbane customer._  
 __use case__ _n_  

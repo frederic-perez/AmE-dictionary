@@ -1,4 +1,6 @@
 __(one’s) heart of hearts__  
+__(something) as a service__  
+__bare metal__  
 __batteries included__ _informal_ I a product usability (mostly in software) it states that the product comes together with all possible parts required for full usability. _A batteries include approach._  
 __blow someone away__  
 __blow your stack__  
@@ -18,6 +20,7 @@ __cut down (on something)__ _Cut down on smoking._
 __cut from the same cloth__  
 __duke it out__  
 __everyone can find fault, few can do better__  
+__from the ground up__ _Written from the ground up._  
 __God forbid__  
 __Hail Mary__  
 __have a screw loose__  
@@ -35,6 +38,7 @@ __live up to__ _Classroom technology failed to live up to its promise._
 __long-winded__  
 __look down on (someone or something)__  
 __low-hanging fruit__  
+__make inroads (in/into something)__ _At universities and research institutes, workstations made inroads._  
 __mark my word(s)__  
 __miss the mark__  
 __mix and match__  
@@ -175,7 +179,7 @@ __twofer__
 __uncanny valley__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
-__up and running__  
+__up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up-and-coming__ _Up-and-coming writers and artists._  
 __utterly__  

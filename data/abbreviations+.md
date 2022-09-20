@@ -96,6 +96,7 @@ __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus 
 __LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LZ__ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
+__MAC__  
 __MC__  
 __MDMA__ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
@@ -105,6 +106,7 @@ __MO__ :six: Modus operandi. _With the same MOs._
 __MOS__ :two: Mom over shoulder.  
 __mos.__ Months.  
 __MP__ __1__ Member of Parliament. __2__ Military police.  
+__MPI__ Message passing interface.  
 __MQTT__ Message Queuing Telemetry Transport.  
 __mRNA__ Messenger RNA.  
 __MSG__ Monosodium glutamate. _Always trans-fat free with no added MSG._  
@@ -176,6 +178,7 @@ __Sen.__ (pl. Sens.) _Sen. Bernie Sanders._
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
 __SLA__ Service level agreement.  
 __SMH__ Shaking my head.  
+__SMP__ Shared memory processing.  
 __STI__ :five: Sexually transmitted infection.  
 __SW__ Southwest.  
 __T__ _v_ _His car shit the bed so he’s going to have to T it._  
