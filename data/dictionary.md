@@ -396,6 +396,7 @@ __allocation__ _n_ :two::hammer: _Allocation of resources._
 __allograft__ _n_  
 __allot__ _v_  
 __allotment__ _n_ :two::hammer:  
+__allotriophagy__ _n_ /uh-lah-tree-AH-fuh-jee/ [:scroll: From Greek allotrio- (foreign) -phagy (eating)] An abnormal desire to eat things not usually eaten, such as chalk or clay. _Sun_ pica  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
 __alloy<sup>1</sup>__ _n_  
@@ -1934,6 +1935,7 @@ __brick-a-brack__
 __brickbat__ _n_ :two::hammer:  
 __bridal gown__ _n_  
 __bridesmaid__  
+__bridezilla__ _n_ /bryd-ZIL-uh/ A woman who is overbearing and obnoxious in planning her wedding.  
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__ _n_ :four::hammer:  
@@ -2627,6 +2629,7 @@ __cellophane__
 __Celt__ _n_ (Kelt :mega: /kĕlt/)  
 __celtic<sup>1</sup>__ _n_  
 __celtic<sup>2</sup>__ _adj_ :mega::two::hammer:  
+__cembalo__ _n_ A clavier with strings that are plucked by plectra mounted on pivots. _Syn_ harpsichord _Although the piano is a more versatile instrument with a greater range, some musicians still enjoy playing the cembalo for its distinct sound._  
 __cement bird bath__  
 __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._  
 __censer__ _n_ :two: A container for burning incense.  
@@ -4751,6 +4754,7 @@ __doubtless__ _adj, adv_ :two::hammer:
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
+__doughty__ _adj_ Marked by stouthearted courage; brave.  
 __dour__ _adj_ :six: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
@@ -5395,7 +5399,7 @@ __ergomania__ _n_ An excessive desire to work or exercise.
 __ermine__ _n_  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
-__ersatz__ _adj_ :three: __1__ Being a usually inferior imitation or substitute; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ __2__ Not genuine; fake.  
+__ersatz__ _adj_ :four: __1__ Being a usually inferior imitation or substitute; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ __2__ Not genuine; fake.  
 __erstwhile__ _adj_ :seven::hammer:  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _v_ :two::hammer: (erupted)  
@@ -7474,7 +7478,7 @@ __Hawthorne effect__ _n_ [:scroll: After Hawthorne Works, a factory complex of t
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _slang_ :three: A powerful blow with the fist.  
 __hayride__ _n_ :two: A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
-__haywire__ _adj_ :four::hammer: _To go haywire._  
+__haywire__ _adj, adv_ :five: /HAY-wyre/ Haywire means “being out of order or having gone wrong” or “emotionally or mentally upset or out of control.” It is often used in the phrase “go haywire.” _The company’s emailing system went haywire and sent out multiple copies of the advertisement to its subscribers._  
 __hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
 __hazardous__ _adj_ :two::mega::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
@@ -8573,6 +8577,7 @@ __jamboree__ _n_ :four::hammer: _A campfire jamboree._
 __jammies__ _n_ :two::hammer:  
 __jampacked__ _v_  
 __jams__ _n_  
+__Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
 __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._  
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
@@ -8585,11 +8590,13 @@ __jar<sup>1</sup>__ _n_ _An opened jar of olives._
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jardiniere__ _n_ __2__ A garnish for meat consisting of several cooked vegetables cut into pieces.  
 __jarhead__ _n_ _slang_ A US Marine.  
-__jarring__ _adj_ :five: Surprising, or slightly shocking.  
+__jarring__ _adj_ :six: Surprising, or slightly shocking.  
+__jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
-__jaunt__ _n_ :two::hammer:  
-__jaunty__ _adj_ :nine::m: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaunt__ _n_ :eight::hammer:  
+__jaunty__ _adj_ :nine::m: /JAWN-tee/ Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__javelin__ _n_ :mega:  
 __jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jay__ _n_  
@@ -8609,7 +8616,7 @@ __jelly glass__
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
 __Jenga__ _n_ (trademark) [:scroll: From the Swahili verb -jenga (“to construct, to build”)] __1__ A game where players take turns to remove wooden blocks from a stack formed brickwise, the loser being the player whose actions cause the tower to fall. __2__ (figuratively) Any activity that involves great precision with a risk of great failure.  
-__jeopardize__ _v_ :two: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
+__jeopardize__ _v_ :three: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __jerboa__ _n_ (jerboas)  
 __jeremiad__ _n_ :two::astonished: A long mournful lamentation or complaint.  
@@ -8636,6 +8643,7 @@ __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-e
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
 __jilt__ _v_ :six: (jilted) To deceive or drop (a lover) suddenly or callously. _Syn_ forsake _Since being jilted by his fiancée, he had grown to distrust all women._ _Jilted at the altar._  
+__jilted__ _adj_ Rebuffed (by a lover) without warning.  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  

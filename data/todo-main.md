@@ -1,18 +1,3 @@
-__allotriophagy__ _n_ /uh-lah-tree-AH-fuh-jee/ [:scroll: From Greek allotrio- (foreign) -phagy (eating)] An abnormal desire to eat things not usually eaten, such as chalk or clay. _Sun_ pica  
-__bridezilla__ _n_ /bryd-ZIL-uh/ A woman who is overbearing and obnoxious in planning her wedding.  
-__cembalo__ _n_ A clavier with strings that are plucked by plectra mounted on pivots. _Syn_ harpsichord _Although the piano is a more versatile instrument with a greater range, some musicians still enjoy playing the cembalo for its distinct sound._  
-__doughty__ _adj_ Marked by stouthearted courage; brave.  
-__ersatz__ _adj_  
-__haywire__ _adj, adv_ /HAY-wyre/ Haywire means “being out of order or having gone wrong” or “emotionally or mentally upset or out of control.” It is often used in the phrase “go haywire.” _The company’s emailing system went haywire and sent out multiple copies of the advertisement to its subscribers._  
-__Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
-__jarring__ _adj_  
-__jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
-__jaunt__ _n_ :six::hammer:  
-__jaunty__ _adj_ /JAWN-tee/ Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._  
-__javelin__ _n_ :mega:  
-__jazzed__  
-__jeopardize__ _v_  
-__jilted__ _adj_ Rebuffed (by a lover) without warning.  
 __jingoism__ _n_ /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
