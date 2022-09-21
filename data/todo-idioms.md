@@ -13,6 +13,8 @@ __break into a smile__ To start smiling. _Even though she scolded me for disrupt
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
 __bucket list__ _That’s one of my bucket list items._  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
+__bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
+__burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
 __burn your bridges__  
 __catch one’s breath__  
 __come to grips__  
@@ -50,6 +52,7 @@ __on (one’s) plate__
 __on a lark__  
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on the face of it__ _That seems totally bizarre on the face of it._  
+__on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
 __on the sidelines__  
 __on the upswing__  
 __on thin ice__  
