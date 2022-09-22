@@ -1,18 +1,3 @@
-__jingoism__ _n_ /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
-__joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
-__John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
-__John Q. Public__ _n_ (John Q., John Q. Citizen)  
-__jolly__  
-__Jones<sup>1</sup>__ _n_ __1__ One’s neighbors or social equals. Typically used in the phrase: _keeping up with the Joneses._ __2__ An addiction or craving, especially for drugs.  
-__Jones<sup>2</sup>__ _v intr_ To have an intense longing.  
-__jostle__ _v_  
-__jouster__ _n_  
-__juke__ _v_  
-__junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
-__Juneteenth__ _n_ :two::hammer:  
-__juniper__ _n_ _Juniper is the basis for any gin._  
-__junket__ _n_ /JUNK-ut/ __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
-__junkjard__ _n_  
 __jury__ _v_ (juried) _Juried art events._  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
 __jut__ _v_ (jutting)  

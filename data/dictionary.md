@@ -8649,7 +8649,7 @@ __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._
 __jimmied__ _v_ :two::hammer:  
 __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_  
 __jingle<sup>2</sup>__ _n_ :two::hammer:  
-__jingoism__ _n_ :three::hammer:  
+__jingoism__ _n_ :four: /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __jingoistic__ _adj_ Militantly nationalistic or chauvinistic.  
 __jink<sup>1</sup>__ _v_ _Jinked left._  
 __jink<sup>2</sup>__ _n_  
@@ -8670,7 +8670,10 @@ __jocular__
 __jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
 __jodhpurs__ _n_  
 __jody__ _n_ _He often complained about his wife’s jody._  
+__joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __John Doe__  
+__John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
+__John Q. Public__ _n_ (John Q., John Q. Citizen)  
 __johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
 __joint__ _n_ A prison, a jail.  
 __joists__  
@@ -8679,17 +8682,20 @@ __jokester__ _n_ One who tells or plays jokes; a joker.
 __jollification__ _n_ :two: Festivity; revelry.  
 __jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
-__jolly__ _adj_ :six::hammer: _Jolly handshakes._  
+__jolly__ _adj_ :seven::hammer: _Jolly handshakes._  
 __jolt<sup>1</sup>__ _n_ :five::hammer: _A spending jolt by the military government._ _It was a jolt of good news._ _Find a quick jolt of happiness!_  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
+__Jones<sup>1</sup>__ _n_ __1__ One’s neighbors or social equals. Typically used in the phrase: _keeping up with the Joneses._ __2__ An addiction or craving, especially for drugs.  
+__Jones<sup>2</sup>__ _v intr_ To have an intense longing.  
 __jonesing__ _v_ :two::hammer:  
 __jongleur__ _n_ An itinerant medieval entertainer proficient in juggling, acrobatics, music, and recitation.  
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
-__jostle__ _v_ :eight::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
+__jostle__ _v_ :nine::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
 __journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
 __joust<sup>1</sup>__ _n_ :two: A combat on horseback between two knights with lances especially as part of a tournament. _The rules of heraldry and jousting._  
 __joust<sup>2</sup>__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
+__jouster__ _n_  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ _adj_ :three::hammer: /JOH-vee-ul/  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
@@ -8709,7 +8715,8 @@ __juice box__ _n_ :camera: A small disposable carton containing a single serving
 __juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ _adj_ :two::hammer:  
 __jujitsu__ _n_  
-__juke__ _n_ _I was looking in my mirror and saw him juke to the right._  
+__juke<sup>1</sup>__ _n_ _I was looking in my mirror and saw him juke to the right._  
+__juke<sup>2</sup>__ _v_  
 __julep__ _n_ :three::hammer: (juleps)  
 __julienne<sup>1</sup>__ _n_ Consommé or broth garnished with long thin strips of vegetables.  
 __julienne<sup>2</sup>__ _adj_ Cut into long thin strips: _julienne potatoes._  
@@ -8729,18 +8736,19 @@ __jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak batte
 __jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery is dead) by connecting it to another car’s battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
 __jumpsuit__ _n_ :two::hammer:  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
-__junction__ _n_ _Conjunction junctions._  
+__junction__ _n_ :two::hammer: _At 1st junction turn R & head to E to Hapton on Burnley Road._ _Conjunction junctions._  
 __juncture__ _n_ :six: A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
-__Juneteenth__ _n_ :two: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
+__Juneteenth__ _n_ :four: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
 __juniper berries__  
-__juniper__  
+__juniper__ _n_ :two::hammer: _Juniper is the basis for any gin._  
 __junk food__ _n_ _slang_ A high-calorie food that is low in nutritional value.  
 __junk<sup>1</sup>__ _n_ _The “don’t touch my junk” uproar over intrusive TSA pat-downs._  
 __junk<sup>2</sup>__ _v_ :two::hammer: (junked) _Google is junking the app Google+._  
 __junker__  
-__junket__ _n_ _informal_ :three: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
+__junket__ _n_ /JUNK-ut/ :five: __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._ _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
 __junkie__ _n_ _He was a news junkie._  
+__junkyard__ _n_  
 __Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
 __junta__ _n_ :three::hammer:  
 __jurisprudence__ _n_  
