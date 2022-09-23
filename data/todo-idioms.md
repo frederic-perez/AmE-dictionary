@@ -1,18 +1,3 @@
-__bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
-__burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
-__burn your bridges__  
-__catch one’s breath__  
-__come to grips__  
-__cut down (on something)__ _Cut down on smoking._  
-__cut from the same cloth__  
-__duke it out__  
-__everyone can find fault, few can do better__  
-__from the ground up__ _Written from the ground up._  
-__God forbid__  
-__Hail Mary__  
-__have a screw loose__  
-__have bats in the belfry__  
-__in (one’s) book__  
 __in their own right__  
 __keep a close eye on (someone or something)__  
 __keep an eye out__  

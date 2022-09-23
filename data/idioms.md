@@ -495,9 +495,11 @@ __build bridges__
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
 __bull in a china shop__ :two: A clumsy person.  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
+__bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __burn the candle at both ends__ To work or study day and night.  
 __burn the midnight oil__ To work late into the night.  
-__burn your bridges__ To destroy all possible ways of going back to a situation.  
+__burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
+__burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
 __bust out__ _She clearly has something busting out._  
 __but for (someone)__ Except for someone; if not for someone. _But for the support of my friends, I never would have survived that difficult time._  
 __but for (something)__ Except for something; if not for something. _That major home repair would have sent me into debt but for my emergency fund._  
@@ -563,7 +565,7 @@ __catch (the) headlines__ To be featured on the headlines of news articles, as d
 __catch a snooze__ To sleep or take a nap, especially of a short duration.  
 __catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
-__catch one’s breath__ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
+__catch one’s breath__ :two: To pause or rest before continuing an activity or beginning a new one; resume regular breathing: _Let me catch my breath before I begin anything new._  
 __catch onto (something)__  
 __catch some Zs__ To go to sleep, to take a nap.  
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
@@ -632,6 +634,7 @@ __come to a close__ _The fifty-year reign of incessant warring was coming to a c
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__  
+__come to grips__  
 __come to terms with (someone or something)__ :seven::hammer:  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
@@ -683,7 +686,8 @@ __cuss a blue streak__ To use profane language with great rapidity and intensity
 __cut (one) some slack__  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ To do something in the easiest or most inexpensive way.  
-__cut from the same cloth__ To be very similar.  
+__cut down (on something)__ _Cut down on smoking._  
+__cut from the same cloth__ :two: To be very similar.  
 __cut from whole cloth__ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being “cut out of whole cloth,” when in reality, they were pieced together from different cuts.  
 __cut it close__ To do or complete something very near to its limit, especially of time.  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
@@ -788,6 +792,7 @@ __drop a bombshell__ To announce shocking news.
 __drop by__  
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop the ball__ :two: To make a mistake, to fail.  
+__duke it out__  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
@@ -820,6 +825,7 @@ __every other__ :three: Every second one in a series, as in _I’m supposed to t
 __every rose has its thorn__ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ Every individual person or item within a group, without exception.  
 __every so often__ _adv_ :three: Sometimes; occasionally. _Every so often she visits her father._  
+__everyone can find fault, few can do better__  
 __everything humanly possible__ Everything that is in the range of human powers. _The rescuers did everything humanly possible to find the lost campers._ _The doctor tried everything humanly possible to save the patient._  
 __excuse my French__  
 __exert (oneself)__ To make a concerted effort to do something. Put oneself to strenuous effort.  
@@ -941,6 +947,7 @@ __Friendsgiving__ A Thanksgiving celebration among friends. It often takes place
 __from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from bad to worse__  
 __from rags to riches__ From being poor to being wealthy.  
+__from the ground up__ _Written from the ground up._  
 __from time to time__  
 __front and center__ :four::hammer:  
 __frost the cake__  
@@ -1092,6 +1099,7 @@ __go under the hammer__ :two: To be put up for or sold at auction.
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go wrong__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
+__God forbid__  
 __God is in the detail(s)__ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
@@ -1157,6 +1165,7 @@ __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally d
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so.  
 __H-E-double-hockey-sticks__ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __haha__ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as “ha ha” or “ha-ha.” Greater degrees of laughter or humor can be represented by more instances of “ha.”  
+__Hail Mary__  
 __hair-splitting__  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __half-baked__  
@@ -1222,11 +1231,13 @@ __have a mountain to climb__ To have an extremely difficult, seemingly impossibl
 __have a nodding acquaintance (with someone or something)__ To have a slight or precursory knowledge of someone or something. _Ruth and I had only a nodding acquaintance before going to the party, but once we got talking, it was like we’d been friends our whole lives._  
 __have a point (there)__ _He’s got a point._  
 __have a say (in something)__ :two: To have an active and participatory role in making or influencing a decision about something. _He has a say in the matter._  
+__have a screw loose__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person.  
 __have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve.  
 __have a yen for (something)__ To have a very strong and persistent desire or craving for something.  
 __have a/the wolf by the ear(s)__ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
+__have bats in the belfry__  
 __have bigger fish to fry__ :two: To have more important things to do.  
 __have butterflies on one’s stomach__  
 __have done with (someone or something)__ To be finished with someone or something; to cease being involved with someone or something.  
@@ -1401,6 +1412,7 @@ __if only__
 __if the shoe fits, wear it__ If a description applies to you, then accept it.  
 __if you will__ :four: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __in (one’s) best interest__  
+__in (one’s) book__  
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __in (one’s) dotage__ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
