@@ -1,18 +1,3 @@
-__jury__ _v_ (juried) _Juried art events._  
-__jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
-__jut__ _v_ (jutting)  
-__juvenile__  
-__K-pop__ _n_ _The characteristic pop music of South Korea._  
-__kachina__ _n_  
-__kale__ _n_  
-__kangaroo word__  
-__kaput__  
-__kayak__ _v_  
-__kayaking__  
-__kazoo__ _n_  
-__keiretsu__ _n_  
-__keno__ _n_ A game of chance, similar to lotto, that uses balls rather than counters.  
-__ketamine__ _n_ (Special K)  
 __kiddo__ _n_ _Bring the kiddos._  
 __kiln__ _n_  
 __kiosk__ _n_ _Information kiosks._  

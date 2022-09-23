@@ -8754,32 +8754,38 @@ __junta__ _n_ :three::hammer:
 __jurisprudence__ _n_  
 __juror__ _n_ :mega: (jurors)  
 __jury box__ _n_ An enclosure where the jury sit in court.  
+__jury__ _v_ (juried) _Juried art events._  
 __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
-__jus__  
+__jus__ _n_ :two::hammer: _Cookery_ A sauce. _Verbena jus._  
 __just__ _adj_ _The punishments were fair, just and appropriate._  
 __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
-__jut__ _v_ :four::hammer: (jutted, jutting)  
+__jut__ _v_ :five::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
-__juvenile<sup>2</sup>__ _n_ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._  
+__juvenile<sup>2</sup>__ _n_ :three::hammer: _Starship Soldier was a juvenile written by Heinlein._  
 __juxtapose__ _v_ /JUK-stuh-pohz/ To place (different things) side by side (as to compare them or contrast them or to create an interesting effect). _The committee juxtaposed the proposals for the new student center, trying to determine which would better meet the needs of the university._  
 __juxtaposition__ _n_  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
-__K-pop__  
+__K-pop__ _n_ :two::hammer: _The characteristic pop music of South Korea._  
 __kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
 __kabobs__  
 __kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
 __kabuki__ _n_ :three::hammer:  
+__kachina__ _n_  
 __kaffeeklatsch__ _n_  
 __Kafkaesque__ _adj_  
-__kale__ _n_ :five::hammer:  
+__kale__ _n_ :six::hammer:  
 __kamikaze__ _n_ :mega:  
-__kangaroo word__ _n_  
+__kangaroo word__ _n_ :two::hammer:  
+__kaput__  
 __karate__ _n_ [:scroll: A Japanese discipline whose name literally translates as “empty hand.”]  
 __karmic__ _adj_ _Karmic balance._  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __Katy__ _n_ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
+__kayak__ _v_  
+__kayaking__  
 __kazillion__ _n informal_ An indefinitely large number.  
+__kazoo__ _n_  
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to “bold and brave” and while the spelling is now really different, the sounds are similar. Variations of keen as being “bold” and “strong” show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of “sharp” — relating to “an edge or blade.” Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
@@ -8789,14 +8795,16 @@ __keep__ _n_ :es: torreón
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
 __kegger__ _n_  
+__keiretsu__ _n_  
 __kelp__  
 __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
 __kennel__ _n_ :two::hammer:  
-__keno__ _n_  
+__keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
 __kerchief__ _n_  
 __kerfuffle__ _n_ :two: (kerkuffles) _informal_ _chiefly Brit_ A disturbance or commotion typically caused by a dispute or conflict. _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __kersey__ _n_  
 __keseboy__  
+__ketamine__ _n_ (Special K)  
 __kettledrum__ _n_ :es: timbal  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keylogger__ _n_ A software program or hardware device that records or transmits a user’s keystrokes, and in some cases periodic screen shots, and is usually installed without the user’s knowledge.  
