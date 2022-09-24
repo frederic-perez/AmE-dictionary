@@ -8829,7 +8829,7 @@ __kicks__ _n_ Pleasures, thrills.
 __kid around__ _phr v_ To have fun by acting in a silly way.  
 __kid<sup>1</sup>__ _n_ :two::astonished: __1a__ A young goat. _Roasted kid._ __b__ One of the young of certain similar animals. __3__ _Informal_ __a__ A child. __b__ A young person. _I was a Nintendo kid._  
 __kid<sup>2</sup>__ _v_  
-__kiddo__  
+__kiddo__ _n_ :two::hammer: _Bring the kiddos._  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
 __kike__ _n_ _Offensive slang_ Used as a disparaging term for a Jew. _Kike names._  
 __kiki__  
@@ -8840,7 +8840,7 @@ __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds.
 __killer bees__  
 __killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
 __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
-__kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
+__kiln__ _n_ :two: A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kin__  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
 __kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
@@ -8861,18 +8861,22 @@ __kinsfolk__ _n pl_ One’s family or relatives.
 __kinship__ _n_ :two::hammer:  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
-__kiosk__ _n_ :camera::two::hammer: _Automated Passport Control kiosks._ _Target’s in-store registry kiosks._  
+__kiosk__ _n_ :camera::three::hammer: _Automated Passport Control kiosks._ _Target’s in-store registry kiosks._ _Information kiosks._  
 __kip__ _n_ __5__ (kĭp-up) A maneuver in gymnastics, martial arts, and similar sports in which a person moves from lying on the back directly to a standing position by thrusting the legs upward and pushing off with hands placed palms-down near the ears.  
+__kipper__ _n_  
 __kirtle__ _n_ :five::hammer: (kirtles)  
 __kischy__  
 __kismet__ _n_ :three: Fate, fortune.  
 __kiss-and-tell__ _adj_ _informal_ Disclosing private or confidential information, especially in a firsthand account: _a kiss-and-tell memoir by a presidential aide._  
+__kitchen garden__  
 __kitchen range__  
+__kitchenette__ _n_ :pencil2:  
 __kitchenware__  
 __kite__ _n_ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kites__ _n_  
 __kitsch__ _n_ :two::pencil2: /KITCH/ Something that appeals to popular or lowbrow taste and is often of poor quality. _Kitsch and tacky but collectable items can be found at the flea market._  
 __kitten__  
+__kiva__ _n_ _A Native American kiva._  
 __kiwi__  
 __kleptocracy__ _n_ :three: /ˌklɛpˈtɒkrəsɪ/ (cleptocracy) A government characterized by rampant greed and corruption.  
 __klutz__ _n_ :three::hammer:  
@@ -8888,11 +8892,13 @@ __knee__ _n_ :mute:[~~k~~nee]
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__ _v_ :three::hammer: (kneecapping)  
 __knell__ _n_ :three::hammer:  
+__knick-knack__ _n_  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
 __knife__ _n, v_ :mute:[~~k~~nife]  
 __knight__ _n_ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
+__knitter__ _n_  
 __knob__ _n_ __4__ _taboo Brit_ A slang word for penis. _Swallow my knob._  
 __knobbed__ _v_  
 __knock around__ _phr v_ To spend time with someone because you are friends.  
@@ -8904,12 +8910,13 @@ __knockoff__
 __knockout<sup>1</sup>__ _n_  
 __knockout<sup>2</sup>__ _adj_ :two::hammer: _A knockout series._ _A knockout redhead._  
 __knockusing__  
+__knockwurst__ _n_  
 __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
 __knot__ _n, v_ :mute:[~~k~~not]  
 __knotty__  
 __know__ _v_ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
-__knowledgeable__ _adj_  
+__knowledgeable__ _adj_ :three::hammer:  
 __knuckle duster__ _n_ A small metal weapon; worn over the knuckles on the back of the hand. _Thugs armed with a knuckle duster._  
 __knuckle__ _n, v_ :mute:[~~k~~nuckle]  
 __knuckleball__ _n_ :two: A throw in baseball that flies in an erratic way and is difficult to hit well because the pitcher holds the ball between the fingertips or knuckles.  
@@ -8918,16 +8925,18 @@ __knurled__ _v_ :two::hammer:
 __KO<sup>1</sup>__ _n_ A knockout in boxing.  
 __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock out.  
 __Kodiak__  
+__koi pond__ _n_ Ponds used for holding koi carp, usually as part of a garden.  
 __koi__ _v_  
+__koinobori__ _n_ [:scroll: In Japanese, _carp streamer_]  
 __koinonia__  
 __kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
-__kooky__ _adj_ _slang_ :three: Crazy, mentally unbalanced. Characteristic of a kook; strange or crazy.  
+__kooky__ _adj_ _slang_ :five: Crazy, mentally unbalanced. Characteristic of a kook; strange or crazy.  
 __Kool-Aid__  
 __Kosher salt__  
 __kosher<sup>1</sup>__ _n_ _informal_  
 __kosher<sup>2</sup>__ _adj_ :three: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. _Is it kosher to wear jeans in the office?_ __b__ Genuine; authentic.  
-__kowtow__ _v_ :four::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
+__kowtow__ _v_ :five::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
 __kroop__  

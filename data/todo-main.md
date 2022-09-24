@@ -1,18 +1,3 @@
-__kiddo__ _n_ _Bring the kiddos._  
-__kiln__ _n_  
-__kiosk__ _n_ _Information kiosks._  
-__kipper__ _n_  
-__kitchen garden__  
-__kitchenette__ _n_ :pencil2:  
-__kiva__ _n_ _A Native American kiva._  
-__knick-knack__ _n_  
-__knitter__ _n_  
-__knowckwurst__ _n_  
-__knowledgeable__ _adj_ :two::hammer:  
-__koi pond__ _n_ Ponds used for holding koi carp, usually as part of a garden.  
-__koinobori__ _n_ [:scroll: In Japanese, _carp streamer_]  
-__kooky__ _adj_ :two::hammer:  
-__Kowtow__  
 __kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
 __kung flu__ _n_ Racist name for the COVID-19 coronavirus.  
 __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
