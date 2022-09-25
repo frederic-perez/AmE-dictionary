@@ -1,18 +1,3 @@
-__in their own right__  
-__keep a close eye on (someone or something)__  
-__keep an eye out__  
-__keep tab(s) on__  
-__keep up with (someone or something)__  
-__key into (something)__  
-__lessons learned__  
-__let alone__ :two::hammer:  
-__live up to__ _Classroom technology failed to live up to its promise._  
-__long-winded__  
-__look down on (someone or something)__  
-__low-hanging fruit__  
-__make inroads (in/into something)__ _At universities and research institutes, workstations made inroads._  
-__mark my word(s)__  
-__miss the mark__  
 __mix and match__  
 __money doesn’t grow on trees__ Money should not be wasted because it is not something that can be replenished whenever one wants. _I can’t believe you would spend your entire allowance on a silly video game. Money doesn’t grow on trees, you know!_  
 __much ado about nothing__  
