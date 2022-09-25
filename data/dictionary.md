@@ -8940,54 +8940,64 @@ __kowtow__ _v_ :five::astonished: (kowtowing) The word kowtow derives from Chine
 __krauts__  
 __krinkled__  
 __kroop__  
+__kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
 __kts__ _n pl_ :two: Plural of knot (unit), a unit of speed equal to one nautical mile per hour.  
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kumquat__ _n_  
+__kung flu__ _n_ Racist name for the COVID-19 coronavirus.  
 __kurtosis__ _n_  
 __kvell__ _v intr_ :pencil2: _slang_ To be extraordinarily pleased; esp., to be bursting with pride, as over one’s family. To be happy or show satisfaction. _The parents kvelled over their daughter’s dance solo._  
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone’s shape and strength.  
 __L-plate__ _n_ _He saw the L-plate on the back of the car._  
+__La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
 __Labrador__  
 __labrum__  
+__labyrinthine__ _adj_  
 __lace up__ _v_ _Adam laced up his Nikes._  
-__lace__ _n_  
-__laced__ _v_ _I have laced a few punters._  
+__lace__ _n_ :two::hammer: _Delicate lace._  
+__laced__ _v_ :two::hammer: _I have laced a few punters._ _The brick streets are laced with sculptures._  
 __lacerate__ _v_  
+__laceration__ _n_  
 __lachrymose__ _adj_ :two::pencil2::hammer:  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :six::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
-__laconic__ _adj_ :four: Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._  
+__laconic__ _adj_ :five: /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._ _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
 __lacustrine__ _adj_  
-__lacy__ _adj_ :two: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
+__lacy__ _adj_ :three: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
 __laddie__  
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
 __lading__ _n_ _Checking bills of lading._  
+__Lady Liberty__ _n_ :two::hammer:  
 __lady of Shalott__  
 __lady-in-waiting__ _n_ A lady who is in attendance upon a queen or princess.  
 __lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
 __ladybird__ _n_  
 __ladyfinger cookies__  
+__Lafayette__ _n_  
 __lag__ _v_ :three::hammer: (lags)  
 __laggard<sup>1</sup>__ _adj_ :four::hammer:  
 __laggard<sup>2</sup>__ _n_ :three: Someone who takes more time than necessary; someone who lags behind. _Syn_ dawdler, trailer, poke _He was such a laggard that his friends were already paying the bill by the time he reached the café._  
 __lagged__  
+__laggy__ _adj_  
 __lagoon__ _n_ _The Venetian lagoon._  
 __lahar__ _n_ :three: An avalanche of volcanic water and mud down the slopes of a volcano.  
 __laid back attitude__  
+__laid-back__ _adj_ :three::hammer: _A fun and laid-back casino._ _A laid-back atmosphere._  
 __lain__  
 __lair__ _n_ :four::hammer: _A tiger’s lair._ _Like a coyote sleeping in its lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
+__Lalique__  
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _v_  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
@@ -8997,6 +9007,7 @@ __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office d
 __lame__ _adj_ :two::hammer: _Lame excuse._  
 __laminate__ _v_ :two::hammer: :es: plastificar  
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
+__lamp shade__ _n_  
 __lampoon<sup>1</sup>__ _n_  
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lamppost__ _n_  

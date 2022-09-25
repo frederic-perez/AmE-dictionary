@@ -1,18 +1,3 @@
-__kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
-__kung flu__ _n_ Racist name for the COVID-19 coronavirus.  
-__La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
-__labyrinthine__ _adj_  
-__lace__ _n_ _Delicate lace._  
-__laced__ _v_ _The brick streets are laced with sculptures._  
-__laceration__ _n_  
-__laconic__ _adj_ /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
-__lacy__ _adj_  
-__Lady Liberty__ _n_ :two::hammer:  
-__Lafayette__ _n_  
-__laggy__ _adj_  
-__laid-back__ _adj_ :three::hammer: _A fun and laid-back casino._ _A laid-back atmosphere._  
-__Lalique__  
-__lamp shade__ _n_  
 __lampoon__ _n_ :two::hammer: _All get a solid lampooning._  
 __lamppost__ _n_  
 __landline__ _n_ (phone)  
