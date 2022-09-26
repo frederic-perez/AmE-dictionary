@@ -9008,9 +9008,9 @@ __lame__ _adj_ :two::hammer: _Lame excuse._
 __laminate__ _v_ :two::hammer: :es: plastificar  
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lamp shade__ _n_  
-__lampoon<sup>1</sup>__ _n_  
+__lampoon<sup>1</sup>__ _n_ :three::hammer: _All get a solid lampooning._  
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
-__lamppost__ _n_  
+__lamppost__ _n_ :two: A post supporting a street lamp.  
 __lamprey__ _n_  
 __lance__ _v_ :two::astonished::hammer: (lanced)  
 __lanceolate__ _adj_ Tapering from a rounded base toward an apex. _Syn_ lancelike _The bush had lanceolate leaves with sharp tips that could sting unwary passersby._  
@@ -9021,6 +9021,7 @@ __land__ _v_ _Thanksgiving this year lands on November 25._
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
 __landform__ _n_ One of the features that make up the earth’s surface, such as a plain, mountain, or valley.  
+__landline__ _n_ (phone)  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
 __landmark__ _adj_ _A landmark case in 1983._  
@@ -9035,21 +9036,24 @@ __lanky__ _adj_ :five::hammer:
 __lantanas__ _n_  
 __lanyard__ _n_ _He reached up and pulled a lanyard, sounding four loud short blasts on the whistle [of the locomotive]._  
 __Laotian__  
-__lap pool__  
+__lap pool__ _n_ :two: A swimming pool in the shape of a rectangle with narrow width and extended length, designed for swimming back and forth along the length in order to practice laps.  
+__lap__ _v_ :astonished: _Vampire bats feed by lapping the blood of their prey through small cuts made with their razor sharp incisor teeth._  
 __lap<sup>1</sup>__ _n_ _The project’s amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
 __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
 __laped pin__  
 __lapel__ _n_  
 __lapidify__ _v_  
+__Lapland__ _n_  
+__Laponia__ _n_  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
 __larceny__ _n_ :eight: Theft of personal property. :es: hurto  
-__larder__ _n_ :four::hammer:  
+__larder__ _n_ :five::hammer:  
 __largely__ _adv_ :three: To a large extent; mostly.  
-__larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
+__larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largesse__ _n_ :seven::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
@@ -9058,7 +9062,7 @@ __lascivious__ _adj_ Given to or expressing lust; lecherous. _Syn_ libidinous, l
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
-__lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
+__lashing__ _n_ :three::hammer: _Gooey cheese and lashings of sour cream._ _A toasted muffin with serious lashings of Hollandaise sauce._  
 __lassitude__ _n_ :four: A state or feeling of weariness, diminished energy, or listlessness. Tiredness and a lack of energy. _Syn_ lethargy, sluggishness _Her rapid footsteps shook her own floors, and she routed lassitude and indifference wherever she came._  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
@@ -9071,6 +9075,7 @@ __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)
 __latchkey__  
 __latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
 __later on__ _adv_  
+__lateral thinking__  
 __latex__ _n_ :mega:  
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
@@ -9084,7 +9089,7 @@ __Latinx__ _adj_
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __latrine__ _n_  
 __latte__ _n_ A caffe latte.  
-__laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.  
+__laud<sup>1</sup>__ _v_ :three: (lauded) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laudable__  
 __laudation__ _n_ The act of lauding; praise.  
@@ -9093,10 +9098,11 @@ __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television 
 __laughing very hard__  
 __laughingstock__  
 __launch__ _v_ _Launching the projectile/friend._  
+__launder__ _v_  
 __laureate__  
 __laurels__  
 __lave__ _v_ (laved)  
-__lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._  
+__lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._ _A lavish castle surrounded by 600 acres of state._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
 __lavishly__ _adv_ :three::hammer:  
 __law and order__  

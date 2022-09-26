@@ -1,18 +1,3 @@
-__lampoon__ _n_ :two::hammer: _All get a solid lampooning._  
-__lamppost__ _n_  
-__landline__ _n_ (phone)  
-__lap pool__ _n_  
-__lap__ _v_ :astonished: _Vampire bats feed by lapping the blood of their prey through small cuts made with their razor sharp incisor teeth._  
-__Lapland__ _n_  
-__Laponia__ _n_  
-__laquer__ _n_  
-__larder__ _n_  
-__larger-than-life__ _adj_  
-__lashing__ _n_ _A toasted muffin with serious lashings of Hollandaise sauce._  
-__lateral thinking__  
-__lauded__ _v_  
-__launder__ _v_  
-__lavish__ _adj_ :three::hammer: _A lavish castle surrounded by 600 acres of state._  
 __lease__ _n_  
 __leasing__ _n_  
 __leatherware__ _n_  
