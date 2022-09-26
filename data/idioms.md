@@ -1903,13 +1903,13 @@ __miss the cut__ In golf, to fail to match or better the score necessary to rema
 __miss the mark__ :two: To be slightly or somewhat mistaken, incorrect, or inaccurate. _I believe your statements about the city’s homelessness problem have rather missed the mark._  
 __miss the point__ :two::hammer:  
 __mission creep__ The gradual expansion or widening in scope of a project, action, or task, especially a military operation, beyond its initial goal or objective. _Congress is wary of granting the president’s request for military authority in the region, fearing a repeat of the mission creep that plagued his last war effort._  
-__mix and match__ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
+__mix and match__ :two: To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ To combine or compare two different things.  
 __mixed bag__  
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
 __Monday morning quarterback__  
-__money doesn’t grow on trees__ Money should not be wasted because it is not something that can be replenished whenever one wants.  
+__money doesn’t grow on trees__ :two: Money should not be wasted because it is not something that can be replenished whenever one wants. _I can’t believe you would spend your entire allowance on a silly video game. Money doesn’t grow on trees, you know!_  
 __money laundering__ :two: The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally. The criminal act or practice of processing large amounts of money obtained through illegitimate or illegal means, often in small increments through banks or other legitimate businesses, so as to conceal its source or origins. _One of the clubs downtown was shut down last week on charges of suspected money laundering for a local criminal enterprise._  
 __money pit__ :three: A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
 __money talks__ Rich people can get what they want.  
@@ -1927,6 +1927,7 @@ __move heaven and earth__ To do everything that one can to make something happen
 __move the needle__ :two::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
+__much ado about nothing__  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mull over__ :dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
@@ -1992,6 +1993,7 @@ __not in a month of Sundays__ Not at any point; under absolutely no circumstance
 __not know (any) better__  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
+__not on my watch__  
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
 __not to mention__ :two::hammer:  
@@ -2015,6 +2017,7 @@ __of a kind__ _You are two of a kind._
 __of late__ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __of no account__ :two: Of no or very little importance, significance, or worth. _Sure, his writing is OK, but he only published a few articles in some tiny magazine of no account._  
 __of one’s own accord__ Voluntarily.  
+__off the charts__  
 __off to the races__ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off-kilter__ :four::hammer:  
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
@@ -2027,15 +2030,17 @@ __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready t
 __old as the hills__ Someone who is very old.  
 __old maid__ An old woman who has never been married or has never had a sexual relationship.  
 __old school thinking__  
+__on (one’s) plate__  
 __on (someone’s) behalf__ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on (someone’s) wrong side__ Displeasing to someone; provoking someone’s anger, contempt, or dismissal. _The best way to get through this class is to say nothing unless called upon, and to make sure you don’t get on the teacher’s wrong side!_  
 __on a daily basis__ Every day. _They work with the team on a daily basis._  
 __on a dime__  
 __on a high horse__ To act as if you are better than other people.  
-__on a lark__ On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
+__on a lark__ :two: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a roll__ :two::hammer: _I’m on a roll._  
 __on a tear__ :two: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
+__on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __on edge__ :three: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on every level__ _That was a bad idea on every level._  
@@ -2062,9 +2067,11 @@ __on the cheap__ _This problem of vetting aviation employees cannot be fixed on 
 __on the contrary__ :dart:  
 __on the defensive__ Prepared to withstand or counter aggression or attack.  
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
+__on the face of it__ _That seems totally bizarre on the face of it._  
 __on the fence__ Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :two::hammer:  
+__on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
 __on the go__  
 __on the grapevine__ :two::hammer: _Al must have heard something on the grapevine._  
 __on the gravy train__ In a state, position, or job where one makes an excessive amount of money without expending much or any effort. _I’ll be on the gravy train once I get paid from the settlement of the lawsuit!_  
@@ -2075,11 +2082,12 @@ __on the lookout__
 __on the rise__  
 __on the road__ __2__ (on the road to) On the way to, following a course that will end in. _We could see Mary was on the road to recovery._  
 __on the same page__ To agree on something.  
+__on the sidelines__  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ About to be said or almost remembered.  
-__on the upswing__ Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
+__on the upswing__ :two: Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
 __on the whole__ :two: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
-__on thin ice__ :three: In a risky position, in a dangerous situation.  
+__on thin ice__ :four: In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
 __On your mark(s), get set, go!__  
@@ -2088,6 +2096,7 @@ __once a snipe, always a snipe__
 __once and for all__ :two: Finally; permanently.  
 __once in a blue moom__ Very rarely.  
 __one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
+__one and only__  
 __one card shy of a (full) deck__ A pejorative phrase meaning not very intelligent or of questionable mental capacity. This expression can appear in many different forms and variations (e.g., “a few sandwiches short of a picnic,” “one brick short of a load,” etc.). _He says he’s going to start a business selling bees as pets—I think he may be one card shy of a full deck._ _The new manager is nice enough, but he’s one card shy of a deck, if you ask me._  
 __one for the (record) books__  
 __one hell of__ _You are one hell of a navy wife._  
@@ -2097,7 +2106,7 @@ __one too many__ _We drank one too many._
 __one way or another__ :two: _If I fail then it will cost me my head one way or another._  
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
-__one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
+__one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __one’s other half__ :two::hammer:  

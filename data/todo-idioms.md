@@ -1,18 +1,3 @@
-__mix and match__  
-__money doesn’t grow on trees__ Money should not be wasted because it is not something that can be replenished whenever one wants. _I can’t believe you would spend your entire allowance on a silly video game. Money doesn’t grow on trees, you know!_  
-__much ado about nothing__  
-__not on my watch__  
-__off the charts__  
-__on (one’s) plate__  
-__on a lark__  
-__on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
-__on the face of it__ _That seems totally bizarre on the face of it._  
-__on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
-__on the sidelines__  
-__on the upswing__  
-__on thin ice__  
-__one and only__  
-__one-of-a-kind__  
 __out of pocket__  
 __out the wazoo__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
