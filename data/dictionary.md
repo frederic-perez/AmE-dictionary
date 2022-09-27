@@ -9137,8 +9137,10 @@ __leap of faith__
 __leap year__  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __learned__ _adj_ _A learned physician from Prague._  
-__lease__ _n_ :three::hammer: (on a lease)  
+__lease__ _n_ :four::hammer: (on a lease)  
 __leased__ _v_  
+__leasing__ _n_  
+__leatherware__ _n_  
 __leaven__ _v_ _To leaven the raunch and swagger._  
 __leavings__ _n_  
 __lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
@@ -9160,22 +9162,24 @@ __leeway__ _n_ :nine: Leeway is a term used to describe the amount of freedom av
 __lefty buckets__  
 __leg warmer__ _n_  
 __legal tack__  
+__legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
 __legerdemain__ _n_ :six: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
-__legit__ _adj_ _slang_ :four: Legitimate.  
+__legit__ _adj_ _informal_ _slang_ :eight: Legitimate.  
 __legwork__ _n_  
 __lei__ _n_ :three: /lay, LAY-ee/ [:scroll: From Hawaiian lei.] (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. A garland, typically made of flowers, or leaves, shells, nuts, feathers, etc. _Scented leis._  
 __leisure__ _n_ /ˈlɛʒə; _US_ ˈliːʒər/  
-__leisurely<sup>1</sup>__ _adj_  
-__leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
+__leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
+__leisurely<sup>1</sup>__ _adj_ :three::hammer: _A leisurely weekend stroll._  
+__leisurely<sup>2</sup>__ _adv_ :three::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
 __lemme__ _contraction_ _Lemme see._  
-__lemming__ _n_  
+__lemming__ _n_ :two: /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
 __lemon wedge__ _n_ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
-__lemongrass__  
+__lemongrass__ _n_ :three::hammer:  
 __lemons > dance of the lemons__  
 __lemony__  
 __length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._ _He walked the length of the carriage._  
@@ -9205,14 +9209,15 @@ __lethologica__ _n_ The temporary inability to remember a word, name, or intende
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
+__letterman__ _n_  
 __levain__ _n_  
 __levee__  
 __level__ _v_ :two::hammer: (leveled)  
 __levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _v_ :five::hammer:  
-__leviathan__ _n_ :three: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._  
+__leverage<sup>2</sup>__ _v_ :six::hammer:  
+__leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :six::hammer: (levying) _The levy of taxes on clerical income._  
@@ -9222,7 +9227,7 @@ __lexical__ _adj_
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :seven::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
-__libation__ _n_ :three::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
+__libation__ _n_ :nine::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  

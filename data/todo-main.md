@@ -1,18 +1,3 @@
-__lease__ _n_  
-__leasing__ _n_  
-__leatherware__ _n_  
-__ledger__ _n_  
-__legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
-__legit__ _adj_ _informal_ :four::hammer:  
-__leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
-__leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
-__leisurely<sup>2</sup>__ _adv_  
-__lemming__ _n_ /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
-__lemongrass__ _n_ :two::hammer:  
-__letterman__ _n_  
-__leverage__ _v_  
-__leviathan__ _n_ _You can sometimes see migrating leviathans._  
-__libation__ _n_ :six::hammer:  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
 __licentious__ _adj_  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
