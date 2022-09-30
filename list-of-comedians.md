@@ -22,7 +22,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Chris Gethard](https://www.youtube.com/results?gl=US&search_query=Chris+Gethard) » [chrisgeth.com](https://chrisgeth.com)
 - [Chris Rock](https://www.youtube.com/results?gl=US&search_query=Chris+Rock)
 - [Christi Chiello](https://www.youtube.com/results?gl=US&search_query=Christi+Chiello) is a roastmaster.
-- [Conan O'Brien](https://www.youtube.com/results?gl=US&search_query=Conan+O'Brien)
+- [Conan O'Brien](https://www.youtube.com/results?gl=US&search_query=Conan+O'Brien) really  [needs a friend](https://en.m.wikipedia.org/wiki/Conan_O%27Brien_Needs_a_Friend)
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
 - [Dane Cook](https://www.youtube.com/results?gl=US&search_query=Dane+Cook)
 - [Don Rickles](https://www.youtube.com/results?gl=US&search_query=Don+Rickles)
