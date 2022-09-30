@@ -55,3 +55,28 @@ __momentum__ _n_ _I've lost a lot of momentum._
 __obnoxious__  
 __motherlode__ _n_  
 __acculturation__ _n_  
+
+__save the day__  
+__thank you very much__  
+__catch some winks__ _Tom wouldn't be the first pilot to catch some winks in a hot cockpit on alert-five._  
+__figured__  
+__break a sweat__  
+__get on one's nerves__ _A yes-man suck-up can get on your nerves._  
+__for what it's worth__  
+
+__trickle__ _A trickle of sweat._  
+__seething__ _His seething frustration._  
+__temper__ _v_ (tempered)  
+__toady__ _v_  
+__cur__ _n_  
+__gouge__ _v_  
+__heretical__  
+__cloy__ _v_  
+__foreseeable__ _adj_ _The foreseeable future._  
+__pickup__ _A pickup team._  
+__brethren__  
+__killjoy__  
+__finagle__ _v_  
+__infidel__  
+__yeoman__  
+
