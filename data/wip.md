@@ -94,4 +94,25 @@ __just because__ _informal_ For no specific or meaningful reason.
 __catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
 __catch (on) fire__ To begin to burn, usually after being touched by an existing fire. _Hey, keep an eye on that pan, I don't want our dinner to catch on fire._  
 
-
+__countless__  
+__infallible__  
+__hinky__ _adj_ _Why this hinky feeling?_  
+__drawl__ _A slow Southern drawl._  
+__bluff__  
+__sheaf__ _A sheaf of photos._  
+__pussyfooting__ _No pussyfooting around, Mel._  
+__avionics__ _n_  
+__schooled__ _v_ _She schooled her face into careful neutrality._  
+__accoutrements__  
+__bumbling__  
+__semblance__ _n_ _The semblance of peace._  
+__defection__  
+__vagary__ _n_ _The vagaries of nature._  
+__expediency__ _n_  
+__ruefully__  
+__quid pro quo__  
+__hell broke loose__  
+__cut it short__  
+__then again__  
+__shoot from the hip__  
+__a pipe dream__  
