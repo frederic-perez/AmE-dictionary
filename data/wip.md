@@ -80,3 +80,18 @@ __finagle__ _v_
 __infidel__  
 __yeoman__  
 
+
+
+__Rosh HaShanah__ _n_  
+__maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
+__proselytize__ _v_ /PRAH-suh-luh-tyze/  
+__ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy.  
+__netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
+__nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
+__misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  
+
+__just because__ _informal_ For no specific or meaningful reason.  
+__catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
+__catch (on) fire__ To begin to burn, usually after being touched by an existing fire. _Hey, keep an eye on that pan, I don't want our dinner to catch on fire._  
+
+
