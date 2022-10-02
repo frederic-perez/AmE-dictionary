@@ -129,3 +129,21 @@ __sporadic__ _adj_ /spuh-RAD-ik/
 
 __Latinx__ One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to "Latino" and "Latina." _As a Latinx, I'm very conscious of the issues that affect immigrants._  
 __castle in the air__ A hope or wish, especially for one's life, that is unlikely to come true. A daydream. _I really want to become a famous Hollywood actor, but I realize that it's just a castle in the air and that I shouldn't quit my day job._  
+
+__bosh__ _interj_ :two::hammer: _Oh, bosh._  
+
+__abashed__  
+__astern__  
+__knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door's opening is about 20 inches above walking surface.  
+__surreptiously__  
+__sharp__ _He's a sharp guy._  
+__down-to-earth__  
+__jet blast__  
+__jet blast deflector__  
+__ready room__  
+__shrieking__ _Shrieking panic._  
+__champing__ _v_  
+__sloughing__ _v_  
+
+__a different ballgame__  
+
