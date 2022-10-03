@@ -159,3 +159,24 @@ __zugzwang__
 __have one's cake and eat it too__  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He's usually so distant._   
 
+__ding__ _v tr_ _Dinged aircraft._  
+__inbound__ _adj, adv_  
+__holler__ _v_ (hollered)  
+__cadre__ _n_  
+__jolt__ _n_ _The jolt shook the Tomcat._  
+__aft__  
+__jink__ _v_ _A jinking maneuver._  
+__dogfight__ _n_ __2__ _An aerial battle between fighter planes._  
+__tanker__ _n_  
+__chivvy__ _v_ (chivy)  
+__wince__ _v_  
+__ineffable__ _adj_  
+__blithe__ _adj_ :dart:  
+__tapeworm__ _n_  
+__helo__ _n informal_ A helicopter.  
+__detailer__ _n_  
+
+__jeez__ _interj_  
+
+__in bulk__  
+__with a passion__  
