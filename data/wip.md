@@ -180,3 +180,23 @@ __jeez__ _interj_
 
 __in bulk__  
 __with a passion__  
+
+__flummoxed__ _adj_ /ˈflʌməkst/  
+__breach__ _v_ __1__ To make a hole or gap in; break through. _Breaching old pipelines._  
+__emery board__ _n_ A small flat strip of wood or card coated with emery powder and used for filing the fingernails. :es: lima de uñas  
+__tine__ _n_  
+__thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
+__carabiner__ _n_ _Syn_ karabiner, snap ring :es: mosquetón  
+__ferrule__ _n_  
+__bunting__ _n_ __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
+__vamp__ _n_  
+__speed bag__ _n_  
+__joist__ _n_  
+__escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
+__tang__ _n_ __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga  
+__silk__ _n_  
+__uvula__ _n_ :es: úvula, campanilla  
+__backhoe__ _n_ A mechanical excavator whose bucket is attached by a hinge  to a two-part arm and is drawn backward to the machine when in operation.  
+__jodhpurs__ _n pl_ Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
+
+__go to shit__  
