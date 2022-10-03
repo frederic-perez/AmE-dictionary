@@ -2,7 +2,7 @@ __cringey__
 __fool's errand__  
 __play games (with one)__  
 __writing on the wall, the__  
-__hash out__ 
+__hash out__  
 __drop the ball__  
 __come to fruition__  
 __to this day__  
@@ -146,4 +146,16 @@ __champing__ _v_
 __sloughing__ _v_  
 
 __a different ballgame__  
+
+__languid__ _adj_ /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
+__diffidence__ _n_ The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._  
+__ludicrous__ _adj_ /LOO-di-kruhs/ So absurd as to provoke laughter.  
+__timeserver__ _n_ /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network.  
+__caucus__ _n_ /KAW-kus/ A caucus is “a meeting of members of a political party for the purpose of choosing candidates for an election.” It also refers to “a group of people who meet to discuss a particular issue or to work together for a shared, usually political goal.” _Members of the caucus debated long and hard to come to a unified position on the issue._  
+__conscription__ _n_  
+__equinox__  
+__zugzwang__  
+
+__have one's cake and eat it too__  
+__chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He's usually so distant._   
 
