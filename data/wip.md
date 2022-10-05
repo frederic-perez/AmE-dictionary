@@ -200,3 +200,28 @@ __backhoe__ _n_ A mechanical excavator whose bucket is attached by a hin
 __jodhpurs__ _n pl_ Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
 
 __go to shit__  
+__snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
+__petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother's remedy, a big jar of petrolatum._  
+__prevaricate__ _v_  
+__saponify__ _v_  
+__phoenix__ _n_  
+__gingerly__  
+__gamboge__ _n_ __2__ Yellow or yellow-orange.  
+__quiz__ _n_ (_n pl_ quizzes) _Take the quiz!_  
+__pax vobiscum__ Peace be with you.  
+__ratoon__ _n_  
+__omniscient__ _adj_ Having complete or unlimited knowledge, awareness, or understanding; perceiving all things.  
+__thresh__ _v_  
+
+__hmm__ _interj_  
+__brrr__ _interj_ _informal_ An exclamation used to suggest shivering.  
+__shh__ _interj_ (sh) Used to urge silence.  
+__tsk__ _interj_ Used to express disappointment or sympathy. Used, often in quick repetition, as an exclamation of contempt, disdain, impatience, etc.  
+__pfft__ _interj_ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
+__psst__ _interj_ (pst) Used to attract someone's attention in an unobtrusive manner.  
+
+__close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
+__can't even__ _slang_ Cannot handle (something). A phrase used (usually comically) when one cannot articulate their strong feelings (often of frustration) about something or someone. _I can't even with this show! How many awesome characters are they going to kill off?_  
+__a hot mess__  
+__chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won't be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn't be able to write 50 pages in one night, so I've been chipping away at this paper for a few weeks._  
+
