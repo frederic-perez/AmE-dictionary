@@ -1,23 +1,3 @@
-__cringey__    
-__fool's errand__  
-__play games (with one)__  
-__writing on the wall, the__  
-__hash out__  
-__drop the ball__  
-__come to fruition__  
-__to this day__  
-
-__chicken out__ (?)  
-__break a leg__  
-__the big one__ (?)  
-__sort it out__  
-__bite the bullet__  
-__above and beyond__  
-__one way or another__  
-__middle ground__  
-__drop a bomb__  
-__keep the wheels turning__  
-__got an eye on it__  
 __I've got your back__  
 __running theme__ _It seems to be a running theme._  
 __very much so__ (?)  
