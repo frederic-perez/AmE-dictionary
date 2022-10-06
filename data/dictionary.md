@@ -269,7 +269,7 @@ __aftereffects__
 __afterglow__  
 __afterimage__ _n_ A visual image that persists after the visual stimulus causing it has ceased to act. _Syn_ photogene  
 __aftermarket__  
-__aftermath__ _n_  
+__aftermath__ _n_ :two::hammer:  
 __afters__ _n informal_ :two: Dessert.  
 __afterward__ _adv_ :two::hammer:  
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
@@ -4042,7 +4042,7 @@ __dateline__
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunt__ _n_  
-__daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
+__daunting__ _adj_ :six: Seeming difficult to deal with in prospect; intimidating.  
 __Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direct heir to the throne.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __davits__ _n_  
@@ -4817,6 +4817,7 @@ __dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
+__drama__ _n_ :mega:  
 __dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
 __dramedy__ _n_ :three::hammer:  
@@ -5452,6 +5453,7 @@ __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.
 __eulogy__ _n_ :five::hammer:  
 __eunuch__ _n_  
 __euphemism__ _n_ :three: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
+__euphonium__ _n_  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
 __eupnea__ _n_ /yoop-NEE-uh/ [:scroll: From Greek eu- (good) + pnein (to breathe).] Normal breathing.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
@@ -6060,6 +6062,7 @@ __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
 __flatiron__ _n_ :dart: /ˈflætˌaɪ ərn/ An iron for pressing clothes, especially one that is heated externally, as on a hearth or stove.  
 __flats__ _n_  
+__flatten__ _v_  
 __flatter__ _v_ (flattered)  
 __flatware coins__  
 __flatware__ _n_  
@@ -7112,6 +7115,7 @@ __grouchy__ _adj_
 __ground chuck steak__  
 __ground game__  
 __ground zero__ _n_ :two::hammer:  
+__ground__ _v_  
 __ground-breaking__  
 __groundbreaker__ _n_ :three::hammer:  
 __groundbreaking__ _adj_ :two::hammer: _Groundbreaking science._  
@@ -7762,7 +7766,7 @@ __hoedowns__ _n_
 __hog cracklings__  
 __hog the sofa__  
 __hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.  
-__hog<sup>2</sup>__ _v_ :two: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
+__hog<sup>2</sup>__ _v_ :three: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
@@ -8454,6 +8458,7 @@ __interrelate__ _v_ :two::astonished::hammer:
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__ _v_ :four::hammer: (intertwined)  
 __intervene__ _v_ :four::hammer:  
+__intervention__ _n_ :three::hammer:  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
 __intimation__ _n_ Making known indirectly.  
@@ -10520,6 +10525,7 @@ __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome
 __noir__ _adj_ _A noir novel._  
 __noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
 __nom de guerre__  
+__nomad__ _adj_ :mega:  
 __nomadic__  
 __nomenclature__ _n_ /NOH-mun-klay-cher/ _Starting a new job or entering a new field of study means becoming familiar with the nomenclature._  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
@@ -10933,7 +10939,7 @@ __outlast__ _v_
 __outlaw__ _n_  
 __outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
 __outline__ _n_  
-__outlook__ _n_ :five::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
+__outlook__ _n_ :six::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
@@ -11817,6 +11823,7 @@ __pogrom__ _n_ :dart::six: (pogroms) An organized, often officially encouraged m
 __poignance__ _n_  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ _n_ :pencil2:  
+__point guard__ _n_  
 __Point is,__  
 __point-and-shoot camera__  
 __point-blank__  
@@ -12362,7 +12369,7 @@ __pushback__ _n_
 __pushcart__ _n_ _A pushcart vendor._  
 __pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
-__pushy__ _adj_ :two::hammer: _I guess I was a little pushy._ _Pushy sales._  
+__pushy__ _adj_ :three::hammer: _I guess I was a little pushy._ _Pushy sales._  
 __pusillanimous__ _adj_ :two: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
 __pustules__ _n_  
 __put it on the money__  
@@ -13353,6 +13360,7 @@ __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used o
 __saltines__ _n_  
 __salty__  
 __salubrious__ _adj_ Conducive or favorable to health or well-being.  
+__saludatorian__ _n_ The student with the second highest academic rank in a class who delivers the salutatory at graduation exercises.  
 __salutary__  
 __salute<sup>1</sup>__ _n_  
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
@@ -13942,6 +13950,7 @@ __shoot__ _n_ _Panda bears eat only bamboo shoots._
 __shoot-from-the-hip__  
 __shootaround__ _n_ :four::hammer: (basketball)  
 __shooting gallery__ _n_ :two: __1__ A place equipped with targets and used for practice in shooting. __2__ _slang_ A place where drug addicts can buy and inject themselves with narcotic drugs.  
+__shooting guard__ _n_  
 __shootout__ _n_ :two: __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
@@ -13954,7 +13963,7 @@ __short hand__
 __short__ _n_  
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
-__short-lived__ _adj_ :two: Living or lasting only a short time; ephemeral.  
+__short-lived__ _adj_ :three: Living or lasting only a short time; ephemeral.  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _v tr_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
@@ -14234,7 +14243,7 @@ __sleep deprivation__
 __sleep in__ _v_  
 __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
-__sleepover__ _n_ :two::hammer:  
+__sleepover__ _n_ :three::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
 __sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
@@ -16355,7 +16364,7 @@ __tumblebug__
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
 __tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
-__tumultuous__  
+__tumultuous__ _adj_ :two::hammer:  
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunic__ _n_ :two::hammer: __1__ A coat worn as part of a military or other uniform.  
@@ -16461,6 +16470,7 @@ __ululations__
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
 __umbrage__ _n_ :three: A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._  
+__umbrella__ _n_ _Under his umbrella._  
 __umpteen__  
 __umpteenth__ _adj_ :two::dart: Last in an indefinitely numerous series.  
 __un-American__  
