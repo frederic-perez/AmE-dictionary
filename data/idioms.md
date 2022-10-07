@@ -77,6 +77,7 @@ __a hard pill to swallow__ Something, especially a fact or piece of news, that i
 __a heartbeat away__ :four::hammer: _Located a heartbeat away from the Buzz of Broadway._  
 __a hill of beans__ Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ A continuous period of great success, luck, or fortune; a winning streak.  
+__a hot mess__  
 __a joy to behold__ :two: A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a juggling act__ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
 __a kernel of truth__ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
@@ -535,6 +536,7 @@ __call upon (someone or something)__ _It’s nice when they call upon you and yo
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
 __can’t be bothered__ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
+__can’t even__ _slang_ Cannot handle (something). A phrase used (usually comically) when one cannot articulate their strong feelings (often of frustration) about something or someone. _I can’t even with this show! How many awesome characters are they going to kill off?_  
 __can’t get a break__  
 __can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
 __canary in a/the coal mine__ :two: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
@@ -561,9 +563,11 @@ __cat got your tongue__ Used to ask someone why he or she is not saying anything
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat__ __2__ _n_ _dated_ _slang_ A man. _A: “You ever hear of Tom Michelson?” B: “The cat who runs the Double Dice bar over on Santa Monica? Yeah, I’ve heard of him.”_  
 __cat-and-mouse game__  
+__catch (on) fire__ To begin to burn, usually after being touched by an existing fire. _Hey, keep an eye on that pan, I don’t want our dinner to catch on fire._  
 __catch (one’s) breath__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
 __catch a snooze__ To sleep or take a nap, especially of a short duration.  
+__catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
 __catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
 __catch one’s breath__ :two: To pause or rest before continuing an activity or beginning a new one; resume regular breathing: _Let me catch my breath before I begin anything new._  
@@ -595,10 +599,12 @@ __child’s play__
 __chillax__ _slang_ Calm down and relax. _You can dance to your favorite tune, chillax, or have friends over._  
 __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing,” often shortened colloquially to “chillaxin’.” _We’re just chillaxin’ and watching some TV, if you want to join us._  
 __chime in__  
+__chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
 __chip away__ :dart: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip in__  
 __chip on (someone) shoulders__ :nine::m::dart: (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
+__chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __churn something up__  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
@@ -608,6 +614,7 @@ __clean one’s plate__ Eat up all the food put on one’s plate.
 __clear the air__  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
+__close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
 __close call__ :two::hammer:  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __cloud nine__  
@@ -1258,6 +1265,7 @@ __have more than one string to (one’s) bow__ To have multiple viable options o
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
 __have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
 __have one foot in the grave__ To be very old and close to death.  
+__have one’s cake and eat it too__  
 __have one’s heart in it__ (put one’s heart in it) Be emotionally involved in something, undertake something enthusiastically, as in _Nancy puts her heart in her teaching._ This expression may also be put negatively as one’s heart is not in it, as in _She decided to quit; her heart just wasn’t in this kind of work._  
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
 __have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
@@ -1570,7 +1578,7 @@ __jump through hoops__ To do a lot of difficult things before you are allowed to
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just another day at the office__  
-__just because__  
+__just because__ _informal_ :two: For no specific or meaningful reason.  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just the same (to one)__  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
