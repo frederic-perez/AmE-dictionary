@@ -1000,6 +1000,7 @@ __backlit__
 __backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
 __backpacking__ _n_  
 __backpedal__ _v_ :two::hammer:  
+__backseater__ _n_  
 __backslid__ _v_  
 __backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
@@ -1653,6 +1654,7 @@ __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2_
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __board__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
 __boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typically while their owners are on vacation. _Mike was running a boarding kennels._  
+__boarding ladder__ _n_  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardroom__ _n_ :two::hammer: _Private boardrooms available._  
 __boardwalk__ _n_ :two::hammer: _Boot heels clap on the boardwalk._  
@@ -3748,7 +3750,7 @@ __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used e
 __crepe__  
 __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
 __crepuscular__ _adj_ /krih-PUHSS-kyuh-ler/ Crepuscular means “of, relating to, or resembling twilight.” It is also used in zoological contexts to describe creatures that are active during twilight, or to the activities of such creatures. _As evening came on, fireflies began to appear in the crepuscular gloaming._  
-__crescendo__ _v_ (crescendoed)  
+__crescendo__ _v_ :two::hammer: (crescendoed)  
 __Crescent City__  
 __crescent<sup>1</sup>__ _n_ :three::mute:[cres~~c~~ent]/ˈkrɛs ənt/:hammer:  
 __crescent<sup>2</sup>__ _adj_ :two::hammer:  
@@ -5295,6 +5297,7 @@ __engross__ _v_ :two::hammer::dart: (engrossed)
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  
 __enhance__ _v_ Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
+__Enigma code__  
 __enigma__ _n_ /ih-NIG-muh/ _The formation of the craters on the planet is an enigma to astrophysicists._  
 __enjambments__  
 __enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; order or urge: _The doctor enjoined the patient to walk daily._ __b__ To require or impose (an action or behavior, for example) with authority and emphasis; prescribe. __2__ To prohibit or forbid: _The judge enjoined the merger of the firms._ _The court enjoined the company from merging with its competitor._  
@@ -5711,7 +5714,7 @@ __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flun
 __far-reaching__ _adj_  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_ _A dinner different from our usual fare._  
-__fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ __b__ To happen. __2__ _archaic_ To travel.  
+__fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ _The second missile fared slightly better than the first._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
 __faro__ _n_ _A farol dealer._  
@@ -8668,7 +8671,7 @@ __job opening__
 __jobbing__ _v_  
 __jobless coverage__ _n_ _Jobless coverage expired for 2 million people._ :es: cobertura de desempleo  
 __jock__ _n informal_ :five: An athlete. _You act like I got jock odor or something._  
-__jockey__ _v_ :two::hammer: (jockeying) _Fierce political jokeying._  
+__jockey__ _v_ :three::hammer: (jockeyed, jockeying) _Fierce political jokeying._  
 __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athletes, to support the genitals. _Syn_ athletic support  
 __jocose__ _adj_ Given to joking; merry. _Syn_ jesting, jocular, joking _Larry, who was usually so jocose, said he didn’t have time for pranks._  
 __jocular__  
@@ -8911,7 +8914,7 @@ __knock off__ _phr v_ To stop working. _I gotta knock off work to come here and 
 __knock someone’s socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
-__knockoff__  
+__knockoff__ _n informal_ :two: An unauthorized, cheap copy of something, esp. fashion clothing.  
 __knockout<sup>1</sup>__ _n_  
 __knockout<sup>2</sup>__ _adj_ :two::hammer: _A knockout series._ _A knockout redhead._  
 __knockusing__  
@@ -12317,7 +12320,7 @@ __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._
 __pumpkin spice__ _n_  
 __pun<sup>1</sup>__ _n_ :five: A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other. :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
-__punch out__ _v_  
+__punch out__ _v_ :two::hammer: (eject a flying pilot)  
 __punch<sup>1</sup>__ _n_ A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base.  
 __punch<sup>2</sup>__ _v_ :three::hammer: _I’m going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _n_ _The firm was a regular punching bag._  
@@ -12546,7 +12549,7 @@ __Raleigh, North Carolina__ _n_ :mega: [Common popular pronunciation: /ral-lee/ 
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate’s supporters rallied on the common._ __2__ To join in an effort for a common cause: _“In the terror and confusion of change, society rallied round the kings.” (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
-__ram<sup>1</sup>__ _v_ :seven::hammer: (rammed, ramming) _JFK’s PT boat was rammed._ _Ramming your feet into the stirrups._  
+__ram<sup>1</sup>__ _v_ :eight::hammer: (rammed, ramming) _JFK’s PT boat was rammed._ _Ramming your feet into the stirrups._ _The submarine rammed a pipeline._  
 __ram<sup>2</sup>__ _n_  
 __Ramadan__ _n_ __1__ (Islam) The ninth month of the Muslim year, lasting 30 days, during which strict fasting is observed from sunrise to sunset. __2__ (Islam) The fast itself.  
 __ramble__ _v_  
@@ -14312,9 +14315,10 @@ __sloppy seconds__
 __sloppy__ _adj_ :four::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
+__sloshed__ _adj_  
 __sloth__ _n_ :five: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
-__slouch<sup>2</sup>__ _v_ :three::hammer: (slouching)  
+__slouch<sup>2</sup>__ _v_ :four::hammer: (slouching)  
 __slouchy__  
 __slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
 __slough<sup>1</sup>__ _n_ :four::mega::hammer:  
@@ -15609,7 +15613,7 @@ __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the s
 __tap__ _v_ :nine: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
-__taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._  
+__taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._ _Finally, the sound tapered off._  
 __tapioca__ _n_ :mega:  
 __taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
 __taproot__ _n_ :two::hammer: (taproots)  
@@ -17368,6 +17372,7 @@ __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; t
 __wing__ _v_ :two::hammer: _I wing my way across the continents._  
 __winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
+__wingman__ _n_  
 __wingspan__ _n_  
 __wingtips__  
 __winking__ _v_  

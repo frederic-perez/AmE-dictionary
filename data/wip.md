@@ -186,21 +186,6 @@ __can't even__ _slang_ Cannot handle (something). A phrase used (usually c
 __a hot mess__  
 __chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won't be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn't be able to write 50 pages in one night, so I've been chipping away at this paper for a few weeks._  
 
-__sloshed__ _v_  
-__knockoff__ _n_  
-__fared__ _v_ _The second missile fared slightly better than the first._  
-__boarding ladder__ _n_  
-__jockeyed__ _v_  
-__crescendoed__ _v_  
-__taper__ _v_ _Finally, the sound tapered off._  
-__ram__ _v_ _The submarine rammed a pipeline._  
-__punch out__ _v_ (eject a flying pilot)  
-__wingman__ _n_  
-__slouches__ _n_  
-__backseater__ _n_  
-__Enigma code__  
-
-
 __RIO__ (?) Radar interception officer.  
 
 
