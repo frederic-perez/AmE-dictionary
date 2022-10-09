@@ -12420,7 +12420,7 @@ __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader
 __quagmire__ _n_ :five: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :four: (quailed) To shrink back in fear; cower.  
-__quaint__ _adj_ :nine::m: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
+__quaint__ _adj_ :nine::m: /kweɪnt/ __1__ Pleasingly or strikingly old-fashioned or unusual. _Quaint village/bridges/cottage/streets/town/village._ _Quaint neighborhood shops._ _Quaint residential area._ _Quaint Victorian buildings._ __2__ Unfamiliar or different in character or appearance; odd. _A quaint sense of duty._  
 __quaintly__ _adv_ :two::hammer:  
 __Quaker__  
 __quakes__ _v_  

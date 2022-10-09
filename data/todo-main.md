@@ -1,3 +1,12 @@
+__antenatal__  
+__baffled__ _adj_ /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
+__behavioral intervention__  
+__buddy up__  
+__calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
+__center stage__ _n_  
+__flash mob__ _n_ A large group of people who gather in a predetermined place to perform some brief action and then disperse.  
+__formula milk__ _n_ An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
+__laughing gas__ _n_ Nitrous oxide, especially as used as an anesthetic.  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
 __licentious__ _adj_  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
@@ -5,6 +14,7 @@ __liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The
 __ligand__ _n_  
 __light rail__ _n_ :four::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
+__like there’s no tomorrow__  
 __likewise__ _adv_  
 __lilac__  
 __limestone__ _n_ :three::hammer:  
@@ -262,6 +272,7 @@ __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 19
 __nerve-racking__ _adj_  
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __neurotypical__ _adj, n_  
+__nevus__ _n_ /ˈni vəs/ Any congenital anomaly of the skin, including moles and various types of birthmarks.  
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
 __news__ _n_ :mega:  
 __newsworthy__ _adj_  
@@ -377,6 +388,7 @@ __outrage__ _n_ /ˈaʊt reɪdʒ/
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
 __outshine__ _v_  
 __outwear__ _n_  
+__overarching__ _adj_  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul<sup>1</sup>__ _v_ :dart:  
@@ -641,7 +653,6 @@ __quaff__ _v_
 __quaffing__ _v_  
 __quail<sup>1</sup>__ _n_ :three::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
-__quaint__ _adj_ :nine::m::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._ _A quaint cottage._ _Quaint Victorian buildings._  
 __quake__ _v_ :two::hammer: _The trains emerge from a sea of quaking aspens._  
 __qualify__ _v_  
 __qualm__ _v_  
@@ -947,6 +958,7 @@ __shutterbug__ _n_ _Shutterbugs will be intrigued by the Canon camera._
 __sickbed__ _n_ A sick person’s bed.  
 __side-splitting__ _adj_ _Side-splitting laughs._  
 __sideburns__ _n_  
+__sideline__ _v_ :two::hammer:  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sightsee__ _v_ :two::hammer:  
 __signage__ _n_ :three::hammer: _Backlit signage._  
@@ -1126,6 +1138,7 @@ __storefront__ _n_ :two::hammer:
 __storm<sup>1</sup>__ _n_ _A storm of dishes._  
 __storm<sup>2</sup>__ _v_ _The U.S. women also stormed the 1996 Olympics._  
 __storybook__ _n_ :two::hammer: _Storybook characters._  
+__stow away__  
 __stow__ _v tr_  
 __straddle__ _v_  
 __straightedge__ _adj, n_ _Straightedge shave and head massage._  
@@ -1155,6 +1168,7 @@ __sturgeon__ _n_ :es: esturión
 __stylesetter__  
 __stymied__ _v_  
 __subcontinent__ _n_  
+__subdermal__ _adj_  
 __subdued__ _adj_ _The subdued dining room._  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
@@ -1530,6 +1544,7 @@ __whiplash__ _n_ _An amazing, whiplash-inducing performance._
 __whirlpool__ _n_  
 __whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
 __whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
+__white paper__ _n_  
 __white-knuckled__  
 __whitewater__ _n_ :four::hammer: _Whitewater rafting._  
 __whizz__ _v_  
