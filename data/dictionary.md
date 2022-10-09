@@ -573,6 +573,7 @@ __anteroom__ _n_ :two::hammer:
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
 __anthropogenic__  
+__anthropomorphic__ _adj_ /an-thruh-puh-MOR-fik/  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
 __anti-humor__  
 __anti-Semitism__  
@@ -850,7 +851,7 @@ __atlatl__
 __atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water, raw sugar, cinnamon, and vanilla and is served warm.  
 __atoll__ _n_ :es: atolón  
 __atolls__ _n_  
-__atone__ _v_ :three::hammer: (atoned)  
+__atone__ _v_ :four: /uh-TOHN/ Atone is usually used with for to mean “to make amends; to provide or serve as reparation or compensation.” _James tried to atone for the wrongdoings of his youth by devoting his life to helping others._  
 __atonement__ _n_  
 __atop<sup>1</sup>__ _adv_  
 __atop<sup>2</sup>__ _prep_  
@@ -2343,7 +2344,7 @@ __call the shots__
 __call to action__  
 __call<sup>1</sup>__ _n_ :five::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
-__callback__ _n_ :two::hammer: __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
+__callback__ _n_ :three: __1__ A recall of a recently sold product by the manufacturer to correct a defect. _Syn_ recall _The manufacturer was forced to issue a callback of the toy when it was declared a choking hazard._ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
 __calling card__  
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
@@ -4167,7 +4168,7 @@ __defective__ _adj_
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defenestration__ _n_ :two: Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
-__defer__ _v_ :six: (deferred) To delay or cause to be delayed until a future time; postpone.  
+__defer__ _v_ :seven: /dih-FER/ (deferred) To delay or cause to be delayed until a future time; postpone. To choose to do (something) at a later time. _She deferred her master’s program for a year so that she could travel the world._  
 __deference__ _n_ :five::hammer:  
 __deferential__  
 __deferentially__  
@@ -6469,6 +6470,7 @@ __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college s
 __frowzy__ _adj_  
 __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
 __frozen yogurt__ _n_ :two::hammer: _Non-fat frozen yogurt._  
+__fructify__ _v_ /FRUK-tuh-fye/ __1__ To make fruitful or productive. __2__ To bear fruit or profit. _Her parents are in a comfortable financial position, thanks to some investments that have recently begun to fructify._  
 __frugal__ _adj_ :four: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
@@ -6624,7 +6626,7 @@ __garble__ _v tr_ /GAR-bul/ To so alter or distort as to create a wrong impressi
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ _n_ New Jersey.  
-__gargantuan__ _adj_ :three: Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._  
+__gargantuan__ _adj_ :four: /gahr-GAN-chuh-wuhn/ Very large in size or amount. Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._ _Bigfoot is said to be a creature of gargantuan proportions._  
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
@@ -7727,6 +7729,7 @@ __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._
 __hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
 __hippocampus__ _n_ :pencil2:  
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
+__hipster__ _n_ /HIP-stuh/ One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.  
 __hires__ _n_  
 __hirsutism__  
 __His Majesty the Sultan__  
@@ -8603,7 +8606,7 @@ __jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, op
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :eight::hammer:  
-__jaunty__ _adj_ :nine::m: /JAWN-tee/ Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaunty__ _adj_ :nine::m: /JAWN-tee/ /JON/JAHN-tee/ __1__ Stylish. __2__ Lively; self-confident. Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __javelin__ _n_ :mega:  
 __jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
 __jawing__ _v_ _Stop jawing and get to work._  
@@ -10637,6 +10640,7 @@ __nut case__
 __nut__ _n_ _slang_ A crazy or strange person.  
 __nutation__ _n_ __1__ The act or an instance of nodding the head.  
 __nutmeg__ _n_ :two::hammer: :es: nuez moscada  
+__nutriment__ _n_ A source of nourishment; food. _Syn_ sustenance, victuals, aliment, nourishment, nutrition _The animals’ habitat was destroyed in the storm, and they wandered the ravaged plains searching for nutriment._  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
@@ -12166,7 +12170,7 @@ __profane__ _adj_
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
-__proffering__  
+__proffer__ _v_ _formal_ :two: /PRAH-fer/ To present (something) for acceptance. _Several recommendations were proffered by the finance board on how to reduce the city’s debt without making drastic cuts in department budgets._  
 __proficient__  
 __profit__ _v_ :astonished:  
 __profiteer<sup>1</sup>__ _n_  
@@ -12594,7 +12598,7 @@ __rapidly__
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapine__ _n_ :three: The violent seizure and carrying off of another’s property; plunder.  
 __rapping__ _v_  
-__rapport__ _n_ A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy.  
+__rapport__ _n_ :two: A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy. Relationship, especially one of mutual trust or emotional affinity. _Syn_ resonance _They had an excellent rapport and would never keep secrets from one another._  
 __rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj_ :six::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
@@ -13383,6 +13387,7 @@ __sand spits__
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
 __sandbag__ _n_ :two::hammer: (sandbags)  
+__sandboy__ _n_ /SAND-boi/ __1__ A very happy person. __2__ One who deals in sand.  
 __sandcastle__ _n_ :pencil2:  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
 __sandpaper__ _n_  
@@ -14683,7 +14688,7 @@ __spew<sup>1</sup>__ _v tr_ :eight: (spewed) __1__ To send out or force out in l
 __spew<sup>2</sup>__ _v intr_ __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
 __spic__ _n_ _offensive_ Used as an insulting and contemptuous term for a Spanish-American person. _Behind our backs they called us the Spic and the Mik._  
 __Spider-Man__  
-__spiel__ _n_ :two::hammer:  
+__spiel__ _n_ :three: /SPEEL/ A spiel is a fast speech—often one that has been rehearsed or given before—that is usually intended to get someone to buy something or to agree to something. _Syn_ patter, speech, pitch, recital, harangue, sales talk, sales patter _We let the salesman give us his opening spiel, but when he got to the high-pressure sales tactics, we cut him short and made it clear that we were not interested._  
 __spiffy<sup>1</sup>__ _adj_ :three::hammer:  
 __spiffy<sup>2</sup>__ _v_ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You’ve seen a big water tank with a spigot hanging out over the train tracks._  
@@ -15389,7 +15394,7 @@ __surfeit__ _n_ :five::astonished: __1a__ Overindulgence in food or drink. __b__
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
-__surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
+__surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
 __surmise__ _v_ :eight::hammer: (surmised, surmising)  
 __surmount__ _v_ :three::hammer: (surmounted)  
 __surmountable__  
@@ -17424,6 +17429,7 @@ __withershins__ _adv_ In a direction contrary to the apparent course of the sun;
 __withes__ _n_ :two::hammer:  
 __withhold__ _v_ :two::hammer::pencil2:  
 __withstand__ _v_ :three::hammer:  
+__witless__ _adj_ Lacking intelligence or wit; foolish. _Syn_ nitwitted, soft-witted, senseless _He was a witless soul who never learned from his mistakes._  
 __witty__ _adj_  
 __wizened__ _adj_ :five: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness. _Syn_ shrunken, withered, shriveled _The wizened face of the man of law was twisted into a wrinkled smile._  
 __wobble__ _v_ (wobbling)  
@@ -17666,6 +17672,7 @@ __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning th
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
 __zippy__ _adj_ Full of energy; lively. _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
+__zoanthropy__ _n_ /zo-AN-thruh-pee/ The delusion that one is a beast.  
 __zone out__ _phr v_ :three: To lose concentration or become inattentive. To fall asleep.  
 __zonk out__ _v_  
 __zonk__ _n_ :two::hammer:  
