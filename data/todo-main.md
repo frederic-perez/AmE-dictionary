@@ -1,11 +1,20 @@
 __antenatal__  
+__asterism__ _n_  
+__atonement__ _n_  
+__avuncular__ _adj_ /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
 __baffled__ _adj_ /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
 __behavioral intervention__  
+__bombinate__ _v_ /BAHM-buh-nayt/ To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
 __buddy up__  
 __calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
 __center stage__ _n_  
+__Copernican__ _adj_ /koh/kuh-PUHR-ni-kuhn/ __1__ Very important; radically different; paradigm shifting. __2__ Relating to Copernicus or his theory that the earth rotates on its axis and revolves around the sun.  
+__danseuse__ _n_ A woman who is a ballet dancer.  
+__deciduous__ _adj_  
 __flash mob__ _n_ A large group of people who gather in a predetermined place to perform some brief action and then disperse.  
 __formula milk__ _n_ An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
+__hesperidium__ _n_  
+__kowtow__ _v_  
 __laughing gas__ _n_ Nitrous oxide, especially as used as an anesthetic.  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
 __licentious__ _adj_  
@@ -186,7 +195,8 @@ __misstep__ _n_ :two::pencil2::hammer:
 __mix-and-match__ _adj_ _Mix-and-match designs._  
 __mixologist__ _n_ :two::hammer:  
 __mixology__ _n_  
-__mnemonic__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
+__mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
+__mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogul__ _n_ :two::hammer:  
@@ -353,7 +363,7 @@ __ongoing__ _adj_ _Ongoing efforts._
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
-__onus__ _n_  
+__onus__ _n_ :two: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
 __onyx__  
 __oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
 __op-ed__ _adj, n_ :mega:  
@@ -369,6 +379,7 @@ __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._
 __ornament__ _n_  
 __ornamental__ _adj_  
 __ornate__ _adj_ :four::hammer: /ɔrˈneɪt/  
+__orography__ _n_ /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
@@ -588,6 +599,9 @@ __prescient__ _adj_ :es: clarividente, profético
 __presidential suite__ _n_  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __prick__ _v_  
+__prickle__ _n_ __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
+__prickling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ tingling, tingle  
+__prickly pear__ _n_  
 __prickly__ _adj_  
 __priestess__ _n_  
 __prime__ _adj_ _Prime steaks._  
@@ -624,6 +638,7 @@ __provost__ _n_
 __prowess__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
+__pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __psyched__ _v_  
 __psychic reading__ _n_  
@@ -764,6 +779,7 @@ __rink__ _n_ :two::hammer: _A wintertime skating rink._
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
 __riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._  
 __riposte__ _n_ :astonished: /rih-POHST/ A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
+__ritzy__ _adj_ /RIT-see/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier known for luxurious hotels] Stylish, glamorous, elegant, fashionable, etc., especially in an ostentatious manner.  
 __riverfront__  
 __riverside__  
 __roadblock__ _n_ _Substantial roadblocks stand in the way._  
@@ -772,6 +788,7 @@ __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._
 __Robert Burns__ _n_  
 __rocker__ _n_ _Porch rockers._  
 __rockery__ _n_ :four::hammer:  
+__rogue planet__ _n_  
 __roll call__ _n_ _A unique roll call of featured designers._  
 __rollaway bed__  
 __rollicking__  
@@ -813,6 +830,7 @@ __sacrifice__ _n_ :mega:
 __sacristy__ _n_  
 __saga__ _n_ /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
+__saguaro__ _n_  
 __saint__ _v_ (sainted) _The chef should be sainted._  
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __salamander__ _n_  
@@ -874,6 +892,7 @@ __scrap<sup>1</sup>__ _n_
 __scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
+__scratching__ _n_  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
@@ -1026,6 +1045,7 @@ __social hour__ _n_
 __socialite__  
 __sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
 __sofa bed__ _n_ :two::hammer:  
+__softball__ _n_  
 __soloist__ _n_  
 __sonnet__ _n_  
 __sorely__ _adv_ _Sorely needed._  
@@ -1126,6 +1146,7 @@ __stew<sup>1</sup>__ _n_
 __stew<sup>2</sup>__ _v_  
 __stewardship__ _n_ :two::hammer:  
 __stilt__  
+__stinging__ _n_  
 __stockade__ _n_  
 __stockfish__ _n_  
 __stodgy__ _n_  
@@ -1303,6 +1324,7 @@ __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb
 __thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
+__tickling__ _n_ :dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __tidbits__  
 __tight__ _adj_ _Are you on a tight schedule?_  
@@ -1317,6 +1339,7 @@ __timely__ _adv_ :two::hammer: _In a timely manner._
 __timepiece__ _n_ :three::hammer:  
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __timeshare__  
+__tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
 __titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
@@ -1337,6 +1360,7 @@ __top-flight__ _adj_ _Top-flight restaurant._
 __top-notch__  
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
 __toppings__ _n_  
+__torpid__ _adj_ Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __toss<sup>1</sup>__ _v_ _Create your own salad to be freshly tossed._  
 __toss<sup>2</sup>__ _n_ _Great fruitcase toss._  
@@ -1544,6 +1568,7 @@ __whiplash__ _n_ _An amazing, whiplash-inducing performance._
 __whirlpool__ _n_  
 __whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
 __whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
+__white hole__ _n_  
 __white paper__ _n_  
 __white-knuckled__  
 __whitewater__ _n_ :four::hammer: _Whitewater rafting._  
@@ -1601,6 +1626,7 @@ __yesteryear__ _n_ :three::hammer:
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __Yggdrasil__ _n_  
 __yogurt__ _n_ :two::hammer: (yoghourt)  
+__Yom Kippur__ _n_ (Judaism) A holy day observed on the tenth day of Tishri and marked by fasting and prayer for the atonement of sins. Also called _Day of Atonement._  
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
