@@ -1,9 +1,24 @@
+__bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
+__cast a sheep’s eye__ To give a sideways glance or a suspicious look. _When I tried to feed the baby something new, she cast a sheep’s eye at it and then tried to smack it out of my hand._  
+__charley horse__ :dart: A painful muscle spasm that most commonly occurs in the legs. The phrase is thought to have originated from baseball slang. _Spending all day on my feet caused a charley horse in my leg that was so painful, I had to sit down for a while and rest._  
+__cloud nine__ :dart: A state of extreme happiness. Typically appears in the phrase “on cloud nine.” _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
+__cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
+__collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
+__come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
+__come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
+__go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
+__golden handcuffs__  
+__hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
+__in (someone’s) wheelhouse__ :dart: In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone. _It’s clear, however, that the political implications of this issue are well in the author’s wheelhouse._ _Making bread is in a baker’s wheelhouse._  
+__null and void__  
+__out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of pocket__  
 __out the wazoo__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
 __plead the 5th__  
 __put (someone or something) to the test__  
 __put in a good word for someone__  
+__rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
@@ -30,6 +45,7 @@ __steppingstone__
 __sticky fingers__  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __stow away__  
+__strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
 __Sunday scaries__  
 __sweet tooth__  
