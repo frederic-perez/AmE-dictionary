@@ -1,3 +1,6 @@
+__a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasant, dishonorable, or unwanted tends to appear (or reappear), especially at inopportune times. __2__ Things that are done improperly eventually cause problems.  
+__at a snail’s pace__ (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
+__breaking point__  
 __bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
 __cast a sheep’s eye__ To give a sideways glance or a suspicious look. _When I tried to feed the baby something new, she cast a sheep’s eye at it and then tried to smack it out of my hand._  
 __charley horse__ :dart: A painful muscle spasm that most commonly occurs in the legs. The phrase is thought to have originated from baseball slang. _Spending all day on my feet caused a charley horse in my leg that was so painful, I had to sit down for a while and rest._  
@@ -6,11 +9,21 @@ __cock in the henhouse__ The only male in an all-female environment. _Getting a 
 __collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
 __come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
 __come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
+__gaslighting__  
+__get the drift__ To understand the general meaning of some situation or piece of information. _Since I don’t have time at work to read news articles in full, I usually just read a daily news recap to get the drift of what.s going on in the world._  
+__give (one) the cold shoulder__  
 __go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
 __golden handcuffs__  
+__haste makes waste__ _proverb_ Rushing through a task often creates problems or extra work. _Haste makes waste, so please double-check your measurements before cutting the fabric._  
 __hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
+__I wish__  
 __in (someone’s) wheelhouse__ :dart: In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone. _It’s clear, however, that the political implications of this issue are well in the author’s wheelhouse._ _Making bread is in a baker’s wheelhouse._  
+__in excess of__ Over; greater or more than. _The retail giant predicts earnings for the past year in excess of $4 million._  
+__jazzed__  
+__just because__  
 __null and void__  
+__on a roll__  
+__one-off__  
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of pocket__  
 __out the wazoo__  
@@ -23,6 +36,8 @@ __rock bottom__
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
 __save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
+__scads__ _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _I’ve still got scads to do before the in-laws arrive!_  
+__sea change__ A massive, fundamental shift or transformation. _The transition from using desktop computers to mobile devices represents a sea change in data management within the field of information technology._  
 __see for (oneself)__  
 __see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  
 __shoot the breeze__  
@@ -83,6 +98,7 @@ __that’s a given__
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
 __the big picture__  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
+__the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
 __the likes of (someone or something)__  
@@ -112,6 +128,7 @@ __throw money at (someone or something)__
 __throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
 __tick someone off__  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
+__tiger team__  
 __til you drop__  
 __time capsule__  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
@@ -160,6 +177,7 @@ __what’s up with__
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
+__whistleblower__  
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
 __white lie__  
 __white-knuckle__  
