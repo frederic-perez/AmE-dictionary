@@ -1,18 +1,3 @@
-__antenatal__  
-__asterism__ _n_  
-__atonement__ _n_  
-__avuncular__ _adj_ /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
-__baffled__ _adj_ /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
-__behavioral intervention__  
-__bombinate__ _v_ /BAHM-buh-nayt/ To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
-__buddy up__  
-__calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
-__center stage__ _n_  
-__Copernican__ _adj_ /koh/kuh-PUHR-ni-kuhn/ __1__ Very important; radically different; paradigm shifting. __2__ Relating to Copernicus or his theory that the earth rotates on its axis and revolves around the sun.  
-__danseuse__ _n_ A woman who is a ballet dancer.  
-__deciduous__ _adj_  
-__flash mob__ _n_ A large group of people who gather in a predetermined place to perform some brief action and then disperse.  
-__formula milk__ _n_ An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
 __hesperidium__ _n_  
 __kowtow__ _v_  
 __laughing gas__ _n_ Nitrous oxide, especially as used as an anesthetic.  

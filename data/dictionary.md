@@ -569,6 +569,7 @@ __antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forer
 __antedate<sup>1</sup>__ _n_  
 __antedate<sup>2</sup>__ _v_ _It long antedated the plague years._  
 __antediluvian__ _adj_  
+__antenatal__  
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
@@ -822,6 +823,7 @@ __assuage__ _v_ :seven: (assuaged) To make (something burdensome or painful) les
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
+__asterism__ _n_  
 __asthma__ _n_ :three::pencil2::hammer:  
 __astigmatism__ _n_  
 __astir__  
@@ -852,7 +854,7 @@ __atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water,
 __atoll__ _n_ :es: atolón  
 __atolls__ _n_  
 __atone__ _v_ :four: /uh-TOHN/ Atone is usually used with for to mean “to make amends; to provide or serve as reparation or compensation.” _James tried to atone for the wrongdoings of his youth by devoting his life to helping others._  
-__atonement__ _n_  
+__atonement__ _n_ :two::hammer:  
 __atop<sup>1</sup>__ _adv_  
 __atop<sup>2</sup>__ _prep_  
 __atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
@@ -939,7 +941,7 @@ __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s reg
 __avoidance__ _n_  
 __avow__ _v_ :two::hammer: (avowed)  
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
-__avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
+__avuncular__ _adj_ :six: /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful. _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
 __await__ _v_ _Our staff awaits your arrival._  
 __awakening__ _n_  
 __awash__ _adj, adv_ :nine::m: /əˈwɒʃ, əˈwɔʃ/ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
@@ -1026,7 +1028,7 @@ __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She want
 __Baedeker__ _n_ /BAY-de-kuhr/ [:scroll: After the German publisher Karl Baedeker (1801-1859) who founded a company that published travel guidebooks.] A guidebook.  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._ _Syn_ dumbfound, flummox, mystify, nonplus, perplex, puzzle, amaze, stupefy, gravel, vex, pose, stick, beat, get  
-__baffled__ _adj_  
+__baffled__ _adj_ :two: /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _adj_ :two: /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
@@ -1285,6 +1287,7 @@ __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I beg
 __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
+__behavioral intervention__  
 __behemoth__ _n_ :eight: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
 __behest__ _n_ :seven::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
@@ -1710,7 +1713,7 @@ __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bol
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :seven: __1__ Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
 __bombastic__ _adj_ :two: To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
-__bombinate__ _v intr_ /BOM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_  
+__bombinate__ _v intr_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
 __bombing__ _v_  
 __bombshell__ _n_  
 __bombsights__  
@@ -2056,6 +2059,7 @@ __buckwheat__ _n_
 __buckwheats__  
 __bud__ _v_  
 __budding__  
+__buddy up__  
 __buddy__  
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _n_ _I had already sent my editor a budget line on the story._  
@@ -2345,6 +2349,7 @@ __call to action__
 __call<sup>1</sup>__ _n_ :five::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _n_ :three: __1__ A recall of a recently sold product by the manufacturer to correct a defect. _Syn_ recall _The manufacturer was forced to issue a callback of the toy when it was declared a choking hazard._ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
+__calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
 __calling card__  
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
@@ -2638,6 +2643,7 @@ __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._
 __censer__ _n_ :two: A container for burning incense.  
 __censure motion__  
 __centennial__  
+__center stage__ _n_  
 __centerpiece__  
 __centrifuge__ _n_ :two::hammer: _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
@@ -3531,6 +3537,7 @@ __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you ever
 __copay__ _v_ (co-pay)  
 __cope<sup>1</sup>__ _n_ _A grey cope._  
 __cope<sup>2</sup>__ _v_ _Coping strategies._  
+__Copernican__ _adj_ /koh/kuh-PUHR-ni-kuhn/ __1__ Very important; radically different; paradigm shifting. __2__ Relating to Copernicus or his theory that the earth rotates on its axis and revolves around the sun.  
 __copier__ _n_ _Copier service._  
 __copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
@@ -4020,6 +4027,7 @@ __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ _n_ :two::hammer:  
 __danse macabre__ _n_ (Art Terms) Another name for dance of death.  
+__danseuse__ _n_ A woman who is a ballet dancer.  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :seven: Marked with spots of colour, light, or shade. _A dappled horse._ _Trees cast their dappled shade._  
 __dare__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
@@ -4115,7 +4123,7 @@ __decathlon__
 __deceit__ _n_ :two::hammer:  
 __decelerate__ _v_  
 __decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
-__decidious__ _adj_  
+__deciduous__ _adj_ :two::hammer:  
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
@@ -6046,6 +6054,7 @@ __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
 __flare<sup>2</sup>__ _v_ :three::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._  
+__flash mob__ _n_ A large group of people who gather in a predetermined place to perform some brief action and then disperse.  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president’s push to reduce caaarbon pollution._  
 __flash rust__ _n_ The very rapid onset of rust on a metal substrate.  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
@@ -6313,6 +6322,7 @@ __forlornly__
 __formals__ _n_  
 __Formica__  
 __formidable__  
+__formula milk__ _n_ An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
 __formulate__ _v_ _I was formulating my question._  
 __forsake__ _v_ :seven: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken<sup>1</sup>__ _v_ The past participle of forsake.  
