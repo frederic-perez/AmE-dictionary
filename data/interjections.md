@@ -6,6 +6,8 @@ __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate 
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __boo<sup>2</sup>__  
 __boom__  
+__bosh__ :two::hammer: _Oh, bosh._  
+__brrr__ _informal_ An exclamation used to suggest shivering.  
 __d’oh__ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
 __dang__ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
@@ -29,7 +31,7 @@ __heck__ :two: Used as a mild oath.
 __hell yeah__  
 __hell yes/no__ _mainly US informal_ :two: Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hiya__ An informal term of greeting.  
-__hmm__ :three: A sound made when considering or puzzling over something.  
+__hmm__ :four: A sound made when considering or puzzling over something.  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __holy cannoli__ :two: An expression that usually accompanies shock or excitement. _Holy cannoli, what the hell was that?_  
 __holy guacamole__ An exclamation said when surprised, used when in shock or disbelief.  
@@ -38,7 +40,7 @@ __Holy Moses__ :two: Used as an exclamation of surprise or amazement.
 __hosanna__ _n_  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeepers__  
-__jeez__ Used to express surprise or annoyance.  
+__jeez__ :two: Used to express surprise or annoyance.  
 __kaboom__  
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __meh__ :two: Used to express indifference, apathy, or boredom.  
@@ -47,18 +49,22 @@ __namaste__ Used especially among Hindus to express a polite or respectful greet
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ :two::hammer: _You went oh for two._  
 __ouch__  
+__pfft__ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
 __poof__ :three: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
+__psst__ (pst) Used to attract someone’s attention in an unobtrusive manner.  
 __roger__ __1__ _informal_ All right; OK.  
 __Semper fi__ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
 __sh__ (sh, shhh) Used to urge silence.  
 __sheesh__ :two: Used to express mild annoyance, surprise, or disgust.  
+__shh__ (sh) Used to urge silence.  
 __shoop__ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
 __shucks__ :dart: Used to express mild disappointment, disgust, or annoyance.  
 __shush<sup>1</sup>__ :two::hammer:  
 __tee-hee__ An exclamation of laughter, esp when mocking.  
 __That-a-boy!__ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
 __there is no question__ It is indisputable. _There is no question that higher ocean temperatures have resulted in less offshore ice._  
+__tsk__ Used to express disappointment or sympathy. Used, often in quick repetition, as an exclamation of contempt, disdain, impatience, etc.  
 __ugh__ :two::hammer:  
 __uh__ A representation of a common sound made when hesitating in speech.  
 __uh-oh__ :two: Used to express alarm, foreboding, or dismay. _My “uh-oh” bell rings._ _Uh-oh, we can’t seem to find the page you’re looking for._  
@@ -73,7 +79,7 @@ __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.
 __yay__ :six: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __yeet__ _informal, slang, humorous_ Used to express excitement or approval.  
 __yep__ _interj_ _informal_ Yes.  
-__yikes__ :two: An exclamation of surprise or alarm.  
+__yikes__ :three: An exclamation of surprise or alarm.  
 __yo__ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  
 __yuck__ _slang_ Used as an expression of disgust or repugnance. _Yuck, it’s spinach again!_  
-__yup__ _interj_ _informal_ Yes.  
+__yup__ _informal_ Yes.  

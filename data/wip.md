@@ -1,11 +1,3 @@
-__I've got your back__  
-__running theme__ _It seems to be a running theme._  
-__very much so__ (?)  
-__secret weapon__  
-__the clouds are lifting__  
-
-__yikes__
-
 __setback__ _n_  
 __spree__ _v_ (?)  
 __double down__  
@@ -16,15 +8,6 @@ __momentum__ _n_ _I've lost a lot of momentum._
 __obnoxious__  
 __motherlode__ _n_  
 __acculturation__ _n_  
-
-__save the day__  
-__thank you very much__  
-__catch some winks__ _Tom wouldn't be the first pilot to catch some winks in a hot cockpit on alert-five._  
-__figured__  
-__break a sweat__  
-__get on one's nerves__ _A yes-man suck-up can get on your nerves._  
-__for what it's worth__  
-
 __Rosh HaShanah__ _n_  
 __maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
 __proselytize__ _v_ /PRAH-suh-luh-tyze/  
@@ -32,7 +15,6 @@ __ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or sty
 __netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
 __nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
 __misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  
-
 __countless__  
 __infallible__  
 __hinky__ _adj_ _Why this hinky feeling?_  
@@ -55,12 +37,8 @@ __cut it short__
 __then again__  
 __shoot from the hip__  
 __a pipe dream__  
-
 __Latinx__ One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to "Latino" and "Latina." _As a Latinx, I'm very conscious of the issues that affect immigrants._  
 __castle in the air__ A hope or wish, especially for one's life, that is unlikely to come true. A daydream. _I really want to become a famous Hollywood actor, but I realize that it's just a castle in the air and that I shouldn't quit my day job._  
-
-__bosh__ _interj_ :two::hammer: _Oh, bosh._  
-
 __abashed__  
 __astern__  
 __knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door's opening is about 20 inches above walking surface.  
@@ -73,9 +51,7 @@ __ready room__
 __shrieking__ _Shrieking panic._  
 __champing__ _v_  
 __sloughing__ _v_  
-
 __a different ballgame__  
-
 __languid__ _adj_ /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
 __diffidence__ _n_ The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._  
 __ludicrous__ _adj_ /LOO-di-kruhs/ So absurd as to provoke laughter.  
@@ -84,7 +60,6 @@ __caucus__ _n_ /KAW-kus/ A caucus is “a meeting of members of a political part
 __conscription__ _n_  
 __equinox__  
 __zugzwang__  
-
 __ding__ _v tr_ _Dinged aircraft._  
 __inbound__ _adj, adv_  
 __holler__ _v_ (hollered)  
@@ -101,12 +76,6 @@ __blithe__ _adj_ :dart:
 __tapeworm__ _n_  
 __helo__ _n informal_ A helicopter.  
 __detailer__ _n_  
-
-__jeez__ _interj_  
-
-__in bulk__  
-__with a passion__  
-
 __flummoxed__ _adj_ /ˈflʌməkst/  
 __breach__ _v_ __1__ To make a hole or gap in; break through. _Breaching old pipelines._  
 __emery board__ _n_ A small flat strip of wood or card coated with emery powder and used for filing the fingernails. :es: lima de uñas  
@@ -124,7 +93,6 @@ __silk__ _n_
 __uvula__ _n_ :es: úvula, campanilla  
 __backhoe__ _n_ A mechanical excavator whose bucket is attached by a hinge  to a two-part arm and is drawn backward to the machine when in operation.  
 __jodhpurs__ _n pl_ Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
-
 __go to shit__  
 __snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
 __petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother's remedy, a big jar of petrolatum._  
@@ -138,19 +106,7 @@ __pax vobiscum__ Peace be with you.
 __ratoon__ _n_  
 __omniscient__ _adj_ Having complete or unlimited knowledge, awareness, or understanding; perceiving all things.  
 __thresh__ _v_  
-
-__hmm__ _interj_  
-__brrr__ _interj_ _informal_ An exclamation used to suggest shivering.  
-__shh__ _interj_ (sh) Used to urge silence.  
-__tsk__ _interj_ Used to express disappointment or sympathy. Used, often in quick repetition, as an exclamation of contempt, disdain, impatience, etc.  
-__pfft__ _interj_ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
-__psst__ _interj_ (pst) Used to attract someone's attention in an unobtrusive manner.  
-
-
-
 __RIO__ (?) Radar interception officer.  
-
-
 __sitting duck__  
 __for the sake of it__  
 __ladies and gents__  
