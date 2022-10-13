@@ -1,4 +1,18 @@
+__avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
+__brethren__ _n pl_  
+__cloy__ _v_  
+__confetto__ _n_ (_n pl_ confetti)  
+__critique__ _n_ /kruh-TEEK/ A critique is a careful judgment in which you give your opinion about the good and bad parts of something, such as a piece of writing or a work of art. _Although I disagreed with them, the reviewer gave a fair and honest critique of the film._  
+__cur__ _n_  
+__electrocute__ _v tr_  
+__emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
+__foreseeable__ _adj_ _The foreseeable future._  
+__gouge__ _v_  
+__heretical__  
 __hesperidium__ _n_  
+__infidel__  
+__kerfuffle__ _n informal_ /ker-FUFF-ul/ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._  
+__killjoy__ _n_  
 __kowtow__ _v_  
 __laughing gas__ _n_ Nitrous oxide, especially as used as an anesthetic.  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
@@ -30,6 +44,7 @@ __lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projecti
 __lobster roll__  
 __lodge__ _n_ :two::hammer: _Sit on the lodge’s back patio._  
 __loggery__ _n_  
+__logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
 __loophole__ _n_ __2__ A small hole or slit in a wall, especially one through which small arms may be fired.  
@@ -325,6 +340,7 @@ __obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
+__October__ _n_ [:scroll: Like its neighboring months September, November, and December, the month of October kept its numerical name, even after Julius Caesar expanded the calendar year from 10 months to 12.]  
 __octopi__ _n pl_ A plural of octopus.  
 __odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
 __oddball__ _adj, n_  
@@ -497,6 +513,7 @@ __piano bar__
 __pica__ _n_ A psychiatric disorder characterized by the compulsive eating of nonfood substances, such as soil, clay, ice, or hair. _Syn_ allotriophagy  
 __pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
+__pickup__ _adj_ _A pickup team._  
 __picky__ _adj_  
 __pico de gallo__ _n_ :two::hammer:  
 __picturesque__ _adj_ :four::hammer:  
@@ -903,7 +920,7 @@ __seek__ _v_ _We seek to characterize the performance variations._
 __seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
-__seethe__ _v_  
+__seethe__ _v_ :two::hammer: _His seething frustration._  
 __segue__ _v_ (segues)  
 __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
@@ -1067,6 +1084,7 @@ __splendour__ _n_
 __splurge<sup>1</sup>__ _n_  
 __splurge<sup>2</sup>__ _v_ :two::hammer:  
 __spoofing__ _n_ :dart: The act or an instance of impersonating another person on the internet or via email.  
+__sporadic__ _adj_ /spuh-RAD-ik/  
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
@@ -1269,6 +1287,7 @@ __teetotaling__ _n_
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
+__temper__ _v_ (tempered)  
 __tenement__  
 __tenet__ _n_  
 __tenterhook__ _n_  
@@ -1328,6 +1347,7 @@ __tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling
 __titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
+__toady__ _v_  
 __tobbogan__ _v intr_  
 __tobogganer__  
 __tobogganing__ _n_ _Summer tobogganing run._  
@@ -1374,6 +1394,7 @@ __trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidat
 __trestle__ _n_ :two::hammer: _Railway trestles._  
 __tribulation__ _n_  
 __tributary__ _n_  
+__trickle__ _n_ _A trickle of sweat._  
 __trim__ _n_ _Metallic trim._  
 __trimmings__ _n_ _A delicious dinner complete with all the trimmings and free seconds._  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
@@ -1607,6 +1628,7 @@ __yatch__ _n_ :mega:
 __year-round__ _adj_ :three: Existing, active, or continuous throughout the year: _a year-round resort._  
 __yearn__ _v_  
 __yeast__ _n_  
+__yeoman__ _n_  
 __yesteryear__ _n_ :three::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __Yggdrasil__ _n_  

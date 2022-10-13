@@ -25,24 +25,6 @@ __break a sweat__
 __get on one's nerves__ _A yes-man suck-up can get on your nerves._  
 __for what it's worth__  
 
-__trickle__ _A trickle of sweat._  
-__seething__ _His seething frustration._  
-__temper__ _v_ (tempered)  
-__toady__ _v_  
-__cur__ _n_  
-__gouge__ _v_  
-__heretical__  
-__cloy__ _v_  
-__foreseeable__ _adj_ _The foreseeable future._  
-__pickup__ _A pickup team._  
-__brethren__  
-__killjoy__  
-__finagle__ _v_  
-__infidel__  
-__yeoman__  
-
-
-
 __Rosh HaShanah__ _n_  
 __maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
 __proselytize__ _v_ /PRAH-suh-luh-tyze/  
@@ -73,16 +55,6 @@ __cut it short__
 __then again__  
 __shoot from the hip__  
 __a pipe dream__  
-
-__emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
-__critique__ _n_ /kruh-TEEK/ A critique is a careful judgment in which you give your opinion about the good and bad parts of something, such as a piece of writing or a work of art. _Although I disagreed with them, the reviewer gave a fair and honest critique of the film._  
-__logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
-__October__ _n_ [:scroll: Like its neighboring months September, November, and December, the month of October kept its numerical name, even after Julius Caesar expanded the calendar year from 10 months to 12.]  
-__kerfuffle__ _n informal_ /ker-FUFF-ul/ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._  
-__avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
-__confetto__ _n_ (_n pl_ confetti)  
-__electrocute__ _v tr_  
-__sporadic__ _adj_ /spuh-RAD-ik/  
 
 __Latinx__ One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to "Latino" and "Latina." _As a Latinx, I'm very conscious of the issues that affect immigrants._  
 __castle in the air__ A hope or wish, especially for one's life, that is unlikely to come true. A daydream. _I really want to become a famous Hollywood actor, but I realize that it's just a castle in the air and that I shouldn't quit my day job._  
