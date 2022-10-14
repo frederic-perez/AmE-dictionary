@@ -1,18 +1,3 @@
-__avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
-__brethren__ _n pl_  
-__catch a wink__ _v_ Take a siesta. _Tom wouldn’t be the first pilot to catch some winks in a hot cockpit on alert-five._  
-__cloy__ _v_  
-__confetto__ _n_ (_n pl_ confetti)  
-__critique__ _n_ /kruh-TEEK/ A critique is a careful judgment in which you give your opinion about the good and bad parts of something, such as a piece of writing or a work of art. _Although I disagreed with them, the reviewer gave a fair and honest critique of the film._  
-__cur__ _n_  
-__electrocute__ _v tr_  
-__emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
-__figure__ _v_  
-__foreseeable__ _adj_ _The foreseeable future._  
-__gouge__ _v_  
-__heretical__  
-__hesperidium__ _n_  
-__infidel__  
 __kerfuffle__ _n informal_ /ker-FUFF-ul/ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._  
 __killjoy__ _n_  
 __kowtow__ _v_  

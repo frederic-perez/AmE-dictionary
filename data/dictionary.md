@@ -936,6 +936,7 @@ __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _W
 __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
 __aviary__ _n_ :four: A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
 __avid__ _adj_ :five::hammer: _I’m an avid listener of Beautiful Anonymous._  
+__avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avoidance__ _n_  
@@ -1928,7 +1929,7 @@ __breathing room__
 __breech__ _n_ :five::hammer: (breeches)  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
-__brethren__ _n_ :three::hammer: _Political brethren._  
+__brethren__ _n pl_ :four::hammer: _Political brethren._  
 __breviary__ _n_ A book containing the hymns, offices, and prayers for the canonical hours.  
 __brew__ _n_ :two: __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_ _They stop in after work for one or more brews._  
 __brewpub__ _n_  
@@ -2577,6 +2578,7 @@ __catastrophe__ _n_
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __catcall<sup>1</sup>__ _n_ :seven::hammer: (catcalls) _A pack of men on motorbikes left a wake of catcalls._  
 __catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
+__catch a wink__ _v_ Take a siesta. _Tom wouldn’t be the first pilot to catch some winks in a hot cockpit on alert-five._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
 __catch__ _n_ :four: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
@@ -3081,6 +3083,7 @@ __clough__ _n_ :three::hammer:
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
+__cloy__ _v_  
 __cloying__ _adj_ :five::hammer: :es: empalagoso _She is cordial without being cloying._  
 __Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
@@ -3375,6 +3378,7 @@ __confederate<sup>2</sup>__ _n_
 __confer__ _v_ :two::hammer: (conferred)  
 __conference call__  
 __conferred__ _v_  
+__confetto__ _n_ (_n pl_ confetti)  
 __confidant__ _n_ :eight: (also confidante) /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
 __confide__ _v_ :five::hammer: (confided)  
 __confidence__  
@@ -3789,7 +3793,7 @@ __crisscrossed__ _adj_
 __critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
 __critical mass__  
 __criticize__ _v_  
-__critique<sup>1</sup>__ _n_ :two::mega::hammer:  
+__critique<sup>1</sup>__ _n_ :three::mega: /kruh-TEEK/ A critique is a careful judgment in which you give your opinion about the good and bad parts of something, such as a piece of writing or a work of art. _Although I disagreed with them, the reviewer gave a fair and honest critique of the film._  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
 __critters__ _n_ :five::hammer: _Garden critters._ _Flying critters._ _The little anime critters at the Pokémon Center._  
 __croak__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked gayly._  
@@ -3911,7 +3915,7 @@ __cupidity__ _n_ :three::astonished::hammer:
 __cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
 __cupping__ _n_ :pencil2:  
-__cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
+__cur__ _n_ :six::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curassow__ _n_ :pencil2:  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
@@ -5172,6 +5176,7 @@ __Election Day__
 __elective__ _n_ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
 __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
+__electrocute__ _v tr_  
 __electrolysis__ _n_ :two::pencil2::hammer:  
 __electronics__ _n pl_ (plurale tantum)  
 __elegy__ _n_ :four: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
@@ -5214,6 +5219,7 @@ __embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Stea
 __embezzlement__ _n_  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embitterment__  
+__emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
 __embodiment__  
 __embody__ _v_  
 __embolden__ _v_ :three::hammer:  
@@ -5911,7 +5917,7 @@ __figure out__ _phr v_ :two::hammer:
 __figure skates__ _n_  
 __figure skating__  
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
-__figure<sup>2</sup>__ _v_ _informal_  
+__figure<sup>2</sup>__ _v_ _informal_ :two::hammer:  
 __figurehead__ _n_ :three::hammer:  
 __filbert__ _n_ :es: avellana  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
@@ -6294,7 +6300,7 @@ __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the fo
 __forensics__ _n_ :two::hammer:  
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
-__foreseeable__  
+__foreseeable__ _adj_ :two::hammer: _The foreseeable future._  
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
 __forest__ _v_  
@@ -6963,7 +6969,7 @@ __gossamer<sup>2</sup>__ _n_ :two::hammer: /GAH-suh-mer/
 __gossipy__ _adj_  
 __gotcha__  
 __Goth__ _n_  
-__gouge<sup>1</sup>__ _v_ :nine: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
+__gouge<sup>1</sup>__ _v_ :nine::m: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
 __gouge<sup>2</sup>__ _n_  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
@@ -7657,6 +7663,7 @@ __here’s looking at you__
 __heresy__ _n_ :three::hammer:  
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
+__heretical__  
 __heretofore__ _adv_ :two::hammer:  
 __heriot__ _n_  
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
@@ -7673,7 +7680,7 @@ __herringbone__ _n_ _Basketball shoes with herringbone designs._
 __Hershey kisses__  
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
-__hesperidium__ _n_ The fruit of a citrus plant, as an orange.  
+__hesperidium__ _n_ :two: The fruit of a citrus plant, as an orange.  
 __hew__ _v_ :nine::m: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._ _A hand-hewn cave._  
 __hex key__ _n_ Allen key. _Hex key set._  
 __hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
@@ -8338,7 +8345,7 @@ __infeasible__ _adj_ _Syn_ unfeasible
 __infectivity__ _n_  
 __inferno__ _n_ _All kinds of Indian infernos._  
 __infibulation__ _n_ _The Moslem practice of infibulation involved attaching a padlock to the labia._  
-__infidel__ _n_  
+__infidel__ _n_ :two::hammer:  
 __infighting__ _n_ :two::hammer:  
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
