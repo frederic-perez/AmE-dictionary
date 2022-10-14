@@ -164,6 +164,7 @@ __rep__ :three::hammer: _You have to do thousands of reps to reach such level._
 __RGA__ Republican Governors Association. _RGA chairman._  
 __RICO__ _He had been indicted on RICO charges._  
 __RIF__ _Reading Is Fundamental._  
+__RIO__ Radar interception officer.  
 __ROI__ Return on investment.  
 __RSV__ Respiratory syncytial virus.  
 __RSVP__ Répondez S’il Vous Plaît. _(French: Reply, If You Please; commonly seen on invitations)_ _Guests must RSVP to foo@bar.baz by June 19._  
@@ -203,6 +204,7 @@ __w/o__ _abbr_ Without.
 __WFH__  
 __WHO__ World Health Organization.  
 __WMO__ :three: World Meteorological Organization.  
+__WSO__ Weapon systems officer.  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
 __YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
