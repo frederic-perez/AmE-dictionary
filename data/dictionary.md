@@ -921,6 +921,7 @@ __autocrat__ _adj_ :two::hammer:
 __autocratic__ _adj_ :three::hammer:  
 __autograph tree__ _n_ :astonished:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
+__autolatry__ _n_ /aw-TOL-uh-tree/ The worship of oneself. _Syn_ idiolatry, self-worship  
 __autological__ _adj_ /ô′tə-lŏj′ĭkəl/ Being a word that possesses the characteristic it describes. The word _polysyllabic_ is autological, since it is itself polysyllabic. _The word level is both a palindrome and an autological word. The see-saw “v” in the middle makes it extra special._  
 __autolysis__ _n_  
 __automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
@@ -4144,9 +4145,11 @@ __decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily wh
 __deconstruct__ _v_  
 __décor__ _n_  
 __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
+__decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
 __decrease__ _n_ _An abrupt decrease._  
 __decreed__ _v_  
 __decrepit__ _adj_ :two::hammer:  
+__decrepitude__ _n_ The quality or condition of being weakened, worn out, impaired, or broken down by old age, illness, or hard use. _Syn_ dilapidation _Despite his sixty years and snow-white hair, his handshake was firmly hearty, and he showed no signs of decrepitude._  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
 __decry__ _v_ :nine::m: (decried; decrying) /dih-KRY/ To express strong disapproval of. Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._ _The editorial decried the shuttering of the movie theater, which has been a local landmark for many years._  
 __decussate<sup>1</sup>__ _v_  
@@ -8829,7 +8832,7 @@ __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
 __kerchief__ _n_  
-__kerfuffle__ _n_ :two: (kerkuffles) _informal_ _chiefly Brit_ A disturbance or commotion typically caused by a dispute or conflict. _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
+__kerfuffle__ _n informal_ :three: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __kersey__ _n_  
 __keseboy__  
 __ketamine__ _n_ (Special K)  
@@ -8867,7 +8870,7 @@ __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
 __killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
-__killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
+__killjoy__ _n_ :two: One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kiln__ _n_ :two: A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kin__  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
@@ -8964,7 +8967,7 @@ __Kool-Aid__
 __Kosher salt__  
 __kosher<sup>1</sup>__ _n_ _informal_  
 __kosher<sup>2</sup>__ _adj_ :three: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. _Is it kosher to wear jeans in the office?_ __b__ Genuine; authentic.  
-__kowtow__ _v_ :five::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
+__kowtow__ _v_ :six::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
 __kroop__  
@@ -9123,6 +9126,7 @@ __laudable__
 __laudation__ _n_ The act of lauding; praise.  
 __laudatory__ _adj_ Expressing praise; commendatory.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
+__laughing gas__ _n_ Nitrous oxide, especially as used as an anesthetic.  
 __laughing very hard__  
 __laughingstock__  
 __launch__ _v_ _Launching the projectile/friend._  
@@ -9264,7 +9268,8 @@ __liberty__ _n_ :three: __5__ (Nautical Terms) __a__ Authorized leave granted to
 __libration__ _n_ A very slow oscillation, real or apparent, of a satellite as viewed from the larger celestial body around which it revolves. _Due to lunar libration, people on Earth can see about 59% of the Moon over time._  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
-__licentious__  
+__licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
+__licentious__ _adj_ :two::hammer:  
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -9272,8 +9277,10 @@ __lick-spittle__ _n_ :dart: One who is abject enough to lick, as it were, anothe
 __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
 __licorice__ _n_ :five::camera::mega: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lidar__  
+__lido__ _n_ A recreational facility including a swimming pool for water sports.  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__ _n_ :three::hammer:  
+__liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The liegeman was expected to provide military support if his lord went to battle._  
 __lier__ _n_ A person who lies down.  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
@@ -9285,9 +9292,11 @@ __lifesaver__ _n_
 __lift<sup>1</sup>__ _n_ :two::hammer: _I could give you a lift home._  
 __lift<sup>2</sup>__ _v_ _Who decides when covid-19 restrictions are lifted?_  
 __liftgate__  
+__ligand__ _n_  
 __ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __ligature__ _n_  
 __liger__ _n_  
+__light rail__ _n_ :four::hammer:  
 __light switch__ _n_  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ _adj, n, v_ :mute:[li~~gh~~t]  
@@ -9296,18 +9305,18 @@ __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revela
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
 __lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ lightsome, blithe  
+__lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_ :two::hammer:  
 __like hell__  
-__like shooting fish in a barrel__  
 __like-minded__ _adj_ Agreeing in opinions, goals, etc.  
 __likelier__  
 __likelihood__ _n_ :two::pencil2: Probability.  
 __likely__ _adj, adv_ _You are likely to get derailed into organizing._  
-__likewise__ _adv_ :two::hammer:  
+__likewise__ _adv_ :three::hammer:  
 __lilac tree__  
-__lilac__ _n_ :two::hammer:  
+__lilac__ _n_ :three::hammer:  
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
 __lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?_  
@@ -9316,8 +9325,9 @@ __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ 
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
 __limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
-__limestone__ _n_ :two::hammer:  
+__limestone__ _n_ :five::hammer:  
 __liminal__ _adj_ __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
+__limitless__  
 __limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
 __limo__  
 __limp__ _adj_ :two::hammer: _Limp spinoff._ _Limp wrists._  
@@ -9325,7 +9335,7 @@ __limpid__ _adj_
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
 __linchpin__ _n_ :seven: A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
-__line up__ _v_ :two::hammer:  
+__line up__ _v_ :three::hammer: _Huge crowds are lining up._  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-up__ _n_ _From time to time it is necessary to change (TV) channel line-ups._  
 __lineages__  

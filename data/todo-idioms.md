@@ -34,6 +34,8 @@ __in bulk__
 __in excess of__ Over; greater or more than. _The retail giant predicts earnings for the past year in excess of $4 million._  
 __jazzed__  
 __just because__  
+__like shooting fish in a barrel__  
+__like there’s no tomorrow__  
 __null and void__  
 __on a roll__  
 __one-off__  

@@ -1,23 +1,3 @@
-__autolatry__ _n_ /aw-TOL-uh-tree/ The worship of oneself. _Syn_ idiolatry, self-worship  
-__decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
-__decrepitude__ _n_ The quality or condition of being weakened, worn out, impaired, or broken down by old age, illness, or hard use. _Syn_ dilapidation _Despite his sixty years and snow-white hair, his handshake was firmly hearty, and he showed no signs of decrepitude._  
-__kerfuffle__ _n informal_ /ker-FUFF-ul/ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._  
-__killjoy__ _n_  
-__kowtow__ _v_  
-__laughing gas__ _n_ Nitrous oxide, especially as used as an anesthetic.  
-__licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
-__licentious__ _adj_  
-__lido__ _n_ A recreational facility including a swimming pool for water sports.  
-__liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The liegeman was expected to provide military support if his lord went to battle._  
-__ligand__ _n_  
-__light rail__ _n_ :four::hammer:  
-__lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
-__like there’s no tomorrow__  
-__likewise__ _adv_  
-__lilac__  
-__limestone__ _n_ :three::hammer:  
-__limitless__  
-__line up__ _v_ _Huge crowds are lining up._  
 __lingonberry__ _n_ :two::hammer: :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
 __lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
 __lintel__ _n_  
