@@ -1,3 +1,6 @@
+__autolatry__ _n_ /aw-TOL-uh-tree/ The worship of oneself. _Syn_ idiolatry, self-worship  
+__decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
+__decrepitude__ _n_ The quality or condition of being weakened, worn out, impaired, or broken down by old age, illness, or hard use. _Syn_ dilapidation _Despite his sixty years and snow-white hair, his handshake was firmly hearty, and he showed no signs of decrepitude._  
 __kerfuffle__ _n informal_ /ker-FUFF-ul/ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._  
 __killjoy__ _n_  
 __kowtow__ _v_  
@@ -201,6 +204,7 @@ __molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, 
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
 __monolith__ _n_  
+__monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __Moor__ _n_  
@@ -332,6 +336,7 @@ __octopi__ _n pl_ A plural of octopus.
 __odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
 __oddball__ _adj, n_  
 __odeum__ _n_  
+__oenophile__ _n_ A connoisseur of fine wines. _Syn_ wine lover _The oenophile was heartbroken when months of heavy rain ruined a particularly promising grape harvest._  
 __off-color__ _adj_ _An off-color remark._  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
@@ -395,6 +400,7 @@ __overhaul<sup>2</sup>__ _n_
 __overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
 __overly__  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
+__Overton window__ _n_ /OH-vuhr-tuhn WIN-doh/ [:scroll: After Joseph Overton (1960-2003) who proposed the idea] The range of beliefs, attitudes, etc., considered acceptable at any given time.  
 __overwhelm__ _v_ /oh-ver-WELM/  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
@@ -665,6 +671,7 @@ __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant th
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
 __quintessential__ _adj_ :three::hammer:  
 __quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
+__rabble__ _n_ /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._  
 __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
 __radar__ _n_ :mega:  
@@ -1366,6 +1373,7 @@ __traboule__ _n_
 __trade-off__ _n_ :two::hammer: (trade-offs)  
 __trail__ _n_ :three::hammer:  
 __trailhead__ _n_ :two::hammer:  
+__transmogrify__ _v_ /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __trashy__  
 __travertine__ _n_  
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
