@@ -1,18 +1,3 @@
-__lingonberry__ _n_ :two::hammer: :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
-__lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
-__lintel__ _n_  
-__liquefaction__ _n_  
-__liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
-__lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
-__listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
-__listing__ _n_ _Lodging listings._  
-__litany__ _n_ /LIT-uh-nee/  
-__living room__ _n_  
-__living statue__  
-__loanword__ _n_ :two::hammer:  
-__lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
-__lobster roll__  
-__lodge__ _n_ :two::hammer: _Sit on the lodge’s back patio._  
 __loggery__ _n_  
 __logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachist__  

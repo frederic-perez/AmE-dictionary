@@ -9349,12 +9349,14 @@ __linemen__ _n_
 __liners__ _n_ _Hospital liners._  
 __linger__  
 __lingering__ _adj_ Lasting for a long time, especially when this is unpleasant or not necessary. _The lingering feeling._  
+__lingonberry__ _n_ :two::hammer: :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
+__lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
 __linguaphile__ _n_  
 __liniment__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ embrocation _The veterinarian instructed me to apply the liniment to the horse’s sore leg twice a day._  
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
-__lintel__ _n_ :two::hammer: _Stone lintels._ :es: dintel  
+__lintel__ _n_ :three::hammer: _Stone lintels._ :es: dintel  
 __lionhearted__ _adj_  
 __lionized__ _v_  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
@@ -9362,20 +9364,23 @@ __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration
 __lipped__ _v_  
 __lippy__ _adj_  
 __lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
+__liquefaction__ _n_  
 __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._  
+__liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
+__lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __list__ _n_ __3__ An inclination to one side, as of a ship; a tilt. _She carried a starboard list of about five degrees._  
 __listen__ _v_ :mute:[lis~~t~~en]  
 __listening session__  
-__listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
-__listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
+__listicle__ _n_ :two: /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list. The word is a portmanteau of “list” and “article.”  
+__listing__ _n_ :five::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._ _Lodging listings._  
 __listless__ _adj_ :two::hammer:  
 __listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __lit crit__ _n_ _informal_ Literary criticism.  
-__litany__ _n_ :eight: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__litany__ _n_ :nine: /LIT-uh-nee/ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate<sup>1</sup>__ _adj_  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
@@ -9396,6 +9401,8 @@ __livery__ _n_ :three::astonished: (liveries) __1__ The identifying uniform, bad
 __livestock__ _n_  
 __livid__ _adj_ :two::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
+__living room__ _n_  
+__living statue__  
 __living wills__  
 __lizard brain__ _n_ :two::hammer: (lizard brains)  
 __llama__  
@@ -9406,11 +9413,13 @@ __loaf<sup>1</sup>__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. T
 __loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.  
 __loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers on the job._  
 __loan__ _n_ :two::hammer: (loans)  
-__loanword__ _n_ A word taken from another language and at least partly naturalized.  
+__loanword__ _n_ :three: A word taken from another language and at least partly naturalized.  
 __loath__ _adj_ Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
 __lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wall._  
 __lobbyist__ _n_  
+__lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
+__lobster roll__  
 __locale__ _n_ :two::hammer: _We want to recruit nationally, but in our locale we have talent._  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
@@ -9428,7 +9437,7 @@ __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for a
 __locust__ _n_ :five::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
 __lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
-__lodge<sup>1</sup>__ _n_ _Fishing lodges._  
+__lodge<sup>1</sup>__ _n_ :three::hammer: _Sit on the lodge’s back patio._ _Fishing lodges._  
 __lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._  
 __lodging__  
 __lodgings__  
