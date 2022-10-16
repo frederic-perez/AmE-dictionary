@@ -1,18 +1,3 @@
-__abashed__  
-__accoutrements__  
-__acculturation__ _n_  
-__aft__  
-__astern__  
-__avionics__ _n_  
-__backhoe__ _n_ A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
-__blithe__ _adj_ :dart:  
-__bluff__  
-__breach__ _v_ __1__ To make a hole or gap in; break through. _Breaching old pipelines._  
-__bumbling__  
-__bunting__ _n_ __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
-__cadre__ _n_  
-__carabiner__ _n_ _Syn_ karabiner, snap ring :es: mosquetón  
-__caucus__ _n_ /KAW-kus/ A caucus is “a meeting of members of a political party for the purpose of choosing candidates for an election.” It also refers to “a group of people who meet to discuss a particular issue or to work together for a shared, usually political goal.” _Members of the caucus debated long and hard to come to a unified position on the issue._  
 __champing__ _v_  
 __chivvy__ _v_ (chivy)  
 __conscription__ _n_  

@@ -39,7 +39,7 @@ __abalone__ _n_ :two::hammer:
 __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
 __abase__ _v_ _To abase a King and leave him on the throne has its dangers._  
 __abasement__ _n_  
-__abashed__ _adj_ :three: Ill at ease, embarrassed, or confused; ashamed.  
+__abashed__ _adj_ :four: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
 __abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
@@ -126,10 +126,11 @@ __account<sup>2</sup>__ _v tr_ _Measure cross-traffic and account for it._
 __accountant__ _n_ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
-__accoutrement__ _n_ :six::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
+__accoutrement__ _n_ :seven::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :six: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
+__acculturation__ _n_  
 __acerbic__ _adj_ :four::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
@@ -262,7 +263,7 @@ __afoul__ _adj_ :two::hammer:
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __African American__ _n_ _As many as one third of the cowboys on the great cattle drives were African American._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__aft__ _adj, adv_ :seven: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
+__aft__ _adj, adv_ :eight: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _Syn_ abaft, astern _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
 __aftereffects__  
@@ -824,6 +825,7 @@ __assurance__ _n_ :two::hammer: (assurances)
 __assuredness__ _n_  
 __asswipe__ _n_  
 __asterism__ _n_  
+__astern__ _adj, adv_  
 __asthma__ _n_ :three::pencil2::hammer:  
 __astigmatism__ _n_  
 __astir__  
@@ -938,6 +940,7 @@ __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._
 __aviary__ _n_ :four: A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
 __avid__ _adj_ :five::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
+__avionics__ _n_  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avoidance__ _n_  
@@ -998,7 +1001,7 @@ __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set
 __backfill__  
 __backfire__ _v_  
 __backhaul__ _n, v_  
-__backhoe__ _n_ :two::hammer:  
+__backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
@@ -1586,7 +1589,7 @@ __blinker__ _n_ __1__ A device for flashing light signals. __2__ A flashing ligh
 __blip<sup>1</sup>__ _n_ :five: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
 __blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
-__blithe__ _adj_ :six: __1__ Carefree and lighthearted. __2__ Lacking or showing a lack of due concern; casual: _spoke with blithe ignorance of the true situation._  
+__blithe__ _adj_ :dart::seven: __1__ Carefree and lighthearted. __2__ Lacking or showing a lack of due concern; casual: _spoke with blithe ignorance of the true situation._  
 __blithely__ _adv_ :nine: In a joyous manner. _The worst option is to blithely add getters and setters._  
 __blitheness__  
 __blither__  
@@ -1646,7 +1649,7 @@ __bluegill__
 __bluegrass__  
 __blueprint__ _n_ :eight::hammer: (blueprints)  
 __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
-__bluff<sup>2</sup>__ _n_ :three::hammer:  
+__bluff<sup>2</sup>__ _n_ :four::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has.  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
@@ -1897,7 +1900,7 @@ __brazenness__ _n_ The state or quality of being impudent or arrogantly self-con
 __brazer__  
 __brazier__  
 __breach<sup>1</sup>__ _n_ :two::hammer:  
-__breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate  
+__breach<sup>2</sup>__ _v_ :seven: (breached) __1__ To make a hole or gap in; break through. _Breaching old pipelines._ __2__ To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumb__ _n_  
 __breadcrumbing__ _n_ _slang_ When the “crush” has no intentions of taking things further, but they like the attention. So they flirt here or there, send dm/texts just to keep the person interested, knowing damn well they’re staying single.  
@@ -2114,9 +2117,10 @@ __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice
 __bum<sup>2</sup>__ _v_ :three::hammer: _It may be easier to rent a car or bum a ride._  
 __bum<sup>3</sup>>__ _n_ :four: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ _informal_ A single-minded enthusiast of a specific sport: _a ski bum._ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
-__bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
+__bumble<sup><1/sup>__ _v intr_ :nine::m: __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner. _Syn_ blunder __3__ To make a buzzing sound.  
+__bumble<sup>2</sup>__ _v tr_ :nine::m: __1__ To say (something) in a faltering manner. __2__ To bungle; botch: _bumble one’s lines in a play._  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
-__bumbling__ _adj_  
+__bumbling__ _adj_ :two: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
@@ -2152,7 +2156,7 @@ __bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speech
 __bunny__ _n_ __2__ _Professions_ A night-club hostess whose costume includes a rabbit-like tail and ears. _Syn_ bunny girl _Hugh Hefner and his bunnies._  
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
-__bunting__ _n_  
+__bunting__ _n_ :two::hammer: __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
 __Bunyanesque__ _adj_  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
@@ -2309,7 +2313,7 @@ __Caddy__ _n_ A Cadillac car.
 __cadence__ _n_ :three::hammer:  
 __cadet__ _n_  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
-__cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__cadre__ _n_ :seven::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before the usual time. Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
@@ -2453,7 +2457,7 @@ __captaincy__ _n_ :two::hammer:
 __captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
-__carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
+__carabiner__ _n_ :camera::four::hammer: _Syn_ karabiner, snap ring :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
 __caramel apple__ _n_ :two::hammer:  
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
@@ -2606,7 +2610,7 @@ __catwalk__ _n_ :three::hammer:
 __catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2__ A fashion model. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
-__caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
+__caucus__ _n_ :four: /KAW-kus/ A caucus is “a meeting of members of a political party for the purpose of choosing candidates for an election.” It also refers to “a group of people who meet to discuss a particular issue or to work together for a shared, usually political goal.” _Members of the caucus debated long and hard to come to a unified position on the issue._ _Kentucky will hold a Republican caucus on March 5._  
 __caught up__ _adj_ Having become involved involuntarily: _caught up in the excitement of the crowd; caught up in the scandal._  
 __caught__ _v_ :mute:[cau~~gh~~t] Past tense and past participle of catch.  
 __cauldron__ _n_  
