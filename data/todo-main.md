@@ -1,8 +1,14 @@
+__accrete__ _v_  
 __anaphora__ _n_  
 __Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
+__blather__ _v intr_ (blether) To talk nonsensically.  
+__bramble__ _n_ :es: zarza  
+__breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
+__breech position__ _n_ When a child is oriented feet first in the mother’s uterus just before delivery.  
 __cadence__ _n_ /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
 __cordate__ _adj_ Having a heart-shaped outline. _Syn_ heart-shaped, cordiform _When a cordate leaf fell from the tree, she considered it a sign that she would soon find love._  
 __despondency__ _n_ Depression of spirits from loss of hope, confidence, or courage; dejection. _Syn_ despondence, disconsolateness _He slipped through all the grades of despondency until he reached a bottom of absolute gloom._  
+__despondent__ _adj_  
 __desultory__ _adj_  
 __frenetic__ _adj_ /frih-NET-ik/ Marked by excitement, disorder, or anxiety-driven activity. _Syn_ frenzied, frantic _The celebration was noisy and frenetic, lasting into the wee hours of morning._  
 __loggery__ _n_  
@@ -184,6 +190,7 @@ __Moor__ _n_
 __moor__ _n_ :two::hammer: _Heather-filled moors._  
 __Moorish__ _adj_ _Moorish architecture._  
 __mop top hair__  
+__morass__ _n_ __1__ A tract of swampy low-lying land. __2__ A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._  
 __moray eel__ _n_  
 __moreish__ _adj_ :two::hammer: _Moreish cocktails._  
 __moreover__ _adv_ _Syn_ furthermore, also, further, in addition, too, as well, besides, likewise, what is more, to boot, additionally, into the bargain, withal  
@@ -365,7 +372,7 @@ __outrage__ _n_ /ˈaʊt reɪdʒ/
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
 __outshine__ _v_  
 __outwear__ _n_  
-__overarching__ _adj_  
+__overarching__ _adj_ :two::hammer:  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul<sup>1</sup>__ _v_ :dart:  
@@ -410,6 +417,7 @@ __parishioner__ _n_
 __parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
+__paroxysm__ _n_  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parterre__ _n_ _A rose parterre._  
 __partial__ _adj_ _Partial kitchen._  
@@ -652,6 +660,7 @@ __rafting__ _n_ _River rafting._
 __rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __ragu__ _n_  
 __rail car__  
+__rail__ _v intr_ To express objections or criticisms in bitter, harsh, or abusive language. _Syn_ scold  
 __raillery__ _n_  
 __rambler__ _n_  
 __rampant__ _adj_  
@@ -681,6 +690,7 @@ __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more b
 __recitation__ _n_  
 __reckoning__ _n_  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
+__reconvene__ _v_ To gather, call together, or summon again, esp for a formal meeting.  
 __recount__ _v_  
 __recoup__ _v_  
 __recumbent__ _adj_  
@@ -1445,6 +1455,7 @@ __unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free
 __unwittingly__  
 __up to now__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
+__upheaval__ _n_  
 __upholder__ _n_  
 __upkeep__ _n_ _Chalkboards did not require much upkeep._  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
@@ -1502,7 +1513,7 @@ __vocation__ _n_ /voh-KAY-shun/
 __vociferous__ _adj_ /voh-SIF-uh-rus/  
 __voles__ _n_ _Water voles._  
 __voucher__ _n_ _A lunch voucher._  
-__wade__ _v_  
+__wade__ _v_ :two::hammer:  
 __waffle__  
 __wager__ _v_ :two::hammer:  
 __waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
