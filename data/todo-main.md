@@ -1,3 +1,10 @@
+__anaphora__ _n_  
+__Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
+__cadence__ _n_ /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
+__cordate__ _adj_ Having a heart-shaped outline. _Syn_ heart-shaped, cordiform _When a cordate leaf fell from the tree, she considered it a sign that she would soon find love._  
+__despondency__ _n_ Depression of spirits from loss of hope, confidence, or courage; dejection. _Syn_ despondence, disconsolateness _He slipped through all the grades of despondency until he reached a bottom of absolute gloom._  
+__desultory__ _adj_  
+__frenetic__ _adj_ /frih-NET-ik/ Marked by excitement, disorder, or anxiety-driven activity. _Syn_ frenzied, frantic _The celebration was noisy and frenetic, lasting into the wee hours of morning._  
 __loggery__ _n_  
 __logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachist__  
@@ -8,6 +15,7 @@ __loose slots__ _n_ :two: Term used to describe slots that are generous payers, 
 __loquacious__ _adj_ :astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __lore__ _n_ :three::hammer: _Crazy folk lore._  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
+__Louisiana Purchase__ _n_ Territory in the western United States purchased from France in 1803 for $15 million; extends from the Mississippi River to the Rocky Mountains and from the Gulf of Mexico to Canada.  
 __lout__ _n_ /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __low-key__ _adj_  
 __lowdown__ _n_  
@@ -1069,6 +1077,7 @@ __standee__
 __standout__ _n_  
 __standpoint__ _n_ _From a technical standpoint._  
 __standstill__ _n_  
+__stanza__ _n_ __1__ A fixed number of verse lines arranged in a definite metrical pattern, forming a unit of a poem. __2__ A period (such as a half or an inning) into which the duration of a game is divided.  
 __star anise__ _n_ :es: anís estrellado  
 __starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
 __stardom__ _n_  
@@ -1548,7 +1557,7 @@ __widen__ _v_ _Widening the sidewalks._
 __wildflowers__ _n_ :two::hammer:  
 __wildfowl__  
 __Willamette__ _n_  
-__willy-nilly__ _adj, adv_  
+__willy-nilly__ _adj, adv_ :two::hammer:  
 __wily__  
 __wimpy__ _adj_  
 __wind chimes__ _n pl_  
@@ -1560,6 +1569,7 @@ __winze__
 __wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  
 __Wite-Out__ _n_  
+__withershins__ _adv_  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  
 __wizen__ _v_  
@@ -1603,3 +1613,4 @@ __zero in__
 __zesty__ _adj_ :three::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zinch__  
 __zipline__ _n_  
+__zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
