@@ -1,18 +1,3 @@
-__accrete__ _v_  
-__anaphora__ _n_  
-__Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
-__blather__ _v intr_ (blether) To talk nonsensically.  
-__bramble__ _n_ :es: zarza  
-__breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
-__breech position__ _n_ When a child is oriented feet first in the mother’s uterus just before delivery.  
-__cadence__ _n_ /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
-__cordate__ _adj_ Having a heart-shaped outline. _Syn_ heart-shaped, cordiform _When a cordate leaf fell from the tree, she considered it a sign that she would soon find love._  
-__despondency__ _n_ Depression of spirits from loss of hope, confidence, or courage; dejection. _Syn_ despondence, disconsolateness _He slipped through all the grades of despondency until he reached a bottom of absolute gloom._  
-__despondent__ _adj_  
-__desultory__ _adj_  
-__frenetic__ _adj_ /frih-NET-ik/ Marked by excitement, disorder, or anxiety-driven activity. _Syn_ frenzied, frantic _The celebration was noisy and frenetic, lasting into the wee hours of morning._  
-__loggery__ _n_  
-__logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
 __loophole__ _n_ __2__ A small hole or slit in a wall, especially one through which small arms may be fired.  

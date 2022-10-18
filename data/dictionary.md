@@ -127,7 +127,7 @@ __accountant__ _n_ :es: contable
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
 __accoutrement__ _n_ :seven::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
-__accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
+__accrete__ _v_ :seven: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :six: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acculturation__ _n_  
@@ -496,7 +496,7 @@ __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An
 __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
-__anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
+__anaphora__ _n_ :two: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
@@ -1145,6 +1145,7 @@ __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention
 __bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
 __barker__ _n_ :two::astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel. A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
+__Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
 __barn__ _n_ _Out of the barn._  
 __barnacle__ _n_ __2__ A person or thing that is difficult to get rid of.  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
@@ -1551,7 +1552,7 @@ __blasé__ _adj_ :two::hammer:
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :three::hammer:  
 __blatantly__  
-__blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
+__blather__ _v intr_ :three: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
 __blatherskite__ _n_  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
@@ -1873,7 +1874,7 @@ __brainwash__ _v_
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
 __braised__ _adj_ :two: (Cookery) Cooked by braising. _Braised Cornish hen._ _Braised lamb steak._  
-__brambles__ _n_ :six::hammer: :es: zarza  
+__bramble__ _n_ :seven::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
 __brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
@@ -1930,6 +1931,8 @@ __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Eu
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ _n_ :four::hammer:  
 __breathing room__  
+__breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
+__breech position__ _n_ When a child is oriented feet first in the mother’s uterus just before delivery.  
 __breech__ _n_ :five::hammer: (breeches)  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
@@ -2310,7 +2313,7 @@ __cactus__ _n_ :mega:
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
-__cadence__ _n_ :three::hammer:  
+__cadence__ _n_ :four: /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
 __cadet__ _n_  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :seven::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
@@ -3565,6 +3568,7 @@ __copywriter__ _n_
 __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
 __cord blood__  
 __cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
+__cordate__ _adj_ Having a heart-shaped outline. _Syn_ heart-shaped, cordiform _When a cordate leaf fell from the tree, she considered it a sign that she would soon find love._  
 __cordial__ _n_ :astonished: __1__ A strong, sweetened, aromatic alcoholic liquor; liqueur. __2__ A stimulating medicine.  
 __cordite__ _n_  
 __cordon sanitaire__ _n_ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
@@ -4334,12 +4338,12 @@ __despair__ _n_ :two::hammer:
 __despicable__  
 __despise__ _v_  
 __despoil__ _v_ :three::hammer: (despoiled, despoiling)  
-__despondency__  
-__despondent__ _adj_ :seven: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
+__despondency__ _n_ :two: Depression of spirits from loss of hope, confidence, or courage; dejection. _Syn_ despondence, disconsolateness _He slipped through all the grades of despondency until he reached a bottom of absolute gloom._  
+__despondent__ _adj_ :eight: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
 __destitute__ _adj_ :seven::astonished: In great need of food, shelter etc. Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._ _They were left destitute when he died._ :es: indigente _Destitute peasants._  
-__desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
+__desultory__ _adj_ :four: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
@@ -6434,7 +6438,7 @@ __french fries__ _n_ (French fries)
 __frenching__ _v_ _(kissing)_  
 __Frenchman__  
 __frenemy__ _n_ /ˈfrɛnəmɪ/ [:scroll: A blend of friend + enemy.] __1__ A supposed friend who behaves in a treacherous manner. __2__ A person who is considered as both a friend and a rival.  
-__frenetic__ _adj_  
+__frenetic__ _adj_ :two: /frih-NET-ik/ Marked by excitement, disorder, or anxiety-driven activity. _Syn_ frenzied, frantic _The celebration was noisy and frenetic, lasting into the wee hours of morning._  
 __frenzy__ _n_ :two::hammer:  
 __frequent__ _v_  
 __fresco__ _n_ :two::hammer: (frescoes, or frescos _n pl_)  
@@ -9446,6 +9450,7 @@ __loftily__
 __lofty__ _adj_ :eight: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone’s intelligence.  
 __logjam__ _n_  
+__logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachy__ _n_  
 __logorrhea__ _n_  
 __logrolling__ _n_  
