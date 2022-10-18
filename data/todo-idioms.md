@@ -1,18 +1,3 @@
-__a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasant, dishonorable, or unwanted tends to appear (or reappear), especially at inopportune times. __2__ Things that are done improperly eventually cause problems.  
-__a different ball game__  
-__a pipe dream__  
-__all hell broke loose__  
-__at a snail’s pace__ (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
-__at any rate__  
-__break a sweat__  
-__breaking point__  
-__bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
-__cast a sheep’s eye__ To give a sideways glance or a suspicious look. _When I tried to feed the baby something new, she cast a sheep’s eye at it and then tried to smack it out of my hand._  
-__castle in the air__ A hope or wish, especially for one’s life, that is unlikely to come true. A daydream. _I really want to become a famous Hollywood actor, but I realize that it’s just a castle in the air and that I shouldn’t quit my day job._  
-__charley horse__ :dart: A painful muscle spasm that most commonly occurs in the legs. The phrase is thought to have originated from baseball slang. _Spending all day on my feet caused a charley horse in my leg that was so painful, I had to sit down for a while and rest._  
-__cloud nine__ :dart: A state of extreme happiness. Typically appears in the phrase “on cloud nine.” _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
-__cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
-__collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
 __come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
 __come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
 __cut (someone or something) short__  
