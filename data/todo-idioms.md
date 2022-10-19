@@ -1,5 +1,12 @@
+__busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
+__button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
 __come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
+__connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
+__country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
+__cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
+__cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
+__curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
 __cut (someone or something) short__  
 __for the sake of (someone or something)__  
 __for what it’s worth__  
@@ -27,10 +34,12 @@ __one-off__
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of pocket__  
 __out the wazoo__  
+__pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
 __plead the 5th__  
 __put (someone or something) to the test__  
 __put in a good word for someone__  
+__rabble-rouser__ Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
