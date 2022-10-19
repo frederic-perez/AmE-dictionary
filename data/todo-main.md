@@ -1,3 +1,7 @@
+__bespoke__ _adj_ /bih-SPOHK/  
+__decanter__ _n_ A vessel used for decanting, especially a decorative bottle used for serving wine. _Syn_ carafe _Sir Percival was sitting at the table with a decanter of wine before him._  
+__frondescence__ _n_  
+__hyperbole__ _n_ /hye-PER-buh-lee/ Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
 __loophole__ _n_ __2__ A small hole or slit in a wall, especially one through which small arms may be fired.  
@@ -325,6 +329,7 @@ __onus__ _n_ :two: /OH-nuss/ Onus is a formal word that means “a responsibilit
 __onyx__  
 __oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
 __op-ed__ _adj, n_ :mega:  
+__opalesce__ _v intr_ To exhibit a milky iridescence.  
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __operating system__  
@@ -340,6 +345,7 @@ __ornate__ _adj_ :four::hammer: /ɔrˈneɪt/
 __orography__ _n_ /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
+__osculate__ _v_  
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostentatious__ _adj_ /ah-stun-TAY-shus/  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
@@ -884,6 +890,7 @@ __seersuckers__ _n_
 __seesaw__  
 __seethe__ _v_ :two::hammer: _His seething frustration._  
 __segue__ _v_ (segues)  
+__selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
 __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
 __self-serving__ _adj_  
@@ -934,6 +941,7 @@ __showroom__ _n_ :two::hammer:
 __showrunner__ _n_ :two::hammer:  
 __showstopper__  
 __showstopping__  
+__shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
 __shrunken head__ _n_  
 __shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_  
@@ -1116,6 +1124,7 @@ __stinging__ _n_
 __stockade__ _n_  
 __stockfish__ _n_  
 __stodgy__ _n_  
+__stokehold__ _n_ The area or compartment into which a ship’s furnaces or boilers open. _Syn_ fireroom, stokehole _When the ship was sinking, many passengers were able to escape, but the stokehold crew was trapped below deck._  
 __stoneware__ _n_  
 __stooges__ _n_  
 __stope__  
@@ -1585,6 +1594,7 @@ __wow__ _v_
 __wrangler__ _n_  
 __wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
 __wreak-havoc__ _v_  
+__writhe__ _v_ /RYTHE/ Writhe means “to twist.” The word is often used when the body or a bodily part is twisting, and especially when it is twisting in pain. _After suffering an injury during the game, he lay on the football field, writhing in pain._  
 __Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
 __xenial__ _adj_ Of, relating to, or constituting hospitality or relations between host and guest and especially among the ancient Greeks between persons of different cities.  
 __yakisoba__ _n_  
