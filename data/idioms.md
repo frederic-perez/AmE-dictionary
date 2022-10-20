@@ -510,11 +510,13 @@ __burn up the road__ To travel very fast. Often used to describe driving. _Have 
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
 __bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
 __bust out__ _She clearly has something busting out._  
+__busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
 __but for (someone)__ Except for someone; if not for someone. _But for the support of my friends, I never would have survived that difficult time._  
 __but for (something)__ Except for something; if not for something. _That major home repair would have sent me into debt but for my emergency fund._  
 __butt heads__ __1__ Literally, to knock heads together, as of rams or sheep. _The two male rams fiercely butted heads to establish dominance among the group._ __2__ By extension, to completely disagree or get into a heated confrontation with someone. _Jonathan and Cynthia always butt heads over politics when they’re together._ _I got kicked out of the bar when I started butting heads with that guy._ _Sullivan butted heads with Standards and Practices._  
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
 __butterfingers__ A person who frequently drops things, clumsy person.  
+__button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __buy the farm__ To die.  
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by and large__  
@@ -651,7 +653,9 @@ __come into question__ To become doubted, scrutinized, or a matter of serious di
 __come of age__  
 __come out of the woodwork__ To appear unexpectedly, or from unexpected places. _No one had anything negative to say when I first pitched this idea, but now people are coming out of the woodwork to criticize it._ _Ever since Liam won the lottery, his so-called relatives have been coming out of the woodwork._  
 __come out__  
+__come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
+__come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ :two: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__  
@@ -665,6 +669,7 @@ __coming-of-age__ :three: Describing something, such as a book or film, that foc
 __compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
+__connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
 __control freak__ :two::hammer:  
@@ -678,6 +683,8 @@ __cost an arm and a leg__ To be extremely expensive.
 __cost the earth__ To be exorbitant or burdensome in expense.  
 __cottage industry__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
+__cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
 __crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
@@ -698,14 +705,17 @@ __crown jewel__ :three::hammer: _A NYC crown jewel of museums._
 __crushing blow__ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __crux of the matter__ _She saw the crux of the matter in seconds._  
 __cry foul__  
+__cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
 __cry over spilled milk__ To be unhappy about what cannot be undone.  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
+__curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
 __curse (someone or something) under (one’s) breath__ To say threatening, consternated, or disgruntled remarks (toward someone or something) in a very soft or indistinct voice, such that no one else can hear or understand them clearly. _Steven stormed off to his room, cursing his parents under his breath._  
 __curse a blue streak__ To use profane language with great rapidity and intensity. _My dad cursed a blue streak after he found out I’d put a dent in his car._  
 __curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
 __cushy job__ A job that is easy, stress-free, and/or very well paid.  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __cut (one) some slack__  
+__cut (someone or something) short__  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ To do something in the easiest or most inexpensive way.  
 __cut down (on something)__ _Cut down on smoking._  
@@ -951,7 +961,8 @@ __for the better__ _My luck did not change for the better upon arrival at the ba
 __for the birds__  
 __for the most part__ :two::hammer:  
 __for the ride__ For pleasure or interest, rather than any serious purpose. _Women are now the primary force behind an explosion in new cocktail concoctions, and men are simply going along for the ride, say bartenders and liquor marketing executives._  
-__for what it’s worth__ :two: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I’m sorry to hear you lost your job. For what it’s worth, I think you made the right choice confronting your boss._  
+__for the sake of (someone or something)__  
+__for what it’s worth__ :three: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I’m sorry to hear you lost your job. For what it’s worth, I think you made the right choice confronting your boss._  
 __for years/weeks/days to come__ :dart: Used to emphasize that something will continue for a long time into the future. _This is a moment that will be remembered and celebrated for years to come._ _It was a highlight that would be looped on SportsCenter for days to come._  
 __forever and a day__ :two: __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __fork over the dough__ To pay, generally unwillingly, a certain amount of money.  
@@ -987,7 +998,7 @@ __gag me with a spoon__ An expression of disgust or annoyance.
 __game changer__  
 __game-changer__  
 __garbage in, garbage out__  
-__gaslight__ :three: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gaslight__ :four: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __gender fluid__ Not strictly identifying as one distinct gender, perhaps identifying as a different gender at different times, or identifying as more than one gender at once. _My sex is male, but I’m gender fluid, and I feel more feminine than masculine some days._  
 __generally speaking__ Used to say that a statement describes a general feeling or opinion relating to or affecting all the people or things in a group. _Generally speaking, people like her as a leader._  
@@ -1018,7 +1029,7 @@ __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (U
 __get in(to) hot water__ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
-__get on someone’s nerves__ To annoy someone a lot.  
+__get on someone’s nerves__ :two: To annoy someone a lot. _A yes-man suck-up can get on your nerves._  
 __get on your nerves__ To annoy someone a lot.  
 __get one’s act together__ :two: (get one’s shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he’ll get a raise_, or _You’d better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar. Galvanize oneself into organizing one’s affairs effectively.  
 __get out of Dodge__ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
@@ -1032,7 +1043,7 @@ __get someone’s goat__ (It’s believed that the phrase comes from actual goat
 __get taken to task (by someone)__ To be scolded, rebuked, reprimanded, or criticized (by someone). _I got taken to task by the headmaster for disrupting class again._  
 __get the axe__ To lose your job.  
 __get the better of (someone or something)__ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
-__get the drift of something__ To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._  
+__get the drift of something__ :two: To understand the general meaning of some situation or piece of information. To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._ _Since I don’t have time at work to read news articles in full, I usually just read a daily news recap to get the drift of what.s going on in the world._  
 __get the gist__ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
 __get the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal. _We’re just waiting to get the green light from our managers before we release the latest software update._  
 __get the handle of__  

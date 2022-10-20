@@ -1,18 +1,3 @@
-__busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
-__button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
-__come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
-__come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
-__connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
-__country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
-__cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
-__cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
-__curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
-__cut (someone or something) short__  
-__for the sake of (someone or something)__  
-__for what it’s worth__  
-__gaslighting__  
-__get on one’s nerves__ _A yes-man suck-up can get on your nerves._  
-__get the drift__ To understand the general meaning of some situation or piece of information. _Since I don’t have time at work to read news articles in full, I usually just read a daily news recap to get the drift of what.s going on in the world._  
 __give (one) the cold shoulder__  
 __go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
 __go to shit__  
