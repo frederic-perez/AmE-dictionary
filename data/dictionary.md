@@ -1388,7 +1388,7 @@ __besmirch__ _v_ :seven: /bih-SMERCH/ /bɪˈsmɜrtʃ/ (besmirched, besmirching) 
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
+__bespoke<sup>1</sup>__ _adj_ :nine::m: /bih-SPOHK/ Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
@@ -4131,7 +4131,7 @@ __decal__ _n_ :four::hammer: _Look for our decal when making dining plans._
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
 __decamped__ _v_  
 __decant__ _v_ :two::hammer:  
-__decanter__ _n_ :two::hammer:  
+__decanter__ _n_ :three: A vessel used for decanting, especially a decorative bottle used for serving wine. _Syn_ carafe _Sir Percival was sitting at the table with a decanter of wine before him._  
 __decathlon__  
 __deceit__ _n_ :two::hammer:  
 __decelerate__ _v_  
@@ -6478,6 +6478,7 @@ __frolic<sup>2</sup>__ _v_ :four: /FRAH-lik/ To play and run about happily. _One
 __from afar__  
 __from the git-go__  
 __from the rooter to the rooter__  
+__frondescence__ _n_  
 __front man__ _n_ :two::hammer: (frontman)  
 __front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
 __front__ _v_ _Fronting a band._  
@@ -8082,7 +8083,7 @@ __hygroscopic__
 __hymn__ _n, v_ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
-__hyperbole__ _n_ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces.  
+__hyperbole__ _n_ :two: /hye-PER-buh-lee/ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces. Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
 __hyperbolic__ _adj_ :six: Exaggerated.  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
@@ -9451,6 +9452,7 @@ __lofty__ _adj_ :eight: __1__ Of imposing height. _His lofty perch._ __2__ Eleva
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone’s intelligence.  
 __logjam__ _n_  
 __logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
+__logomachist__  
 __logomachy__ _n_  
 __logorrhea__ _n_  
 __logrolling__ _n_  
@@ -9472,6 +9474,7 @@ __long-haul__ _adj_ _Researchers examined a small group of long-haul COVID-19 pa
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
+__longboat__ _n_ A large oared boat usually carried by a merchant sailing ship. A long low boat, used especially in the past for traveling on the ocean. _A Viking longboat._  
 __longbow__ _n_ :four::hammer:  
 __longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
@@ -9490,8 +9493,10 @@ __lookup__ _n_ :two::hammer:
 __loony bin__ _n_ _often offensive_ _slang_ An institution for the mentally ill. _The Count’s plot to drive her straight to the loony bin._  
 __loony__ _adj_ :three::hammer: _Every family includes someone who’s a little loony._  
 __loop__ _n_ /luːp/  
-__loophole__ _n_ :es: escapatoria  
+__loophole__ _n_ :two::hammer: __2__ A small hole or slit in a wall, especially one through which small arms may be fired. __3__ :es: escapatoria  
 __loopy__ _adj_ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
+__loose leaf tea__ _n_ _Loose leaf tea menu._  
+__loose slots__ _n_ :two: Term used to describe slots that are generous payers, relative to the location they’re in. A loose slot will pay higher than the average payback percentage, sometimes by a considerable margin.  
 __loose strands__  
 __loose-cannon__  
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
@@ -9504,24 +9509,26 @@ __lop off__ _v_ _The bastard started lopping off the prisoners’ heads._
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
-__loquacious__  
+__loquacious__ _adj_ :two::astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __loquat__ _n_  
 __lordship__ _n_ :es: señoría  
-__lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
+__lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. _Crazy folk lore._ :es: saber popular  
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
 __lose control__ _v_ Lose one’s nerve.  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
+__lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
 __Lothario__ _n_ _The second verse of_ You’re So Vain _is about one-time Hollywood Lothario Warren Beatty._  
 __lotto scratcher__ _n_  
 __lotto__ _n_ Lottery.  
 __louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
 __loudmouth__ _n_ :two::hammer: _informal_ _I was a loudmouth._ _He is a loudmouth, but there is nothing personal._ :es: bocazas  
+__Louisiana Purchase__ _n_ Territory in the western United States purchased from France in 1803 for $15 million; extends from the Mississippi River to the Rocky Mountains and from the Gulf of Mexico to Canada.  
 __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
 __lousy__ _adj_ :two::hammer: _A lousy trip._  
-__lout__ _n_ :five::hammer: _Syn_ oaf  
+__lout__ _n_ :six: /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
 __love bombing__ _n_ /luhv __bom__-ing/ The practice of showing a person excessive affection and attention as a way of manipulating them in a relationship. A technique used in cult recruiting, in which membership in the cult is intimately linked to love and attachment which engender complete loyalty to the cause.  
@@ -9532,7 +9539,7 @@ __low and slow__ _n_ Low and slow is a term used when discussing food cooked ove
 __Low Countries__ _n_ :three::hammer:  
 __Low Mass__ _n_ A Mass of simple ceremony that was recited rather than sung by the priest. No longer in official use. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
 __low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
-__low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
+__low-key__ _adj_ :six::hammer: (low key) _A low-key peddler._  
 __low-res__ _adj_ _informal_ Low-resolution.  
 __low-slung__ _adj_ _Low-slung school._  
 __low-tech__ _adj_ _I’m a low-tech type._  

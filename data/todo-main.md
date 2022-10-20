@@ -1,18 +1,3 @@
-__bespoke__ _adj_ /bih-SPOHK/  
-__decanter__ _n_ A vessel used for decanting, especially a decorative bottle used for serving wine. _Syn_ carafe _Sir Percival was sitting at the table with a decanter of wine before him._  
-__frondescence__ _n_  
-__hyperbole__ _n_ /hye-PER-buh-lee/ Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
-__logomachist__  
-__longboat__ _n_ _A Viking longboat._  
-__loophole__ _n_ __2__ A small hole or slit in a wall, especially one through which small arms may be fired.  
-__loose leaf tea__ _n_ _Loose leaf tea menu._  
-__loose slots__ _n_ :two: Term used to describe slots that are generous payers, relative to the location they’re in. A loose slot will pay higher than the average payback percentage, sometimes by a considerable margin.  
-__loquacious__ _adj_ :astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
-__lore__ _n_ :three::hammer: _Crazy folk lore._  
-__lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
-__Louisiana Purchase__ _n_ Territory in the western United States purchased from France in 1803 for $15 million; extends from the Mississippi River to the Rocky Mountains and from the Gulf of Mexico to Canada.  
-__lout__ _n_ /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
-__low-key__ _adj_  
 __lowdown__ _n_  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
 __lucrative__ _adj_ /ˈluːkrətɪv/ Producing a profit; profitable; remunerative.  
