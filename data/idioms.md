@@ -1066,6 +1066,7 @@ __get-rich-quick__ (used as a modifier before a noun) Of or characterized by gen
 __gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother’s Thanksgiving meal._  
 __give (one) a call__ To call one on a phone or via another calling platform. _Let me give her a call and see what she thinks about all this._  
 __give (one) some slack__ To be lenient with one; to give one a break. _Give me some slack, Mom. I studied hard for that test, but it’s just not my best subject._  
+__give (one) the cold shoulder__  
 __give (someone) a call__ _Give me a call._  
 __give (someone) a piece of (one’s) mind__ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
@@ -1082,6 +1083,7 @@ __give up on (someone or something)__
 __glad tidings__ Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.”  
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
+__go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
 __go a long way__ :dart::six: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go after (someone or something)__  
@@ -1126,6 +1128,7 @@ __go to bed with the chickens__ To go to bed very early.
 __go to Canossa__ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to great lengths__ :two::hammer:  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
+__go to shit__  
 __go to the mat for (someone or something)__ To give someone or something one’s full support; to fight for someone or something until the very end. _We firmly believe that she is in the right on this matter, and we’re ready to go to the mat for her in court if necessary._ _I’m not going to the mat for her._  
 __go to the mattresses__ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to wrack and ruin__ _cliché_ To fall into severe or total decay, degradation, or ruination, as from disuse or lack of upkeep. (“Wrack,” a now-archaic word meaning wreckage or destruction, is also often spelled “rack.”) _It greatly pains me that my grandfather’s estate has been left to go to wrack and ruin. If only we’d been able to afford for someone to look after it all these years._  
@@ -1140,6 +1143,7 @@ __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
 __gold rush__  
 __golden goose__ :three: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
+__golden handcuffs__  
 __golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ The years following one’s retirement (generally after the age of 65).  
 __golf widow__ A woman whose husband frequently absents himself from home so as to go and play golf.  
@@ -1226,10 +1230,11 @@ __harp on the same string__ To dwell tediously and repeatedly upon a single subj
 __harrowing experience__ An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant.  
 __hash out__ :dart::three: To discuss something in detail. A noun or pronoun can be used between “hash” and “out.” _I’m calling Mom right now to hash out the details for Thanksgiving dinner._  
 __hash slinger__ A cook or a waitress, especially at a diner or cheap restaurant. (“Hash,” in this sense, refers to a dish or stew of chopped meat and vegetables, not hashish.) Primarily heard in US.  
+__haste makes waste__ _proverb_ Rushing through a task often creates problems or extra work. _Haste makes waste, so please double-check your measurements before cutting the fabric._  
 __hat trick__ :mega:  
 __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s guts._ The _guts_ here refers to a person’s inner essence.  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one’s past.  
-__have (got) (someone’s) back__ :four: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._  
+__have (got) (someone’s) back__ :five: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
 __have (got) (someone) pegged as (something)__ To distinctly regard someone as being a certain type of person.  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers.”  
@@ -1427,6 +1432,7 @@ __hunker down__ __1__ Literally, to squat. _The magician hunkered down to the ey
 __hunt where the ducks are__ To pursue or look for one’s objectives, results, or goals in the place where one is most likely to find them.  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly.  
 __hustle and bustle__ Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
+__hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
 __I feel you/that__ _slang_ I understand, agree with, or can relate to what you’re saying. _No, I feel you, that’s too much money to pay for a concert. I’m OK with skipping it._  
 __I hear you__ :four: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
 __I kid you not__  
@@ -1434,6 +1440,7 @@ __I rest my case__
 __I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I suppose (so)__ An expression of vague affirmation or assent.  
 __I take it__ _idiom_ I imagine this is the case; I presume it to be true (that); it is my understanding (that).  
+__I wish__  
 __I’d say__ In my opinion; it is my estimation that.  
 __I’ll be hanged if I do (something)__ I am determined not to do something.  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
@@ -1454,7 +1461,7 @@ __in (one’s) heyday__ In, at, or during the period of one’s greatest success
 __in (one’s) own right__ :three: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._  
 __in (or out of) someone’s hair__ _informal_ :two: [:scroll: This expression alludes to entangling one’s hair.]Annoying (or ceasing to annoy) or bothering someone. _He built the shop to get his hobby out of his wife’s hair._ _Yogi Bear is always in the Ranger’s hair._  
 __in (someone’s) view__ In someone’s opinion.  
-__in (someone’s) wheelhouse__ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
+__in (someone’s) wheelhouse__ :dart::two: In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone. _It’s clear, however, that the political implications of this issue are well in the author’s wheelhouse._ _Making bread is in a baker’s wheelhouse._  
 __in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in (the) light of (something)__ :two: Considering (something); given (something). Typically refers to a new revelation or piece of information that affects some situation. _In light of this new evidence, we are reopening the investigation._  
 __in a bad light__ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.)  
@@ -1475,6 +1482,7 @@ __in any event__ :three: In any case: _In any event, the audience seemed pleased
 __in awe (of someone or something)__  
 __in bits and pieces__ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in broad daylight__ Out in the open during the daytime, when anyone can see what’s happening. _The gangland feud is getting so bad that people are being shot in broad daylight._ _A sniper who prays on victims in broad daylight._  
+__in bulk__  
 __in check__ Under control; contained or restrained. _Keep those emotions in check._  
 __in deep water__ To be in a difficult situation.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
@@ -1482,7 +1490,7 @@ __in denial__
 __in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears” -where “ears” rhymes with “years” and alludes to the length of a donkey’s ears.  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
 __in due time__  
-__in excess of__ :four: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._  
+__in excess of__ :five: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._ _The retail giant predicts earnings for the past year in excess of $4 million._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
@@ -1579,6 +1587,7 @@ __it’s one of those things__
 __ivory tower__ An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
 __Jane Doe__ An unidentified woman.  
 __jaw away__ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._  
+__jazzed__  
 __jet-setter__ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
@@ -1601,7 +1610,7 @@ __jump through hoops__ To do a lot of difficult things before you are allowed to
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just another day at the office__  
-__just because__ _informal_ :two: For no specific or meaningful reason.  
+__just because__ _informal_ :three: For no specific or meaningful reason.  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just the same (to one)__  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
@@ -1772,7 +1781,8 @@ __like death warmed up__ In a state or appearance of extreme ill health. (Often 
 __like no other__  
 __like pulling teeth__  
 __like rats abandoning a sinking ship__ With great haste and having only personal wellbeing in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
-__like there were no tomorrow__ Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _Every time Kevin goes out shopping, he starts spending money like there were no tomorrow._  
+__like shooting fish in a barrel__  
+__like there were no tomorrow__ :two: (like there’s no tomorrow) Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _Every time Kevin goes out shopping, he starts spending money like there were no tomorrow._  
 __like two peas in a pod__ Very similar.  
 __like water off a duck’s back__ Without any apparent effect.  
 __likely story__ An exclamation of distrust or disbelief in someone’s explanation or story. _Albert: “Sorry I’m late. My car broke down half way here!” Sarah: “Yeah, likely story! I bet you just wanted to finish watching the football game on TV.”_  

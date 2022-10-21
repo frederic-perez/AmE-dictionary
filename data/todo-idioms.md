@@ -1,18 +1,3 @@
-__give (one) the cold shoulder__  
-__go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
-__go to shit__  
-__golden handcuffs__  
-__haste makes waste__ _proverb_ Rushing through a task often creates problems or extra work. _Haste makes waste, so please double-check your measurements before cutting the fabric._  
-__have (got) (someone’s) back__ _I’ve got your back._  
-__hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
-__I wish__  
-__in (someone’s) wheelhouse__ :dart: In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone. _It’s clear, however, that the political implications of this issue are well in the author’s wheelhouse._ _Making bread is in a baker’s wheelhouse._  
-__in bulk__  
-__in excess of__ Over; greater or more than. _The retail giant predicts earnings for the past year in excess of $4 million._  
-__jazzed__  
-__just because__  
-__like shooting fish in a barrel__  
-__like there’s no tomorrow__  
 __null and void__  
 __on a roll__  
 __one-off__  
