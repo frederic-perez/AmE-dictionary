@@ -1,18 +1,3 @@
-__lowdown__ _n_  
-__Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
-__lucrative__ _adj_ /ˈluːkrətɪv/ Producing a profit; profitable; remunerative.  
-__Luddite__ _n_ /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
-__luge__ _n_  
-__lull__ _v_ _CAmping under the stars with the sound of the river lulling you to sleep is hard to beat._  
-__lumberjack__ _n_  
-__luminaria__ _n_  
-__luminary__ _n_ :three: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._  
-__lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
-__luncheon__ _n_ :two::hammer:  
-__lurk__ _v_ :three::hammer:  
-__luscious__ _adj_ :two::hammer: _Luscious burgers._  
-__lush__ _adj_ :seven::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._ _A lush tropical forest._  
-__luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
 __lymphoma__ _n_  
 __macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  

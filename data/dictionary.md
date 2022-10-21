@@ -9545,7 +9545,7 @@ __low-slung__ _adj_ _Low-slung school._
 __low-tech__ _adj_ _I’m a low-tech type._  
 __lowbrow<sup>1</sup>__ _n_ :two: One having uncultivated tastes.  
 __lowbrow<sup>2</sup>__ _adj_ Uncultivated; vulgar.  
-__lowdown__ _n_ _slang_ :six: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
+__lowdown__ _n_ _slang_ :seven: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
 __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
@@ -9556,36 +9556,38 @@ __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you hav
 __lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
+__Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
 __lucky charm__  
 __lucky day__ _n_ A day when something good happens to someone. _This is your lucky day—there’s one ticket left._  
-__lucrative__ _adj_ Producing wealth; profitable: _a lucrative income; a lucrative marketing strategy._  
+__lucrative__ _adj_ :two: /ˈluːkrətɪv/ Producing a profit; profitable; remunerative: _a lucrative income; a lucrative marketing strategy._  
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
-__luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are... why can’t everything just be the same?)  
+__Luddite__ _n_ _slang_ :two: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are... why can’t everything just be the same?) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
 __lug wrench__ _n_ :two::hammer:  
 __lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with great effort. _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._ __2__ _v tr_ To introduce (an irrelevant topic) into a conversation or discussion. __3__ (Nautical Terms) _v tr_ (of a sailing vessel) To carry too much (sail) for the amount of wind blowing.  
-__luge__ _n_ _Olimpic luge team._  
+__luge__ _n_ :two::hammer: _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
 __lugubrious__ _adj_ :three: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._ _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
-__lull<sup>2</sup>__ _v_ :four::hammer: (lulled)  
+__lull<sup>2</sup>__ _v_ :five::hammer: (lulled) _Camping under the stars with the sound of the river lulling you to sleep is hard to beat._  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
-__lumberjack__ _n_ :four::hammer:  
-__luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
-__luminary__ _n_ :three::hammer: _Hollywood luminaries._  
+__lumberjack__ _n_ :five::hammer:  
+__luminaria__ _n_ :two: A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
+__luminary__ _n_ :six: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._ _Hollywood luminaries._  
 __lummox__ _n informal_ A clumsy or stupid person.  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
+__lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
 __lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, cold meats, deli meats) Precooked or cured meats that are sliced and served cold or hot. They are typically served in sandwiches or on a tray. They can be purchased pre-sliced, usually in vacuum packs, or they can be sliced to order. :es: embutidos  
 __lunch room__ _n_  
-__luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
+__luncheon__ _n_ :nine: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
 __lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._ _The dog snarled and lunged._  
@@ -9599,7 +9601,8 @@ __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over th
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :five::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
-__lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
+__luscious__ _adj_ :two::hammer: _Luscious burgers._  
+__lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
 __luster<sup>1</sup>__ _n_  
@@ -9610,6 +9613,7 @@ __lustrum__ _n_ :three: Five years.
 __luxe<sup>1</sup>__ _n_  
 __luxe<sup>2</sup>__ _adj_ _People were accustomed to creating luxe interiors._  
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
+__luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __lye water__  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
