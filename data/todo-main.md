@@ -1,20 +1,5 @@
-__luxurious__ _adj_ _Luxurious furs._  
-__lymphoma__ _n_  
-__macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
-__macaw__ _n_ :es: guacamayo  
-__MacGyver__ _v tr_ _slang_ To make, form, or repair (something) with what is conveniently on hand.  
-__mackerel__ _n_  
-__Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
-__Madchester__ _n_ Manchester, UK.  
-__madding__ _adj_ :astonished: _Madding crowds._  
-__made-to-order__ _adj_ _Made-to-order sandwiches._  
-__madrigalist__ _n_  
-__magical thinking__ _n_  
-__Magna Carta__  
-__magnum opus__ _n_ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._  
-__maharaja__ _n_  
 __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
-__mainland__ _n_ _Free delivery anywhare in mainland UK._  
+__mainland__ _n_ _Free delivery anywhere in mainland UK._  
 __mainline__  
 __mainstay__ _n_ :five::hammer:  
 __mainstream__  

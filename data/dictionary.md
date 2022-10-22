@@ -9614,18 +9614,23 @@ __luxe<sup>1</sup>__ _n_
 __luxe<sup>2</sup>__ _adj_ _People were accustomed to creating luxe interiors._  
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
+__luxurious__ _adj_ _Luxurious furs._  
 __lye water__  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
+__lymphoma__ _n_  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lysimeter__  
 __mac and cheese__ _n_ Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
+__macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
 __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almonds or coconut.  
+__macaw__ _n_ :es: guacamayo  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
 __macerate__ _v_ To make soft, usually by steeping in liquid, and cause to disintegrate as a result. _Syn_ soften _The stale bread was left to macerate in a bowl of milk for a few hours._  
+__MacGyver__ _v tr_ _slang_ To make, form, or repair (something) with what is conveniently on hand.  
 __Mach number__ _n_ :pencil2:  
 __Machiavellian__ _adj_ :pencil2:  
 __machinate__ _v_  
@@ -9633,28 +9638,36 @@ __machination__ _n_
 __machine__ _n_ :mega:  
 __machinery__ _n_ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
-__mackerel__ _n_ :two::hammer: :es: caballa  
+__mackerel__ _n_ :three::hammer: :es: caballa  
 __mackinaw__  
 __macrocosm__ _n_ The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
 __macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
 __macula__ _n_  
+__Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
 __madcap__  
+__Madchester__ _n_ Manchester, UK.  
 __madden__ _v_ :two::hammer: (maddening)  
+__madding__ _adj_ :astonished: _Madding crowds._  
+__made-to-order__ _adj_ _Made-to-order sandwiches._  
 __madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something that triggers memories or nostalgia.  
 __madman__ _n_ :two: A man who is insane, esp one who behaves violently; lunatic.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
+__madrigalist__ _n_  
 __madrigals__ _n_ :pencil2:  
 __maelstrom__ _n_ :seven::hammer: _Unproductive maelstrom._  
 __magazine__ _n_ _They were pledged to keep the castle’s magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
+__magical thinking__ _n_  
+__Magna Carta__  
 __magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
-__magnum opus__ _n_ __1__ A great work, especially a literary or artistic masterpiece. __2__ The greatest single work of an artist, writer, or composer.  
+__magnum opus__ _n_ :two: __1__ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._ __2__ The greatest single work of an artist, writer, or composer.  
 __magpie__ _n_ :es: urraca  
 __magpied__ _v_  
 __magpies__  
+__maharaja__ _n_  
 __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
 __maiden<sup>1</sup>__ _n_  
 __maiden<sup>2</sup>__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
