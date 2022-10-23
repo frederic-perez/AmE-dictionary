@@ -1,18 +1,3 @@
-__champing__ _v_  
-__chivvy__ _v_ (chivy)  
-__conscription__ _n_  
-__countless__  
-__defection__  
-__detailer__ _n_  
-__diffidence__ _n_ The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._  
-__ding__ _v tr_ _Dinged aircraft._  
-__dogfight__ _n_ __2__ _An aerial battle between fighter planes._  
-__double down__  
-__down-to-earth__  
-__drawl__ _n_ _A slow Southern drawl._  
-__emery board__ _n_ A small flat strip of wood or card coated with emery powder and used for filing the fingernails. :es: lima de uñas  
-__equinox__  
-__escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __expediency__ _n_  
 __ferrule__ _n_  
 __flummoxed__ _adj_ /ˈflʌməkst/  

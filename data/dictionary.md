@@ -2686,7 +2686,8 @@ __chalky__ _adj_ _Chalky skin._
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
 __chamomille__  
-__champ__ _n informal_ :three: /tʃæmp/ Short for champion.  
+__champ<sup>1</sup>__ _n informal_ :three: /tʃæmp/ Short for champion.  
+__champ<sup>2</sup>__ _v_  
 __champagne flutes__ _n_ :camera:  
 __champagne powder__ _n_  
 __champion__ _n_ :mega:  
@@ -2855,7 +2856,7 @@ __chitterlings__ _n_ The small intestines of pigs, especially when cooked and ea
 __Chiuaua__  
 __chivalry__ _n_ :four::hammer:  
 __chive__ _n_ :three::hammer: _Chive sauce._ :es: cebollino, cebolleta  
-__chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
+__chivvy__ _v_ :three: (chivy) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
 __chlorophyll__ _n_ :four::pencil2::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
@@ -3432,7 +3433,7 @@ __conscious__ _adj_ /kon-shuhs/
 __consciousness__ _n_  
 __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
-__conscription__ _n_ :two::hammer:  
+__conscription__ _n_ :three: __1__ Compulsory enrollment, especially for the armed forces; draft.  
 __consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
 __consecutive__  
 __consensual__  
@@ -3656,7 +3657,7 @@ __counteroffensive__ _n_
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _v_ _Countervailing evidence._  
-__countless__ _adj_ :two::hammer: _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
+__countless__ _adj_ :three::hammer: /ˈkaʊnt lɪs/ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
@@ -4186,7 +4187,7 @@ __defanging__ _n_
 __default<sup>1</sup>__ _n_  
 __default<sup>2</sup>__ _v_ :five::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
-__defection__ _n_ :nine: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
+__defection__ _n_ :nine::m: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defenestration__ _n_ :two: Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
@@ -4345,6 +4346,7 @@ __destigmatize__ _v_
 __destitute__ _adj_ :seven::astonished: In great need of food, shelter etc. Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._ _They were left destitute when he died._ :es: indigente _Destitute peasants._  
 __desultory__ _adj_ :four: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
+__detailer__ _n_  
 __detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
 __detente__  
@@ -4409,7 +4411,7 @@ __diecast__
 __diehard__ _adj_ :two::hammer: _A diehard fan._  
 __differ__ _v_ :three::mega::hammer:  
 __different animal__ _n_ Something different.  
-__diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
+__diffidence__ _n_ :two: The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._ _He spoke with a certain diffidence._  
 __diffident__ _adj_ :three::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
@@ -4444,7 +4446,7 @@ __dimwitted__ _adj_ _slang_ Lacking in intelligence.
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __dine__ _v_  
 __ding up__ _v_ :two::hammer:  
-__ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
+__ding__ _v tr_ :five::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._ _Dinged aircraft._  
 __dingbat__ _n_  
 __dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. _Rubber dinghy and fishing safaris._  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
@@ -4683,6 +4685,7 @@ __dog__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
+__dogfight__ _n_ __2__ _An aerial battle between fighter planes._  
 __dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doggerel__ _n_ :three: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature. _Syn_ jingle _I want the man I love and honor to be something finer and higher than a perpetrator of jokes and doggerel._  
@@ -4797,6 +4800,7 @@ __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions
 __down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
 __down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds. __3__ The under plumage of some birds, as geese and ducks, used for filling in quilts, clothing, etc., chiefly for warmth.  
 __down-low__  
+__down-to-earth__  
 __downbeat<sup>1</sup>__ _n_ :two::hammer:  
 __downbeat<sup>2</sup>__ _adj_  
 __downburst__ _n_  
@@ -4861,7 +4865,7 @@ __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw g
 __drawbridge__ _n_ :three::hammer:  
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
-__drawl<sup>2</sup>__ _n_ :four::hammer: _A Southern drawl._ _He was from Texas and spoke with a slight drawl._  
+__drawl<sup>2</sup>__ _n_ :five::hammer: _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
 __drawstring__ _n_  
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
@@ -5247,7 +5251,7 @@ __emceed__ _v_
 __emerald__ _n_ :four::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emergency__ _n_ :mega:  
 __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
-__emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
+__emery board__ _n_ :two: A small flat strip of wood or card coated with emery powder and used for filing the fingernails. :es: lima de uñas  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
 __eminent__  
 __eminently__ _adv_ /EM-uh-nunt-lee/ Eminently is used as a synonym of very and means “to a high degree.” _All three outfielders are eminently capable of making an All-Star-caliber catch to help their team._  
@@ -5416,7 +5420,7 @@ __equestrian<sup>1</sup>__ _adj_
 __equestrian<sup>2</sup>__ _n_  
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
-__equinox__ _n_ :four::mega::hammer:  
+__equinox__ _n_ :five::mega::hammer:  
 __equip__ _v_  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
@@ -5445,6 +5449,7 @@ __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion o
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :three: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
 __Eskimo__ _n_ :two::mega:  
 __esoteric__ _adj_  
