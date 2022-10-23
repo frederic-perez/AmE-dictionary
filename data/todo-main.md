@@ -1,3 +1,13 @@
+__abide__ _v_ /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._  
+__acquit__ _v tr_  
+__agemate__ _n_  
+__cloying__ _adj_ /KLOY-ing/ Excessively sweet or sentimental. _She finds most romantic comedies cloying and predictable._  
+__fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
+__frizzle<sup>1</sup>__ _v intr_ /FRIZ-uhl/ __1__ To make a sizzling or sputtering noise. __2__ To form into small tight curls; to frizz.  
+__frizzle<sup>2</sup>__ _v tr_ To fry until crisp or curled.  
+__frizzle<sup>3</sup>__ _n_ A short curl.  
+__hyperbole__ _n_  
+__interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
 __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
 __mainland__ _n_ _Free delivery anywhere in mainland UK._  
 __mainline__  
@@ -79,6 +89,7 @@ __meta<sup>3</sup>__ _n_ Something that is self-referential.
 __meta<sup>4</sup>__ _prefix_ Denoting transformation, transcending, going beyond, etc.  
 __metabolites__ _n_  
 __metadata__ _n pl_  
+__metaphor__ _n_  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __metering__ _n_  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
@@ -385,6 +396,7 @@ __payout__ _n_
 __paysleys__ _n_  
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
+__peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
 __pedal boat__ _n_  
 __pedestal__ _n_  
 __pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
@@ -551,6 +563,7 @@ __promo__
 __prompt__ _adj_ _Prompt, safe, and reliable._  
 __proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
+__prosopopoeia__ _n_ (prosopopeia) __1__ Personification, as of inanimate things. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
 __Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
 __protonation__ _n_  
 __protracted__ _adj_ _A protracted discussion._  
