@@ -67,6 +67,7 @@ __GDP__ Gross domestic product.
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GMO__ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __GOP__  
+__GPGPU__ General purpose graphics processing unit.  
 __GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
