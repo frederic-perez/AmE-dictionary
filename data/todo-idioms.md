@@ -1,5 +1,20 @@
+__(it’s) (a)bout time__  
+__at heart__  
+__bang for the buck__  
+__before long__ Soon. _I’ll probably be retiring before long._  
+__bitch box__ _rude_ _slang_ An intercom. Typically used in the military. _Ugh, what are they announcing over the bitch box now?_  
+__check out__ _So far everything checked out._  
+__don’t shoot the messenger__  
+__get down to (doing) something__ _Get down to business._  
+__go downhill__  
+__in (all) fairness (to one)__  
+__in any event__ :es: en cualquier caso, en todo caso  
+__in excess of__  
+__in so many words__  
+__make the rounds__  
 __null and void__  
 __on a roll__  
+__on short notice__  
 __one-off__  
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of pocket__  
@@ -11,6 +26,8 @@ __put (someone or something) to the test__
 __put in a good word for someone__  
 __rabble-rouser__ Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
+__raise the bar__  
+__rest assured__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
@@ -85,6 +102,7 @@ __the butt of the joke__ Someone or something at whose expense an insulting or m
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
+__the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
@@ -110,6 +128,7 @@ __throw an eye on (something)__ To inspect something casually and quickly but wi
 __throw hands__  
 __throw money at (someone or something)__  
 __throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
+__thumbs up__ _We have a thumbs up!_  
 __tick someone off__  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __tiger team__  
@@ -169,6 +188,7 @@ __white-knuckle__
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
+__win-win__ _A win-win scenario._  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  
 __wipe the floor__  
@@ -186,6 +206,7 @@ __within walking distance__
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__ :two::hammer:  
+__work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
