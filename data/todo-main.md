@@ -1,18 +1,3 @@
-__abide__ _v_ /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._  
-__acquit__ _v tr_  
-__agemate__ _n_  
-__cloying__ _adj_ /KLOY-ing/ Excessively sweet or sentimental. _She finds most romantic comedies cloying and predictable._  
-__fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
-__frizzle<sup>1</sup>__ _v intr_ /FRIZ-uhl/ __1__ To make a sizzling or sputtering noise. __2__ To form into small tight curls; to frizz.  
-__frizzle<sup>2</sup>__ _v tr_ To fry until crisp or curled.  
-__frizzle<sup>3</sup>__ _n_ A short curl.  
-__hyperbole__ _n_  
-__interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
-__mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
-__mainland__ _n_ _Free delivery anywhere in mainland UK._  
-__mainline__  
-__mainstay__ _n_ :five::hammer:  
-__mainstream__  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  

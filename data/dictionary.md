@@ -55,7 +55,7 @@ __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
-__abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
+__abide__ _v_ :five: /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._ _Abiding trepidation._  
 __abject__ _adj_ :six: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
@@ -148,7 +148,7 @@ __acquiesce__ _v tr_ :six: /ak-wee-es/ To agree to something or to accept someth
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
-__acquit__ _v_ :five: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
+__acquit__ _v tr_ :six: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
 __acreage__ _n_ :three: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
@@ -282,6 +282,7 @@ __age<sup>1</sup>__ _n_ :four::hammer:
 __age<sup>2</sup>__ _v_  
 __ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
+__agemate__ _n_  
 __agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
@@ -3093,7 +3094,7 @@ __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective politica
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __cloy__ _v_  
-__cloying__ _adj_ :five::hammer: :es: empalagoso _She is cordial without being cloying._  
+__cloying__ _adj_ :six: /KLOY-ing/ Excessively sweet or sentimental. :es: empalagoso _She is cordial without being cloying._ _She finds most romantic comedies cloying and predictable._  
 __Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
 __clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
@@ -5863,6 +5864,7 @@ __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out o
 __ferreting out__ _v_  
 __Ferris wheel__ _n_  
 __ferrule__ _n_ (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
+__fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
 __fertile__ _adj_ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
@@ -6475,7 +6477,9 @@ __frites__ _n pl_ Chipped potatoes. _Steak frites._
 __fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
 __fritter<sup>1</sup>__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritter<sup>2</sup>__ _n_ _Corn fritters._  
-__frizzle__ _v_ _Frizzled beard._  
+__frizzle<sup>1</sup>__ _v intr_ :two: /FRIZ-uhl/ __1__ To make a sizzling or sputtering noise. __2__ To form into small tight curls; to frizz. _Frizzled beard._  
+__frizzle<sup>2</sup>__ _v tr_ To fry until crisp or curled.  
+__frizzle<sup>3</sup>__ _n_ A short curl.  
 __frock__  
 __frogman__ _n_ :two::hammer:  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
@@ -8088,7 +8092,7 @@ __hygroscopic__
 __hymn__ _n, v_ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
-__hyperbole__ _n_ :two: /hye-PER-buh-lee/ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces. Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
+__hyperbole__ _n_ :three: /hye-PER-buh-lee/ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces. Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
 __hyperbolic__ _adj_ :six: Exaggerated.  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
@@ -8477,6 +8481,7 @@ __interdicting__
 __interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/  
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
+__interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
 __interloper__ _n_ /in-ter-LOH-per/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
 __interlopers__ _n_ :three::hammer:  
 __interlude__ _n_  
@@ -9673,7 +9678,7 @@ __magpie__ _n_ :es: urraca
 __magpied__ _v_  
 __magpies__  
 __maharaja__ _n_  
-__mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
+__mahogany__ _n_ :seven::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._ _Dining room w/ mahogany bookcases._  
 __maiden<sup>1</sup>__ _n_  
 __maiden<sup>2</sup>__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
 __mail vest__ _n_ _The man wore a mail vest and greaves._  
@@ -9683,7 +9688,10 @@ __mailman__ _n_
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __maimed__  
 __Main Street__  
-__mainstay__ _n_ :three::hammer: _A mainstay of his business._  
+__mainland__ _n_ _Free delivery anywhere in mainland UK._  
+__mainline__  
+__mainstay__ _n_ :eight::hammer: _A mainstay of his business._  
+__mainstream__  
 __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
