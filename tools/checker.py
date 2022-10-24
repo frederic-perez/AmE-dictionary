@@ -72,7 +72,7 @@ def valid_use_of_parentheses_or_brackets(entry):
 VALID_TAGS = [ \
     'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
     'fr', 'hammer', 'm', 'mega', 'mute', 'nine', 'pencil2', \
-    'reminder_ribbon','seven', 'six', 'scroll']
+    'reminder_ribbon','seven', 'six', 'scroll', 'sound']
 
 def valid_tag(tag):
     """Returns True when tag is an allowed one; False otherwise"""
