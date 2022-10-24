@@ -1,18 +1,3 @@
-__(it’s) (a)bout time__  
-__at heart__  
-__bang for the buck__  
-__before long__ Soon. _I’ll probably be retiring before long._  
-__bitch box__ _rude_ _slang_ An intercom. Typically used in the military. _Ugh, what are they announcing over the bitch box now?_  
-__check out__ _So far everything checked out._  
-__don’t shoot the messenger__  
-__get down to (doing) something__ _Get down to business._  
-__go downhill__  
-__in (all) fairness (to one)__  
-__in any event__ :es: en cualquier caso, en todo caso  
-__in excess of__  
-__in so many words__  
-__make the rounds__  
-__null and void__  
 __on a roll__  
 __on short notice__  
 __one-off__  
