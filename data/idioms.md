@@ -63,7 +63,7 @@ __a different ball game__
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
-__a far cry from (something)__ :sound: _far cry from_  
+__a far cry from (something)__ [:sound: far cry from]  
 __a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
 __a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
 __a fine state of affairs__ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
@@ -491,7 +491,7 @@ __bring home the bacon__ To earn money to live on.
 __bring it on__ To begin a fight or competition.  
 __bring the house down__ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __bring to an end__  
-__bristle with something__ _phr v_ :nine::m::sound: _bristled with_ (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
+__bristle with something__ _phr v_ :nine::m: [:sound: bristled with] (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __broken record__ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
 __bromance__ _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
@@ -617,7 +617,7 @@ __chime in__
 __chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
 __chip away__ :dart: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip in__  
-__chip on (someone) shoulders__ :nine::m::dart::sound: _chip on his shoulder_ (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
+__chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __churn something up__  
@@ -893,7 +893,7 @@ __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use o
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  
 __far and away__ :astonished:  
 __far and wide__ :five::hammer: _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
-__far cry (from something)__ :nine::m::sound: _far cry from_ A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
+__far cry (from something)__ :nine::m: [:sound: far cry from] A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
@@ -1557,7 +1557,7 @@ __in the offing__ :dart::two: __1__ In the near or immediate future; soon to com
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
-__in the thick of it/(something)__ :nine::m::sound: _in the thick of it_ Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick of it/(something)__ :nine::m: [:sound: in the thick of it] Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the thick of things__ Very busy; in the middle of or preoccupied with something or several things. _Sorry I couldn’t make it to your birthday lunch on Wednesday—I’m afraid I’m really in the thick of things at the moment._  
 __in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__ In someone’s or some group’s opinion.  
@@ -1648,7 +1648,7 @@ __keep one’s eyes peeled__ (keep one’s eyes skinned) To watch vigilantly (fo
 __keep one’s word__ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep out of sight__ To remain unseen, as by hiding or evasion.  
 __keep pace__  
-__keep tab(s) (on someone or something)__ :nine::m::sound: _keep taps on_ (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
+__keep tab(s) (on someone or something)__ :nine::m: [:sound: keep taps on] (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
 __keep the ball rolling__  
 __keep the lid on (something)__ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep the wheels turning__ :dart: To make something continue to happen or operate. _It’s people like him that keep the wheels of commerce turning._  
@@ -1674,7 +1674,7 @@ __kill the goose that lays the golden egg(s)__ Destroy a source of riches throug
 __kill two birds with one stone__  
 __killer__ _adj_ _It is known for its killer grilled cheese sammies._  
 __killing field__  
-__kindred spirit__ :nine::m: (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
+__kindred spirit__ :nine::m: [:sound: kindred spirit] (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :three: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __king of the jungle__ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
 __kith and kin__ _old-fashioned_ Friends and relatives.  
@@ -1702,7 +1702,7 @@ __knuckle-dragger__ A stupid, oafish person, especially a large man. An allusion
 __l’esprit de l’escalier__ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __labor under the illusion of/that__ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
 __Lady Luck__ :three: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
-__laid-back__ _adj_ :nine::m: __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
+__laid-back__ _adj_ :nine::m: [:sound: laid-back] __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __land on (one’s) feet__ To gracefully survive a bad situation.  
 __land-poor__ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
@@ -1759,7 +1759,7 @@ __lessons learned__
 __let (someone) loose (on something)__ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
 __let (the) perfect be the enemy of (the) good__ To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.)  
-__let alone__ :nine::m: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__let alone__ :nine::m: [:sound: let-alone] Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down (one’) hair__ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
 __let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
@@ -2326,7 +2326,7 @@ __put that demon to rest__
 __put the hammer down__ To press down the accelerator (of an automobile) as far as possible; to accelerate to or travel at an automobile’s maximum speed. Primarily heard in US. _It would normally take us three days driving to New York from Colorado, but with my brother putting the hammer down the whole way, we made it in two._  
 __put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._ _The manager put the kibosh on our staff party, saying it would cost too much._  
 __put the wind up (someone)__ To make someone very anxious, upset, or frightened.  
-__put up with (someone or something)__ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
+__put up with (someone or something)__ :nine::m: [:sound: put up with] To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
 __quite a few__ (quite a lot, quite a bit, quite a number) _Quite a few of them came to the party._ :es: bastante  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
@@ -2701,7 +2701,7 @@ __the very thing__ Exactly what is most ideal, desired, or useful in a particula
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
 __the whole nine yards__  
 __the whole shebang__  
-__then again__ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
+__then again__ :nine::m: [:sound: then again] From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
