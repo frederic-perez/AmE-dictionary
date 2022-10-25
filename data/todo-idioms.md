@@ -1,3 +1,6 @@
+__bury (one’s) head in the sand__  
+__down to (someone or something)__  
+__in all__ _I need five sailors in all._  
 __on a roll__  
 __on short notice__  
 __one-off__  
@@ -7,6 +10,8 @@ __out the wazoo__
 __pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
 __plead the 5th__  
+__punch out__ To record that one has left one’s workplace at a certain time. _Why didn’t you punch out when you left last night?_  
+__put (one’s) money where (one’s) mouth is__  
 __put (someone or something) to the test__  
 __put in a good word for someone__  
 __rabble-rouser__ Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
@@ -16,6 +21,7 @@ __rest assured__
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
+__safety net__  
 __save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __save the day__  
 __scads__ _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _I’ve still got scads to do before the in-laws arrive!_  

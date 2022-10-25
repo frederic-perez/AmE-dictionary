@@ -1,3 +1,21 @@
+__abhorrent__  
+__aircraft__ _n_ _Ejecting from aircraft._  
+__athwart__ _adv, prep_  
+__athwartships__ _adv_ Across a ship from side to side.  
+__bedlam__ _n_  
+__commensurate__  
+__Cutty Sark__ _n_  
+__deckhand__ _n_  
+__diffident__ _adj_  
+__dungarees__  
+__figurehead__ _n_  
+__floe__ _n_  
+__foreseeable__  
+__friendly__  
+__glaciologist__  
+__guesswork__ _n_  
+__haphazard__  
+__khakis__ _n_  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
@@ -67,6 +85,7 @@ __merino__ _n_ _Merino wool._
 __mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
 __meso__ _prefix_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
 __mesquite__ _n_ :two::hammer: _Tender mesquite-grilled steaks._  
+__mess__ _n_ __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
 __met__ _n_ _Business needs met._  
 __meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to members of its own category.  
 __meta<sup>2</sup>__ _adv_ In a self-referential manner.  
@@ -89,6 +108,8 @@ __midday__ _n_ The middle of the day; noon.
 __middle school__ _n_  
 __middleware__ _n_ :two::hammer:  
 __midget race track__  
+__midwatch__ _n_  
+__MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
 __mile high city__  
 __minestrone__ _n_  
 __miniate__ _v tr_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
@@ -107,6 +128,7 @@ __mixology__ _n_
 __mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
 __mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __moated__ _adj_ _The moated palace of King Edwin._  
+__model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogul__ _n_ :two::hammer:  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
@@ -175,6 +197,7 @@ __naan bread__ _n_
 __nameplate__ _n_  
 __namesake__  
 __narcissistic__ _adj_ :pencil2:  
+__narrow__ _v_ _I narrowed the list down to just over twenty entries._  
 __narrowboat__  
 __nascent__  
 __nativity__ _n_  
@@ -213,11 +236,13 @@ __nimrod__ _n_
 __nip__ _v_  
 __nitty-gritty__ _n_ :two::hammer:  
 __nix__ _v_  
+__no-brainer__  
 __no-frills__ _adj_ _informal_  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __no-nonsense__ _adj_ _A no-nonsense approach._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
+__Nomex__ _n_  
 __nonplus__ _n, v_  
 __Nordic jumps__ _n_  
 __nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especially as a seasoning or as a wrapper for sushi. _Nori crusted tuna._  
@@ -420,7 +445,7 @@ __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointment
 __petticoat__  
 __pettifog__ _v_  
 __pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
-__pewter__ _n_ :two::hammer:  
+__pewter__ _n_ :three::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __pharmacophores__ _n_  
 __phenom__  
@@ -554,6 +579,7 @@ __protonation__ _n_
 __protracted__ _adj_ _A protracted discussion._  
 __providence__ _n_ Prudent management; economy. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
 __provider__ _n_  
+__proviso__ _n_  
 __provost__ _n_  
 __prowess__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
@@ -808,6 +834,7 @@ __scion__ _n_
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
+__Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_  
 __scrap__ _v_  
@@ -909,6 +936,7 @@ __signage__ _n_ :three::hammer: _Backlit signage._
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
 __signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._  
+__signet ring__ _n_ A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
 __significant__ _adj_ _Time of day is significant._  
 __silviculture__ _n_  
 __simulcast__  
@@ -954,6 +982,7 @@ __smash__ _adj_ _Our sixth smash year!_
 __smattering__  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
+__smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ :two::hammer:  
 __snack__ _v_  
 __snare drum__ _n_  
@@ -1311,6 +1340,7 @@ __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or gr
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
 __treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
+__treasure__ _v_  
 __treed__ _adj_  
 __treetops__ _n_  
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
