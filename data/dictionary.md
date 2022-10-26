@@ -11233,6 +11233,7 @@ __pantalons__ _n_
 __pantheon__ _n_  
 __pantophagous__ _adj_  
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
+__pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
 __pantry__ _n_ :three::hammer:  
 __pants__ _n_  
 __pants-on-fire__  

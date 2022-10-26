@@ -511,6 +511,7 @@ __burn the candle at both ends__ To work or study day and night.
 __burn the midnight oil__ To work late into the night.  
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
+__bury (one’s) head in the sand__  
 __bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
 __bust out__ _She clearly has something busting out._  
 __busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
@@ -808,6 +809,7 @@ __down the drain__ :two: Wasted or lost. This metaphoric term alludes to water g
 __down the line__ In the future.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
 __down the road__ _informal_ In the future; later on.  
+__down to (someone or something)__  
 __down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
 __down-to-earth__ _adj_ :four: Sensible and realistic.  
@@ -936,6 +938,7 @@ __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flas
 __flick off__ :dart: _He flicked off the light._  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
+__flog a dead horse__  
 __floored__ __1__ Shocked or flabbergasted. _I was completely floored by Rob’s declaration of love—I had no idea he felt that way about me!_ __2__ _slang_ Struck and knocked to the floor. _Can you believe that bully got floored by such a scrawny kid?_ __3__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really floored!_  
 __flotsam and jetsam__  
 __fly in the ointment__ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
@@ -1482,7 +1485,7 @@ __in all honesty__ In one’s sincere opinion; without any disingenuousness.
 __in all likelihood__  
 __in all seriousness__ In one’s sincere opinion; without any disingenuousness.  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
-__in all__  
+__in all__ :two::hammer: _I need five sailors in all._  
 __in and of itself__ Considering it alone.  
 __in any event__ :four: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
 __in awe (of someone or something)__  
@@ -2092,7 +2095,7 @@ __on a daily basis__ Every day. _They work with the team on a daily basis._
 __on a dime__  
 __on a high horse__ To act as if you are better than other people.  
 __on a lark__ :two: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
-__on a roll__ :two::hammer: _I’m on a roll._  
+__on a roll__ :three::hammer: _I’m on a roll._  
 __on a tear__ :two: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
@@ -2111,6 +2114,7 @@ __on opposite sides of the barricade(s)__ Occupying conflicting, opposing, and/o
 __on par (with someone or something)__  
 __on pins and needles__ Worried or excited about something.  
 __on point__ __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
+__on short notice__  
 __on someone’s dime__ _I was living on my mother’s dime._  
 __on steroids__ :four::mega: In a very large, enhanced, or exaggerated form.  
 __on tap__ :two: __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
@@ -2162,6 +2166,7 @@ __one way or another__ :three::hammer: _If I fail then it will cost me my head o
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
+__one-off__  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __one’s other half__ :two::hammer:  
@@ -2181,8 +2186,9 @@ __out of character__
 __out of date__  
 __out of house and home__ Evicted; no longer having a place to live. _If my wife loses her job like so many of her co-workers, we’ll be out of house and home for sure._  
 __out of kilter__ :two: _Out of kilter with the times._  
+__out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of nowhere__  
-__out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
+__out of pocket__ :three::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the blue__  
 __out of the wood(s)__ No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
@@ -2190,6 +2196,7 @@ __out of thin air__ :two: From nothing, as of something that has suddenly materi
 __out of this world__ Extremely good.  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
 __out of whack__  
+__out the wazoo__  
 __out there__ :astonished: Somewhat unusual, unconventional, crazy, or eccentric. Sometimes hyphenated. _Our manager is always coming up with some out-there ideas on how to improve productivity._ _My uncle Jerry is a little out there, but he’s a really sweet guy._  
 __outie__ _slang_ Out of here; leaving. _That’s it, I’m not waiting any longer—I’m outtie! No way, this is too gross for me! I’m outtie._  
 __outside the box__ (Also, to think outside the box) To think or behave in an unconventional way, in a novel or often creative fashion. The “box” in question represents the limits of what is usually thought or done.  
@@ -2220,6 +2227,7 @@ __patch up__ :three::dart: __1__ To mend, repair, or service something to the po
 __pay (one’s) last respects__ To show or express one’s respect for someone who has died, especially by attending their funeral, wake, memorial service, etc. _Anyone who wishes to pay their last respects to my husband is welcome to do so at the viewing this Saturday, from 10 AM to 4 PM._  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __pay homage (to someone or something)__ :two::hammer:  
+__pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
@@ -2272,7 +2280,7 @@ __play safe__
 __play smart__  
 __play tricks__ :two::hammer:  
 __played out__  
-__plead the Fifth (Amendment)__ __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
+__plead the Fifth (Amendment)__ :two: (plead the 5th) __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
 __pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
 __poetry in motion__ Something that is very elegant, graceful, and/or beautiful to observe, especially dance or the performing arts. _The ballet was sublime to watch, truly poetry in motion._  
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
@@ -2297,6 +2305,7 @@ __pull something off__ :two::dart: __1__ To manage to make something happen. _Ye
 __pull tabs__ (casino)  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull your socks up__ To improve your work or behaviour.  
+__punch out__ To record that one has left one’s workplace at a certain time. _Why didn’t you punch out when you left last night?_  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __puppy love__  
 __push back__ :two::hammer:  
@@ -2308,9 +2317,10 @@ __pushing up the daisies__ Dead and buried.
 __put (one’s) back up__ [:scroll: This idiom refers to the way cats arch their backs when they are angry.] To be or become angry, hostile, defensive, defiant, or irritable, or to instill such a feeling in someone else. _John put his back up when his parents brought up the subject of college._ _Election season always puts my dad’s back up._  
 __put (one’s) foot in (one’s) mouth__ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (one’s) hands together (for someone or something)__ To applaud (someone or something); to clap (for someone or something). _Ladies and gentlemen, please put your hands together for our next comedian this evening!_  
-__put (one’s) money where (one’s) mouth is__ :two::hammer:  
+__put (one’s) money where (one’s) mouth is__ :three::hammer:  
 __put (or set) the record straight__ To make things clear, to explain something.  
 __put (someone or something) to bed__ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
+__put (someone or something) to the test__  
 __put (something) on the back burner__ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put a foot on my mouth__  
 __put a gun to (someone’s) head__ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  

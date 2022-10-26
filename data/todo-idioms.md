@@ -1,18 +1,3 @@
-__bury (one’s) head in the sand__  
-__down to (someone or something)__  
-__in all__ _I need five sailors in all._  
-__on a roll__  
-__on short notice__  
-__one-off__  
-__out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
-__out of pocket__  
-__out the wazoo__  
-__pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
-__pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
-__plead the 5th__  
-__punch out__ To record that one has left one’s workplace at a certain time. _Why didn’t you punch out when you left last night?_  
-__put (one’s) money where (one’s) mouth is__  
-__put (someone or something) to the test__  
 __put in a good word for someone__  
 __rabble-rouser__ Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
