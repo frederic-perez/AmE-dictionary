@@ -54,7 +54,7 @@ __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or il
 __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The condition of being temporarily set aside. (The word itself is commonly preceded by the preposition in.) _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
-__abhorrent__ _adj_ :five::hammer:  
+__abhorrent__ _adj_ :six::hammer:  
 __abide__ _v_ :five: /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._ _Abiding trepidation._  
 __abject__ _adj_ :six: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
@@ -334,6 +334,7 @@ __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and n
 __airborne__ _adj_ :two::hammer: _An airborne radar._ _Airborne and shipborne measured platforms._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
+__aircraft__ _n_ _Ejecting from aircraft._  
 __airfield__  
 __airhead__ _n_ _slang_ A stupid person.  
 __airship__ _n_ _Tethered airships._  
@@ -851,8 +852,9 @@ __atelier__ _n_
 __atheist__ _adj_  
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
-__athwart__  
-__atlatl__  
+__athwart__ _adv, prep_ :two::hammer:  
+__athwartships__ _adv_ Across a ship from side to side.  
+__atlatl__ _n_  
 __atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water, raw sugar, cinnamon, and vanilla and is served warm.  
 __atoll__ _n_ :es: atolón  
 __atolls__ _n_  
@@ -1252,7 +1254,7 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _v_ :six: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__ _n_ :four: Scene of loud confusion.  
+__bedlam__ _n_ :five: Scene of loud confusion.  
 __Bedouin__  
 __bedpan__ _n_  
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
@@ -3268,7 +3270,7 @@ __commencement__ _n_ _The high school commencement ceremony._
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :five: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__ _adj_ :four: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
+__commensurate__ _adj_ :five: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
@@ -3981,6 +3983,7 @@ __cuttin’ a rug__
 __cutting edge__ _n_  
 __cutting-edge__ _adj_ :four::hammer: _Cutting-edge research._  
 __cuttlefish__ _n_ _Cuttlefish bones._  
+__Cutty Sark__ _n_  
 __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
 __cyanide__ _n_ A very strong poison.  
 __Cybex__ _n_ _Cybex weights._  
@@ -4144,6 +4147,7 @@ __decimation__ _n_ :two::hammer: (Roman army punishment)
 __deck railing__  
 __deck<sup>1</sup>__ _n informal_ :four: The ground or floor. _An enticing outdoor deck._ _An elevated deck with with mountain views._ __2c__ The roadway of a bridge or an elevated freeway.  
 __deck<sup>2</sup>__ _v_ :four::hammer: :es: adornar, engalanar _Those are just a few of the things that deck the halls of the raunchy comedy._  
+__deckhand__ _n_  
 __declaim__ _v_  
 __declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
 __decline__ _n_  
@@ -4413,7 +4417,7 @@ __diehard__ _adj_ :two::hammer: _A diehard fan._
 __differ__ _v_ :three::mega::hammer:  
 __different animal__ _n_ Something different.  
 __diffidence__ _n_ :two: The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._ _He spoke with a certain diffidence._  
-__diffident__ _adj_ :three::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
+__diffident__ _adj_ :four::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip.  
@@ -5013,7 +5017,7 @@ __dunce__ _n_ :three: A person regarded as dim-witted or foolish. _We are comple
 __dune__ _n_  
 __dung fork__ _n_  
 __dung__ _n, v_  
-__dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
+__dungarees__ _n_ :seven::hammer: _The men in black dungarees stood motionless._  
 __dunk tanks__  
 __dunno__  
 __duo__  
@@ -5936,7 +5940,7 @@ __figure skates__ _n_
 __figure skating__  
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
 __figure<sup>2</sup>__ _v_ _informal_ :two::hammer:  
-__figurehead__ _n_ :three::hammer:  
+__figurehead__ _n_ :four::hammer:  
 __filbert__ _n_ :es: avellana  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  
@@ -6163,8 +6167,7 @@ __floater__ _n_ :six::hammer: (floaters) _(Basketball)_ _I wonder how I missed s
 __floaties__  
 __flock<sup>1</sup>__ _n_  
 __flock<sup>2</sup>__ _v_  
-__floe__ _n_ :two::hammer: _Ice floe._  
-__flog a dead horse__  
+__floe__ _n_ :three::hammer: _Ice floe._  
 __flog__ _v_ :five::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
@@ -6318,7 +6321,7 @@ __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the fo
 __forensics__ _n_ :two::hammer:  
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
-__foreseeable__ _adj_ :two::hammer: _The foreseeable future._  
+__foreseeable__ _adj_ :three::hammer: _The foreseeable future._  
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
 __forest__ _v_  
@@ -6462,6 +6465,7 @@ __friar__ _n_ A member of any of various chiefly mendicant religious orders of t
 __friction__ _n_ _The coefficient of friction._  
 __Friday__ _n_ :mega: /’fraIdi, -deI/  
 __fried green tomatoes__ _n_  
+__friendly__  
 __frieze__ _n_  
 __frigate__ _n_ :es: fragata  
 __fright__ _n_  
@@ -6829,6 +6833,7 @@ __give-and-take__ _n_ An exchange of views on some topic. _Syn_ discussion, word
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __giveback__ _n_  
 __glabella__ _n_ The smooth area between the eyebrows just above the nose.  
+__glaciologist__  
 __glacis__ _n_  
 __glad-hand__ _v_  
 __gladdened__  

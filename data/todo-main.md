@@ -1,18 +1,3 @@
-__abhorrent__  
-__aircraft__ _n_ _Ejecting from aircraft._  
-__athwart__ _adv, prep_  
-__athwartships__ _adv_ Across a ship from side to side.  
-__bedlam__ _n_  
-__commensurate__  
-__Cutty Sark__ _n_  
-__deckhand__ _n_  
-__diffident__ _adj_  
-__dungarees__  
-__figurehead__ _n_  
-__floe__ _n_  
-__foreseeable__  
-__friendly__  
-__glaciologist__  
 __guesswork__ _n_  
 __haphazard__  
 __khakis__ _n_  
