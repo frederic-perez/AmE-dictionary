@@ -1,6 +1,16 @@
+__ misophonia__ _n_ /mi-soh-FOH-nee-uh/ [:scroll: From Greek miso- (hate) + -phonia (sound)] An intolerance of certain sounds, such as chewing, slurping, etc.  
+__bedlam__ _n_ A place or situation of noisy uproar and confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
+__Beelzebub__ _n_  
+__Belial__ _n_  
+__defile__ _v_ /dih-FYLE/ Defile means “to make (something) dirty.” It can also mean “to take away or ruin the purity, honor, or goodness of (something or someone important).” _Students often threw their trash on the ground, defiling the campus in the process._  
+__diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.  
+__gamesmanship__ _n_ /GAYMZ-muhn-ship/ __1__ The use of aggressive or dubious tactics, such as psychological intimidation or disruption of concentration, to gain an advantage over one’s opponent while still observing the rules in a sport or game. __2__ The use of expedients or morally questionable acts to gain an advantage, as in politics.  
+__genteel__ _adj_ /jen-TEEL/  
+__gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) + -cracy (rule)] The system of government by old people.  
 __guesswork__ _n_  
 __haphazard__  
 __khakis__ _n_  
+__lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
@@ -31,6 +41,7 @@ __martyrship__ _n_
 __mash__ _n_ _Used mash goes to feed a local farmer’s pigs._  
 __mashed potatoes__  
 __mashup__ _n_ :two::hammer: _A fantastic mashup of illuminated characters._  
+__masjid__ _n_ A Muslim place of worship. _Syn_ mosque _Though her friends prayed there often, this was her first visit to the masjid._  
 __mason__ _n_ :astonished:  
 __masseuse__ _n_  
 __massif__ _n_ :two::hammer: :es: macizo  
@@ -252,6 +263,7 @@ __nutrition label__ _n_
 __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
 __Nymphean__ _adj_ _Nymphean theater._  
 __oasis__ _n_ (_n pl_ oases)  
+__obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obliterate__ _v_ /uh-BLIT-uh-rayt/  
@@ -392,6 +404,7 @@ __paysleys__ _n_
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
+__peculiar__ _adj_ /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
 __pedal boat__ _n_  
 __pedestal__ _n_  
 __pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
@@ -691,6 +704,7 @@ __respite__ _n_ :three::hammer:
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
 __retcon__ _n_  
+__reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
 __retiree__ _n_  
 __retrace__ _v_  
 __retrofit__ _v_  
@@ -861,6 +875,7 @@ __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the atte
 __self-serving__ _adj_  
 __send-off__  
 __sensibility__ _n_ /sen-suh-BIL-uh-tee/  
+__sepulchre__ _n_ /SEP-ul-ker/ Sepulchre is an old-fashioned word for a tomb or other place of burial.  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __sequester__ _v_  
@@ -1158,6 +1173,7 @@ __sundry<sup>1</sup>__ _adj_
 __sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __super-duper__  
+__supercalifragilisticexpialidocious__ _adj_ Used as a nonsense word by children to express approval or to represent the longest word in English.  
 __superintendent__  
 __superlative__ _adj_ _Superlative works._  
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
@@ -1227,6 +1243,7 @@ __teetotum__ _n_ A top, usually having four lettered sides, that is used to play
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temper__ _v_ (tempered)  
+__templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
 __tenement__  
 __tenet__ _n_  
 __tenterhook__ _n_  
@@ -1381,6 +1398,7 @@ __ultra-processed food__ _n_ The term usually refers to food with ingredients we
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umbrage__ _n_ /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
 __umpteen__ _adj, n_  
+__umpteenth__ _adj_ :dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
 __unabashed__ _adj_ :four::hammer: /un-uh-BASHT/ _Unabashed humor._  
 __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
 __unapologetic__ _adj_  
@@ -1438,6 +1456,7 @@ __valet__ _n_
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vampire bat__ _n_  
 __van__ _n_  
+__variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_  
 __vast__ _adj_  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
@@ -1474,6 +1493,7 @@ __viticulture__ _n_
 __vocation__ _n_ /voh-KAY-shun/  
 __vociferous__ _adj_ /voh-SIF-uh-rus/  
 __voles__ _n_ _Water voles._  
+__volition__ _n_ /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” _Every choice I made was of my own volition and not subject to outside influence._  
 __voucher__ _n_ _A lunch voucher._  
 __wade__ _v_ :two::hammer:  
 __waffle__  
