@@ -82,7 +82,7 @@ __abrogation__ _n_ :two::hammer:
 __abrupt__ _adj_ :two::hammer: /uh-BRUPT/ _An abrupt decrease._  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
-__abscission__ _n_ The act of cutting off. _ Syn_ cutting off _He had surgery for the abscission of a malignancy._  
+__abscission__ _n_ The act of cutting off. _Syn_ cutting off _He had surgery for the abscission of a malignancy._  
 __abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __absent-minded__ _adj_  
@@ -8576,7 +8576,7 @@ __islander__
 __islet__ _n_ :three::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
-__issue<sup>1</sup>__ _n_ :two::hammer: _She died without issue._ (decendency?)  
+__issue<sup>1</sup>__ _n_ :two: __6__ Offspring; progeny. :es: descendencia _She died without issue._ 
 __issue<sup>2</sup>__ _v_  
 __isthmus__ _n_ :two::hammer:  
 __IT Band__  
@@ -9577,7 +9577,7 @@ __lucky day__ _n_ A day when something good happens to someone. _This is your lu
 __lucrative__ _adj_ :two: /ˈluːkrətɪv/ Producing a profit; profitable; remunerative: _a lucrative income; a lucrative marketing strategy._  
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
-__Luddite__ _n_ _slang_ :two: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are... why can’t everything just be the same?) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
+__Luddite__ _n_ _slang_ :two: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
@@ -13532,7 +13532,7 @@ __save (one’s) face__
 __savior__  
 __savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
 __savor__ _v_ (savoring) _I was savoring the moment._  
-__savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe (do you know?), from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
+__savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe, from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  
 __savvy<sup>3</sup>__ _adj_ :two: Shrewd or knowledgeable, especially in practical matters.  
 __saw__ _n_ A maxim or proverb.  
