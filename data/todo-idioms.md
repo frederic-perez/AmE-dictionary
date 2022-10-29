@@ -1,15 +1,24 @@
+__bear fruit__  
+__burst at the seams__  
+__choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
 __curl (one’s) hair__ To shock or terrify someone. _That horror movie sure curled my hair—I could not sleep for a week!_  
 __curl (one’s) lip__ To sneer at something. _When I heard what was for dinner, I curled my lip in disgust._  
 __deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
+__false friend__  
 __file 13__ (file thirteen) A wastepaper basket. _We don’t need those reports anyway—you can put them in file 13._ _I’m afraid that the papers you want went into file thirteen two days ago._  
 __for the umpteenth time__ An expression of frustration, usually when one has already done something many times before and is irritated to have to do it again. “Umpteenth” means an indefinitely or innumerably large amount, usually used for sarcastic or hyperbolic emphasis, as in this phrase. _For the umpteenth time, we are not stopping for ice cream!_  
+__golden child__  
+__good call__ A good decision or idea. The phrase does not have to be preceded by an article. _Hey, good call—I think the blue tie will bring out my eyes more, just like you said._ _Ordering this dish was definitely a good call—it’s delicious!_  
+__put (one) on hold__  
+__put (something) on hold__  
 __put in a good word for someone__  
 __rabble-rouser__ Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
 __raise the bar__  
+__reckon with__  
 __rest assured__  
 __rock bottom__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
@@ -90,7 +99,7 @@ __the handwriting on the wall__ _He could see the handwriting on the wall._
 __the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
-__the name of the game__ The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
+__the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
 __the nitty-gritty__  
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
@@ -197,6 +206,7 @@ __written all over (one’s) face__ Evident by one’s facial expression. Said o
 __yake your pick__  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
+__you don’t say__  
 __you look a little peaked__ You look ill, especially as if you might vomit. _You look a little peaked since you got off that roller coaster. Do you want some ginger ale to settle your stomach?_  
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
