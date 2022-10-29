@@ -4,10 +4,13 @@ __Beelzebub__ _n_
 __Belial__ _n_  
 __defile__ _v_ /dih-FYLE/ Defile means “to make (something) dirty.” It can also mean “to take away or ruin the purity, honor, or goodness of (something or someone important).” _Students often threw their trash on the ground, defiling the campus in the process._  
 __diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.  
+__formula milk__ _n_  
+__furor__ _n_  
 __gamesmanship__ _n_ /GAYMZ-muhn-ship/ __1__ The use of aggressive or dubious tactics, such as psychological intimidation or disruption of concentration, to gain an advantage over one’s opponent while still observing the rules in a sport or game. __2__ The use of expedients or morally questionable acts to gain an advantage, as in politics.  
 __genteel__ _adj_ /jen-TEEL/  
 __gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) + -cracy (rule)] The system of government by old people.  
 __guesswork__ _n_  
+__hacksaw__ _n_ :dart:  
 __haphazard__  
 __khakis__ _n_  
 __lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.  
@@ -69,6 +72,7 @@ __meltdown__
 __memento__ _n_ :two::hammer: (mementoes)  
 __memorabilia__  
 __menagerie__ _n_ :three: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
+__menarche__ _n_ The initial onset of menstruation, usually occurring between the ages of 10 and 15.  
 __menial__ _adj_ :mega:  
 __mephitic__ _adj_  
 __Mercer’s condition__ _n_  
@@ -130,6 +134,7 @@ __mogul__ _n_ :two::hammer:
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mojo__ _n_  
 __molding__ _n_ _Mahogany moldings._  
+__molest__ _v_  
 __moll__ _n_ _Mingle with mobsters and molls._  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
 __molluscum contagiosum__ _n_  
@@ -681,6 +686,7 @@ __refurbishment__
 __refuse__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regatta__ _n_ :three::hammer:  
 __regiment__ _n_ _Several regiments of soldiers._  
+__rehabilitation__ _n_  
 __reindeer__ _n pl_ :two::hammer:  
 __rejoice__ _v_  
 __rejoicing__ _n_ :pencil2:  
@@ -932,6 +938,7 @@ __sideburns__ _n_
 __sideline__ _v_ :two::hammer:  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sightsee__ _v_ :two::hammer:  
+__sigmoidoscopy__ _n_  
 __signage__ _n_ :three::hammer: _Backlit signage._  
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
@@ -1000,6 +1007,7 @@ __socialite__
 __sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
 __sofa bed__ _n_ :two::hammer:  
 __softball__ _n_  
+__solicitor__ _n_ /səˈlɪsɪtəʳ/  
 __soloist__ _n_  
 __sonnet__ _n_  
 __sorely__ _adv_ _Sorely needed._  
@@ -1177,6 +1185,7 @@ __supercalifragilisticexpialidocious__ _adj_ Used as a nonsense word by children
 __superintendent__  
 __superlative__ _adj_ _Superlative works._  
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
+__support__ _v_  
 __supreme__ _adj_ /səˈprim, sʊ-/  
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
