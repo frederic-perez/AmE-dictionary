@@ -380,7 +380,7 @@ __be two/three etc years someone’s senior__ To be two/three etc years older th
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
-__bear fruit__ :two: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
+__bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ To go away immediately.  
 __beat the bushes (for someone or something)__ To search for someone or something exhaustively and at great length. _I’ve been beating the bushes for a bigger apartment, but there’s nothing out there I can afford!_  
@@ -511,6 +511,7 @@ __burn the candle at both ends__ To work or study day and night.
 __burn the midnight oil__ To work late into the night.  
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
+__burst at the seams__  
 __bury (one’s) head in the sand__  
 __bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
 __bust out__ _She clearly has something busting out._  
@@ -620,6 +621,7 @@ __chip away__ :dart: __1__ To break off fragments of something. _We won’t be a
 __chip in__  
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
+__choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __churn something up__  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
@@ -713,6 +715,8 @@ __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We ne
 __cry over spilled milk__ To be unhappy about what cannot be undone.  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
+__curl (one’s) hair__ To shock or terrify someone. _That horror movie sure curled my hair—I could not sleep for a week!_  
+__curl (one’s) lip__ To sneer at something. _When I heard what was for dinner, I curled my lip in disgust._  
 __curse (someone or something) under (one’s) breath__ To say threatening, consternated, or disgruntled remarks (toward someone or something) in a very soft or indistinct voice, such that no one else can hear or understand them clearly. _Steven stormed off to his room, cursing his parents under his breath._  
 __curse a blue streak__ To use profane language with great rapidity and intensity. _My dad cursed a blue streak after he found out I’d put a dent in his car._  
 __curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
@@ -763,6 +767,7 @@ __dealbreaker__ :six::pencil2: A specific issue or thing that will cause an agre
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
 __deep dive__ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  
 __deepfake__ :two::hammer:  
+__deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __desperate times call for desperate measures__ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
 __deus ex machina__ :two::hammer: _Leaders under fire often wait for some deus ex machina._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
@@ -805,6 +810,7 @@ __double down__ To significantly increase or strengthen effort, investment, or r
 __double entendre__  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
+__down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
 __down the drain__ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the line__ In the future.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
@@ -840,6 +846,7 @@ __easier said than done__ Said of a task that is easier to talk about than to do
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
 __easy peasy__  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
+__eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __echo chamber__  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
@@ -852,6 +859,7 @@ __end of story__ A phrase used to end a conversation or topic of discussion, esp
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endgame__ :three: The final stages of a process, development, or activity.  
 __engine room__ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
+__enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
 __et alia__  
@@ -887,7 +895,7 @@ __fall out__ :dart: __5__ To have one’s relationship with someone completely d
 __fall short__ :eight: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
 __fall through the cracks__  
 __fall through__ :dart: To not be completed or come to fruition; to fail due to some outside circumstances. _Oh, we’re not going away next week after all—our vacation plans fell through._  
-__false friend__ A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
+__false friend__ :dart::two: A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fam__ An abbreviation for “family that can be used to refer to one’s blood relatives or close friends. Despite the plural connotation of “family,” it can also be applied to an individual. _I’d love to go out tonight, but I’m having dinner with the fam—my mom’s making her famous meatballs!_ _Of course I’ll help you, fam. You’re my best friend!_  
 __fan service__  
@@ -914,6 +922,7 @@ __fight the good fight__
 __fight tooth and nail__  
 __fighting the good fight__  
 __figure it out__  
+__file 13__ (file thirteen) A wastepaper basket. _We don’t need those reports anyway—you can put them in file 13._ _I’m afraid that the papers you want went into file thirteen two days ago._  
 __fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
 __fill up__ __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
 __filled to the brim__ :two: __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ _A city practically filled to the brim with entertainment._ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
@@ -968,6 +977,7 @@ __for the birds__
 __for the most part__ :two::hammer:  
 __for the ride__ For pleasure or interest, rather than any serious purpose. _Women are now the primary force behind an explosion in new cocktail concoctions, and men are simply going along for the ride, say bartenders and liquor marketing executives._  
 __for the sake of (someone or something)__  
+__for the umpteenth time__ An expression of frustration, usually when one has already done something many times before and is irritated to have to do it again. “Umpteenth” means an indefinitely or innumerably large amount, usually used for sarcastic or hyperbolic emphasis, as in this phrase. _For the umpteenth time, we are not stopping for ice cream!_  
 __for what it’s worth__ :three: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I’m sorry to hear you lost your job. For what it’s worth, I think you made the right choice confronting your boss._  
 __for years/weeks/days to come__ :dart: Used to emphasize that something will continue for a long time into the future. _This is a moment that will be remembered and celebrated for years to come._ _It was a highlight that would be looped on SportsCenter for days to come._  
 __forever and a day__ :two: __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
@@ -1150,12 +1160,14 @@ __God’s green earth__ The entire planet; anywhere and everywhere.
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
 __gold rush__  
+__golden child__  
 __golden goose__ :three: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
 __golden handcuffs__  
 __golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ The years following one’s retirement (generally after the age of 65).  
 __golf widow__ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __good books__ :two: Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof.  
+__good call__ :dart: A good decision or idea. The phrase does not have to be preceded by an article. _Hey, good call—I think the blue tie will bring out my eyes more, just like you said._ _Ordering this dish was definitely a good call—it’s delicious!_  
 __good enough for jazz__ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
 __good enough to eat__ To have an extremely beautiful or aesthetically pleasing appearance.  
 __good for nothing__ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
@@ -2318,6 +2330,7 @@ __put (one’s) back up__ [:scroll: This idiom refers to the way cats arch their
 __put (one’s) foot in (one’s) mouth__ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (one’s) hands together (for someone or something)__ To applaud (someone or something); to clap (for someone or something). _Ladies and gentlemen, please put your hands together for our next comedian this evening!_  
 __put (one’s) money where (one’s) mouth is__ :three::hammer:  
+__put (one) on hold__  
 __put (or set) the record straight__ To make things clear, to explain something.  
 __put (someone or something) to bed__ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (someone or something) to the test__  

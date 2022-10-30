@@ -1,18 +1,3 @@
-__bear fruit__  
-__burst at the seams__  
-__choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
-__curl (one’s) hair__ To shock or terrify someone. _That horror movie sure curled my hair—I could not sleep for a week!_  
-__curl (one’s) lip__ To sneer at something. _When I heard what was for dinner, I curled my lip in disgust._  
-__deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
-__down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
-__eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
-__enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
-__false friend__  
-__file 13__ (file thirteen) A wastepaper basket. _We don’t need those reports anyway—you can put them in file 13._ _I’m afraid that the papers you want went into file thirteen two days ago._  
-__for the umpteenth time__ An expression of frustration, usually when one has already done something many times before and is irritated to have to do it again. “Umpteenth” means an indefinitely or innumerably large amount, usually used for sarcastic or hyperbolic emphasis, as in this phrase. _For the umpteenth time, we are not stopping for ice cream!_  
-__golden child__  
-__good call__ A good decision or idea. The phrase does not have to be preceded by an article. _Hey, good call—I think the blue tie will bring out my eyes more, just like you said._ _Ordering this dish was definitely a good call—it’s delicious!_  
-__put (one) on hold__  
 __put (something) on hold__  
 __put in a good word for someone__  
 __rabble-rouser__ Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
