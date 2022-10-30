@@ -1254,7 +1254,7 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _v_ :six: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__ _n_ :five: Scene of loud confusion.  
+__bedlam__ _n_ :six: A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
 __Bedouin__  
 __bedpan__ _n_  
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
@@ -1274,6 +1274,7 @@ __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies
 __beefy__ _adj_ :three: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :four: Utah.  
 __beeline__  
+__Beelzebub__ _n_  
 __beep-de-beep__  
 __beer gut__  
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
@@ -1318,6 +1319,7 @@ __belch<sup>2</sup>__ _n_
 __beleaguer__ _v_ :two::hammer: /bih-LEE-gur/  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
+__Belial__ _n_  
 __belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __believer__ _n_ :mega:  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
@@ -4207,7 +4209,7 @@ __deferred__ _v_ :two::hammer:
 __defiance__  
 __defibrillator__ _n_ :two: An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __defile<sup>1</sup>__ _n_ :three::hammer:  
-__defile<sup>2</sup>__ _v_ :three: To damage or sully (someone’s good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud  
+__defile<sup>2</sup>__ _v_ :four: /dih-FYLE/ Defile means “to make (something) dirty.” It can also mean “to take away or ruin the purity, honor, or goodness of (something or someone important).” To damage or sully (someone’s good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud _Students often threw their trash on the ground, defiling the campus in the process._  
 __definitely__  
 __deflated__ _v_  
 __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
@@ -4421,6 +4423,7 @@ __diffident__ _adj_ :four::dart: Lacking or marked by a lack of self-confidence;
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip.  
+__diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__ _n_ :two::hammer:  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
@@ -6349,7 +6352,7 @@ __forlornly__
 __formals__ _n_  
 __Formica__  
 __formidable__  
-__formula milk__ _n_ An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
+__formula milk__ _n_ :two: An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
 __formulate__ _v_ _I was formulating my question._  
 __forsake__ _v_ :seven: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken<sup>1</sup>__ _v_ The past participle of forsake.  
@@ -6573,7 +6576,7 @@ __furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to
 __furlough<sup>2</sup>__ _v_  
 __furnish__ _v_ :five::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
 __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
-__furor__ _n_ _Social media furor._  
+__furor__ _n_ :two::hammer: _Social media furor._  
 __furrier__ _n_ A person whose occupation is selling, making, dressing, or repairing fur garments.  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :three::hammer: (furrowed) _His brow was furrowed._  
@@ -6646,6 +6649,7 @@ __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”
 __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
 __game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gamely__  
+__gamesmanship__ _n_ /GAYMZ-muhn-ship/ __1__ The use of aggressive or dubious tactics, such as psychological intimidation or disruption of concentration, to gain an advantage over one’s opponent while still observing the rules in a sport or game. __2__ The use of expedients or morally questionable acts to gain an advantage, as in politics.  
 __gamine__  
 __gamut__ _n_  
 __ganache__ _n_ A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
@@ -6741,7 +6745,7 @@ __generous__ _adj_
 __genetic algorithm__ _n_  
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
-__genteel__ _adj_ :two::hammer:  
+__genteel__ _adj_ :three::hammer: /jen-TEEL/  
 __gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
 __gentility__  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
@@ -6752,6 +6756,7 @@ __genuine__ _adj_ :two::hammer::mega:
 __geotag__ _n, v_  
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo line__ _n_ :two: In the context of a rig, a geronimo line is a safety slide or a line from the derrickman’s platform to the ground, used in an emergency.  
+__gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) + -cracy (rule)] The system of government by old people.  
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
@@ -7211,7 +7216,7 @@ __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.
 __guess__ _n, v_ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ _n_  
-__guesswork__ _n_ :two::hammer:  
+__guesswork__ _n_ :three::hammer:  
 __guest house__ _n_ _Syn_ boarding house, motel, bed and breakfast, B & B :es: hostal _She ran a seaside guest house for 25 years._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
@@ -7315,7 +7320,7 @@ __hack<sup>2</sup>__ _v_ :two::hammer: _Coughing and hacking while shuffling aro
 __hackle<sup>1</sup>__ _n_ :three: (hackles) __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
 __hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.  
 __hackneyed__ _adj_ :three::hammer: _The hackneyed metaphor made him smile._  
-__hacksaws__ _n_  
+__hacksaw__ _n_ :dart::two::hammer:  
 __hackwork__ _n_  
 __Hacky Sack__ _n_ /ˈhæk i/ _Trademark_ A trademark for a footbag. A small leather beanbag juggled with the feet as a game.  
 __hacky__ _adj_ _A hacky cough._  
@@ -7419,7 +7424,7 @@ __hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. _
 __Hannukah__ _n_ (Chanukah)  
 __hantavirus__  
 __haphazard<sup>1</sup>__ _adj_ :two::hammer:  
-__haphazard<sup>2</sup>__ _n_  
+__haphazard<sup>2</sup>__ _n_ :two::hammer:  
 __haphazard<sup>3</sup>__ _adv_  
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
@@ -8576,7 +8581,7 @@ __islander__
 __islet__ _n_ :three::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
-__issue<sup>1</sup>__ _n_ :two: __6__ Offspring; progeny. :es: descendencia _She died without issue._ 
+__issue<sup>1</sup>__ _n_ :two: __6__ Offspring; progeny. :es: descendencia _She died without issue._  
 __issue<sup>2</sup>__ _v_  
 __isthmus__ _n_ :two::hammer:  
 __IT Band__  
@@ -8867,7 +8872,7 @@ __keysmash<sup>1</sup>__ _n_
 __keysmash<sup>2</sup>__ _v_  
 __keystone__ _n_ :es: piedra angular  
 __keystroke__ _n_ :two::hammer: (keystrokes)  
-__khakis__ _n_ :two::hammer:  
+__khakis__ _n_ :three::hammer:  
 __kibble__ _n_  
 __kibbutz__  
 __kibitz__ _v_  
@@ -10147,6 +10152,7 @@ __misnomer__ _n_ :nine: __1__ A wrong or inaccurate name or designation. _“Kin
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
+__misophonia__ _n_ /mi-soh-FOH-nee-uh/ [:scroll: From Greek miso- (hate) + -phonia (sound)] An intolerance of certain sounds, such as chewing, slurping, etc.  
 __misplace__ _v_  
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  

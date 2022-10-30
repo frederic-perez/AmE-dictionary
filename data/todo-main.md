@@ -1,18 +1,3 @@
-__ misophonia__ _n_ /mi-soh-FOH-nee-uh/ [:scroll: From Greek miso- (hate) + -phonia (sound)] An intolerance of certain sounds, such as chewing, slurping, etc.  
-__bedlam__ _n_ A place or situation of noisy uproar and confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
-__Beelzebub__ _n_  
-__Belial__ _n_  
-__defile__ _v_ /dih-FYLE/ Defile means “to make (something) dirty.” It can also mean “to take away or ruin the purity, honor, or goodness of (something or someone important).” _Students often threw their trash on the ground, defiling the campus in the process._  
-__diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.  
-__formula milk__ _n_  
-__furor__ _n_  
-__gamesmanship__ _n_ /GAYMZ-muhn-ship/ __1__ The use of aggressive or dubious tactics, such as psychological intimidation or disruption of concentration, to gain an advantage over one’s opponent while still observing the rules in a sport or game. __2__ The use of expedients or morally questionable acts to gain an advantage, as in politics.  
-__genteel__ _adj_ /jen-TEEL/  
-__gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) + -cracy (rule)] The system of government by old people.  
-__guesswork__ _n_  
-__hacksaw__ _n_ :dart:  
-__haphazard__  
-__khakis__ _n_  
 __lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
