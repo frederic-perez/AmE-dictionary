@@ -9169,6 +9169,7 @@ __lavishly__ _adv_ :three::hammer:
 __law and order__  
 __law of the land__  
 __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._  
+__lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.  
 __lawless__ _adj_  
 __lawmaker__ _n_ :six::hammer: (lawmakers)  
 __lawsuit__  
@@ -9703,6 +9704,8 @@ __mainline__
 __mainstay__ _n_ :eight::hammer: _A mainstay of his business._  
 __mainstream__  
 __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
+__majestic__ _adj_  
+__majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
 __majoring__  
@@ -9711,10 +9714,11 @@ __make out__ _v_ :two::hammer:
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make-or-break__ _adj_ :two::hammer:  
-__makeover__ _n_ :two::hammer: _LinkedIn profile makeover._  
+__makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
+__makeover__ _n_ :dart::five::hammer: _The ultimate makeover story of a maid-turned-princess._ _LinkedIn profile makeover._  
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup__ _n_ :two: __2__ An event that is substituted for a previously cancelled event. _The two teams played a makeup one week later._ _Today’s game has been postponed; no makeup date has been snnounced._ _A makeup game._  
-__maki__ _n_  
+__maki__ _n_ :two::hammer: [:scroll: from Japanese, literally: roll]  
 __maladaptive__ _adj_ :three: Showing faulty adaptation. _The Tetris Effect need not be maladaptive._  
 __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
@@ -9731,12 +9735,15 @@ __malign<sup>1</sup>__ _v_ (maligned)
 __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
 __malignancy__ _n_ (malignancies)  
 __malingerer__ _n_  
-__mallards__  
-__malleable__ _adj_ :three: Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._  
+__mallards__ _n_ :two::hammer:  
+__malleable__ _adj_ :four: /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._ _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallet__ _n_  
 __mallow__ _n_ :pencil2:  
+__mallrats__  
 __malnourished__ _adj_ :three: Affected by improper nutrition or an insufficient diet.  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
+__malt__ _n_ :mega:  
+__malted__ _n_ A milkshake made with malt powder.  
 __mamaguy<sup>1</sup>__ _v tr_ [:scroll: From Spanish mamar gallo (to suckle a rooster). It has its origins in cock-fighting, apparently referring to a rooster who is gently sucking at his opponent instead of pecking him with force.] To deceive or tease, either in jest or by deceitful flattery.  
 __mamaguy<sup>2</sup>__ _n_ An instance of such deception or flattery.  
 __mamasan__  
@@ -9748,12 +9755,15 @@ __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman su
 __man<sup>1</sup>__ _n_  
 __man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
+__manatee__ _n_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __manavelins__ _n pl_ _slang_ Odds and ends of food. _Syn_ leftovers  
+__Mancunian__ _adj, n_  
 __mandalas__ _n_  
 __Mandan man__  
 __mandarin__ _n_ (fruit)  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
+__Mandela effect__ _n_ A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
 __mandrake__ _n_ :es: mandrágora  
 __Mandy__ _n_ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion’s mane._  
@@ -9775,7 +9785,7 @@ __manifesto__ _n_ :two::hammer: _My own workplace manifesto._
 __manipulation__  
 __manna__ _n_  
 __mannered__  
-__mannerism__ _n_  
+__mannerism__ _n_ :two::pencil2::hammer:  
 __mano a mano<sup>1</sup>__ _n_ __2__ A face-to-face confrontation or competitive struggle: _a mano a mano between the presidential candidates._  
 __mano a mano<sup>2</sup>__ _adj_ Being or suggestive of a face-to-face encounter or contest: _a mano a mano duel between golf pros._  
 __mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  

@@ -1,18 +1,3 @@
-__lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.  
-__majestic__ _adj_  
-__majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
-__makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
-__makeover__ _n_ :three::hammer: _The ultimate makeover story of a maid-turned-princess._  
-__maki__ _n_ [:scroll: from Japanese, literally: roll]  
-__mallards__ _n_  
-__malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
-__mallrats__  
-__malt__ _n_ :mega:  
-__malted__ _n_ A milkshake made with malt powder.  
-__manatee__ _n_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
-__Mancunian__ _adj, n_  
-__Mandela effect__ _n_ A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
-__maneurisms__ _n_  
 __mangrove__ _n_  
 __Manhattanite__ _n_  
 __mania__ _n_  
