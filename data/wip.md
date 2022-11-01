@@ -171,3 +171,343 @@ __wince__ _v_
 __wind park__  
 __workload__ _n_  
 __zugzwang__  
+__Aborigine__ _n_ :pencil2:  
+__Argentina__ _n_ _Syn_ the Argentine  
+__Lapland__ _n_  
+__Sagittarian__  
+__Zulu time__  
+__abreast__  
+__adit__ _n_ An almost horizontal entrance to a mine. _The adit of a mine._  
+__affable__ _adj_  
+__aft__  
+__aloft__  
+__ambiguous__  
+__appalling__ _adj_  
+__astern__  
+__awash__  
+__ball-bearings__ _n_ (?)  
+__banshee__ _The cry of the banshee._  
+__bark__ _n_ _Four-masted bark._  
+__barrow__ _n_ :two::hammer:  
+__bearings__ (=annotations?) (?)  
+__beaver__ _n pl_ (?)  
+__berg__ _n_  
+__beset__ _v_  
+__besotted__ _v_  
+__billet__ _n_  
+__billeted__ :two::hammer:  
+__biro__ _n_ (?)  
+__bleating__ :two::hammer:  
+__blowhole__ _n_  
+__bludgeoning__ _The everlasting bludgeoning of the wind._  
+__blustering__ _The bitter blustering of the wind._  
+__bogeyman__  
+__bowsprit__ _n_  
+__brash__ _n_ (?) (sort of ice?)  
+__breakwater__ _n_  
+__breeches__ _n_  
+__bulk__ _Bulk items._  
+__bumpy__ _A bumpy ride._  
+__buttcrack__ _n slang_  
+__cackle__ _n_ _A cackle of laughter._  
+__capstan__ _n_  
+__carburettor__ _n_ (carburetter, carburetor)  
+__carcase__ _n_ (carcass in AmE?) (?)  
+__casement__ _n_  
+__caulking__  
+__cinnamon bun__  
+__cloackroom__  
+__cloudscape__ _n_ (?)  
+__cloying__ _v_  
+__coma__ _n_  
+__commodity__ _n_ (?)  
+__conducive__  
+__conning__ _v_ _Conning the board was a strain._  
+__consistently__  
+__contrived__  
+__cot__ _n_  
+__crank__ _n_  
+__crenellated__  
+__crevices__ _n_  
+__croak__ _n_ _The voice was hoarse like the croak of a frog._  
+__crop__ _n_ _He had a riding crop in one hand._  
+__culvert__ _n_  
+__curd__ _n_  
+__dainty__  
+__dappled__ _v_  
+__davit__ _n_  
+__debonnaire__  
+__deeply__  
+__desiccate__ _v_  
+__detour__ _n_  
+__detrimental__  
+__dilapidate__ _v_  
+__dinghy__  
+__dismissive__ (?)  
+__dormant__  
+__downer__ _n_  
+__dregs__  
+__drive__ _They have a lot of energy, a lot of drive._  
+__dulcimer__ _n_  
+__effect__ _v_ (?)  
+__effeminacy__ _n_  
+__engaged__ _First time I rang his room his phone was engaged._  
+__engrossed__ _I was engrossed in my thoughts._  
+__evangelist__ _Technology evangelist._  
+__exaggerate__  
+__extricate__ _v_  
+__ferryboat__ (ferry boat?) (?)  
+__flair__ _n_  
+__flat-out__ _We were all working flat-out._  
+__flipper__ (?) (anatomy)  
+__floe__ _n_  
+__flounce__ _n_  
+__forlorn__ :two::hammer:  
+__fornight__ _It was about a fornight ago._  
+__fortnight__ _n_  
+__furtively__ _adv_ _She was watching me furtively._  
+__fusillade__ _A fusillade of shots._  
+__fussing__ _v_ (?)  
+__gable__ _n_  
+__gaggle__ _n_ _A gaggle of tourists._  
+__gale__ _n_  
+__galley__ _n_  
+__gargantuan__ _adj_ _A gargantuan breakfast._  
+__garish__  
+__garrulous__  
+__gherkin__ _n_ :es: (?)  
+__ghoul__  
+__ghoulish__ _adj_  
+__goad__ _v_  
+__goading__ _v_  
+__goblin__  
+__golliwogs__ _n_  
+__graffiti__ :pencil2:  
+__granules__  
+__grating__ _n_  
+__grope__ _v_  
+__guardrail__ _n_  
+__gullible__ _adj_ (?)  
+__gully__ _n_  
+__gulp__ _n_ _He swallowed his drink in one quick gulp._  
+__handhold__ _n_  
+__harness__ _n pl_ (?)  
+__hashis__ _n_  
+__hasp__ _n_  
+__haunting__ _adj_ (?)  
+__haversack__  
+__haversack__  
+__hawser__ _n_ (?)  
+__hidalgo__ _n_  
+__hoarding__ _n_ (?)  
+__hold__ _n_ _The hold has a different cargo now._  
+__holdall__ _n_  
+__homing limpet__ _He had fixed a homing limpet to the snowmobile._  
+__honeycombed__ _v_  
+__huddle__ _n_ (?) :two::hammer:  
+__humpback whale__  
+__iceblink__ _We had perfect iceblink conditions._  
+__igloo__ _n_  
+__imperious__  
+__inadequacy__  
+__infantile__ _This infantile stress response should end._  
+__infectious__ _adj_ _Infectious smile._  
+__inkling__  
+__jib__ _n_ :two::hammer: _I hoisted the jibs._  
+__jinxed__  
+__jodhpurs__ _n_  
+__jut out__  
+__kelp__ _n_ :two::hammer:  
+__lace__ _v_ :dart::two::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._  
+__laddies__ (?)  
+__lank__ _Lank black hair._  
+__lee__ _n_  
+__leeway__  
+__life buoy__  
+__lock__ _v_ (past of lock; can it be both locked and lock, I wonder?)  
+__lurid__  
+__mead__ _n_  
+__megalomaniac__  
+__miasma__  
+__mischief__  
+__motorsail__ _v_ (?)  
+__mugging__ _n_  
+__murk__ _n_  
+__nose-to-tail__ _We were nose-to-tail with the the car ahead._  
+__ochre__ _n_ (color) (?) (spelling?)  
+__off-the-shelf__ (?)  
+__oleander__  
+__pack ice__ (?)  
+__pannelist__ (?)  
+__pant__ _v_ _Panting wisps of smoke._  
+__parcel__ _n_ _Open up that parcel of books._  
+__parry__ _v_ _We didn’t have to parry questions._  
+__pathos__  
+__pearl onion__  
+__pelagic__ _adj_ (?)  
+__perfunctory__ _adj_ _She gave me a little nod and a perfunctory smile._  
+__petulant__ _adj_ :two::hammer:  
+__pole__ _v_ (?)  
+__polynya__ _n_  
+__potty__ (?)  
+__primer__  
+__proffered__ _v_ _I ignored the proffered hand._  
+__progeny__  
+__provider__ _n_ _Mental health providers._  
+__queasy__  
+__ratlines__  
+__raven__ _Raven hair._  
+__recce__ _n_ :two::hammer:  
+__recumbent__  
+__reductive__ (?)  
+__remonstrate__ _v_  
+__rookery__ _n_ _There are several Emperor rookeries there._  
+__rotunda__  
+__rummage__ _v_  
+__rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  
+__rustle<sup>2</sup>__ _v_ _A rustling sound._  
+__rutted__  
+__sagittal__  
+__sailer__ _n_ :pencil2: (?)  
+__sallow__ _adj_  
+__schooner__ _n_  
+__scurvy__  
+__seacock__ _n_ :two::hammer:  
+__secret__ _v_  
+__sextant__  
+__shingle__ _n, v_ :three::hammer:  
+__shotgun__  
+__signet ring__  
+__slat__ _The occasional slat of a sail._  
+__slat__ _v_ (?) _The sails were slatting furiously._  
+__sledge__ _n_ :three::hammer: _Sledges packed with gear._ _The towing sledge._  
+__sleepers__ _n_ (railway)  
+__slither__ _v_ :two::hammer:  
+__sloshing__  
+__snippy__  
+__sodding__  
+__sodium amytal__  
+__soubriquet__ _n_  
+__spiral binder__  
+__spirit stove__ _n_ _We had a small spirit stove._  
+__splicing__ _v_  
+__sprawl__ _v_  
+__springboard__ (single word?) (?)  
+__spuds__ _n_ (food? potatoes?) (?)  
+__stampede__  
+__stanchion__  
+__statuary__ _n_  
+__stern__ _n_ _The ship’s stern._  
+__stooped__ _v_  
+__subpoena__ Put the screws to someone.  
+__surveyor__ _n_  
+__swell__ _n_  
+__swoop__ _n_  
+__tape dispenser__  
+__tarpaulin__ _n_ :two::hammer:  
+__tinker__ _v_  
+__tormentor__  
+__trickery__ (?)  
+__tuft__ _n_  
+__tumuli__ _n pl_  
+__twitch__ _v_ _A curtain twitched in the house next door._  
+__unbidden__  
+__undercurrent__ :two::hammer:  
+__unduly__ _adj_ (?)  
+__ungainly__  
+__validate__ _v_  
+__voice__ _v_ :dart: _He was voicing his thoughts aloud._  
+__wanderlust__  
+__wanly__ _He nodded a little wanly._  
+__wee__ :two::hammer: (?)  
+__weevils__  
+__welter__ _n_ _A welter of ice._  
+__whitecaps__ _n_  
+__whiteout__ _n_ :two::hammer:  
+__winch__ _n_ :two::hammer:  
+__winching__ _v_  
+__winter__ _v_  
+__witching hour__ (?)  
+__wood shavings__  
+__worsened__ _v_  
+__a wizard of a__ (?) _He is a wizard of an engineer._  
+__above and beyond__  
+__according to plan__ _It didn’t go according to plan._  
+__all over the map__ (?)  
+__at a snail’s pace__  
+__at any rate__  
+__bank on (something)__ (?)  
+__behind the scenes__  
+__bite the dust__ _Bite the dust, asteroid!_  
+__break the ceil(ing)__ (?)  
+__bric-a-brac__ (?) _A bric-a-brac barrow._  
+__call the shots__  
+__cold feet__  
+__duke it out__  
+__first and foremost__  
+__frog boiling water__ (?) (DAX for something with these words)  
+__game changer__  
+__game plan__ (?)  
+__get (something) straight__ _Let’s get this straight._  
+__get it off my chest__  
+__get shut-eye__ _I’ll get some shut-eye._  
+__get the hang of something__  
+__get triggered__ (?)  
+__go for the jugular__ (?) _Go straight for the jugular._  
+__go vacant__ _Her eyes went vacant again._  
+__golden boy__  
+__good call__  
+__grab a forty__ (?)  
+__hate to ask__ (?)  
+__have your shit together__ (?) :two::hammer:  
+__heads up__ _Thanks for giving me the heads up._  
+__higgledy-piggledy__  
+__high and dry__  
+__in perfect harmony__  
+__joy-joy feelings__  
+__keep tabs__  
+__land on (one’s) feet__  
+__learn the ropes__  
+__let alone__  
+__let down__  
+__line of work__  
+__lost on me__ _It is not lost on me._  
+__move the goal post__ (?)  
+__naked eye__ (?) _With the naked eye._  
+__not even close__ (?)  
+__of no account__ (?)  
+__off kilter__ (?)  
+__off the clock__ (?)  
+__on short notice__  
+__on the spur of the moment__  
+__piece of shit__  
+__piping hot__  
+__power washing__  
+__prove correct__ _His guess that the flight would be delayed proved correct._  
+__push the can down the road__ (?)  
+__put out (up?) fires__ (?)  
+__put up__  
+__quid pro quo__ (?)  
+__relief party__  
+__small hours__ (?)  
+__snap__ _v_ To go crazy.  
+__spelling tea__ (?)  
+__status quo__  
+__take (someone) under (one’s) wing__  
+__take a deep breath__  
+__take a leak__ (?)  
+__take for granted__  
+__take over__  
+__take the hit__ (?)  
+__ten feet pole__ (?)  
+__thank you thank you__ (?)  
+__the devil of it__ (?)  
+__the lot__ (?)  
+__think aloud__ (?) _I’m just thinking aloud._  
+__through and through__  
+__tipping point__  
+__to this day__  
+__trouble is__ (?) _Trouble is, that man is my last hope._  
+__very much so__  
+__water under the bridge__  
+__when the chips are down__  

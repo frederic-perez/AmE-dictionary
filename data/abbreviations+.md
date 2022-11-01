@@ -123,6 +123,7 @@ __NCO__
 __NDA__  
 __NG__ Not guilty. _The NG celebration at the bar._  
 __NICE__ National Institute for Health and Care Excellence.  
+__NLP__ Natural language processing.  
 __nos__ Numbers: _nos. 9 and 10._  
 __NPO__ _Latin_ Nil per os (nothing by mouth).  
 __obo__ :two: Or best offer.  
