@@ -2469,9 +2469,11 @@ __second best__ :two: (Describing) someone or something that is one step below o
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __second-guess__ :two::hammer: _I started second-guessing myself._  
 __secondhand smoke__ Tobacco smoke involuntarily inhaled.  
+__secret weapon__  
 __security blanket__ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
 __see eye to eye__ :three: To concur, agree. To agree (with someone); to share the same position or opinion (as someone else). _Chester and I see eye to eye._  
-__see red__ :two: To become very angry.  
+__see for (oneself)__  
+__see red__ :three: To become very angry. To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seize the opportunity__ :two: To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
 __sell (someone, something, or oneself) short__ :two: To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
@@ -2505,12 +2507,11 @@ __shine someone__
 __shitshow__  
 __shoot for the moon__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot for the stars__  
-__shoot from the hip__  
-__shoot the breeze__ _informal_ :three: Have a casual conversation. _We’ve been shooting the breeze for well over an hour now._  
-__shoot themselves in the foot__  
+__shoot from the hip__ :two::hammer:  
+__shoot the breeze__ _informal_ :four: Have a casual conversation. _We’ve been shooting the breeze for well over an hour now._  
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot your mouth off__ To boast or talk too much, to tell secrets.  
-__shoot yourself in the foot__ To do or say something that causes problems for you.  
+__shoot yourself in the foot__ :two: (shoot themselves in the foot) To do or say something that causes problems for you.  
 __short of (something)__ _Anything short of that._  
 __short on looks__ Homely; rather plain or unattractive; not aesthetically pleasing. _Janet’s date was a little short on looks, but she said he was very nice and a true gentleman._  
 __short-order cook__ A restaurant worker whose job is to cook food that can be prepared quickly. _She worked as a short-order cook._ :es: cocinero de comida rápida  
@@ -2523,6 +2524,7 @@ __show someone the door__ To dismiss someone from a job.
 __shrinking violet__ Someone who is very shy and not assertive. _I am not exactly a shrinking violet, but I don’t have the guts to say what you said to her._  
 __shut (one’s) mouth__  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
+__shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
 __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
@@ -2542,26 +2544,31 @@ __sit for (some)/(one’s) exam__ To take an examination in a formal setting or 
 __sit in for (one)__ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
 __sit on it__ An exclamation of frustration directed at another person. Popularized by the TV show _Happy Days_. _If he thinks he can call at this hour of the night, he can sit on it!_ _Sit on it, Joe—I’m not helping you with this!_  
 __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
+__sitting duck__  
 __sitting on the fence__  
 __sitting pretty__ :three: Living in comfort.  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __sixty-four-dollar question__  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
+__skinny-dipping__  
 __skip a beat__ _His heart skipped a beat._  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ To issue one with a very mild, inconsequential punishment or warning.  
+__sleep in__  
 __sleep like a baby__ To experience a very deep and restful sleep; to sleep soundly. _I can’t believe you finished a triathlon! You’re going to sleep like a baby tonight._  
 __sleep the sleep of the dead__  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __smack-dab__ Directly; exactly at a particular place. Usually used to emphasize a prepositional phrase of location, especially “in the middle.” _There I was, smack-dab in the middle of Taiwan with no money and no way to contact my family._ _The criminal turned the corner and ran smack-dab into a group of off-duty police officers._  
 __smart as a whip__ Very intelligent or clever, as in _Little Brian is smart as a whip; he’s only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
+__smash hit__  
 __smell blood__  
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
+__sneeze at__  
 __snow in__ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between “snow” and “in.” _We were snowed in for several days, with only a small cupboard’s worth of food to subsist on._  
 __snow on the mountain__ Silver, grey, or white hair on one’s head, as due to aging. _Sure, there’s a bit of snow on the mountain, but I still lead as adventurous a life as I ever have!_  
 __snug as a bug__  
@@ -2571,6 +2578,7 @@ __so much so__ :three::hammer: _So much so that working with animals has become 
 __so-and-so__ :dart: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __soak up__  
 __soaked to the bone__ Extremely or completely wet, especially through one’s clothing. _I can’t believe you pushed me into the pool! Now I have to walk home soaked to the bone!_  
+__social hour__ :two: Time spent talking and hanging out with people.  
 __something is rotten in the state of Denmark__  
 __something or other__ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
 __sort it out__ :four: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
@@ -2583,17 +2591,18 @@ __speak of the devil, and he shall appear__ _proverb_ An acknowledgment of a per
 __speak up__ __1__ To speak loud enough to be audible: _Speak up—I can’t hear you._ __2__ To speak without fear or hesitation: _You have to speak up if you want something._  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
-__spill the beans__ To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
+__spill the beans__ :two: To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
 __spin (one’s) wheels__ :four: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
 __split hairs__ :two: Argue or worry about small details.  
 __spoiled for choice__ Having an abundance of suitable or ideal options from which to choose, such that it may be difficult to make a decision. Primarily heard in US. _Between video games, television, and the Internet, kids these days are being brought up spoiled for choice when it comes to their entertainment._  
 __sponge something up__ To absorb or take up moisture, as with a sponge. _I had to sponge the spilled milk up from the floor, the chair, the table, and the baby. What a mess! Liz sponged up the water._  
-__spot on__ _informal_ :six: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
+__spot on__ _informal_ :seven: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
 __spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __spring fever__ A feeling of often restless excitement or exuberance coinciding with the onset of warmer spring weather. _It’s hard enough keeping control of a class full of young children throughout the year, but it’s particularly difficult once spring fever starts to spread._  
 __spring to life__ To become suddenly alive or more alive. _The party sprang to life after midnight._ _The city sprang to life at dawn._  
 __spruce up__ _v_ :four: To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
 __spur of the moment__ An impulse characterized by a lack of preparation or consideration. The phrase can be hyphenated and used as a modifier before a noun. _The administrators mada a “spur of the moment” decision to block him._ _You’ve got to stop making these spur-of-the-moment decisions about your business, or you’ll end up running it into the ground!_  
+__square off__ _These top-ranked players will square off against fierce competitors._  
 __stalk out__ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __stand at attention__ _They were standing at attention._  
 __stand in (someone’s) shoes__ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  

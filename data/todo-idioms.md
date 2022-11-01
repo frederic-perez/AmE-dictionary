@@ -1,18 +1,3 @@
-__secret weapon__  
-__see for (oneself)__  
-__see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  
-__shoot from the hip__  
-__shoot the breeze__  
-__shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
-__sitting duck__  
-__skinny-dipping__  
-__sleep in__  
-__smash hit__  
-__sneeze at__  
-__social hour__ :two: Time spent talking and hanging out with people.  
-__spin the beans__  
-__spot-on__  
-__square off__ _These top-ranked players will square off against fierce competitors._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
