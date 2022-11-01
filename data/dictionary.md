@@ -9863,6 +9863,9 @@ __mascot__ _n_ :two::hammer: (vs pet)
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :three: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._ _Used mash goes to feed a local farmer’s pigs._  
 __mashed potatoes__  
+__mashup__ _n_ :two::hammer: _A fantastic mashup of illuminated characters._  
+__masjid__ _n_ A Muslim place of worship. _Syn_ mosque _Though her friends prayed there often, this was her first visit to the masjid._  
+__mason__ _n_ :astonished:  
 __masonry__  
 __masquerade__ _n_ :two::hammer:  
 __Massachusett__ _n_ :pencil2::mega: (Massachuset)  
@@ -9870,12 +9873,14 @@ __Massachusetts__ _n_
 __massacre<sup>1</sup>__ _n_ _There were public roundups and massacres._  
 __massacre<sup>2</sup>__ _v_ :two::hammer: _Five of them were killed and eighty others reportedly massacred._  
 __masseur__ _n_ A man who gives massages professionally. :es: masajista  
-__masseuse__ _n_ :two: A woman who gives massages professionally. :es: masajista  
+__masseuse__ _n_ :three: A woman who gives massages professionally. :es: masajista  
+__massif__ _n_ :two::hammer: :es: macizo  
 __massive__  
 __mast__ _n_ _The flag was flown at half mast._  
 __mastermind__ _v_ :two::hammer: (masterminding)  
-__masterpiece__  
+__masterpiece__ _n_ :two::hammer:  
 __masthead__ _n_  
+__mastodon__ _n_ :es: mastodonte  
 __mastoiditis__ _n_  
 __matchmaking service__  
 __matchmaking__ _n_ Mediation in order to bring about a marriage between others.  
@@ -9886,11 +9891,11 @@ __materiel__ _n_ Equipment and supplies of a military force.
 __maternity leave__  
 __materteral__ _adj_ /muh-TUHR-tuhr-uhl/ [:scroll: From Latin matertera (maternal aunt), from mater- (mother).] Characteristic of, or in the manner of, an aunt. This word is the feminine counterpart of the word avuncular (like an uncle).  
 __matey__  
-__matinee__ _n_ :three::hammer: (matinees) _The matinees were killing him._  
+__matinee__ _n_ :five::hammer: (matinees) _The matinees were killing him._  
 __matins__ _n_ _Matins were chanted._  
 __matriarch__ _n_ :two::hammer:  
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
-__matron__  
+__matron__ _n_ :two::hammer: _A jailhouse matron._  
 __matsuri__  
 __matt__  
 __matte__  
@@ -9905,7 +9910,7 @@ __Maundy Thursday__
 __maven__ _n_ :three::hammer:  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
 __maw__ _n_ :four::hammer:  
-__mawkish__ _adj_ :two: Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._  
+__mawkish__ _adj_ :three: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
 __maxes__ _v_  
@@ -9913,9 +9918,12 @@ __maxim__ _n_ :es: máxima
 __Mayan<sup>1</sup>__ _adj_ :mega:  
 __Mayan<sup>2</sup>__ _n_ :mega:  
 __mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
-__mayo__ _n_ _informal_ /ˈmeɪ oʊ/ Mayonnaise.  
+__mayo__ _n_ _informal_ :two: /ˈmeɪ oʊ/ Mayonnaise.  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
+__maypole__ _n_ _Maypole and morris dancers._  
+__maze__ _n_ _Sundance Cinemas will offer more than a maze of screens._  
+__mbira__ _n_ _Syn_ kalimba, thumb piano  
 __McDonald’s__ _n_ :mega: [mic...]  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
 __mea culpa__  
@@ -9924,7 +9932,7 @@ __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meag
 __meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander<sup>1</sup>__ _n_  
-__meander<sup>2</sup>__ _v_ :two: /mee-AN-der/ __1__ To wander aimlessly or casually. _The couple spent the afternoon meandering around the seaside town._ __2__ To follow a winding or intricate course. _The stream meanders through the canyon._  
+__meander<sup>2</sup>__ _v_ :five: /mee-AN-der/ __1__ To wander aimlessly or casually. _The couple spent the afternoon meandering around the seaside town._ __2__ To follow a winding or intricate course. _The stream meanders through the canyon._  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __measles__ _n_ :five::pencil2::hammer: :es: sarampión  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  

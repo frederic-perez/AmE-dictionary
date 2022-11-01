@@ -1,18 +1,3 @@
-__mashup__ _n_ :two::hammer: _A fantastic mashup of illuminated characters._  
-__masjid__ _n_ A Muslim place of worship. _Syn_ mosque _Though her friends prayed there often, this was her first visit to the masjid._  
-__mason__ _n_ :astonished:  
-__masseuse__ _n_  
-__massif__ _n_ :two::hammer: :es: macizo  
-__masterpieces__ _n_  
-__mastodon__ _n_ :es: mastodonte  
-__matinee__ _n_ :two::hammer:  
-__matron__ _n_ _A jailhouse matron._  
-__mawkish__ _adj_ | MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
-__mayo__ _n_ :mega:  
-__maypole__ _n_ _Maypole and morris dancers._  
-__maze__ _n_ _Sundance Cinemas will offer more than a maze of screens._  
-__mbira__ _n_ _Syn_ kalimba, thumb piano  
-__meander__ _v_ :three::hammer:  
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __mediocre__  
