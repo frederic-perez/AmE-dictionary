@@ -9771,23 +9771,27 @@ __maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involv
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
 __manger__ _n_ :three: A container (usually in a barn or stable) from which cattle or horses feed. A trough or an open box in which feed for livestock is placed. _Syn_ trough, feeder, crib _All the feed went into one manger._  
 __mangle__ _v_ :two: __1__ To mutilate or disfigure by battering, hacking, cutting, or tearing: _fishing nets that mangle fish._ _Syn_ maim __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
+__mangrove__ _n_  
 __mangy__ _adj_ :three::hammer:  
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
-__Manhattanite__  
+__Manhattanite__ _n_ :two::hammer:  
 __manhole cover__  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
+__mania__ _n_  
+__manic episode__ _n_  
 __manic__ _adj_ :two::mega::hammer: _I was manic._  
 __manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
 __manifest__ _n_ _A manifest of olive oil._  
 __manifesting__ _n_ Any of a number of wish-fulfillment techniques that involve visualization and positive thinking. There is no peer-reviewed data to support the efficacy of manifesting.  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
+__manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
 __manipulation__  
 __manna__ _n_  
 __mannered__  
 __mannerism__ _n_ :two::pencil2::hammer:  
 __mano a mano<sup>1</sup>__ _n_ __2__ A face-to-face confrontation or competitive struggle: _a mano a mano between the presidential candidates._  
-__mano a mano<sup>2</sup>__ _adj_ Being or suggestive of a face-to-face encounter or contest: _a mano a mano duel between golf pros._  
+__mano a mano<sup>2</sup>__ _adj_ :two: Being or suggestive of a face-to-face encounter or contest: _a mano a mano duel between golf pros._  
 __mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _n_ :two::hammer: _A medieval manor house._  
@@ -9808,6 +9812,7 @@ __marathon__ _n_ _This is more of a marathon than a sprint._
 __maraud__ _v_  
 __marauder__ _n_ :two::hammer:  
 __marauding__ _adj_ :three: (of people or animals) Wandering or raiding in search of plunder or victims. Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
+__marbled__ _adj_ __3__ Marked by an intermixture of fat and lean. _Well-marbled beef._ _The beautifully marbled cuts of dry-aged beef._  
 __marcel__ _v_ (marcelled) To style (the hair) with deep regular waves, using a curling iron. _His marcelled hair gleamed like liquid plastic._  
 __marcescence__ _n_ /mahr-SES-uhns/ [:scroll: From Latin marcescere (to wither), from marcere (to wither).] The retention of dead leaves, etc., as opposed to shedding.  
 __march__ _n_ _Demonstrators ona marchin Athens._  
@@ -9819,8 +9824,10 @@ __margherita__ _n_
 __Mariel felons__  
 __marijuana__  
 __marinades__  
+__marinate__ _v_  
 __mariner__ _n_  
-__marjoram__ _n_ Oregano.  
+__maritime__  
+__marjoram__ _n_ :two: Oregano.  
 __mark of the beast__ _n_ __1__ A mark of evil. __2__ A labeling as unorthodox or heretical.  
 __mark up__ _phr v_ To mark for sale at a higher price.  
 __markdown__  
@@ -9832,7 +9839,7 @@ __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov’t-Issu
 __marmalade__  
 __maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
 __marplot__ _n_ /MAHR-plot/ [:scroll: After Marplot, the titular character in the 1709 play _The Busy Body by Susannah Centlivre_ (1669-1723). Marplot means well and tries to help only to get in the way of others and foul things up.] A meddlesome person who spoils a plan by interference.  
-__marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
+__marquee__ _n_ :nine::m: /mɑːˈkiː/ __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
 __marquetry__ _n_ :astonished: _Marketry doors._ :es: marquetería  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
@@ -9847,13 +9854,15 @@ __martial law__ _n_
 __martinet__ _n_ Someone who demands exact conformity to rules and forms. _Syn_ disciplinarian, moralist _Any deviation from the classroom rules was met with a swift rebuke from our teacher, a real martinet._  
 __martyr<sup>1</sup>__ _n_ :two::pencil2::hammer:  
 __martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:  
-__martyrdom__ _n_ :three::hammer:  
+__martyrdom__ _n_ :five::hammer:  
+__martyrship__ _n_  
 __marzipan__ _n_ :two::hammer: :es: mazapán  
 __masago__ _n_  
 __mascara__ _n_ :astonished: A cosmetic applied to thicken, lengthen, and usually darken the eyelashes. :es: rímel  
 __mascot__ _n_ :two::hammer: (vs pet)  
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
-__mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._  
+__mash<sup>2</sup>__ _n_ :three: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._ _Used mash goes to feed a local farmer’s pigs._  
+__mashed potatoes__  
 __masonry__  
 __masquerade__ _n_ :two::hammer:  
 __Massachusett__ _n_ :pencil2::mega: (Massachuset)  

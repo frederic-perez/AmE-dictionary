@@ -1,18 +1,3 @@
-__mangrove__ _n_  
-__Manhattanite__ _n_  
-__mania__ _n_  
-__manic episode__ _n_  
-__manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
-__mano a mano__ _adj, adv, n_  
-__marbled__ _adj_ __3__ Marked by an intermixture of fat and lean. _Well-marbled beef._ _The beautifully marbled cuts of dry-aged beef._  
-__marinate__ _v_  
-__maritime__  
-__marjoram__ _n_  
-__marquee__  
-__martyrdom__ _n_ :two::hammer:  
-__martyrship__ _n_  
-__mash__ _n_ _Used mash goes to feed a local farmer’s pigs._  
-__mashed potatoes__  
 __mashup__ _n_ :two::hammer: _A fantastic mashup of illuminated characters._  
 __masjid__ _n_ A Muslim place of worship. _Syn_ mosque _Though her friends prayed there often, this was her first visit to the masjid._  
 __mason__ _n_ :astonished:  
