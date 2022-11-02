@@ -186,28 +186,27 @@ __appalling__ _adj_
 __astern__  
 __awash__  
 __ball-bearings__ _n_ (?)  
-__banshee__ _The cry of the banshee._  
+__banshee__ _n_ _The cry of the banshee._  
 __bark__ _n_ _Four-masted bark._  
 __barrow__ _n_ :two::hammer:  
-__bearings__ (=annotations?) (?)  
-__beaver__ _n pl_ (?)  
+__bearing__ _n_ __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._  
+__beaver__ _n_  
 __berg__ _n_  
 __beset__ _v_  
-__besotted__ _v_  
-__billet__ _n_  
-__billeted__ :two::hammer:  
-__biro__ _n_ (?)  
-__bleating__ :two::hammer:  
+__besotted__ _adj_  
+__billet<sup>1</sup>__ _n_  
+__billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
+__bleat__ _v_ :two::hammer:  
 __blowhole__ _n_  
-__bludgeoning__ _The everlasting bludgeoning of the wind._  
-__blustering__ _The bitter blustering of the wind._  
+__bludgeon__ _v_ _The everlasting bludgeoning of the wind._  
+__bluster__ _v_ _The bitter blustering of the wind._  
 __bogeyman__  
 __bowsprit__ _n_  
-__brash__ _n_ (?) (sort of ice?)  
+__brash__ _n_ A mass of loose fragments, as of ice.  
 __breakwater__ _n_  
-__breeches__ _n_  
-__bulk__ _Bulk items._  
-__bumpy__ _A bumpy ride._  
+__breeches__ _n pl_  
+__bulk__ _adj_ _Bulk items._  
+__bumpy__ _adj_ _A bumpy ride._  
 __buttcrack__ _n slang_  
 __cackle__ _n_ _A cackle of laughter._  
 __capstan__ _n_  
@@ -243,31 +242,30 @@ __detour__ _n_
 __detrimental__  
 __dilapidate__ _v_  
 __dinghy__  
-__dismissive__ (?)  
+__dismissive__ _adj_  
 __dormant__  
 __downer__ _n_  
 __dregs__  
-__drive__ _They have a lot of energy, a lot of drive._  
+__drive__ _n_ _They have a lot of energy, a lot of drive._  
 __dulcimer__ _n_  
-__effect__ _v_ (?)  
+__effect__ _v_  
 __effeminacy__ _n_  
-__engaged__ _First time I rang his room his phone was engaged._  
-__engrossed__ _I was engrossed in my thoughts._  
-__evangelist__ _Technology evangelist._  
+__engaged__ _adj_ __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
+__engross__ _v_ _I was engrossed in my thoughts._  
+__evangelist__ _n_ _Technology evangelist._  
 __exaggerate__  
 __extricate__ _v_  
-__ferryboat__ (ferry boat?) (?)  
+__ferryboat__ _n_  
 __flair__ _n_  
-__flat-out__ _We were all working flat-out._  
-__flipper__ (?) (anatomy)  
+__flat-out__ _adj_ _We were all working flat-out._  
+__flipper__ _n_ __1__ The flat broad limb of seals, whales, penguins, and other aquatic animals, specialized for swimming.  
 __floe__ _n_  
 __flounce__ _n_  
-__forlorn__ :two::hammer:  
-__fornight__ _It was about a fornight ago._  
+__forlorn__ _adj_ :two::hammer:  
 __fortnight__ _n_  
 __furtively__ _adv_ _She was watching me furtively._  
 __fusillade__ _A fusillade of shots._  
-__fussing__ _v_ (?)  
+__fuss__ _v_ (fussing)  
 __gable__ _n_  
 __gaggle__ _n_ _A gaggle of tourists._  
 __gale__ _n_  
