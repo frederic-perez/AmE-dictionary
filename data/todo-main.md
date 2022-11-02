@@ -1,18 +1,3 @@
-__meatless__ _adj_ _Meatless Fridays._  
-__mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
-__mediocre__  
-__meerkats__ _n_  
-__megalomaniac__ _adj_  
-__megastore__ _n_ :mega:  
-__melancholia__ _n_ /mel-un-KOH-lee-uh/  
-__meld__ _v_ /MELD/ To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._  
-__mellow__ _adj_ _A mellow vibe._  
-__melodrama__ _n_  
-__meltdown__  
-__memento__ _n_ :two::hammer: (mementoes)  
-__memorabilia__  
-__menagerie__ _n_ :three: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
-__menarche__ _n_ The initial onset of menstruation, usually occurring between the ages of 10 and 15.  
 __menial__ _adj_ :mega:  
 __mephitic__ _adj_  
 __Mercer’s condition__ _n_  

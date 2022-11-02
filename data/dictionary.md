@@ -9940,7 +9940,8 @@ __meat and potatoes__
 __meat at the bone__  
 __meat grinder__  
 __meat missile__ _n_ _slang_  
-__mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
+__meatless__ _adj_ _Meatless Fridays._  
+__mecca__ _n_ :six: /mĕk′ə/ :three: (Mecca) _(sometimes not capital)_ __1a__ A place that is regarded as the center of an activity or interest. A place that attracts many visitors. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __mechanical pencil__  
 __med__ _adj_ _informal_ Medical: _med schools; med students._  
 __medal__ _v_  
@@ -9952,6 +9953,7 @@ __medevac__ _v_
 __medic__ _n informal_ :two: A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __medical school syndrome__ _n_  
+__mediocre__  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
 __medlar__ _n_ :es: níspero  
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
@@ -9961,39 +9963,44 @@ __meek<sup>1</sup>__ _adj_ :nine: Very quiet and gentle and unwilling to argue w
 __meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
+__meerkats__ _n_  
 __meet up__  
 __meet__ _n_ :four::hammer: _I started going to international meets._  
 __meetup__ _n_ (meet-up) A word for “meeting.” _Our monthly meetup._  
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
-__megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
+__megalomaniac__ _n_ :two: Someone who enjoys power over other people and always wants more of it.  
 __megalomanic__ _adj_ Suffering from megalomania.  
+__megastore__ _n_ :mega:  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
 __meiosis__ _n_ As a rhetorical device, meiosis means using euphemism to minimize the importance or significance of something. Example: We must put an end to this peculiar institution. (“Peculiar institution” is a euphemism for slavery.)  
+__melancholia__ _n_ /mel-un-KOH-lee-uh/  
 __melancholy<sup>1</sup>__ _n_  
 __melancholy<sup>2</sup>__ _adj_ :three::astonished::hammer: _A melancholy man._  
 __mélange__ _n_  
-__meld<sup>1</sup>__ _v_ __1__ To blend or merge. __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
+__meld<sup>1</sup>__ _v_ :two: /MELD/ __1__ To blend or merge. To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._ __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
 __melee__ _n_  
 __mellifluous__ _adj_ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
-__mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
+__mellow<sup>1</sup>__ _adj_ :three::hammer: _Mellow flavor._ _A mellow vibe._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
+__melodrama__ _n_  
 __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
-__meltdown__ _n_ :five: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
+__meltdown__ _n_ :six: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
-__memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
+__memento__ _n_ :four::hammer: (mementos, mementoes) _Removing mementos from a national park is illegal._  
 __memetic__ _adj_ /muh/mee/mi-MET-ik/ [:scroll: From meme, from Greek mimeisthai (to imitate, copy).] Relating to memes.  
 __memo pad__ _n_  
 __memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
+__memorabilia__  
 __memorable__  
 __memorandum__ _n_ :two::hammer:  
 __memorial__ _n_ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
-__menagerie__ _n_ :two::hammer:  
+__menagerie__ _n_ :five: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
 __menageries__ _n_ _Lions were kept in the menageries._  
-__menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman’s life.  
+__menarche__ _n_ :two: The initial onset of menstruation, usually occurring between the ages of 10 and 15.  
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
 __mendacity__  
 __mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
