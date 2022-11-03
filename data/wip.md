@@ -264,7 +264,7 @@ __flounce__ _n_
 __forlorn__ _adj_ :two::hammer:  
 __fortnight__ _n_  
 __furtively__ _adv_ _She was watching me furtively._  
-__fusillade__ _A fusillade of shots._  
+__fusillade__ _n_ _A fusillade of shots._  
 __fuss__ _v_ (fussing)  
 __gable__ _n_  
 __gaggle__ _n_ _A gaggle of tourists._  
@@ -280,7 +280,7 @@ __goad__ _v_
 __goading__ _v_  
 __goblin__  
 __golliwogs__ _n_  
-__graffiti__ :pencil2:  
+__graffiti__ _n_ :pencil2:  
 __granules__  
 __grating__ _n_  
 __grope__ _v_  
@@ -300,15 +300,15 @@ __hidalgo__ _n_
 __hoarding__ _n_ (?)  
 __hold__ _n_ _The hold has a different cargo now._  
 __holdall__ _n_  
-__homing limpet__ _He had fixed a homing limpet to the snowmobile._  
+__limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa  
 __honeycombed__ _v_  
 __huddle__ _n_ (?) :two::hammer:  
 __humpback whale__  
-__iceblink__ _We had perfect iceblink conditions._  
+__iceblink__ _n_ _We had perfect iceblink conditions._  
 __igloo__ _n_  
 __imperious__  
 __inadequacy__  
-__infantile__ _This infantile stress response should end._  
+__infantile__ _adj_ _This infantile stress response should end._  
 __infectious__ _adj_ _Infectious smile._  
 __inkling__  
 __jib__ _n_ :two::hammer: _I hoisted the jibs._  
@@ -317,8 +317,8 @@ __jodhpurs__ _n_
 __jut out__  
 __kelp__ _n_ :two::hammer:  
 __lace__ _v_ :dart::two::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._  
-__laddies__ (?)  
-__lank__ _Lank black hair._  
+__laddie__ _n_ _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
+__lank__ _adj_ _Lank black hair._  
 __lee__ _n_  
 __leeway__  
 __life buoy__  
@@ -328,36 +328,34 @@ __mead__ _n_
 __megalomaniac__  
 __miasma__  
 __mischief__  
-__motorsail__ _v_ (?)  
 __mugging__ _n_  
 __murk__ _n_  
-__nose-to-tail__ _We were nose-to-tail with the the car ahead._  
-__ochre__ _n_ (color) (?) (spelling?)  
-__off-the-shelf__ (?)  
+__ochre__ _n_  
+__off-the-shelf__ _adj_  
 __oleander__  
-__pack ice__ (?)  
-__pannelist__ (?)  
+__pack ice__ _n_ Floating ice that has been driven together into a single mass.  
+__panelist__ _n_  
 __pant__ _v_ _Panting wisps of smoke._  
 __parcel__ _n_ _Open up that parcel of books._  
 __parry__ _v_ _We didn’t have to parry questions._  
 __pathos__  
 __pearl onion__  
-__pelagic__ _adj_ (?)  
+__pelagic__ _adj_ Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
 __perfunctory__ _adj_ _She gave me a little nod and a perfunctory smile._  
 __petulant__ _adj_ :two::hammer:  
-__pole__ _v_ (?)  
-__polynya__ _n_  
-__potty__ (?)  
+__pole__ _v_  
+__polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
+__potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
 __primer__  
 __proffered__ _v_ _I ignored the proffered hand._  
 __progeny__  
 __provider__ _n_ _Mental health providers._  
 __queasy__  
 __ratlines__  
-__raven__ _Raven hair._  
+__raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
 __recce__ _n_ :two::hammer:  
 __recumbent__  
-__reductive__ (?)  
+__reductive__ _adj_  
 __remonstrate__ _v_  
 __rookery__ _n_ _There are several Emperor rookeries there._  
 __rotunda__  
@@ -366,7 +364,7 @@ __rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._
 __rustle<sup>2</sup>__ _v_ _A rustling sound._  
 __rutted__  
 __sagittal__  
-__sailer__ _n_ :pencil2: (?)  
+__sailer__ _n_ :pencil2:  
 __sallow__ _adj_  
 __schooner__ _n_  
 __scurvy__  
@@ -376,8 +374,7 @@ __sextant__
 __shingle__ _n, v_ :three::hammer:  
 __shotgun__  
 __signet ring__  
-__slat__ _The occasional slat of a sail._  
-__slat__ _v_ (?) _The sails were slatting furiously._  
+__slat__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
 __sledge__ _n_ :three::hammer: _Sledges packed with gear._ _The towing sledge._  
 __sleepers__ _n_ (railway)  
 __slither__ _v_ :two::hammer:  
@@ -390,8 +387,8 @@ __spiral binder__
 __spirit stove__ _n_ _We had a small spirit stove._  
 __splicing__ _v_  
 __sprawl__ _v_  
-__springboard__ (single word?) (?)  
-__spuds__ _n_ (food? potatoes?) (?)  
+__springboard__ _n_  
+__spud__ _n_ __1__ _informal_ A potato.  
 __stampede__  
 __stanchion__  
 __statuary__ _n_  
