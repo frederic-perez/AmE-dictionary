@@ -39,7 +39,8 @@ __follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._
 __gamboge__ _n_ __2__ Yellow or yellow-orange.  
 __gingerly__  
 __gloated__ _v_  
-__harness__ _v_ _Remove the barriers to harnessing HPC._  
+__harness<sup>1</sup>__ _n_  
+__harness<sup>2</sup>__ _v_ _Remove the barriers to harnessing HPC._  
 __hazard__ _v_  
 __helo__ _n informal_ A helicopter.  
 __heterogeneous__ _adj_  
@@ -56,7 +57,7 @@ __intrinsic__ _adj_
 __jet blast deflector__  
 __jet blast__  
 __jink__ _v_ _A jinking maneuver._  
-__jodhpurs__ _n pl_ Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
+__jodhpurs__ _n pl_ :two: Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
 __joist__ _n_  
 __jolt__ _n_ _The jolt shook the Tomcat._  
 __knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door’s opening is about 20 inches above walking surface.  
@@ -101,7 +102,7 @@ __proselytize__ _v_ /PRAH-suh-luh-tyze/
 __psych__ _v_ _slang_ (?)  
 __pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
 __quail__ _v_  
-__quid pro quo__  
+__quid pro quo__ _n_ :two::hammer:  
 __quiz__ _n_ (_n pl_ quizzes) _Take the quiz!_  
 __rangy__ _adj_ _A rangy Texas native._  
 __rap__ _n_ _There was a sharp rap on the door._  
@@ -289,12 +290,10 @@ __gullible__ _adj_ (?)
 __gully__ _n_  
 __gulp__ _n_ _He swallowed his drink in one quick gulp._  
 __handhold__ _n_  
-__harness__ _n pl_ (?)  
 __hashis__ _n_  
 __hasp__ _n_  
 __haunting__ _adj_ (?)  
-__haversack__  
-__haversack__  
+__haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
 __hawser__ _n_ (?)  
 __hidalgo__ _n_  
 __hoarding__ _n_ (?)  
@@ -313,7 +312,6 @@ __infectious__ _adj_ _Infectious smile._
 __inkling__  
 __jib__ _n_ :two::hammer: _I hoisted the jibs._  
 __jinxed__  
-__jodhpurs__ _n_  
 __jut out__  
 __kelp__ _n_ :two::hammer:  
 __lace__ _v_ :dart::two::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._  
@@ -394,7 +392,7 @@ __stanchion__
 __statuary__ _n_  
 __stern__ _n_ _The ship’s stern._  
 __stooped__ _v_  
-__subpoena__ Put the screws to someone.  
+__subpoena__ _v_ Put the screws to someone.  
 __surveyor__ _n_  
 __swell__ _n_  
 __swoop__ _n_  
@@ -402,19 +400,19 @@ __tape dispenser__
 __tarpaulin__ _n_ :two::hammer:  
 __tinker__ _v_  
 __tormentor__  
-__trickery__ (?)  
+__trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __tuft__ _n_  
 __tumuli__ _n pl_  
 __twitch__ _v_ _A curtain twitched in the house next door._  
 __unbidden__  
-__undercurrent__ :two::hammer:  
-__unduly__ _adj_ (?)  
+__undercurrent__ _n_ :two::hammer:  
+__unduly__ _adv_  
 __ungainly__  
 __validate__ _v_  
 __voice__ _v_ :dart: _He was voicing his thoughts aloud._  
 __wanderlust__  
-__wanly__ _He nodded a little wanly._  
-__wee__ :two::hammer: (?)  
+__wanly__ _adv_ In a weak or pale or languid manner. _He nodded a little wanly._  
+__wee__ _adj_ :two: Very small; tiny.  
 __weevils__  
 __welter__ _n_ _A welter of ice._  
 __whitecaps__ _n_  
@@ -422,12 +420,8 @@ __whiteout__ _n_ :two::hammer:
 __winch__ _n_ :two::hammer:  
 __winching__ _v_  
 __winter__ _v_  
-__witching hour__ (?)  
 __wood shavings__  
 __worsened__ _v_  
-__a wizard of a__ (?) _He is a wizard of an engineer._  
-__above and beyond__  
-__according to plan__ _It didn’t go according to plan._  
 __all over the map__ (?)  
 __at a snail’s pace__  
 __at any rate__  
@@ -482,7 +476,6 @@ __prove correct__ _His guess that the flight would be delayed proved correct._
 __push the can down the road__ (?)  
 __put out (up?) fires__ (?)  
 __put up__  
-__quid pro quo__ (?)  
 __relief party__  
 __small hours__ (?)  
 __snap__ _v_ To go crazy.  
