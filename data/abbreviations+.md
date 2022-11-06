@@ -84,7 +84,7 @@ __ie.__ That is to say.
 __IFU__ Instructions for use.  
 __IIRC__ _chat_ If I recall correctly.  
 __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
-__intl__ International.  
+__intl__ :four: (int’l) International.  
 __IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __IP__ Intelectual property.  
 __IRS__ _n_ :five: _Internal Revenue Service_  
@@ -117,6 +117,7 @@ __MVA__ Motor vehicle accident, or multi-vehicle accident.
 __N/A__ Not available.  
 __NA__ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __Nat Geo__ National Geographic.  
+__natl__ (nat’l) National.  
 __NATO__ _North Atlantic Treaty Organization_  
 __NB__  
 __NCO__  

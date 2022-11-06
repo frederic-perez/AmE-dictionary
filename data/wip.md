@@ -1,269 +1,160 @@
 __abide__ _v_  
-__added value__ _n_  
-__Amber alert__ _n_  
-__arbitrary__ _n_ _An arbitrary number of servers._  
-__backfill__ _n_  
-__backpedal__ _v intr_ _He backpedaled quickly._  
-__benchmarking__ _n_  
-__best-of-breed__ _adj_  
-__bingo__ _v_  
-__bootstrap__ _v_  
-__brook__ _v tr_ _usually used with a negative_ To put up with; tolerate: _We will brook no further argument._  
-__burgeon__ _v intr_  
-__chaff__ _n_  
-__chassis__ _n_  
-__cobble__ _v tr_  
-__commodity hardware__  
-__compute__ _n_  
-__concerted__ _adj_ _A concerted effort._  
-__contention__ _n_  
-__countermand__ _v_  
-__curried__ _v_  
-__dispense__ _v_ _He dispensed invaluable advice._  
-__dispersive__ _adj_  
-__dissension__ _n_ :dart:  
-__dissipate__ _v_  
-__downside__ _n_  
-__downtime__ _n_  
-__end user__ _n_  
-__ennui__  
-__expediency__ _n_  
-__fathometer__ _n_ :astonished:  
-__ferrule__ _n_  
-__fewer__ _adj_ (_vs_ less)  
-__flak__ _n_  
-__flank speed__ _n_ _The submarine accelerated to flank speed._  
-__flat file__  
-__flummoxed__ _adj_ /ˈflʌməkst/  
-__follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
-__gamboge__ _n_ __2__ Yellow or yellow-orange.  
-__gingerly__  
-__gloated__ _v_  
-__harness<sup>1</sup>__ _n_  
-__harness<sup>2</sup>__ _v_ _Remove the barriers to harnessing HPC._  
-__hazard__ _v_  
-__helo__ _n informal_ A helicopter.  
-__heterogeneous__ _adj_  
-__hinky__ _adj_ _Why this hinky feeling?_  
-__holler__ _v_ (hollered)  
-__horsepower__ _n_  
-__hotspot__ _n_  
-__inbound__ _adj, adv_  
-__ineffable__ _adj_  
-__infallible__  
-__inhibitor__ _n_  
-__insidious__ _adj_  
-__intrinsic__ _adj_  
-__jet blast deflector__  
-__jet blast__  
-__jink__ _v_ _A jinking maneuver._  
-__jodhpurs__ _n pl_ :two: Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
-__joist__ _n_  
-__jolt__ _n_ _The jolt shook the Tomcat._  
-__knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door’s opening is about 20 inches above walking surface.  
-__ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
-__languid__ _adj_ /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
-__Latinx__ _adj, n_ One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to “Latino” and “Latina.” _As a Latinx, I’m very conscious of the issues that affect immigrants._  
-__list__ _v_ :astonished: (Nautical Terms) (esp of ships) To lean over or cause to lean over to one side. _The ship was listing in the water._  
-__logfile__ _n_  
-__lozenge__ _n_  
-__ludicrous__ _adj_ /LOO-di-kruhs/ So absurd as to provoke laughter.  
-__major__ _adj_ _Major concerns._  
-__maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
-__meaningful__  
-__merchant__ _adj_ _A heavily laden merchant ship._  
-__mere__ _adj_ :two::hammer: _The mere possibility of a contract._ _A mere 2% of the cost._  
-__merely__  
-__misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  
-__miss__ _n_ _A memory cache miss._  
-__momentum__ _n_ _I’ve lost a lot of momentum._  
-__motherlode__ _n_  
-__multicast__  
-__muster__ _n_ (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._  
-__nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
-__netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
-__nifty__ _adj_  
-__nix__ _v_ (nixed)  
-__obnoxious__  
-__omniscient__ _adj_ Having complete or unlimited knowledge, awareness, or understanding; perceiving all things.  
-__ongoing__  
-__outset__ _n_ _Designed at the outset._  
-__patty-cake__ _n_ _They can play patty-cake._  
-__pax vobiscum__ _n_ /pæks vəʊˈbɪskʊm/ Peace be with you.  
-__petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother’s remedy, a big jar of petrolatum._  
-__phoenix__ _n_  
-__piggyback__ _v_ :two::hammer:  
-__pirouette__ _v intr_  
-__ponderous__  
-__preemption__ _n_  
-__prevaricate__ _v_  
-__prioritize__ _v_  
-__proselytize__ _v_ /PRAH-suh-luh-tyze/  
-__psych__ _v_ _slang_ (?)  
-__pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
-__quail__ _v_  
-__quid pro quo__ _n_ :two::hammer:  
-__quiz__ _n_ (_n pl_ quizzes) _Take the quiz!_  
-__rangy__ _adj_ _A rangy Texas native._  
-__rap__ _n_ _There was a sharp rap on the door._  
-__ratify__ _v_ (ratified)  
-__ratoon__ _n_  
-__readily__  
-__ready room__  
-__rebuff__ _v_  
-__reconvene__ _v_  
-__replica__ _n_  
-__ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy.  
-__Rosh HaShanah__ _n_  
-__round robin__  
-__ruefully__  
-__saponify__ _v_  
-__schooled__ _v_ _She schooled her face into careful neutrality._  
-__scrub out__ _v_  
-__seamlessly__ _n_  
-__self-serving__ _adj_  
-__semblance__ _n_ _The semblance of peace._  
-__setback__ _n_  
-__sharp__ _adj_ _He’s a sharp guy._  
-__sheaf__ _n_ _A sheaf of photos._  
-__shrieking__ _adj, n_ _Shrieking panic._  
-__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
-__side effect__  
-__silk__ _n_  
-__sloughing__ _v_  
-__snigger__ _v_  
-__snorkel__ _v intr_  
-__snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
-__specialty__ _n_  
-__speed bag__ _n_  
-__sporadic__ _adj_  
-__spree__ _v_ (?)  
-__station__ _n_ _We can maintain station._  
-__strike warfare__  
-__stringent__ _adj_ _Stringent challenges._  
-__strip__ _v_ _Data striped across different storage nodes._  
-__stud__ _n_  
-__stymie__ _v_  
-__surreptiously__  
-__tacky__  
-__tactical__ _adj_ _Tactical plot._  
-__tang__ _n_ __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga  
-__tanker__ _n_  
-__tapeworm__ _n_  
-__thereby__  
-__thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
-__thresh__ _v_  
-__thrum__ _v_  
-__timeliness__ _n_  
-__timeserver__ _n_ /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network.  
-__tine__ _n_  
-__touch down__ _v_ _The jet touched down there yesterday._  
-__triad__ _n_  
-__underlying__ _adj_ _The underlying software stack._  
-__usher__ _v_ _NVIDIA ushered in a new era in the high performance computing industry._  
-__uvula__ _n_ :es: úvula, campanilla  
-__vagary__ _n_ _The vagaries of nature._  
-__vamp__ _n_  
-__vaunted__ _adj_ _His vaunted years of experience._  
-__vector__ _v tr_ _He vectored toward the tanker waiting for him._  
-__walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
-__wedge__  
-__wince__ _v_  
-__wind park__  
-__workload__ _n_  
-__zugzwang__  
 __Aborigine__ _n_ :pencil2:  
-__Argentina__ _n_ _Syn_ the Argentine  
-__Lapland__ _n_  
-__Sagittarian__  
-__Zulu time__  
 __abreast__  
+__accommodate__ _v_ :two::hammer: (?)  
+__added value__ _n_  
 __adit__ _n_ An almost horizontal entrance to a mine. _The adit of a mine._  
+__advertising__ _v_ _Advertising the changes to higher-layer network entities._  
 __affable__ _adj_  
 __aft__  
+__alleviate__ _v_  
 __aloft__  
+__Amber alert__ _n_  
 __ambiguous__  
+__annealing__  
 __appalling__ _adj_  
+__arbitrary__ _n_ _An arbitrary number of servers._  
+__architected__ _v_ _He architected the first mesh optical network._  
+__Argentina__ _n_ _Syn_ the Argentine  
 __astern__  
 __awash__  
+__backfill__ _n_  
+__backhaul__ _n_ :two::hammer: _Backhaul areas._  
+__backpedal__ _v intr_ _He backpedaled quickly._  
 __ball-bearings__ _n_ (?)  
 __banshee__ _n_ _The cry of the banshee._  
 __bark__ _n_ _Four-masted bark._  
 __barrow__ _n_ :two::hammer:  
 __bearing__ _n_ __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._  
 __beaver__ _n_  
+__benchmarking__ _n_  
 __berg__ _n_  
 __beset__ _v_  
 __besotted__ _adj_  
+__best-of-breed__ _adj_  
 __billet<sup>1</sup>__ _n_  
 __billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
+__bingo__ _v_  
 __bleat__ _v_ :two::hammer:  
 __blowhole__ _n_  
 __bludgeon__ _v_ _The everlasting bludgeoning of the wind._  
 __bluster__ _v_ _The bitter blustering of the wind._  
 __bogeyman__  
+__bootstrap__ _v_  
+__bottleneck__ _n_ _Remove bottlenecks._  
 __bowsprit__ _n_  
 __brash__ _n_ A mass of loose fragments, as of ice.  
 __breakwater__ _n_  
 __breeches__ _n pl_  
+__brook__ _v tr_ _usually used with a negative_ To put up with; tolerate: _We will brook no further argument._  
+__bulk__  
 __bulk__ _adj_ _Bulk items._  
 __bumpy__ _adj_ _A bumpy ride._  
+__burgeon__ _v intr_  
 __buttcrack__ _n slang_  
 __cackle__ _n_ _A cackle of laughter._  
+__Canadian Mountie__ _n_ (?)  
 __capstan__ _n_  
 __carburettor__ _n_ (carburetter, carburetor)  
 __carcase__ _n_ (carcass in AmE?) (?)  
 __casement__ _n_  
 __caulking__  
+__chaff__ _n_  
+__chassis__ _n_  
+__choke__ _n_ _adj_ (?)  
 __cinnamon bun__  
+__circumnavigate__ _v_  
 __cloackroom__  
 __cloudscape__ _n_ (?)  
 __cloying__ _v_  
+__cobble__ _v tr_  
 __coma__ _n_  
+__commence__ _v_  
+__commodity hardware__  
 __commodity__ _n_ (?)  
+__compulsory__  
+__compute__ _n_  
+__concerted__ _adj_ _A concerted effort._  
 __conducive__  
 __conning__ _v_ _Conning the board was a strain._  
 __consistently__  
+__consummate__  
+__contention__ _n_  
+__contingent__ _adj_ _Contingent problems._  
 __contrived__  
 __cot__ _n_  
+__countermand__ _v_  
 __crank__ _n_  
 __crenellated__  
 __crevices__ _n_  
 __croak__ _n_ _The voice was hoarse like the croak of a frog._  
 __crop__ _n_ _He had a riding crop in one hand._  
+__crucial__  
 __culvert__ _n_  
 __curd__ _n_  
+__curried__ _v_  
 __dainty__  
 __dappled__ _v_  
 __davit__ _n_  
 __debonnaire__  
 __deeply__  
+__deferrable__  
 __desiccate__ _v_  
 __detour__ _n_  
+__detrimental__  
 __detrimental__  
 __dilapidate__ _v_  
 __dinghy__  
 __dismissive__ _adj_  
+__dispense__ _v_ _He dispensed invaluable advice._  
+__dispersive__ _adj_  
+__dissension__ _n_ :dart:  
+__dissipate__ _v_  
 __dormant__  
+__dovetail__ _v_  
 __downer__ _n_  
+__downside__ _n_  
+__downtime__ _n_  
 __dregs__  
 __drive__ _n_ _They have a lot of energy, a lot of drive._  
 __dulcimer__ _n_  
 __effect__ _v_  
 __effeminacy__ _n_  
+__elaborate__ _v_ _The authors elaborate on migration scenarios._  
+__elastically__  
+__enact__ _v_ (enacting)  
+__end user__ _n_  
 __engaged__ _adj_ __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
 __engross__ _v_ _I was engrossed in my thoughts._  
+__ennui__  
 __evangelist__ _n_ _Technology evangelist._  
 __exaggerate__  
+__expectedly__ _adv_ _Commercially available tools (expectedly) lack support for flexible optical networks at the moment._  
+__expediency__ _n_  
+__expenditures__  
+__extolling__ _v_  
 __extricate__ _v_  
+__fathometer__ _n_ :astonished:  
+__feasted__ _v_  
+__ferrule__ _n_  
 __ferryboat__ _n_  
+__feted__ _v_  
+__fewer__ _adj_ (_vs_ less)  
 __flair__ _n_  
+__flak__ _n_  
+__flank speed__ _n_ _The submarine accelerated to flank speed._  
+__flat file__  
 __flat-out__ _adj_ _We were all working flat-out._  
 __flipper__ _n_ __1__ The flat broad limb of seals, whales, penguins, and other aquatic animals, specialized for swimming.  
 __floe__ _n_  
 __flounce__ _n_  
+__flummoxed__ _adj_ /ˈflʌməkst/  
+__follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
+__foreseeable__  
 __forlorn__ _adj_ :two::hammer:  
 __fortnight__ _n_  
+__foster__ _v_  
+__fruitful__  
 __furtively__ _adv_ _She was watching me furtively._  
 __fusillade__ _n_ _A fusillade of shots._  
 __fuss__ _v_ (fussing)  
@@ -271,12 +162,16 @@ __gable__ _n_
 __gaggle__ _n_ _A gaggle of tourists._  
 __gale__ _n_  
 __galley__ _n_  
+__gamboge__ _n_ __2__ Yellow or yellow-orange.  
 __gargantuan__ _adj_ _A gargantuan breakfast._  
 __garish__  
 __garrulous__  
+__geyser__ _n_ (?)  
 __gherkin__ _n_ :es: (?)  
 __ghoul__  
 __ghoulish__ _adj_  
+__gingerly__  
+__gloated__ _v_  
 __goad__ _v_  
 __goading__ _v_  
 __goblin__  
@@ -284,144 +179,326 @@ __golliwogs__ _n_
 __graffiti__ _n_ :pencil2:  
 __granules__  
 __grating__ _n_  
+__groom__ _v_ _To groom traffic._  
 __grope__ _v_  
 __guardrail__ _n_  
 __gullible__ _adj_ (?)  
 __gully__ _n_  
 __gulp__ _n_ _He swallowed his drink in one quick gulp._  
 __handhold__ _n_  
+__harness<sup>1</sup>__ _n_  
+__harness<sup>2</sup>__ _v_ _Remove the barriers to harnessing HPC._  
 __hashis__ _n_  
 __hasp__ _n_  
 __haunting__ _adj_ (?)  
 __haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
 __hawser__ _n_ (?)  
+__hazard__ _v_  
+__helo__ _n informal_ A helicopter.  
+__heterogeneous__ _adj_  
+__hickory__ _n_ _Hickory smoked pork._  
 __hidalgo__ _n_  
+__hinky__ _adj_ _Why this hinky feeling?_  
 __hoarding__ _n_ (?)  
 __hold__ _n_ _The hold has a different cargo now._  
 __holdall__ _n_  
-__limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa  
+__holistic__ _adj_  
+__holler__ _v_ (hollered)  
+__homed__ _v_  
 __honeycombed__ _v_  
+__hors d’oeuvres__  
+__horsepower__ _n_  
+__hotspot__ _n_  
 __huddle__ _n_ (?) :two::hammer:  
 __humpback whale__  
 __iceblink__ _n_ _We had perfect iceblink conditions._  
+__idyllic__  
 __igloo__ _n_  
+__impairment__  
 __imperious__  
+__impetuous__ _adj_  
+__impoverish__ _v_  
 __inadequacy__  
+__inbound__ _adj, adv_  
+__ineffable__ _adj_  
+__infallible__  
 __infantile__ _adj_ _This infantile stress response should end._  
+__infeasible__ _adj_  
 __infectious__ _adj_ _Infectious smile._  
+__infotainment__  
+__inhibitor__ _n_  
 __inkling__  
+__insidious__ _adj_  
+__insourcing__  
+__intrinsic__ _adj_  
+__jet blast deflector__  
+__jet blast__  
 __jib__ _n_ :two::hammer: _I hoisted the jibs._  
+__jink__ _v_ _A jinking maneuver._  
 __jinxed__  
+__jodhpurs__ _n pl_ :two: Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
+__joist__ _n_  
+__jolt__ _n_ _The jolt shook the Tomcat._  
+__justify__ _v_  
 __jut out__  
 __kelp__ _n_ :two::hammer:  
+__knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door’s opening is about 20 inches above walking surface.  
 __lace__ _v_ :dart::two::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._  
 __laddie__ _n_ _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
+__ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
+__languid__ _adj_ /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
 __lank__ _adj_ _Lank black hair._  
+__Lapland__ _n_  
+__Latinx__ _adj, n_ One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to “Latino” and “Latina.” _As a Latinx, I’m very conscious of the issues that affect immigrants._  
+__lauding__ _v_  
 __lee__ _n_  
 __leeway__  
 __life buoy__  
+__limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa  
+__list__ _v_ :astonished: (Nautical Terms) (esp of ships) To lean over or cause to lean over to one side. _The ship was listing in the water._  
 __lock__ _v_ (past of lock; can it be both locked and lock, I wonder?)  
+__logfile__ _n_  
+__lozenge__ _n_  
+__ludicrous__ _adj_ /LOO-di-kruhs/ So absurd as to provoke laughter.  
+__luncheon__  
 __lurid__  
+__major__ _adj_ _Major concerns._  
+__maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
 __mead__ _n_  
+__meaningful__  
 __megalomaniac__  
+__merchant__ _adj_ _A heavily laden merchant ship._  
+__mere__ _adj_ :two::hammer: _The mere possibility of a contract._ _A mere 2% of the cost._  
+__merely__  
 __miasma__  
 __mischief__  
+__misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  
+__miss__ _n_ _A memory cache miss._  
+__mitigate__ _v_  
+__momentum__ _n_ _I’ve lost a lot of momentum._  
+__motherlode__ _n_  
 __mugging__ _n_  
+__multicast__  
 __murk__ _n_  
+__muster__ _n_ (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._  
+__nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
+__netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
+__nifty__ _adj_  
+__nix__ _v_ (nixed)  
+__nonetheless__  
+__notwithstanding__ _adv, conj, prep_ :two::hammer:  
+__oblivious__  
+__obnoxious__  
 __ochre__ _n_  
 __off-the-shelf__ _adj_  
 __oleander__  
+__omniscient__ _adj_ Having complete or unlimited knowledge, awareness, or understanding; perceiving all things.  
+__ongoing__  
+__outset__ _n_ _Designed at the outset._  
+__overbooked__  
 __pack ice__ _n_ Floating ice that has been driven together into a single mass.  
 __panelist__ _n_  
 __pant__ _v_ _Panting wisps of smoke._  
 __parcel__ _n_ _Open up that parcel of books._  
+__parkade__ _n_ _Canadian_ A building used as a car park.  
 __parry__ _v_ _We didn’t have to parry questions._  
+__part-time__ _adj, adv_ _He is also a part-time consultant._  
 __pathos__  
+__patty-cake__ _n_ _They can play patty-cake._  
+__pax vobiscum__ _n_ /pæks vəʊˈbɪskʊm/ Peace be with you.  
 __pearl onion__  
 __pelagic__ _adj_ Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
+__percent__  
 __perfunctory__ _adj_ _She gave me a little nod and a perfunctory smile._  
+__petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother’s remedy, a big jar of petrolatum._  
 __petulant__ _adj_ :two::hammer:  
+__phoenix__ _n_  
+__piggyback__ _v_ :two::hammer:  
+__pirouette__ _v intr_  
 __pole__ _v_  
 __polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
+__ponderous__  
+__pose__ _v_  
 __potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
+__preemption__ _n_  
+__preemption__ _n_  
+__prevaricate__ _v_  
 __primer__  
+__prioritize__ _v_  
+__proceeds__ _n_  
 __proffered__ _v_ _I ignored the proffered hand._  
 __progeny__  
+__proselytize__ _v_ /PRAH-suh-luh-tyze/  
 __provider__ _n_ _Mental health providers._  
+__psych__ _v_ _slang_ (?)  
+__pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
+__quail__ _v_  
 __queasy__  
+__quid pro quo__ _n_ :two::hammer:  
+__quiz__ _n_ (_n pl_ quizzes) _Take the quiz!_  
+__rangy__ _adj_ _A rangy Texas native._  
+__rap__ _n_ _There was a sharp rap on the door._  
+__ratify__ _v_ (ratified)  
 __ratlines__  
+__ratoon__ _n_  
 __raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
+__readily__  
+__ready room__  
+__rebuff__ _v_  
 __recce__ _n_ :two::hammer:  
+__reconvene__ _v_  
 __recumbent__  
 __reductive__ _adj_  
 __remonstrate__ _v_  
+__replica__ _n_  
+__ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy.  
+__rollout__ _n_  
 __rookery__ _n_ _There are several Emperor rookeries there._  
+__Rosh HaShanah__ _n_  
 __rotunda__  
+__round robin__  
+__ruefully__  
 __rummage__ _v_  
 __rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  
 __rustle<sup>2</sup>__ _v_ _A rustling sound._  
 __rutted__  
+__safeguard__ _v_  
 __sagittal__  
+__Sagittarian__  
 __sailer__ _n_ :pencil2:  
 __sallow__ _adj_  
+__saponify__ _v_  
+__schooled__ _v_ _She schooled her face into careful neutrality._  
 __schooner__ _n_  
+__scrub out__ _v_  
 __scurvy__  
 __seacock__ _n_ :two::hammer:  
+__seamlessly__ _n_  
 __secret__ _v_  
+__seldom__ _adj, adv_  
+__self-serving__ _adj_  
+__semblance__ _n_ _The semblance of peace._  
+__setback__ _n_  
 __sextant__  
+__sharp__ _adj_ _He’s a sharp guy._  
+__sheaf__ _n_ _A sheaf of photos._  
 __shingle__ _n, v_ :three::hammer:  
 __shotgun__  
+__shrieking__ _adj, n_ _Shrieking panic._  
+__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
+__side effect__  
 __signet ring__  
+__significant__ _adj_ :two::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._  
+__signify__ _v_  
+__silk__ _n_  
 __slat__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
 __sledge__ _n_ :three::hammer: _Sledges packed with gear._ _The towing sledge._  
 __sleepers__ _n_ (railway)  
 __slither__ _v_ :two::hammer:  
 __sloshing__  
+__sloughing__ _v_  
+__snigger__ _v_  
 __snippy__  
+__snorkel__ _v intr_  
+__snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
 __sodding__  
 __sodium amytal__  
 __soubriquet__ _n_  
+__specialty__ _n_  
+__spectra__ _n pl_  
+__speed bag__ _n_  
 __spiral binder__  
 __spirit stove__ _n_ _We had a small spirit stove._  
 __splicing__ _v_  
+__sporadic__ _adj_  
 __sprawl__ _v_  
+__spree__ _v_ (?)  
 __springboard__ _n_  
 __spud__ _n_ __1__ _informal_ A potato.  
 __stampede__  
 __stanchion__  
+__station__ _n_ _We can maintain station._  
 __statuary__ _n_  
+__stem__ _v_  
 __stern__ _n_ _The ship’s stern._  
 __stooped__ _v_  
+__strengthen__ _v_  
+__strike warfare__  
+__stringent__ _adj_  
+__stringent__ _adj_ _Stringent challenges._  
+__strip__ _v_ _Data striped across different storage nodes._  
+__stud__ _n_  
+__stymie__ _v_  
 __subpoena__ _v_ Put the screws to someone.  
+__subsequent__  
+__subsequently__ _adv_ Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
+__surreptiously__  
 __surveyor__ _n_  
 __swell__ _n_  
 __swoop__ _n_  
+__tacky__  
+__tactical__ _adj_ _Tactical plot._  
+__tang__ _n_ __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga  
+__tanker__ _n_  
 __tape dispenser__  
+__tapeworm__ _n_  
 __tarpaulin__ _n_ :two::hammer:  
+__testbed__ _n_ :two::hammer:  
+__thereby__  
+__thermostats__  
+__thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
+__thresh__ _v_  
+__thrum__ _v_  
+__timeliness__ _n_  
+__timeserver__ _n_ /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network.  
+__tine__ _n_  
 __tinker__ _v_  
+__titled__ _adj_ :three::hammer:  
 __tormentor__  
+__touch down__ _v_ _The jet touched down there yesterday._  
+__tradeoff__ _n_ (trade-off)  
+__triad__ _n_  
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __tuft__ _n_  
 __tumuli__ _n pl_  
 __twitch__ _v_ _A curtain twitched in the house next door._  
 __unbidden__  
 __undercurrent__ _n_ :two::hammer:  
+__underlying__ _adj_ _The underlying software stack._  
 __unduly__ _adv_  
 __ungainly__  
+__unleash__ _v_  
+__urbanites__  
+__usher__ _v_ _NVIDIA ushered in a new era in the high performance computing industry._  
+__uvula__ _n_ :es: úvula, campanilla  
+__vagary__ _n_ _The vagaries of nature._  
 __validate__ _v_  
+__vamp__ _n_  
+__vaunted__ _adj_ _His vaunted years of experience._  
+__vector__ _v tr_ _He vectored toward the tanker waiting for him._  
 __voice__ _v_ :dart: _He was voicing his thoughts aloud._  
+__walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
 __wanderlust__  
 __wanly__ _adv_ In a weak or pale or languid manner. _He nodded a little wanly._  
+__wedge__  
 __wee__ _adj_ :two: Very small; tiny.  
 __weevils__  
 __welter__ _n_ _A welter of ice._  
 __whitecaps__ _n_  
 __whiteout__ _n_ :two::hammer:  
+__wince__ _v_  
 __winch__ _n_ :two::hammer:  
 __winching__ _v_  
+__wind park__  
 __winter__ _v_  
+__withstand__ _v_  
+__withstand__ _v_  
 __wood shavings__  
+__workload__ _n_  
+__worsen__ _v_  
 __worsened__ _v_  
+__zugzwang__  
+__Zulu time__  
 __all over the map__ (?)  
 __at a snail’s pace__  
 __at any rate__  
@@ -433,6 +510,7 @@ __bric-a-brac__ (?) _A bric-a-brac barrow._
 __call the shots__  
 __cold feet__  
 __duke it out__  
+__fall short__  
 __first and foremost__  
 __frog boiling water__ (?) (DAX for something with these words)  
 __game changer__  
@@ -452,23 +530,32 @@ __have your shit together__ (?) :two::hammer:
 __heads up__ _Thanks for giving me the heads up._  
 __higgledy-piggledy__  
 __high and dry__  
+__in light of this__ (?)  
 __in perfect harmony__  
+__in the long term__  
 __joy-joy feelings__  
 __keep tabs__  
 __land on (one’s) feet__  
+__leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
 __learn the ropes__  
 __let alone__  
 __let down__  
 __line of work__  
 __lost on me__ _It is not lost on me._  
+__main driver__ (?)  
+__makes us tick__ (?)  
 __move the goal post__ (?)  
 __naked eye__ (?) _With the naked eye._  
+__narrow down__ (?)  
 __not even close__ (?)  
 __of no account__ (?)  
 __off kilter__ (?)  
 __off the clock__ (?)  
+__on a different note__ (?)  
 __on short notice__  
+__on the contrary__ (?)  
 __on the spur of the moment__  
+__out of harm’s way__ (?)  
 __piece of shit__  
 __piping hot__  
 __power washing__  
@@ -485,8 +572,10 @@ __take (someone) under (one’s) wing__
 __take a deep breath__  
 __take a leak__ (?)  
 __take for granted__  
+__take into consideration__ (?)  
 __take over__  
 __take the hit__ (?)  
+__tear down__  
 __ten feet pole__ (?)  
 __thank you thank you__ (?)  
 __the devil of it__ (?)  
@@ -498,4 +587,5 @@ __to this day__
 __trouble is__ (?) _Trouble is, that man is my last hope._  
 __very much so__  
 __water under the bridge__  
+__what-if__ (?) _Evaluate various what-if scenarios._  
 __when the chips are down__  
