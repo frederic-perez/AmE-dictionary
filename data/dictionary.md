@@ -55,7 +55,7 @@ __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :six::hammer:  
-__abide__ _v_ :five: /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._ _Abiding trepidation._  
+__abide__ _v_ :six: /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._ _Abiding trepidation._  
 __abject__ _adj_ :six: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
@@ -67,7 +67,7 @@ __abode__ _n_ __1__ A dwelling place; a home. __2__ The act of abiding; a sojour
 __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrable _The abominable treatment of prisoners horrified the team of international observers._  
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
-__aborigine__ _n_ :pencil2: (Aborigine)  
+__aborigine__ _n_ :two::pencil2::hammer: (Aborigine)  
 __abound__ _v intr_ :seven::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._ _By foot, by rail, by trail: options abound._  
 __about-face__  
 __aboveboard<sup>1</<up>__ _adj_ :two: Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
@@ -75,7 +75,7 @@ __aboveboard<sup>2</<up>__ _adv_
 __abracadabra__ _n_ :two::hammer:  
 __abrade__ _v_  
 __abrasive__ _adj_ /uh-BRAY-siv/ _Customer service requires being able to satisfy the polite subscribers but also the abrasive ones who argue with the terms of agreement._  
-__abreast__ _adv_ :seven: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
+__abreast__ _adv_ :eight: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
 __abrogate__ _v_ /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. _Citizens voted to abrogate the antiquated law._  
 __abrogation__ _n_ :two::hammer:  
@@ -110,7 +110,7 @@ __acclaim__ _n_
 __acclaimed__ _adj_ :three::hammer:  
 __acclimation__ _n_ :pencil2:  
 __accolade__ _n_ :nine: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
-__accommodate__ _v_ :three::pencil2::hammer:  
+__accommodate__ _v_ :five::pencil2::hammer:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompaniment__  
 __accompanist__  
@@ -181,6 +181,7 @@ __Adam’s apple__ _n_ :two: The slight projection at the front of the throat fo
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
+__added value__ _n_  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
 __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor heard an address of welcome by his host._  
 __address<sup>2</sup>__ _v_ :four::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
@@ -189,6 +190,7 @@ __adenoidal__
 __adhere__ _v_  
 __adhesive__ _adj, n_ _Double-stick adhesive strips._  
 __adiabatic__ _adj_ :three::hammer:  
+__adit__ _n_ An almost horizontal entrance to a mine. _The adit of a mine._  
 __adjoin__ _v_ Lie adjacent to another or share a boundary. _Syn_ abut, edge, border, march _Canada adjoins the United States._  
 __adjoining__ _adj_ _An adjoining room._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
@@ -224,6 +226,7 @@ __adverse__ _adj_
 __adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n informal_ :three: _Brit_ Short for advertisement.  
 __advertisement__  
+__advertising__ _v_ _Advertising the changes to higher-layer network entities._  
 __advice__ _n_ :two: [:reminder_ribbon: You can remember that advice is a noun spelled with the ending _-ice_ because it also rhymes with _ice_, which is also a noun.] _This is my unsolicited advice._  
 __advisable__ _adj_ /ædˈvaɪ zə bəl/  
 __advise__ _v_ [:reminder_ribbon: You can remember that advise is a verb because it rhymes with _advertise_, which is also a verb.]  
@@ -240,7 +243,7 @@ __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or ot
 __aero-hydroponics__  
 __aerospike engine__ _n_  
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
-__affable__ _adj_ :two::hammer: /AF-uh-bul/  
+__affable__ _adj_ :three::hammer: /AF-uh-bul/  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :eight::hammer:  
 __affiliate__  
@@ -263,7 +266,7 @@ __afoul__ _adj_ :two::hammer:
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __African American__ _n_ _As many as one third of the cowboys on the great cattle drives were African American._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__aft__ _adj, adv_ :eight: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _Syn_ abaft, astern _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
+__aft__ _adj, adv_ :nine: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _Syn_ abaft, astern _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
 __aftereffects__  
@@ -389,7 +392,7 @@ __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. 
 __allegedly__  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
-__alleviate__ _v_ /uh-LEE-vee-ayt/  
+__alleviate__ _v_ :two::hammer: /uh-LEE-vee-ayt/  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
 __allies__ _n_  
@@ -414,7 +417,7 @@ __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _A
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __almsgiving__ _n_ /ˈɑːmzˌɡɪvɪŋ/ (alms-giving) The making of charitable donations, giving alms.  
 __almshouses__ _n_  
-__aloft__ _adv_ :five::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
+__aloft__ _adv_ :six::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :four::hammer:  
@@ -441,10 +444,11 @@ __alumni__ _n pl_ :two::hammer:
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
+__Amber alert__ _n_  
 __ambiance__ _n_ :two::hammer: _Relaxing ambiance._  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
-__ambiguous__ _adj_ /am-big-yoo-uhs/  
+__ambiguous__ _adj_ :two::hammer: /am-big-yoo-uhs/  
 __ambisinister__ _adj_ Clumsy or unskillful with both hands.  
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
@@ -543,6 +547,7 @@ __aniseed__ _n_
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
 __Anne Boleyn__ _n_  
+__annealing__ _n_ Hardening something by heat treatment. _Syn_ tempering  
 __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
@@ -639,7 +644,7 @@ __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ ap
 __apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :six: Shocked or dismayed; filled with horror.  
-__appalling__ _adj_ :seven: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalling__ _adj_ :eight: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ _n_ :two::hammer: _Campaign apparatus._  
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
@@ -688,7 +693,7 @@ __aquifer__ _n_ :two::hammer:
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
 __Arapahoe__ _n_ :two::hammer:  
-__arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
+__arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__ _n_ :eight::hammer:  
@@ -707,7 +712,7 @@ __archetypal__
 __archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/  
 __Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :five::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
-__architect__ _n, v_ :mute:[arc~~h~~itect]  
+__architect__ _n, v_ :two::hammer::mute:[arc~~h~~itect] _He architected the first mesh optical network._  
 __architecture__ _n_ :mega:  
 __archivist__  
 __archpriest__ _n_  
@@ -718,6 +723,7 @@ __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
+__Argentina__ _n_ _Syn_ the Argentine  
 __Argentine__ _n_ _The pope is an Argentine._  
 __argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
@@ -827,7 +833,7 @@ __assurance__ _n_ :two::hammer: (assurances)
 __assuredness__ _n_  
 __asswipe__ _n_  
 __asterism__ _n_  
-__astern__ _adj, adv_  
+__astern__ _adj, adv_ :two::hammer:  
 __asthma__ _n_ :three::pencil2::hammer:  
 __astigmatism__ _n_  
 __astir__  

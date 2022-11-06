@@ -1,23 +1,3 @@
-__abide__ _v_  
-__Aborigine__ _n_ :pencil2:  
-__abreast__  
-__accommodate__ _v_ :two::hammer: (?)  
-__added value__ _n_  
-__adit__ _n_ An almost horizontal entrance to a mine. _The adit of a mine._  
-__advertising__ _v_ _Advertising the changes to higher-layer network entities._  
-__affable__ _adj_  
-__aft__  
-__alleviate__ _v_  
-__aloft__  
-__Amber alert__ _n_  
-__ambiguous__  
-__annealing__  
-__appalling__ _adj_  
-__arbitrary__ _n_ _An arbitrary number of servers._  
-__architected__ _v_ _He architected the first mesh optical network._  
-__Argentina__ _n_ _Syn_ the Argentine  
-__astern__  
-__awash__  
 __backfill__ _n_  
 __backhaul__ _n_ :two::hammer: _Backhaul areas._  
 __backpedal__ _v intr_ _He backpedaled quickly._  
