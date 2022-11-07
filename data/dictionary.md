@@ -1007,16 +1007,16 @@ __backbencher__ _n_ :three::hammer: _A Tory backbencher._
 __backcountry__ _n_ :five::hammer: _Utah ski resorts offering backcountry adventures._ _Guided backcountry skiing._  
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
-__backfill__  
+__backfill__ _n_  
 __backfire__ _v_  
-__backhaul__ _n, v_  
+__backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
 __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
 __backpacking__ _n_  
-__backpedal__ _v_ :two::hammer:  
+__backpedal__ _v intr_ :three::hammer: _He backpedaled quickly._  
 __backseater__ _n_  
 __backslid__ _v_  
 __backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
@@ -1073,7 +1073,7 @@ __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappoin
 __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
 __balked__ _v_  
-__ball bearings__  
+__ball bearings__ _n_ :two::hammer:  
 __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
 __ball game__ _n_ _Take me out to the ball game._  
@@ -1123,7 +1123,7 @@ __bankroll<sup>2</sup>__ _v_ :two::hammer:
 __bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
 __banneret__ _n_  
 __banquet__ _n_ :mega::two::hammer:  
-__banshee__ _n_  
+__banshee__ _n_ :two::hammer: _The cry of the banshee._  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
 __banter<sup>1</sup>__ _n_ :six::hammer:  
@@ -1151,7 +1151,8 @@ __barge<sup>2</sup>__ _v_ (barging) :three::hammer:
 __bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
 __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- (“weight” as in barometer), suffix -iatr (“treatment,” as in pediatrics), and suffix -ic (“pertaining to”).  
-__bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
+__bark<sup>1</sup>__ _n_ _Four-masted bark._  
+__bark<sup>2</sup>__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
 __barker__ _n_ :two::astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel. A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
@@ -1173,7 +1174,7 @@ __barren__ _adj_ :three::hammer:
 __barrette__ _n_ :two: A small clasp for holding the hair in place.  
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
-__barrow__ _n_  
+__barrow__ _n_ :three::hammer:  
 __barter<sup>1</sup>__ _n_ :es: trueque  
 __barter<sup>2</sup>__ _v_ :four::hammer: (bartered)  
 __barter<sup>3</sup>__ _adj_  
@@ -1243,13 +1244,14 @@ __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._
 __bear down__ _v_  
 __bear hug__  
 __bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
-__bearing<sup>1</sup>__ _n_ :seven::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._  
+__bearing<sup>1</sup>__ _n_ :eight::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._ __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._  
 __bearing<sup>2</sup>__ _adj_  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beauteous__ _adj_ Beautiful, especially to the sight.  
+__beaver__ _n_  
 __bebop__ _v_  
 __because__  
 __beck__ _n_ A gesture of beckoning or summons.  
@@ -1362,7 +1364,7 @@ __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story tha
 __bench__ _n_ _Snow will dust the benches and valleys._  
 __benchmark<sup>1</sup>__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __benchmark<sup>2</sup>__ _v_  
-__benchmarking__ _n_  
+__benchmarking__ _n_ :two::hammer:  
 __bender__ _n_ :three: __2__ _slang_ A spree, especially a drinking spree. _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
 __benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
@@ -1384,7 +1386,7 @@ __bereavement__ _n_ :eight: State of sorrow over the death or departure of a lov
 __bereft<sup>1</sup>__ _adj_ :six: Suffering the death of a loved one; bereaved. _Syn_ grief-stricken, grieving, mourning _Mourn not for those who have died, but for those who are bereft._  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ _n_ :two::hammer::mute:[bere~~t~~]  
-__berg__ _n_  
+__berg__ _n_ :two::hammer:  
 __berm__ _n_ :two::hammer:  
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
@@ -1393,16 +1395,18 @@ __berth<sup>2</sup>__ _v_
 __beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
-__beset__ _v_ :nine: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
+__beset__ _v_ :nine::m: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
 __besmeared__ _v_  
 __besmirch__ _v_ :seven: /bih-SMERCH/ /bɪˈsmɜrtʃ/ (besmirched, besmirching) Charge falsely or with malicious intent; attack the good name and reputation of someone. To stain; sully: _a reputation that was besmirched by slander._ _Syn_ asperse, calumniate, defame, slander, denigrate, sully, smear _She denied everything the tabloids wrote about her, stating that they were only trying to besmirch her reputation._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
+__besotted__ _adj_  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: /bih-SPOHK/ Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
+__best-of-breed__ _adj_  
 __bestiary__ _n_ A book consisting of a collection of descriptions of real and fabulous animals, often including a moral or allegorical interpretation of each animal’s behavior. Bestiaries were particularly popular in medieval Europe.  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
@@ -1476,6 +1480,8 @@ __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m no
 __bill<sup>2</sup>__ _v_  
 __billet__ _v_ :six: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billet-doux__ _n_ /bill-ee-DOO/ A love letter. _While helping her grandmother pack, Abbie came across a billet-doux from her grandfather that was written when the two were teenagers._  
+__billet<sup>1</sup>__ _n_  
+__billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
 __billfold__ _n_  
 __billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _n_ _Now, the women’s contest will take second billing._  

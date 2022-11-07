@@ -1,19 +1,3 @@
-__backfill__ _n_  
-__backhaul__ _n_ :two::hammer: _Backhaul areas._  
-__backpedal__ _v intr_ _He backpedaled quickly._  
-__ball-bearings__ _n_ (?)  
-__banshee__ _n_ _The cry of the banshee._  
-__bark__ _n_ _Four-masted bark._  
-__barrow__ _n_ :two::hammer:  
-__bearing__ _n_ __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._  
-__beaver__ _n_  
-__benchmarking__ _n_  
-__berg__ _n_  
-__beset__ _v_  
-__besotted__ _adj_  
-__best-of-breed__ _adj_  
-__billet<sup>1</sup>__ _n_  
-__billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
 __bingo__ _v_  
 __bleat__ _v_ :two::hammer:  
 __blowhole__ _n_  
