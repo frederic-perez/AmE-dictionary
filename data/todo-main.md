@@ -1,21 +1,3 @@
-__menial__ _adj_ :mega:  
-__mephitic__ _adj_  
-__Mercer’s condition__ _n_  
-__merchant__ _n_ _The merchants listed are easy to find on our map._  
-__mercurial__ _adj_ Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._  
-__mercury__ _n_ /mûr′kyə-rē/  
-__meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
-__meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
-__merino__ _n_ _Merino wool._  
-__mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
-__meso__ _prefix_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
-__mesquite__ _n_ :two::hammer: _Tender mesquite-grilled steaks._  
-__mess__ _n_ __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
-__met__ _n_ _Business needs met._  
-__meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to members of its own category.  
-__meta<sup>2</sup>__ _adv_ In a self-referential manner.  
-__meta<sup>3</sup>__ _n_ Something that is self-referential.  
-__meta<sup>4</sup>__ _prefix_ Denoting transformation, transcending, going beyond, etc.  
 __metabolites__ _n_  
 __metadata__ _n pl_  
 __metaphor__ _n_  

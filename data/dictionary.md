@@ -10016,7 +10016,7 @@ __menarche__ _n_ :two: The initial onset of menstruation, usually occurring betw
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
 __mendacity__  
 __mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
-__menial<sup>1</sup>__ _adj_ _Menial labor._  
+__menial<sup>1</sup>__ _adj_ :two::hammer::mega: _Menial labor._  
 __menial<sup>2</sup>__ _n_  
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
 __Mennonite__  
@@ -10027,33 +10027,45 @@ __mens room__ _n_
 __mental memo__ _n_ :camera:  
 __mentees__  
 __Mephistopheles__ _n_ (Mephisto)  
-__mephitic__ _adj_  
+__mephitic__ _adj_ :two::hammer:  
 __merc__ _n_ :two::hammer:  
 __mercantile__ _adj_ :two::hammer:  
+__Mercer’s condition__ _n_  
 __merch__ _n_ _informal_ :three: Merchandise.  
 __merchant prince__ _n_ A very wealthy or influential merchant.  
-__merchant__  
-__mercurial__ _adj_ :four: /mer-KYUR-ee-ul/ Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
+__merchant__ _n_ :two::hammer: _The merchants listed are easy to find on our map._  
+__mercurial__ _adj_ :five: /mer-KYUR-ee-ul/ Liable to sudden unpredictable change. Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._ _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
+__mercury__ _n_ /mûr′kyə-rē/  
 __mere__ _adj_ :four::hammer: _From mere $200._  
 __meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
+__meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
+__meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
-__merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
+__merino__ _n_ :two: __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep. _Merino wool._  
 __merit__ _n_ :two::hammer:  
 __meritorious__ _adj_ /mair-uh-TOR-ee-us/ Deserving of honor or esteem. _At the gathering, the company’s president expressed his gratitude to employees for their meritorious service._  
 __mermaid__ _n_  
 __merman__ _n_  
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
+__mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
 __mesh strainer__  
 __Mesmer__ _n_ Austrian physician who tried to treat diseases with a form of hypnotism. (1734-1815)  
+__meso__ _prefix_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
 __Mesoamerica__ _n_ Another name for Central America.  
 __mesosphere__  
+__mesquite__ _n_ :two::hammer: _Tender mesquite-grilled steaks._  
 __mess up__ _phr v_  
-__mess__ _n_ :astonished:: __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
+__mess__ _n_ :two::astonished:: __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
 __messiah__ _n_ :mute:[messia~~h~~]  
 __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._  
 __messtin__ _n_  
+__met__ _n_ _Business needs met._  
+__meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to members of its own category.  
+__meta<sup>2</sup>__ _adv_ In a self-referential manner.  
+__meta<sup>3</sup>__ _n_ Something that is self-referential.  
+__meta<sup>4</sup>__ _prefix_ Denoting transformation, transcending, going beyond, etc.  
 __metal flashing__  
 __metal shavings__  
 __metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
