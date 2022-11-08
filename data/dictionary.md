@@ -36,7 +36,7 @@ __A4__ _adj, n_ :astonished: _A4 stainless steel._
 __ab initio__ _adv_ From the beginning.  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
-__abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
+__abandon__ _n_ :two::astonished: /uh-BAN-dun/ Abandon means “a feeling or attitude of wild or complete freedom,” and is often used synonymously with enthusiasm and exuberance. It also appears in the phrase _with reckless abandon_ to describe something done without fear or concern for consequences. Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._ _In an act of reckless abandon, she quit her job and moved to Tahiti._  
 __abase__ _v_ _To abase a King and leave him on the throne has its dangers._  
 __abasement__ _n_  
 __abashed__ _adj_ :four: Ill at ease, embarrassed, or confused; ashamed.  
@@ -2627,6 +2627,7 @@ __catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new t
 __catechism__ _n_ :two::hammer::pencil2:  
 __categorical__ _adj_  
 __cater__ _v_ :four:hammer: _Catered dinner._  
+__catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
 __caterpillar__ _n_  
 __caterwaul<sup>1</sup>__ _n_  
 __caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
@@ -3125,6 +3126,7 @@ __clough__ _n_ :three::hammer:
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
+__clowder__ _n_ /ˈklɑʊdə/ A collective term for a group of cats.  
 __cloy__ _v_ :two::hammer:  
 __cloying__ _adj_ :six: /KLOY-ing/ Excessively sweet or sentimental. :es: empalagoso _She is cordial without being cloying._ _She finds most romantic comedies cloying and predictable._  
 __Club Med__ _n_ _Club Med countries._  
@@ -6622,6 +6624,7 @@ __fussbudget__ _n_ :two::hammer:
 __fussy__ _adj_ :two::astonished: __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __fustian<sup>1</sup>__ _n_  
 __fustian<sup>2</sup>__ _adj_ :two: __1__ Cheap; worthless. __2__ Pompous; bombastic.  
+__fustigate__ _v_ /FUSS-tuh-gayt/ Fustigate means “to criticize severely.” Its older, less common meaning is “to beat with or as if with a short heavy club.” _The singer’s awards show performance was fustigated by several prominent media outlets._  
 __futile__ _adj_ :three::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
@@ -7569,6 +7572,8 @@ __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._
 __hazel__  
 __hazing__ _n_ :dart: (Education) _chiefly US and Canadian_ the bullying of a student in school. _The college hazing policy._  
 __hazmat suit__  
+__hazmat<sup>1</sup>__ _n_ /HAZ-mat/ [:scroll: A shortening of hazardous + material] Dangerous material, for example, something toxic, explosive, or inflammable.  
+__hazmat<sup>2</sup>__ _adj_ Relating to hazardous material.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head start__ _n_ :three::hammer: _Giving them a head start on finding a job._  
@@ -9150,7 +9155,7 @@ __lascivious__ _adj_ Given to or expressing lust; lecherous. _Syn_ libidinous, l
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
-__lashing__ _n_ :three::hammer: _Gooey cheese and lashings of sour cream._ _A toasted muffin with serious lashings of Hollandaise sauce._  
+__lashings__ _n_ :four: Lavish quantities. _Syn_ oodles, dozens, gobs, heaps, loads, lots, rafts, scads, scores, slews, stacks, tons, wads, piles, mountain _Famished, the men ate lashings of spaghetti and meatballs when they finally reached their destination._ _Gooey cheese and lashings of sour cream._ _A toasted muffin with serious lashings of Hollandaise sauce._  
 __lassitude__ _n_ :four: A state or feeling of weariness, diminished energy, or listlessness. Tiredness and a lack of energy. _Syn_ lethargy, sluggishness _Her rapid footsteps shook her own floors, and she routed lassitude and indifference wherever she came._  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
@@ -9511,7 +9516,7 @@ __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebo
 __loll<sup>1</sup>__ _v intr_ :seven::pencil2: (lolled, lolling) __1__ To move, stand, or recline in an indolent or relaxed manner. _It was a dreary Saturday, and James decided to loll around in his pajamas and catch up on his TV shows._ __2__ To hang or droop laxly: _a pennant lolling from the mast._ _The exhausted dog plopped on the floor with its tongue lolling out._ _His head was lolling against Cato’s shoulder._ _The dog’s head was inches away, his tongue lolling to one side._  
 __loll<sup>2</sup>__ _v tr_ To permit to hang or droop laxly: _lolled his head on the armrest._  
 __lollipop__ _n_ (lollypop)  
-__lollygag__ _v intr_ :two: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
+__lollygag__ _v intr_ :three: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
 __London__ _n_ :mega: /ˈlʌndən/  
 __lone wolf__ _n_ _They are lone wolf attacks._  
 __lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
@@ -9908,7 +9913,7 @@ __mast__ _n_ _The flag was flown at half mast._
 __mastermind__ _v_ :two::hammer: (masterminding)  
 __masterpiece__ _n_ :two::hammer:  
 __masthead__ _n_  
-__mastodon__ _n_ :es: mastodonte  
+__mastodon__ _n_ :two::hammer: :es: mastodonte  
 __mastoiditis__ _n_  
 __matchmaking service__  
 __matchmaking__ _n_ Mediation in order to bring about a marriage between others.  
@@ -10000,6 +10005,7 @@ __megalomaniac__ _n_ :two: Someone who enjoys power over other people and always
 __megalomanic__ _adj_ Suffering from megalomania.  
 __megastore__ _n_ :mega:  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
+__megrim__ _n_ A severe recurring vascular headache; occurs more frequently in women than men. _Syn_ hemicrania, migraine, sick headache _Her megrims were severe, and she often had to miss work because of the terrible pain._  
 __meh__  
 __meiosis__ _n_ As a rhetorical device, meiosis means using euphemism to minimize the importance or significance of something. Example: We must put an end to this peculiar institution. (“Peculiar institution” is a euphemism for slavery.)  
 __melancholia__ _n_ /mel-un-KOH-lee-uh/  
@@ -10082,15 +10088,19 @@ __meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to me
 __meta<sup>2</sup>__ _adv_ In a self-referential manner.  
 __meta<sup>3</sup>__ _n_ Something that is self-referential.  
 __meta<sup>4</sup>__ _prefix_ Denoting transformation, transcending, going beyond, etc.  
+__metabolites__ _n_  
+__metadata__ _n pl_  
 __metal flashing__  
 __metal shavings__  
 __metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
-__metaphor__ _n_ A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
+__metaphor__ _n_ :two: A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
 __metaphysical__ _adj_  
+__metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
 __meteoroid__ _n_  
 __meter__ _n_ _The cab driver waited with the meter running._  
+__metering__ _n_  
 __methadone__ _n_  
 __metheglin__ _n_ :two::hammer:  
 __methinks__  

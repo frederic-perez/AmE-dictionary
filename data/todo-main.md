@@ -1,18 +1,3 @@
-__abandon__ _n_ :astonished: /uh-BAN-dun/ Abandon means “a feeling or attitude of wild or complete freedom,” and is often used synonymously with enthusiasm and exuberance. It also appears in the phrase _with reckless abandon_ to describe something done without fear or concern for consequences. _In an act of reckless abandon, she quit her job and moved to Tahiti._  
-__catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
-__clowder__ _n_ /ˈklɑʊdə/ A collective term for a group of cats.  
-__fustigate__ _v_ /FUSS-tuh-gayt/ Fustigate means “to criticize severely.” Its older, less common meaning is “to beat with or as if with a short heavy club.” _The singer’s awards show performance was fustigated by several prominent media outlets._  
-__hazmat<sup>1</sup>__ _n_ /HAZ-mat/ [:scroll: A shortening of hazardous + material] Dangerous material, for example, something toxic, explosive, or inflammable.  
-__hazmat<sup>2</sup>__ _adj_ Relating to hazardous material.  
-__lashings__ _n_ Lavish quantities. _Syn_ oodles, dozens, gobs, heaps, loads, lots, rafts, scads, scores, slews, stacks, tons, wads, piles, mountain _Famished, the men ate lashings of spaghetti and meatballs when they finally reached their destination._  
-__lollygag__ _v intr_  
-__mastodon__ _n_ :es: mastodonte  
-__megrim__ _n_ A severe recurring vascular headache; occurs more frequently in women than men. _Syn_ hemicrania, migraine, sick headache _Her megrims were severe, and she often had to miss work because of the terrible pain._  
-__metabolites__ _n_  
-__metadata__ _n pl_  
-__metaphor__ _n_  
-__metaverse__ _n_ /ˈmɛtəˌvɜːs/  
-__metering__ _n_  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
