@@ -1,23 +1,3 @@
-__bingo__ _v_  
-__bleat__ _v_ :two::hammer:  
-__blowhole__ _n_  
-__bludgeon__ _v_ _The everlasting bludgeoning of the wind._  
-__bluster__ _v_ _The bitter blustering of the wind._  
-__bogeyman__  
-__bootstrap__ _v_  
-__bottleneck__ _n_ _Remove bottlenecks._  
-__bowsprit__ _n_  
-__brash__ _n_ A mass of loose fragments, as of ice.  
-__breakwater__ _n_  
-__breeches__ _n pl_  
-__brook__ _v tr_ _usually used with a negative_ To put up with; tolerate: _We will brook no further argument._  
-__bulk__  
-__bulk__ _adj_ _Bulk items._  
-__bumpy__ _adj_ _A bumpy ride._  
-__burgeon__ _v intr_  
-__buttcrack__ _n slang_  
-__cackle__ _n_ _A cackle of laughter._  
-__Canadian Mountie__ _n_ (?)  
 __capstan__ _n_  
 __carburettor__ _n_ (carburetter, carburetor)  
 __carcase__ _n_ (carcass in AmE?) (?)  

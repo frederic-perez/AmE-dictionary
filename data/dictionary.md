@@ -1492,6 +1492,7 @@ __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._
 __binder__ _n_ _My binder._  
 __bindle__ _n_ _Drug bindles._  
 __binging__ _v_  
+__bingo__ _v_  
 __binocular__ _adj_ :mega: Adapted for or using both eyes.  
 __binoculars__ _n pl_ (plurale tantum)  
 __bio__ _n_ :two::hammer:  
@@ -1581,7 +1582,7 @@ __bleak__ _adj_ __1__ :nine::m: _(of an area of land)_ Lacking vegetation and ex
 __bleakness__  
 __bleary__ _adj_ :three::hammer:  
 __bleary-eyed__ _adj_ __1__ With eyes blurred or reddened, as from exhaustion or lack of sleep. _Bleary-eyed travelers sometimes end up in the wrong city._ __2__ Dull of mind or perception.  
-__bleated__ _v_ :three::hammer: (bleating) _His walkie-talkie bleated._  
+__bleat__ _v_ :five::hammer: (bleated, bleating) _His walkie-talkie bleated._  
 __bleating__ _n_ :two::hammer: _The bleating of a few sheep._  
 __bled__ _v_  
 __bleed blue__  
@@ -1647,6 +1648,7 @@ __blow-out__
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blowhard__ _n_ :two: A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  
+__blowhole__ _n_  
 __blown call__  
 __blowout__ _n informal_ :eight: __3a__ A large party or other social affair. _Music blowout._ __b__ A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
@@ -1655,8 +1657,8 @@ __blowup bed__ _n_
 __blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __blubber__ _n_  
-__bludgeon__ _n_  
-__bludgeoned__ _v_ :three::hammer:  
+__bludgeon<sup>1</sup>__ _n_  
+__bludgeon<sup>2</sup>__ _v_ :four::hammer: (bludgeoned) _The everlasting bludgeoning of the wind._  
 __blue string__  
 __blue-blood__  
 __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
@@ -1676,7 +1678,7 @@ __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, 
 __bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
 __blurb__ _n_ :two::hammer: (blurbs) _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
-__bluster<sup>1</sup>__ _v_  
+__bluster<sup>1</sup>__ _v_ :two::hammer: _The bitter blustering of the wind._  
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __board__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
@@ -1705,7 +1707,7 @@ __bodywork__ _n_ _A certified therapist of massage and bodywork._
 __bog<sup>1</sup>__ _n_ :six::hammer: _Bog garden._ :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
-__bogeyman__ _n_ Variant of boogeyman.  
+__bogeyman__ _n_ :two: Variant of boogeyman.  
 __bogged down__ _phr v_  
 __boggle__ _v_ :two::hammer: _The mind boggles._  
 __bogs__  
@@ -1807,7 +1809,7 @@ __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
-__bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
+__bootstrap__ _v_ :two: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __booty__ _n_ _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
@@ -1836,6 +1838,7 @@ __botnet__
 __bottle fly__ _n_  
 __bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles.  
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
+__bottleneck__ _n_ _Remove bottlenecks._  
 __bottom-line__ _adj_ _Fun also leads to bottom-line results._  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __boudoir__ _n_ :two::hammer:  
@@ -1865,6 +1868,7 @@ __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impres
 __bowl__ _n_ :two: A large structure for open-air sports or entertainments.  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
 __bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
+__bowsprit__ _n_  
 __box score__  
 __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
@@ -1899,7 +1903,8 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brandish__ _v_ /BRAN-dish/  
 __branzino__  
-__brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
+__brash<sup>1</sup>__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
+__brash<sup>2</sup>__ _n_ A mass of loose fragments, as of ice.  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
 __brasserie__ _n_  
 __brassiere__ _n_  
@@ -1943,14 +1948,14 @@ __breakout<sup>1</sup>__ _n_ :four: An escape from jail.
 __breakout<sup>2</sup>__ _adj_ :nine: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
 __breakthrough__ _n_ :two: __4__ _Medicine_ An infection, disease, disorder, or condition that occurs in an individual despite their having received a vaccine, medication, or treatment: _Covid breakthroughs are usually less severe than infections in unvaccinated people, indicating that the vaccine is still doing its job of combating the virus._  
 __breakup__ _n_ :three: The termination or disintegration of a relationship (between persons or nations). _Sharing breakup stories._  
-__breakwater__ _n_ :two::hammer: :es: rompeolas  
+__breakwater__ _n_ :three::hammer: :es: rompeolas  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ _n_ :four::hammer:  
 __breathing room__  
 __breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
 __breech position__ _n_ When a child is oriented feet first in the mother’s uterus just before delivery.  
-__breech__ _n_ :five::hammer: (breeches)  
+__breech__ _n_ :six::hammer: (breeches)  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n pl_ :four::hammer: _Political brethren._  
@@ -2025,7 +2030,7 @@ __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :nine: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
-__brook__ _v_  
+__brook__ _v tr_ :two: _usually used with a negative_ To put up with; tolerate: _We will brook no further argument._  
 __Brooklynites__ _n_  
 __broom shrubs__ _n_  
 __broomstick__ _n_  
@@ -2115,7 +2120,9 @@ __building__ _n_ _A state building._
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
-__bulk__ _n_ :two::hammer: _For the bulk of eight years._  
+__bulk<sup>1</sup>__ _n_ :three::hammer: _For the bulk of eight years._  
+__bulk<sup>2</sup>__ _v_  
+__bulk<sup>3</sup>__ _adj_ _Bulk items._  
 __bulkhead__ _n_ :six::hammer: _The bulkhead door._  
 __Bull__ _n_  
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
@@ -2151,7 +2158,7 @@ __bumpers__ _n_ _The bumpers of vehicles._
 __bumpkin__  
 __bumps in the road__  
 __bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
-__bumpy__  
+__bumpy__ _adj_ :two::hammer: _A bumpy ride._  
 __bun__ _n_ :two::hammer: _All that on a a sesame seed bun._  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
 __bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
@@ -2187,7 +2194,7 @@ __burble__ _v_ :three: (burbled) __1__ Flow in an irregular current with a bubbl
 __burden__ _n_  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
-__burgeon__ _v_  
+__burgeon__ _v intr_ :two::hammer:  
 __burgeoning__ _adj_ :nine::m: Rapidly developing or growing; flourishing.  
 __burgermeister__  
 __burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
@@ -2246,6 +2253,7 @@ __butt-fumble__
 __butt-strap__ _n_  
 __butt<sup>1</sup>__ _v_  
 __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
+__buttcrack__ _n slang_  
 __butte__ _n_ :two::hammer: /bjuːt/ _Visitors are amazed at the sight of giant buttes and mesas._ _Colorful canyons, mesas and buttes._  
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
@@ -2319,7 +2327,8 @@ __cachet__ _n_ :three: A special quality that makes people admire someone or som
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
 __cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
-__cackle__ _v_ :four::hammer: (cackling)  
+__cackle<sup>1</sup>__ _v_ :four::hammer: (cackling)  
+__cackle<sup>2</sup>__ _n_ _A cackle of laughter._  
 __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
 __cacoethes__ _n_ :three: /kak-oh/uh-WEE-theez/ [:scroll: From Greek kakoethes (ill-disposed), from kakos (bad) + ethe (disposition).] (Pathology) An uncontrollable urge or desire, esp for something harmful. An irresistible urge to do something, especially something inadvisable; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
@@ -2411,6 +2420,7 @@ __campiness__ _n_ _Showbiz campiness._
 __campsite__ _n_  
 __campy__ _adj_ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
+__Canadian Mounties__ _n_  
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
