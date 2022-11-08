@@ -1,3 +1,13 @@
+__abandon__ _n_ :astonished: /uh-BAN-dun/ Abandon means “a feeling or attitude of wild or complete freedom,” and is often used synonymously with enthusiasm and exuberance. It also appears in the phrase _with reckless abandon_ to describe something done without fear or concern for consequences. _In an act of reckless abandon, she quit her job and moved to Tahiti._  
+__catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
+__clowder__ _n_ /ˈklɑʊdə/ A collective term for a group of cats.  
+__fustigate__ _v_ /FUSS-tuh-gayt/ Fustigate means “to criticize severely.” Its older, less common meaning is “to beat with or as if with a short heavy club.” _The singer’s awards show performance was fustigated by several prominent media outlets._  
+__hazmat<sup>1</sup>__ _n_ /HAZ-mat/ [:scroll: A shortening of hazardous + material] Dangerous material, for example, something toxic, explosive, or inflammable.  
+__hazmat<sup>2</sup>__ _adj_ Relating to hazardous material.  
+__lashings__ _n_ Lavish quantities. _Syn_ oodles, dozens, gobs, heaps, loads, lots, rafts, scads, scores, slews, stacks, tons, wads, piles, mountain _Famished, the men ate lashings of spaghetti and meatballs when they finally reached their destination._  
+__lollygag__ _v intr_  
+__mastodon__ _n_ :es: mastodonte  
+__megrim__ _n_ A severe recurring vascular headache; occurs more frequently in women than men. _Syn_ hemicrania, migraine, sick headache _Her megrims were severe, and she often had to miss work because of the terrible pain._  
 __metabolites__ _n_  
 __metadata__ _n pl_  
 __metaphor__ _n_  
@@ -54,6 +64,7 @@ __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetabl
 __moniker__ _n informal_  
 __monolith__ _n_  
 __monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
+__monopsony__ _n_  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __Moor__ _n_  
@@ -246,6 +257,7 @@ __outlandish__ _adj_ :two::hammer:
 __outpost__ _n_  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
+__outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outshine__ _v_  
 __outwear__ _n_  
 __overarching__ _adj_ :two::hammer:  
@@ -696,6 +708,7 @@ __saint__ _v_ (sainted) _The chef should be sainted._
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __salamander__ _n_  
 __salient__ _adj_ /SAIL-yunt/  
+__sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
@@ -748,7 +761,7 @@ __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
 __Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
-__scour__ _v_  
+__scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
 __scrap__ _v_  
 __scrap<sup>1</sup>__ _n_  
 __scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
