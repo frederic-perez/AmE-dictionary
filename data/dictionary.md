@@ -2481,6 +2481,7 @@ __caprice__
 __capricious__ _adj_ /kuh-prish-uhs, -pree-shuhs/  
 __caps__ _n_ Capital letters.  
 __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boats. To overturn or cause to overturn: _The boat capsized; I capsized the canoe._ _Don’t rock the boat, baby, or you might just capsize._  
+__capstan__ _n_  
 __capstone__ _n_  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
@@ -2498,7 +2499,8 @@ __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a larg
 __carbine__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
-__carcass__ _n_ :two: Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
+__carburettor__ _n_ (carburetter, carburetor)  
+__carcass__ _n_ :three: (carcase) Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
 __carceral__ _adj_ /KAHR-suh-rul/ Of, relating to, or suggesting a jail or prison. _The room was eerily quiet and had a carceral aesthetic._ _Her article stressed the importance of rehabilitative measures in carceral institutions, such as career preparation and mental health support._  
 __card reader__ _n_  
 __card__ _v_  
@@ -2567,7 +2569,7 @@ __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags 
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __casemates__ _n_  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
-__casement__ _n_ :es: ventana de bisagras _Casement window._  
+__casement__ _n_ :two::hammer: :es: ventana de bisagras _Casement window._  
 __caseous__ _adj_ Resembling cheese.  
 __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
@@ -2645,7 +2647,7 @@ __caught up__ _adj_ Having become involved involuntarily: _caught up in the exci
 __caught__ _v_ :mute:[cau~~gh~~t] Past tense and past participle of catch.  
 __cauldron__ _n_  
 __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that are roasted in the oven.  
-__caulking__  
+__caulking__ _n_ :two: A usually impermeable substance used for filling seams, as between planks of a boat. Also called caulking compound.  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :seven::hammer:  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
@@ -2699,6 +2701,7 @@ __chads__ _n_
 __chafe<sup>1</sup>__ _v_ :nine: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
+__chaff__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._ _To the chef’s chagrin, the sauce was too sweet._  
 __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain letter__ _n_  
@@ -2766,7 +2769,7 @@ __chartered__ _adj_ :five: A chartered professional person has passed examinatio
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
 __chase__ _v_ :two: __3__ To decorate (metal) by engraving or embossing. _The infant received six bowls, gilded and chased._ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
-__chassis__  
+__chassis__ _n_ :two::hammer:  
 __chasten__ _v_ Censure severely.  
 __chastened__ _adj_ :two: Subdued; humbled.  
 __chastening__ _n_ A rebuke for making a mistake.  
@@ -2890,7 +2893,7 @@ __chocolate-box__ _adj_ Excessively decorative and sentimental, like the picture
 __choice__ _v_ _Pick your choice._  
 __choir__ _n_ :mega:  
 __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
-__choke<sup>1</sup>__ _n_ _A team of choke artists._  
+__choke<sup>1</sup>__ _n_ :two::hammer: _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __chokehold__ _n_ __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. __2__ Complete power or control: _the chokehold the mob has had on the town._  
 __choker__ _n_ _A velvet choker._  
@@ -2962,6 +2965,7 @@ __Cinderella__ _n_ :two: /sin-duh-rel-uh/ __5__ A person or thing that achieves 
 __cine__ _n_ :mega:  
 __cinephile__ _n_ :mega:  
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
+__cinnamon bun__ _n_ Rolled dough spread with cinnamon and sugar (and raisins) then sliced before baking.  
 __cinnamon roll__  
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
@@ -2973,7 +2977,7 @@ __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circu
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
 __circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
-__circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
+__circumnavigate__ _v_ :two: __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumspect__ _adj_ :two: Heedful of circumstances and potential consequences; prudent. Cautious, prudent, or discreet. _Syn_ discreet _Because the drug was shown to have adverse side effects, physicians are now more circumspect about recommending its use._  
 __circumsphere__  
@@ -3083,6 +3087,7 @@ __clipped grass__
 __clippers__ _n_ :two::hammer:  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
 __clique__ _n_ :seven: (cliques) A narrow exclusive circle or group of persons (friends or associates), esp. one held together by common interests, views, or purposes. :es: camarilla  
+__cloackroom__  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :three::hammer: :es: guardaropa  
@@ -3115,11 +3120,12 @@ __cloture__
 __Cloud Gate__ _n_ (Chicago)  
 __cloud seeding__ _n_ :two::hammer:  
 __cloud__ _v_ :two::hammer: _Distance clouds perspective._ _To cloud my judgement._  
+__cloudscape__ _n_  
 __clough__ _n_ :three::hammer:  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
-__cloy__ _v_  
+__cloy__ _v_ :two::hammer:  
 __cloying__ _adj_ :six: /KLOY-ing/ Excessively sweet or sentimental. :es: empalagoso _She is cordial without being cloying._ _She finds most romantic comedies cloying and predictable._  
 __Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
@@ -3153,7 +3159,7 @@ __coaxing__ _v_
 __cob__ _n_ :two::hammer: _Savor corn on the cob._  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble up__ _phr v_  
-__cobble__ _v_ :two::hammer: (cobbled)  
+__cobble__ _v tr_ :three::hammer: (cobbled)  
 __cobbler__ _n_ :two::hammer:  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __Coca-Cola pork loin__ _n_ (recipe)  
@@ -3257,7 +3263,7 @@ __colossus__
 __colostomy bag__  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :mute:[colum~~n~~]  
-__coma__ _n_ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
+__coma__ _n_ :three::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  

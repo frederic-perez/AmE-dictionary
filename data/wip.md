@@ -1,18 +1,3 @@
-__capstan__ _n_  
-__carburettor__ _n_ (carburetter, carburetor)  
-__carcase__ _n_ (carcass in AmE?) (?)  
-__casement__ _n_  
-__caulking__  
-__chaff__ _n_  
-__chassis__ _n_  
-__choke__ _n_ _adj_ (?)  
-__cinnamon bun__  
-__circumnavigate__ _v_  
-__cloackroom__  
-__cloudscape__ _n_ (?)  
-__cloying__ _v_  
-__cobble__ _v tr_  
-__coma__ _n_  
 __commence__ _v_  
 __commodity hardware__  
 __commodity__ _n_ (?)  
