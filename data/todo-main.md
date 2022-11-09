@@ -1,17 +1,32 @@
+__à gogo__ _adj, adv_ /ə ˈɡəʊˌɡəʊ/ _informal_ As much as one likes; galore: _wine à gogo._  
+__absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away from the place where he or she is registered.  
 __ad hoc__  
 __address__ _v_ _They need to be addressed._  
 __advent__ _n_  
 __ayahuasca__ _n_  
+__bilious__ _adj_ /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
+__cannikin__ _n_  
+__commonwealth__ _n_ __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
+__confluence__ _n_ A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __congested__  
 __convey__ _v_ _The traffic conveyed over connections._  
 __depict__ _v_  
+__encapsulate__ _v_ /in-KAP-suh-layt/ To show or express the main idea or quality of (something) in a brief way. _Her first album encapsulates the sound of the 90s._  
 __entail__ _v_  
 __entrust__  
+__etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
+__febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
+__flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
 __fulfill__ _v_ _Fulfill the requirements._  
+__gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
 __harness__ _v tr_  
 __hence__  
 __homophily__  
+__incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
+__incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __infotainment__  
+__larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
+__larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
 __layout__ _n_ _The road layout._  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
@@ -564,6 +579,7 @@ __rancid__ _adj_ /RAN-sid/
 __rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
 __random forest__  
 __range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode the range an miners searched for gold._  
+__rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who causes trouble, often in a mischievous way. _Syn_ rascal, ne’er-do-well _With his shaggy, perpetually unkempt hair and his charmingly crooked smile, the actor seems to have been born to play scamps and rapscallions._  
 __rapt__ _adj_  
 __rapture__ _v_  
 __rash__ _adj_ /RASH/  
@@ -808,6 +824,7 @@ __sepulchre__ _n_ /SEP-ul-ker/ Sepulchre is an old-fashioned word for a tomb or 
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __sequester__ _v_  
+__serendipity__ _n_ /sair-un-DIP-uh-tee/ Serendipity is luck that takes the form of finding valuable or pleasant things that are not looked for. _We found the restaurant by pure serendipity, rather than careful research, but it turned out to be the best deal in town._  
 __Serengeti__ _n_ :pencil2:  
 __serigraph__ _n_  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
@@ -1361,6 +1378,7 @@ __unheeded__
 __unkempt__ _adj_  
 __unmissable__  
 __unparalleled__ _adj_ :two::hammer:  
+__unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
 __unpretentious__  
 __unsavory__ _adj_ /ʌnˈseɪ və ri/  
 __unscathed__ _adj_  
@@ -1410,7 +1428,7 @@ __verdigris__ _n_ /VER-duh-greess/ Verdigris is a green or bluish deposit, usual
 __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __vermeil__ _adj, n_  
 __verruciform__ _adj_ In the shape of a wart.  
-__verrucose__ _adj_ (verrucous) Covered with warts or wartlike projections.  
+__verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections. _Syn_ wartlike, warty _The witch extended her verrucose arm and shook her gnarled finger in the little boy’s face._  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vexing__ _adj_ _A vexing problem._  
 __viands__ _n_  
