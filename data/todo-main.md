@@ -1,3 +1,18 @@
+__ad hoc__  
+__address__ _v_ _They need to be addressed._  
+__advent__ _n_  
+__ayahuasca__ _n_  
+__congested__  
+__convey__ _v_ _The traffic conveyed over connections._  
+__depict__ _v_  
+__entail__ _v_  
+__entrust__  
+__fulfill__ _v_ _Fulfill the requirements._  
+__harness__ _v tr_  
+__hence__  
+__homophily__  
+__infotainment__  
+__layout__ _n_ _The road layout._  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
@@ -202,7 +217,7 @@ __on-site__ _adj_ :two::hammer:
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __onerous__ _adj_ :astonished:  
-__ongoing__ _adj_ _Ongoing efforts._  
+__ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
@@ -245,6 +260,7 @@ __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodg
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outshine__ _v_  
 __outwear__ _n_  
+__overall__ _adj, adv_  
 __overarching__ _adj_ :two::hammer:  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
@@ -313,7 +329,7 @@ __paysleys__ _n_
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
-__peculiar__ _adj_ /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
+__peculiar__ _adj_ :two: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
 __pedal boat__ _n_  
 __pedestal__ _n_  
 __pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
@@ -396,7 +412,7 @@ __plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abund
 __plenteous__ _adj_  
 __plentiful__  
 __plenty__ _n_ _There are plenty of shops._  
-__plethora__ _n_ :two::hammer:  
+__plethora__ _n_ :three::hammer:  
 __plot__ _n_ _Vegetable plot._  
 __plummeted__ _v_  
 __plump__ _v_  
@@ -412,7 +428,7 @@ __pod__ _n_ _Pea pod._
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __poignant__ _adj_  
 __polecats__ _n_  
-__policiymaker__ _n_  
+__policiymaker__ _n_ :two::hammer: (policy maker)  
 __policyholder__  
 __Pompeii__ _n_  
 __pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
@@ -420,7 +436,8 @@ __ponderosa pine__
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __poodle__  
 __pool table__  
-__pool__ _n_ :two::hammer: _Heated pool._  
+__pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._  
+__pool<sup>2</sup>__ _v_  
 __pore__ _v intr_  
 __pork pie__ _n_  
 __porter__ _n_  
@@ -641,6 +658,7 @@ __ritzy__ _adj_ /RIT-see/ [:scroll: After César Ritz (1850-1918), a Swiss hotel
 __riverfront__  
 __riverside__  
 __roadblock__ _n_ _Substantial roadblocks stand in the way._  
+__roadside__  
 __roam__ _v_ :two::hammer: _Cuts of beef served tableside by a parade of roaming carvers._  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __Robert Burns__ _n_  
@@ -1006,6 +1024,7 @@ __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
 __stepping stone__  
+__stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __sterling__ _adj_ :two::hammer: _A sterling job._  
 __stern__ _n_ :es: popa  
 __sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
@@ -1146,6 +1165,7 @@ __tattered__ _adj_ _The famous_ Tattered Cover Bookstore.
 __taunt__ _v_  
 __tautomer__ _n_  
 __tavern__ _n_  
+__taxi__ _n_ (_n pl_ taxis, or taxies)  
 __technical__ _adj_ _Technical garments._  
 __tedium__ _n_ _The bitter tedium of his daily life._  
 __teem__ _v_ :two::hammer: (teeming) _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
@@ -1223,6 +1243,7 @@ __tobogganer__
 __tobogganing__ _n_ _Summer tobogganing run._  
 __toffee__  
 __toil__ _v_ _Artisans toil in fascinating foundries._  
+__tolerant__  
 __toll__ _n_ :two::hammer: _Emotional toll._ _Toll road._  
 __toll-free__  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
@@ -1308,6 +1329,7 @@ __twist__ _n_ :three::hammer: _An innovative twist._
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
 __uber__ _adj_ :two::hammer:  
+__ubiquitous__  
 __ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umbrage__ _n_ /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
@@ -1331,6 +1353,7 @@ __underling__ _n_
 __unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
+__uneven__  
 __unfazed__ _adj_  
 __unforgiving__ _adj_  
 __unharness__ _v_  
@@ -1372,9 +1395,10 @@ __vampire bat__ _n_
 __van__ _n_  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_  
-__vast__ _adj_  
+__vast__ _adj_ :two::hammer: _The vast array of resources._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veal__ _n_  
+__vehicular__ _adj_ :two::hammer_ _Vehicular networks.  
 __veiling__ _n_ Sheer material, such as gauze or fine lace, used for veils. _Syn_ netting, gauze _The seamstress attached a lace trim to the veiling, so that it would match the bride’s dress._  
 __vein__ _n_ :two::hammer: (not vessel)  
 __veneer__ _n_ _Porcelain veneers._  
