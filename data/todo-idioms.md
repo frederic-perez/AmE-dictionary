@@ -1,5 +1,9 @@
 __above and beyond__  
 __according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
+__know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__pay (for something) up front__  
+__prone to__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -13,11 +17,13 @@ __stow away__
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
 __Sunday scaries__  
+__sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
 __take (great) pains (to do something)__  
+__take (one’s) pick__ To choose from among several options. Often used as an imperative in the phrase “take your pick.” _We’ve got 45 flavors. Vanilla, chocolate, bacon—take your pick._  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
 __take (something) to the bank__  
@@ -160,7 +166,6 @@ __work in concert__ To work together or in cooperation. _The two of us will need
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
-__yake your pick__  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
 __you don’t say__  
