@@ -1,9 +1,18 @@
+__a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
+__a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
+__a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __above and beyond__  
 __according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
+__bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
+__brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
+__fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
+__go berserk__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__out of sight, out of mind__  
 __pay (for something) up front__  
 __prone to__  
+__sick as a dog__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -129,6 +138,7 @@ __water torture__
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
 __weather permitting__ :four::hammer: _Weather permitting, you can experience a spectacular view of the city below from atop this mountain._  
 __wee hours__  
+__weigh on__  
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
