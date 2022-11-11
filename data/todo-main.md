@@ -1,18 +1,3 @@
-__à gogo__ _adj, adv_ /ə ˈɡəʊˌɡəʊ/ _informal_ As much as one likes; galore: _wine à gogo._  
-__absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away from the place where he or she is registered.  
-__ad hoc__  
-__address__ _v_ _They need to be addressed._  
-__advent__ _n_  
-__ayahuasca__ _n_  
-__bilious__ _adj_ /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
-__cannikin__ _n_  
-__commonwealth__ _n_ __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
-__confluence__ _n_ A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
-__congested__  
-__convey__ _v_ _The traffic conveyed over connections._  
-__depict__ _v_  
-__encapsulate__ _v_ /in-KAP-suh-layt/ To show or express the main idea or quality of (something) in a brief way. _Her first album encapsulates the sound of the 90s._  
-__entail__ _v_  
 __entrust__  
 __etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  

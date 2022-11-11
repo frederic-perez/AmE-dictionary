@@ -28,7 +28,7 @@ __501(c)(3)__ _n_ A charitable organization, named after Internal Revenue Code, 
 __8-track__ _n_ (eight-track) A form of magnetic tape technology for audio storage, popular from the mid-1960s to the early 1980s. _The eight-track audio tape._  
 __a bird in the hand is worth two in the bush__  
 __a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
-__à gogo__ _adj, adv_ _informal_ As much as one likes; galore: _wine à gogo._  
+__à gogo__ _adj, adv_ :two: /ə ˈɡəʊˌɡəʊ/ _informal_ As much as one likes; galore: _wine à gogo._  
 __a great deal__ _adv_  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __A-list__  
@@ -86,6 +86,7 @@ __abscission__ _n_ The act of cutting off. _Syn_ cutting off _He had surgery for
 __abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __absent-minded__ _adj_  
+__absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away from the place where he or she is registered.  
 __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolve__ _v_  
@@ -166,7 +167,7 @@ __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, promp
 __acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __acupunture__ _n_ :pencil2:  
-__ad hoc<sup>1</sup>__ _adv_ :two: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
+__ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad nauseam__ _adv_ To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
@@ -184,7 +185,7 @@ __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little th
 __added value__ _n_  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
 __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor heard an address of welcome by his host._  
-__address<sup>2</sup>__ _v_ :four::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
+__address<sup>2</sup>__ _v_ :five::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __adhere__ _v_  
@@ -967,7 +968,7 @@ __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile.
 __awry__ _adj, adv_ :six: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
-__ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
+__ayahuasca__ _n_ :two: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
 __Ayurveda__ _n_  
 __azure<sup>1</sup>__ _n_ :two::hammer:  
@@ -1473,6 +1474,7 @@ __bikeshed<sup>2</sup>__ _v_
 __bikeshedding__ _n_ :dart:  
 __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
 __bilge__ _n_  
+__bilious__ _adj_ /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
 __bilk<sup>1</sup>__ _v_ _Durham was guilty of bilking._  
 __bilk<sup>2</sup>__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bill-file__  
@@ -2434,6 +2436,7 @@ __canebrake__ _n_
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
 __cannibalization__ _n_  
 __cannibalize__ _v_  
+__cannikin__ _n_  
 __cannolis__  
 __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
@@ -3320,8 +3323,7 @@ __common__ _adj_ :mega: (kŏm′ən)
 __commonality__ _n_ :two::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __commonplace__ _adj, n_  
-__commonwealth__ _n_  
-__Commonwealth__ _n_  
+__commonwealth__ _n_ :three: __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
 __commotion__ _n_  
 __commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
 __communicant__ _n_ _Even the Eucharist might be withheld unless the communicant produced an offering which made a mockery of the ritual._  
@@ -3429,7 +3431,7 @@ __confidence__
 __config__ _n_ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
 __conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
-__confluence__ _n_  
+__confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conform__ _v_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
@@ -3441,6 +3443,7 @@ __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
+__congested__ _adj_ __3__ (of the nose) Blocked with mucus.  
 __congestion__ _n_ _The congestion during peak hours._  
 __conglomerate__  
 __conglomerates__  
@@ -3549,7 +3552,7 @@ __convenience__ _n_ _Visitor conveniences are easily accessible._
 __conventioneer__ _n_  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
-__convey__ _v_ :two::hammer: (conveyed)  
+__convey__ _v_ :three::hammer: (conveyed) _The traffic conveyed over connections._  
 __conveyance__ _n_  
 __conveyancing__ _n_ :two: The branch of legal practice dealing with the conveyance of property or real estate.  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
@@ -4324,6 +4327,7 @@ __deontology__ _n_
 __depart__ _v_ _Buses depart every 30 minutes._  
 __departed__  
 __dependable__ _adj_ :three::hammer: _Applicants are required to have a dependable vehicle._  
+__depict__ _v_  
 __deplete__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
 __depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted. _It also helps restore depleted neurotransmitter levels._  
 __deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnable, criminal, reprehensible, vicious _He had committed a deplorable act of violence, and the judge gave him the maximum sentence for his crime._  
@@ -5323,6 +5327,7 @@ __enactment__
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
 __encampment__ _n_ :two::hammer:  
+__encapsulate__ _v_ /in-KAP-suh-layt/ To show or express the main idea or quality of (something) in a brief way. _Her first album encapsulates the sound of the 90s._  
 __encashment__ _n_  
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
 __enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
@@ -5390,7 +5395,7 @@ __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as 
 __ensue__ _v_ :seven::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
-__entail<sup>1</sup>__ _v_ :nine::hammer: (entails) /ɪnˈteɪl/  
+__entail<sup>1</sup>__ _v_ :nine::m: /ɪnˈteɪl/ __1__ To have, impose, or require as a necessary accompaniment or consequence: _The investment entailed a high risk._  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
