@@ -1,18 +1,3 @@
-__commence__ _v_  
-__commodity hardware__  
-__commodity__ _n_ (?)  
-__compulsory__  
-__compute__ _n_  
-__concerted__ _adj_ _A concerted effort._  
-__conducive__  
-__conning__ _v_ _Conning the board was a strain._  
-__consistently__  
-__consummate__  
-__contention__ _n_  
-__contingent__ _adj_ _Contingent problems._  
-__contrived__  
-__cot__ _n_  
-__countermand__ _v_  
 __crank__ _n_  
 __crenellated__  
 __crevices__ _n_  

@@ -3301,6 +3301,7 @@ __command__ _v_ _Those who graduate with degrees in STEM fields are expected to 
 __commandeered__ _v_ :astonished::two::hammer:  
 __commander in chief__  
 __commemorate__ _v_ /kuh-MEM-uh-rayt/  
+__commence__ _v_  
 __commencement__ _n_ _The high school commencement ceremony._  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :five: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
@@ -3318,7 +3319,8 @@ __commix__ _v_ To bring or combine together or with something else. _Syn_ amalga
 __commode__  
 __commodious__ _adj_ :two::hammer: /kuh-MOH-dee-us/  
 __commoditization__  
-__commodity__ _n_ _Communication on a commodity cluster._  
+__commodity hardware__  
+__commodity__ _n_ :two::hammer: _Communication on a commodity cluster._  
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ :two::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
@@ -3363,10 +3365,11 @@ __comprise__ _v_ :two::hammer:
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ _adj_ :nine: __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compulsory__ _adj_ :nine::m: /kəmˈpʌlsərɪ/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compunction__ _n_ :two::hammer:  
 __compurgator__ _n_  
-__compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
+__compute<sup>1</sup>__ _n_  
+__compute<sup>2</sup>__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
 __computer__ _n_ :mega:  
 __comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
@@ -3381,7 +3384,7 @@ __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
 __concern__ _v_ :two::hammer: (concerned)  
-__concerted__ _adj_ :three::hammer: _A concerted effort._  
+__concerted__ _adj_ :four::hammer: _A concerted effort._  
 __concertina wire__  
 __concertina__  
 __concertmaster__  
@@ -3410,7 +3413,7 @@ __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of 
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
-__conducive__ _adj_ :five::hammer: _The vehicle doesn’t seem conducive to passing._  
+__conducive__ _adj_ :six::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
@@ -3456,7 +3459,7 @@ __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation
 __conjure__ _v_ :three::hammer: _Syn_ beg  
 __conk__ _v_ (conked) _Something conked me._  
 __conman__  
-__conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._  
+__conn__ _v_ :two: To direct the steering or course of (a vessel). _To conn the ship._ _Conning the board was a strain._  
 __Connecticut__ _n_ :pencil2:  
 __connective tissue__ _n_  
 __connivance__ _n_ :four: Agreement on a secret plot.  
@@ -3484,6 +3487,7 @@ __consign__ _v_ :two::hammer: (consigned) _Fashionable consigned clothes._
 __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
+__consistently__  
 __consoled__ _v_  
 __consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
 __consort__ _v_ (consorting)  
@@ -3502,6 +3506,7 @@ __consultee__ _n_
 __consulting__ _n_ :dart:  
 __consumable__  
 __consumer electronics__  
+__consummate__  
 __consumption__ _n_ __3a__ Tuberculosis. __b__ A progressive wasting away of the body especially from pulmonary tuberculosis.  
 __contactless__  
 __contagion__  
@@ -3511,7 +3516,7 @@ __contemptuous__
 __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
 __contended__ _adj_ Happy and satisfied with your life. _He was happy and contended._  
 __content__ _adj_ :four::hammer:  
-__contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
+__contention__ _n_ :nine::m: /kənˈtɛn ʃən/ Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :nine: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
 __contentment__ _n_  
 __contestation__ _n_ Controversy, debate.  
@@ -3522,7 +3527,7 @@ __continence__ _n_ :two::hammer:
 __continental breakfast__  
 __contingency plan__ _n_ :two::hammer:  
 __contingency__ _n_ :seven::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
-__contingent__ _adj_ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
+__contingent__ _adj_ :two::hammer: _Contingent problems._ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _adj_ :two::hammer: _For most systems, change is continual._  
 __continuance__ _n_  
 __contraband__ _n_  
@@ -3539,7 +3544,7 @@ __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Fil
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :seven: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :three::hammer: (contriving)  
-__contrived__ _adj_ :three: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
+__contrived__ _adj_ :four: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __conundrum__ _n_ :two::hammer: /kəˈnʌndrəm/  
@@ -3660,7 +3665,7 @@ __cosset__ _v_
 __cosseted__  
 __costliest__ _adj_ :two::hammer:  
 __costumier__ _n_  
-__cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
+__cot__ _n_ :three::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
 __cottage__ _n_ :three::astonished::hammer: _Cottage on premises._  
 __Cotton Belt__ _n_ (cotton belt) A belt of land in the southeastern US that specializes in the production of cotton.  
@@ -3690,7 +3695,7 @@ __countenance<sup>2</sup>__ _v_ :two::hammer:
 __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
-__countermand__ _v_ :three: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
+__countermand__ _v_ :four: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
 __counteroffensive__ _n_  
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
