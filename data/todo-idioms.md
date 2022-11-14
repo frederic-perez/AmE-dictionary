@@ -9,7 +9,9 @@ __fountain of youth__ Anything reputed or promising to restore one’s youth, vi
 __go berserk__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__on the contrary__  
 __out of sight, out of mind__  
+__pave the way__  
 __pay (for something) up front__  
 __prone to__  
 __sick as a dog__  
@@ -25,6 +27,7 @@ __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made
 __stow away__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
+__sum up__ _Summing up, we can say that yadda yadda yadda._  
 __Sunday scaries__  
 __sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
@@ -83,7 +86,7 @@ __the usual suspects__ _Side vegetables contain all the usual suspects._
 __the whole shebang__  
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
-__then again__ :four::hammer: _Then again, you might not remember it._  
+__then again__ :five::hammer: _Then again, you might not remember it._  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
@@ -169,6 +172,7 @@ __with all (one’s) might__ Utilizing all of one’s power and strength to do s
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within walking distance__  
+__without a doubt__  
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__ :two::hammer:  

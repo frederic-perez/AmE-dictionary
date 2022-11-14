@@ -1,7 +1,19 @@
+__added value__ _n_  
+__assess__ _v_ (assessed)  
+__crawl__ _v intr_ :two::hammer: _To crawl the Internet._  
+__crowdsourcing__ _n_  
+__deplete__ _v_  
+__elusive__ _adj_ _An elusive goal._  
+__embody__ _v_  
 __entrust__  
+__envisage__ _v_  
 __etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
+__exemplary__  
+__extensive__ _adj_ _Extensive discussions._  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
+__flourish__ _n_ _A flourish of proposals._  
+__foster__ _v_  
 __fulfill__ _v_ _Fulfill the requirements._  
 __gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
 __harness__ _v tr_  
@@ -10,9 +22,16 @@ __homophily__
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __infotainment__  
+__insightful__ _adj_ _An insightful overview._  
+__instill__ _v_ (instilled)  
+__insurmountable__ _adj_ _An insurmountable problem._  
+__intervene__ _v_  
+__jumble__ _n_ _This new world is a jumble for her._  
+__killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
 __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
 __larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
 __layout__ _n_ _The road layout._  
+__mess-up__ _n_ Something muddled; something that has gone wrong.  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
@@ -129,6 +148,7 @@ __needlepoint__ _n_ _A needlepoint enthusiast._
 __nefarious__ _adj_  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
 __neocortex__ _n_  
+__neologism__ _n_  
 __neophyte__ _n_  
 __Nepalese__ _adj_  
 __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
@@ -176,6 +196,7 @@ __not-for-profit__ _adj_
 __noteworthy__  
 __noticeboard__ _n_  
 __notoriously__ _adv_ :two::hammer:  
+__notwithstanding__  
 __novella__ _n_  
 __novices__ _n_  
 __nuance__ _n_ :two::mega: /NOO-ahnss/ A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._  
@@ -203,6 +224,7 @@ __oddball__ _adj, n_
 __odeum__ _n_  
 __oenophile__ _n_ A connoisseur of fine wines. _Syn_ wine lover _The oenophile was heartbroken when months of heavy rain ruined a particularly promising grape harvest._  
 __off-color__ _adj_ _An off-color remark._  
+__off-the-shelf__  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
@@ -259,6 +281,7 @@ __outrage__ _n_ /ˈaʊt reɪdʒ/
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outshine__ _v_  
+__outsourcing__  
 __outwear__ _n_  
 __overall__ _adj, adv_  
 __overarching__ _adj_ :two::hammer:  
@@ -297,6 +320,7 @@ __paper lantern__ _n_ :camera:
 __paradoxical__ _adj_ :two::hammer:  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
+__paramount__ _adj_ _It is of paramount importance._  
 __paraphernalia__  
 __paratransit__ _adj_ _Paratransit services._  
 __parcel__ _n_  
@@ -329,7 +353,7 @@ __paysleys__ _n_
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
-__peculiar__ _adj_ :two: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
+__peculiar__ _adj_ :three: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
 __pedal boat__ _n_  
 __pedestal__ _n_  
 __pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
@@ -460,6 +484,7 @@ __premier__ _adj_ :three::hammer: _Chicago is one of the premier dining destinat
 __preposterous__  
 __preprandial__ _adj_ _Preprandial drinkers._  
 __prepsters__  
+__prerequisite__  
 __presbyterian__ _adj_  
 __presbytery__ _n_  
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
@@ -719,6 +744,7 @@ __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of E
 __samurai__ _n_ :mega:  
 __San Diegans__ _n_  
 __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
+__sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
 __sap__ _v_  
@@ -940,6 +966,7 @@ __sorrowful__
 __sought-after__  
 __soul food__ _n_  
 __soul-searching__ _n_ Examination of one’s conscience especially with regard to motives and values.  
+__soundness__ _n_  
 __southerly__ _adj_  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -1049,6 +1076,7 @@ __stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle
 __storefront__ _n_ :two::hammer:  
 __storm<sup>1</sup>__ _n_ _A storm of dishes._  
 __storm<sup>2</sup>__ _v_ _The U.S. women also stormed the 1996 Olympics._  
+__storyboard__ _n_ :pencil2:  
 __storybook__ _n_ :two::hammer: _Storybook characters._  
 __stow away__  
 __stow__ _v tr_  
@@ -1065,6 +1093,7 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ _The challenges strike me as fundamental._  
+__stringent__ _adj_  
 __stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strive__ _v_ :two::hammer: (striving)  
@@ -1364,6 +1393,7 @@ __unkempt__ _adj_
 __unmissable__  
 __unparalleled__ _adj_ :two::hammer:  
 __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
+__unprecedented__  
 __unpretentious__  
 __unsavory__ _adj_ /ʌnˈseɪ və ri/  
 __unscathed__ _adj_  
@@ -1380,6 +1410,7 @@ __upholder__ _n_
 __upkeep__ _n_ _Chalkboards did not require much upkeep._  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
+__uptake__ _n_ _Other applications have had limited uptake._  
 __uptime__ _n_  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __urbane__ _adj_ _Urbane customer._  
@@ -1396,6 +1427,7 @@ __valet__ _n_
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vampire bat__ _n_  
 __van__ _n_  
+__vantage point__  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_  
 __vast__ _adj_ :two::hammer: _The vast array of resources._  

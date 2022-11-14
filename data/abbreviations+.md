@@ -117,6 +117,7 @@ __MVA__ Motor vehicle accident, or multi-vehicle accident.
 __N/A__ Not available.  
 __NA__ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __Nat Geo__ National Geographic.  
+__NAT__ Network address translation.  
 __natl__ (nat’l) National.  
 __NATO__ _North Atlantic Treaty Organization_  
 __NB__  
@@ -134,6 +135,7 @@ __OEM__ :three::hammer: _OEMs._
 __OG__ __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __OICU812__ _gramo_ Oh, I See You Ate One, Too  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
+__OS__ Operating system.  
 __OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __OTL__ _n_ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OTT__ Over the top.  
@@ -161,6 +163,7 @@ __PVC__ Polyvinyl Chloride.
 __PX__ Physical Examination. _You run the PX for these characters?_  
 __Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __QCT__ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
+__QoE__ Quality of experience.  
 __R/O__ Rule out.  
 __RAF__ _Royal Air Force._  
 __RCT__ Randomized controlled trial.  
