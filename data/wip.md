@@ -1,18 +1,3 @@
-__crank__ _n_  
-__crenellated__  
-__crevices__ _n_  
-__croak__ _n_ _The voice was hoarse like the croak of a frog._  
-__crop__ _n_ _He had a riding crop in one hand._  
-__crucial__  
-__culvert__ _n_  
-__curd__ _n_  
-__curried__ _v_  
-__dainty__  
-__dappled__ _v_  
-__davit__ _n_  
-__debonnaire__  
-__deeply__  
-__deferrable__  
 __desiccate__ _v_  
 __detour__ _n_  
 __detrimental__  
