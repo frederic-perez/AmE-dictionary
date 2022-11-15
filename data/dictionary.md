@@ -4378,7 +4378,7 @@ __desensitize__ _v_
 __Deseret__ _n_ An area proposed by the Mormons in 1849 as an independent state or a state of the Union. Deseret would have included much of the southwest United States, with a capital at Salt Lake City. Congress refused to recognize the provisional state and created the Utah Territory in 1850. _Desered alphabet._  
 __desert__ _v_ _Bob’s father deserted him and his mother when Bob was a baby._  
 __deserted__ _adj_ _Most of the desks were deserted._  
-__desiccate__ _v_ :two: __1__ To dry up or become dried up. __2__ To preserve (a food) by drying. _Syn_ dehydrate __3__ To drain of emotional or intellectual vitality.  
+__desiccate__ _v_ :three::pencil2: __1__ To dry up or become dried up. __2__ To preserve (a food) by drying. _Syn_ dehydrate __3__ To drain of emotional or intellectual vitality.  
 __desideratum__ _n_ Something desired as a necessity.  
 __design__ _n, v_ :mute:[desi~~g~~n]  
 __designated driver__ _n_ The member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home.  
@@ -4408,10 +4408,11 @@ __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ _n_ :two::hammer:  
 __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
-__detour__  
+__detour<sup>1</sup>__ _n_  
+__detour<sup>2</sup>__ _v_  
 __detractor__ _n_ :two::astonished: One who disparages or belittles the worth of something. _Syn_ depreciator, disparager, knocker _His stellar performance silenced many of his detractors._  
 __detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
-__detrimental__  
+__detrimental__ _adj_ :three::hammer:  
 __detritus__ _n_ :two: The remains of something that has been destroyed or broken up. _Syn_ debris, rubble _The streets of the new town were built over the detritus of past habitations._  
 __devastate__ _v_  
 __devastated__ _adj_ Very shocked and upset by something.  
@@ -4473,8 +4474,8 @@ __digress__ _v_ :two: To stray temporarily from the topic at hand, as in deliver
 __digression__ _n_ :two::hammer:  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dike__ _n_ :pencil2: (dyke)  
-__dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
-__dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
+__dilapidate__ _v_ :four::hammer:  
+__dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse. _Dilapidated yatch._  
 __dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
 __dilemma__  
 __dilettante__ _n_ A dabbler in an art or a field of knowledge. _Syn_ sciolist _He claimed to be serious about his paintings, but he was at heart a mere dilettante._  
@@ -4622,7 +4623,7 @@ __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weat
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_ :two::dart: Filled with depression or discouragement filled with apprehension or alarm.  
 __dismiss__ _v_ __2__ To direct or allow to leave: _dismissed troops after the inspection; dismissed the student after reprimanding him._ _be dismissed_ :es: retirarse (por ejemplo de la mesa)  
-__dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
+__dismissive__ _adj_ :four::hammer: _Healthy young adults often are dismissive of health issues._  
 __dismount__ _n_ (Gymnastics) A move by which a gymnast gets off an apparatus or finishes a floor exercise, usually landing upright on the feet.  
 __Disneyfy__ _v_  
 __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
@@ -4634,9 +4635,10 @@ __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
 __dispel__ _v tr_ :nine::m: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
-__dispensed__ _v_  
+__dispense__ _v_ :two::hammer: _He dispensed invaluable advice._  
 __dispenser__  
 __disperse__ _v_ To drive off or scatter in different directions. _Syn_ dissipate, spread, dispel _When it seemed that a riot was about to start, the police arrived to disperse the crowd._  
+__dispersive__ _adj_  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dispiriting__ _adj_ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
@@ -4653,7 +4655,7 @@ __dissection__ _n_ _Dissections in coronary vessels._
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_ :two::pencil2::hammer:  
-__dissension__ _n_ :three::hammer:  
+__dissension__ _n_ :four::dart::hammer:  
 __dissent__ _n_ :four::hammer:  
 __dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or dissenters._  
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
@@ -4663,7 +4665,7 @@ __dissimilar__ _adj_
 __dissimilarly__  
 __dissimulate__ _v_ :two::pencil2::hammer:  
 __dissing__ _v_  
-__dissipate__ _v_  
+__dissipate__ _v_ :two::hammer:  
 __dissipation__ _n_ :two::hammer:  
 __dissociate__ _v_ :pencil2:  
 __dissolute__ _adj_ :three::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
@@ -4802,7 +4804,7 @@ __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and 
 __Doritos__ _n_ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
-__dormant__ _adj_ :three::hammer: /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative.  
+__dormant__ _adj_ :four::hammer: /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative.  
 __dormer__ _n_ :camera:  
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
@@ -4843,7 +4845,7 @@ __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbi
 __dove tail__ _v_  
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
-__dovetail__ _v_ :five::hammer:  
+__dovetail__ _v_ :six::hammer:  
 __dowager__  
 __dowdy__ _adj_ :two::hammer:  
 __down pat__ _adj_ Understood perfectly. _Sun_ mastered _Cy already had the presentation down pat._  
@@ -4860,7 +4862,7 @@ __downburst__ _n_
 __downcast__ _adj_ Filled with melancholy and despondency. _Syn_ low-spirited, gloomy, dispirited, blue, depressed, grim _He walked through the door with a glum, downcast expression, and I knew without asking that the interview had not gone well._  
 __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
-__downer__ _n_ :three: (downers)  
+__downer__ _n_ :four::hammer: (downers)  
 __downhearted__ _adj_  
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
@@ -4868,7 +4870,7 @@ __downline__ _n_
 __downplay__ _v tr_ :seven::hammer: (downplayed)  
 __downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
 __downright__ _adv_ :dart::seven::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
-__downside__ _n_ :two::hammer: (downsides)  
+__downside__ _n_ :three::hammer: (downsides)  
 __downsize__ _v_  
 __downslope__ _n_  
 __downspout__ _n_  

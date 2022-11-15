@@ -1,18 +1,3 @@
-__desiccate__ _v_  
-__detour__ _n_  
-__detrimental__  
-__detrimental__  
-__dilapidate__ _v_  
-__dinghy__  
-__dismissive__ _adj_  
-__dispense__ _v_ _He dispensed invaluable advice._  
-__dispersive__ _adj_  
-__dissension__ _n_ :dart:  
-__dissipate__ _v_  
-__dormant__  
-__dovetail__ _v_  
-__downer__ _n_  
-__downside__ _n_  
 __downtime__ _n_  
 __dregs__  
 __drive__ _n_ _They have a lot of energy, a lot of drive._  
