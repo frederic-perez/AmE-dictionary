@@ -1,38 +1,54 @@
+__accounting__ _n_  
 __added value__ _n_  
 __assess__ _v_ (assessed)  
 __at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
 __at large<sup>2</sup>__ _adv_ In a general manner.  
 __augur__ _v_ /AW-gur/  
+__best effort__ _n_ :two::hammer:  
+__by-product__ _n_ (byproduct)  
+__connotation__ _n_  
 __crawl__ _v intr_ :two::hammer: _To crawl the Internet._  
+__crossover__ _n_  
 __crowdsourcing__ _n_  
 __crucible__ _n_ /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _ Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
+__decouple__ _v_  
 __deplete__ _v_  
 __doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
 __elusive__ _adj_ _An elusive goal._  
 __embody__ _v_  
+__endeavor__ _v_  
+__entrant__ _n_  
 __entrust__  
 __envisage__ _v_  
 __etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __exemplary__  
 __extensive__ _adj_ _Extensive discussions._  
+__face__ _v_ _The problems faced by the network operators._  
 __fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
+__federate__ _v_ :two::hammer: (federating)  
+__flagship__ _n_ _It has become another flagship event._  
 __flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
 __flourish__ _n_ _A flourish of proposals._  
+__food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
 __foster__ _v_  
 __fulfill__ _v_ _Fulfill the requirements._  
 __gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
 __halcyon__ _adj_ Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._  
-__harness__ _v tr_  
+__handover__ _n_ :two::hammer:  
+__handset__ _n_  
+__harness__ _v tr_ :two::hammer: (harnessing)  
 __hence__  
 __homophily__  
 __horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
+__incumbent__  
 __infotainment__  
 __insightful__ _adj_ _An insightful overview._  
 __instill__ _v_ (instilled)  
+__instrumental__ _adj_ _He has been instrumental in a number of European research projects._  
 __insurmountable__ _adj_ _An insurmountable problem._  
 __intervene__ _v_  
 __intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
@@ -47,6 +63,7 @@ __magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means �
 __malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
 __malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
 __mess-up__ _n_ Something muddled; something that has gone wrong.  
+__metallurgy__ _n_  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
@@ -180,6 +197,7 @@ __nibble on__
 __nibble__ _v_  
 __nibble<sup>1</sup>__ _n_ _Tasty oriental nibbles._  
 __nibble<sup>2</sup>__ _v_ :two::hammer: (nibbling) _You were nibbling on housemade pastries._  
+__niche__ _adj_ Of or pertaining to a market niche: _niche advertising._ _A niche market._  
 __nick__ _v_ _Marbles that we knicked from Greece._  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
@@ -291,6 +309,8 @@ __outgrowth__ _n_
 __outing__ _n_  
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :two::hammer:  
+__outline__ _v tr_  
+__outperform__ _v_  
 __outpost__ _n_  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
@@ -475,6 +495,7 @@ __ponderosa pine__
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __poodle__  
 __pool table__  
+__pool__ _v_  
 __pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._  
 __pool<sup>2</sup>__ _v_  
 __pore__ _v intr_  
@@ -668,10 +689,12 @@ __repercussion__ _n_
 __repertoire__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
+__reservoir computing__ _n_  
 __resonate__ _v_  
 __respite__ _n_ :three::hammer:  
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
+__restroom__ _n_  
 __retcon__ _n_  
 __reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
 __retiree__ _n_  
@@ -701,7 +724,7 @@ __riverfront__
 __riverside__  
 __roadblock__ _n_ _Substantial roadblocks stand in the way._  
 __roadside__  
-__roam__ _v_ :two::hammer: _Cuts of beef served tableside by a parade of roaming carvers._  
+__roam__ _v_ :three::hammer: _Cuts of beef served tableside by a parade of roaming carvers._ _Users must be able to roam between networks._  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __Robert Burns__ _n_  
 __rocker__ _n_ _Porch rockers._  
@@ -798,6 +821,7 @@ __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Her
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schnitzel__ _n_ :es: escalope  
+__school__ _n_ _Flocks, herds, and schools._  
 __schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._  
 __schuss__ _v_  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
@@ -866,6 +890,7 @@ __shanghai__ _v_ :astonished:
 __Shangri-la__ _n_ :mega:  
 __shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
 __shard__ _n_ /SHAHRD/ Shard refers to “a small piece or part” of something, and is often used as a synonym of scrap. _A single shard of sunlight pierced the dense forest canopy, illuminating the entrance to the ancient ruin._  
+__sharp__ _adj_ _In sharp contrast to the whatnot._  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __sheared__ _adj_ _Sheared mink._  
 __shearing__ _n_ _Sheep shearing._  
@@ -993,6 +1018,7 @@ __spaz__
 __speakeasy__ _n_ :two::hammer:  
 __specie__ _n_ /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
 __speckled__ _adj_ _Speckled hen._  
+__speculative__  
 __speechify__ _v intr_ /ˈspiːtʃɪˌfaɪ/ To make a speech, especially in a tedious or pompous manner.  
 __speedway__ _n_  
 __spellbind__ _v_  
@@ -1026,11 +1052,13 @@ __squats__ _n_
 __squeaky__ _adj_ _Squeaky cheese curds._  
 __squeamish__ _adj_  
 __staddle__ _n_ /ˈstædəl/ __1__ A support or prop, esp a low flat-topped stone structure for supporting hay or corn stacks about two feet above ground level. _Staddle stones are mushroom-shaped stones on which granaries are rested. This helps keep the grain dry and stops rodents from climbing in._ __2__ A supporting frame for such a stack __3__ The lower part of a hay or corn stack.  
+__stadium__ _n_ _A football stadium._  
 __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
 __stage play__  
 __stage show__  
 __stagecoach__ _n_ :two::hammer:  
-__stakeholder__ _n_  
+__staggering__ _adj_ _Staggering costs._  
+__stakeholder__ _n_ :two::hammer:  
 __stale__ _adj_  
 __stalk__ _n_  
 __stance__ _n_ :two::hammer:  
@@ -1078,6 +1106,7 @@ __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.
 __stevedore__ _n_  
 __stew<sup>1</sup>__ _n_  
 __stew<sup>2</sup>__ _v_  
+__steward__ _n_  
 __stewardship__ _n_ :two::hammer:  
 __stilt__  
 __stinging__ _n_  
@@ -1110,7 +1139,7 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ _The challenges strike me as fundamental._  
-__stringent__ _adj_  
+__stringent__ _adj_ :two::hammer:  
 __stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strive__ _v_ :two::hammer: (striving)  
@@ -1223,6 +1252,7 @@ __teethe__ _v_
 __teetotaler__  
 __teetotaling__ _n_  
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
+__telco__  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temper__ _v_ (tempered)  
@@ -1237,6 +1267,7 @@ __terraform__ _v_
 __terrazzo__  
 __testament__ _n_  
 __testbed__ _n_  
+__textbook__ _n_ A book used in schools or colleges for the formal study of a subject.  
 __thalis__  
 __thaw__ _v_ _Let the meat thaw out and simmer._  
 __The Crown__ _n_  
@@ -1319,6 +1350,7 @@ __traboule__ _n_
 __trade-off__ _n_ :two::hammer: (trade-offs)  
 __trail__ _n_ :three::hammer:  
 __trailhead__ _n_ :two::hammer:  
+__trample__ _v_  
 __transmogrify__ _v_ /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __trashy__  
 __travertine__ _n_  
@@ -1501,6 +1533,7 @@ __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social 
 __wanderlust__ _n_ :two::hammer:  
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
+__warrant__ _v_  
 __watchword__ _n_ :two::hammer:  
 __water flumes__ _n_  
 __water__ _n_ :mega:  
@@ -1514,6 +1547,7 @@ __wedding band__ _n_
 __wee__ _n_  
 __well versed__ _adj_  
 __well-read__ _adj_  
+__wellbeing__ _n_  
 __wellrounded__  
 __wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
 __wet suit__ _n_  
