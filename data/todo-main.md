@@ -1,8 +1,13 @@
 __added value__ _n_  
 __assess__ _v_ (assessed)  
+__at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
+__at large<sup>2</sup>__ _adv_ In a general manner.  
+__augur__ _v_ /AW-gur/  
 __crawl__ _v intr_ :two::hammer: _To crawl the Internet._  
 __crowdsourcing__ _n_  
+__crucible__ _n_ /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _ Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
 __deplete__ _v_  
+__doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
 __elusive__ _adj_ _An elusive goal._  
 __embody__ _v_  
 __entrust__  
@@ -10,15 +15,19 @@ __envisage__ _v_
 __etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __exemplary__  
 __extensive__ _adj_ _Extensive discussions._  
+__fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
+__fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
 __flourish__ _n_ _A flourish of proposals._  
 __foster__ _v_  
 __fulfill__ _v_ _Fulfill the requirements._  
 __gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
+__halcyon__ _adj_ Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._  
 __harness__ _v tr_  
 __hence__  
 __homophily__  
+__horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __infotainment__  
@@ -26,11 +35,17 @@ __insightful__ _adj_ _An insightful overview._
 __instill__ _v_ (instilled)  
 __insurmountable__ _adj_ _An insurmountable problem._  
 __intervene__ _v_  
+__intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
 __jumble__ _n_ _This new world is a jumble for her._  
 __killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
+__lapidary__ _adj_ /LAP-uh-dair-ee/  
 __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
 __larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
 __layout__ _n_ _The road layout._  
+__maelstrom__ _n_ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
+__magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
+__malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
+__malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
 __mess-up__ _n_ Something muddled; something that has gone wrong.  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
@@ -491,6 +506,7 @@ __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what 
 __prescient__ _adj_ :es: clarividente, profético  
 __presidential suite__ _n_  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
+__presumptive__ _adj_ /pre-ZUHMP-tiv/ __1__ Assumed; expected; inferred. __2__ Giving a reasonable basis for belief.  
 __prick__ _v_  
 __prickle__ _n_ __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
 __prickling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ tingling, tingle  
@@ -811,6 +827,7 @@ __seafaring<sup>1</sup>__ _n_
 __seafaring<sup>2</sup>__ _adj_ _A seafaring connection._  
 __seafood__ _n_  
 __sealioning__ _n_ A critical term for a form of trolling that involves relentlessly pestering someone with questions and requests (such as for evidence or sources), typically with the goal of upsetting them and making their position or viewpoint seem weak or unreasonable. _Scientists with prominent social media presences know that sealioning is a very common way for trolls to try to fluster them and waste their time._  
+__seamster__ _n_ A tailor. _Syn_ sartor, tailor _We found a talented seamster who fixed the ill-fitting pants in an hour._  
 __searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; highly critical. _Shakespeare’s searing tragedy._  
 __seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
 __seat sticks__  
@@ -1115,6 +1132,7 @@ __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile th
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __suburbia__ _n_  
 __succint__  
+__succotash__ _n_ /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
 __succulent__ _n_ A succulent plant, such as a sedum or cactus.  
 __suckle__ _v_  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
@@ -1474,6 +1492,7 @@ __wager__ _v_ :two::hammer:
 __waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
 __wainscoting__ _n_  
 __wakeboarding__  
+__wakeless__ _adj_ (Of sleep) Deep or unbroken. _Syn_ profound, sound, heavy _He fell into a deep, wakeless sleep._  
 __walk-in__ _n_ _Appointments or walk-ins are welcome!_  
 __walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.  
 __wall clock time__ _n_  
