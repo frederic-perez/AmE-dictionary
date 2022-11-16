@@ -7814,7 +7814,7 @@ __hiker__ _n_ :two::hammer:
 __hilarious__ _adj_ Very funny.  
 __hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
 __hillbilly__ _n_ :two::hammer:  
-__hillocks__  
+__hillock__ _n_ :two: A small natural hill. _Syn_ knoll, mound, hammock  
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
 __hinder__ _v_ :three::hammer:  
@@ -7988,12 +7988,13 @@ __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of h
 __Hopi__ _n_ :two::hammer:  
 __hopped cars__  
 __hopscotch__ _n_ :two: A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
+__horce race__ _n_ __2__ A closely fought contest or competition: _ a horse race among four candidates._  
 __horn button__ _n_ :camera: A button that you press to activate the horn of an automobile.  
 __Horn of Africa__ _n_ :camera: Somalia.  
 __horn__ _n_  
 __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
-__horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
+__horripilation__ _n_ :two::astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word “horse” is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
@@ -8102,7 +8103,7 @@ __humiliating__ _adj_ Causing awareness of your shortcomings.
 __hummed__ _v_  
 __hummer__ _n_ __4__ _slang_ Fellatio in which the person performing the act vibrates their mouth by humming. _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
 __hummingbird__ _n_ :es: colibrí  
-__hummock__ _n_ :two: A small natural hill. _Syn_ hillock, knoll, mound  
+__hummock__ _n_ :three: /HUM-uk/ A small round hill or mound. A small natural hill. _Syn_ hillock, knoll, mound _He stood in awe, admiring the thick forest, and beyond that, the grassy hummocks he had traversed to reach the top of the mountain._  
 __hummus__ _n_ :two::mega::hammer: /ˈhʊməs/  
 __humor<sup>1</sup>__ _n_  
 __humor<sup>2</sup>__ _v_ :five::pencil2::hammer: _Just humor me._  
@@ -8268,7 +8269,7 @@ __impeccably__ _adv_ :two::hammer:
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
 __impediment__  
-__impedimenta__ _n_  
+__impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede or encumber.  
 __impel__ _v_ :two: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
@@ -9132,8 +9133,10 @@ __land__ _v_ _Thanksgiving this year lands on November 25._
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
 __landform__ _n_ One of the features that make up the earth’s surface, such as a plain, mountain, or valley.  
+__landlady__ _n_  
 __landline__ _n_ (phone)  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
+__landlord__ _n_  
 __landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _n_ _Landscape gardening._  
@@ -9687,6 +9690,7 @@ __luxe<sup>2</sup>__ _adj_ _People were accustomed to creating luxe interiors._
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
+__lycanthropy__ _n_ /lye-KAN-thruh-pee/ Lycanthropy refers to the power or ability to take the shape and characteristics of a wolf through witchcraft or magic. It can also mean “a delusion that one has become a wolf.” _The 1941 film _The Wolf Man_ starred Lon Chaney, Jr., as a man cursed with lycanthropy._  
 __lye water__  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lymphoma__ _n_  
@@ -10784,7 +10788,7 @@ __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keepi
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __note__ _n_ _On a much more serious note..._  
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
-__notorious__  
+__notorious__ _adj_ :two: /noh-TOR-ee-us/ Notorious describes people and things that are famously known, especially for something unfavorable. _They live in a region that’s notorious for its severe winters._  
 __Notre Dame__ _n_ Our Lady (the Virgin Mary).  
 __notwithstanding__ _prep_ :five::hammer:  
 __nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
@@ -11721,6 +11725,7 @@ __phlebotomist__ _n_ A nurse or other health worker trained in drawing venous bl
 __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
 __phlegm__ _n_ :five::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
+__phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
 __photo-op__  
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
@@ -13153,6 +13158,7 @@ __retailer__ _n_ :three: A retailer is a person or business that sells goods to 
 __retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
+__retcon__ _n_ /RET-kon/ [:scroll: From the first three letters of words in the phrase _retroactive continuity_] The introduction of new information to give a different interpretation of an established storyline.  
 __retelling__  
 __retention__  
 __rethoric__ _n_ :two::mega::hammer:  
@@ -15986,6 +15992,7 @@ __That being said,__
 __that much__ _adv_ To a certain degree. _I’ll tell you that much._  
 __that will do__  
 __that’s the breaks__  
+__thaumaturge__ _n_ /THO-muh-tuhrj/ [:scroll: From Greek thaumat- (wonder, miracle) + -urgy (work)] __1__ A miracle worker. __2__ A magician. _Syn_ necromancer, sorcerer, thaumaturgist, wizard, magician  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they’re coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
 __thaw<sup>2</sup>__ _n_ :seven: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
@@ -16928,6 +16935,7 @@ __utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. _
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
 __utmost<sup>1</<sup>__ _adj_ :seven::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
 __utmost<sup>2</<sup>__ _n_  
+__utopia__ _n_ /yoo-TOH-pee-uh/  
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one’s wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
