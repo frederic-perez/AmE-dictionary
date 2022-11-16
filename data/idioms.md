@@ -41,7 +41,7 @@ __(still) going strong__ Continuing to be healthy, successful, or function prope
 __(T)sup?__ _interrog_ /ˈ(t)səp/ What’s up?; What is happening?; What have you been doing? _Hi! Tsup?_  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) man/woman of the hour__ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
-__(the) next thing (one) knows__ All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
+__(the) next thing (one) knows__ :two: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
@@ -147,6 +147,7 @@ __acid test__ :two: Something that shows the true worth or value of something or
 __across the board__  
 __act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __Adam’s ale__ _slang_ Water.  
+__add fuel to the fire__ To do or say something to make an argument, problem, or bad situation worse; to further incense an already angry person or group of people. _Anything the mayor says will just add fuel to the fire, so do not let him speak to reporters about this sensitive issue._  
 __add insult to injury__ :two: To hurt the feelings of a person who is already upset.  
 __add up to (something)__ :two: To equal or amount to something.  
 __admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit.  
@@ -445,6 +446,7 @@ __blue pill__
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
+__bonehead__  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
@@ -549,6 +551,7 @@ __call up__ _He called up a text from his brother, who asked how the run went._
 __call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
+__can of worms__  
 __can’t be bothered__ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
 __can’t even__ _slang_ Cannot handle (something). A phrase used (usually comically) when one cannot articulate their strong feelings (often of frustration) about something or someone. _I can’t even with this show! How many awesome characters are they going to kill off?_  
 __can’t get a break__  
@@ -602,6 +605,7 @@ __chances are__
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __charley horse__ :dart: A painful muscle spasm that most commonly occurs in the legs. The phrase is thought to have originated from baseball slang. _Spending all day on my feet caused a charley horse in my leg that was so painful, I had to sit down for a while and rest._  
 __chase the clouds away__  
+__chatterbox__ _informal_  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check out__ :five::hammer: _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
@@ -899,6 +903,7 @@ __false friend__ :dart::two: A phrase, word, or letter that sounds or looks simi
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fam__ An abbreviation for “family that can be used to refer to one’s blood relatives or close friends. Despite the plural connotation of “family,” it can also be applied to an individual. _I’d love to go out tonight, but I’m having dinner with the fam—my mom’s making her famous meatballs!_ _Of course I’ll help you, fam. You’re my best friend!_  
 __fan service__  
+__fan the flames__ To do or say something to make an argument, problem, or bad situation worse; to further incense an already angry person or group of people. _The debate was going poorly for the senatorial candidate, and his strikingly uncouth comments simply fanned the flames._  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  
 __far and away__ :astonished:  
@@ -1406,6 +1411,7 @@ __hold (one’s) water__ To be calm or patient; to stop making pressing demands,
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
 __hold a candle__  
 __hold a grudge__ To feel angry with someone who has done something to upset you in the past.  
+__hold a/the wolf by the ear(s)__ To be in a difficult and precarious situation from which it is as dangerous to extricate oneself as it is to remain in it. _I’m afraid we’re holding a wolf by the ears regarding our current healthcare system. It would be unthinkable to completely overhaul it, but it is dangerously untenable in its current condition._  
 __hold fast to something__ _A pair of friends holding fast to their dreams._  
 __hold on to your hat__ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
 __hold on__  
@@ -2365,7 +2371,7 @@ __rain or shine__ _Market open rain or shine._
 __raise the bar__  
 __ramp up__ :two::hammer:  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
-__rat race__ [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc.  
+__rat race__ :two: [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc. __1__ A fierce competition for success, wealth, or power. _The company’s environment felt like a rat race—employees were constantly sabotaging each other to climb the corporate ladder._ __2__ :astonished: A busy, tiring routine. _Cathy was tired of the rat race and knew she needed to get a less stressful job._  
 __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __raw deal__ _n_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __reach for the stars__ :two: Have high or ambitious aims.  
@@ -2560,6 +2566,7 @@ __sleep like a baby__ To experience a very deep and restful sleep; to sleep soun
 __sleep the sleep of the dead__  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
+__slimeball__ An offensive, detestable, or repellent person, especially one who does unscrupulous or immoral things. _My last boss was a total slimeball, making all sorts of shady deals to skim a bit of extra profit for herself._  
 __smack-dab__ Directly; exactly at a particular place. Usually used to emphasize a prepositional phrase of location, especially “in the middle.” _There I was, smack-dab in the middle of Taiwan with no money and no way to contact my family._ _The criminal turned the corner and ran smack-dab into a group of off-duty police officers._  
 __smart as a whip__ Very intelligent or clever, as in _Little Brian is smart as a whip; he’s only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
 __smash hit__  
