@@ -1,18 +1,3 @@
-__downtime__ _n_  
-__dregs__  
-__drive__ _n_ _They have a lot of energy, a lot of drive._  
-__dulcimer__ _n_  
-__effect__ _v_  
-__effeminacy__ _n_  
-__elaborate__ _v_ _The authors elaborate on migration scenarios._  
-__elastically__  
-__enact__ _v_ (enacting)  
-__end user__ _n_  
-__engaged__ _adj_ __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
-__engross__ _v_ _I was engrossed in my thoughts._  
-__ennui__  
-__evangelist__ _n_ _Technology evangelist._  
-__exaggerate__  
 __expectedly__ _adv_ _Commercially available tools (expectedly) lack support for flexible optical networks at the moment._  
 __expediency__ _n_  
 __expenditures__  

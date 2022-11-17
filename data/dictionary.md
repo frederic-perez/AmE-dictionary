@@ -4875,7 +4875,7 @@ __downsize__ _v_
 __downslope__ _n_  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
-__downtime__ _n_ :four::hammer:  
+__downtime__ _n_ :five::hammer:  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_ :three::hammer: (downturns)  
 __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
@@ -4933,7 +4933,7 @@ __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. _
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
-__dreg__ _n_ :seven::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
+__dreg__ _n_ :eight::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
 __dreidel__ _n_ __1__ A 4-sided toy marked with Hebrew letters and spun like a top in a game of chance. __2__ A children’s game of chance played especially at Hanukkah with a dreidel.  
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
@@ -4957,7 +4957,7 @@ __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed p
 __drink and use__  
 __drip-dry__ _adj, n, v_ :two::hammer: _Cotton drip-dry._  
 __dripping__ _n_ :two: __2__ (often _drippings_) The fat and juices exuded from roasting meat, often used in making gravy. _Pan drippings._  
-__drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._  
+__drive__ _n_ :four::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._ _They have a lot of energy, a lot of drive._  
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
 __drive-up__ _adj_ Designed to permit customers to remain in their motor vehicles while being accommodated: _a drive-up window at the bank._ _Drive-up motels._  
@@ -5047,7 +5047,7 @@ __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for ca
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
 __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
-__dulcimers__ _n_  
+__dulcimer__ _n_ :two::hammer:  
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
 __dullard__  
 __dully__ _adv_  
@@ -5188,7 +5188,8 @@ __educated guess__ _n_ :three::hammer:
 __eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :eight::hammer:  
 __eerily__ _adv_ :three::hammer:  
-__effect__ _v_ :two::hammer: (effecting) _A view to effecting opportunities._  
+__effect__ _v_ :three::hammer: (effecting) _A view to effecting opportunities._  
+__effeminacy__ _n_  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
 __effigy__ _n_ :five::hammer: (effigies)  
@@ -5230,9 +5231,10 @@ __ejecta__ _n_ Ejected matter, as that from an erupting volcano.
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
 __el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
-__elaborate__ _v_ :dart:  
+__elaborate__ _v_ :two::dart::hammer: _The authors elaborate on migration scenarios._  
 __élan__ _n_ :two::pencil2::hammer:  
 __elapse__ _v_ :dart: Pass by. _Syn_ glide by, go by, slide by, slip by, slip away, go along _A month has elapsed since our last meeting, so let us begin by reviewing the minutes from that session._  
+__elastically__  
 __elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :four::hammer: /ɪˈleɪtɪd/  
 __elation__ _n_ :four::hammer:  
@@ -5335,7 +5337,7 @@ __en masse__ _adv_ :three: In one group or body; all together: _The protesters m
 __en route<sup>1</sup>__ _adj_  
 __en route<sup>2</sup>__ _adv_ :two: On or along the way: _We are en route to the museum. The store is en route._  
 __en suite__ _adv_ :two: As part of a set; forming a unit: _a hotel room with bathroom en suite._  
-__enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
+__enact__ _v_ :nine::m: (enacted, enacting) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
@@ -5357,6 +5359,7 @@ __encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. 
 __end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
 __end product__  
 __end result__  
+__end user__ _n_  
 __endangered__ _adj_ :mega:  
 __endangerment__  
 __endarterectomy__ _n_ :mega:  
@@ -5378,8 +5381,9 @@ __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Alt
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ :three::hammer: _I’m engaged with my work._  
+__engaged__ _adj_ __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
 __engender__ _v_  
-__engross__ _v_ :two::hammer::dart: (engrossed)  
+__engross__ _v_ :three::hammer::dart: (engrossed) _I was engrossed in my thoughts._  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  
 __enhance__ _v_ Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
@@ -5390,7 +5394,7 @@ __enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; 
 __enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
-__ennui__ _n_ :two::hammer:  
+__ennui__ _n_ :three::hammer:  
 __enormous__ _adj_ :mega: /ɪˈnɔːməs/  
 __enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
@@ -5553,7 +5557,7 @@ __Euskara__ _n_ :astonished: The Basque language.
 __evacuee__  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
 __evanescent__ _adj_ :two: /ev-uh-NESS-unt/ Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
-__evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
+__evangelist__ _n_ :two: Someone who is very enthusiastic about something and likes to tell other people how good it is. _Technology evangelist._  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _n_ A planet, especially Venus or Mercury, that is prominent near the western horizon shortly after sunset. _The evening star was out and the moon rising._  
@@ -5577,6 +5581,7 @@ __ex__ _n_
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v tr_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exaction__ _n_  
+__exaggerate__  
 __exaggeration__ _n_ :pencil2:  
 __exalt__ _v_  
 __exasperate__ _v_ /ig-ZASS-puh-rayt/ _The flight delays began to exasperate people in the airport._  
