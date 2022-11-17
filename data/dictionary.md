@@ -125,7 +125,7 @@ __account for__ _phr v_ To explain.
 __account<sup>1</sup>__ _n_ :five::hammer: _By many accounts, Americans are tired of the Democratic and Republican Parties._ _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __account<sup>2</sup>__ _v tr_ _Measure cross-traffic and account for it._  
 __accountant__ _n_ :es: contable  
-__accounting__ _n_ _This is an accounting of my experience._  
+__accounting__ _n_ :two::hammer: _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
 __accoutrement__ _n_ :seven::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
 __accrete__ _v_ :seven: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
@@ -182,7 +182,7 @@ __Adam’s apple__ _n_ :two: The slight projection at the front of the throat fo
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
-__added value__ _n_  
+__added value__ _n_ :two::hammer:  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
 __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor heard an address of welcome by his host._  
 __address<sup>2</sup>__ _v_ :five::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
@@ -815,7 +815,7 @@ __assay__ _n_
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
-__assess__ _v tr_  
+__assess__ _v tr_ :two::hammer: (assessed)  
 __assessment__ _n_ :pencil2:  
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
@@ -850,6 +850,8 @@ __astute__ _adj_ :two::hammer: /uh-STOOT/
 __asunder__ _adv_ :five::hammer: _A world torn asunder by evil and hate._  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
+__at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
+__at large<sup>2</sup>__ _adv_ In a general manner.  
 __at the earliest__  
 __at the very least__  
 __ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
@@ -909,7 +911,7 @@ __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
-__augur__ _v_  
+__augur__ _v_ :two::hammer: /AW-gur/  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __Augustinian__ _adj_  
@@ -1405,6 +1407,7 @@ __bespeak__ _v_ (bespoke) :four::hammer:
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: /bih-SPOHK/ Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
+__best effort__ _n_ :two::hammer:  
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
 __best-of-breed__ _adj_  
@@ -2294,6 +2297,7 @@ __by and large__ _adv_ :five::hammer: :es: en líneas generales, en general
 __by storm__  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __by-and-by__ _n_ :astonished: An indefinite time in the future. _He’ll get around to it in the sweet by-and-by._  
+__by-product__ _n_ (byproduct)  
 __bye__ _n_ __2__ _Sports_ The position of one who draws no opponent for a round in a tournament and so advances to the next round. _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __bygone__  
 __bylaw__  
@@ -3465,7 +3469,7 @@ __connective tissue__ _n_
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
-__connotation__ _n_ Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
+__connotation__ _n_ :two: Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
 __conscience__ _n_ :pencil2:  
@@ -3789,7 +3793,7 @@ __craven<sup>2</sup>__ _n_
 __cravenly__ _adv_ _Battalions fled shamefully and cravenly._  
 __craw__ _n_  
 __crawl<sup>1</sup>__ _n_  
-__crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
+__crawl<sup>2</sup>__ _v intr_ :three::hammer: _To crawl the Internet._ _They pretty much crawled my ass._  
 __crayon__ _n_  
 __craze<sup>1</sup>__ _v_ :two::hammer: (crazed)  
 __craze<sup>2</sup>__ _n_ :two::hammer:  
@@ -3879,7 +3883,7 @@ __crossbar__ _n_
 __crossbeam__ _n_  
 __crossbow__ _n_  
 __crosshair__ _n_ (cross hair)  
-__crossover<sup>1</sup>__ _n_ :two::hammer:  
+__crossover<sup>1</sup>__ _n_ :three::hammer:  
 __crossover<sup>2</sup>__ _adj_ :two: __1__ (of music, fashion, art, etc) Combining two distinct styles. :es: fusión __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre._Superstar crossover violinist._ __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
 __crossroads__ _n_ :three::hammer: _At crossroads turn R onto B1233 towards Cottingham._ _I’m at a career crossroads._ _He is at a significant crossroads in his career._  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
@@ -3887,10 +3891,11 @@ __crouch<sup>1</sup>__ _v_ :two::hammer:
 __crouch<sup>2</sup>__ _n_  
 __crow__ _v_ :four::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._ _He proclaimed his intention like a cock crowing._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
+__crowdsourcing__ _n_  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucial__  
-__crucible__ _n_ :seven::hammer:  
+__crucible__ _n_ :eight: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _ Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
 __crucifix__ _n_ :two::hammer:  
 __crucifixion__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
@@ -4204,6 +4209,7 @@ __deconstruct__ _v_
 __décor__ _n_  
 __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
 __decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
+__decouple__ _v_  
 __decrease__ _n_ _An abrupt decrease._  
 __decreed__ _v_  
 __decrepit__ _adj_ :two::hammer:  
@@ -4339,7 +4345,7 @@ __depart__ _v_ _Buses depart every 30 minutes._
 __departed__  
 __dependable__ _adj_ :three::hammer: _Applicants are required to have a dependable vehicle._  
 __depict__ _v_  
-__deplete__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
+__deplete__ _v_ :five: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
 __depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted. _It also helps restore depleted neurotransmitter levels._  
 __deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnable, criminal, reprehensible, vicious _He had committed a deplorable act of violence, and the judge gave him the maximum sentence for his crime._  
 __depolarize__ _v_  

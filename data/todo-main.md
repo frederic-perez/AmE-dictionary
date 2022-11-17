@@ -1,18 +1,3 @@
-__accounting__ _n_  
-__added value__ _n_  
-__assess__ _v_ (assessed)  
-__at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
-__at large<sup>2</sup>__ _adv_ In a general manner.  
-__augur__ _v_ /AW-gur/  
-__best effort__ _n_ :two::hammer:  
-__by-product__ _n_ (byproduct)  
-__connotation__ _n_  
-__crawl__ _v intr_ :two::hammer: _To crawl the Internet._  
-__crossover__ _n_  
-__crowdsourcing__ _n_  
-__crucible__ _n_ /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _ Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
-__decouple__ _v_  
-__deplete__ _v_  
 __doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
 __elusive__ _adj_ _An elusive goal._  
 __embody__ _v_  
