@@ -6,20 +6,32 @@ __above and beyond__
 __according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
+__call it a day__ _If there are no further points, then let’s call it a day._  
+__close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
+__easy peasy__  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
+__from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
+__get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
 __go berserk__  
+__hulk out__  
 __in spite of__  
 __in the face of (something)__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__move on__ _So, moving on to the next item on the agenda._  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __on demand__ _Requested on demand._  
 __on the contrary__  
 __out of sight, out of mind__  
+__pass along__  
 __pave the way__  
 __pay (for something) up front__  
+__practice makes perfect__  
 __prone to__  
+__put (oneself) in (someone’s) shoes__  
 __riddled with__  
+__rip (someone or something) to shreds__  
 __second-class citizen__  
+__seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __sick as a dog__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
@@ -57,6 +69,7 @@ __take heart__
 __take it away!__  
 __take pride in someone or something__ :three::hammer:  
 __take the edge off__  
+__take up__ _We have taken up this challenge._  
 __talk trash__  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
@@ -122,6 +135,7 @@ __tongue-in-cheek__
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __tour de force__ :three::hammer:  
+__trace back__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  

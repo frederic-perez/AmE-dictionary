@@ -3896,7 +3896,7 @@ __crowdsourcing__ _n_
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucial__  
-__crucible__ _n_ :eight: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _ Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
+__crucible__ _n_ :eight: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
 __crucifix__ _n_ :two::hammer:  
 __crucifixion__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
@@ -8000,7 +8000,7 @@ __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of h
 __Hopi__ _n_ :two::hammer:  
 __hopped cars__  
 __hopscotch__ _n_ :two: A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
-__horce race__ _n_ __2__ A closely fought contest or competition: _ a horse race among four candidates._  
+__horce race__ _n_ __2__ A closely fought contest or competition: _a horse race among four candidates._  
 __horn button__ _n_ :camera: A button that you press to activate the horn of an automobile.  
 __Horn of Africa__ _n_ :camera: Somalia.  
 __horn__ _n_  
