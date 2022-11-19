@@ -2603,6 +2603,7 @@ __castle__ _n, v_ :mute:[cas~~t~~le]
 __castoff__ _n_  
 __casual__ _adj_ _He put on casual clothes._  
 __casualty__ _n_ :two::hammer:  
+__casuist__ _n_ /KAZH-oo-ist/ One who employs deceptive or excessively subtle reasoning, especially on moral issues.  
 __cat__ _n informal_  
 __cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
@@ -3012,7 +3013,7 @@ __clamant__ _adj_ :two: __1__ Clamorous; loud. __2__ Compelling or pressing; urg
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
 __clamming__ _adj_ _His clamming forehead._  
-__clammy__ _adj_ :four::hammer: _His skin was clammy._  
+__clammy__ _adj_ :five::hammer: _His skin was clammy._  
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -8107,6 +8108,9 @@ __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my co
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
+__humbug<sup>1</sup>__ _n_ __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
+__humbug<sup>2</sup>__ _v tr_ To deceive or trick.  
+__humbug<sup>3</sup>__ _v intr_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
 __humidor__ _n_ :two::hammer: _(cigars, pipes)_  
@@ -10822,7 +10826,7 @@ __nubby__ _adj_ _Nubby sole design._
 __nubile__ _adj_  
 __nucleotide__ _n_  
 __nudum pactum__ _n_ /ˈnjuːdʊm ˈpæktʊm/ (Law) An agreement made without consideration and void unless made under seal.  
-__nugatory__ _adj_  
+__nugatory__ _adj_ :two: /NOO-guh-tor-ee/ __1__ Of little or no importance; trifling: _The nation’s interests in such a remote region were nugatory._ __2__ Unavailing, futile, or invalid: _Efforts to remedy the situation proved to be nugatory._ _The law was unenforced and thus rendered nugatory._  
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
@@ -11575,7 +11579,7 @@ __peevishly__ _adv_ :two::hammer:
 __peewee__ _n_  
 __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
-__pell-mell__  
+__pell-mell__ _adv_ :two: /pel-MEL/ Pell-mell means “in a confused and hurried way” or “in mingled confusion or disorder.” _On Black Friday, some shoppers rush pell-mell into stores to find their favorite items at a discounted price._  
 __pellet__ _n_  
 __pelorus__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
@@ -13972,7 +13976,7 @@ __sequestration__ _n_ _Sequestration of the jury._
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
-__seracs__ _n_  
+__serac__ _n_ :two: (sérac) A pinnacle of ice among crevasses on a glacier, usually on a steep slope.  
 __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraphim, from Hebrew seraphim, from saraph (to burn).] Like an angel: serene, beautiful, pure, blissful, etc.  
 __sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
@@ -15713,6 +15717,7 @@ __swoopy__
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
 __sword__ _n_ :mute:[s~~w~~ord]  
+__sybarite__ _n_ A person devoted to pleasure and luxury; a voluptuary. _Syn_ voluptuary  
 __sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
 __syllabub__ _n_ _Syllabub of fresh fruit._  
@@ -15940,6 +15945,7 @@ __tempered__ _adj_
 __tempering__ _adj_ _A tempering experience_  
 __tempestuous__ _adj_ :three: /tem-PESS-chuh-wus/ Of, relating to, or resembling a tempest. _Syn_ turbulent, stormy _Because the player’s relationship with his manager had grown more tempestuous over the course of the season, the decision to trade him benefited everyone._  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
+__temporizer__ _n_ /TEM-puh-ry-zuhr/ :astonished: One who delays, waiting for a favorable time, or to avoid making a decision.  
 __Tempranillo__  
 __tenable__ _adj_  
 __tenacious__ _adj_  
