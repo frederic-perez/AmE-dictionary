@@ -1,35 +1,67 @@
+__-ary__ _suffix_  
+__-centric__ _suffix_ :three::hammer: _Host-centric._ _Service-centric._ _User-centric._  
+__adequacy__  
+__affordable__  
+__aforementioned__ _adj_  
+__agnostic__  
+__aloft__ _adv_ _The balloons are designed to stay aloft for 100+ days._  
+__backbone__ _n_ _The mobile data backbone network._  
+__blimp__ _n_ __1__ A nonrigid, buoyant airship. _Syn_ sausage balloon, sausage _Balloons, blimps, and aircraft._  
+__breach__ _n_ _Data breaches._  
+__carbon paper__ _n_  
+__catastrophe__ _n_  
+__churn__ _n_ :two::hammer: _They need to avoid subscriber churns._  
+__coin__ _v_ _A new term has been coined to designate it._  
+__convene__ _v_  
+__delve__ _v_  
+__deprive__ _v_  
+__disastrous__ _adj_  
 __doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
+__duress__ _n_  
+__egress__ _n_  
 __elusive__ _adj_ _An elusive goal._  
 __embody__ _v_  
+__encompass__ _v_  
 __endeavor__ _v_  
 __entrant__ _n_  
 __entrust__  
 __envisage__ _v_  
 __etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __exemplary__  
+__exert__ _v_  
 __extensive__ _adj_ _Extensive discussions._  
 __face__ _v_ _The problems faced by the network operators._  
 __fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
+__feature phone__ _n_  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __federate__ _v_ :two::hammer: (federating)  
 __flagship__ _n_ _It has become another flagship event._  
 __flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
 __flourish__ _n_ _A flourish of proposals._  
 __food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
+__foresee__ _v_ (foreseen)  
 __foster__ _v_  
+__fraudulent__ _adj_  
+__frugal__ _adj_ :two::hammer:  
 __fulfill__ _v_ _Fulfill the requirements._  
 __gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
+__granular__ _adj_  
+__grasp__ _v_  
 __halcyon__ _adj_ Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._  
 __handover__ _n_ :two::hammer:  
 __handset__ _n_  
 __harness__ _v tr_ :two::hammer: (harnessing)  
 __hence__  
+__hindsight__ _n_ _Hindsight is not the best method of testing a design._  
 __homophily__  
 __horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
+__house__ _v_  
+__impediment__  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __incumbent__  
+__incur__ _v_  
 __infotainment__  
 __insightful__ _adj_ _An insightful overview._  
 __instill__ _v_ (instilled)  
@@ -37,12 +69,16 @@ __instrumental__ _adj_ _He has been instrumental in a number of European researc
 __insurmountable__ _adj_ _An insurmountable problem._  
 __intervene__ _v_  
 __intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
+__jointly__  
 __jumble__ _n_ _This new world is a jumble for her._  
 __killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
 __lapidary__ _adj_ /LAP-uh-dair-ee/  
 __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
 __larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
+__laureate__ _adj, n_  
 __layout__ _n_ _The road layout._  
+__leverage__ _v tr_  
+__likely__ _adj_ :two::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._  
 __maelstrom__ _n_ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
 __malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
@@ -64,6 +100,7 @@ __midget race track__
 __midwatch__ _n_  
 __MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
 __mile high city__  
+__million__ _n_ (:astonished: _n pl_ million or millions)  
 __minestrone__ _n_  
 __miniate__ _v tr_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
 __minimalist__ _adj_  
@@ -73,6 +110,8 @@ __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.
 __mischievous__ _adj_  
 __misconstrue__ _v tr_  
 __misgivings__ _n_  
+__miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
+__mismatch__ _n_ :pencil2:  
 __misphrase__ _v tr_  
 __misstep__ _n_ :two::pencil2::hammer:  
 __mix-and-match__ _adj_ _Mix-and-match designs._  
@@ -271,6 +310,7 @@ __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving 
 __operating system__  
 __optic flow__ _n_  
 __opulent__ _adj_  
+__orchestrate__ _v_  
 __orchestration__ _n_  
 __orderliness__ _n_  
 __orderly__ _adj_ _Since this is an orderly shutdown, zero queries are lost._  
@@ -282,6 +322,7 @@ __orography__ _n_ /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __osculate__ _v_  
+__ossification__ _n_  
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostentatious__ _adj_ /ah-stun-TAY-shus/  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
@@ -304,7 +345,7 @@ __outshine__ _v_
 __outsourcing__  
 __outwear__ _n_  
 __overall__ _adj, adv_  
-__overarching__ _adj_ :two::hammer:  
+__overarching__ _adj_ :three::hammer:  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul<sup>1</sup>__ _v_ :dart:  
@@ -337,6 +378,7 @@ __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _Th
 __pansexual__  
 __pantomime__ _v_  
 __paper lantern__ _n_ :camera:  
+__paradigmatic__ _adj_ _A paradigmatic example._  
 __paradoxical__ _adj_ :two::hammer:  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
@@ -441,6 +483,7 @@ __piquancy__
 __pique__ _v_ :two::hammer: _The video piqued your interest._  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __pit__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._  
+__pivotal__  
 __pizzeria__ _n_ :mega:  
 __planter__ _n_ :four: __3__ An early settler or colonist.  
 __plantman__ _n_  
@@ -500,7 +543,9 @@ __poutine__
 __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
 __power-cycle__ _v_  
 __powermark__ _n_  
+__predate__ _v_ _This standard predates the emergence of smartphones._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
+__preeminent__ _adj_  
 __premier__ _adj_ :three::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
 __preposterous__  
 __preprandial__ _adj_ _Preprandial drinkers._  
@@ -551,8 +596,8 @@ __protracted__ _adj_ _A protracted discussion._
 __providence__ _n_ Prudent management; economy. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
 __provider__ _n_  
 __proviso__ _n_  
-__provost__ _n_  
-__prowess__  
+__provost__ _n_ :two::hammer:  
+__prowess__ _n_ :two::hammer:  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -625,6 +670,7 @@ __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved abo
 __raver__ _n_  
 __ravishing__  
 __raw bar__  
+__realistic__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
 __recall__ _v_  
@@ -657,11 +703,14 @@ __regatta__ _n_ :three::hammer:
 __regiment__ _n_ _Several regiments of soldiers._  
 __rehabilitation__ _n_  
 __reindeer__ _n pl_ :two::hammer:  
+__reinstate__ _v_  
 __rejoice__ _v_  
 __rejoicing__ _n_ :pencil2:  
 __rejuvenated__ _adj_  
 __relatable__ _adj_  
+__reliant__ _adj_  
 __reluctant__ _v_ _Reluctant to leave._  
+__remarkable__ _adj_  
 __remarkably__  
 __remembrance__ _n_ :two::hammer:  
 __reminiscent__  
@@ -680,6 +729,7 @@ __respite__ _n_ :three::hammer:
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
 __restroom__ _n_  
+__resumption__ _n_ _Power resumption._  
 __retcon__ _n_  
 __reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
 __retiree__ _n_  
@@ -732,6 +782,7 @@ __rosemaling__ _n_
 __rosette__ _n_  
 __rosewood__  
 __rosy__  
+__rot__ _v_ (rotted)  
 __Rottweiler__ _n_  
 __rotunda__ _n_ :six::hammer:  
 __round out__ _v_ _Alluring martinis round out the experience._  
@@ -754,6 +805,7 @@ __sable__ _n_ (animal)
 __saccade__ _n_  
 __sacrifice__ _n_ :mega:  
 __sacristy__ _n_  
+__safeguard__ _n_  
 __saga__ _n_ /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
 __saguaro__ _n_  
@@ -910,6 +962,7 @@ __shrunken head__ _n_
 __shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_  
 __shutterbug__ _n_ _Shutterbugs will be intrigued by the Canon camera._  
+__sic__  
 __sickbed__ _n_ A sick person’s bed.  
 __side-splitting__ _adj_ _Side-splitting laughs._  
 __sideburns__ _n_  
@@ -921,6 +974,7 @@ __signage__ _n_ :three::hammer: _Backlit signage._
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
 __signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._  
+__signcryption__ _n_ A public-key primitive that simultaneously performs the functions of both digital signature and encryption.  
 __signet ring__ _n_ A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
 __significant__ _adj_ _Time of day is significant._  
 __silviculture__ _n_  
@@ -1047,7 +1101,7 @@ __stakeholder__ _n_ :two::hammer:
 __stale__ _adj_  
 __stalk__ _n_  
 __stance__ _n_ :two::hammer:  
-__standardize__ _v_  
+__standardize__ _v_ :two::hammer:  
 __standee__  
 __standout__ _n_  
 __standpoint__ _n_ _From a technical standpoint._  
@@ -1118,16 +1172,17 @@ __straining__ _n_ An intense or violent exertion.
 __stranglehold__ _n_  
 __streamside__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
+__strengthen__ _v_  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ _The challenges strike me as fundamental._  
-__stringent__ _adj_ :two::hammer:  
+__stringent__ _adj_ :three::hammer:  
 __stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
-__strive__ _v_ :two::hammer: (striving)  
+__strive__ _v_ :three::hammer: (striving)  
 __strobe lights__  
 __strobing__ _n_ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
 __stroganoff__  
@@ -1144,6 +1199,7 @@ __subdermal__ _adj_
 __subdued__ _adj_ _The subdued dining room._  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
+__subtraction__ _n_ :pencil2:  
 __suburbia__ _n_  
 __succint__  
 __succotash__ _n_ /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
@@ -1151,6 +1207,7 @@ __succulent__ _n_ A succulent plant, such as a sedum or cactus.
 __suckle__ _v_  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
 __sugar beet__ _n_  
+__suited__ _adj_  
 __suitor__ _n_ :two: A man who is courting a woman. _Syn_ suer, wooer _The princess had many suitors, but the only man she was interested in was a poor farmhand._  
 __Sullivan__ _n_ :mega:  
 __sultry__ _adj_ :two::hammer:  
@@ -1229,6 +1286,7 @@ __taunt__ _v_
 __tautomer__ _n_  
 __tavern__ _n_  
 __taxi__ _n_ (_n pl_ taxis, or taxies)  
+__taxonomy__ _n_  
 __technical__ _adj_ _Technical garments._  
 __tedium__ _n_ _The bitter tedium of his daily life._  
 __teem__ _v_ :two::hammer: (teeming) _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
@@ -1238,6 +1296,7 @@ __teetotaler__
 __teetotaling__ _n_  
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __telco__  
+__telebiometric__ _adj_  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temper__ _v_ (tempered)  
@@ -1251,7 +1310,7 @@ __terra cotta__ _n_ :pencil2:
 __terraform__ _v_  
 __terrazzo__  
 __testament__ _n_  
-__testbed__ _n_  
+__testbed__ _n_ :two::hammer:  
 __textbook__ _n_ A book used in schools or colleges for the formal study of a subject.  
 __thalis__  
 __thaw__ _v_ _Let the meat thaw out and simmer._  
@@ -1260,6 +1319,7 @@ __theatregoer__ _n_
 __thicket__ _n_  
 __third rail__ _n_ /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
+__thorough__ _adj_ _Their thorough feedback._  
 __thoroughbred__  
 __thoroughfare__ _n_ :seven::hammer: _A vibrant shopping thoroughfare._  
 __thoughout__  
@@ -1275,12 +1335,13 @@ __throat__ _n_ _Throat clearing._
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __throng__  
-__throttle__ _v_ _Most work has focused on throttling throughput._  
+__throttle__ _v_ :two::hammer: _Most work has focused on throttling throughput._  
 __throughout__  
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
 __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
 __thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
+__thwart__ _v_ :two::hammer: (thwarted)  
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __tickling__ _n_ :dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
@@ -1326,13 +1387,14 @@ __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The 
 __toss<sup>1</sup>__ _v_ _Create your own salad to be freshly tossed._  
 __toss<sup>2</sup>__ _n_ _Great fruitcase toss._  
 __tot__ _n_  
+__total__ _v_ (totaling)  
 __tote bag__ _n_  
 __tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
 __touting__ _v_  
 __towpath__  
 __traboule__ _n_  
-__trade-off__ _n_ :two::hammer: (trade-offs)  
+__trade-off__ _n_ :three::hammer: (trade-offs)  
 __trail__ _n_ :three::hammer:  
 __trailhead__ _n_ :two::hammer:  
 __trample__ _v_  
@@ -1414,8 +1476,10 @@ __undercut__ _v_
 __underdog__  
 __underemployed__  
 __underfoot__ _adv_  
+__undergo__ _v_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
+__underscore__ _v_  
 __unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
@@ -1424,6 +1488,7 @@ __unfazed__ _adj_
 __unforgiving__ _adj_  
 __unharness__ _v_  
 __unheeded__  
+__unison__ _n_  
 __unkempt__ _adj_  
 __unmissable__  
 __unparalleled__ _adj_ :two::hammer:  
@@ -1481,6 +1546,7 @@ __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraise
 __vermeil__ _adj, n_  
 __verruciform__ _adj_ In the shape of a wart.  
 __verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections. _Syn_ wartlike, warty _The witch extended her verrucose arm and shook her gnarled finger in the little boy’s face._  
+__versatile__  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vexing__ _adj_ _A vexing problem._  
 __viands__ _n_  
