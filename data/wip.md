@@ -35,8 +35,8 @@ __gamboge__ _n_ __2__ Yellow or yellow-orange.
 __gargantuan__ _adj_ _A gargantuan breakfast._  
 __garish__  
 __garrulous__  
-__geyser__ _n_ (?)  
-__gherkin__ _n_ :es: (?)  
+__geyser__ _n_  
+__gherkin__ _n_ :es: pepinillo  
 __ghoul__  
 __ghoulish__ _adj_  
 __gingerly__  
@@ -51,7 +51,7 @@ __grating__ _n_
 __groom__ _v_ _To groom traffic._  
 __grope__ _v_  
 __guardrail__ _n_  
-__gullible__ _adj_ (?)  
+__gullible__ _adj_  
 __gully__ _n_  
 __gulp__ _n_ _He swallowed his drink in one quick gulp._  
 __handhold__ _n_  
@@ -59,16 +59,16 @@ __harness<sup>1</sup>__ _n_
 __harness<sup>2</sup>__ _v_ _Remove the barriers to harnessing HPC._  
 __hashis__ _n_  
 __hasp__ _n_  
-__haunting__ _adj_ (?)  
+__haunting__ _adj_  
 __haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
-__hawser__ _n_ (?)  
+__hawser__ _n_ A cable or rope used in mooring or towing a ship.  
 __hazard__ _v_  
 __helo__ _n informal_ A helicopter.  
 __heterogeneous__ _adj_  
 __hickory__ _n_ _Hickory smoked pork._  
 __hidalgo__ _n_  
 __hinky__ _adj_ _Why this hinky feeling?_  
-__hoarding__ _n_ (?)  
+__hoarding__ _n_  
 __hold__ _n_ _The hold has a different cargo now._  
 __holdall__ _n_  
 __holistic__ _adj_  
@@ -78,7 +78,7 @@ __honeycombed__ _v_
 __hors d’oeuvres__  
 __horsepower__ _n_  
 __hotspot__ _n_  
-__huddle__ _n_ (?) :two::hammer:  
+__huddle__ _n_ :two::hammer:  
 __humpback whale__  
 __iceblink__ _n_ _We had perfect iceblink conditions._  
 __idyllic__  
@@ -199,7 +199,7 @@ __proffered__ _v_ _I ignored the proffered hand._
 __progeny__  
 __proselytize__ _v_ /PRAH-suh-luh-tyze/  
 __provider__ _n_ _Mental health providers._  
-__psych__ _v_ _slang_ (?)  
+__psych__ _v_  
 __pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
 __quail__ _v_  
 __queasy__  
@@ -281,7 +281,7 @@ __spirit stove__ _n_ _We had a small spirit stove._
 __splicing__ _v_  
 __sporadic__ _adj_  
 __sprawl__ _v_  
-__spree__ _v_ (?)  
+__spree__ _v_ Engage without restraint in an activity and indulge, as when shopping.  
 __springboard__ _n_  
 __spud__ _n_ __1__ _informal_ A potato.  
 __stampede__  
