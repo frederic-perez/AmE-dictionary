@@ -253,6 +253,7 @@ class Checker(object):
         self.num_entries_with_straight_double_quote = 0
         self.num_entries_with_double_dash = 0
         self.num_entries_with_colon_underscore = 0
+        self.num_entries_with_rogue_underscore = 0
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
@@ -364,6 +365,14 @@ class Checker(object):
         print(headword + FAIL + ' « Colon followed by underscore #' \
             + str(self.num_entries_with_colon_underscore) + END_C)
 
+    def treat_rogue_underscore(self, entry):
+        """Self-explanatory"""
+        self.num_entries_with_rogue_underscore += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print(headword + FAIL + ' « Rogue underscore #' \
+            + str(self.num_entries_with_rogue_underscore) + END_C)
+
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
         self.num_tag_shit += 1
@@ -413,6 +422,8 @@ class Checker(object):
             self.treat_double_dash(entry)
         if entry.count(':_') > 0:
             self.treat_colon_underscore(entry)
+        if entry.find(' _ ') > -1:
+            self.treat_rogue_underscore(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
         if do_check_parts_of_speech:
@@ -464,6 +475,7 @@ class Checker(object):
             + self.num_entries_with_straight_double_quote \
             + self.num_entries_with_double_dash \
             + self.num_entries_with_colon_underscore \
+            + self.num_entries_with_rogue_underscore \
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
@@ -490,6 +502,7 @@ class Checker(object):
             print_colored_if_positive('Entries with straight double quote(s)', self.num_entries_with_straight_double_quote)
             print_colored_if_positive('Entries with double dash', self.num_entries_with_double_dash)
             print_colored_if_positive('Entries with colon followed by underscore', self.num_entries_with_colon_underscore)
+            print_colored_if_positive('Entries with rogue underscore', self.num_entries_with_rogue_underscore)
             print_colored_if_positive('Entries missing part of speech', self.num_missing_part_of_speech)
             print_colored_if_positive('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)
