@@ -259,6 +259,7 @@ class Checker(object):
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
         self.num_invalid_use_of_parentheses_or_brackets = 0
+        self.num_invalid_syn = 0
         self.num_missing_part_of_speech = 0
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
@@ -291,6 +292,14 @@ class Checker(object):
         headword = tokens[0]
         print(headword + FAIL + ' « Incorrect use of parentheses or brackets #' \
             + str(self.num_invalid_use_of_parentheses_or_brackets) + END_C)
+
+    def treat_invalid_syn(self, entry):
+        """Self-explanatory"""
+        self.num_invalid_syn += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print(headword + FAIL + ' « Incorrect use of syn #' \
+            + str(self.num_invalid_syn) + END_C)
 
     def treat_invalid_entry_tags(self, entry, tag):
         """Self-explanatory"""
@@ -412,6 +421,8 @@ class Checker(object):
             self.treat_invalid_underscores_use(entry)
         if not valid_use_of_parentheses_or_brackets(entry):
             self.treat_invalid_parentheses_or_brackets_use(entry)
+        if entry.count('_syn_') > 0:
+            self.treat_invalid_syn(entry)
         succeeded, invalid_tag = valid_entry_tags(entry)
         if not succeeded:
             self.treat_invalid_entry_tags(entry, invalid_tag)
@@ -477,6 +488,7 @@ class Checker(object):
             + self.num_invalid_tags \
             + self.num_invalid_use_of_underscores \
             + self.num_invalid_use_of_parentheses_or_brackets \
+            + self.num_invalid_syn \
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
@@ -504,6 +516,8 @@ class Checker(object):
                 self.num_invalid_use_of_underscores)
             print_colored_if_positive('Entries with invalid use of parentheses or brackets', \
                 self.num_invalid_use_of_parentheses_or_brackets)
+            print_colored_if_positive('Entries with invalid syn', \
+                self.num_invalid_syn)
             print_colored_if_positive('Entries with tag :shit:', self.num_tag_shit)
             print_colored_if_positive('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
