@@ -92,6 +92,7 @@ __ISV__ Independent software vendor.
 __IUD__  
 __K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
 __KOL__ Key opinion leader.  
+__KPI__ Key performance indicator.  
 __LASIK__ Laser-assisted in situ keratomileusis. _Lasik surgery._  
 __lbs.__ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
 __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  

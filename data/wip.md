@@ -1,5 +1,14 @@
+__automaton__ _n_  
+__backlog__ _v_ (backlogged)  
+__circuitry__ _n_  
+__congest__ _v_  
+__consecutive__ _adj_  
+__derive__ _v_  
+__divide__ _n_ _There appears to be a divide between communications and electronics engineers._  
+__energy harvesting__ _n_  
 __expectedly__ _adv_ _Commercially available tools (expectedly) lack support for flexible optical networks at the moment._  
 __expediency__ _n_  
+__expenditure__ _n_ _Energy expenditure._  
 __expenditures__  
 __extolling__ _v_  
 __extricate__ _v_  
@@ -23,6 +32,7 @@ __foreseeable__
 __forlorn__ _adj_ :two::hammer:  
 __fortnight__ _n_  
 __foster__ _v_  
+__frugal__ _adj_  
 __fruitful__  
 __furtively__ _adv_ _She was watching me furtively._  
 __fusillade__ _n_ _A fusillade of shots._  
@@ -32,6 +42,7 @@ __gaggle__ _n_ _A gaggle of tourists._
 __gale__ _n_  
 __galley__ _n_  
 __gamboge__ _n_ __2__ Yellow or yellow-orange.  
+__gamut__ _n_ /ˈɡæmət/  
 __gargantuan__ _adj_ _A gargantuan breakfast._  
 __garish__  
 __garrulous__  
@@ -100,6 +111,8 @@ __inkling__
 __insidious__ _adj_  
 __insourcing__  
 __intrinsic__ _adj_  
+__irrespective__ _adj_  
+__jeopardy__ _n_  
 __jet blast deflector__  
 __jet blast__  
 __jib__ _n_ :two::hammer: _I hoisted the jibs._  
@@ -188,15 +201,16 @@ __pole__ _v_
 __polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
 __ponderous__  
 __pose__ _v_  
+__pothole__ _n_  
 __potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
-__preemption__ _n_  
-__preemption__ _n_  
+__preemption__ _n_ :two::hammer:  
 __prevaricate__ _v_  
 __primer__  
 __prioritize__ _v_  
 __proceeds__ _n_  
 __proffered__ _v_ _I ignored the proffered hand._  
 __progeny__  
+__prolong__ _v_  
 __proselytize__ _v_ /PRAH-suh-luh-tyze/  
 __provider__ _n_ _Mental health providers._  
 __psych__ _v_  
@@ -214,10 +228,12 @@ __raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._
 __readily__  
 __ready room__  
 __rebuff__ _v_  
+__recapitulate__ _v_  
 __recce__ _n_ :two::hammer:  
 __reconvene__ _v_  
 __recumbent__  
 __reductive__ _adj_  
+__regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
 __remonstrate__ _v_  
 __replica__ _n_  
 __ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy.  
@@ -244,6 +260,7 @@ __scurvy__
 __seacock__ _n_ :two::hammer:  
 __seamlessly__ _n_  
 __secret__ _v_  
+__seek__ _v_ (sought)  
 __seldom__ _adj, adv_  
 __self-serving__ _adj_  
 __semblance__ _n_ _The semblance of peace._  
@@ -261,7 +278,7 @@ __significant__ _adj_ :two::hammer: _This is a significant advantage._ _This pro
 __signify__ _v_  
 __silk__ _n_  
 __slat__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
-__sledge__ _n_ :three::hammer: _Sledges packed with gear._ _The towing sledge._  
+__sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
 __sleepers__ _n_ (railway)  
 __slither__ _v_ :two::hammer:  
 __sloshing__  
@@ -272,7 +289,9 @@ __snorkel__ _v intr_
 __snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
 __sodding__  
 __sodium amytal__  
+__solely__ _adv_  
 __soubriquet__ _n_  
+__spatiotemporal__ _adj_  
 __specialty__ _n_  
 __spectra__ _n pl_  
 __speed bag__ _n_  
@@ -293,8 +312,7 @@ __stern__ _n_ _The ship’s stern._
 __stooped__ _v_  
 __strengthen__ _v_  
 __strike warfare__  
-__stringent__ _adj_  
-__stringent__ _adj_ _Stringent challenges._  
+__stringent__ _adj_ :two::hammer: _Stringent challenges._  
 __strip__ _v_ _Data striped across different storage nodes._  
 __stud__ _n_  
 __stymie__ _v_  
@@ -312,11 +330,13 @@ __tanker__ _n_
 __tape dispenser__  
 __tapeworm__ _n_  
 __tarpaulin__ _n_ :two::hammer:  
+__tenure-track__ _adj_  
 __testbed__ _n_ :two::hammer:  
 __thereby__  
 __thermostats__  
 __thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
 __thresh__ _v_  
+__throughput__ _n_ :m: /ˈθruːˌpʊt/ Output or production, as of a computer program, over a period of time.  
 __thrum__ _v_  
 __timeliness__ _n_  
 __timeserver__ _n_ /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network.  
@@ -334,12 +354,14 @@ __twitch__ _v_ _A curtain twitched in the house next door._
 __unbidden__  
 __undercurrent__ _n_ :two::hammer:  
 __underlying__ _adj_ _The underlying software stack._  
+__undertake__ _v_  
 __unduly__ _adv_  
 __ungainly__  
 __unleash__ _v_  
 __urbanites__  
 __usher__ _v_ _NVIDIA ushered in a new era in the high performance computing industry._  
 __uvula__ _n_ :es: úvula, campanilla  
+__vacate__ _v_  
 __vagary__ _n_ _The vagaries of nature._  
 __validate__ _v_  
 __vamp__ _n_  
@@ -360,8 +382,7 @@ __winch__ _n_ :two::hammer:
 __winching__ _v_  
 __wind park__  
 __winter__ _v_  
-__withstand__ _v_  
-__withstand__ _v_  
+__withstand__ _v_ :two::hammer:  
 __wood shavings__  
 __workload__ _n_  
 __worsen__ _v_  
@@ -372,14 +393,17 @@ __all over the map__ (?)
 __at a snail’s pace__  
 __at any rate__  
 __bank on (something)__ (?)  
+__bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __behind the scenes__  
 __bite the dust__ _Bite the dust, asteroid!_  
 __break the ceil(ing)__ (?)  
 __bric-a-brac__ (?) _A bric-a-brac barrow._  
 __call the shots__  
+__cast/shed/throw light on something__ :two::hammer:  
 __cold feet__  
 __duke it out__  
 __fall short__  
+__false alarm__  
 __first and foremost__  
 __frog boiling water__ (?) (DAX for something with these words)  
 __game changer__  
@@ -409,6 +433,7 @@ __leaps and bounds__ _Communication and control technologies are advancing in le
 __learn the ropes__  
 __let alone__  
 __let down__  
+__lie ahead of (someone or something)__  
 __line of work__  
 __lost on me__ _It is not lost on me._  
 __main driver__ (?)  
@@ -421,10 +446,12 @@ __of no account__ (?)
 __off kilter__ (?)  
 __off the clock__ (?)  
 __on a different note__ (?)  
+__on leave__  
 __on short notice__  
 __on the contrary__ (?)  
 __on the spur of the moment__  
 __out of harm’s way__ (?)  
+__owing to__  
 __piece of shit__  
 __piping hot__  
 __power washing__  
