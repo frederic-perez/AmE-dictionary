@@ -1,18 +1,3 @@
-__-ary__ _suffix_  
-__-centric__ _suffix_ :three::hammer: _Host-centric._ _Service-centric._ _User-centric._  
-__adequacy__  
-__affordable__  
-__aforementioned__ _adj_  
-__agnostic__  
-__aloft__ _adv_ _The balloons are designed to stay aloft for 100+ days._  
-__backbone__ _n_ _The mobile data backbone network._  
-__blimp__ _n_ __1__ A nonrigid, buoyant airship. _Syn_ sausage balloon, sausage _Balloons, blimps, and aircraft._  
-__breach__ _n_ _Data breaches._  
-__carbon paper__ _n_  
-__catastrophe__ _n_  
-__churn__ _n_ :two::hammer: _They need to avoid subscriber churns._  
-__coin__ _v_ _A new term has been coined to designate it._  
-__convene__ _v_  
 __delve__ _v_  
 __deprive__ _v_  
 __disastrous__ _adj_  

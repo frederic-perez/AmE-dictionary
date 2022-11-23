@@ -1,3 +1,5 @@
+__-ary__ _suffix_  
+__-centric__ _suffix_ :three::hammer: _Host-centric._ _Service-centric._ _User-centric._  
 __-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
 __-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
 __-esis__ _suffix_ Combining form meaning condition, action, or process.  
@@ -188,6 +190,7 @@ __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor hea
 __address<sup>2</sup>__ _v_ :five::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
+__adequacy__  
 __adhere__ _v_  
 __adhesive__ _adj, n_ _Double-stick adhesive strips._  
 __adiabatic__ _adj_ :three::hammer:  
@@ -254,7 +257,7 @@ __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grand
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :six: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :two::hammer: _We can’t afford it._  
-__affordable__ _adj_ :two::pencil2::hammer:  
+__affordable__ _adj_ :three::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :three: A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
@@ -262,7 +265,7 @@ __afield__ _adv_ :two::hammer: _A little farther afield._
 __afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
-__aforementioned__ _adj_ :three: Mentioned previously.  
+__aforementioned__ _adj_ :four: Mentioned previously.  
 __afoul__ _adj_ :two::hammer:  
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __African American__ _n_ _As many as one third of the cowboys on the great cattle drives were African American._  
@@ -300,7 +303,7 @@ __aghast__ _adj_ :eight: Struck with terror, amazement, or horror; shocked and u
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitation__ _n_ __1__ A state of excitement, disturbance, or worry.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
-__agnostic__ _adj_  
+__agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonist__ _n_ __3__ One involved in a struggle or competition.  
@@ -418,7 +421,7 @@ __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _A
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __almsgiving__ _n_ /ˈɑːmzˌɡɪvɪŋ/ (alms-giving) The making of charitable donations, giving alms.  
 __almshouses__ _n_  
-__aloft__ _adv_ :six::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
+__aloft__ _adv_ :seven::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._ _The balloons are designed to stay aloft for 100+ days._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :four::hammer:  
@@ -1007,6 +1010,7 @@ __back-office__ _adj_ Of or relating to the inner workings of a business or inst
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ _n_ :three::hammer: _A Tory backbencher._  
+__backbone__ _n_ _The mobile data backbone network._  
 __backcountry__ _n_ :five::hammer: _Utah ski resorts offering backcountry adventures._ _Guided backcountry skiing._  
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
@@ -1599,7 +1603,7 @@ __blemished__ _v_
 __blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of tea._ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :three::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
-__blimp__ _n_ :three: __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._ _A World War II blimp hangar._  
+__blimp__ _n_ :three: __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. A nonrigid, buoyant airship. _Syn_ sausage balloon, sausage _Balloons, blimps, and aircraft._ _A World War II blimp hangar._  
 __blin__ _n_ (blinis)  
 __blind as a bat__  
 __blind date__  
@@ -1927,7 +1931,7 @@ __brazenly__ _adv_ :two::hammer:
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
 __brazier__  
-__breach<sup>1</sup>__ _n_ :two::hammer:  
+__breach<sup>1</sup>__ _n_ :three::hammer: _Data breaches._  
 __breach<sup>2</sup>__ _v_ :seven: (breached) __1__ To make a hole or gap in; break through. _Breaching old pipelines._ __2__ To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumb__ _n_  
@@ -2504,6 +2508,7 @@ __carat__
 __caravansary__ _n_  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carbine__ _n_  
+__carbon paper__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __carburettor__ _n_ (carburetter, carburetor)  
@@ -2619,7 +2624,7 @@ __catapult<sup>1</sup>__ _n_ __3__ A slingshot. :es: tirachinas
 __catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :two::hammer: :es: cataratas  
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
-__catastrophe__ _n_  
+__catastrophe__ _n_ :two::hammer:  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __catcall<sup>1</sup>__ _n_ :seven::hammer: (catcalls) _A pack of men on motorbikes left a wake of catcalls._  
 __catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
@@ -2952,8 +2957,7 @@ __churl__ _n_ :two: A rude, boorish person. _Syn_ boor, barbarian, peasant _He i
 __churlish__ _adj_  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
-__churn__ _v_  
-__churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
+__churn<sup>1</sup>__ _n_ :four: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider. _They need to avoid subscriber churns._  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
@@ -3222,7 +3226,7 @@ __coiffure<sup>1</sup>__ _n_ A hairstyle.
 __coiffure<sup>2</sup>__ _v tr_ To arrange or dress (hair).  
 __coil__ _v_ :two::hammer:  
 __coin purse__  
-__coin__ _v_ :four::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._ _The first casino was coining millions._  
+__coin__ _v_ :five::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._ _A new term has been coined to designate it._ _The first casino was coining millions._  
 __coin-op__ _adj_ Coin-operated. _Coin-op guest laundry._  
 __coincided__ _v_  
 __coincidental__  
