@@ -1,6 +1,10 @@
+__bounty__ _n_  
+__cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
+__cornucopia__ _n_ /kor-nuh-KOH-pee-uh/  
 __delve__ _v_  
 __deprive__ _v_  
 __disastrous__ _adj_  
+__djinni__ _n_ In Muslim legend, a spirit often capable of assuming human or animal form and exercising supernatural influence over people. _Syn_ genie, jinnee, jinni _The djinni offered to grant Aladdin three wishes._  
 __doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
 __duress__ _n_  
 __egress__ _n_  
@@ -15,6 +19,7 @@ __etymology__ _n_ Etymology is, literally speaking, a true story, from Greek ety
 __exemplary__  
 __exert__ _v_  
 __extensive__ _adj_ _Extensive discussions._  
+__extirpate__ _v_ /EK-ster-payt/ _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
 __face__ _v_ _The problems faced by the network operators._  
 __fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
@@ -31,6 +36,7 @@ __fraudulent__ _adj_
 __frugal__ _adj_ :two::hammer:  
 __fulfill__ _v_ _Fulfill the requirements._  
 __gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
+__giblets__ _n_ The edible heart, liver, neck, and gizzard of a fowl.  
 __granular__ _adj_  
 __grasp__ _v_  
 __halcyon__ _adj_ Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._  
@@ -38,7 +44,10 @@ __handover__ _n_ :two::hammer:
 __handset__ _n_  
 __harness__ _v tr_ :two::hammer: (harnessing)  
 __hence__  
+__highball__ _n_ :astonished: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass.  
 __hindsight__ _n_ _Hindsight is not the best method of testing a design._  
+__hirsute__ _adj_ /ˈhɜr sut, hɜrˈsut/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
+__hodgepodge__ _n_ A mixture of dissimilar ingredients; a jumble. _Syn_ patchwork, jumble _Paul’s screenplay was a hodgepodge of comedy, drama, slapstick, and tragedy._  
 __homophily__  
 __horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
 __house__ _v_  
@@ -62,12 +71,14 @@ __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playin
 __larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
 __laureate__ _adj, n_  
 __layout__ _n_ _The road layout._  
+__leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
 __leverage__ _v tr_  
 __likely__ _adj_ :two::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._  
 __maelstrom__ _n_ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
 __malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
 __malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
+__malic__ _adj_ /ˈmælɪk, ˈmeilɪk/ __1__ Pertaining to or derived from apples.  
 __mess-up__ _n_ Something muddled; something that has gone wrong.  
 __metallurgy__ _n_  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
@@ -338,6 +349,7 @@ __overhaul<sup>2</sup>__ _n_
 __overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
 __overly__  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
+__overthink__ _v_ To spend more time thinking about (something) than is necessary or productive.  
 __Overton window__ _n_ /OH-vuhr-tuhn WIN-doh/ [:scroll: After Joseph Overton (1960-2003) who proposed the idea] The range of beliefs, attitudes, etc., considered acceptable at any given time.  
 __overwhelm__ _v_ /oh-ver-WELM/  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
@@ -866,6 +878,8 @@ __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witte
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrutiny__ _n_  
 __scumbag__  
+__scunner<sup>1</sup>__ _v intr_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
+__scunner<sup>2</sup>__ _n_ __1__ Dislike or disgust. __2__ A rascal; nuisance.  
 __sea bass__ _n_ _Chilean sea bass._  
 __seabed__ _n_  
 __seafarer__ _n_ A sailor or mariner. _Syn_ old salt, Jack-tar, mariner, sea dog, seaman, gob, Jack, tar _Then he arose quickly, like a seafarer who all at once seeth the land; and he shouted for joy: for he saw a new truth._  
@@ -921,6 +935,7 @@ __sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
+__shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shoe leather__ _n_  
 __shoeshine__ _n_  
@@ -1229,6 +1244,7 @@ __swath__ _n_ (swathes)
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sweeping__ _adj_ :six::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._  
 __sweet-tooth__  
+__swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
 __switchback__ _n_ :two::hammer:  
 __swoon__ _v_  
 __sycamore tree__  
@@ -1263,6 +1279,7 @@ __tapioca__ _n_
 __tartan__ _n_ :two::hammer: _Trinket and tartan shops._  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __task__ _v_ (tasked)  
+__tassel__ _n_  
 __taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
 __tater tots__ _n_  
 __tatterdemalion__ _n_ _rare_  
@@ -1284,6 +1301,7 @@ __telco__
 __telebiometric__ _adj_  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
+__temerity__ _n_ /tuh-MAIR-uh-tee/  
 __temper__ _v_ (tempered)  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
 __tenement__  
@@ -1358,6 +1376,8 @@ __tolerant__
 __toll__ _n_ :two::hammer: _Emotional toll._ _Toll road._  
 __toll-free__  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
+__tomcat<sup>1</sup>__ _n_ /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
+__tomcat<sup>2</sup>__ _v intr_ To pursue women promiscuously.  
 __tonic__ _n_ _The perfect tonic to the excesses of the night before._  
 __tony__ _adj_ _Tony boutiques._  
 __tootsie__ _n_ /ˈtʊtsɪ/  
@@ -1425,6 +1445,7 @@ __tuck__ _v_ (tucked)
 __tuff rock__  
 __tuition__ _n_  
 __tune-up__ _n_ _Overnight tune-ups and repairs._  
+__turducken__ _n_  
 __turmeric__ _n_ :two::hammer:  
 __turnabout__ _n_  
 __turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
@@ -1495,6 +1516,8 @@ __upholder__ _n_
 __upkeep__ _n_ _Chalkboards did not require much upkeep._  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
+__upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
+__upskilling__ _n_ :dart: Teaching or learning additional skills.  
 __uptake__ _n_ _Other applications have had limited uptake._  
 __uptime__ _n_  
 __uptown__ _adj, adv, n_ :two::hammer:  
@@ -1510,6 +1533,7 @@ __vacuous__
 __valence__ _n_  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
+__vamoose__ _v_ /vuh-MOOSS/ Vamoose is an informal word that means “to depart quickly.” _With the sheriff and his posse hot on their tails, the bank robbers knew they had better vamoose._  
 __vampire bat__ _n_  
 __van__ _n_  
 __vantage point__  
@@ -1594,6 +1618,8 @@ __wheelbarrow__ _n_ :two::hammer:
 __wheelhouse__ _n_  
 __wherry__ _n_  
 __whimsical__ _adj_  
+__whinge<sup>1</sup>__ _v intr_ /whinj/ To complain or protest, especially in an annoying or persistent manner.  
+__whinge<sup>2</sup>__ _n_ A whine or complaint.  
 __whiplash__ _n_ _An amazing, whiplash-inducing performance._  
 __whirlpool__ _n_  
 __whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
