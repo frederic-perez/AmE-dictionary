@@ -1,18 +1,31 @@
 __a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
+__a good scout__ An honest, affable, reliable, and trustworthy person. _Your dad’s a good scout, you know that? He’s helped me out of so many jams without even thinking twice._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __abide by__  
 __above and beyond__  
 __according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
+__be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
+__be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
+__billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __call it a day__ _If there are no further points, then let’s call it a day._  
+__cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
+__dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __easy peasy__  
+__food baby__  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
+__Friendsgiving__  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
+__get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
 __go berserk__  
+__have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
+__have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
+__have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
+__hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __hulk out__  
 __in spite of__  
 __in the face of (something)__  
@@ -71,6 +84,7 @@ __take pride in someone or something__ :three::hammer:
 __take the edge off__  
 __take up__ _We have taken up this challenge._  
 __talk trash__  
+__talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :three::hammer:  
@@ -121,6 +135,7 @@ __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to 
 __tiger team__  
 __til you drop__  
 __time capsule__  
+__to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be taken aback__  
