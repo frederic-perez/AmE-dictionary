@@ -1,9 +1,15 @@
+__antacid__ _n_ :pencil2:  
+__attrition__ _n_  
 __bounty__ _n_  
+__busload__ _n_ _I’ve got a busload of specific ideas._  
+__caseload__ _n_ The number of cases constituting the work of a doctor, solicitor, social worker, etc over a specified period.  
+__casual Friday__ _n_ Another name for dress-down Friday. _Casual Fridays should be every day._  
 __cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
 __cornucopia__ _n_ /kor-nuh-KOH-pee-uh/  
 __delve__ _v_  
 __deprive__ _v_  
 __disastrous__ _adj_  
+__dispel__ _v tr_  
 __djinni__ _n_ In Muslim legend, a spirit often capable of assuming human or animal form and exercising supernatural influence over people. _Syn_ genie, jinnee, jinni _The djinni offered to grant Aladdin three wishes._  
 __doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
 __duress__ _n_  
@@ -23,6 +29,7 @@ __extirpate__ _v_ /EK-ster-payt/ _The district attorney is vowing to extirpate p
 __face__ _v_ _The problems faced by the network operators._  
 __fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
+__farce__ _n_ /FAHRSS/ _The award-winning actor has a talent for farce._  
 __feature phone__ _n_  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __federate__ _v_ :two::hammer: (federating)  
@@ -64,6 +71,7 @@ __insurmountable__ _adj_ _An insurmountable problem._
 __intervene__ _v_  
 __intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
 __jointly__  
+__juicy__ _adj_  
 __jumble__ _n_ _This new world is a jumble for her._  
 __killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
 __lapidary__ _adj_ /LAP-uh-dair-ee/  
@@ -230,6 +238,8 @@ __nitty-gritty__ _n_ :two::hammer:
 __nix__ _v_  
 __no-brainer__  
 __no-frills__ _adj_ _informal_  
+__no-go<sup></sup>__ _n_ (_n pl_ no-goes) A situation in which planned operations cannot be effectuated, as in the case of the launch of spacecraft: _The flight is a no-go because of technical problems._ _After today’s job interview, I reckon it is a no-go._  
+__no-go<sup>1</sup>__ _adj_ Not in a suitable condition for proceeding or functioning properly: _The space launch was no-go._  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __no-nonsense__ _adj_ _A no-nonsense approach._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
@@ -540,6 +550,7 @@ __poutine__
 __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
 __power-cycle__ _v_  
 __powermark__ _n_  
+__preconception__ _n_  
 __predate__ _v_ _This standard predates the emergence of smartphones._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __preeminent__ _adj_  
@@ -921,6 +932,7 @@ __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
 __sesquipedalianism__ _n_ /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
+__severance pay__ _n_ A sum of money usually based on length of employment for which an employee is eligible upon termination.  
 __shallot__ _n_  
 __shanghai__ _v_ :astonished:  
 __Shangri-la__ _n_ :mega:  
@@ -1033,6 +1045,7 @@ __snowkit__ _v_
 __snowmobile__ _n_  
 __snowshoe__ _n_ :three::hammer: (snowshoeing)  
 __snuffbox__ _n_ :two::hammer:  
+__sobering__ _adj_ Making you think about things in a serious way.  
 __sobriquet__ _n_ (soubriquet)  
 __social hour__ _n_  
 __socialite__  
@@ -1503,6 +1516,7 @@ __unprecedented__
 __unpretentious__  
 __unsavory__ _adj_ /ʌnˈseɪ və ri/  
 __unscathed__ _adj_  
+__unsettling__ _adj_ Making one feel rather worried or uncertain.  
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
 __unwavering__ _adj_  
@@ -1694,5 +1708,5 @@ __zephyr__ _n_
 __zero in__  
 __zesty__ _adj_ :three::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zinch__  
-__zipline__ _n_  
+__zipline__ _n_ :two::hammer: _A zipline park._  
 __zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
