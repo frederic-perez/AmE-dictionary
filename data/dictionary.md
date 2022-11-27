@@ -143,7 +143,7 @@ __Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :five::hammer: (acolytes)  
+__acolyte__ _n_ :six::hammer: (acolytes)  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -702,6 +702,7 @@ __arbitration__ _n_ _Arbitration clause._
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__ _n_ :eight::hammer:  
 __arboriculture__ _n_  
+__arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._  
 __arcade game__  
 __arcade__ _n_ :two::hammer: _Catering capabilities, 2 bars, billards and an arcade._ _West’s oldest amusement arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
@@ -747,6 +748,7 @@ __arms embargo__
 __arms race__  
 __armscye__ _n_  
 __arose__ _v_ :two::hammer:  
+__arousal__  
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
 __arrangement__ _n_  
@@ -941,7 +943,7 @@ __autokinesy__ _n_ Self-propelled or self-directed motion or energy.
 __autolatry__ _n_ /aw-TOL-uh-tree/ The worship of oneself. _Syn_ idiolatry, self-worship  
 __autological__ _adj_ /ô′tə-lŏj′ĭkəl/ Being a word that possesses the characteristic it describes. The word _polysyllabic_ is autological, since it is itself polysyllabic. _The word level is both a palindrome and an autological word. The see-saw “v” in the middle makes it extra special._  
 __autolysis__ _n_  
-__automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
+__automaton__ _n_ :two: __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
 __autonym__ _n_ /O-tuh-nim/ __1__ A person’s own name, as distinguished from a pseudonym. __2__ A work published under the real name of the author.  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
@@ -1021,7 +1023,8 @@ __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hin
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
-__backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
+__backlog<sup>1</sup>__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
+__backlog<sup>2</sup>__ _v_ (backlogged)  
 __backpacking__ _n_  
 __backpedal__ _v intr_ :three::hammer: _He backpedaled quickly._  
 __backseater__ _n_  
@@ -2034,7 +2037,7 @@ __bronchus__ _n_ Either of two main branches of the trachea, leading directly to
 __bronco__ _n_ :camera:  
 __broncobusting__  
 __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._  
-__brood<sup>2</sup>__ _v_ :three::hammer: (brooded)  
+__brood<sup>2</sup>__ _v_ :four::hammer: (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :nine: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
@@ -2403,7 +2406,7 @@ __callous<sup>1</sup>__ _adj_ :nine::m::dart: /ˈkæl əs/ __1__ Having calluses
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
 __callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is used to describe a young person who does not have much experience and does not know how to behave like an adult. _The drill sergeant’s task is to train the callow recruits._  
-__calm__ _adj, n, v_ :mute:[ca~~l~~m]  
+__calm__ _adj, n, v_ :two::hammer::mega :mute:[ca~~l~~m]  
 __caltrops__ _n_  
 __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
@@ -2417,7 +2420,7 @@ __cameo__ _n_ __1__ A small sculpture carved in relief on a background of anothe
 __camo__  
 __camouflage__  
 __camp<sup>1</sup>__ _n_ :four::hammer: _The Pacquiao camp did not object._ _Available May-August for groups, camps, and conferences._  
-__camp<sup>2</sup>__ _adj_ _A classic camp comedy._  
+__camp<sup>2</sup>__ _adj_ :two::hammer: _A classic camp comedy._  
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
 __camper shell__  
@@ -2789,6 +2792,7 @@ __chastened__ _adj_ :two: Subdued; humbled.
 __chastening__ _n_ A rebuke for making a mistake.  
 __chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chastisement__ _n_  
+__chastize__  
 __chasuble__ _n_ :two::hammer:  
 __chatelaine__ _n_  
 __chattel__ _n_ :three: An article of movable personal property. _Syn_ personalty _Slaves were treated as chattel by plantation owners, who bought, sold, and even bet them in poker games._  
@@ -2987,6 +2991,7 @@ __circa__
 __circadian__ _adj_ :three::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
+__circuitry__ _n_  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
 __circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
@@ -3360,6 +3365,7 @@ __compliance__ _n_ :four::hammer: _Compliance guy._
 __compliant__  
 __complicit__  
 __complimentary__ _adj_ :nine::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
+__complot__ _n_ :mega:  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -3455,6 +3461,7 @@ __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
+__congest__ _v_  
 __congested__ _adj_ __3__ (of the nose) Blocked with mucus.  
 __congestion__ _n_ _The congestion during peak hours._  
 __conglomerate__  
@@ -3485,7 +3492,7 @@ __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially 
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :three: __1__ Compulsory enrollment, especially for the armed forces; draft.  
 __consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
-__consecutive__  
+__consecutive__ _adj_ :two::hammer:  
 __consensual__  
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
@@ -3509,7 +3516,7 @@ __constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set o
 __constrained__ _adj_  
 __construction paper__ _n_ :two: A heavy paper produced in many colors and used in artwork especially for making folded or cutout designs. _A heart made of construction paper._  
 __constructive__ _adj_ _Constructive criticism._  
-__construe__ _v_ :nine: /kun-STROO/ (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ To understand or explain the sense or intention of something in a particular way. _Syn_ explain _The website provides medical information but that information should not be construed as a diagnosis._ __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). To analyze the arrangement and connection of words in a sentence. _The teacher asked the students to construe the Greek philosopher’s statement._ __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
+__construe__ _v_ :nine::m: /kun-STROO/ (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ To understand or explain the sense or intention of something in a particular way. _Syn_ explain _The website provides medical information but that information should not be construed as a diagnosis._ __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). To analyze the arrangement and connection of words in a sentence. _The teacher asked the students to construe the Greek philosopher’s statement._ __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultation__ _n_ _Call for a consultation._  
 __consultee__ _n_  
 __consulting__ _n_ :dart:  

@@ -1,18 +1,3 @@
-__acolyte__  
-__arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._  
-__arousal__  
-__automaton__ _n_  
-__backlog__ _v_ (backlogged)  
-__bleak__ _adj_  
-__brood__ _v_  
-__calm__ _adj_ :mega:  
-__camp__ _adj_  
-__chastize__  
-__circuitry__ _n_  
-__complot__ _n_ :mega:  
-__congest__ _v_  
-__consecutive__ _adj_  
-__construe__ _v_ (construed)  
 __contrivance__ _n_  
 __copious__ _adj_  
 __deity__ _n_ :mega:  
