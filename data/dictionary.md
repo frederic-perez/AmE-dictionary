@@ -3558,7 +3558,7 @@ __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know
 __contretemps__ _n_ :two: An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_ :seven: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
+__contrivance__ _n_ :eight: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :three::hammer: (contriving)  
 __contrived__ _adj_ :four: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
@@ -3611,7 +3611,7 @@ __cope<sup>1</sup>__ _n_ _A grey cope._
 __cope<sup>2</sup>__ _v_ _Coping strategies._  
 __Copernican__ _adj_ /koh/kuh-PUHR-ni-kuhn/ __1__ Very important; radically different; paradigm shifting. __2__ Relating to Copernicus or his theory that the earth rotates on its axis and revolves around the sun.  
 __copier__ _n_ _Copier service._  
-__copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
+__copious__ _adj_ :four: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  
 __coppice__ _n_  
@@ -4291,6 +4291,7 @@ __dehydration__
 __deign__ _v_ :three::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
 __deist__ _adj_  
+__deity__ _n_ :mega:  
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
@@ -4380,6 +4381,7 @@ __derelict__ _adj_ :three::hammer: _Derelict buildings._
 __dereliction__ _n_ :two::hammer:  
 __deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
+__derive__ _v_  
 __derogative__ _adj_  
 __derrick__ _n_ :two::hammer:  
 __derring-do__ _n_ /ˈdɛrɪŋˈduː, dair-ing-DOO/ _archaic or literary_ A daring spirit or deed; boldness or bold action. _Derring-do_ refers to daring action that requires bravery and courage. _In a spectacular feat of derring-do, the stuntman leaped from the overpass and landed on top of the train as it passed below._  
@@ -4446,6 +4448,7 @@ __deviltry__
 __devious__ _adj_  
 __devoid__ _adj_ :two::hammer:  
 __devoir__ _n_ :two::hammer:  
+__devolution__ _n_  
 __devolve__ _v_ :two: /dih-VAHLV/ __1__ To gradually go from an advanced state to a less advanced state. _Over time, the weekly book club meetings devolved into mean-spirited gossip sessions._ _The party must devolve power._ __2__ To pass something, such as responsibility or power, from one person or group to another person or group at a lower level of authority.  
 __devolved__ _v_  
 __devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
@@ -4679,7 +4682,7 @@ __dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or disse
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
-__dissimilar__ _adj_  
+__dissimilar__ _adj_ :two::hammer:  
 __dissimilarly__  
 __dissimulate__ _v_ :two::pencil2::hammer:  
 __dissing__ _v_  
@@ -4720,6 +4723,7 @@ __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal 
 __dives__ _v_  
 __divest__ _v tr_ :seven: /di/duh/dy-VEST/ (divested) [:scroll: From Old French desvestir (to undress), from Latin divestire, from di- (away) + vestire (to dress), from vestis (garment).] __1__ To remove, give up, or sell off. __2__ To take away or deprive. _Divested him of stolen lands and castles._ __3__ To strip of clothing, ornament, etc. _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._  
 __divestiture__ _n_ :two::hammer:  
+__divide__ _n_ _There appears to be a divide between communications and electronics engineers._  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
 __divisive__ _adj_ _He is more interested in spouting divisive sound bites._  
@@ -5394,6 +5398,7 @@ __endpoint__ _n_ _Surrogate endpoints._
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
 __endure__ _v_ :three: Last for a long time.  
+__energy harvesting__ _n_  
 __enervate__ _v_ :astonished: To weaken.  
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
@@ -5651,14 +5656,15 @@ __expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became ex
 __expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ :two::hammer: _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
-__expediency__  
+__expectedly__ _adv_ _Commercially available tools (expectedly) lack support for flexible optical networks at the moment._  
+__expediency__ _n_ :two::hammer:  
 __expedient__  
 __expedite__ _v_ :dart::nine::m: (expedited, expediting) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ _n_ (vs _regular shipping_) Expedited shipping is a fast delivery or shipping freight option that promises faster than usual shipping speeds compared to standard shipping options.  
 __expeditiously__  
 __expendable<sup>1</sup>__ _adj_  
 __expendable<sup>2</sup>__ _n_ Something that is expendable.  
-__expenditure__ _n_ :eight: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
+__expenditure__ _n_ :nine::m: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._ _Energy expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
 __explant__ _v_ To remove (living tissue) from the natural site of growth and place in a medium for culture.  
@@ -5683,14 +5689,14 @@ __extensively__ _adv_ _She’s been working extensively._
 __extent__ _n_  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
-__extoll__ _v_ :six::hammer: (extolled, extolling)  
+__extoll__ _v_ :seven::hammer: (extolled, extolling)  
 __extort__ _v_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__  
 __extravaganza__ _n_ :four::hammer:  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
-__extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
+__extricate__ _v_ :nine::m: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exude__ _v_ :two::hammer:  

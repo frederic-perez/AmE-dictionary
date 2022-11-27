@@ -1,18 +1,3 @@
-__contrivance__ _n_  
-__copious__ _adj_  
-__deity__ _n_ :mega:  
-__derive__ _v_  
-__devolution__ _n_ (?)  
-__dissimilar__ _adj_  
-__divide__ _n_ _There appears to be a divide between communications and electronics engineers._  
-__energy harvesting__ _n_  
-__ethos__  
-__expectedly__ _adv_ _Commercially available tools (expectedly) lack support for flexible optical networks at the moment._  
-__expediency__ _n_  
-__expenditure__ _n_ _Energy expenditure._  
-__expenditures__  
-__extolling__ _v_  
-__extricate__ _v_  
 __fathometer__ _n_ :astonished:  
 __feasted__ _v_  
 __ferrule__ _n_  
