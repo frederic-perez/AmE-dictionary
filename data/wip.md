@@ -1,18 +1,3 @@
-__fathometer__ _n_ :astonished:  
-__feasted__ _v_  
-__ferrule__ _n_  
-__ferryboat__ _n_  
-__feted__ _v_  
-__fewer__ _adj_ (_vs_ less)  
-__flair__ _n_  
-__flak__ _n_  
-__flank speed__ _n_ _The submarine accelerated to flank speed._  
-__flat file__  
-__flat-out__ _adj_ _We were all working flat-out._  
-__flipper__ _n_ __1__ The flat broad limb of seals, whales, penguins, and other aquatic animals, specialized for swimming.  
-__floe__ _n_  
-__flounce__ _n_  
-__flummoxed__ _adj_ /ˈflʌməkst/  
 __follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
 __foreseeable__  
 __forlorn__ _adj_ :two::hammer:  

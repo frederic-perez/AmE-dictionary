@@ -5863,6 +5863,7 @@ __Father Time__
 __fatherland__ _n_ :astonished:  
 __fathom<sup>1</sup>__ _v_ :five::hammer:  
 __fathom<sup>2</sup>__ _n_ (fathoms)  
+__fathometer__ _n_ :astonished: Depth finder for determining depth of water or a submerged object by means of ultrasound waves.  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
 __fatigue__  
 __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for field duty.  
@@ -5893,7 +5894,7 @@ __fealty__ _n_ :three::hammer: :es: lealtad (feudal)
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearless__ _adj_  
 __feasible__ _adj_  
-__feast__ _v_ :three::hammer:  
+__feast__ _v_ :four::hammer: (feasted)  
 __feature film__ _n_ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
 __feature-length__ _adj_ (Film) (of a film or programme) similar in extent to a feature although not classed as such. _A feature-length animation._  
@@ -5947,7 +5948,8 @@ __ferret<sup>1</sup>__ _n_ :five::hammer:
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
 __Ferris wheel__ _n_  
-__ferrule__ _n_ (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
+__ferrule__ _n_ :two: (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
+__ferryboat__ _n_  
 __fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
 __fertile__ _adj_ :mega:  
 __fervent__  
@@ -5961,7 +5963,7 @@ __festoon<sup>2</sup>__ _v_ :nine::m: /fess-TOON/ (festooned) __1__ To hang or f
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
-__feted__ _v_ :four::hammer:  
+__feted__ _v_ :five::hammer:  
 __fetter__ _n_ __1__ A chain or shackle for the feet. __2__ Something that confines or restrains someone in some way. _John keeps his smartphone with him when he goes hiking, but Linda leaves hers at home, preferring to free herself temporarily of the fetters of technology._  
 __fettered__ _v_  
 __fetus__ _n_  
@@ -5969,7 +5971,7 @@ __feud<sup>1</sup>__ _n_ :four::hammer:
 __feud<sup>2</sup>__ _v_  
 __feuded__  
 __feverish__  
-__few and far between__  
+__fewer__ _adj_ (_vs_ less)  
 __fey__ _adj_ :two::hammer:  
 __fez__ _n_  
 __fiancé__ _n_ A man who is engaged to be married.  
@@ -6144,7 +6146,7 @@ __flah point__
 __flail__ _v_ :eight::hammer: (flailed, flailing)  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
-__flak__ _n_ :seven: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
+__flak__ _n_ :eight: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
 __flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
 __flambeau__ _n_  
@@ -6152,6 +6154,7 @@ __flamboyant__ _adj_ :five::hammer:
 __flameouts__  
 __flaming hair__  
 __flange__  
+__flank speed__ _n_ A nautical term referring to a ship’s true maximum speed but it is not equivalent to the term full speed ahead. Usually, flank speed is reserved for situations in which a ship finds itself in imminent danger, such as coming under attack by aircraft. _The submarine accelerated to flank speed._  
 __flank<sup>1</sup>__ _n_ :two: The side of an animal or a person between the ribs and hip. :es: costado  
 __flank<sup>2</sup>__ _v_  
 __flanker__ _n_ (football/rubgy/soccer position)  
@@ -6172,12 +6175,13 @@ __flashback__
 __flashcard__ _n_ (flash card)  
 __flashlight__ _n_  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
+__flat file__  
 __flat fishing__ _n_  
 __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
-__flat-out__ _adj_ :three::hammer: _They flat-out tell us what is happening._  
+__flat-out__ _adj_ :four::hammer: _They flat-out tell us what is happening._ _We were all working flat-out._  
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
@@ -6233,7 +6237,7 @@ __flip turn__ _n_
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :three: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
 __flippant__ _adj_ :seven::astonished: / FLIP-unt / Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
-__flipper__  
+__flipper__ _n_ :two: __1__ The flat broad limb of seals, whales, penguins, and other aquatic animals, specialized for swimming.  
 __flippers__ _n_ :camera:  
 __flipside__ _n_  
 __flit<sup>1</sup>__ _v_ :two::hammer:  
@@ -6247,7 +6251,7 @@ __floater__ _n_ :six::hammer: (floaters) _(Basketball)_ _I wonder how I missed s
 __floaties__  
 __flock<sup>1</sup>__ _n_  
 __flock<sup>2</sup>__ _v_  
-__floe__ _n_ :three::hammer: _Ice floe._  
+__floe__ _n_ :four::hammer: _Ice floe._  
 __flog__ _v_ :five::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
@@ -6267,6 +6271,7 @@ __florid__
 __flotation tank__ _n_ :two::hammer: _(Pseudomedicine)_  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :four: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
+__flounce__ _n_  
 __flounder__ _v_ :nine::m: /floun′dər/ (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish<sup>1</sup>__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
@@ -6284,7 +6289,7 @@ __fluffy__ _adj_ :two::hammer: _Fluffy omelets and giant salads._
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
 __flummox__ _v_ :seven::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
-__flummoxed__ _adj_ :two: Perplexed or bewildered. _He became flummoxed and speechless._  
+__flummoxed__ _adj_ :three: /ˈflʌməkst/ Perplexed or bewildered. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
 __flunky__ _n_ :five: (flunkie) __1a__ A liveried servant. A person of unquestioning obedience. _Syn_ stooge, yes-man _I liked the play, but I felt that the character of Joe was too much of a flunky, always trying to please Roger and never standing up for himself._ __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
