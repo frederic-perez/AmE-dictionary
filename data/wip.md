@@ -1,18 +1,3 @@
-__follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
-__foreseeable__  
-__forlorn__ _adj_ :two::hammer:  
-__fortnight__ _n_  
-__foster__ _v_  
-__frugal__ _adj_  
-__fruitful__  
-__fumble__  
-__funky__ _adj_ _Funky shoes._  
-__furtively__ _adv_ _She was watching me furtively._  
-__fusillade__ _n_ _A fusillade of shots._  
-__fuss__ _v_ (fussing)  
-__gable__ _n_  
-__gaggle__ _n_ _A gaggle of tourists._  
-__gale__ _n_  
 __galley__ _n_  
 __gamboge__ _n_ __2__ Yellow or yellow-orange.  
 __gamut__ _n_ /ˈɡæmət/  

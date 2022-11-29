@@ -6331,6 +6331,7 @@ __foldout__ _n_ _Foldout map of NYC._
 __foliaged__ _adj_  
 __folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
+__follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
 __follow-up__ _n_ :two::astonished::hammer:  
 __folly__ _n_ :eight: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
@@ -6406,7 +6407,7 @@ __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the fo
 __forensics__ _n_ :two::hammer:  
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
-__foreseeable__ _adj_ :three::hammer: _The foreseeable future._  
+__foreseeable__ _adj_ :four::hammer: _The foreseeable future._  
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
 __forest__ _v_  
@@ -6450,11 +6451,11 @@ __fortified wine__
 __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, encourage, confirm, cheer, strengthen, reassure, brace, stiffen, hearten, embolden, invigorate _Prayer fortified the congregants during their crisis._  
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
 __fortitudinous__ _adj_ Having or showing courage.  
-__fortnight__  
+__fortnight__ _n_ :two::hammer:  
 __fortuitous__ _adj_ :pencil2:  
 __fortune telling__ _n_  
 __foster care__ _n_ :three::hammer:  
-__foster__ _v_ :two::hammer: _It will foster further technology development._  
+__foster__ _v_ :three::hammer: _It will foster further technology development._  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
 __foul__ _adj_ :two::hammer: _Foul language._ __1a__ Offensive to the senses; revolting. __b__ Having a bad odor or taste: _foul breath; food that tasted foul._ _Everything that issued from the body smelled foul._ __c__ Rotten or putrid: _foul meat._  
@@ -6597,11 +6598,12 @@ __frowzy__ _adj_
 __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
 __frozen yogurt__ _n_ :two::hammer: _Non-fat frozen yogurt._  
 __fructify__ _v_ /FRUK-tuh-fye/ __1__ To make fruitful or productive. __2__ To bear fruit or profit. _Her parents are in a comfortable financial position, thanks to some investments that have recently begun to fructify._  
-__frugal__ _adj_ :four: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
+__frugal__ _adj_ :five: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
 __Fruit Belt__ _n_ Fruit Belt is a term in the United States for an area where the microclimate provides good conditions for fruit growing. Fruit Belts are prominent around the North American Great Lakes region.  
 __fruit juice__ _n_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__fruitful__  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
@@ -6631,7 +6633,7 @@ __fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To 
 __fulsome__ _adj_ :two: /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. Excessively or insincerely lavish: _fulsome admiration._ _Our guests were fulsome in their compliments about the food._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __fumarole__ _n_ A hole in a volcanic area from which hot smoke and gases escape.  
 __fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
-__fumble<sup>2</sup>__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
+__fumble<sup>2</sup>__ _v_ :two::hammer: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fume<sup>1</sup>__ _n_  
 __fume<sup>2</sup>__ _v_ :three::hammer: _My father was fuming._  
@@ -6644,7 +6646,7 @@ __funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, a
 __funereal__ _adj_ :pencil2: _Funereal tone._  
 __funhouse__ _n_ (fun house) _Funhouse-like reflections._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
-__funky__ _adj_ _A funky dining room._  
+__funky__ _adj_ :two::hammer: _A funky dining room._ _Funky shoes._  
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
 __funny money__ _n_  
@@ -6665,13 +6667,14 @@ __furrow<sup>2</sup>__ _v_ :three::hammer: (furrowed) _His brow was furrowed._
 __further<sup>1</sup>__ _adv_ _We will not discuss it further._  
 __further<sup>2</sup>__ _v tr_ :three: To help the progress of; promote.  
 __furtive__ _adj_ /FER-tiv/  
+__furtively__ _adv_ _She was watching me furtively._  
 __fuschia__ _n_ (fuschias)  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
-__fusillade__ _n_ :two::hammer:  
+__fusillade__ _n_ :three::hammer: _A fusillade of shots._  
 __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
-__fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
+__fuss<sup>2</sup>__ _v_ :four::hammer: (fussed, fussing)  
 __fussbudget__ _n_ :two::hammer:  
 __fussy__ _adj_ :two::astonished: __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __fustian<sup>1</sup>__ _n_  
@@ -6688,7 +6691,7 @@ __gabbing__
 __gabelle__ _n_ A tax, especially the salt tax imposed in France before 1790.  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __gabfest__  
-__gable__ _n_ :two::hammer:  
+__gable__ _n_ :three::hammer:  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
 __Gabor__ _n_ :mega:  
 __gadabout__ _n_ A person who goes from place to place in social activity.  
@@ -6697,7 +6700,7 @@ __gaff__ _n_
 __gaffe__ _n_ :eight: /ɡæf/ __1__ A clumsy social error, esp a tactless remark; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._ __2__ A blatant mistake or misjudgment.  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _n_ _The cases’s gag order._  
-__gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
+__gaggle__ _n informal_ :nine::m: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._ _A gaggle of tourists._  
 __gaiety__ _n_ _Frenetic gaiety._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gaiter__ _n_  
@@ -6705,7 +6708,7 @@ __gal__
 __gala__ _n_ :two: __1__ A festive occasion, especially a lavish social event or entertainment.  
 __Galahad__ _n_ __1__ In Arthurian legend, the purest of the Knights of the Round Table who alone succeeded in the quest for the Holy Grail. __2__ One considered to be noble, pure, or chivalrous. _I’m not a Galahad. I’m a bully, too._  
 __galboy__ _n_  
-__gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
+__gale__ _n_ :four: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
 __gall__ _v_ (galled)  
 __gallant__ _adj_  
