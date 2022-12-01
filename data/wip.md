@@ -1,18 +1,3 @@
-__galley__ _n_  
-__gamboge__ _n_ __2__ Yellow or yellow-orange.  
-__gamut__ _n_ /ˈɡæmət/  
-__gargantuan__ _adj_ _A gargantuan breakfast._  
-__garish__  
-__garrulous__  
-__geyser__ _n_  
-__gherkin__ _n_ :es: pepinillo  
-__ghoul__  
-__ghoulish__ _adj_  
-__gingerly__  
-__gloated__ _v_  
-__go-between__ _n_ (?)  
-__goad__ _v_  
-__goading__ _v_  
 __goblin__  
 __golliwogs__ _n_  
 __graffiti__ _n_ :pencil2:  

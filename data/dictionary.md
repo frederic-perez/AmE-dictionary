@@ -6717,7 +6717,7 @@ __gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action.
 __gallbladder__  
 __galleon__ _n_  
 __galleria__ _n_ _Cafe galleria._  
-__galley__ _n_ :three::hammer: :es: galera  
+__galley__ _n_ :four::hammer: :es: galera  
 __Gallicism__ _n_  
 __gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
@@ -6731,6 +6731,7 @@ __galoshes__ _n_
 __galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
 __galvanize__ _v_ :nine::m: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
 __gambit__ _n_ :five: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
+__gamboge__ _n_ __2__ Yellow or yellow-orange.  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
 __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
@@ -6738,7 +6739,7 @@ __game-changer__ _n_ :three: (game changer) An idea or event that significantly 
 __gamely__  
 __gamesmanship__ _n_ /GAYMZ-muhn-ship/ __1__ The use of aggressive or dubious tactics, such as psychological intimidation or disruption of concentration, to gain an advantage over one’s opponent while still observing the rules in a sport or game. __2__ The use of expedients or morally questionable acts to gain an advantage, as in politics.  
 __gamine__  
-__gamut__ _n_  
+__gamut__ _n_ :two::hammer: /ˈɡæmət/  
 __ganache__ _n_ A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
 __gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
@@ -6758,12 +6759,12 @@ __garble__ _v tr_ /GAR-bul/ To so alter or distort as to create a wrong impressi
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ _n_ New Jersey.  
-__gargantuan__ _adj_ :four: /gahr-GAN-chuh-wuhn/ Very large in size or amount. Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._ _Bigfoot is said to be a creature of gargantuan proportions._  
+__gargantuan__ _adj_ :five: /gahr-GAN-chuh-wuhn/ Very large in size or amount. Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._ _Bigfoot is said to be a creature of gargantuan proportions._ _A gargantuan breakfast._  
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
 __gargoyle__ _n_ :two::hammer: (gargoyles)  
-__garish__ _adj_ :six::hammer::astonished: _They are charming and garish at the same time._  
+__garish__ _adj_ :seven::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :four::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
@@ -6773,7 +6774,7 @@ __garret__ _n_
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
-__garrulous__ _adj_ :two: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
+__garrulous__ _adj_ :three: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
@@ -6865,10 +6866,11 @@ __get-go__ _n informal_ :four: The beginning; outset. _I’ve been your friend f
 __getaway day__  
 __getaway__ _n_ :six: (getaways) __3__ A place where one escapes for relaxation, vacation, etc., or a period of time for such recreation. _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
-__geyser__ _n_  
+__geyser__ _n_ :two::hammer:  
 __ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ _A ghastly affair._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
 __ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
+__gherkin__ _n_ :es: pepinillo  
 __ghetto__ _n_ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
 __ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
@@ -6876,8 +6878,8 @@ __ghost kitchen__ _n_ (delivery-only restaurant, virtual kitchen, shadow kitchen
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
-__ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
-__ghoulish__ _adj_ :four: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
+__ghoul__ _n_ :seven::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
+__ghoulish__ _adj_ :five: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
 __gibbous__ _adj_ /JIB-us/ Gibbous is most often used to describe a moon or planet that is seen with more than half, but not all, of the apparent disk illuminated. _The lake’s calm surface glistened under the light of the waxing gibbous moon._  
@@ -6903,7 +6905,7 @@ __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._
 __gin and tonic__ _n_ :pencil2:  
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __gin rummy__ _n_ _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
-__gingerly<sup>1</sup>__ _adv_ :four::hammer: _Walking gingerly behind the pack._  
+__gingerly<sup>1</sup>__ _adv_ :five::hammer: _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  
 __gingersnap__ _n_  
 __gingham__  
@@ -6960,7 +6962,7 @@ __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“priva
 __glitz__ _n_ :two::hammer:  
 __glitzy__ _adj_ :two::hammer:  
 __gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
-__gloat<sup>1</sup>__ _v_ :eight::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
+__gloat<sup>1</sup>__ _v_ :nine::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __gloat<sup>2</sup>__ _n_  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
@@ -7003,12 +7005,13 @@ __go to the wire__
 __go to war__  
 __go under__ _phr v_ __1__ To suffer defeat or destruction; fail. _The newspaper went under._ __2__ To lose consciousness.  
 __go-ahead goal__  
+__go-between__ _n_ One who acts as an intermediary or messenger between two sides.  
 __go-for-broke__  
 __go-getter__  
 __go-kart__ _n_ (go-cart) A small low motor vehicle with four wheels and an open framework; used for racing.  
 __go-pills__ _n_  
 __go-to__ _adj_ _The go-to method for 3D printing._  
-__goad__ _v_ :seven::hammer: (goaded, goading)  
+__goad__ _v_ :nine::hammer: (goaded, goading)  
 __goads__ _n_  
 __goahead__  
 __goal average__ _n_ (sports) The ratio of the numbers of goals scored for and against a team in a series of matches, sometimes used in deciding the team’s position in a table.  
