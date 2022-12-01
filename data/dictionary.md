@@ -1285,6 +1285,7 @@ __bedstead__
 __bee eater__ _n_ :es: abejaruco  
 __bee__ _n_ A social gathering to carry out some communal task or to hold competitions. _A quilting bee._ _Spelling bee._  
 __bee’s knees__  
+__beebread__ _n_ A brownish substance consisting of a mixture of pollen and honey and used by bees as food. _Syn_ ambrosia _The worker bees prepared the beebread, which was then fed to the larvae._  
 __beech__ _n_ :four::hammer: _Beech woods._ _Beech tree._ _Beech groves._  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build some beef and muscle._  
@@ -6594,7 +6595,7 @@ __frosted glass__ _n_ _Illuminated by domes of frosted glass._
 __frosted silver__  
 __frothy__  
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
-__frowzy__ _adj_  
+__frowzy__ _adj_ :two: Unkempt; slovenly. _Syn_ slovenly _Between his frowzy clothes and late arrival, he made a decidedly bad first impression._  
 __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
 __frozen yogurt__ _n_ :two::hammer: _Non-fat frozen yogurt._  
 __fructify__ _v_ /FRUK-tuh-fye/ __1__ To make fruitful or productive. __2__ To bear fruit or profit. _Her parents are in a comfortable financial position, thanks to some investments that have recently begun to fructify._  
@@ -6831,6 +6832,7 @@ __generous__ _adj_
 __genetic algorithm__ _n_  
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
+__genoise__ _n_ A light, buttery cake with a texture similar to sponge cake.  
 __genteel__ _adj_ :three::hammer: /jen-TEEL/  
 __gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
 __gentility__  
@@ -8113,6 +8115,7 @@ __housing__ _n_ :five::hammer: _A waterproof housing._
 __hovel__ _n_ :three: A small, miserable dwelling. _Syn_ shack, shanty, hut, hutch _Compared to the manor house, their own modest home seemed like a hovel._  
 __hover__ _v_  
 __hoverboard__ _n_ :two::hammer:  
+__hovercraft__ _n_ A craft capable of moving over water or land on a cushion of air created by jet engines. _Syn_ ground-effect machine  
 __howl__ _v_ :two::hammer:  
 __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
@@ -8133,7 +8136,7 @@ __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my co
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
-__humbug<sup>1</sup>__ _n_ __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
+__humbug<sup>1</sup>__ _n_ :two: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
 __humbug<sup>2</sup>__ _v tr_ To deceive or trick.  
 __humbug<sup>3</sup>__ _v intr_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
@@ -8584,6 +8587,7 @@ __interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
+__interlope__ _v intr_ /in-tuhr-LOHP, IN-tuhr-lohp/ [:scroll: Probably a back-formation from interloper, from Latin inter- (between) + Dutch lopen (to run), which also gave us landloper and landlubber] To intrude or interfere.  
 __interloper__ _n_ /in-ter-LOH-per/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
 __interlopers__ _n_ :three::hammer:  
 __interlude__ _n_  
@@ -8760,7 +8764,7 @@ __jeans__ _n pl_ (plurale tantum)
 __jeer<sup>1</sup>__ _n_ A scoffing or taunting remark or shout.  
 __jeer<sup>2</sup>__ _v_ :five::hammer: (jeered, jeering)  
 __Jehova’s Witness__  
-__jejune__ _adj_ :two: Not interesting; dull. _Syn_ insipid _A jejune novel._  
+__jejune__ _adj_ :three: /jih-JOON/ A formal word often used as a synonym of _juvenile_ to describe things (such as behaviors, attitudes, etc.) that are immature, childish, or simplistic. It can also mean “uninteresting” or “boring.” Not interesting; dull. _Syn_ insipid _A jejune novel._  
 __jell__ _v_ _The plans didn’t jell._  
 __Jell-O Belt__ _n_ The Mormon Corridor region, which has the highest Mormon populations, was nicknamed the “Jell-O Belt,” referring to the 20th-century Mormon cultural stereotype that Mormons have an affinity for Jell-O.  
 __jelly doughnuts__  
@@ -9090,6 +9094,7 @@ __kosher<sup>1</sup>__ _n_ _informal_
 __kosher<sup>2</sup>__ _adj_ :three: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. _Is it kosher to wear jeans in the office?_ __b__ Genuine; authentic.  
 __kowtow__ _v_ :six::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
+__kreplach__ _n pl_ A small pocket of noodle dough filled with ground meat or cheese, usu. boiled and served in soup.  
 __krinkled__  
 __kroop__  
 __kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
@@ -10434,7 +10439,7 @@ __mother-of-pearl__ _n_ :es: nácar _Mother-of-pearl inlays._
 __motifs__ _n_  
 __motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _n_ _Defense attorneys had filed motions._  
-__motley__ _adj_ :six: If you’ve encountered the word motley, it’s most likely in the phrase “motley crew,” which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._ _A motley collection._  
+__motley__ _adj_ :seven: If you’ve encountered the word motley, it’s most likely in the phrase “motley crew,” which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. Motley usually means “made up of many different people or things,” and often appears in the phrase “motley crew” or “motley mix.” It can also mean “variegated in color.” _Many of the jesters at the medieval festival were dressed in bright motley garb._ _Motley crew._ _A motley collection._  
 __motocyclist__ _n_  
 __Motor City__ _n_ Detroit.  
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
@@ -10743,6 +10748,8 @@ __nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ 
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
 __niqab__ _v_  
 __nit__ _n_ The egg of certain parasitic insects, especially a head louse. _Hair filled with nits._  
+__nitch<sup>1</sup>__ _n_ /nich/ A notch or a small cut.  
+__nitch<sup>2</sup>__ _v tr_ To make a small cut or notch.  
 __nitpick<sup>1</sup>__ _n_  
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
@@ -11055,7 +11062,7 @@ __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring onl
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
-__onomatopoeia__ _n_ An onomatopoeia is a word that imitates the sound it refers to. Example: The thunder boomed and the lightning crashed.  
+__onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
 __onset__ _n_ :eight::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
 __onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
@@ -11774,6 +11781,7 @@ __phub__ _n_ _slang_ :dart: To ignore someone in one’s presence in order to pa
 __phylacteries__ _n_ :two::hammer:  
 __physicalize__ _v_ __1__ To express with the body: _physicalize one’s emotions._ __2__ To describe or interpret in physical terms: _“a writer who physicalizes everything he feels” (James Wolcott)._  
 __physiology__ _n_  
+__phytophagous__ _adj_ Feeding on plants, including shrubs and trees. _Syn_ plant-eating, phytophilous _The dot moth is phytophagous, feeding on a wide variety of plants._  
 __phytoplankton__ _n_ :two::pencil2::hammer:  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
@@ -12705,6 +12713,7 @@ __quicksand__ _n_ :two::hammer: _I’ve just signed a quicksand employment contr
 __quicksilver__  
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
+__quiddity__ _n_ /KWID-uh-tee/ Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone’s behavior. _He portrayed the character’s quirks and quiddities with tender playfulness._  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
 __quiescence__ _n_ A state of quiet (but possibly temporary) inaction. _Syn_ dormancy _The volcano erupted after centuries of quiescence._  
 __quiescent__ _adj_ :four: __1__ Quiet, still, or inactive.  
@@ -13586,7 +13595,7 @@ __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
-__Sagittarius__ _n_ :two::pencil2::hammer:  
+__Sagittarius__ _n_ :three::pencil2::hammer: [:scroll: Middle English, from Latin Sagittārius, from sagittārius, _archer_, from sagitta, _arrow_]  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
 __saint__ _n_ /seɪnt; _unstressed_ sənt/  
@@ -13628,7 +13637,8 @@ __sanctuary<sup>2</sup>__ _adj_ :two: Relating to or being a locality that provi
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
-__sandbag__ _n_ :two::hammer: (sandbags)  
+__sandbag<sup>1</sup>__ _n_ :two::hammer: (sandbags)  
+__sandbag<sup>2</sup>__ _v_ /SAND-bag/ When used figuratively, sandbag usually means “to hit or stun as if with a sandbag,” “to criticize or treat unfairly” or “to hide one’s true abilities or purpose in order to deceive people, gain an advantage, etc.” _She felt sandbagged by some of the feedback in the writing workshop, but resolved to take what was useful and ignore the rest._ _He claimed he was playing badly because of an injury, but I think he was sandbagging us._  
 __sandboy__ _n_ /SAND-boi/ __1__ A very happy person. __2__ One who deals in sand.  
 __sandcastle__ _n_ :pencil2:  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
@@ -13639,7 +13649,7 @@ __sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]
 __sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
 __sandy__ _adj_ :two: __3__ Of the color of sand; light yellowish brown. _Sandy hair; sandy-haired._  
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
-__sanguine__ _adj_ :nine::astonished: /SANG-gwin/ __1__ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._ __2__ Of a healthy reddish color. _Syn_ rubicund, ruddy _He had a sanguine complexion that was matched by his cheerful outlook._  
+__sanguine__ _adj_ :nine::m::astonished: /SANG-gwin/ /ˈsæŋ gwɪn/ __1__ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._ __2__ Of a healthy reddish color. _Syn_ rubicund, ruddy _He had a sanguine complexion that was matched by his cheerful outlook._  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _n_ _Sanitation systems._  
 __sanitize__ _v_  
@@ -14001,7 +14011,7 @@ __sequestration__ _n_ _Sequestration of the jury._
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
-__serac__ _n_ :two: (sérac) A pinnacle of ice among crevasses on a glacier, usually on a steep slope.  
+__serac__ _n_ :three: (sérac) A pinnacle of ice among crevasses on a glacier, usually on a steep slope. A large pointed mass of ice in a glacier isolated by intersecting crevasses.  
 __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraphim, from Hebrew seraphim, from saraph (to burn).] Like an angel: serene, beautiful, pure, blissful, etc.  
 __sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
@@ -15541,7 +15551,7 @@ __succinct__ _adj_ :five::pencil2::mega::hammer: _My advice is to get your posts
 __succinctly__ _adv_ :pencil2:  
 __succint__  
 __succor__ _n_ :three::hammer:  
-__succotash__ _n_ (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
+__succotash__ _n_ :two: (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
 __succubus__ _n_ :three::hammer:  
 __succumb__ _v_ :six::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
@@ -16486,7 +16496,7 @@ __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching s
 __tremendous__ _adj_ :two::hammer:  
 __tremor__ _n_  
 __trench coat__ _n_  
-__trenchant__ _adj_  
+__trenchant__ _adj_ :two: Having keenness and forcefulness and penetration in thought, expression, or intellect. _Syn_ searching _His trenchant criticism redirected the debate and gave everyone something new to consider._  
 __trend__ _v_  
 __trepidation__ _n_ :six: /trep-uh-DAY-shun/ Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
 __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
@@ -16541,6 +16551,7 @@ __trite__ _adj_ :nine::m: When you want to indicate that something is silly or o
 __triumvirate__ _n_ :three::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
 __trochanter__ _n_ :two::hammer: _Greater trochanter._  
+__troche__ _n_ /TROH-kee/ A small tablet or lozenge, typically round and sweetened.  
 __trodden down__ _v_  
 __trodden__ _v_ :two::hammer:  
 __troglodyte__ _n_ :two::hammer:  
@@ -17032,6 +17043,7 @@ __vape__ _n_ _I’m with a beer smoking on my vape._
 __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
+__variegated__ _adj_ __1__ Marked with patches or spots of different colors. __2__ Varied; diverse.  
 __variety store__  
 __varlet__ _n_  
 __varmints__  
@@ -17450,7 +17462,7 @@ __what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]
 __whatnot__ _n_ :three::hammer:  
 __Wheat Belt__ _n_ The part of North America where wheat is the primary crop.  
 __wheat__ _n_ :mute:[w~~h~~eat]  
-__wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
+__wheedle__ _v_ :four::dart: /WEE-dul/ Wheedle means “to use soft words or flattery,” usually for the purpose of persuading someone to do something or to give you something. It is often used disapprovingly, and is frequently followed by the word _into_, as in “wheedle one’s way into favor.” To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._ _The sales clerk tried to wheedle us into spending more money than we wanted._ _We managed to wheedle the juicy details about her date out of her._  
 __wheel well__ _n_ _The Corvette’s wheel well._  
 __wheel__ _v_ :mute:[w~~h~~eel]  
 __wheelbarrow__  
