@@ -7030,7 +7030,7 @@ __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former c
 __gobble<sup>1</sup>__ _v_ :three::hammer: _Gobbling a plate of spaguetti and meatballs._  
 __gobble<sup>2</sup>__ _n_  
 __gobbledygook__  
-__goblin__ _n_ :three::hammer: (goblins)  
+__goblin__ _n_ :four::hammer: (goblins)  
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
@@ -7053,7 +7053,7 @@ __goldfinch__ _n_ :es: jilguero
 __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
 __golf course__  
 __golf__ _n_ :mega:  
-__golliwog__ _n_  
+__golliwog__ _n_ :two::hammer:  
 __gomer__ _n_ _slang_ :dart: [:scroll: origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] A first-year Air Force Academy cadet, esp a clumsy trainee. _Gomer Pyle._  
 __gonads__ _n_  
 __gondola__ _n_ :three::hammer::astonished: _A 10-person rescue gondola can be attached to a helicopter._ _The gondola carries visitors from the base to the top station._ _Walking distance to Aspen Mountain gondola._  
@@ -7119,7 +7119,7 @@ __gradually__
 __graduate<sup>1</sup>__ _n_  
 __graduate<sup>2</sup>__ _adj_  
 __graduate<sup>3</sup>__ _v_ :dart: [:scroll: _Graduate_ comes from the Medieval Latin _graduārī_, meaning “to take a degree.” It ultimately derives from the Latin _gradus_, meaning “a step.” Each time you graduate, you take a step to the next level of education.]  
-__graffiti__ _n_ :pencil2:  
+__graffiti__ _n_ :two::pencil2::hammer:  
 __graft<sup>1</sup>__ _v_  
 __graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
@@ -7142,6 +7142,7 @@ __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandst
 __granola__ _n_  
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
 __granted<sup>2</sup>__ _adv_ Admittedly.  
+__granules__  
 __grapevine__ _n_  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphomania__ _n_ /graf-oh-MAY-nee-uh/ An obsessive inclination to write.  
@@ -7158,7 +7159,7 @@ __grate<sup>2</sup>__ _v_ :seven: (grates, grated, grating) __1__ To reduce to f
 __grateful__  
 __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
 __gratin__ _n_ _Sweet potato gratin._  
-__grating<sup>1</sup>__ _n_ :four::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
+__grating<sup>1</sup>__ _n_ :five::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __gratuity__ _n_ :two::hammer: (gratuities)  
 __graupel__ _n_ Precipitation consisting of snow pellets.  
@@ -7197,7 +7198,7 @@ __green-eyed__ _adj_ Jealous.
 __greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks._  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :three::hammer: :es: invernadero  
-__greenlight__ _v_  
+__greenlight__ _v tr_ :two::hammer:  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwash<sup>1</sup>__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
 __greenwash<sup>2</sup>__ _n_  
@@ -7249,13 +7250,13 @@ __grocer__ _n_ :two::hammer:
 __grog__  
 __groggy__ _adj_ :two: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion). Unsteady and dazed; shaky.  
 __grok__ _v_ To understand profoundly and intuitively.  
-__groomed__  
+__groom__ _v_ :two::hammer: _To groom traffic._  
 __groomers__  
 __groove<sup>1</sup>__ _n_ :six::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __groove<sup>2</sup>__ _v_ :two::hammer: _The Wall-E toy dances and grooves to your music._  
 __groovy__ _adj_ _Including groovy memorabilia._  
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
-__grope__ _v_ :two::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
+__grope__ _v_ :three::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
 __grotto__ _n_ :two::hammer: _A rooftop grotto bar._  
@@ -7309,6 +7310,7 @@ __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _slang_ An infantryman 
 __grunted__ _v_ :four::hammer:  
 __guacamole__ _n_  
 __guard__ _n, v_ :mute:[g~~u~~ard]  
+__guardrail__ _n_  
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
 __guess__ _n, v_ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
@@ -7342,13 +7344,13 @@ __gulch__ _n_
 __gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._ _A widening social gulf._  
 __gull__ _v_ _They feared being gulled._  
 __gullibility__  
-__gullible__ _adj_ :eight::mega: Naive and easily deceived or tricked.  
+__gullible__ _adj_ :nine::mega: Naive and easily deceived or tricked.  
 __gullies__ _n_ :two::hammer:  
 __gulls__  
 __gully washer__ _n_ _We had a real gully washer in the forenoon._  
-__gully__ _n_  
+__gully__ _n_ :two::hammer:  
 __gulosity__ _n_ Excessive appetite. _Syn_ greediness  
-__gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
+__gulp<sup>1</sup>__ _n_ :three::hammer: _Sobs and gulps._ _He swallowed his drink in one quick gulp._  
 __gulp<sup>2</sup>__ _v_ :five::hammer: _They gulped their soft drinks._  
 __gum ball machine__ _n_ :camera:  
 __gum stump__  
@@ -7484,6 +7486,7 @@ __handcuff__ _v_ _It is handcuffed by lack of funds._
 __handglider__  
 __handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
 __handheld__ _adj, n_  
+__handhold__ _n_  
 __handicap__ _v_ _All entrants are handicapped according to the potential performance of their boats._  
 __handicraft__ _n_  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
@@ -7572,7 +7575,8 @@ __hark__ _v_ :two::hammer: (harking)
 __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.  
 __harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
 __harmonize__ _v_  
-__harness__ _v_ :three::hammer: _Harnessing big data._  
+__harness<sup>1</sup>__ _n_  
+__harness<sup>2</sup>__ _v_ :four::hammer: _Harnessing big data._ _Remove the barriers to harnessing HPC._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harpy__ _n_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
@@ -7586,7 +7590,7 @@ __has-been__ _n_ :two: One that is no longer famous, popular, successful, or use
 __hash browns__ _pl n_ :two::hammer:  
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
-__hashish__  
+__hashish__ _n_ :two::hammer: (hasheesh)  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __hassle<sup>1</sup>__ _n_ _Advance seat assignment to avoid boarding hassles._  

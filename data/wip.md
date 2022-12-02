@@ -1,19 +1,3 @@
-__goblin__  
-__golliwogs__ _n_  
-__graffiti__ _n_ :pencil2:  
-__granules__  
-__grating__ _n_  
-__greenlit__ _v_ (?)  
-__groom__ _v_ _To groom traffic._  
-__grope__ _v_  
-__guardrail__ _n_  
-__gullible__ _adj_  
-__gully__ _n_  
-__gulp__ _n_ _He swallowed his drink in one quick gulp._  
-__handhold__ _n_  
-__harness<sup>1</sup>__ _n_  
-__harness<sup>2</sup>__ _v_ _Remove the barriers to harnessing HPC._  
-__hashis__ _n_  
 __hasp__ _n_  
 __haunting__ _adj_  
 __haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
