@@ -1,18 +1,3 @@
-__antacid__ _n_ :pencil2:  
-__attrition__ _n_  
-__bounty__ _n_  
-__busload__ _n_ _I’ve got a busload of specific ideas._  
-__caseload__ _n_ The number of cases constituting the work of a doctor, solicitor, social worker, etc over a specified period.  
-__casual Friday__ _n_ Another name for dress-down Friday. _Casual Fridays should be every day._  
-__cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
-__cornucopia__ _n_ /kor-nuh-KOH-pee-uh/  
-__delve__ _v_  
-__deprive__ _v_  
-__disastrous__ _adj_  
-__dispel__ _v tr_  
-__djinni__ _n_ In Muslim legend, a spirit often capable of assuming human or animal form and exercising supernatural influence over people. _Syn_ genie, jinnee, jinni _The djinni offered to grant Aladdin three wishes._  
-__doughty__ _adj_ /DOW-tee/ Brave, strong, and determined. _The family sent gifts to the doughty firefighters for saving their cat._  
-__duress__ _n_  
 __egress__ _n_  
 __elusive__ _adj_ _An elusive goal._  
 __embody__ _v_  

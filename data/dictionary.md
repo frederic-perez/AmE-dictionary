@@ -572,6 +572,7 @@ __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, 
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ _n, v_ :mute:[ans~~w~~er]  
+__antacid__ _n_ :pencil2:  
 __antagonize__ _v_  
 __antanaclasis__ _n_  
 __ante__ _n_ :six::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
@@ -901,7 +902,7 @@ __attract__ _v_
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _v tr, v intr_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
-__attrition__ _n_ :eight: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._  
+__attrition__ _n_ :nine: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
@@ -1866,7 +1867,7 @@ __bouncy house__ _n_
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :five: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
-__bounty__ _n_ :four: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
+__bounty__ _n_ :five: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bout__ _n_ _Martial arts bout._  
@@ -2244,7 +2245,7 @@ __business ties__
 __business__ _n_ /ˈbɪznɪs/  
 __businesspeople__ _n_  
 __busker__ _n_ :two::hammer: (buskers)  
-__busload__  
+__busload__ _n_ :two::hammer: _I’ve got a busload of specific ideas._  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he’s busting his tail on everything._  
 __busticate__ _v_ _informal US_ To break.  
@@ -2583,6 +2584,7 @@ __case in point__ _n_ :nine: An example that is used to justify similar occurren
 __case study__ _n_ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
+__caseload__ _n_ The number of cases constituting the work of a doctor, solicitor, social worker, etc over a specified period.  
 __casemates__ _n_  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __casement__ _n_ :two::hammer: :es: ventana de bisagras _Casement window._  
@@ -2610,6 +2612,7 @@ __castigate__ _v_ Censure severely. _Syn_ chasten, chastise, objurgate _ften he 
 __castigation__ _n_  
 __castle__ _n, v_ :mute:[cas~~t~~le]  
 __castoff__ _n_  
+__casual Friday__ _n_ Another name for dress-down Friday. _Casual Fridays should be every day._  
 __casual__ _adj_ _He put on casual clothes._  
 __casualty__ _n_ :two::hammer:  
 __casuist__ _n_ /KAZH-oo-ist/ One who employs deceptive or excessively subtle reasoning, especially on moral issues.  
@@ -3190,6 +3193,7 @@ __cockerel__
 __cockeyed__ _adj_ _informal_ :four::hammer: _Cockeyed optimism._ _Cockeyed predictions._  
 __cockle__ _n_ :es: berberecho  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
+__cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __cod__ _n_ :es: bacalao  
@@ -3654,7 +3658,7 @@ __cornball__
 __corned beef__ _n_ :three: [:scroll: From corn, _to preserve with granulated salt or brine._] Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine. _Syn_ bully beef, corn beef :es: carne de vaca en conserva _Corned beef sandwiches._  
 __cornerstone__ _n_ :three::pencil2::hammer:  
 __cornstarch__  
-__cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
+__cornucopia__ _n_ :two::hammer: /kor-nuh-KOH-pee-uh/ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :six::hammer:  
 __coromandel__  
 __coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
@@ -4322,7 +4326,7 @@ __deluge<sup>1</sup>__ _n_ :seven: A lot of things all happening or arriving at 
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _adj_ :two::hammer: _Deluxe album._ _Deluxe hotels._  
-__delve__ _v_ :two::dart::hammer:  
+__delve__ _v_ :three::dart::hammer:  
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
 __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
 __demagogy__  
@@ -4370,6 +4374,7 @@ __depraved__ _adj_
 __depravity__  
 __depress__ _v_ _Depressing a company’s value._  
 __depressed__ _adj_ :two: __4__ Lowered in force, amount, etc. _Severely depressed systolic function._ _Depressed wages._  
+__deprive__ _v_  
 __deprived__ _adj_ _A very deprived area._  
 __depute__ _v_ Transfer power to someone. _Syn_ delegate  
 __derail__ _v_  
@@ -4565,7 +4570,7 @@ __disaffected__ _adj_ :three::hammer:
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disapprove__ _v_  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
-__disastrous__  
+__disastrous__ _adj_ :two::hammer:  
 __disavow__ _v_ :three: (disavowed) __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)  
@@ -4732,6 +4737,7 @@ __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug o
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
 __dizzy__ _adj_ :two::hammer:  
+__djinni__ _n_ In Muslim legend, a spirit often capable of assuming human or animal form and exercising supernatural influence over people. _Syn_ genie, jinnee, jinni _The djinni offered to grant Aladdin three wishes._  
 __do it by the numbers__  
 __do math__  
 __do__ _v_ _5_ _v tr_ To make tidy, elegant, ready, etc, as by arranging or adorning: _to do one’s hair._  
@@ -4861,7 +4867,7 @@ __doubtless__ _adj, adv_ :two::hammer:
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
-__doughty__ _adj_ Marked by stouthearted courage; brave.  
+__doughty__ _adj_ :two: /DOW-tee/ Brave, strong, and determined. Marked by stouthearted courage; brave. _The family sent gifts to the doughty firefighters for saving their cat._  
 __dour__ _adj_ :six: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
