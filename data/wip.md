@@ -1,18 +1,3 @@
-__hasp__ _n_  
-__haunting__ _adj_  
-__haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
-__hawser__ _n_ A cable or rope used in mooring or towing a ship.  
-__hazard__ _v_  
-__helo__ _n informal_ A helicopter.  
-__heterogeneous__ _adj_  
-__hickory__ _n_ _Hickory smoked pork._  
-__hidalgo__ _n_  
-__hinky__ _adj_ _Why this hinky feeling?_  
-__hoarding__ _n_  
-__hold__ _n_ _The hold has a different cargo now._  
-__holdall__ _n_  
-__holistic__ _adj_  
-__holler__ _v_ (hollered)  
 __homed__ _v_  
 __honeycombed__ _v_  
 __hors d’oeuvres__  

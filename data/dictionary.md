@@ -7591,7 +7591,7 @@ __hash browns__ _pl n_ :two::hammer:
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
 __hashish__ _n_ :two::hammer: (hasheesh)  
-__hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
+__hasp__ _n_ :three::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __hassle<sup>1</sup>__ _n_ _Advance seat assignment to avoid boarding hassles._  
 __hassle<sup>2</sup>__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
@@ -7617,10 +7617,11 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt<sup>1</sup>__ _v_  
 __haunt<sup>2</sup>__ _n_ :three::hammer: _It is a favorite BYOD haunt._  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
-__haunting__ _adj_ :dart::three: Continually recurring to the mind; unforgettable: _a haunting melody._  
+__haunting__ _adj_  
 __hauteur__  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
+__haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
 __havoc__  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
@@ -7629,14 +7630,15 @@ __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensi
 __Hawkeye__ _n_ :astonished::mega: A native or inhabitant of Iowa (used as a nickname).  
 __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
-__hawser__ _n_  
+__hawser__ _n_ :two: A cable or rope used in mooring or towing a ship.  
 __hawthorn__ _n_ :four::hammer:  
 __Hawthorne effect__ _n_ [:scroll: After Hawthorne Works, a factory complex of the Western Electric Company, where this effect was observed.] (Sociology) Improvement in the performance of employees, students, etc, brought about by making changes in working methods, resulting from research into means of improving performance.  
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _slang_ :three: A powerful blow with the fist.  
 __hayride__ _n_ :two: A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
 __haywire__ _adj, adv_ :five: /HAY-wyre/ Haywire means “being out of order or having gone wrong” or “emotionally or mentally upset or out of control.” It is often used in the phrase “go haywire.” _The company’s emailing system went haywire and sent out multiple copies of the advertisement to its subscribers._  
-__hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
+__hazard<sup>1</sup>__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
+__hazard<sup>2</sup>__ _v tr_  
 __hazardous__ _adj_ :two::mega::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__  
@@ -7765,6 +7767,7 @@ __hellish__ _adj_
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
 __helluva__ _adj, adv_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
+__helo__ _n informal_ A helicopter.  
 __help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helping__ _n_ (helpings) _Second helpings._  
@@ -7815,6 +7818,7 @@ __Hershey kisses__
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hesperidium__ _n_ :two: The fruit of a citrus plant, as an orange.  
+__heterogeneous__ _adj_  
 __hew__ _v_ :nine::m: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._ _A hand-hewn cave._  
 __hex key__ _n_ Allen key. _Hex key set._  
 __hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
@@ -7826,7 +7830,8 @@ __hibachi__ _n_ :three::hammer: _Original hibachi cooking._
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
-__hickory__ _n_ :three::hammer: _Hickory charcoal-grilled steaks._ _The steaks are grilled over a hickory flame._  
+__hickory__ _n_ :four::hammer: _Hickory charcoal-grilled steaks._ _The steaks are grilled over a hickory flame._ _Hickory smoked pork._  
+__hidalgo__ _n_  
 __hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
 __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
@@ -7872,7 +7877,7 @@ __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.
 __hinder__ _v_ :three::hammer:  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinge__ _v_  
-__hinky__  
+__hinky__ _adj_ :two::hammer: _Why this hinky feeling?_  
 __hinterland__ _n_ :six: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ _n_ :camera:  
 __hip__ _adj_ :four::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._ _A hip hangout for cocktails._  
@@ -7906,6 +7911,7 @@ __ho__
 __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn’t capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __hoagie__ _n_ :two: /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoard__ _v_  
+__hoarding__ _n_  
 __hoarsely__  
 __hoary__ _adj_ :three::hammer:  
 __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
@@ -7942,7 +7948,9 @@ __hold true__ _v_
 __hold up a fish__  
 __hold up__ _phr v_ :two: Wait or delay. _Hold up a minute. I want to check something._  
 __hold water__  
-__hold__ _v_ _They hold a particular view._  
+__hold<sup>1</sup>__ _v_ _They hold a particular view._  
+__hold<sup>2</sup>__ _n_ _The hold has a different cargo now._  
+__holdall__ _n_  
 __holder__ _n_ :two::hammer:  
 __holding sway__  
 __holdings__ _n_  
@@ -7953,8 +7961,8 @@ __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a s
 __hole up__ _v_ :two::hammer: (holed up)  
 __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
-__holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
-__holler__ _v_ :four: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
+__holistic__ _adj_ :nine: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
+__holler__ _v_ :five: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __holly__ _n_ :two::astonished::pencil2: Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
