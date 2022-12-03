@@ -2573,6 +2573,7 @@ __smash hit__
 __smell blood__  
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
+__snap__ _v_ To go crazy.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
 __sneeze at__  
@@ -2588,7 +2589,7 @@ __soaked to the bone__ Extremely or completely wet, especially through one’s c
 __social hour__ :two: Time spent talking and hanging out with people.  
 __something is rotten in the state of Denmark__  
 __something or other__ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
-__sort it out__ :four: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
+__sort it out__ :six: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
 __sounding board__ A person or group with whom one discusses an idea, plan, or suggestion in order to evaluate its strengths, acceptability, feasibility, practicality, etc. _My friend John and I really know each other’s skills and interests, so whenever one of us has an idea for a new project, we use the other as a sounding board._  
 __sour grapes__ Criticism or disparagement of that which one cannot have. The phrase originated in one of Aesop’s fables, in which a fox that cannot reach some grapes deems them sour and therefore undesirable. _He always mocks sports cars as being really impractical, but it’s just sour grapes, if you ask me._  
@@ -2599,6 +2600,7 @@ __speak up__ __1__ To speak loud enough to be audible: _Speak up—I can’t hea
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
 __spill the beans__ :two: To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
+__spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spin (one’s) wheels__ :four: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
 __split hairs__ :two: Argue or worry about small details.  
 __spoiled for choice__ Having an abundance of suitable or ideal options from which to choose, such that it may be difficult to make a decision. Primarily heard in US. _Between video games, television, and the Internet, kids these days are being brought up spoiled for choice when it comes to their entertainment._  
@@ -2618,7 +2620,9 @@ __stand out__ __1__ To protrude from something; to project outward from somethin
 __stand tall__ :five: To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
+__stands to reason__  
 __starve out__ To deprive someone or something of food in order to force them to submit or surrender. A noun or pronoun can be used between “starve” and “out.” _The empire’s army began starving the rebel city out with a siege that lasted nearly eleven months._ _The Black Prince could be starved out if the French chose to surround and invest him._  
+__status quo__  
 __stay put__ :six: To not move or leave; to remain in same location or position. To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._ _I want you kids to stay put while I go into the store, OK?_ _And you stayed put for all these years? I would have thought you’d find a different career by now._  
 __stay strong__  
 __staying power__ _This exercise has staying power._  
@@ -2650,24 +2654,27 @@ __tail end__ _The tail end of the day._
 __tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
 __take (a)hold__  
 __take (one’s) side__ To support or side with one in an argument.  
+__take (someone) under (one’s) wing__  
+__take (something) into consideration__  
 __take (something) to heart__  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
-__take a deep breath__  
+__take a deep breath__ :two::hammer:  
 __take a dive__  
 __take a hike__ __1__ Literally, to go on a hike. __2__ By extension, to get out of here; to go away; to get lost. Usually used as an imperative. _Listen, I don’t want to buy any, so why don’t you just take a hike and leave me alone!_  
-__take a leak__ :two: _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
+__take a leak__ :three: _vulgar slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.) _Could you pull over? I need to take a leak._  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a piss__ Urinate.  
 __take aim (at someone or something)__  
 __take by storm__ _The dystopian drama that has taken the internet by storm._  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
+__take for granted__  
 __take heart__ :four::dart: To be confident or courageous.  
 __take ill__ To be or become sick or unwell. _I heard your sister has taken ill recently. I hope that it isn’t anything too serious?_  
 __take it away__ :two: _informal_ An invitation or instruction for someone to begin their performance. Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_ _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
 __take it to the bank__  
 __take no notice of (something or someone)__ To not pay any attention to someone or something; to ignore or disregard someone or something. _Take no notice of those troublemakers, they’re only trying to provoke you._  
 __take no prisoners__ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
-__take over__ Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
+__take over__ :two: Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
 __take pains__  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
 __take stock (of something)__  
@@ -2676,6 +2683,7 @@ __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incr
 __take the gloves off__ _The gloves are coming off today._  
 __take the high road__ :two: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
+__take the hit__ (take the fall) To incur blame or censure, either willingly or unwillingly: _a senior official who took the fall for the failed intelligence operation._  
 __take the weight off (one’s) feet__ To lie or (especially) sit down, generally after being upright for a long period of time. _We’ve been walking all over town today, so I think we’re just going to head back to the hotel and take the weight off our feet for a while._  
 __take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
 __take umbrage__ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
@@ -2694,6 +2702,7 @@ __tapped out__ Completely exhausted or depleted (of some resource). _A: “Do yo
 __tear (one’s) hair out__ :dart: To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
 __tear a strip off (someone)__ To scold, upbraid, or rebuke someone very severely, as for an error or wrongdoing. _The teacher really tore a strip off me for causing a disruption in class again._  
 __tear around__ _Her idea of taking a day off is tearing around a golf course._  
+__tear down__  
 __teensy-weensy__ Particularly small or tiny. _I’m not hungry myself, but I’d love to try just a teensy-weensy bite of your meal, if you don’t mind._  
 __tell (someone or something) apart__ To be able to discern or distinguish two or more people or things that appear or seem similar. _This one is real, and this one is the counterfeit—you can tell them apart by the small holographic mark at the top corner of the genuine document._  
 __tell me about it__ (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ¡Dímelo a mí!  
@@ -2713,6 +2722,7 @@ __the bigger they come, the harder they fall__ Those who are exceptionally large
 __the darkest hour is just before the dawn__  
 __the devil is in the detail(s)__ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
 __the eleventh hour__ The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
+__the fact of the matter__ The most basic, fundamental truth of something.  
 __the going thing__ The latest and most popular trend, fad, or fashion.  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
@@ -2731,7 +2741,9 @@ __the last of the lot__ The last or final person(s) or thing(s) in a given group
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
 __the lion’s den__ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :two: Major share of something.  
+__the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
+__the meat and potatoes__ The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
 __the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
 __the moon on a stick__ Anything and everything that one desires or can imagine wanting (i.e., above and beyond what would be normal or appropriate). _Jim was so smitten with his co-worker that he’d probably try to get her the moon on a stick if she asked for it._ _Jonathan always wants the moon on a stick when it comes to relationships._  
@@ -2761,17 +2773,19 @@ __there’s no other way around (it)__ There is no solution to avoid a particula
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ :two::dart::hammer:  
+__think aloud__ To verbalize one’s thoughts. _I’m just thinking aloud._  
 __think back__ :two: To think about a past event or a past time.  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
 __third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this is no picnic__  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
-__through and through__ :four: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
+__through and through__ :six: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
 __through the grapevine__ :two: Through or via an informal means of communication or information, especially gossip. _I heard through the grapevine that John is planning to propose to Samantha next week!_  
 __through thick and thin__ Through good times and bad times.  
 __throw (someone) under the bus__ :two::hammer:  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
+__throw a party__  
 __throw away__ To get rif of something that you no longer want.  
 __throw in the towel__ :two::hammer: (throw in the sponge; toss in the sponge)  
 __throw up__ _I might throw up._  
@@ -2789,6 +2803,7 @@ __time and (time) again__ :four::dart: Repeatedly; on multiple occasions. _Why d
 __time and again__ :two: Again and again; repeatedly.  
 __time flies__ :two::hammer: _Time flies when you’re having fun._  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
+__tipping point__  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
@@ -2803,7 +2818,7 @@ __to make a long story short__ To skip boring, extraneous, or unnecessary detail
 __to see red__ Very angry.  
 __to some extent__  
 __to that end__ :four::hammer: (to that end,)  
-__to this day__ :six::hammer: _I don’t know if they still do it to this day._  
+__to this day__ :seven::hammer: _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __Tom Swifty__  
@@ -2819,6 +2834,7 @@ __town-gown__ Relating to the two coexisting communities of a university town, i
 __train of thought__  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
+__trouble is__ _Trouble is, that man is my last hope._  
 __true enough__ _It was true enough._  
 __true story__  
 __true to form__ Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
@@ -2849,6 +2865,7 @@ __unheard of__ :four: Extremely uncommon or unusual; beyond belief. Hyphenated i
 __up a tree__ In a difficult situation.  
 __up for grabs__ :four: Available for anyone.  
 __up to (one’s) neck in alligators__ (business adage) The full expression is some variation of: “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
+__up to no good__  
 __up to your eyeballs in something__ To have too much of something.  
 __up yours__ _vulgar_ _slang_ :two: An expression of anger at someone.  
 __uphill battle__ :two: Something very difficult to do.  
@@ -2856,6 +2873,7 @@ __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or ar
 __vanish into thin air__ To disappear completely, without leaving a trace.  
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
+__very much so__  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
 __wake-up call__ :five: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
 __walk away__ _Knowing when to walk away is an essential life skill._  
@@ -2870,6 +2888,7 @@ __wassup__ _interj_ /(h)wəˈsəp/ (whassup) _coloquial US_ What’s up; what’
 __watch (one’s) language__ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
 __watch your back__  
 __watch your six__ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
+__water under the bridge__  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __weak in the knees__ Unsteady or flustered due to a strong emotional reaction to someone or something. _Hearing the news of my father’s sudden death, I went weak in the knees and could barely remain standing._  
 __wear too many hats__ _business slang_ To hold too many responsibilities or assume too many roles at the same time. _One of the pitfalls many entrepreneurs fall into when setting up a new company is to wear too many hats, which not only spreads themselves very thin, but ends up being counterproductive to the operation as a whole._  
@@ -2885,12 +2904,13 @@ __what do you know__ A phrase used to indicate one’s surprise upon discovering
 __what if scenario__  
 __what makes (one) tick__ _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __what on earth__  
+__what-if__ _n informal_ A hypothetical question; speculation: _one of the great what-ifs of modern history._ _Evaluate various what-if scenarios._  
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the deal?__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
 __when pigs fly__ :three: Never, impossible.  
-__when the chips are down__ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
+__when the chips are down__ :three: When a situation has become especially difficult, desperate, or hard to recover from. The expression alludes to having a low amount of poker chips, which means that one may soon lose. _You can tell a lot about a person’s character from how they act when the chips are down._  
 __where the sun doesn’t shine__  
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
 __whip by__ (whipping by) _The summer is whipping by._  
@@ -2924,9 +2944,12 @@ __worried sick__ Very concerned or anxious about a person or situation. _The nex
 __wouldn’t listen__ _He wouldn’t listen._  
 __wouldn’t touch something/someone with a ten-foot pole__ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
 __wrap (one’s) head around it__ :seven: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
+__wrap around one’s finger__ (twist around one’s finger) Exert complete control over someone, do as one likes with someone, as in _Alison could twist just about every man around her finger._  
 __wreak havoc__ :three: (wreaked havoc) To cause a lot of problems.  
 __write (one’s) own ticket__ :two::hammer:  
+__write someone or something off__  
 __writing on the wall, the__ :two: An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
+__x, y, and z__ _n_ A figure of speech used when making a hypothetical argument or example. _Well, I could say, “God doesn’t exist because of X, Y and Z.”_  
 __X’s and O’s__ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one’s team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x’s and o’s, but the team’s execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x’s and o’s of the budget._ __3__ Kisses and hugs.  
 __yada, yada(, yada)__ :five: (yadda yadda yadda) __1__ _slang_ [:scroll: The phrase was popularized by the television show Seinfeld in the 1990s.] Used to summarize, characterize, or represent information or chatter that one finds boring, trivial, or unnecessary. Sometimes spelled “yadda, yadda, yadda.” _So then I ran into my friend, Sarah. Sarah and I went to high school together, and we were really good friends until we had a bit of a falling out. Yada, yada, yada, the point is that I haven’t seen her in a long time._ __2__ _slang_ By extension, et cetera; so on and so forth. _A: “What are you up to tonight?” B: “Not much. Dinner, homework, yada, yada. How about you?”_ _There were all sorts of things stuck in that attic—old furniture, dolls’ houses, broken appliances, yada, yada, yada._  
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  

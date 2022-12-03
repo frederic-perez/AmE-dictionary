@@ -448,36 +448,3 @@ __save the day__ :two::hammer:
 __slippery slope__  
 __slow burner__  
 __small hours__ (?)  
-__snap__ _v_ To go crazy.  
-__sort it out__ :two::hammer:  
-__spelling tea__ (?)  
-__stands to reason__  
-__status quo__  
-__take (someone) under (one’s) wing__  
-__take a deep breath__  
-__take a leak__ (?)  
-__take for granted__  
-__take into consideration__ (?)  
-__take over__  
-__take the hit__ (?)  
-__tear down__  
-__ten feet pole__ (?)  
-__thank you thank you__ (?)  
-__the devil of it__ (?)  
-__the fact of the matter__  
-__the lot__ (?)  
-__the meat and potatoes__ (?)  
-__think aloud__ (?) _I’m just thinking aloud._  
-__through and through__ :two::hammer:  
-__throw a party__  
-__tipping point__  
-__to this day__  
-__trouble is__ (?) _Trouble is, that man is my last hope._  
-__up to no good__  
-__very much so__  
-__water under the bridge__  
-__what-if__ (?) _Evaluate various what-if scenarios._  
-__when the chips are down__  
-__wrap around someone’s finger__ (?)  
-__write someone off__ (?)  
-__x, y, or z__ (?)  
