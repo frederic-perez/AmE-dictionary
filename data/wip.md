@@ -73,7 +73,7 @@ __merchant__ _adj_ _A heavily laden merchant ship._
 __mere__ _adj_ :two::hammer: _The mere possibility of a contract._ _A mere 2% of the cost._  
 __merely__  
 __miasma__  
-__mirage__ _n_ :mega: (?)  
+__mirage__ _n_ /mɪˈrɑʒ/  
 __mischief__  
 __misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  
 __miss__ _n_ _A memory cache miss._  
@@ -127,7 +127,8 @@ __ponderous__
 __pose__ _v_  
 __pothole__ _n_  
 __potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
-__precedent__ _n_ (?)  
+__precedent<sup>1</sup>__ _n_  
+__precedent<sup>2</sup>__ _adj_  
 __preemption__ _n_ :two::hammer:  
 __prevaricate__ _v_  
 __primer__  
@@ -187,7 +188,7 @@ __seamlessly__ _n_
 __secret__ _v_  
 __seek__ _v_ (sought)  
 __seldom__ _adj, adv_ :two::hammer:  
-__self-centered__ _adj_ (?) _Self-centered actions._  
+__self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
 __self-serving__ _adj_  
 __semblance__ _n_ _The semblance of peace._  
 __senate__ _n_ :mega:  
@@ -197,7 +198,7 @@ __sharp__ _adj_ _He’s a sharp guy._
 __sheaf__ _n_ _A sheaf of photos._  
 __shingle__ _n, v_ :three::hammer:  
 __shotgun__  
-__showrunner__ (?)  
+__showrunner__ _n_ A person who has creative control over a broadcast series, as on television, and who manages its day-to-day operations.  
 __shrieking__ _adj, n_ _Shrieking panic._  
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
 __side effect__  
@@ -232,7 +233,7 @@ __sprawl__ _v_
 __spree__ _v_ Engage without restraint in an activity and indulge, as when shopping.  
 __springboard__ _n_  
 __spud__ _n_ __1__ _informal_ A potato.  
-__stabby__ (?)  
+__stabby__ _adj_  
 __stampede__  
 __stanchion__  
 __station__ _n_ _We can maintain station._  
@@ -326,125 +327,3 @@ __worsen__ _v_
 __worsened__ _v_  
 __zugzwang__  
 __Zulu time__  
-__a cry for help__ (?)  
-__abide by__  
-__above and beyond__  
-__all around__  
-__all over the map__ (?)  
-__and beyond__ (?)  
-__and everything in-between__ (?)  
-__at a snail’s pace__  
-__at any rate__  
-__bank on (something)__ (?)  
-__be at odds with each other__ (?)  
-__bear hug__ (?)  
-__bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
-__behind the scenes__  
-__bigger fish__ (?)  
-__bite the dust__ _Bite the dust, asteroid!_  
-__break the ceil(ing)__ (?)  
-__bric-a-brac__ (?) _A bric-a-brac barrow._  
-__call the shots__  
-__cast/shed/throw light on something__ :two::hammer:  
-__cold feet__  
-__come to terms__  
-__day in and day out__  
-__dead man walking__  
-__duke it out__  
-__fall short__  
-__false alarm__  
-__few and far between__  
-__final straw__ (?)  
-__first and foremost__  
-__for better or worse__  
-__for the sake of__  
-__frog boiling water__ (?) (DAX for something with these words)  
-__game changer__  
-__game plan__ :two::hammer:  
-__get (something) straight__ _Let’s get this straight._  
-__get it off my chest__  
-__get shut-eye__ _I’ll get some shut-eye._  
-__get the hang of something__  
-__get triggered__ (?)  
-__get your shit together__  
-__go apeshit__ (?)  
-__go for the jugular__ (?) _Go straight for the jugular._  
-__go overboard__ (?)  
-__go the distance__ (?)  
-__go vacant__ _Her eyes went vacant again._  
-__golden boy__  
-__good call__  
-__goof up__ (?)  
-__grab a forty__ (?)  
-__hard evidence__ (?)  
-__hate to ask__ (?)  
-__have your shit together__ (?) :two::hammer:  
-__head and shoulders__  
-__heads up__ _Thanks for giving me the heads up._  
-__heavy lifting__  
-__higgledy-piggledy__  
-__high and dry__  
-__hold the candle__ (?)  
-__I’m down for it__ (?)  
-__in a heartbeat__ (?)  
-__in closing__ (?) :two::hammer:  
-__in hindsight__ (?)  
-__in light of this__ (?)  
-__in perfect harmony__  
-__in shambles__ (?)  
-__in the long term__  
-__joy-joy feelings__  
-__keep pace__ (?)  
-__keep tabs on someone__  
-__keep tabs__  
-__kindred spirit__  
-__land on (one’s) feet__  
-__leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
-__learn the ropes__  
-__let alone__  
-__let down__  
-__lie ahead of (someone or something)__  
-__line of work__  
-__lost on me__ _It is not lost on me._  
-__main driver__ (?)  
-__makes us tick__ (?)  
-__mixed bag__  
-__more than meets the eye__  
-__move the goal post__ (?)  
-__naked eye__ (?) _With the naked eye._  
-__narrow down__ (?)  
-__night and day__  
-__not even close__ (?)  
-__of no account__ (?)  
-__off kilter__ (?)  
-__off the clock__ (?)  
-__on a different note__ (?)  
-__on fours__ (?)  
-__on leave__  
-__on short notice__  
-__on that note__  
-__on the contrary__ (?)  
-__on the spur of the moment__  
-__out of harm’s way__ (?)  
-__owing to__  
-__pass or fail__ (?)  
-__piece of shit__  
-__piping hot__  
-__play ball__  
-__power washing__  
-__practice makes perfect__  
-__prove correct__ _His guess that the flight would be delayed proved correct._  
-__push the can down the road__ (?)  
-__put out (up?) fires__ (?)  
-__put to the test__  
-__put up with__  
-__put up__  
-__red con__ (?)  
-__relief party__  
-__rock the boat__  
-__rub elbows__  
-__run the shop__ (?)  
-__save the day__ :two::hammer:  
-__slippery slope__  
-__slow burner__  
-__small hours__ (?)  

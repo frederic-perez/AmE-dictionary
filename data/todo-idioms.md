@@ -1,65 +1,167 @@
 __a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
+__a cry for help__  
 __a good scout__ An honest, affable, reliable, and trustworthy person. _Your dad’s a good scout, you know that? He’s helped me out of so many jams without even thinking twice._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
-__abide by__  
-__above and beyond__  
+__abide by__ :two::hammer:  
+__above and beyond__ :three::hammer:  
 __according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
+__all around__  
+__all over the map__  
+__at a snail’s pace__  
+__at any rate__  
+__bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
+__be at odds with__  
 __be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
+__bear hug__  
+__bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
+__behind the scenes__  
+__big fish__  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
+__bite the dust__ _Bite the dust, asteroid!_  
+__boiling frog__  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __call it a day__ _If there are no further points, then let’s call it a day._  
+__call the shots__  
+__cast/shed/throw light on something__ :two::hammer:  
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
+__cold feet__  
+__come to terms__  
+__day in and day out__  
+__dead man walking__  
 __don’t get (one) started__  
+__down for (something)__  
+__down the road__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
+__duke it out__  
 __easy peasy__  
+__fall short__  
+__false alarm__  
+__few and far between__  
+__first and foremost__  
 __food baby__  
+__for better or worse__  
+__for the sake of__  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __Friendsgiving__  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
+__game changer__  
+__game plan__ :two::hammer:  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
+__get (one’s) shit together__ :two::hammer:  
+__get (something) straight__ _Let’s get this straight._  
+__get it off my chest__  
+__get shut-eye__ _I’ll get some shut-eye._  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
+__get the hang of something__  
+__get your shit together__  
+__go apeshit__  
 __go berserk__  
+__go for the jugular__ _Go straight for the jugular._  
+__go overboard__  
+__go the distance__  
+__go vacant__ _Her eyes went vacant again._  
+__golden boy__  
+__good call__  
+__goof up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
+__head and shoulders__  
+__heads up__ _Thanks for giving me the heads up._  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
+__heavy lifting__  
+__higgledy-piggledy__  
+__high and dry__  
 __hold (someone or something) back (from someone or something)__  
+__hold a candle to__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __hulk out__  
+__in (a) shambles__  
+__in (the) light of (something)__  
+__in a heartbeat__  
+__in hindsight__  
+__in perfect harmony__  
 __in spite of__  
 __in the face of (something)__  
+__in the long term__  
+__joy-joy feelings__  
+__keep pace__  
+__keep tabs on someone__  
+__keep tabs__  
+__kindred spirit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__land on (one’s) feet__  
+__leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
+__learn the ropes__  
+__let alone__  
+__let down__  
+__lie ahead of (someone or something)__  
+__line of work__  
+__lost on me__ _It is not lost on me._  
 __mean the world to (one)__ :dart:  
+__mixed bag__  
+__more than meets the eye__  
 __move on__ _So, moving on to the next item on the agenda._  
+__move the goal posts__  
+__naked eye__ _With the naked eye._  
+__narrow down__  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__night and day__  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
+__not even close__  
+__of no account__  
+__off the clock__  
+__off-kilter__  
+__on a different note__  
 __on demand__ _Requested on demand._  
-__on the contrary__  
+__on leave__  
+__on short notice__  
+__on that note__  
+__on the contrary__ :two::hammer:  
+__on the spur of the moment__  
 __once and for all__  
+__out of harm’s way__  
 __out of sight, out of mind__  
+__owing to__  
 __party pooper__  
 __pass along__  
 __pave the way__  
 __pay (for something) up front__  
-__practice makes perfect__  
+__piece of shit__  
+__piping hot__  
+__play ball__  
+__power washing__  
+__practice makes perfect__ :two::hammer:  
 __prone to__  
 __put (oneself) in (someone’s) shoes__  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
+__put out fires__  
+__put to the test__  
+__put up with__  
+__put up__  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
+__relief party__  
 __riddled with__  
 __rip (someone or something) to shreds__  
+__rock the boat__  
+__rub elbows__  
 __rub out__  
+__run the show__  
 __save face__  
+__save the day__ :two::hammer:  
 __second-class citizen__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __sick as a dog__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
+__slippery slope__  
+__slow burner__  
+__small hours__ (wee hours)  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -116,6 +218,7 @@ __the big picture__
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
+__the final straw__  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
 __the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the likes of (someone or something)__  
@@ -167,6 +270,7 @@ __tour de force__ :three::hammer:
 __trace back__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
+__trigger__  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
@@ -194,6 +298,7 @@ __weigh on__
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
+__what makes (one) tick__  
 __what the heck__  
 __what’s up with__  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
