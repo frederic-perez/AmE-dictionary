@@ -130,6 +130,26 @@ def print_colored_if_positive(label, number):
         message = label + ' = ' + str(number)        
         print('🐞 ' + FAIL + message + END_C)
 
+def get_clean_headword(entry):
+    """Self-explanatory"""
+    tokens = entry.split()
+    num_tokens = len(tokens)
+    if num_tokens == 0:
+        return '(empty)'
+    headword = tokens[0]
+    headword_completed = headword.count('__') == 2
+    idx = 0
+    while not headword_completed:
+        idx += 1
+        if idx == num_tokens:
+            headword_completed = True
+        else:
+            headword += ' ' + tokens[idx]
+            if headword.count('__') == 2:
+                headword_completed = True
+    clean_headword = headword.replace('__', '')
+    return clean_headword
+
 def get_headword_part_of_speech_etc(tokens, do_print=False):
     """Self-explanatory"""
     num_tokens = len(tokens)
@@ -268,127 +288,107 @@ class Checker(object):
     def treat_invalid_entry_ending(self, entry):
         """Self-explanatory"""
         self.num_invalid_endings += 1
-        tokens = entry.split()
-        num_tokens = len(tokens)
-        if num_tokens > 0:
-            headword = tokens[0]
-        else:
-            headword = '(empty)'
-        print(headword + FAIL + ' « Incorrect entry ending #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Incorrect entry ending #' \
             + str(self.num_invalid_endings) + END_C)
 
     def treat_invalid_underscores_use(self, entry):
         """Self-explanatory"""
         self.num_invalid_use_of_underscores += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Incorrect use of underscores #' \
+        clean_headword = get_clean_headword(entry)
+        print(lean_headword + FAIL + ' « Incorrect use of underscores #' \
             + str(self.num_invalid_use_of_underscores) + END_C)
 
     def treat_invalid_parentheses_or_brackets_use(self, entry):
         """Self-explanatory"""
         self.num_invalid_use_of_parentheses_or_brackets += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Incorrect use of parentheses or brackets #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Incorrect use of parentheses or brackets #' \
             + str(self.num_invalid_use_of_parentheses_or_brackets) + END_C)
 
     def treat_invalid_syn(self, entry):
         """Self-explanatory"""
         self.num_invalid_syn += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Incorrect use of syn #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Incorrect use of syn #' \
             + str(self.num_invalid_syn) + END_C)
 
     def treat_invalid_entry_tags(self, entry, tag):
         """Self-explanatory"""
         self.num_invalid_tags += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + END_C \
+        clean_headword = get_clean_headword(entry)
+        print(FAIL + clean_headword + ' ' + BOLD + ':' + tag + ':' + END_C \
              + ' « Invalid tag #' + str(self.num_invalid_tags) + END_C)
 
     def treat_too_many_double_spaces(self, entry):
         """Self-explanatory"""
         self.num_too_many_double_spaces += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        part_of_speech = tokens[1]
-        print(headword + ' ' + part_of_speech + FAIL \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL \
             + ' « Too many double spaces #' \
             + str(self.num_too_many_double_spaces) + END_C)
 
     def treat_triple_spaces(self, entry):
         """Self-explanatory"""
         self.num_entries_with_triple_spaces += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Triple spaces #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Triple spaces #' \
             + str(self.num_entries_with_triple_spaces) + END_C)
 
     def treat_wrong_type_of_space_character(self, entry):
         """Self-explanatory"""
         self.num_entries_with_wrong_type_of_space_character += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Wrong type of space character #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Wrong type of space character #' \
             + str(self.num_entries_with_wrong_type_of_space_character) + END_C)
 
     def treat_tab_character(self, entry):
         """Self-explanatory"""
         self.num_entries_with_tab_character += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Tab character(s) #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Tab character(s) #' \
             + str(self.num_entries_with_tab_character) + END_C)
 
     def treat_straight_single_quote(self, entry):
         """Self-explanatory"""
         self.num_entries_with_straight_single_quote += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Straight single quote #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Straight single quote #' \
             + str(self.num_entries_with_straight_single_quote) + END_C)
 
     def treat_straight_double_quote(self, entry):
         """Self-explanatory"""
         self.num_entries_with_straight_double_quote += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Straight double quote #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Straight double quote #' \
             + str(self.num_entries_with_straight_double_quote) + END_C)
 
     def treat_double_dash(self, entry):
         """Self-explanatory"""
         self.num_entries_with_double_dash += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Double dash #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Double dash #' \
             + str(self.num_entries_with_double_dash) + END_C)
 
     def treat_colon_underscore(self, entry):
         """Self-explanatory"""
         self.num_entries_with_colon_underscore += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Colon followed by underscore #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Colon followed by underscore #' \
             + str(self.num_entries_with_colon_underscore) + END_C)
 
     def treat_rogue_underscore(self, entry):
         """Self-explanatory"""
         self.num_entries_with_rogue_underscore += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Rogue underscore #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Rogue underscore #' \
             + str(self.num_entries_with_rogue_underscore) + END_C)
 
     def treat_question_mark(self, entry):
         """Self-explanatory"""
         self.num_entries_with_question_mark += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        print(headword + FAIL + ' « Question mark (?) #' \
+        clean_headword = get_clean_headword(entry)
+        print(clean_headword + FAIL + ' « Question mark (?) #' \
             + str(self.num_entries_with_question_mark) + END_C)
 
     def treat_shit_tag(self, entry):
