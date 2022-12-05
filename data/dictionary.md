@@ -7977,6 +7977,7 @@ __homage__ _n_ :two: __1__ Formal acknowledgment by a vassal of allegiance to hi
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home furnishing__ _n_  
 __home school__ _v_  
+__home__ _v intr_ To go or return to one’s residence or base of operations.  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
 __homecoming__ _n_ :three::hammer: _She had been homecoming queen._ _Prom homecoming._  
@@ -8004,7 +8005,8 @@ __honcho__ _n_ :four::hammer: (honchos)
 __hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
 __hone__ _v_ _Visitors can hone their skills on classic games._  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, blunt, sincere, up front  
-__honeycomb__ _n_ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
+__honeycomb<sup>1</sup>__ _n_ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
+__honeycomb<sup>2</sup>__ _v_  
 __honeymoon__ _n_  
 __honeypot__  
 __honeysuckle__  
@@ -8055,12 +8057,13 @@ __horn__ _n_
 __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
 __horripilation__ _n_ :two::astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
+__hors d’oeuvres__  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word “horse” is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horseplay__ _n_  
-__horsepower__ _n_ _Physical horsepower._  
+__horsepower__ _n_ :two::hammer: _Physical horsepower._  
 __horseradish__ _n_ :three::hammer:  
 __horseshit__ _n_ _That’s like horseshit squared!_  
 __horseshoe__ _n_ :four::hammer: (horseshoes) :es: herradura  
@@ -8096,12 +8099,12 @@ __hotbed__ _n_ :nine::m: /ˈhɒtˌbɛd/ A situation that is ideal for rapid deve
 __hotboxing__  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hotfoot__ _v_  
-__hothead__ _n_ :three::hammer:  
+__hothead__ _n_ :four::hammer:  
 __hotheaded__ _adj_ /HOT-hed-id/ __1__ Easily angered. __2__ Very angry. __3__ Rash.  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hots d’oeuvres__ _n_ /or-DERVEs/  
-__hotspot__ _n_ :two::hammer:  
+__hotspot__ _n_ :three::hammer:  
 __hotspur<sup>1</sup>__ _n_ /HOT-spuhr/ A rash, hotheaded person.  
 __hotspur<sup>2</sup>__ _adj_ /HOT-spuhr/ Having a rash, hotheaded temperament.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
@@ -8147,7 +8150,7 @@ __hubhub__
 __hubris__ _n_ :eight: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
 __huckster__ _n_ :five: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
 __huckterism__  
-__huddle<sup>1</sup>__ _n_ :four: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
+__huddle<sup>1</sup>__ _n_ :six: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v tr_ :five: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
 __huddle<sup>3</sup>__ _v intr_  
 __Huey__  
@@ -8173,6 +8176,7 @@ __humor<sup>1</sup>__ _n_
 __humor<sup>2</sup>__ _v_ :five::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
+__humpback whale__  
 __Humpty Dumpty__ _n_ :five: (humpty dumpty, humpty-dumpty) [:scroll: After Humpty Dumpty, a character in a nursery rhyme, who is irreparably broken after a fall. He’s typically shown as an anthropomorphic egg.] __1__ A short, rotund person. __2__ Something or someone broken beyond repair.  
 __Humvee__ _n_ :two::hammer:  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
@@ -8256,6 +8260,7 @@ __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.
 __ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
 __ice-cold__ _adj_  
 __ice-slick chain__  
+__iceblink__ _n_ _We had perfect iceblink conditions._  
 __icebox__ _n_  
 __icicles__ _n_ :two::hammer:  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
@@ -8277,9 +8282,9 @@ __idiot box__
 __idle__ _v_  
 __idolatry__ _n_ :three::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
-__idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :five::pencil2: Excellent and delightful in all respects. _An idyllic setting for romantic dinners._  
+__idyllic__ _adj_ :six::pencil2: /ɪˈdɪlɪk; aɪ-/ Excellent and delightful in all respects. _An idyllic setting for romantic dinners._  
 __iffy__ _adj_ _slang_ :eight: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
-__igloo__ _n_ :mega:  
+__igloo__ _n_ :two::mega::hammer:  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
 __ignoble__ _adj_ :two::hammer:  
@@ -8318,7 +8323,7 @@ __immortalize__ _v_ Make famous forever.
 __immutable__ _adj_ /ih-MYOO-tuh-bul/  
 __imp__ _n_ :two::hammer: _Its imp genius._  
 __impact__ _n_ _Sterling struggled to make an impact in the second half._  
-__impairment__  
+__impairment__ _n_ :two::hammer:  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
 __impaneled__ _v_  
 __impart__ _v_  
@@ -8337,11 +8342,12 @@ __impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede
 __impel__ _v_ :two: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
-__imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
+__imperious__ _adj_ :three: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
+__impetuous__ _adj_  
 __impetus__ _n_ :six: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -8353,7 +8359,7 @@ __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch
 __imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
 __impound<sup>1</sup>__ _n_ _The impound yard._  
 __impound<sup>2</sup>__ _v_ :three::hammer: (impounded) _The Ponticac was impounded._  
-__impoverished__ _v_  
+__impoverish__ _v_ :two::hammer:  
 __impracticable__ _adj_ Not capable of being carried out or put into practice. _Syn_ unfeasible, unworkable _Refloating the sunken ship intact proved impracticable because of its fragility._  
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  

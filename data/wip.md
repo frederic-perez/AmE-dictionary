@@ -1,18 +1,3 @@
-__homed__ _v_  
-__honeycombed__ _v_  
-__hors d’oeuvres__  
-__horsepower__ _n_  
-__hothead__ _n_  
-__hotspot__ _n_  
-__huddle__ _n_ :two::hammer:  
-__humpback whale__  
-__iceblink__ _n_ _We had perfect iceblink conditions._  
-__idyllic__  
-__igloo__ _n_  
-__impairment__  
-__imperious__  
-__impetuous__ _adj_  
-__impoverish__ _v_  
 __inadequacy__  
 __inbound__ _adj, adv_  
 __ineffable__ _adj_  
