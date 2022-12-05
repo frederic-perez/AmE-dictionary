@@ -5246,7 +5246,7 @@ __egomaniac__
 __egotistical__ _adj_ :two::hammer:  
 __egotists__  
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
-__egress<sup>1</sup>__ _n_ :two::hammer:  
+__egress<sup>1</sup>__ _n_ :three::hammer:  
 __egress<sup>2</sup>__ _v intr_ To go out; emerge.  
 __egret__ _n_ :six: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
@@ -5301,7 +5301,7 @@ __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/
 __elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elucidation__ _n_  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
-__elusive__ _adj_ :two::hammer:  
+__elusive__ _adj_ :three::hammer: _An elusive goal._  
 __elute__ _v tr_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
@@ -5322,7 +5322,7 @@ __embezzler__ _n_ _Embezzlers are heading to Delaware._
 __embitterment__  
 __emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
 __embodiment__  
-__embody__ _v_  
+__embody__ _v_ :two::hammer:  
 __embolden__ _v_ :three::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
@@ -5394,7 +5394,7 @@ __endangerment__
 __endarterectomy__ _n_ :mega:  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
-__endeavor__ _v_ Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
+__endeavor__ _v_ :two: Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
 __endocrine__ _n_ :mega:  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
 __endorse__ _v_ Give support or one’s approval to. _Syn_ second, back _Before I can move forward with a project of this magnitude, my boss must first endorse it._  
@@ -5458,13 +5458,14 @@ __entourage__ _n_ :two::hammer: :es: séquito
 __entrain__ _v_  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
-__entrant__ _n_ :two::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
+__entrant__ _n_ :three::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
 __entreat__ _v_ _Syn_ beg, plead  
 __entrée__  
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :eight: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entrepreneur__ _n_ :pencil2:  
+__entrust__  
 __entryway__ _n_ _An entryway aquarium._  
 __entwine__ _v_ :two: (entwined) Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
 __enumerate__ _v tr_ __1__ To count off or name one by one; list: _A spokesperson enumerated the strikers’ demands._ __2__ To determine the number of; count.  
@@ -5473,7 +5474,7 @@ __envelop__ _v_
 __enviable__ _adj_ :two::hammer:  
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __environs__ _n pl_  
-__envisage__ _v_ :three: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
+__envisage__ _v_ :four: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
 __envision__ _v_ :four::hammer:  
 __eolian__ _adj_ :two: /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind. Borne, deposited, produced, or eroded by the wind.  
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
@@ -5572,7 +5573,7 @@ __ethereality__ _n_
 __ethos__ _n_ :nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
-__etymology__ _n_ :astonished: Study of the sources and development of words.  
+__etymology__ _n_ :two::astonished: Study of the sources and development of words. Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
 __eulogy__ _n_ :five::hammer:  
 __eunuch__ _n_  
@@ -5637,11 +5638,11 @@ __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech ex
 __execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __executive suite__ _n_  
-__exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._  
+__exemplary__ _adj_ :three::hammer: _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
-__exert__ _v_ :nine: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
+__exert__ _v_ :nine::m: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :nine::m:hammer: /ɪgˈzɜr ʃən/ _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
@@ -5692,9 +5693,11 @@ __exquisite__ _adj_ :two::hammer: _Exquisite acting._
 __extant__ _adj_  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
+__extensive__ _adj_ _Extensive discussions._  
 __extensively__ _adv_ _She’s been working extensively._  
 __extent__ _n_  
 __extenuate__ _v_ :astonished:  
+__extirpate__ _v_ /EK-ster-payt/ _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :seven::hammer: (extolled, extolling)  
 __extort__ _v_  
@@ -5742,6 +5745,7 @@ __face left__ _n_ (vs face right) _Two admirals did a left face and screwed ever
 __face off__ _v_ :two::hammer: _(sports)_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
+__face__ _v_ _The problems faced by the network operators._  
 __face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __facelift__ _n_ :two::hammer: (face-lift)  
 __facetious__ _adj_ :seven::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
@@ -5814,6 +5818,7 @@ __fan<sup>1</sup>__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are b
 __fan<sup>2</sup>__ _v_ _Jack should have to fan the fire a little._  
 __fanaticism__ _n_ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
+__fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
 __fancied__ _v_  
 __fancier__ _n_ A person having a strong liking for something. _Syn_ enthusiast _I am somewhat of a fowl fancier, and I have seldom seen a better grown goose._  
 __fanciful__  

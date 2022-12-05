@@ -1,18 +1,3 @@
-__egress__ _n_  
-__elusive__ _adj_ _An elusive goal._  
-__embody__ _v_  
-__encompass__ _v_  
-__endeavor__ _v_  
-__entrant__ _n_  
-__entrust__  
-__envisage__ _v_  
-__etymology__ _n_ Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
-__exemplary__  
-__exert__ _v_  
-__extensive__ _adj_ _Extensive discussions._  
-__extirpate__ _v_ /EK-ster-payt/ _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
-__face__ _v_ _The problems faced by the network operators._  
-__fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
 __farce__ _n_ /FAHRSS/ _The award-winning actor has a talent for farce._  
 __feature phone__ _n_  
