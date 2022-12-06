@@ -1,18 +1,3 @@
-__inadequacy__  
-__inbound__ _adj, adv_  
-__ineffable__ _adj_  
-__infallible__  
-__infantile__ _adj_ _This infantile stress response should end._  
-__infeasible__ _adj_  
-__infectious__ _adj_ _Infectious smile._  
-__infotainment__  
-__inhibitor__ _n_  
-__inkling__  
-__insidious__ _adj_  
-__insourcing__  
-__intrinsic__ _adj_  
-__invite__ _n informal_ An invitation.  
-__irrespective__ _adj_  
 __jeopardy__ _n_  
 __jet blast deflector__  
 __jet blast__  

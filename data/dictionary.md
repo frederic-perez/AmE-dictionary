@@ -8391,7 +8391,7 @@ __in-house__ _adj_ :four::hammer: _In-house experts._ _An in-house system._
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
 __in-tray__ _n_ _What’s in the in-tray of NHS England’s new chief executive?_  
 __in-your-face__ _adj_ _An in-your-face farewell._  
-__inadequacy__  
+__inadequacy__ _n_ :two::hammer:  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
@@ -8405,8 +8405,9 @@ __inarticulate__ _adj_ :five::hammer: _Inarticulate people._ :es: incapaz de exp
 __inasmuch__  
 __inaugural__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
-__inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
-__inbound<sup>2</sup>__ _v_  
+__inbound<sup>1</sup>__ _adj_ :four::hammer: _Inbound trip._ _Inbounds pass._  
+__inbound<sup>2</sup>__ _adv_  
+__inbound<sup>3</sup>__ _v_  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ _n_ :four::hammer:  
 __incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
@@ -8480,7 +8481,7 @@ __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My fathe
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
 __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __inebriated__ _adj_  
-__ineffable__ _adj_ :five: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
+__ineffable__ _adj_ :six: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __ineffectual__  
 __inefficacious__ _adj_  
 __ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
@@ -8495,11 +8496,14 @@ __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn
 __inextricable__ _adj_  
 __inextricably__ _adv_ :four::hammer: _Syn_ inseparably, totally, intricately, irretrievably, indissolubly, indistinguishably _Our survival is inextricably linked to survival of the rainforest._  
 __infallibity__  
+__infallible__ _adj, n_  
 __infamous__ _adj_ :nine::m: __1__ Causing or deserving a bad reputation; shocking: _infamous conduct._ _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__ _n_ :two::hammer:  
 __infant__ _n_  
+__infantile__ _adj_ _This infantile stress response should end._  
 __infare__ _n_  
-__infeasible__ _adj_ _Syn_ unfeasible  
+__infeasible__ _adj_ :two::hammer: _Syn_ unfeasible  
+__infectious__ _adj_ _Infectious smile._  
 __infectivity__ _n_  
 __inferno__ _n_ _All kinds of Indian infernos._  
 __infibulation__ _n_ _The Moslem practice of infibulation involved attaching a padlock to the labia._  
@@ -8521,6 +8525,7 @@ __infomania__ _n_ A condition of reduced concentration caused by continually res
 __infomercial__ _n_  
 __informant__ _n_  
 __infotainment system__  
+__infotainment__  
 __infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
 __infrasound__ _n_ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
@@ -8536,6 +8541,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inhalation__ _n_ :mega:  
 __inhale__ _v_ _slang_ To eat very quickly.  
+__inhibitor__ _n_  
 __inimical__ _adj_ :five: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly __3__ Injurious or harmful in effect; adverse. _Syn_ hurtful, injurious _The inimical effects of smoking have been thoroughly documented._  
 __inimitable__ _adj_  
 __iniquity__ _n_ :six: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality _The sons of iniquity._ __2__ A grossly immoral act; a sin.  
@@ -8544,7 +8550,7 @@ __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or 
 __injury time__  
 __injury-marred__ _adj_ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
-__inkling__ _n_ :seven: __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
+__inkling__ _n_ :eight: __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
 __inland<sup>1</sup>__ _adj_ :two::hammer:  
 __inland<sup>2</sup>__ _adv_  
 __inland<sup>3</sup>__ _n_  
@@ -8573,7 +8579,7 @@ __insatiable__ _adj_ _An insatiable learner._
 __inscribed__ _v_  
 __inscrutable__ _adj_ :four: /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
 __inset<sup>2</sup>__ _n_ :two::hammer:  
-__insidious__  
+__insidious__ _adj_ :two::hammer:  
 __insinuate__ _v_ /in-SIN-yuh-wayt/  
 __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
 __insipid__  
@@ -8584,6 +8590,7 @@ __insolent__ _adj_
 __insolvency__  
 __insomniac__ _n_  
 __insouciant__ _adj_ Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
+__insourcing__ _n_  
 __inspirit__ _v tr_ To instill courage or life into.  
 __inspissate__ _v_ To undergo thickening or cause to thicken, as by boiling or evaporation. _Syn_ condense, thicken _The recipe then instructed the cook to inspissate the sauce by adding flour._  
 __instability__ _n_ :three::hammer::pencil2:  
@@ -8653,6 +8660,7 @@ __intransigent__ _adj_ :two: /in-TRAN-suh-junt/ Refusing to moderate a position,
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacy__ _n_ :four::mega::hammer: /ˈɪn trɪ kə si/ (intricacies)  
 __intricate__ _adj_ :two::hammer:  
+__intrinsic__ _adj_  
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
 __inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator’s office with letters of protest, we are certain to get her attention._  
@@ -8671,6 +8679,7 @@ __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._
 __invigorating__ _adj_  
 __invincible__ _adj_ /in-VIN-suh-bul/  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
+__invite__ _n informal_ An invitation.  
 __invoice__ _v_  
 __invoke__  
 __involute<sup>1</sup>__ _adj_ /IN-vuh-loot/ __1__ Intricate; complex. __2__ Curled inward.  
@@ -8700,6 +8709,7 @@ __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical end
 __irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
+__irrespective__ _adj_  
 __irrigate__ _v_ :dart:  
 __irritating__ _adj_ _Syn_ annoying, tiresome  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
