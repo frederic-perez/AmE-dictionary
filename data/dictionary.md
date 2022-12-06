@@ -47,6 +47,7 @@ __abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothe
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
 __abbesses__ _n pl_  
+__abdicate__ _v_ /AB-dih-kayt/ To abdicate is to renounce or relinquish a position of usually sovereign power. It can also mean “to cast off; discard.” _She abdicated her position in response to the allegations._ _There can be serious repercussions when someone abdicates their responsibilities._  
 __abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
 __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rudiments of a subject. _Syn_ beginner, fledgling, freshman, greenhorn, initiate, neophyte, novice, novitiate, tenderfoot, tyro _slang_ rookie  
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
@@ -536,6 +537,7 @@ __angle iron__
 __angle__ _v_  
 __angler fish__ _n_ :camera:  
 __angler__ _n_ :six::hammer: (anglers)  
+__Anglicism__ _n_ (sometimes _anglicism_) __2__ An English word, idiom, etc., occurring in or borrowed by another language.  
 __angling__ _v_ :four::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ _adj_ :two::hammer:  
@@ -1347,7 +1349,7 @@ __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._
 __bell tower__ _n_  
 __bellboy__ _n_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests’ luggage and run errands.  
-__bellicose__  
+__bellicose__ _adj_ :two: Warlike in manner or temperament; pugnacious. _Syn_ battleful, combative, contentious  
 __belligerence__ _n_ A hostile or warlike attitude, nature, or inclination. _Syn_ pugnacity, aggressiveness _The little lawyer glared at me a moment, and then the belligerence faded out of his face._  
 __belligerent__  
 __bellman__ _n_  
@@ -2690,6 +2692,7 @@ __cede__
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celeriac__ _n_  
+__celerity__ _n_ /suh-LAIR-uh-tee/ Celerity is a formal word that means “swiftness of motion or action.” _When the developers’ intentions became clear, the community came together with celerity to preserve the town’s beloved wetlands for future generations._  
 __celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __celibacy__ _n_  
 __cellist__ _n_ :two::hammer:  
@@ -2840,6 +2843,7 @@ __cherimoya__ _n_ (chirimoya)
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
 __cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
+__cherubic__ _adj_ /chuh-ROO-bik/ Having a sweet, innocent appearance.  
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
 __chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
 __chevron__ _n_  
@@ -4040,7 +4044,7 @@ __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used 
 __cutlet__ _n_ _Chicken cutlets._  
 __cutline__ _n_  
 __cutoff<sup>1</sup>__ _adj_ __1__ Designating a limit or point of termination: _a cutoff date for applications._ _The investigation kept going for months beyond its original cutoff date._  
-__cutoff<sup>2</sup>__ _n_ (cutoffs) Pants, such as blue jeans, made into shorts by cutting off part of the legs. _Cutoff trousers._  
+__cutoff<sup>2</sup>__ _n_ (cutoffs) __1__ Pants, such as blue jeans, made into shorts by cutting off part of the legs. _Cutoff trousers._ __2__ A route shorter than the usual one. _Syn_ shortcut, crosscut _My father claimed he knew a great cutoff, but it turned out to be longer than our original route._  
 __cutter__ _n_ _A Coast Guard cutter._  
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
@@ -5336,6 +5340,8 @@ __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts a
 __emceed__ _v_  
 __emerald__ _n_ :four::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emergency__ _n_ :mega:  
+__emerita<sup>1</sup>__ _adj_ /ɪˈmɛrɪtə/ Retired but retaining an honorary title corresponding to that held immediately before retirement. Used of a woman: _a professor emerita._  
+__emerita<sup>2</sup>__ _n_ A woman who is retired, esp from academia, but still retains an honorary title.  
 __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
 __emery board__ _n_ :two: A small flat strip of wood or card coated with emery powder and used for filing the fingernails. :es: lima de uñas  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
@@ -6972,7 +6978,7 @@ __glitten__ _n_ A fingerless glove having a hoodlike pouch at the knuckles that 
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“private parties on Park Avenue and Central Park West, where the literati mingled with glitterati” (Skylines)._  
 __glitz__ _n_ :two::hammer:  
 __glitzy__ _adj_ :two::hammer:  
-__gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
+__gloaming__ _n_ _poetic_ :four: /GLOH-ming/ Gloaming is a literary term synonymous with _twilight_ and _dusk_, the darker part of twilight. It’s used most commonly in the noun phrase _the gloaming_. _Across the field, fireflies twinkled in the gloaming._  
 __gloat<sup>1</sup>__ _v_ :nine::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __gloat<sup>2</sup>__ _n_  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
@@ -10218,7 +10224,7 @@ __metonymy__ _n_ Metonymy is when the name of something is replaced with somethi
 __metro<sup>1</sup>__ _n_ A subway system.  
 __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__ _n_ :nine::m::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._  
+__mettle__ _n_ :nine::m::dart: __1__ Courage; spirit. The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._ __2__ Inherent character.  
 __mettlesome__ _adj_ /MET-ul-sum/ Full of vigor and strength of spirit or temperament. _The rider was experienced and had no trouble handling the mettlesome horse._  
 __mezzanine__  
 __miasma__ _n_ :four::hammer: _An opaque miasma._  
@@ -11701,6 +11707,7 @@ __peptalked__ _v_
 __per diem__  
 __per se__ _adv_ :two::mega: /pər sā′, sē′/  
 __percentile__ _n_ :mega:  
+__perceptible__ _adj_ /per-SEP-tuh-bul/ Able to be seen or noticed.  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
@@ -14831,7 +14838,7 @@ __soiled__
 __soiree__ _n_ An evening party or reception.  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
-__solace__ _n_ :six::mega: /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset.  
+__solace__ _n_ :seven::mega: /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
@@ -15889,6 +15896,7 @@ __tally__ _v_
 __talon__ _n_ (talons) _The nails were sharp as talons._ :es: garra  
 __talpa__ _n_ [:scroll: From Latin talpa (mole). Because a mole burrows under the earth, the word came to be applied to a growth under the skin: a cyst or a tumor.] /TAL-puh/ __1__ A mole (the animal). __2__ A cyst.  
 __tamale__ _n_ (tamales) A Mexican dish made of chopped meat and crushed peppers, highly seasoned, wrapped in cornhusks spread with masa, and steamed. _I’m staying away from that one—that’s a hot tamale._  
+__tambour__ _n_ A small wooden embroidery frame consisting of two concentric hoops between which fabric is stretched. _Syn_ embroidery frame, embroidery hoop _She was addicted to needlepoint and took her tambour wherever she went._  
 __tamp down__ _v_ :two::hammer:  
 __tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
 __tan<sup>1</sup>__ _v_  
