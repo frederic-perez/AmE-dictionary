@@ -2,12 +2,14 @@ __a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to underst
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
 __a cry for help__  
 __a good scout__ An honest, affable, reliable, and trustworthy person. _Your dad’s a good scout, you know that? He’s helped me out of so many jams without even thinking twice._  
+__a mine field__  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __abide by__ :two::hammer:  
 __above and beyond__ :three::hammer:  
 __according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
 __all around__  
 __all over the map__  
+__an iron fist__  
 __at a snail’s pace__  
 __at any rate__  
 __bank on something__  
@@ -23,11 +25,13 @@ __bite the dust__ _Bite the dust, asteroid!_
 __boiling frog__  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
+__brighten up (the) day__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call the shots__  
 __cast/shed/throw light on something__ :two::hammer:  
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
+__check out__  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
@@ -42,10 +46,12 @@ __duke it out__
 __easy peasy__  
 __fall short__  
 __false alarm__  
+__fan service__  
 __few and far between__  
+__fight the good fight__  
 __first and foremost__  
 __food baby__  
-__for better or worse__  
+__for better or worse__ :three::hammer:  
 __for the sake of__  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __Friendsgiving__  
@@ -71,6 +77,7 @@ __good call__
 __goof up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
+__have a trick up (one’s) sleeve__  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __head and shoulders__  
 __heads up__ _Thanks for giving me the heads up._  
@@ -84,15 +91,18 @@ __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Ho
 __hulk out__  
 __in (a) shambles__  
 __in (the) light of (something)__  
+__in a big bad way__  
 __in a heartbeat__  
 __in hindsight__  
 __in perfect harmony__  
 __in spite of__  
 __in the face of (something)__  
 __in the long term__  
+__in this day and age__  
 __joy-joy feelings__  
 __keep pace__  
 __keep tabs on someone__  
+__keep tabs on__  
 __keep tabs__  
 __kindred spirit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
@@ -147,16 +157,20 @@ __put up with__
 __put up__  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __relief party__  
+__rest on her laurels__  
 __riddled with__  
 __rip (someone or something) to shreds__  
 __rock the boat__  
 __rub elbows__  
 __rub out__  
 __run the show__  
+__running bit__  
 __save face__  
 __save the day__ :two::hammer:  
 __second-class citizen__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
+__shot down__  
+__shut down__  
 __sick as a dog__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slippery slope__  
@@ -172,6 +186,7 @@ __steppingstone__
 __sticky fingers__  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __stow away__  
+__strike off__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
 __sum up__ _Summing up, we can say that yadda yadda yadda._  
@@ -224,6 +239,8 @@ __the handwriting on the wall__ _He could see the handwriting on the wall._
 __the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
+__the meat and potatoes__  
+__the more you know__  
 __the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
 __the nitty-gritty__  
@@ -277,6 +294,7 @@ __turn turtle__ To turn upside down; to flip over. This phrase is often used to 
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __twofer__  
 __uncanny valley__  
+__under one’s thumb__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
@@ -335,10 +353,12 @@ __work in concert__ To work together or in cooperation. _The two of us will need
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
+__yada yada yada__  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
 __you don’t say__  
 __you look a little peaked__ You look ill, especially as if you might vomit. _You look a little peaked since you got off that roller coaster. Do you want some ginger ale to settle your stomach?_  
+__you scratch my back, I’ll scratch yours__  
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  
