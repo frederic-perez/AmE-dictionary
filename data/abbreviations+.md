@@ -158,6 +158,7 @@ __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._
 __ppl__ _informal_ People.  
 __pppn__ _abbr_ Per person per night.  
 __PR__ _The PR version of my life._  
+__PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.
 __PTO__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
 __PVC__ Polyvinyl Chloride.  

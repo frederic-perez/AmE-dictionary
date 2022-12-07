@@ -1,10 +1,17 @@
+__craft__ _v tr_  
+__discord__  
+__disjoint__ _v_  
+__douchebag__  
+__factoids__  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
 __farce__ _n_ /FAHRSS/ _The award-winning actor has a talent for farce._  
 __feature phone__ _n_  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __federate__ _v_ :two::hammer: (federating)  
+__firsthand__ _adj_  
 __flagship__ _n_ _It has become another flagship event._  
 __flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
+__flinch__ _v_  
 __flourish__ _n_ _A flourish of proposals._  
 __food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
 __foresee__ _v_ (foreseen)  
@@ -17,14 +24,16 @@ __giblets__ _n_ The edible heart, liver, neck, and gizzard of a fowl.
 __granular__ _adj_  
 __grasp__ _v_  
 __halcyon__ _adj_ Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._  
+__hallmark__ _n_  
 __handover__ _n_ :two::hammer:  
 __handset__ _n_  
 __harness__ _v tr_ :two::hammer: (harnessing)  
+__heist__ _n_  
 __hence__  
 __highball__ _n_ :astonished: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass.  
 __hindsight__ _n_ _Hindsight is not the best method of testing a design._  
 __hirsute__ _adj_ /ˈhɜr sut, hɜrˈsut/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
-__hodgepodge__ _n_ A mixture of dissimilar ingredients; a jumble. _Syn_ patchwork, jumble _Paul’s screenplay was a hodgepodge of comedy, drama, slapstick, and tragedy._  
+__hodgepodge__ _n_ :two: A mixture of dissimilar ingredients; a jumble. _Syn_ patchwork, jumble _Paul’s screenplay was a hodgepodge of comedy, drama, slapstick, and tragedy._  
 __homophily__  
 __horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
 __house__ _v_  
@@ -40,16 +49,19 @@ __instrumental__ _adj_ _He has been instrumental in a number of European researc
 __insurmountable__ _adj_ _An insurmountable problem._  
 __intervene__ _v_  
 __intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
+__jaded__ _v_  
 __jointly__  
 __juicy__ _adj_  
 __jumble__ _n_ _This new world is a jumble for her._  
 __killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
+__labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  
 __lapidary__ _adj_ /LAP-uh-dair-ee/  
 __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
 __larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
 __laureate__ _adj, n_  
 __layout__ _n_ _The road layout._  
 __leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
+__letdown__ _n_ _It is a bit of a letdown._  
 __leverage__ _v tr_  
 __likely__ _adj_ :two::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._  
 __maelstrom__ _n_ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
@@ -322,6 +334,7 @@ __outsourcing__
 __outwear__ _n_  
 __overall__ _adj, adv_  
 __overarching__ _adj_ :three::hammer:  
+__overdo__  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul<sup>1</sup>__ _v_ :dart:  
@@ -407,12 +420,14 @@ __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate
 __pennant__ _n_ /PEN-uhnt/ __1__ A long tapering flag. __2__ A flag symbolizing a sports championship or another achievement. __3__ A victory, championship, etc.  
 __penned__ _v_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
+__Pennywise__ _n_  
 __penstemon__ _n_  
 __people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
 __peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __perch__ _v_  
 __percolation__ _n_  
 __perennial__ _adj_ :two::hammer: _A perennial favorite._  
+__perf__ _n_ __1__ Perfect. __2__ Perforated. __3__ Performance.  
 __perfect__ _v_  
 __perfidious__ _adj_  
 __performative__ _adj, n_ :two::hammer:  
@@ -888,6 +903,7 @@ __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._
 __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
 __self-serving__ _adj_  
 __send-off__  
+__sensei__ _n_ :mega:  
 __sensibility__ _n_ /sen-suh-BIL-uh-tee/  
 __sepulchre__ _n_ /SEP-ul-ker/ Sepulchre is an old-fashioned word for a tomb or other place of burial.  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
@@ -993,6 +1009,8 @@ __sloppy__
 __slot machine__ _n_  
 __sloth__ _n_  
 __slough__ _n_  
+__slug<sup>1</sup>__ _n_  
+__slug<sup>2</sup>__ _v tr_  
 __sluice__ _n_ _Mining sluice._  
 __slushies__ _n_ _Boozy slushies._  
 __smack__ _adv_ _Conveniently located right smack in the middle of your vacation plans._  
@@ -1064,6 +1082,7 @@ __spoofing__ _n_ :dart: The act or an instance of impersonating another person o
 __sporadic__ _adj_ /spuh-RAD-ik/  
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
+__sprinkle__ _v_  
 __sprite__ _n_ _Mischievous sprites._  
 __spruce__  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
@@ -1180,6 +1199,7 @@ __stymied__ _v_
 __subcontinent__ _n_  
 __subdermal__ _adj_  
 __subdued__ _adj_ _The subdued dining room._  
+__subpar__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __subtraction__ _n_ :pencil2:  
@@ -1259,6 +1279,7 @@ __tanzanite__
 __tap into__  
 __taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __tapioca__ _n_  
+__tarnished__  
 __tartan__ _n_ :two::hammer: _Trinket and tartan shops._  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __task__ _v_ (tasked)  
@@ -1468,6 +1489,7 @@ __underfoot__ _adv_
 __undergo__ _v_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
+__undermine__ _v_  
 __underscore__ _v_  
 __unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._  
 __unequaled__ _adj_  
