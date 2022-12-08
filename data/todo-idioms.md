@@ -12,6 +12,7 @@ __all over the map__
 __an iron fist__  
 __at a snail’s pace__  
 __at any rate__  
+__backpedal__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
 __be at odds with__  
@@ -36,6 +37,7 @@ __chug__ _v_ [for one person] To drink something, usually beer, quickly and in l
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
 __come to terms__  
+__crash course__  
 __day in and day out__  
 __dead man walking__  
 __don’t get (one) started__  
@@ -68,6 +70,7 @@ __get the hang of something__
 __get your shit together__  
 __go apeshit__  
 __go berserk__  
+__go figure__  
 __go for the jugular__ _Go straight for the jugular._  
 __go overboard__  
 __go the distance__  
@@ -114,6 +117,7 @@ __let down__
 __lie ahead of (someone or something)__  
 __line of work__  
 __lost on me__ _It is not lost on me._  
+__love (someone) to the moon (and back)__  
 __mean the world to (one)__ :dart:  
 __mixed bag__  
 __more than meets the eye__  
@@ -135,6 +139,7 @@ __on short notice__
 __on that note__  
 __on the contrary__ :two::hammer:  
 __on the spur of the moment__  
+__on the verge of__  
 __once and for all__  
 __out of harm’s way__  
 __out of sight, out of mind__  
@@ -157,6 +162,7 @@ __put up with__
 __put up__  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __relief party__  
+__rest assured__  
 __rest on her laurels__  
 __riddled with__  
 __rip (someone or something) to shreds__  
@@ -169,9 +175,12 @@ __save face__
 __save the day__ :two::hammer:  
 __second-class citizen__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
+__send off__  
+__shape up__  
 __shot down__  
 __shut down__  
 __sick as a dog__  
+__simply put__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slippery slope__  
 __slow burner__  
@@ -189,8 +198,12 @@ __stow away__
 __strike off__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
+__sugar baby__ A young female or male who is financially pampered/cared for by a sugar daddy or sugar mama in exchange for companionship (i.e. sexual favors).  
+__sugar daddy__  
+__sugar mommy__  
 __sum up__ _Summing up, we can say that yadda yadda yadda._  
 __Sunday scaries__  
+__sweep (one) off (one’s) feet__  
 __sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
@@ -198,6 +211,7 @@ __sword of Damocles__
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
 __take (great) pains (to do something)__  
 __take (one’s) pick__ To choose from among several options. Often used as an imperative in the phrase “take your pick.” _We’ve got 45 flavors. Vanilla, chocolate, bacon—take your pick._  
+__take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
 __take (something) to the bank__  
@@ -219,6 +233,7 @@ __talk turkey__ To discuss something in a frank, straightforward, and serious ma
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :three::hammer:  
+__tap into (something)__  
 __tap into__ :two::hammer: _Tap into the dark side of the Force._  
 __teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
@@ -234,7 +249,7 @@ __the butt of the joke__ Someone or something at whose expense an insulting or m
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the final straw__  
-__the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
+__the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
 __the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the likes of (someone or something)__  
 __the likes of__  
@@ -346,6 +361,7 @@ __with no frills__ With no extraneous details or embellishments. Not fancy, deco
 __within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within walking distance__  
 __without a doubt__  
+__without further ado__  
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__ :two::hammer:  
