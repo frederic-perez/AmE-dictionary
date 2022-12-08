@@ -1,8 +1,10 @@
+__cheesy__  
 __craft__ _v tr_  
 __discord__  
 __disjoint__ _v_  
 __douchebag__  
 __factoids__  
+__fanbase__ _n_ The body of admirers of a particular pop singer, football team, etc.  
 __fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
 __farce__ _n_ /FAHRSS/ _The award-winning actor has a talent for farce._  
 __feature phone__ _n_  
@@ -15,10 +17,12 @@ __flinch__ _v_
 __flourish__ _n_ _A flourish of proposals._  
 __food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
 __foresee__ _v_ (foreseen)  
+__forsaken__  
 __foster__ _v_  
 __fraudulent__ _adj_  
 __frugal__ _adj_ :two::hammer:  
 __fulfill__ _v_ _Fulfill the requirements._  
+__gatekeeper__ _n_  
 __gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
 __giblets__ _n_ The edible heart, liver, neck, and gizzard of a fowl.  
 __granular__ _adj_  
@@ -28,6 +32,7 @@ __hallmark__ _n_
 __handover__ _n_ :two::hammer:  
 __handset__ _n_  
 __harness__ _v tr_ :two::hammer: (harnessing)  
+__heed__ _v_  
 __heist__ _n_  
 __hence__  
 __highball__ _n_ :astonished: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass.  
@@ -38,6 +43,7 @@ __homophily__
 __horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
 __house__ _v_  
 __impediment__  
+__impending__  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __incumbent__  
@@ -63,7 +69,9 @@ __layout__ _n_ _The road layout._
 __leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
 __letdown__ _n_ _It is a bit of a letdown._  
 __leverage__ _v tr_  
+__lighthearted__ _adj_ Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ glad  
 __likely__ _adj_ :two::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._  
+__lust__  
 __maelstrom__ _n_ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
 __malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
@@ -123,6 +131,7 @@ __molt<sup>1</sup>__ _v_
 __molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, like other birds, regularly shed their feathers (molt)._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
+__monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
 __monolith__ _n_  
 __monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
 __monopsony__ _n_  
@@ -441,6 +450,7 @@ __perusal__ _n_
 __pervasive__  
 __pet name__ _n_  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
+__peter out__  
 __petrichor__ _n_  
 __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
 __petticoat__  
@@ -454,6 +464,7 @@ __Philly__ _n_ _The small-time Philly boxer Rocky Balboa._
 __phonotaxis__ _n_ _Cricket phonotaxis._  
 __piano bar__  
 __pica__ _n_ A psychiatric disorder characterized by the compulsive eating of nonfood substances, such as soil, clay, ice, or hair. _Syn_ allotriophagy  
+__picket fence__ _n_  
 __pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
 __pickup__ _adj_ _A pickup team._  
@@ -507,6 +518,7 @@ __pod__ _n_ _Pea pod._
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __poignant__ _adj_  
 __polecats__ _n_  
+__police academy__  
 __policiymaker__ _n_ :two::hammer: (policy maker)  
 __policyholder__  
 __Pompeii__ _n_  
@@ -527,6 +539,7 @@ __Portlander__ _n_
 __Portuguese__ _adj, n_  
 __possum__ _n_  
 __postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
+__posturing__  
 __pot-bellied__ _adj_ _Pot-bellied seahorses._  
 __potentate__ _n_ :two: One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
 __potsticker__ _n_  
@@ -574,6 +587,7 @@ __proctor__ _v tr_ :three: To supervise (an examination). _I’m proctoring a Di
 __procurator__ _n_ One authorized to manage the affairs of another; an agent. _Syn_ proxy, placeholder _The wealthy businessman’s procurator arrived at the auction to bid on his behalf._  
 __procure__ _v_ :two::hammer:  
 __produce__ _n_ Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._  
+__proficiency__  
 __profound__ _adj_ :mega:  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
@@ -668,6 +682,7 @@ __rear__ _v_ _Free-range deer have been reared for some 30 years._
 __rebuke__ _v_  
 __recall__ _v_  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
+__recipe__ _n_ :m: _Recipe to success._  
 __recitation__ _n_  
 __reckoning__ _n_  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
@@ -724,6 +739,7 @@ __restaurateur__ _n_
 __restroom__ _n_  
 __resumption__ _n_ _Power resumption._  
 __retcon__ _n_  
+__retention__ _n_ _Employee retention._  
 __reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
 __retiree__ _n_  
 __retrace__ _v_  
@@ -1043,6 +1059,7 @@ __softball__ _n_
 __solicitor__ _n_ /səˈlɪsɪtəʳ/  
 __soloist__ _n_  
 __sonnet__ _n_  
+__soon enough__ _adv_ :two::hammer:  
 __sorely__ _adv_ _Sorely needed._  
 __sorrowful__  
 __sought-after__  
@@ -1103,6 +1120,7 @@ __stakeholder__ _n_ :two::hammer:
 __stale__ _adj_  
 __stalk__ _n_  
 __stance__ _n_ :two::hammer:  
+__standardization__ _n_  
 __standardize__ _v_ :two::hammer:  
 __standee__  
 __standout__ _n_  
@@ -1245,6 +1263,7 @@ __swash__ _n_
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
+__sway__ _n_  
 __sweeping__ _adj_ :six::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._  
 __sweet-tooth__  
 __swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
@@ -1277,6 +1296,7 @@ __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your
 __tantalizing__ _adj_ :four:hammer: _A tantalizing question._  
 __tanzanite__  
 __tap into__  
+__tap__ _v_  
 __taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __tapioca__ _n_  
 __tarnished__  
@@ -1499,6 +1519,7 @@ __unfazed__ _adj_
 __unforgiving__ _adj_  
 __unharness__ _v_  
 __unheeded__  
+__union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
 __unkempt__ _adj_  
 __unmissable__  
@@ -1620,6 +1641,7 @@ __wet suit__ _n_
 __wetback__  
 __wetsuit__ _n_  
 __wharf__ _n_ :four: __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
+__whatnot__  
 __wheelbarrow__ _n_ :two::hammer:  
 __wheelhouse__ _n_  
 __wherry__ _n_  
@@ -1668,6 +1690,7 @@ __woods__ _n pl_
 __woodsy__ _adj_ :two::hammer: _A warm, woodsy room._  
 __word-hoard__ _n_ :dart: A person’s vocabulary.  
 __work desk__ _n_ :two: A desk used for work; a desk in the workplace.  
+__workaholism__ _n_ :mega: The state of being a workaholic.  
 __workforce__ _n_ (work force)  
 __worksheet__ _n_ _Ask for a library worksheet._  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
