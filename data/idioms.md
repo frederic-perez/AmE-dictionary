@@ -40,7 +40,7 @@ __(something) won’t get (someone) anywhere__ Something, typically a certain be
 __(still) going strong__ Continuing to be healthy, successful, or function properly. _Smartphones are designed to become obsolete, but my old flip phone from 2004 is still going strong._  
 __(T)sup?__ _interrog_ /ˈ(t)səp/ What’s up?; What is happening?; What have you been doing? _Hi! Tsup?_  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
-__(the) man/woman of the hour__ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
+__(the) man/woman of the hour__ :two: A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __(the) next thing (one) knows__ :two: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
@@ -187,6 +187,7 @@ __amount to something__
 __amount to__ :five::hammer:  
 __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
 __an eye for an eye, a tooth for a tooth__ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
+__an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
@@ -295,7 +296,7 @@ __be (just) good friends__ A phrase used to emphasize that two people are not in
 __be (of) no use to man or beast__ To be completely useless; to serve no purpose; to be unsuitable to anyone or anything. _After 20 years, my faithful old truck finally broke down for good. It’s no use to man or beast anymore._  
 __be (one’s) last resort__ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
 __be (someone’s) call__ :dart: To be ultimately left up to someone to decide.  
-__be (someone’s) huckleberry__ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
+__be (someone’s) huckleberry__ :two: _(dated)_ To be well or perfectly suited to someone’s job, need, or purpose. Primarily heard in US. _You need someone to go break your brother out of jail? Buddy, I’m your huckleberry._  
 __be (stuck) in a rut__ To become seemingly trapped or stuck in a mundane, non-changing pattern of life, work, and/or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality.  
 __be a different kettle of fish__ To be entirely different in scope or description from someone or something that was just being discussed.  
@@ -786,6 +787,7 @@ __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion o
 __do over__  
 __do the dishes__ Wash dishes.  
 __do the trick__  
+__do well__ Prosper, thrive, succeed, as in _He’s done well in the market._  
 __Do your magic__  
 __doctors make the worst patients__ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __dodge a bullet__ :two: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
@@ -1049,6 +1051,7 @@ __get in the last word__ To express the final point or opinion in an argument or
 __get in your face__ _We might get in your face but we can also charm you out of your socks._  
 __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get in(to) hot water__ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
+__get knocked out cold__ To be rendered unconscious, as by a physical blow, medication, or other means. _I had a shot at a championship boxing title, but I got knocked out cold in the semi-finals._ _I hope I don’t get knocked out cold by this painkiller the doctor gave me._  
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get on someone’s nerves__ :two: To annoy someone a lot. _A yes-man suck-up can get on your nerves._  
@@ -1360,6 +1363,7 @@ __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread.
 __heavy-hearted__ Sorrowful; melancholy; depressed.  
 __heck of a__ _He’s doing a heck of a job._  
 __Hell and half of Georgia__ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
+__hell hath no fury like a (certain type of person) scorned__  
 __hell no__  
 __hell week__ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __hella__ __1__ _slang_ Very. _Geez, it’s hella crowded in here! I didn’t expect so many people to show up right at noon._ _That’s a hella good song, man._ __2__ _slang_ A lot of. _There were hella problems with the printer, that’s why I have to turn in my paper late._  
@@ -1424,6 +1428,7 @@ __holy crickets__ An exclamation of surprise, shock, or astonishment.
 __holy moley__ An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __holy smoke__ What a surprise. _Holy smoke! Look at all of those geese!_  
 __home skillet__ __1__ _slang_ A friendly term of address. _What’s up, home skillet?_ _Hey home skillet, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my home skillet—he’ll help us out._  
+__home sweet home__ An expression of pleasure or relief upon returning to one’s home, especially after an extended period away from it. _Ah, home sweet home! After two months in India, it sure is great to be back._  
 __home, James (, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
 __homeboy__ _n_ (homegirl) [:scroll: Originally between blacks. Also a term of address. Homeboy is for males and homegirl is for females.] A buddy; a pal. _Come on, homeboy. Help out a friend._ _Tsup, homegirl?_  
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
@@ -1468,7 +1473,7 @@ __I suppose (so)__ An expression of vague affirmation or assent.
 __I take it__ _idiom_ I imagine this is the case; I presume it to be true (that); it is my understanding (that).  
 __I wish__  
 __I’d say__ In my opinion; it is my estimation that.  
-__I’ll be hanged if I do (something)__ I am determined not to do something.  
+__I’ll be hanged if I (do something)__ :two: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __ice maiden__ (pejorative) A coolly composed, unemotional woman; a woman without affection or warmth of feeling.  
 __icing on the cake__ :three::hammer:  
@@ -1604,7 +1609,7 @@ __isn’t that funny?__
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ :two: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
-__it is what it is__ The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
+__it is what it is__ :two: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it speaks for itself__  
 __it takes a village__ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :two::hammer:  
