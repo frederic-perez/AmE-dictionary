@@ -102,7 +102,7 @@ __abut__ _v_ :two::hammer: (abutted, abutting) _Bungalows abutting._
 __abutting__ _adj_  
 __abuzz__ _adj_ :two::hammer:  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
-__abyss__ _n_ :astonished::mega::six:  
+__abyss__ _n_ :seven::astonished::mega: /əˈbɪs/ _Looking into the abyss._  
 __acacia__ _n_  
 __accenting__ _v_  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
@@ -862,6 +862,7 @@ __at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at libe
 __at large<sup>2</sup>__ _adv_ In a general manner.  
 __at the earliest__  
 __at the very least__  
+__at-risk__ _adj_  
 __ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
 __atavism__ _n_  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
@@ -2134,6 +2135,7 @@ __build__ _n, v_ :mute:[b~~u~~ild]
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
 __building__ _n_ _A state building._  
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
+__bulbar__ _adj_ Of, relating to, or characteristic of a bulb, especially of the medulla oblongata: _bulbar poliomyelitis._  
 __bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
 __bulk<sup>1</sup>__ _n_ :three::hammer: _For the bulk of eight years._  
@@ -4544,6 +4546,7 @@ __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses eq
 __diorama__ _n_ :three::hammer:  
 __dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
+__diphtheria__ _n_ :pencil2:  
 __diphthong__ _n_ :two: [:scroll: Middle English diptonge, from Old French diptongue, from Late Latin diphthongus, from Greek diphthongos : di-, two + phthongos, sound] A complex speech sound or glide that begins with one vowel and gradually changes to another vowel within the same syllable, as (oi) in _boil_ or (ī) in _fine_.  
 __diplodocus__ _n_  
 __diploma__  
@@ -4552,7 +4555,7 @@ __diplomatics__ _n_ [:scroll: From Latin diploma (a letter of recommendation or 
 __diplopia__ _n_ A pathological condition of vision in which a single object appears double. Also called double vision.  
 __dips__ _n_  
 __dipsomania__  
-__dipstick__  
+__dipstick__ _n_ :two: A rod for measuring the depth of a liquid, esp. the level of crankcase oil in an automotive engine.  
 __dire__ _adj_ :nine: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._ _No matter how dire the news may be, there’s always something you can do._  
 __direct object__  
 __direction__ _n_ :two::mega:  
@@ -5137,7 +5140,7 @@ __dysfunction__ _n_ :pencil2: (dysfunctional)
 __dysfunctional__  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphemism__ _n_  
-__dysphoria__ _n_ :three: An emotional state characterized by anxiety, depression, or unease.  
+__dysphoria__ _n_ :four: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
 __dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
@@ -9811,7 +9814,7 @@ __mackerel__ _n_ :three::hammer: :es: caballa
 __mackinaw__  
 __macrocosm__ _n_ The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
 __macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
-__macula__ _n_  
+__macule__ _n_ :two: (macula) A discolored spot or area on the skin that is not elevated above the surface and is characteristic of certain conditions, such as smallpox, purpura, or roseola.  
 __Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
 __madcap__  
 __Madchester__ _n_ Manchester, UK.  
@@ -11948,7 +11951,7 @@ __piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges 
 __pippin__  
 __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
-__pique<sup>2</sup>__ _v_ :nine::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
+__pique<sup>2</sup>__ _v_ :nine::m::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
 __Pisces__ _n_ /ˈpaɪsiːz; ˈpɪ-/  
@@ -14012,6 +14015,7 @@ __self-deprecating__
 __self-effacing__ _adj_ :three::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
+__self-hatred__ _n_ (self-hate) Hatred, disregard, and denigration of oneself.  
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
@@ -14047,7 +14051,7 @@ __sensitivity__ _n_ The ability of a test to correctly identify patients with a 
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
-__sentient__ _adj_ :six: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
+__sentient__ _adj_ :seven: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
@@ -16182,7 +16186,7 @@ __throw down<sup>2</sup>__ _n_
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __throw out the red meat__  
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
-__throwback__ _n_ :three::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
+__throwback__ _n_ :four::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_  
 __thrum__  
