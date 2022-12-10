@@ -3004,6 +3004,7 @@ __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circu
 __circuitry__ _n_  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
+__circumforaneous__ _adj_  
 __circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
 __circumnavigate__ _v_ :two: __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
@@ -5678,6 +5679,7 @@ __expediency__ _n_ :two::hammer:
 __expedient__  
 __expedite__ _v_ :dart::nine::m: (expedited, expediting) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ _n_ (vs _regular shipping_) Expedited shipping is a fast delivery or shipping freight option that promises faster than usual shipping speeds compared to standard shipping options.  
+__expeditious__ _adj_ /ek-spuh-DISH-usv/ Expeditious is a formal word that is used to describe someone acting in a quick and efficient way, or something done in such a manner. _Known for their expeditious service, the restaurant staff had the family’s order ready in less than no time._  
 __expeditiously__  
 __expendable<sup>1</sup>__ _adj_  
 __expendable<sup>2</sup>__ _n_ Something that is expendable.  
@@ -6768,6 +6770,7 @@ __gangrene__ _n_ :pencil2:
 __gangway__ _n_ :five::hammer:  
 __Ganjapreneur__  
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
+__Ganymede__ _n_ __2__ One of the four brightest satellites of Jupiter. Originally sighted by Galileo, it is the largest satellite in the solar system.  
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
 __gar__ _n_  
 __garage sale__ _n_  
@@ -9171,7 +9174,7 @@ __lace__ _n_ :two::hammer: _Delicate lace._
 __laced__ _v_ :two::hammer: _I have laced a few punters._ _The brick streets are laced with sculptures._  
 __lacerate__ _v_  
 __laceration__ _n_  
-__lachrymose__ _adj_ :two::pencil2::hammer:  
+__lachrymose__ _adj_ :three::pencil2: /LAK-ruh-mohss/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :six::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
@@ -10211,7 +10214,7 @@ __metadata__ _n pl_
 __metal flashing__  
 __metal shavings__  
 __metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
-__metaphor__ _n_ :two: A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
+__metaphor__ _n_ :three: A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
 __metaphysical__ _adj_  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
@@ -10740,6 +10743,7 @@ __nestlings__ _n_
 __nether__ _adj_ :two::hammer:  
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
+__netsuke__ _n_  
 __nettle__ _v_  
 __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
 __neuroblastoma__  
@@ -10772,6 +10776,7 @@ __nicety__ _n_
 __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
+__nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  
 __nifty__ _adj informal_ :five: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
@@ -11661,6 +11666,7 @@ __peeved__ _v_
 __peevishly__ _adv_ :two::hammer:  
 __peewee__ _n_  
 __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
+__pelagic__ _adj_ /puh-LAJ-ik/ [:scroll: From Latin pelagicus (of the sea), from Greek pelagos (sea)] Relating to or living in the open ocean, far from land.  
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__ _adv_ :two: /pel-MEL/ Pell-mell means “in a confused and hurried way” or “in mingled confusion or disorder.” _On Black Friday, some shoppers rush pell-mell into stores to find their favorite items at a discounted price._  
 __pellet__ _n_  
@@ -13611,6 +13617,7 @@ __rut__ _n_ :two::hammer: _Some guy with rut for brains._
 __rutabaga__ _n_ /ˌruːtəˈbeɪgə/ :es: nabo  
 __ruthful__ _adj_  
 __ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
+__rutilant__ _adj_ /ROOT-uh-luhnt/ [:scroll: From Latin rutilant, present participle of rutilare (to glow red), from rutilus (reddish)] Glowing, shining, or glittering with a red or golden light.  
 __RV pads__  
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
@@ -14406,7 +14413,7 @@ __Silver State__ _n_ Nevada.
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
 __silverplate__ _v_  
-__simile__ _n_ A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
+__simile__ _n_ :two: A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
@@ -14813,7 +14820,7 @@ __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called 
 __so-so__ _adj_ :two::hammer: _The glass business was a so-so money maker._  
 __soap opera__  
 __soap-spuds__ _n_  
-__soapbox<sup>1</sup>__ _n_  
+__soapbox<sup>1</sup>__ _n_ :two::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soar__ _v_  
 __sobering__ _adj_ :three::hammer:  
@@ -15840,6 +15847,7 @@ __table tennis__
 __table tennos__  
 __tableau__  
 __tableaux__  
+__tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The hikers climbed all morning, planning to stop for lunch when they reached the tableland._  
 __tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of a compressed powdered substance containing an active drug and excipients. _Hair tablet._  
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
@@ -15957,7 +15965,8 @@ __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)
 __tat__ _n_ :two: __3__ _informal_ (tatt) A mark or design made on the skin; a tattoo.  
 __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
-__tatterdemalion__ _n_ /ˌtæt ər dɪˈmeɪl yən, -ˈmæl-/ A person wearing ragged or tattered clothing. _Syn_ ragamuffin _It was a crew of tatterdemalions that limped and straggled and wandered back into Barnesdale that day._  
+__tatterdemalion<sup>1</sup>__ _adj_ /tat-uhr-di-MAYL-yuhn, -MAL-/ Ragged, tattered.  
+__tatterdemalion<sup>2</sup>__ _n_ :two: /ˌtæt ər dɪˈmeɪl yən, -ˈmæl-/ A person wearing ragged or tattered clothing. _Syn_ ragamuffin _It was a crew of tatterdemalions that limped and straggled and wandered back into Barnesdale that day._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattle<sup>1</sup>__ _n_  
@@ -17082,7 +17091,7 @@ __vamoose__ _v intr_ :two: [:scroll: from Spanish _vamos_ let’s go, from Latin
 __vamp__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
 __van__ _n_ _The knight was in command of the van._  
-__vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
+__vandalize__ _v_ :three: /VAN-duh-lyze/ [:scroll: After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome] Vandalize means “to deliberately damage or destroy public or private property.” _The impulse of many graffiti artists is not to vandalize infrastructure but to beautify city environments that are often monotone and nondescript._  
 __vandals__  
 __vane__ _n_ :nine: (not to be confused with vain, vein) __1__ (Mechanical Engineering) A flat plate or blade of metal mounted on a vertical axis in an exposed position to indicate wind direction. _Syn_ weather vane, wind vane _A smooth metal weather vane._ _Wind vane._ __2__ (Mechanical Engineering) Any one of the flat blades or sails forming part of the wheel of a windmill. __3__ (Mechanical Engineering) Any flat or shaped plate used to direct fluid flow, esp a stator blade in a turbine, etc. __4__ (Mechanical Engineering) A fin or plate fitted to a projectile or missile to provide stabilization or guidance. _Propeller vane._ __5__ (Zoology) _ornithol_ The flat part of a feather, consisting of two rows of barbs on either side of the shaft.  
 __vanguard__ _n_  
@@ -17158,7 +17167,7 @@ __verbiage__ _n_ :three::hammer: _Ornamental verbiage._
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _adj_ _Verdant hills._  
-__verdict__ _n_ :four::hammer::pencil2:  
+__verdict__ _n_ :five::hammer::pencil2:  
 __verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
 __verge__ _n_ :two::hammer:  
 __vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
@@ -17240,7 +17249,7 @@ __vital__ _adj_
 __vitiate__ _v_ :two: To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._  
 __vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
 __vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
-__vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
+__vitriol__ _n_ :seven: /ˈvɪtrɪəl/ Bitter criticism or malice. Abusive or venomous language used to express blame or censure or bitter deep-seated ill will. _Syn_ invective, vituperation _At first, she patiently listened to him vent his frustration, but when he began to spout vitriol, she told him she had to leave._ _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ _adj_ :three: Bitterly scathing; caustic. _Syn_ acid, blistering, venomous, acrid, acerbic, bitter, virulent _The critic showed no mercy in writing the most vitriolic review of her career._  
 __vituperate__ _v_  
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
@@ -17880,6 +17889,7 @@ __xenoestrogen__ _n_
 __xenophile__ _n_ A person attracted to that which is foreign, especially to foreign peoples, manners, or cultures.  
 __xenotransplantation__ _n_ The surgical transfer of cells, tissues, or especially whole organs from an organism of one species to an organism of a different species. _Syn_ xenotransplant  
 __xeriscape__ _n_  
+__xeriscaping__ _n_  
 __xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -philous (liking).] Growing on or living in wood.  
 __xyst__ _n_ /zɪst/  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
