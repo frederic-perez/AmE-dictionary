@@ -2834,7 +2834,7 @@ __cheese__ _adj_
 __cheese-eater__  
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
-__cheesy__ _adj_ :three::hammer:  
+__cheesy__ _adj_ :four::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemoinformatics__  
@@ -3787,7 +3787,7 @@ __crackpot<sup>2</sup>__ _adj_
 __cradle__ _v_ (cradling)  
 __craft beer money__  
 __craft<sup>1</sup>__ _n_ :four::hammer: (crafts) _Craft sake._  
-__craft<sup>2</sup>__ _v_  
+__craft<sup>2</sup>__ _v tr_ :two::hammer:  
 __craftman__  
 __crafty__  
 __crag__ _n_ :four::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
@@ -4600,6 +4600,7 @@ __discompose__ _v_
 __disconsolate__ _adj_  
 __discontinuation__ _n_ _Assessing the safety of oral anticoagulation discontinuation._  
 __discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
+__discord__  
 __discount store__  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
@@ -4648,6 +4649,7 @@ __disinherited__ _adj_ Deprived of your rightful heritage.
 __disinhibition__ _n_ :pencil2:  
 __disinterest__ _n_ :three::pencil2::hammer:  
 __disinterested__ _adj_  
+__disjoint__ _v_  
 __disjune<sup>1</sup>__ _n_ Breakfast.  
 __disjune<sup>2</sup>__ _v_ To breakfast.  
 __dislike__ _v_  
@@ -4873,7 +4875,7 @@ __doubt__ _n, v_ :mute:[dou~~b~~t] /daʊt/
 __doubting Thomas__ _n_  
 __doubtless__ _adj, adv_ :two::hammer:  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
-__douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
+__douchebag__ _n phr_ _informal_ :three: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
 __doughty__ _adj_ :two: /DOW-tee/ Brave, strong, and determined. Marked by stouthearted courage; brave. _The family sent gifts to the doughty firefighters for saving their cat._  
 __dour__ _adj_ :six: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
@@ -5770,7 +5772,7 @@ __fact checker__ _n_ Someone whose job is to make sure that facts are correct, e
 __fact sheet__  
 __faction__ _n_  
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
-__factoid__ _n_ :three: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
+__factoid__ _n_ :four: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
@@ -5828,8 +5830,9 @@ __fan letter__ _n_
 __fan<sup>1</sup>__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
 __fan<sup>2</sup>__ _v_ _Jack should have to fan the fire a little._  
 __fanaticism__ _n_ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
-__fanbase__ _n_ :astonished:  
+__fanbase__ _n_ :two::astonished: The body of admirers of a particular pop singer, football team, etc.  
 __fanboy<sup>1</sup>__ _n_ /FAN-boi/ [:scroll: From fan, short for fanatic, from Latin fanum (temple) + boy] A boy or man who is an extremely enthusiastic follower of someone or something.  
+__fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
 __fancied__ _v_  
 __fancier__ _n_ A person having a strong liking for something. _Syn_ enthusiast _I am somewhat of a fowl fancier, and I have seldom seen a better grown goose._  
 __fanciful__  
@@ -5851,7 +5854,7 @@ __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _
 __Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_  
-__farce__ _n_ :three::hammer:  
+__farce__ _n_ :four::hammer: /FAHRSS/ _The award-winning actor has a talent for farce._  
 __fare<sup>1</sup>__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ _The second missile fared slightly better than the first._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
@@ -5920,15 +5923,18 @@ __feasible__ _adj_
 __feast__ _v_ :four::hammer: (feasted)  
 __feature film__ _n_ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
+__feature phone__ _n_  
 __feature-length__ _adj_ (Film) (of a film or programme) similar in extent to a feature although not classed as such. _A feature-length animation._  
 __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children’s reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __feature<sup>2</sup>__ _v_ :three::hammer: (featuring)  
+__febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
 __feckless__ _adj_ :six: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
 __fecklessness__  
 __Federal lands__ _n_  
+__federate__ _v_ :two::hammer: (federating)  
 __feel for__  
 __feel out__  
 __feign__ _v_ :four::mute:[fei~~g~~n] /FAYN/ To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
@@ -6111,7 +6117,7 @@ __first-hand__ _adj, adv_
 __first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __firstborn__  
-__firsthand__ _n_ :two::hammer:  
+__firsthand__ _adj, adv_ :three::hammer:  
 __firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Geography_ A relatively narrow inlet of the sea, esp in Scotland.  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
@@ -6162,14 +6168,14 @@ __flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, fo
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
-__flagship__ _n_ :five: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. _The flagship store._  
+__flagship__ _n_ :six: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. _The flagship store._ _It has become another flagship event._  
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
 __flail__ _v_ :eight::hammer: (flailed, flailing)  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
-__flak__ _n_ :eight: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
+__flak__ _n_ :nine: /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. __1__ Severe criticism. __2__ Anti-aircraft fire. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
 __flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
 __flambeau__ _n_  

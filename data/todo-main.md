@@ -1,18 +1,3 @@
-__cheesy__  
-__craft__ _v tr_  
-__discord__  
-__disjoint__ _v_  
-__douchebag__  
-__factoids__  
-__fanbase__ _n_ The body of admirers of a particular pop singer, football team, etc.  
-__fanboy<sup>2</sup>__ _v intr_ To behave in an obsessive way about someone or something.  
-__farce__ _n_ /FAHRSS/ _The award-winning actor has a talent for farce._  
-__feature phone__ _n_  
-__febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
-__federate__ _v_ :two::hammer: (federating)  
-__firsthand__ _adj_  
-__flagship__ _n_ _It has become another flagship event._  
-__flak__ _n_ /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] __1__ Severe criticism. __2__ Anti-aircraft fire.  
 __flinch__ _v_  
 __flourish__ _n_ _A flourish of proposals._  
 __food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
