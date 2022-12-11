@@ -8827,7 +8827,7 @@ __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
 __Jenga__ _n_ (trademark) [:scroll: From the Swahili verb -jenga (“to construct, to build”)] __1__ A game where players take turns to remove wooden blocks from a stack formed brickwise, the loser being the player whose actions cause the tower to fall. __2__ (figuratively) Any activity that involves great precision with a risk of great failure.  
 __jeopardize__ _v_ :three: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
-__jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
+__jeopardy__ _n_ :two: (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __jerboa__ _n_ (jerboas)  
 __jeremiad__ _n_ :two::astonished: A long mournful lamentation or complaint.  
 __jerk around__  
@@ -8837,6 +8837,8 @@ __jerry__
 __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
+__jet blast deflector__  
+__jet blast__  
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
 __jetliners__  
 __jettison__ _v_ :eight: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
@@ -8846,6 +8848,7 @@ __jewelry__ _n_ (jewellery)
 __Jewess__  
 __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
 __Jewry__  
+__jib__ _n_ :two::hammer: _I hoisted the jibs._  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
 __jibe<sup>2</sup>__ _v_ :six: (jibes) To be in accord; agree. _Syn_ correspond, match _I expected to find some discrepancies in the books, but your figures jibe with mine._ _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
@@ -8861,9 +8864,9 @@ __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_
 __jingle<sup>2</sup>__ _n_ :two::hammer:  
 __jingoism__ _n_ :four: /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __jingoistic__ _adj_ Militantly nationalistic or chauvinistic.  
-__jink<sup>1</sup>__ _v_ _Jinked left._  
+__jink<sup>1</sup>__ _v_ :two::hammer: _Jinked left._ _A jinking maneuver._  
 __jink<sup>2</sup>__ _n_  
-__jinx<sup>1</sup>__ _v_ :two::hammer:  
+__jinx<sup>1</sup>__ _v_ :three::hammer:  
 __jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
 __jittery__ _adj_ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
@@ -8878,7 +8881,7 @@ __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athlet
 __jocose__ _adj_ Given to joking; merry. _Syn_ jesting, jocular, joking _Larry, who was usually so jocose, said he didn’t have time for pranks._  
 __jocular__  
 __jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
-__jodhpurs__ _n_  
+__jodhpurs__ _n pl_ :three: Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
 __jody__ _n_ _He often complained about his wife’s jody._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __John Doe__  
@@ -8886,14 +8889,14 @@ __John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confus
 __John Q. Public__ _n_ (John Q., John Q. Citizen)  
 __johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
 __joint__ _n_ A prison, a jail.  
-__joists__  
+__joist__ _n_ :two::hammer:  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollification__ _n_ :two: Festivity; revelry.  
 __jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
 __jolly__ _adj_ :seven::hammer: _Jolly handshakes._  
-__jolt<sup>1</sup>__ _n_ :five::hammer: _A spending jolt by the military government._ _It was a jolt of good news._ _Find a quick jolt of happiness!_  
+__jolt<sup>1</sup>__ _n_ :six::hammer: _A spending jolt by the military government._ _It was a jolt of good news._ _Find a quick jolt of happiness!_ _The jolt shook the Tomcat._  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
 __Jones<sup>1</sup>__ _n_ __1__ One’s neighbors or social equals. Typically used in the phrase: _keeping up with the Joneses._ __2__ An addiction or craving, especially for drugs.  
 __Jones<sup>2</sup>__ _v intr_ To have an intense longing.  
@@ -8968,7 +8971,8 @@ __jury__ _v_ (juried) _Juried art events._
 __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
 __jus__ _n_ :two::hammer: _Cookery_ A sauce. _Verbena jus._  
 __just__ _adj_ _The punishments were fair, just and appropriate._  
-__jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
+__justify__ _v_  
+__jut out__ _v_ :five::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :five::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __juvenile<sup>2</sup>__ _n_ :three::hammer: _Starship Soldier was a juvenile written by Heinlein._  
@@ -9006,7 +9010,7 @@ __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person wh
 __keg__ _n_ :two::hammer:  
 __kegger__ _n_  
 __keiretsu__ _n_  
-__kelp__  
+__kelp__ _n_ :three::hammer:  
 __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
@@ -9100,6 +9104,7 @@ __knavish__ _adj_ :two::hammer:
 __knead__ _v_ :nine::m::mute:[~~k~~nead] (kneaded, kneading) __1__ To work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching. :es: amasar __2__ To manipulate by similar movements, as the body in a massage. :es: masajear __3__ To make by kneading: _to knead bread._  
 __knee__ _n_ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
+__knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door’s opening is about 20 inches above walking surface.  
 __kneecap__ _v_ :three::hammer: (kneecapping)  
 __knell__ _n_ :three::hammer:  
 __knick-knack__ _n_  
@@ -9155,7 +9160,7 @@ __kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person 
 __kts__ _n pl_ :two: Plural of knot (unit), a unit of speed equal to one nautical mile per hour.  
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
-__kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
+__kumbaya__ _n_ :four: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kumquat__ _n_  
 __kung flu__ _n_ Racist name for the COVID-19 coronavirus.  
 __kurtosis__ _n_  
@@ -9170,8 +9175,8 @@ __Labrador__
 __labrum__  
 __labyrinthine__ _adj_  
 __lace up__ _v_ _Adam laced up his Nikes._  
-__lace__ _n_ :two::hammer: _Delicate lace._  
-__laced__ _v_ :two::hammer: _I have laced a few punters._ _The brick streets are laced with sculptures._  
+__lace<sup>1</sup>__ _n_ :two::hammer: _Delicate lace._  
+__lace<sup>2</sup>__ _v_ :dart::four::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._ _I have laced a few punters._ _The brick streets are laced with sculptures._  
 __lacerate__ _v_  
 __laceration__ _n_  
 __lachrymose__ _adj_ :three::pencil2: /LAK-ruh-mohss/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  

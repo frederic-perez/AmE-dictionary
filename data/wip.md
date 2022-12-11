@@ -1,18 +1,3 @@
-__jeopardy__ _n_  
-__jet blast deflector__  
-__jet blast__  
-__jib__ _n_ :two::hammer: _I hoisted the jibs._  
-__jink__ _v_ _A jinking maneuver._  
-__jinxed__  
-__jodhpurs__ _n pl_ :two: Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
-__joist__ _n_  
-__jolt__ _n_ _The jolt shook the Tomcat._  
-__justify__ _v_  
-__jut out__  
-__kelp__ _n_ :two::hammer:  
-__knee-knocker__ _n_ :two: A term used by sailors for the jamb of a water-tight door. A water-tight door’s opening is about 20 inches above walking surface.  
-__kumbaya__ _n_  
-__lace__ _v_ :dart::two::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._  
 __laddie__ _n_ _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
 __ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
 __languid__ _adj_ /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
