@@ -1,18 +1,3 @@
-__flinch__ _v_  
-__flourish__ _n_ _A flourish of proposals._  
-__food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
-__foresee__ _v_ (foreseen)  
-__forsaken__  
-__foster__ _v_  
-__fraudulent__ _adj_  
-__frugal__ _adj_ :two::hammer:  
-__fulfill__ _v_ _Fulfill the requirements._  
-__gatekeeper__ _n_  
-__gauche__ _adj_ /GOHSH/ Lacking grace or social polish; awkward or tactless.  
-__giblets__ _n_ The edible heart, liver, neck, and gizzard of a fowl.  
-__granular__ _adj_  
-__grasp__ _v_  
-__halcyon__ _adj_ Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._  
 __hallmark__ _n_  
 __handover__ _n_ :two::hammer:  
 __handset__ _n_  
