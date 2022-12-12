@@ -316,7 +316,7 @@ class Checker(object):
         """Self-explanatory"""
         self.num_invalid_tags += 1
         headword = get_headword(entry)
-        print(FAIL + clean_headword + ' ' + BOLD + ':' + tag + ':' + END_C \
+        print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + END_C \
              + ' « Invalid tag #' + str(self.num_invalid_tags) + END_C)
 
     def treat_too_many_double_spaces(self, entry):
