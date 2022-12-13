@@ -1447,6 +1447,7 @@ __bezel__ _n_ __4__ The frame around a display screen.
 __biathlon__ _n_ __1__ An athletic contest in which cross-country skiers carrying rifles shoot at targets along a course. __2__ An athletic contest comprising any two consecutive events, as running and cycling.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
+__bibliophagist__ _n_ /bib-lee-AH-fuh-jist/ [:scroll: From Greek biblio- (book) + -phage (one who eats)] One who loves to read books; a bookworm.  
 __bibliophile__ _n_  
 __bibliopole__ _n_ A dealer in rare books.  
 __bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully selected reading materials are used to assist a subject in solving personal problems or for other therapeutic purposes.  
@@ -1929,7 +1930,7 @@ __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._
 __brattice__ _n_  
 __bratty__  
 __bratwurst__ _n_  
-__bravado__ _n_ :five: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._  
+__bravado__ _n_ :six: /bruh-VAH-doh/ If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” Bravado refers to confident or brave talk or behavior that is intended to impress other people. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._ _Her stories of her exploits during the “olden days” are always told with enough bravado to invite some suspicion that they’re embellished a bit._  
 __brave__ _v_ :two::hammer:  
 __bravura__  
 __brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
@@ -2846,7 +2847,7 @@ __cherry blossoms__ _n_
 __cherry pick__ _v_ (cherrypick)  
 __cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
 __cherubic__ _adj_ /chuh-ROO-bik/ Having a sweet, innocent appearance.  
-__chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
+__chestnut__ _n_ :four::mute:[ches~~t~~nut]:hammer:  
 __chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
 __chevron__ _n_  
 __chewed up__  
@@ -3001,6 +3002,7 @@ __circa__
 __circadian__ _adj_ :three::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
+__circuitous__ _adj_ Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
 __circuitry__ _n_  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
@@ -3361,6 +3363,7 @@ __comorbidity__ _n_ (Pathology) The occurrence of more than one illness or condi
 __comp__ _n_ (comps) __4__ A competition.  
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
+__compadre__ _n_ /kum-PAH-dray/ A person’s close friend or buddy. _They are longtime compadres who have been through a lot together._  
 __company__ _n_ _Joe-Jim, Bobo and company are back._  
 __compartmentalize__ _v_ :two::hammer:  
 __compassionate__ _adj_ :three::hammer:  
@@ -4128,6 +4131,8 @@ __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is 
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  
+__Daruma doll__ _n_ :dart::camera: A hollow, round, Japanese traditional doll modeled after Bodhidharma, the founder of the Zen tradition of Buddhism.  
+__DASH diet__ _n_ :dart: The DASH diet (Dietary Approaches to Stop Hypertension) is a dietary pattern promoted by the U.S.-based National Heart, Lung, and Blood Institute (part of the National Institutes of Health (NIH), an agency of the United States Department of Health and Human Services) to prevent and control hypertension.  
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._  
 __dashing__ _adj_ :two::hammer: _A dashing atmosphere._ _I think I look rather dashing._  
@@ -4937,6 +4942,7 @@ __drag<sup>1</sup>__ _v_ (dragging)
 __drag<sup>2</sup>__ _n_  
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
+__dragon’s blood__ _n_ A dark red resinous substance derived from various trees and used in photoengraving.  
 __dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.  
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
@@ -6025,7 +6031,7 @@ __fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film m
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
 __fidgety__  
-__fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
+__fiduciary<sup>1</sup>__ _adj_ :two: /fuh-DOO-shee-air-ee/ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. Fiduciary is a formal word meaning “relating to or involving trust (such as the trust between a customer and a professional).” _The bank’s fiduciary obligations are clearly stated in the contract._ _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ _n_ :five: A piece of land held under the feudal system. :es: feudo _His personal fief._  
 __fiefdom__ _n_ :two::hammer:  
@@ -8335,7 +8341,7 @@ __imbed__ _v_ :two: [Imbed is simply an alternate spelling of _embed._ It has al
 __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). _Syn_ soak up, absorb  
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
-__imbue__ _v_ :six: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__imbue__ _v_ :seven: /im-BYOO/ (imbued) Imbue can be used as a synonym for endow (“to provide with something freely or naturally”) and can also mean “to permeate or influence” in a way that suggests colored dye permeating cloth fabric. __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ _The children were imbued with a passion for nature by their parents, both biologists._ __2__ To saturate, impregnate, or dye.  
 __immaculate__ _adj_ _An immaculate pharmacy._  
 __immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
@@ -9853,6 +9859,7 @@ __Magic Marker__
 __magical thinking__ _n_  
 __Magna Carta__  
 __magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
+__magnolia__ _n_ [:scroll: New Latin Magnolia, genus name, after Pierre Magnol (1638-1715), French botanist]  
 __magnum opus__ _n_ :two: __1__ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._ __2__ The greatest single work of an artist, writer, or composer.  
 __magpie__ _n_ :es: urraca  
 __magpied__ _v_  
@@ -13550,6 +13557,7 @@ __rout<sup>2</sup>__ _v_ :three: Defeat disastrously.
 __route__ _n_ :mega:  
 __roux__ _n_  
 __row house__ _n_  
+__rowan__ _n_ :astonished: (think Rowan Atkinson) __1__ The European mountain ash, _Sorbus aucuparia_, having pinnate leaves and clusters of bright red berries. __2__ The American mountain ash, _Sorbus americana_. __3__ The berry of either of these trees.  
 __rowdy__ _adj_ :six: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rowhouse__ _n_  
 __royalties__  
@@ -14086,6 +14094,7 @@ __sequestration__ _n_ _Sequestration of the jury._
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
+__sequoia__ _n_ [:scroll: C19: New Latin, named after Sequoya, known also as George Guess, (?1770–1843), American Indian scholar and leader]  
 __serac__ _n_ :three: (sérac) A pinnacle of ice among crevasses on a glacier, usually on a steep slope. A large pointed mass of ice in a glacier isolated by intersecting crevasses.  
 __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraphim, from Hebrew seraphim, from saraph (to burn).] Like an angel: serene, beautiful, pure, blissful, etc.  
 __sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
@@ -16266,6 +16275,7 @@ __tie-in__ _n_ _The story “Dr. Cyclops” was an early movie tie-in._
 __tie-up__ _n_  
 __tiebreaking__ _adj_ Serving as a tiebreaker. _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
+__tiffin__ _n_ (noun) A meal at midday; a luncheon. _Syn_ luncheon, dejeuner, lunch _His impudence still rankled when I came into the dining room at tiffin time._  
 __tiger nut__ _n_ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
 __tiger__ _n_ _Ben was the tiger of the defense._  
 __tight__ _adj_ :two::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._  
