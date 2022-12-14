@@ -7495,7 +7495,7 @@ __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lu
 __halibut__ _n_  
 __hall boy__ _n_  
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
-__hallmark__ _n_ :seven: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic. _High fashion is the hallmark of that boutique._  
+__hallmark__ _n_ :eight: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic. _High fashion is the hallmark of that boutique._  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halt__ _v_  
 __halter__ _n_ :seven: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Citizens with halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
@@ -7528,12 +7528,13 @@ __handkerchief__ _n_ :mute:[han~~d~~kerchief]
 __handmaiden__ _n_ /HAND-may-duhn/ [:scroll: From hand + maiden, referring to a young woman who was ready at hand to serve her lady.] __1__ Someone or something that is subservient to another. __2__ A personal maid.  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
-__handover__ _n_  
+__handover__ _n_ :three::hammer:  
 __hands on__  
 __hands-free__ _adj_ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
 __hands-on__ _adj_ :three::hammer: _A hands-on implementation strategy._ _A hands-on director._ _Hours of hands-on fun._  
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
+__handset__ _n_  
 __handsome__ _adj_ :mute:[han~~d~~some]  
 __handspring__ _n_ An acrobatic feat in which one starts from a standing position and wheels the body forward or backward in a complete circle, landing first on the hands and then on the feet, without contact by the rest of the body.  
 __handstand__ _n_ An act or instance of supporting the body in a vertical position by balancing on the palms of the hands.  
@@ -7609,7 +7610,7 @@ __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.
 __harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
 __harmonize__ _v_  
 __harness<sup>1</sup>__ _n_  
-__harness<sup>2</sup>__ _v_ :four::hammer: _Harnessing big data._ _Remove the barriers to harnessing HPC._  
+__harness<sup>2</sup>__ _v tr_ :six::hammer: _Harnessing big data._ _Remove the barriers to harnessing HPC._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harpy__ _n_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
@@ -7766,7 +7767,7 @@ __hedge<sup>2</sup>__ _v_ :seven::hammer: (hedging)
 __hedgehog__ _n_ :es: erizo  
 __hedonic__  
 __Hedonism__  
-__heed__ _v_ :nine::m: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
+__heed__ _v_ :nine::m: /hiːd/ To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__ _adj_ :two: /hēd′lĭs/ Marked by or paying little heed; unmindful or thoughtless.  
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
@@ -7786,7 +7787,7 @@ __heir__ _n_ :mute:[~~h~~eir]
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
-__heist__ _n_ :six: A robbery; a burglary. _A train heist._ _A jewelry heist._ _A true-life heist drama._  
+__heist__ _n_ :seven: /haɪst/ A robbery; a burglary. _A train heist._ _A jewelry heist._ _A true-life heist drama._  
 __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
 __heliograph__  
 __heliotropic__ _adj_ Turning or growing toward the light, esp. sunlight.  
@@ -7820,6 +7821,7 @@ __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
+__hence__ _adv_  
 __henchman__ _n_ :nine::m: (henchmen) /HENCH-mun/ A trusted follower who may perform unpleasant, wrong, or illegal tasks for a powerful person (such as a politician or criminal). Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._ _The play opens with the main character, a gangster, onstage surrounded by his henchmen._  
 __henchwoman__ _n_  
 __henna__  
@@ -7890,7 +7892,7 @@ __high-rise<sup>1</sup>__ _adj_
 __high-rise<sup>2</sup>__ _n_ :two::hammer: (high rise) _The building was a showy high-rise._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
-__highball__ _n_ _The passengers were sipping highballs at the bar._  
+__highball__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_ :two::hammer:  
 __highlands__  
 __highlight__ _v_  
@@ -7908,7 +7910,7 @@ __hillock__ _n_ :two: A small natural hill. _Syn_ knoll, mound, hammock
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
 __hinder__ _v_ :three::hammer:  
-__hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
+__hindsight__ _n_ :three: The opportunity to judge or understand past events using knowledge that you have gained since then. _Hindsight is not the best method of testing a design._  
 __hinge__ _v_  
 __hinky__ _adj_ :two::hammer: _Why this hinky feeling?_  
 __hinterland__ _n_ :six: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
@@ -7920,6 +7922,7 @@ __hippocampus__ _n_ :pencil2:
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
 __hipster__ _n_ /HIP-stuh/ One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.  
 __hires__ _n_  
+__hirsute__ _adj_ /ˈhɜr sut, hɜrˈsut/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
 __hirsutism__  
 __His Majesty the Sultan__  
 __hissy__ _n_ _Hissy fit._  
@@ -7956,6 +7959,7 @@ __hobnob__ _v_ :two::hammer: /HAHB-nahb/ _The entertainment columnist learns abo
 __hobo__ _n_  
 __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hock._  
 __hod__ _n_  
+__hodgepodge__ _n_ :two: A mixture of dissimilar ingredients; a jumble. _Syn_ patchwork, jumble _Paul’s screenplay was a hodgepodge of comedy, drama, slapstick, and tragedy._  
 __hoe<sup>1</sup>__ _n_ :two: A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
 __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
 __hoedowns__ _n_  
@@ -8031,6 +8035,7 @@ __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the s
 __homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
+__homophily__  
 __homophobia__ _n_  
 __homophobic__  
 __homophones__ _n_ :two::hammer:  
@@ -8089,7 +8094,7 @@ __Horn of Africa__ _n_ :camera: Somalia.
 __horn__ _n_  
 __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
-__horripilation__ _n_ :two::astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
+__horripilation__ _n_ :three::astonished: __1__ A technical name for gooseflesh. Goose bumps. __2__ The erection of any short bodily hairs. A bristling of the hair on the skin from cold, fear, etc.  
 __hors d’oeuvres__  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word “horse” is awarded for each missed attempt, and the first player to receive all five letters loses.  
@@ -8153,7 +8158,7 @@ __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ 
 __House Speaker__  
 __house trailer__ _n_ A mobile home.  
 __house wine__ _n_ :es: vino de la casa  
-__house__ _v_ :two::hammer:  
+__house__ _v_ :three::hammer:  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __house<sup>1</sup>__ _n_ __9__ (often House) A family line including ancestors and descendants, especially a royal or noble family: _the House of Orange._ _The houses of Navarre, Castile, and Aragon._  
 __house<sup>2</sup>__ _v_  
@@ -8370,7 +8375,7 @@ __impeccable__ _adj_ :seven::pencil2: __1__ Free from fault or blame. _Syn_ flaw
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
-__impediment__  
+__impediment__ _n_ :two::hammer:  
 __impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede or encumber.  
 __impel__ _v_ :two: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  

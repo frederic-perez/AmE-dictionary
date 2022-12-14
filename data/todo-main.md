@@ -1,18 +1,3 @@
-__hallmark__ _n_  
-__handover__ _n_ :two::hammer:  
-__handset__ _n_  
-__harness__ _v tr_ :two::hammer: (harnessing)  
-__heed__ _v_  
-__heist__ _n_  
-__hence__  
-__highball__ _n_ :astonished: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass.  
-__hindsight__ _n_ _Hindsight is not the best method of testing a design._  
-__hirsute__ _adj_ /ˈhɜr sut, hɜrˈsut/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
-__hodgepodge__ _n_ :two: A mixture of dissimilar ingredients; a jumble. _Syn_ patchwork, jumble _Paul’s screenplay was a hodgepodge of comedy, drama, slapstick, and tragedy._  
-__homophily__  
-__horripilation__ _n_ :astonished: __1__ A technical name for gooseflesh. __2__ The erection of any short bodily hairs.  
-__house__ _v_  
-__impediment__  
 __impending__  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
