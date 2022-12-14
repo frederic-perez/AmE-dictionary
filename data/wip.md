@@ -1,18 +1,3 @@
-__laddie__ _n_ _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
-__ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
-__languid__ _adj_ /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
-__lank__ _adj_ _Lank black hair._  
-__Lapland__ _n_  
-__largely__  
-__Latinx__ _adj, n_ One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to “Latino” and “Latina.” _As a Latinx, I’m very conscious of the issues that affect immigrants._  
-__lauding__ _v_  
-__lee__ _n_  
-__leeway__  
-__life buoy__  
-__limbic__ _adj_ _Limbic system._  
-__limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa  
-__list__ _v_ :astonished: (Nautical Terms) (esp of ships) To lean over or cause to lean over to one side. _The ship was listing in the water._  
-__lock__ _v_ (past of lock; can it be both locked and lock, I wonder?)  
 __logfile__ _n_  
 __loggerhead__ _n_  
 __lozenge__ _n_  

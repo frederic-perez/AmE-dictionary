@@ -9212,8 +9212,9 @@ __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical arg
 __lacustrine__ _adj_  
 __lacy__ _adj_ :three: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
-__laddie__  
+__laddie__ _n_ :two: _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
+__ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
 __lading__ _n_ _Checking bills of lading._  
 __Lady Liberty__ _n_ :two::hammer:  
 __lady of Shalott__  
@@ -9266,11 +9267,11 @@ __landlubber__ _n_ A person unfamiliar with the sea or seamanship.
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
-__languid__ _adj_ Lacking energy or vitality; weak. _Syn_ lackadaisical, languorous _He gave a languid wave of the hand to signify his indifference._  
+__languid__ _adj_ :two: /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. Lacking energy or vitality; weak. _Syn_ lackadaisical, languorous _He gave a languid wave of the hand to signify his indifference._ _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
 __languish__ _v_ :four: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
 __languorous__ _adj_ Lacking spirit or liveliness. _Syn_ lackadaisical, languid, dreamy  
-__lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
+__lank__ _adj_ :three::hammer: _Her hair hung in lank locks._ _Lank black hair._  
 __lanky__ _adj_ :five::hammer:  
 __lantanas__ _n_  
 __lanyard__ _n_ _He reached up and pulled a lanyard, sounding four loud short blasts on the whistle [of the locomotive]._  
@@ -9283,7 +9284,7 @@ __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into th
 __laped pin__  
 __lapel__ _n_  
 __lapidify__ _v_  
-__Lapland__ _n_  
+__Lapland__ _n_ :two::hammer:  
 __Laponia__ _n_  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
@@ -9291,7 +9292,7 @@ __Laputan__ _adj_ Absurdly fanciful or impractical.
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
 __larceny__ _n_ :eight: Theft of personal property. :es: hurto  
 __larder__ _n_ :five::hammer:  
-__largely__ _adv_ :three: To a large extent; mostly.  
+__largely__ _adv_ :four: To a large extent; mostly.  
 __larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largesse__ _n_ :seven::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
@@ -9324,11 +9325,11 @@ __lathes__
 __Latinas__  
 __Latino__ _n, adj_ :pencil2: _In Los Angeles half of the city’s residents are Latino._  
 __Latinos__ _n_  
-__Latinx__ _adj_  
+__Latinx__ _adj, n_ :two: One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to “Latino” and “Latina.” _As a Latinx, I’m very conscious of the issues that affect immigrants._  
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __latrine__ _n_  
 __latte__ _n_ A caffe latte.  
-__laud<sup>1</sup>__ _v_ :three: (lauded) To give praise to; glorify.  
+__laud<sup>1</sup>__ _v_ :four: /lɔːd/ (lauded, lauding) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laudable__  
 __laudation__ _n_ The act of lauding; praise.  
@@ -9390,7 +9391,7 @@ __lectern__
 __lecture__ _n_  
 __ledge__ _n_ :two::hammer: _Adam turned and sat on the ledge._  
 __ledger__ _n_ :nine:::m: __1__ An accounting journal as a physical object. _A heavy account ledger._ __2__ A slab of stone laid flat over a grave. __3__ A horizontal timber in a scaffold, attached to the uprights and supporting the putlogs.  
-__lee__ _n_ :two::hammer: _In the lee of the wagon._  
+__lee__ _n_ :three::hammer: _In the lee of the wagon._  
 __leech__ _n_ :six: __1__ Bloodsucking worm. :es: sanguijuela __2__ A person who stays around other people and uses them for personal gain.  
 __leek__ _n_  
 __leeks__ _n_  
@@ -9399,7 +9400,7 @@ __leer__ _v_
 __leer<sup>1</sup>__ _v_ (leering) :four::pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :nine: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :nine::m: /ˈliːˌweɪ/ Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg warmer__ _n_  
 __legal tack__  
@@ -9491,6 +9492,7 @@ __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state se
 __liege__ _n_ :three::hammer:  
 __liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The liegeman was expected to provide military support if his lord went to battle._  
 __lier__ _n_ A person who lies down.  
+__life buoy__  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
@@ -9533,6 +9535,7 @@ __lilt__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
+__limbic__ _adj_ _Limbic system._  
 __limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :five::hammer:  
 __liminal__ _adj_ __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
@@ -9540,6 +9543,7 @@ __limitless__
 __limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
 __limo__  
 __limp__ _adj_ :two::hammer: _Limp spinoff._ _Limp wrists._  
+__limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa  
 __limpid__ _adj_  
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
@@ -9577,7 +9581,8 @@ __lisp<sup>2</sup>__ _v_
 __lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
-__list__ _n_ __3__ An inclination to one side, as of a ship; a tilt. _She carried a starboard list of about five degrees._  
+__list<sup>1</sup>__ _n_ __3__ An inclination to one side, as of a ship; a tilt. _She carried a starboard list of about five degrees._  
+__list<sup>2</sup>__ _v_ :astonished: (Nautical Terms) (esp of ships) To lean over or cause to lean over to one side. _The ship was listing in the water._  
 __listen__ _v_ :mute:[lis~~t~~en]  
 __listening session__  
 __listicle__ _n_ :two: /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list. The word is a portmanteau of “list” and “article.”  
@@ -9628,6 +9633,7 @@ __lobster roll__
 __locale__ _n_ :two::hammer: _We want to recruit nationally, but in our locale we have talent._  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
+__lock__ _v_  
 __lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
