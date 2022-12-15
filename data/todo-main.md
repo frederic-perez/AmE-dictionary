@@ -1,18 +1,3 @@
-__impending__  
-__incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
-__incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
-__incumbent__  
-__incur__ _v_  
-__infotainment__  
-__insightful__ _adj_ _An insightful overview._  
-__instill__ _v_ (instilled)  
-__instrumental__ _adj_ _He has been instrumental in a number of European research projects._  
-__insurmountable__ _adj_ _An insurmountable problem._  
-__intervene__ _v_  
-__intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
-__jaded__ _v_  
-__jointly__  
-__juicy__ _adj_  
 __jumble__ _n_ _This new world is a jumble for her._  
 __killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
 __labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  

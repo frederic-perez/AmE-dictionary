@@ -8442,6 +8442,8 @@ __inbound<sup>1</sup>__ _adj_ :four::hammer: _Inbound trip._ _Inbounds pass._
 __inbound<sup>2</sup>__ _adv_  
 __inbound<sup>3</sup>__ _v_  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
+__incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
+__incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __incarnation__ _n_ :four::hammer:  
 __incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
 __incendiary__ _adj_ :two: Arousing to action or rebellion. _Syn_ inflammatory, incitive, instigative, rabble-rousing, seditious _The incendiary remarks in the pamphlet spurred the villagers to revolt._ _He launched an incendiary attack._  
@@ -8480,9 +8482,9 @@ __incubus__
 __inculcate__ _v_ :two: To teach and impress by frequent repetitions or admonitions.  
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It’s incumbent upon us to provide clear definitions of what these things mean._  
-__incumbent<sup>2</sup>__ _n_ :five: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__incumbent<sup>2</sup>__ _n_ :six: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __incunabula__ _n pl_  
-__incur__ _v_ :two::hammer:  
+__incur__ _v_ :three::hammer:  
 __indecorous__ _adj_  
 __indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
 __indefinite__  
@@ -8557,8 +8559,7 @@ __influenza__ _n_ :two: _Syn_ flu, grippe
 __infomania__ _n_ A condition of reduced concentration caused by continually responding to e-mail, text-messaging, etc.  
 __infomercial__ _n_  
 __informant__ _n_  
-__infotainment system__  
-__infotainment__  
+__infotainment__ _n_ :three::hammer: _Infotainment system._  
 __infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
 __infrasound__ _n_ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
@@ -8613,6 +8614,7 @@ __inscribed__ _v_
 __inscrutable__ _adj_ :four: /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
 __inset<sup>2</sup>__ _n_ :two::hammer:  
 __insidious__ _adj_ :two::hammer:  
+__insightful__ _adj_ _An insightful overview._  
 __insinuate__ _v_ /in-SIN-yuh-wayt/  
 __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
 __insipid__  
@@ -8632,15 +8634,15 @@ __instant message__ _n_
 __instating__  
 __instigate__ _v_ Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
-__instill__ _v_ :eight::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
+__instill__ _v_ :nine::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
-__instrumental__  
+__instrumental__ _adj_ :two::hammer: _He has been instrumental in a number of European research projects._  
 __insular__ _adj_ _His small, insular group of loyalists._  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __insulation__ _n_ :four::hammer:  
 __insure__ _v_ :two::hammer:  
-__insurmountable__ _adj_ _Alabama built an insurmountable 21-3 halftime lead._  
+__insurmountable__ _adj_ :two::hammer: _Alabama built an insurmountable 21-3 halftime lead._ _An insurmountable problem._  
 __insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
 __intaglio__ _n_ A figure or design carved into or beneath the surface of hard metal or stone. _Syn_ diaglyph _The intaglio was so incredibly detailed that it almost looked like a photograph._  
 __intangible__  
@@ -8680,12 +8682,13 @@ __interpunct__ _n_
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__ _v_ :four::hammer: (intertwined)  
-__intervene__ _v_ :four::hammer:  
+__intervene__ _v_ :five::hammer:  
 __intervention__ _n_ :three::hammer:  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
 __intimation__ _n_ Making known indirectly.  
 __intolerable__ _adj_  
+__intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
@@ -8790,7 +8793,7 @@ __Jacob’s ladder__ _n_
 __Jacquerie__ _n_  
 __Jacques__ _n_ :four::hammer: _The onslaught of the Jacques._  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
-__jaded__ _adj_ :five: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them. _A jaded traveler._  
+__jaded__ _adj_ :six: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them. _A jaded traveler._  
 __Jag__ _n_ _informal_ A Jaguar car: often understood as a symbol of affluence.  
 __jagged__ _adj_ :two::hammer:  
 __jagging__  
@@ -8910,6 +8913,7 @@ __John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confus
 __John Q. Public__ _n_ (John Q., John Q. Citizen)  
 __johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
 __joint__ _n_ A prison, a jail.  
+__jointly__  
 __joist__ _n_ :two::hammer:  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
@@ -8947,7 +8951,7 @@ __jug__ _n_ :three: A large container for liquids, with a narrow mouth and typic
 __juggernaut__ _n_ :nine::m::dart: /ˈdʒʌɡəˌnɔːt/ /JUG-er-nawt/ Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. A massive force, campaign, movement, or object that crushes whatever is in its path. _With the signing of a player who is possibly the best receiver in the league, the team will be an offensive juggernaut._ _Jinx-killing juggernaut._  
 __juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
 __juice__ _n_ _slang_ :three: Energy, power.  
-__juicy__ _adj_ :two::hammer:  
+__juicy__ _adj_ :three::hammer:  
 __jujitsu__ _n_  
 __juke<sup>1</sup>__ _n_ _I was looking in my mirror and saw him juke to the right._  
 __juke<sup>2</sup>__ _v_  
@@ -9894,9 +9898,9 @@ __mainstream__
 __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
+__major-domo__ _n_ (majordomo)  
 __major<sup>1</sup>__ _adj_ _Major concerns._  
 __major<sup>2</sup>__ _v_  
-__major-domo__ _n_ (majordomo)  
 __majoring__  
 __majority leader__ _n_ The person who leads the majority party in the Senate or House of Representatives.  
 __make out__ _v_ :two::hammer:  
