@@ -1,18 +1,3 @@
-__logfile__ _n_  
-__loggerhead__ _n_  
-__lozenge__ _n_  
-__ludicrous__ _adj_ /LOO-di-kruhs/ So absurd as to provoke laughter.  
-__luncheon__  
-__lurid__  
-__major__ _adj_ _Major concerns._  
-__maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
-__mead__ _n_  
-__meaningful__  
-__megalomaniac__  
-__merchant__ _adj_ _A heavily laden merchant ship._  
-__mere__ _adj_ :two::hammer: _The mere possibility of a contract._ _A mere 2% of the cost._  
-__merely__  
-__miasma__  
 __mirage__ _n_ /mɪˈrɑʒ/  
 __mischief__  
 __misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  

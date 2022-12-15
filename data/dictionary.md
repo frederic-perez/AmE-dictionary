@@ -9655,7 +9655,8 @@ __lodgings__
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
 __lofty__ _adj_ :eight: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
-__loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone’s intelligence.  
+__logfile__ _n_  
+__loggerhead__ _n_ :three: A stupid person; these words are used to express a low opinion of someone’s intelligence.  
 __logjam__ _n_  
 __logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachist__  
@@ -9758,7 +9759,7 @@ __lowkey__
 __lowlife__ _n_ _slang_ :four: __1__ A contemptible person. A criminal or disreputable person. _That guy is a lowlife, always hitting on the waitresses and causing trouble._ __2__ The class of such people considered collectively. _As a private investigator, I’m well-acquainted with our city’s lowlife._  
 __lowlights__  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
-__lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
+__lozenge__ _n_ :two: Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
@@ -9769,7 +9770,7 @@ __lucrative__ _adj_ :two: /ˈluːkrətɪv/ Producing a profit; profitable; remun
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
 __Luddite__ _n_ _slang_ :two: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
-__ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
+__ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ /LOO-di-kruhs/ So absurd as to provoke laughter. Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
 __lug wrench__ _n_ :two::hammer:  
@@ -9793,7 +9794,7 @@ __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch bre
 __lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
 __lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, cold meats, deli meats) Precooked or cured meats that are sliced and served cold or hot. They are typically served in sandwiches or on a tray. They can be purchased pre-sliced, usually in vacuum packs, or they can be sliced to order. :es: embutidos  
 __lunch room__ _n_  
-__luncheon__ _n_ :nine: Lunch, especially a formal lunch for a lot of people.  
+__luncheon__ _n_ :nine::m: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
 __lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._ _The dog snarled and lunged._  
@@ -9805,7 +9806,7 @@ __lurch<sup>1</sup>__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to 
 __lurch<sup>2</sup>__ _n_  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
-__lurid__ _adj_ :five::hammer: _A lurid career._  
+__lurid__ _adj_ :six::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __luscious__ _adj_ :two::hammer: _Luscious burgers._  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
@@ -9893,7 +9894,8 @@ __mainstream__
 __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
-__major__ _v_  
+__major<sup>1</sup>__ _adj_ _Major concerns._  
+__major<sup>2</sup>__ _v_  
 __major-domo__ _n_ (majordomo)  
 __majoring__  
 __majority leader__ _n_ The person who leads the majority party in the Senate or House of Representatives.  
@@ -9912,6 +9914,7 @@ __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beg
 __malapropism__ _n_ :four::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
+__maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
@@ -10114,12 +10117,13 @@ __mbira__ _n_ _Syn_ kalimba, thumb piano
 __McDonald’s__ _n_ :mega: [mic...]  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
 __mea culpa__  
-__mead__ _n_  
+__mead__ _n_ :two::hammer:  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander<sup>1</sup>__ _n_  
 __meander<sup>2</sup>__ _v_ :five: /mee-AN-der/ __1__ To wander aimlessly or casually. _The couple spent the afternoon meandering around the seaside town._ __2__ To follow a winding or intricate course. _The stream meanders through the canyon._  
+__meaningful__  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __measles__ _n_ :five::pencil2::hammer: :es: sarampión  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
@@ -10155,7 +10159,7 @@ __meet up__
 __meet__ _n_ :four::hammer: _I started going to international meets._  
 __meetup__ _n_ (meet-up) A word for “meeting.” _Our monthly meetup._  
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
-__megalomaniac__ _n_ :two: Someone who enjoys power over other people and always wants more of it.  
+__megalomaniac__ _n_ :three: Someone who enjoys power over other people and always wants more of it.  
 __megalomanic__ _adj_ Suffering from megalomania.  
 __megastore__ _n_ :mega:  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
@@ -10209,11 +10213,13 @@ __mercantile__ _adj_ :two::hammer:
 __Mercer’s condition__ _n_  
 __merch__ _n_ _informal_ :three: Merchandise.  
 __merchant prince__ _n_ A very wealthy or influential merchant.  
-__merchant__ _n_ :two::hammer: _The merchants listed are easy to find on our map._  
+__merchant<sup>1</sup>__ _n_ :two::hammer: _The merchants listed are easy to find on our map._  
+__merchant<sup>2</sup>__ _adj_ _A heavily laden merchant ship._  
 __mercurial__ _adj_ :five: /mer-KYUR-ee-ul/ Liable to sudden unpredictable change. Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._ _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
 __mercury__ _n_ /mûr′kyə-rē/  
-__mere__ _adj_ :four::hammer: _From mere $200._  
+__mere__ _adj_ :six::hammer: _From mere $200._ _The mere possibility of a contract._ _A mere 2% of the cost._  
+__merely__  
 __meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
 __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
 __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
@@ -10266,7 +10272,7 @@ __metronome__
 __mettle__ _n_ :nine::m::dart: __1__ Courage; spirit. The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._ __2__ Inherent character.  
 __mettlesome__ _adj_ /MET-ul-sum/ Full of vigor and strength of spirit or temperament. _The rider was experienced and had no trouble handling the mettlesome horse._  
 __mezzanine__  
-__miasma__ _n_ :four::hammer: _An opaque miasma._  
+__miasma__ _n_ :five::hammer: _An opaque miasma._  
 __mick__ _n_ :three::hammer:  
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
