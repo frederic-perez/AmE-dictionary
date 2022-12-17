@@ -767,7 +767,7 @@ __Artemis__ _n_ :mega:
 __artery__ _n_ :mega:  
 __artful__  
 __artichoke__ _n_ :three::hammer:  
-__articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
+__articulate<sup>1</sup>__ _adj_ :five: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
@@ -5414,6 +5414,7 @@ __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple w
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endeavor__ _v_ :two: Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
 __endocrine__ _n_ :mega:  
+__endometriosis__ _n_ The presence of endometrium in areas other than the lining of the uterus, as on the ovaries, resulting in premenstrual pain.  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
 __endorse__ _v_ Give support or one’s approval to. _Syn_ second, back _Before I can move forward with a project of this magnitude, my boss must first endorse it._  
 __endow__ _v_ :four::hammer: (endowed)  
@@ -6472,7 +6473,7 @@ __forlornly__
 __formals__ _n_  
 __Formica__  
 __formidable__  
-__formula milk__ _n_ :two: An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
+__formula milk__ _n_ :three: An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
 __formulate__ _v_ _I was formulating my question._  
 __forsake__ _v_ :seven: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken<sup>1</sup>__ _v_ :two: The past participle of forsake.  
@@ -8166,6 +8167,7 @@ __houseboats__ _n_
 __housebound__  
 __housecarls__  
 __housecleaner__ _n_  
+__housecoat__ _n_ A woman’s garment, usually long and loose, used for informal wear at home.  
 __household<sup>1</sup>__ _n_ :two::hammer:  
 __household<sup>2</sup>__ _adj_ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
@@ -8461,7 +8463,7 @@ __incident<sup>1</sup>__ _n_
 __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
 __incidental<sup>1</sup>__ _adj_  
 __incidental<sup>2</sup>__ _n_  
-__incidentally__ _adv_ :eight::hammer:  
+__incidentally__ _adv_ :nine::hammer:  
 __incipient__ _adj_ _An incipient building._  
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
@@ -10363,7 +10365,7 @@ __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ moras
 __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
-__misadventure__ _n_ An instance of misfortune.  
+__misadventure__ _n_ :two: An instance of misfortune; a mishap.  
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
 __miscarriage__ _n_ :two::hammer:  
@@ -10483,7 +10485,7 @@ __montero__ _n_ A hunter’s cap with side flaps.
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
 __mood__ _n_ :two::hammer: _Mood story._  
-__moody__ _adj_ :two::hammer:  
+__moody__ _adj_ :three::hammer:  
 __moon roof__  
 __moon__ _v_  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._  
@@ -14856,7 +14858,8 @@ __snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snug__ _v_ :three::hammer:  
-__snuggles__  
+__snuggle<sup>1</sup>__ _v_  
+__snuggle<sup>2</sup>__ _n_  
 __snugly__ _adv_ :two::hammer:  
 __so far, so good__  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
@@ -15680,7 +15683,7 @@ __sugarplum__ _n_ A small candy in the shape of a ball or disk.
 __sugary yogurt__  
 __suicide vests__  
 __suit up__ _v_  
-__suitor__ _n_ :two::hammer: (suitors)  
+__suitor__ _n_ /ˈsu tər/ :three: __1__ A man who courts a woman; wooer. :es: pretendiente __2__ A person who makes a petition or request.  
 __sukey__ _n_ /SOO-kee/ [:scroll: After Suki, a girl in the nursery rhyme “Polly Put the Kettle On”. From _Sukey_, nickname for _Susanna_.] A tea-kettle.  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
@@ -15964,7 +15967,7 @@ __tangerine__ _n_
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
-__tank__ _v_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
+__tank__ _v intr_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanker truck__  
 __Tannenbaum__ _n_ (German noun) Fir tree (Christmas tree).  
 __tanner__ _n_ :three::hammer:  
@@ -16850,7 +16853,7 @@ __umpteenth__ _adj_ :two::dart: Last in an indefinitely numerous series.
 __un-American__  
 __unabashed__ _adj_ :six: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. _An unabashed fan._  
 __unabashedly__  
-__unabated__ _adj_ :three::hammer:  
+__unabated__ _adj_ :four::hammer:  
 __unakin__ _adj_ Not related or comparable.  
 __unalienable__  
 __unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fear of radioactivity, born of ignorance._  
@@ -17917,6 +17920,7 @@ __wrong<sup>1</sup>__ _adj_ :mute:[~~w~~rong]
 __wrong<sup>2</sup>__ _adv_ :mute:[~~w~~rong]  
 __wrong<sup>3</sup>__ _n_ :mute:[~~w~~rong]  
 __wrong<sup>4</sup>__ _v_ :mute:[~~w~~rong]  
+__wrongdoer__ _n_ One who does wrong, especially morally or ethically.  
 __wrongdoing__  
 __wrongous__ _adj_ /ˈrɒŋəs/ [:scroll: From wrong, from Old English wrang + wise (manner)] __1__ (of a person) Unfair, unjust. __2__ Characterized by unfairness or injustice. __3__ Not lawful, unjust. __4__ Not fitting or suitable.  
 __wrought-iron__  
