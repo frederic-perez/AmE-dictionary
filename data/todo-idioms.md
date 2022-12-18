@@ -1,18 +1,3 @@
-__a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
-__a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
-__a cry for help__  
-__a good scout__ An honest, affable, reliable, and trustworthy person. _Your dad’s a good scout, you know that? He’s helped me out of so many jams without even thinking twice._  
-__a mine field__  
-__a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
-__abide by__ :two::hammer:  
-__above and beyond__ :three::hammer:  
-__according to plan__ In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._  
-__all around__  
-__all over the map__  
-__an iron fist__  
-__at a snail’s pace__  
-__at any rate__  
-__back to back__  
 __backpedal__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
@@ -129,6 +114,7 @@ __love (someone) to the moon (and back)__
 __mean the world to (one)__ :dart:  
 __mixed bag__  
 __more than meets the eye__  
+__mother lode__  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
 __naked eye__ _With the naked eye._  

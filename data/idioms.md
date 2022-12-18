@@ -53,12 +53,15 @@ __a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasa
 __a bad penny__ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
 __a bird’s eye view__  
+__a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
 __a bit dicey__ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit obtuse__ Coming across as dull, thick-witted, or stupid; unable to grasp or understand a situation or concept. _I feel like I’m a bit too obtuse to understand what these people are talking about._  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case.  
 __a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
 __a blessing in disguise__ An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
+__a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
+__a cry for help__  
 __a different ball game__  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
@@ -72,6 +75,7 @@ __a game of musical chairs__ A situation in which people or things are moved, sh
 __a going concern__ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company.  
 __a gong show__  
+__a good scout__ An honest, affable, reliable, and trustworthy person. _Your dad’s a good scout, you know that? He’s helped me out of so many jams without even thinking twice._  
 __a good turn__ An action that is beneficial to another person in some way.  
 __a great deal__  
 __a great many__ A very large number of (people, things, etc.).  
@@ -104,6 +108,7 @@ __a lot on (one’s) plate__ A lot to do. _I just have a lot on my plate right n
 __a man of his word__ _He is a man of his word._  
 __a man/woman on a mission__ A person who is fiercely determined to do or get what they want. _Janet stormed into work like a woman on a mission, heading straight into her boss’s office to demand a raise in her salary._  
 __a match made in hell__ An extremely ill-suited pairing of people or things; a match that will result in a particularly negative or disastrous outcome. (A play on the more common phrase “a match made in heaven,” meaning the opposite.) _I can’t understand how John and Samantha are still together—they seem like a match made in in hell to me!_  
+__a mine field__  
 __a mixed picture__ A portrayal of a situation highlighting both positive and negative aspects of its nature or status. _Despite the government’s upbeat remarks, the Federal Reserve today published a report showing a mixed picture of the status of the economy’s recovery._  
 __a modest proposal__ An extreme, unorthodox, and often provocative or distasteful remedy to a complex problem, generally suggested humorously or satirically. (An allusion to Jonathan Swift’s 1729 essay _A Modest Proposal_, in which he suggests that the poor of Ireland could alleviate their woes by selling their children as food.) _Here’s a modest proposal, then: we create a hunting reserve where the world’s wealthiest serve as game for the world’s poorest, and for each hunter who makes a successful kill, their home country receives the wealth and assets of their prey._  
 __a morning person__ Someone who is more active and alert in the early hours of the morning than later in the day; an early riser. _I tried dating a morning person once, but since I like to sleep in late, it didn’t really work out._  
@@ -117,7 +122,7 @@ __a pipe dream__
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
-__a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a sobering thought__ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a sore loser__ :dart: Someone who complains, becomes upset, or otherwise reacts very negatively when they fail or lose at something competitive. _Don’t be such a sore loser, Jim. I know you pride yourself on your racquetball skills, but I beat you fair and square._  
@@ -131,8 +136,8 @@ __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeli
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually in the negative.) _I couldn’t get a wink of sleep because of the noise._  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
-__abide by__ To conform to; comply with: _abide by the rules._  
-__above and beyond__ :dart::three: Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
+__abide by__ :three: To conform to; comply with: _abide by the rules._  
+__above and beyond__ :dart::six: Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
 __above board__ :two::hammer:  
 __above the salt__ Of or in a position of high standing, rank, regard, or repute.  
 __absence makes the heart grow fonder__ _proverb_ A separation causes one to feel even more positive about the absent person or thing. _Ever since Carla’s boyfriend moved away, she can’t stop thinking about him. Absence makes the heart grow fonder._  
@@ -141,7 +146,7 @@ __abysmal failure__ Failure that is total and extreme in measure or implication.
 __accident of birth__ Any and all particulars surrounding one’s birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one’s control.  
 __according to Hoyle__ In accord with the prescribed rules or regulations.  
 __according to legend__  
-__according to plan__ :two: In the way something is supposed to be; as expected. _If everything goes according to plan._  
+__according to plan__ :three: In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._ _If everything goes according to plan._  
 __ace in the hole__ :two::hammer:  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
 __across the board__  
@@ -162,6 +167,7 @@ __ahoy there, me hearties__
 __al fresco__  
 __alive and kicking__  
 __all aboard__  
+__all around__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all downhill from here__  
 __all ears__ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
@@ -170,6 +176,7 @@ __all hell broke loose__
 __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ In a nervous, confused, or agitated state.  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
+__all over the map__  
 __all over the place<sup>1</sup>__ _adj_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ :two: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
@@ -189,6 +196,7 @@ __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._
 __an eye for an eye, a tooth for a tooth__ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
+__an iron fist__  
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
@@ -228,9 +236,9 @@ __at a (single) stroke__ All at once, with a single decisive or powerful action.
 __at a crossroads__ :dart::four::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
-__at a snail’s pace__ (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
+__at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
-__at any rate__ :two: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
+__at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
 __at every turn__ __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
 __at heart__ :two::hammer: _Most people are crooks at heart._  
@@ -261,6 +269,7 @@ __back atcha__ An exclamation used to express the same sentiment back to the ori
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back out__  
+__back to back__  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __bad blood__ :two::hammer:  
 __bad press__ Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
