@@ -1,18 +1,3 @@
-__mirage__ _n_ /mɪˈrɑʒ/  
-__mischief__  
-__misnomer__ _n_ /miss-NOH-mer/ Misnomer means “an incorrect name or designation.” It can also be used to refer to the act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._  
-__miss__ _n_ _A memory cache miss._  
-__mitigate__ _v_  
-__momentum__ _n_ _I’ve lost a lot of momentum._  
-__motherlode__ _n_  
-__mugging__ _n_  
-__multicast__  
-__murk__ _n_  
-__muster__ _n_ (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._  
-__nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
-__netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
-__nifty__ _adj_  
-__nix__ _v_ (nixed)  
 __nonetheless__  
 __notwithstanding__ _adv, conj, prep_ :two::hammer:  
 __oblivious__  

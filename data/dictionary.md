@@ -10363,6 +10363,7 @@ __minute<sup>1</sup>__ _n_ :mega: /mĭn′ĭt/
 __minute<sup>2</sup>__ _adj_ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
+__mirage__ _n_ /mɪˈrɑʒ/  
 __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
 __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
@@ -10376,7 +10377,7 @@ __miscegenation__
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
-__mischief__ _n_ :four::hammer:  
+__mischief__ _n_ :five::hammer:  
 __mischievous__ _adj_ :two::mega::hammer:  
 __misconduct__ _n_ :two::hammer:  
 __misconstrued__  
@@ -10400,7 +10401,7 @@ __mishap__ _n_ :mega::two::hammer:
 __mishmash__ _n_ :two::hammer:  
 __misinformation__ _n_ Information that is incorrect.  
 __mislay__ _v_ _He mislaid his keys._  
-__misnomer__ _n_ :nine: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :nine::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
@@ -10409,6 +10410,7 @@ __misplace__ _v_
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
+__miss__ _n_ _A memory cache miss._  
 __missals__ _n_  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_ :two: To spell incorrectly.  
@@ -10425,7 +10427,7 @@ __mistrial__ _n_ :two::hammer:
 __mistruth__ _n_ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __miter__ _n_  
-__mitigate__ _v_ :two::hammer:  
+__mitigate__ _v_ :three::hammer:  
 __mitt__ _n_  
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
 __mix-up__ _n_ :two::hammer:  
@@ -10460,7 +10462,7 @@ __molten lava__
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
 __momentous__ _adj_ :three: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
 __momentously__ _adv_ In a momentous way.  
-__momentum__  
+__momentum__ _n_ :two::hammer: _I’ve lost a lot of momentum._  
 __monad__  
 __Monday__ _n_ :mega: /’möndi, -deI/  
 __mondegreen__ _n_ :three::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
@@ -10594,6 +10596,7 @@ __muffler__ _n_ :three: __1__ A heavy scarf worn around the neck for warmth. __2
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
 __mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  
 __mugger__ _n_ _informal_ :three: (muggers) A person who commits robbery with violence, esp in the street.  
+__mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __muggles__ _n_ :two::hammer:  
 __muggy__ _adj_ :two::hammer: _The weather was muggy._  
 __mulberry__ _n_ :three::hammer: (mulberries)  
@@ -10607,6 +10610,7 @@ __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.
 __mullet__ _n_ :three::hammer: Freshwater or coastal food fishes a spindle-shaped body; found worldwide.  
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
+__multicast__  
 __multicopter__ _n_ _Syn_ multirotor  
 __multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
 __multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
@@ -10627,6 +10631,7 @@ __munition__ _n_ :three::hammer: (munitions) _The munitions factory._
 __muons__ _n_ _Cosmic-ray muons._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
+__murk__ _n_  
 __muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, “little mouse.”  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
@@ -10651,7 +10656,7 @@ __mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin muscu
 __must have__  
 __mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
-__muster__ _v_ :three: To assemble or gather: _mustering for inspection._ Gather or bring together. _Syn_ rally, summon _Mustering all her strength, she pulled hard on the oars._  
+__muster__ _v_ :four: (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._ To assemble or gather: _mustering for inspection._ Gather or bring together. _Syn_ rally, summon _Mustering all her strength, she pulled hard on the oars._  
 __musty__  
 __mutism__ _n_  
 __mutt__ _n_ :five::hammer:  
@@ -10753,6 +10758,7 @@ __necktie__ _n_
 __necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
 __necromancy__  
 __necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
+__nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
 __neediness__ _n_ The state of being needy; poverty.  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 __needless to say,__  
@@ -10788,6 +10794,7 @@ __nesting doll__ _n_
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest. _The tumbler was nestled next to the bottle._  
 __nestlings__ _n_  
 __nether__ _adj_ :two::hammer:  
+__netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
 __netsuke__ _n_  
@@ -10824,7 +10831,7 @@ __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
 __nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  
-__nifty__ _adj informal_ :five: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__nifty__ _adj informal_ :six: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
@@ -10860,7 +10867,7 @@ __nitty__ _adj_ _informal_ Foolish; stupid.
 __nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nival__ _adj_ Relating to, growing in or under, or living on snow cover: _nival fauna._  
 __nix<sup>1</sup>__ _n_  
-__nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
+__nix<sup>2</sup>__ _v_ :two: To cancel something, to stop something from happening.  
 __no jive__  
 __no offense__  
 __no questions asked__  
