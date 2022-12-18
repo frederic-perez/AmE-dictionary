@@ -12,6 +12,7 @@ __all over the map__
 __an iron fist__  
 __at a snail’s pace__  
 __at any rate__  
+__back to back__  
 __backpedal__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
@@ -28,12 +29,15 @@ __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, 
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __brighten up (the) day__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
+__by the same token__ In the same way.  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call the shots__  
 __cast/shed/throw light on something__ :two::hammer:  
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
+__change of heart__  
 __check out__  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
+__close call__ _n_  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
 __come to terms__  
@@ -53,6 +57,7 @@ __few and far between__
 __fight the good fight__  
 __first and foremost__  
 __food baby__  
+__for all intents and purposes__  
 __for better or worse__ :three::hammer:  
 __for the sake of__  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
@@ -66,8 +71,10 @@ __get (something) straight__ _Let’s get this straight._
 __get it off my chest__  
 __get shut-eye__ _I’ll get some shut-eye._  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
+__get the edge__  
 __get the hang of something__  
 __get your shit together__  
+__give in__ _Give in to our fears._  
 __go apeshit__  
 __go berserk__  
 __go figure__  
@@ -116,6 +123,7 @@ __let alone__
 __let down__  
 __lie ahead of (someone or something)__  
 __line of work__  
+__lost cause__  
 __lost on me__ _It is not lost on me._  
 __love (someone) to the moon (and back)__  
 __mean the world to (one)__ :dart:  
@@ -181,6 +189,8 @@ __shot down__
 __shut down__  
 __sick as a dog__  
 __simply put__  
+__single out__  
+__skip town__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slippery slope__  
 __slow burner__  
@@ -189,6 +199,7 @@ __squashed (in) like sardines__ Very tightly or snugly packed together, especial
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
+__stand to reason__ Be clear to all sensible people.  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step up__  
 __steppingstone__  
@@ -228,6 +239,7 @@ __take it away!__
 __take pride in someone or something__ :three::hammer:  
 __take the edge off__  
 __take up__ _We have taken up this challenge._  
+__taken aback__  
 __talk trash__  
 __talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
@@ -316,6 +328,7 @@ __up and running__ :two::hammer: _The cluster is up and running within a very sm
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up-and-coming__ _Up-and-coming writers and artists._  
 __utterly__  
+__value judgment__  
 __vamp up__  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
 __very much so__ Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
