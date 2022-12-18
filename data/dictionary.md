@@ -1424,7 +1424,7 @@ __best in show__
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
 __best-of-breed__ _adj_  
 __bestiary__ _n_ A book consisting of a collection of descriptions of real and fabulous animals, often including a moral or allegorical interpretation of each animal’s behavior. Bestiaries were particularly popular in medieval Europe.  
-__bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
+__bestow__ _v tr_ _formal_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
 __betoken__ _v_  
@@ -3135,7 +3135,7 @@ __cloisonné__ _adj, n_ _Cloisonné vases._
 __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
 __close > not even close__  
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
-__close in__ _v_ _Winter was closing in._  
+__close in__ _phr v_ :two: Surround gradually. _Winter was closing in._  
 __close the loops__  
 __closed shop__ _n_ A business establishment in which union membership is a condition of employment.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
@@ -4435,7 +4435,7 @@ __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Sy
 __destigmatize__ _v_  
 __destitute__ _adj_ :seven::astonished: In great need of food, shelter etc. Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._ _They were left destitute when he died._ :es: indigente _Destitute peasants._  
 __desultory__ _adj_ :four: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
-__detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
+__detail__ _n_ :four::astonished::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. Small working party of soldiers, etc. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detailer__ _n_  
 __detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
@@ -4960,7 +4960,7 @@ __draught__ _n_ :astonished: __1__ A current of air, esp one intruding into an e
 __draw a line__  
 __draw close__ _v_ Move towards. _He was drawing close to a decision._  
 __draw up__ _v_ :three::hammer:  
-__draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
+__draw<sup>1</sup>__ _n_ :two::hammer: _Homeless camps are a draw._ _The main draw of the show._  
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I’ll draw some blood to be sure._ _We win, lose and draw together._  
 __drawbridge__ _n_ :three::hammer:  
 __drawingrooms__  
@@ -5879,6 +5879,7 @@ __fashionista__ _n_
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
+__fast__ _adj_ :astonished: __9__ Firmly fixed or fastened. Fixed, unmoving. _Holding fast._ _A fast grip._  
 __fast-paced__  
 __fast-talk__ _v_  
 __fast-track<sup>1</sup>__ _adj_ :three: Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
@@ -6058,7 +6059,7 @@ __figure skates__ _n_
 __figure skating__  
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
 __figure<sup>2</sup>__ _v_ _informal_ :two::hammer:  
-__figurehead__ _n_ :four::hammer:  
+__figurehead__ _n_ :five::hammer:  
 __filbert__ _n_ :es: avellana  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  
@@ -6643,7 +6644,7 @@ __Fruit Belt__ _n_ Fruit Belt is a term in the United States for an area where t
 __fruit juice__ _n_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruitful__  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
-__frumpy__  
+__frumpy__ _adj_ :two::hammer:  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
@@ -7469,6 +7470,7 @@ __haggis__ _n_ :four: /ˈhæɡɪs/ _Cookery_ A Scottish dish made from sheep’s
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
+__haik__  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :eight: __1__ Precipitation in the form of spherical or irregular pellets of ice larger than 5 millimeters (0.2 inch) in diameter, usually associated with thunderstorms. _In an average year hail causes more losses than tornadoes._ __2__ Something that falls with the force and quantity of a shower of ice and hard snow: _a hail of pebbles; a hail of criticism._ _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _The longbow’s fearful hail demoralized the enemy._  
@@ -8029,7 +8031,7 @@ __homesickness__ _n_
 __homesite__ _n_ :two::hammer:  
 __homespun<sup>1</sup>__ _adj_ :three::hammer:  
 __homespun<sup>2</sup>__ _n_  
-__homestand__ _n_ :five: A series of games played at a team’s home field.  
+__homestand__ _n_ :six: A series of games played at a team’s home field.  
 __homestead<sup>1</sup>__ _n_ :eight::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
@@ -8187,7 +8189,7 @@ __hubbub__ _n_ :six::hammer:
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
-__hubris__ _n_ :eight: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
+__hubris__ _n_ :nine: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
 __huckster__ _n_ :five: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :six: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
@@ -8774,7 +8776,7 @@ __Ivy League__ _n_ :two::hammer: _Ivy League school._
 __ivy__ _n_ :six::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :seven: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection, especially of a vaccine: _Have you gotten your flu jab yet?_ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
-__jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
+__jab<sup>2</sup>__ _v_ :nine::m: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
@@ -8826,7 +8828,7 @@ __jar<sup>1</sup>__ _n_ _An opened jar of olives._
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jardiniere__ _n_ __2__ A garnish for meat consisting of several cooked vegetables cut into pieces.  
 __jarhead__ _n_ _slang_ A US Marine.  
-__jarring__ _adj_ :six: Surprising, or slightly shocking.  
+__jarring__ _adj_ :eight: Surprising, or slightly shocking.  
 __jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
@@ -9422,7 +9424,7 @@ __leisure__ _n_ /ˈlɛʒə; _US_ ˈliːʒər/
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :three::hammer: _A leisurely weekend stroll._  
 __leisurely<sup>2</sup>__ _adv_ :three::hammer: _He took his coat, leisurely putting it on._  
-__leitmotif__ _n_ :two::hammer: (leitmotiv)  
+__leitmotif__ _n_ :three::hammer: (leitmotiv)  
 __lemme__ _contraction_ _Lemme see._  
 __lemming__ _n_ :two: /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
 __lemon wedge__ _n_ :camera: _Lemon wedges for serving._  
@@ -10100,7 +10102,7 @@ __matter-of-factly__
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
 __maturity__ _n_ (maturities) _List of maturities._  
-__maudlin__ _adj_ :five: Foolishly tearful or sentimental, as when drunk. Effusively or tearfully sentimental. _Syn_ bathetic, mawkish, schmaltzy, mushy _When the farewells were in danger of becoming maudlin, he judged that it was time to leave._  
+__maudlin__ _adj_ :six: Foolishly tearful or sentimental, as when drunk. Effusively or tearfully sentimental. _Syn_ bathetic, mawkish, schmaltzy, mushy _When the farewells were in danger of becoming maudlin, he judged that it was time to leave._  
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
 __Maundy Thursday__  
 __maven__ _n_ :three::hammer:  
@@ -11809,7 +11811,7 @@ __pernicious__ _adj_ :seven: /per-nish-uhs/ __1__ Having a harmful effect or inf
 __peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
-__perpetrator__  
+__perpetrator__ _n_ :two::hammer:  
 __perpetuity__ _n_ /per-puh-TOO-uh-tee/ A state of continuing forever or for a very long time. _The property will be passed on from generation to generation in perpetuity._  
 __perquisite__ _n_  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
@@ -12221,7 +12223,7 @@ __poltroon__ _n_ An abject coward. _Syn_ craven, recreant
 __polyadic__  
 __polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
 __polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
-__polymath__ _n_ :five::hammer:  
+__polymath__ _n_ :six::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
 __polystyrene__  
 __pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
 __pomegranate__ _n_ :three::hammer: /ˈpɒməgrænɪt/ (pomegranates)  
@@ -12434,7 +12436,7 @@ __preterm birth__ _n_ :two: Preterm birth (PTB), also known as premature birth, 
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
-__prevail__ _v_ :two::hammer: (prevails)  
+__prevail__ _v_ :three::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :three::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
@@ -14432,7 +14434,8 @@ __siege__ _n_ :two::hammer: _An overnight siege shocked the country._
 __sieve<sup>1</sup>__ _n_ :seven::hammer: _Water leaking from a sieve._ _The Truce was a sieve that failed to contain human behavior._  
 __sieve<sup>2</sup>__ _v_  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can’t comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
-__sigh__ _v_ :two::mega::mute:[si~~gh~~]  
+__sigh<sup>1</sup>__ _n_ :mega:  
+__sigh<sup>2</sup>__ _v_ :two::mega::mute:[si~~gh~~]  
 __sight<sup>1</sup>__ _n_ :mute:[si~~gh~~t]  
 __sight<sup>2</sup>__ _v_ :mute:[si~~gh~~t]  
 __sightline__ _n_  
@@ -14547,7 +14550,7 @@ __skirmish<sup>2</sup>__ _v_ :two::hammer:
 __skirmishers__ _n_  
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
-__skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
+__skitter__ _v_ :seven::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
@@ -14831,7 +14834,7 @@ __snoot__ _v_ :two: To behave disdainfully toward; condescend to.
 __snootiness__  
 __snooty__ _adj_ :eight: __1__ Snobbishly aloof; haughty. _A snooty restaurant._ __2__ High-class; exclusive.  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
-__snort<sup>1</sup>__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
+__snort<sup>1</sup>__ _n_ :four: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snort<sup>2</sup>__ _v_ :three::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
 __snot__ _n_ _slang_ :four: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
@@ -16492,7 +16495,7 @@ __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They v
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
-__toss__ _v_ :two::hammer: (tossing)  
+__toss__ _v_ :three::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
 __tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._  
@@ -16863,6 +16866,7 @@ __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for
 __unassailable__ _adj_ :two::hammer:  
 __unassuming__ _adj_ :four::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
+__unavenged__ _adj_  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
 __unburdened__  
@@ -17496,7 +17500,7 @@ __weary__ _adj_ :three::hammer:
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__  
-__weather__ _v_ :three::hammer: (weathering)  
+__weather__ _v_ :four::hammer: (weathering)  
 __weathered__ _adj_  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traffic._ _It is important to weave your keywords into a compelling story._  
@@ -17689,7 +17693,7 @@ __wicket__
 __wicking__ _adj_ :three: (Textiles) Acting to move moisture by capillary action from the inside to the surface: _wicking fabric._ _Podcast hosts can’t stop yapping about sweat-whicking underwear._ _Moisture wicking._ _High-wicking polyester._  
 __wicks__ _n_ :two::hammer: _Linen wicks._  
 __widebody__ _n_ :dart: (wide-body) A jet airliner with a cabin wide enough for passenger seating to be divided by two aisles rather than one. _Widebody jet._  
-__wield__ _v_ :nine: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
+__wield__ _v_ :nine::m: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
 __wiener__ _n_  
 __wigged-out__ _adj_ Mentally or emotionally discomposed. Upset, crazy.  
