@@ -1,18 +1,3 @@
-__jumble__ _n_ _This new world is a jumble for her._  
-__killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
-__labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  
-__lapidary__ _adj_ /LAP-uh-dair-ee/  
-__larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
-__larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
-__laureate__ _adj, n_  
-__layout__ _n_ _The road layout._  
-__leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
-__letdown__ _n_ _It is a bit of a letdown._  
-__leverage__ _v tr_  
-__lighthearted__ _adj_ Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ glad  
-__likely__ _adj_ :two::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._  
-__lust__  
-__maelstrom__ _n_ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
 __malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
 __malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  

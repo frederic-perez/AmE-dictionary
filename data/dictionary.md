@@ -8964,7 +8964,7 @@ __julienne<sup>1</sup>__ _n_ Consommé or broth garnished with long thin strips 
 __julienne<sup>2</sup>__ _adj_ Cut into long thin strips: _julienne potatoes._  
 __julienne<sup>3</sup>__ _v tr_ :astonished: To cut (food) into long thin strips.  
 __Juliette balcony__  
-__jumble__ _n_ :six: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
+__jumble__ _n_ :seven: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._ _This new world is a jumble for her._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
 __jumbotron__ _n_  
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
@@ -9080,6 +9080,7 @@ __kill a mockingbird__ _phr_ To destroy innocence. _It was like killing a mockin
 __kill clock__ _v_  
 __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._  
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
+__killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
 __killer bees__  
 __killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
 __killjoy__ _n_ :two: One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
@@ -9200,6 +9201,7 @@ __L-plate__ _n_ _He saw the L-plate on the back of the car._
 __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
+__labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  
 __Labrador__  
 __labrum__  
 __labyrinthine__ _adj_  
@@ -9291,6 +9293,7 @@ __lap<sup>2</sup>__ _v_ _Despite being lapped._
 __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
 __laped pin__  
 __lapel__ _n_  
+__lapidary__ _adj_ /LAP-uh-dair-ee/  
 __lapidify__ _v_  
 __Lapland__ _n_ :two::hammer:  
 __Laponia__ _n_  
@@ -9305,6 +9308,8 @@ __larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than a
 __largesse__ _n_ :seven::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
+__larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
+__larp<sup>2</sup>__ _v intr_ __1__ To play such a game. __2__ To pretend to be what one is not.  
 __larvate__ _adj_ :astonished: (larvated) /ˈlɑːveɪt/ (Zoology) Masked or hidden.  
 __lascivious__ _adj_ Given to or expressing lust; lecherous. _Syn_ libidinous, lustful, lewd _Frustrated by his constant lascivious comments, she decided to report him to the supervisor._  
 __laser wall__  
@@ -9348,7 +9353,7 @@ __laughing very hard__
 __laughingstock__  
 __launch__ _v_ _Launching the projectile/friend._  
 __launder__ _v_  
-__laureate__  
+__laureate__ _adj, n_ :two::hammer:  
 __laurels__  
 __lave__ _v_ (laved)  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._ _A lavish castle surrounded by 600 acres of state._  
@@ -9367,7 +9372,7 @@ __lay__ _adj_ :two: __1__ Of, relating to, or involving the laity: _a lay preach
 __layman > in layman terms__  
 __layman__ _n_ :two::hammer: /LAY-mun/  
 __layoff__  
-__layout__ _n_  
+__layout__ _n_ :two::hammer: _The road layout._  
 __layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_ :three::hammer: (layups)  
 __laziness__ _n_ :pencil2:  
@@ -9443,6 +9448,7 @@ __lenses__ _n pl_
 __Lent__ _n_ :two::hammer: :es: cuaresma  
 __lentic__ _adj_ /LEN-tik/ [:scroll: From Latin lentus (slow, calm), which also gave us relent, lentamente (slowly, used in music direction), and lentitude (slowness).] Relating to or living in still waters (such as lakes, ponds, or swamps).  
 __lentil__ _n_ (lentils) :es: lentejas  
+__leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
 __leper__  
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
@@ -9453,7 +9459,7 @@ __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something unde
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let on__ _phr v_  
 __let your hair down__  
-__letdown__ _n_ Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._  
+__letdown__ _n_ :two: Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._ _It is a bit of a letdown._  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
 __lethologica__ _n_ The temporary inability to remember a word, name, or intended action.  
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
@@ -9466,7 +9472,7 @@ __level__ _v_ :two::hammer: (leveled)
 __levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _v_ :six::hammer:  
+__leverage<sup>2</sup>__ _v tr_ :seven::hammer:  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
@@ -9523,7 +9529,7 @@ __light-headed__ _adj_ :two: (lightheaded) Feeling as though you might fall down
 __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
-__lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ lightsome, blithe  
+__lighthearted__ _adj_ :four: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ glad, lightsome, blithe  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
@@ -9532,7 +9538,7 @@ __like hell__
 __like-minded__ _adj_ Agreeing in opinions, goals, etc.  
 __likelier__  
 __likelihood__ _n_ :two::pencil2: Probability.  
-__likely__ _adj, adv_ _You are likely to get derailed into organizing._  
+__likely__ _adj, adv_ :three::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._ _You are likely to get derailed into organizing._  
 __likewise__ _adv_ :three::hammer:  
 __lilac tree__  
 __lilac__ _n_ :three::hammer:  
@@ -9820,6 +9826,7 @@ __luscious__ _adj_ :two::hammer: _Luscious burgers._
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
+__lust__  
 __luster<sup>1</sup>__ _n_  
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
@@ -9872,7 +9879,7 @@ __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or colleg
 __madrigal__ _n_  
 __madrigalist__ _n_  
 __madrigals__ _n_ :pencil2:  
-__maelstrom__ _n_ :seven::hammer: _Unproductive maelstrom._  
+__maelstrom__ _n_ :eight: __1__ 1. A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magazine__ _n_ _They were pledged to keep the castle’s magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
