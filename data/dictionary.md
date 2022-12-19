@@ -10906,6 +10906,7 @@ __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personn
 __noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
 __nondescript__ _adj_ :four::hammer:  
 __nonesuch__ _n_ (nonsuch)  
+__nonetheless__ _adv_ Despite that; however; nevertheless.  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
 __nonlinear__ _adj_  
 __nonpareil<sup>1</sup>__ _adj_ /nahn-puh-REL/ Having no equal. _The singer’s stunning performance was nonpareil._  
@@ -10947,7 +10948,7 @@ __note__ _n_ _On a much more serious note..._
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
 __notorious__ _adj_ :two: /noh-TOR-ee-us/ Notorious describes people and things that are famously known, especially for something unfavorable. _They live in a region that’s notorious for its severe winters._  
 __Notre Dame__ _n_ Our Lady (the Virgin Mary).  
-__notwithstanding__ _prep_ :five::hammer:  
+__notwithstanding__ _adv, conj, prep_ :seven::hammer:  
 __nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
 __noun__ _n_  
 __nouny__ _adj_  
@@ -11024,9 +11025,9 @@ __oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or mora
 __obliterate__ _v_  
 __obliteration__ _n_  
 __oblivion__ _n_ :two::hammer:  
-__oblivious__ _adj_ :five::hammer: _He is very oblivious._  
+__oblivious__ _adj_ :six::hammer: _He is very oblivious._  
 __oblong__ _adj_  
-__obnoxious__ _adj_ :three::hammer:  
+__obnoxious__ _adj_ :four::hammer:  
 __obnubilate__ _v_  
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
@@ -11049,6 +11050,7 @@ __occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam
 __occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
 __occurr__ _v intr_ :pencil2:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
+__ochre__ _n_ (ocher)  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
 __octogenarians__  
 __octoroons__  
@@ -11078,7 +11080,7 @@ __off-price stores__
 __off-putting__  
 __off-street__ _adj_ Located away from a street. _Off-street parking._  
 __off-the-cuff__ _adj_ :two::hammer: _It was just an off-the-cuff remark._  
-__off-the-shelf__  
+__off-the-shelf__ _adj_ :two::hammer:  
 __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._  
 __off<sup>2</sup>__ _adj_  
 __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
@@ -11116,6 +11118,7 @@ __Old Sol__
 __old-timers__ _n_  
 __Ole Miss__  
 __oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way that is intended to bring some advantage to yourself. If you describe someone as unctuous, you are critical of them because they seem to be full of praise, kindness, or interest, but are obviously insincere. _Syn_ fulsome (formal), oily, smarmy (informal disapproving), unctuous (formal disapproving) _Oleaginous flattery._ __2__ Of or relating to oil.  
+__oleander__ _n_ :es: adelfa  
 __olefin__ _n_  
 __olericulture__ _n_ The cultivation of vegetables for the home or market.  
 __oligarch__ _n_ :three: One of the rulers in an oligarchy.  
@@ -11135,7 +11138,7 @@ __omnibus<sup>1</sup>__ _adj_ Containing or including many items.
 __omnibus<sup>2</sup>__ _n_ :two::hammer:  
 __omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __omnipresent__ _adj_  
-__omniscient__ _adj_ Having total knowledge; knowing everything: _an omniscient deity; the omniscient narrator._  
+__omniscient__ _adj_ :two: Having complete or unlimited knowledge, awareness, or understanding; perceiving all things. Having total knowledge; knowing everything: _an omniscient deity; the omniscient narrator._  
 __omphaloskepsis__ _n_ The practice of contemplating one’s navel in order to aid meditation.  
 __on a second thought__  
 __on a whim__  
@@ -11169,6 +11172,7 @@ __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Someth
 __onerous__ _adj_ :five::hammer::pencil2::astonished: _Onerous task._  
 __onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
+__ongoing__ _adj_  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
@@ -11272,7 +11276,7 @@ __outback__
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
 __outbreak__ _n_ :eight::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
-__outburst__ _n_ :three::hammer:  
+__outburst__ _n_ :four::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
 __outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
@@ -11321,7 +11325,7 @@ __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper;
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outriggers__  
 __outright__ _adj, adv_  
-__outset__ _n_ :six::hammer: _The outset of his campaign._  
+__outset__ _n_ :seven::hammer: _The outset of his campaign._ _Designed at the outset._  
 __outshine__ _v_ :two: To be much better than someone or something else.  
 __outshit__ _v_  
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
@@ -11350,6 +11354,7 @@ __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene
 __overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
 __overblown__  
+__overbook__ _v_  
 __overcast__ _adj_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
 __overdo__ _v_  
@@ -11370,6 +11375,7 @@ __overnight<sup>3</sup>__ _n_
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
 __overreach__ _v_  
+__overreact__ _v_ :pencil2:  
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
@@ -11409,6 +11415,7 @@ __pachinko__ _n_ A Japanese gambling game played on a vertical pinball machine.
 __pachyderm__ _n_ :pencil2:  
 __Pacific Basin__ _n_ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
+__pack ice__ _n_ Floating ice that has been driven together into a single mass.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package peanuts__  
 __package__ _n_ :mega: /păk′ĭj/  
@@ -11435,6 +11442,7 @@ __painstakingly__ _adv_ :two::hammer:
 __painter__  
 __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
+__Pakistani__ _adj, n_ :mega: /ˌpɑːkɪˈstɑːnɪ/ /ˌpæk əˈstæn i, ˌpɑ kəˈstɑ ni/  
 __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :six: /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  

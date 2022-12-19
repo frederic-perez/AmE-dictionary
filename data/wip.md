@@ -1,18 +1,3 @@
-__nonetheless__  
-__notwithstanding__ _adv, conj, prep_ :two::hammer:  
-__oblivious__  
-__obnoxious__  
-__ochre__ _n_  
-__off-the-shelf__ _adj_  
-__oleander__  
-__omniscient__ _adj_ Having complete or unlimited knowledge, awareness, or understanding; perceiving all things.  
-__ongoing__  
-__outburst__ _n_  
-__outset__ _n_ _Designed at the outset._  
-__overbooked__  
-__overreact__ _v_ :pencil2:  
-__pack ice__ _n_ Floating ice that has been driven together into a single mass.  
-__Pakistani__ _adj, n_ :mega:  
 __panelist__ _n_  
 __pant__ _v_ _Panting wisps of smoke._  
 __parcel__ _n_ _Open up that parcel of books._  
