@@ -1,18 +1,3 @@
-__panelist__ _n_  
-__pant__ _v_ _Panting wisps of smoke._  
-__parcel__ _n_ _Open up that parcel of books._  
-__parkade__ _n_ _Canadian_ A building used as a car park.  
-__parry__ _v_ _We didn’t have to parry questions._  
-__part-time__ _adj, adv_ _He is also a part-time consultant._  
-__pathos__  
-__patty-cake__ _n_ _They can play patty-cake._  
-__pax vobiscum__ _n_ /pæks vəʊˈbɪskʊm/ Peace be with you.  
-__pearl onion__  
-__pelagic__ _adj_ Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
-__percent__  
-__perfunctory__ _adj_ _She gave me a little nod and a perfunctory smile._  
-__petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother’s remedy, a big jar of petrolatum._  
-__petulant__ _adj_ :two::hammer:  
 __phoenix__ _n_  
 __piggyback__ _v_ :two::hammer:  
 __pirouette__ _v intr_  

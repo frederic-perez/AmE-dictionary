@@ -11505,6 +11505,7 @@ __panacea__ _n_ :three: (panaceas) [:scroll: _Panacea_ comes from a Greek word m
 __panache__ _n_ :six: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. _With great panache._ __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
+__panelist__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
 __Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
 __Panglossian<sup>2</sup>__ _n_ One who is optimistic regardless of the circumstances.  
@@ -11517,7 +11518,7 @@ __panned out__
 __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panorama__ _n_  
 __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
-__pant__ _v_ :seven: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
+__pant__ _v_ :eight: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._ _Panting wisps of smoke._  
 __pantalons__ _n_  
 __pantheon__ _n_  
 __pantophagous__ _adj_  
@@ -11566,7 +11567,7 @@ __paraprosdokian__
 __parasailing__  
 __paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
 __parasternal__ _adj_ Adjacent to the sternum.  
-__parcel<sup>1</sup>__ _n_ :eight: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
+__parcel<sup>1</sup>__ _n_ :nine: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ _Open up that parcel of books._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
@@ -11583,6 +11584,7 @@ __paring knife__ _n_
 __paring__  
 __parishioner__  
 __parity__ _n_ :astonished: __1__ The condition of having given birth. __2__ The number of children borne by one woman.  
+__parkade__ _n_ _Canadian_ A building used as a car park.  
 __parkour__  
 __parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
 __parley<sup>1</sup__ _n_ :five::hammer: _A peace parley._  
@@ -11598,7 +11600,7 @@ __parried__ _v_
 __parrot nose pliers__ _n_ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
-__parry__ _v_ :dart::four: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer. To deflect, evade, or avoid. _Syn_ hedge, sidestep, skirt, circumvent, dodge, elude, duck _He parried every inquiry so successfully that soon he was the one asking the questions._  
+__parry__ _v_ :dart::five: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer. To deflect, evade, or avoid. _Syn_ hedge, sidestep, skirt, circumvent, dodge, elude, duck _He parried every inquiry so successfully that soon he was the one asking the questions._ _We didn’t have to parry questions._  
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
@@ -11607,7 +11609,7 @@ __parsnip__
 __parson__ _n_ __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
 __parsonage__ _n_ :two::pencil2::hammer:  
 __part company__ _v_  
-__part-time<sup>1</sup>__ _adj_  
+__part-time<sup>1</sup>__ _adj_ :two::hammer: _He is also a part-time consultant._  
 __part-time<sup>2</sup>__ _adv_  
 __partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted__ _adj_ :two::hammer: _Diaz wore parted hair._ _Slightly parted lips._  
@@ -11655,7 +11657,7 @@ __pathogenic__
 __pathogens__ _n_  
 __pathography__ _n_  
 __pathologist__ _n_  
-__pathos__ _n_ :five::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ _n_ :six::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patient discharge__ _n_ The formal ending of inpatient care.  
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patinated__ _v_  
@@ -11674,6 +11676,7 @@ __pattern__ _v_ :three::hammer:
 __patterned__ _adj_ _A patterned background._  
 __patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
+__patty-cake__ _n_ _They can play patty-cake._  
 __paucity__ _n_ :eight: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” _Syn_ dearth _People in LA don’t understand how New Yorkers can live with such a paucity of space._ _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
 __Paulistano__  
 __paunch__ _n_  
@@ -11683,7 +11686,7 @@ __pavilions__
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __pawn__ _v_ _She pawned her jewelry._  
-__pax vobiscum__ _phr_ Peace be with you.  
+__pax vobiscum__ _n_ _phr_ :two: /pæks vəʊˈbɪskʊm/ Peace be with you.  
 __pay dirt__ _n_ :two::hammer:  
 __pay off__ _v_  
 __pay__ _v_ _It pays to consider his words carefully._  
@@ -11705,7 +11708,7 @@ __peal<sup>2</sup>__ _v_ :three::hammer: _Pealing bells._ _The bells of Notre Da
 __peanut butter__ _n_ A paste made from ground roasted peanuts. _Organic peanut butter cups._  
 __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
-__pearl onions__  
+__pearl onion__ _n_ :two::hammer:  
 __peasant__ _n_  
 __peat__ _n_ :four::hammer: _Battling the blazes in peat swamp forests._ _The huts were filled with peat smoke._ :es: turba  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
@@ -11740,7 +11743,7 @@ __peeved__ _v_
 __peevishly__ _adv_ :two::hammer:  
 __peewee__ _n_  
 __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
-__pelagic__ _adj_ /puh-LAJ-ik/ [:scroll: From Latin pelagicus (of the sea), from Greek pelagos (sea)] Relating to or living in the open ocean, far from land.  
+__pelagic__ _adj_ :two: /puh-LAJ-ik/ [:scroll: From Latin pelagicus (of the sea), from Greek pelagos (sea)] Relating to or living in the open ocean, far from land. Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__ _adv_ :two: /pel-MEL/ Pell-mell means “in a confused and hurried way” or “in mingled confusion or disorder.” _On Black Friday, some shoppers rush pell-mell into stores to find their favorite items at a discounted price._  
 __pellet__ _n_  
@@ -11789,6 +11792,7 @@ __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._
 __peptalked__ _v_  
 __per diem__  
 __per se__ _adv_ :two::mega: /pər sā′, sē′/  
+__percent__  
 __percentile__ _n_ :mega:  
 __perceptible__ _adj_ /per-SEP-tuh-bul/ Able to be seen or noticed.  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
@@ -11805,7 +11809,7 @@ __perfidious__
 __perfidy__ _n_ :three: Deliberate breach of faith; calculated violation of trust. _Syn_ treachery, betrayal, treason _Discovering that he had sold her confidences to the tabloids, she was outraged at his perfidy._  
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
-__perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”  
+__perfunctory__ _adj_ :eight::dart: [:scroll: Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”] Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. _She gave me a little nod and a perfunctory smile._  
 __periconceptual__ _adj_ Of, relating to, or done during the period from before conception to early pregnancy: _periconceptional folic acid supplementation._  
 __perigee__ _n_ [:scroll: from peri- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
@@ -11870,13 +11874,14 @@ __petite__
 __Petri dish__ _n_ :mega: (petri dish)  
 __petrichor__ _n_ :two::hammer:  
 __petroglyph__ _n_ _Ancient Indian petroglyph._  
+__petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother’s remedy, a big jar of petrolatum._  
 __petroleum jelly__  
 __petted__  
 __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the payment of minor incidental expenses.  
 __petty officer__ _n_ :three::hammer:  
 __petty__ _adj_ :two: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
 __petulance__  
-__petulant__ _adj_ :six::mega: Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
+__petulant__ _adj_ :eight::mega: Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
 __petulantly__  
 __pew__ _n_ _Church pews._  
 __pewter__  
