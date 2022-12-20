@@ -439,6 +439,7 @@ __black and white__ _n_ The police; a black and white police patrol car; any pol
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blank canvas__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
+__blind date__ A date between two people who have not previously met. _Blind dates are terrifying because you don’t know what the person will be like, but that’s also part of the excitement._  
 __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full moon is in exact alignment with the Earth and the sun, with Earth in between the two. Light refracted off of Earth’s atmosphere appears on the moon in a dark-red hue, hence the name “blood moon.” It is referred to in the Bible (Revelation 6:12–14) as a sign of the end of the world, and so it is regarded by many as an ill omen. _The wind was howling, the sky was pitch black, and a blood moon loomed heavy over our heads. I knew something bad was coming our way._  
 __blood runs cold__ _informal_ To be very frightened.  
 __blood, sweat, and tears__ A lot of effort and suffering.  
@@ -603,9 +604,11 @@ __catch hell__ _I’d catch hell for it._
 __catch one’s breath__ :two: To pause or rest before continuing an activity or beginning a new one; resume regular breathing: _Let me catch my breath before I begin anything new._  
 __catch onto (something)__  
 __catch some Zs__ To go to sleep, to take a nap.  
+__catch the sun__ To get sunburned. _I caught the sun at the beach last weekend, and now my back hurts so much that I have to sleep on my side!_  
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
 __catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
 __caught on the hop__ Caught unawares or in a state of unpreparedness. _Please forgive my distracted attention—I’m afraid I was caught on the hop by your sudden arrival._  
+__caught unaware(s)__ To be surprised by someone or something. _The clerk was caught unawares, and the robber emptied out the cash register before the clerk could sound the alarm._  
 __caught with your pants down__ To be found in an embarrassing situation.  
 __chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
 __chain reaction__ /CHAYN ree-ak-shuhn/ A series of events wherein the outcome of each instance specifically influences or causes the next. The phrase comes from the occurrence of such reactions in chemistry and physics. _Deciding to take a course studying James Joyce in college set up a chain reaction that ultimately led me to move to Ireland._  
@@ -837,7 +840,7 @@ __down to (someone or something)__
 __down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
 __down-to-earth__ _adj_ :four: Sensible and realistic.  
-__doxxing__  
+__doxxing__ :two: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
 __drag (one’s) feet__ :two: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
@@ -847,6 +850,7 @@ __draw a line in the sand__
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __dressed to kill__  
 __drink like a fish__ To drink too much alcohol.  
+__drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
 __drop a bomb__  
@@ -952,7 +956,7 @@ __finders keepers(, losers weepers)__
 __finger on the pulse__  
 __finger-licking good__ Very tasty.  
 __fingers crossed__ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
-__fire hose__ A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
+__fire hose__ :two: A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
 __firing both barrels all the time__ _You know your father: firing both barrels all the time._  
 __first and foremost__ :two::hammer:  
@@ -1884,6 +1888,7 @@ __loose change__ A small, usually insignificant amount of money, typically consi
 __loose ends__ :two::hammer:  
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
 __loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
+__loosey-goosey__  
 __lose (one’s) bearings__ To lose sight of or become unable to determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _I feel like I’ve been losing my bearings in life ever since I lost my job._  
 __lose (one’s) buttons__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her buttons after she had a stroke on her 84th birthday._  
 __lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). _The staff have started losing faith in John’s ability to manage the restaurant properly._  
@@ -1911,6 +1916,7 @@ __magick thinking__
 __make (one’s) bones__  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
+__make (oneself) useful__ To do something that is actively helpful or of assistance to others. _You know, instead of just sitting there watching TV, you could make yourself useful and take out the garbage._  
 __make (perfect) sense__ _It makes perfect sense._  
 __make (someone’s) ears burn__ To make someone uncomfortable, embarrassed, or disconcerted by what is being said. Alludes to the ears growing red from blushing. _Listening to my aunts and uncles coo over me at my high school graduation really made my ears burn._  
 __make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
@@ -1921,6 +1927,7 @@ __make a hole in (something)__ To take, use up, or deplete a large amount of mon
 __make a living out of something__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a mark__ To do something that makes one famous or successful; to do something that is very important or meaningful. _The actress first made a mark with her incredible performance as Lady Macbeth on Broadway._  
+__make a mint__ To earn a very large amount of money, especially by doing something very successfully. _We’ll make a mint if we can manage to secure a trading partner in China._  
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
 __make a run for it__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for it when we get to the station._  
 __make a scene__ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
@@ -2086,7 +2093,7 @@ __not in a month of Sundays__ Not at any point; under absolutely no circumstance
 __not know (any) better__  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
-__not on my watch__  
+__not on my watch__ :two: That will not happen while I am in charge or on the lookout.  
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
 __not to mention__ :two::hammer:  
@@ -2928,6 +2935,7 @@ __what-if__ _n informal_ A hypothetical question; speculation: _one of the great
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the deal?__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
+__when in Rome (do as the Romans do)__ _proverb_ One should do what is customary or typical in a particular place or setting, especially when one is a tourist. _I don’t love cotton candy, but we are at a carnival. When in Rome, right?_  
 __when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
 __when pigs fly__ :three: Never, impossible.  
 __when the chips are down__ :three: When a situation has become especially difficult, desperate, or hard to recover from. The expression alludes to having a low amount of poker chips, which means that one may soon lose. _You can tell a lot about a person’s character from how they act when the chips are down._  
