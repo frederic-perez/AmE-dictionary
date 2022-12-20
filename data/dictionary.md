@@ -792,7 +792,7 @@ __ascetic<sup>1</sup>__ _n_ :two: A person who renounces material comforts and l
 __ascetic<sup>2</sup>__ _adj_  
 __asceticism__ _n_  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
+__ascribe__ _v_ :nine::m: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __asexual__ _adj_  
 __ash borer__ _n_ _Emerald ash borers._  
@@ -3912,6 +3912,7 @@ __crossbow__ _n_
 __crosshair__ _n_ (cross hair)  
 __crossover<sup>1</sup>__ _n_ :three::hammer:  
 __crossover<sup>2</sup>__ _adj_ :two: __1__ (of music, fashion, art, etc) Combining two distinct styles. :es: fusión __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre._Superstar crossover violinist._ __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
+__crosspatch__ _n_ A peevish, irascible person; a grouch. _Syn_ crank, grouch, grump, churl _He was known to all as a crosspatch, but all that changed with the birth of his first grandchild._  
 __crossroads__ _n_ :three::hammer: _At crossroads turn R onto B1233 towards Cottingham._ _I’m at a career crossroads._ _He is at a significant crossroads in his career._  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
@@ -5572,6 +5573,8 @@ __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion
 __essence__ _n_ :pencil2:  
 __essential<sup>1</sup>__ _adj_ _Special K - 8 essential vitamins._  
 __essential<sup>2</sup>__ _n_  
+__essoin<sup>1</sup>__ _n_ /ɛˈsɔɪn/ _law_ An excuse for not appearing in court.  
+__essoin<sup>2</sup>__ _v tr_ /ɛˈsɔɪn/ _law_ To excuse for not appearing in court.  
 __establish__ _v_ _Established 1978._  
 __estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __esteem__ _v_ _Our esteemed allies._  
@@ -6741,6 +6744,7 @@ __gaffer__ _n_ _Br_ :two: Boss.
 __gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine::m: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._ _A gaggle of tourists._  
 __gaiety__ _n_ _Frenetic gaiety._  
+__gainsay__ _v_ /gayn-SAY/ Gainsay is a formal word that means “to deny or disagree with something,” or “to show or say that (something) is not true.” _Although the defendant initially denied involvement in the incident, there was no gainsaying the evidence that the prosecutor presented at the trial._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gaiter__ _n_  
 __gal__  
@@ -8524,7 +8528,7 @@ __ineffable__ _adj_ :six: /in-EFF-uh-bul/ Ineffable is used to describe somethin
 __ineffectual__  
 __inefficacious__ _adj_  
 __ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
-__ineluctable__ _adj_ Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._  
+__ineluctable__ _adj_ :two: /in-ih-LUK-tuh-bul/ Ineluctable is a formal word meaning “unable to be avoided, changed, or resisted.” Often followed by such words as _fate_ and _conclusion_, it is a synonym of _inevitable_. Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._ _Even the tallest mountains will one day be reduced to sand by the Earth’s slow yet ineluctable geologic forces._  
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _adj_ _Helium is inert._  
@@ -10211,6 +10215,7 @@ __menarche__ _n_ :two: The initial onset of menstruation, usually occurring betw
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
 __mendacity__  
 __mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
+__menhir__ _n_ A tall upright megalith; found primarily in England and northern France. _Syn_ standing stone  
 __menial<sup>1</sup>__ _adj_ :two::hammer::mega: _Menial labor._  
 __menial<sup>2</sup>__ _n_  
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
@@ -10467,7 +10472,7 @@ __mollify__ _v tr_ :nine: /MOL-uh-fy/ [:scroll: From Latin mollis (soft)] (molli
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
-__momentous__ _adj_ :three: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
+__momentous__ _adj_ :four: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
 __momentously__ _adv_ In a momentous way.  
 __momentum__ _n_ :two::hammer: _I’ve lost a lot of momentum._  
 __monad__  
@@ -10514,7 +10519,7 @@ __moppet__ _n_ A young child. _A lovable moppet._
 __mopping up__  
 __moral__  
 __morale__ _n_ :four::hammer: _The sunken morale left by defeats._  
-__morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
+__morass__ _n_ :four: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” _Social media can make it difficult to discern the truth of something amid the morass of misinformation._  
 __moratorium__ _n_ :two::hammer:  
 __morbid__ _adj_  
 __morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
@@ -11031,7 +11036,7 @@ __obligation__
 __oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I’ll be much obliged._  
 __obliterate__ _v_  
 __obliteration__ _n_  
-__oblivion__ _n_ :two::hammer:  
+__oblivion__ _n_ :three: /uh-BLIV-ee-un/ Oblivion can refer to the state of something that is not remembered, used, or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.  
 __oblivious__ _adj_ :six::hammer: _He is very oblivious._  
 __oblong__ _adj_  
 __obnoxious__ _adj_ :four::hammer:  
@@ -12760,6 +12765,7 @@ __put on a clinic__
 __put on hold__  
 __put to the test__  
 __put__ _v_ __8__ _Sports_ To hurl with an overhand pushing motion: _put the shot._  
+__putative__ _adj_ /PYOO-tuh-tiv/ Putative is a formal word meaning “generally believed, supposed, or assumed to be (something).” It is always used before a noun. _The putative reason for their dismissal was poor job performance._ _Critics challenged his putative allegiance to the cause._  
 __putbacks__  
 __putdowns__  
 __putrid__  
@@ -12801,7 +12807,7 @@ __quaintly__ _adv_ :two::hammer:
 __Quaker__  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :nine::m: /KWAHM/ (qualms) An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
+__qualm__ _n_ :nine::m: /KWAHM/ /kwam, kwom/ (qualms) __1__ An uneasy feeling about the rightness of a course of action. An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda __2__ A sudden feeling of sickness, faintness, or nausea. :es: náusea, mareo  
 __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._ _The situation was awkward, but nothing like the quandary they had found themselves in when their car had broken down on a deserted road._  
 __quantifiable__  
 __quarrel__ _n_  
@@ -16389,7 +16395,7 @@ __tiptoe<sup>1</sup>__ _adj_
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  
 __tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one’s toes.  
-__tirade__ _n_ :eight: A long angry speech, usually of a censorious or denunciatory nature; a diatribe.  
+__tirade__ _n_ :nine: A long angry or violent speech, usually of a censorious or denunciatory nature; a diatribe. _Syn_ philippic, broadside _Milady had listened to all this menacing tirade with a smile of disdain on her lips, but rage in her heart._  
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
@@ -16563,6 +16569,7 @@ __trade paperback__
 __trade__ _n_  
 __trade-off__ _n_ _She has to make trade-offs._  
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
+__trading card__ _n_ A card with a picture or design printed on it, often one of a set collected and traded by children.  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
 __tragicomedy__ _n_  
@@ -16947,7 +16954,7 @@ __undoing__ _n_
 __undoubtedly__  
 __undue__  
 __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, or motion.  
-__undulate__ _v_ To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
+__undulate__ _v_ :two: /UN-juh-layt/ Undulate is a formal word that means “to move or be shaped like waves.” To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
 __undulating__ _v_  
 __undulation__ _n_  
 __unduly__ _adv_ :eight::hammer:  
