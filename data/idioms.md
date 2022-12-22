@@ -16,6 +16,7 @@ __(just) a stone’s throw from (something)__
 __(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(oh,) snap__  
 __(on the) fast track__ (A _fast track_ is a horse racing track that’s dry and hard enough for the horses to reach optimum speed. That makes this one of those words where the original definition is self explanatory: a _fast track_ is simply a track that the racers can go as fast as possible on as opposed to one where racers are slowed down by mud or less than optimal conditions.)  
+__(one’s) (own) flesh and blood__ One’s family member(s). _You’re my own flesh and blood—how you could you steal my idea?_  
 __(one’s) blood is up__ One is in an angry, aggressive, or violent mood; one is looking or ready for a fight. _Everyone in the office knows to avoid the boss when her blood is up._  
 __(one’s) blood runs cold__ One becomes seized by an acute and intense sensation of fear, panic, horror, or dread. _My blood ran cold when I overheard that a police officer had been asking about me at work._ _Janet could feel her blood run cold when the murderer she was testifying against walked into the courtroom._  
 __(one’s) door is always open__ :dart: One is always available to be of guidance, support, aid, or assistance whenever needed. Said especially by an employer or teacher to an employee or pupil. _Mrs. Spencer is a great teacher, and her door is always open if we ever have any questions or fall behind._  
@@ -43,6 +44,7 @@ __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it
 __(the) man/woman of the hour__ :two: A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __(the) next thing (one) knows__ :two: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
+__(there’s) no rest for the wicked__ The lack of peace in one’s life, or the perpetual need to be working or be busy, stems from one’s sinfulness. The phrase comes from the Bible, in which it alludes to the suffering in hell that awaits sinners after death. Now, the phrase is usually used humorously. _A: I can’t seem to ever get all my work done. B: No rest for the wicked._  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __411__ :two: (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
@@ -149,7 +151,7 @@ __according to legend__
 __according to plan__ :three: In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._ _If everything goes according to plan._  
 __ace in the hole__ :two::hammer:  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
-__across the board__  
+__across the board__ :two::hammer:  
 __act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __Adam’s ale__ _slang_ Water.  
 __add fuel to the fire__ To do or say something to make an argument, problem, or bad situation worse; to further incense an already angry person or group of people. _Anything the mayor says will just add fuel to the fire, so do not let him speak to reporters about this sensitive issue._  
@@ -184,6 +186,7 @@ __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, 
 __all that jazz__ :four: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
 __all things considered__ :two::hammer:  
+__all too often__ Too frequently. _We see this problem all too often._  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-you-can-eat__  
 __alter ego__  
@@ -847,6 +850,7 @@ __dragon breath__ Particularly foul-smelling breath. _I know I tend to have drag
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw a blank__ :two: To fail to find or remember something.  
 __draw a line in the sand__  
+__draw to a close__  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __dressed to kill__  
 __drink like a fish__ To drink too much alcohol.  
@@ -1291,6 +1295,7 @@ __have (one’s) head read__ To have one’s logic or sanity examined or reevalu
 __have (one’s) heart in (one’s) mouth__ To feel very nervous or anxious. _I had my heart in my mouth as I waited for the ambulance to arrive._ _A heart-in-mouth thriller._  
 __have (one’s) heart in (something)__ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (one’s) heart on (one’s) sleeve__ To openly display or make known one’s emotions or sentiments. _She’s always had her heart on her sleeve, so she isn.t very good at holding back when she’s upset about something._  
+__have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
 __have (some/any) qualms about (something or someone)__ To have some or certain hesitations, apprehensions, uneasiness, or pangs of conscience (about something or someone). (Also often used in the negative to mean the opposite.) _I know it’s wrong to feel this way, but I don’t have any qualms about telling my boss I’m sick if it means I can have a long weekend._  
 __have (someone’s) blood on (one’s) head__ To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death.  
@@ -2655,12 +2660,14 @@ __staying power__ _This exercise has staying power._
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
 __step back__  
 __step in__  
+__stir up__  
 __stone cold__ :two: Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
 __strangely enough__ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __strap on the (old) feedbag__ _slang_ To begin eating; to have a meal. _I can’t wait to get to Grandma’s and strap on the old feedbag. She always cooks the tastiest food!_  
 __street smart__  
 __stressed out__ Experiencing a lot of mental, emotional, or physical strain or tension. _Now, don’t get stressed out, but the boss has some things he wants you to change in the project._  
-__strike a chord__ Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
+__strike a (raw) nerve__  
+__strike a chord__ :two: Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __stuff your face__ To eat a lot of food quickly.  
 __suffice (it) to say__ :two::hammer:  
 __sugarcoat (something)__ To say, explain, or present something in a manner that is easier to accept, understand, cope with, or endure. _Don’t sugarcoat it for me, Doc—is my wife going to make it?_  
@@ -2943,7 +2950,7 @@ __where the sun doesn’t shine__
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
 __whip by__ (whipping by) _The summer is whipping by._  
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
-__white elephant__  
+__white elephant__ :two::hammer:  
 __white lie__ Lie to protect another person’s feelings.  
 __white on rice__ As close as can be. Often used in the phrase “like white on rice.”  
 __whitewash__  
@@ -2954,6 +2961,7 @@ __win (something) in a walk__ To win (something) easily, handily, or without muc
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
 __wine by the glass__ _A wine list with over 80 wines by the glass._  
 __wishy washy__ _slang_ Indecisive or not reliable.  
+__wit’s end__ A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __with (one’s) blessing__ With one’s express approval, consent, or well-wishes. _I asked Samantha to marry me, with her mother and father’s blessing, of course._  
 __with (one’s) pants down__ _slang_ In an embarrassing position.  
 __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manner.  
