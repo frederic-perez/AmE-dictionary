@@ -1,18 +1,3 @@
-__magnanimous__ _adj_ /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
-__malcontent<sup>1</sup>__ _n_ /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied.  
-__malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
-__malic__ _adj_ /ˈmælɪk, ˈmeilɪk/ __1__ Pertaining to or derived from apples.  
-__mess-up__ _n_ Something muddled; something that has gone wrong.  
-__metallurgy__ _n_  
-__Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
-__meze__ _n_ :two::hammer: _Typical Greek mezes._  
-__mezzanine__ _n_ :two::hammer:  
-__miasma__ _n_  
-__michelada__ _n_  
-__micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
-__microbrew__ _n_ :four::hammer:  
-__microdermabrasion__ _n_  
-__midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
 __middleware__ _n_ :two::hammer:  
 __midget race track__  

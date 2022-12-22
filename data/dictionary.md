@@ -9891,7 +9891,7 @@ __maggot__ _n_ :dart::camera::three::hammer: (maggots)
 __Magic Marker__  
 __magical thinking__ _n_  
 __Magna Carta__  
-__magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
+__magnanimous__ _adj_ :three: /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge. _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
 __magnolia__ _n_ [:scroll: New Latin Magnolia, genus name, after Pierre Magnol (1638-1715), French botanist]  
 __magnum opus__ _n_ :two: __1__ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._ __2__ The greatest single work of an artist, writer, or composer.  
 __magpie__ _n_ :es: urraca  
@@ -9934,13 +9934,15 @@ __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickne
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :four::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
-__malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
+__malcontent<sup>1</sup>__ _n_ :two: /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied. _There is not mat space for malcontents or dissenters._  
+__malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
 __maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
 __malfeasance__ _n_ :two::hammer:  
 __malfunction__  
+__malic__ _adj_ /ˈmælɪk, ˈmeilɪk/ __1__ Pertaining to or derived from apples.  
 __malice__ _n_ :two: __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
 __malign<sup>1</sup>__ _v_ (maligned)  
 __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
@@ -10262,6 +10264,7 @@ __mesosphere__
 __mesquite__ _n_ :two::hammer: _Tender mesquite-grilled steaks._  
 __mess up__ _phr v_  
 __mess__ _n_ :two::astonished:: __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
+__mess-up__ _n_ Something muddled; something that has gone wrong.  
 __messiah__ _n_ :mute:[messia~~h~~]  
 __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._  
 __messtin__ _n_  
@@ -10274,6 +10277,7 @@ __metabolites__ _n_
 __metadata__ _n pl_  
 __metal flashing__  
 __metal shavings__  
+__metallurgy__ _n_  
 __metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
 __metaphor__ _n_ :three: A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
 __metaphysical__ _adj_  
@@ -10286,6 +10290,7 @@ __metering__ _n_
 __methadone__ _n_  
 __metheglin__ _n_ :two::hammer:  
 __methinks__  
+__Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meticulous__ _adj_ :two: Marked by extreme or excessive care in the consideration or treatment of details.  
 __metonymy__ _n_ Metonymy is when the name of something is replaced with something related to it. Example: He loved music from the cradle (birth) to the grave (death).  
 __metro<sup>1</sup>__ _n_ A subway system.  
@@ -10293,14 +10298,19 @@ __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products lan
 __metronome__  
 __mettle__ _n_ :nine::m::dart: __1__ Courage; spirit. The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._ __2__ Inherent character.  
 __mettlesome__ _adj_ /MET-ul-sum/ Full of vigor and strength of spirit or temperament. _The rider was experienced and had no trouble handling the mettlesome horse._  
-__mezzanine__  
-__miasma__ _n_ :five::hammer: _An opaque miasma._  
+__meze__ _n_ :two::hammer: _Typical Greek mezes._  
+__mezzanine__ _n_ :three::hammer:  
+__miasma__ _n_ :six::hammer: _An opaque miasma._  
+__michelada__ _n_  
 __mick__ _n_ :three::hammer:  
+__micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
+__microbrew__ _n_ :four::hammer:  
+__microdermabrasion__ _n_  
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
 __midafternoon__  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
-__midday__ _n_ :two::pencil2::hammer:  
+__midday__ _n_ :three::pencil2: The middle of the day; noon.  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
