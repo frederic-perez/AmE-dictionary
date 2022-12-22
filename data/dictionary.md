@@ -130,7 +130,7 @@ __account<sup>2</sup>__ _v tr_ _Measure cross-traffic and account for it._
 __accountant__ _n_ :es: contable  
 __accounting__ _n_ :two::hammer: _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
-__accoutrement__ _n_ :seven::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
+__accoutrement__ _n_ :eight: /uh-KOO-truh-munt/ (accouterment, accouterments, accoutrement, accoutrements) An accoutrement is a piece of clothing or equipment that is used in a particular place or for a particular activity. In military contexts, accoutrement refers specifically to a soldier’s outfit. The word can also refer to an identifying and often superficial characteristic or device. Accoutrement in any of its uses is often pluralized. _The little closet was cluttered with belts and scarves and other accoutrements of use to a fashion-conscious teenager._  
 __accrete__ _v_ :seven: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :six: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
@@ -2069,7 +2069,7 @@ __bruin__
 __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
-__brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
+__brumation__ _n_ :two: A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
 __brume__ _n_ /broom/ Fog or mist.  
 __bruncher__ _n_ _Sunday brunchers._  
 __bruschetta__ _n_ :two::hammer: _Ostrich bruschetta._  
@@ -7257,6 +7257,7 @@ __grifter__ _n_ :three: A person who swindles another out of money.
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grilling__  
 __grim__ _adj_ :five::hammer:  
+__grimalkin__ _n_ /grĭ-môl′kĭn, -măl′-/ A cat, especially an old female cat.  
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
@@ -7480,7 +7481,7 @@ __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2_
 __hail<sup>2</sup>__ _n_ :eight: __1__ Precipitation in the form of spherical or irregular pellets of ice larger than 5 millimeters (0.2 inch) in diameter, usually associated with thunderstorms. _In an average year hail causes more losses than tornadoes._ __2__ Something that falls with the force and quantity of a shower of ice and hard snow: _a hail of pebbles; a hail of criticism._ _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _The longbow’s fearful hail demoralized the enemy._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
-__haimish__ _adj_ _slang_ Homey; cozy and unpretentious.  
+__haimish__ _adj_ _slang_ :two: /ˈheɪ mɪʃ/ (heimish) Homey; cozy and unpretentious.  
 __hair clippers__ _n_ :camera:  
 __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a hair-trigger temper; a hair-trigger reaction.  
 __hairline__  
@@ -8533,6 +8534,7 @@ __inequitable__
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _adj_ _Helium is inert._  
 __inescapable__ _adj_ :three: Impossible to escape or avoid; inevitable: _inescapable consequences._ _In Portland, nature is inescapable._ _Syn_ certain  
+__inexorable__ _adj_ __1__ Impossible to stop, alter, or resist; _inevitable: an inexorable fate; an inexorable law of nature._ __2__ Not capable of being persuaded by entreaty; relentless: _an inexorable opponent._ _The inexorable investigator questioned the witness repeatedly, long after she had been reduced to tears and claimed to know nothing more._  
 __inexpensive__ _adj_  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
@@ -10386,6 +10388,7 @@ __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
 __miscegenation__  
+__miscellanea__ _n_ Miscellaneous items or written works collected together. _Syn_ assortment, mixed bag, motley, potpourri, salmagundi, smorgasbord, variety, mixture _The office was littered with papers, files, and assorted miscellanea._  
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
@@ -11007,7 +11010,7 @@ __nurturance__ _n_ The providing of loving care and attention.
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nut__ _n_ _slang_ A crazy or strange person.  
-__nutation__ _n_ __1__ The act or an instance of nodding the head.  
+__nutation__ _n_ :two: __1__ The act or an instance of nodding the head.  
 __nutmeg__ _n_ :two::hammer: :es: nuez moscada  
 __nutriment__ _n_ A source of nourishment; food. _Syn_ sustenance, victuals, aliment, nourishment, nutrition _The animals’ habitat was destroyed in the storm, and they wandered the ravaged plains searching for nutriment._  
 __nuttery__  
@@ -11509,7 +11512,7 @@ __panelist__ _n_
 __pang__ _n_ (pangs) :four::hammer:  
 __Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
 __Panglossian<sup>2</sup>__ _n_ One who is optimistic regardless of the circumstances.  
-__pangram__ _n_ :two: A sentence, verse, etc., that includes all the letters of the alphabet, such as _the quick brown fox jumps over the lazy dog._  
+__pangram__ _n_ :three: A sentence, verse, etc., that includes all the letters of the alphabet, such as _the quick brown fox jumps over the lazy dog._  
 __panhandle__ _v_  
 __panhandling__  
 __panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
@@ -14786,7 +14789,7 @@ __smelting__ _n_ :two: The process of extracting a metal from an ore by heating.
 __smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
-__smite__ _v_ :five::hammer: (smitten) _God will smite me._  
+__smite__ _v_ :six: (smitten) To strike down, injure, or slay. _God will smite me._  
 __smithereens__ _n informal_ :four: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
@@ -16665,6 +16668,7 @@ __Tribeca__
 __tribulation__ _n_ :nine::m: __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Syn_ affliction, burden, cross, trial _The realm could not endure the great tribulation and poverty._ __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _n_ _Her fellow tribute and her hunting buddy._  
+__trice__ _n_ A very short time; an instant.  
 __trick of the light__  
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
@@ -17882,6 +17886,7 @@ __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-ses
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wordiness__ _n_  
 __wording__ _n_  
+__wordle__ _n_  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
@@ -18005,6 +18010,7 @@ __year in, year out__
 __yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __yeast__ _n_  
+__yegg__ _n_ /jɛɡ/ _slang_ _chiefly US_ A burglar or safe-breaker.  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
 __yellow__ _adj_ _slang_ A coward.  
