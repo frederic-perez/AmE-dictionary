@@ -11912,6 +11912,7 @@ __phlebotomist__ _n_ A nurse or other health worker trained in drawing venous bl
 __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
 __phlegm__ _n_ :five::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
+__phoenix__ _n_  
 __phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
 __photo-op__  
 __photochromic__ _adj_  
@@ -11968,6 +11969,7 @@ __pigeonhole<sup>2</sup>__ _v tr_ /PIJ-uhn-hohl/ __1__ To place in, or as if, in
 __piggish__  
 __piggy bank__ _n_ A child’s coin bank (often shaped like a pig).  
 __piggy-back__  
+__piggyback__ _v_ :two::hammer:  
 __pigheaded__ _adj_ Obstinate.  
 __pignole__ _n_ :astonished::mega; Pine nuts.  
 __pigs in a blanket__ _n_ (food) :camera:  
@@ -12041,7 +12043,8 @@ __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I 
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::m::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
-__pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
+__pirouette<sup>1</sup>__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
+__pirouette<sup>2</sup>__ _v intr_  
 __Pisces__ _n_ /ˈpaɪsiːz; ˈpɪ-/  
 __piscine__ _adj_ :astonished: Of, relating to, or characteristic of a fish or fishes.  
 __pissed__ _adj_  
@@ -12235,6 +12238,7 @@ __poky__ _adj_ :two::hammer: _Coverage was a little poky._
 __polarity__ _n_ :mega:  
 __polarizing__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
+__pole__ _v_  
 __polemic__ _n_ A controversial argument, especially one refuting or attacking a specific opinion or doctrine. _Syn_ tirade, diatribe _He launched into the polemic, not caring whom he offended or won over, intent only on getting his point across._  
 __polemology__ _n_ The study of war.  
 __police state__ _n_ _A society log run as a police state._  
@@ -12259,6 +12263,7 @@ __polyadic__
 __polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
 __polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
 __polymath__ _n_ :six::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
+__polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
 __polystyrene__  
 __pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
 __pomegranate__ _n_ :three::hammer: /ˈpɒməgrænɪt/ (pomegranates)  
@@ -12266,7 +12271,7 @@ __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back fr
 __pompous__ _adj_ :two::hammer:  
 __ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
-__ponderous__ _adj_ :seven::hammer: _He shouldered his ponderous bundle._  
+__ponderous__ _adj_ :eight::hammer: _He shouldered his ponderous bundle._  
 __pong__ _n_  
 __pontiff__  
 __pontoon__ _n_ :three::hammer: (pontoons) _The building floated on pontoons._  
@@ -12322,7 +12327,7 @@ __portmanteau__ _n_ :two: A large leather suitcase that opens into two hinged co
 __portrait__  
 __portray__ _v_  
 __portrayal__ _n_ :two::mega::hammer:  
-__pose__ _v_ _That’s the question I pose to you._  
+__pose__ _v_ :two::hammer: _That’s the question I pose to you._  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :three::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
@@ -12353,13 +12358,14 @@ __potent__ _adj_ :two::hammer:
 __potentiometer__ _n_  
 __pothead__  
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
-__pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface).  
+__pothole__ _n_ :five: (potholes) A pit or hole produced by wear or weathering (especially in a road surface).  
 __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s potholed highways._  
 __potion__ _n_  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __potshot__ _n_  
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n informal_ :two: Toilet training.  
+__potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
 __pouch__ _n_  
 __poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fashionable in the 14th-15th centuries. __2__ A shoe made in this way.  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
@@ -12405,6 +12411,8 @@ __praying mantis__ _n_ A mantis, especially the European species _Mantis religio
 __pre-emptive__  
 __precarious__ _adj_ :two: /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
 __preceded__ _v_  
+__precedent<sup>1</sup>__ _n_  
+__precedent<sup>2</sup>__ _adj_  
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
 __preceptor__ _n_ :two::hammer:  
 __precint__  
@@ -12419,6 +12427,7 @@ __prediabetes__
 __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
 __preeminent__ _adj_ :four::hammer:  
 __preempt__ _v_  
+__preemption__ _n_ :two::hammer:  
 __preemptive__  
 __preen__ _v_ :nine::m: (preened, preening) __1a__ To smooth or clean (feathers) with the beak or bill. __b__ To trim or clean (fur) with the tongue, as cats do. __2__ To dress or groom (oneself) with elaborate care; primp. __3__ To take pride or satisfaction in (oneself); gloat.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
@@ -12474,7 +12483,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __prevail__ _v_ :three::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
-__prevaricate__ _v_ :three::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
+__prevaricate__ _v_ :four::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
 __preventable__  
 __preventative__ _adj_ :two: Another form of _preventive_. _Preventative antibiotics._  
 __prevention is better than cure__ _prov_ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -12505,16 +12514,15 @@ __Prime Minister__
 __prime-age__  
 __prime<sup>1</sup>__ _adj_ :two::hammer: _Their master bedroom has a prime view of the green wall._  
 __prime<sup>2</sup>__ _n_ :two::hammer:  
-__prime<sup>3</sup>__ _v_ :six::astonished::hammer: (primed) _The children who were primed to be happy significantly outperformed the others._  
-__primer__ _n_ :four:hammer:  
-__priming__ _v_  
+__prime<sup>3</sup>__ _v_ :seven::astonished::hammer: (primed, priming) _The children who were primed to be happy significantly outperformed the others._  
+__primer__ _n_ :five:hammer:  
 __primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __princeling__ _n_ (princelet, princekin) A young, subordinate, or minor prince.  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _adv_  
 __prior<sup>3</sup>__ _n_ (priors)  
-__prioritize__ _v_  
+__prioritize__ _v_ :two::hammer:  
 __prise<sup>1</sup>__ _n_  
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  

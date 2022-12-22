@@ -1,18 +1,3 @@
-__phoenix__ _n_  
-__piggyback__ _v_ :two::hammer:  
-__pirouette__ _v intr_  
-__pole__ _v_  
-__polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
-__ponderous__  
-__pose__ _v_  
-__pothole__ _n_  
-__potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
-__precedent<sup>1</sup>__ _n_  
-__precedent<sup>2</sup>__ _adj_  
-__preemption__ _n_ :two::hammer:  
-__prevaricate__ _v_  
-__primer__  
-__prioritize__ _v_  
 __proceeds__ _n_  
 __proffered__ _v_ _I ignored the proffered hand._  
 __progeny__  
