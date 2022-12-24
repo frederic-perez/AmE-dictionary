@@ -4731,7 +4731,7 @@ __dither__ _n_ :mega: A state of indecisive agitation.
 __dithered__ _v_  
 __ditsy__ _adj_ _Ditsy nanny._  
 __ditty bags__ _n_  
-__ditty__ _n_ :three::hammer:  
+__ditty__ _n_ :four: A short simple song (or the words of a poem intended to be sung).  
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
 __dive bar__ _n_ :three::hammer: _A gritty dive bar._  
@@ -7088,7 +7088,7 @@ __golden rule__
 __golden__ _adj_ :astonished: __4__ Indicating the fiftieth event of a series.  
 __goldenrod__ _n_ :two::hammer:  
 __goldfinch__ _n_ :es: jilguero  
-__goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
+__goldilocks__ _n informal_ :two: __1__ A person, usually a woman or girl, with golden or blond hair. __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
 __golf course__  
 __golf__ _n_ :mega:  
 __golliwog__ _n_ :two::hammer:  
@@ -7180,7 +7180,7 @@ __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandst
 __granola__ _n_  
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
 __granted<sup>2</sup>__ _adv_ Admittedly.  
-__granular__ _adj_  
+__granular__ _adj_ :dart::two: __2a__ Having a high level of detail, as in a set of data: _a more granular report that shows daily rather than weekly sales figures._ _We’ll need to do a granular study on this before taking any decision._ __b__ Consisting of multiple diverse or discrete elements: _granular income streams from a variety of tenants._  
 __granules__  
 __grapevine__ _n_  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
@@ -9478,7 +9478,7 @@ __level__ _v_ :two::hammer: (leveled)
 __levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _v tr_ :seven::hammer:  
+__leverage<sup>2</sup>__ _v tr_ :eight: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
@@ -11421,7 +11421,7 @@ __overtourism__ _n_ A situation in which too many tourists travel to a popular d
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overweenimg__ _adj_ :two::hammer: _An overweening pride._  
-__overwrought__ _adj_ :three::hammer: _Overwrought adults_ _Overwrought minds turned to magic and the supernatural._  
+__overwrought__ _adj_ :four::hammer: _Overwrought adults_ _Overwrought minds turned to magic and the supernatural._  
 __overzealous__ _n_  
 __owing to__ _prep_ :two: Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._ _Cavalry coul not deploy en masse owing to the marshes, hedges, and ditches._  
 __own goal__ _n_ :dart: _Mikael Lustig scored an own goal._  
@@ -11461,6 +11461,7 @@ __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V’s 
 __pageboy__  
 __pages__ _n_ A source or record of knowledge: _in the pages of science._  
 __pail__ _n_ :four::hammer: _A lunch pail._ _Milk pails._  
+__pain point__ _n_ A persistent or recurring problem (as with a product or service) that frequently inconveniences or annoys customers. _One of the main pain points for our clients is the difficulties they have in accessing the online service._  
 __pain__ _n_ _You’re such a pain!_ :es: ¡Pero qué pesado eres!  
 __painstaking__ _adj_ :two::hammer: _Painstaking patience._  
 __painstakingly__ _adv_ :two::hammer:  
@@ -12481,6 +12482,7 @@ __press box__ _n_
 __press on__  
 __press the pocket__  
 __pressed__ _adj_ __1__ Compacted by ironing. _Pressed pants._ _A young man with neatly pressed khakis._ :es: planchados __2__ Having very little of something, esp time or money.  
+__pressie__ _n informal_ /ˈprɛzɪ/ (pressy, prezzie) An informal word for present.  
 __pressure cooker__ _n_  
 __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
 __presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
@@ -13114,7 +13116,7 @@ __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
-__recalcitrant__ _adj_ :four: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
+__recalcitrant__ _adj_ :five: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_  
 __recant__ _v_ :five::hammer: (recanted) _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
@@ -14536,7 +14538,7 @@ __sinecure__ _n_ :two: A position or office that requires little or no work but 
 __sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
-__sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That’s the best sing along we’ve ever had._  
+__sing along<sup>1</sup>__ _n_ :four: (sing-along, singalongs) A gathering or event where participants are encouraged to add their voices in song. _That’s the best sing along we’ve ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
@@ -14768,7 +14770,7 @@ __slumming__ _v_ :two::hammer:
 __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
-__slush__ _n_ :six::hammer: _The offshore ice and slush._  
+__slush__ _n_ :seven::hammer: _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._  
 __slushy__  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
