@@ -1,18 +1,3 @@
-__proceeds__ _n_  
-__proffered__ _v_ _I ignored the proffered hand._  
-__progeny__  
-__prolong__ _v_  
-__proselytize__ _v_ /PRAH-suh-luh-tyze/  
-__provider__ _n_ _Mental health providers._  
-__psych__ _v_  
-__pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
-__quail__ _v_  
-__queasy__  
-__quid pro quo__ _n_ :two::hammer:  
-__quiz__ _n_ (_n pl_ quizzes) _Take the quiz!_  
-__rangy__ _adj_ _A rangy Texas native._  
-__rap__ _n_ _There was a sharp rap on the door._  
-__ratify__ _v_ (ratified)  
 __ratlines__  
 __ratoon__ _n_  
 __raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  

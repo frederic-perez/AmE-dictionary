@@ -12561,7 +12561,7 @@ __probative__ _adj_ Providing proof or evidence.
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proboscis__ _n_  
 __proceedings__ _n_ _The bishops held the proceedings against Wyclif in abeyance._  
-__proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proceeds__ _n_ :eight: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
 __procrastinate__ _v_ /pruh-KRASS-tuh-nayt/  
@@ -12580,7 +12580,7 @@ __profane__ _adj_
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
-__proffer__ _v_ _formal_ :two: /PRAH-fer/ To present (something) for acceptance. _Several recommendations were proffered by the finance board on how to reduce the city’s debt without making drastic cuts in department budgets._  
+__proffer__ _v_ _formal_ :three: /PRAH-fer/ To present (something) for acceptance. _Several recommendations were proffered by the finance board on how to reduce the city’s debt without making drastic cuts in department budgets._ _I ignored the proffered hand._  
 __proficient__  
 __profit__ _v_ :astonished:  
 __profiteer<sup>1</sup>__ _n_  
@@ -12592,7 +12592,7 @@ __profligate<sup>2</sup>__ _n_ :three::hammer:
 __profoundly__  
 __profusely__ _adv_ :two::hammer:  
 __profusion__  
-__progeny__ _n_ :two::hammer:  
+__progeny__ _n_ :three::hammer:  
 __prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
 __Prohibitionists__  
@@ -12604,6 +12604,7 @@ __proliferation__ _n_
 __prolix__ _adj_ :three: Using too many words and therefore boring.  
 __prolixity__ _n_ :two: Excessive wordiness in speech or writing; longwindedness.  
 __prolog__ _n_ :two::hammer:  
+__prolong__ _v_  
 __promenade__ _n_ :two::hammer:  
 __Promethean__ _adj_ Creative; boldly original.  
 __prominence__  
@@ -12638,7 +12639,7 @@ __props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often us
 __prosaic__ _adj_ :two: /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, everyday, or ordinary, but its original meaning is “characteristic of prose as distinguished from poetry.” _Retirement can lead to a prosaic lifestyle unless you will yourself to seek adventure._  
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
 __proselytism__ _n_ :astonished:  
-__proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
+__proselytize__ _v_ :six::pencil2::dart: /PRAH-suh-luh-tyze/ Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prosopopoeia__ _n_ Representing an abstract quality or idea as a person or creature personification.  
 __prospect__ _n_ (sports)  
 __prospective__ _adj_ :three::hammer: _Prospective clients._  
@@ -12660,6 +12661,7 @@ __provenance__
 __provender__  
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
+__provider__ _n_ _Mental health providers._  
 __proviso__ _n_  
 __provost__ _n_ :nine: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :nine::m: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. _It was no lack of prowess that defeated the French and allied knights._ __2__ Extraordinary ability. _His prowess on the football field._  
@@ -12678,6 +12680,7 @@ __psalm<sup>2</sup>__ _v intr_ :two::mute:[psa~~l~~m, ~~p~~salm] To sing a poem 
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
 __pseudo__ _adj_ :two::mute:[~~p~~seudo] /ˈsu doʊ/ Made-up; false, pretended, or not genuine. Almost always hyphenated before the word it modifies. _All he writes is this pretentious, pseudo-intellectual junk._ _Pseudo-listening._  
 __pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
+__psych__ _v_  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
 __psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
@@ -12788,6 +12791,7 @@ __pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influenc
 __pushpins__  
 __pushy__ _adj_ :three::hammer: _I guess I was a little pushy._ _Pushy sales._  
 __pusillanimous__ _adj_ :two: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
+__pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
 __pustules__ _n_  
 __put it on the money__  
 __put on a clinic__  
@@ -12830,7 +12834,7 @@ __quaffable__
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ _n_ :five: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
-__quail<sup>2</sup>__ _v_ :four: (quailed) To shrink back in fear; cower.  
+__quail<sup>2</sup>__ _v_ :five: (quailed) To shrink back in fear; cower.  
 __quaint__ _adj_ :nine::m: /kweɪnt/ __1__ Pleasingly or strikingly old-fashioned or unusual. _Quaint village/bridges/cottage/streets/town/village._ _Quaint neighborhood shops._ _Quaint residential area._ _Quaint Victorian buildings._ __2__ Unfamiliar or different in character or appearance; odd. _A quaint sense of duty._  
 __quaintly__ _adv_ :two::hammer:  
 __Quaker__  
@@ -12851,7 +12855,7 @@ __quavered__
 __quavering__  
 __quay__ _n_  
 __queasiness__ _n_ _There was queasiness among many residents._  
-__queasy__ _adj_ :five: Causing or suffering from nausea: _feeling queasy after a meal._  
+__queasy__ _adj_ :six: Causing or suffering from nausea: _feeling queasy after a meal._  
 __queen__ _n_ :astonished: __6__ A mature female cat, especially one kept for breeding purposes.  
 __queer<sup>1</sup>__ _adj_  
 __queer<sup>2</sup>__ _n_  
@@ -12873,7 +12877,7 @@ __quicken__ _v_ :three::hammer: (quickened) _Spring quickened._
 __quickening__ _n_ :two::hammer: _He felt a quickening within him._  
 __quicksand__ _n_ :two::hammer: _I’ve just signed a quicksand employment contract._  
 __quicksilver__  
-__quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
+__quid pro quo__ _n_ :five::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quiddity__ _n_ /KWID-uh-tee/ Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone’s behavior. _He portrayed the character’s quirks and quiddities with tender playfulness._  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
@@ -12900,7 +12904,7 @@ __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment
 __quitter__ _n_ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__ _adj_ :two: Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. _Her actions may seem quixotic, but they also speak to her courage and passion._  
-__quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading.  
+__quiz__ _n_ :three: (_n pl_ quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading. _Take the quiz!_  
 __quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
 __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
@@ -12993,6 +12997,7 @@ __random__ _adj_ :mega: /ˈrændəm/
 __randy__  
 __range<sup>1</sup>__ _n_ :two::hammer: _A range of details._ _Range war._  
 __range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming down your diary._  
+__rangy__ _adj_ _A rangy Texas native._  
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
@@ -13003,7 +13008,7 @@ __ransomware__ _n_ :two: Malware that disables the normal operation of a compute
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
 __rap sheet__ _n_ _slang_ :three: A record kept by law-enforcement authorities of a person’s arrests and convictions.  
-__rap__ _n_ _South has a bad rap._  
+__rap__ _n_ :two::hammer: _South has a bad rap._ _There was a sharp rap on the door._  
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
@@ -13040,6 +13045,7 @@ __ratchet<sup>3</sup>__ _adj_ _slang_ Lacking in class, refinement, or good tast
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
+__ratify__ _v_ (ratified)  
 __rating__ _n_ :two::hammer:  
 __rationale__ _n_ :two::dart: /rash-uh-NAL/ An explanation or reason for something said or done. _Senators who opposed the bill were questioned by media to uncover their rationale for voting against it._ _It has four main rationales._  
 __rationalize__ _v_  
