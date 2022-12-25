@@ -17,7 +17,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Cameron Esposito](https://www.youtube.com/results?gl=US&search_query=Cameron+Esposito)
 - [Carl Tart](https://www.youtube.com/results?gl=US&search_query=Carl+Tart)
 - [Carmen Christopher](https://www.youtube.com/results?gl=US&search_query=Carmen+Christopher) is killing it (in a short).
-- [Carrot Top (Scott Thompson)](https://www.youtube.com/results?gl=US&search_query=Carrot+Top) is a prop comediant.
+- [Carrot Top (Scott Thompson)](https://www.youtube.com/results?gl=US&search_query=Carrot+Top) is a prop comedian.
 - [Chelsea Peretti](https://www.youtube.com/results?gl=US&search_query=Chelsea+Peretti)
 - [Chris Gethard](https://www.youtube.com/results?gl=US&search_query=Chris+Gethard) » [chrisgeth.com](https://chrisgeth.com)
 - [Chris Rock](https://www.youtube.com/results?gl=US&search_query=Chris+Rock)
@@ -69,7 +69,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Steve Martin](https://www.youtube.com/results?gl=US&search_query=Steve+Martin) is a virtuoso banjo player.
 - [Steven Wright](https://www.youtube.com/results?gl=US&search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
 - [Thomas Middleditch](https://www.youtube.com/results?gl=US&search_query=Thomas+Middleditch)
-- [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan omedy.
+- [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan comedy.
 - [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
 - [Wayne Brady](https://www.youtube.com/results?gl=US&search_query=Wayne+Brady)
 - [Whitney Cummings](https://www.youtube.com/results?gl=US&search_query=Whitney+Cummings)
