@@ -4317,7 +4317,7 @@ __delectable__ _adj_ :nine::m::hammer: _Syn_ delicious _Delectable dining._ _Del
 __delectation__ _n_ :dart::two::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
-__deleterious__ _adj_ :seven: Harmful often in a subtle or unexpected way. Having a harmful effect; injurious. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._  
+__deleterious__ _adj_ :eight: /del-uh-TEER-ee-us/ Harmful often in a subtle or unexpected way. Having a harmful effect; injurious. Deleterious is a word used in formal speech and writing to describe something that is damaging or harmful, usually in a subtle or unexpected way. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._ _While the popular lawn care product is effective at eliminating weeds, it unfortunately is also deleterious to the wider environment._  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
 __delicate__ _adj_ :two::hammer::mega:  
@@ -8010,7 +8010,7 @@ __holistic__ _adj_ :nine: __1__ Based on the idea that you should take care of y
 __holler__ _v_ :five: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
-__holly__ _n_ :two::astonished::pencil2: Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
+__holly__ _n_ :three::astonished::pencil2: /ˈhɒlɪ/ [The plant that is thought to be responsible for the association of the colors red and green with Christmas] Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
 __Hollywood__ _n_ :mega: /ˈhɒlɪˌwʊd/  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __Holy Ghost__ _n_ :two::hammer:  
@@ -10759,6 +10759,7 @@ __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders calll
 __Native American__ _n_ _Native American reservation._  
 __native__ _n_  
 __nativism__ _n_ :two::hammer:  
+__nativity__ _n_ /nuh-TIV-uh-tee/  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
@@ -10804,7 +10805,7 @@ __neophyte__
 __neorealist__  
 __neoteric__  
 __nepenthe__ _n_ Something that induces forgetfulness of sorrow or eases pain.  
-__nepotism__ _n_ :five: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
+__nepotism__ _n_ :six: [:scroll: The term nepotism comes from the Latin root for nephew Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.]  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
 __nerve racking__  
@@ -12672,8 +12673,8 @@ __prurient__ _adj_ :three::hammer:
 __pruritus__ _n_ :two: Severe itching, often of undamaged skin.  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
 __pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a lever. _He pries your buttocks apart._ _To pry the crack open wider and wider._ __2__ To obtain with effort or difficulty: _pried a confession out of the suspect._  
-__psalm<sup>1</sup>__ _n_ :mute:[psa~~l~~m, ~~p~~salm]  
-__psalm<sup>2</sup>__ _v_ :mute:[psa~~l~~m, ~~p~~salm]  
+__psalm<sup>1</sup>__ _n_ :two::mute:[psa~~l~~m, ~~p~~salm] /sahm/ A sacred poem or song.  
+__psalm<sup>2</sup>__ _v intr_ :two::mute:[psa~~l~~m, ~~p~~salm] To sing a poem or song.  
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
 __pseudo__ _adj_ :two::mute:[~~p~~seudo] /ˈsu doʊ/ Made-up; false, pretended, or not genuine. Almost always hyphenated before the word it modifies. _All he writes is this pretentious, pseudo-intellectual junk._ _Pseudo-listening._  
 __pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
@@ -14629,7 +14630,7 @@ __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jac
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
 __slack<sup>3</sup>__ _adj_ :five: __1__ Characterized by reduced economic activity. _Syn_ down, dull, off, slow, sluggish, soft _Business is slack._ :es: hay poco movimiento or poca actividad en el negocio _Demand was slack._ :es: hubo poca demanda __2__ Not tautly bound, held, or fastened. _Syn_ lax, loose, relaxed _Now he couldn’t drive with slack reins._ __3__ Guilty of neglect; lacking due care or concern. _Syn_ derelict, lax, neglectful, negligent, remiss  
 __slackened__ _v_  
-__slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
+__slacker__ _n_ :four: One who shirks work or duty, especially one who tries to evade military service in wartime. _Syn_ shirker _Do you, George McFly, want to be a slacker for the rest of your life?_ _My partner was a slacker, so I had to do all the work on the project._  
 __slackline__ _n_ :two::hammer:  
 __slag__  
 __slain__ _n_  
@@ -14803,6 +14804,7 @@ __smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language 
 __smear<sup>1</sup>__ _v_ :seven: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _n_ __1__ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
+__smell-feast__ _n_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
 __smelting__ _n_ :two: The process of extracting a metal from an ore by heating. _A smelting furnace._  
@@ -15092,7 +15094,7 @@ __specs__ _n_ :two: Spectacles, glasses.
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
 __spectacular__  
 __spectate__ _v intr_ To be present as a spectator (as at a sports event). _He resumed his spectating._  
-__speculate__ _v_  
+__speculate__ _v_ :two: /SPEK-yuh-layt/ __1__ In general contexts, _speculate_ means “to form ideas or theories about something usually when there are many things not known about it.” _Scientists speculate that the newly discovered exoplanet could contain liquid water._ __2__ In contexts relating to business or finance, it means “to invest money in ways that could produce a large profit but that also involve a lot of risk.” _Their research explores the implications of so many people speculating on the stock market in the years leading up to the Great Depression._  
 __speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
 __Sped case__  
 __speechless__ _adj_  
@@ -16550,6 +16552,7 @@ __torpedo__ _v_
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
+__tortuous__ _adj_ /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
 __toss__ _v_ :three::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
@@ -17311,7 +17314,7 @@ __veto__ _v_
 __vetted__ _v_ :three::hammer:  
 __vetting__  
 __vex__ _v_ :three::hammer: (vexed)  
-__vexatious__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
+__vexatious__ _adj_ :two: Causing irritation or annoyance. Causing or creating vexation; annoying: _vexatious delays._ _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
 __vexillology__ _n_ The study of flags.  
 __vexing__ _adj_ :three::hammer: _Vexing problem._ _It’s a vexing topic._  
 __viable__ _adj_ :two::hammer:  
