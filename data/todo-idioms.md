@@ -1,3 +1,9 @@
+__a blessing in disguise__  
+__add up__ _It doesn’t add up._  
+__ahead of the curve__  
+__at a moment’s notice__  
+__at the ready__  
+__back to basics__  
 __backpedal__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
@@ -17,8 +23,10 @@ __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think 
 __by the same token__ In the same way.  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call the shots__  
+__carry the ball__  
 __cast/shed/throw light on something__ :two::hammer:  
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
+__cautionary tale__  
 __change of heart__  
 __check out__  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
@@ -27,14 +35,19 @@ __close the gap (between someone or something)__ To reduce or eliminate some dis
 __cold feet__  
 __come to terms__  
 __crash course__  
+__cut from the same cloth__  
+__dark joke__  
 __day in and day out__  
 __dead man walking__  
 __don’t get (one) started__  
 __down for (something)__  
 __down the road__  
+__driving force__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__  
 __easy peasy__  
+__end of one’s rope__  
+__everything under the sun__  
 __fall short__  
 __false alarm__  
 __fan service__  
@@ -44,7 +57,7 @@ __first and foremost__
 __food baby__  
 __for all intents and purposes__  
 __for better or worse__ :three::hammer:  
-__for the sake of__  
+__for the sake of__ :two::hammer: _For the sake of clarity._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __Friendsgiving__  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
@@ -53,9 +66,11 @@ __game plan__ :two::hammer:
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
 __get (one’s) shit together__ :two::hammer:  
 __get (something) straight__ _Let’s get this straight._  
+__get a grip__  
 __get it off my chest__  
 __get shut-eye__ _I’ll get some shut-eye._  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
+__get the best of me__  
 __get the edge__  
 __get the hang of something__  
 __get your shit together__  
@@ -64,6 +79,7 @@ __go apeshit__
 __go berserk__  
 __go figure__  
 __go for the jugular__ _Go straight for the jugular._  
+__go hand in hand__  
 __go overboard__  
 __go the distance__  
 __go vacant__ _Her eyes went vacant again._  
@@ -84,6 +100,7 @@ __hold (someone or something) back (from someone or something)__
 __hold a candle to__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __hulk out__  
+__hunky-dory__  
 __in (a) shambles__  
 __in (the) light of (something)__  
 __in a big bad way__  
@@ -109,9 +126,11 @@ __let down__
 __lie ahead of (someone or something)__  
 __line of work__  
 __lost cause__  
+__lost for words__ (at a loss for words)  
 __lost on me__ _It is not lost on me._  
 __love (someone) to the moon (and back)__  
 __mean the world to (one)__ :dart:  
+__meant to be__  
 __mixed bag__  
 __more than meets the eye__  
 __mother lode__  
@@ -122,10 +141,15 @@ __narrow down__
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __night and day__  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
+__no way__  
 __not even close__  
+__note to self__  
+__nuclear family__  
 __of no account__  
 __off the clock__  
+__off to the side__  
 __off-kilter__  
+__on (one’s) own righ__  
 __on a different note__  
 __on demand__ _Requested on demand._  
 __on leave__  
@@ -137,6 +161,7 @@ __on the verge of__
 __once and for all__  
 __out of harm’s way__  
 __out of sight, out of mind__  
+__ouy (of) the (starting) gate__  
 __owing to__  
 __party pooper__  
 __pass along__  
@@ -144,7 +169,7 @@ __pave the way__
 __pay (for something) up front__  
 __piece of shit__  
 __piping hot__  
-__play ball__  
+__play ball__ :two::hammer:  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
@@ -158,11 +183,15 @@ __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The thir
 __relief party__  
 __rest assured__  
 __rest on her laurels__  
+__rest on one’s laurels__  
 __riddled with__  
 __rip (someone or something) to shreds__  
 __rock the boat__  
+__roll (one’s) eyes__ :two::hammer:  
+__roller coaster__ _Emotional roller coaster._  
 __rub elbows__  
 __rub out__  
+__rubber stamp__  
 __run the show__  
 __running bit__  
 __save face__  
@@ -170,6 +199,7 @@ __save the day__ :two::hammer:
 __second-class citizen__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __send off__  
+__set the bar__  
 __shape up__  
 __shot down__  
 __shut down__  
@@ -181,6 +211,7 @@ __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or f
 __slippery slope__  
 __slow burner__  
 __small hours__ (wee hours)  
+__smarty-pants__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -203,6 +234,7 @@ __Sunday scaries__
 __sweep (one) off (one’s) feet__  
 __sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
+__swept away__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
@@ -223,9 +255,12 @@ __take a walk on the wild side__ To engage in risky, raucous, adventurous, or li
 __take heart__  
 __take it away!__  
 __take pride in someone or something__ :three::hammer:  
+__take the brunt__  
 __take the edge off__  
 __take up__ _We have taken up this challenge._  
 __taken aback__  
+__taking it on your chin__  
+__talk down to (one)__  
 __talk trash__  
 __talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
@@ -240,6 +275,7 @@ __test (one’s) mettle__
 __test the water(s)__  
 __thank you very much__  
 __thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
+__that being said__  
 __that’s a given__  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
 __the big picture__  
@@ -265,8 +301,9 @@ __the unwashed masses__ The broader general public, especially those of the lowe
 __the usual suspects__ _Side vegetables contain all the usual suspects._  
 __the whole shebang__  
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
+__the writing on the wall__  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
-__then again__ :five::hammer: _Then again, you might not remember it._  
+__then again__ :six::hammer: _Then again, you might not remember it._  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
@@ -308,6 +345,7 @@ __two a penny__ Very common, ordinary, or widespread. _At first, they were quite
 __twofer__  
 __uncanny valley__  
 __under one’s thumb__  
+__under the yolk__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
