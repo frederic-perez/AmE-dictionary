@@ -1,23 +1,31 @@
 __a blessing in disguise__  
+__a people person__  
 __add up__ _It doesn’t add up._  
+__affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
 __ahead of the curve__  
+__artsy__  
 __at a moment’s notice__  
 __at the ready__  
 __back to basics__  
 __backpedal__  
+__ball-buster__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
 __be at odds with__  
 __be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
 __bear hug__  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
+__bear with (someone or something)__  
 __behind the scenes__  
 __big fish__  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bite the dust__ _Bite the dust, asteroid!_  
+__blow (one’s) mind__  
 __boiling frog__  
+__bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
+__break bread__ To eat. _We should break bread before the meal gets cold._  
 __brighten up (the) day__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by the same token__ In the same way.  
@@ -42,6 +50,7 @@ __dead man walking__
 __don’t get (one) started__  
 __down for (something)__  
 __down the road__  
+__down-to-earth__  
 __driving force__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__  
@@ -58,6 +67,7 @@ __first and foremost__
 __food baby__  
 __for all intents and purposes__  
 __for better or worse__ :three::hammer:  
+__for real__  
 __for the sake of__ :two::hammer: _For the sake of clarity._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __Friendsgiving__  
@@ -68,6 +78,7 @@ __get (one’s) (own) way__ To get or have what one wants; to have things done a
 __get (one’s) shit together__ :two::hammer:  
 __get (something) straight__ _Let’s get this straight._  
 __get a grip__  
+__get bombed__ _slang_ To get very drunk. _After the long week I had, all I want to do is go to the bar and get bombed._  
 __get it off my chest__  
 __get shut-eye__ _I’ll get some shut-eye._  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
@@ -79,6 +90,7 @@ __give in__ _Give in to our fears._
 __gloss over (something)__  
 __go apeshit__  
 __go berserk__  
+__go downhill__  
 __go figure__  
 __go for the jugular__ _Go straight for the jugular._  
 __go hand in hand__  
@@ -88,6 +100,7 @@ __go vacant__ _Her eyes went vacant again._
 __golden boy__  
 __good call__  
 __goof up__  
+__hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a trick up (one’s) sleeve__  
@@ -103,6 +116,7 @@ __hold a candle to__
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __hulk out__  
 __hunky-dory__  
+__icky__  
 __in (a) shambles__  
 __in (the) light of (something)__  
 __in a big bad way__  
@@ -121,6 +135,7 @@ __keep tabs__
 __kindred spirit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __land on (one’s) feet__  
+__laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
 __leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
 __learn the ropes__  
 __let alone__  
@@ -133,7 +148,10 @@ __lost on me__ _It is not lost on me._
 __love (someone) to the moon (and back)__  
 __mean the world to (one)__ :dart:  
 __meant to be__  
+__mess with (someone or something)__  
+__missing link__  
 __mixed bag__  
+__more so__ To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
 __more than meets the eye__  
 __mother lode__  
 __move on__ _So, moving on to the next item on the agenda._  
@@ -175,6 +193,7 @@ __play ball__ :two::hammer:
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
+__put (one’s) finger on (something)__  
 __put (oneself) in (someone’s) shoes__  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put out fires__  
@@ -189,6 +208,7 @@ __rest on one’s laurels__
 __riddled with__  
 __rip (someone or something) to shreds__  
 __rock the boat__  
+__rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
 __roll (one’s) eyes__ :two::hammer:  
 __roller coaster__ _Emotional roller coaster._  
 __rub elbows__  
@@ -214,6 +234,7 @@ __slippery slope__
 __slow burner__  
 __small hours__ (wee hours)  
 __smarty-pants__  
+__so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -332,6 +353,7 @@ __to perfection__ In a way or to a degree that is exactly right. _Cooked to perf
 __to the core__ _Charming to the core._  
 __to the fullest__  
 __to the hilt__  
+__to this day__  
 __tongue-in-cheek__  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
@@ -383,6 +405,7 @@ __white-knuckle__
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
+__wild__  
 __wildest dreams__  
 __win-win__ _A win-win scenario._  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
