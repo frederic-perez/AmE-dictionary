@@ -10,6 +10,7 @@ __boom__
 __bosh__ :two::hammer: _Oh, bosh._  
 __brrr__ _informal_ An exclamation used to suggest shivering.  
 __d’oh__ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
+__damn__ Used to express anger, irritation, contempt, or disappointment.  
 __dang__ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
 __duh__ _slang_ /ˈdə, usually with prolonged ə/ __1__ Used to express actual or feigned ignorance or stupidity. _Duh, I don’t know._ __2__ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._ _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  

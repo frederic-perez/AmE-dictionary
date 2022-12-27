@@ -51,6 +51,7 @@ __everything under the sun__
 __fall short__  
 __false alarm__  
 __fan service__  
+__fend off__  
 __few and far between__  
 __fight the good fight__  
 __first and foremost__  
@@ -75,6 +76,7 @@ __get the edge__
 __get the hang of something__  
 __get your shit together__  
 __give in__ _Give in to our fears._  
+__gloss over (something)__  
 __go apeshit__  
 __go berserk__  
 __go figure__  

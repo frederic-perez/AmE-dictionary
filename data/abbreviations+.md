@@ -12,7 +12,7 @@ __ACK__ Acknowledge/Acknowledgement/Acknowledged.
 __ACL__ Anterior cruciate ligament.  
 __ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __ADD__ Attention deficit disorder.  
-__ADHD__ Attention deficit hyperactivity disorder.  
+__ADHD__ :two: Attention deficit hyperactivity disorder.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
@@ -158,7 +158,7 @@ __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._
 __ppl__ _informal_ People.  
 __pppn__ _abbr_ Per person per night.  
 __PR__ _The PR version of my life._  
-__PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.
+__PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
 __PTO__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
 __PVC__ Polyvinyl Chloride.  
