@@ -1,6 +1,7 @@
 __-esque__  
 __alliteration__ _n_  
 __apologetic__ _adj_  
+__apprehension__ _n_  
 __apprentice__  
 __artefact__  
 __articulate__ _v_  
@@ -8,13 +9,17 @@ __belated__
 __believe__ _v_ :mega:  
 __bemoan__ _v_  
 __billing__  
+__broaden__ _v_  
 __burb__ _n informal_  
 __burial__ _n_  
 __catalyst__ _n_  
+__catchphrase__ _n_  
 __cerebral palsy__  
 __chuckle__ _n_  
 __commissioned__ _adj_  
+__condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
 __confounding__ _adj_  
+__contact__ _n_ __6__ A contact lens. _We wear contacts._  
 __Cotton-Eyed Joe__ _n_  
 __crutch__ _n_  
 __dagger__ _n_  
@@ -24,6 +29,8 @@ __discipline__ _v_
 __discount__ _v_  
 __downside__ _n_ _Working from home has its upsides as well as downsides._  
 __dwell__ _v_  
+__eerie__ _adj_ (eery) _Eerie incidents._  
+__egotistical__ _adj_  
 __embark__  
 __engaged__ _adj_ (to marry)  
 __enthused__ _adj_  
@@ -32,12 +39,16 @@ __firm__ _adj_ _A firm closure._
 __flummox__ _v tr_  
 __frantic__  
 __fumble__ _v_  
+__gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
+__gathering__ _n_ _Family gathering._  
 __gracious__ _adj_  
 __green beret__  
 __hamper__ _v_  
 __hermit__ _n_ :mega:  
 __homicide__  
+__identical twin__ _n_ Either of two twins developed from the same fertilized ovum (having the same genetic material).  
 __impetus__  
+__jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jigsaw__ _n_ (power tool, not puzzle)  
 __kiddo__  
 __lamest__ _adj_ (from _lame_)  
@@ -47,23 +58,29 @@ __levelheaded__ _adj_
 __living space__  
 __lodging__ _n_  
 __lull__ _v_ :mega:  
+__madness__ _n_ :mega: /ˈmæd nɪs/ _This is madness._  
 __measly__ _adj_ _All that abuse for a measly $20?_  
 __meekly__  
+__miasma__  
 __misuse__ _n_ _He had no history of alcohol misuse._  
 __moped__ _n_  
 __mundane__  
 __mustard__ _n_ :mega:  
 __nick__ _n_ _In a nick of time._  
 __nonexistent__ _adj_  
+__nuclear family__ _n_  
 __Omaha__ _n_ :mega:  
 __open-label trial__ _n_  
 __outcropping__ _n_  
+__pace__ _v_  
 __palette__ _n_ :mega:  
 __patronize__ _v_  
+__peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __pick__ _v_  
 __picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
 __plunder__  
 __pointless__  
+__post hoc__  
 __prevail__  
 __puffer__ _n_  
 __rainforest__ _n_  
@@ -79,6 +96,7 @@ __recce__ _n_ :two::hammer:
 __reconvene__ _v_  
 __recumbent__  
 __redemption__ _n_ :mega:  
+__redhead__ _n_ :pencil2:  
 __reductive__ _adj_  
 __regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
 __remonstrate__ _v_  
@@ -94,6 +112,7 @@ __rotunda__
 __round robin__  
 __ruefully__  
 __rummage__ _v_  
+__rural area__ _n_ :mega: An area outside of cities and towns.  
 __rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  
 __rustle<sup>2</sup>__ _v_ _A rustling sound._  
 __rutted__  
@@ -135,6 +154,7 @@ __significant__ _adj_ :two::hammer: _This is a significant advantage._ _This pro
 __signify__ _v_  
 __silk__ _n_  
 __slat__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
+__slate__ _n_ __6__ _(Film)_ __a__ The reference information written on a clapperboard. __b__ _informal_ The clapperboard itself.  
 __sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _Syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
 __sleepers__ _n_ (railway)  
 __slither__ _v_ :two::hammer:  
@@ -173,11 +193,12 @@ __station__ _n_ _We can maintain station._
 __statuary__ _n_  
 __stem__ _v_  
 __stern__ _n_ _The ship’s stern._  
+__stifle__ _v tr_  
 __stoma__ _n_  
 __stooped__ _v_  
 __strengthen__ _v_  
 __strike warfare__  
-__stringent__ _adj_ :two::hammer: _Stringent challenges._  
+__stringent__ _adj_ :three::hammer: _Stringent challenges._  
 __strip__ _v_ _Data striped across different storage nodes._  
 __stud__ _n_  
 __stymie__ _v_  
@@ -246,6 +267,7 @@ __validate__ _v_
 __vamp__ _n_  
 __vaunted__ _adj_ _His vaunted years of experience._  
 __vector__ _v tr_ _He vectored toward the tanker waiting for him._  
+__vocal__ _adj_  
 __voice__ _v_ :dart: _He was voicing his thoughts aloud._  
 __walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
 __wallow__ _v_ :two::hammer: _Don’t wallow in despair._  
