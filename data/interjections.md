@@ -1,4 +1,5 @@
 __aah__ Used to express pleasure, satisfaction, surprise, or great joy.  
+__aha__  Used to express surprise, pleasure, or triumph.  
 __ahoy__ Used to hail a ship or to attract attention.  
 __alas__  
 __aw__ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  

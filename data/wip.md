@@ -5,6 +5,7 @@ __apprehension__ _n_
 __apprentice__  
 __artefact__  
 __articulate__ _v_  
+__awareness__ _n_  
 __belated__  
 __believe__ _v_ :mega:  
 __bemoan__ _v_  
@@ -20,8 +21,10 @@ __commissioned__ _adj_
 __condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
 __confounding__ _adj_  
 __contact__ _n_ __6__ A contact lens. _We wear contacts._  
+__corkboard__ _n_  
 __Cotton-Eyed Joe__ _n_  
 __crutch__ _n_  
+__customary__ _adj_ /ˈkʌs təˌmɛr i/  
 __dagger__ _n_  
 __deceipt__ _n_ :mega:  
 __dingy__ _adj_ :mega:  
@@ -46,10 +49,12 @@ __green beret__
 __hamper__ _v_  
 __hermit__ _n_ :mega:  
 __homicide__  
+__household__ _n_  
 __identical twin__ _n_ Either of two twins developed from the same fertilized ovum (having the same genetic material).  
 __impetus__  
 __jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jigsaw__ _n_ (power tool, not puzzle)  
+__Kevin__ _n_ /ˈkɛvɪn/  
 __kiddo__  
 __lamest__ _adj_ (from _lame_)  
 __layman__  
@@ -59,6 +64,7 @@ __living space__
 __lodging__ _n_  
 __lull__ _v_ :mega:  
 __madness__ _n_ :mega: /ˈmæd nɪs/ _This is madness._  
+__mayhem__ _n_ /ˈmeɪ hɛm, ˈmeɪ əm/  
 __measly__ _adj_ _All that abuse for a measly $20?_  
 __meekly__  
 __miasma__  
@@ -71,6 +77,7 @@ __nonexistent__ _adj_
 __nuclear family__ _n_  
 __Omaha__ _n_ :mega:  
 __open-label trial__ _n_  
+__opinionated__ _adj_ :two: Holding obstinately and unreasonably to one’s own opinions; dogmatic.  
 __outcropping__ _n_  
 __pace__ _v_  
 __palette__ _n_ :mega:  
@@ -78,12 +85,16 @@ __patronize__ _v_
 __peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __pick__ _v_  
 __picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
+__pinpoint<sup>1</sup>__ _v tr_  
+__pinpoint<sup>2</sup>__ _n_  
+__pinpoint<sup>3</sup>__ _adj_  
 __plunder__  
 __pointless__  
 __post hoc__  
 __prevail__  
 __puffer__ _n_  
 __rainforest__ _n_  
+__rampage__  
 __ratlines__  
 __ratoon__ _n_  
 __raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
@@ -103,12 +114,14 @@ __remonstrate__ _v_
 __replica__ _n_  
 __resolute__ _adj_ :two::hammer:  
 __retaliate__ _v_  
+__rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
 __ridiculous__ _adj_ :mega:  
 __ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy.  
 __rollout__ _n_  
 __rookery__ _n_ _There are several Emperor rookeries there._  
 __Rosh HaShanah__ _n_  
 __rotunda__  
+__rough__ _adj_  
 __round robin__  
 __ruefully__  
 __rummage__ _v_  
@@ -178,6 +191,7 @@ __spectable__ _n_ :two::mega::hammer:
 __spectra__ _n pl_  
 __speed bag__ _n_  
 __spiral binder__  
+__spiral__ _n_  
 __spirit stove__ _n_ _We had a small spirit stove._  
 __splicing__ _v_  
 __sporadic__ _adj_  
@@ -205,6 +219,8 @@ __stymie__ _v_
 __subpoena__ _v_ Put the screws to someone.  
 __subsequent__  
 __subsequently__ _adv_ Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
+__summarize__ _v_ /ˈsʌməˌraɪz/  
+__supersede__ _v tr_ /ˌsu pərˈsid/  
 __suricate__ _n_  
 __surreptiously__  
 __surveyor__ _n_  
@@ -213,6 +229,7 @@ __swoop__ _n_
 __sword__ _n_ :mega:  
 __sycophant__ _n_ :two::hammer:  
 __sympathetic__  
+__tabby__ _n_  
 __tacky__  
 __tactful__ _adj_  
 __tactical__ _adj_ _Tactical plot._  
