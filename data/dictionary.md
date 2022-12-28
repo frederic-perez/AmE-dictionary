@@ -250,7 +250,7 @@ __aerospike engine__ _n_
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
-__affidavit__ _n_ :eight::hammer:  
+__affidavit__ _n_ :eight: A written declaration upon oath made before an authorized official. _Syn_ statement, declaration, testimony, proclamation _She was asked to sign an affidavit swearing that nothing had happened._ :es: declaración jurada  
 __affiliate__  
 __affirmance__ _n_  
 __affix__ _v_  
@@ -4313,7 +4313,7 @@ __deity__ _n_ :mega:
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
-__delectable__ _adj_ :nine::m::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._ _A delectable range of bath treats._  
+__delectable__ _adj_ :nine::m: __1__ 1. Greatly pleasing to the taste; delicious. _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._ __2__ Greatly pleasing; delightful: _found her anecdotes delectable._ _A delectable range of bath treats._ __3__ Sexually attractive or alluring Capable of arousing desire. _The delectable Miss Haynes._  
 __delectation__ _n_ :dart::two::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
@@ -5396,7 +5396,7 @@ __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative di
 __enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
-__encompass__ _v_ :nine::m::hammer: (encompasses, encompassing) _Very large-scale computing encompasses a varied range of systems._  
+__encompass__ _v_ :nine::m: __1__ To enclose within a circle; surround. __2__ To bring about; cause to happen; contrive: _he encompassed the enemy’s ruin._ __3__ To have as part of something larger; include. _Syn_ include _A galaxy encompassing billions of stars._ _Very large-scale computing encompasses a varied range of systems._ __4__ To include entirely or comprehensively: _this book encompasses the whole range of knowledge._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
@@ -5665,7 +5665,7 @@ __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent 
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :nine::m: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :nine::m:hammer: /ɪgˈzɜr ʃən/ _Her face was bright with exertion._  
+__exertion__ _n_ :nine::m: /ɪgˈzɜr ʃən/ __1__ Vigorous action or effort. __2__ An effort: _a great exertion to help others._ __3__ Exercise, as of power or faculties. __4__ An instance of this. _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __exhedra__ _n_  
@@ -17851,7 +17851,7 @@ __wishful thinking__ _n_ :two: Thinking in which what one wishes were the case i
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
 __wishy-washy__ _adj_ :three: __1__ _informal_ Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we’re on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he’s proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don’t know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
-__wisp__ _n_ :eight::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._  
+__wisp__ _n_ :eight: __1__ A thin, light, delicate, or fibrous piece or strand, such as a streak of smoke or a lock of hair. _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._ __2__ _Agriculture_ A small bundle, as of hay or straw. __3__ Anything slender and delicate: _a wisp of a girl._ __4__ A mere suggestion or hint. __5__ _Zoology_ A flock of birds, esp snipe.  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__ _n_ :two::hammer: _(Plants)_  
 __wistful__ _adj_ :five::dart::hammer:  
