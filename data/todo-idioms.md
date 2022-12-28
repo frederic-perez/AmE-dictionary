@@ -1,10 +1,13 @@
 __a blessing in disguise__  
+__a hell of a time__ A hell of a time is an expression used to describe a difficult or unpleasant task or situation. It can also be used to describe something that is very good or bad, depending on the context.  
 __a people person__  
 __add up__ _It doesn’t add up._  
 __affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
 __ahead of the curve__  
+__apeshit__  
 __artsy__  
 __at a moment’s notice__  
+__at the end of the day__  
 __at the ready__  
 __back to basics__  
 __backpedal__  
@@ -18,6 +21,7 @@ __bear in mind (that)__ To remember and consider something when making a decisio
 __bear with (someone or something)__  
 __behind the scenes__  
 __big fish__  
+__big time__  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bite the dust__ _Bite the dust, asteroid!_  
 __blow (one’s) mind__  
@@ -28,6 +32,7 @@ __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a br
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __brighten up (the) day__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
+__by any chance__ :dart: Used as a polite emphasis to a request or question. _Would you by any chance happen to know where the subway is from here?_  
 __by the same token__ In the same way.  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call the shots__  
@@ -38,6 +43,7 @@ __cautionary tale__
 __change of heart__  
 __check out__  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
+__chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __close call__ _n_  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
@@ -49,7 +55,7 @@ __day in and day out__
 __dead man walking__  
 __don’t get (one) started__  
 __down for (something)__  
-__down the road__  
+__down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
 __driving force__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
@@ -72,6 +78,7 @@ __for the sake of__ :two::hammer: _For the sake of clarity._
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __Friendsgiving__  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
+__funky__ _With that mix, things get funky._  
 __game changer__  
 __game plan__ :two::hammer:  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
@@ -80,6 +87,7 @@ __get (something) straight__ _Let’s get this straight._
 __get a grip__  
 __get bombed__ _slang_ To get very drunk. _After the long week I had, all I want to do is go to the bar and get bombed._  
 __get it off my chest__  
+__get out of town__  
 __get shut-eye__ _I’ll get some shut-eye._  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
 __get the best of me__  
@@ -99,7 +107,9 @@ __go the distance__
 __go vacant__ _Her eyes went vacant again._  
 __golden boy__  
 __good call__  
+__good for you__ A complimentary expression of encouragement for something that someone has done or received.  
 __goof up__  
+__goof__  
 __hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
@@ -112,6 +122,7 @@ __heavy lifting__
 __higgledy-piggledy__  
 __high and dry__  
 __hold (someone or something) back (from someone or something)__  
+__hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold a candle to__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __hulk out__  
@@ -187,12 +198,14 @@ __party pooper__
 __pass along__  
 __pave the way__  
 __pay (for something) up front__  
+__perfect storm__  
 __piece of shit__  
 __piping hot__  
 __play ball__ :two::hammer:  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
+__puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __put (one’s) finger on (something)__  
 __put (oneself) in (someone’s) shoes__  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
@@ -200,6 +213,7 @@ __put out fires__
 __put to the test__  
 __put up with__  
 __put up__  
+__rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __relief party__  
 __rest assured__  
@@ -229,6 +243,7 @@ __sick as a dog__
 __simply put__  
 __single out__  
 __skip town__  
+__sleep on (something)__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slippery slope__  
 __slow burner__  
@@ -244,6 +259,7 @@ __steely-eyed__ With or having a fierce intensity in one’s expression. _The te
 __step up__  
 __steppingstone__  
 __sticky fingers__  
+__stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __stow away__  
 __strike off__  
@@ -336,6 +352,7 @@ __throw an eye on (something)__ To inspect something casually and quickly but wi
 __throw hands__  
 __throw money at (someone or something)__  
 __throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
+__throwback__ A throwback is a sudden reminder of the past, usually in the form of something that evokes a strong emotional response. This could be a song from high school, an old photograph, a place from your childhood, or something else from your past. Throwbacks can be a great way to reconnect with memories and draw on nostalgia to create a sense of comfort and belonging.  
 __thumbs up__ _We have a thumbs up!_  
 __tick someone off__  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
