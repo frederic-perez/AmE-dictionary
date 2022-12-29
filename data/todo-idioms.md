@@ -1,4 +1,5 @@
 __a blessing in disguise__  
+__a fool’s game__  
 __a hell of a time__ A hell of a time is an expression used to describe a difficult or unpleasant task or situation. It can also be used to describe something that is very good or bad, depending on the context.  
 __a people person__  
 __add up__ _It doesn’t add up._  
@@ -31,6 +32,7 @@ __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, 
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __brighten up (the) day__  
+__burn the midnight oil__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by any chance__ :dart: Used as a polite emphasis to a request or question. _Would you by any chance happen to know where the subway is from here?_  
 __by the same token__ In the same way.  
@@ -44,6 +46,7 @@ __change of heart__
 __check out__  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
+__circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
 __close call__ _n_  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
@@ -57,6 +60,7 @@ __don’t get (one) started__
 __down for (something)__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
+__draw to a close__  
 __driving force__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__  
@@ -70,13 +74,16 @@ __fend off__
 __few and far between__  
 __fight the good fight__  
 __first and foremost__  
+__flat-earther__  
 __food baby__  
+__food coma__  
 __for all intents and purposes__  
 __for better or worse__ :three::hammer:  
 __for real__  
 __for the sake of__ :two::hammer: _For the sake of clarity._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __Friendsgiving__  
+__frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
 __funky__ _With that mix, things get funky._  
 __game changer__  
@@ -125,6 +132,7 @@ __hold (someone or something) back (from someone or something)__
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold a candle to__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
+__how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
 __hunky-dory__  
 __icky__  
@@ -138,6 +146,7 @@ __in spite of__
 __in the face of (something)__  
 __in the long term__  
 __in this day and age__  
+__Jekyll and Hyde__  
 __joy-joy feelings__  
 __keep pace__  
 __keep tabs on someone__  
@@ -160,6 +169,7 @@ __love (someone) to the moon (and back)__
 __mean the world to (one)__ :dart:  
 __meant to be__  
 __mess with (someone or something)__  
+__miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
 __missing link__  
 __mixed bag__  
 __more so__ To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
@@ -205,6 +215,7 @@ __play ball__ :two::hammer:
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
+__pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __put (one’s) finger on (something)__  
 __put (oneself) in (someone’s) shoes__  
@@ -277,6 +288,7 @@ __swept away__
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
+__tag along__  
 __take (great) pains (to do something)__  
 __take (one’s) pick__ To choose from among several options. Often used as an imperative in the phrase “take your pick.” _We’ve got 45 flavors. Vanilla, chocolate, bacon—take your pick._  
 __take (one) aback__  
@@ -388,6 +400,7 @@ __uncanny valley__
 __under one’s thumb__  
 __under the yolk__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
+__unsung hero__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
@@ -405,6 +418,7 @@ __water torture__
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
 __weather permitting__ :four::hammer: _Weather permitting, you can experience a spectacular view of the city below from atop this mountain._  
 __wee hours__  
+__weigh in__ __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __weigh on__  
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
