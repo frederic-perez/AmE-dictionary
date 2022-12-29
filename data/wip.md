@@ -8,6 +8,7 @@ __articulate__ _v_
 __awareness__ _n_  
 __belated__  
 __believe__ _v_ :mega:  
+__belittle__ _v tr_  
 __bemoan__ _v_  
 __billing__  
 __broaden__ _v_  
@@ -17,6 +18,7 @@ __catalyst__ _n_
 __catchphrase__ _n_  
 __cerebral palsy__  
 __chuckle__ _n_  
+__coddle__ _v_ __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
 __commissioned__ _adj_  
 __condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
 __confounding__ _adj_  
@@ -27,6 +29,7 @@ __crutch__ _n_
 __customary__ _adj_ /ˈkʌs təˌmɛr i/  
 __dagger__ _n_  
 __deceipt__ _n_ :mega:  
+__dehumanize__ _v tr_  
 __dingy__ _adj_ :mega:  
 __discipline__ _v_  
 __discount__ _v_  
@@ -40,6 +43,7 @@ __enthused__ _adj_
 __factoid__  
 __firm__ _adj_ _A firm closure._  
 __flummox__ _v tr_  
+__forest__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
 __frantic__  
 __fumble__ _v_  
 __gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
@@ -68,11 +72,14 @@ __mayhem__ _n_ /ˈmeɪ hɛm, ˈmeɪ əm/
 __measly__ _adj_ _All that abuse for a measly $20?_  
 __meekly__  
 __miasma__  
+__midday__ _n_ _Normalize midday naps._  
 __misuse__ _n_ _He had no history of alcohol misuse._  
+__Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
 __moped__ _n_  
 __mundane__  
 __mustard__ _n_ :mega:  
 __nick__ _n_ _In a nick of time._  
+__non-communicable disease__  
 __nonexistent__ _adj_  
 __nuclear family__ _n_  
 __Omaha__ _n_ :mega:  
@@ -112,6 +119,7 @@ __reductive__ _adj_
 __regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
 __remonstrate__ _v_  
 __replica__ _n_  
+__reptilian conspiracy theory__  
 __resolute__ _adj_ :two::hammer:  
 __retaliate__ _v_  
 __rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
@@ -162,6 +170,7 @@ __shrieking__ _adj, n_ _Shrieking panic._
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
 __side effect__  
 __sidestep__ _v_  
+__signage__ _n_ /ˈsaɪ nɪdʒ/  
 __signet ring__  
 __significant__ _adj_ :two::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._  
 __signify__ _v_  
@@ -259,6 +268,7 @@ __touch down__ _v_ _The jet touched down there yesterday._
 __tradeoff__ _n_ (trade-off)  
 __triad__ _n_  
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
+__tripledemic__ _n_  
 __tucked__ _v_  
 __tuft__ _n_  
 __tumuli__ _n pl_  
