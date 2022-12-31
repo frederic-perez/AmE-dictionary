@@ -1,3 +1,17 @@
+__boondoggle__ _n_ __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
+__cajole__ _v_ /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
+__capstone__ _n_  
+__Christmas stocking__ _n_ A stocking hung up by children on Christmas Eve for Santa Claus to fill with presents.  
+__daycation__ _n_ A day trip to a resort, hotel, etc that does not involve staying the night.  
+__discomfit__ _v_ To make uneasy or perplexed; disconcert. _Syn_ discompose, untune, upset, disconcert  
+__esculent__ _adj_ Suitable for eating; edible.  
+__espouse__ _v_ /ih-SPOWZ/ __1__ Espouse is a formal word that means “to take up and support as a cause.” _The new theory has been espoused by many leading physicists._ __2__ It can also mean “to marry someone.”  
+__eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (well, good) + noos (mind, spirit). Eunoia is the shortest word in English with all five vowels.] __1__ A feeling of goodwill. __2__ A state of good mental health.  
+__halcyon__ _adj_ /HAL-see-un/ Hallcyon is most often used to describe a happy and successful time in the past that is remembered as being better than today. It can also mean “calm, peaceful” or “prosperous, affluent.” _She’s relieved to be retired, but looks back fondly on the halcyon years of her career._  
+__hireling__ _n_ _derogatory_ A person who works only for pay, esp. in a menial or boring job, with little or no concern for the value of the work. _The hireling said he would be willing to clean out the cesspool-for the right price._  
+__holistay__ _n_ The British English version of _staycation_.  
+__imputable__ _adj_ Possible to impute or ascribe; attributable. _Syn_ ascribable, due to, referable _The oversight was not imputable to him because he was on vacation when it occurred._  
+__lodestar__ _n_ (loadstar) __1__ A star, such as Polaris, that is used as a point of navigational reference. __2__ A principle, interest, or person that serves as a guide. _The new arts district became a lodestar for the city’s bright future._  
 __middle school__ _n_  
 __middleware__ _n_ :two::hammer:  
 __midget race track__  
@@ -102,6 +116,7 @@ __nascent__
 __nativity__ _n_  
 __naughty__ _adj, n_ :mega:  
 __Neapolitan__ _adj, n_ :two::pencil2:  
+__nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
 __nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necklace__ _n_ :two::hammer:  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
@@ -458,6 +473,7 @@ __poutine__
 __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
 __power-cycle__ _v_  
 __powermark__ _n_  
+__prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
 __preconception__ _n_  
 __predate__ _v_ _This standard predates the emergence of smartphones._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
@@ -794,6 +810,7 @@ __scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvag
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
 __scratching__ _n_  
+__scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
@@ -1157,6 +1174,7 @@ __sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __super-duper__  
 __supercalifragilisticexpialidocious__ _adj_ Used as a nonsense word by children to express approval or to represent the longest word in English.  
+__supercilious__  
 __superintendent__  
 __superlative__ _adj_ _Superlative works._  
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
@@ -1407,6 +1425,7 @@ __unabashed__ _adj_ :four::hammer: /un-uh-BASHT/ _Unabashed humor._
 __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
 __unapologetic__ _adj_  
 __unassuming__ _adj_  
+__uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
 __uncouth__  
 __undemosaick__ _v_ _Undemosaicked pixels._  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
@@ -1625,6 +1644,7 @@ __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._
 __Yggdrasil__ _n_  
 __yogurt__ _n_ :two::hammer: (yoghourt)  
 __Yom Kippur__ _n_ (Judaism) A holy day observed on the tenth day of Tishri and marked by fasting and prayer for the atonement of sins. Also called _Day of Atonement._  
+__yule log__ _n_  
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
