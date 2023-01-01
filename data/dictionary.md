@@ -3,7 +3,7 @@ __-centric__ _suffix_ :three::hammer: _Host-centric._ _Service-centric._ _User-c
 __-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
 __-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
 __-esis__ _suffix_ Combining form meaning condition, action, or process.  
-__-esque__ _suffix_ :five: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-esque__ _suffix_ :six: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
 __-fold__ _suffix_ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __-itis__ _suffix_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
@@ -41,7 +41,7 @@ __abalone__ _n_ :two::hammer:
 __abandon__ _n_ :two::astonished: /uh-BAN-dun/ Abandon means “a feeling or attitude of wild or complete freedom,” and is often used synonymously with enthusiasm and exuberance. It also appears in the phrase _with reckless abandon_ to describe something done without fear or concern for consequences. Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._ _In an act of reckless abandon, she quit her job and moved to Tahiti._  
 __abase__ _v_ _To abase a King and leave him on the throne has its dangers._  
 __abasement__ _n_  
-__abashed__ _adj_ :four: Ill at ease, embarrassed, or confused; ashamed.  
+__abashed__ _adj_ :five: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
 __abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
@@ -402,7 +402,7 @@ __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Sy
 __alley-oop__ _n_  
 __allies__ _n_  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
-__alliteration__ _n_ Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
+__alliteration__ _n_ :two: Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
 __allot__ _v_  
@@ -414,6 +414,8 @@ __alloy<sup>1</sup>__ _n_
 __alloy<sup>2</sup>__ _v_ :two::dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
 __allude__ _v_  
 __allusion__ _n_ :two: Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
+__ally<sup>1</sup>__ _n_ /ˈæl aɪ, əˈlaɪ/  
+__ally<sup>2</sup>__ _v_ /əˈlaɪ/  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ _adj, n_ :two::mega::mute:[a~~l~~mond]:hammer:  
@@ -636,7 +638,7 @@ __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demandin
 __apnea__ _n_ :two: Temporary cessation of breathing.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
-__apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
+__apologetic__ _adj_ :six: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
@@ -677,9 +679,9 @@ __appraisingly__
 __appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_  
-__apprehension__ _n_ :three::pencil2::hammer:  
+__apprehension__ _n_ :four::pencil2::hammer:  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
-__apprentice<sup>1</sup>__ _n_  
+__apprentice<sup>1</sup>__ _n_ :two::hammer:  
 __apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
@@ -763,12 +765,13 @@ __arrive__ _v_ _He arrived in England in April 1376._
 __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __arrowroot__  
 __arson__ _n_  
+__artefact__  
 __Artemis__ _n_ :mega:  
 __artery__ _n_ :mega:  
 __artful__  
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :five: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
-__articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
+__articulate<sup>2</sup>__ _v_ :seven::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
@@ -916,7 +919,7 @@ __auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
 __audacious__ _adj_ :two::hammer: _In size it was the most audacious._  
-__audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__audacity__ _n_ :three: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
@@ -970,6 +973,7 @@ __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admissi
 __avuncular__ _adj_ :six: /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful. _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
 __await__ _v_ _Our staff awaits your arrival._  
 __awakening__ _n_  
+__awareness__ _n_  
 __awash__ _adj, adv_ :nine::m: /əˈwɒʃ, əˈwɔʃ/ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
@@ -1199,7 +1203,7 @@ __baseline__ _n_ _We can permanently raise our happiness baseline._
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_ :two::hammer:  
-__bashful__  
+__bashful__ _adj_ :two::hammer:  
 __basically__ _adj_ :mega: /ˈbeɪsɪklɪ/  
 __basil__ _n_ :es: albahaca  
 __basin__ _n_ :two::hammer:  
@@ -1335,7 +1339,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
-__belated__ _adj_ _A belated shoutout to Dave for his recent contribution to the museum._  
+__belated__ _adj_ :two::hammer: _A belated shoutout to Dave for his recent contribution to the museum._  
 __belatedly__ _adv_ :five::hammer:  
 __belch<sup>1</sup>__ _v_ :three::hammer: _Smoke belched._ _Steam belches from the nuclear power plant._  
 __belch<sup>2</sup>__ _n_  
@@ -1344,6 +1348,7 @@ __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __Belial__ _n_  
 __belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__believe__ _v_ :mega:  
 __believer__ _n_ :mega:  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  

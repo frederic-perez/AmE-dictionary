@@ -1,18 +1,3 @@
-__-esque__  
-__abashed__ _adj_ Ill at ease, embarrassed, or confused; ashamed.  
-__alliteration__ _n_  
-__ally<sup>1</sup>__ _n_ /ˈæl aɪ, əˈlaɪ/  
-__ally<sup>2</sup>__ _v_ /əˈlaɪ/  
-__apologetic__ _adj_  
-__apprehension__ _n_  
-__apprentice__  
-__artefact__  
-__articulate__ _v_  
-__audacity__ _n_ /ɔˈdæs ɪ ti/  
-__awareness__ _n_  
-__bashful__ _adj_  
-__belated__  
-__believe__ _v_ :mega:  
 __belittle__ _v tr_  
 __bemoan__ _v_  
 __billing__  
