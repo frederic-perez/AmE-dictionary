@@ -1,11 +1,16 @@
 __-esque__  
+__abashed__ _adj_ Ill at ease, embarrassed, or confused; ashamed.  
 __alliteration__ _n_  
+__ally<sup>1</sup>__ _n_ /ˈæl aɪ, əˈlaɪ/  
+__ally<sup>2</sup>__ _v_ /əˈlaɪ/  
 __apologetic__ _adj_  
 __apprehension__ _n_  
 __apprentice__  
 __artefact__  
 __articulate__ _v_  
+__audacity__ _n_ /ɔˈdæs ɪ ti/  
 __awareness__ _n_  
+__bashful__ _adj_  
 __belated__  
 __believe__ _v_ :mega:  
 __belittle__ _v tr_  
@@ -18,8 +23,11 @@ __catalyst__ _n_
 __catchphrase__ _n_  
 __cerebral palsy__  
 __chuckle__ _n_  
+__clenched__ _adj_ Closed or squeezed together tightly. _A clenched fist._ _His clenched (or clinched) teeth._  
+__cloud__ _v_  
 __coddle__ _v_ __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
 __commissioned__ _adj_  
+__compound__ _n_ __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
 __condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
 __confounding__ _adj_  
 __contact__ _n_ __6__ A contact lens. _We wear contacts._  
@@ -33,6 +41,7 @@ __dehumanize__ _v tr_
 __dingy__ _adj_ :mega:  
 __discipline__ _v_  
 __discount__ _v_  
+__disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
 __downside__ _n_ _Working from home has its upsides as well as downsides._  
 __dwell__ _v_  
 __eerie__ _adj_ (eery) _Eerie incidents._  
@@ -44,13 +53,16 @@ __factoid__
 __firm__ _adj_ _A firm closure._  
 __flummox__ _v tr_  
 __forest__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
-__frantic__  
+__frantic__ _adj_ :two::hammer:  
+__free will__ _n_  
 __fumble__ _v_  
 __gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
 __gathering__ _n_ _Family gathering._  
 __gracious__ _adj_  
 __green beret__  
 __hamper__ _v_  
+__hatred__ _n_ /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
+__headstrong__ _adj_  
 __hermit__ _n_ :mega:  
 __homicide__  
 __household__ _n_  
@@ -98,13 +110,16 @@ __pinpoint<sup>3</sup>__ _adj_
 __plunder__  
 __pointless__  
 __post hoc__  
+__preen__ _v_ __3__ (usually foll by _on_) To pride or congratulate (oneself).  
 __prevail__  
 __puffer__ _n_  
 __rainforest__ _n_  
+__ramble__ _v_ __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
 __rampage__  
 __ratlines__  
 __ratoon__ _n_  
 __raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
+__ravine__ _n_  
 __readily__  
 __ready room__  
 __realization__ _n_ (something like _noticing_)  
@@ -120,7 +135,8 @@ __regulatory body__ _n_ (regulatory agency, regulator, independent agency, indep
 __remonstrate__ _v_  
 __replica__ _n_  
 __reptilian conspiracy theory__  
-__resolute__ _adj_ :two::hammer:  
+__resolute__ _adj_ :three::hammer:  
+__resplendent__ _adj_ Splendid or dazzling in appearance; brilliant.  
 __retaliate__ _v_  
 __rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
 __ridiculous__ _adj_ :mega:  
@@ -266,6 +282,7 @@ __titled__ _adj_ :three::hammer:
 __tormentor__  
 __touch down__ _v_ _The jet touched down there yesterday._  
 __tradeoff__ _n_ (trade-off)  
+__trance__ _n_ /trɑːns/  
 __triad__ _n_  
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __tripledemic__ _n_  
@@ -279,8 +296,9 @@ __undercurrent__ _n_ :two::hammer:
 __underlying__ _adj_ _The underlying software stack._  
 __underpin__  
 __undertake__ _v_  
+__undoing__ _n_ /ʌnˈdu ɪŋ/  
 __unduly__ _adv_  
-__unfazed__ _adj_  
+__unfazed__ _adj_ :two: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __ungainly__  
 __unleash__ _v_  
 __unwell__ _adj_  
