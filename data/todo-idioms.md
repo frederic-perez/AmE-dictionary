@@ -1,18 +1,3 @@
-__a blessing in disguise__  
-__a fool’s game__  
-__a hell of a time__ A hell of a time is an expression used to describe a difficult or unpleasant task or situation. It can also be used to describe something that is very good or bad, depending on the context.  
-__a people person__  
-__add up__ _It doesn’t add up._  
-__affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
-__ahead of the curve__  
-__apeshit__  
-__artsy__  
-__at a moment’s notice__  
-__at the end of the day__  
-__at the ready__  
-__back to basics__  
-__backpedal__  
-__ball-buster__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
 __be at odds with__  
@@ -135,6 +120,7 @@ __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Ho
 __how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
 __hunky-dory__  
+__I can imagine__ :two::hammer:  
 __icky__  
 __in (a) shambles__  
 __in (the) light of (something)__  
