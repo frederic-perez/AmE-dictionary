@@ -1,3 +1,6 @@
+__analemma__ _n_  
+__baby formula__ _n_ :two::hammer:  
+__baffled__  
 __belittle__ _v tr_  
 __bemoan__ _v_  
 __billing__  
@@ -10,8 +13,10 @@ __cerebral palsy__
 __chuckle__ _n_  
 __clenched__ _adj_ Closed or squeezed together tightly. _A clenched fist._ _His clenched (or clinched) teeth._  
 __cloud__ _v_  
+__clutches__ _n_ _The clutches of the Federation._  
 __coddle__ _v_ __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
 __commissioned__ _adj_  
+__compel__ _v_  
 __compound__ _n_ __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
 __condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
 __confounding__ _adj_  
@@ -22,11 +27,14 @@ __crutch__ _n_
 __customary__ _adj_ /ˈkʌs təˌmɛr i/  
 __dagger__ _n_  
 __deceipt__ _n_ :mega:  
+__deflate__  
 __dehumanize__ _v tr_  
 __dingy__ _adj_ :mega:  
+__dis__ _v_  
 __discipline__ _v_  
 __discount__ _v_  
 __disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
+__disheartening__ _adj_ Making one feel disappointed and less confident or less hopeful.  
 __downside__ _n_ _Working from home has its upsides as well as downsides._  
 __dwell__ _v_  
 __eerie__ _adj_ (eery) _Eerie incidents._  
@@ -36,23 +44,30 @@ __engaged__ _adj_ (to marry)
 __enthused__ _adj_  
 __factoid__  
 __firm__ _adj_ _A firm closure._  
+__flare__ _v_ _Alarms flaring._  
+__flashy__  
 __flummox__ _v tr_  
 __forest__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
 __frantic__ _adj_ :two::hammer:  
 __free will__ _n_  
+__front__ _n_  
 __fumble__ _v_  
 __gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
 __gathering__ _n_ _Family gathering._  
 __gracious__ _adj_  
 __green beret__  
+__guinea pig__ _n_ :mega:  
 __hamper__ _v_  
 __hatred__ _n_ /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
 __headstrong__ _adj_  
 __hermit__ _n_ :mega:  
+__highlight__ _v_  
 __homicide__  
 __household__ _n_  
 __identical twin__ _n_ Either of two twins developed from the same fertilized ovum (having the same genetic material).  
 __impetus__  
+__ingrain__ _v_  
+__invest__ _v_ (invested)  
 __jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jigsaw__ _n_ (power tool, not puzzle)  
 __Kevin__ _n_ /ˈkɛvɪn/  
@@ -83,8 +98,11 @@ __Omaha__ _n_ :mega:
 __open-label trial__ _n_  
 __opinionated__ _adj_ :two: Holding obstinately and unreasonably to one’s own opinions; dogmatic.  
 __outcropping__ _n_  
+__oversight__ _n_  
+__overstated__  
 __pace__ _v_  
 __palette__ _n_ :mega:  
+__paragon__ _n_  
 __patronize__ _v_  
 __peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __pick__ _v_  
@@ -96,10 +114,12 @@ __plunder__
 __pointless__  
 __post hoc__  
 __preen__ _v_ __3__ (usually foll by _on_) To pride or congratulate (oneself).  
+__press release__ _n_  
 __prevail__  
 __puffer__ _n_  
+__purge__  
 __rainforest__ _n_  
-__ramble__ _v_ __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
+__ramble__ _v_ :two: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
 __rampage__  
 __ratlines__  
 __ratoon__ _n_  
@@ -117,7 +137,9 @@ __redemption__ _n_ :mega:
 __redhead__ _n_ :pencil2:  
 __reductive__ _adj_  
 __regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
+__relatable__ _adj_  
 __remonstrate__ _v_  
+__renew__ _v_  
 __replica__ _n_  
 __reptilian conspiracy theory__  
 __resolute__ _adj_ :three::hammer:  
@@ -157,6 +179,7 @@ __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _
 __self-serving__ _adj_  
 __semblance__ _n_ _The semblance of peace._  
 __senate__ _n_ :mega:  
+__sentient__ _adj_  
 __setback__ _n_  
 __sextant__  
 __sharp__ _adj_ _He’s a sharp guy._  
@@ -170,6 +193,7 @@ __showrunner__ _n_ A person who has creative control over a broadcast series, as
 __shrieking__ _adj, n_ _Shrieking panic._  
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
 __side effect__  
+__sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidestep__ _v_  
 __signage__ _n_ /ˈsaɪ nɪdʒ/  
 __signet ring__  
@@ -184,6 +208,7 @@ __slither__ _v_ :two::hammer:
 __slog__ _n, v_ :two::hammer:  
 __sloshing__  
 __sloughing__ _v_  
+__smother__ _v_ _Smothering us._  
 __snigger__ _v_  
 __snippy__  
 __snoring__  
@@ -196,6 +221,7 @@ __soft-spoken__ _adj_
 __solely__ _adv_  
 __soubriquet__ _n_  
 __spatiotemporal__ _adj_  
+__speak up__  
 __specialty__ _n_  
 __spectable__ _n_ :two::mega::hammer:  
 __spectra__ _n pl_  
@@ -212,6 +238,7 @@ __spud__ _n_ __1__ _informal_ A potato.
 __stabby__ _adj_  
 __stampede__  
 __stanchion__  
+__stark__ _adj_ __1__ Clearly distinguished or delineated: _a stark contrast._  
 __stasis__ _n_  
 __station__ _n_ _We can maintain station._  
 __statuary__ _n_  
@@ -220,12 +247,14 @@ __stern__ _n_ _The ship’s stern._
 __stifle__ _v tr_  
 __stoma__ _n_  
 __stooped__ _v_  
+__streak__ _n_ _A hot streak._  
 __strengthen__ _v_  
 __strike warfare__  
 __stringent__ _adj_ :three::hammer: _Stringent challenges._  
 __strip__ _v_ _Data striped across different storage nodes._  
 __stud__ _n_  
 __stymie__ _v_  
+__sub__ _n_ Subscriber.  
 __subpoena__ _v_ Put the screws to someone.  
 __subsequent__  
 __subsequently__ _adv_ Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
@@ -234,6 +263,7 @@ __supersede__ _v tr_ /ˌsu pərˈsid/
 __suricate__ _n_  
 __surreptiously__  
 __surveyor__ _n_  
+__sway__ _v_ _Swayed to the Dark Side._  
 __swell__ _n_  
 __swoop__ _n_  
 __sword__ _n_ :mega:  
@@ -265,12 +295,14 @@ __tine__ _n_
 __tinker__ _v_  
 __titled__ _adj_ :three::hammer:  
 __tormentor__  
+__torn__ _v_  
 __touch down__ _v_ _The jet touched down there yesterday._  
 __tradeoff__ _n_ (trade-off)  
 __trance__ _n_ /trɑːns/  
 __triad__ _n_  
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __tripledemic__ _n_  
+__trippy__ _adj_ _It’s trippy and dark._  
 __tucked__ _v_  
 __tuft__ _n_  
 __tumuli__ _n pl_  
@@ -290,6 +322,7 @@ __unwell__ _adj_
 __upside__ _n_ _Working from home has its upsides as well as downsides._  
 __urbanites__  
 __usher__ _v_ :two::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
+__utter__ _adj_ _Utter darkness._  
 __uvula__ _n_ :es: úvula, campanilla  
 __vacate__ _v_  
 __vagary__ _n_ _The vagaries of nature._  
@@ -297,6 +330,7 @@ __validate__ _v_
 __vamp__ _n_  
 __vaunted__ _adj_ _His vaunted years of experience._  
 __vector__ _v tr_ _He vectored toward the tanker waiting for him._  
+__vent__ _v_  
 __vocal__ _adj_  
 __voice__ _v_ :dart: _He was voicing his thoughts aloud._  
 __walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
