@@ -1,3 +1,8 @@
+__(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
+__800-pound gorilla__ [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)]A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
+__a badge of honor__  
+__Achilles’ heel__  
+__all over the place__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
 __be at odds with__  
@@ -5,12 +10,15 @@ __be held in high regard__ To be regarded with a large amount of respect or admi
 __bear hug__  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __bear with (someone or something)__  
+__beg the question__  
+__behind the curtain__  
 __behind the scenes__  
 __big fish__  
 __big time__  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bite the dust__ _Bite the dust, asteroid!_  
 __blow (one’s) mind__  
+__blue collar__ _Blue collar job._  
 __boiling frog__  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
@@ -18,13 +26,17 @@ __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a br
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __brighten up (the) day__  
 __burn the midnight oil__  
+__burst at the seams__  
+__burst through (something)__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by any chance__ :dart: Used as a polite emphasis to a request or question. _Would you by any chance happen to know where the subway is from here?_  
+__by the balls__  
 __by the same token__ In the same way.  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call the shots__  
 __carry the ball__  
 __cast/shed/throw light on something__ :two::hammer:  
+__cat and mouse__  
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
 __cautionary tale__  
 __change of heart__  
@@ -33,25 +45,37 @@ __chug__ _v_ [for one person] To drink something, usually beer, quickly and in l
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
 __close call__ _n_  
+__close in__  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
 __come to terms__  
+__cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
 __crash course__  
+__crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
+__cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __cut from the same cloth__  
 __dark joke__  
+__darkest hour__  
+__day and age__  
 __day in and day out__  
 __dead man walking__  
+__devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __don’t get (one) started__  
 __down for (something)__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
 __draw to a close__  
+__drivers seat__  
 __driving force__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__  
 __easy peasy__  
 __end of one’s rope__  
+__even more so__  
+__every so often__  
 __everything under the sun__  
+__face value__  
+__fall short of__  
 __fall short__  
 __false alarm__  
 __fan service__  
@@ -59,14 +83,19 @@ __fend off__
 __few and far between__  
 __fight the good fight__  
 __first and foremost__  
+__first things first__  
+__flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
 __flat-earther__  
+__flesh out__  
 __food baby__  
 __food coma__  
 __for all intents and purposes__  
-__for better or worse__ :three::hammer:  
+__for better or worse__ :four::hammer:  
 __for real__  
 __for the sake of__ :two::hammer: _For the sake of clarity._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
+__fourth wall__ The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
+__fox’s sleep__ A state of apparent sleep (or feigned indifference) in which someone is actually aware of everything going on around them. Alludes to the idea that foxes sleep with one eye open and thus are always at the ready. _I think Amy is just in a fox’s sleep, so be careful what you say right now._  
 __Friendsgiving__  
 __frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
@@ -88,6 +117,7 @@ __get the hang of something__
 __get your shit together__  
 __give in__ _Give in to our fears._  
 __gloss over (something)__  
+__go a long way__  
 __go apeshit__  
 __go berserk__  
 __go downhill__  
@@ -113,24 +143,32 @@ __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure t
 __heavy lifting__  
 __higgledy-piggledy__  
 __high and dry__  
+__hit home__  
+__hold (one’s) breath__  
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold a candle to__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
+__hunker down__  
 __hunky-dory__  
 __I can imagine__ :two::hammer:  
+__I saw what you did there__  
 __icky__  
 __in (a) shambles__  
 __in (the) light of (something)__  
 __in a big bad way__  
 __in a heartbeat__  
+__in any way, shape, or form__  
 __in hindsight__  
 __in perfect harmony__  
 __in spite of__  
+__in the (very) nick of time__  
 __in the face of (something)__  
+__in the gutter__  
 __in the long term__  
+__in the public eye__  
 __in this day and age__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
@@ -212,6 +250,7 @@ __put up with__
 __put up__  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
+__red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
 __relief party__  
 __rest assured__  
 __rest on her laurels__  
@@ -226,11 +265,13 @@ __rub elbows__
 __rub out__  
 __rubber stamp__  
 __run the show__  
+__run with it__  
 __running bit__  
 __save face__  
 __save the day__ :two::hammer:  
 __second-class citizen__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
+__send (one’s) love to (someone)__  
 __send off__  
 __set the bar__  
 __shape up__  
@@ -254,11 +295,14 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stand to reason__ Be clear to all sensible people.  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step up__  
+__stepping stone__  
 __steppingstone__  
 __sticky fingers__  
 __stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
+__story arc__  
 __stow away__  
+__strike a chord__  
 __strike off__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
@@ -267,6 +311,7 @@ __sugar daddy__
 __sugar mommy__  
 __sum up__ _Summing up, we can say that yadda yadda yadda._  
 __Sunday scaries__  
+__surprise, surprise__  
 __sweep (one) off (one’s) feet__  
 __sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
@@ -303,8 +348,7 @@ __talk turkey__ To discuss something in a frank, straightforward, and serious ma
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :three::hammer:  
-__tap into (something)__  
-__tap into__ :two::hammer: _Tap into the dark side of the Force._  
+__tap into (something)__ :three::hammer: _Tap into the dark side of the Force._  
 __teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
@@ -379,6 +423,7 @@ __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._
 __trigger__  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn the tables__  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __twofer__  
@@ -444,6 +489,7 @@ __without further ado__
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__ :two::hammer:  
+__work (one’s) ass off__  
 __work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
