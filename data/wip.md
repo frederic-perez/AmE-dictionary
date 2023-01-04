@@ -1,6 +1,11 @@
+__array__ _n_ :mega:  
+__banter__ _n_  
+__bedrock__ _n_  
 __clutches__ _n_ _The clutches of the Federation._  
 __coddle__ _v_ __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
+__codeine__  
 __commissioned__ _adj_  
+__compartmentalize__ _v_ :two::hammer:  
 __compel__ _v_  
 __compound__ _n_ __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
 __condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
@@ -14,12 +19,14 @@ __dagger__ _n_
 __deceipt__ _n_ :mega:  
 __deflate__  
 __dehumanize__ _v tr_  
+__demonize__ _v_  
 __dingy__ _adj_ :mega:  
 __dis__ _v_  
 __discipline__ _v_  
 __discount__ _v_  
 __disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
 __disheartening__ _adj_ Making one feel disappointed and less confident or less hopeful.  
+__dopamine__  
 __downside__ _n_ _Working from home has its upsides as well as downsides._  
 __dwell__ _v_  
 __eerie__ _adj_ (eery) _Eerie incidents._  
@@ -27,21 +34,29 @@ __egotistical__ _adj_
 __embark__  
 __engaged__ _adj_ (to marry)  
 __enthused__ _adj_  
+__entitled__ _adj_ :two::hammer:  
+__exam__ _n_ :mega:  
 __factoid__  
+__fastidious__  
 __firm__ _adj_ _A firm closure._  
 __flare__ _v_ _Alarms flaring._  
 __flashy__  
+__floodgate__ _n_  
 __flummox__ _v tr_  
 __forest__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
+__foster care__  
 __frantic__ _adj_ :two::hammer:  
 __free will__ _n_  
 __front__ _n_  
 __fumble__ _v_  
 __gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
 __gathering__ _n_ _Family gathering._  
+__gist__ _n_ :mega:  
+__godsend__ _n_  
 __gracious__ _adj_  
 __green beret__  
 __guinea pig__ _n_ :mega:  
+__hallelujah__ _n_ :pencil2:  
 __hamper__ _v_  
 __hatred__ _n_ /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
 __headstrong__ _adj_  
@@ -49,22 +64,29 @@ __hermit__ _n_ :mega:
 __highlight__ _v_  
 __homicide__  
 __household__ _n_  
+__icicle__ _n_ :es: carámbano  
 __identical twin__ _n_ Either of two twins developed from the same fertilized ovum (having the same genetic material).  
 __impetus__  
+__implode__ _v_  
 __ingrain__ _v_  
 __invest__ _v_ (invested)  
+__iterative__ _adj_ :mega: /ˈɪt əˌreɪ tɪv, -ər ə tɪv/  
 __jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jigsaw__ _n_ (power tool, not puzzle)  
+__Kendall__ _n_ /ˈkɛndəl/  
 __Kevin__ _n_ /ˈkɛvɪn/  
 __kiddo__  
 __lamest__ _adj_ (from _lame_)  
 __layman__  
 __legwork__  
 __levelheaded__ _adj_  
+__lever__ _n_  
 __living space__  
 __lodging__ _n_  
 __lull__ _v_ :mega:  
 __madness__ _n_ :mega: /ˈmæd nɪs/ _This is madness._  
+__mania__  
+__mantra__ _n_  
 __mayhem__ _n_ /ˈmeɪ hɛm, ˈmeɪ əm/  
 __measly__ _adj_ _All that abuse for a measly $20?_  
 __meekly__  
@@ -72,9 +94,11 @@ __miasma__
 __midday__ _n_ _Normalize midday naps._  
 __misuse__ _n_ _He had no history of alcohol misuse._  
 __Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
+__molasses__ _n_  
 __moped__ _n_  
 __mundane__  
 __mustard__ _n_ :mega:  
+__nibbles__ _n_ :two::hammer:  
 __nick__ _n_ _In a nick of time._  
 __non-communicable disease__  
 __nonexistent__ _adj_  
@@ -83,6 +107,8 @@ __Omaha__ _n_ :mega:
 __open-label trial__ _n_  
 __opinionated__ _adj_ :two: Holding obstinately and unreasonably to one’s own opinions; dogmatic.  
 __outcropping__ _n_  
+__overlook__ _v_  
+__oversee__ _v_  
 __oversight__ _n_  
 __overstated__  
 __pace__ _v_  
@@ -97,6 +123,7 @@ __pinpoint<sup>2</sup>__ _n_
 __pinpoint<sup>3</sup>__ _adj_  
 __plunder__  
 __pointless__  
+__posit__ _v_ (posited)  
 __post hoc__  
 __preen__ _v_ __3__ (usually foll by _on_) To pride or congratulate (oneself).  
 __press release__ _n_  
@@ -122,7 +149,7 @@ __redemption__ _n_ :mega:
 __redhead__ _n_ :pencil2:  
 __reductive__ _adj_  
 __regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
-__relatable__ _adj_  
+__relatable__ _adj_ :two::hammer:  
 __remonstrate__ _v_  
 __renew__ _v_  
 __replica__ _n_  
@@ -146,6 +173,7 @@ __rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._
 __rustle<sup>2</sup>__ _v_ _A rustling sound._  
 __rutted__  
 __safeguard__ _v_  
+__saga__ _n_ :mega:  
 __sagittal__  
 __Sagittarian__  
 __sailer__ _n_ :pencil2:  
@@ -154,11 +182,13 @@ __saponify__ _v_
 __schooled__ _v_ _She schooled her face into careful neutrality._  
 __schooner__ _n_  
 __scrub out__ _v_  
+__scrutiny__ _n_ :dart:  
 __scurvy__  
 __seacock__ _n_ :two::hammer:  
 __seamlessly__ _n_  
 __secret__ _v_  
 __seek__ _v_ (sought)  
+__seethe__ _v_ _Seething with jealousy._  
 __seldom__ _adj, adv_ :two::hammer:  
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
 __self-serving__ _adj_  
@@ -200,6 +230,7 @@ __snoring__
 __snorkel__ _v intr_  
 __snort__ _v_  
 __snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
+__soapbox__ _n_  
 __sodding__  
 __sodium amytal__  
 __soft-spoken__ _adj_  
@@ -267,6 +298,7 @@ __tarpaulin__ _n_ :two::hammer:
 __tedium__ _n_  
 __tenure-track__ _adj_  
 __testbed__ _n_ :two::hammer:  
+__thang__ _n slang_  
 __thereby__  
 __thermostats__  
 __thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
@@ -293,6 +325,7 @@ __tuft__ _n_
 __tumuli__ _n pl_  
 __twitch__ _v_ _A curtain twitched in the house next door._  
 __ultimatum__ _n_ :mega:  
+__unapologetic__  
 __unbidden__  
 __undercurrent__ _n_ :two::hammer:  
 __underlying__ _adj_ _The underlying software stack._  
@@ -304,6 +337,7 @@ __unfazed__ _adj_ :two: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her critic
 __ungainly__  
 __unleash__ _v_  
 __unwell__ _adj_  
+__upset__ _n_ :mega:  
 __upside__ _n_ _Working from home has its upsides as well as downsides._  
 __urbanites__  
 __usher__ _v_ :two::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
@@ -318,6 +352,7 @@ __vector__ _v tr_ _He vectored toward the tanker waiting for him._
 __vent__ _v_  
 __vocal__ _adj_  
 __voice__ _v_ :dart: _He was voicing his thoughts aloud._  
+__wail__ _n_  
 __walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
 __wallow__ _v_ :two::hammer: _Don’t wallow in despair._  
 __wanderlust__  
