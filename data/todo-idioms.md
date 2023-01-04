@@ -2,6 +2,7 @@ __(from) cover to cover__ Of a printed work, in its entirety from beginning to e
 __800-pound gorilla__ [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)]A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a badge of honor__  
 __Achilles’ heel__  
+__akin to (something)__  
 __all over the place__  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
@@ -41,6 +42,7 @@ __cat’s-paw__ A person who is used by another to achieve some end, especially 
 __cautionary tale__  
 __change of heart__  
 __check out__  
+__chip away__ :three::hammer:  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
@@ -53,6 +55,7 @@ __cool customer__ :dart: Someone who remains even-tempered, especially in stress
 __crash course__  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
+__cut and dry__  
 __cut from the same cloth__  
 __dark joke__  
 __darkest hour__  
@@ -61,9 +64,11 @@ __day in and day out__
 __dead man walking__  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __don’t get (one) started__  
+__double down__  
 __down for (something)__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
+__draw a line in the sand__  
 __draw to a close__  
 __drivers seat__  
 __driving force__  
@@ -71,22 +76,25 @@ __dud__ :astonished: __1__ Something that does not work as intended, is ineffect
 __duke it out__  
 __easy peasy__  
 __end of one’s rope__  
-__even more so__  
+__even more so__ :two::hammer:  
 __every so often__  
 __everything under the sun__  
 __face value__  
+__fall off the wagon__  
 __fall short of__  
 __fall short__  
 __false alarm__  
 __fan service__  
+__faux pass__  
 __fend off__  
 __few and far between__  
 __fight the good fight__  
 __first and foremost__  
-__first things first__  
+__first things first__ :two::hammer:  
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
 __flat-earther__  
 __flesh out__  
+__fly on the wall__  
 __food baby__  
 __food coma__  
 __for all intents and purposes__  
@@ -115,6 +123,7 @@ __get the best of me__
 __get the edge__  
 __get the hang of something__  
 __get your shit together__  
+__give (one) a pass__  
 __give in__ _Give in to our fears._  
 __gloss over (something)__  
 __go a long way__  
@@ -138,6 +147,7 @@ __have a heart of glass__ To have or be in a state of extreme emotional fragilit
 __have a trick up (one’s) sleeve__  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __head and shoulders__  
+__head-spinning__ :two: Incredible, overwhelming.  
 __heads up__ _Thanks for giving me the heads up._  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __heavy lifting__  
@@ -156,12 +166,13 @@ __hunky-dory__
 __I can imagine__ :two::hammer:  
 __I saw what you did there__  
 __icky__  
-__in (a) shambles__  
+__in (a) shambles__ :two::hammer:  
 __in (the) light of (something)__  
 __in a big bad way__  
 __in a heartbeat__  
 __in any way, shape, or form__  
 __in hindsight__  
+__in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
 __in spite of__  
 __in the (very) nick of time__  
@@ -176,6 +187,7 @@ __keep pace__
 __keep tabs on someone__  
 __keep tabs on__  
 __keep tabs__  
+__kick ass__  
 __kindred spirit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __land on (one’s) feet__  
@@ -186,6 +198,7 @@ __let alone__
 __let down__  
 __lie ahead of (someone or something)__  
 __line of work__  
+__living proof__ :two::hammer:  
 __lost cause__  
 __lost for words__ (at a loss for words)  
 __lost on me__ _It is not lost on me._  
@@ -202,6 +215,7 @@ __mother lode__
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
 __naked eye__ _With the naked eye._  
+__name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __night and day__  
@@ -223,6 +237,7 @@ __on that note__
 __on the contrary__ :two::hammer:  
 __on the spur of the moment__  
 __on the verge of__  
+__on the whole__  
 __once and for all__  
 __out of harm’s way__  
 __out of sight, out of mind__  
@@ -236,6 +251,7 @@ __perfect storm__
 __piece of shit__  
 __piping hot__  
 __play ball__ :two::hammer:  
+__point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
@@ -270,9 +286,11 @@ __running bit__
 __save face__  
 __save the day__ :two::hammer:  
 __second-class citizen__  
+__secret sauce__ _Secret sauce_ is an expression used to refer to a special quality, feature, or strategy that contributes to the success of a product, service, or individual. It is typically kept secret, as its uniqueness is seen as the key to its success.  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __send (one’s) love to (someone)__  
 __send off__  
+__set in stone__  
 __set the bar__  
 __shape up__  
 __shot down__  
@@ -287,6 +305,8 @@ __slippery slope__
 __slow burner__  
 __small hours__ (wee hours)  
 __smarty-pants__  
+__snake oil__  
+__snowflake__ _n_ _slang_  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
@@ -302,6 +322,7 @@ __stinker__ __1__ A term of endearment for a playfully mischievous child. _You t
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __story arc__  
 __stow away__  
+__straight shooter__  
 __strike a chord__  
 __strike off__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
@@ -348,7 +369,7 @@ __talk turkey__ To discuss something in a frank, straightforward, and serious ma
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :three::hammer:  
-__tap into (something)__ :three::hammer: _Tap into the dark side of the Force._  
+__tap into (something)__ :four::hammer: _Tap into the dark side of the Force._  
 __teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
@@ -422,6 +443,7 @@ __treasure hunt__
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __trigger__  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
+__true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn the tables__  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
@@ -431,6 +453,7 @@ __uncanny valley__
 __under one’s thumb__  
 __under the yolk__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
+__unpack__ To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
 __unsung hero__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
