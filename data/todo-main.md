@@ -1,18 +1,3 @@
-__boondoggle__ _n_ __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
-__cajole__ _v_ /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
-__capstone__ _n_  
-__Christmas stocking__ _n_ A stocking hung up by children on Christmas Eve for Santa Claus to fill with presents.  
-__daycation__ _n_ A day trip to a resort, hotel, etc that does not involve staying the night.  
-__discomfit__ _v_ To make uneasy or perplexed; disconcert. _Syn_ discompose, untune, upset, disconcert  
-__esculent__ _adj_ Suitable for eating; edible.  
-__espouse__ _v_ /ih-SPOWZ/ __1__ Espouse is a formal word that means “to take up and support as a cause.” _The new theory has been espoused by many leading physicists._ __2__ It can also mean “to marry someone.”  
-__eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (well, good) + noos (mind, spirit). Eunoia is the shortest word in English with all five vowels.] __1__ A feeling of goodwill. __2__ A state of good mental health.  
-__halcyon__ _adj_ /HAL-see-un/ Hallcyon is most often used to describe a happy and successful time in the past that is remembered as being better than today. It can also mean “calm, peaceful” or “prosperous, affluent.” _She’s relieved to be retired, but looks back fondly on the halcyon years of her career._  
-__hireling__ _n_ _derogatory_ A person who works only for pay, esp. in a menial or boring job, with little or no concern for the value of the work. _The hireling said he would be willing to clean out the cesspool-for the right price._  
-__holistay__ _n_ The British English version of _staycation_.  
-__imputable__ _adj_ Possible to impute or ascribe; attributable. _Syn_ ascribable, due to, referable _The oversight was not imputable to him because he was on vacation when it occurred._  
-__lodestar__ _n_ (loadstar) __1__ A star, such as Polaris, that is used as a point of navigational reference. __2__ A principle, interest, or person that serves as a guide. _The new arts district became a lodestar for the city’s bright future._  
-__middle school__ _n_  
 __middleware__ _n_ :two::hammer:  
 __midget race track__  
 __midwatch__ _n_  

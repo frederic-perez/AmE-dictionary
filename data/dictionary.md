@@ -1819,7 +1819,7 @@ __boomer chains__
 __boomerang effect__  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
-__boondoggle__ _n informal_ :four::hammer: (boondoggles)  
+__boondoggle__ _n_ :five: __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
 __boonies__  
 __boor__ _n_ _Sometimes you can really be a boor._  
 __boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
@@ -2385,7 +2385,7 @@ __cagy__ _adj_ :two: Variant of cagey.
 __cahoots__  
 __caisson__ _n_  
 __caitiff__ _adj_ _Caitiff nobles._  
-__cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
+__cajole__ _v_ :nine::m: /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax. _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cakewalk__  
@@ -2512,7 +2512,7 @@ __capricious__ _adj_ /kuh-prish-uhs, -pree-shuhs/
 __caps__ _n_ Capital letters.  
 __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boats. To overturn or cause to overturn: _The boat capsized; I capsized the canoe._ _Don’t rock the boat, baby, or you might just capsize._  
 __capstan__ _n_  
-__capstone__ _n_  
+__capstone__ _n_ :two::hammer:  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
 __captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
@@ -2959,6 +2959,7 @@ __Christendom__ _n_
 __christening__ _n_  
 __Christian__ _adj, n_ :mute:[C~~h~~ristian]  
 __Christmas fly__  
+__Christmas stocking__ _n_ A stocking hung up by children on Christmas Eve for Santa Claus to fill with presents.  
 __Christmas__ _n_ :mute:[C~~h~~istmas]  
 __chrome__ _n_  
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
@@ -4171,6 +4172,7 @@ __day and age__
 __day job__  
 __Day Zero__  
 __daybeds__ _n_  
+__daycation__ _n_ A day trip to a resort, hotel, etc that does not involve staying the night.  
 __dayglow__  
 __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the wall in a daze of half sleep._  
 __dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._  
@@ -4611,6 +4613,7 @@ __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in sprea
 __disclaimer__ _n_ :two::hammer:  
 __disclosure__ _n_  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
+__discomfit__ _v_ To make uneasy or perplexed; disconcert. _Syn_ discompose, untune, upset, disconcert  
 __discomfited__ _adj_ :two: Uncomfortable.  
 __discomfiture__ _n_ :two::hammer:  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
@@ -5572,6 +5575,7 @@ __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion o
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :three: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__esculent__ _adj_ Suitable for eating; edible.  
 __escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
 __Eskimo__ _n_ :two::mega:  
@@ -5579,7 +5583,7 @@ __esoteric__ _adj_
 __espadrilles__ _n_  
 __espalier__ _n_ _Espalier fruit trees._  
 __esplanade__ _n_ :two: A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
-__espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
+__espouse__ _v_ :four: /ih-SPOWZ/ __1__ Espouse is a formal word that means “to take up and support as a cause.” _The new theory has been espoused by many leading physicists._ _Espousing warm ties with Russia._ __2__ It can also mean “to marry someone.”  
 __espresso__ _n_ :two::pencil2: A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :pencil2:  
@@ -5610,6 +5614,7 @@ __etymological__ _adj_ _Etymological dictionaries show how languages borrow word
 __etymology__ _n_ :two::astonished: Study of the sources and development of words. Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
 __eulogy__ _n_ :five::hammer:  
+__eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (well, good) + noos (mind, spirit). Eunoia is the shortest word in English with all five vowels.] __1__ A feeling of goodwill. __2__ A state of good mental health.  
 __eunuch__ _n_  
 __euphemism__ _n_ :three: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
 __euphonium__ _n_  
@@ -7502,7 +7507,7 @@ __hairspray__ _n_ (hair spray)
 __haking__  
 __halal<sup>1</sup>__ _n_ (Islam) Meat from animals that have been killed according to Muslim law.  
 __halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butcher._  
-__halcyon__ _adj_ :seven::pencil2: Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._ _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
+__halcyon__ _adj_ :eight::pencil2: /HAL-see-un/ __1__ Hallcyon is most often used to describe a happy and successful time in the past that is remembered as being better than today. _She’s relieved to be retired, but looks back fondly on the halcyon years of her career._ __2__ It can also mean “calm, peaceful” or “prosperous, affluent.” Marked by peace and prosperity. _Syn_ prosperous, golden _We spent a few halcyon years in New York before the stock market crashed._ _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
 __hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
 __half__ _adj, adv, n_ :two::mega::mute:[ha~~l~~f]:hammer:  
@@ -7941,6 +7946,7 @@ __hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and va
 __hippocampus__ _n_ :pencil2:  
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
 __hipster__ _n_ /HIP-stuh/ One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.  
+__hireling__ _n_ _derogatory_ A person who works only for pay, esp. in a menial or boring job, with little or no concern for the value of the work. _The hireling said he would be willing to clean out the cesspool-for the right price._  
 __hires__ _n_  
 __hirsute__ _adj_ /ˈhɜr sut, hɜrˈsut/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
 __hirsutism__  
@@ -8018,6 +8024,7 @@ __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a s
 __hole up__ _v_ :two::hammer: (holed up)  
 __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
+__holistay__ _n_ The British English version of _staycation_.  
 __holistic__ _adj_ :nine: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
 __holler__ _v_ :five: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
@@ -8431,6 +8438,7 @@ __impromptu__ _adj_ :three::hammer: _Some things are impromptu._ _The impromptu 
 __improvidence__ _n_ :two::hammer:  
 __improvident__ _adj_  
 __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
+__imputable__ _adj_ Possible to impute or ascribe; attributable. _Syn_ ascribable, due to, referable _The oversight was not imputable to him because he was on vacation when it occurred._  
 __in a nutshell__  
 __in abeyance__  
 __in all likelihood__  
@@ -9679,6 +9687,7 @@ __locomotive__ _n_
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :five::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
+__lodestar__ _n_ (loadstar) __1__ A star, such as Polaris, that is used as a point of navigational reference. __2__ A principle, interest, or person that serves as a guide. _The new arts district became a lodestar for the city’s bright future._  
 __lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge<sup>1</sup>__ _n_ :three::hammer: _Sit on the lodge’s back patio._ _Fishing lodges._  
 __lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._  
@@ -10324,7 +10333,7 @@ __midafternoon__
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
 __midday__ _n_ :three::pencil2: The middle of the day; noon.  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
-__middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
+__middle school__ _n_ :two: A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
 __middle-of-the-road__ _adj_ Standing for or following a course of action midway between extremes, esp. being neither liberal nor conservative in politics. _He is a middle of the road singer, and that’s a good thing._  
 __middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average _A middling academic career._  
