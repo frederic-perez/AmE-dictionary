@@ -505,6 +505,7 @@ __amusement park__ _n_ :three::hammer:
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__  
 __anal bleaching__ _n_  
+__analemma__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
@@ -998,7 +999,7 @@ __baboon__ _n_ :two::hammer:
 __babushka__ _n_ :two: __1__ A headscarf, folded triangularly and tied under the chin, traditionally worn by women in eastern Europe. __2__ An elderly Russian or Polish woman, especially one who is a grandmother.  
 __baby blue__ _n_ :camera:  
 __baby bump__ _n_ :astonished: The enlarged abdomen of a pregnant woman. _Dressing your baby bump._  
-__baby formula__ _n_ (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
+__baby formula__ _n_ :three: (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
 __baby shower__ _n_ :two::hammer:  
 __baby trailer__ _n_  
 __baby__ _v tr_ __1__ To treat with love and attention. __2__ To treat (someone) like a baby; pamper or overprotect.  
@@ -1060,7 +1061,7 @@ __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She want
 __Baedeker__ _n_ /BAY-de-kuhr/ [:scroll: After the German publisher Karl Baedeker (1801-1859) who founded a company that published travel guidebooks.] A guidebook.  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._ _Syn_ dumbfound, flummox, mystify, nonplus, perplex, puzzle, amaze, stupefy, gravel, vex, pose, stick, beat, get  
-__baffled__ _adj_ :two: /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
+__baffled__ _adj_ :three: /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _adj_ :two: /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
@@ -1350,7 +1351,7 @@ __Belial__ _n_
 __belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __believe__ _v_ :mega:  
 __believer__ _n_ :mega:  
-__belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
+__belittle__ _v tr_ :six: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
 __bell tower__ _n_  
 __bellboy__ _n_  
@@ -1507,7 +1508,7 @@ __billet<sup>1</sup>__ _n_
 __billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
 __billfold__ _n_  
 __billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
-__billing__ _n_ _Now, the women’s contest will take second billing._  
+__billing__ _n_ :two::hammer: _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_ :two::hammer:  
 __bin__ _n_ __1__ A large container or enclosed space for storing something in bulk, such as coal, grain, or wool. _A man has been rescued after falling in a soybean bin._  
@@ -2026,6 +2027,7 @@ __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the 
 __broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
+__broaden__ _v_  
 __broadloom__ _n_  
 __broadside__ _n_ /BRAWD-syde/ The word broadside most often refers to a very strong and harsh spoken or written attack, but it has other meanings as well, among them “an attack by a ship in which all the guns on one side of the ship are fired together.” _Although the freshman representative knew her decision was bound to be unpopular, she was taken aback by the broadside leveled at her by her hometown newspaper’s editorial page._  
 __broadsided__  
@@ -2214,6 +2216,7 @@ __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloa
 __buoyancy__  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
+__burb__ _n informal_  
 __burble__ _v_ :three: (burbled) __1__ Flow in an irregular current with a bubbling noise. __2__ (intr; often foll by away or on) To talk quickly and excitedly. _They burbled politely with Jane._  
 __burden__ _n_  
 __burdensome__ _adj_ :two::hammer:  
@@ -2223,6 +2226,7 @@ __burgeoning__ _adj_ :nine::m: Rapidly developing or growing; flourishing.
 __burgermeister__  
 __burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
 __burgundy__ _n_ :three: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
+__burial__ _n_  
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
@@ -2633,7 +2637,7 @@ __cataclysm__ _n_ :pencil2:
 __catacomb__ _n_ :three::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
-__catalyst__ _n_ :three::hammer:  
+__catalyst__ _n_ :four::hammer:  
 __catalyze__ _v_ :pencil2:  
 __catamaran__ _n_  
 __catamounts__  
@@ -2653,6 +2657,7 @@ __catch-all__ _n_
 __catch-up schedule__  
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
+__catchphrase__ _n_  
 __catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new television series._ __2__ Easily remembered: _a song with a catchy tune._ __3__ Tricky; deceptive. Having concealed difficulty. _Syn_ tricky _A catchy question on an exam._ _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._ __4__ Fitful or spasmodic: _catchy breathing._  
 __catechism__ _n_ :two::hammer::pencil2:  
 __categorical__ _adj_  
@@ -2718,6 +2723,7 @@ __center stage__ _n_
 __centerpiece__  
 __centrifuge__ _n_ :two::hammer: _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
+__cerebral palsy__  
 __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
@@ -2961,7 +2967,8 @@ __chuck out__ _v_
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
 __chuckholes__ _n_  
-__chuckle__ _v_ :three::hammer: (chuckled)  
+__chuckle<sup>1</sup>__ _n_  
+__chuckle<sup>2</sup>__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
 __chuff__ _v_ :two: To produce or move with noisy puffing or explosive sounds. _Trains chuffing._  
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
@@ -3094,7 +3101,7 @@ __clematis__ _n_ :two::hammer:
 __clemency__ _n_ :two: A disposition to show mercy, especially toward an offender or enemy. _Syn_ mercy _He was willing to show clemency, promising not to report the theft if his property was returned._  
 __clement__ _adj_  
 __clench__ _n_ :two::hammer:  
-__clenched__ _adj_ :two: Closed tightly together. _Clenched fists._  
+__clenched__ _adj_ :three: Closed or squeezed together tightly. _A clenched fist._ _His clenched (or clinched) teeth._  
 __clergy__  
 __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __clerk__ _v_ To work or serve as a clerk: _clerked in a store; clerks for a judge._  
@@ -3155,7 +3162,7 @@ __clothiers__ _n_
 __cloture__  
 __Cloud Gate__ _n_ (Chicago)  
 __cloud seeding__ _n_ :two::hammer:  
-__cloud__ _v_ :two::hammer: _Distance clouds perspective._ _To cloud my judgement._  
+__cloud__ _v_ :three::hammer: _Distance clouds perspective._ _To cloud my judgement._  
 __cloudscape__ _n_  
 __clough__ _n_ :three::hammer:  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  

@@ -1,18 +1,3 @@
-__analemma__ _n_  
-__baby formula__ _n_ :two::hammer:  
-__baffled__  
-__belittle__ _v tr_  
-__bemoan__ _v_  
-__billing__  
-__broaden__ _v_  
-__burb__ _n informal_  
-__burial__ _n_  
-__catalyst__ _n_  
-__catchphrase__ _n_  
-__cerebral palsy__  
-__chuckle__ _n_  
-__clenched__ _adj_ Closed or squeezed together tightly. _A clenched fist._ _His clenched (or clinched) teeth._  
-__cloud__ _v_  
 __clutches__ _n_ _The clutches of the Federation._  
 __coddle__ _v_ __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
 __commissioned__ _adj_  
