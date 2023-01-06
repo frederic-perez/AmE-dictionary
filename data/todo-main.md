@@ -1,18 +1,3 @@
-__middleware__ _n_ :two::hammer:  
-__midget race track__  
-__midwatch__ _n_  
-__MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
-__mile high city__  
-__million__ _n_ (:astonished: _n pl_ million or millions)  
-__minestrone__ _n_  
-__miniate__ _v tr_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
-__minimalist__ _adj_  
-__minnow__ _n_ _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
-__Miranda rights__ _n_  
-__mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
-__mischievous__ _adj_  
-__misconstrue__ _v tr_  
-__misgivings__ _n_  
 __miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
 __mismatch__ _n_ :pencil2:  
 __misphrase__ _v tr_  

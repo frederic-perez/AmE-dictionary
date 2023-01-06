@@ -10336,17 +10336,21 @@ __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients w
 __middle school__ _n_ :two: A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
 __middle-of-the-road__ _adj_ Standing for or following a course of action midway between extremes, esp. being neither liberal nor conservative in politics. _He is a middle of the road singer, and that’s a good thing._  
+__middleware__ _n_ :two::hammer:  
 __middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average _A middling academic career._  
+__midget race track__  
 __midget__ _n_ __1__ _Offensive_ An extremely small person who is otherwise normally proportioned. __2__ A small or miniature version of something. __3__ A class of small objects, as a class of very small sailboats or racing cars. _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ _n_ :three::hammer:  
 __midsize__  
 __midst__ _n_ :two::hammer: _In the midst of this show._  
 __midswing__  
+__midwatch__ _n_  
 __midway__  
 __midwife__ _n_ :three::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
 __miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
+__MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
 __might__ _n_ :three::hammer::mute:[mi~~gh~~t] _China’s economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
 __mik__ _n_ _informal_ A microphone. _Behind our backs they called us the Spic and the Mik._  
@@ -10356,6 +10360,7 @@ __mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould.  
+__mile high city__  
 __mile-a-minute<sup>1</sup>__ _n_ Any of several species of fast-growing plants, some of which are extremely invasive outside their native range and undesirable.  
 __mile-a-minute<sup>2</sup>__ _adj_ At the rate of one mile per minute, 60 miles per hour. _A mile-a-minute talker._  
 __mile-a-minute<sup>3</sup>__ _adv_ Very fast. _He was all excited after the game, talking a mile-a-minute about the last-second shot._  
@@ -10378,7 +10383,7 @@ __millennium__ _n_ :two::pencil2:
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
 __milling__ _n_ :two::hammer: _To avoid disrespectful milling._  
-__million__ _n_ :mega: /ˈmɪljən/ _The project willl cost around $10 million._ (not ending with ‘s’)  
+__million__ _n_ :two::mega::hammer: /ˈmɪljən/ (:astonished: _n pl_ million or millions) _The project willl cost around $10 million._ (not ending with ‘s’)  
 __milquetoast__ _n_ :three: _(often cap.)_ /MILK-tohst/ [:scroll: Caspar _Milquetoast_, a cartoon character invented by H. T. Webster (1885–1952). The character’s name is derived from a bland and fairly inoffensive food, _milk toast_, which, light and easy to digest, is an appropriate food for someone with a weak or “nervous” stomach.] One who has a meek, timid, unassertive nature. _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __minatory__ _adj_ :two: Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
@@ -10392,13 +10397,16 @@ __mind-boggling__ _adj_ _informal_ :two: Overwhelming; stunning: _mind-boggling 
 __minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant, esp in the criminal underworld. :es: guardaespaldas  
 __mindful__  
 __mindset__ _n_  
+__minestrone__ _n_  
+__miniate__ _v tr_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
 __minie balls__  
+__minimalist__ _adj_  
 __minimoon__ _n_ _informal_ A short break spent together by a newly married couple, typically in advance of a longer vacation to be taken at a later date.  
 __minimus__ _n_ The fifth digit; the little finger or little toe.  
 __minion__ _n_ :three::hammer: (minions) _King Edward died deserted by the minions of power._  
 __miniver__ _n_  
 __minnie__ _n_ :three: /ˈmɪnɪ/ A mother.  
-__minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
+__minnow__ _n_ :nine: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
 __minstrel__ _n_ :four: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
 __mint bank notes__  
@@ -10409,9 +10417,10 @@ __minute<sup>2</sup>__ _adj_ :mega: /mĭn′ĭt/
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
 __mirage__ _n_ /mɪˈrɑʒ/  
+__Miranda rights__ _n_  
 __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
 __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
-__mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
+__mirth__ _n_ :six: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __misadventure__ _n_ :two: An instance of misfortune; a mishap.  
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
@@ -10424,9 +10433,9 @@ __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :five::hammer:  
-__mischievous__ _adj_ :two::mega::hammer:  
+__mischievous__ _adj_ :three::mega::hammer:  
 __misconduct__ _n_ :two::hammer:  
-__misconstrued__  
+__misconstrue__ _v tr_ :two::hammer:  
 __miscreant__ _n_ :nine: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ _n_ :two::hammer:  
@@ -10441,7 +10450,7 @@ __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.
 __misfire__ _v intr_ :three::hammer: /ˌmɪsˈfaɪə/ (misfiring) _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misfortune__ _n_  
-__misgiving__ _n_ :seven: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
+__misgiving__ _n_ :eight: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
