@@ -1,18 +1,3 @@
-__array__ _n_ :mega:  
-__banter__ _n_  
-__bedrock__ _n_  
-__clutches__ _n_ _The clutches of the Federation._  
-__coddle__ _v_ __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
-__codeine__  
-__commissioned__ _adj_  
-__compartmentalize__ _v_ :two::hammer:  
-__compel__ _v_  
-__compound__ _n_ __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
-__condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
-__confounding__ _adj_  
-__contact__ _n_ __6__ A contact lens. _We wear contacts._  
-__corkboard__ _n_  
-__Cotton-Eyed Joe__ _n_  
 __crutch__ _n_  
 __customary__ _adj_ /ˈkʌs təˌmɛr i/  
 __dagger__ _n_  

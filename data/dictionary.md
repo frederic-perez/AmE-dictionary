@@ -758,7 +758,8 @@ __arousal__
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
 __arrangement__ _n_  
-__array__ _v_ (arrayed)  
+__array<sup>1</sup>__ _n_ :mega:  
+__array<sup>2</sup>__ _v_ (arrayed)  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
 __arrest__ _v_ :two::astonished::hammer: _While others are arrested by discouragement, we are not._  
 __arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
@@ -1145,7 +1146,7 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_ :two::hammer: _The cry of the banshee._  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
-__banter<sup>1</sup>__ _n_ :six::hammer:  
+__banter<sup>1</sup>__ _n_ :seven::hammer:  
 __banter<sup>2</sup>__ _v_  
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
@@ -1287,7 +1288,7 @@ __bedpan__ _n_
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
 __bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
 __bedridden__ _adj_ :four: Confined to bed because of illness or infirmity. _She was practically bedridden._  
-__bedrock__ _n_ :seven: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
+__bedrock__ _n_ :eight: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedspreads__ _n_  
 __bedstead__  
@@ -3183,7 +3184,7 @@ __clunking__
 __clunky__ _adj_ :three::hammer:  
 __clutch bag__ _n_ :two::hammer:  
 __clutch player__  
-__clutch<sup>1</sup>__ _n_ :four::hammer: _It fosters a clutch of promising innovations._ _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
+__clutch<sup>1</sup>__ _n_ :five::hammer: _It fosters a clutch of promising innovations._ _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._ _The clutches of the Federation._  
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
@@ -3220,7 +3221,8 @@ __cocoon<sup>1</sup>__ _n_
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __cod__ _n_ :es: bacalao  
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
-__coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__coddle__ _v_ :five: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __codpiece__ _n_  
@@ -3354,6 +3356,7 @@ __commingled__ _v_ :three::hammer:
 __commiserate__ _v_ :six::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
+__commissioned__ _adj_  
 __commitment__ _n_ /kəˈmɪt mənt/  
 __committal__ _n_ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
@@ -3378,10 +3381,10 @@ __comp<sup>1</sup>__ _n_ _Workers’ comp cases._
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __compadre__ _n_ /kum-PAH-dray/ A person’s close friend or buddy. _They are longtime compadres who have been through a lot together._  
 __company__ _n_ _Joe-Jim, Bobo and company are back._  
-__compartmentalize__ _v_ :two::hammer:  
+__compartmentalize__ _v_ :four::hammer:  
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
-__compel__ _v_ :five::hammer:  
+__compel__ _v_ :six::hammer:  
 __compelling__ _adj_ :seven: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
@@ -3399,7 +3402,7 @@ __composite__ _adj_ :two::mega::hammer: _Composite decking._
 __compost__ _v_  
 __composting__ _n_ The activity or practice of converting garden and kitchen waste to compost. _There’s a brown bin for organic waste, which goes for composting._  
 __composure__  
-__compound<sup>1</sup>__ _n_ :two::hammer:  
+__compound<sup>1</sup>__ _n_ :three: __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
 __compound<sup>2</sup>__ _v_ :three::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
@@ -3451,6 +3454,7 @@ __concur__ _v_
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
 __condemn__ _v_ :mute:[condem~~n~~]  
+__condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
 __condition__ _n_ :two::hammer:  
 __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
@@ -3481,7 +3485,7 @@ __confluence__ _n_ :two: A gathering, flowing, or meeting together at one junctu
 __conform__ _v_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
-__confounding__ _adj_ _Confounding factors._  
+__confounding__ _adj_ :two::hammer: _Confounding factors._  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
@@ -3552,6 +3556,7 @@ __consumable__
 __consumer electronics__  
 __consummate__  
 __consumption__ _n_ __3a__ Tuberculosis. __b__ A progressive wasting away of the body especially from pulmonary tuberculosis.  
+__contact__ _n_ __6__ A contact lens. _We wear contacts._  
 __contactless__  
 __contagion__  
 __contempt__ _n_ :three::hammer: _Contempt sentence._  
@@ -3669,6 +3674,7 @@ __core dump__ _n_ _The book goes on like this, a chronological core dump of fact
 __corgi__  
 __coriander__ _n_ :two::hammer: :es: cilantro  
 __cork sun helmet__ _n_ :two: Pith helmet.  
+__corkboard__ _n_  
 __corky__ _adj_  
 __cormorants__  
 __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
@@ -3717,6 +3723,7 @@ __cotton candy__ _n_ :two::hammer:
 __cotton dry__  
 __cotton gin__ _n_ A machine that separates the seeds, seed hulls, and other small objects from the fibers of cotton.  
 __cotton swabs__  
+__Cotton-Eyed Joe__ _n_  
 __cotton-wood__  
 __Cottonopolis__ _n_ Manchester, UK.  
 __couch potato__  
