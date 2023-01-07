@@ -1,16 +1,21 @@
+__(a) good sport__ Someone who can accept a loss in a competition or can accept being the butt of a joke. _Bob is usually a good sport, but this time he didn’t seem to appreciate your joke._  
 __(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
 __800-pound gorilla__ [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)]A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a badge of honor__  
 __Achilles’ heel__  
 __akin to (something)__  
 __all over the place__  
+__and all__  
+__at a moment’s notice__ With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __bank on something__  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
 __be at odds with__  
 __be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
+__be my guest__  
 __bear hug__  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __bear with (someone or something)__  
+__beat down__  
 __beg the question__  
 __behind the curtain__  
 __behind the scenes__  
@@ -26,7 +31,7 @@ __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, 
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __brighten up (the) day__  
-__burn the midnight oil__  
+__burn the midnight oil__ :two::hammer:  
 __burst at the seams__  
 __burst through (something)__  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
@@ -51,6 +56,7 @@ __close in__
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
 __come to terms__  
+__connect the dots__  
 __cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
 __crash course__  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
@@ -69,7 +75,7 @@ __down for (something)__
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
 __draw a line in the sand__  
-__draw to a close__  
+__draw to a close__ :two::hammer:  
 __drivers seat__  
 __driving force__  
 __dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
@@ -77,7 +83,7 @@ __duke it out__
 __easy peasy__  
 __end of one’s rope__  
 __even more so__ :two::hammer:  
-__every so often__  
+__every so often__ :two: Sometimes; occasionally. _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everything under the sun__  
 __face value__  
 __fall off the wagon__  
@@ -141,6 +147,7 @@ __good call__
 __good for you__ A complimentary expression of encouragement for something that someone has done or received.  
 __goof up__  
 __goof__  
+__gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
 __hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
@@ -158,12 +165,13 @@ __hold (one’s) breath__
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold a candle to__  
+__hold back__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
 __hunker down__  
 __hunky-dory__  
-__I can imagine__ :two::hammer:  
+__I can imagine__ :three::hammer:  
 __I saw what you did there__  
 __icky__  
 __in (a) shambles__ :two::hammer:  
@@ -175,12 +183,13 @@ __in hindsight__
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
 __in spite of__  
-__in the (very) nick of time__  
+__in the (very) nick of time__ :two::hammer:  
 __in the face of (something)__  
 __in the gutter__  
 __in the long term__  
 __in the public eye__  
 __in this day and age__  
+__jacked chad__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
 __keep pace__  
@@ -192,6 +201,7 @@ __kindred spirit__
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __land on (one’s) feet__  
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__lead domino__ :two::hammer:  
 __leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
 __learn the ropes__  
 __let alone__  
@@ -203,6 +213,7 @@ __lost cause__
 __lost for words__ (at a loss for words)  
 __lost on me__ _It is not lost on me._  
 __love (someone) to the moon (and back)__  
+__make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
 __mean the world to (one)__ :dart:  
 __meant to be__  
 __mess with (someone or something)__  
@@ -238,7 +249,7 @@ __on the contrary__ :two::hammer:
 __on the spur of the moment__  
 __on the verge of__  
 __on the whole__  
-__once and for all__  
+__once and for all__ :two: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
 __out of harm’s way__  
 __out of sight, out of mind__  
 __ouy (of) the (starting) gate__  
@@ -285,6 +296,7 @@ __run with it__
 __running bit__  
 __save face__  
 __save the day__ :two::hammer:  
+__schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism, especially in art, music, or writing. Originally from Yiddish. _The film is pretty schmaltzy, to be sure, but it would take a heart of stone not to be moved by it all the same._  
 __second-class citizen__  
 __secret sauce__ _Secret sauce_ is an expression used to refer to a special quality, feature, or strategy that contributes to the success of a product, service, or individual. It is typically kept secret, as its uniqueness is seen as the key to its success.  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
@@ -308,6 +320,7 @@ __smarty-pants__
 __snake oil__  
 __snowflake__ _n_ _slang_  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
+__soon enough__ No later than needed, soon.  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -358,6 +371,7 @@ __take a walk on the wild side__ To engage in risky, raucous, adventurous, or li
 __take heart__  
 __take it away!__  
 __take pride in someone or something__ :three::hammer:  
+__take stock__  
 __take the brunt__  
 __take the edge off__  
 __take up__ _We have taken up this challenge._  
@@ -386,6 +400,7 @@ __the eleventh hour__
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the final straw__  
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
+__the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
 __the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the likes of (someone or something)__  
 __the likes of__  
