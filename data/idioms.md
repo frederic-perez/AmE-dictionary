@@ -1,4 +1,5 @@
 __(a little/bit) rough around the edge__  
+__(a) good sport__ Someone who can accept a loss in a competition or can accept being the butt of a joke. _Bob is usually a good sport, but this time he didn’t seem to appreciate your joke._  
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(Are) you kidding (me)?__  
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
@@ -8,6 +9,7 @@ __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mar
 __(as) silent as the grave__ Totally silent, especially as produces an ominous or foreboding effect. _I knew something was wrong when I walked into the meeting room and all the members of the board were silent as the grave._  
 __(deep) in the weeds__  
 __(deep) into the weeds__ :two::hammer:  
+__(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
 __(it’s) (a)bout time__ :three: An expression used to emphasize that something should have occurred a long time ago. _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened).  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
@@ -48,11 +50,12 @@ __(there’s) no rest for the wicked__ The lack of peace in one’s life, or the
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __411__ :two: (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
-__800-pound gorilla__ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
+__800-pound gorilla__ :three: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)] A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasant, dishonorable, or unwanted tends to appear (or reappear), especially at inopportune times. __2__ Things that are done improperly eventually cause problems.  
 __a bad penny__ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
+__a badge of honor__  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
 __a bird’s eye view__  
 __a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
@@ -152,6 +155,7 @@ __according to Hoyle__ In accord with the prescribed rules or regulations.
 __according to legend__  
 __according to plan__ :three: In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._ _If everything goes according to plan._  
 __ace in the hole__ :two::hammer:  
+__Achilles’ heel__  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
 __across the board__ :two::hammer:  
 __act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
@@ -170,6 +174,7 @@ __ahead of the curve__ :five::hammer:
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
+__akin to (something)__  
 __al fresco__  
 __alive and kicking__  
 __all aboard__  
@@ -183,7 +188,7 @@ __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for 
 __all of a dither__ In a nervous, confused, or agitated state.  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the map__  
-__all over the place<sup>1</sup>__ _adj_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
+__all over the place<sup>1</sup>__ _adj_ :two: Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ :two: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
@@ -206,6 +211,7 @@ __an honest mistake__ A mistake made unintentionally or unknowingly and without 
 __an iron fist__  
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
+__and all__  
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
@@ -245,7 +251,7 @@ __at a (single) stroke__ All at once, with a single decisive or powerful action.
 __at a crossroads__ :dart::four::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
-__at a moment’s notice__  
+__at a moment’s notice__:two: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -298,6 +304,7 @@ __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oi
 __Band E__  
 __bang for one’s buck__ _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
 __bang for the buck__  
+__bank on something__  
 __bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
@@ -313,6 +320,7 @@ __batteries included__ _informal_ I a product usability (mostly in software) it 
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __be (all) set (to do something)__ To be ready or about to do something. _I was set to get in the shower when the phone rang._  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
+__be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
 __be (flat) on (one’s) back__ To have no strength or ability to get up. Often used when someone is sick or injured, but it can be used figuratively as well. _Oh man, I’m flat on my back with this flu. I haven’t been out of bed in days!_  
 __be (just) good friends__ A phrase used to emphasize that two people are not in a romantic relationship. _Oh, he’s not my boyfriend—we’re just good friends._  
 __be (of) no use to man or beast__ To be completely useless; to serve no purpose; to be unsuitable to anyone or anything. _After 20 years, my faithful old truck finally broke down for good. It’s no use to man or beast anymore._  
@@ -326,6 +334,7 @@ __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an a
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
 __be a roaring success__ To be extremely or triumphantly successful.  
 __be as good as gone__ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
+__be at odds with__  
 __be at odds__ _They are at odds over the details of legislation._  
 __be at your wits’ end__ To be worried about something and not know what you should do next.  
 __be brought in from the cold__ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
@@ -341,6 +350,7 @@ __be glad to see the back of__ Be happy when a person leaves.
 __be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be hard on (one)__  
 __be hard pressed__  
+__be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
 __be here to stay__ :two: (is here to stay) To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
 __be hoist by (one’s) own petard__  
 __be honor-bound to do (something)__ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
@@ -367,6 +377,7 @@ __be looking for trouble__ To be doing something or acting in a manner that will
 __be losing it__ _idiom_ To start becoming crazy, insane, or mentally unstable.  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _I can’t believe you let us down at the last minute. I thought you were made of sterner stuff than that!_ _Did she cry? I thought she was made of sterner stuff._  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
+__be my guest__  
 __be no picnic__ _Looking after four children is no picnic._  
 __be no slouch__ To be very hardworking, enthusiastic, and/or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
 __be not in Kansas anymore__ To no longer be in a place that one knows or where one is comfortable; to be in a completely unfamiliar and/or discomfiting environment. A reference to The Wizard of Oz, in which Dorothy, upon arriving to Oz, says, _“Toto, I’ve a feeling we’re not in Kansas anymore.”_  
@@ -405,6 +416,7 @@ __be warned__ _Be warned, Commander, I didn’t make this coffee._
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
+__bear hug__  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ To go away immediately.  
 __beat the bushes (for someone or something)__ To search for someone or something exhaustively and at great length. _I’ve been beating the bushes for a bigger apartment, but there’s nothing out there I can afford!_  

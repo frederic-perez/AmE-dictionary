@@ -1,18 +1,3 @@
-__(a) good sport__ Someone who can accept a loss in a competition or can accept being the butt of a joke. _Bob is usually a good sport, but this time he didn’t seem to appreciate your joke._  
-__(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
-__800-pound gorilla__ [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)]A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
-__a badge of honor__  
-__Achilles’ heel__  
-__akin to (something)__  
-__all over the place__  
-__and all__  
-__at a moment’s notice__ With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
-__bank on something__  
-__be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
-__be at odds with__  
-__be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
-__be my guest__  
-__bear hug__  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __bear with (someone or something)__  
 __beat down__  
