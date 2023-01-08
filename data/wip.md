@@ -1,18 +1,3 @@
-__crutch__ _n_  
-__customary__ _adj_ /ˈkʌs təˌmɛr i/  
-__dagger__ _n_  
-__deceipt__ _n_ :mega:  
-__deflate__  
-__dehumanize__ _v tr_  
-__demonize__ _v_  
-__dingy__ _adj_ :mega:  
-__dis__ _v_  
-__discipline__ _v_  
-__discount__ _v_  
-__disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
-__disheartening__ _adj_ Making one feel disappointed and less confident or less hopeful.  
-__dopamine__  
-__downside__ _n_ _Working from home has its upsides as well as downsides._  
 __dwell__ _v_  
 __eerie__ _adj_ (eery) _Eerie incidents._  
 __egotistical__ _adj_  

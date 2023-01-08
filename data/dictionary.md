@@ -3970,7 +3970,7 @@ __crusader__
 __crush<sup>1</sup>__ _v_ _I was crushed._  
 __crush<sup>2</sup>__ _n_ :two: __4__ _informal_ __a__ A usually temporary infatuation: _had a crush on her friend’s cousin._ __b__ One who is the object of such an infatuation.  
 __crusty__ _adj_ :two::hammer: _The judge was crusty._  
-__crutch__ _n_ :five::hammer: _Diabetes isn’t a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
+__crutch__ _n_ :six::hammer: _Diabetes isn’t a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :five: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn’t due._  
@@ -4060,6 +4060,7 @@ __custard__ _n_ :two::hammer: :es: natillas, flan
 __custodian__  
 __custody__ _n_ _Finally my house returned to my custody._  
 __custom__ _n_ /ˈkʌstəm/  
+__customary__ _adj_ /ˈkʌs təˌmɛr i/  
 __customs__ _n_ (at airport)  
 __cut me a little slack__  
 __cut shot__ _n_ A type of shot in several sports.  
@@ -4104,6 +4105,7 @@ __daffodil__ _n_ :four::hammer:
 __daffy__  
 __daft__ _adj_ :four::hammer:  
 __dafter__  
+__dagger__ _n_  
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._  
@@ -4238,7 +4240,7 @@ __decamped__ _v_
 __decant__ _v_ :two::hammer:  
 __decanter__ _n_ :three: A vessel used for decanting, especially a decorative bottle used for serving wine. _Syn_ carafe _Sir Percival was sitting at the table with a decanter of wine before him._  
 __decathlon__  
-__deceit__ _n_ :two::hammer:  
+__deceit__ _n_ :three::mega::hammer: /dɪˈsiːt/  
 __decelerate__ _v_  
 __decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
 __deciduous__ _adj_ :two::hammer:  
@@ -4312,7 +4314,7 @@ __defibrillator__ _n_ :two: An electrical device used to counteract fibrillation
 __defile<sup>1</sup>__ _n_ :three::hammer:  
 __defile<sup>2</sup>__ _v_ :four: /dih-FYLE/ Defile means “to make (something) dirty.” It can also mean “to take away or ruin the purity, honor, or goodness of (something or someone important).” To damage or sully (someone’s good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud _Students often threw their trash on the ground, defiling the campus in the process._  
 __definitely__  
-__deflated__ _v_  
+__deflate__ _v_ :two::hammer:  
 __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
 __deflect__ _v_  
 __deflection__ _n_ :two::hammer:  
@@ -4326,6 +4328,7 @@ __deftness__ _n_
 __defund__ _v_ :four: To withdraw funding from. To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __deglutition__ _n_ The act or process of swallowing.  
+__dehumanize__ _v tr_  
 __dehydration__  
 __deign__ _v_ :three::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
@@ -4369,7 +4372,7 @@ __demean__ _v_ :five::hammer: (demeaned, demeaning)
 __demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__  
 __demographic__ _adj_  
-__demonize__ _v tr_ :six::hammer: (demonizing)  
+__demonize__ _v tr_ :seven::hammer: (demonizing)  
 __demonstrate__ _v_ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
@@ -4566,7 +4569,7 @@ __dingbat__ _n_
 __dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. _Rubber dinghy and fishing safaris._  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
 __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
-__dingy__ _adj_  
+__dingy__ _adj_ :two::hammer::mega:  
 __dinking<sup>2</sup>__ _v_  
 __dinky__ _adj_ :four: Of small size or consequence; insignificant. _A dinky little community._  
 __diocese__ _n_  
@@ -4598,7 +4601,7 @@ __dirtdobbers__
 __dirty boogie__  
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
-__dis<sup>2</sup>__ _v tr_ _informal_ :three::hammer:  
+__dis<sup>2</sup>__ _v tr_ _informal_ :four::hammer:  
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
 __disaffected__ _adj_ :three::hammer:  
@@ -4617,6 +4620,7 @@ __discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  
+__discipline__ _v_  
 __disclaimer__ _n_ :two::hammer:  
 __disclosure__ _n_  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
@@ -4630,7 +4634,7 @@ __discontinuation__ _n_ _Assessing the safety of oral anticoagulation discontinu
 __discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
 __discord__  
 __discount store__  
-__discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
+__discount__ _v_ :three::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
 __discouraging__  
 __discourse__  
@@ -4650,6 +4654,7 @@ __disendowment__ _n_
 __disenfranchise__  
 __disenfranchised__  
 __disengage__ _v_ :two::hammer:  
+__disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
 __disfavor__  
 __disgorge__ _v_  
 __disgorgement__  
@@ -4660,6 +4665,7 @@ __disguise__ _n, v_ :mute:[disg~~u~~ise]
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
 __disheartened__ _adj_ :dart::two: Disappointed about something and having less confidence or less hope about it than before.  
+__disheartening__ _adj_ Making one feel disappointed and less confident or less hopeful.  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __disheveled__ _adj_ :five: /dih-SHEV-uld/ (dishevelled) In disarray; extremely disorderly. Marked by disorder or disarray. _His hair disheveled and his clothes wrinkled, the late student had clearly overslept._  
 __dishing__ _v_  
@@ -4863,7 +4869,7 @@ __doorpost__
 __doorsill__ _n_  
 __doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
-__dopamine__ _n_ :two::mega::hammer:  
+__dopamine__ _n_ :three::mega::hammer:  
 __dope<sup>1</sup>__ _n_ :three::hammer: __3__ _Informal_ A stupid person; a dolt. _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __doper__ _n_  
@@ -4937,7 +4943,7 @@ __downline__ _n_
 __downplay__ _v tr_ :seven::hammer: (downplayed)  
 __downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
 __downright__ _adv_ :dart::seven::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
-__downside__ _n_ :three::hammer: (downsides)  
+__downside__ _n_ :four::hammer: (downsides) _Working from home has its upsides as well as downsides._  
 __downsize__ _v_  
 __downslope__ _n_  
 __downspout__ _n_  
