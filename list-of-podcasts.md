@@ -10,6 +10,7 @@
 - ID10T, hosted by Chris Hardwick
 - Last Week On Earth, hosted by Ben Gleib
 - Murder Book, hosted by Michael Connelly
+- [Pronunciation Pro](https://anchor.fm/pronunciationpro), by Annie Ruden M.S. CCC-SLP
 - StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts
 - Tell Me Something I Don't Know, hosted by Stephen Dubner of Freakonomics Radio
 - This American Life, hosted by Ira Glass
