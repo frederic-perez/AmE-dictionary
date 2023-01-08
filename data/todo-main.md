@@ -1,3 +1,18 @@
+__archnemesis__  
+__atmospheric river__  
+__bomb cyclone__  
+__bombastic__ _adj_  
+__bombogenesis__  
+__conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
+__delegate__ _v_ /DEL-uh-gayt/  
+__disarray__  
+__dour__ _adj_  
+__fortuitous__ _adj_ /for-TOO-uh-tus/ __1__ Happening by chance. _It was rather fortuitous that the two sisters both decided to surprise their parents with a visit on the same weekend._ __2__ Having or showing good luck.  
+__garner__ _v_ /GAHR-ner/ __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
+__hark__ _v intr_ To listen attentively.  
+__jamboree__ _n_  
+__lionize__ _v_ To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
+__medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
 __miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
 __mismatch__ _n_ :pencil2:  
 __misphrase__ _v tr_  
@@ -29,6 +44,7 @@ __monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of
 __monolith__ _n_  
 __monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
 __monopsony__ _n_  
+__montage__ _n_ A single pictorial composition made by juxtaposing or superimposing many pictures or designs. _Syn_ collage _The children’s gift to their grandmother was a montage of family pictures._  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __Moor__ _n_  
@@ -120,6 +136,8 @@ __nightcaps__
 __nightspot__ _n_ :two: An informal word for nightclub.  
 __nimrod__ _n_  
 __nip__ _v_  
+__nit-picking<sup>1</sup>__ _n_ A concern with insignificant details, esp with the intention of finding fault.  
+__nit-picking<sup>2</sup>__ _adj_ Showing such a concern; fussy.  
 __nitty-gritty__ _n_ :two::hammer:  
 __nix__ _v_  
 __no-brainer__  
@@ -158,8 +176,10 @@ __Nymphean__ _adj_ _Nymphean theater._
 __oasis__ _n_ (_n pl_ oases)  
 __obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
+__objectee__  
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obliterate__ _v_ /uh-BLIT-uh-rayt/  
+__obstreperous__ _adj_  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obtrude<sup>1</sup>__ _v tr_ /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc.  
 __obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
@@ -444,6 +464,7 @@ __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._
 __power-cycle__ _v_  
 __powermark__ _n_  
 __prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
+__precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
 __predate__ _v_ _This standard predates the emergence of smartphones._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
@@ -640,6 +661,7 @@ __reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal aff
 __retiree__ _n_  
 __retrace__ _v_  
 __retrofit__ _v_  
+__retrospective__ _adj_ /reh-truh-SPEK-tiv/  
 __retsina__ _n_  
 __revel__ _v intr_ :three::hammer:  
 __revelry__ _n_ :two::hammer:  
@@ -660,6 +682,8 @@ __rip-roaring__ _adj_ _Rip-roaring German beer._
 __riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._  
 __riposte__ _n_ :astonished: /rih-POHST/ A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
 __ritzy__ _adj_ /RIT-see/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier known for luxurious hotels] Stylish, glamorous, elegant, fashionable, etc., especially in an ostentatious manner.  
+__rive<sup>1</sup>__ _v tr_ /raɪv/ To tear, split, fracture, etc.  
+__rive<sup>2</sup>__ _v intr_ To become split or to cracked.  
 __riverfront__  
 __riverside__  
 __roadblock__ _n_ _Substantial roadblocks stand in the way._  
@@ -753,6 +777,7 @@ __scape__ _n_ _Moon and Mars scapes._
 __scapula__ _n_  
 __scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
 __scar__ _v_  
+__scaremonger__ _n_ A person who spreads frightening rumors and stirs up trouble. _Syn_ stirrer _When he started spreading the rumor that the government was bent on destroying our homes, we decided that he was a scaremonger and stopped paying attention._  
 __scarlet letter__ _n_  
 __scarlet__ _n_  
 __scatting__ _v_  
@@ -1087,6 +1112,7 @@ __straightedge__ _adj, n_ _Straightedge shave and head massage._
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
 __stranglehold__ _n_  
+__strapper__ _n_ A powerfully built, robust person. _Syn_ bruiser, bull, Samson _Grandmother described everyone in larger-than-life terms. Even scrawny Bill from down the block was “a regular strapper.”_  
 __streamside__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __strengthen__ _v_  
@@ -1197,6 +1223,7 @@ __tap into__
 __tap__ _v_  
 __taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __tapioca__ _n_  
+__tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
 __tarnished__  
 __tartan__ _n_ :two::hammer: _Trinket and tartan shops._  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
@@ -1308,8 +1335,9 @@ __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
+__topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
 __toppings__ _n_  
-__torpid__ _adj_ Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
+__torpid__ _adj_ :two: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __toss<sup>1</sup>__ _v_ _Create your own salad to be freshly tossed._  
 __toss<sup>2</sup>__ _n_ _Great fruitcase toss._  
