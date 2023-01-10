@@ -1,3 +1,5 @@
+__(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell do matter._  
+__a breath of fresh air__  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __bear with (someone or something)__  
 __beat down__  
@@ -15,6 +17,7 @@ __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were tot
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
+__break new ground__  
 __brighten up (the) day__  
 __burn the midnight oil__ :two::hammer:  
 __burst at the seams__  
@@ -25,6 +28,7 @@ __by the balls__
 __by the same token__ In the same way.  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call the shots__  
+__cannibalize__ _v_  
 __carry the ball__  
 __cast/shed/throw light on something__ :two::hammer:  
 __cat and mouse__  
@@ -40,6 +44,7 @@ __close call__ _n_
 __close in__  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __cold feet__  
+__come and go__  
 __come to terms__  
 __connect the dots__  
 __cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
@@ -54,6 +59,7 @@ __day and age__
 __day in and day out__  
 __dead man walking__  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
+__do-gooder__  
 __don’t get (one) started__  
 __double down__  
 __down for (something)__  
@@ -102,6 +108,7 @@ __funky__ _With that mix, things get funky._
 __game changer__  
 __game plan__ :two::hammer:  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
+__get (one’s) act together__  
 __get (one’s) shit together__ :two::hammer:  
 __get (something) straight__ _Let’s get this straight._  
 __get a grip__  
@@ -133,6 +140,7 @@ __good for you__ A complimentary expression of encouragement for something that 
 __goof up__  
 __goof__  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
+__half-ass__ :dart: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
@@ -219,7 +227,9 @@ __no sooner (do something) than (do something else)__ One action had just conclu
 __no way__  
 __not even close__  
 __note to self__  
+__nothing ventured, nothing gained__ _proverb_  
 __nuclear family__  
+__nugget of information__  
 __of no account__  
 __off the clock__  
 __off to the side__  
@@ -231,18 +241,21 @@ __on leave__
 __on short notice__  
 __on that note__  
 __on the contrary__ :two::hammer:  
+__on the nose__  
 __on the spur of the moment__  
 __on the verge of__  
 __on the whole__  
 __once and for all__ :two: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
 __out of harm’s way__  
 __out of sight, out of mind__  
+__out with the old, in with the new__  
 __ouy (of) the (starting) gate__  
 __owing to__  
 __party pooper__  
 __pass along__  
 __pave the way__  
 __pay (for something) up front__  
+__pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
 __perfect storm__  
 __piece of shit__  
 __piping hot__  
@@ -252,6 +265,7 @@ __power washing__
 __practice makes perfect__ :two::hammer:  
 __prone to__  
 __pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
+__pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __put (one’s) finger on (something)__  
 __put (oneself) in (someone’s) shoes__  
@@ -330,6 +344,7 @@ __sugar daddy__
 __sugar mommy__  
 __sum up__ _Summing up, we can say that yadda yadda yadda._  
 __Sunday scaries__  
+__sure as hell__ (See _(as) sure as hell_.)  
 __surprise, surprise__  
 __sweep (one) off (one’s) feet__  
 __sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
@@ -445,6 +460,7 @@ __trigger__
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
 __turn the tables__  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
