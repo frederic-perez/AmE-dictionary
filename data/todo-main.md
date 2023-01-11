@@ -1,16 +1,23 @@
 __archnemesis__  
+__ascetic__ _adj_ /uh-SET-ik/  
 __atmospheric river__  
 __bomb cyclone__  
+__bombast__ _n_ /BAHM-bast/ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._  
 __bombastic__ _adj_  
 __bombogenesis__  
+__charlatan__ _n_ /SHAHR-luh-tun/ A person who pretends to know or be something in order to deceive people. _Some people thought he was a great leader, but others saw him as just a charlatan._  
 __conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
 __delegate__ _v_ /DEL-uh-gayt/  
 __disarray__  
 __dour__ _adj_  
 __fortuitous__ _adj_ /for-TOO-uh-tus/ __1__ Happening by chance. _It was rather fortuitous that the two sisters both decided to surprise their parents with a visit on the same weekend._ __2__ Having or showing good luck.  
 __garner__ _v_ /GAHR-ner/ __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
+__genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
 __hark__ _v intr_ To listen attentively.  
+__idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
+__insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
 __jamboree__ _n_  
+__Janus word__ _n_ A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
 __lionize__ _v_ To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
 __miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
@@ -338,6 +345,7 @@ __pediment__ _n_
 __pedorthist__ _n_  
 __peephole__  
 __peerless__ _adj_ _Peerless scenic beauty._  
+__pellucid__ _adj_ Admitting the passage of light; transparent or translucent. _Syn_ transparent, crystal clear, limpid, crystalline, lucid _The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes._  
 __pen__ _v_  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
@@ -1078,6 +1086,7 @@ __steeped__ _v_ :two::hammer: _This region is steeped in history._
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
+__steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __sterling__ _adj_ :two::hammer: _A sterling job._  
@@ -1150,6 +1159,7 @@ __succotash__ _n_ /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of coo
 __succulent__ _n_ A succulent plant, such as a sedum or cactus.  
 __suckle__ _v_  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
+__suffocate__ _v_  
 __sugar beet__ _n_  
 __suited__ _adj_  
 __suitor__ _n_ :two: A man who is courting a woman. _Syn_ suer, wooer _The princess had many suitors, but the only man she was interested in was a poor farmhand._  
@@ -1248,6 +1258,7 @@ __teetotaling__ _n_
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __telco__  
 __telebiometric__ _adj_  
+__teleological__ _adj_ /tel-ee-uh-LAH-jih-kul/ Teleological (and its less common variant _teleologic_) is a philosophical term meaning “exhibiting or relating to purpose or design especially in nature.” _Their teleological theory on the origin of human beings was heavily challenged._  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
@@ -1563,6 +1574,7 @@ __well versed__ _adj_
 __well-read__ _adj_  
 __wellbeing__ _n_  
 __wellrounded__  
+__welter__ _n_ A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._  
 __wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
 __wet suit__ _n_  
 __wetback__  
