@@ -1,25 +1,37 @@
+__ancillary__ _adj_  
 __archnemesis__  
 __ascetic__ _adj_ /uh-SET-ik/  
+__asinine__ _adj_  
 __atmospheric river__  
+__back road__ _n_ A little-used, often unpaved country road.  
 __bomb cyclone__  
 __bombast__ _n_ /BAHM-bast/ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._  
 __bombastic__ _adj_  
 __bombogenesis__  
+__camper__ _n_ :camera:  
 __charlatan__ _n_ /SHAHR-luh-tun/ A person who pretends to know or be something in order to deceive people. _Some people thought he was a great leader, but others saw him as just a charlatan._  
 __conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
+__dehumanize__  
 __delegate__ _v_ /DEL-uh-gayt/  
 __disarray__  
 __dour__ _adj_  
 __fortuitous__ _adj_ /for-TOO-uh-tus/ __1__ Happening by chance. _It was rather fortuitous that the two sisters both decided to surprise their parents with a visit on the same weekend._ __2__ Having or showing good luck.  
+__frolic__ _v intr_ /ˈfrɒl ɪk/  
 __garner__ _v_ /GAHR-ner/ __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
+__gazillion__ _n_  
 __genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
+__giggle__ _v_ :es: reirse tontamente  
+__hair trigger__ _n_ :dart:  
 __hark__ _v intr_ To listen attentively.  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
 __jamboree__ _n_  
 __Janus word__ _n_ A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
 __lionize__ _v_ To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
+__manic episode__ _n_  
 __medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
+__miffed__ _adj_ /mɪft/ Annoyed or upset. _The cat was miffed at being left alone._  
+__mirabile dictu__ _phr_ /mɪˈræbɪleɪ ˈdɪktuː/ _(Literary & Literary Critical Terms)_ Wonderful to relate; amazing to say.  
 __miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
 __mismatch__ _n_ :pencil2:  
 __misphrase__ _v tr_  
@@ -70,6 +82,7 @@ __mosey<sup>1</sup>__ _n_
 __mosey<sup>2</sup>__ _v intr_  
 __mote__ _n_ :two::hammer:  
 __motif__ _n_  
+__motorhome__ _n_ :camera:  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __mousetrap__ _n_  
 __mousy__ _adj_ _A mousy accountant._  
@@ -324,7 +337,7 @@ __pasta__
 __pastime__ _n_ :two::hammer:  
 __pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
 __patina__ _n_ /puh-TEE-nuh/  
-__patron__ _n_ :seven::hammer: (patrons) _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
+__patron__ _n_ :eight: __1__ A person, esp a man, who sponsors or aids artists, charities, etc; protector or benefactor. __2__ A customer of a shop, hotel, etc, esp a regular one. _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
 __patronize__ _v_  
 __patsy__ _n_ /PAT-see/ One who is easily taken advantage of, by being deceived, unfairly blamed, or ridiculed.  
 __patty__ _n_ _Two beef patties topped with knockwurst._  
@@ -336,6 +349,7 @@ __paysleys__ _n_
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
+__peck__ _v_ _I feel like I’m pecked to death by ducks._  
 __peculiar__ _adj_ :three: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
 __pedal boat__ _n_  
 __pedestal__ _n_  
@@ -426,6 +440,7 @@ __plenteous__ _adj_
 __plentiful__  
 __plenty__ _n_ _There are plenty of shops._  
 __plethora__ _n_ :three::hammer:  
+__plop__ _v_ __3__ To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._  
 __plot__ _n_ _Vegetable plot._  
 __plummeted__ _v_  
 __plump__ _v_  
@@ -971,7 +986,7 @@ __smoke__ _v_ _It was cold and our breath smoked._
 __smorgasbord__ _n_ :two::hammer:  
 __snack__ _v_  
 __snare drum__ _n_  
-__snarky__ _adj_ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
+__snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowcat__ _n_ :two::hammer:  
 __snowcoach__ _n_ :two::hammer:  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
@@ -1264,6 +1279,7 @@ __telly__ _n_ :dart:
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
 __temper__ _v_ (tempered)  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
+__temporal landmark__ _n_  
 __tenement__  
 __tenet__ _n_  
 __tenterhook__ _n_  
