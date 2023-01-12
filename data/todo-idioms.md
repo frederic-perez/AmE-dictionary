@@ -1,18 +1,3 @@
-__(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell do matter._  
-__a breath of fresh air__  
-__bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
-__bear with (someone or something)__  
-__beat down__  
-__beg the question__  
-__behind the curtain__  
-__behind the scenes__  
-__big fish__  
-__big time__  
-__billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
-__bite the dust__ _Bite the dust, asteroid!_  
-__blow (one’s) mind__  
-__blue collar__ _Blue collar job._  
-__boiling frog__  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  

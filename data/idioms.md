@@ -7,6 +7,7 @@ __(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad a
 __(as) nice as ninepence__ Very tidy, neat, and well-organized; in good order. _James is so meticulous with his office, always keeping it nice as ninepence._  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(as) silent as the grave__ Totally silent, especially as produces an ominous or foreboding effect. _I knew something was wrong when I walked into the meeting room and all the members of the board were silent as the grave._  
+__(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell do matter._  
 __(deep) in the weeds__  
 __(deep) into the weeds__ :two::hammer:  
 __(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
@@ -65,6 +66,7 @@ __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely th
 __a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
 __a blessing in disguise__ :two: An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
+__a breath of fresh air__  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a cry for help__  
 __a different ball game__  
@@ -417,7 +419,10 @@ __be well versed in (something)__ To be very knowledgeable about, skillful in, o
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __bear hug__  
+__bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
+__bear with (someone or something)__  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
+__beat down__  
 __beat it__ To go away immediately.  
 __beat the bushes (for someone or something)__ To search for someone or something exhaustively and at great length. _I’ve been beating the bushes for a bigger apartment, but there’s nothing out there I can afford!_  
 __beat the clock__ :two: To finish something before the time is up.  
@@ -430,11 +435,12 @@ __been there, done that__
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
-__beg the question__ :two::hammer: _All of this begs the question of Gallego’s own voting record._  
+__beg the question__ :three::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
+__behind the curtain__  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
-__behind the scenes__ Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
+__behind the scenes__ :two: Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
 __behind the times__ Old-fashioned.  
 __belie__ _v_  
 __bell the cat__ To perform a daring act.  
@@ -451,14 +457,16 @@ __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s si
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big cheese__ An influential person.  
 __big deal__  
+__big fish__  
 __big spender__ :two: Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
-__big time__  
+__big time__ :two::hammer:  
 __bigger fish to fry__  
+__billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bitch box__ _rude_ _slang_ An intercom. Typically used in the military. _Ugh, what are they announcing over the bitch box now?_  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the bullet__  
-__bite the dust__ :two::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._  
+__bite the dust__ :three::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._ _Bite the dust, asteroid!_  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
@@ -469,7 +477,7 @@ __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full
 __blood runs cold__ _informal_ To be very frightened.  
 __blood, sweat, and tears__ A lot of effort and suffering.  
 __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and/or conjunctiva (the inside of the eyelid) are colored red due to the prominence of superficial blood vessels. Bloodshot eyes can be the result of a wide range of conditions, including tiredness, eyestrain, irritation, conjunctivitis, injury, or more serious inflammatory conditions. _I’ve got these really bloodshot eyes from studying all night long._  
-__blow (one’s) mind__ :two::hammer:  
+__blow (one’s) mind__ :three::hammer:  
 __blow someone away__  
 __blow someone out of the water__  
 __blow the coop__ To leave or escape (something). _This lecture is so boring. Come on, let’s blow the coop and go get a drink somewhere!_  
@@ -477,10 +485,12 @@ __blow up (one’s) phone__ To call someone repeatedly and/or send someone a lot
 __blow your stack__  
 __blow your top__ To become very angry.  
 __blowhard__ One who tends to speak in an arrogant or conceited manner. _Oh, that guy’s a real blowhard—he’s not nearly as great as he thinks he is._  
+__blue collar__ _Blue collar job._  
 __blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to the bluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
 __blue pill__  
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
+__boiling frog__  
 __bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
 __bonehead__  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
