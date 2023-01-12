@@ -1,18 +1,3 @@
-__dwell__ _v_  
-__eerie__ _adj_ (eery) _Eerie incidents._  
-__egotistical__ _adj_  
-__embark__  
-__engaged__ _adj_ (to marry)  
-__enthused__ _adj_  
-__entitled__ _adj_ :two::hammer:  
-__exam__ _n_ :mega:  
-__factoid__  
-__fastidious__  
-__firm__ _adj_ _A firm closure._  
-__flare__ _v_ _Alarms flaring._  
-__flashy__  
-__floodgate__ _n_  
-__flummox__ _v tr_  
 __forest__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
 __foster care__  
 __frantic__ _adj_ :two::hammer:  

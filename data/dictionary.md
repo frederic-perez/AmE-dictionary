@@ -5164,7 +5164,7 @@ __Dutch oven__ _n_ :two::hammer:
 __Dutch__ _adj_ _Dutch licorice._  
 __duty__ _n_ :two::hammer: _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
-__dwell__ _v_ :two::hammer:  
+__dwell__ _v_ :three::hammer:  
 __dwelling__ _n_  
 __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
 __dyad__  
@@ -5260,7 +5260,7 @@ __edify__ _v_ :two::hammer: /ED-uh-fye/
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
 __eel__ _n_ :two::hammer: _Electric eels._  
-__eerie__ _adj_ :eight::hammer:  
+__eerie__ _adj_ :nine::hammer: (eery) _Eerie incidents._  
 __eerily__ _adv_ :three::hammer:  
 __effect__ _v_ :three::hammer: (effecting) _A view to effecting opportunities._  
 __effeminacy__ _n_  
@@ -5288,7 +5288,7 @@ __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavoring
 __eggs benedict__  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
-__egotistical__ _adj_ :two::hammer:  
+__egotistical__ _adj_ :three::hammer:  
 __egotists__  
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress<sup>1</sup>__ _n_ :three::hammer:  
@@ -5356,7 +5356,7 @@ __emancipation__ _n_ :two: /ih-man-suh-PAY-shun/ Emancipation is the act of free
 __emasculated__ _adj_ (of a male animal) Having the testicles removed.  
 __embankment__  
 __embargo__ _n_  
-__embark__ _v_ _They embark on a motorcade._  
+__embark__ _v_ :two::hammer: _They embark on a motorcade._  
 __embarrass__ _v_ :two::pencil2: /im-BAIR-us/ To cause to experience a state of self-conscious distress. _No one wants to embarrass themselves with spinach stuck in their teeth during a work luncheon—but it happens._  
 __embattle__ _v_ :four::hammer: (embattled)  
 __embellish__ _v_ /im-BELL-ish/  
@@ -5459,7 +5459,7 @@ __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Alt
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ :three::hammer: _I’m engaged with my work._  
-__engaged__ _adj_ __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
+__engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
 __engender__ _v_  
 __engross__ _v_ :three::hammer::dart: (engrossed) _I was engrossed in my thoughts._  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
@@ -5495,12 +5495,13 @@ __entail<sup>2</sup>__ _n_
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
-__enthused__ _adj_ Having been filled with enthusiasm.  
+__enthused__ _adj_ :two: Having been filled with enthusiasm.  
 __enthusiasm__  
 __enthusiastic__ _adj_ :mega:  
 __entice__ _v_ :two::hammer: (enticing)  
 __enticing__ _adj_ :two::hammer: _An enticing outdoor deck._  
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
+__entitled__ _adj_ :two::hammer:  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ _n_ :two::hammer: :es: séquito  
 __entrain__ _v_  
@@ -5667,6 +5668,7 @@ __exaction__ _n_
 __exaggerate__  
 __exaggeration__ _n_ :pencil2:  
 __exalt__ _v_  
+__exam__ _n_ :mega:  
 __exasperate__ _v_ /ig-ZASS-puh-rayt/ _The flight delays began to exasperate people in the airport._  
 __exasperation__ _n_ :two::hammer:  
 __exceed__ _v_  
@@ -5812,7 +5814,7 @@ __fact checker__ _n_ Someone whose job is to make sure that facts are correct, e
 __fact sheet__  
 __faction__ _n_  
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
-__factoid__ _n_ :four: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
+__factoid__ _n_ :five: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
@@ -5919,7 +5921,7 @@ __fast-track<sup>1</sup>__ _adj_ :three: Denoting the quickest or most direct ro
 __fast-track<sup>2</sup>__ _v tr_ :four: To speed up the progress of (a project or person).  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__ _adj_ :six: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
+__fastidious__ _adj_ :seven: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
 __fastidiously__ _adv_ :es: meticulosamente _I was fastidiously watching the clock._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
@@ -6150,7 +6152,8 @@ __fireplace__ _n_ _Gas fireplaces._
 __fireplug__ _n_  
 __firewall__ _v_ :camera: _The pilot firewalled the throttles._  
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
-__firm__ _n_ :dart::mega: /fûrm/  
+__firm<sup>1</sup>__ _adj_ _A firm closure._  
+__firm<sup>2</sup>__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
 __first leg__ _n_  
 __first mate__ _n_ :two::hammer:  
@@ -6234,7 +6237,7 @@ __flapjack__ _n_
 __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
-__flare<sup>2</sup>__ _v_ :three::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._  
+__flare<sup>2</sup>__ _v_ :four::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._ _Alarms flaring._  
 __flash mob__ _n_ A large group of people who gather in a predetermined place to perform some brief action and then disperse.  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president’s push to reduce caaarbon pollution._  
 __flash rust__ _n_ The very rapid onset of rust on a metal substrate.  
@@ -6245,6 +6248,7 @@ __flashback__
 __flashcard__ _n_ (flash card)  
 __flashlight__ _n_  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
+__flashy__  
 __flat file__  
 __flat fishing__ _n_  
 __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
@@ -6323,7 +6327,7 @@ __flock<sup>1</sup>__ _n_
 __flock<sup>2</sup>__ _v_  
 __floe__ _n_ :four::hammer: _Ice floe._  
 __flog__ _v_ :five::hammer: (flogged, flogging)  
-__floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
+__floodgate__ _n_ :three::hammer: _After that, the floodgates opened._  
 __floodlamps__  
 __floodlight__ _n_ :three::hammer:  
 __floor show__  
@@ -6358,7 +6362,7 @@ __fluffy slippers__ _n_ :camera:
 __fluffy__ _adj_ :two::hammer: _Fluffy omelets and giant salads._  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
-__flummox__ _v_ :seven::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
+__flummox__ _v tr_ :eight::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
 __flummoxed__ _adj_ :three: /ˈflʌməkst/ Perplexed or bewildered. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
