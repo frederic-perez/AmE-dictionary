@@ -1,18 +1,3 @@
-__forest__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
-__foster care__  
-__frantic__ _adj_ :two::hammer:  
-__free will__ _n_  
-__front__ _n_  
-__fumble__ _v_  
-__gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
-__gathering__ _n_ _Family gathering._  
-__gist__ _n_ :mega:  
-__godsend__ _n_  
-__gracious__ _adj_  
-__green beret__  
-__guinea pig__ _n_ :mega:  
-__hallelujah__ _n_ :pencil2:  
-__hamper__ _v_  
 __hatred__ _n_ /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
 __headstrong__ _adj_  
 __hermit__ _n_ :mega:  

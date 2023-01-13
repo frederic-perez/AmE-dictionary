@@ -6486,7 +6486,8 @@ __foresee__ _v_ (foreseen)
 __foreseeable__ _adj_ :four::hammer: _The foreseeable future._  
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
-__forest__ _v_  
+__forest<sup>1</sup>__ _n_ /ˈfɔr ɪst, ˈfɒr-/  
+__forest<sup>2</sup>__ _v_  
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ :two: Covered with forest. :es: arbolado _A forested park rich in game._ _A forested municipal park._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
@@ -6530,7 +6531,7 @@ __fortitudinous__ _adj_ Having or showing courage.
 __fortnight__ _n_ :two::hammer:  
 __fortuitous__ _adj_ :pencil2:  
 __fortune telling__ _n_  
-__foster care__ _n_ :three::hammer:  
+__foster care__ _n_ :four::hammer:  
 __foster__ _v_ :four::hammer: _It will foster further technology development._  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
@@ -6573,6 +6574,7 @@ __franchiser__ _n_
 __frangible__ _adj_ :two: Capable of being broken; breakable.  
 __frank__ _v_ (franked)  
 __frankincense__ _n_ :two::astonished: :es: incienso  
+__frantic__ _adj_ :two::hammer:  
 __Frappuccino__  
 __frat house__  
 __frat__ _n_ _informal_ A college fraternity. _A frat house._  
@@ -6596,6 +6598,7 @@ __free lunch__
 __free range__ _n_ :two: Supposed to mean that poultry is allowed to roam without being confined and is fed naturally grown crops, consuming only a vegetarian diet.  
 __free rein__  
 __free ride__ _n_ _informal_ :two: Something that is obtained or granted without cost to or effort by the recipient.  
+__free will__ _n_  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __free-range__ _adj_ (free-ranging) _Free-ranging animals._  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
@@ -6656,7 +6659,8 @@ __from the rooter to the rooter__
 __frondescence__ _n_  
 __front man__ _n_ :two::hammer: (frontman)  
 __front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
-__front__ _v_ _Fronting a band._  
+__front<sup>1</sup>__ _n_  
+__front<sup>2</sup>__ _v_ _Fronting a band._  
 __front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
 __frontline<sup>1</sup>__ _n_ :two::hammer: (front line)  
@@ -6709,7 +6713,7 @@ __fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To 
 __fulsome__ _adj_ :two: /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. Excessively or insincerely lavish: _fulsome admiration._ _Our guests were fulsome in their compliments about the food._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __fumarole__ _n_ A hole in a volcanic area from which hot smoke and gases escape.  
 __fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
-__fumble<sup>2</sup>__ _v_ :two::hammer: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
+__fumble<sup>2</sup>__ _v_ :three::hammer: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fume<sup>1</sup>__ _n_  
 __fume<sup>2</sup>__ _v_ :three::hammer: _My father was fuming._  
@@ -6782,7 +6786,7 @@ __gainsay__ _v_ /gayn-SAY/ Gainsay is a formal word that means “to deny or dis
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gaiter__ _n_  
 __gal__  
-__gala__ _n_ :two: __1__ A festive occasion, especially a lavish social event or entertainment.  
+__gala__ _n_ :three: __1__ A festive occasion, especially a lavish social event or entertainment.  
 __Galahad__ _n_ __1__ In Arthurian legend, the purest of the Knights of the Round Table who alone succeeded in the quest for the Holy Grail. __2__ One considered to be noble, pure, or chivalrous. _I’m not a Galahad. I’m a bully, too._  
 __galboy__ _n_  
 __gale__ _n_ :four: An extremely strong wind: _the gale blew down hundreds of trees._  
@@ -6870,7 +6874,7 @@ __gated community__ _n_ :two::hammer:
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
 __gatekeeper__ _n_ :four::hammer:  
 __gateway__ _n_ :two::hammer:  
-__gathering__ _n_ _Family gathering._  
+__gathering__ _n_ :two::hammer: _Family gathering._  
 __Gatling gun__ _n_  
 __gauche__ _adj_ :two: /GOHSH/ Lacking grace or social polish; awkward or tactless. _Syn_ unpolished, graceless _Wendy was quite friendly, but her lack of manners made her seem gauche in formal settings._  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
@@ -6995,7 +6999,7 @@ __girdle<sup>1</sup>__ _v_ (girdled)
 __girdle<sup>2</sup>__ _n_ :two: __1a__ A belt or sash worn around the waist. __b__ Something that encircles like a belt. __c__ An elasticized, flexible undergarment worn over the waist and hips to give the body a more slender appearance.  
 __giridon__  
 __girth__ _n_ The distance around something; the circumference. _Syn_ circumference, perimeter _It was an enormous tree, its girth twice as great as what a man could embrace._  
-__gist__ _n_ :mega:  
+__gist__ _n_ :two::mega::hammer:  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _n_ _informal_ _chiefly US_ Guantánamo  
 __give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield. _I’m never giving in._  
@@ -7106,7 +7110,7 @@ __goblin__ _n_ :four::hammer: (goblins)
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
-__godsend__ _n_ :three: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
+__godsend__ _n_ :four: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
 __Godspeed__ _n_ _And Godspeed to you all._  
 __Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __gofer__ _n_ _slang_  
@@ -7180,7 +7184,7 @@ __governance__ _n_
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._ _Priceless pieces from The Beatles grace the walls._  
-__gracious__ _adj_ :eight::hammer: _He was very gracious._ _An attitude of gracious humility._ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
+__gracious__ _adj_ :nine::hammer: _He was very gracious._ _An attitude of gracious humility._ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
 __grade<sup>1</sup>__ _n_ :three::hammer: _The grade over the mountain was well protected._ _Their jeep waited at a grade crossing for five minutes._  
@@ -7263,6 +7267,7 @@ __great-granddaughter__ _n_ :pencil2: (great granddaughter)
 __great-grandfather__ _n_  
 __great-grandsons__  
 __greave__ _n_ :three::hammer: (greaves) _The man wore a mail vest and greaves._  
+__green beret__  
 __green card marriage__ _n_ A marriage of convenience between a legal resident of the United States of America and a person who would be ineligible for residency but for being married to the resident.  
 __green card wedding__  
 __green thumb__ _n_ _Not everyone has a green thumb._  
@@ -7409,7 +7414,7 @@ __guillemots__ _n_
 __guillotine__ _n_ :mega:  
 __guilt__ _n_ :mute:[g~~u~~ilt]  
 __guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_  
-__guinea pig__ _n_ :mega:  
+__guinea pig__ _n_ :two::mega::hammer:  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ _n_ :camera:  
 __guitar__ _n_ :two::mega::mute:[g~~u~~itar]:hammer:  
@@ -7536,6 +7541,7 @@ __halfback__
 __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
 __halibut__ _n_  
 __hall boy__ _n_  
+__hallelujah__ _n_ :pencil2:  
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :eight: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic. _High fashion is the hallmark of that boutique._  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
@@ -7551,7 +7557,7 @@ __hamlet__ _n_ :five::hammer:
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper<sup>1</sup>__ _n_ :three::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
-__hamper<sup>2</sup>__ _v_ :astonished::five::hammer: (hampered)  
+__hamper<sup>2</sup>__ _v_ :astonished::six::hammer: (hampered)  
 __Hamsa__ _n_  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
 __hamstring__ _n_ :four::hammer: /ˈhæmˌstrɪŋ/  
