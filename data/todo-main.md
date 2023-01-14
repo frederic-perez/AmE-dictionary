@@ -1,4 +1,6 @@
+__amygdala__ _n_  
 __ancillary__ _adj_  
+__angst__ _n_  
 __archnemesis__  
 __ascetic__ _adj_ /uh-SET-ik/  
 __asinine__ _adj_  
@@ -10,30 +12,49 @@ __bombastic__ _adj_
 __bombogenesis__  
 __camper__ _n_ :camera:  
 __charlatan__ _n_ /SHAHR-luh-tun/ A person who pretends to know or be something in order to deceive people. _Some people thought he was a great leader, but others saw him as just a charlatan._  
+__chug__ _v_ _Chug the entire bottle._  
+__churn__ _v_  
+__conduit__ _n_ :mega:  
 __conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
+__crave__ _v_  
+__creep__ _n_  
 __dehumanize__  
 __delegate__ _v_ /DEL-uh-gayt/  
 __disarray__  
 __dour__ _adj_  
+__embody__ _v_  
+__endless__  
+__epiphany__ _n_ :mega:  
+__equip__ _v_ :mega:  
+__exude__ _v_  
 __fortuitous__ _adj_ /for-TOO-uh-tus/ __1__ Happening by chance. _It was rather fortuitous that the two sisters both decided to surprise their parents with a visit on the same weekend._ __2__ Having or showing good luck.  
 __frolic__ _v intr_ /ˈfrɒl ɪk/  
+__garbage__ _n_ :mega:  
 __garner__ _v_ /GAHR-ner/ __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
 __gazillion__ _n_  
 __genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
 __giggle__ _v_ :es: reirse tontamente  
+__godsend__  
 __hair trigger__ _n_ :dart:  
 __hark__ _v intr_ To listen attentively.  
+__honor__ _v_  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
+__invalidating__ _adj_ _Invalidating people._  
 __jamboree__ _n_  
 __Janus word__ _n_ A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
 __lionize__ _v_ To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
+__LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
+__lurk__ _v_  
+__maladaptive__ _adj_  
 __manic episode__ _n_  
 __medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
+__mellow<sup>1</sup>__ _adj_  
+__mellow<sup>2</sup>__ _v_ To make or become mellow; soften; mature.  
 __miffed__ _adj_ /mɪft/ Annoyed or upset. _The cat was miffed at being left alone._  
 __mirabile dictu__ _phr_ /mɪˈræbɪleɪ ˈdɪktuː/ _(Literary & Literary Critical Terms)_ Wonderful to relate; amazing to say.  
 __miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
-__mismatch__ _n_ :pencil2:  
+__mismatch__ _n_ :two::pencil2::hammer:  
 __misphrase__ _v tr_  
 __misstep__ _n_ :two::pencil2::hammer:  
 __mix-and-match__ _adj_ _Mix-and-match designs._  
@@ -188,6 +209,7 @@ __novella__ _n_
 __novices__ _n_  
 __nuance__ _n_ :two::mega: /NOO-ahnss/ A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._  
 __nubbly__  
+__numb__ _v_  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
 __nutrition label__ _n_  
@@ -235,6 +257,7 @@ __ontology__ _n_
 __onus__ _n_ :two: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
 __onyx__  
 __oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
+__ooze__ _v_  
 __op-ed__ _adj, n_ :mega:  
 __opalesce__ _v intr_ To exhibit a milky iridescence.  
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
@@ -273,6 +296,7 @@ __outpost__ _n_
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
+__outrun__ _v_  
 __outshine__ _v_  
 __outsourcing__  
 __outwear__ _n_  
@@ -570,6 +594,7 @@ __purveyor__
 __pushback__ _n_  
 __pustule__ _n_  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
+__Pygmalion__ _n_ :mega:  
 __pylon__ _n_  
 __pyrite__ _n_ _Syn_ fool’s gold  
 __quadragenarian__ _adj, n_  
@@ -580,6 +605,7 @@ __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, r
 __quake__ _v_ :two::hammer: _The trains emerge from a sea of quaking aspens._  
 __qualify__ _v_  
 __qualm__ _v_  
+__quarantine__ _n_ :mega:  
 __quench__ _v_ :two::hammer:  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
@@ -752,6 +778,7 @@ __runway__ _n_
 __Russian salad__ _n_  
 __rustle__ _v_ _The quiet rustling of the river._  
 __rut__ _n_  
+__Rx__  
 __s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers.  
 __sable__ _n_ (animal)  
 __saccade__ _n_  
@@ -766,6 +793,7 @@ __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented
 __salamander__ _n_  
 __salient__ _adj_ /SAIL-yunt/  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
+__saludatory__  
 __samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
@@ -797,6 +825,7 @@ __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina
 __scalp__ _n_ __3__ A trophy or token signifying conquest.  
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
+__scapegoat__ _n_  
 __scapula__ _n_  
 __scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
 __scar__ _v_  
@@ -1030,9 +1059,10 @@ __spent volcano__
 __sphinx__ _n_  
 __spiffed__ _v_  
 __spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
+__spike__ _v_  
 __spindle__ _n_  
 __spinner__ _n_  
-__spiral__ _v_ _It spirals out of control._  
+__spiral__ _v_ :two::hammer: _It spirals out of control._  
 __spire__ _n_ :four::hammer:  
 __splashdown__ _n_ :dart: The landing of a crewed spacecraft in the ocean.  
 __splendid__ _adj_  
@@ -1288,6 +1318,7 @@ __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or am
 __terra cotta__ _n_ :pencil2:  
 __terraform__ _v_  
 __terrazzo__  
+__terrific__ _adj_ _The traffic is terrific._  
 __testament__ _n_  
 __testbed__ _n_ :two::hammer:  
 __textbook__ _n_ A book used in schools or colleges for the formal study of a subject.  
@@ -1382,6 +1413,7 @@ __trailhead__ _n_ :two::hammer:
 __trample__ _v_  
 __transmogrify__ _v_ /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __trashy__  
+__travelogue__ _n_  
 __travertine__ _n_  
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
@@ -1402,6 +1434,7 @@ __trim__ _n_ _Metallic trim._
 __trimmings__ _n_ _A delicious dinner complete with all the trimmings and free seconds._  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
 __trip__ _v_ _Tripping the fuses._  
+__trippy__  
 __trivial__ _adj_ /TRIV-ee-ul/ Of little worth or importance.  
 __trolley__ _n_ :two::hammer: _A motorized trolley._  
 __trompe-l’oeil__  
@@ -1409,6 +1442,8 @@ __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._
 __trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
 __trout__ _n_ (_n pl_ trout or trouts)  
 __trove__ _n_ :three::hammer:  
+__trudge<sup>1</sup>__ _v_  
+__trudge<sup>2</sup>__ _n_  
 __truffles__ _n_ :pencil2:  
 __trunk__ _n_ _Leatherbound Tibetan trunks._  
 __truss__ _n_ _Trusses of grapes._  
@@ -1492,6 +1527,7 @@ __unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free
 __unwittingly__  
 __up to now__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
+__upend__  
 __upheaval__ _n_  
 __upholder__ _n_  
 __upkeep__ _n_ _Chalkboards did not require much upkeep._  
@@ -1603,7 +1639,7 @@ __wherry__ _n_
 __whimsical__ _adj_  
 __whinge<sup>1</sup>__ _v intr_ /whinj/ To complain or protest, especially in an annoying or persistent manner.  
 __whinge<sup>2</sup>__ _n_ A whine or complaint.  
-__whiplash__ _n_ _An amazing, whiplash-inducing performance._  
+__whiplash__ _n_ :two::hammer: _An amazing, whiplash-inducing performance._  
 __whirlpool__ _n_  
 __whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
 __whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
