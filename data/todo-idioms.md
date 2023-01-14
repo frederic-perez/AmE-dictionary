@@ -1,9 +1,14 @@
+__at its worst__  
+__badass__ :three::hammer:  
+__be off the rails__  
+__bear hug__  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __break new ground__  
 __brighten up (the) day__  
+__bump someone or something up__  
 __burn the midnight oil__ :two::hammer:  
 __burst at the seams__  
 __burst through (something)__  
@@ -12,7 +17,9 @@ __by any chance__ :dart: Used as a polite emphasis to a request or question. _Wo
 __by the balls__  
 __by the same token__ In the same way.  
 __call it a day__ _If there are no further points, then let’s call it a day._  
+__call out__ _Never call out a narcissist._  
 __call the shots__  
+__can’t thank you enough__  
 __cannibalize__ _v_  
 __carry the ball__  
 __cast/shed/throw light on something__ :two::hammer:  
@@ -28,9 +35,10 @@ __circle the drain__ To be in a state of severe deterioration such that one is a
 __close call__ _n_  
 __close in__  
 __close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
+__cold call__  
 __cold feet__  
 __come and go__  
-__come to terms__  
+__come to terms__ :two::hammer:  
 __connect the dots__  
 __cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
 __crash course__  
@@ -62,12 +70,13 @@ __even more so__ :two::hammer:
 __every so often__ :two: Sometimes; occasionally. _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everything under the sun__  
 __face value__  
-__fall off the wagon__  
+__fall off the wagon__ :two::hammer:  
 __fall short of__  
 __fall short__  
 __false alarm__  
 __fan service__  
 __faux pass__  
+__feeling on edge__  
 __fend off__  
 __few and far between__  
 __fight the good fight__  
@@ -76,6 +85,7 @@ __first things first__ :two::hammer:
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
 __flat-earther__  
 __flesh out__  
+__floored__ _I am floored._  
 __fly on the wall__  
 __food baby__  
 __food coma__  
@@ -86,6 +96,7 @@ __for the sake of__ :two::hammer: _For the sake of clarity._
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __fourth wall__ The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
 __fox’s sleep__ A state of apparent sleep (or feigned indifference) in which someone is actually aware of everything going on around them. Alludes to the idea that foxes sleep with one eye open and thus are always at the ready. _I think Amy is just in a fox’s sleep, so be careful what you say right now._  
+__free spirit__  
 __Friendsgiving__  
 __frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
@@ -107,13 +118,15 @@ __get the edge__
 __get the hang of something__  
 __get your shit together__  
 __give (one) a pass__  
-__give in__ _Give in to our fears._  
+__give in__ :two::hammer: _Give in to our fears._  
 __gloss over (something)__  
 __go a long way__  
 __go apeshit__  
 __go berserk__  
+__go down in/make history__  
 __go downhill__  
 __go figure__  
+__go for a run__  
 __go for the jugular__ _Go straight for the jugular._  
 __go hand in hand__  
 __go overboard__  
@@ -131,6 +144,7 @@ __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpl
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a trick up (one’s) sleeve__  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
+__have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
 __head and shoulders__  
 __head-spinning__ :two: Incredible, overwhelming.  
 __heads up__ _Thanks for giving me the heads up._  
@@ -167,6 +181,7 @@ __in the gutter__
 __in the long term__  
 __in the public eye__  
 __in this day and age__  
+__it is not a competition__  
 __jacked chad__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
@@ -179,6 +194,7 @@ __kindred spirit__
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __land on (one’s) feet__  
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__lay off__  
 __lead domino__ :two::hammer:  
 __leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
 __learn the ropes__  
@@ -187,14 +203,20 @@ __let down__
 __lie ahead of (someone or something)__  
 __line of work__  
 __living proof__ :two::hammer:  
+__long story short__  
+__lose face__  
 __lost cause__  
 __lost for words__ (at a loss for words)  
 __lost on me__ _It is not lost on me._  
 __love (someone) to the moon (and back)__  
+__lump in (one’s) throat__  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
+__marinate__  
+__maternity leave__  
 __mean the world to (one)__ :dart:  
 __meant to be__  
 __mess with (someone or something)__  
+__mill about__  
 __miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
 __missing link__  
 __mixed bag__  
@@ -208,6 +230,7 @@ __name names__ :two::hammer: _I will not go naming names here._
 __narrow down__  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __night and day__  
+__no picnic__ _This is no picnic._  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no way__  
 __not even close__  
@@ -222,13 +245,16 @@ __off-kilter__
 __on (one’s) own righ__  
 __on a different note__  
 __on demand__ _Requested on demand._  
+__on edge__  
 __on leave__  
 __on short notice__  
 __on that note__  
 __on the contrary__ :two::hammer:  
+__on the lookout__  
 __on the nose__  
+__on the rocks__ _Your marriage is on the rocks._  
 __on the spur of the moment__  
-__on the verge of__  
+__on the verge of__ :two::hammer:  
 __on the whole__  
 __once and for all__ :two: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
 __out of harm’s way__  
@@ -236,6 +262,7 @@ __out of sight, out of mind__
 __out with the old, in with the new__  
 __ouy (of) the (starting) gate__  
 __owing to__  
+__panic attack__  
 __party pooper__  
 __pass along__  
 __pave the way__  
@@ -257,17 +284,21 @@ __put (oneself) in (someone’s) shoes__
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put out fires__  
 __put to the test__  
-__put up with__  
+__put up with__ :two::hammer:  
 __put up__  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
+__red herring__  
+__relate to (someone or something)__  
 __relief party__  
 __rest assured__  
 __rest on her laurels__  
 __rest on one’s laurels__  
+__riddle with__  
 __riddled with__  
 __rip (someone or something) to shreds__  
+__rock bottom__  
 __rock the boat__  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
 __roll (one’s) eyes__ :two::hammer:  
@@ -278,7 +309,7 @@ __rubber stamp__
 __run the show__  
 __run with it__  
 __running bit__  
-__save face__  
+__save face__ :two::hammer:  
 __save the day__ :two::hammer:  
 __schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism, especially in art, music, or writing. Originally from Yiddish. _The film is pretty schmaltzy, to be sure, but it would take a heart of stone not to be moved by it all the same._  
 __second-class citizen__  
@@ -349,7 +380,9 @@ __take a bawling out__ To receive a very severe rebuke, chastisement, or scoldin
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
 __take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
 __take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
+__take a deep breath__  
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
+__take a pass__  
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
@@ -369,8 +402,10 @@ __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/o
 __tall order__  
 __tall tale__ :three::hammer:  
 __tap into (something)__ :four::hammer: _Tap into the dark side of the Force._  
+__tape into__  
 __teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
+__tell apart__  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
 __test (one’s) mettle__  
 __test the water(s)__  
@@ -380,6 +415,7 @@ __that being said__
 __that’s a given__  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
 __the big picture__  
+__the bigger picture__  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
@@ -425,6 +461,7 @@ __time capsule__
 __to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
+__to be in a better place__  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to name (but) a few__ :two::hammer:  
@@ -446,6 +483,7 @@ __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to 
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
+__turn tables__  
 __turn the tables__  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
@@ -454,7 +492,7 @@ __uncanny valley__
 __under one’s thumb__  
 __under the yolk__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
-__unpack__ To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
+__unpack__ :three: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
 __unsung hero__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
