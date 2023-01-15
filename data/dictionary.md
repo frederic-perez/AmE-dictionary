@@ -6659,9 +6659,9 @@ __from the rooter to the rooter__
 __frondescence__ _n_  
 __front man__ _n_ :two::hammer: (frontman)  
 __front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
+__front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __front<sup>1</sup>__ _n_  
 __front<sup>2</sup>__ _v_ _Fronting a band._  
-__front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
 __frontline<sup>1</sup>__ _n_ :two::hammer: (front line)  
 __frontline<sup>2</sup>__ _adj_ :two: (front-line) __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
@@ -7689,7 +7689,7 @@ __hatch<sup>2</sup>__ _v_ :eight: (hatches, hatched) To contrive or devise (a sc
 __hatcheck girl__  
 __hatchery__ _n_ :two: A place for hatching eggs (as of poultry or fish). _A fish hatchery._ :es: criadero, vivero  
 __hatchet__ _n_ :two::hammer:  
-__hatred__ _n_  
+__hatred__ _n_ :two: /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
 __hauberk__ _n_ (Arms & Armour (excluding Firearms)) A long coat of mail, often sleeveless.  
 __haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
@@ -7754,7 +7754,7 @@ __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up
 __headscarf__ _n_  
 __headshot__ _n_ :dart::two::hammer:  
 __headstone__ _n_ :three::hammer:  
-__headstrong__ _adj_ :two::dart: Determined to have one’s own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
+__headstrong__ _adj_ :three::dart: Determined to have one’s own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
@@ -7888,7 +7888,7 @@ __heretofore__ _adv_ :two::hammer:
 __heriot__ _n_  
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
-__hermit__  
+__hermit__ _n_ :two::mega::hammer:  
 __hermitage__ _n_ /ˈhɜr mɪ tɪdʒ/ The habitation of a hermit or group of hermits. _Syn_ abbey, monastery, retreat _He spent two years in his hermitage near the lake, pondering the mysteries of the universe._  
 __Herod__ _n_  
 __Herodotus__ _n_  
@@ -7943,7 +7943,7 @@ __high-tail__ _v_
 __highball__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_ :two::hammer:  
 __highlands__  
-__highlight__ _v_  
+__highlight__ _v_ :two::hammer:  
 __highly__ _adv_ _I highly recommend it._  
 __hightail__ _v intr_ [:scroll: From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.] To move quickly, especially in retreat or in fleeing.  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
@@ -8082,6 +8082,7 @@ __homestand__ _n_ :six: A series of games played at a team’s home field.
 __homestead<sup>1</sup>__ _n_ :eight::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
+__homicide__  
 __homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
@@ -8217,7 +8218,7 @@ __housebound__
 __housecarls__  
 __housecleaner__ _n_  
 __housecoat__ _n_ A woman’s garment, usually long and loose, used for informal wear at home.  
-__household<sup>1</sup>__ _n_ :two::hammer:  
+__household<sup>1</sup>__ _n_ :three::hammer:  
 __household<sup>2</sup>__ _adj_ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
@@ -8351,7 +8352,7 @@ __ice-cold__ _adj_
 __ice-slick chain__  
 __iceblink__ _n_ _We had perfect iceblink conditions._  
 __icebox__ _n_  
-__icicles__ _n_ :two::hammer:  
+__icicle__ _n_ :three::hammer: :es: carámbano  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __icky__ _adj_ :three::hammer:  
 __iconoclasm__  
@@ -8360,7 +8361,7 @@ __iconoclastic__
 __ID window__  
 __id__ _n_  
 __ideation__ _n_ :two::hammer:  
-__identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
+__identical twin__ _n_ :two: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __ides__ _n_  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
@@ -8437,12 +8438,13 @@ __impermissible__ _adj_ :two::hammer:
 __impersonation__  
 __impervious__ _adj_ :nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
 __impetuous__ _adj_  
-__impetus__ _n_ :six: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
+__impetus__ _n_ :seven: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
 __impish__ _adj_ Of or befitting an imp; mischievous. _Impish sense of humor._  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
+__implode__ _v_  
 __importune__ _v_ Beg persistently and urgently. _Syn_ insist  
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
 __imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
@@ -8619,7 +8621,7 @@ __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_
 __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
 __inglenook__  
 __ingots__ _n_ :two::hammer::pencil2::  
-__ingrain__ _v_ :two: To fix deeply or indelibly, as in the mind.  
+__ingrain__ _v_ :three: To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :five::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ An ungrateful person.  
 __ingratiate__ _v_ :three::hammer:  
@@ -8762,7 +8764,7 @@ __invective__ _n_ :six: /in-VEK-tiv/ Invective means “insulting or abusive lan
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inverness__ _n_  
-__invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
+__invest__ _v_ :two::hammer: _The Black Prince could be starved out if the French chose to surround and invest him._  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
 __invigorating__ _adj_  
@@ -8819,6 +8821,7 @@ __Italianate__ _adj_ Italian in style or character.
 __italicize__ _v_  
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __iteration__ _n_ :mega: /ˌɪt əˈreɪ ʃən/  
+__iterative__ _adj_ :mega: /ˈɪt əˌreɪ tɪv, -ər ə tɪv/  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ :two: Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
@@ -8918,6 +8921,7 @@ __jet blast deflector__
 __jet blast__  
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
 __jetliners__  
+__jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jettison__ _v_ :eight: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
 __jetty<sup>1</sup>__ _n_ :two::hammer:  
 __jetty<sup>2</sup>__ _adj_  
@@ -8931,7 +8935,7 @@ __jibe<sup>2</sup>__ _v_ :six: (jibes) To be in accord; agree. _Syn_ correspond,
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
-__jigsaw__ _n_ :two::hammer: (jigsaws)  
+__jigsaw__ _n_ :three::hammer: (power tool, not puzzle)  
 __jilt__ _v_ :six: (jilted) To deceive or drop (a lover) suddenly or callously. _Syn_ forsake _Since being jilted by his fiancée, he had grown to distrust all women._ _Jilted at the altar._  
 __jilted__ _adj_ Rebuffed (by a lover) without warning.  
 __Jim Crow<sup>1</sup>__ _n_  

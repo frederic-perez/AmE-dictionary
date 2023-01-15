@@ -1,18 +1,3 @@
-__hatred__ _n_ /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
-__headstrong__ _adj_  
-__hermit__ _n_ :mega:  
-__highlight__ _v_  
-__homicide__  
-__household__ _n_  
-__icicle__ _n_ :es: carámbano  
-__identical twin__ _n_ Either of two twins developed from the same fertilized ovum (having the same genetic material).  
-__impetus__  
-__implode__ _v_  
-__ingrain__ _v_  
-__invest__ _v_ (invested)  
-__iterative__ _adj_ :mega: /ˈɪt əˌreɪ tɪv, -ər ə tɪv/  
-__jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
-__jigsaw__ _n_ (power tool, not puzzle)  
 __Kendall__ _n_ /ˈkɛndəl/  
 __Kevin__ _n_ /ˈkɛvɪn/  
 __kiddo__  
