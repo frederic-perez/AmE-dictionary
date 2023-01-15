@@ -50,6 +50,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Mo Welch](https://www.youtube.com/results?gl=US&search_query=Mo+Welch)
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
+- [Nate Bargatze](https://www.youtube.com/results?gl=US&search_query=Nate+Bargatze)
 - [Nick Kroll](https://www.youtube.com/results?gl=US&search_query=Nick+Kroll)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Patton Oswalt](https://www.youtube.com/results?gl=US&search_query=Patton+Oswalt)
@@ -70,6 +71,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Steven Wright](https://www.youtube.com/results?gl=US&search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
 - [Thomas Middleditch](https://www.youtube.com/results?gl=US&search_query=Thomas+Middleditch)
 - [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan comedy.
+- [Tom Segura](https://www.youtube.com/results?gl=US&search_query=Tom+Segura)
 - [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
 - [Wayne Brady](https://www.youtube.com/results?gl=US&search_query=Wayne+Brady)
 - [Whitney Cummings](https://www.youtube.com/results?gl=US&search_query=Whitney+Cummings)
