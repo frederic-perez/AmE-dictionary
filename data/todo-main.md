@@ -1,18 +1,3 @@
-__amygdala__ _n_  
-__ancillary__ _adj_  
-__angst__ _n_  
-__archnemesis__  
-__ascetic__ _adj_ /uh-SET-ik/  
-__asinine__ _adj_  
-__atmospheric river__  
-__back road__ _n_ A little-used, often unpaved country road.  
-__bomb cyclone__  
-__bombast__ _n_ /BAHM-bast/ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._  
-__bombastic__ _adj_  
-__bombogenesis__  
-__camper__ _n_ :camera:  
-__charlatan__ _n_ /SHAHR-luh-tun/ A person who pretends to know or be something in order to deceive people. _Some people thought he was a great leader, but others saw him as just a charlatan._  
-__chug__ _v_ _Chug the entire bottle._  
 __churn__ _v_  
 __conduit__ _n_ :mega:  
 __conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  

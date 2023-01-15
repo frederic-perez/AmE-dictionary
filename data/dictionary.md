@@ -502,6 +502,7 @@ __amplification__ _n_ __2__ Material added to a statement, story, etc, in order 
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
 __amusement park__ _n_ :three::hammer:  
+__amygdala__ _n_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__  
 __anal bleaching__ _n_  
@@ -517,7 +518,7 @@ __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathe
 __anchor<sup>1</sup>__ _n_ :mute:[anc~~h~~or]  
 __anchor<sup>2</sup>__ _v_ :mute:[anc~~h~~or] _Does your kid aspire to anchor the evening news?_  
 __anchovies__  
-__ancillary<sup>1</sup>__ _adj_ :six::mega::hammer: _Ancillary study end points._  
+__ancillary<sup>1</sup>__ _adj_ :seven::mega::hammer: _Ancillary study end points._  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
@@ -726,6 +727,7 @@ __archipelago__ _n_ :five::hammer::mega::pencil2: _Archipelago nation._ _The Phi
 __architect__ _n, v_ :two::hammer::mute:[arc~~h~~itect] _He architected the first mesh optical network._  
 __architecture__ _n_ :mega:  
 __archivist__  
+__archnemesis__  
 __archpriest__ _n_  
 __archrival__ _n_  
 __archway__ _n_  
@@ -793,7 +795,7 @@ __ascendancy__ _n_ _Walt is in ascendancy in his criminal enterprise._
 __ascent__ _n_ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :three::hammer:  
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
-__ascetic<sup>1</sup>__ _n_ :two: A person who renounces material comforts and leads a life of austere self-discipline, especially as an act of religious devotion. _Syn_ abstainer _His rough clothes and starved frame gave him the look of an ascetic, and he refused the food they tried to give him._  
+__ascetic<sup>1</sup>__ _n_ :three: /uh-SET-ik/ A person who renounces material comforts and leads a life of austere self-discipline, especially as an act of religious devotion. _Syn_ abstainer _His rough clothes and starved frame gave him the look of an ascetic, and he refused the food they tried to give him._  
 __ascetic<sup>2</sup>__ _adj_  
 __asceticism__ _n_  
 __ascot__ _n_ :two::hammer:  
@@ -805,7 +807,7 @@ __ashen__ _adj_ :three::hammer::pencil2: _His face turned ashen._ _Tired-looking
 __ashen-faced__  
 __ashlar__ _n_ :es: sillar  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
-__asinine__ _adj_ :pencil2::five: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
+__asinine__ _adj_ :six::pencil2: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
@@ -878,6 +880,7 @@ __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery us
 __athwart__ _adv, prep_ :two::hammer:  
 __athwartships__ _adv_ Across a ship from side to side.  
 __atlatl__ _n_  
+__atmospheric river__  
 __atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water, raw sugar, cinnamon, and vanilla and is served warm.  
 __atoll__ _n_ :es: atolón  
 __atolls__ _n_  
@@ -1016,7 +1019,7 @@ __back down__ _v_ :two::hammer:
 __back end__ _n_ _Dante Exi, started two games at the back end of the trip._  
 __back off__ _phr v_ :five: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
-__back road__ _n_ _Cycle low-traffic back roads._  
+__back road__ _n_ :two: A little-used, often unpaved country road. _Cycle low-traffic back roads._  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you’re standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-office__ _adj_ Of or relating to the inner workings of a business or institution. _Syn_ internal _Back-office analytics._  
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
@@ -1760,11 +1763,13 @@ __bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with ra
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
+__bomb cyclone__  
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
-__bombast__ _n_ :seven: __1__ Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
-__bombastic__ _adj_ :two: To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
+__bombast__ _n_ :eight: /BAHM-bast/ __1__ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
+__bombastic__ _adj_ :three: To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _v intr_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
 __bombing__ _v_  
+__bombogenesis__  
 __bombshell__ _n_  
 __bombsights__  
 __bon ton__  
@@ -2441,7 +2446,7 @@ __camp<sup>2</sup>__ _adj_ :two::hammer: _A classic camp comedy._
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
 __camper shell__  
-__camper__ _n_ :four::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
+__camper__ _n_ :five::camera::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
 __campground__ _n_ :three: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
 __campier__ _adj_ _Campier presentations._  
@@ -2796,7 +2801,7 @@ __chargrilled__ _adj_ :two: (of meat) Grilled over charcoal. _Syn_ charbroiled _
 __charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
 __charisma__ _n_ :two::mute:[c~~h~~arisma]:hammer: /kuh-RIZ-muh/  
-__charlatan__ _n_ :three: A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._  
+__charlatan__ _n_ :four: /SHAHR-luh-tun/ A person who pretends to know or be something in order to deceive people. A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._ _Some people thought he was a great leader, but others saw him as just a charlatan._  
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect’s basement left little doubt that he was the killer we were seeking._ _It served as the hospital’s charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
@@ -2974,7 +2979,7 @@ __chuckle<sup>2</sup>__ _v_ :three::hammer: (chuckled)
 __chucklers__  
 __chuff__ _v_ :two: To produce or move with noisy puffing or explosive sounds. _Trains chuffing._  
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
-__chug<sup>2</sup>__ _v_ :four: To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._ _A cocktail to chug._ _We’re chugging along._  
+__chug<sup>2</sup>__ _v_ :five: To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._ _A cocktail to chug._ _We’re chugging along._ _Chug the entire bottle._  
 __Chugging beers__  
 __chukar__ _n_  
 __chum__ _n_ :five: (chums) __1__ An intimate friend or companion. _Two college chums._ _We’re old school chums._ __2__ Bait usually consisting of oily fish ground up and scattered on the water. _Fish chum._  
