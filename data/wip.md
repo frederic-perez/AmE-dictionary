@@ -1,18 +1,3 @@
-__Kendall__ _n_ /ˈkɛndəl/  
-__Kevin__ _n_ /ˈkɛvɪn/  
-__kiddo__  
-__lamest__ _adj_ (from _lame_)  
-__layman__  
-__legwork__  
-__levelheaded__ _adj_  
-__lever__ _n_  
-__living space__  
-__lodging__ _n_  
-__lull__ _v_ :mega:  
-__madness__ _n_ :mega: /ˈmæd nɪs/ _This is madness._  
-__mania__  
-__mantra__ _n_  
-__mayhem__ _n_ /ˈmeɪ hɛm, ˈmeɪ əm/  
 __measly__ _adj_ _All that abuse for a measly $20?_  
 __meekly__  
 __miasma__  

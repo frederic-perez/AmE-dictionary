@@ -9099,6 +9099,7 @@ __kegger__ _n_
 __keiretsu__ _n_  
 __kelp__ _n_ :three::hammer:  
 __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
+__Kendall__ _n_ /ˈkɛndəl/  
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
 __kerchief__ _n_  
@@ -9107,6 +9108,7 @@ __kersey__ _n_
 __keseboy__  
 __ketamine__ _n_ (Special K)  
 __kettledrum__ _n_ :es: timbal  
+__Kevin__ _n_ /ˈkɛvɪn/  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keylogger__ _n_ A software program or hardware device that records or transmits a user’s keystrokes, and in some cases periodic screen shots, and is usually installed without the user’s knowledge.  
 __keysmash<sup>1</sup>__ _n_  
@@ -9130,7 +9132,7 @@ __kicks__ _n_ Pleasures, thrills.
 __kid around__ _phr v_ To have fun by acting in a silly way.  
 __kid<sup>1</sup>__ _n_ :two::astonished: __1a__ A young goat. _Roasted kid._ __b__ One of the young of certain similar animals. __3__ _Informal_ __a__ A child. __b__ A young person. _I was a Nintendo kid._  
 __kid<sup>2</sup>__ _v_  
-__kiddo__ _n_ :two::hammer: _Bring the kiddos._  
+__kiddo__ _n_ :three::hammer: _Bring the kiddos._  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
 __kike__ _n_ _Offensive slang_ Used as a disparaging term for a Jew. _Kike names._  
 __kiki__  
@@ -9311,6 +9313,7 @@ __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__
 __lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
+__lamest__ _adj_ (from _lame_)  
 __laminate__ _v_ :two::hammer: :es: plastificar  
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lamp shade__ _n_  
@@ -9428,7 +9431,7 @@ __lax__ _adj_ :two::hammer: (not LAX)
 __lay the table__  
 __lay__ _adj_ :two: __1__ Of, relating to, or involving the laity: _a lay preacher._ __2__ Not of or belonging to a particular profession; nonprofessional: _a lay opinion as to the seriousness of the disease._  
 __layman > in layman terms__  
-__layman__ _n_ :two::hammer: /LAY-mun/  
+__layman__ _n_ :three::hammer: /LAY-mun/  
 __layoff__  
 __layout__ _n_ :two::hammer: _The road layout._  
 __layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
@@ -9481,7 +9484,7 @@ __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gr
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _informal_ _slang_ :eight: Legitimate.  
-__legwork__ _n_  
+__legwork__ _n_ :two::hammer:  
 __lei__ _n_ :three: /lay, LAY-ee/ [:scroll: From Hawaiian lei.] (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. A garland, typically made of flowers, or leaves, shells, nuts, feathers, etc. _Scented leis._  
 __leisure__ _n_ /ˈlɛʒə; _US_ ˈliːʒər/  
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
@@ -9527,8 +9530,9 @@ __letterman__ _n_
 __levain__ _n_  
 __levee__  
 __level__ _v_ :two::hammer: (leveled)  
-__levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
-__lever__ _v_  
+__levelheaded__ _adj_ :three: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
+__lever<sup>1</sup>__ _n_  
+__lever<sup>2</sup>__ _v tr_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v tr_ :eight: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
@@ -9684,6 +9688,7 @@ __livestock__ _n_
 __livid__ _adj_ :two::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
 __living room__ _n_  
+__living space__  
 __living statue__  
 __living wills__  
 __lizard brain__ _n_ :two::hammer: (lizard brains)  
@@ -9723,8 +9728,7 @@ __lodestar__ _n_ (loadstar) __1__ A star, such as Polaris, that is used as a poi
 __lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge<sup>1</sup>__ _n_ :three::hammer: _Sit on the lodge’s back patio._ _Fishing lodges._  
 __lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._  
-__lodging__  
-__lodgings__  
+__lodging__ _n_ :three::hammer: (lodgings)  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
 __lofty__ _adj_ :eight: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
@@ -9851,8 +9855,8 @@ __lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with
 __luge__ _n_ :two::hammer: _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
 __lugubrious__ _adj_ :three: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._ _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
-__lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
-__lull<sup>2</sup>__ _v_ :five::hammer: (lulled) _Camping under the stars with the sound of the river lulling you to sleep is hard to beat._  
+__lull<sup>1</sup>__ _n_ :four::hammer: /lʌl/ (lulls) _Save meetings for the lulls._  
+__lull<sup>2</sup>__ _v_ :six::hammer: /lʌl/ (lulled) _Camping under the stars with the sound of the river lulling you to sleep is hard to beat._  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :five::hammer:  
@@ -9933,7 +9937,7 @@ __madding__ _adj_ :astonished: _Madding crowds._
 __made-to-order__ _adj_ _Made-to-order sandwiches._  
 __madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something that triggers memories or nostalgia.  
 __madman__ _n_ :two: A man who is insane, esp one who behaves violently; lunatic.  
-__madness__  
+__madness__ _n_ :two::mega::hammer: /ˈmæd nɪs/ _This is madness._  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
 __madrigalist__ _n_  
@@ -10043,7 +10047,7 @@ __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around t
 __Manhattanite__ _n_ :two::hammer:  
 __manhole cover__  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
-__mania__ _n_  
+__mania__ _n_ :two::hammer:  
 __manic episode__ _n_  
 __manic__ _adj_ :two::mega::hammer: _I was manic._  
 __manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
@@ -10067,6 +10071,7 @@ __mantel__ _n_ :six::hammer: _Fireplace mantels._ _The mantel over the small fir
 __mantle<sup>1</sup>__ _n_ :four: An important role or responsibility that passes from one person to another. _Syn_ role _Stalin’s closest aide assumed the mantle of Leader._  
 __mantle<sup>2</sup>__ _v_  
 __mantlet__ _n_  
+__mantra__ _n_  
 __mantrap__ _n_  
 __manure__ _n_  
 __many<sup>1</sup>__ _adj_  
@@ -10183,7 +10188,7 @@ __maxes__ _v_
 __maxim__ _n_ :es: máxima  
 __Mayan<sup>1</sup>__ _adj_ :mega:  
 __Mayan<sup>2</sup>__ _n_ :mega:  
-__mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
+__mayhem__ _n_ :eight: /ˈmeɪ hɛm, ˈmeɪ əm/ Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayo__ _n_ _informal_ :two: /ˈmeɪ oʊ/ Mayonnaise.  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
