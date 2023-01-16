@@ -500,7 +500,7 @@ __amphitheater__ _n_ :two::hammer: _Wind and water are responsible for the natur
 __ample__ _adj_ :nine::m: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
-__ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
+__ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
 __amusement park__ _n_ :three::hammer:  
 __amygdala__ _n_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
@@ -513,6 +513,7 @@ __analogy__ _n_ An analogy is a comparison between two similar things, typically
 __analyst__ _n_ :pencil2:  
 __anaphora__ _n_ :two: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
+__anastrophe__ _n_  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
 __anchor<sup>1</sup>__ _n_ :mute:[anc~~h~~or]  
@@ -3522,7 +3523,7 @@ __connotation__ _n_ :two: Connotation is using words to suggest a social or emot
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
 __conscience__ _n_ :pencil2:  
-__conscientious__ _adj_ :dart: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
+__conscientious__ _adj_ :dart::two: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
 __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
@@ -3746,7 +3747,7 @@ __counsel__ _n_ :two::hammer:
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count__ _n_ :five: __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._ _He entered guilty pleas to two manslaughter counts._  
-__countenance<sup>1</sup>__ _n_ :seven::hammer: _His countenance was pale and sunken._  
+__countenance<sup>1</sup>__ _n_ :eight: /KOWN-tun-unss/ Countenance is a formal word that is most often used to refer to a person’s facial expression, or to the face generally, especially as an indication of mood, emotion, or character. _Her cheerful countenance quickly put the lost visitors at ease._ _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
@@ -5024,8 +5025,8 @@ __dressage__ _n_
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
 __dressing__ _n_ :two::hammer: _It’s going to take longer to get to that turkey and dressing._  
-__dribble__ _v_ :two::hammer: :es: regatear  
-__dribbled__ _v_  
+__dribble__ _v_ :three::hammer: :es: regatear  
+__driblet__ _n_ A small quantity (especially of a liquid). _Syn_ drop _A driblet of water escaped from the corner of her mouth._  
 __drift__ _n_ :two::hammer: _You get the drift._  
 __drifter__ _n_ :seven::hammer:  
 __drifting__  
@@ -5808,7 +5809,7 @@ __face value__ _n_ :three::hammer:
 __face__ _v_ _The problems faced by the network operators._  
 __face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __facelift__ _n_ :two::hammer: (face-lift)  
-__facetious__ _adj_ :seven::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
+__facetious__ _adj_ :eight::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous. Playfully jocular; humorous. _Syn_ bantering, tongue-in-cheek _I was only being facetious._ _She was quite gullible and could never tell when his remarks were facetious or when he was being serious._  
 __facetiousness__  
 __facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
@@ -7120,6 +7121,7 @@ __Godspeed__ _n_ _And Godspeed to you all._
 __Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
+__going-over__ _n_ A severe scolding. _Syn_ castigation, bawling out, chewing out, dressing down, upbraiding, earful _When he was caught chewing gum in class, he knew he would have to endure a going-over from the teacher._  
 __Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
@@ -8317,6 +8319,7 @@ __hygroscopic__
 __hymn__ _n, v_ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
+__hyperacusis__ _n_ [:scroll: From Greek hyper- (over) + acousis (hearing)] Abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels.  
 __hyperbole__ _n_ :three: /hye-PER-buh-lee/ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces. Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
 __hyperbolic__ _adj_ :six: Exaggerated.  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
@@ -9885,7 +9888,7 @@ __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over th
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :six::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
-__luscious__ _adj_ :two::hammer: _Luscious burgers._  
+__luscious__ _adj_ :three: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
@@ -11537,7 +11540,7 @@ __painter__
 __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __Pakistani__ _adj, n_ :mega: /ˌpɑːkɪˈstɑːnɪ/ /ˌpæk əˈstæn i, ˌpɑ kəˈstɑ ni/  
-__paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
+__paladin__ _n_ :two: /PAL-uh-din/ A paladin is a leading champion of a cause, or a trusted military leader (as for a medieval prince). Someone who fights for a cause. _Syn_ champion, fighter, hero _The keynote speaker is regarded as a paladin of environmental justice._  
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :six: /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
@@ -13216,6 +13219,7 @@ __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past an
 __recollect__ _v_  
 __recollection__ _n_ :seven::hammer::hammer:  
 __reconcile__ _v_  
+__recondite__ _adj_ /REK-un-dyte/ Recondite is a formal word used to describe something that is difficult to understand or something that is not known by many people.  
 __reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
 __reconvene__ _v_ :six::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
 __recooled__  
@@ -13739,6 +13743,7 @@ __rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about somethin
 __rueful__ _adj_ :five::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
 __rufescent__ _adj_ Tinged with red.  
+__ruffian__ _n_ /ˈrʌf i ən, ˈrʌf yən/ A cruel and brutal fellow. _Syn_ bully, hooligan, roughneck _He had been a bully in grade school, so no one was surprised to hear that he is still considered a ruffian._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
