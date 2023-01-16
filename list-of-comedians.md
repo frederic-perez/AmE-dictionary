@@ -6,7 +6,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Andy Daly](https://www.youtube.com/results?gl=US&search_query=Andy+Daly)
 - [Andy Richter](https://www.youtube.com/results?gl=US&search_query=Andy+Richter) asks "The Three Questions."
 - [Anthony Jeselnik](https://www.youtube.com/results?gl=US&search_query=Anthony+Jeselnik), one of the members of the Titans of Comedy. » [Thoughts and Prayers](https://www.youtube.com/watch?v=GiQfb-FZMUI&list=PLqSGXD25g6PspFfkBG8xT-Kx_8wq5xd7y)
-- [Bert Kreischer](https://www.youtube.com/results?gl=US&search_query=Bert+Kreischer+the+machine), "The Machine," is "the top partyer at the Number One Party School in the country."
+- [Bert Kreischer](https://www.youtube.com/results?gl=US&search_query=Bert+Kreischer+the+machine), "The Machine," is "the top partyer at the Number One Party School in the country." » [YouTube channel](https://www.youtube.com/@bertkreischer)
 - [Bill Burr](https://www.youtube.com/results?gl=US&search_query=Bill+Burr)
 - [Bill Hader](https://www.youtube.com/results?gl=US&search_query=Bill+Hader)
 - [Bill Maher](https://www.youtube.com/results?gl=US&search_query=Bill+Maher) » [billmaher.com](https://billmaher.com)
@@ -54,7 +54,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Nick Kroll](https://www.youtube.com/results?gl=US&search_query=Nick+Kroll)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Patton Oswalt](https://www.youtube.com/results?gl=US&search_query=Patton+Oswalt)
-- [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins) » [paulftompkins.com](https://paulftompkins.com)
+- [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins) » [paulftompkins.com](https://paulftompkins.com) » [YouTube channel](https://www.youtube.com/channel/UCjurejnWKaS_Qpp10rz_Z6A)
 - [Paul Scheer](https://www.youtube.com/results?gl=US&search_query=Paul+Scheer)
 - [Rachel Feinstein](https://www.youtube.com/results?gl=US&search_query=Rachel+Feinstein)
 - [Ralphie May](https://www.youtube.com/results?gl=US&search_query=Ralphie+May)
