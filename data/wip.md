@@ -1,3 +1,26 @@
+__acute__ _adj_  
+__apologetic__  
+__baloney__ _n_ :mega:  
+__barf__ _v_ To vomit.  
+__catharsis__ _n_  
+__combat__ _v_ :mega:  
+__comfiness__ _n_ /ˈkʌmfɪnəs/ The feeling or quality of being comfortable.  
+__corky__ _adj_  
+__cough__  
+__coyote__ _n_ :mega:  
+__deliver__ _v_  
+__dilapidated__ _adj_ Falling to pieces or in a state of disrepair; shabby. _Dilapidated house._  
+__disassociate__ _v_ A less common word for _dissociate_.  
+__doubt__ _n, v_ :mega: /daʊt/  
+__downplay__ _v_ :two::hammer: _Do not downplay your dreams._  
+__dragon__ _n_ :mega:  
+__duct tape__ _n_ A strongly adhesive silver-gray cloth tape, used in plumbing, household repairs, etc.  
+__fizzle out__  
+__guy__ _n_ Person, male or female. _Come on, you guys!_  
+__imagine__ _v_  
+__income__ _n_ :mega:  
+__invalidate__ _v_  
+__lid__ _n_ _Do not put a lid on your dreams._  
 __measly__ _adj_ _All that abuse for a measly $20?_  
 __meekly__  
 __miasma__  
@@ -40,6 +63,8 @@ __press release__ _n_
 __prevail__  
 __puffer__ _n_  
 __purge__  
+__queasy__  
+__radical__ _adj_ :mega: _What a radical idea!_  
 __rainforest__ _n_  
 __ramble__ _v_ :two: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
 __rampage__  
@@ -53,6 +78,7 @@ __realization__ _n_ (something like _noticing_)
 __rebuff__ _v_ :two::hammer:  
 __recapitulate__ _v_  
 __recce__ _n_ :two::hammer:  
+__reckoning__ _n_ :two::hammer:  
 __reconvene__ _v_  
 __recumbent__  
 __redemption__ _n_ :mega:  
@@ -91,6 +117,7 @@ __sallow__ _adj_
 __saponify__ _v_  
 __schooled__ _v_ _She schooled her face into careful neutrality._  
 __schooner__ _n_  
+__scour__ _v_  
 __scrub out__ _v_  
 __scrutiny__ _n_ :dart:  
 __scurvy__  
@@ -141,10 +168,12 @@ __snorkel__ _v intr_
 __snort__ _v_  
 __snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
 __soapbox__ _n_  
+__sobering__ _adj_ :two: Tending to make sober or more serious: _the news had a sobering effect._  
 __sodding__  
 __sodium amytal__  
 __soft-spoken__ _adj_  
 __solely__ _adv_  
+__sorority__ _n_  
 __soubriquet__ _n_  
 __spatiotemporal__ _adj_  
 __speak up__  
@@ -196,7 +225,7 @@ __sword__ _n_ :mega:
 __sycophant__ _n_ :two::hammer:  
 __sympathetic__  
 __tabby__ _n_  
-__tacky__  
+__tacky__ _adj_ :two::hammer:  
 __tactful__ _adj_  
 __tactical__ _adj_ _Tactical plot._  
 __tang__ _n_ __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga  
@@ -221,9 +250,11 @@ __timeserver__ _n_ /TYM-suhr-vuhr/ __1__ One who makes little effort at work, su
 __tine__ _n_  
 __tinker__ _v_  
 __titled__ _adj_ :three::hammer:  
+__toilet bowl__ _n_ The bowl of a toilet that can be flushed with water.  
 __tormentor__  
 __torn__ _v_  
 __touch down__ _v_ _The jet touched down there yesterday._  
+__toward__ _prep_ :five::mega::hammer:  
 __tradeoff__ _n_ (trade-off)  
 __trance__ _n_ /trɑːns/  
 __triad__ _n_  
@@ -245,10 +276,12 @@ __undoing__ _n_ /ʌnˈdu ɪŋ/
 __unduly__ _adv_  
 __unfazed__ _adj_ :two: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __ungainly__  
+__unhinged__ _adj_ Deranged or unbalanced.  
 __unleash__ _v_  
 __unwell__ _adj_  
 __upset__ _n_ :mega:  
 __upside__ _n_ _Working from home has its upsides as well as downsides._  
+__upstate__  
 __urbanites__  
 __usher__ _v_ :two::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
 __utter__ _adj_ _Utter darkness._  
@@ -262,11 +295,13 @@ __vector__ _v tr_ _He vectored toward the tanker waiting for him._
 __vent__ _v_  
 __vocal__ _adj_  
 __voice__ _v_ :dart: _He was voicing his thoughts aloud._  
+__volcano__ _n_ :mega:  
 __wail__ _n_  
 __walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
 __wallow__ _v_ :two::hammer: _Don’t wallow in despair._  
 __wanderlust__  
 __wanly__ _adv_ In a weak or pale or languid manner. _He nodded a little wanly._  
+__waterfront__ _n_  
 __waver__ _v intr_  
 __wedge__  
 __wee__ _adj_ :two: Very small; tiny.  
