@@ -44,6 +44,7 @@ __come to terms__ :two::hammer:
 __connect the dots__  
 __cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
 __crash course__  
+__croc__ _n_ /krɒk/ Crocodile.  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __cut and dry__  
@@ -59,6 +60,7 @@ __do-gooder__
 __don’t get (one) started__  
 __double down__  
 __down for (something)__  
+__down the drain__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
 __draw a line in the sand__  
@@ -74,6 +76,7 @@ __even more so__ :two::hammer:
 __every so often__ :two: Sometimes; occasionally. _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everything under the sun__  
 __face value__  
+__failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
 __fall off the wagon__ :two::hammer:  
 __fall short of__  
 __fall short__  
@@ -94,7 +97,7 @@ __fly on the wall__
 __food baby__  
 __food coma__  
 __for all intents and purposes__  
-__for better or worse__ :four::hammer:  
+__for better or (for) worse__ :five::hammer:  
 __for real__  
 __for the sake of__ :two::hammer: _For the sake of clarity._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
@@ -104,6 +107,7 @@ __free spirit__
 __Friendsgiving__  
 __frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
+__front and center__  
 __funky__ _With that mix, things get funky._  
 __game changer__  
 __game plan__ :two::hammer:  
@@ -146,7 +150,8 @@ __goof up__
 __goof__  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
-__half-ass__ :dart: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
+__half-ass__ :dart::two: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
+__hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
 __hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
@@ -162,6 +167,7 @@ __heavy lifting__
 __higgledy-piggledy__  
 __high and dry__  
 __hit home__  
+__hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hold (one’s) breath__  
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
@@ -188,6 +194,7 @@ __in spite of__
 __in the (very) nick of time__ :two::hammer:  
 __in the face of (something)__  
 __in the gutter__  
+__in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
 __in the long term__  
 __in the middle of nowhere__  
 __in the public eye__  
@@ -225,6 +232,7 @@ __lost on me__ _It is not lost on me._
 __love (someone) to the moon (and back)__  
 __lump in (one’s) throat__  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
+__make waves__ _Make waves with an Apple computer._  
 __marinate__  
 __maternity leave__  
 __mean the world to (one)__ :dart:  
@@ -348,6 +356,7 @@ __shut down__
 __sick as a dog__  
 __simply put__  
 __single out__  
+__skim through (something)__  
 __skip town__  
 __sleep on (something)__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
@@ -388,7 +397,7 @@ __Sunday scaries__
 __sure as hell__ (See _(as) sure as hell_.)  
 __surprise, surprise__  
 __sweep (one) off (one’s) feet__  
-__sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
+__sweet spot__ :two: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
 __swept away__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
@@ -426,9 +435,10 @@ __talk turkey__ To discuss something in a frank, straightforward, and serious ma
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :three::hammer:  
-__tap into (something)__ :four::hammer: _Tap into the dark side of the Force._  
+__tap into (something)__ :five: __1__ To make a strong or advantageous connection with. To establish a connection with (something), especially in order to take advantage. _Trying to tap into a new market._ _Tap into the dark side of the Force._ __2__ To access some large, abundant, or powerful resource. To gain access to some resource: _The building tapped into the city’s water supply._ _When he ran out of money, he decided to tap into his trust fund._  
 __tap into__ :five::hammer:  
 __tape into__  
+__teaching to the test__ A colloquial term for any method of education where the curriculum is heavily focused on preparing students for a standardized test, for example, with international IELTS English proficiency language test for non-native speakers.  
 __teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __tell apart__  
@@ -484,6 +494,7 @@ __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to 
 __tiger team__  
 __til you drop__  
 __time capsule__  
+__tip (one’s) hat__  
 __to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
@@ -509,6 +520,7 @@ __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to 
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
+__turn something around__  
 __turn tables__  
 __turn the tables__  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
