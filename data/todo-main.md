@@ -1,4 +1,8 @@
+__bazillion__ _n informal_ :two: /bəˈzɪl yən/ An extremely large, indeterminate number.  
+__cabal__ _n_  
+__channel__ _v_ :two::hammer: _Channel your energy._  
 __churn__ _v_  
+__click__ _v_ _For some reason today it really clicked._  
 __conduit__ _n_ :mega:  
 __conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
 __crave__ _v_  
@@ -20,16 +24,21 @@ __gazillion__ _n_
 __genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
 __giggle__ _v_ :es: reirse tontamente  
 __godsend__  
+__guessing game__ _n_ A game in which participants compete to identify some obscurely indicated thing.  
 __hair trigger__ _n_ :dart:  
 __hark__ _v intr_ To listen attentively.  
+__home run__ _n_  
 __honor__ _v_  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
+__interloper__ _n_  
 __invalidating__ _adj_ _Invalidating people._  
 __jamboree__ _n_  
 __Janus word__ _n_ A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
+__laggard__ _n_  
 __lionize__ _v_ To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
+__lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lurk__ _v_  
 __maladaptive__ _adj_  
 __manic episode__ _n_  
@@ -48,6 +57,7 @@ __mixology__ _n_
 __mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
 __mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __moated__ _adj_ _The moated palace of King Edwin._  
+__mocktail__ _n_  
 __model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogul__ _n_ :two::hammer:  
@@ -276,6 +286,7 @@ __outing__ _n_
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :two::hammer:  
 __outline__ _v tr_  
+__outpace__ _v_ _Airbus outpaces Boeing yet again._  
 __outperform__ _v_  
 __outpost__ _n_  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
@@ -342,6 +353,7 @@ __partial__ _adj_ _Partial kitchen._
 __partridge__ _n_  
 __party favor__ _n_ Souvenir consisting of a small gift given to a guest at a party.  
 __partygoer__ _n_  
+__passive-aggressive__ _adj_  
 __pasta__  
 __pastime__ _n_ :two::hammer:  
 __pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
@@ -594,6 +606,7 @@ __quarantine__ _n_ :mega:
 __quench__ _v_ :two::hammer:  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
+__quilling__ _n_ /kwĭl′ĭng/ The art or craft of making decorative designs out of thin strips of rolled paper.  
 __quintessential__ _adj_ :three::hammer:  
 __quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
 __rabble__ _n_ /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._  
@@ -866,6 +879,7 @@ __seater__ _n_ __2__ One that has a specified number of seats—used in combinat
 __seating__ _n_ :two::hammer: _Plenty of garden seating._  
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
+__second__ _v tr_ _I second you._  
 __sedge__ _n_ _Sedge meadows._  
 __seek__ _v_ _We seek to characterize the performance variations._  
 __seep__ _v_ (seeped)  
@@ -994,6 +1008,7 @@ __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smash__ _adj_ _Our sixth smash year!_  
 __smattering__  
+__smidge__ _n_  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
@@ -1184,7 +1199,7 @@ __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile th
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __subtraction__ _n_ :pencil2:  
 __suburbia__ _n_  
-__succint__  
+__succint__ _adj_ :two::hammer:  
 __succotash__ _n_ /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
 __succulent__ _n_ A succulent plant, such as a sedum or cactus.  
 __suckle__ _v_  
@@ -1329,6 +1344,7 @@ __thrifty__ _adj_ :two::hammer: _Thrifty car rental._
 __throat__ _n_ _Throat clearing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
+__thrombectomy__ _n_ Surgery to remove a blood clot.  
 __throng__  
 __throttle__ _v_ :two::hammer: _Most work has focused on throttling throughput._  
 __throughout__  
