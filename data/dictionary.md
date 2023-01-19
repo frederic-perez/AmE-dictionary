@@ -45,7 +45,7 @@ __abashed__ _adj_ :five: Ill at ease, embarrassed, or confused; ashamed.
 __abasiophilia__ _n_  
 __abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
-__abattoir__ _n_ :two: Slaughterhouse.  
+__abattoir__ _n_ :three: Slaughterhouse. A building where animals are butchered. _Syn_ slaughterhouse, butchery, shambles _The largest abattoirs are those of the meatpacking industry._  
 __abbesses__ _n pl_  
 __abdicate__ _v_ /AB-dih-kayt/ To abdicate is to renounce or relinquish a position of usually sovereign power. It can also mean “to cast off; discard.” _She abdicated her position in response to the allegations._ _There can be serious repercussions when someone abdicates their responsibilities._  
 __abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
@@ -557,6 +557,7 @@ __animus__ _n_ :seven::pencil2: __1__ Strong dislike or enmity; animosity. _The 
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
+__Annabel Lee__ _n_  
 __Anne Boleyn__ _n_  
 __annealing__ _n_ Hardening something by heat treatment. _Syn_ tempering  
 __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
@@ -808,7 +809,7 @@ __ashen__ _adj_ :three::hammer::pencil2: _His face turned ashen._ _Tired-looking
 __ashen-faced__  
 __ashlar__ _n_ :es: sillar  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
-__asinine__ _adj_ :six::pencil2: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
+__asinine__ _adj_ :seven::pencil2: [:scroll: Latin asinīnus, _of an ass_, from asinus, _ass_] Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
@@ -2779,7 +2780,7 @@ __chant__ _v_
 __chanticleer__ _n_  
 __chanting__  
 __chantry__ _n_  
-__chaos__ _n_ :mute:[c~~h~~aos]  
+__chaos__ _n_ :two::hammer::mega::mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
 __chap__ _v_ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __chaparral__ _n_ :four: Dense vegetation consisting of stunted trees or bushes. An area covered by a dense growth of mostly small-leaved evergreen shrubs, especially in central and southern California.  
@@ -5331,7 +5332,7 @@ __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)
 __electrocute__ _v tr_  
 __electrolysis__ _n_ :two::pencil2::hammer:  
 __electronics__ _n pl_ (plurale tantum)  
-__elegy__ _n_ :four: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
+__elegy__ _n_ :five::mega: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
 __elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  
 __elevator boy__  
 __elevator control box__  
@@ -5478,7 +5479,7 @@ __enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; 
 __enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
-__ennui__ _n_ :three::hammer:  
+__ennui__ _n_ :four::mega::hammer:  
 __enormous__ _adj_ :mega: /ɪˈnɔːməs/  
 __enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
@@ -5545,7 +5546,7 @@ __epidemic__ _n_ Notice: _n_!
 __epigram__ _n_  
 __epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
-__epiphany__  
+__epiphany__ _n_ :two::hammer::mega:  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
@@ -5801,7 +5802,7 @@ __fabric softener__
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
-__façade__ _n_ :four::hammer: (facade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
+__façade__ _n_ :five::mega::hammer: (facade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
 __face left__ _n_ (vs face right) _Two admirals did a left face and screwed everything up._  
 __face off__ _v_ :two::hammer: _(sports)_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
@@ -5940,7 +5941,7 @@ __fathom<sup>1</sup>__ _v_ :five::hammer:
 __fathom<sup>2</sup>__ _n_ (fathoms)  
 __fathometer__ _n_ :astonished: Depth finder for determining depth of water or a submerged object by means of ultrasound waves.  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
-__fatigue__  
+__fatigue__ _n_ :two::hammer::mega:  
 __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
@@ -8119,7 +8120,7 @@ __hooch__ _n_ _slang_ :two::hammer: _Take it easy on the hooch._
 __hood fan__  
 __hood__ _n_ _slang_ :seven: (hoods) Criminal, a member of a criminal gang. _Too many hoods had visited his home._  
 __hoodlum__ _n_ _slang_ :five: (hoodlums) A criminal or gangster.  
-__hoodwink__ _v_ :three: To deceive or trick.  
+__hoodwink__ _v_ :four: /HOOD-wink/ To deceive or trick someone. _The salesperson hoodwinked us into buying items that weren’t on our shopping list._  
 __hoofer__  
 __hoofprint__ _n_ (hoofprints)  
 __hook up__  
@@ -8450,6 +8451,7 @@ __impetus__ _n_ :seven: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or enc
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
 __impish__ _adj_ Of or befitting an imp; mischievous. _Impish sense of humor._  
+__implacable__ _adj_ /im-PLAK-uh-bul/ Not capable of being appeased, significantly changed, or mitigated; not placable.  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __implode__ _v_  
@@ -8528,6 +8530,7 @@ __incipient__ _adj_ _An incipient building._
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
+__incognizant__ _adj_ Lacking knowledge or awareness. _Syn_ unaware _He was incognizant of the new political situation and needed his brother to brief him on the details._  
 __incommunicado__  
 __inconclusive__ _adj_  
 __incongruities__ _n_  
@@ -8815,6 +8818,7 @@ __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or pa
 __ischemic__ _adj_  
 __island__  
 __islander__  
+__isle__ _n_ :mega:  
 __islet__ _n_ :three::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
@@ -8933,6 +8937,7 @@ __jetpack__ _n_ A backpack powered by jets, used especially to enable an astrona
 __jettison__ _v_ :eight: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
 __jetty<sup>1</sup>__ _n_ :two::hammer:  
 __jetty<sup>2</sup>__ _adj_  
+__jeu d’esprit__ _n_ A work of light playfulness or wit, especially in literature.  
 __jewelry__ _n_ (jewellery)  
 __Jewess__  
 __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
@@ -10007,6 +10012,7 @@ __malice__ _n_ :two: __1__ Feeling a need to see others suffer. _Syn_ spite __2_
 __malign<sup>1</sup>__ _v_ (maligned)  
 __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
 __malignancy__ _n_ (malignancies)  
+__malinger__ _v intr_ /məˈlɪŋɡə/ To pretend or exaggerate illness, esp to avoid work.  
 __malingerer__ _n_  
 __mallards__ _n_ :two::hammer:  
 __malleable__ _adj_ :four: /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._ _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
@@ -10308,7 +10314,7 @@ __merely__
 __meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
 __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
 __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
-__meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
+__meringue__ _n_ :six::mega: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ :two: __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep. _Merino wool._  
 __merit__ _n_ :two::hammer:  
 __meritorious__ _adj_ /mair-uh-TOR-ee-us/ Deserving of honor or esteem. _At the gathering, the company’s president expressed his gratitude to employees for their meritorious service._  
@@ -10463,6 +10469,7 @@ __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or b
 __mirth__ _n_ :six: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __misadventure__ _n_ :two: An instance of misfortune; a mishap.  
+__misanthrope__ _n_ /MISS-un-throhp/ Someone who hates people in general.  
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
 __miscarriage__ _n_ :two::hammer:  
@@ -13550,7 +13557,7 @@ __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutel
 __righteous__ _adj_ :two::mega: /ˈraɪ tʃəs/ __1__ Morally upright; without guilt or sin: _a righteous parishioner._ __2__ In accordance with virtue or morality: _a righteous judgment._ _Syn_ moral __3__ _slang_ Absolutely genuine or wonderful: _some righteous playing by a jazz great._  
 __rightful__ _adj_ _Edward III announced himself the rightful King of France._  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
-__rigmarole__ _n_ :four: __1__ Confused or meaningless talk. __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
+__rigmarole__ _n_ :five: __1__ Confused or meaningless talk. Confused, rambling, or incoherent discourse; nonsense. _Syn_twaddle, story, saga, trash, jargon, yarn, gibberish, spiel _When I asked why he missed the meeting, he gave me some rigmarole about the train being late._ __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
 __rigor__ _n_ :two::hammer:  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
@@ -13808,7 +13815,7 @@ __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its gra
 __s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers. _S’mores season!_  
 __Sabbath__ _n_ /SAB-uhth/ [:scroll: From Old English sabat, from French sabbat, from Latin sabbatum, from Greek sabbaton, from Hebrew sabbat, from sabat (rest)] __1__ A day of the week observed as a day of rest. __2__ A period of rest. __3__ A meeting of witches and sorcerers (typically spelled as sabbat).  
 __sabotage__ _n_  
-__saboteur__ _n_  
+__saboteur__ _n_ :two: /sab-uh-TUHR/ [:scroll: From French saboter (to walk noisily, to botch), from sabot (wooden shoe)] One who disrupts, damages, or destroys, especially in an underhanded manner.  
 __sac-a-lait__  
 __saccharin__ _n_ :two::pencil2::mega::hammer:  
 __saccular__ _adj_  
@@ -14193,7 +14200,7 @@ __seesaw<sup>2</sup>__ _v_
 __seethe__ _v_ :nine::m::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._  
 __seething__ _adj_ __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
 __segregate__ _v_ :two::hammer: (segregated) _Same building, but segregated schools._  
-__segue__ _v_ :five::pencil2::mega::hammer:  
+__segue__ _v_ :six::pencil2::mega::hammer:  
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __seldom__ _adv_ :two::hammer: _People seldom think about their values consciously._  
@@ -14247,7 +14254,7 @@ __sentry__ _n_ (sentries)
 __separate__ _adj_ :two::hammer:  
 __seppuku__ _n_ :two::hammer:  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
-__sepulcher__ _n_  
+__sepulcher__ _n_ :two::hammer::mega:  
 __sequelae__ _n pl_  
 __sequestered__ _v_  
 __sequestration__ _n_ _Sequestration of the jury._  
@@ -14756,7 +14763,7 @@ __sleety__
 __sleeveless__ _adj_ :astonished::mega: /ˈslivlɪs, SLEEV-luhs/lis/ __1__ Unprofitable; futile; unreasonable; irrelevant. What does a sleeve have to do with profit? In former times, a lady would give her detachable sleeve to a knight as a symbol of love and he would wear it as he went around in his adventures. A knight without a sleeve was, well, sleeveless. _A sleeveless errand._ __2__ Without sleeves.  
 __sleight__ _n_ :dart: Adroitness in using the hands. _Syn_ dexterity _Only through his unequaled sleight can the juggler manage to keep eight chainsaws safely aloft._  
 __slender__  
-__sleuth<sup>1</sup>__ _n informal_ :three: A detective. _Sassy (TV) sleuth._  
+__sleuth<sup>1</sup>__ _n informal_ :four::mega: A detective. _Sassy (TV) sleuth._  
 __sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._ _REJECTED is a state of mind, and it brings on a slew of awful feelings._  
 __slice__ _n_ :two::hammer: _A big slice of the pie._  
@@ -14945,6 +14952,7 @@ __snarling__ _n_
 __snatch__ _v_ :three::hammer: (snatched)  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _n_ _Sneaker companies._  
+__sneakernet__ _n_ _facetious_ /ˈsni kərˌnɛt/ [:scroll: From sneaker (a shoe popular in everyday use) + net, alluding to someone carrying a disk, memory key, etc. from one computer to another. The shoes were called sneakers because their rubber soles made them very quiet.] The transfer of electronic information by physically moving it (storing it on a device and moving the device), instead of doing it over a computer network.  
 __sneaky__  
 __sneer__ _v_  
 __Snellen chart__  
@@ -15862,6 +15870,7 @@ __superb__ _adj_
 __superbly__  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercilious__ _adj_ :four: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
+__superfluous__ _adj_ :mega:  
 __superintendent__ _n_ :three::hammer:  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
 __supernumerary__  
@@ -17434,6 +17443,7 @@ __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
 __visage__ _n_ :two::mega: __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
+__viscount__ _n_ :mega:  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
 __vista__ _n_ :three::hammer: (vistas)  
