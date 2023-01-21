@@ -52,6 +52,7 @@ __(there’s) no rest for the wicked__ The lack of peace in one’s life, or the
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __15 minutes of fame__ A brief period of celebrity or notoriety. The term was coined by artist Andy Warhol. _Jane had her 15 minutes of fame when she appeared on the nightly news broadcast._  
+__23 skidoo__ To clear out or get away in haste before getting into or causing trouble, referring either to oneself or to another. “23” may refer to the Flatiron Building in New York City (located on 23rd Street), around which great winds tend to blow. It may also derive from an older use meaning to tell someone to clear out of one”s way. Primarily heard in US. _It looks like there”s trouble brewing here. I”d better 23 skidoo!_  
 __411__ :two: (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
 __800-pound gorilla__ :three: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)] A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
@@ -62,7 +63,7 @@ __a badge of honor__
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
 __a bird’s eye view__  
 __a bit beyond (one’s) ken__ :dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
-__a bit dicey__ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
+__a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome. _This street looks a bit dicey—I think we should walk another way home._  
 __a bit obtuse__ Coming across as dull, thick-witted, or stupid; unable to grasp or understand a situation or concept. _I feel like I’m a bit too obtuse to understand what these people are talking about._  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case.  
 __a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
@@ -293,12 +294,15 @@ __back to back__
 __back to basics__  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __backpedal__  
+__backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
 __bad blood__ :two::hammer:  
+__bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
 __bad press__ Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __balancing act__  
+__bald-faced lie__ A blatantly obvious or impudent untruth, one in which the liar does not attempt to disguise their mendacity. _Our son tells us nothing but bald-faced lies when we ask him where he goes at night._  
 __ball and chain__ A wife.  
 __ball hog__ _sports_ A player who monopolizes the ball without including teammates in an attempt to score, move the ball, or maintain possession. Usually used for basketball and football (soccer). _Boy, you’re being a real ball hog today! Why don’t you pass it to one of your teammates for a change?_  
 __ball is in your court__ It is up to you to make the next decision or step.  
@@ -310,6 +314,7 @@ __bang for one’s buck__ _With no sales tax, Portland gives shoppers a bigger b
 __bang for the buck__  
 __bank on something__  
 __bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
+__banker’s hours__ A limited work schedule (as banks were once known for having short work days and being closed on holidays and weekends). _You won’t be able to reach her on a Saturday—she keeps banker’s hours._  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __bare metal__  
@@ -620,6 +625,7 @@ __carry a torch for__
 __carry the ball__ To be in charge.  
 __carry the day__ To win, to be successful.  
 __case in point__  
+__case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
 __cash in__  
@@ -1685,6 +1691,7 @@ __jazzed__
 __jet-setter__ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
+__Job’s comforter__ Someone who makes a person feel worse about a situation when trying to offer sympathy. A reference to the Biblical story of Job, who showed great faith amid difficult circumstances. _Larry is a real Job’s comforter. I know he was just trying to offer comforting words, but he made Maggie feel worse about her financial situation._  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __Johnnie-come-lately__ _n_ :three: (Johnny-come-lately) Someone new to a situation or status. _We were a Johnny-came-lately._  
 __Johnny One-Note__ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
@@ -2971,6 +2978,7 @@ __wear two hats__ To hold or function in more than one position or role. _I’m 
 __weep (one’s) heart out__ To weep copiously; to cry intensely and for a long time. _Lauren wept her heart out at the news of her father’s sudden death._  
 __weigh down__ To make someone heavy and unable to move easily.  
 __well played__  
+__well-heeled__ (well-fixed; well-off) [:scroll: Alluding to a person who can easily afford to replace shoes often] Wealthy; with sufficient money. _My uncle can afford a new car. He’s well-heeled. Everyone in his family is well-off._  
 __welp__ A common alternative to “well” that is used to express disappointment, often in text messaging.  
 __Were you born in a tent?__ Have you no basic manners? (Usually said after someone has left open a door to the outside.) _Shut the door, it’s freezing outside! Were you born in a tent?_  
 __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems continue to arise faster than one is able to solve or cope with them, resulting in piecemeal, incomplete, or temporary results. _Every time we think we have the software debugged, more problems show up. We’ve just been playing whack-a-mole from day one!_  
