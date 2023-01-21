@@ -1,18 +1,3 @@
-__bazillion__ _n informal_ :two: /bəˈzɪl yən/ An extremely large, indeterminate number.  
-__cabal__ _n_  
-__channel__ _v_ :two::hammer: _Channel your energy._  
-__churn__ _v_  
-__click__ _v_ _For some reason today it really clicked._  
-__conduit__ _n_ :mega:  
-__conundrum__ _n_ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
-__crave__ _v_  
-__creep__ _n_  
-__dehumanize__  
-__delegate__ _v_ /DEL-uh-gayt/  
-__disarray__  
-__dour__ _adj_  
-__embody__ _v_  
-__endless__  
 __epiphany__ _n_ :mega:  
 __equip__ _v_ :mega:  
 __exude__ _v_  

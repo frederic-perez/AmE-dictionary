@@ -1250,7 +1250,7 @@ __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._
 __bay leaves__  
 __bayfront__ _n_  
 __bays__ _n_  
-__bazillion__  
+__bazillion__ _n informal_ :three: /bəˈzɪl yən/ An extremely large, indeterminate number.  
 __beach__ _v_  
 __beachcomb__ _v_ To search for and collect objects such as seashells and driftwood along the seashore.  
 __beachhead__ _n_ :four::hammer:  
@@ -2345,7 +2345,7 @@ __C-suite__ _n_ The executive suite in an organization. It refers to all the “
 __c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
-__cabal__ _n_ :four: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
+__cabal__ _n_ :five: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :six::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _n_ _Uncle-s Tom Cabin._  
@@ -2775,7 +2775,7 @@ __chandler__
 __change of heart__ _n_ A reversal of one’s opinion, attitude, or feelings.  
 __change__ _n_ _There is change in the shower._  
 __changeover__ _n_ :two::hammer:  
-__channel__ _v_  
+__channel__ _v_ :three::hammer: _Channel your energy._  
 __chant__ _v_  
 __chanticleer__ _n_  
 __chanting__  
@@ -3116,7 +3116,7 @@ __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and c
 __clerk__ _v_ To work or serve as a clerk: _clerked in a store; clerks for a judge._  
 __clever clogs__ _n_ [:scroll: The term boots has been used for a fellow or a person since the early 1600s. From there we got the term clever boots and then clever clogs.] Someone perceived to be intelligent or knowledgeable in an annoying way.  
 __cliché__ _n_ :two::hammer:  
-__click__ _v_ :three: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
+__click__ _v_ :four: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
 __clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
@@ -3469,7 +3469,7 @@ __condominium__ _n_ :two::hammer: _First-floor condominium._
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :six::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
-__conduit__ _n_ :six::hammer:  
+__conduit__ _n_ :seven::hammer::mega:  
 __coneys__  
 __confabulate__ _v_ :four: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
@@ -3603,7 +3603,7 @@ __contrive__ _v_ :three::hammer: (contriving)
 __contrived__ _adj_ :four: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
-__conundrum__ _n_ :two::hammer: /kəˈnʌndrəm/  
+__conundrum__ _n_ :three: /kəˈnʌndrəm/ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
@@ -3842,6 +3842,7 @@ __crass__ _adj_ :five: So crude and unrefined as to be lacking in discrimination
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
 __cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
+__crave__ _v_  
 __craven<sup>1</sup>__ _adj_ :two::hammer: _A craven political figure._  
 __craven<sup>2</sup>__ _n_  
 __cravenly__ _adv_ _Battalions fled shamefully and cravenly._  
@@ -3863,7 +3864,7 @@ __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy�
 __creditor__ _n_  
 __credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
 __creek__ _n_ :four::hammer: _An older house on a creek._  
-__creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
+__creep<sup>1</sup>__ _n_ :three::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crenelated__ _adj_ :three::hammer: (crenellated) _Crenelated weir._ _Crenellated walls._  
 __creosote__  
@@ -4335,7 +4336,7 @@ __deftness__ _n_
 __defund__ _v_ :four: To withdraw funding from. To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __deglutition__ _n_ The act or process of swallowing.  
-__dehumanize__ _v tr_  
+__dehumanize__ _v tr_ :two::hammer:  
 __dehydration__  
 __deign__ _v_ :three::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
@@ -4348,6 +4349,7 @@ __delectable__ _adj_ :nine::m: __1__ 1. Greatly pleasing to the taste; delicious
 __delectation__ _n_ :dart::two::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
+__delegate__ _v_ /DEL-uh-gayt/  
 __deleterious__ _adj_ :eight: /del-uh-TEER-ee-us/ Harmful often in a subtle or unexpected way. Having a harmful effect; injurious. Deleterious is a word used in formal speech and writing to describe something that is damaging or harmful, usually in a subtle or unexpected way. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._ _While the popular lawn care product is effective at eliminating weeds, it unfortunately is also deleterious to the wider environment._  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
@@ -4614,7 +4616,7 @@ __disaffect__ _v_ Arouse hostility or indifference in where there had formerly b
 __disaffected__ _adj_ :three::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disapprove__ _v_  
-__disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
+__disarray__ _n_ :five: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__ _adj_ :two::hammer:  
 __disavow__ _v_ :three: (disavowed) __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
@@ -4919,7 +4921,7 @@ __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.
 __douchebag__ _n phr_ _informal_ :three: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
 __doughty__ _adj_ :two: /DOW-tee/ Brave, strong, and determined. Marked by stouthearted courage; brave. _The family sent gifts to the doughty firefighters for saving their cat._  
-__dour__ _adj_ :six: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
+__dour__ _adj_ :seven: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
 __dove tail__ _v_  
@@ -5374,7 +5376,7 @@ __embezzler__ _n_ _Embezzlers are heading to Delaware._
 __embitterment__  
 __emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
 __embodiment__  
-__embody__ _v_ :two::hammer:  
+__embody__ _v_ :three::hammer:  
 __embolden__ _v_ :three::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
@@ -5449,6 +5451,7 @@ __endarterectomy__ _n_ :mega:
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endeavor__ _v_ :two: Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
+__endless__  
 __endocrine__ _n_ :mega:  
 __endometriosis__ _n_ The presence of endometrium in areas other than the lining of the uterus, as on the ovaries, resulting in premenstrual pain.  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
