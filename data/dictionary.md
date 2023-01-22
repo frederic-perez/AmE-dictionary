@@ -5549,7 +5549,7 @@ __epidemic__ _n_ Notice: _n_!
 __epigram__ _n_  
 __epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
-__epiphany__ _n_ :two::hammer::mega:  
+__epiphany__ _n_ :three::hammer::mega:  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
@@ -5571,7 +5571,7 @@ __equestrian<sup>2</sup>__ _n_
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
 __equinox__ _n_ :five::mega::hammer:  
-__equip__ _v_  
+__equip__ _v_ :two::hammer::mega:  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
@@ -5774,7 +5774,7 @@ __extremes__
 __extricate__ _v_ :nine::m: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
-__exude__ _v_ :two::hammer:  
+__exude__ _v_ :three::hammer:  
 __exult__ _v intr_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
@@ -6539,7 +6539,7 @@ __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, e
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
 __fortitudinous__ _adj_ Having or showing courage.  
 __fortnight__ _n_ :two::hammer:  
-__fortuitous__ _adj_ :pencil2:  
+__fortuitous__ _adj_ :two::pencil2: /for-TOO-uh-tus/ __1__ Happening by chance. _It was rather fortuitous that the two sisters both decided to surprise their parents with a visit on the same weekend._ __2__ Having or showing good luck.  
 __fortune telling__ _n_  
 __foster care__ _n_ :four::hammer:  
 __foster__ _v_ :four::hammer: _It will foster further technology development._  
@@ -6662,7 +6662,7 @@ __frizzle<sup>3</sup>__ _n_ A short curl.
 __frock__  
 __frogman__ _n_ :two::hammer:  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
-__frolic<sup>2</sup>__ _v_ :four: /FRAH-lik/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
+__frolic<sup>2</sup>__ _v intr_ :five: /FRAH-lik/ /ˈfrɒl ɪk/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
 __from afar__  
 __from the git-go__  
 __from the rooter to the rooter__  
@@ -6845,6 +6845,7 @@ __garage sale__ _n_
 __garb__ _n_ :five::hammer: _They wore medical garb of some variety._ _In a prison garb._ :es: atuendo  
 __garbage chute__ _n_ :camera:  
 __garbage island__  
+__garbage__ _n_ :mega:  
 __garbed__ _v_ :two::hammer:  
 __garble__ _v tr_ /GAR-bul/ To so alter or distort as to create a wrong impression or change the meaning. _The text on the television was garbled, but viewers could still decipher what was being said._  
 __Garden of Eden__  
@@ -6858,7 +6859,7 @@ __gargoyle__ _n_ :two::hammer: (gargoyles)
 __garish__ _adj_ :seven::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :four::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
-__garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
+__garner__ _v_ :nine::m: /GAHR-ner/ (garnered, garnering) __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
 __garnet__ _n_ :two::hammer: :es: granate  
 __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garret__ _n_  
@@ -6899,7 +6900,7 @@ __gaze<sup>1</sup>__ _n_
 __gaze<sup>2</sup>__ _v_  
 __gazebo__ _n_ :six::mega::hammer: _The park also features a theater and an entertainment gazebo._  
 __gazette__ _n_  
-__gazillion__ _n_  
+__gazillion__ _n_ :two::hammer:  
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __gecko__ _n_  
@@ -6924,6 +6925,7 @@ __generous__ _adj_
 __genetic algorithm__ _n_  
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
+__genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
 __genoise__ _n_ A light, buttery cake with a texture similar to sponge cake.  
 __genteel__ _adj_ :three::hammer: /jen-TEEL/  
 __gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
@@ -6986,7 +6988,7 @@ __gift certificate__
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
-__giggle<sup>1</sup>__ _v_ :two::hammer: (giggling)  
+__giggle<sup>1</sup>__ _v_ :three::hammer: (giggling) :es: reirse tontamente  
 __giggle<sup>2</sup>__ _n_  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
@@ -7120,7 +7122,7 @@ __goblin__ _n_ :four::hammer: (goblins)
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
-__godsend__ _n_ :four: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
+__godsend__ _n_ :five: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
 __Godspeed__ _n_ _And Godspeed to you all._  
 __Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __gofer__ _n_ _slang_  
@@ -7403,6 +7405,7 @@ __guard__ _n, v_ :mute:[g~~u~~ard]
 __guardrail__ _n_  
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
 __guess__ _n, v_ :mute:[g~~u~~ess]  
+__guessing game__ _n_ A game in which participants compete to identify some obscurely indicated thing.  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ _n_  
 __guesswork__ _n_ :three::hammer:  
@@ -7533,6 +7536,7 @@ __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows
 __hailstorm__ _n_ :three::hammer:  
 __haimish__ _adj_ _slang_ :two: /ˈheɪ mɪʃ/ (heimish) Homey; cozy and unpretentious.  
 __hair clippers__ _n_ :camera:  
+__hair trigger__ _n_ :dart:  
 __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a hair-trigger temper; a hair-trigger reaction.  
 __hairline__  
 __hairpiece__ _n_  
@@ -7664,7 +7668,7 @@ __harebrained__ _adj_ :three::hammer: _A harebrained idea._
 __harelip__ _n_ A congenital cleft in the middle of the upper lip. _Syn_ cheiloschisis, cleft lip _The insurance company argued that the surgery to correct her harelip was not medically necessary._  
 __hares__ _n_  
 __harissa__ _n_ :three: A spicy North African sauce made from chili peppers, garlic, cumin, and other seasonings.  
-__hark__ _v_ :two::hammer: (harking)  
+__hark__ _v intr_ :three: (harking) To listen attentively.  
 __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.  
 __harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
 __harmonize__ _v_  
@@ -8074,6 +8078,7 @@ __Holy Writ__ _n_
 __homage__ _n_ :two: __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home furnishing__ _n_  
+__home run__ _n_  
 __home school__ _v_  
 __home__ _v intr_ To go or return to one’s residence or base of operations.  
 __home-delivery__  

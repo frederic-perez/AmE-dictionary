@@ -1,18 +1,3 @@
-__epiphany__ _n_ :mega:  
-__equip__ _v_ :mega:  
-__exude__ _v_  
-__fortuitous__ _adj_ /for-TOO-uh-tus/ __1__ Happening by chance. _It was rather fortuitous that the two sisters both decided to surprise their parents with a visit on the same weekend._ __2__ Having or showing good luck.  
-__frolic__ _v intr_ /ˈfrɒl ɪk/  
-__garbage__ _n_ :mega:  
-__garner__ _v_ /GAHR-ner/ __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
-__gazillion__ _n_  
-__genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
-__giggle__ _v_ :es: reirse tontamente  
-__godsend__  
-__guessing game__ _n_ A game in which participants compete to identify some obscurely indicated thing.  
-__hair trigger__ _n_ :dart:  
-__hark__ _v intr_ To listen attentively.  
-__home run__ _n_  
 __honor__ _v_  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
