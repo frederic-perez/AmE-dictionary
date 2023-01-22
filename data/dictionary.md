@@ -170,6 +170,7 @@ __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, promp
 __acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __acupunture__ _n_ :pencil2:  
+__acute__ _adj_  
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
@@ -642,7 +643,7 @@ __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demandin
 __apnea__ _n_ :two: Temporary cessation of breathing.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
-__apologetic__ _adj_ :six: Very sorry. _That’s what I call apologetic hand raise._  
+__apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
@@ -1116,7 +1117,7 @@ __ballyhoo<sup>1</sup>__ _n_
 __ballyhoo<sup>2</sup>__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :three::hammer: _The air was sweet and balmy._ _A balmy day._  
-__baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
+__baloney__ _n_ :four::pencil2::mega: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balsa__ _n_  
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
@@ -1167,9 +1168,7 @@ __barbs__ _n_ :two::hammer: _His sharp barbs._
 __barded__ _v_  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
-__barf bag__  
-__barf bucket__  
-__barf__ _v_  
+__barf__ _v_ :four: To vomit. _Barf bag._ _Barf bucket._  
 __bargain__ _n_ :three::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
@@ -2676,7 +2675,7 @@ __caterwaul<sup>1</sup>__ _n_
 __caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__ _adj_ :two::hammer: _Caterwauling choristers._  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
-__catharsis__ _n_ :two::hammer:  
+__catharsis__ _n_ :three::hammer:  
 __cathartic__  
 __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
@@ -3323,7 +3322,7 @@ __comatose__
 __comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
 __combat<sup>1</sup>__ _n_  
-__combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
+__combat<sup>2</sup>__ _v_ :two::hammer::mega: (combated, combating, or combatted or combatting)  
 __combatant__ _n_ A person or group engaged in or prepared for a fight, struggle, or dispute. _Syn_ battler, belligerent, fighter, scrapper _Here the two combatants drew their swords and threw off their doublets, for neither had any defensive armor._  
 __combine__ _n_ __3__ An association of business corporations, political parties, sporting clubs, etc, for a common purpose.  
 __come around__  
@@ -3336,6 +3335,7 @@ __comeliness__ _n_
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
+__comfiness__ _n_ /ˈkʌmfɪnəs/ The feeling or quality of being comfortable.  
 __comfit__ _n_  
 __comfort food__ _n_ :three::hammer:  
 __comfort__ _n_ :pencil2:  
@@ -3682,7 +3682,7 @@ __corgi__
 __coriander__ _n_ :two::hammer: :es: cilantro  
 __cork sun helmet__ _n_ :two: Pith helmet.  
 __corkboard__ _n_  
-__corky__ _adj_  
+__corky__ _adj_ :two::hammer:  
 __cormorants__  
 __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
 __Corn Belt__ _n_ A region in the midwestern U.S., esp. Iowa, Illinois, and Indiana, excellent for raising corn and cornfed livestock.  
@@ -3740,7 +3740,7 @@ __couchant__ _adj_ _Heraldry_ Lying down with the head raised. _Pennants display
 __couchsurfing__ _n_ :astonished: The practice of sleeping overnight in the houses of friends or fellow members of a social network, esp as an alternative to staying in hotels, hostels, etc.  
 __cougar__ _n_ An older woman seeking a sexual relationship with a younger man.  
 __cough up__ _v_  
-__could__ _v_ :mute:[cou~~l~~d]  
+__could__ _v_ :two::hammer::mega::mute:[cou~~l~~d]  
 __coulee__  
 __coulrophobia__ _n_ Fear of clowns.  
 __councilor__ _n_ :two::hammer: (councillor)  
@@ -3795,6 +3795,7 @@ __cox’n__
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
+__coyote__ _n_ :mega:  
 __cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
 __cozy<sup>1</sup>__ _adj_ :five::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._ _There are many cozy B and B inns._  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
@@ -4360,7 +4361,7 @@ __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate 
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
 __deliver<sup>1</sup>__ _v tr_ :two::hammer:  
-__deliver<sup>2</sup>__ _v intr_ :dart::seven: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
+__deliver<sup>2</sup>__ _v intr_ :dart::eight: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
 __deliverance__ _n_ :five::hammer: _Hope and deliverance._  
 __delivers__  
 __delivery note__  
@@ -4548,7 +4549,7 @@ __digression__ _n_ :two::hammer:
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dike__ _n_ :pencil2: (dyke)  
 __dilapidate__ _v_ :four::hammer:  
-__dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse. _Dilapidated yatch._  
+__dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse. Falling to pieces or in a state of disrepair; shabby. _Dilapidated house._ _Dilapidated yatch._  
 __dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
 __dilemma__  
 __dilettante__ _n_ A dabbler in an art or a field of knowledge. _Syn_ sciolist _He claimed to be serious about his paintings, but he was at heart a mere dilettante._  
@@ -4617,6 +4618,7 @@ __disaffected__ _adj_ :three::hammer:
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disapprove__ _v_  
 __disarray__ _n_ :five: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
+__disassociate__ _v_ A less common word for _dissociate_.  
 __disastrous__ _adj_ :two::hammer:  
 __disavow__ _v_ :three: (disavowed) __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
@@ -4914,7 +4916,7 @@ __double-edged__ _adj_ _Double-edged sword._
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
 __doubly__  
-__doubt__ _n, v_ :mute:[dou~~b~~t] /daʊt/  
+__doubt__ _n, v_ :two::hammer::mega::mute:[dou~~b~~t] /daʊt/  
 __doubting Thomas__ _n_  
 __doubtless__ _adj, adv_ :two::hammer:  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
@@ -4949,7 +4951,7 @@ __downhearted__ _adj_
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
-__downplay__ _v tr_ :seven::hammer: (downplayed)  
+__downplay__ _v tr_ :nine::hammer: (downplayed) _Do not downplay your dreams._  
 __downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
 __downright__ _adv_ :dart::seven::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :four::hammer: (downsides) _Working from home has its upsides as well as downsides._  

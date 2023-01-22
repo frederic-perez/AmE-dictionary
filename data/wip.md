@@ -1,18 +1,3 @@
-__acute__ _adj_  
-__apologetic__  
-__baloney__ _n_ :mega:  
-__barf__ _v_ To vomit.  
-__catharsis__ _n_  
-__combat__ _v_ :mega:  
-__comfiness__ _n_ /ˈkʌmfɪnəs/ The feeling or quality of being comfortable.  
-__corky__ _adj_  
-__cough__  
-__coyote__ _n_ :mega:  
-__deliver__ _v_  
-__dilapidated__ _adj_ Falling to pieces or in a state of disrepair; shabby. _Dilapidated house._  
-__disassociate__ _v_ A less common word for _dissociate_.  
-__doubt__ _n, v_ :mega: /daʊt/  
-__downplay__ _v_ :two::hammer: _Do not downplay your dreams._  
 __dragon__ _n_ :mega:  
 __duct tape__ _n_ A strongly adhesive silver-gray cloth tape, used in plumbing, household repairs, etc.  
 __fizzle out__  
