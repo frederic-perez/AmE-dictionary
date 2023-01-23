@@ -710,7 +710,7 @@ __Arapahoe__ _n_ :two::hammer:
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__ _n_ :eight::hammer:  
+__arboretum__ _n_ :eight: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
 __arboriculture__ _n_  
 __arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._  
 __arcade game__  
@@ -1268,7 +1268,7 @@ __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._
 __bear down__ _v_  
 __bear hug__  
 __bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
-__bearing<sup>1</sup>__ _n_ :eight::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._ __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._  
+__bearing<sup>1</sup>__ _n_ :eight: __1__ The manner in which one conducts or carries oneself, including posture and gestures: _a person of dignified bearing._ __2__ The act, capability, or period of producing or bringing forth. __3__ Something that is produced; a crop. __4__ The act of enduring or the capacity to endure. __5__ :dart: Reference or relation (usu. fol. by _on_): _It has no bearing on the problem._ _Those issues have no bearing on our situation._ _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._ __6a__ A supporting part of a structure. __b__ The area of contact between a bearing member, as a beam, and a pier, wall, or other underlying support. __7__ The support and guide for a rotating, oscillating, or sliding shaft, pivot, or wheel. __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._ __9__ A horizontal direction expressed in degrees east or west of a true or magnetic north or south direction. __10__ A device on a heraldic field.  
 __bearing<sup>2</sup>__ _adj_  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
@@ -1696,7 +1696,7 @@ __blue-ribbon__ _adj_ _Blue-ribbon fisheries._
 __bluebell__ _n_  
 __bluegill__  
 __bluegrass__  
-__blueprint__ _n_ :eight::hammer: (blueprints)  
+__blueprint__ _n_ :eight: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
 __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :four::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has.  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
@@ -3402,7 +3402,7 @@ __complex__ _adj, n, v_ :mega:
 __compliance__ _n_ :four::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ _adj_ :nine::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
+__complimentary__ _adj_ :nine::pencil2: __1__ Expressing, using, or resembling a compliment: _a concert that received complimentary reviews._ __2__ :dart: Given as a courtesy at no charge: _complimentary copies of the new book._ _Complimentary rooms._ _Complimentary popcorn._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
 __complot__ _n_ :mega:  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
@@ -3455,7 +3455,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :seven::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
-__concourse__ _n_ :nine::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._  
+__concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
