@@ -1,18 +1,3 @@
-__dragon__ _n_ :mega:  
-__duct tape__ _n_ A strongly adhesive silver-gray cloth tape, used in plumbing, household repairs, etc.  
-__fizzle out__  
-__guy__ _n_ Person, male or female. _Come on, you guys!_  
-__imagine__ _v_  
-__income__ _n_ :mega:  
-__invalidate__ _v_  
-__lid__ _n_ _Do not put a lid on your dreams._  
-__measly__ _adj_ _All that abuse for a measly $20?_  
-__meekly__  
-__miasma__  
-__midday__ _n_ _Normalize midday naps._  
-__misuse__ _n_ _He had no history of alcohol misuse._  
-__Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
-__molasses__ _n_  
 __moped__ _n_  
 __mundane__  
 __mustard__ _n_ :mega:  

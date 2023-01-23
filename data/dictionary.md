@@ -4982,6 +4982,7 @@ __drag<sup>1</sup>__ _v_ (dragging)
 __drag<sup>2</sup>__ _n_  
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
+__dragon__ _n_ :mega:  
 __dragon’s blood__ _n_ A dark red resinous substance derived from various trees and used in photoengraving.  
 __dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.  
 __drain board__ _n_ :three::hammer: (drainboard)  
@@ -5113,6 +5114,7 @@ __duckboard__ _n_ :two: (duckboards) A board or boards laid so as to form a floo
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
 __ducky__ _adj_ _slang_ Excellent; fine.  
+__duct tape__ _n_ A strongly adhesive silver-gray cloth tape, used in plumbing, household repairs, etc.  
 __duct__ _n_ _They damaged a very large AT&T phone duct._  
 __ductile__ _adj_ :two::hammer:  
 __dud<sup>1</sup>__ _n informal_ :eight: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ _Contemporary duds for women and men alike._ _Stylish duds._ :es: prendas de vestir  
@@ -6201,6 +6203,7 @@ __fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, u
 __fixture__ _n_ :five::hammer: _A Premier League fixture._ _He had been a fixture and a legend._ _The bar is a neighborhood fixture since 1972._  
 __fizz<sup>1</sup>__ _n_ :four::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
 __fizz<sup>2</sup>__ _v_ (fizzing)  
+__fizzle out__  
 __fizzle up__  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _adj_ _A fizzy mix of generational drama and dystopian fantasy._  
@@ -7491,6 +7494,7 @@ __gutted__ _adj_ _informal_ Disappointed and upset.
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
 __guttersnipe__ _n_ :two: A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin _In Shaw’s _Pygmalion_, an elocution expert plucks a guttersnipe from Covent Garden market and teaches her to talk like a lady._  
 __guttural__ _adj_ :pencil2: [:scroll: French, from New Latin gutturālis, from Latin guttur, throat.]  
+__guy__ _n_ Person, male or female. _Come on, you guys!_  
 __guzzle__ _v_ :three::hammer: _Guzzling ice water._  
 __guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
@@ -8122,7 +8126,7 @@ __honk__ _n_
 __honky tonk__ _n_ :two::hammer:  
 __honky-tonk__  
 __honor<sup>1</sup>__ _n_ _The magazine saw seven issues and then was interred with honors._  
-__honor<sup>2</sup>__ _v_ :two::hammer::mute:[~~h~~onor]  
+__honor<sup>2</sup>__ _v_ :three::hammer::mute:[~~h~~onor]  
 __honorary__ _adj_ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
@@ -8383,6 +8387,7 @@ __ideation__ _n_ :two::hammer:
 __identical twin__ _n_ :two: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __ides__ _n_  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
+__idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__ _adj_ :three: Of, relating to, or designating a disease having no known cause.  
 __idiosyncrasy__ _n_ A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
@@ -8410,6 +8415,7 @@ __illiterate__ _adj_ :two::hammer:
 __illusory__ _adj_ _Illusory boundaries._  
 __illustrious__ _adj_ :seven::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
 __imagination__ _n_ :mega:  
+__imagine__ _v_  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
@@ -8541,6 +8547,7 @@ __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Har
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
 __incognizant__ _adj_ Lacking knowledge or awareness. _Syn_ unaware _He was incognizant of the new political situation and needed his brother to brief him on the details._  
+__income__ _n_ :mega:  
 __incommunicado__  
 __inconclusive__ _adj_  
 __incongruities__ _n_  
@@ -8688,6 +8695,7 @@ __ins and outs__ _pl n_ :two::hammer:
 __insatiable__ _adj_ _An insatiable learner._  
 __inscribed__ _v_  
 __inscrutable__ _adj_ :four: /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
+__insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
 __inset<sup>2</sup>__ _n_ :two::hammer:  
 __insidious__ _adj_ :two::hammer:  
 __insightful__ _adj_ _An insightful overview._  
@@ -8738,8 +8746,7 @@ __interim__ _adj, adv, n_ :two::hammer:
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
 __interlope__ _v intr_ /in-tuhr-LOHP, IN-tuhr-lohp/ [:scroll: Probably a back-formation from interloper, from Latin inter- (between) + Dutch lopen (to run), which also gave us landloper and landlubber] To intrude or interfere.  
-__interloper__ _n_ /in-ter-LOH-per/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
-__interlopers__ _n_ :three::hammer:  
+__interloper__ _n_ :five::hammer: /in-ter-LOH-per/ /ˈɪntəˌləʊpə/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
 __interlude__ _n_  
 __interment__ _n_ :three::hammer:  
 __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
@@ -8780,6 +8787,8 @@ __inundation__ _n_ :astonished: An overwhelming number or amount. _Syn_ deluge, 
 __inure__ _v_ :two::hammer: (inured)  
 __inured__ _adj_ Made tough by habitual exposure. _Syn_ hardened _Doctors become inured to death._  
 __inurnment__  
+__invalidate__ _v_  
+__invalidating__ _adj_ _Invalidating people._  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :six: /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
@@ -8885,7 +8894,7 @@ __jam__ _v_ :two::hammer:
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
 __jamb__ _n_ :two::hammer: _(building)_ _Window jamb._  
 __jambalaya__ _n_ :two::hammer:  
-__jamboree__ _n_ :four::hammer: _A campfire jamboree._  
+__jamboree__ _n_ :five::hammer: /ˌdʒæm bəˈri/ _A campfire jamboree._  
 __jammies__ _n_ :two::hammer:  
 __jampacked__ _v_  
 __jams__ _n_  
@@ -8894,7 +8903,7 @@ __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
 __janitor__ _n_  
-__Janus word__ _n_ A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms , antagonyms , or auto-antonyms.  
+__Janus word__ _n_ :two: A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms, antagonyms , or auto-antonyms. A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
 __Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
 __jape__ _v_ :two::hammer: (japing)  
 __jaquette__ _n_  
@@ -9313,7 +9322,7 @@ __ladyfinger cookies__
 __Lafayette__ _n_  
 __lag__ _v_ :three::hammer: (lags)  
 __laggard<sup>1</sup>__ _adj_ :four::hammer:  
-__laggard<sup>2</sup>__ _n_ :three: Someone who takes more time than necessary; someone who lags behind. _Syn_ dawdler, trailer, poke _He was such a laggard that his friends were already paying the bill by the time he reached the café._  
+__laggard<sup>2</sup>__ _n_ :four: Someone who takes more time than necessary; someone who lags behind. _Syn_ dawdler, trailer, poke _He was such a laggard that his friends were already paying the bill by the time he reached the café._  
 __lagged__  
 __laggy__ _adj_  
 __lagoon__ _n_ _The Venetian lagoon._  
@@ -9580,6 +9589,7 @@ __lick__ _v_ _Fires licked the edges of cars and buildings._
 __lick-spittle__ _n_ :dart: One who is abject enough to lick, as it were, another’s spittle; a vulgar flatterer or parasite. _A lick-spittle role._  
 __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
 __licorice__ _n_ :five::camera::mega: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
+__lid__ _n_ _Do not put a lid on your dreams._  
 __lidar__  
 __lido__ _n_ A recreational facility including a swimming pool for water sports.  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
@@ -9661,7 +9671,7 @@ __links__ _n_ :two: __1__ A golf course. _The links course._
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
 __lintel__ _n_ :three::hammer: _Stone lintels._ :es: dintel  
 __lionhearted__ _adj_  
-__lionized__ _v_  
+__lionize__ _v_ :two: To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
@@ -9855,6 +9865,7 @@ __lowlife__ _n_ _slang_ :four: __1__ A contemptible person. A criminal or disrep
 __lowlights__  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ :two: Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
+__LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
 __lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
@@ -9881,6 +9892,7 @@ __lumberjack__ _n_ :five::hammer:
 __luminaria__ _n_ :two: A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
 __luminary__ _n_ :six: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._ _Hollywood luminaries._  
 __lummox__ _n informal_ A clumsy or stupid person.  
+__lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
@@ -10004,7 +10016,7 @@ __makeover__ _n_ :dart::five::hammer: _The ultimate makeover story of a maid-tur
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup__ _n_ :two: __2__ An event that is substituted for a previously cancelled event. _The two teams played a makeup one week later._ _Today’s game has been postponed; no makeup date has been snnounced._ _A makeup game._  
 __maki__ _n_ :two::hammer: [:scroll: from Japanese, literally: roll]  
-__maladaptive__ _adj_ :three: Showing faulty adaptation. _The Tetris Effect need not be maladaptive._  
+__maladaptive__ _adj_ :four: Showing faulty adaptation. _The Tetris Effect need not be maladaptive._  
 __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :four::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
@@ -10067,7 +10079,7 @@ __Manhattanite__ _n_ :two::hammer:
 __manhole cover__  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
 __mania__ _n_ :two::hammer:  
-__manic episode__ _n_  
+__manic episode__ _n_ :two::hammer:  
 __manic__ _adj_ :two::mega::hammer: _I was manic._  
 __manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
@@ -10226,6 +10238,7 @@ __meander<sup>2</sup>__ _v_ :five: /mee-AN-der/ __1__ To wander aimlessly or cas
 __meaningful__  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __measles__ _n_ :five::pencil2::hammer: :es: sarampión  
+__measly__ _adj_ __2__ _slang_ Contemptibly small; meager: _gave the waiter a measly tip._ _All that abuse for a measly $20?_  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
 __meat and potatoes__  
 __meat at the bone__  
@@ -10241,6 +10254,7 @@ __meddlesome__ _adj_
 __meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  
+__medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
 __medic__ _n informal_ :two: A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __medical school syndrome__ _n_  
@@ -10252,7 +10266,7 @@ __meds__
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
 __meek<sup>1</sup>__ _adj_ :nine: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
-__meekly__ _adv_ :three::hammer:  
+__meekly__ _adv_ :four::hammer:  
 __meekness__ _n_ :three::hammer:  
 __meerkats__ _n_  
 __meet up__  
@@ -10377,7 +10391,7 @@ __mettle__ _n_ :nine::m::dart: __1__ Courage; spirit. The courage to carry on: _
 __mettlesome__ _adj_ /MET-ul-sum/ Full of vigor and strength of spirit or temperament. _The rider was experienced and had no trouble handling the mettlesome horse._  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :three::hammer:  
-__miasma__ _n_ :six::hammer: _An opaque miasma._  
+__miasma__ _n_ :seven::hammer: _An opaque miasma._  
 __michelada__ _n_  
 __mick__ _n_ :three::hammer:  
 __micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
@@ -10387,7 +10401,7 @@ __micturate__ _v_ A less common word for urinate.
 __mid-afternoon__  
 __midafternoon__  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
-__midday__ _n_ :three::pencil2: The middle of the day; noon.  
+__midday__ _n_ :four::pencil2: The middle of the day; noon. _Normalize midday naps._  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ :two: A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
@@ -10537,10 +10551,12 @@ __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe f
 __mistress__ _n_ :mega: /ˈmɪstrɪs/  
 __mistrial__ _n_ :two::hammer:  
 __mistruth__ _n_ :two::hammer: (mistruths)  
-__misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
+__misuse<sup>1</sup>__ _n_ _He had no history of alcohol misuse._  
+__misuse<sup>2</sup>__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __miter__ _n_  
 __mitigate__ _v_ :three::hammer:  
 __mitt__ _n_  
+__Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
@@ -10560,7 +10576,7 @@ __mogul__ _n_ :five: (moguls) __1__ A very rich or powerful person; a magnate. _
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __mojo__ _n_  
-__molasses__ _n_ :six::hammer: :es: melaza _Pomegranate molasses._  
+__molasses__ _n_ :seven::hammer: :es: melaza _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
 __moldy__ _adj_ :two::hammer:  

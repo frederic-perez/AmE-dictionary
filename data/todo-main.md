@@ -1,18 +1,3 @@
-__honor__ _v_  
-__idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
-__insentient__ _adj_ Devoid of sensation or consciousness; inanimate. _Syn_ insensate _Jim thought he might be losing his mind when he caught himself talking to insentient objects._  
-__interloper__ _n_  
-__invalidating__ _adj_ _Invalidating people._  
-__jamboree__ _n_  
-__Janus word__ _n_ A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
-__laggard__ _n_  
-__lionize__ _v_ To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
-__LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
-__lump sum__ _n_ A single sum of money that serves as complete payment.  
-__lurk__ _v_  
-__maladaptive__ _adj_  
-__manic episode__ _n_  
-__medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
 __mellow<sup>1</sup>__ _adj_  
 __mellow<sup>2</sup>__ _v_ To make or become mellow; soften; mature.  
 __miffed__ _adj_ /mɪft/ Annoyed or upset. _The cat was miffed at being left alone._  
