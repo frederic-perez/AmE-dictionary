@@ -1,18 +1,3 @@
-__at its worst__  
-__badass__ :three::hammer:  
-__be off the rails__  
-__bear hug__  
-__bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
-__bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, always trying to micromanage my every move._  
-__brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
-__break bread__ To eat. _We should break bread before the meal gets cold._  
-__break new ground__  
-__brighten up (the) day__  
-__bump someone or something up__  
-__burn the midnight oil__ :two::hammer:  
-__burst at the seams__  
-__burst through (something)__  
-__by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by any chance__ :dart: Used as a polite emphasis to a request or question. _Would you by any chance happen to know where the subway is from here?_  
 __by the balls__  
 __by the same token__ In the same way.  
