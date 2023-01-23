@@ -1,18 +1,3 @@
-__by any chance__ :dart: Used as a polite emphasis to a request or question. _Would you by any chance happen to know where the subway is from here?_  
-__by the balls__  
-__by the same token__ In the same way.  
-__call it a day__ _If there are no further points, then let’s call it a day._  
-__call out__ _Never call out a narcissist._  
-__call something out__  
-__call the shots__  
-__can’t thank you enough__  
-__cannibalize__ _v_  
-__carry the ball__  
-__cast/shed/throw light on something__ :two::hammer:  
-__cat and mouse__  
-__cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
-__cautionary tale__  
-__change of heart__  
 __check out__  
 __chip away__ :three::hammer:  
 __chip on one’s shoulder__  
