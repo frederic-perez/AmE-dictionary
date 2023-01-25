@@ -1,18 +1,3 @@
-__moped__ _n_  
-__mundane__  
-__mustard__ _n_ :mega:  
-__nibbles__ _n_ :two::hammer:  
-__nick__ _n_ _In a nick of time._  
-__non-communicable disease__  
-__nonexistent__ _adj_  
-__nuclear family__ _n_  
-__Omaha__ _n_ :mega:  
-__open-label trial__ _n_  
-__opinionated__ _adj_ :two: Holding obstinately and unreasonably to one’s own opinions; dogmatic.  
-__outcropping__ _n_  
-__overlook__ _v_  
-__oversee__ _v_  
-__oversight__ _n_  
 __overstated__  
 __pace__ _v_  
 __palette__ _n_ :mega:  

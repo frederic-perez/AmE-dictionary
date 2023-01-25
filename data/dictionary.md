@@ -10639,6 +10639,7 @@ __moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an 
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __moot<sup>3</sup>__ _n_  
 __mope__ _v_ :pencil2::two::hammer:  
+__moped__ _n_  
 __moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
 __moral__  
@@ -10759,7 +10760,7 @@ __mumps__
 __munch__ _v_ :four:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
-__mundane__ _adj_ :five::hammer:  
+__mundane__ _adj_ :six::hammer:  
 __Muni bus__  
 __munificent__ _adj_ :three: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munifience__ _n_ _obsolete_ A fortification.  
@@ -10792,6 +10793,7 @@ __mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin muscu
 __must have__  
 __mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
+__mustard__ _n_ :mega:  
 __muster__ _v_ :four: (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._ To assemble or gather: _mustering for inspection._ Gather or bring together. _Syn_ rally, summon _Mustering all her strength, she pulled hard on the oars._  
 __musty__  
 __mutism__ _n_  
@@ -10960,11 +10962,12 @@ __newsworthy__ _adj_ Of sufficient interest to warrant press coverage.
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
-__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :nine: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ _Goats nibbled._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
+__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :nine::m: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ _Goats nibbled._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
 __nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nicety__ _n_  
 __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
+__nick__ _n_ _In a nick of time._  
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
 __nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  
@@ -11031,6 +11034,7 @@ __nominalization__ _n_ The conversion of a word or phrase into a noun.
 __nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
 __non sequitur__ _n_ :eight: /NAHN-SEK-wuh-ter/ __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. A statement that either does not logically follow from or is not clearly related to what was previously said. _The host’s non sequitur about the award recipient’s unconventional dress did not go unnoticed by her fans on social media._ :es: incongruencia  
 __non-committal__  
+__non-communicable disease__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
 __non-perishables__  
@@ -11045,6 +11049,7 @@ __nondescript__ _adj_ :four::hammer:
 __nonesuch__ _n_ (nonsuch)  
 __nonetheless__ _adv_ Despite that; however; nevertheless.  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
+__nonexistent__ _adj_  
 __nonlinear__ _adj_  
 __nonpareil<sup>1</sup>__ _adj_ /nahn-puh-REL/ Having no equal. _The singer’s stunning performance was nonpareil._  
 __nonpareil<sup>2</sup>__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
@@ -11104,6 +11109,7 @@ __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the 
 __nub__ _n_ :two::hammer: _A punched nub._  
 __nubby__ _adj_ _Nubby sole design._  
 __nubile__ _adj_  
+__nuclear family__ _n_  
 __nucleotide__ _n_  
 __nudum pactum__ _n_ /ˈnjuːdʊm ˈpæktʊm/ (Law) An agreement made without consideration and void unless made under seal.  
 __nugatory__ _adj_ :two: /NOO-guh-tor-ee/ __1__ Of little or no importance; trifling: _The nation’s interests in such a remote region were nugatory._ __2__ Unavailing, futile, or invalid: _Efforts to remedy the situation proved to be nugatory._ _The law was unenforced and thus rendered nugatory._  
@@ -11262,6 +11268,7 @@ __oligarch__ _n_ :three: One of the rulers in an oligarchy.
 __oligo-__ _prefix_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
+__Omaha__ _n_ :mega:  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelets__  
 __omen__ _n_ :six::hammer:  
@@ -11327,6 +11334,7 @@ __open house__ _n_ :three::hammer: _Educational open house._
 __open loop__  
 __open mike__ _n_ :two::hammer: _When are you going to do an open mike?_  
 __open-air bus__  
+__open-label trial__ _n_  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
 __operetta__ _n_ :pencil2:  
@@ -11334,7 +11342,7 @@ __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Charac
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __opine__ _v_ /oh-PYNE/  
-__opinionated__ _adj_ :three: Holding stubbornly and often unreasonably to one’s own opinions.  
+__opinionated__ _adj_ :five: Holding obstinately and unreasonably to one’s own opinions; dogmatic.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opportune__ _adj_ /ˌɒp ərˈtun, -ˈtyun/ __1__ Suitable or convenient for a particular situation. _It is an opportune time to invest in the stock market._ __2__ Occurring at an appropriate time. _The book’s publication is opportune._  
@@ -11417,7 +11425,7 @@ __outburst__ _n_ :four::hammer:
 __outcast__ _n_  
 __outcaste__ _n_  
 __outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
-__outcroppings__  
+__outcropping__ _n_ :two::hammer:  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated__ _adj_ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
 __outdoor__ _adj_ _8 pork sausages from British outdoor bred pigs (454g)._  
@@ -11504,7 +11512,7 @@ __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin spac
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
 __overlay__ _n_  
-__overlook__ _v_  
+__overlook__ _v_ :two::hammer:  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
 __overnight<sup>1</sup>__ _adj_ :two::hammer:  
 __overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._  
@@ -11515,10 +11523,10 @@ __overreach__ _v_
 __overreact__ _v_ :pencil2:  
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
 __overseas__  
-__oversee__ _v_ :five::hammer: _Oversee compliance._  
+__oversee__ _v_ :six::hammer: _Oversee compliance._  
 __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
-__oversight__ _n_ :four::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
+__oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
 __overstating__ _v_  
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
