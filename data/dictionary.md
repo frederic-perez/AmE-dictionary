@@ -785,7 +785,7 @@ __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artillery__ _n_  
 __artisanal__ _adj_ :two::hammer: _Artisanal cheeses._  
-__artistry__  
+__artistry__ _n_ :two: A superior skill that one can learn by study and practice and observation. _Syn_ prowess, art  
 __artsy__ _adj_ :four::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
 __artwork__ _n_ :three::pencil2::hammer:  
@@ -1098,6 +1098,7 @@ __baler__ _n_ An agricultural machine for making bales of hay, etc. _It required
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
 __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
+__balkanize__ _v_ /BAWL-kuh-nyze/  
 __balked__ _v_  
 __ball bearings__ _n_ :two::hammer:  
 __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
@@ -1834,6 +1835,7 @@ __boorishness__ _n_ :two::hammer:
 __booster shot__ _n_ An additional dose of an immunizing agent, such as a vaccine or toxoid, given at a time after the initial dose to sustain the immune response elicited by the previous dose of the same agent. _Syn_ booster dose  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
+__boot-faced__ _adj_ /BOOT-fayst/ [:scroll: From the expression “to have a seaboot face” (to have grim face), probably alluding to seaboots being worn on a ship in bad weather.] Having a stern, angry, or sad expression.  
 __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :four::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._ _We needed ways to boot people from the bridge._  
 __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.  
@@ -5455,6 +5457,7 @@ __endarterectomy__ _n_ :mega:
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endeavor__ _v_ :two: Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
+__endemic__ _adj_ /en-DEM-ik/  
 __endless__  
 __endocrine__ _n_ :mega:  
 __endometriosis__ _n_ The presence of endometrium in areas other than the lining of the uterus, as on the ovaries, resulting in premenstrual pain.  
@@ -5676,7 +5679,7 @@ __ewes__ _n_
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __ex__ _n_  
-__exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exacerbate__ _v_ :nine::m: /ig-ZASS-er-bayt/ (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v tr_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exaction__ _n_  
 __exaggerate__  
@@ -7511,6 +7514,7 @@ __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonym
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ _n_ :astonished:  
 __habituate__ _v_  
+__habitue__ _n_ A regular patron. _Syn_ regular, fixture _He was a habitue at the bar, but he never had more than two drinks in a night._  
 __habitus__ _n_ /HAB-i-tuhs/ __1__ The physical characteristics of a person, especially as relating to disease. __2__ The way someone of a particular social group perceives and responds to the world.  
 __hachimaki__ _n_ :camera:  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
@@ -9297,6 +9301,7 @@ __lace<sup>1</sup>__ _n_ :two::hammer: _Delicate lace._
 __lace<sup>2</sup>__ _v_ :dart::four::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._ _I have laced a few punters._ _The brick streets are laced with sculptures._  
 __lacerate__ _v_  
 __laceration__ _n_  
+__lachrymator__ _n_ A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds. _Syn_ teargas _When the demonstration turned violent, the police used a potent lachrymator to disperse the mob._  
 __lachrymose__ _adj_ :three::pencil2: /LAK-ruh-mohss/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :six::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._  
@@ -9674,6 +9679,7 @@ __lionhearted__ _adj_
 __lionize__ _v_ :two: To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
+__lip-worshiper__ _n_  
 __lipped__ _v_  
 __lippy__ _adj_  
 __lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
@@ -9931,6 +9937,7 @@ __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profus
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
 __lycanthropy__ _n_ /lye-KAN-thruh-pee/ Lycanthropy refers to the power or ability to take the shape and characteristics of a wolf through witchcraft or magic. It can also mean “a delusion that one has become a wolf.” _The 1941 film _The Wolf Man_ starred Lon Chaney, Jr., as a man cursed with lycanthropy._  
+__lyceum__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12. _Syn_ secondary school, Gymnasium, lycee, middle school  
 __lye water__  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lymphoma__ _n_  
@@ -10123,6 +10130,7 @@ __mardy__ _adj_
 __mare__ _n_  
 __margarine__ _n_  
 __margherita__ _n_  
+__marginalia__ _n pl_ /mahr-juh-NAY-lee-uh/ Marginalia is a plural noun that refers to notes or other marks written in the margins of a text, and to nonessential matters or items. _The students loved flipping through their literature textbooks to find the marginalia left behind by former students._  
 __Mariel felons__  
 __marijuana__  
 __marinades__  
@@ -11696,6 +11704,7 @@ __pardon__ _v_ _Pardon my ignorance._
 __pare__ _v_ :three::hammer: (pares, pared)  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
+__paresthesia__ _n_  
 __pariah__ _n_ :five::hammer:  
 __parietal__ _adj_ _The parietal portion of the skull._  
 __paring knife__ _n_  
@@ -11782,6 +11791,7 @@ __patinated__ _v_
 __patio__ _n_  
 __patois__ _n_  
 __patrician__ _adj_ _A patrician class._  
+__patrolman__ _n_ A policeman who patrols a given region. _Syn_ flatfoot  
 __patron saint__ _n_ A saint regarded as the special guardian of a person, group, trade, country, etc. _Santa Claus is associated with Saint Nicholas, who is the patron saint of children._  
 __patron__ _n_ :six::hammer: _China, North Korea’s patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
@@ -12675,7 +12685,7 @@ __proctor<sup>2</sup>__ _v tr_ (Education) _US_ To supervise (an examination).
 __procure__ _v_ :two::hammer: (procuring)  
 __prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
 __prod<sup>2</sup>__ _n_ :es: _empujón_  
-__prodigal<sup>1</sup>__ _adj_ :two::hammer:  
+__prodigal<sup>1</sup>__ _adj_ :three: Rashly or wastefully extravagant. _Syn_ profligate, spendthrift, extravagant _Her prodigal spending left her with a mountain of bills and an empty bank account._  
 __prodigal<sup>2</sup>__ _n_  
 __produce__ _n_ :three::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __productive cough__ _n_ (medicine) A cough accompanied by expectoration.  
@@ -17521,6 +17531,7 @@ __vulcanize__ _v_ :two: /VUHL-kuh-nyz/ [:scroll: After Vulcan, the Roman god of 
 __vulnerable__ _adj_  
 __vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
 __vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  
+__vulpine__ _adj_ /VUL-pine/  
 __vying__ _v_ :seven: Present participle of vie.  
 __wacko<sup>1</sup>__ _n_ :two: Crazy person, lunatic.  
 __wacko<sup>2</sup>__ _adj_  
