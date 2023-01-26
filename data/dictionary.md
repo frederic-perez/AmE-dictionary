@@ -11527,7 +11527,7 @@ __oversee__ _v_ :six::hammer: _Oversee compliance._
 __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
-__overstating__ _v_  
+__overstated__ _v_ :two::hammer:  
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
@@ -11555,7 +11555,7 @@ __Oz__ _n_ _Iowa would offer the best territory for his American Oz._
 __oz.__  
 __Ozzie__ _n_ :two: (Ozzies) __1__ An Ozzie or (Aussie) is an Australian slang term to name themselves, often used in chants on Australia day “Ozzie ozzie ozzie” “oi oi oi.” __2__ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
 __pablum__ _n_ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
-__pace__ _v_  
+__pace__ _v_ :two::hammer:  
 __pachinko__ _n_ A Japanese gambling game played on a vertical pinball machine.  
 __pachyderm__ _n_ :pencil2:  
 __Pacific Basin__ _n_ _Pacific Basin nations._  
@@ -11597,6 +11597,7 @@ __palaver<sup>1</sup>__ _n_ :three: Talk intended to charm or beguile. _Syn_ bla
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
+__palette__ _n_ :mega:  
 __palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __palindrome__ _n_ /PAL-un-drohm/  
 __palisade__ _n_ /pal-uh-SAYD/ :two::hammer: _The iron palisade surrounding the decrepit mansion stood strong._  
@@ -11683,7 +11684,7 @@ __paradox__ _n_ :four: /ˈpær əˌdɒks/ __1__ In rhetoric, the word paradox re
 __paradoxical__ _adj_  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
-__paragon__ _n_ :six: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
+__paragon__ _n_ :seven: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __parakeet__ _n_ :mega: :es: periquito  
 __parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
 __paralysis__ _n_ :mega:  
@@ -11803,7 +11804,7 @@ __patrolman__ _n_ A policeman who patrols a given region. _Syn_ flatfoot
 __patron saint__ _n_ A saint regarded as the special guardian of a person, group, trade, country, etc. _Santa Claus is associated with Saint Nicholas, who is the patron saint of children._  
 __patron__ _n_ :six::hammer: _China, North Korea’s patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
-__patronize__ _v_ :two::hammer:  
+__patronize__ _v_ :three::hammer:  
 __patronizing__ _adj_ :two::hammer:  
 __patronymic__  
 __patsy__ _adj_  
@@ -11869,6 +11870,7 @@ __pedo__
 __pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail’s famous back bowls._  
+__peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __peep__ _n_ :three::hammer: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
 __peeps__ _n pl_ _slang_ :two: Associates; friends.  
 __peer<sup>1</sup>__ _n_ (peers)  
@@ -12066,7 +12068,7 @@ __pick a fight__
 __pick and roll__  
 __pick me out__  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket’s kiosk._ _His turnover-prone play doesn’t pick up._  
-__pick__ _v_ :two::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
+__pick__ _v_ :three::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
 __pick-me-up__ _n_ __1__ Something, as a drink or snack, taken to restore one’s energy or good spirits. __2__ Any restorative.  
 __pick-six__ _n_ _Football_  
 __pick-up game__ _n_ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren’t any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
@@ -12074,6 +12076,7 @@ __pick-up__ _n_ __6__ _informal_ A casual acquaintance, usually one made with se
 __pickaxe__ _n_  
 __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
 __picket fence__ _n_  
+__picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
 __pickets__ _n_  
 __picklock__ _v_  
 __pickoff__ _n_ __1__ _Baseball_ A play in which a runner is caught off base and is put out by a quick throw, as from the pitcher or catcher. _A pickoff throw to first base._  
@@ -12158,7 +12161,9 @@ __pinnacle<sup>1</sup>__ _n_ [:scroll: From Old French, from Latin pinnaculum, d
 __pinnacle<sup>2</sup>__ _adj_ __1__ To reach the peak of achievement, development, etc. __2__ To form a pinnacle.  
 __pinned__  
 __pinning__ _v_  
-__pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
+__pinpoint<sup>1</sup>__ _v tr_  
+__pinpoint<sup>2</sup>__ _n_ :two::hammer: _His face was covered with pinpoints of sweat and dirt._  
+__pinpoint<sup>3</sup>__ _adj_  
 __pinpricks__ _n_  
 __pins and needles__ _n pl_ :es: hormigueo  
 __pinwheel__ _v_  
@@ -12320,7 +12325,7 @@ __plumbing__
 __plummet__ _v_ :five::hammer: (plummeted, plummeting)  
 __plump__ _adj_ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
-__plunder__ _v_ :six::hammer: (plundered)  
+__plunder__ _v_ :seven::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
 __plunked__ _v_  
@@ -12360,7 +12365,7 @@ __Point is,__
 __point-and-shoot camera__  
 __point-blank__  
 __pointed questions__  
-__pointless__ _adj_ :two::hammer:  
+__pointless__ _adj_ :three::hammer:  
 __poise__  
 __poison ivy__ _n_ :es: hiedra venenosa  
 __poke__ _v_  
@@ -12462,11 +12467,11 @@ __portray__ _v_
 __portrayal__ _n_ :two::mega::hammer:  
 __pose__ _v_ :two::hammer: _That’s the question I pose to you._  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
-__posit__ _v_ :three::hammer::pencil2: (posited) _BYU has posited themselves well._  
+__posit__ _v_ :four::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :two::hammer: :es: zarigüeya  
-__post hoc__  
+__post hoc__ _adj, adv, n_ :two::hammer:  
 __postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ _n_ :two::hammer:  

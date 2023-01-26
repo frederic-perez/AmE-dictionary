@@ -1,18 +1,3 @@
-__overstated__  
-__pace__ _v_  
-__palette__ _n_ :mega:  
-__paragon__ _n_  
-__patronize__ _v_  
-__peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
-__pick__ _v_  
-__picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
-__pinpoint<sup>1</sup>__ _v tr_  
-__pinpoint<sup>2</sup>__ _n_  
-__pinpoint<sup>3</sup>__ _adj_  
-__plunder__  
-__pointless__  
-__posit__ _v_ (posited)  
-__post hoc__  
 __preen__ _v_ __3__ (usually foll by _on_) To pride or congratulate (oneself).  
 __press release__ _n_  
 __prevail__  
