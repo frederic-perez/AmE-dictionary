@@ -690,7 +690,7 @@ __chase the clouds away__
 __chatterbox__ _informal_  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
-__check out__ :five::hammer: _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
+__check out__ :six::hammer: _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheesy__ _adj informal_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chew on something__  
@@ -703,16 +703,18 @@ __chillax__ _slang_ Calm down and relax. _You can dance to your favorite tune, c
 __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing,” often shortened colloquially to “chillaxin’.” _We’re just chillaxin’ and watching some TV, if you want to join us._  
 __chime in__  
 __chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
-__chip away__ :dart: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
+__chip away__ :dart::four: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip in__  
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
 __choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
+__chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
+__chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
 __churn something up__  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
-__circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
+__circle the drain__ :two: To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
@@ -720,7 +722,9 @@ __clear the air__
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
 __close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
-__close call__ :two::hammer:  
+__close call__ _n_ :three::hammer:  
+__close in__  
+__close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __cloud nine__ :dart::two: A state of extreme happiness. Typically appears in the phrase “on cloud nine.” _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
@@ -731,13 +735,15 @@ __cock in the henhouse__ The only male in an all-female environment. _Getting a 
 __cock of the walk__ [:scroll: In animal husbandry, an enclosed yard or a pen is known as a walk. A rooster who rules a roost is, literally, a cock of the walk.] A person who behaves in an arrogant and domineering manner in a group. _The deputy manager was cock of the walk until the new manager arrived. He loved acting cock of the walk and ordering everyone about._  
 __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
 __code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
-__cold feet__ :two::hammer:  
+__cold call__  
+__cold feet__ :three::hammer:  
 __cold fish__ :two: A person who is very reserved or aloof in manner or who lacks normal cordiality, sympathy, or other feeling. Someone who shows no emotion and comes across as unfriendly or disinterested. Someone who has very little emotions, who is regarded as hard-hearted and unfeeling. _The manager decided not to hire Bill as the store greeter because he came across like a cold fish during the interview._  
 __collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
 __collect (one’s) wits__ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __come across__ :four::hammer:  
 __come again?__ :two::hammer:  
+__come and go__  
 __come clean__ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
 __come close to blows__ To nearly devolve into a physical fight.  
 __come down the pike__ :dart: Appear, become prominent, as in _He was the best writer to come down the pike in a long time._ The noun pike here is short for “turnpike” or “road.” _You should take this job offer—who knows when another will come down the pike?_  
@@ -754,6 +760,7 @@ __come to fruition__ :two: To successfully be brought into existence or to compl
 __come to grips with (someone or something)__  
 __come to grips__  
 __come to terms with (someone or something)__ :seven::hammer:  
+__come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
 __come-one-come-all__  
@@ -762,11 +769,13 @@ __coming-of-age__ :three: Describing something, such as a book or film, that foc
 __compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
+__connect the dots__  
 __connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
 __control freak__ :two::hammer:  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
+__cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
 __cool head__ The ability to remain calm and rational during stressful situations. _The successful outcome of the hostage situation was due to the police officer°s cool head._  
 __cool it__  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  

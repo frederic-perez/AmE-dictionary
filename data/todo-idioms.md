@@ -1,18 +1,3 @@
-__check out__  
-__chip away__ :three::hammer:  
-__chip on one’s shoulder__  
-__chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
-__chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
-__circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
-__close call__ _n_  
-__close in__  
-__close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
-__cold call__  
-__cold feet__  
-__come and go__  
-__come to terms__ :two::hammer:  
-__connect the dots__  
-__cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  
 __crash course__  
 __croc__ _n_ /krɒk/ Crocodile.  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
