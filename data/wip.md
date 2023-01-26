@@ -1,18 +1,3 @@
-__preen__ _v_ __3__ (usually foll by _on_) To pride or congratulate (oneself).  
-__press release__ _n_  
-__prevail__  
-__puffer__ _n_  
-__purge__  
-__queasy__  
-__radical__ _adj_ :mega: _What a radical idea!_  
-__rainforest__ _n_  
-__ramble__ _v_ :two: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
-__rampage__  
-__ratlines__  
-__ratoon__ _n_  
-__raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
-__ravine__ _n_  
-__readily__  
 __ready room__  
 __realization__ _n_ (something like _noticing_)  
 __rebuff__ _v_ :two::hammer:  

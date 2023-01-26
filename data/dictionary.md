@@ -12567,7 +12567,7 @@ __preeminent__ _adj_ :four::hammer:
 __preempt__ _v_  
 __preemption__ _n_ :two::hammer:  
 __preemptive__  
-__preen__ _v_ :nine::m: (preened, preening) __1a__ To smooth or clean (feathers) with the beak or bill. __b__ To trim or clean (fur) with the tongue, as cats do. __2__ To dress or groom (oneself) with elaborate care; primp. __3__ To take pride or satisfaction in (oneself); gloat.  
+__preen__ _v_ :nine::m: (preened, preening) __1a__ To smooth or clean (feathers) with the beak or bill. __b__ To trim or clean (fur) with the tongue, as cats do. __2__ To dress or groom (oneself) with elaborate care; primp. __3__ :dart: (usually foll by _on_) To pride or congratulate (oneself). To take pride or satisfaction in (oneself); gloat.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
@@ -12607,6 +12607,7 @@ __president-elect__ _n_ :four::hammer:
 __President-elect__ _n_ :six::hammer: (also president-elect)  
 __press box__ _n_  
 __press on__  
+__press release__ _n_  
 __press the pocket__  
 __pressed__ _adj_ __1__ Compacted by ironing. _Pressed pants._ _A young man with neatly pressed khakis._ :es: planchados __2__ Having very little of something, esp time or money.  
 __pressie__ _n informal_ /ˈprɛzɪ/ (pressy, prezzie) An informal word for present.  
@@ -12619,7 +12620,7 @@ __preterm birth__ _n_ :two: Preterm birth (PTB), also known as premature birth, 
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
-__prevail__ _v_ :three::hammer: (prevails)  
+__prevail__ _v_ :four::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :four::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
@@ -12832,6 +12833,7 @@ __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butte
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
+__puffer__ _n_  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
 __pug-nosed__ _adj_ _Pug-nosed face._  
@@ -12893,7 +12895,7 @@ __pups__ _n_
 __purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, venal, dishonest  
 __purée__  
 __puree__ _v_ :three::hammer:  
-__purge__ _v_  
+__purge__ _v_ :two::hammer:  
 __purloin__ _v_ :eight: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
@@ -12981,7 +12983,7 @@ __quavered__
 __quavering__  
 __quay__ _n_  
 __queasiness__ _n_ _There was queasiness among many residents._  
-__queasy__ _adj_ :six: Causing or suffering from nausea: _feeling queasy after a meal._  
+__queasy__ _adj_ :seven: Causing or suffering from nausea: _feeling queasy after a meal._  
 __queen__ _n_ :astonished: __6__ A mature female cat, especially one kept for breeding purposes.  
 __queer<sup>1</sup>__ _adj_  
 __queer<sup>2</sup>__ _n_  
@@ -13061,6 +13063,7 @@ __racy__ _adj_ :three::hammer: _A racy line from a popular song._ _Racy song._
 __radial__ _n_ _Such a thrill when your radials squeal._  
 __radiation budget__  
 __radical candor__  
+__radical__ _adj_ :two::hammer::mega: _What a radical idea!_  
 __radiometer__ _n_ :two::hammer:  
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
@@ -13084,6 +13087,7 @@ __rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing agai
 __raiment__ _n_ :three::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _n_ _football_  
+__rainforest__ _n_  
 __rainmaker__  
 __rainout__  
 __raise eyebrows__  
@@ -13098,7 +13102,7 @@ __rally<sup>3</sup>__ _n_
 __ram<sup>1</sup>__ _v_ :eight::hammer: (rammed, ramming) _JFK’s PT boat was rammed._ _Ramming your feet into the stirrups._ _The submarine rammed a pipeline._  
 __ram<sup>2</sup>__ _n_  
 __Ramadan__ _n_ __1__ (Islam) The ninth month of the Muslim year, lasting 30 days, during which strict fasting is observed from sunrise to sunset. __2__ (Islam) The fast itself.  
-__ramble__ _v_  
+__ramble__ _v_ :dart::four: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
 __rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambly__ _adv_  
@@ -13108,8 +13112,7 @@ __ramen shop__
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramification__ _n_  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
-__rampage__ _v intr_  
-__rampage<sup>1</sup>__ _v_ :five::hammer:  
+__rampage<sup>1</sup>__ _v intr_ :seven::hammer:  
 __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
 __rampant__ _adj_ :four::hammer:  
 __rampantly__  
@@ -13175,6 +13178,8 @@ __ratify__ _v_ (ratified)
 __rating__ _n_ :two::hammer:  
 __rationale__ _n_ :two::dart: /rash-uh-NAL/ An explanation or reason for something said or done. _Senators who opposed the bill were questioned by media to uncover their rationale for voting against it._ _It has four main rationales._  
 __rationalize__ _v_  
+__ratlines__  
+__ratoon__ _n_  
 __rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
 __ratter__ _n_  
 __rattle__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
@@ -13192,9 +13197,10 @@ __ravages__ _n_ _pl_ :two: __the ravages of something__ The destructive effects 
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :nine: (raved) If you rave about a book you just read, you’re telling people you think it’s great, or you’re giving it a rave review. Rave has two levels, one that implies you’re very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. _Readers raved about his stories._  
 __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
+__raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
 __raven-haired__  
 __ravenous__ _adj_ :five: Extremely hungry.  
-__ravine__ _n_ :two::hammer:  
+__ravine__ _n_ :three::hammer:  
 __ravish__ _v_ (ravished) :two::hammer:  
 __ravisher__ _n_  
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
@@ -13216,7 +13222,7 @@ __reach out to somebody__ _phr v_ To show people that you are interested in them
 __reach out__ _v_ :nine::dart: __1__ To attempt to make contact with someone, especially in search of or to offer help, guidance, comfort, or support. _I’ve tried reaching out to her, but she doesn’t want to share her feelings with me._ _If you would like to request a refund, please reach out to customer service._ __2__ To broaden one’s social circle or experiences in life. _I kind of lost myself in my job for a few years, so I’m trying to reach out and meet some new people._  
 __reactive__ _adj_ :dart:  
 __read into something__  
-__readily__ _adv_ :six::hammer:  
+__readily__ _adv_ :seven::hammer:  
 __readiness__ _n_ _Our career readiness software program._  
 __readings__ _n_  
 __readout__ _n_ :two::hammer:  
