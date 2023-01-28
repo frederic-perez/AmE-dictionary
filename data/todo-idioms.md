@@ -1,6 +1,12 @@
+__(stuck) in a rut__ Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
+__a change is as good as a rest__ A change in one’s work can be as beneficial and revitalizing as taking a break. Primarily heard in US. _I’m hoping that starting on this new career path will help me to find joy in my work again—after all, a change is as good as a rest._  
+__around the horn__ __2__ A difficult route chosen despite a simpler alternative. _If traffic on the highway is too bad, we might have to go around the horn instead._  
+__bode well for (someone or something)__ To seem indicative of a favorable outcome. This phrase is often used in the negative to suggest the opposite. _Sunny weather bodes well for our flight leaving on time._  
 __crash course__  
+__crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
 __croc__ _n_ /krɒk/ Crocodile.  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
+__cry (oneself) to sleep__  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __cut and dry__  
 __cut from the same cloth__  
@@ -10,6 +16,7 @@ __day and age__
 __day in and day out__  
 __dead man walking__  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
+__dial up__ To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
 __ding ding ding__ :two: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __do-gooder__  
 __don’t get (one) started__  
@@ -48,9 +55,11 @@ __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need
 __flat-earther__  
 __flesh out__  
 __floored__ _I am floored._  
+__fly by__  
 __fly on the wall__  
 __food baby__  
 __food coma__  
+__for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
 __for all intents and purposes__  
 __for better or (for) worse__ :five::hammer:  
 __for real__  
@@ -118,6 +127,7 @@ __head-spinning__ :two: Incredible, overwhelming.
 __heads up__ _Thanks for giving me the heads up._  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __heart and soul__  
+__heaven forbid__  
 __heavy lifting__  
 __higgledy-piggledy__  
 __high and dry__  
@@ -155,6 +165,7 @@ __in the middle of nowhere__
 __in the public eye__  
 __in this day and age__  
 __it is not a competition__  
+__it takes two to tango__  
 __jacked chad__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
@@ -198,6 +209,7 @@ __mill about__
 __miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
 __missing link__  
 __mixed bag__  
+__mixed feelings__  
 __more so__ To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
 __more than meets the eye__  
 __mother lode__  
@@ -208,6 +220,7 @@ __name names__ :two::hammer: _I will not go naming names here._
 __narrow down__  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __night and day__  
+__no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
 __no picnic__ _This is no picnic._  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no way__  
@@ -267,13 +280,16 @@ __put out fires__
 __put to the test__  
 __put up with__ :two::hammer:  
 __put up__  
+__raise a red flag__  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
+__ready, set, go__  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
 __red herring__  
 __reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, way of life, etc. _As a teenager, I was always trying to reinvent myself to be cooler or more mysterious._  
 __relate to (someone or something)__  
 __relief party__  
+__reminisce about (someone or something)__ To recall or think back on memories of someone or something, especially in a fond and sentimental manner. _We sat together reminiscing about the wild times we had in college together._  
 __rest assured__  
 __rest on her laurels__  
 __rest on one’s laurels__  
