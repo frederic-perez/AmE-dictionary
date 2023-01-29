@@ -72,6 +72,8 @@ __a bone to pick__ An issue to discuss—typically one that is a source of annoy
 __a breath of fresh air__  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a cry for help__  
+__a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
+__a cut below__ Of lower quality than or inferior to someone or something else, especially that of the expected norm. _This waiter is really a cut below what I would expect from this restaurant._  
 __a different ball game__  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
@@ -79,9 +81,10 @@ __a falling out__ A severe quarrel or disagreement, especially one that leads to
 __a far cry from (something)__ [:sound: far cry from]  
 __a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
 __a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
-__a fine state of affairs__ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
+__a fine state of affairs__ :two: A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm. _Well, this is a fine state of affairs we’re in now. The client doesn’t like the job we’ve done, and they want it fixed in less than a week._  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
 __a fool’s game__  
+__a free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient. _Allow me to give you a free bit of advice, my friend: don’t say something you’ll end up regretting later._  
 __a game of musical chairs__ A situation in which people or things are moved, shuffled, or rearranged from one position to another. _After the boss resigned, it was a regular game of musical chairs in the company to figure out who would take over for whom._  
 __a going concern__ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company.  
@@ -173,6 +176,7 @@ __admit defeat__ To yield to the opposition or accept that one is wrong in some 
 __adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __advanced in years__ Of an older age.  
 __affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
+__affirmative action__  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
 __ahead of the curve__ :five::hammer:  
@@ -713,7 +717,7 @@ __chugging the milk__ Chugging the milk is a phrase used to describe the task of
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
 __churn something up__  
-__cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
+__cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0). _I feel like a bit of a cipher in such a large company._  
 __circle the drain__ :two: To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
@@ -805,7 +809,7 @@ __cross swords__ :two: To fight or argue. _They had crossed swords many times._
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
-__crushing blow__ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
+__crushing blow__ :two: A major defeat or setback that is devastating to the goals of a person, group, or organization. _The team’s loss last Sunday was a crushing blow to their chances for a championship._  
 __crux of the matter__ _She saw the crux of the matter in seconds._  
 __cry foul__  
 __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
@@ -817,7 +821,7 @@ __curl (one’s) lip__ To sneer at something. _When I heard what was for dinner,
 __curse (someone or something) under (one’s) breath__ To say threatening, consternated, or disgruntled remarks (toward someone or something) in a very soft or indistinct voice, such that no one else can hear or understand them clearly. _Steven stormed off to his room, cursing his parents under his breath._  
 __curse a blue streak__ To use profane language with great rapidity and intensity. _My dad cursed a blue streak after he found out I’d put a dent in his car._  
 __curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
-__cushy job__ A job that is easy, stress-free, and/or very well paid.  
+__cushy job__ :two: A job that is easy, stress-free, and/or very well paid. _Since I got this cushy job managing a toy store, I’ve gotten to sit around playing with toys all day._  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __cut (one) some slack__  
 __cut (someone or something) short__  
@@ -1088,6 +1092,7 @@ __fork over the dough__ To pay, generally unwillingly, a certain amount of money
 __forty winks__ :three: A short sleep during the day. A short nap.  
 __four-letter word__  
 __freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
+__freak of nature__ Something or someone that is unusual, rare, or abnormal in some way; beyond or outside the natural world. _He can lift over 500 pounds in the gym, he’s like some freak of nature._  
 __freak out__ (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
 __free lunch__ [:scroll: This expression, dating from the early 1800s, alludes to the practice of taverns offering free food to their customers to induce them to buy more drinks.] A gift or benefit for which no return is expected.  
@@ -2629,6 +2634,7 @@ __shoot your mouth off__ To boast or talk too much, to tell secrets.
 __shoot yourself in the foot__ :two: (shoot themselves in the foot) To do or say something that causes problems for you.  
 __short of (something)__ _Anything short of that._  
 __short on looks__ Homely; rather plain or unattractive; not aesthetically pleasing. _Janet’s date was a little short on looks, but she said he was very nice and a true gentleman._  
+__short shrift__ A minimal amount of time, attention, or consideration given to someone. (Typically used in the phrases “give/get short shrift.”) _Despite the urgency of the problem, the minister’s proposed solutions are getting short shrift in parliament._  
 __short-order cook__ A restaurant worker whose job is to cook food that can be prepared quickly. _She worked as a short-order cook._ :es: cocinero de comida rápida  
 __shortly after__ Soon after. _Shortly after she hung up, the phone rang again._  
 __shot in the arm__ :two::hammer:  
