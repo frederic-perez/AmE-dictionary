@@ -1502,7 +1502,7 @@ __bikeshed<sup>2</sup>__ _v_
 __bikeshedding__ _n_ :dart:  
 __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
 __bilge__ _n_  
-__bilious__ _adj_ /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
+__bilious__ _adj_ :two: /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered,” “irritable,” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
 __bilk<sup>1</sup>__ _v_ _Durham was guilty of bilking._  
 __bilk<sup>2</sup>__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bill-file__  
@@ -1912,6 +1912,7 @@ __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracing swim__  
+__bracken__ _n_ A cluster of ferns or shrubs.  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
 __brackish__ _adj_ :four: __1__ /BRACK-ish/ Brackish is typically used to mean “somewhat salty,” and most often describes water or bodies of water, such as rivers, lakes, and estuaries. Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ _The mangrove swamp is home to many species of plants and animals that thrive in brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
@@ -2137,6 +2138,7 @@ __buffer__ _v_
 __buffet<sup>1</sup>__ _n_ _A ten-dollar buffet._  
 __buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :two::hammer:  
+__buffoonery__ _n_ Acting like a clown or buffoon. _Syn_ clowning, harlequinade, prank, frivolity  
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :nine: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
@@ -2474,6 +2476,7 @@ __cannibalization__ _n_
 __cannibalize__ _v_  
 __cannikin__ _n_  
 __cannolis__  
+__cannonball__ _n_ __3__ A dive made in a curled-up position with the arms pressing the knees against the chest. _Do a cannonball!_  
 __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __canoeing__  
@@ -4807,6 +4810,7 @@ __docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
+__doctrinaire__ _adj_ /dahk-truh-NAIR/  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
 __dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
@@ -6785,6 +6789,7 @@ __G-Man__
 __gab away__ _v_ _The gang was gabbing away._  
 __gab<sup>1</sup>__ _v_ :two::hammer:  
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
+__gabardine__ _n_ (gaberdine) A firm, tightly woven fabric of worsted, cotton, or other fiber, with a twill weave.  
 __gabbing__  
 __gabelle__ _n_ A tax, especially the salt tax imposed in France before 1790.  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
@@ -6874,7 +6879,7 @@ __garret__ _n_
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
-__garrulous__ _adj_ :three: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
+__garrulous__ _adj_ :four: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
@@ -10312,7 +10317,7 @@ __memorabilia__
 __memorable__  
 __memorandum__ _n_ :two::hammer:  
 __memorial__ _n_ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
-__menagerie__ _n_ :five: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
+__menagerie__ _n_ :six: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
 __menageries__ _n_ _Lions were kept in the menageries._  
 __menarche__ _n_ :two: The initial onset of menstruation, usually occurring between the ages of 10 and 15.  
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
@@ -10515,7 +10520,7 @@ __mischief__ _n_ :five::hammer:
 __mischievous__ _adj_ :three::mega::hammer:  
 __misconduct__ _n_ :two::hammer:  
 __misconstrue__ _v tr_ :two::hammer:  
-__miscreant__ _n_ :nine: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
+__miscreant__ _n_ :nine::m: A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera. A person without moral scruples. _Syn_ reprobate  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ _n_ :two::hammer:  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
@@ -12180,7 +12185,7 @@ __pippin__
 __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::m::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
-__pirogue__ _n_ :two::hammer:  
+__pirogue__ _n_ :three: A canoe made from a hollowed tree trunk. _Syn_ dugout canoe, dugout  
 __pirouette<sup>1</sup>__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
 __pirouette<sup>2</sup>__ _v intr_  
 __Pisces__ _n_ /ˈpaɪsiːz; ˈpɪ-/  
@@ -12785,7 +12790,7 @@ __protracted__ _adj_ Extended or lengthened in time; prolonged: _a protracted le
 __prove<sup>1</sup>__ _v tr_  
 __prove<sup>2</sup>__ _v intr_ To be shown to be such; turn out: a theory that proved impractical in practice; _a schedule that proved to be too demanding._ _His first story proved immensely popular._  
 __provenance__  
-__provender__  
+__provender__ _n_ :two::hammer:  
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
 __provider__ _n_ _Mental health providers._  
@@ -12960,7 +12965,7 @@ __quadroons__
 __quaff__ _v_ :two: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
 __quaffable__  
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
-__quagmire__ _n_ :five: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
+__quagmire__ _n_ :six: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ :dart: An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :five: (quailed) To shrink back in fear; cower.  
 __quaint__ _adj_ :nine::m: /kweɪnt/ __1__ Pleasingly or strikingly old-fashioned or unusual. _Quaint village/bridges/cottage/streets/town/village._ _Quaint neighborhood shops._ _Quaint residential area._ _Quaint Victorian buildings._ __2__ Unfamiliar or different in character or appearance; odd. _A quaint sense of duty._  
@@ -13934,6 +13939,7 @@ __Sam Browne belt__
 __Samaritan__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
 __samey__ _adj_ /seɪmi/ If you describe a set of things as samey, you mean that they are all very similar, and it would be more interesting if they were different from each other. _He has written a batch of very samey tunes._  
+__samizdat__ _n_ A system of clandestine printing and distribution of dissident or banned literature. _Syn_ underground press  
 __samosas__  
 __samovar__ _n_  
 __sanctuary<sup>1</sup>__ _n_  
@@ -17519,6 +17525,7 @@ __vizier__ _n_ :two::hammer:
 __vocab__  
 __vocal<sup>1</sup>__ _adj_ :three:::hammer: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
+__vociferous__ _adj_ /vəʊˈsɪfərəs/  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __vodka__ _n_ :mega:  
 __voguish__  
@@ -17612,6 +17619,7 @@ __wand__ _n_
 __wander__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
 __wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
 __wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
+__wangle__ _v_ /WANG-gul/ __1__ To get (something) by trickery or persuasion. _He managed to wangle his way into the party._ __2__ To adjust or manipulate for personal or fraudulent ends. _They wangled me into pleading guilty._  
 __wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __want__ _n_ _A time of deep social anger and want._  
