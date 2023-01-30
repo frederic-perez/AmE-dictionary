@@ -13232,12 +13232,14 @@ __readiness__ _n_ _Our career readiness software program._
 __readings__ _n_  
 __readout__ _n_ :two::hammer:  
 __ready cash__ _n_ :two: Funds for immediate use; cash. _They haven’t enough ready cash to pay the commission._  
+__ready room__  
 __ready__ _v tr_  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
 __realist__ _n_ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __reality check__ _n_ :two: An occasion or opportunity to consider a matter realistically or honestly.  
+__realization__ _n_ (something like _noticing_)  
 __realtor__ _n_ :four::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
@@ -13254,7 +13256,7 @@ __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a g
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ _n_ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
-__rebuff__ _v_ :nine::m: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
+__rebuff__ _v_ :nine::m: To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
 __rebuke__ _n_ :four::hammer:  
 __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures representing syllables and words.  
 __rebut__ _v_  
@@ -13267,7 +13269,8 @@ __recant__ _v_ :five::hammer: (recanted) _Christianity held a tragic power indee
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
 __recap<sup>2</sup>__ _v informal_ :three: Recapitulate.  
-__recapitulate__ _v_  
+__recapitulate__ _v_ :two::hammer:  
+__recce__ _n_ :two::hammer:  
 __recede__ _v_  
 __receipt__ _n_ :three::mute:[recei~~p~~t]:hammer: /rih-SEET/ _Expected items pending receipt from other sources._  
 __receivership__  
@@ -13281,14 +13284,14 @@ __recitalist__
 __reckless__  
 __recknit bones__  
 __reckon__ _v_ :three::hammer:  
-__reckoning__ _n_  
+__reckoning__ _n_ :three::hammer:  
 __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past and has been used for buildings and structures from the 18th to the early 20th century. The wood is recycled and reused to meet today’s ever-growing need for sustainable and eco-friendly homes and businesses. _Antique doors and beams made of reclaimed wood._  
 __recollect__ _v_  
 __recollection__ _n_ :seven::hammer::hammer:  
 __reconcile__ _v_  
 __recondite__ _adj_ /REK-un-dyte/ Recondite is a formal word used to describe something that is difficult to understand or something that is not known by many people.  
 __reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
-__reconvene__ _v_ :six::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
+__reconvene__ _v_ :seven::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
@@ -13299,6 +13302,7 @@ __recreational__ _adj_ _Recreational marijuana vs medical marijuana._
 __recreationally__ _adv_ _He plays tennis recreationally._  
 __rectitude__ _n_ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
 __rector__  
+__recumbent__  
 __recuse__ _v_ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red eye__ _n_  
@@ -13315,7 +13319,8 @@ __redbones__ _n_
 __redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
 __Redeemer__ _n_  
-__redemption__ _n_ :two::hammer: (redemptions)  
+__redemption__ _n_ :three::hammer::mega: (redemptions)  
+__redhead__ _n_ :pencil2:  
 __redline__ _v_  
 __redlining__ _n_  
 __redo__ _v_ :two::hammer:  
@@ -13328,6 +13333,7 @@ __redoubted__ _adj_
 __redress<sup>1</sup>__ _v_ :five: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ :seven: A sum of money paid in compensation for loss or injury. _To seek redress._ _They demanded redress of 146 grievances before they would consent to a new subsidy._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
+__reductive__ _adj_  
 __redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
 __redwood__ _n_ :two::hammer:  
 __reed__ _n_ :two::hammer: _A reed basket._  
@@ -13372,6 +13378,7 @@ __regrettably__ _adv_ Unfortunately (used to express apology for or sadness at s
 __regular__ _adj_ _Regular shipping vs expedited shipping._  
 __regulation__ _n_ :four::hammer: _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._ _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulator__ _n_  
+__regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
 __regulatory muster__  
 __regulatory__  
 __rehabber__ _n informal_ A person who engages in rehabilitating something. _A wildlife rehabber._  
@@ -13391,7 +13398,7 @@ __rejoinder__ _n_ :four: An answer, especially to a reply.
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relapse__ _n_  
-__relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
+__relatable__ _adj_ :six: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
@@ -13424,7 +13431,7 @@ __reminiscent__
 __remit__  
 __remittance__ _n_ :two::hammer:  
 __remnants__  
-__remonstrate__ _v_ :four: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
+__remonstrate__ _v_ :five: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
@@ -13434,6 +13441,7 @@ __rend__ _v_ To tear or split apart or into pieces violently. _Syn_ rip, rive _T
 __render__ _v_ :six::hammer::astonished: (rendered) _Electronic banking has rendered the system unnecessary for consumer goods._ __1b__ To give or make available; provide: _render assistance; render a service._ _The grand jury has rendered its decision._ __7__ To reduce, convert, or melt down (fat) by heating. _Cook bacon until about half the fat is rendered._ _Rendered fat._ :camera:  
 __rendering plant__  
 __rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
+__renew__ _v_  
 __renminbi__ _n_ :three: The official currency of the People’s Republic of China.  
 __renominate__ _v_  
 __renown__  

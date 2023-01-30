@@ -1,18 +1,3 @@
-__ready room__  
-__realization__ _n_ (something like _noticing_)  
-__rebuff__ _v_ :two::hammer:  
-__recapitulate__ _v_  
-__recce__ _n_ :two::hammer:  
-__reckoning__ _n_ :two::hammer:  
-__reconvene__ _v_  
-__recumbent__  
-__redemption__ _n_ :mega:  
-__redhead__ _n_ :pencil2:  
-__reductive__ _adj_  
-__regulatory body__ _n_ (regulatory agency, regulator, independent agency, independent regulatory agency) A government authority that is responsible for exercising autonomous dominion over some area of human activity in a licensing and regulating capacity.  
-__relatable__ _adj_ :two::hammer:  
-__remonstrate__ _v_  
-__renew__ _v_  
 __replica__ _n_  
 __reptilian conspiracy theory__  
 __resolute__ _adj_ :three::hammer:  
