@@ -1,18 +1,3 @@
-__replica__ _n_  
-__reptilian conspiracy theory__  
-__resolute__ _adj_ :three::hammer:  
-__resplendent__ _adj_ Splendid or dazzling in appearance; brilliant.  
-__retaliate__ _v_  
-__rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
-__ridiculous__ _adj_ :mega:  
-__ritzy__ _adj_ /RIT-see/ Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy.  
-__rollout__ _n_  
-__rookery__ _n_ _There are several Emperor rookeries there._  
-__Rosh HaShanah__ _n_  
-__rotunda__  
-__rough__ _adj_  
-__round robin__  
-__ruefully__  
 __rummage__ _v_  
 __rural area__ _n_ :mega: An area outside of cities and towns.  
 __rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  

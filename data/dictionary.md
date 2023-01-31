@@ -13467,6 +13467,7 @@ __repertoire__
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
 __replete__ _adj_  
+__replica__ _n_  
 __reportedly__ _adv_ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
 __reprehensible__ _adj_ Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
@@ -13478,6 +13479,7 @@ __reprobate<sup>1</sup>__ _n_ /REP-ruh-bayt/ A reprobate is an unprincipled or d
 __reprobate<sup>2</sup>__ _v_  
 __reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
 __reps__ _n_ :two::hammer: _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
+__reptilian conspiracy theory__  
 __repudiate__ _v_ :two::hammer:  
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
@@ -13499,11 +13501,12 @@ __resist<sup>2</sup>__ _n_ _Water resist wristwatch._
 __resistance__  
 __resit<sup>1</sup>__ _n_ _(Education)_ An examination taken again by a person who has not been successful in a previous attempt.  
 __resit<sup>2</sup>__ _v_ _(Education)_ To sit (an examination) again.  
-__resolute__ _adj_ Firm in purpose or belief; steadfast. _Syn_ determined, stalwart, staunch, persevering _I am resolute in my opposition to these proposals, so don’t bother trying to sway me._  
+__resolute__ _adj_ :four: Firm in purpose or belief; steadfast. _Syn_ determined, stalwart, staunch, persevering _I am resolute in my opposition to these proposals, so don’t bother trying to sway me._  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__ _adj_ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
 __respite__ _n_ :nine::m: /ˈrɛspɪt; -paɪt/ A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__resplendent__ _adj_ Splendid or dazzling in appearance; brilliant.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -13524,7 +13527,7 @@ __resurrection__ _n_ /ˌrɛz əˈrɛk ʃən/ _The community applauded the resurr
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :three: A retailer is a person or business that sells goods to the public. _Big retailers lik Walmart, Target, Amazon._ _Big Lots, discount retailer; Staples, office supplies retailer._  
 __retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
-__retaliate__ _v_  
+__retaliate__ _v_ :two::hammer:  
 __retch__ _v_ :four::hammer: (retched)  
 __retcon__ _n_ /RET-kon/ [:scroll: From the first three letters of words in the phrase _retroactive continuity_] The introduction of new information to give a different interpretation of an established storyline.  
 __retelling__  
@@ -13587,6 +13590,7 @@ __rhetorical question__ _n_ A rhetorical question is a question that isn’t int
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
+__rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
 __rhinoceros__ _n_ :mega:  
 __rhinosinusitis__ _n_ Inflammation of the mucous membrane of the nose and paranasal sinuses. _Syn_ nasosinusitis _Chronic rhinosinusitis._  
 __rhododendron__ _n_  
@@ -13616,6 +13620,7 @@ __riddled__ _adj_
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
+__ridiculous__ _adj_ :mega:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
@@ -13670,7 +13675,7 @@ __risible__ _adj_ :four: __1__ Having a tendency to laugh. __2__ Causing laughte
 __rite__ _n_ :two::hammer:  
 __ritz<sup>1</sup>__ _n_ /rits/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier.] Luxury, glamor, opulence, etc. The word ritz is often used in the phrase “to put on the ritz” meaning to “make an ostentatious show.”  
 __ritz<sup>2</sup>__ _v tr_ /rits/ __1__ To make a show of luxury or opulence. __2__ To behave haughtily toward someone; to snub.  
-__ritzy__ _adj_ :three::hammer: (ritzier, ritziest) _One of the ritziest restaurants._  
+__ritzy__ _adj_ :four: /RIT-see/ (ritzier, ritziest) Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy. _One of the ritziest restaurants._  
 __rived__ _v_  
 __riven__  
 __river outfitter__  
@@ -13728,7 +13733,7 @@ __rolling back__ _v_
 __rolling caisson__  
 __rolling hills__ _n_ :two::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
-__rollout__ _n_ :five::hammer: (rollouts) _Vaccine rollout._  
+__rollout__ _n_ :six::hammer: (rollouts) _Vaccine rollout._  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
 __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
@@ -13742,6 +13747,7 @@ __rood__ _n_ :two::hammer:
 __roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
 __rooftop__ _n_ :seven::pencil2::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
+__rookery__ _n_ _There are several Emperor rookeries there._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
 __roorback__ _n_ /ˈrʊəˌbæk/ [:scroll: After Baron von Roorback, a fictitious author invented during the 1844 presidential elections in the US to discredit the Democratic candidate James K. Polk.] A false story or slander, especially one spread for political purposes.  
@@ -13761,6 +13767,7 @@ __ropy__ _adj_ :two::hammer: _The camel spat ropy globs at him._ _The camels wer
 __rosary__ _n_ (rosaries)  
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
 __rosette__ _n_  
+__Rosh HaShanah__ _n_  
 __rosin box__  
 __roster__ _n_ :three::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
 __rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
@@ -13774,12 +13781,14 @@ __rotorcraft__
 __rototiling__  
 __Rottweiler__  
 __rotund__ _adj_  
+__rotunda__  
 __rough > the rough__ _n_ __2b__ (Sports) The area of a golf hole in which the grass is left unmowed or is cut to a length longer than that of the fairway. _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
+__rough__ _adj_  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
 __roughly__ _adv_ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
 __round out__ _v_ :two::hammer:  
-__round robin__ _n_ _The con game is one round robin._  
+__round robin__ _n_ :two::hammer: _The con game is one round robin._  
 __round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A round-trip ticket._  
 __round<sup>1</sup>__ _n_ __26__ (Firearms, Gunnery, Ordnance & Artillery) A single discharge by a number of guns or a single gun. __27__ (Firearms, Gunnery, Ordnance & Artillery) A bullet, blank cartridge, or other charge of ammunition. _He pumped another round._  
 __round<sup>2</sup>__ _v_  
@@ -13821,7 +13830,7 @@ __rude__
 __rudiment__ _n_  
 __rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :five::dart::hammer: _He gave a rueful smile._  
-__ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
+__ruefully__ _adv_ :eight::hammer: _Dan shook his head ruefully._  
 __rufescent__ _adj_ Tinged with red.  
 __ruffian__ _n_ /ˈrʌf i ən, ˈrʌf yən/ A cruel and brutal fellow. _Syn_ bully, hooligan, roughneck _He had been a bully in grade school, so no one was surprised to hear that he is still considered a ruffian._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
