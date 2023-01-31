@@ -115,6 +115,7 @@ __acclaimed__ _adj_ :three::hammer:
 __acclimation__ _n_ :pencil2:  
 __accolade__ _n_ :nine: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
 __accommodate__ _v_ :five::pencil2::hammer:  
+__accommodating__ _adj_ /əˈkɒməˌdeɪtɪŋ/ Willing to help; kind; obliging. _You said “yes” because you wanted to be accommodating._  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompaniment__  
 __accompanist__  
@@ -2952,7 +2953,7 @@ __choker__ _n_ _A velvet choker._
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
-__chop<sup>1</sup>__ _n_ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
+__chop<sup>1</sup>__ _n_ :two: __2__ Quality; class: _first chop._ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
 __chop<sup>2</sup>__ _v_  
 __chophouse__ _n_ :two: A restaurant that specializes in serving steaks and chops of meat.  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
@@ -3776,7 +3777,7 @@ __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his bod
 __coursework__  
 __courteous__ _adj_ _Remember it is courtesous to tip your driver for their service._  
 __courtyard__ _n_ :three::hammer: :es: patio  
-__covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
+__covenant__ _n_ :seven: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
@@ -4015,6 +4016,7 @@ __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
 __cuff links__  
+__cuff__ _n_ __5__ A bracelet consisting of a curved, open-ended band, as of metal or resin, that fits the wrist firmly without a clasp.  
 __cuffed__ _v_  
 __cuffing season__ _n_ A period during the fall and winter seasons, including holidays from Thanksgiving to Valentine’s Day, when people are more inclined to pair up in committed romantic relationships: _I’m sitting out cuffing season this year—I was miserable tied down like that last winter._  
 __cufflinks__ _n_ :two::hammer:  
@@ -4811,6 +4813,7 @@ __docked__ _v_
 __docket__ _n_ :five::hammer:  
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doctrinaire__ _adj_ /dahk-truh-NAIR/  
+__docuseries__ _n_ A documentary that is telecast in a series of programs.  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
 __dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
@@ -6749,6 +6752,7 @@ __funereal__ _adj_ :pencil2: _Funereal tone._
 __funhouse__ _n_ (fun house) _Funhouse-like reflections._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funky__ _adj_ :two::hammer: _A funky dining room._ _Funky shoes._  
+__funnel cake__ _n_  
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
 __funny money__ _n_  
@@ -7495,7 +7499,7 @@ __gussied up__ _v_
 __gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
 __gusted__ _v_ _The rain gusted against the windows._  
 __gusto__ _n_ :two::hammer:  
-__gut__ _v_ _Trump could gut the agency’s budget._  
+__gut__ _v tr_ :two::hammer: _Trump could gut the agency’s budget._  
 __guts__ _n_ _slang_ Courage.  
 __gutsy__  
 __gutted__ _adj_ _informal_ Disappointed and upset.  
@@ -7654,6 +7658,7 @@ __hard hat__ _n_ :three::hammer: _Workers in hard hats._
 __hard pressed__  
 __hard rock__ _n_  
 __hard sell__  
+__hard skills__ _n_  
 __hard-ball__  
 __hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
 __hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._  
@@ -10574,7 +10579,7 @@ __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), fr
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
-__moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
+__moat__ _n_ :nine: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
 __Mobile, Alabama__ _n_ :mega: [Common popular pronunciation: /moh-buhl/ Prevailing local pronunciation: /moh-beel/]  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
@@ -12283,7 +12288,7 @@ __playbook__ _n_ :six::hammer: _The industry’s playbook._
 __playful__ _adj_ _A playful aside._  
 __playmaker__ _n_ :two: A player who leads the offense for a team (as in basketball or hockey).  
 __playmaking__ _n_ _His playmaking ability._  
-__playpen__ _n_ A portable enclosure in which babies may be left to play.  
+__playpen__ _n_ :two: A portable enclosure in which babies may be left to play. _Playpen balls._  
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
 __plea deal__  
@@ -14317,7 +14322,7 @@ __sensitivity__ _n_ The ability of a test to correctly identify patients with a 
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
-__sentient__ _adj_ :seven: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
+__sentient__ _adj_ :eight: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
@@ -15101,6 +15106,7 @@ __soda jerk__ _n informal_ One who works at a soda fountain.
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __soffit__  
 __soft serve__ _n_ :camera: Any of several soft, creamy frozen desserts, such as ice cream and frozen yogurt, dispensed from a machine at the point of sale.  
+__soft skills__ _n_  
 __soft-pedal__ _v_ _informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
 __soft-spoken__ _adj_ :two::hammer:  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
@@ -15534,7 +15540,7 @@ __stateroom scene__ _n_ This scene (from A night at the opera), one of the most 
 __stateroom__ _n_ :five: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner “stateroom scene.”_ _The spacious forward stateroom of the boat._  
 __statesman__ _n_ :two::hammer: _The elder statesman of the group._  
 __statesmen__ _n_ (notice, not ‘statement’)  
-__statin__ _n_  
+__statin__ _n_ :two::hammer:  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
 __station__ _n_ _It was difficult to maintain station._  
 __stationary bicycle__ _n_ A “going-nowhere” bicycle.  
@@ -15760,7 +15766,7 @@ __strengthen__ _v_ :two::hammer:
 __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament._  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stressful__ _adj_  
-__stressor__ _n_ A stimulus that causes stress.  
+__stressor__ _n_ /ˈstrɛs ər, -ɔr/ :two: An event, experience, stimulus, etc, that causes stress.  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
