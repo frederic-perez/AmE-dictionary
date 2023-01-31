@@ -49,6 +49,7 @@ __feeling on edge__
 __fend off__  
 __few and far between__  
 __fight the good fight__  
+__find (one‘s) bearings__ To recognize or determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _It took me a little while to find my bearings in the new office, but after a week, I felt as if I’d been working there for years._  
 __first and foremost__  
 __first things first__ :two::hammer:  
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
@@ -76,6 +77,7 @@ __funky__ _With that mix, things get funky._
 __game changer__  
 __game plan__ :two::hammer:  
 __gaslighting__  
+__gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
 __get (one’s) act together__  
 __get (one’s) shit together__ :two::hammer:  
@@ -104,7 +106,7 @@ __go for a run__
 __go for the jugular__ _Go straight for the jugular._  
 __go hand in hand__  
 __go overboard__  
-__go the distance__  
+__go the distance__ :dart::two: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go vacant__ _Her eyes went vacant again._  
 __golden boy__  
 __golden goose__  
@@ -169,6 +171,7 @@ __it takes two to tango__
 __jacked chad__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
+__jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
 __junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
 __keep pace__  
 __keep tabs on someone__  
@@ -178,6 +181,7 @@ __kick ass__
 __kindred spirit__  
 __knock it off__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __land on (one’s) feet__  
 __larger than life__  
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
@@ -197,6 +201,7 @@ __lost for words__ (at a loss for words)
 __lost on me__ _It is not lost on me._  
 __love (someone) to the moon (and back)__  
 __lump in (one’s) throat__  
+__make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
 __make waves__ _Make waves with an Apple computer._  
 __marinate__  
@@ -215,6 +220,7 @@ __more than meets the eye__
 __mother lode__  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
+__muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __naked eye__ _With the naked eye._  
 __name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__  
@@ -249,13 +255,14 @@ __on the rocks__ _Your marriage is on the rocks._
 __on the spur of the moment__  
 __on the verge of__ :two::hammer:  
 __on the whole__  
-__once and for all__ :two: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
+__once and for all__ :three: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
 __out of harm’s way__  
 __out of sight, out of mind__  
 __out with the old, in with the new__  
 __ouy (of) the (starting) gate__  
 __owing to__  
 __panic attack__  
+__part ways (with one)__  
 __party pooper__  
 __pass along__  
 __pave the way__  
@@ -280,6 +287,7 @@ __put out fires__
 __put to the test__  
 __put up with__ :two::hammer:  
 __put up__  
+__rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
 __ready, set, go__  
@@ -300,7 +308,7 @@ __ripple effect__
 __rock bottom__  
 __rock the boat__ :two::hammer:  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
-__roll (one’s) eyes__ :two::hammer:  
+__roll (one’s) eyes__ :three::hammer:  
 __roller coaster__ _Emotional roller coaster._  
 __rub elbows__  
 __rub out__  
@@ -336,6 +344,7 @@ __slow burner__
 __small hours__ (wee hours)  
 __smarty-pants__ :two::hammer:  
 __snake oil__  
+__snork__  
 __snowflake__ _n_ _slang_  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __soft pedal__ _There is no soft pedaling._  
@@ -486,7 +495,7 @@ __tour de force__ :three::hammer:
 __trace back__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
-__trigger__ :two::hammer:  
+__trigger__ :three: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
@@ -529,6 +538,7 @@ __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra w
 __what makes (one) tick__  
 __what the heck__  
 __what’s up with__  
+__when the stakes are low__ When the stakes are low, it means that there is little to lose in a given situation. This can refer to a situation in which the potential rewards or losses are minimal, or a situation in which the potential consequences of an action are not serious. It can also refer to a situation in which the outcome of a decision is not particularly important or significant.  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
