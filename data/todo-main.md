@@ -1,18 +1,3 @@
-__mellow<sup>1</sup>__ _adj_  
-__mellow<sup>2</sup>__ _v_ To make or become mellow; soften; mature.  
-__miffed__ _adj_ /mɪft/ Annoyed or upset. _The cat was miffed at being left alone._  
-__mirabile dictu__ _phr_ /mɪˈræbɪleɪ ˈdɪktuː/ _(Literary & Literary Critical Terms)_ Wonderful to relate; amazing to say.  
-__miskey__ _v tr_ :dart: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard.  
-__mismatch__ _n_ :two::pencil2::hammer:  
-__misphrase__ _v tr_  
-__misstep__ _n_ :two::pencil2::hammer:  
-__mix-and-match__ _adj_ _Mix-and-match designs._  
-__mixologist__ _n_ :two::hammer:  
-__mixology__ _n_  
-__mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
-__mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
-__moated__ _adj_ _The moated palace of King Edwin._  
-__mocktail__ _n_  
 __model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogul__ _n_ :two::hammer:  

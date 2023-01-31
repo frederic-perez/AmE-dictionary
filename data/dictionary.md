@@ -10306,8 +10306,8 @@ __meld<sup>1</sup>__ _v_ :two: /MELD/ __1__ To blend or merge. To blend or mix t
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
 __melee__ _n_  
 __mellifluous__ _adj_ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
-__mellow<sup>1</sup>__ _adj_ :three::hammer: _Mellow flavor._ _A mellow vibe._  
-__mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
+__mellow<sup>1</sup>__ _adj_ :four::hammer: _Mellow flavor._ _A mellow vibe._  
+__mellow<sup>2</sup>__ _v_ :four: To make or become mellow; soften; mature.  
 __melodrama__ _n_  
 __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
 __meltdown__ _n_ :six: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
@@ -10437,7 +10437,7 @@ __midway__
 __midwife__ _n_ :three::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
-__miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
+__miffed__ _adj_ :five: /mɪft/ Annoyed or upset. When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._ _The cat was miffed at being left alone._  
 __MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
 __might__ _n_ :three::hammer::mute:[mi~~gh~~t] _China’s economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
@@ -10504,6 +10504,7 @@ __minute<sup>1</sup>__ _n_ :mega: /mĭn′ĭt/
 __minute<sup>2</sup>__ _adj_ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
+__mirabile dictu__ _phr_ /mɪˈræbɪleɪ ˈdɪktuː/ _(Literary & Literary Critical Terms)_ Wonderful to relate; amazing to say.  
 __mirage__ _n_ /mɪˈrɑʒ/  
 __Miranda rights__ _n_  
 __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
@@ -10544,12 +10545,14 @@ __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned bu
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
 __misinformation__ _n_ Information that is incorrect.  
-__mislay__ _v_ _He mislaid his keys._  
+__miskey__ _v tr_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
+__mismatch__ _n_ :two::pencil2::hammer:  
 __misnomer__ _n_ :nine::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
 __misophonia__ _n_ /mi-soh-FOH-nee-uh/ [:scroll: From Greek miso- (hate) + -phonia (sound)] An intolerance of certain sounds, such as chewing, slurping, etc.  
+__misphrase__ _v tr_  
 __misplace__ _v_  
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
@@ -10561,7 +10564,7 @@ __misspell__ _v_ :two: To spell incorrectly.
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
-__missteps__  
+__misstep__ _n_ :three::pencil2::hammer:  
 __missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
@@ -10576,16 +10579,22 @@ __mitigate__ _v_ :three::hammer:
 __mitt__ _n_  
 __Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
+__mix-and-match__ _adj_ _Mix-and-match designs._  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
+__mixologist__ _n_ :two::hammer:  
+__mixology__ _n_  
+__mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
+__mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :nine: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
+__moated__ _adj_ _The moated palace of King Edwin._  
 __mob__ _n_  
 __Mobile, Alabama__ _n_ :mega: [Common popular pronunciation: /moh-buhl/ Prevailing local pronunciation: /moh-beel/]  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
 __mockingbird__ _n_ :es: sinsonte  
-__mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
+__mocktail__ _n_ :two::astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
 __modicum__ _n_ :eight: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean “any at all,” as if “If you had a modicum of sense (i.e. any sense at all), you’d be able to see that the pencil you’ve spent the last five minutes looking for is tucked behind your ear.” _A modicum of timidity._  
 __modish__ _adj_  
