@@ -10595,24 +10595,35 @@ __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally wor
 __mockie__ _n_ :two::hammer:  
 __mockingbird__ _n_ :es: sinsonte  
 __mocktail__ _n_ :two::astonished: A cocktail containing no alcohol.  
+__model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
 __moderate__ _v_  
 __modicum__ _n_ :eight: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean “any at all,” as if “If you had a modicum of sense (i.e. any sense at all), you’d be able to see that the pencil you’ve spent the last five minutes looking for is tucked behind your ear.” _A modicum of timidity._  
 __modish__ _adj_  
+__Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogrify__ _v_  
-__mogul__ _n_ :five: (moguls) __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ _n_ :seven: __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
-__mojo__ _n_  
+__moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
+__mojo__ _n_ :two::hammer:  
 __molasses__ _n_ :seven::hammer: :es: melaza _Pomegranate molasses._  
 __mold__ _n_  
-__moldings__  
+__molding__ _n_ :two::hammer: _Mahogany moldings._  
 __moldy__ _adj_ :two::hammer:  
 __mole grip__ _n_ :camera: Locking pliers.  
 __mole wrench__ _n_ :camera: Locking pliers.  
 __mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
 __molehill__  
-__mollify__ _v tr_ :nine: /MOL-uh-fy/ [:scroll: From Latin mollis (soft)] (mollified) To calm in temper or feeling; soothe. _Syn_ appease, assuage, conciliate, pacify, placate _She was so outraged that nothing her friends said could mollify her anger._ __1__ To pacify or appease. __2__ To soften or reduce, as in intensity.  
+__molest__ _v_  
+__moll__ _n_ _Mingle with mobsters and molls._  
+__mollify__ _v tr_ :nine::m: /MOL-uh-fy/ /MAH-luh-fye/ [:scroll: From Latin mollis (soft)] (mollified) To calm in temper or feeling; soothe. _Syn_ appease, assuage, conciliate, pacify, placate _She was so outraged that nothing her friends said could mollify her anger._ __1__ To pacify or appease. To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To soften or reduce, as in intensity. To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
+__molluscum contagiosum__ _n_  
 __mollusks__  
+__Molly Brown__ _n_  
+__mollycoddle<sup>1</sup>__ _v tr_ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] To be overprotective and indulgent toward. _Syn_ pamper  
+__mollycoddle<sup>2</sup>__ _n_ A person, especially a man or a boy, who is pampered and overprotected.  
+__molt<sup>1</sup>__ _v_  
+__molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, like other birds, regularly shed their feathers (molt)._  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
 __momentous__ _adj_ :four: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  

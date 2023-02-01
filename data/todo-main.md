@@ -1,18 +1,3 @@
-__model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
-__Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
-__mogul__ _n_ :two::hammer:  
-__moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
-__mojo__ _n_  
-__molding__ _n_ _Mahogany moldings._  
-__molest__ _v_  
-__moll__ _n_ _Mingle with mobsters and molls._  
-__mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
-__molluscum contagiosum__ _n_  
-__Molly Brown__ _n_  
-__mollycoddle<sup>1</sup>__ _v tr_ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] To be overprotective and indulgent toward. _Syn_ pamper  
-__mollycoddle<sup>2</sup>__ _n_ A person, especially a man or a boy, who is pampered and overprotected.  
-__molt<sup>1</sup>__ _v_  
-__molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, like other birds, regularly shed their feathers (molt)._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
 __monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
