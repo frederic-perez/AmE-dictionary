@@ -13858,7 +13858,7 @@ __rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? T
 __rumbling__ _n_ :two::hammer: (rumblings) _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :nine::m: (rummaged, rummaging) __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
+__rummage__ _v_ :nine::m: /ˈrʌm ɪdʒ/ __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
 __rummy__ _n_ :two::hammer:  
 __rumor-monger__ _n_ :two::hammer:  
 __rump__ _n_ _The archers aimed for thw horses’ unarmored rumps._  
@@ -13885,13 +13885,15 @@ __runt__
 __runway__  
 __Runyonesque__ _adj_ :two::hammer: _A torrent of Runyonesque chitchat._  
 __ruptured__ _v_ _He ruptured his Achilles._  
+__rural area__ _n_ :mega: An area outside of cities and towns.  
 __ruse__ _n_ :eight: (ruses) An action intended to mislead, deceive, or trick; stratagem.  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
 __rusticate__ _v_  
 __rustle up__ _v_  
-__rustle__ _v_ :seven::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
+__rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  
+__rustle<sup>2</sup>__ _v_ :eight::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. _A rustling sound._ __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rustling__ _n_ __2__ A light noise, like the noise of silk clothing or leaves blowing in the wind. _The rustling of forest leaves._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
@@ -13899,6 +13901,7 @@ __rutabaga__ _n_ /ˌruːtəˈbeɪgə/ :es: nabo
 __ruthful__ _adj_  
 __ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __rutilant__ _adj_ /ROOT-uh-luhnt/ [:scroll: From Latin rutilant, present participle of rutilare (to glow red), from rutilus (reddish)] Glowing, shining, or glittering with a red or golden light.  
+__rutted__ _adj_ /ˈrʌtɪd/ Very uneven, with long, deep, narrow marks made by the wheels of vehicles.  
 __RV pads__  
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
@@ -13924,20 +13927,24 @@ __safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word whic
 __safe-conduct__ _n_ _The Prince’s chief knights came under safe-conduct to parley in person._  
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
 __safeguard<sup>1</sup>__ _n_  
-__safeguard<sup>2</sup>__ _v_ :two::hammer:  
+__safeguard<sup>2</sup>__ _v_ :three::hammer:  
 __safekeeping__ _n_ :two: The act of keeping safe or the state of being kept safe; protection. _The Cardinal put his treasure in safekeeping and fled to Avignon, never to return._  
 __safety net__  
 __safety pin__ _n_ :two::hammer: :es: imperdible  
 __saffron__ _n_ :four::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
+__saga__ _n_ :mega:  
 __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.  
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
+__sagittal__  
+__Sagittarian__  
 __Sagittarius__ _n_ :three::pencil2::hammer: [:scroll: Middle English, from Latin Sagittārius, from sagittārius, _archer_, from sagitta, _arrow_]  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
+__sailer__ _n_ :pencil2:  
 __saint__ _n_ /seɪnt; _unstressed_ sənt/  
 __sake__ _n_ _For comparison’s sake, it hit 90 twice here all of last July._  
 __sakura__  
@@ -13949,7 +13956,7 @@ __sales force__
 __salesperson__ _n_ :two::hammer:  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :seven: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
+__sallow__ _adj_ :eight: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
@@ -13999,6 +14006,7 @@ __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weake
 __sap<sup>2</sup>__ _n_ :four::hammer: _A flat-sided sap stuck out of his back pocket._ _What a sap!_  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a “duckling,” a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
+__saponify__ _v_  
 __sapper__ _n_ :two::hammer:  
 __sapphire lidar__  
 __sapphire__ _n_ :mute:[sa~~p~~phire]  
@@ -14113,10 +14121,11 @@ __scholar__ _n_ :two::hammer: _Legal scholar._
 __school > charter school__  
 __school desk__  
 __school of thought__  
-__school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
+__school<sup>1</sup>__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
+__school<sup>2</sup>__ _v tr_ _She schooled her face into careful neutrality._  
 __schooling__ _n_ __3__ The training of a horse or a horse and rider in equitation. _I could smell trout schooling up in the bay._  
 __schoolwork__ _n_  
-__schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
+__schooner__ _n_ :seven::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
 __schwa__ _n_ :four: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _alone_, _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
 __sciatic__  
@@ -14151,7 +14160,7 @@ __scorn<sup>2</sup>__ _v_ (scorned)
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __Scots__ _n_  
 __scoundrel__ _n_ :two::hammer:  
-__scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
+__scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __Scouser__ _n_ A native or resident of Liverpool, England. _Syn_ Liverpudlian  

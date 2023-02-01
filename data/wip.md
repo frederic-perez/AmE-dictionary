@@ -1,18 +1,3 @@
-__rummage__ _v_  
-__rural area__ _n_ :mega: An area outside of cities and towns.  
-__rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  
-__rustle<sup>2</sup>__ _v_ _A rustling sound._  
-__rutted__  
-__safeguard__ _v_  
-__saga__ _n_ :mega:  
-__sagittal__  
-__Sagittarian__  
-__sailer__ _n_ :pencil2:  
-__sallow__ _adj_  
-__saponify__ _v_  
-__schooled__ _v_ _She schooled her face into careful neutrality._  
-__schooner__ _n_  
-__scour__ _v_  
 __scrub out__ _v_  
 __scrutiny__ _n_ :dart:  
 __scurvy__  
