@@ -5,6 +5,7 @@ __(Are) you kidding (me)?__
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
 __(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad as hops after I crashed his car._  
 __(as) nice as ninepence__ Very tidy, neat, and well-organized; in good order. _James is so meticulous with his office, always keeping it nice as ninepence._  
+__(as) plain as the nose on (one’s) face__ Very obvious or noticeable. _Those two have been flirting all afternoon—it’s as plain as the nose on your face!_  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(as) silent as the grave__ Totally silent, especially as produces an ominous or foreboding effect. _I knew something was wrong when I walked into the meeting room and all the members of the board were silent as the grave._  
 __(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell do matter._  
@@ -91,6 +92,7 @@ __a golden hello__ A sum of money paid to a new employee as a benefit for being 
 __a gong show__  
 __a good scout__ An honest, affable, reliable, and trustworthy person. _Your dad’s a good scout, you know that? He’s helped me out of so many jams without even thinking twice._  
 __a good turn__ An action that is beneficial to another person in some way.  
+__a good voice to beg bacon__ Used to mock someone’s voice as being strange, unpleasant, or inadequate (e.g., for singing). Bacon, being a dietary staple in older times, was often used as a metaphor for financial stability or wealth; having the voice of one who must “beg bacon,” then, means having a harsh voice, like someone who is undernourished. _Did you hear the way that singer was screeching last night? I’m glad we didn’t stay too long, he had a good voice to beg bacon._  
 __a great deal__  
 __a great many__ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
@@ -162,6 +164,7 @@ __accident of birth__ Any and all particulars surrounding one’s birth (physica
 __according to Hoyle__ In accord with the prescribed rules or regulations.  
 __according to legend__  
 __according to plan__ :three: In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._ _If everything goes according to plan._  
+__ace (something)__ To do exceptionally well in something, especially an exam or other high-pressure situation. _I feel like I aced that interview, so I’m pretty sure the job is mine._  
 __ace in the hole__ :two::hammer:  
 __Achilles’ heel__  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
@@ -1118,7 +1121,7 @@ __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you ca
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
 __full stop__  
-__funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
+__funny feeling__ :two: An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances. _I have a funny feeling that this meeting isn’t going to end in our favor._  
 __gag me with a spoon__ An expression of disgust or annoyance.  
 __game changer__  
 __game-changer__  
@@ -1288,7 +1291,7 @@ __good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or e
 __good job__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good Lord__  
 __good old__ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don’t need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
-__good omen__ A sign, either real or imagined, of good fortune or a propitious outcome.  
+__good omen__ :two: A sign, either real or imagined, of good fortune or a propitious outcome. _I saw a dove on my windowsill this morning; I’d say it’s a good omen for the rest of my day._  
 __good riddance__ :two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
 __good-natured__ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
@@ -1357,7 +1360,7 @@ __hard-luck story__ A typically self-pitying tale of misfortune, hardship, adver
 __hardliner__ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __hark(en) back to (something)__ __1__ To cause one to think of or recall something. (The spelling “harken” is actually a variant of the archaic word “hearken,” which originally meant “to listen” but is more commonly used in place of “hark” in this idiomatic phrase.) _That song harkens back to an earlier time in my life._ __2__ To have originated or begun as something. To go back to something as an origin or source. _You know, our modern cell phones hark back to those old rotary phones you like to make fun of._ _The diner’s interior harks back to the 1950s._ __3__ To revisit or recall something mentioned earlier. _Before we get too upset, let’s all harken back to the real reason we’re here today._  
 __harp on the same string__ To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  
-__harrowing experience__ An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant.  
+__harrowing experience__ :two: An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant. _With so much traffic, cycling in this city can be a harrowing experience._  
 __hash out__ :dart::three: To discuss something in detail. A noun or pronoun can be used between “hash” and “out.” _I’m calling Mom right now to hash out the details for Thanksgiving dinner._  
 __hash slinger__ A cook or a waitress, especially at a diner or cheap restaurant. (“Hash,” in this sense, refers to a dish or stew of chopped meat and vegetables, not hashish.) Primarily heard in US.  
 __haste makes waste__ _proverb_ Rushing through a task often creates problems or extra work. _Haste makes waste, so please double-check your measurements before cutting the fabric._  
@@ -2673,6 +2676,7 @@ __sixty-four-dollar question__
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
 __skinny-dipping__  
 __skip a beat__ _His heart skipped a beat._  
+__skullduggery__ An act or instance of deceitful, duplicitous, or dishonorably trickery.  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slam (someone or something)__  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
