@@ -1,3 +1,12 @@
+__adapt__ _v_ /uh-DAPT/  
+__bequest__ _v_  
+__churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
+__coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
+__dingbat<sup>1</sup>__ _n_ /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
+__dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
+__drupe__ _n_  
+__endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
+__inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
 __monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
@@ -252,6 +261,7 @@ __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._
 __panacea__ _n_ :two: /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__ _n_ :four: /puh-NAHSH/ [:scroll: Originally, the word referred to an ornamental tuft or plume of feathers, and especially one affixed to a helmet.] When we say that someone has panache, we are saying that they have energy, spirit, and style. Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._ _Ever the showman, he not only caught the ball, he made a diving catch and caught it with panache._  
 __panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
+__pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
 __pansexual__  
@@ -416,6 +426,7 @@ __pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._
 __pool<sup>2</sup>__ _v_  
 __pore__ _v intr_  
 __pork pie__ _n_  
+__portend__ _v_ /por-TEND/  
 __porter__ _n_  
 __porterhouse__ _n_ :four::hammer: _Its tender dry-aged porterhouse is unmatched._  
 __portico__ _n_  
@@ -627,7 +638,8 @@ __resplendent__ _adj_ :pencil2:
 __restaurateur__ _n_  
 __restroom__ _n_  
 __resumption__ _n_ _Power resumption._  
-__retcon__ _n_  
+__retcon<sup>1</sup>__ _n_ :two::hammer:  
+__retcon<sup>2</sup>__ _v_  
 __retention__ _n_ _Employee retention._  
 __reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
 __retiree__ _n_  
@@ -739,6 +751,7 @@ __sauerkraut__ _n_
 __saunter<sup>1</sup>__ _v_  
 __saunter<sup>2</sup>__ _n_  
 __savage__  
+__savant__ _n_ /sa-VAHNT/  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy__ _adj_ _Savvy travelers._  
@@ -955,6 +968,7 @@ __socialite__
 __sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
 __sofa bed__ _n_ :two::hammer:  
 __softball__ _n_  
+__sol__ _n_ __4__ A colloidal solution.  
 __solicitor__ _n_ /səˈlɪsɪtəʳ/  
 __soloist__ _n_  
 __sonnet__ _n_  
@@ -1473,6 +1487,7 @@ __utterly__
 __V8__ _n_ _(beverage)_  
 __vacationer__ _n_  
 __vacuous__  
+__valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valence__ _n_  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
