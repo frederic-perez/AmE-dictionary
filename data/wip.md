@@ -201,3 +201,87 @@ __worsen__ _v_
 __worsened__ _v_  
 __zugzwang__  
 __Zulu time__  
+__achiever__  
+__angsty__ (?)  
+__barrel__ _v_ (?)  
+__bazillion__  
+__blindspot__ (?)  
+__board__ _v_ :mega: _Board the plane._  
+__byproduct__  
+__commiserate__ _v_ (?)  
+__corrective__ _adj_ (?) _The corrective mom._  
+__cue__ _v_  
+__dalai lama__ :mega:  
+__emote__ _v_ (?)  
+__epiphany__ _n_ :two::hammer:  
+__floored__  
+__grounded__ (a type of punishment)  
+__hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
+__hijack__ _v_ :mega:  
+__jittery__ _I am feeling jittery._  
+__lessen__ _v_  
+__mainline__ _v_ (?)  
+__marinate__ _v_ _Marinating my thoughts._  
+__novice__ :mega:  
+__off work__ (?)  
+__outspoken__  
+__overdo__ _v_ _Do not overdo caffeine._  
+__overstep__ _v_ (?)  
+__overthink__ _v_  
+__relentless__  
+__role play__ _v_  
+__self-conscious__  
+__seratonin__ :mega:  
+__sleep in__  
+__stamina__ :mega:  
+__supersize__ _v_  
+__synchronizity__ (?)  
+__top-of-mind__ _His top-of-mind interest._  
+__treat__ _v_ _Treat yourself a coffee._  
+__upfront__  
+__uptalk__ _v_  
+__wallow__ _v_  
+__whirlwind__ _n_  
+__wholeness__  
+__achiever__  
+__angsty__ (?)  
+__barrel__ _v_ (?)  
+__bazillion__  
+__blindspot__ (?)  
+__board__ _v_ :mega: _Board the plane._  
+__byproduct__  
+__commiserate__ _v_ (?)  
+__corrective__ _adj_ (?) _The corrective mom._  
+__cue__ _v_  
+__dalai lama__ :mega:  
+__emote__ _v_ (?)  
+__epiphany__ _n_ :two::hammer:  
+__floored__  
+__grounded__ (a type of punishment)  
+__hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
+__hijack__ _v_ :mega:  
+__jittery__ _I am feeling jittery._  
+__lessen__ _v_  
+__mainline__ _v_ (?)  
+__marinate__ _v_ _Marinating my thoughts._  
+__novice__ :mega:  
+__off work__ (?)  
+__outspoken__  
+__overdo__ _v_ _Do not overdo caffeine._  
+__overstep__ _v_ (?)  
+__overthink__ _v_  
+__relentless__  
+__role play__ _v_  
+__self-conscious__  
+__seratonin__ :mega:  
+__sleep in__  
+__stamina__ :mega:  
+__supersize__ _v_  
+__synchronizity__ (?)  
+__top-of-mind__ _His top-of-mind interest._  
+__treat__ _v_ _Treat yourself a coffee._  
+__upfront__  
+__uptalk__ _v_  
+__wallow__ _v_  
+__whirlwind__ _n_  
+__wholeness__  
