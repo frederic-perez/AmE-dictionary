@@ -1,3 +1,31 @@
+__achiever__  
+__angsty__ _adj_ /ˈæŋstɪ/ (angstier, angstiest) _informal_ Displaying or feeling angst, esp in a self-conscious manner: _two angsty teenagers._  
+__barrel__ _v_  
+__bazillion__  
+__blind spot__  
+__board__ _v_ :mega: _Board the plane._  
+__byproduct__  
+__commiserate__ _v_ /kəˈmɪzəˌreɪt/  
+__corrective__ _adj, n_ _The corrective mom._  
+__cue__ _v_  
+__Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
+__emote__ _v intr_  
+__epiphany__ _n_ :two::hammer:  
+__floored__  
+__grounded__ _v_ __4a__ To prevent (an aircraft or a pilot) from flying. __b__ :dart: _informal_ To restrict (someone) especially to a certain place as a punishment.  
+__hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
+__hijack__ _v_ :mega:  
+__jittery__ _adj_ _I am feeling jittery._  
+__lessen__ _v_  
+__mainline__ _v_  
+__marinate__ _v_ _Marinating my thoughts._  
+__novice__ _n_ :mega: /ˈnɒv ɪs/  
+__outspoken__  
+__overdo__ _v_ _Do not overdo caffeine._  
+__overstep__ _v tr_  
+__overthink__ _v_  
+__relentless__  
+__role play__ _v_  
 __scrub out__ _v_  
 __scrutiny__ _n_ :dart:  
 __scurvy__  
@@ -8,10 +36,12 @@ __seek__ _v_ (sought)
 __seethe__ _v_ _Seething with jealousy._  
 __seldom__ _adj, adv_ :two::hammer:  
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
+__self-conscious__  
 __self-serving__ _adj_  
 __semblance__ _n_ _The semblance of peace._  
 __senate__ _n_ :mega:  
 __sentient__ _adj_  
+__seratonin__ _n_ :mega:  
 __setback__ _n_  
 __sextant__  
 __sharp__ _adj_ _He’s a sharp guy._  
@@ -35,6 +65,7 @@ __silk__ _n_
 __slat__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
 __slate__ _n_ __6__ _(Film)_ __a__ The reference information written on a clapperboard. __b__ _informal_ The clapperboard itself.  
 __sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _Syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
+__sleep in__  
 __sleepers__ _n_ (railway)  
 __slither__ _v_ :two::hammer:  
 __slog__ _n, v_ :two::hammer:  
@@ -71,6 +102,7 @@ __spree__ _v_ Engage without restraint in an activity and indulge, as when shopp
 __springboard__ _n_  
 __spud__ _n_ __1__ _informal_ A potato.  
 __stabby__ _adj_  
+__stamina__ _n_ :mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stampede__  
 __stanchion__  
 __stark__ _adj_ __1__ Clearly distinguished or delineated: _a stark contrast._  
@@ -95,6 +127,7 @@ __subsequent__
 __subsequently__ _adv_ Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
 __summarize__ _v_ /ˈsʌməˌraɪz/  
 __supersede__ _v tr_ /ˌsu pərˈsid/  
+__supersize__ _v_  
 __suricate__ _n_  
 __surreptiously__  
 __surveyor__ _n_  
@@ -104,6 +137,7 @@ __swoop__ _n_
 __sword__ _n_ :mega:  
 __sycophant__ _n_ :two::hammer:  
 __sympathetic__  
+__synchronizity__ _n_ /ˌsɪnkrəˈnɪsɪtɪ/ __2__ An apparently meaningful coincidence in time of two or more similar or identical events that are causally unrelated.  
 __tabby__ _n_  
 __tacky__ _adj_ :two::hammer:  
 __tactful__ _adj_  
@@ -137,6 +171,7 @@ __touch down__ _v_ _The jet touched down there yesterday._
 __toward__ _prep_ :five::mega::hammer:  
 __tradeoff__ _n_ (trade-off)  
 __trance__ _n_ /trɑːns/  
+__treat__ _v_ _Treat yourself a coffee._  
 __triad__ _n_  
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __tripledemic__ _n_  
@@ -159,9 +194,11 @@ __ungainly__
 __unhinged__ _adj_ Deranged or unbalanced.  
 __unleash__ _v_  
 __unwell__ _adj_  
+__upfront__  
 __upset__ _n_ :mega:  
 __upside__ _n_ _Working from home has its upsides as well as downsides._  
 __upstate__  
+__uptalk__ _v_  
 __urbanites__  
 __usher__ _v_ :two::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
 __utter__ _adj_ _Utter darkness._  
@@ -178,7 +215,7 @@ __voice__ _v_ :dart: _He was voicing his thoughts aloud._
 __volcano__ _n_ :mega:  
 __wail__ _n_  
 __walkout__ _n_ _The walkout at the United Nations by all the Middle Eastern delegates._  
-__wallow__ _v_ :two::hammer: _Don’t wallow in despair._  
+__wallow__ _v_ :three::hammer: _Don’t wallow in despair._  
 __wanderlust__  
 __wanly__ _adv_ In a weak or pale or languid manner. _He nodded a little wanly._  
 __waterfront__ _n_  
@@ -187,8 +224,10 @@ __wedge__
 __wee__ _adj_ :two: Very small; tiny.  
 __weevils__  
 __welter__ _n_ _A welter of ice._  
+__whirlwind__ _n_  
 __whitecaps__ _n_  
 __whiteout__ _n_ :two::hammer:  
+__wholeness__  
 __wince__ _v_  
 __winch__ _n_ :two::hammer:  
 __winching__ _v_  
@@ -201,87 +240,3 @@ __worsen__ _v_
 __worsened__ _v_  
 __zugzwang__  
 __Zulu time__  
-__achiever__  
-__angsty__ (?)  
-__barrel__ _v_ (?)  
-__bazillion__  
-__blindspot__ (?)  
-__board__ _v_ :mega: _Board the plane._  
-__byproduct__  
-__commiserate__ _v_ (?)  
-__corrective__ _adj_ (?) _The corrective mom._  
-__cue__ _v_  
-__dalai lama__ :mega:  
-__emote__ _v_ (?)  
-__epiphany__ _n_ :two::hammer:  
-__floored__  
-__grounded__ (a type of punishment)  
-__hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
-__hijack__ _v_ :mega:  
-__jittery__ _I am feeling jittery._  
-__lessen__ _v_  
-__mainline__ _v_ (?)  
-__marinate__ _v_ _Marinating my thoughts._  
-__novice__ :mega:  
-__off work__ (?)  
-__outspoken__  
-__overdo__ _v_ _Do not overdo caffeine._  
-__overstep__ _v_ (?)  
-__overthink__ _v_  
-__relentless__  
-__role play__ _v_  
-__self-conscious__  
-__seratonin__ :mega:  
-__sleep in__  
-__stamina__ :mega:  
-__supersize__ _v_  
-__synchronizity__ (?)  
-__top-of-mind__ _His top-of-mind interest._  
-__treat__ _v_ _Treat yourself a coffee._  
-__upfront__  
-__uptalk__ _v_  
-__wallow__ _v_  
-__whirlwind__ _n_  
-__wholeness__  
-__achiever__  
-__angsty__ (?)  
-__barrel__ _v_ (?)  
-__bazillion__  
-__blindspot__ (?)  
-__board__ _v_ :mega: _Board the plane._  
-__byproduct__  
-__commiserate__ _v_ (?)  
-__corrective__ _adj_ (?) _The corrective mom._  
-__cue__ _v_  
-__dalai lama__ :mega:  
-__emote__ _v_ (?)  
-__epiphany__ _n_ :two::hammer:  
-__floored__  
-__grounded__ (a type of punishment)  
-__hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
-__hijack__ _v_ :mega:  
-__jittery__ _I am feeling jittery._  
-__lessen__ _v_  
-__mainline__ _v_ (?)  
-__marinate__ _v_ _Marinating my thoughts._  
-__novice__ :mega:  
-__off work__ (?)  
-__outspoken__  
-__overdo__ _v_ _Do not overdo caffeine._  
-__overstep__ _v_ (?)  
-__overthink__ _v_  
-__relentless__  
-__role play__ _v_  
-__self-conscious__  
-__seratonin__ :mega:  
-__sleep in__  
-__stamina__ :mega:  
-__supersize__ _v_  
-__synchronizity__ (?)  
-__top-of-mind__ _His top-of-mind interest._  
-__treat__ _v_ _Treat yourself a coffee._  
-__upfront__  
-__uptalk__ _v_  
-__wallow__ _v_  
-__whirlwind__ _n_  
-__wholeness__  
