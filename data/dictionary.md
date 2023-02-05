@@ -139,6 +139,7 @@ __acculturation__ _n_
 __acerbic__ _adj_ :four::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
+__achiever__  
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
 __Achilles__ _n_ _Out for season after tearing his Achilles against San Diego._  
 __Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.  
@@ -547,7 +548,7 @@ __angler__ _n_ :six::hammer: (anglers)
 __Anglicism__ _n_ (sometimes _anglicism_) __2__ An English word, idiom, etc., occurring in or borrowed by another language.  
 __angling__ _v_ :four::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
-__angsty__ _adj_ :two::hammer:  
+__angsty__ _adj_ :three: /ˈæŋstɪ/ (angstier, angstiest) _informal_ Displaying or feeling angst, esp in a self-conscious manner: _two angsty teenagers._  
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
@@ -1194,7 +1195,7 @@ __barrage<sup>2</sup>__ _v_
 __barre__  
 __barrel bombs__  
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank’s barrel._  
-__barrel<sup>2</sup>__ _v_ _informal_ :three: To move or progress rapidly. _A truck barreling toward you._ _A truck barreled down the road._ _Callous barreling against traffic._  
+__barrel<sup>2</sup>__ _v_ _informal_ :four: To move or progress rapidly. _A truck barreling toward you._ _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__ _adj_ :three::hammer:  
 __barrette__ _n_ :two: A small clasp for holding the hair in place.  
@@ -1251,7 +1252,7 @@ __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._
 __bay leaves__  
 __bayfront__ _n_  
 __bays__ _n_  
-__bazillion__ _n informal_ :three: /bəˈzɪl yən/ An extremely large, indeterminate number.  
+__bazillion__ _n informal_ :four: /bəˈzɪl yən/ An extremely large, indeterminate number.  
 __beach__ _v_  
 __beachcomb__ _v_ To search for and collect objects such as seashells and driftwood along the seashore.  
 __beachhead__ _n_ :four::hammer:  
@@ -1629,6 +1630,7 @@ __blimp__ _n_ :three: __1__ (Aeronautics) A small nonrigid airship, esp one used
 __blin__ _n_ (blinis)  
 __blind as a bat__  
 __blind date__  
+__blind spot__  
 __blinders__ _n_  
 __blindfold__ _n_  
 __blindside<sup>1</sup>__ _n_ :two: __1__ The part of one’s field of vision, as to the side or rear, where one cannot see approaching objects. __2__ The side opposite that toward which a person is looking. _Blindside blocks._  
@@ -1712,7 +1714,8 @@ __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without 
 __bluster<sup>1</sup>__ _v_ :two::hammer: _The bitter blustering of the wind._  
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
-__board__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
+__board<sup>1</sup>__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
+__board<sup>2</sup>__ _v_ :mega: _Board the plane._  
 __boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typically while their owners are on vacation. _Mike was running a boarding kennels._  
 __boarding ladder__ _n_  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
@@ -2339,7 +2342,7 @@ __bylaw__
 __bylaws__  
 __byline__ _n_ :six: (bylines) A line at the head of a newspaper or magazine article carrying the writer’s name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
-__byproduct__ _n_  
+__byproduct__ _n_ :two::hammer:  
 __bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
 __byzantine__ _adj_ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
@@ -3366,7 +3369,7 @@ __commensurate__ _adj_ :five: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job po
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :six::hammer:  
+__commiserate__ _v_ :seven::hammer: /kəˈmɪzəˌreɪt/  
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __commissioned__ _adj_  
@@ -3713,7 +3716,7 @@ __corpsman__ _n_ :two::hammer: _He served in the U.S. Navy as a hospital corpsma
 __corpus__ _n_ _A big corpus of examples._  
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
-__corrective__ _adj_ _Preventive and corrective maintenance._  
+__corrective__ _adj, n_ :two::hammer: _Preventive and corrective maintenance._ _The corrective mom._  
 __correspondent__ _adj, n_ :two::hammer:  
 __corridor__ _n_ :three::hammer: :es: puente aéreo  
 __corrosion__  
@@ -4011,7 +4014,7 @@ __cudgel__ _n_ :six: /ˈkʌdʒəl/ (cudgels) A short heavy stick. _Syn_ bastinad
 __cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
 __cue<sup>1</sup>__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
-__cue<sup>2</sup>__ _v_  
+__cue<sup>2</sup>__ _v_ :two::hammer:  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -4130,6 +4133,7 @@ __daiquiri__ _n_ :mega:
 __dais__ _n_ :five: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
 __daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
 __daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
+__Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
 __dale__ _n_ _Secluded dales._  
 __dalliance__  
 __dally__ _v_ :six::hammer: (dallied, dallying)  
@@ -5416,7 +5420,7 @@ __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotio
 __emoji__ _n pl_  
 __emollient__ _adj_ :five: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
-__emote__ _v_  
+__emote__ _v intr_ :two::hammer:  
 __empathetic__  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
@@ -5563,7 +5567,7 @@ __epidemic__ _n_ Notice: _n_!
 __epigram__ _n_  
 __epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
-__epiphany__ _n_ :three::hammer::mega:  
+__epiphany__ _n_ :five::hammer::mega:  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
@@ -6358,7 +6362,7 @@ __floodlight__ _n_ :three::hammer:
 __floor show__  
 __floor vote__ _n_  
 __floor<sup>1</sup>__ _n_ __9__ The right of one member to speak from such a place in preference to other members: _The senator from Alaska has the floor._ _The floor is closed._  
-__floor<sup>2</sup>__ _v_ :four::hammer: (floored) __3a__ To knock down. __b__ To stun; overwhelm: _The very idea floored me._ _I’m kinda floored by what I’m noticing._ _I was completely floored._  
+__floor<sup>2</sup>__ _v_ :five::hammer: (floored) __3a__ To knock down. __b__ To stun; overwhelm: _The very idea floored me._ _I’m kinda floored by what I’m noticing._ _I was completely floored._  
 __floozy__ _n_ A woman who has a lot of sexual relationships.  
 __flop<sup>1</sup>__ _n_ :five::hammer: _You stay at the flop he’s got rented for you._ _One of the most expensive flop in Broadway history._ _Kevin Bell was a flop._  
 __flop<sup>2</sup>__ _v_ :four::dart: (flops, flopping) __5__ (Sports) To exaggerate or simulate a fall after contact or near-contact with an opposing player in order to induce a referee to call a penalty; to dive. _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
@@ -7374,7 +7378,7 @@ __grouchy__ _adj_
 __ground chuck steak__  
 __ground game__  
 __ground zero__ _n_ :two::hammer:  
-__ground__ _v_  
+__ground__ _v_ :two: __4a__ To prevent (an aircraft or a pilot) from flying. __b__ :dart: _informal_ To restrict (someone) especially to a certain place as a punishment.  
 __ground-breaking__  
 __groundbreaker__ _n_ :three::hammer:  
 __groundbreaking__ _adj_ :two::hammer: _Groundbreaking science._  

@@ -1,18 +1,3 @@
-__achiever__  
-__angsty__ _adj_ /ˈæŋstɪ/ (angstier, angstiest) _informal_ Displaying or feeling angst, esp in a self-conscious manner: _two angsty teenagers._  
-__barrel__ _v_  
-__bazillion__  
-__blind spot__  
-__board__ _v_ :mega: _Board the plane._  
-__byproduct__  
-__commiserate__ _v_ /kəˈmɪzəˌreɪt/  
-__corrective__ _adj, n_ _The corrective mom._  
-__cue__ _v_  
-__Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
-__emote__ _v intr_  
-__epiphany__ _n_ :two::hammer:  
-__floored__  
-__grounded__ _v_ __4a__ To prevent (an aircraft or a pilot) from flying. __b__ :dart: _informal_ To restrict (someone) especially to a certain place as a punishment.  
 __hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
 __hijack__ _v_ :mega:  
 __jittery__ _adj_ _I am feeling jittery._  
