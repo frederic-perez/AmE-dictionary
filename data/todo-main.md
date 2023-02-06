@@ -1,12 +1,21 @@
 __adapt__ _v_ /uh-DAPT/  
 __bequest__ _v_  
+__bibliognost__ _n_  
 __churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
+__cock-a-doodle-doo__  
+__didactic__ _adj_ Intended to instruct. _Syn_ didactical  
+__diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist thinned the paint to a pale yellow using a diluent and a bit of white._  
 __dingbat<sup>1</sup>__ _n_ /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
 __dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
 __drupe__ _n_  
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
+__force majeure__ _n_  
+__fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
+__induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
+__lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
+__lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
 __monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
@@ -125,6 +134,7 @@ __nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especia
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
 __Norse__ _adj, n_  
 __nose-to-nose__ _adj_  
+__nosebag__ _n_ A canvas bag that is used to feed an animal (such as a horse). _Syn_ feedbag _The stableboy replaced the horse’s nosebag, which had torn in two places._  
 __nosh<sup>1</sup>__ _v intr_ _informal_ :three: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _v tr_ to snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
@@ -190,6 +200,7 @@ __ooze__ _v_
 __op-ed__ _adj, n_ :mega:  
 __opalesce__ _v intr_ To exhibit a milky iridescence.  
 __open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
+__open-ended question__  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __operating system__  
 __optic flow__ _n_  
@@ -254,6 +265,7 @@ __paganism__ _n_
 __pageantry__ _n_ :three::hammer:  
 __painstakingly__  
 __palate__ _n_  
+__palingenesis__ _n_  
 __pamper__ _v tr_ :six:hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
 __pampering__ _n_  
 __pan out__ _v_  
@@ -485,6 +497,7 @@ __procurator__ _n_ One authorized to manage the affairs of another; an agent. _S
 __procure__ _v_ :two::hammer:  
 __produce__ _n_ Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._  
 __proficiency__  
+__profligacy__ _adj, n_  
 __profound__ _adj_ :mega:  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
@@ -756,6 +769,7 @@ __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy__ _adj_ _Savvy travelers._  
 __sawdust__ _n_  
+__sawhorse__ _n_ A frame with legs, used to support pieces of wood being sawed. _Syn_ buck, horse, sawbuck  
 __scab__ _n_ :es: costra  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scalp__ _n_ __3__ A trophy or token signifying conquest.  
@@ -798,6 +812,7 @@ __screen__ _n_ _Chemists apply the test on only those molecules that pass the sc
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
+__scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
 __scrutiny__ _n_  
 __scumbag__  
 __scunner<sup>1</sup>__ _v intr_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
@@ -1561,6 +1576,7 @@ __waterfront__ _n_ :two: Land, land with buildings, or a section of a town front
 __watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __waterpark__  
 __wave goodbye__ _n_ A motion of the hand used to say goodbye. _A kiss and a wave goodbye._ _Waving goodbye to the paper lab book._  
+__weal__ _n_ /WEEL/ Weal is a somewhat old-fashioned word that refers to “a state of being happy, healthy, and successful.” Weal is usually ascribed to large groups of people, rather than individuals, as in the phrases “common weal” or “public weal.” _Before presenting the bill to the legislature, the senator spoke of her devotion to the general weal._  
 __wedding band__ _n_  
 __wee__ _n_  
 __well versed__ _adj_  
@@ -1603,6 +1619,7 @@ __wily__
 __wimpy__ _adj_  
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
+__winningest__ _adj informal_ /ˈwɪn ɪŋ ɪst/ __1__ Winning most often: _the winningest coach in college basketball._ __2__ Most winning or charming: _the winningest smile in town._  
 __winter__ _v_ _Explorers wintered in the neighborhood in 1805._  
 __winterfest__ _n_ Any of various winter festivals.  
 __wintering__ _v_  
@@ -1618,6 +1635,7 @@ __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard fam
 __womance__ _n_ A close friendship between women.  
 __wondrous__ _adj_ :four::hammer:  
 __wonky__ _adj_  
+__woodchuck__ _n_ /ˈwʊdˌtʃʌk/ A North American marmot, _Marmota monax_, having coarse reddish-brown fur. Also called: _groundhog_  
 __woods__ _n pl_  
 __woodsy__ _adj_ :two::hammer: _A warm, woodsy room._  
 __word-hoard__ _n_ :dart: A person’s vocabulary.  
