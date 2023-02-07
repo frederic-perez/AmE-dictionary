@@ -2,6 +2,8 @@ __(stuck) in a rut__ Seemingly trapped or stuck in a mundane, non-changing patte
 __a change is as good as a rest__ A change in one’s work can be as beneficial and revitalizing as taking a break. Primarily heard in US. _I’m hoping that starting on this new career path will help me to find joy in my work again—after all, a change is as good as a rest._  
 __around the horn__ __2__ A difficult route chosen despite a simpler alternative. _If traffic on the highway is too bad, we might have to go around the horn instead._  
 __bode well for (someone or something)__ To seem indicative of a favorable outcome. This phrase is often used in the negative to suggest the opposite. _Sunny weather bodes well for our flight leaving on time._  
+__case in point__ A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__cheap out__ To choose a less expensive option or course of action in order to reduce cost, especially at the expense of quality or reliability. _A: “We’ve had to have so many repairs done to the house over the last year.” B: “Well, that’s what you get for cheaping out on building materials.”_  
 __crash course__  
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
 __croc__ _n_ /krɒk/ Crocodile.  
@@ -20,7 +22,7 @@ __dial up__ To telephone someone or something: _I dialed up my dentist and made 
 __ding ding ding__ :two: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __do-gooder__  
 __don’t get (one) started__  
-__double down__  
+__double down__ :two::hammer:  
 __down for (something)__  
 __down the drain__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
@@ -50,6 +52,7 @@ __fend off__
 __few and far between__  
 __fight the good fight__  
 __find (one‘s) bearings__ To recognize or determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _It took me a little while to find my bearings in the new office, but after a week, I felt as if I’d been working there for years._  
+__fired up__ Excited; enthusiastic. _How can you be so fired up at this time of the morning?_  
 __first and foremost__  
 __first things first__ :two::hammer:  
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
@@ -76,6 +79,7 @@ __front and center__
 __funky__ _With that mix, things get funky._  
 __game changer__  
 __game plan__ :two::hammer:  
+__game-changer__  
 __gaslighting__  
 __gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
@@ -141,6 +145,7 @@ __hold (someone) accountable (for someone)__ To deem someone responsible for som
 __hold a candle to__  
 __hold back__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
+__hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
 __how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
 __hunker down__  
@@ -169,10 +174,12 @@ __in this day and age__
 __it is not a competition__  
 __it takes two to tango__  
 __jacked chad__  
+__jailbreak__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
 __jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
 __junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
+__keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
 __keep pace__  
 __keep tabs on someone__  
 __keep tabs on__  
@@ -226,6 +233,7 @@ __name names__ :two::hammer: _I will not go naming names here._
 __narrow down__  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __night and day__  
+__nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
 __no picnic__ _This is no picnic._  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
@@ -243,6 +251,7 @@ __off work__
 __off-kilter__  
 __on (one’s) own righ__  
 __on a different note__  
+__on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on demand__ _Requested on demand._  
 __on edge__  
 __on leave__  
@@ -273,7 +282,7 @@ __people pleaser__ (_less commonly_ people-pleaser)
 __perfect storm__  
 __piece of shit__  
 __piping hot__  
-__play ball__ :two::hammer:  
+__play ball__ :three::hammer:  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
@@ -288,6 +297,7 @@ __put out fires__
 __put to the test__  
 __put up with__ :two::hammer:  
 __put up__  
+__rabble-rouser__  
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
@@ -355,6 +365,7 @@ __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
 __stand to reason__ Be clear to all sensible people.  
+__stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step up__ :two::hammer:  
 __stepping stone__  
@@ -490,7 +501,7 @@ __to the fullest__
 __to the hilt__  
 __to this day__  
 __tongue-in-cheek__  
-__top of mind__ :dart: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
+__top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __tour de force__ :three::hammer:  
@@ -560,7 +571,7 @@ __wipe the floor__
 __wit’s end__ :dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
-__with a bang__ _Chamber music with a bang!_  
+__with a bang__ :two::hammer: _Chamber music with a bang!_  
 __with a passion__  
 __with a twist__ :three::hammer:  
 __with a view__ _Chateau with a view._  
