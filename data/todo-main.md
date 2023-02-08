@@ -1,9 +1,15 @@
 __adapt__ _v_ /uh-DAPT/  
+__banhammer__  
+__bemoan__ _v_  
 __bequest__ _v_  
 __bibliognost__ _n_  
 __churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __cock-a-doodle-doo__  
+__cogent__ _adj_  
+__crowd<sup>1</sup>__ _n_  
+__crowd<sup>2</sup>__ _v intr_ __1__ To gather together in a limited space: _The children crowded around the TV._ __2__ :dart: To move forward by pressing or shoving: _A bevy of reporters crowded toward the candidate._  
+__crowd<sup>3</sup>__ _v tr_  
 __didactic__ _adj_ Intended to instruct. _Syn_ didactical  
 __diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist thinned the paint to a pale yellow using a diluent and a bit of white._  
 __dingbat<sup>1</sup>__ _n_ /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
@@ -12,6 +18,7 @@ __drupe__ _n_
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
 __force majeure__ _n_  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
+__hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
@@ -479,7 +486,7 @@ __prickling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ tingling
 __prickly pear__ _n_  
 __prickly__ _adj_  
 __priestess__ _n_  
-__prime__ _adj_ _Prime steaks._  
+__prime__ _adj_ :two::hammer: _Prime steaks._  
 __primeval__ _adj_  
 __primitive__ _n_ __4b__ An artist having or affecting a simple, direct, unschooled style, as of painting. __c__ A work of art created by a primitive artist. _Primitives, collectibles and gifts for all._  
 __primo__ _adj, adv, n_  
@@ -967,6 +974,7 @@ __smithy__ _n_ _A working smithy._
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ :two::hammer:  
 __snack__ _v_  
+__snafu__  
 __snare drum__ _n_  
 __snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowcat__ _n_ :two::hammer:  
@@ -1213,6 +1221,7 @@ __tableside__ _n_ _Topless tableside dancing._
 __tabletop__ _adj, n_  
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
+__tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  
 __Taj Mahal__ _n_ /taj/tazh muh-HUHL/HAHL/ [:scroll: After Taj Mahal, a mausoleum in Agra, India] Something, especially a building, that is luxurious or an extraordinary example of its kind.  
 __take-out__  
@@ -1372,6 +1381,7 @@ __travelogue__ _n_
 __travertine__ _n_  
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
+__trawl__ _v_  
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
 __treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
 __treasure__ _v_  
@@ -1444,7 +1454,7 @@ __uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible
 __uncouth__  
 __undemosaick__ _v_ _Undemosaicked pixels._  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
-__underbelly__ _n_ _The seedy underbelly of New York City._  
+__underbelly__ _n_ :two::hammer: /ˈʌn dərˌbɛl i/ _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __undercut__ _v_  
 __underdog__  
