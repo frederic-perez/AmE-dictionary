@@ -1,18 +1,3 @@
-__hamstring__ _v_ _A safe pair of hands hamstrung by political will._  
-__hijack__ _v_ :mega:  
-__jittery__ _adj_ _I am feeling jittery._  
-__lessen__ _v_  
-__mainline__ _v_  
-__marinate__ _v_ _Marinating my thoughts._  
-__novice__ _n_ :mega: /ˈnɒv ɪs/  
-__outspoken__  
-__overdo__ _v_ _Do not overdo caffeine._  
-__overstep__ _v tr_  
-__overthink__ _v_  
-__relentless__  
-__role play__ _v_  
-__scrub out__ _v_  
-__scrutiny__ _n_ :dart:  
 __scurvy__  
 __seacock__ _n_ :two::hammer:  
 __seamlessly__ _n_  

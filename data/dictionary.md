@@ -7598,7 +7598,8 @@ __hamper<sup>1</sup>__ _n_ :three::dart::hammer: _This square rattan hamper come
 __hamper<sup>2</sup>__ _v_ :astonished::six::hammer: (hampered)  
 __Hamsa__ _n_  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
-__hamstring__ _n_ :four::hammer: /ˈhæmˌstrɪŋ/  
+__hamstring<sup>1</sup>__ _n_ :four::hammer: /ˈhæmˌstrɪŋ/  
+__hamstring<sup>2</sup>__ _v_ _A safe pair of hands hamstrung by political will._  
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
 __handcuff__ _v_ _It is handcuffed by lack of funds._  
@@ -7986,6 +7987,7 @@ __highlight__ _v_ :two::hammer:
 __highly__ _adv_ _I highly recommend it._  
 __hightail__ _v intr_ [:scroll: From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.] To move quickly, especially in retreat or in fleeing.  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
+__hijack__ _v_ :mega:  
 __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
 __hike<sup>1</sup>__ _n_ :four::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
@@ -9000,7 +9002,7 @@ __jink<sup>2</sup>__ _n_
 __jinx<sup>1</sup>__ _v_ :three::hammer:  
 __jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
-__jittery__ _adj_ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
+__jittery__ _adj_ :two::hammer: _I am feeling jittery._ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
 __jive<sup>1</sup>__ _v_ :two::hammer: (jiving) _I know when you’re shuckin’ and jivin’ me._  
 __jive<sup>2</sup>__ _n_ :two::astonished::hammer: _This guy is jive._ _You can dance, you can jive, having the time of your life—ABBA’s Dancing Queen lyrics._  
 __job opening__  
@@ -9560,7 +9562,7 @@ __leper__
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
 __lese majeste__ _n_ :four: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
-__lessen__ _v_  
+__lessen__ _v_ :two::hammer:  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
@@ -10017,7 +10019,7 @@ __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part o
 __maimed__  
 __Main Street__  
 __mainland__ _n_ _Free delivery anywhere in mainland UK._  
-__mainline__  
+__mainline__ _v_ :two::hammer:  
 __mainstay__ _n_ :eight::hammer: _A mainstay of his business._  
 __mainstream__  
 __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
@@ -10148,7 +10150,7 @@ __marginalia__ _n pl_ /mahr-juh-NAY-lee-uh/ Marginalia is a plural noun that ref
 __Mariel felons__  
 __marijuana__  
 __marinades__  
-__marinate__ _v_  
+__marinate__ _v_ :two::hammer: _Marinating my thoughts._  
 __mariner__ _n_  
 __maritime__  
 __marjoram__ _n_ :two: Oregano.  
@@ -11132,6 +11134,7 @@ __nova__
 __novelette__  
 __novella__  
 __novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Buy a novelty T-shirt._  
+__novice__ _n_ :mega: /ˈnɒv ɪs/  
 __nowadays__  
 __nowcast__  
 __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
@@ -11536,7 +11539,7 @@ __overblown__
 __overbook__ _v_  
 __overcast__ _adj_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
-__overdo__ _v_  
+__overdo__ _v_ :two::hammer: _Do not overdo caffeine._  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _adj_ _A resurgence in social homes is long overdue._  
 __overflight__  
@@ -11562,11 +11565,12 @@ __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
 __overstated__ _v_ :two::hammer:  
+__overstep__ _v tr_  
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
 __overtaxed__  
-__overthink__ _v_  
+__overthink__ _v_ :two::hammer:  
 __overthinker__ _n_ _I’m a chronic overthinker._  
 __overtime__ _n_ :es: horas extras  
 __overtly__ _adv_  
@@ -13434,7 +13438,7 @@ __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message dir
 __relegate__ _v_ To assign to an obscure place, position, or condition. _Syn_ demote, bump _After allowing the other team to score on three consecutive shots, he was relegated to the bench._  
 __relegation__ _n_ _Sports_  
 __relent__ _v_ :five::hammer: /rɪˈlɛnt/ (relented)  
-__relentless__ _adj_ :five::hammer: _I relentlessly go to YouTube to watch all new footage._  
+__relentless__ _adj_ :six::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _adj_ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
 __reliant__ _adj_ :two::hammer:  
@@ -13743,6 +13747,7 @@ __roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyan
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_ :three: /ROY-ster/ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._ _Fans roistered after their team won the championship._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
+__role play__ _v_  
 __roll (someone’s) eyes__  
 __roll call__ _n_ :two: The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
@@ -14217,6 +14222,7 @@ __scrooch__ _v_
 __Scrooge__  
 __scrouching__ _v_  
 __scrub brush__  
+__scrub out__ _v_  
 __scrub__ _v_ :four: (scrubbed) __4__ _slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._ _He scrubbed his hands at the sink._  
 __scrubber__ _n_ __1__ A person or thing that scrubs. __2__ (Chemical Engineering) An apparatus for purifying a gas.  
 __scrubbers__ _n_  
@@ -14229,7 +14235,7 @@ __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used
 __scruple__ _n_ An uneasy feeling arising from conscience or principle that tends to hinder action. _Syn_ misgiving, qualm _Lady Macbeth is impatient with her husband’s scruples and goads him into killing the king._  
 __scrupulously__  
 __scrutinize__ _v_  
-__scrutiny__ _n_ :two::hammer:  
+__scrutiny__ _n_ :three::dart::hammer:  
 __scry__ _v_ To see or predict the future by means of a crystal ball.  
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
