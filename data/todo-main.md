@@ -1,5 +1,8 @@
+__acquiesce__ _v_ /ak-wee-ESS/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with in or to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._  
 __adapt__ _v_ /uh-DAPT/  
+__armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
 __banhammer__  
+__beatitude__ _n_ Supreme blessedness or happiness. _Syn_ blessedness, beatification  
 __bemoan__ _v_  
 __bequest__ _v_  
 __bibliognost__ _n_  
@@ -10,19 +13,25 @@ __cogent__ _adj_
 __crowd<sup>1</sup>__ _n_  
 __crowd<sup>2</sup>__ _v intr_ __1__ To gather together in a limited space: _The children crowded around the TV._ __2__ :dart: To move forward by pressing or shoving: _A bevy of reporters crowded toward the candidate._  
 __crowd<sup>3</sup>__ _v tr_  
+__despot__ _n_ /DESS-putt/  
 __didactic__ _adj_ Intended to instruct. _Syn_ didactical  
 __diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist thinned the paint to a pale yellow using a diluent and a bit of white._  
 __dingbat<sup>1</sup>__ _n_ /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
 __dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
 __drupe__ _n_  
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
+__eruct__ _v_ /ɪˈrʌkt/ (eructate)  
 __force majeure__ _n_  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
+__hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
+__legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
+__lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
+__mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
 __monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
@@ -674,6 +683,8 @@ __revue__ _n_ :three::hammer: _A musical revue._ _Improv revues._ _Female impers
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
 __rhododendrons__ _n_ :pencil2:  
 __rib eye__ _n_ _Rib eye steaks._  
+__ribald<sup>1</sup>__ _adj_ /ˈrɪbəld/ Coarse, obscene, or licentious, usually in a humorous or mocking way.  
+__ribald<sup>2</sup>__ _n_ A ribald person.  
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
@@ -1520,6 +1531,7 @@ __vamoose__ _v_ /vuh-MOOSS/ Vamoose is an informal word that means “to depart 
 __vampire bat__ _n_  
 __van__ _n_  
 __vantage point__  
+__vapid__ _adj_ /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_  
 __vast__ _adj_ :two::hammer: _The vast array of resources._  
