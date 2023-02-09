@@ -1,18 +1,3 @@
-__scurvy__  
-__seacock__ _n_ :two::hammer:  
-__seamlessly__ _n_  
-__secret__ _v_  
-__seek__ _v_ (sought)  
-__seethe__ _v_ _Seething with jealousy._  
-__seldom__ _adj, adv_ :two::hammer:  
-__self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
-__self-conscious__  
-__self-serving__ _adj_  
-__semblance__ _n_ _The semblance of peace._  
-__senate__ _n_ :mega:  
-__sentient__ _adj_  
-__seratonin__ _n_ :mega:  
-__setback__ _n_  
 __sextant__  
 __sharp__ _adj_ _He’s a sharp guy._  
 __sheaf__ _n_ _A sheaf of photos._  

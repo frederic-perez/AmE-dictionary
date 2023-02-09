@@ -14253,6 +14253,7 @@ __scupper__ _v_
 __scuppers__ _n_ :two::hammer:  
 __scurry<sup>1</sup>__ _v_ :three: To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
 __scurry<sup>2</sup>__ _n_  
+__scurvy__ _n_ :es: escorbuto  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ :three: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
@@ -14263,6 +14264,7 @@ __sea canary__ _n_
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
 __seabed__  
 __Seabees__ _n_ :two::hammer:  
+__seacock__ _n_ :two::hammer:  
 __seafarer__ _n_ :two::hammer:  
 __seafaring__  
 __seagoing__ _adj_ _Seagoing admirals._  
@@ -14271,6 +14273,7 @@ __seahawk__ _n_
 __seal__ _v_ _Lacy gained 27 yards to seal their fourth division win._  
 __seamed__ _v_ _A seamed old man._  
 __seamless__  
+__seamlessly__ _adv_  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
 __seaplane tender__ _n_ :two::hammer:  
@@ -14292,6 +14295,7 @@ __second-guess__ _v_ :seven::dart: (second-guessing)
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
+__secret__ _v_  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ _adj_ :four::hammer: /SEK-yuh-ler/  
@@ -14312,6 +14316,7 @@ __seediness__
 __seedling__ _n_ :dart: A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
 __seedy__ _adj_ _A seedy world._  
 __seek out__  
+__seek__ _v_ (sought)  
 __seemingly__ _adv_ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seep__ _v_ :nine::m: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
 __seepage__ _n_ :two::mega::hammer:  
@@ -14319,17 +14324,19 @@ __seer__ _n_
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning “milk and sugar,” probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
-__seethe__ _v_ :nine::m::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._  
+__seethe__ _v_ :nine::m::dart: If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._ _Seething with jealousy._  
 __seething__ _adj_ __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
 __segregate__ _v_ :two::hammer: (segregated) _Same building, but segregated schools._  
 __segue__ _v_ :six::pencil2::mega::hammer:  
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
-__seldom__ _adv_ :two::hammer: _People seldom think about their values consciously._  
+__seldom<sup>1</sup>__ _adj_ :two::hammer:  
+__seldom<sup>2</sup>__ _adv_ :two::hammer: _People seldom think about their values consciously._  
 __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _adj_ _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
-__self-conscious__ _adj_ :five::hammer: :es: acomplejado; cohibido, tímido  
+__self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
+__self-conscious__ _adj_ :six::hammer: :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
 __self-effacing__ _adj_ :three::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
@@ -14338,7 +14345,7 @@ __self-hatred__ _n_ (self-hate) Hatred, disregard, and denigration of oneself.
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
-__self-serving__ _adj_ :two: __1__ Serving one’s own interests, especially without concern for the needs or interests of others. __2__ Exhibiting concern solely for one’s own interests: _a speech full of self-serving comments._  
+__self-serving__ _adj_ :three: __1__ Serving one’s own interests, especially without concern for the needs or interests of others. __2__ Exhibiting concern solely for one’s own interests: _a speech full of self-serving comments._  
 __self-steem__  
 __self-sustained__ _adj_ Needing no outside support.  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
@@ -14350,12 +14357,14 @@ __sell-offs__
 __sellout__ _n_ (sold out, sellouts) :three::hammer: _There have been no sellouts._  
 __sellsworth__ _n_  
 __seltzer__ _n_ __1__ A natural effervescent spring water of high mineral content. __2__ A similar synthetic water, used as a beverage.  
+__semblance__ _n_ _The semblance of peace._  
 __semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
 __semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
 __semi-finished__ _adj_ _Semi-finished lens._  
 __seminal__ _adj_ :two: Highly influential in an original way; constituting or providing a basis for further development. _Syn_ germinal, originative _He prepared a speech describing his experiment, never realizing that his presentation would be the seminal event in the development of a new theory._  
 __seminoles__  
 __sempiternal__ _adj_ Enduring forever; eternal.  
+__senate__ _n_ :mega:  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
@@ -14370,7 +14379,7 @@ __sensitivity__ _n_ The ability of a test to correctly identify patients with a 
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
-__sentient__ _adj_ :eight: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
+__sentient__ _adj_ :nine: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
@@ -14386,6 +14395,7 @@ __sequiturs__
 __sequoia__ _n_ [:scroll: C19: New Latin, named after Sequoya, known also as George Guess, (?1770–1843), American Indian scholar and leader]  
 __serac__ _n_ :three: (sérac) A pinnacle of ice among crevasses on a glacier, usually on a steep slope. A large pointed mass of ice in a glacier isolated by intersecting crevasses.  
 __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraphim, from Hebrew seraphim, from saraph (to burn).] Like an angel: serene, beautiful, pure, blissful, etc.  
+__seratonin__ _n_ :mega:  
 __sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
 __serendipity__ _n_  
@@ -14416,7 +14426,7 @@ __set someone apart__
 __set the pace__  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
-__setback__ _n_ :five::hammer::pencil2: (setbacks) _It has suffered several setbacks._  
+__setback__ _n_ :six::hammer::pencil2: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting__ _n_ __3__ The surroundings or environment of anything. _Picturesque setting._ :es: entorno picturesco  
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
