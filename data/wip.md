@@ -1,18 +1,3 @@
-__sextant__  
-__sharp__ _adj_ _He’s a sharp guy._  
-__sheaf__ _n_ _A sheaf of photos._  
-__shenanigans__ _n_  
-__shingle__ _n, v_ :three::hammer:  
-__shoo__ _v_  
-__short-lived__ _adj_  
-__shotgun__  
-__showrunner__ _n_ A person who has creative control over a broadcast series, as on television, and who manages its day-to-day operations.  
-__shrieking__ _adj, n_ _Shrieking panic._  
-__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
-__side effect__  
-__sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
-__sidestep__ _v_  
-__signage__ _n_ /ˈsaɪ nɪdʒ/  
 __signet ring__  
 __significant__ _adj_ :two::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._  
 __signify__ _v_  

@@ -14441,6 +14441,7 @@ __sewer gas__
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
 __sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
+__sextant__  
 __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
@@ -14487,13 +14488,14 @@ __share__ _v_ _Everything you share is confidential._
 __sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that’s rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
 __sharkskin__ _n_  
 __sharp elbows__  
+__sharp__ _adj_ _He’s a sharp guy._  
 __sharps collector__ _n_ :camera:  
 __sharpshooter__ _n_ :two::hammer:  
 __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._  
 __shaved ice__  
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
-__sheaf__ _n_ :two::hammer: (sheaves)  
+__sheaf__ _n_ :three::hammer: (sheaves) _A sheaf of photos._  
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
@@ -14528,7 +14530,7 @@ __shelling<sup>1</sup>__ _n_ :es: bombardeo
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
-__shenanigans__ _n_ :two::hammer:  
+__shenanigans__ _n_ :three::hammer:  
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
 __sherbet punch__  
@@ -14552,7 +14554,8 @@ __shinding__
 __shine a light__  
 __shiner bucket__  
 __shiner__ _n_ _He answered the door with a shiner on one eye from a wrestling match._  
-__shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
+__shingle<sup>1</sup>__ _n_ :nine::m::hammer: (shingles) :es: herpes zóster  
+__shingle<sup>2</sup>__ _v_ :two::hammer:  
 __shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
 __shipborne__ _adj_ _Airborne and shipborne measured platforms._  
 __shipping__ _n_ :astonished: __1a__ The business of transporting freight, esp by ship. __b__ (as modifier): _a shipping magnate; shipping line._ __2a__ :astonished: Ships collectively: _there is a lot of shipping in the Channel._ __b__ The tonnage of a number of ships: _shipping for this year exceeded that of last._  
@@ -14586,7 +14589,7 @@ __shoestring<sup>2</sup>__ _adj_ :three: __1__ Long and slender: _shoestring pot
 __shoftlift__ _v_  
 __shogun__ _n_  
 __shogunate__ _n_ :two::hammer: _A local shogunate office._  
-__shoo__ _v_ :five::hammer: (shooing)  
+__shoo__ _v_ :six::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
@@ -14606,7 +14609,7 @@ __short hand__
 __short__ _n_  
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
-__short-lived__ _adj_ :three: Living or lasting only a short time; ephemeral.  
+__short-lived__ _adj_ :four: Living or lasting only a short time; ephemeral.  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _v tr_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
@@ -14623,6 +14626,7 @@ __shot put__ _n_ :two: __1__ [:scroll: The heavy metal ball used in the event is
 __shot__ _n_  
 __shotgun cottage__  
 __shotgun house__  
+__shotgun__  
 __shotput__ _n_  
 __shoulder<sup>1</sup>__ _n_ :two: __8__ The edge or border running on either side of a roadway. :camera: _The shoulders of the freeway will be wider._ _Even pulling onto shoulder causes huge jams._  
 __shoulder<sup>2</sup>__ _v_ :three::hammer:  
@@ -14642,7 +14646,7 @@ __showdown__ _n_ :seven: (showdowns) A final test or confrontation intended to s
 __showhouse__  
 __showpiece__ _n_ :three::hammer:  
 __showroom__ _n_  
-__showrunner__ _n_ :three::hammer: (show runner)  
+__showrunner__ _n_ :four: (show runner) A person who has creative control over a broadcast series, as on television, and who manages its day-to-day operations.  
 __showstopper__ _n_ _informal_  
 __showstopping__ _adj_ _A showstopping performance._  
 __showtime__  
@@ -14652,7 +14656,7 @@ __shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the f
 __shrewd__ _adj_  
 __shrewishly__  
 __shriek__ _v_ (shrieked) :two::hammer:  
-__shrieking__  
+__shrieking__ _adj, n_ :two::hammer: _Shrieking panic._  
 __shrieks__  
 __shrift__ _n_ :five::hammer:  
 __shrill__ _v_ :six::hammer: _Increasing shrill chorus._ _Crickets shrilled._  
@@ -14689,16 +14693,19 @@ __shyly__ _adv_ _(funny spelling)_
 __shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
 __sibilance__ _n_ A hissing quality of sound, or the hissing sound itself. _I dozed in the hammock to the ocean’s gentle sibilance._  
 __sicced__ _v_  
+__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
 __sick leave__ _n_ :three::hammer: _The UK’s biggest reason for sick leave._  
 __sickle cell__  
 __sickly__ _adj_ :es: enfermizo  
+__side effect__  
 __sidearm__  
 __sidebar__ _n_  
 __sidecar shovelhead__  
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sideline<sup>2</sup>__ _v_ :four: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
-__sidestep__ _v_ :six::hammer: (sidestepped)  
+__sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
+__sidestep__ _v_ :seven::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with anyone at Augusta_  
@@ -14716,7 +14723,7 @@ __sightline__ _n_
 __sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
 __sign__ _n_ :mute:[si~~g~~n]  
 __sign-off__ _n_  
-__signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn’t honored with signage._  
+__signage__ _n_ :five: /ˈsaɪ nɪdʒ/ Signs collectively. _The neon signage._ _Family upset his individual feat isn’t honored with signage._  
 __signal__ _n_ :mega:  
 __signature<sup>1</sup>__ _n_  
 __signature<sup>2</sup>__ _adj_ _That’s their signature meal._  
