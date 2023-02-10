@@ -7,6 +7,7 @@ __cheap out__ To choose a less expensive option or course of action in order to 
 __crash course__  
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
 __croc__ _n_ /krɒk/ Crocodile.  
+__crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
 __cry (oneself) to sleep__  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
@@ -63,6 +64,7 @@ __fly by__
 __fly on the wall__  
 __food baby__  
 __food coma__  
+__food for thought__ Something to consider._ That meeting really gave me food for thought—I might invest in their company after all._  
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
 __for all intents and purposes__  
 __for better or (for) worse__ :five::hammer:  
@@ -172,12 +174,14 @@ __in the middle of nowhere__
 __in the public eye__  
 __in this day and age__  
 __it is not a competition__  
+__it takes a village__  
 __it takes two to tango__  
 __jacked chad__  
 __jailbreak__  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
 __jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
+__jump-start__  
 __junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
 __keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
 __keep pace__  
@@ -196,12 +200,15 @@ __lay off__
 __lead domino__ :two::hammer:  
 __leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
 __learn the ropes__  
+__left and right__  
 __let alone__  
 __let down__  
 __lie ahead of (someone or something)__  
 __line of work__  
 __living proof__ :two::hammer:  
+__long hours__ A period of time doing something, especially work, that is longer than is usual or customary. _I’ll be working long hours in the restaurant the lead up to Christmas, but the tips and pay checks will be worth it._  
 __long story short__  
+__lose (one’s) marbles__ (lose one’s mind) To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her marbles after she had a stroke._  
 __lose face__  
 __lost cause__  
 __lost for words__ (at a loss for words)  
@@ -314,6 +321,7 @@ __rest on her laurels__
 __rest on one’s laurels__  
 __riddle with__  
 __riddled with__  
+__rinse, (and) repeat__ (lather, rinse, (and) repeat)  
 __rip (someone or something) to shreds__  
 __ripple effect__  
 __rock bottom__  
@@ -338,6 +346,7 @@ __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of 
 __send (one’s) love to (someone)__  
 __send off__  
 __set in stone__  
+__set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
 __set the bar__  
 __shape up__  
 __shot down__  
@@ -348,6 +357,7 @@ __simply put__
 __single out__  
 __skim through (something)__  
 __skip town__  
+__slay__ To succeed at something in a particularly impressive or dominant way. _She’s definitely getting the promotion after she slayed that presentation for the CEO._ _I absolutely slayed the interview; at one point, I even laid flat out on the couch on live TV!_  
 __sleep on (something)__  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slippery slope__  
@@ -365,6 +375,7 @@ __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
 __stand to reason__ Be clear to all sensible people.  
+__start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step up__ :two::hammer:  
@@ -434,6 +445,7 @@ __teaching to the test__ A colloquial term for any method of education where the
 __teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __tell apart__  
+__tell me about it__  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
 __test (one’s) mettle__  
 __test the water(s)__  
@@ -474,6 +486,7 @@ __there and back__ Taking the distances to the end point and back to the beginni
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
 __through the roof__  
+__throw (one) a curveball__  
 __throw a party__  
 __throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
 __throw hands__  
@@ -520,6 +533,7 @@ __turn turtle__ To turn upside down; to flip over. This phrase is often used to 
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __twofer__  
 __uncanny valley__  
+__under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s thumb__  
 __under the yolk__  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
