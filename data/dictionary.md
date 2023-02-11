@@ -14728,11 +14728,13 @@ __signal__ _n_ :mega:
 __signature<sup>1</sup>__ _n_  
 __signature<sup>2</sup>__ _adj_ _That’s their signature meal._  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
-__signet ring__  
+__signet ring__ _n_ :two: a finger ring containing a small seal, one’s initial, or the like.  
 __significant other__  
-__signify__ _v_  
+__significant__ _adj_ :two::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._  
+__signify__ _v_ :two::hammer:  
 __signposting__  
 __Sikh__  
+__silk__ _n_  
 __sill__ _n_ :two::hammer: (sills) _Concrete sills._  
 __silly boy__  
 __Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical properties.  
@@ -14873,7 +14875,9 @@ __slash__
 __slash-and-burn__ _adj_ _Slash-and-burn path._  
 __slash<sup>1</sup>__ _v_ :two::hammer: (slashed)_She slashed at his hands, jabbing and cutting._ _Basketball_ _He is a lanky gunner who can slash._  
 __slash<sup>2</sup>__ _n_ _Slash pines._  
-__slat__ _n_  
+__slat<sup>1</sup>__ _n_  
+__slat<sup>2</sup>__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
+__slate__ _n_ __6__ _(Film)_ __a__ The reference information written on a clapperboard. __b__ _informal_ The clapperboard itself.  
 __slather__ _v_ :three::hammer: _To slather on hand lotion._  
 __slathered__ _v_  
 __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._  
@@ -14888,12 +14892,14 @@ __slayer__ _n_ :two: Someone who causes the death of a person or animal.
 __sleazebag__  
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
+__sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _Syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
 __sleek__ _adj_ :two::hammer:  
 __sleeky__ _adj_  
 __sleep deprivation__  
-__sleep in__ _v_  
+__sleep in__ _v_ :two::hammer:  
 __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
+__sleeper__ _n_ __2__ _Railways_ A railway sleeping car or compartment.  
 __sleepover__ _n_ :three::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
@@ -14946,7 +14952,7 @@ __slipshod__ _adj_ :dart::two: __1__ Carelessly done or arranged: _slipshod rese
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
-__slither__ _v_ :two::hammer: _Slithering in mud._  
+__slither__ _v_ :four::hammer: _Slithering in mud._  
 __slithering__ _adj_ :two::hammer:  
 __sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :five::hammer:  
@@ -14954,7 +14960,7 @@ __slob__ _n_ :three::hammer: (slobs)
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
 __slog<sup>1</sup>__ _v_ :nine::m: (slogged, slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
-__slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
+__slog<sup>2</sup>__ _n_ :five: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slogan__ _n_  
 __slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __slop<sup>2</sup>__ _v_ (slopped)  
@@ -14970,7 +14976,7 @@ __slouch<sup>2</sup>__ _v_ :four::hammer: (slouching)
 __slouchy__  
 __slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
 __slough<sup>1</sup>__ _n_ :four::mega::hammer:  
-__slough<sup>2</sup>__ _v_ :five: /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._ _Henry sloughs off questions about his odometer._  
+__slough<sup>2</sup>__ _v_ :six: /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._ _Henry sloughs off questions about his odometer._  
 __sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
@@ -15055,7 +15061,7 @@ __smooth<sup>2</sup>__ _adj_ _A smooth professional._
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__ _n_ :three::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
 __smote__ _v_ :two::hammer: _Smote a horse with a whip._  
-__smother__ _v_ :three::hammer: (smothered, smothering) _Do not smother your true feelings._  
+__smother__ _v_ :four::hammer: (smothered, smothering) _Do not smother your true feelings._ _Smothering us._  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smouldering__ _adj_ :two::hammer:  
 __smudge__  
@@ -15102,8 +15108,8 @@ __snide__ _adj_ :two::hammer:
 __sniffed__ _v_ :two::hammer:  
 __sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :two::camera::dart::hammer:  
-__snigger__ _n_  
-__sniggering__ _v_ :two::hammer:  
+__snigger<sup>1</sup>__ _n_  
+__snigger<sup>2</sup>__ _v intr_ :three::hammer:  
 __snipe__ _v_  
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
 __snit__ _n_ _informal_ A state of agitation or irritation. _President Trump responded with a typical Twitter-snit._  

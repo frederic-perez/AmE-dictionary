@@ -1,18 +1,3 @@
-__signet ring__  
-__significant__ _adj_ :two::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._  
-__signify__ _v_  
-__silk__ _n_  
-__slat__ _v intr_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
-__slate__ _n_ __6__ _(Film)_ __a__ The reference information written on a clapperboard. __b__ _informal_ The clapperboard itself.  
-__sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _Syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
-__sleep in__  
-__sleepers__ _n_ (railway)  
-__slither__ _v_ :two::hammer:  
-__slog__ _n, v_ :two::hammer:  
-__sloshing__  
-__sloughing__ _v_  
-__smother__ _v_ _Smothering us._  
-__snigger__ _v_  
 __snippy__  
 __snoring__  
 __snorkel__ _v intr_  
