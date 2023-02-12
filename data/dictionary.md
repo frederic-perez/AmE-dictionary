@@ -15112,6 +15112,7 @@ __snigger<sup>1</sup>__ _n_
 __snigger<sup>2</sup>__ _v intr_ :three::hammer:  
 __snipe__ _v_  
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
+__snippy__  
 __snit__ _n_ _informal_ A state of agitation or irritation. _President Trump responded with a typical Twitter-snit._  
 __snitch__  
 __snivel__ _v_  
@@ -15123,8 +15124,10 @@ __snoot__ _v_ :two: To behave disdainfully toward; condescend to.
 __snootiness__  
 __snooty__ _adj_ :eight: __1__ Snobbishly aloof; haughty. _A snooty restaurant._ __2__ High-class; exclusive.  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
+__snoring__ _n_ The act of snoring or producing a snoring sound.  
+__snorkel__ _v intr_  
 __snort<sup>1</sup>__ _n_ :four: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
-__snort<sup>2</sup>__ _v_ :three::hammer: (snorted, snorting) _Ada snorted in derision._  
+__snort<sup>2</sup>__ _v intr_ :four::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
 __snot__ _n_ _slang_ :four: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
@@ -15150,6 +15153,7 @@ __snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snug__ _v_ :three::hammer:  
+__snuggery__ _n_ /ˈsnʌɡərɪ/ _Chiefly British_ __1__ A snug place or position. __2__ A comfortable or cozy room. _Syn_ cubby, cubbyhole  
 __snuggle<sup>1</sup>__ _v_  
 __snuggle<sup>2</sup>__ _n_  
 __snugly__ _adv_ :two::hammer:  
@@ -15160,10 +15164,10 @@ __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called 
 __so-so__ _adj_ :two::hammer: _The glass business was a so-so money maker._  
 __soap opera__  
 __soap-spuds__ _n_  
-__soapbox<sup>1</sup>__ _n_ :two::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
+__soapbox<sup>1</sup>__ _n_ :three::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soar__ _v_  
-__sobering__ _adj_ :three::hammer:  
+__sobering__ _adj_ :five: Tending to make sober or more serious: _the news had a sobering effect._  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :four: A nickname.  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
@@ -15175,11 +15179,13 @@ __sociopath__ _n_ :two: A psychopath or a person with antisocial personality dis
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
+__sodding__ _adj_  
+__sodium amytal__  
 __soffit__  
 __soft serve__ _n_ :camera: Any of several soft, creamy frozen desserts, such as ice cream and frozen yogurt, dispensed from a machine at the point of sale.  
 __soft skills__ _n_  
 __soft-pedal__ _v_ _informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
-__soft-spoken__ _adj_ :two::hammer:  
+__soft-spoken__ _adj_ :three::hammer:  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
@@ -15198,7 +15204,7 @@ __soldier__ _v_ :two::hammer: (soldiers, soldiered)
 __sole<sup>1</sup>__ _n_  
 __sole<sup>2</sup>__ _v_  
 __sole<sup>3</sup>__ _adj_ _Its sole responsibility._  
-__solely__ _adv_  
+__solely__ _adv_ :two::hammer:  
 __solemn__ _adj_ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanbase._  
@@ -15240,7 +15246,7 @@ __sordid__ _adj_
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :three::hammer:  
 __sorghum__  
-__sorority__ _n_ :three: /səˈrɒrɪtɪ/ [:scroll: C16: from Medieval Latin _sorōritās_, from Latin _soror_ sister] (Education) _chiefly US_ A social club or society for university women. _A member of Zeta Tau Alpha sorority._  
+__sorority__ _n_ :four: /səˈrɒrɪtɪ/ [:scroll: C16: from Medieval Latin _sorōritās_, from Latin _soror_ sister] (Education) _chiefly US_ A social club or society for university women. _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrow__ _v_ (sorrowed)  
 __sorrowful__ _adj_ Very sad.  
@@ -15250,6 +15256,7 @@ __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ri
 __sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of Earthmen, that they were welcome to live._  
 __sot__ _n_ :two::hammer: _A surly sot._  
 __sotto voce__  
+__soubriquet__ _n_  
 __sought-after__ _adj_ :three: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul__ _n_ :mega:  
 __sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
@@ -15299,11 +15306,12 @@ __sparred__ _v_
 __spars__ _n_  
 __spat__ _n_ :seven::hammer: _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :eight: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
+__spatiotemporal__ _adj_  
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
 __spd__  
 __speak out__ _phr v_ :two::hammer: (spoke out)  
-__speak up__ _v_ :two::hammer:  
+__speak up__ _v_ :three::hammer:  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _distaff side_).  

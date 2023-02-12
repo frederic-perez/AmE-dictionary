@@ -1,18 +1,3 @@
-__snippy__  
-__snoring__  
-__snorkel__ _v intr_  
-__snort__ _v_  
-__snuggery__ _n_ A small secluded room. _Syn_ cubby, cubbyhole  
-__soapbox__ _n_  
-__sobering__ _adj_ :two: Tending to make sober or more serious: _the news had a sobering effect._  
-__sodding__  
-__sodium amytal__  
-__soft-spoken__ _adj_  
-__solely__ _adv_  
-__sorority__ _n_  
-__soubriquet__ _n_  
-__spatiotemporal__ _adj_  
-__speak up__  
 __specialty__ _n_  
 __spectable__ _n_ :two::mega::hammer:  
 __spectra__ _n pl_  
