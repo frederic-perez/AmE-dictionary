@@ -1,5 +1,6 @@
 __acquiesce__ _v_ /ak-wee-ESS/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with in or to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._  
 __adapt__ _v_ /uh-DAPT/  
+__alphabetize__ _v tr_ :dart: __1__ To arrange in alphabetical order. __2__ To supply with an alphabet.  
 __arboretum__ _n_  
 __armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
 __backhander__ _n_ /ˈbækˌhændə/  
@@ -9,11 +10,16 @@ __bemoan__ _v_
 __bequest__ _v_  
 __besotted__ _adj_ /bih-SAH-tud/ Loving someone or something so much that you cannot think clearly. _He was so besotted with his classmate that he began to make errors in his work._  
 __bibliognost__ _n_  
+__cat-and-mouse__ _adj_  
 __catcall__ _n_ A shrill sound or raucous shout expressing disapproval at a theater, meeting, etc.  
+__chuckle__ _v intr_ __1__ To laugh quietly or to oneself.  
 __churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
+__coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __cock-a-doodle-doo__  
 __cogent__ _adj_  
+__colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
+__crack pipe__ _n_  
 __crowd<sup>1</sup>__ _n_  
 __crowd<sup>2</sup>__ _v intr_ __1__ To gather together in a limited space: _The children crowded around the TV._ __2__ :dart: To move forward by pressing or shoving: _A bevy of reporters crowded toward the candidate._  
 __crowd<sup>3</sup>__ _v tr_  
@@ -23,21 +29,28 @@ __diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist th
 __dingbat<sup>1</sup>__ _n_ /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
 __dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
 __drupe__ _n_  
+__dubious__ _adj_  
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
+__epitome__  
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
+__flub__ _n_ /flʌb/ An embarrassing mistake or blunder.  
+__fluff__ _n_ __4__ _informal_ A mistake, esp in speaking or reading lines or performing music.  
 __force majeure__ _n_  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __gambit__ _n_ /GAM-bit/ A gambit is something done or said in order to gain an advantage or to produce a desired effect. _The workers’ opening gambit in the negotiations was to demand a wage hike._  
+__hamstring__ _v_ __2__ To destroy or hinder the efficiency of; frustrate.  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
 __inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
+__knowledgeable__ _adj_ (knowledgable) Possessing or showing knowledge or intelligence; perceptive and well-informed. _Every artist should be as knowledgeable as possible about the business side of things._  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
+__lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
 __mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
@@ -201,6 +214,7 @@ __off-the-shelf__
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
+__offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
 __okapi__ _n_  
 __Oktoberfest__ _n_  
@@ -302,6 +316,7 @@ __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _Th
 __pansexual__  
 __pantomime__ _v_  
 __paper lantern__ _n_ :camera:  
+__papules__ _n pl_ Firm bumps on the skin.  
 __paradigmatic__ _adj_ _A paradigmatic example._  
 __paradoxical__ _adj_ :two::hammer:  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
@@ -320,6 +335,7 @@ __paroxysm__ _n_
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parterre__ _n_ _A rose parterre._  
 __partial__ _adj_ _Partial kitchen._  
+__particulate matter__ _n_ Material suspended in the air in the form of minute solid particles or liquid droplets, especially when considered as an atmospheric pollutant.  
 __partridge__ _n_  
 __party favor__ _n_ Souvenir consisting of a small gift given to a guest at a party.  
 __partygoer__ _n_  
@@ -619,6 +635,7 @@ __realistic__
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
 __recall__ _v_  
+__recap__ _v tr_ To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
 __recipe__ _n_ :m: _Recipe to success._  
 __recitation__ _n_  
@@ -647,6 +664,7 @@ __refurbishment__
 __refuse__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regatta__ _n_ :three::hammer:  
 __regiment__ _n_ _Several regiments of soldiers._  
+__regolith__ _n_ The layer of loose rock resting on bedrock, constituting the surface of most land. Also called _mantle rock_.  
 __rehabilitation__ _n_  
 __reindeer__ _n pl_ :two::hammer:  
 __reinstate__ _v_  
@@ -829,9 +847,9 @@ __scoot__ _v intr_ To move or go suddenly and speedily; hurry.
 __Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
-__scrap__ _v_  
+__scramble__ _v_  
 __scrap<sup>1</sup>__ _n_  
-__scrap<sup>2</sup>__ _v tr_ _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
+__scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
 __scratching__ _n_  
@@ -900,6 +918,7 @@ __sheared__ _adj_ _Sheared mink._
 __shearing__ _n_ _Sheep shearing._  
 __shearling__ _n_ _Luxurious shearlings._  
 __sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time in a month that a predator had managed to tear through the sheepcotes wire._  
+__sheepskin__ _n_  
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
@@ -971,6 +990,7 @@ __sleepover__ _n_
 __sleuth__ _n_ :two::hammer:  
 __slice__ _n_ :two::hammer: _A free plain slice of cheesecake._ _A taste of a very diverse slice of East of England life._  
 __slick__ _adj_ :two::hammer: _A natural water slide eroded into slick rock._ _Slick dance arrangements._  
+__slide deck__ _n_ :dart: A collection of slides used as visual aids during a presentation.  
 __slider__ _n_ _Enjoy Asian inspired sliders, salads amd more._  
 __slither__ _v_ _I have started slithering out of bed to deal with anxiety in the morning._  
 __slithering__ _adj_  
@@ -1253,6 +1273,7 @@ __talented__ _adj_
 __tamarind__  
 __tandem__ _n_  
 __tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
+__tank__ _v intr_ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _Google’s value tanked by as much as $100 billion because of the two flubs._  
 __tankard__ _n_  
 __tankinis__ _n_  
 __tanner__ _n_  

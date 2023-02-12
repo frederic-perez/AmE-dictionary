@@ -146,7 +146,7 @@ __PCP__ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_
 __PCR__ Polymerase chain reaction.  
 __PDA__ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
 __PE__ Physical education. _There were a lot of students in there ready for a PE class._  
-__PM__ Particulate matter. Small particles in the air, containing a variety of components.  
+__PM__ :two: Particulate matter. Small particles in the air, containing a variety of components.  
 __PMS__ :two: Premenstrual syndrome.  
 __PO__ Parole officer.  
 __pop__ Popular. _Pop items like lettuce wraps earn gourmet status here._  
