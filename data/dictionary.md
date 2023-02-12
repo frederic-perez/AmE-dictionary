@@ -150,7 +150,7 @@ __acolyte__ _n_ :six::hammer: (acolytes)
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
-__acquiesce__ _v tr_ :six: /ak-wee-es/ To agree to something or to accept something, although you do not want to.  
+__acquiesce__ _v intr_ :seven: /ak-wee-ESS/ /ak-wee-es/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with _in_ or _to_. To agree to something or to accept something, although you do not want to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._  
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
@@ -187,6 +187,7 @@ __adage__ _n_ :four::hammer: _When greed takes over, caution departs, a basis fo
 __Adam’s apple__ _n_ :two: The slight projection at the front of the throat formed by the largest cartilage of the larynx, usually more prominent in men than in women.  
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
+__adapt__ _v_ /uh-DAPT/  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
 __added value__ _n_ :two::hammer:  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
@@ -435,6 +436,7 @@ __aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indi
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :four::hammer:  
+__alphabetize__ _v tr_ :dart: __1__ To arrange in alphabetical order. __2__ To supply with an alphabet.  
 __alpine slide__ _n_ :two::hammer:  
 __alpine__ _n_ :three::hammer:  
 __also-ran__ _n_ _To become an also-ran._  
@@ -712,7 +714,7 @@ __Arapahoe__ _n_ :two::hammer:
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__ _n_ :eight: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
+__arboretum__ _n_ :nine: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
 __arboriculture__ _n_  
 __arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._  
 __arcade game__  
@@ -754,6 +756,7 @@ __arm bands__ _n_ :es: manguitos
 __armageddon__  
 __armagnac__  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
+__armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
 __armistice__ _n_ :three::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
 __armory__ _n_ :three::hammer: _His armory of weapons._  
@@ -1036,6 +1039,7 @@ __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, es
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__ _n_  
 __backfire__ _v_  
+__backhander__ _n_ /ˈbækˌhændə/  
 __backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
 __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
@@ -1144,6 +1148,7 @@ __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._
 __banger__ _n_ __1__ _British slang_ A sausage. _Fish and chips, pies and bangers._  
 __bangle__ _n_  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
+__banhammer__  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ :three::hammer: _Polished mahogany banisters._  
 __banjax__ _v tr_ _informal US_ To ruin or destroy, often as a result of incompetence.  
@@ -1276,6 +1281,7 @@ __bearing<sup>2</sup>__ _adj_
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
+__beatitude__ _n_ Supreme blessedness or happiness. _Syn_ blessedness, beatification  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beauteous__ _adj_ Beautiful, especially to the sight.  
 __beaver__ _n_  
@@ -1386,7 +1392,7 @@ __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstand
 __beltway__ _n_ :dart:  
 __belvedere__ _n_ :five::hammer: [:scroll: From Italian, beautiful view] _Towers with belvederes and balconies._  
 __belying__ _v_  
-__bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
+__bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something.  
 __bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
 __bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
@@ -1408,7 +1414,7 @@ __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._
 __bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. _A collection of 9,000 artworks bequeathed to Glasgow by Sir William Burrell._ :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
 __bequest__ _n_ :nine::m: /bɪˈkwɛst/ __1__ (Law) The act of giving or leaving personal property by a will. __2__ Something that is bequeathed; a legacy. _Syn_ legacy, gift, settlement, heritage, trust, endowment, estate, inheritance, dower, bestowal _Bequests to religious institutions._ _A dark bequest of Nazism._  
-__berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
+__berate__ _v_ :nine::m: /bɪˈreɪt/ Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __bereavement__ _n_ :eight: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
@@ -1428,7 +1434,7 @@ __beset__ _v_ :nine::m: __1__ Annoy continually or chronically. _Suyn_ chevvy, c
 __besmeared__ _v_  
 __besmirch__ _v_ :seven: /bih-SMERCH/ /bɪˈsmɜrtʃ/ (besmirched, besmirching) Charge falsely or with malicious intent; attack the good name and reputation of someone. To stain; sully: _a reputation that was besmirched by slander._ _Syn_ asperse, calumniate, defame, slander, denigrate, sully, smear _She denied everything the tabloids wrote about her, stating that they were only trying to besmirch her reputation._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
-__besotted__ _adj_  
+__besotted__ _adj_ :two: /bih-SAH-tud/ Loving someone or something so much that you cannot think clearly. _He was so besotted with his classmate that he began to make errors in his work._  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: /bih-SPOHK/ Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
@@ -1461,6 +1467,7 @@ __bezel__ _n_ __4__ The frame around a display screen.
 __biathlon__ _n_ __1__ An athletic contest in which cross-country skiers carrying rifles shoot at targets along a course. __2__ An athletic contest comprising any two consecutive events, as running and cycling.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
+__bibliognost__ _n_  
 __bibliophagist__ _n_ /bib-lee-AH-fuh-jist/ [:scroll: From Greek biblio- (book) + -phage (one who eats)] One who loves to read books; a bookworm.  
 __bibliophile__ _n_  
 __bibliopole__ _n_ A dealer in rare books.  
@@ -2647,7 +2654,7 @@ __casual__ _adj_ _He put on casual clothes._
 __casualty__ _n_ :two::hammer:  
 __casuist__ _n_ /KAZH-oo-ist/ One who employs deceptive or excessively subtle reasoning, especially on moral issues.  
 __cat__ _n informal_  
-__cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
+__cat-and-mouse__ _adj_ :two::hammer: _A psychological cat-and-mouse thriller._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
 __catacomb__ _n_ :three::hammer:  
@@ -2663,7 +2670,7 @@ __cataract__ _n_ :two::hammer: :es: cataratas
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_ :two::hammer:  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
-__catcall<sup>1</sup>__ _n_ :seven::hammer: (catcalls) _A pack of men on motorbikes left a wake of catcalls._  
+__catcall<sup>1</sup>__ _n_ :eight: A shrill sound or raucous shout expressing disapproval at a theater, meeting, etc. :es: silbido _A pack of men on motorbikes left a wake of catcalls._  
 __catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
 __catch a wink__ _v_ Take a siesta. _Tom wouldn’t be the first pilot to catch some winks in a hot cockpit on alert-five._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
@@ -2985,7 +2992,7 @@ __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playf
 __chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
 __chuckholes__ _n_  
 __chuckle<sup>1</sup>__ _n_  
-__chuckle<sup>2</sup>__ _v_ :three::hammer: (chuckled)  
+__chuckle<sup>2</sup>__ _v intr_ :four: __1__ To laugh quietly or to oneself.  
 __chucklers__  
 __chuff__ _v_ :two: To produce or move with noisy puffing or explosive sounds. _Trains chuffing._  
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  

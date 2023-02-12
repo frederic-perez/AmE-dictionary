@@ -1,18 +1,3 @@
-__acquiesce__ _v_ /ak-wee-ESS/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with in or to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._  
-__adapt__ _v_ /uh-DAPT/  
-__alphabetize__ _v tr_ :dart: __1__ To arrange in alphabetical order. __2__ To supply with an alphabet.  
-__arboretum__ _n_  
-__armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
-__backhander__ _n_ /ˈbækˌhændə/  
-__banhammer__  
-__beatitude__ _n_ Supreme blessedness or happiness. _Syn_ blessedness, beatification  
-__bemoan__ _v_  
-__bequest__ _v_  
-__besotted__ _adj_ /bih-SAH-tud/ Loving someone or something so much that you cannot think clearly. _He was so besotted with his classmate that he began to make errors in his work._  
-__bibliognost__ _n_  
-__cat-and-mouse__ _adj_  
-__catcall__ _n_ A shrill sound or raucous shout expressing disapproval at a theater, meeting, etc.  
-__chuckle__ _v intr_ __1__ To laugh quietly or to oneself.  
 __churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
 __coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
