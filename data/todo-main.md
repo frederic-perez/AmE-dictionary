@@ -1,11 +1,15 @@
 __acquiesce__ _v_ /ak-wee-ESS/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with in or to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._  
 __adapt__ _v_ /uh-DAPT/  
+__arboretum__ _n_  
 __armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
+__backhander__ _n_ /ˈbækˌhændə/  
 __banhammer__  
 __beatitude__ _n_ Supreme blessedness or happiness. _Syn_ blessedness, beatification  
 __bemoan__ _v_  
 __bequest__ _v_  
+__besotted__ _adj_ /bih-SAH-tud/ Loving someone or something so much that you cannot think clearly. _He was so besotted with his classmate that he began to make errors in his work._  
 __bibliognost__ _n_  
+__catcall__ _n_ A shrill sound or raucous shout expressing disapproval at a theater, meeting, etc.  
 __churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __cock-a-doodle-doo__  
@@ -23,10 +27,13 @@ __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoer
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
 __force majeure__ _n_  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
+__gambit__ _n_ /GAM-bit/ A gambit is something done or said in order to gain an advantage or to produce a desired effect. _The workers’ opening gambit in the negotiations was to demand a wage hike._  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
+__ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
+__inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
@@ -472,6 +479,7 @@ __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._
 __power-cycle__ _v_  
 __powermark__ _n_  
 __prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
+__preceptor__ _n_  
 __precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
 __predate__ _v_ _This standard predates the emergence of smartphones._  
@@ -569,6 +577,7 @@ __qualify__ _v_
 __qualm__ _v_  
 __quarantine__ _n_ :mega:  
 __quench__ _v_ :two::hammer:  
+__querulous__ _adj_ /ˈkwɛr ə ləs, ˈkwɛr yə-/  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
 __quilling__ _n_ /kwĭl′ĭng/ The art or craft of making decorative designs out of thin strips of rolled paper.  
@@ -778,6 +787,7 @@ __sashimi__ _n_
 __sassy__  
 __sate__ _v_ _Sate your appetite._  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
+__satisfice__ _v_  
 __sauerkraut__ _n_  
 __saunter<sup>1</sup>__ _v_  
 __saunter<sup>2</sup>__ _n_  
@@ -897,6 +907,7 @@ __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usu
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shoe leather__ _n_  
 __shoeshine__ _n_  
+__shogunate__ _n_ A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship  
 __shoot out__ _n_ :two::hammer:  
 __shootie__ _n_ /ˈʃuːtɪ/ A fashionable shoe that covers the ankle.  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
@@ -1300,6 +1311,7 @@ __thalis__
 __thaw__ _v_ _Let the meat thaw out and simmer._  
 __The Crown__ _n_  
 __theatregoer__ _n_  
+__thereabout__ _adv_  
 __thicket__ _n_  
 __third rail__ _n_ /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
@@ -1531,7 +1543,7 @@ __vamoose__ _v_ /vuh-MOOSS/ Vamoose is an informal word that means “to depart 
 __vampire bat__ _n_  
 __van__ _n_  
 __vantage point__  
-__vapid__ _adj_ /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
+__vapid__ _adj_ :two: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_  
 __vast__ _adj_ :two::hammer: _The vast array of resources._  
