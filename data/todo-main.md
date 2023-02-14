@@ -17,12 +17,15 @@ __drupe__ _n_
 __dubious__ _adj_  
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
 __epitome__  
+__Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
+__firedrake__ _n_ A fire-breathing dragon of Germanic mythology. _Syn_ dragon  
 __flub__ _n_ /flʌb/ An embarrassing mistake or blunder.  
 __fluff__ _n_ __4__ _informal_ A mistake, esp in speaking or reading lines or performing music.  
 __force majeure__ _n_  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __gambit__ _n_ /GAM-bit/ A gambit is something done or said in order to gain an advantage or to produce a desired effect. _The workers’ opening gambit in the negotiations was to demand a wage hike._  
+__gridiron__ _n_  
 __hamstring__ _v_ __2__ To destroy or hinder the efficiency of; frustrate.  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
@@ -31,12 +34,16 @@ __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unf
 __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
 __inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
 __knowledgeable__ _adj_ (knowledgable) Possessing or showing knowledge or intelligence; perceptive and well-informed. _Every artist should be as knowledgeable as possible about the business side of things._  
+__lambent__ _adj_  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
 __lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
+__magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
 __mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
+__middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
+__milium__ _n_ A small, white or yellowish cystlike mass just below the surface of the skin, caused by retention of the secretion of a sebaceous gland. _Syn_ whitehead _The soap promised to eradicate milia by thoroughly cleansing the skin and unclogging pores._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
 __monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
@@ -149,6 +156,7 @@ __no-nonsense__ _adj_ _A no-nonsense approach._
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
 __Nomex__ _n_  
+__nomophobia__ _n_  
 __nonplus__ _n, v_  
 __Nordic jumps__ _n_  
 __nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especially as a seasoning or as a wrapper for sushi. _Nori crusted tuna._  
@@ -446,6 +454,7 @@ __pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to 
 __pocketbook__  
 __pod__ _n_ _Pea pod._  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
+__pogonip__ _n_ A dense winter fog containing ice particles. _Syn_ ice fog  
 __poignant__ _adj_  
 __polecats__ _n_  
 __police academy__  
@@ -608,6 +617,7 @@ __rapture__ _v_
 __rash__ _adj_ /RASH/  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashomon_ (based on Ryunosuke Akutagawa’s 1922 short story “In a Grove”) which showed a crime described by different people in different ways] Relating to differing accounts or subjective interpretations of an event.  
+__rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used of birds. Given to scratching the ground for food, as chickens. __2__ Adapted for scratching, as a bird’s foot.  
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
 __rationalize__ _v_  
@@ -1144,6 +1154,7 @@ __stope__
 __stopover__ _n_ :three::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
 __stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle._  
 __storefront__ _n_ :two::hammer:  
+__storge__ _n_ /ˈstɔːɡɪ/ Natural or instinctual affection, as of a parent for a child.  
 __storm<sup>1</sup>__ _n_ _A storm of dishes._  
 __storm<sup>2</sup>__ _v_ _The U.S. women also stormed the 1996 Olympics._  
 __storyboard__ _n_ :pencil2:  
@@ -1213,6 +1224,7 @@ __sundry<sup>1</sup>__ _adj_
 __sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __super-duper__  
+__superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __supercalifragilisticexpialidocious__ _adj_ Used as a nonsense word by children to express approval or to represent the longest word in English.  
 __supercilious__  
 __superintendent__  
