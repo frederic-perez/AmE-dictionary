@@ -15326,7 +15326,7 @@ __speargun__
 __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
-__specialty__ _n_ :three::hammer: _Specialty doctor._  
+__specialty__ _n_ :four::hammer: _Specialty doctor._  
 __specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __species__ _n_ _It is a protected species._  
 __specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
@@ -15338,13 +15338,16 @@ __specious__ _adj_ :four: /SPEE-shuss/ __1__ Having deceptive attraction or allu
 __speck__ _n_ :two::hammer: _A speck of blood._  
 __speckled__ _v_  
 __specs__ _n_ :two: Spectacles, glasses.  
+__spectacle__ _n_ :two::mega::hammer:  
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
 __spectacular__  
 __spectate__ _v intr_ To be present as a spectator (as at a sports event). _He resumed his spectating._  
+__spectra__ _n pl_  
 __speculate__ _v_ :two: /SPEK-yuh-layt/ __1__ In general contexts, _speculate_ means “to form ideas or theories about something usually when there are many things not known about it.” _Scientists speculate that the newly discovered exoplanet could contain liquid water._ __2__ In contexts relating to business or finance, it means “to invest money in ways that could produce a large profit but that also involve a lot of risk.” _Their research explores the implications of so many people speculating on the stock market in the years leading up to the Great Depression._  
 __speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
 __Sped case__  
 __speechless__ _adj_  
+__speed bag__ _n_  
 __speed demon__  
 __speed-dial__ _v_  
 __spell<sup>1</sup>__ _v_  
@@ -15383,9 +15386,12 @@ __spinning__ _n_ (Textiles)
 __spinouts__  
 __spinster__ _n_ :two::hammer:  
 __spiny lobster__ _n_ :camera:  
-__spiral__ _v_  
+__spiral binder__  
+__spiral<sup>1</sup>__ _n_  
+__spiral<sup>2</sup>__ _v_  
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
+__spirit stove__ _n_ A stove that burns a volatile liquid fuel such as alcohol. _We had a small spirit stove._  
 __spite__ _n_ :four::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
 __spiteful__ _adj_ :three: Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive  
 __spitting image__  
@@ -15397,7 +15403,7 @@ __spleen__ _n_ _Interned-stoked spleen._
 __splendid__  
 __splendor__  
 __splenetic__ _adj_ Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
-__spliced__ _v_  
+__splice__ _v_ :two::hammer:  
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
 __split<sup>1</sup>__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
@@ -15430,6 +15436,7 @@ __spool tables__
 __spool__ _n_  
 __spoonerism__ _n_  
 __spoonful__ _n_ :es: cucharada  
+__sporadic__ _adj_  
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__ _v_ :two::hammer: _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
@@ -15441,13 +15448,14 @@ __spotlight<sup>2</sup>__ _v_ :three::hammer:
 __spotted__ _v_  
 __spout__ _v_ :two::hammer: _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
-__sprawl__ _v_ :five::hammer: (sprawled, sprawling)  
+__sprawl__ _v_ :six::hammer: (sprawled, sprawling)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
-__spree__ _n_ :four::hammer: _A killing spree._  
+__spree<sup>1</sup>__ _n_ :four::hammer: _A killing spree._  
+__spree<sup>2</sup>__ _v_ Engage without restraint in an activity and indulge, as when shopping.  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
-__springboard__ _n_ :three::hammer:  
+__springboard__ _n_ :four::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
 __sprinkle<sup>1</sup>__ _n_ :three: __2__ A light rainfall.  
@@ -15464,7 +15472,7 @@ __spruce<sup>2</sup>__ _v_
 __spruce<sup>3</sup>__ _adj_  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
-__spud__ _n_ __1__ _informal_ A potato. _There’s nothing quite like a hot spud covered in butter._ __2__ A sharp spadelike tool used for rooting or digging out weeds.  
+__spud__ _n_ :two: __1__ _informal_ A potato. _There’s nothing quite like a hot spud covered in butter._ __2__ A sharp spadelike tool used for rooting or digging out weeds.  
 __spun sugar__ _n_ a fluffy confection made from threads of hot boiled sugar. _Syn_ candyfloss, cotton candy _A landscape made of spun sugar and painted pastry._  
 __spun__ _v_ :pencil2: (see homespun)  
 __spunk__  
@@ -15531,6 +15539,7 @@ __sriracha__ _n_ A spicy condiment made with red chilies, sugar, salt, garlic, a
 __St. Bernard__  
 __St. Patrick’s Day__ _n_  
 __stab__ _n_ :two::hammer:  
+__stabby__ _adj_  
 __stable condition__  
 __stable__ _n_ :two::hammer: _Pam built up a small stable of local writers._  
 __stadimeter__ _n_  
@@ -15570,7 +15579,7 @@ __stallion__
 __stalward__  
 __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stalwart<sup>2</sup>__ _n_  
-__stamina__ _n_ :three::hammer:  
+__stamina__ _n_ :four::mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
 __stammer<sup>2</sup>__ _v_ :two: (stammered) To speak with involuntary pauses or repetitions.  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  

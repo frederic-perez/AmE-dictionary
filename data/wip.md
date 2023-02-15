@@ -1,18 +1,3 @@
-__specialty__ _n_  
-__spectable__ _n_ :two::mega::hammer:  
-__spectra__ _n pl_  
-__speed bag__ _n_  
-__spiral binder__  
-__spiral__ _n_  
-__spirit stove__ _n_ _We had a small spirit stove._  
-__splicing__ _v_  
-__sporadic__ _adj_  
-__sprawl__ _v_  
-__spree__ _v_ Engage without restraint in an activity and indulge, as when shopping.  
-__springboard__ _n_  
-__spud__ _n_ __1__ _informal_ A potato.  
-__stabby__ _adj_  
-__stamina__ _n_ :mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stampede__  
 __stanchion__  
 __stark__ _adj_ __1__ Clearly distinguished or delineated: _a stark contrast._  
