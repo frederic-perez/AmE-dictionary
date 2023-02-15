@@ -1,18 +1,3 @@
-__churl__ _n_ 1 A rude person. __2__ A miserly person. __3__ A peasant.  
-__coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
-__coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
-__cock-a-doodle-doo__  
-__cogent__ _adj_  
-__colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
-__crack pipe__ _n_  
-__crowd<sup>1</sup>__ _n_  
-__crowd<sup>2</sup>__ _v intr_ __1__ To gather together in a limited space: _The children crowded around the TV._ __2__ :dart: To move forward by pressing or shoving: _A bevy of reporters crowded toward the candidate._  
-__crowd<sup>3</sup>__ _v tr_  
-__despot__ _n_ /DESS-putt/  
-__didactic__ _adj_ Intended to instruct. _Syn_ didactical  
-__diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist thinned the paint to a pale yellow using a diluent and a bit of white._  
-__dingbat<sup>1</sup>__ _n_ /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
-__dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
 __drupe__ _n_  
 __dubious__ _adj_  
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  

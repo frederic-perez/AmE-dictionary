@@ -3004,7 +3004,7 @@ __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick 
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
 __chumps__ _n_  
 __chunk__ _n_ _Nine chunks of cheese._  
-__churl__ _n_ :two: A rude, boorish person. _Syn_ boor, barbarian, peasant _He is a drunken, brawling, perilous churl, as you may find to your cost._  
+__churl__ _n_ :three: __1__ A rude, boorish person. _Syn_ boor, barbarian _He is a drunken, brawling, perilous churl, as you may find to your cost._ __2__ A miserly person. __3__ A peasant.  
 __churlish__ _adj_  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
@@ -3214,6 +3214,8 @@ __co-opted__ _v_
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
 __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
+__coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
+__coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __coalesce__ _v_ :pencil2::six: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
@@ -3232,6 +3234,7 @@ __cobbler__ _n_ :two::hammer:
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __Coca-Cola pork loin__ _n_ (recipe)  
 __cochineal__ _n_  
+__cock-a-doodle-doo__  
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockcrow__  
 __cockerel__  
@@ -3265,7 +3268,7 @@ __cog railroad__
 __cog railway__  
 __cog__ _n_ :eight: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
-__cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
+__cogent__ _adj_ :five: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
 __cognizant__ _adj_ :three: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
@@ -3331,6 +3334,7 @@ __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
 __colostomy bag__  
+__colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :mute:[colum~~n~~]  
 __coma__ _n_ :three::hammer: _Medically induced coma._ _Schumacher out of coma._  
@@ -3819,6 +3823,7 @@ __crab lice__ _n_
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack down__ _v_  
+__crack pipe__ _n_  
 __crack up__ _phr v_  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas enérgicas (en contra)  
@@ -3964,6 +3969,9 @@ __crouch<sup>1</sup>__ _v_ :two::hammer:
 __crouch<sup>2</sup>__ _n_  
 __crow__ _v_ :four::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._ _He proclaimed his intention like a cock crowing._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
+__crowd<sup>1</sup>__ _n_  
+__crowd<sup>2</sup>__ _v intr_ __1__ To gather together in a limited space: _The children crowded around the TV._ __2__ :dart: To move forward by pressing or shoving: _A bevy of reporters crowded toward the candidate._  
+__crowd<sup>3</sup>__ _v tr_  
 __crowdsourcing__ _n_  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
@@ -4484,6 +4492,7 @@ __despise__ _v_
 __despoil__ _v_ :three::hammer: (despoiled, despoiling)  
 __despondency__ _n_ :two: Depression of spirits from loss of hope, confidence, or courage; dejection. _Syn_ despondence, disconsolateness _He slipped through all the grades of despondency until he reached a bottom of absolute gloom._  
 __despondent__ _adj_ :eight: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
+__despot__ _n_ /DESS-putt/  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
 __destitute__ _adj_ :seven::astonished: In great need of food, shelter etc. Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._ _They were left destitute when he died._ :es: indigente _Destitute peasants._  
@@ -4545,6 +4554,7 @@ __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._
 __Dickensian__  
 __dictate__ _v_  
 __diction__ _n_ :five::hammer: _The priest diction._  
+__didactic__ _adj_ Intended to instruct. _Syn_ didactical  
 __diddle-shit__  
 __diddle-squat__  
 __die down__ _phr v_ To lose strength; subside: _The winds died down._  
@@ -4575,6 +4585,7 @@ __diligent__ _adj_ :two::dart: Characterized by steady, earnest, and energetic e
 __dill__ _n_ :two::hammer: _A dill pickle._  
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one’s feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
+__diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist thinned the paint to a pale yellow using a diluent and a bit of white._  
 __dilutive__  
 __dim sum__ _n_ /ˈdɪm ˈsʌm/  
 __dim<sup>1</sup>__ _n_ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
@@ -4593,7 +4604,8 @@ __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an
 __dine__ _v_  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v tr_ :five::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._ _Dinged aircraft._  
-__dingbat__ _n_  
+__dingbat<sup>1</sup>__ _n_ :two: /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
+__dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
 __dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. _Rubber dinghy and fishing safaris._  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
 __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
