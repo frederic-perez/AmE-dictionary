@@ -1,9 +1,14 @@
+__anthropic__ _adj_  
+__bait and switch__ _n_  
+__botch__ _v_ _McDonald’s is getting heat for its AI voicebots completely botching drive-through orders._  
+__breakout__ _adj_  
 __drupe__ _n_  
 __dubious__ _adj_  
 __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
 __epitome__  
 __Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
+__fib__ _v intr_  
 __firedrake__ _n_ A fire-breathing dragon of Germanic mythology. _Syn_ dragon  
 __flub__ _n_ /flʌb/ An embarrassing mistake or blunder.  
 __fluff__ _n_ __4__ _informal_ A mistake, esp in speaking or reading lines or performing music.  
@@ -26,6 +31,7 @@ __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an emba
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
 __lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
 __magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
+__mash-up__ _n_ Something created by combining elements from two or more sources.  
 __mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
 __milium__ _n_ A small, white or yellowish cystlike mass just below the surface of the skin, caused by retention of the secretion of a sebaceous gland. _Syn_ whitehead _The soap promised to eradicate milia by thoroughly cleansing the skin and unclogging pores._  
@@ -567,6 +573,7 @@ __quaff__ _v_
 __quaffing__ _v_  
 __quail<sup>1</sup>__ _n_ :three::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
+__quaint__ _adj_  
 __quake__ _v_ :two::hammer: _The trains emerge from a sea of quaking aspens._  
 __qualify__ _v_  
 __qualm__ _v_  
@@ -614,6 +621,7 @@ __raw bar__
 __realistic__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
+__recalcitrant__ _adj_  
 __recall__ _v_  
 __recap__ _v tr_ To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
@@ -666,6 +674,7 @@ __repeat__ _adj_ :astonished: Of, relating to, or being something that repeats o
 __repercussion__ _n_  
 __repertoire__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
+__reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
 __reservoir computing__ _n_  
 __resonate__ _v_  
@@ -823,7 +832,7 @@ __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. 
 __scion__ _n_  
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
-__scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
+__scoot__ _v intr_ :two: To move or go suddenly and speedily; hurry.  
 __Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
@@ -1154,7 +1163,7 @@ __stranglehold__ _n_
 __strapper__ _n_ A powerfully built, robust person. _Syn_ bruiser, bull, Samson _Grandmother described everyone in larger-than-life terms. Even scrawny Bill from down the block was “a regular strapper.”_  
 __streamside__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
-__strengthen__ _v_  
+__strengthen__ _v_ :two::hammer:  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
@@ -1538,6 +1547,7 @@ __utterly__
 __V8__ _n_ _(beverage)_  
 __vacationer__ _n_  
 __vacuous__  
+__vacuum__ _n_ __4__ A vacuum cleaner.  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valence__ _n_  
 __valet__ _n_  
