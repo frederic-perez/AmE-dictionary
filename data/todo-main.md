@@ -1,18 +1,3 @@
-__anthropic__ _adj_  
-__bait and switch__ _n_  
-__botch__ _v_ _McDonald’s is getting heat for its AI voicebots completely botching drive-through orders._  
-__breakout__ _adj_  
-__drupe__ _n_  
-__dubious__ _adj_  
-__endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
-__epitome__  
-__Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
-__eruct__ _v_ /ɪˈrʌkt/ (eructate)  
-__fib__ _v intr_  
-__firedrake__ _n_ A fire-breathing dragon of Germanic mythology. _Syn_ dragon  
-__flub__ _n_ /flʌb/ An embarrassing mistake or blunder.  
-__fluff__ _n_ __4__ _informal_ A mistake, esp in speaking or reading lines or performing music.  
-__force majeure__ _n_  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __gambit__ _n_ /GAM-bit/ A gambit is something done or said in order to gain an advantage or to produce a desired effect. _The workers’ opening gambit in the negotiations was to demand a wage hike._  
 __gridiron__ _n_  

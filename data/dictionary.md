@@ -599,6 +599,7 @@ __antenatal__
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
+__anthropic__ _adj_  
 __anthropogenic__  
 __anthropomorphic__ _adj_ /an-thruh-puh-MOR-fik/  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
@@ -1087,6 +1088,7 @@ __bail skip__
 __bailiff__ _n_ :four::pencil2::hammer: (bailiffs) :es: alguacil  
 __bailiwick__ _n_ :four::hammer:  
 __bailout__ _n_ :four::hammer:  
+__bait and switch__ _n_  
 __bait__ _v_ _A trap baited by a devil._  
 __bake in__ _v_  
 __bake sale__ _n_ A fund-raising event at which usually homemade foods (such as cakes and cookies) are sold.  
@@ -1876,6 +1878,7 @@ __bossy__ _adj_
 __bosun__ _n_ :two::hammer: _Bosun’s chairs._ _The aviation bosun._  
 __bot__ _n_  
 __botanicals__ _n_  
+__botch__ _v_ _McDonald’s is getting heat for its AI voicebots completely botching drive-through orders._  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
 __bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
 __botnet__  
@@ -1990,7 +1993,7 @@ __breakdown__ _n_ :three::hammer: _Population breakdown._ _The Postal Service do
 __breaking character__  
 __breakneck__ _adj_ :two: __1__ Dangerously fast: _a breakneck pace._ _Forcing defenses to react on the fly to a breakneck tempo._ __2__ Likely to cause an accident: _a breakneck curve._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
-__breakout<sup>2</sup>__ _adj_ :nine: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
+__breakout<sup>2</sup>__ _adj_ :nine::m: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
 __breakthrough__ _n_ :two: __4__ _Medicine_ An infection, disease, disorder, or condition that occurs in an individual despite their having received a vaccine, medication, or treatment: _Covid breakthroughs are usually less severe than infections in unvaccinated people, indicating that the vaccine is still doing its job of combating the virus._  
 __breakup__ _n_ :three: The termination or disintegration of a relationship (between persons or nations). _Sharing breakup stories._  
 __breakwater__ _n_ :three::hammer: :es: rompeolas  
@@ -5124,6 +5127,7 @@ __drum__ _v_
 __drumbeat__ _n_ _Their drumbeat of criticism._  
 __drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
 __drumstick__ _n_ :astonished: __1__ A stick for beating a drum. __2__ The meaty leg of a chicken, turkey, or other fowl.  
+__drupe__ _n_  
 __druthers__ _n informal_ :two: /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
 __dry age__ _v_  
 __dry goods__ _n pl_ Textiles, clothing, and related articles of trade. Also called _soft goods._ _Dry goods store._  
@@ -5136,7 +5140,7 @@ __drygoods__ _n_
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __dub__ _v_ (dubbed)  
-__dubious__ _adj_ :five::hammer:  
+__dubious__ _adj_ :six::hammer:  
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
 __duchy__ _n_ :three::hammer:  
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
@@ -5493,6 +5497,7 @@ __endocrine__ _n_ :mega:
 __endometriosis__ _n_ The presence of endometrium in areas other than the lining of the uterus, as on the ovaries, resulting in premenstrual pain.  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
 __endorse__ _v_ Give support or one’s approval to. _Syn_ second, back _Before I can move forward with a project of this magnitude, my boss must first endorse it._  
+__endothermic__ _adj_ Characterized by or causing the absorption of heat; endoergic. _Syn_ heat-absorbing, endothermal  
 __endow__ _v_ :four::hammer: (endowed)  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
@@ -5618,10 +5623,12 @@ __equivocation__ _n_
 __eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
 __ermine__ _n_  
+__Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_ :four: __1__ Being a usually inferior imitation or substitute; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ __2__ Not genuine; fake.  
 __erstwhile__ _adj_ :seven::hammer:  
+__eruct__ _v_ /ɪˈrʌkt/ (eructate)  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
@@ -6097,7 +6104,7 @@ __fiancé__ _n_ A man who is engaged to be married.
 __fiancée__ _n_ A woman who is engaged to be married.  
 __fiasco__ _n_ :two::hammer:  
 __fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
-__fib<sup>2</sup>__ _v_ :two: (fibbed, fibbing) To tell a trivial and harmless lie.  
+__fib<sup>2</sup>__ _v intr_ :three: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
 __fiber__  
 __fiberglass__  
@@ -6191,6 +6198,7 @@ __fire-eater__ _n_ A belligerent grouch.
 __firebrand__  
 __firebrick__ _n_  
 __firebug__ _n_  
+__firedrake__ _n_ A fire-breathing dragon of Germanic mythology. _Syn_ dragon  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehosing__ _n_ A propaganda tactic that involves releasing a large amount of false information in a very short amount of time. Due to the resources often needed to pull off such an expansive disinformation strategy, the term firehosing is most often used to refer to the alleged actions of large organizations or governments.  
 __firehouse__ _n_ :two::hammer:  
@@ -6402,10 +6410,10 @@ __flowerpot__ _n_ _Clay flowerpot._
 __flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flown__ _v_ :two::hammer: _Fresh fish is flown in daily from all over the globe._ _The flag was flown at half mast._  
 __flowstone__ _n_ _Flowstone curtains._  
-__flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
+__flub<sup>1</sup>__ _v_ :six: /flʌb/ (flubbed) Botch or bungle (something). An embarrassing mistake or blunder. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
-__fluff__ _n_ :three::hammer: _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
+__fluff__ _n_ :four::hammer: __4__ _informal_ A mistake, esp in speaking or reading lines or performing music. _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__ _adj_ :two::hammer: _Fluffy omelets and giant salads._  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
@@ -6505,7 +6513,7 @@ __forager__ _n_ :four::hammer: (foragers)
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
 __forbear__ _v_ :two::hammer:  
 __forbearance__  
-__force majeure__ _n_ :two::hammer:  
+__force majeure__ _n_ :three::hammer:  
 __forceful__ _adj_ :two::hammer: _A forceful pitch._  
 __forcible__ _adj_ :three::hammer:  
 __fore and aft__ _adv_ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
