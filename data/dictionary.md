@@ -15597,10 +15597,11 @@ __stammer<sup>2</sup>__ _v_ :two: (stammered) To speak with involuntary pauses o
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _n_ _Additional stamp duties went into effect last year._  
 __stamped__ _v_ :two::hammer:  
+__stampede__  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __stance__ _n_ :nine: /ˈstan(t)s/ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
-__stanchion__ _n_ _He braced his hands on a stanchion._  
+__stanchion__ _n_ :two::hammer: _He braced his hands on a stanchion._  
 __stand a chance__  
 __stand strong__  
 __standard of care__ _n_  
@@ -15630,12 +15631,12 @@ __stardust__ _n_ :four::dart: __1__ A feeling or impression of romance, magic, o
 __starfish__  
 __stargazer__ _n_  
 __stargazing__  
-__stark__ _adj_ :six::hammer: _A stark reminder._  
+__stark__ _adj_ :seven: __1__ Clearly distinguished or delineated: _a stark contrast._ _A stark reminder._  
 __starlings__ _n_  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startling__ _adj_ :five: Causing surprise or fear; striking; astonishing.  
 __Stasi__  
-__stasis__ _n_ :two: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
+__stasis__ _n_ :three: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
 __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
@@ -15649,10 +15650,11 @@ __statesman__ _n_ :two::hammer: _The elder statesman of the group._
 __statesmen__ _n_ (notice, not ‘statement’)  
 __statin__ _n_ :two::hammer:  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
-__station__ _n_ _It was difficult to maintain station._  
+__station__ _n_ :two::hammer: _It was difficult to maintain station._ _We can maintain station._  
 __stationary bicycle__ _n_ A “going-nowhere” bicycle.  
 __stationary bike__  
 __stationery__  
+__statuary__ _n_  
 __stature__ _n_ __2__ An achieved level; status.  
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
@@ -15696,7 +15698,7 @@ __stein__ _n_
 __stem rust__ _n_  
 __stem-winding__ _adj_ _informal North American_ (of a speaker or speech) Entertaining and rousing. _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
-__stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
+__stem<sup>2</sup>__ _v_ :nine::m::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
 __steno pad__  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
@@ -15711,7 +15713,7 @@ __steppes__ _n_
 __stepping stone__ _n_ :two::hammer:  
 __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
 __sterling__ _n_ :four::hammer: _A sterling example._ _Sterling stories._  
-__stern__ _n_ :two::hammer:  
+__stern__ _n_ :three::hammer: _The ship’s stern._  
 __stethoscope__ _n_  
 __stew-bums__ _n_  
 __stew<sup>1</sup>__ _n_ :three::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
@@ -15736,7 +15738,7 @@ __stiffens__ _v_ _UN stiffens North Korea sanctions._
 __stiffer__ _adj_ :two::hammer: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
 __stiffness__ _n_ _Stiffness in or of the neck_ :es: tortícolis _The stiffness you feel after exercise._ :es: Las agujetas que sientes después de hacer ejercicio.  
-__stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
+__stifle__ _v tr_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ :two: Suffocating; oppressively close. _Stifling heat._ _The stifling atmosphere of the cavern._  
 __stigma__  
 __stigmatize__ _v_ :two::hammer:  
@@ -15781,7 +15783,7 @@ __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wo
 __stoking__ _n_  
 __stola__ _n_ /STOH-luh/ A long, draped robe worn by women of ancient Rome. _The traditional garment worn by women in ancient Rome was the stola; men wore the corresponding toga._  
 __stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
-__stoma__ _n_  
+__stoma__ _n_ :two::hammer:  
 __stomach__ _v_ :three::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
@@ -15861,7 +15863,7 @@ __strawhat__ _adj_ Of or relating to summer dramatic performances.
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
 __stray<sup>2</sup>__ _adj_ :seven: __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ _Stray canines._ _Stray goats._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._ _A stray word._ _Stray steeples._ _Stray friends._  
 __stray<sup>3</sup>__ _n_  
-__streak__ _n_ :two::hammer: _A cold streak._  
+__streak__ _n_ :three::hammer: _A cold streak._ _A hot streak._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _adj_ Exuding a bodily fluid in profuse amounts. _Streaming eyes._  
 __streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
@@ -15869,7 +15871,7 @@ __street name__ _n_ __1__ An alternative name that a person chooses or is given 
 __streetcar__  
 __streetwise__  
 __strength__ _n_ _They noticed the strengths of their team members._  
-__strengthen__ _v_ :two::hammer:  
+__strengthen__ _v_ :three::hammer:  
 __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament._  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stressful__ _adj_  
@@ -15885,6 +15887,7 @@ __stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _mak
 __stridence__ _n_ :two::hammer:  
 __strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
+__strike warfare__  
 __strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
 __strike<sup>2</sup>__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
 __striker__ _n_ :four::hammer: _The match was damp and wouldn’t ignite against the striker._ __4__ An enlisted person in usually intensive training for a naval technical rating. _The young striker transcribed the message._  

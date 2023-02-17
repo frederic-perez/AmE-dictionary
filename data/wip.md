@@ -1,18 +1,3 @@
-__stampede__  
-__stanchion__  
-__stark__ _adj_ __1__ Clearly distinguished or delineated: _a stark contrast._  
-__stasis__ _n_  
-__station__ _n_ _We can maintain station._  
-__statuary__ _n_  
-__stem__ _v_  
-__stern__ _n_ _The ship’s stern._  
-__stifle__ _v tr_  
-__stoma__ _n_  
-__stooped__ _v_  
-__streak__ _n_ _A hot streak._  
-__strengthen__ _v_  
-__strike warfare__  
-__stringent__ _adj_ :three::hammer: _Stringent challenges._  
 __strip__ _v_ _Data striped across different storage nodes._  
 __stud__ _n_  
 __stymie__ _v_  
