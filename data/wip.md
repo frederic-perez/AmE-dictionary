@@ -1,18 +1,3 @@
-__strip__ _v_ _Data striped across different storage nodes._  
-__stud__ _n_  
-__stymie__ _v_  
-__sub__ _n_ Subscriber.  
-__subpoena__ _v_ Put the screws to someone.  
-__subsequent__  
-__subsequently__ _adv_ Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
-__summarize__ _v_ /ˈsʌməˌraɪz/  
-__supersede__ _v tr_ /ˌsu pərˈsid/  
-__supersize__ _v_  
-__suricate__ _n_  
-__surreptiously__  
-__surveyor__ _n_  
-__sway__ _v_ _Swayed to the Dark Side._  
-__swell__ _n_  
 __swoop__ _n_  
 __sword__ _n_ :mega:  
 __sycophant__ _n_ :two::hammer:  

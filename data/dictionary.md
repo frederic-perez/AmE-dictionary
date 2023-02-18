@@ -15905,7 +15905,8 @@ __stringency__ _adj_ _Suffering from financial stringency._
 __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
-__strip__ _n_ __2__ A comic strip. _The Peanuts strips._  
+__strip<sup>1</sup>__ _n_ __2__ A comic strip. _The Peanuts strips._  
+__strip<sup>2</sup>__ _v_ _Data striped across different storage nodes._  
 __stripling__ _n_  
 __strive__ _v_ :six::hammer: _We strive for peace._  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
@@ -15933,7 +15934,7 @@ __stubby__ _adj_ :two::hammer: _Stubby fingers._
 __stucco__  
 __stuck a chord__  
 __stuck-up__  
-__stud<sup>1</sup>__ _n_ :three::hammer: _Tires with studs._  
+__stud<sup>1</sup>__ _n_ :four::hammer: _Tires with studs._  
 __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury’s studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
@@ -15964,6 +15965,7 @@ __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
+__sub__ _n_ Subscriber.  
 __sub-Saharan Africa__ _n_  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
@@ -15979,10 +15981,10 @@ __submachine gun__
 __suborn__ _v_ :three::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
-__subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
+__subpoena<sup>2</sup>__ _v_ :six::mega: (subpoenaed) Put the screws to someone.  
 __subsea__ _n_  
-__subsequent__ _adj_ :six: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
-__subsequently__ _adv_ :dart::four::hammer:  
+__subsequent__ _adj_ :seven: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
+__subsequently__ _adv_ :dart::five: Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
 __subsidiary__  
@@ -16035,6 +16037,7 @@ __sultanate__
 __sultry__ _adj_ :four::hammer: _A sultry smile._  
 __summa cum laude__ _adj, adv_ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
 __summarily__ _adv_  
+__summarize__ _v_ /ˈsʌməˌraɪz/  
 __summary<sup>1</sup>__ _n_  
 __summary<sup>2</sup>__ _adj_ :two::hammer: _Summary deaths._ _Summary killings._  
 __summations__ _n_ _Both sides made their summations._  
@@ -16068,7 +16071,8 @@ __superintendent__ _n_ :three::hammer:
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
 __supernumerary__  
 __superpooch__  
-__supersede__ _v_  
+__supersede__ _v tr_ :two::hammer: /ˌsu pərˈsid/  
+__supersize__ _v_  
 __superstorm__ _n_ :two::hammer:  
 __supervise__ _v_  
 __supine__ _adj_ Inactive, passive, or inert, especially from indolence or indifference. _Syn_ lethargic, passive, apathetic, listless _No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried._  
@@ -16094,6 +16098,7 @@ __surety__
 __surfeit__ _n_ :five::astonished: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount. _Syn_ overabundance, excess _The surfeit of goods produced caused prices to fall, hurting the economy._  
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_  
+__suricate__ _n_  
 __surliness__  
 __surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
 __surmise__ _v_ :eight::hammer: (surmised, surmising)  
@@ -16103,9 +16108,9 @@ __surname__ _n_ :two::mega::hammer:
 __surpass__ _v_  
 __surplice__ _n_ :two: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
 __surreptitious__  
-__surreptitiously__ _adj_ :three::hammer:  
+__surreptitiously__ _adv_ :four: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
 __surrogate__ _n_ :two::hammer:  
-__surveyor__  
+__surveyor__ _n_ :two::hammer:  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __susceptible__ _adj_  
 __suspend__ _v_  
@@ -16148,7 +16153,7 @@ __swathe<sup>1</sup>__ _n_
 __swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)  
 __swats__ _n_ :two::hammer:  
 __swatted__  
-__sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _He could sway a mob._ _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
+__sway<sup>1</sup>__ _v_ :nine::m: /sweɪ/ (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__ To incline or bend to one side; veer: _She swayed and put out a hand to steady herself._ _The flowers bobbled and swayed._ __3a__ To incline toward change, as in opinion or feeling: _He swayed toward trying out for the chorus._ _Swayed to the Dark Side._ __b__ To fluctuate, as in outlook. __4__ Win approval or support for. _He could sway a mob._ _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
@@ -16161,7 +16166,7 @@ __sweet water__ _n_ :two: _(uncommon)_ Fresh water.
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
 __sweeting__ _n_ A sweet apple.  
-__swell<sup>1</sup>__ _n_ :four::hammer: _The swell of people from war-torn countries._  
+__swell<sup>1</sup>__ _n_ :five::hammer: _The swell of people from war-torn countries._  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
