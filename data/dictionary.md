@@ -509,7 +509,7 @@ __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing
 __amusement park__ _n_ :three::hammer:  
 __amygdala__ _n_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
-__anachronism__  
+__anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
 __anal bleaching__ _n_  
 __analemma__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
@@ -637,6 +637,7 @@ __apartment__ _n_
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
 __Apennines__ _n pl_ :pencil2:  
+__apex__ _n_ The highest point. _Syn_ acme, vertex, peak  
 __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned. A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
@@ -1454,8 +1455,7 @@ __betray__ _v_ :three::hammer: /bɪˈtreɪ/
 __betrayal__ _n_  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
-__betrothed__ _adj_ :four: Engaged to be married.  
-__better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
+__betrothed__ _adj_ :five: Engaged to be married.  
 __betterment__  
 __bettors__  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
@@ -2491,6 +2491,7 @@ __cannibalize__ _v_
 __cannikin__ _n_  
 __cannolis__  
 __cannonball__ _n_ __3__ A dive made in a curled-up position with the arms pressing the knees against the chest. _Do a cannonball!_  
+__cannoneer__ _n_ A serviceman in the artillery. _Syn_ gunner, artilleryman  
 __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __canoeing__  
@@ -3121,7 +3122,7 @@ __clearances__ _n_
 __clearinghouse__ _n_ :two::hammer:  
 __cleat<sup>1</sup>__ _n_ :three::hammer:  
 __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get stabbed/slashed/kicked, or in any other way harmed by someone’s cleat. _Joe got cleated in soccer and it left an ugly bruise._  
-__cleave__ _v_ _The court often cleaves along predictable lines._  
+__cleave__ _v_ :two: /KLEEV/ __1__ To divide by or as if by a cutting blow. _Having lived in the backcountry for years, she always makes sure to season her firewood so it will cleave easily under her ax._ __2__ To separate into distinct parts and especially into groups having divergent views. _The court often cleaves along predictable lines._  
 __cleaver__ _n_ :four::hammer: _A butcher’s cleaver._ _Meat cleaver._  
 __cleft__  
 __clematis__ _n_ :two::hammer:  
@@ -3688,6 +3689,7 @@ __copyedit__ _v_ To correct and prepare (a manuscript, for example) for publicat
 __copyeditor__ _n_ :two: (copy editor) A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
 __copyleft__ _n_  
 __copywriter__ _n_  
+__coquetry__ _n_ /ˈkoʊ kɪ tri, koʊˈkɛ tri/ __1__ The behavior of a coquette; flirtation. __2__ A flirtatious act.  
 __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
 __cord blood__  
 __cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
@@ -3897,6 +3899,7 @@ __crepe paper bells__
 __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
 __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
+__crepuscular rays__ _n pl_  
 __crepuscular__ _adj_ /krih-PUHSS-kyuh-ler/ Crepuscular means “of, relating to, or resembling twilight.” It is also used in zoological contexts to describe creatures that are active during twilight, or to the activities of such creatures. _As evening came on, fireflies began to appear in the crepuscular gloaming._  
 __crescendo__ _v_ :two::hammer: (crescendoed)  
 __Crescent City__  
@@ -7300,7 +7303,7 @@ __gratin__ _n_ _Sweet potato gratin._
 __grating<sup>1</sup>__ _n_ :five::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __gratuity__ _n_ :two::hammer: (gratuities)  
-__graupel__ _n_ Precipitation consisting of snow pellets.  
+__graupel__ _n_ :two: Precipitation consisting of snow pellets.  
 __grave liner__ _n_ (burial vault, burial liner, grave vault) A container, formerly made of wood or brick but more often today made of metal or concrete, that encloses a coffin to help prevent a grave from sinking. _Grave liners are stored at the Travis County cemetery._  
 __grave__  
 __gravel__ _n_ _The car was parked on the gravel drive._  
@@ -8008,7 +8011,7 @@ __high-rise<sup>2</sup>__ _n_ :two::hammer: (high rise) _The building was a show
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
 __highball__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
-__highfalutin__ _adj_ :two::hammer:  
+__highfalutin__ _adj informal_ :three: /ˌhaɪfəˈluːtɪn/ (hifalutin; highfaluting) Pompous or pretentious.  
 __highlands__  
 __highlight__ _v_ :two::hammer:  
 __highly__ _adv_ _I highly recommend it._  
@@ -9986,6 +9989,7 @@ __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (
 __lymphoma__ _n_  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
+__lyrical__ _adj_ /LEER-ih-kul/ Something described as lyrical has an artistically beautiful or expressive quality, often one that is reminiscent of song.  
 __lysimeter__  
 __mac and cheese__ _n_ Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
@@ -13874,7 +13878,7 @@ __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or
 __rubble__ _n_ :two::hammer:  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __Rubenesque__ _adj_  
-__rubicund__ _adj_ Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
+__rubicund__ _adj_ :two: /ROO-bi-kuhnd/ Red or reddish. Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
 __ruble__ _n_ /ˈruːbəl/ :two: (rouble in BrE) The standard unit of money in Russia and Belarus. _A copper ruble coin._  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
@@ -15630,6 +15634,7 @@ __staph__ _n_ _informal_ Staphylococcus. _Staph infections._
 __staple__ _n_ :three::hammer: (staples) _There are staples we’ve come to expect in the American frontier novel._  
 __star 69__ _v_ _slang_ In most areas of the United States, phone companies offer \*69 service. If you miss a call, or receive one from an unknown caller, dialing \*69 on your phone will identify the last caller’s number (if possible) and give you the option to call them back. _He thought he could just hang up on me and I wouldn’t know who he was, but I star 69ed his ass._ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __star__ _v_  
+__star-crossed__ _adj_ Thwarted or opposed by the stars; ill-fated: _star-crossed lovers._  
 __starboard__ _n_  
 __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
@@ -16408,7 +16413,7 @@ __tedious__
 __tee up__ _v_  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
-__teem__ _v_  
+__teem__ _v_ :two: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeter-totter__ _n_ _Upper Northern & Western US_ A plaything consisting of a board balanced on a fulcrum; the board is ridden up and down by children at either end. _Syn_ dandle board, seesaw, teeter, teeterboard, teetertotter, tilting board  
@@ -17640,6 +17645,7 @@ __vindictive__ _adj_
 __vintner__ _n_  
 __vinyasa__ _n_ :two::hammer:  
 __viper__ _n_ :three::hammer: (vipers)  
+__virescent__ _adj_ /vuh/vy/vi-RES-uhnt/ __1__ Greenish. __2__ Turning green.  
 __viridity__ _n_ __1__ Youth; innocence; inexperience. __2__ The quality or condition of being green, especially as manifested in vegetation.  
 __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
