@@ -1,18 +1,3 @@
-__swoop__ _n_  
-__sword__ _n_ :mega:  
-__sycophant__ _n_ :two::hammer:  
-__sympathetic__  
-__synchronizity__ _n_ /ˌsɪnkrəˈnɪsɪtɪ/ __2__ An apparently meaningful coincidence in time of two or more similar or identical events that are causally unrelated.  
-__tabby__ _n_  
-__tacky__ _adj_ :two::hammer:  
-__tactful__ _adj_  
-__tactical__ _adj_ _Tactical plot._  
-__tang__ _n_ __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga  
-__tanker__ _n_  
-__tantalizing__ _adj_  
-__tape dispenser__  
-__tapeworm__ _n_  
-__tarpaulin__ _n_ :two::hammer:  
 __tedium__ _n_  
 __tenure-track__ _adj_  
 __testbed__ _n_ :two::hammer:  

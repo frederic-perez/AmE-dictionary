@@ -16200,23 +16200,24 @@ __swiveling__ _v_
 __swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don’t get yourself in a swivet._  
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: /swo͞on/ (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoop<sup>1</sup>__ _n_ :eight: (swoops) __1__ The act of swooping. _He swiftly adds a blue swoop of acrylic to his brick wall canvas._ __2__ Aswift descent.  
+__swoop<sup>1</sup>__ _n_ :nine: (swoops) __1__ The act of swooping. _He swiftly adds a blue swoop of acrylic to his brick wall canvas._ __2__ Aswift descent.  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. _Swooped down._ __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
-__sword__ _n_ :mute:[s~~w~~ord]  
+__sword__ _n_ :mega::mute:[s~~w~~ord]  
 __sybarite__ _n_ A person devoted to pleasure and luxury; a voluptuary. _Syn_ voluptuary  
-__sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
+__sycophant__ _n_ :dart::seven: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
 __syllabub__ _n_ _Syllabub of fresh fruit._  
 __syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
 __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
-__sympathetic__  
+__sympathetic__ _adj_ :two::hammer:  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __synaptogenesis__ _n_  
+__synchronizity__ _n_ /ˌsɪnkrəˈnɪsɪtɪ/ __2__ An apparently meaningful coincidence in time of two or more similar or identical events that are causally unrelated.  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
@@ -16236,7 +16237,7 @@ __T-ball__
 __T&A__  
 __tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ (tabbed, tabby)  
-__tabby__  
+__tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
 __tableau__  
@@ -16251,9 +16252,10 @@ __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ underst
 __taciturn__ _adj_ :two::hammer:  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
-__tacky__ _adj_ :seven::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ :es: cutre  
-__tactful__  
+__tacky__ _adj_ :nine::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ :es: cutre  
+__tactful__ _adj_ :two::hammer:  
 __tactfully__ _adv_ :two::hammer:  
+__tactical__ _adj_ _Tactical plot._  
 __tad__ _n informal_ :four::hammer:  
 __tadpole__ _n_  
 __tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
@@ -16307,7 +16309,7 @@ __tamp down__ _v_ :two::hammer:
 __tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
 __tan<sup>1</sup>__ _v_  
 __tan<sup>2</sup>__ _n_  
-__tang__ _n_ :four::hammer: _Dory, the little blue tang fish._  
+__tang__ _n_ :five: __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn’s Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
 __tangerine__ _n_  
 __tangle<sup>1</sup>__ _n_ (tangles)  
@@ -16315,6 +16317,7 @@ __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled i
 __tangled__  
 __tank__ _v intr_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanker truck__  
+__tanker__ _n_  
 __Tannenbaum__ _n_ (German noun) Fir tree (Christmas tree).  
 __tanner__ _n_ :three::hammer:  
 __tannery__  
@@ -16322,12 +16325,14 @@ __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the s
 __tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
 __tanning__ _n_  
 __tantalize__ _v_ (tantalizing)  
-__tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
+__tantalizing__ _adj_ :four::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap__ _v_ :nine: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tape dispenser__  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._ _Finally, the sound tapered off._  
+__tapeworm__ _n_  
 __tapioca__ _n_ :mega:  
 __taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
 __taproot__ _n_ :two::hammer: (taproots)  
@@ -16341,7 +16346,7 @@ __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor a
 __tarnation__ _n_ :two: A euphemism for damnation.  
 __tarnish__ _v_ :eight::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
-__tarpaulin__ _n_ :two: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
+__tarpaulin__ _n_ :dart::four: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
