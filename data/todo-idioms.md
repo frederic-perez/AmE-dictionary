@@ -8,6 +8,7 @@ __alarm bell__ A sudden warning or intimation of danger, risk, or ill fortune. (
 __an eye for an eye, a tooth for a tooth__ _proverb_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Bible, including in Exodus, Leviticus, and Deuteronomy. _I cannot be placated by paltry excuses of reparation! An eye for an eye, a tooth for a tooth—this I demand from all who have wronged me._  
 __arm candy__ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person they are accompanying. _Did you see the date she had with her at the movie premiere? I doubt they’re actually dating, but he was a nice piece of arm candy all the same._  
 __around the horn__ __2__ A difficult route chosen despite a simpler alternative. _If traffic on the highway is too bad, we might have to go around the horn instead._  
+__at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
 __backpedal__ To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
 __bare (one’s) teeth__ To display an angry, violent, or threatening reaction to or against something or someone, as does a dog or wolf when threatened. _I will bare my teeth to anyone who tries to take away my land._  
@@ -27,13 +28,14 @@ __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, B
 __cry (oneself) to sleep__  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __cut and dry__  
+__cut back on (something)__ To reduce or decrease something. _My doctor told me that I need to cut back on eating fried foods in order to improve my cholesterol._  
 __cut from the same cloth__  
 __dark joke__  
 __darkest hour__  
 __day and age__  
 __day in and day out__  
 __dead man walking__  
-__deep dive__ A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
+__deep dive__ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __dial up__ To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
 __ding ding ding__ :two: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
@@ -79,6 +81,7 @@ __flesh out__
 __floored__ _I am floored._  
 __fly by__  
 __fly on the wall__  
+__fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
 __food baby__  
 __food coma__  
 __food for thought__ Something to consider._ That meeting really gave me food for thought—I might invest in their company after all._  
@@ -145,6 +148,7 @@ __half-ass__ :dart::two: __1__ _v_ _rude slang_ To do something halfheartedly or
 __hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
 __hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
+__have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a trick up (one’s) sleeve__  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
@@ -316,6 +320,7 @@ __piece of shit__
 __piping hot__  
 __play ball__ :three::hammer:  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
+__Potemkin village__  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
@@ -324,6 +329,8 @@ __pull over__ _On that summer road trip, we pulled over every night to get out a
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __put (one’s) finger on (something)__  
 __put (oneself) in (someone’s) shoes__  
+__put (something) on the back burner__  
+__put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put out fires__  
 __put to the test__  
@@ -346,6 +353,7 @@ __rest on her laurels__
 __rest on one’s laurels__  
 __riddle with__  
 __riddled with__  
+__rile up__ To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” _Seeing that kind of injustice on the news always riles me up to no end._  
 __rinse, (and) repeat__ (lather, rinse, (and) repeat)  
 __rip (someone or something) to shreds__  
 __ripple effect__  
@@ -358,6 +366,7 @@ __rub elbows__
 __rub out__  
 __rubber stamp__  
 __run errands__  
+__run in circles__ :dart: To waste one’s time and energy engaging in trivial, aimless, or futile activities; to fail to make any meaningful progress in some task or activity. _I tried to get an outline drafted for my thesis, but my ideas were so jumbled in my head that I just kept running in circles._  
 __run the show__  
 __run with it__  
 __running bit__  
@@ -383,6 +392,7 @@ __simply put__
 __single out__  
 __sink in__  
 __skim through (something)__  
+__skip a beat__  
 __skip town__  
 __slay__ To succeed at something in a particularly impressive or dominant way. _She’s definitely getting the promotion after she slayed that presentation for the CEO._ _I absolutely slayed the interview; at one point, I even laid flat out on the couch on live TV!_  
 __sleep on (something)__  
@@ -499,6 +509,7 @@ __the lion’s den__
 __the meat and potatoes__  
 __the more you know__  
 __the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
+__the new black__  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
 __the nitty-gritty__  
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
