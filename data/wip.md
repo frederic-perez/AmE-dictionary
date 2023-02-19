@@ -1,18 +1,3 @@
-__tedium__ _n_  
-__tenure-track__ _adj_  
-__testbed__ _n_ :two::hammer:  
-__thang__ _n slang_  
-__thereby__  
-__thermostats__  
-__thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
-__thought-provoking__ _adj_  
-__thresh__ _v_  
-__throughput__ _n_ :m: /ˈθruːˌpʊt/ Output or production, as of a computer program, over a period of time.  
-__thrum__ _v_  
-__timeliness__ _n_  
-__timeserver__ _n_ /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network.  
-__tine__ _n_  
-__tinker__ _v_  
 __titled__ _adj_ :three::hammer:  
 __toilet bowl__ _n_ The bowl of a toilet that can be flushed with water.  
 __tormentor__  

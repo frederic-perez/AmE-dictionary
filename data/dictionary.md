@@ -16410,6 +16410,7 @@ __tearjerker__ _n_ _informal_
 __techie__ _n informal_ :two: (techies) One who studies or is highly interested or proficient in a technical field, especially electronics. _Facebook’s techie in chief._  
 __Tecnetium__  
 __tedious__  
+__tedium__ _n_  
 __tee up__ _v_  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
@@ -16470,6 +16471,7 @@ __tentative__
 __tenterhooks__  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
 __tenure__ _n_ :three::hammer:  
+__tenure-track__ _adj_  
 __tenured__  
 __tepid__ _adj_ :six::hammer:  
 __tequila poppers__  
@@ -16486,6 +16488,7 @@ __terrestrial<sup>2</sup>__ _n_
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__ _adj_ :two: Brief and to the point; effectively concise.  
 __tesseract__ _n_ (Mathematics) A cube inside another cube.  
+__testbed__ _n_ :two::hammer:  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  
 __testosterone__ _n_  
@@ -16501,7 +16504,7 @@ __textrovert__
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __thalassaemia__ _n_ An inherited form of anemia caused by faulty synthesis of hemoglobin. _Syn_ Cooley’s anaemia  
 __thane__ _v_  
-__thang__  
+__thang__ _n slang_ :two::hammer:  
 __thank-you note__ _n_  
 __thank-yous__ _n_  
 __thankless__ _adj_ Ungrateful.  
@@ -16537,10 +16540,12 @@ __theosophy__
 __there is no denying__  
 __thereabout__  
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
+__thereby__  
 __thereof__ _adv_ :two::hammer:  
 __thereto__ _adv_ _Pushed thereto by the nobles of his party._  
 __thermistor__ _n_ :two::hammer:  
 __thermos__ _n_ :two: (thermoses) A vacuum bottle or similar insulated container, used for keeping liquids hot or cold. Also called _thermos bottle_. _A thermos._  
+__thermostats__  
 __thespian<sup>1</sup>__ _adj_ :two::hammer:  
 __thespian<sup>2</sup>__ _n_  
 __thew__ _n_  
@@ -16548,6 +16553,7 @@ __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent
 __thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ _n_ :mute:[thi~~gh~~]  
+__thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
 __thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
 __thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
@@ -16574,6 +16580,7 @@ __thoroughfare__
 __thoroughly__  
 __thought leader__ _n_  
 __thought__ _n_ :mute:[thou~~gh~~t]  
+__thought-provoking__ _adj_  
 __thousandth__  
 __thrall__ _n_ :six::hammer:  
 __thrash out__  
@@ -16582,6 +16589,7 @@ __thrawn__ _adj_
 __thread the needle__  
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
 __threequel__ _n_ _There’s the original, the sequel, and the threequel._  
+__thresh__ _v_  
 __thrifty__ _adj_ :three::hammer:  
 __thrilling__ _adj_  
 __throb__ _v_ :six::hammer: (throbs, throbbing) _My head is throbbing._  
@@ -16593,6 +16601,7 @@ __throng__ _n_ :seven: A large gathering of people. _A throng of news media memb
 __throttle__ _v_ :two:: __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._ __4__ _prep_ _chiefly US_ Up to and including: _Monday through Friday._ _The meeting takes place from today through Thursday._  
 __throughfare__ _n_ Another word for thoroughfare.  
+__throughput__ _n_ :m: /ˈθruːˌpʊt/ Output or production, as of a computer program, over a period of time.  
 __throw a monkey off his back__  
 __throw down<sup>1</sup>__ _v_  
 __throw down<sup>2</sup>__ _n_  
@@ -16602,8 +16611,7 @@ __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful b
 __throwback__ _n_ :four::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_  
-__thrum__  
-__thrums__ _v_  
+__thrum__ _v_ :three::hammer:  
 __thrust<sup>1</sup>__ _v_ :two::hammer:  
 __thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
@@ -16680,10 +16688,10 @@ __time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in whi
 __timeless__ _adj_ /TYME-luss/ Not restricted to a particular time or date. _Syn_ eternal, ageless _Proverbs are statements of timeless wisdom._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__ _n_  
-__timeliness__  
+__timeliness__ _n_ :two::hammer:  
 __timely__ _adj, adv_ :nine::m: Occurring at a suitable or opportune time; well-timed. _The timely filing of his income tax return._ _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
 __timepiece__ _n_ A watch, or a clock.  
-__timeserver__ _n_ :two: One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist. A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
+__timeserver__ _n_ :three: /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network. __4__ One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist. A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
 __timetable<sup>2</sup>__ _v_  
@@ -16693,7 +16701,7 @@ __timorous__ _adj_ :three: Full of fear; timid. _Syn_ trepid, fearful
 __tin ear__ _n_ _Hillary has a political tin ear._  
 __tinderbox__  
 __tinderdry__  
-__tine__ _n_ :two::hammer: (tines)  
+__tine__ _n_ :three::hammer: (tines)  
 __tinfoil hat__  
 __tinge<sup>1</sup>__ _n_ :two::hammer:  
 __tinge<sup>2</sup>__ _v_  
@@ -16701,7 +16709,7 @@ __tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tinglin
 __tingle<sup>2</sup>__ _n_ A sensation of tingling. _I’m all tingles and shakes._  
 __tink__ _v_  
 __tinker<sup>1</sup>__ _n_  
-__tinker<sup>2</sup>__ _v_ :three::hammer:  
+__tinker<sup>2</sup>__ _v_ :four::hammer:  
 __tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
