@@ -2,6 +2,7 @@ __(one’s) elevator doesn’t go all the way to the top__ A pejorative phrase m
 __(stuck) in a rut__ Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case. _I’m not too fond of taxes either, but it’s a bit of a stretch to claim they are the cause of all our problems._  
 __a brick short of a load__  
+__a bridge too far__ _cliché_ An act or plan whose ambition overreaches its capability, resulting in or potentially leading to difficulty or failure. Taken from the 1974 book _A Bridge Too Far_ by Cornelius Ryan, which details the Allies’ disastrous attempts to capture German-controlled bridges in the Netherlands during World War II. _The multi-million-dollar purchase of the small startup proved a bridge too far for the social media company, as the added revenue couldn’t make up for the cost in the end._  
 __a change is as good as a rest__ A change in one’s work can be as beneficial and revitalizing as taking a break. Primarily heard in US. _I’m hoping that starting on this new career path will help me to find joy in my work again—after all, a change is as good as a rest._  
 __air rage__ Sudden, unruly, and often violently aggressive behavior of a passenger aboard an airplane, generally while in the air, which puts the safety of other passengers, the crew, or the airplane at risk. The term is modeled on “road rage,” which is the equivalent behavior in relation to driving. _Airline crews are trained to diffuse incidents of air rage, which often start as minor disputes between passengers._  
 __alarm bell__ A sudden warning or intimation of danger, risk, or ill fortune. (Often pluralized.) _Alarm bells were going off in my head when I saw the panicked expression on her face._  
@@ -16,7 +17,10 @@ __barnburner__ Any thing, event, or occasion that is especially exciting, impres
 __be sold on (something)__ To be confident in or convinced about something’s viability, veracity, etc., often to the point of being enthusiastically supportive of it. _I don’t know, this plan still sounds pretty risky to me—I’m not sold on it yet._  
 __beauty queen__ A woman who has won, or looks as if she could win, a beauty pageant. _When that beauty queen walked in, everyone’s heads turned._  
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _He had been writing for years, but his big break came when his third novel became a huge international bestseller._  
+__blood in the water__ The exposure of a competitive weakness in an opponent that arouses increased competitive aggression in others. Likened to the literal presence of blood in water that causes aquatic predators (such as sharks) to seek out and attack prey. _After their opponents’ star striker left the match with an injury, the home team smelled blood in the water and brought on their attack with everything they had._  
 __bode well for (someone or something)__ To seem indicative of a favorable outcome. This phrase is often used in the negative to suggest the opposite. _Sunny weather bodes well for our flight leaving on time._  
+__bored to tears__ Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
+__bring a knife to a gunfight__ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice. _Make sure you have researched your position thoroughly and comprehensively before the debate. You don’t want to bring a knife to a gunfight._  
 __case in point__ A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __cheap out__ To choose a less expensive option or course of action in order to reduce cost, especially at the expense of quality or reliability. _A: “We’ve had to have so many repairs done to the house over the last year.” B: “Well, that’s what you get for cheaping out on building materials.”_  
 __chew out__ _slang_ To scold or berate one harshly or angrily. A noun or pronoun can be used between “chew” and “out.” _The boss is totally going to chew us out if he hears that we lost that big client._  
@@ -249,6 +253,7 @@ __marinate__
 __maternity leave__  
 __mean the world to (one)__ :dart:  
 __meant to be__  
+__menty b__ A cutesy shortening of the much more serious phrase mental breakdown.  
 __mess with (someone or something)__  
 __mike drop__  
 __mill about__  
@@ -266,6 +271,7 @@ __naked eye__ _With the naked eye._
 __name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__  
 __needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __night and day__  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
@@ -336,6 +342,7 @@ __put out fires__
 __put to the test__  
 __put up with__ :two::hammer:  
 __put up__  
+__quiet quitting__ /kwahy-it kwit-ing/  
 __rabble-rouser__  
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
@@ -496,6 +503,7 @@ __that’s a given__
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
 __the big picture__  
 __the bigger picture__  
+__the bigger they come, the harder they fall__ _proverb_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
@@ -503,6 +511,7 @@ __the final straw__
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
 __the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
 __the handwriting on the wall__ _He could see the handwriting on the wall._  
+__the ick__ A sudden feeling of disgust or revulsion toward a person, usually one’s date.  
 __the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
@@ -558,8 +567,10 @@ __tongue-in-cheek__
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
+__touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
 __tour de force__ :three::hammer:  
 __trace back__  
+__train wreck__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __trigger__ :three: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
@@ -603,6 +614,7 @@ __weigh on__
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
+__what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what makes (one) tick__  
 __what the heck__  
 __what’s up with__  
