@@ -16741,6 +16741,7 @@ __titian__ _n_ A brownish orange.
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
+__titled__ _adj_ :three: Having a title, especially a noble title.  
 __titlist__ _n_ The holder of a competitive title; a champion: a chess titlist. _He is the former bantamweight titlist._  
 __titration__ _n_ _Lesion titration._  
 __titter__ _v_ :two::hammer:  
@@ -16780,7 +16781,7 @@ __toeing__ _v_
 __tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
 __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
 __toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
-__toilet bowl__  
+__toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.  
 __toilet stool__  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
 __toiletries__  
@@ -16849,8 +16850,8 @@ __torches__ _n_
 __tore__ _v_  
 __toric__ _adj_ _Toric lens._  
 __torment__ _v_  
-__tormentor__ _n_  
-__torn__ _v_  
+__tormentor__ _n_ :two::hammer:  
+__torn__ _v_ :two::hammer:  
 __torpedo__ _v_  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
@@ -16869,6 +16870,7 @@ __tots__
 __totter__ _v_  
 __tottered__  
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
+__touch down__ _phr v_ To make contact with the ground; land: _The spacecraft touched down on schedule._ _The jet touched down there yesterday._  
 __touchline__  
 __touchstone__ _n_  
 __touchy__ _adj_ :five: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
@@ -16884,6 +16886,7 @@ __tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
 __tow truck__ _n_  
+__toward__ _prep_ :five::mega::hammer:  
 __tower__ _v_ _Towering over our heads._  
 __towheaded__ _adj_  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
@@ -16901,7 +16904,7 @@ __tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)
 __tractor__ _n_  
 __trade paperback__  
 __trade__ _n_  
-__trade-off__ _n_ _She has to make trade-offs._  
+__trade-off__ _n_ :two::hammer: (tradeoff) _She has to make trade-offs._  
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
 __trading card__ _n_ A card with a picture or design printed on it, often one of a set collected and traded by children.  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
@@ -16925,6 +16928,7 @@ __tramp__ _adj_
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ _He could be seen trampling grapes in a wooden vat._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
 __trampoline__ _n_ :two::hammer:  
 __trampolines__ _n_  
+__trance__ _n_ /trɑːns/  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __tranquil__ _adj_ _His voice was soft and tranquil._  
 __tranquilizer__ _n_ :mega:  
@@ -16963,7 +16967,7 @@ __treacle__
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
 __treading__  
 __treasure__ _v_ :four::hammer:  
-__treat<sup>1</sup>__ _v_ :two::hammer: _Treating a friend to lunch is a good way to spend the money on others._  
+__treat<sup>1</sup>__ _v_ :three::hammer: _Treating a friend to lunch is a good way to spend the money on others._ _Treat yourself a coffee._  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :three: __1__ Threefold; triple. _A treble hook._  
 __treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ early retirement has trebled since 2008._  
@@ -16983,7 +16987,7 @@ __trespasses__ _n_ :pencil2:
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
 __trestle__ _n_ :seven: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
-__triad__  
+__triad__ _n_ :two::hammer:  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __triage<sup>2</sup>__ _v_ :three::hammer:  
 __trial__ _n_ :two::hammer: _They take small trials of the power for testing._  
@@ -16997,6 +17001,7 @@ __tribute__ _n_ _Her fellow tribute and her hunting buddy._
 __trice__ _n_ A very short time; an instant.  
 __trick of the light__  
 __trick pad__  
+__trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
@@ -17020,8 +17025,10 @@ __trip-hammer<sup>1</sup>__ _n_
 __trip-hammer<sup>2</sup>__ _adj_ Suggesting a trip-hammer in loud pounding or persistent action. _No trip-hammer questions._  
 __triple__  
 __triple-check__ _v_  
+__tripledemic__ _n_  
 __triplex__ _adj_ _A triplex penthouse._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
+__trippy__ _adj_ /ˈtrɪpɪ/ _It’s trippy and dark._ :es: flipante  
 __triptych__  
 __trireme__ _n_  
 __triskelion__ _n_ (triskele)  
@@ -17090,12 +17097,13 @@ __tub__ _n_ :six: __1__ A low wide open container, typically round, originally o
 __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubthumping__  
 __tuck away__  
-__tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
+__tuck<sup>1</sup>__ _v_ :six: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __Tucson, Arizona__ _n_ :mega: [Common popular pronunciation: /tuhk-son/ Prevailing local pronunciation: /too-son/]  
 __Tudor__  
 __Tuesday__ _n_ :mega: /’tuzdi, -deI/  
 __tuffet__ _n_ :two: __1__ A clump or tuft of grass. __2__ A low seat, such as a stool. A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
+__tuft__ _n_  
 __tufted__  
 __tug of war__ _n_ :four::hammer:  
 __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  

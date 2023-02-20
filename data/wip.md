@@ -1,18 +1,3 @@
-__titled__ _adj_ :three::hammer:  
-__toilet bowl__ _n_ The bowl of a toilet that can be flushed with water.  
-__tormentor__  
-__torn__ _v_  
-__touch down__ _v_ _The jet touched down there yesterday._  
-__toward__ _prep_ :five::mega::hammer:  
-__tradeoff__ _n_ (trade-off)  
-__trance__ _n_ /trɑːns/  
-__treat__ _v_ _Treat yourself a coffee._  
-__triad__ _n_  
-__trickery__ _n_ The practice or use of tricks; deception by stratagem.  
-__tripledemic__ _n_  
-__trippy__ _adj_ _It’s trippy and dark._  
-__tucked__ _v_  
-__tuft__ _n_  
 __tumuli__ _n pl_  
 __twitch__ _v_ _A curtain twitched in the house next door._  
 __ultimatum__ _n_ :mega:  
