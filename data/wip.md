@@ -1,18 +1,3 @@
-__tumuli__ _n pl_  
-__twitch__ _v_ _A curtain twitched in the house next door._  
-__ultimatum__ _n_ :mega:  
-__unapologetic__  
-__unbidden__  
-__undercurrent__ _n_ :two::hammer:  
-__underlying__ _adj_ _The underlying software stack._  
-__underpin__  
-__undertake__ _v_  
-__undoing__ _n_ /ʌnˈdu ɪŋ/  
-__unduly__ _adv_  
-__unfazed__ _adj_ :two: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
-__ungainly__  
-__unhinged__ _adj_ Deranged or unbalanced.  
-__unleash__ _v_  
 __unwell__ _adj_  
 __upfront__  
 __upset__ _n_ :mega:  

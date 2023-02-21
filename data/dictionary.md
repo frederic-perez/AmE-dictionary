@@ -17115,7 +17115,8 @@ __tumble<sup>2</sup>__ _n_
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
-__tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
+__tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; barrow.).  
+__tumult__ _n_ :two: Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__ _adj_ :two::hammer:  
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
@@ -17192,7 +17193,7 @@ __twist__ _n_ _I’ll have my vodka martini with a twist of lemon._
 __twister__ _n_ __3__ _informal_ A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_  
-__twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
+__twitch<sup>2</sup>__ _v_ :eight::hammer: (twitched) _The curtain was twitched._ _A curtain twitched in the house next door._  
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
@@ -17217,6 +17218,7 @@ __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the le
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
 __ulterior__ _adj_  
 __ultimately__  
+__ultimatum__ _n_ :mega:  
 __ululate__ _v_ :two: Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
 __um__  
@@ -17233,12 +17235,13 @@ __unakin__ _adj_ Not related or comparable.
 __unalienable__  
 __unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fear of radioactivity, born of ignorance._  
 __unanimous__  
-__unapologetic__ _adj_ :nine: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
+__unapologetic__ _adj_ :nine::m: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ _adj_ :two::hammer:  
 __unassuming__ _adj_ :four::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unavenged__ _adj_  
+__unbidden__ _adj_  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
 __unburdened__  
@@ -17261,7 +17264,7 @@ __under water__
 __under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table payment of $10 million._  
 __underbelly__ _n_ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
-__undercurrent__  
+__undercurrent__ _n_ :three::hammer:  
 __undercut__ _v_ :nine::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
@@ -17269,8 +17272,9 @@ __underfoot__ _adv_ :two::hammer: _They were reluctant to recognize crisis until
 __undergarments__ _n_ :two::hammer:  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
+__underlying__ _adj_ _The underlying software stack._  
 __undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
-__underpin__ _v tr_ :five::hammer:  
+__underpin__ _v tr_ :six::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  
@@ -17280,7 +17284,7 @@ __understandably__ _adv_ :two::hammer:
 __understated__ _adj_  
 __understatement__ _n_ :three: Understatement is using language to intentionally lessen a major thing or event. Example: The erupting volcano was a little problem for the neighboring city.  
 __understudy__ _v_  
-__undertake__ _v_ :three::hammer: _A video of cyclists overtaking and undertaking a horse rider._ _He agreed to undertake the great riddance._  
+__undertake__ _v_ :four::hammer: _A video of cyclists overtaking and undertaking a horse rider._ _He agreed to undertake the great riddance._  
 __undertaker__ _n_  
 __undertow__  
 __underwhelm__ _v_ :two: To fail to excite, stimulate, or impress.  
@@ -17293,14 +17297,14 @@ __undies__
 __undimpled__  
 __undisturbed__ _v_  
 __undog__ _v_ To loose from a fastening dog or catch. _Sailors undogged hatches._  
-__undoing__ _n_  
+__undoing__ _n_ :two::hammer: /ʌnˈdu ɪŋ/  
 __undoubtedly__  
 __undue__  
 __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, or motion.  
 __undulate__ _v_ :two: /UN-juh-layt/ Undulate is a formal word that means “to move or be shaped like waves.” To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :eight::hammer:  
+__unduly__ _adv_ :nine::hammer:  
 __unearth__ _v_ :five::hammer: (unearthed)  
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
@@ -17309,7 +17313,7 @@ __unethically__ _adv_ _He had acted unethically and for that I could never trust
 __uneventful__ _adj_ Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
+__unfazed__ _adj_ :nine:m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ _adj_ :two::hammer:  
@@ -17320,14 +17324,14 @@ __unforeseen__ _adj_ _Unforeseen difficulties._
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
 __unfurnished__ _adj_ Having no furniture, especially when available to be rented. _One-bedroom unfurnished flats start at £1,325 a month._  
-__ungainly__ _adj_ __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
+__ungainly__ _adj_ :two: __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
 __ungulate<sup>1</sup>__ _adj_ :two::hammer:  
 __ungulate<sup>2</sup>__ _n_ A hoofed mammal.  
 __unheralded__ _adj_ :two::hammer:  
 __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
-__unhinged__ _adj_ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
+__unhinged__ _adj_ :three: Deranged or unbalanced. _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, inculpable, irreproachable _As is indeed not unfrequent with women of unimpeachable virtue ... at a distance she not only excused illicit love, she positively envied it._  
@@ -17336,6 +17340,7 @@ __Union Jack__ _n_ :camera:
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
 __univocal__ _adj_ /yoo-NIV-uh-kul/  
 __unkempt__ _adj_ :three::hammer: _Unkempt beards._  
+__unleash__ _v_  
 __unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _prep_  
