@@ -1,10 +1,16 @@
+__abdicate__ _v_ To relinquish (power or responsibility) formally.  
+__astern__ _adj, adv_ /uh-STUHRN/ __1__ At the rear of a ship or another vessel. __2__ In a reverse direction. __3__ Backward.  
+__bulwark__ _n_  
+__divest__ _v_ /dye-VEST/ To divest something valuable, such as property or stocks, is to sell it. Similarly, to divest yourself of something valuable is to sell it or give it away. And if you divest someone or something of something, you take that thing away from them, or otherwise cause them to lose it or give it up.  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __gambit__ _n_ /GAM-bit/ A gambit is something done or said in order to gain an advantage or to produce a desired effect. _The workers’ opening gambit in the negotiations was to demand a wage hike._  
 __gridiron__ _n_  
+__guile__ _n_ Treacherous cunning; skillful deceit. _Syn_ craftiness, foxiness, slyness, wiliness, cunning _Her mild eyes seemed incapable of any severity or guile, and yet she has committed a murder._  
 __hamstring__ _v_ __2__ To destroy or hinder the efficiency of; frustrate.  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
+__impromptu__ _adj_ /im-PROMP-too/ __1__ Made, done, or formed on or as if on the spur of the moment. _When we got word of Caitlin’s good news, we threw an impromptu party to celebrate._ __2__ Composed or uttered without previous preparation. _He made an impromptu speech about honor and responsibility._  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
 __inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
@@ -194,7 +200,7 @@ __omnibus__ _n_
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
-__onerous__ _adj_ :astonished:  
+__onerous__ _adj_ :two::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
@@ -373,6 +379,7 @@ __pewter__ _n_ :three::hammer:
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __pharmacophores__ _n_  
 __phenom__  
+__philistine__ _n_ A smug, ignorant, especially middle-class person who is regarded as being indifferent or antagonistic to artistic and cultural values. _Syn_ anti-intellectual _He may have an advanced degree in mathematics, but the man is a total philistine when it comes to the arts._  
 __Philly__ _n_ _The small-time Philly boxer Rocky Balboa._  
 __phonotaxis__ _n_ _Cricket phonotaxis._  
 __piano bar__  
@@ -476,6 +483,7 @@ __preposterous__
 __preprandial__ _adj_ _Preprandial drinkers._  
 __prepsters__  
 __prerequisite__  
+__prerogative__ _n_ /prih-RAH-guh-tiv/ Prerogative means “right or privilege,” and especially refers to a special right or privilege that some people have. _If you’d rather sell the tickets than use them, that’s your prerogative._  
 __presbyterian__ _adj_  
 __presbytery__ _n_  
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
@@ -758,7 +766,7 @@ __saguaro__ _n_
 __saint__ _v_ (sainted) _The chef should be sainted._  
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __salamander__ _n_  
-__salient__ _adj_ /SAIL-yunt/  
+__salient__ _adj_ :two: /SAIL-yunt/ Strikingly conspicuous. _Syn_ prominent, outstanding, striking, spectacular  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
 __samara__ _n_  
@@ -1144,6 +1152,7 @@ __straddle__ _v_
 __straightedge__ _adj, n_ _Straightedge shave and head massage._  
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
+__stramineous__ _adj_ struh-MIN-ee-uhs/ __1__ Straw-colored. __2__ Of or relating to straw. __3__ Like straw: Valueless.  
 __stranglehold__ _n_  
 __strapper__ _n_ A powerfully built, robust person. _Syn_ bruiser, bull, Samson _Grandmother described everyone in larger-than-life terms. Even scrawny Bill from down the block was “a regular strapper.”_  
 __streamside__  
@@ -1232,6 +1241,7 @@ __sycamore tree__
 __sycamore__ _n_ :two::hammer:  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
 __synonymous__ _n_ :pencil2:  
+__syzygy__ _n_  
 __tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._  
 __tabbouleh__ _n_  
 __table__ _v_ :two: Hold back to a later time. _Let’s table that idea._  
