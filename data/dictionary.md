@@ -17394,6 +17394,7 @@ __untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ 
 __untuck__ _v_  
 __unwarranted__  
 __unwary__ _adj_  
+__unwell__ _adj_  
 __unwielding__  
 __unwieldy__ _adj_ :three: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
@@ -17415,7 +17416,7 @@ __updraft__ _n_ The movement upward of air or other gas.
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
-__upfront__ _adj_ :two::hammer:  
+__upfront__ _adj_ :three::hammer:  
 __upheaval__ _n_ :nine::m: /ʌpˈhi vəl/ A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
@@ -17443,19 +17444,21 @@ __upscale<sup>2</sup>__ _v_
 __upscale<sup>3</sup>__ _n_  
 __upsell__ _v_  
 __upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
-__upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
+__upset__ _n_ :three::mega::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
 __upshot__ _n_ :eight: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
-__upside__ _n_ :three: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
+__upside__ _n_ :four: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upslope__ _n_  
 __upspeak__ _n_ :astonished: The tendency to make your voice rise at the end of sentences so that statements sound like questions.  
 __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
+__upstate__  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__ _n_ :five: __4__ The act of accepting or taking up something on offer or available.  
+__uptalk__ _v_  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ _n_ :two: The time during which a device, such as a computer, is functioning or available for use.  
@@ -17463,13 +17466,13 @@ __upward__
 __upwardly__  
 __urban legend__  
 __urbane__ _adj_ :two: Showing a high degree of refinement and the assurance that comes from wide social experience. Notably polite or polished in manner. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._  
-__urbanites__  
+__urbanite__ _n_ :two::hammer:  
 __urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
 __urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
-__usher__ _v_ :two::hammer:  
+__usher__ _v_ :four::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
 __usufruct__ _n_  
 __usurp__ _v_  
 __usury__ _n_ :seven::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
@@ -17482,15 +17485,17 @@ __utility<sup>2</sup>__ _adj_ _A pair of utility classes._
 __utmost<sup>1</<sup>__ _adj_ :seven::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
 __utmost<sup>2</<sup>__ _n_  
 __utopia__ _n_ /yoo-TOH-pee-uh/  
+__utter__ _adj_ _Utter darkness._  
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
+__uvula__ _n_ :es: úvula, campanilla  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one’s wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __V bolt__  
 __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
 __vacant__ _adj_ :two::hammer: _A vacant look._ _Adam parked in a vacant spot._  
 __vacant-eyed__  
-__vacate__ _v_ :two::hammer:  
+__vacate__ _v_ :three::hammer:  
 __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
@@ -17498,7 +17503,7 @@ __vacillate__ _v intr_ :two: To swing indecisively from one course of action or 
 __vacuous__ _adj_ Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
 __vacuum__ _n_ :three::pencil2::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
-__vagary__ _n_ :five::hammer: (vagaries) _The vagaries of economics._  
+__vagary__ _n_ :six::hammer: (vagaries) _The vagaries of economics._ _The vagaries of nature._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
@@ -17513,12 +17518,14 @@ __valedictory__ _n_ :two: A closing or farewell statement or address, especially
 __valentine__ _n_ :two: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
 __valiant<sup>1</sup>__ _adj_  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
+__validate__ _v_  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
 __vamoose__ _v intr_ :two: [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp.  
-__vamp__ _v_ :two::hammer: (vamping)  
+__vamp<sup>1</sup>__ _n_  
+__vamp<sup>2</sup>__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
 __van__ _n_ _The knight was in command of the van._  
 __vandalize__ _v_ :three: /VAN-duh-lyze/ [:scroll: After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome] Vandalize means “to deliberately damage or destroy public or private property.” _The impulse of many graffiti artists is not to vandalize infrastructure but to beautify city environments that are often monotone and nondescript._  
@@ -17551,7 +17558,7 @@ __vatic__ _adj_ Of or characteristic of a prophet; oracular.
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
-__vaunted__ _adj_ Hghly or widely praised or boasted about.  
+__vaunted__ _adj_ :two: Highly or widely praised or boasted about. _His vaunted years of experience._  
 __veal__ _n_ :es: ternera  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
