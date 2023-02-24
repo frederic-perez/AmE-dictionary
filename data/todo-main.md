@@ -1,13 +1,17 @@
 __abdicate__ _v_ To relinquish (power or responsibility) formally.  
+__Ash Wednesday__ _n_ [:scroll: Religious observers of Lent place ash, typically in the shape of a cross, on their forehead as a sign of penitence and a reminder of mortality]  
 __astern__ _adj, adv_ /uh-STUHRN/ __1__ At the rear of a ship or another vessel. __2__ In a reverse direction. __3__ Backward.  
 __bulwark__ _n_  
 __divest__ _v_ /dye-VEST/ To divest something valuable, such as property or stocks, is to sell it. Similarly, to divest yourself of something valuable is to sell it or give it away. And if you divest someone or something of something, you take that thing away from them, or otherwise cause them to lose it or give it up.  
+__evince__ _v_ To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._  
 __fraught__ _adj_ /FRAWT/ Fraught means “causing or having a lot of emotional stress or worry.” When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._  
 __gambit__ _n_ /GAM-bit/ A gambit is something done or said in order to gain an advantage or to produce a desired effect. _The workers’ opening gambit in the negotiations was to demand a wage hike._  
+__gratis__ _adj, adv_ /GRAT-is, GRA/GRAY-tis/ Without payment; free.  
 __gridiron__ _n_  
 __guile__ _n_ Treacherous cunning; skillful deceit. _Syn_ craftiness, foxiness, slyness, wiliness, cunning _Her mild eyes seemed incapable of any severity or guile, and yet she has committed a murder._  
 __hamstring__ _v_ __2__ To destroy or hinder the efficiency of; frustrate.  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
+__hiatus__ _n_ /hye-AY-tus/ __1__ A period of time when something, such as an activity or program, is suspended. _The band has been on hiatus for three years, but is returning to live performance this summer._ __2__ In biology, hiatus refers to a gap or passage in an anatomical part or organ. __3__ In linguistics, it denotes the occurrence of two vowel sounds without pause or intervening consonantal sound.  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
 __impromptu__ _adj_ /im-PROMP-too/ __1__ Made, done, or formed on or as if on the spur of the moment. _When we got word of Caitlin’s good news, we threw an impromptu party to celebrate._ __2__ Composed or uttered without previous preparation. _He made an impromptu speech about honor and responsibility._  
@@ -19,9 +23,11 @@ __lambent__ _adj_
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
+__Lent__ _n_  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
 __lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
 __magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
+__Mardi Gras__ _n_ [:scroll: From French, Fat Tuesday. It refers to the old tradition when people showed off a bœuf gras, or “fat ox,” during the holiday]  
 __mash-up__ _n_ Something created by combining elements from two or more sources.  
 __mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
@@ -625,6 +631,7 @@ __recluse__ _n_ A person who withdraws from the world to live in seclusion and o
 __reconvene__ _v_ To gather, call together, or summon again, esp for a formal meeting.  
 __recount__ _v_  
 __recoup__ _v_  
+__rectify__ _v_ /REK-tuh-fye/  
 __recumbent__ _adj_  
 __recurse__ _v_ /ri-KUHRS/  
 __Red Cross__ _n_  
@@ -680,6 +687,7 @@ __retcon<sup>1</sup>__ _n_ :two::hammer:
 __retcon<sup>2</sup>__ _v_  
 __retention__ _n_ _Employee retention._  
 __reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
+__reticle__ _n_ A grid or pattern placed in the eyepiece of an optical instrument, used to establish scale or position. _Syn_ graticule, reticule  
 __retiree__ _n_  
 __retrace__ _v_  
 __retrofit__ _v_  
@@ -810,6 +818,7 @@ __scar__ _v_
 __scaremonger__ _n_ A person who spreads frightening rumors and stirs up trouble. _Syn_ stirrer _When he started spreading the rumor that the government was bent on destroying our homes, we decided that he was a scaremonger and stopped paying attention._  
 __scarlet letter__ _n_  
 __scarlet__ _n_  
+__scatterbrained__ _adj_ /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly  
 __scatting__ _v_  
 __scenic<sup>1</sup>__ _adj_  
 __scenic<sup>2</sup>__ _n_  
@@ -928,6 +937,7 @@ __showrunner__ _n_ :two::hammer:
 __showstopper__  
 __showstopping__  
 __shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
+__Shrove Tuesday__ _n_  
 __shrunken head__ _n_  
 __shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_  
@@ -1265,6 +1275,7 @@ __tankinis__ _n_
 __tanner__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
 __tantalizing__ _adj_ :four:hammer: _A tantalizing question._  
+__tantamount__ _adj_ /TAN-tuh-mount/  
 __tanzanite__  
 __tap into__  
 __tap__ _v_  
