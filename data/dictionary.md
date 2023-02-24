@@ -18011,7 +18011,7 @@ __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid moti
 __whirl<sup>1</sup>__ _v_ :mute:[w~~h~~irl]  
 __whirl<sup>2</sup>__ _n_ :two::hammer::mute:[w~~h~~irl] (whirled)  
 __whirlpool__ _n_  
-__whirlwind__ _n_ :two::hammer: _A whirlwind tour of American universities._ :es: torbellino  
+__whirlwind__ _n_ :three::hammer: _A whirlwind tour of American universities._ :es: torbellino  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
 __whirred__ _v_ :three::hammer: (wirring) _The arrow whirred over his head._  
 __whisk broom__  
@@ -18036,8 +18036,9 @@ __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of 
 __white-knuckle ride__  
 __white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]  
 __white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
-__whitelist__ _v_  
-__whiteout__  
+__whitecap__ _n_ A wave with a crest of foam.  
+__whitelist__ _v_ To place on a whitelist.  
+__whiteout__ _n_ :three::hammer:  
 __whitewash<sup>1</sup>__ _n_ :two::hammer: __4__ _slang_ (Financial) An unexploited opportunity. _That is, whitespace is a potential source of profit, almost always associated with some level of risk._  
 __whitewash<sup>2</sup>__ _v_ :five: __1__ To paint or coat with whitewash. __2__ To conceal or gloss over (wrongdoing, for example). __3__ (Sports) To defeat (an opponent) in a game in which the opponent does not score.  
 __whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.  
@@ -18056,7 +18057,7 @@ __whole<sup>1</sup>__ _adj_ :mute:[~~w~~hole]
 __whole<sup>2</sup>__ _n_ :mute:[~~w~~hole]  
 __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a whole new idea._  
 __wholeheartedly__ _adv_ :two::hammer:  
-__wholesale__ _adj_ :four: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
+__wholesale__ _adj_ :five: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
 __wholesome__ _adj_ :three::hammer:  
 __wholistic__ _adj_ A variant spelling of holistic.  
@@ -18117,10 +18118,11 @@ __wimpiness__
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _v_ :eight::hammer: (winced, wincing) _He was wincing in pain._  
-__winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
-__winch<sup>2</sup>__ _n_ :three::hammer:  
+__wince__ _v_ :nine::hammer: (winced, wincing) _He was wincing in pain._  
+__winch<sup>1</sup>__ _v_ :two::hammer: _He winched his boat onto his trailer._  
+__winch<sup>2</sup>__ _n_ :five::hammer:  
 __wind down__ _phr v_ :three: To diminish gradually in force or power; relax.  
+__wind park__ _n_ A power plant that uses wind turbines to generate electricity.  
 __wind up__ _phr v_ :three::hammer: _We eventually wind up with that code._  
 __wind-up__ _adj_ _It’s a wind-up toy._  
 __windbreaker__ _n_  
@@ -18148,6 +18150,7 @@ __wingtips__
 __winking__ _v_  
 __winnow__ _v_ :five::hammer: (winnowed, winnowing) [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
 __winsome__ _adj_ :two: /WIN-sum/ Pleasing or cheerful. Sweetly or innocently charming; winning; engaging: _a winsome smile._ _The interviewers all remarked on the candidate’s winsome personality, which made her stand out among the other qualified job applicants._  
+__winter__ _v_  
 __winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
 __winterkill__  
 __wintry__ _adj_ :three: :es: invernal  
@@ -18193,7 +18196,7 @@ __withering__ _adj_ Tending to overwhelm or destroy; devastating: _withering sar
 __withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
 __withes__ _n_ :two::hammer:  
 __withhold__ _v_ :two::hammer::pencil2:  
-__withstand__ _v_ :three::hammer:  
+__withstand__ _v_ :five::hammer:  
 __witless__ _adj_ Lacking intelligence or wit; foolish. _Syn_ nitwitted, soft-witted, senseless _He was a witless soul who never learned from his mistakes._  
 __witty__ _adj_  
 __wizened__ _adj_ :five: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness. _Syn_ shrunken, withered, shriveled _The wizened face of the man of law was twisted into a wrinkled smile._  
@@ -18221,6 +18224,7 @@ __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or b
 __wood chipper__ _n_ A power-driven machine for cutting wood into chips.  
 __wood pellets__  
 __wood rasp__ _n_  
+__wood shavings__  
 __wooden-headed__ _adj_ _informal_ Stupid.  
 __woodland__ _n_  
 __woodpile__ _n_  
@@ -18254,7 +18258,7 @@ __workaday__ _adj_ :two::hammer: _The workaday world._
 __workforce__  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working title__  
-__workload__ _n_ _A new weight management service will result in a significant rise in GP workload._  
+__workload__ _n_ :two::hammer: _A new weight management service will result in a significant rise in GP workload._  
 __workmanlike__  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __workstation__ _n_ :two::hammer:  
@@ -18265,6 +18269,8 @@ __wormed__ _v_
 __wormhole__ _n_ :three: /WERM-hohl/ A hypothetical structure of space-time that is envisioned as a long thin tunnel connecting points that are separated in (well) space and time. _Some science fiction writers speculate that wormholes are the intergalactic highways of the future._  
 __worrisome__ _adj_ :four::hammer:  
 __worrywart__ _n_ :two: One who worries excessively and needlessly.  
+__worsen__ _v_  
+__worsened__ _adj_  
 __worshiper__  
 __worst nightmare__ _n_ The thing someone fears most.  
 __wort__  
@@ -18451,4 +18457,6 @@ __zoonotic__ _adj_
 __zoophobia__ _n_ /zo-uh-FOH-bee-uh/ __1__ An unusual fear of animals. Some examples of zoophobia are acarophobia (insects), ailurophobia (cats), arachnophobia (spiders), and cynophobia (dogs). __2__ A dislike of keeping animals in captivity.  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men’s suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ _n_ :three::pencil2::hammer: :es: calabacín  
+__zugzwang__ _n_ A situation in a chess game in which a player is forced to make an undesirable or disadvantageous move.  
+__Zulu time__  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
