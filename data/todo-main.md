@@ -1,3 +1,11 @@
+__aquiline__ _adj_  
+__burnish__ _v_ To make smooth or glossy by or as if by rubbing; polish. _Syn_ furbish, buff, flush _Every afternoon, she would obsessively burnish the floors until the parlor gleamed like an ice rink._  
+__cozen__ _v_ To mislead by means of a petty trick or fraud. _Syn_ deceive, delude, lead on _He has wronged me and deceived me enough, he shall not cozen me further!_  
+__ennui__  
+__ersatz__ _adj_ /AIR-sahts/ Ersatz describes a usually artificial and inferior substitute or imitation. _Her snootier peers never forgave her for attending the gala in an ersatz mink coat._  
+__foray__ _n_ /FOR-ay/  
+__grand jury__ _n_  
+__hydroponics__ _n_ A technique of growing plants (without soil) in water containing dissolved nutrients. _Syn_ aquiculture, tank farming  
 __ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
 __impromptu__ _adj_ /im-PROMP-too/ __1__ Made, done, or formed on or as if on the spur of the moment. _When we got word of Caitlin’s good news, we threw an impromptu party to celebrate._ __2__ Composed or uttered without previous preparation. _He made an impromptu speech about honor and responsibility._  
 __inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
@@ -5,6 +13,7 @@ __induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles
 __inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
 __knowledgeable__ _adj_ (knowledgable) Possessing or showing knowledge or intelligence; perceptive and well-informed. _Every artist should be as knowledgeable as possible about the business side of things._  
 __lambent__ _adj_  
+__languor__  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
@@ -153,6 +162,7 @@ __nubbly__
 __numb__ _v_  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
+__nurture__ _v_ /NER-cher/  
 __nutrition label__ _n_  
 __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
 __Nymphean__ _adj_ _Nymphean theater._  
@@ -361,6 +371,7 @@ __pervasive__
 __pet name__ _n_  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
 __peter out__  
+__petit jury__ _n_ (petty jury)  
 __petrichor__ _n_  
 __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
 __petticoat__  
@@ -390,6 +401,8 @@ __pin__ _v_ _Pinned it against the wall._
 __pinback__ _n_ :two::hammer:  
 __pine nuts__  
 __pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
+__pinion<sup>1</sup>__ _n_ /PIN-yuhn/ __1__ A feather or a wing, especially the terminal segment of a wing. __2__ A small cogwheel engaging with a larger wheel or a rack.  
+__pinion<sup>2</sup>__ _v tr_ __1__ To cut or bind the wing of a bird. __2__ To bind, restrain, shackle, etc.  
 __piñon__ _n_ _A 30-minute excursion through pines and piñons._  
 __Pinot Gris__ _n_  
 __pinstripes__ _n_  
@@ -781,6 +794,7 @@ __sassy__
 __sate__ _v_ _Sate your appetite._  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
+__saudade__  
 __sauerkraut__ _n_  
 __saunter<sup>1</sup>__ _v_  
 __saunter<sup>2</sup>__ _n_  
