@@ -1,18 +1,3 @@
-__aquiline__ _adj_  
-__burnish__ _v_ To make smooth or glossy by or as if by rubbing; polish. _Syn_ furbish, buff, flush _Every afternoon, she would obsessively burnish the floors until the parlor gleamed like an ice rink._  
-__cozen__ _v_ To mislead by means of a petty trick or fraud. _Syn_ deceive, delude, lead on _He has wronged me and deceived me enough, he shall not cozen me further!_  
-__ennui__  
-__ersatz__ _adj_ /AIR-sahts/ Ersatz describes a usually artificial and inferior substitute or imitation. _Her snootier peers never forgave her for attending the gala in an ersatz mink coat._  
-__foray__ _n_ /FOR-ay/  
-__grand jury__ _n_  
-__hydroponics__ _n_ A technique of growing plants (without soil) in water containing dissolved nutrients. _Syn_ aquiculture, tank farming  
-__ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
-__impromptu__ _adj_ /im-PROMP-too/ __1__ Made, done, or formed on or as if on the spur of the moment. _When we got word of Caitlin’s good news, we threw an impromptu party to celebrate._ __2__ Composed or uttered without previous preparation. _He made an impromptu speech about honor and responsibility._  
-__inalienable__ _adj_ That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
-__induction__ _n_ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
-__inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
-__knowledgeable__ _adj_ (knowledgable) Possessing or showing knowledge or intelligence; perceptive and well-informed. _Every artist should be as knowledgeable as possible about the business side of things._  
-__lambent__ _adj_  
 __languor__  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  

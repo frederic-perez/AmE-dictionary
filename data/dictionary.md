@@ -710,6 +710,7 @@ __aquaria__
 __aqueduct__ _n_ :three::hammer:  
 __aqueous__ _adj_  
 __aquifer__ _n_ :two::hammer:  
+__aquiline__ _adj_  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
 __Arapahoe__ _n_ :two::hammer:  
@@ -2262,7 +2263,7 @@ __burner phone__ _n_ A prepaid cell phone that is not bound to a contract with a
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
 __Burning Man__ _n_  
-__burnish__ _v_ :six::hammer: (burnishing)  
+__burnish__ _v_ :seven: To make smooth or glossy by or as if by rubbing; polish. _Syn_ furbish, buff, flush _Every afternoon, she would obsessively burnish the floors until the parlor gleamed like an ice rink._  
 __burnoose__ _n_  
 __burp__ _v_ :three::hammer: (burped) _He burped loudly and said, “What? Better out than in!”_  
 __burpee__ _n_ :two: __1__ (Gymnastics) A squat thrust that starts and ends in a standing position.  
@@ -3822,7 +3823,7 @@ __coxswain__
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __coyote__ _n_ :mega:  
-__cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
+__cozen__ _v_ :four: /KUZ-un/ To mislead by means of a petty trick or fraud. _Syn_ deceive, delude, lead on _He has wronged me and deceived me enough, he shall not cozen me further!_  
 __cozy<sup>1</sup>__ _adj_ :five::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._ _There are many cozy B and B inns._  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
@@ -5528,7 +5529,7 @@ __enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; 
 __enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
-__ennui__ _n_ :four::mega::hammer:  
+__ennui__ _n_ :five::mega::hammer:  
 __enormous__ _adj_ :mega: /ɪˈnɔːməs/  
 __enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
@@ -5630,7 +5631,7 @@ __ermine__ _n_
 __Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
-__ersatz__ _adj_ :four: __1__ Being a usually inferior imitation or substitute; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ __2__ Not genuine; fake.  
+__ersatz__ _adj_ :five: /AIR-sahts/ __1__ Being a usually inferior imitation or substitute; artificial. Ersatz describes a usually artificial and inferior substitute or imitation. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ _Her snootier peers never forgave her for attending the gala in an ersatz mink coat._ __2__ Not genuine; fake.  
 __erstwhile__ _adj_ :seven::hammer:  
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
@@ -6514,7 +6515,7 @@ __for-profit__
 __forage<sup>1</sup>__ _n_ :three::hammer: _Horses’ forage._  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
 __forager__ _n_ :four::hammer: (foragers)  
-__foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
+__foray__ _n_ :eight: /ˈfɒreɪ/ /FOR-ay/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
 __forbear__ _v_ :two::hammer:  
 __forbearance__  
 __force majeure__ _n_ :three::hammer:  
@@ -7269,7 +7270,7 @@ __grana padano__
 __grand dame__ _n_ __3__ A building or institution regarded as noteworthy on account of its age and historic prominence. _Grand dame hotel._  
 __Grand Guignol<sup>1</sup>__ _n_ An event, entertainment, etc., of a sensational or horrific nature. [:scroll: From Le Grand Guignol (literally, The Great Puppet), a theater in Paris that specialized in such entertainment.]  
 __Grand Guignol<sup>2</sup>__ _adj_ Gruesome, grotesque, or horrifying.  
-__grand jury__  
+__grand jury__ _n_ :two::hammer:  
 __grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
 __grand<sup>1</sup>__ _adj_  
 __grand<sup>2</sup>__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
@@ -8384,6 +8385,7 @@ __hydrate__ _v_ :two::hammer: _Make sure you hydrate._
 __hydrology__  
 __hydrometeors__ _n_  
 __hydroponic__ _adj_  
+__hydroponics__ _n_ A technique of growing plants (without soil) in water containing dissolved nutrients. _Syn_ aquiculture, tank farming  
 __hyetal__ _adj_ Of or relating to rain or rainy regions.  
 __hygroscopic__  
 __hymn__ _n, v_ :mute:[hym~~n~~]  
@@ -8454,6 +8456,7 @@ __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)
 __idyllic__ _adj_ :six::pencil2: /ɪˈdɪlɪk; aɪ-/ Excellent and delightful in all respects. _An idyllic setting for romantic dinners._  
 __iffy__ _adj_ _slang_ :eight: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
 __igloo__ _n_ :two::mega::hammer:  
+__ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
 __ignoble__ _adj_ :two::hammer:  
@@ -8540,7 +8543,7 @@ __impression__ _n_ :two::hammer:
 __imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
 __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
-__impromptu__ _adj_ :three::hammer: _Some things are impromptu._ _The impromptu duet._  
+__impromptu__ _adj_ :four: /im-PROMP-too/ __1__ Made, done, or formed on or as if on the spur of the moment. _When we got word of Caitlin’s good news, we threw an impromptu party to celebrate._ _The impromptu duet._ __2__ Composed or uttered without previous preparation. _He made an impromptu speech about honor and responsibility._  
 __improvidence__ _n_ :two::hammer:  
 __improvident__ _adj_  
 __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
@@ -8562,7 +8565,7 @@ __in-your-face__ _adj_ _An in-your-face farewell._
 __inadequacy__ _n_ :two::hammer:  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
-__inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
+__inalienable__ _adj_ :two: That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __inane__ _adj_ :nine::m::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Asking inane questions._ _Syn_ asinine, fatuous, vacuous, mindless  
 __inanely__ _adv_  
 __inanition__ _n_  
@@ -8648,7 +8651,7 @@ __indubitably__ _adv_ Without doubt; certainly.
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
 __inductee__ _n_ :two: Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
-__induction__ _n_ :four::hammer: _Induction hall._  
+__induction__ _n_ :five::hammer: _Induction hall._ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
 __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
@@ -8663,6 +8666,7 @@ __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with r
 __inert__ _adj_ _Helium is inert._  
 __inescapable__ _adj_ :three: Impossible to escape or avoid; inevitable: _inescapable consequences._ _In Portland, nature is inescapable._ _Syn_ certain  
 __inexorable__ _adj_ __1__ Impossible to stop, alter, or resist; _inevitable: an inexorable fate; an inexorable law of nature._ __2__ Not capable of being persuaded by entreaty; relentless: _an inexorable opponent._ _The inexorable investigator questioned the witness repeatedly, long after she had been reduced to tears and claimed to know nothing more._  
+__inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
 __inexpensive__ _adj_  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
@@ -9303,7 +9307,7 @@ __knot__ _n, v_ :mute:[~~k~~not]
 __knotty__  
 __know__ _v_ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
-__knowledgeable__ _adj_ :three::hammer:  
+__knowledgeable__ _adj_ :four: (knowledgable) Possessing or showing knowledge or intelligence; perceptive and well-informed. _Every artist should be as knowledgeable as possible about the business side of things._  
 __knuckle duster__ _n_ A small metal weapon; worn over the knuckles on the back of the hand. _Thugs armed with a knuckle duster._  
 __knuckle__ _n, v_ :mute:[~~k~~nuckle]  
 __knuckleball__ _n_ :two: A throw in baseball that flies in an erratic way and is difficult to hit well because the pitcher holds the ball between the fingertips or knuckles.  
@@ -9393,7 +9397,7 @@ __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent 
 __lam__ _v_  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
-__lambent__  
+__lambent__ _adj_ :two::hammer:  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
 __lamest__ _adj_ (from _lame_)  
