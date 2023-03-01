@@ -1,3 +1,7 @@
+__(first) dibs (on something)__ _slang_ The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_  
+__as of late__  
+__break into__  
+__call dibs (on something)__ _slang_ To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __darkest hour__  
 __day and age__  
 __day in and day out__  
@@ -14,6 +18,7 @@ __down for (something)__
 __down the drain__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
+__downer__  
 __draw a line in the sand__  
 __draw to a close__ :three::hammer:  
 __drivers seat__  
@@ -86,10 +91,12 @@ __get the ball rolling__ :dart: To set something, often a process, in motion; to
 __get the best of me__  
 __get the edge__  
 __get the hang of something__  
+__get the sniffles__ To catch a cold, usually a minor one. _My daughter seems to have gotten the sniffles from someone at daycare._  
 __get word (from someone or something)__  
 __get your shit together__  
 __GI Joe__  
 __give (one) a pass__  
+__give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give in__ :two::hammer: _Give in to our fears._  
 __gloss over (something)__  
 __go a long way__  
@@ -121,6 +128,7 @@ __hash something up__
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
+__have a leg up__ To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
 __have a trick up (one’s) sleeve__  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
@@ -214,6 +222,7 @@ __lost cause__
 __lost for words__ (at a loss for words)  
 __lost on me__ _It is not lost on me._  
 __love (someone) to the moon (and back)__  
+__love handles__ _slang_ An accumulation of fat around one’s midsection. _I need to go back to the gym and start working out again if I want to lose these love handles in time for the wedding._  
 __low-hanging fruit__ The most easily achieved of a set of tasks or goals.  
 __lump in (one’s) throat__  
 __make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
@@ -266,6 +275,7 @@ __off to the side__
 __off work__  
 __off-kilter__  
 __on (one’s) own righ__  
+__on (one’s) watch__  
 __on a different note__  
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on demand__ _Requested on demand._  
@@ -300,6 +310,7 @@ __piece of shit__
 __piping hot__  
 __play ball__ :three::hammer:  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
+__ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
 __Potemkin village__  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
@@ -307,6 +318,7 @@ __prone to__
 __pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
 __pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
 __pump in__  
+__punch up__  
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __put (one’s) finger on (something)__  
 __put (oneself) in (someone’s) shoes__  
@@ -507,6 +519,7 @@ __the toast of (the town)__ Someone who is especially well-liked, regarded, or a
 __the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
 __the usual suspects__ _Side vegetables contain all the usual suspects._  
 __the whole shebang__  
+__the Wild West__  
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the writing on the wall__  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
@@ -596,6 +609,7 @@ __weigh on__
 __well in advance__ _Book tickets well in advance._  
 __well-heeled__ Having plenty of money; prosperous.  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
+__what a drag__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what makes (one) tick__  
 __what the heck__  
