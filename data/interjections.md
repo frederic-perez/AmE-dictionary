@@ -41,6 +41,7 @@ __holy guacamole__ An exclamation said when surprised, used when in shock or dis
 __holy moley__ An exclamation of surprise, shock, or astonishment.  
 __Holy Moses__ :two: Used as an exclamation of surprise or amazement.  
 __hosanna__ _n_  
+__humph__ /hʌmf/ An exclamation of annoyance, dissatisfaction, scepticism, etc.  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeepers__  
 __jeez__ :two: Used to express surprise or annoyance.  

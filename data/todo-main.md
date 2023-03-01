@@ -1,9 +1,23 @@
+__backlog__ _n_ The NHS has made some progress on reducing the care backlog.  
+__bumble<sup>1</sup>__ _v_  
+__bumble<sup>2</sup>__ _n_  
+__catch up__ _v_ _Catch up on some of the biggest stories that came out of the three-day event._  
+__detour__ _n_  
+__edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
+__formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
+__hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
+__infame<sup>1</sup>__ _n_ /in-FAYM/ [:scroll: From Latin in- (not) + fama (reputation)] A person having a bad reputation.  
+__infame<sup>2</sup>__ _v tr_ To defame: to attack the reputation or to disgrace.  
+__infame<sup>3</sup>__ _adj_ Having a bad reputation.  
+__lambast__ _v tr_  
 __languor__  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
 __Lent__ _n_  
+__liberating__ _adj_ /ˈlɪbəreɪtɪŋ/ Providing freedom from restraint; freeing.  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
+__lofty__ _adj_  
 __lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
 __magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
 __Mardi Gras__ _n_ [:scroll: From French, Fat Tuesday. It refers to the old tradition when people showed off a bœuf gras, or “fat ox,” during the holiday]  
@@ -250,6 +264,7 @@ __overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._
 __overly__  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
 __overthink__ _v_ To spend more time thinking about (something) than is necessary or productive.  
+__overthinker__  
 __Overton window__ _n_ /OH-vuhr-tuhn WIN-doh/ [:scroll: After Joseph Overton (1960-2003) who proposed the idea] The range of beliefs, attitudes, etc., considered acceptable at any given time.  
 __overwhelm__ _v_ /oh-ver-WELM/  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
@@ -277,6 +292,7 @@ __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _Th
 __pansexual__  
 __pantomime__ _v_  
 __paper lantern__ _n_ :camera:  
+__papule__ _n_  
 __papules__ _n pl_ Firm bumps on the skin.  
 __paradigmatic__ _adj_ _A paradigmatic example._  
 __paradoxical__ _adj_ :two::hammer:  
@@ -456,6 +472,7 @@ __pot-bellied__ _adj_ _Pot-bellied seahorses._
 __potentate__ _n_ :two: One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
 __potsticker__ _n_  
 __potty-train__ _v_  
+__POTUS__ _n_ /ˈpəʊtəs/ Acronym for (in the US) President of the United States.  
 __poutine__  
 __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
 __power-cycle__ _v_  
@@ -1025,6 +1042,7 @@ __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball p
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
+__spate__ _n_  
 __spaz__  
 __speakeasy__ _n_ :two::hammer:  
 __specie__ _n_ /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
