@@ -1,18 +1,3 @@
-__(first) dibs (on something)__ _slang_ The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_  
-__as of late__  
-__break into__  
-__call dibs (on something)__ _slang_ To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
-__darkest hour__  
-__day and age__  
-__day in and day out__  
-__dead man walking__  
-__deep dive__ :three: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
-__devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
-__dial up__ To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
-__ding ding ding__ :two: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
-__do more harm than good__  
-__do-gooder__  
-__don’t get (one) started__  
 __double down__ :two::hammer:  
 __down for (something)__  
 __down the drain__  

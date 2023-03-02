@@ -11,6 +11,7 @@ __(as) silent as the grave__ Totally silent, especially as produces an ominous o
 __(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell do matter._  
 __(deep) in the weeds__  
 __(deep) into the weeds__ :two::hammer:  
+__(first) dibs (on something)__ _slang_ :dart: The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_  
 __(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
 __(it’s) (a)bout time__ :three: An expression used to emphasize that something should have occurred a long time ago. _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened).  
@@ -258,6 +259,7 @@ __as if to say__
 __as it happens,__ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
+__as of late__  
 __as of now__ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
@@ -559,6 +561,7 @@ __break a leg__ _interj_ :four: Good luck! (A special theatrical way of wishing 
 __break a sweat__  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
+__break into__  
 __break new ground__  
 __break the bank__ :two: To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __break the ice__ To make people who have not met before feel more relaxed with each other.  
@@ -632,6 +635,7 @@ __by trade__ :three: By professional training, experience, and/or expertise. _I 
 __bystander effect__ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __call (all) the shots__  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
+__call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
 __call it a day__ _If there are no further points, then let’s call it a day._  
 __call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
@@ -876,8 +880,10 @@ __dance the night away__ :four: To dance the entire evening. _We danced the nigh
 __dark days__ Times of extreme misfortune or difficult.  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __dark joke__  
+__darkest hour__  
 __date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
-__day in and day out__ :three: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
+__day and age__  
+__day in and day out__ :four: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in day out__ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
 __day or night__ At any point in time; 24 hours a day.  
@@ -891,7 +897,7 @@ __dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never was
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead in the water__ :two: [:scroll: _Dead in the water_ was originally used of a ship and in this context means ‘unable to move’.] Without any chance for success. A person or plan that is dead in the water has failed and has little hope of succeeding in the future: _Now the scandal is out, his leadership campaign is dead in the water._  
 __dead last__ In last place, especially by a wide margin, as for a race or other competition.  
-__dead man walking__ _Jack was a dead man walking._  
+__dead man walking__ :two::hammer: _Jack was a dead man walking._  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
 __dead on (one’s) feet__  
 __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
@@ -901,25 +907,30 @@ __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t p
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ :six::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
-__deep dive__ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  
+__deep dive__ :four: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
 __deepfake__ :two::hammer:  
 __deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __desperate times call for desperate measures__ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
 __deus ex machina__ :two::hammer: _Leaders under fire often wait for some deus ex machina._  
+__devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
+__dial up__ To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
+__ding ding ding__ :two: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __Ding, ding, ding, we have a winner!__ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __dive bar__  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
+__do more harm than good__  
 __do over__  
 __do the dishes__ Wash dishes.  
 __do the trick__  
 __do well__ Prosper, thrive, succeed, as in _He’s done well in the market._  
 __Do your magic__  
+__do-gooder__  
 __doctors make the worst patients__ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __dodge a bullet__ :two: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __doesn’t hold water__ Not true or not reasonable.  
@@ -930,7 +941,7 @@ __dog-eat-dog__ _adj_ :three: A very competitive situation in which people will 
 __doggone__ A mild substitution for “goddamn” or “damn.” _I have so much doggone homework tonight, ugh._ _I can’t believe we lost that doggone game._  
 __don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __don’t count your chickens before they hatch__ :dart::three: (don’t count your chickens before they’re hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, “Don’t count your chickens before they’re hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don’t count your chickens before they’re hatched, babe!_  
-__don’t get (one) started__  
+__don’t get (one) started__ :two::hammer:  
 __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ :two: An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
