@@ -1,10 +1,20 @@
 __backlog__ _n_ The NHS has made some progress on reducing the care backlog.  
 __bumble<sup>1</sup>__ _v_  
 __bumble<sup>2</sup>__ _n_  
+__cadge__ _v_ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._  
 __catch up__ _v_ _Catch up on some of the biggest stories that came out of the three-day event._  
+__contretemps__ _n_ /KAHN-truh-tahn/ The word contretemps refers to an inconvenient or embarrassing occurrence or situation. It can also refer to a dispute or argument.  
+__deacon<sup></sup>__ _v intr_ To lie.  
+__deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  
+__deacon<sup>2</sup>__ _v tr_ __1__ To present the best part of something. __2__ To pack or arrange in a way so that the finest pieces (such as fruit) are visible. __3__ To adulterate; to doctor; to falsify. __4__ To kill a calf or another animal soon after birth. __5__ To ordain as a deacon. __6__ To read aloud lines of a verse before singing.  
 __detour__ _n_  
+__diatribe__  
 __edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
+__ejecta__ _n pl_ /ɪˈdʒɛk tə/ Ejected matter, as that from an erupting volcano.  
+__estrangement__  
+__fanfare__ _n_ A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
 __formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
+__fresco__ _n_ /FRESS-koh/  
 __hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __infame<sup>1</sup>__ _n_ /in-FAYM/ [:scroll: From Latin in- (not) + fama (reputation)] A person having a bad reputation.  
 __infame<sup>2</sup>__ _v tr_ To defame: to attack the reputation or to disgrace.  
@@ -697,6 +707,7 @@ __revel__ _v intr_ :three::hammer:
 __revelry__ _n_ :two::hammer:  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
 __revue__ _n_ :three::hammer: _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._  
+__rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
 __rhododendrons__ _n_ :pencil2:  
 __rib eye__ _n_ _Rib eye steaks._  
@@ -821,6 +832,8 @@ __scarlet letter__ _n_
 __scarlet__ _n_  
 __scatterbrained__ _adj_ /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly  
 __scatting__ _v_  
+__scend<sup>1</sup>__ _v intr_ (send) To rise or lift by, or as if by, a wave.  
+__scend<sup>2</sup>__ _n_ (send) The rising movement of a wave or a ship on a wave.  
 __scenic<sup>1</sup>__ _adj_  
 __scenic<sup>2</sup>__ _n_  
 __schadenfreude__  
@@ -1186,6 +1199,7 @@ __stroganoff__
 __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
 __stuffy__ _adj_ :two::hammer: _A stuffy routine meeting._  
+__stultify__ _v_ /STUL-tuh-fye/ To cause someone or something to become dull or ineffective. _With a government as stultified by bureaucracy as that one, even the simplest records request can take weeks._  
 __stunning__ _adj_ :three::hammer:  
 __sturdy__ _adj_  
 __sturgeon__ _n_ :es: esturión  
