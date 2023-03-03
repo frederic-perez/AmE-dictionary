@@ -1,3 +1,14 @@
+__a week is a long time in politics__ _proverb_ Due to the fast-changing pace of the political landscape, the fortunes of a politician or political group can change drastically just in the course of a single week. The phrase is attributed to British Prime Minister Harold Wilson, c. 1964. _The challenger is enjoying a surge in popularity after the debate, but there’s still time before the election, and a week is a long time in politics._  
+__amateur hour__ A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
+__broken record__ :dart: A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly. _I feel like a broken record having to tell you this each day, but please clean your room!_  
+__brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
+__bucket list__  
+__bystander effect__ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
+__call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
+__canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. Refers to the former practice of taking caged canaries into coal mines. The birds would die if methane gas became present and thereby alert miners to the danger. _Wildlife in disaster movies assumes the role of the canary in the coal mine, fleeing the scene when catastrophe is imminent._ _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
+__candle in the wind__  
+__cloud the issue__ To obfuscate or distract from the topic at hand by introducing irrelevant or misleading information. _Politicians are always clouding the issue during debates by pointing out their opponents’ history in other issues._  
+__clout list__ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process. _Even though he didn’t do well in school, his father’s connections to state senators and local politicians enabled him to be put on the university’s clout list, and he eventually gained admission._  
 __double down__ :two::hammer:  
 __down for (something)__  
 __down the drain__  
@@ -293,6 +304,7 @@ __people pleaser__ (_less commonly_ people-pleaser)
 __perfect storm__  
 __piece of shit__  
 __piping hot__  
+__pizzazz__  
 __play ball__ :three::hammer:  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
