@@ -1,18 +1,3 @@
-__backlog__ _n_ The NHS has made some progress on reducing the care backlog.  
-__bumble<sup>1</sup>__ _v_  
-__bumble<sup>2</sup>__ _n_  
-__cadge__ _v_ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._  
-__catch up__ _v_ _Catch up on some of the biggest stories that came out of the three-day event._  
-__contretemps__ _n_ /KAHN-truh-tahn/ The word contretemps refers to an inconvenient or embarrassing occurrence or situation. It can also refer to a dispute or argument.  
-__deacon<sup></sup>__ _v intr_ To lie.  
-__deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  
-__deacon<sup>2</sup>__ _v tr_ __1__ To present the best part of something. __2__ To pack or arrange in a way so that the finest pieces (such as fruit) are visible. __3__ To adulterate; to doctor; to falsify. __4__ To kill a calf or another animal soon after birth. __5__ To ordain as a deacon. __6__ To read aloud lines of a verse before singing.  
-__detour__ _n_  
-__diatribe__  
-__edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
-__ejecta__ _n pl_ /ɪˈdʒɛk tə/ Ejected matter, as that from an erupting volcano.  
-__estrangement__  
-__fanfare__ _n_ A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
 __formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
 __fresco__ _n_ /FRESS-koh/  
 __hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  

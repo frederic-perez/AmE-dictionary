@@ -1049,7 +1049,7 @@ __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hin
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
-__backlog<sup>1</sup>__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
+__backlog<sup>1</sup>__ _n_ :eight: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
 __backlog<sup>2</sup>__ _v_ (backlogged)  
 __backpacking__ _n_  
 __backpedal__ _v intr_ :three::hammer: _He backpedaled quickly._  
@@ -2397,7 +2397,7 @@ __caddish__ _adj_ :two::hammer:
 __Caddy__ _n_ A Cadillac car.  
 __cadence__ _n_ :four: /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
 __cadet__ _n_  
-__cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
+__cadge__ _v_ :three: __1__ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._ __2__ To cadge is to plead or beg for something. _A hungry child might cadge an extra cookie from her dad while he’s baking._ _He cadged money and bribed guards._  
 __cadre__ _n_ :seven::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before the usual time. Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
@@ -2679,7 +2679,7 @@ __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity 
 __catcall<sup>1</sup>__ _n_ :eight: A shrill sound or raucous shout expressing disapproval at a theater, meeting, etc. :es: silbido _A pack of men on motorbikes left a wake of catcalls._  
 __catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
 __catch a wink__ _v_ Take a siesta. _Tom wouldn’t be the first pilot to catch some winks in a hot cockpit on alert-five._  
-__catch up__ _v_ :two::hammer: _We can catch up in person._  
+__catch up__ _v_ :three::hammer: _We can catch up in person._ _Catch up on some of the biggest stories that came out of the three-day event._  
 __catch__ _n_ :four: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
 __catch-all__ _n_  
@@ -3621,7 +3621,7 @@ __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as
 __contraption__  
 __contrarian__  
 __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
-__contretemps__ _n_ :two: An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
+__contretemps__ _n_ :three: /KAHN-truh-tahn/ The word contretemps refers to an inconvenient or embarrassing occurrence or situation. It can also refer to a dispute or argument. An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :eight: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
@@ -4233,6 +4233,9 @@ __de facto__ _adj_
 __de novo__ _adj, adv_ _Computer-based de novo design of drug-like molecules._  
 __de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
+__deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  
+__deacon<sup>2</sup>__ _v tr_ __1__ To present the best part of something. __2__ To pack or arrange in a way so that the finest pieces (such as fruit) are visible. __3__ To adulterate; to doctor; to falsify. __4__ To kill a calf or another animal soon after birth. __5__ To ordain as a deacon. __6__ To read aloud lines of a verse before singing.  
+__deacon<sup>3</sup>__ _v intr_ To lie.  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
 __dead on__  
@@ -4516,7 +4519,7 @@ __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ _n_ :two::hammer:  
 __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
-__detour<sup>1</sup>__ _n_  
+__detour<sup>1</sup>__ _n_ :two::hammer:  
 __detour<sup>2</sup>__ _v_  
 __detractor__ _n_ :two::astonished: One who disparages or belittles the worth of something. _Syn_ depreciator, disparager, knocker _His stellar performance silenced many of his detractors._  
 __detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
@@ -4554,7 +4557,7 @@ __dialectic<sup>2</sup>__ _adj_ Relating to such a discussion.
 __dialysis__ _n_ :three::hammer:  
 __diaphanous__ _adj_ :two: Very sheer and light; almost completely transparent or translucent. Of such fine texture as to be transparent or translucent. _Syn_ filmy, gauzy, sheer, vaporous _She wore a hat with a diaphanous veil that did not obscure her features._ _The morning sunrise glowed through the diaphanous curtains._  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
-__diatribes__ _n_  
+__diatribe__ _n_ :two::hammer:  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
 __dicey__ _adj_ _informal_ :nine::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
 __dichotomy__ _n_ :four::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
@@ -5312,6 +5315,7 @@ __edible<sup>2</sup>__ _n_
 __edict__ _n_ :two::hammer:  
 __edify__ _v_ :two::hammer: /ED-uh-fye/  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
+__edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
 __educated guess__ _n_ :three::hammer:  
 __eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :nine::hammer: (eery) _Eerie incidents._  
@@ -5355,7 +5359,7 @@ __eighty-eight__ _n_ _slang_ Piano.
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
 __either__ _adj, adv, conj, pron_ :mega:  
-__ejecta__ _n_ Ejected matter, as that from an erupting volcano.  
+__ejecta__ _n pl_ :two: /ɪˈdʒɛk tə/ Ejected matter, as that from an erupting volcano.  
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
 __el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
@@ -5672,6 +5676,7 @@ __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
+__estrangement__  
 __estuary__ _n_ :three::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
@@ -5941,6 +5946,7 @@ __fancy-schmancy__
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ :five: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
+__fanfare__ _n_ A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
@@ -6642,7 +6648,7 @@ __frat__ _n_ _informal_ A college fraternity. _A frat house._
 __fraternal twin__ _n_ One of a pair of twins, not necessarily resembling each other or of the same sex, that develop from two separately fertilized ova. Compare _identical twin._  
 __frats__ _n_  
 __fraudulent__ _adj_ :two::hammer:  
-__fraught__ _adj_ :nine::m: /FRAWT/ __1__ (of a situation or course of action) Filled with (something undesirable). When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._ _Marketing any new product is fraught with danger._ _Predicting the future is fraught with danger._ __2__ Causing or having a lot of emotional stress or worry. Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :nine::m: /FRAWT/ __1__ (of a situation or course of action) Filled with (something undesirable). When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._ _Marketing any new product is fraught with danger._ _Predicting the future is fraught with danger._ __2__ Causing or having a lot of emotional stress or worry. Causing or affected by anxiety or stress. _One of the most fraught jobs in government._  
 __fray<sup>1</sup>__ _n_ :three::hammer: _A bitter partisan fray._  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person’s nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _The alliance between the groups frayed._  
 __frayed__ _adj_ __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) under great strain. _Frayed nerves._  
