@@ -156,6 +156,7 @@ __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in 
 __a stone’s throw__ :two: A very short distance. _The shore house is a stone’s throw from the ocean!_ _Just a stone’s throw from Wrigley Field._  
 __a walk in the park__  
 __a wee dram__ A small amount of liquor, often whisky. Primarily heard in Scotland. _How about a wee dram of whisky for the road?_  
+__a week is a long time in politics__ _proverb_ Due to the fast-changing pace of the political landscape, the fortunes of a politician or political group can change drastically just in the course of a single week. The phrase is attributed to British Prime Minister Harold Wilson, c. 1964. _The challenger is enjoying a surge in popularity after the debate, but there’s still time before the election, and a week is a long time in politics._  
 __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually in the negative.) _I couldn’t get a wink of sleep because of the noise._  
@@ -220,7 +221,7 @@ __all too often__ Too frequently. _We see this problem all too often._
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-you-can-eat__  
 __alter ego__  
-__amateur hour__  
+__amateur hour__ :two: A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ To result in no tangible or appreciable difference.  
 __amount to something__  
@@ -585,12 +586,12 @@ __bring it on__ To begin a fight or competition.
 __bring the house down__ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __bring to an end__  
 __bristle with something__ _phr v_ :nine::m: [:sound: bristled with] (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
-__broken record__ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
+__broken record__ :dart::three: A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly. _I feel like a broken record having to tell you this each day, but please clean your room!_  
 __bromance__ _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
-__brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
+__brood over__ :two: To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
-__bucket list__ _That’s one of my bucket list items._  
+__bucket list__ :two::hammer: _That’s one of my bucket list items._  
 __buckle up__ :four::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._  
 __buff up__  
 __bug off__ _slang_  
@@ -632,13 +633,13 @@ __by the dozen__
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :three: In the same way.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
-__bystander effect__ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
+__bystander effect__ :two: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __call (all) the shots__  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
 __call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
 __call it a day__ _If there are no further points, then let’s call it a day._  
-__call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
+__call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
 __call on (someone or something)__ _He called on me._  
 __call out__ :four::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
@@ -658,9 +659,9 @@ __can’t even__ _slang_ Cannot handle (something). A phrase used (usually comic
 __can’t get a break__  
 __can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
 __can’t thank you enough__  
-__canary in a/the coal mine__ :two: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
+__canary in a/the coal mine__ :three: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. Refers to the former practice of taking caged canaries into coal mines. The birds would die if methane gas became present and thereby alert miners to the danger. _Wildlife in disaster movies assumes the role of the canary in the coal mine, fleeing the scene when catastrophe is imminent._ _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __cancel out__  
-__candle in the wind__ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
+__candle in the wind__ :two: Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cannibalize__ _v_  
 __cannon fodder__ Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
@@ -703,6 +704,7 @@ __catch onto (something)__
 __catch some Zs__ To go to sleep, to take a nap.  
 __catch the sun__ To get sunburned. _I caught the sun at the beach last weekend, and now my back hurts so much that I have to sleep on my side!_  
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
+__catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_  
 __catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
 __caught on the hop__ Caught unawares or in a state of unpreparedness. _Please forgive my distracted attention—I’m afraid I was caught on the hop by your sudden arrival._  
 __caught unaware(s)__ To be surprised by someone or something. _The clerk was caught unawares, and the robber emptied out the cash register before the clerk could sound the alarm._  
@@ -762,8 +764,8 @@ __close the gap (between someone or something)__ To reduce or eliminate some dis
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __cloud nine__ :dart::two: A state of extreme happiness. Typically appears in the phrase “on cloud nine.” _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
-__cloud the issue__ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
-__clout list__ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
+__cloud the issue__ :two: To obfuscate or distract from the topic at hand by introducing irrelevant or misleading information. _Politicians are always clouding the issue during debates by pointing out their opponents’ history in other issues._  
+__clout list__ :two: A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process. _Even though he didn’t do well in school, his father’s connections to state senators and local politicians enabled him to be put on the university’s clout list, and he eventually gained admission._  
 __clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to once-salacious but now relatively common things, events, situations, etc. _Parents should try not to clutch the pearls every time their teenagers come out of their room dressed outrageously—it only makes them want to push the envelope even further._  
 __cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
 __cock of the walk__ [:scroll: In animal husbandry, an enclosed yard or a pen is known as a walk. A rooster who rules a roost is, literally, a cock of the walk.] A person who behaves in an arrogant and domineering manner in a group. _The deputy manager was cock of the walk until the new manager arrived. He loved acting cock of the walk and ordering everyone about._  
@@ -822,6 +824,7 @@ __count your blessings__ :six: (count (one’s) blessings) To be grateful for th
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
 __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
 __cozy up (to someone or something)__  
+__crack down (on someone or something)__ To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
 __crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
@@ -954,10 +957,11 @@ __doom and gloom__ :two: A general feeling of pessimism or despondency. This exp
 __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and make sure that every last minor detail is completed. _Please make sure to dot your i’s and cross your t’s when signing this contract._  
 __dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
-__double down__ To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
+__double down__ :three: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
 __double entendre__  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
+__down for (something)__  
 __down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
 __down the drain__ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the line__ In the future.  
