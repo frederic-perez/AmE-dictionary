@@ -1,9 +1,14 @@
+__accentuate__ _v_ /ak-SEN-shu-wayt/ To make something more noticeable. _He likes to wear clothes that accentuate his muscular build._  
+__anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
+__corkage__ _n_ A fee charged in restaurants for opening a bottle of wine brought in by a patron.  
 __formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
 __fresco__ _n_ /FRESS-koh/  
 __hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __infame<sup>1</sup>__ _n_ /in-FAYM/ [:scroll: From Latin in- (not) + fama (reputation)] A person having a bad reputation.  
 __infame<sup>2</sup>__ _v tr_ To defame: to attack the reputation or to disgrace.  
 __infame<sup>3</sup>__ _adj_ Having a bad reputation.  
+__inveigh__ _v_ :dart: To give vent to angry disapproval; protest vehemently. _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
+__klazomania__ _n_  
 __lambast__ _v tr_  
 __languor__  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
@@ -82,10 +87,12 @@ __narcissistic__ _adj_ :pencil2:
 __narrow__ _v_ _I narrowed the list down to just over twenty entries._  
 __narrowboat__  
 __nascent__  
+__native language__ _n_  
 __nativity__ _n_  
 __naughty__ _adj, n_ :mega:  
 __Neapolitan__ _adj, n_ :two::pencil2:  
 __nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
+__nearlywed__ _n_  
 __nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necklace__ _n_ :two::hammer:  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
@@ -102,6 +109,7 @@ __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or a
 __neurotypical__ _adj, n_  
 __nevus__ _n_ /ˈni vəs/ Any congenital anomaly of the skin, including moles and various types of birthmarks.  
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
+__newlywed__ _n_  
 __news__ _n_ :mega:  
 __newsworthy__ _adj_  
 __newts__ _n_ _A pond teeming with frogs and newts._  
@@ -534,6 +542,7 @@ __provider__ _n_
 __proviso__ _n_  
 __provost__ _n_ :two::hammer:  
 __prowess__ _n_ :two::hammer:  
+__proximate__ _adj_ /PRAHK-suh-mut/  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -1001,6 +1010,7 @@ __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smash__ _adj_ _Our sixth smash year!_  
 __smattering__  
+__smell-feast__  
 __smidge__ _n_  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
@@ -1231,12 +1241,15 @@ __superlative__ _adj_ _Superlative works._
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
 __support__ _v_  
 __supreme__ _adj_ /səˈprim, sʊ-/  
+__surcease__ _n_ A stopping. _Syn_ cessation  
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __sustenance__ _n_ :two::hammer:  
 __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
+__swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
+__swan<sup>2</sup>__ _v intr_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
 __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
 __swash__ _n_  
 __swashbuckling__ _adj_  
