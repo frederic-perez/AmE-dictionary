@@ -8867,7 +8867,7 @@ __invalidate__ _v_
 __invalidating__ _adj_ _Invalidating people._  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :six: /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
-__inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
+__inveigh__ _v_ :dart::four: To give vent to angry disapproval; protest vehemently. To protest or complain bitterly or vehemently. _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inverness__ _n_  
 __invest__ _v_ :two::hammer: _The Black Prince could be starved out if the French chose to surround and invest him._  
@@ -9285,6 +9285,7 @@ __kitsch__ _n_ :two::pencil2: /KITCH/ Something that appeals to popular or lowbr
 __kitten__  
 __kiva__ _n_ _A Native American kiva._  
 __kiwi__  
+__klazomania__ _n_  
 __kleptocracy__ _n_ :three: /ˌklɛpˈtɒkrəsɪ/ (cleptocracy) A government characterized by rampant greed and corruption.  
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._  
@@ -9413,7 +9414,7 @@ __Lalique__
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _v_  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
-__lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
+__lambast__ _v tr_ _informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__ _adj_ :two::hammer:  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
@@ -9444,7 +9445,7 @@ __landscape__ _n_ _Landscape gardening._
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
 __languid__ _adj_ :two: /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. Lacking energy or vitality; weak. _Syn_ lackadaisical, languorous _He gave a languid wave of the hand to signify his indifference._ _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
 __languish__ _v_ :four: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
-__languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
+__languor__ _n_ :two: A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
 __languorous__ _adj_ Lacking spirit or liveliness. _Syn_ lackadaisical, languid, dreamy  
 __lank__ _adj_ :three::hammer: _Her hair hung in lank locks._ _Lank black hair._  
 __lanky__ _adj_ :five::hammer:  
@@ -9520,7 +9521,8 @@ __launch__ _v_ _Launching the projectile/friend._
 __launder__ _v_  
 __laureate__ _adj, n_ :two::hammer:  
 __laurels__  
-__lave__ _v_ (laved)  
+__lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
+__lave<sup>2</sup>__ _v tr_ :two: __1__ To wash or bathe. __2__ To flow.  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._ _A lavish castle surrounded by 600 acres of state._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
 __lavishly__ _adv_ :three::hammer:  
@@ -9583,6 +9585,7 @@ __lefty buckets__
 __leg warmer__ _n_  
 __legal tack__  
 __legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
+__legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
 __legerdemain__ _n_ :six: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
@@ -9610,7 +9613,7 @@ __lenity__ _n_
 __Lenny__ _n_ Diminutive of Leonard.  
 __lens__ _n_ _Lens design._  
 __lenses__ _n pl_  
-__Lent__ _n_ :two::hammer: :es: cuaresma  
+__Lent__ _n_ :three::hammer: :es: cuaresma  
 __lentic__ _adj_ /LEN-tik/ [:scroll: From Latin lentus (slow, calm), which also gave us relent, lentamente (slowly, used in music direction), and lentitude (slowness).] Relating to or living in still waters (such as lakes, ponds, or swamps).  
 __lentil__ _n_ (lentils) :es: lentejas  
 __leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
@@ -9652,6 +9655,7 @@ __liaison__ _n_ :seven::pencil2: /lee-AY-zahn/ __1__ A person who helps organiza
 __libation__ _n_ :nine::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
+__liberating__ _adj_ /ˈlɪbəreɪtɪŋ/ Providing freedom from restraint; freeing.  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
 __libertine<sup>2</sup>__ _n_  
 __liberty__ _n_ :three: __5__ (Nautical Terms) __a__ Authorized leave granted to a sailor. _He granted liberty on Monday with misgivings._ _Liberty is canceled until further notice._ __b__ (as modifier): liberty man; liberty boat.  
@@ -9716,6 +9720,7 @@ __lilt__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
+__limbic system__ _n_  
 __limbic__ _adj_ _Limbic system._  
 __limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :five::hammer:  
@@ -9752,6 +9757,7 @@ __lionize__ _v_ :two: To look on or treat (a person) as a celebrity. _Syn_ celeb
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lip-worshiper__ _n_  
+__lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
 __lipped__ _v_  
 __lippy__ _adj_  
 __lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
@@ -9837,7 +9843,7 @@ __lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses 
 __lodging__ _n_ :three::hammer: (lodgings)  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
-__lofty__ _adj_ :eight: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
+__lofty__ _adj_ :nine: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
 __logfile__ _n_  
 __loggerhead__ _n_ :three: A stupid person; these words are used to express a low opinion of someone’s intelligence.  
 __logjam__ _n_  
@@ -9992,7 +9998,7 @@ __lurch<sup>2</sup>__ _n_
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :six::hammer: _A lurid career._  
-__lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
+__lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
 __luscious__ _adj_ :three: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
@@ -10059,6 +10065,7 @@ __Magic Marker__
 __magical thinking__ _n_  
 __Magna Carta__  
 __magnanimous__ _adj_ :three: /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge. _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
+__magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
 __magnolia__ _n_ [:scroll: New Latin Magnolia, genus name, after Pierre Magnol (1638-1715), French botanist]  
 __magnum opus__ _n_ :two: __1__ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._ __2__ The greatest single work of an artist, writer, or composer.  
 __magpie__ _n_ :es: urraca  
@@ -10198,7 +10205,7 @@ __marbled__ _adj_ __3__ Marked by an intermixture of fat and lean. _Well-marbled
 __marcel__ _v_ (marcelled) To style (the hair) with deep regular waves, using a curling iron. _His marcelled hair gleamed like liquid plastic._  
 __marcescence__ _n_ /mahr-SES-uhns/ [:scroll: From Latin marcescere (to wither), from marcere (to wither).] The retention of dead leaves, etc., as opposed to shedding.  
 __march__ _n_ _Demonstrators ona marchin Athens._  
-__Mardi Gras__ _n_ :mega:  
+__Mardi Gras__ _n_ :two::mega::hammer: [:scroll: From French, Fat Tuesday. It refers to the old tradition when people showed off a bœuf gras, or “fat ox,” during the holiday]  
 __mardy__ _adj_  
 __mare__ _n_  
 __margarine__ _n_  

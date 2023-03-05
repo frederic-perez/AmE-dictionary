@@ -1,18 +1,3 @@
-__inveigh__ _v_ :dart: To give vent to angry disapproval; protest vehemently. _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
-__klazomania__ _n_  
-__lambast__ _v tr_  
-__languor__  
-__lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
-__lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.  
-__legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
-__Lent__ _n_  
-__liberating__ _adj_ /ˈlɪbəreɪtɪŋ/ Providing freedom from restraint; freeing.  
-__limbic system__ _n_  
-__lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
-__lofty__ _adj_  
-__lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
-__magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
-__Mardi Gras__ _n_ [:scroll: From French, Fat Tuesday. It refers to the old tradition when people showed off a bœuf gras, or “fat ox,” during the holiday]  
 __mash-up__ _n_ Something created by combining elements from two or more sources.  
 __mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
