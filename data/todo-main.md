@@ -1,8 +1,15 @@
 __accentuate__ _v_ /ak-SEN-shu-wayt/ To make something more noticeable. _He likes to wear clothes that accentuate his muscular build._  
 __anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
+__bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
+__casual Friday__ _n_ Another name for dress-down Friday.  
+__chasm__ _n_  
 __corkage__ _n_ A fee charged in restaurants for opening a bottle of wine brought in by a patron.  
+__crotchety__ _adj_  
+__dog-eat-dog__ _adj_ Marked by ruthless self-interest.  
+__eclipse__ _n_ /ɪˈklɪps/  
 __formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
 __fresco__ _n_ /FRESS-koh/  
+__gobbledygook__ _n_  
 __hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __infame<sup>1</sup>__ _n_ /in-FAYM/ [:scroll: From Latin in- (not) + fama (reputation)] A person having a bad reputation.  
 __infame<sup>2</sup>__ _v tr_ To defame: to attack the reputation or to disgrace.  
@@ -16,6 +23,7 @@ __lave<sup>2</sup>__ _v tr_ __1__ To wash or bathe. __2__ To flow.
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
 __Lent__ _n_  
 __liberating__ _adj_ /ˈlɪbəreɪtɪŋ/ Providing freedom from restraint; freeing.  
+__limbic system__ _n_  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
 __lofty__ _adj_  
 __lurk__ _v_ To read messages on an Internet discussion forum without contributing information.  
@@ -169,6 +177,7 @@ __nutrition label__ _n_
 __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
 __Nymphean__ _adj_ _Nymphean theater._  
 __oasis__ _n_ (_n pl_ oases)  
+__oat__ _n_ _After much deliberation, the US Food and Drug Administration has ruled that oat and soy milk can be called milk._  
 __obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __objectee__  
@@ -264,6 +273,7 @@ __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usuall
 __overhaul<sup>1</sup>__ _v_ :dart:  
 __overhaul<sup>2</sup>__ _n_  
 __overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
+__overlord__ _n_  
 __overly__  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
 __overthink__ _v_ To spend more time thinking about (something) than is necessary or productive.  
@@ -851,6 +861,7 @@ __scrap<sup>1</sup>__ _n_
 __scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
+__scrape__ _v_  
 __scratching__ _n_  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
@@ -1097,6 +1108,7 @@ __stage play__
 __stage show__  
 __stagecoach__ _n_ :two::hammer:  
 __staggering__ _adj_ _Staggering costs._  
+__stagnant__ _adj_  
 __stakeholder__ _n_ :two::hammer:  
 __stale__ _adj_  
 __stalk__ _n_  
@@ -1739,7 +1751,7 @@ __yuzu__ _n_ (A Japanese citrus fruit.)
 __zeitgeist__ _n_ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
 __zephyr__ _n_  
 __zero in__  
-__zesty__ _adj_ :three::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
+__zesty__ _adj_ :four::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zinch__  
 __zipline__ _n_ :two::hammer: _A zipline park._  
 __zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
