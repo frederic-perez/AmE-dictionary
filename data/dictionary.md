@@ -105,6 +105,7 @@ __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful,
 __abyss__ _n_ :seven::astonished::mega: /əˈbɪs/ _Looking into the abyss._  
 __acacia__ _n_  
 __accenting__ _v_  
+__accentuate__ _v_ /ak-SEN-shu-wayt/ To make something more noticeable. _He likes to wear clothes that accentuate his muscular build._  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
 __accessory__ _adj, n_ :pencil2:  
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
@@ -603,6 +604,7 @@ __anthropic__ _adj_
 __anthropogenic__  
 __anthropomorphic__ _adj_ /an-thruh-puh-MOR-fik/  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
+__anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
 __anti-humor__  
 __anti-Semitism__  
 __antibiotic<sup>1</sup>__ _n_  
@@ -1179,6 +1181,7 @@ __barbells__
 __Barbershop music__ _n_ Barbershop vocal harmony, as codified during the barbershop revival era (1930s–present), is a style of a cappella close harmony, or unaccompanied vocal music, characterized by consonant four-part chords for every melody note in a primarily homorhythmic texture.  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
 __barded__ _v_  
+__bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __barf__ _v_ :four: To vomit. _Barf bag._ _Barf bucket._  
@@ -2655,7 +2658,7 @@ __castigate__ _v_ Censure severely. _Syn_ chasten, chastise, objurgate _ften he 
 __castigation__ _n_  
 __castle__ _n, v_ :mute:[cas~~t~~le]  
 __castoff__ _n_  
-__casual Friday__ _n_ Another name for dress-down Friday. _Casual Fridays should be every day._  
+__casual Friday__ _n_ :two: Another name for dress-down Friday. _Casual Fridays should be every day._  
 __casual__ _adj_ _He put on casual clothes._  
 __casualty__ _n_ :two::hammer:  
 __casuist__ _n_ /KAZH-oo-ist/ One who employs deceptive or excessively subtle reasoning, especially on moral issues.  
@@ -3708,6 +3711,7 @@ __core dump__ _n_ _The book goes on like this, a chronological core dump of fact
 __corgi__  
 __coriander__ _n_ :two::hammer: :es: cilantro  
 __cork sun helmet__ _n_ :two: Pith helmet.  
+__corkage__ _n_ A fee charged in restaurants for opening a bottle of wine brought in by a patron.  
 __corkboard__ _n_  
 __corky__ _adj_ :two::hammer:  
 __cormorants__  
@@ -3972,7 +3976,7 @@ __crossover<sup>1</sup>__ _n_ :three::hammer:
 __crossover<sup>2</sup>__ _adj_ :two: __1__ (of music, fashion, art, etc) Combining two distinct styles. :es: fusión __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre._Superstar crossover violinist._ __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
 __crosspatch__ _n_ A peevish, irascible person; a grouch. _Syn_ crank, grouch, grump, churl _He was known to all as a crosspatch, but all that changed with the birth of his first grandchild._  
 __crossroads__ _n_ :three::hammer: _At crossroads turn R onto B1233 towards Cottingham._ _I’m at a career crossroads._ _He is at a significant crossroads in his career._  
-__crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
+__crotchety__ _adj_ :three: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
 __crouch<sup>2</sup>__ _n_  
 __crow__ _v_ :four::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._ _He proclaimed his intention like a cock crowing._  
@@ -4866,6 +4870,7 @@ __dog whistle__ _adj_
 __dog__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
+__dog-eat-dog__ _adj_ Marked by ruthless self-interest.  
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogfight__ _n_ __2__ _An aerial battle between fighter planes._  
 __dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
@@ -5295,6 +5300,7 @@ __echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also 
 __eclampsia__  
 __éclat__ _n_  
 __eclectic__ _adj_ :two::pencil2::hammer:  
+__eclipse__ _n_ /ɪˈklɪps/  
 __ecliptic__ _n_  
 __ecology__ _n_  
 __ecosystem__ _n_  
@@ -6580,6 +6586,7 @@ __formals__ _n_
 __Formica__  
 __formidable__  
 __formula milk__ _n_ :three: An artificial substitute for breast milk intended for feeding infants. It can come in powdered form to be mixed with water or in instant liquid form.  
+__formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
 __formulate__ _v_ _I was formulating my question._  
 __forsake__ _v_ :seven: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken<sup>1</sup>__ _v_ :two: The past participle of forsake.  
@@ -6683,7 +6690,7 @@ __frenemy__ _n_ /ˈfrɛnəmɪ/ [:scroll: A blend of friend + enemy.] __1__ A sup
 __frenetic__ _adj_ :two: /frih-NET-ik/ Marked by excitement, disorder, or anxiety-driven activity. _Syn_ frenzied, frantic _The celebration was noisy and frenetic, lasting into the wee hours of morning._  
 __frenzy__ _n_ :two::hammer:  
 __frequent__ _v_  
-__fresco__ _n_ :two::hammer: (frescoes, or frescos _n pl_)  
+__fresco__ _n_ :three::hammer: /FRESS-koh/ (frescoes, or frescos _n pl_)  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __freshen__ _v_ :two::hammer: (freshened, freshening) _Eve was freshening drinks and handing out cigars._  
 __freshet__ _n_ :two: /ˈfrɛʃɪt/ The occurrence of a water flow resulting from sudden rain or melting snow.  
@@ -7176,7 +7183,7 @@ __goatee__ _n_ _Sagging goatee._
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
 __gobble<sup>1</sup>__ _v_ :three::hammer: _Gobbling a plate of spaguetti and meatballs._  
 __gobble<sup>2</sup>__ _n_  
-__gobbledygook__  
+__gobbledygook__ _n_ :two::hammer:  
 __goblin__ _n_ :four::hammer: (goblins)  
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
@@ -8333,6 +8340,7 @@ __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that
 __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my coworker some advice after the meeting, but she perceived it as criticism, got all huffy, and stormed away._  
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
+__hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
 __humbug<sup>1</sup>__ _n_ :two: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
 __humbug<sup>2</sup>__ _v tr_ To deceive or trick.  
@@ -8680,6 +8688,9 @@ __inextricable__ _adj_
 __inextricably__ _adv_ :four::hammer: _Syn_ inseparably, totally, intricately, irretrievably, indissolubly, indistinguishably _Our survival is inextricably linked to survival of the rainforest._  
 __infallibity__  
 __infallible__ _adj, n_  
+__infame<sup>1</sup>__ _n_ /in-FAYM/ [:scroll: From Latin in- (not) + fama (reputation)] A person having a bad reputation.  
+__infame<sup>2</sup>__ _v tr_ To defame: to attack the reputation or to disgrace.  
+__infame<sup>3</sup>__ _adj_ Having a bad reputation.  
 __infamous__ _adj_ :nine::m: __1__ Causing or deserving a bad reputation; shocking: _infamous conduct._ _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__ _n_ :two::hammer:  
 __infant__ _n_  

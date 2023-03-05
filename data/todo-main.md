@@ -1,19 +1,3 @@
-__accentuate__ _v_ /ak-SEN-shu-wayt/ To make something more noticeable. _He likes to wear clothes that accentuate his muscular build._  
-__anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
-__bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
-__casual Friday__ _n_ Another name for dress-down Friday.  
-__chasm__ _n_  
-__corkage__ _n_ A fee charged in restaurants for opening a bottle of wine brought in by a patron.  
-__crotchety__ _adj_  
-__dog-eat-dog__ _adj_ Marked by ruthless self-interest.  
-__eclipse__ _n_ /ɪˈklɪps/  
-__formula__ _n_ __2__ A milk mixture or substitute for feeding an infant.  
-__fresco__ _n_ /FRESS-koh/  
-__gobbledygook__ _n_  
-__hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
-__infame<sup>1</sup>__ _n_ /in-FAYM/ [:scroll: From Latin in- (not) + fama (reputation)] A person having a bad reputation.  
-__infame<sup>2</sup>__ _v tr_ To defame: to attack the reputation or to disgrace.  
-__infame<sup>3</sup>__ _adj_ Having a bad reputation.  
 __inveigh__ _v_ :dart: To give vent to angry disapproval; protest vehemently. _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
 __klazomania__ _n_  
 __lambast__ _v tr_  
