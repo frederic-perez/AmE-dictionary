@@ -1,3 +1,6 @@
+__check off__ :dart: To mark someone or something as present, verified, or completed, as on a list. A noun or pronoun can be used between “check” and “off.” _Checking things off my to-do list is so satisfying._  
+__coming-of-age__  
+__dial in__  
 __down the drain__  
 __down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
 __down-to-earth__  
@@ -18,6 +21,8 @@ __every so often__ :two: Sometimes; occasionally. _Josh does stop by the store e
 __everything under the sun__  
 __face value__  
 __failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
+__fair game__  
+__fall by the wayside__ __2__ To be discarded, ignored, rejected, or set aside in favor of other considerations or more urgent matters. _With the economy suffering, the president’s plan for environmental reform has increasingly fallen by the wayside._ _Amazon’s once-innovative voice assistant Alexa has fallen by the wayside._  
 __fall off the wagon__ :two::hammer:  
 __fall short of__  
 __fall short__  
@@ -87,7 +92,7 @@ __go apeshit__
 __go berserk__  
 __go down in/make history__  
 __go downhill__  
-__go figure__  
+__go figure__ :two: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. _The one time I get to the station on time, the train is delayed—go figure!_  
 __go for a run__  
 __go for the jugular__ _Go straight for the jugular._  
 __go granular__ To examine something in detail.  
@@ -96,6 +101,7 @@ __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, th
 __go overboard__  
 __go the distance__ :dart::two: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go vacant__ _Her eyes went vacant again._  
+__gold rush__ _VCs scramble to cash in on AI gold rush._  
 __golden boy__  
 __golden goose__  
 __good call__ :two::hammer:  
@@ -161,11 +167,13 @@ __in the face of (something)__
 __in the gutter__  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
 __in the long term__  
+__in the loop__  
 __in the middle of nowhere__  
 __in the pipeline__ :dart: In progress or about to be started or implemented. _Don’t worry, your raise is in the pipeline for next quarter._  
 __in the public eye__  
 __in this day and age__  
 __intellectually challenged__ Of low intelligence; stupid.  
+__iron out__  
 __it is not a competition__  
 __it takes a village__  
 __it takes two to tango__  
@@ -236,6 +244,7 @@ __mother lode__
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
 __muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
+__mull over__ To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
 __naked eye__ _With the naked eye._  
 __name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__  
@@ -325,6 +334,7 @@ __rabble-rouser__
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
+__rave about (something)__ To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
 __ready, set, go__  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
@@ -357,6 +367,7 @@ __run the show__
 __run with it__  
 __run with scissors__  
 __running bit__  
+__sack (someone)__ _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
 __sanctum sanctorum__  
 __save face__ :two::hammer:  
 __save the day__ :two::hammer:  
@@ -415,6 +426,7 @@ __stepping stone__
 __steppingstone__  
 __sticky fingers__  
 __stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
+__stir the pot__ To exacerbate a tense or otherwise difficult situation. _If you want a drama-free party, don’t invite Kaitlin—she loves to stir the pot._  
 __stomach bug__ Something, such as a germ (colloquially a bug), that causes intestinal distress (particularly vomiting). Sometimes incorrectly used to refer to _food poisoning_.  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __story arc__  
@@ -573,6 +585,7 @@ __turn the tables__
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __twofer__  
+__U-turn__  
 __uncanny valley__  
 __under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s thumb__  
@@ -621,6 +634,7 @@ __white lie__
 __white-knuckle__  
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
+__why on earth__ Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wild__  
 __wildest dreams__  
