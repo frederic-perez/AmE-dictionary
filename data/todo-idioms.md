@@ -1,18 +1,3 @@
-__check off__ :dart: To mark someone or something as present, verified, or completed, as on a list. A noun or pronoun can be used between “check” and “off.” _Checking things off my to-do list is so satisfying._  
-__coming-of-age__  
-__dial in__  
-__down the drain__  
-__down the road__ :two: In the future. _I do want to get married, but down the road, not any time soon._  
-__down-to-earth__  
-__downer__  
-__draw a line in the sand__  
-__draw to a close__ :three::hammer:  
-__drivers seat__  
-__driving force__  
-__drop a bomb__  
-__dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
-__duke it out__  
-__easy peasy__  
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __end of one’s rope__  
 __even more so__ :two::hammer:  

@@ -724,8 +724,7 @@ __chase the clouds away__
 __chatterbox__ _informal_  
 __cheap out__ To choose a less expensive option or course of action in order to reduce cost, especially at the expense of quality or reliability. _A: “We’ve had to have so many repairs done to the house over the last year.” B: “Well, that’s what you get for cheaping out on building materials.”_  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
-__check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
-__check out__ :six::hammer: _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
+__check off__ :dart::seven::hammer: To mark someone or something as present, verified, or completed, as on a list. A noun or pronoun can be used between “check” and “off.” _Checking things off my to-do list is so satisfying._ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._ _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheesy__ _adj informal_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chew on something__  
@@ -801,7 +800,7 @@ __come to think of it__ _Come to think of it, I haven’t seen too many bullshit
 __come together__ :three::hammer:  
 __come-one-come-all__  
 __comfort food__ Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._  
-__coming-of-age__ :three: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
+__coming-of-age__ :four: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
@@ -917,7 +916,7 @@ __desperate times call for desperate measures__ Extreme and undesirable circumst
 __deus ex machina__ :two::hammer: _Leaders under fire often wait for some deus ex machina._  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
-__dial up__ To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
+__dial up__ :two: To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
@@ -963,35 +962,39 @@ __double talk__
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down for (something)__  
 __down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
-__down the drain__ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
+__down the drain__ :three: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the line__ In the future.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
-__down the road__ _informal_ In the future; later on.  
+__down the road__ _informal_ :three: In the future; later on. _I do want to get married, but down the road, not any time soon._  
 __down to (someone or something)__  
 __down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
-__down-to-earth__ _adj_ :four: Sensible and realistic.  
+__down-to-earth__ _adj_ :five: Sensible and realistic.  
+__downer__  
 __doxxing__ :two: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
 __drag (one’s) feet__ :two: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw a blank__ :two: To fail to find or remember something.  
-__draw a line in the sand__  
-__draw to a close__  
+__draw a line in the sand__ :two::hammer:  
+__draw to a close__ :four::hammer:  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __dressed to kill__  
 __drink like a fish__ To drink too much alcohol.  
 __drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
+__drivers seat__  
+__driving force__  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
-__drop a bomb__  
+__drop a bomb__ :two::hammer:  
 __drop a bombshell__ To announce shocking news.  
 __drop by__  
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop the ball__ :three: To make a mistake, to fail.  
 __duck__ __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._  
-__duke it out__  
+__dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
+__duke it out__ :two::hammer:  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
@@ -999,7 +1002,7 @@ __early bird__ _No early birds allowed because it just wouldn’t be fair to the
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
-__easy peasy__  
+__easy peasy__ :two::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __echo chamber__  
