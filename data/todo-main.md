@@ -1,18 +1,3 @@
-__Moorish__ _adj_ _Moorish architecture._  
-__mop top hair__  
-__morass__ _n_ __1__ A tract of swampy low-lying land. __2__ A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._  
-__moray eel__ _n_  
-__moreish__ _adj_ :two::hammer: _Moreish cocktails._  
-__moreover__ _adv_ _Syn_ furthermore, also, further, in addition, too, as well, besides, likewise, what is more, to boot, additionally, into the bargain, withal  
-__morganatic__ _adj_  
-__morris__ _n_ An English folk dance in which a story is enacted by costumed dancers. _Maypole and morris dancers._  
-__mortgage__ _n_ :mega:  
-__mortified__  
-__mosey<sup>1</sup>__ _n_  
-__mosey<sup>2</sup>__ _v intr_  
-__mote__ _n_ :two::hammer:  
-__motif__ _n_  
-__motorhome__ _n_ :camera:  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __mousetrap__ _n_  
 __mousy__ _adj_ _A mousy accountant._  

@@ -10746,48 +10746,58 @@ __moonstruck__ _adj_ :two: __1__ Mentally deranged, supposedly by the influence 
 __Moor__ _n_  
 __moor__ _n_ :four::hammer: _Heather-filled moors._  
 __mooring__ _n_ :two::hammer:  
+__Moorish__ _adj_ _Moorish architecture._  
 __moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __moot<sup>3</sup>__ _n_  
+__mop top hair__  
 __mope__ _v_ :pencil2::two::hammer:  
 __moped__ _n_  
 __moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
 __moral__  
 __morale__ _n_ :four::hammer: _The sunken morale left by defeats._  
-__morass__ _n_ :four: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” _Social media can make it difficult to discern the truth of something amid the morass of misinformation._  
+__morass__ _n_ :five: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._  
 __moratorium__ _n_ :two::hammer:  
+__moray eel__ _n_  
 __morbid__ _adj_  
 __morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
 __morcellator__  
 __more than meets the eye__  
+__moreish__ _adj_ :two::hammer: _Moreish cocktails._  
 __morels__ _n_  
+__moreover__ _adv_ _Syn_ furthermore, also, further, in addition, too, as well, besides, likewise, what is more, to boot, additionally, into the bargain, withal  
 __mores__ _n pl_  
+__morganatic__ _adj_  
 __moribund__  
 __Mormon apostle__  
 __morning glory__  
 __morosely__ _adv_ :two::hammer:  
 __morphetic__ _adj_ /mor-FET-ik/ [:scroll: After Morpheus, the god of dreams in Greek mythology. He was the son of Hypnos, the god of sleep. The name of the drug morphine is also derived after Morpheus.] Relating to sleep or dreams.  
+__morris__ _n_ An English folk dance in which a story is enacted by costumed dancers. _Maypole and morris dancers._  
 __morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :three::hammer: _Militants fired mortar rounds._  
-__mortgage<sup>1</sup>__ _n_ :mute:[mor~~t~~gage]  
+__mortgage<sup>1</sup>__ _n_ :two::mega::mute:[mor~~t~~gage]:hammer:  
 __mortgage<sup>2</sup>__ _v_ :mute:[mor~~t~~gage]  
 __mortice__  
 __mortification__ _n_ :two::hammer:  
-__mortify__ _v_ :six::hammer: (mortified)  
+__mortified__ _adj_ :seven: Having been offended or embarrassed.  
+__mortify__ _v_  
 __mortuaries__  
+__mosey<sup>1</sup>__ _n_  
+__mosey<sup>2</sup>__ _v intr_  
 __mosh pit__ _n_ An area in front of a stage where very physical and rough dancing takes place at a rock concert.  
 __mosh__ _v intr_ :two: To knock against others intentionally while dancing at a rock concert; slam-dance.  
 __mosque__ _n_ :two::hammer: (mosques)  
 __mot juste__ _n_ The appropriate word or expression.  
-__mote__ _n_ :two::hammer: (motes) _A dust mote._  
+__mote__ _n_ :four::hammer: (motes) _A dust mote._  
 __moth__ _n_ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
 __Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
 __mother-of-pearl__ _n_ :es: nácar _Mother-of-pearl inlays._  
-__motifs__ _n_  
+__motif__ _n_ :two::hammer:  
 __motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _n_ _Defense attorneys had filed motions._  
 __motley__ _adj_ :seven: If you’ve encountered the word motley, it’s most likely in the phrase “motley crew,” which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. Motley usually means “made up of many different people or things,” and often appears in the phrase “motley crew” or “motley mix.” It can also mean “variegated in color.” _Many of the jesters at the medieval festival were dressed in bright motley garb._ _Motley crew._ _A motley collection._  
@@ -10797,6 +10807,7 @@ __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) 
 __motor court__  
 __motorcade__ _n_ A procession of motor vehicles, as in a parade.  
 __motorcycle center (main) stand__ _n_ :es: caballete de la moto  
+__motorhome__ _n_ :camera:  
 __motoring__  
 __motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
