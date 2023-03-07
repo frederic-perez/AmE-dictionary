@@ -10250,6 +10250,7 @@ __marzipan__ _n_ :two::hammer: :es: mazapán
 __masago__ _n_  
 __mascara__ _n_ :astonished: A cosmetic applied to thicken, lengthen, and usually darken the eyelashes. :es: rímel  
 __mascot__ _n_ :two::hammer: (vs pet)  
+__mash-up__ _n_ Something created by combining elements from two or more sources.  
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :three: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._ _Used mash goes to feed a local farmer’s pigs._  
 __mashed potatoes__  
@@ -10482,6 +10483,7 @@ __mezzanine__ _n_ :three::hammer:
 __miasma__ _n_ :seven::hammer: _An opaque miasma._  
 __michelada__ _n_  
 __mick__ _n_ :three::hammer:  
+__mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
 __microbrew__ _n_ :four::hammer:  
 __microdermabrasion__ _n_  
@@ -10490,6 +10492,7 @@ __mid-afternoon__
 __midafternoon__  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
 __midday__ _n_ :four::pencil2: The middle of the day; noon. _Normalize midday naps._  
+__middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ :two: A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
@@ -10527,6 +10530,7 @@ __milieu__ _n_ /meel-YOO/ A milieu is the physical or social setting in which so
 __military fiat__ _n_  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
+__milium__ _n_ A small, white or yellowish cystlike mass just below the surface of the skin, caused by retention of the secretion of a sebaceous gland. _Syn_ whitehead _The soap promised to eradicate milia by thoroughly cleansing the skin and unclogging pores._  
 __milk toast__ _n_ Toast, usually buttered, topped with warm milk and often sugar or seasonings.  
 __milk__ _v_ :four::hammer: _Milk the clock._ _The general milked the clapping for a long time._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
@@ -10699,6 +10703,7 @@ __mom-and-pop__ _adj_ _Mom-and-pop shops._
 __momentous__ _adj_ :four: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
 __momentously__ _adv_ In a momentous way.  
 __momentum__ _n_ :two::hammer: _I’ve lost a lot of momentum._  
+__momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __monad__  
 __Monday__ _n_ :mega: /’möndi, -deI/  
 __mondegreen__ _n_ :three::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
@@ -10708,24 +10713,29 @@ __moneyed__
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
-__moniker__ _n_ :three::hammer:  
+__moniker__ _n informal_ :four::hammer:  
 __monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
 __monkey suit__  
-__monkey wrench__  
+__monkey wrench__ _n_ :two: __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
 __monkeypox__ _n_  
 __monogramming__  
+__monolith__ _n_  
+__monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
 __mononym__ _n_ :two::hammer:  
 __monophobia__ _n_ An abnormal fear of being alone.  
 __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
+__monopsony__ _n_  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
 __monstera__ _n_ :mega: /ˈmɑnstərə/  
 __monstrosity__ _n_ :pencil2::three::hammer:  
+__montage__ _n_ A single pictorial composition made by juxtaposing or superimposing many pictures or designs. _Syn_ collage _The children’s gift to their grandmother was a montage of family pictures._  
 __montero__ _n_ A hunter’s cap with side flaps.  
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
 __mood__ _n_ :two::hammer: _Mood story._  
-__moody__ _adj_ :three::hammer:  
+__moody__ _adj_ :four::hammer:  
+__Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __moon roof__  
 __moon__ _v_  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._  
@@ -10733,7 +10743,8 @@ __moonshine<sup>2</sup>__ _v_
 __moonshot__ _n_ :four: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moonsoon__  
 __moonstruck__ _adj_ :two: __1__ Mentally deranged, supposedly by the influence of the moon; crazed. __2__ Dreamily romantic or bemused.  
-__moor__ _n_ :two::hammer:  
+__Moor__ _n_  
+__moor__ _n_ :four::hammer: _Heather-filled moors._  
 __mooring__ _n_ :two::hammer:  
 __moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  

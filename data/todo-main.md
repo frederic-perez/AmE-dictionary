@@ -1,18 +1,3 @@
-__mash-up__ _n_ Something created by combining elements from two or more sources.  
-__mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
-__middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
-__milium__ _n_ A small, white or yellowish cystlike mass just below the surface of the skin, caused by retention of the secretion of a sebaceous gland. _Syn_ whitehead _The soap promised to eradicate milia by thoroughly cleansing the skin and unclogging pores._  
-__momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
-__moniker__ _n informal_  
-__monkey wrench__ _n_ __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
-__monolith__ _n_  
-__monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
-__monopsony__ _n_  
-__montage__ _n_ A single pictorial composition made by juxtaposing or superimposing many pictures or designs. _Syn_ collage _The children’s gift to their grandmother was a montage of family pictures._  
-__moody__  
-__Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
-__Moor__ _n_  
-__moor__ _n_ :two::hammer: _Heather-filled moors._  
 __Moorish__ _adj_ _Moorish architecture._  
 __mop top hair__  
 __morass__ _n_ __1__ A tract of swampy low-lying land. __2__ A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._  
