@@ -10815,6 +10815,7 @@ __motormouth__
 __mould__ _n_  
 __mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
 __mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
+__mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
 __mountebank__ _n_ :three: A hawker of quack medicines who attracts customers with stories, jokes, or tricks. _Syn_ charlatan  
@@ -10822,6 +10823,8 @@ __mourner__ _n_
 __mournfully__  
 __mouse potato__ _n_ [:scroll: Formed on the pattern of couch potato. Mouse refers to the electronic mouse typically used with a computer. Earliest documented use: 1993.] Someone who lives a sedentary life, spending large amounts of leisure time playing computer games, surfing the net, streaming videos, etc.  
 __mouser__ _n_ :two: An animal, especially a cat, that catches mice.  
+__mousetrap__ _n_  
+__mousy__ _adj_ _A mousy accountant._  
 __mouth__ _v_  
 __mouth-watering__  
 __mouthful__ _n_ A word or phrase that is very long or hard to pronounce.  
@@ -10829,22 +10832,24 @@ __mouthguard__
 __mouthpiece__ _n_ _Jed had just been a mouthpiece._  
 __mouthwash__ _n_ :two::hammer: :es: colutorio  
 __move the needle__  
+__moveable__ _adj_ _Moveable bridges._  
 __Movember__ _n_  
 __mover__ _n_  
-__mow__ _v_ To cut down grass with a machine.  
+__mow__ _v_ :two: To cut down grass with a machine.  
 __mowed__ _v_  
 __moxie__ _n_ :three: _slang_ _US and Canadian_ Courage, nerve, or vigour.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __much<sup>1</sup>__ _adj_  
 __much<sup>2</sup>__ _n_  
+__mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
 __muck<sup>1</sup>__ _n_ :four: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
 __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
 __muddle through__ _phr v_ To manage to do something despite difficulties.  
-__muddle__ _v_ :five: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
+__muddle__ _v_ :seven: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder _Muddled lime with whiskie on the rocks._  
 __mudslide__ _n_ :three: __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
 __mudslinging__ _n_ :three: Efforts to discredit one’s opponent by malicious or scandalous attacks. :es: injurias  
 __muff__ _n_ _She drew from her muff a pistol._  
@@ -10859,34 +10864,38 @@ __mugging__ _n_ An assault upon a person especially with the intent to rob.
 __muggles__ _n_ :two::hammer:  
 __muggy__ _adj_ :two::hammer: _The weather was muggy._  
 __mulberry__ _n_ :three::hammer: (mulberries)  
-__mulch__ _n_ :two::hammer:  
+__mulch__ _n_ :three::hammer:  
 __mulching__ _v_  
 __mulct__ _v_ :pencil2: __1__ To punish by a fine. __2a__ To defraud especially of money. _Syn_ swindle __b__ To obtain by fraud, duress, or theft.  
+__mule deer__  
 __muleskinner__ _n_  
 __mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. To heat and spice (wine, for example). _His mug of mulled cider._  
 __mullah__ _n_  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
-__mullet__ _n_ :three::hammer: Freshwater or coastal food fishes a spindle-shaped body; found worldwide.  
+__mullet__ _n_ :five: /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. Freshwater or coastal food fishes a spindle-shaped body; found worldwide. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicast__  
 __multicopter__ _n_ _Syn_ multirotor  
 __multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
 __multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
+__multipronged__ _adj_  
 __multipurpose__ _n_ :two::dart: Designed or used for several purposes: _a multipurpose room; multipurpose software._ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or partially closing the mouth. _Sam has a tendency to mumble._ __2__ To chew food slowly or ineffectively, as if with the gums.  
+__mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __mumbo jumbo__ _n_  
 __mumps__  
-__munch__ _v_ :four:hammer: (munches, munched) _He munched the fruit._  
+__munch__ _v_ :six:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :six::hammer:  
+__mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
 __Muni bus__  
 __munificent__ _adj_ :three: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munifience__ _n_ _obsolete_ A fortification.  
-__munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
+__munition__ _n_ :four::hammer: (munitions) _The munitions factory._  
 __muons__ _n_ _Cosmic-ray muons._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  

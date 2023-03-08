@@ -1,18 +1,3 @@
-__mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
-__mousetrap__ _n_  
-__mousy__ _adj_ _A mousy accountant._  
-__moveable__ _adj_ _Moveable bridges._  
-__mow__ _v_  
-__mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
-__muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
-__mulch__ _n_  
-__mule deer__  
-__mullet__ _n_ :two: /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
-__multipronged__ _adj_  
-__mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
-__munch__ _v_ :two::hammer:  
-__mundify__ _v tr_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
-__munitions__ _n_  
 __mural__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
