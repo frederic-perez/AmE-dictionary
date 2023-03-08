@@ -25,6 +25,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Conan O'Brien](https://www.youtube.com/results?gl=US&search_query=Conan+O'Brien) really  [needs a friend](https://en.m.wikipedia.org/wiki/Conan_O%27Brien_Needs_a_Friend)
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
 - [Dane Cook](https://www.youtube.com/results?gl=US&search_query=Dane+Cook)
+- [Daniel Tosh](https://www.youtube.com/results?gl=US&search_query=Daniel+Tosh)
 - [Don Rickles](https://www.youtube.com/results?gl=US&search_query=Don+Rickles)
 - [Fred Armisen](https://www.youtube.com/results?gl=US&search_query=Fred+Armisen)
 - [Gabriel Iglesias](https://www.youtube.com/results?gl=US&search_query=Gabriel+Iglesias) is not fat but fluffy.
