@@ -1,3 +1,9 @@
+__a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
+__an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
+__back on the horse__  
+__bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
+__circle back (to something)__  
+__cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __end of one’s rope__  
 __even more so__ :two::hammer:  
@@ -67,6 +73,7 @@ __get the hang of something__
 __get the sniffles__ To catch a cold, usually a minor one. _My daughter seems to have gotten the sniffles from someone at daycare._  
 __get word (from someone or something)__  
 __get your shit together__  
+__get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
 __GI Joe__  
 __give (one) a pass__  
 __give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
@@ -105,6 +112,7 @@ __have (one’s) say__ To express or make known one’s views, opinions, or idea
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a leg up__ To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
 __have a trick up (one’s) sleeve__  
+__have an itch for (something)__ To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
 __have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
@@ -114,6 +122,7 @@ __head-spinning__ :two: Incredible, overwhelming.
 __heads up__ _Thanks for giving me the heads up._  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __heart and soul__  
+__heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
 __heaven forbid__  
 __heavy lifting__  
 __higgledy-piggledy__  
@@ -177,6 +186,7 @@ __keep tabs__
 __kick ass__  
 __kick in__  
 __kindred spirit__  
+__knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
@@ -206,6 +216,7 @@ __love handles__ _slang_ An accumulation of fat around one’s midsection. _I ne
 __low-hanging fruit__ The most easily achieved of a set of tasks or goals.  
 __lump in (one’s) throat__  
 __make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
+__make great strides__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
 __make waves__ _Make waves with an Apple computer._  
@@ -288,6 +299,7 @@ __pass along__
 __pave the way__  
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
+__peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
 __people pleaser__ (_less commonly_ people-pleaser)  
 __perfect storm__  
 __piece of shit__  
@@ -305,7 +317,9 @@ __pull over__ _On that summer road trip, we pulled over every night to get out a
 __pump in__  
 __punch up__  
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
+__push (one’s) buttons__  
 __put (one’s) finger on (something)__  
+__put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
 __put (oneself) in (someone’s) shoes__  
 __put (something) on the back burner__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
@@ -374,6 +388,7 @@ __shoulder to shoulder__
 __shroom__  
 __shut down__  
 __sick as a dog__  
+__side hustle__ :two::hammer:  
 __simply put__  
 __single out__  
 __sink in__  
@@ -388,6 +403,7 @@ __slow burner__
 __small hours__ (wee hours)  
 __smarty-pants__ :two::hammer:  
 __snake oil__  
+__snap out of (something)__ To suddenly recover or be freed from some negative or undesirable condition, emotion, or situation. _Alex has been really gloomy lately. I hope he snaps out of it soon, because we’ll need him to present our project to the supervisor next week._  
 __snoothfest__ _Total snoozefest at Google’s event._  
 __snooty__ Haughtily condescending, dismissive, or snobbish. _I can’t believe that snooty waiter scoffed at you for ordering red wine with fish._  
 __snork__  
@@ -491,6 +507,7 @@ __the bigger they come, the harder they fall__ _proverb_ Those who are exception
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
+__the end of the world__ An extremely bad situation or event. Almost always used hyperbolically and ironically. _Well, whoever is elected, it won’t be the end of the world; each candidate is as good or bad as the other in my book._  
 __the final straw__  
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
 __the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
@@ -559,7 +576,7 @@ __trace back__
 __train wreck__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
-__trigger__ :three: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
+__trigger__ :four: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
@@ -625,6 +642,7 @@ __wild__
 __wildest dreams__  
 __win-win__ _A win-win scenario._  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
+__wing it__ :dart: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  
 __wipe the floor__  
 __wishy-washy__  
@@ -659,3 +677,4 @@ __you scratch my back, I’ll scratch yours__
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  
+__zoom out__  
