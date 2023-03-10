@@ -1,11 +1,36 @@
 __affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
+__alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/  
+__attune__ _v tr_  
+__bail__ _v_ _Do not bail after only two days!_  
+__bemoan__ _v_  
+__black ice__  
+__careen__ _v_  
 __cogitate__ _v_ /KOJ-i/uh-tayt/ To think, reflect, meditate, etc.  
+__compound__ _v_  
+__crackle__ _v_ _Crackled a bottle of wine._  
+__cue__ _n_ _The cue signals your new behaviors._  
 __curlicue__ _n_ A fancy twist or curl, such as a flourish made with a pen. _Syn_ squiggle _Her penmanship was beautiful, but with so many curlicues, it was hard to read._  
+__dead__ _adj_ _Dead serious._  
+__debacle__ _n_ _A shameful debacle._  
+__dig__ _v_ _We dug into the research._  
+__discombobulated__ _adj_ _Syn_ disconcerted  
+__equipped__ _adj_  
 __exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
+__fanfare__ _n_  
 __fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
+__frame__ _v_  
+__grit__ _n_  
 __grocer’s apostrophe__ _n_ [:scroll: from its supposed occurrence in grocers’ signage] An apostrophe placed before a final s intended to indicate the plural but in fact forming the possessive: _Price’s Slashed._  
+__haul__ _v_  
+__hustle__ _v_  
 __ingratiate__ _v_ /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
+__intrinsic__ _adj_ :mega:  
 __laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
+__lean__ _v_ _Lean onto that idea._  
+__linchpin__ _n_  
+__lousy__ _adj_ _Lousy advice._  
+__lunatic__ _adj_  
+__mojo__  
 __mural__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
@@ -143,13 +168,13 @@ __omelet__ _n_ :mega: (omelette)
 __omnibus__ _n_  
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
-__one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
+__one-off__ _adj_ :three::hammer: _One-off handcrafted pieces._  
 __onerous__ _adj_ :two::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
-__onus__ _n_ :two: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
+__onus__ _n_ :three: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
 __onyx__  
 __oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
 __ooze__ _v_  
@@ -246,6 +271,7 @@ __Paralympic Games__
 __paramount__ _adj_ _It is of paramount importance._  
 __paraphernalia__  
 __paratransit__ _adj_ _Paratransit services._  
+__paratrooper__ _n_  
 __parcel__ _n_  
 __parched__ _adj_ _Quench your parched throat with a long tall cool Yard of Beer._  
 __pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
@@ -316,6 +342,7 @@ __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, di
 __perusal__ _n_  
 __pervasive__  
 __pet name__ _n_  
+__pet peeve__ _n_  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
 __peter out__  
 __petit jury__ _n_ (petty jury)  
@@ -474,7 +501,9 @@ __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive len
 __prom__  
 __promenade__ _n_ :two::hammer: _Public promenades._  
 __promo__  
-__prompt__ _adj_ _Prompt, safe, and reliable._  
+__prompt<sup>1</sup>__ _adj_ _Prompt, safe, and reliable._  
+__prompt<sup>2</sup>__ _v tr_  
+__prompt<sup>3</sup>__ _n_  
 __proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __prosopopoeia__ _n_ (prosopopeia) __1__ Personification, as of inanimate things. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
@@ -560,8 +589,10 @@ __rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
 __rationalize__ _v_  
+__rattled__ _adj_ :two::hammer: _I feel rattled._  
 __raucous__ _adj_ :two::hammer:  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
+__ravenous__ _adj_  
 __raver__ _n_  
 __ravishing__  
 __raw bar__  
@@ -569,7 +600,7 @@ __realistic__
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
 __recalcitrant__ _adj_  
-__recall__ _v_  
+__recall__ _v_ :two::hammer:  
 __recap__ _v tr_ To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
 __recipe__ _n_ :m: _Recipe to success._  
@@ -626,6 +657,7 @@ __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se di
 __reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
 __reservoir computing__ _n_  
+__reset__ _n_ :mega:  
 __resonate__ _v_  
 __respite__ _n_ :three::hammer:  
 __resplendent__ _adj_ :pencil2:  
@@ -686,6 +718,7 @@ __romp__ _v_
 __ronin__  
 __rooftop deck__ _n_ :two::hammer:  
 __roorback__ _n_ A false or slanderous story used for political advantage.  
+__rosacea__ _n_  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rose-colored__ _adj_ /ROZ-kuhl-uhrd/ [:scroll: From Latin rosa (rose), from Greek rhodon (rose). Yes, a rhododendron is a rose tree, literally speaking.] __1__ Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form “to see through rose-colored glasses.” __2__ Of a bright pink or red color.  
 __roseate__ _adj_ /ROH-zee-uht/ayt/ __1__ Like a rose, especially in color: pink, red, etc. __2__ Bright; favorable; promising. __3__ Unreasonably optimistic.  
@@ -788,6 +821,7 @@ __scion__ _n_
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
 __scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ :two: To move or go suddenly and speedily; hurry.  
+__scorn__ _n_  
 __Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
@@ -851,6 +885,7 @@ __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
 __sesquipedalianism__ _n_ /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
+__setback__ _n_  
 __severance pay__ _n_ A sum of money usually based on length of employment for which an employee is eligible upon termination.  
 __shallot__ _n_  
 __shanghai__ _v_ :astonished:  
@@ -916,7 +951,7 @@ __simulcast__
 __sinfully__ _adv_ _Sinfully delicious desserts._  
 __sing-along__ _n_  
 __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
-__sit__ _v_ _The nightlife district sits just north of the Chicago River._  
+__sit__ _v_ :two::hammer: _The nightlife district sits just north of the Chicago River._ __17__ To baby-sit for.  
 __sizzle__ _v_ :three::hammer: _Sizzling burgers/soups._  
 __skate__ _n_ _Need skates? Rent them for $10._  
 __skeeball__ _n_  
@@ -964,6 +999,8 @@ __smoke__ _v_ _It was cold and our breath smoked._
 __smorgasbord__ _n_ :two::hammer:  
 __snack__ _v_  
 __snafu__  
+__snap__ _v_ _Snap at people._  
+__snappy__  
 __snare drum__ _n_  
 __snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowcat__ _n_ :two::hammer:  
@@ -1002,6 +1039,7 @@ __speakeasy__ _n_ :two::hammer:
 __specie__ _n_ /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
 __speckled__ _adj_ _Speckled hen._  
 __speculative__  
+__spedometer__ _n_ :mega:  
 __speechify__ _v intr_ /ˈspiːtʃɪˌfaɪ/ To make a speech, especially in a tedious or pompous manner.  
 __speedway__ _n_  
 __spellbind__ _v_  
@@ -1186,11 +1224,13 @@ __supercilious__
 __superintendent__  
 __superlative__ _adj_ _Superlative works._  
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
+__supersize__ _v_  
 __support__ _v_  
 __supreme__ _adj_ /səˈprim, sʊ-/  
 __surcease__ _n_ A stopping. _Syn_ cessation  
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
+__surge__ _n_  
 __survival skills__ _n_  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __sustenance__ _n_ :two::hammer:  
@@ -1371,6 +1411,7 @@ __tote bag__ _n_
 __tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
 __touting__ _v_  
+__towel__ _n_ :mega:  
 __towpath__  
 __traboule__ _n_  
 __trade-off__ _n_ :three::hammer: (trade-offs)  
@@ -1392,7 +1433,7 @@ __treetops__ _n_
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
-__trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
+__trepidation__ _n_ :two: A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
 __trestle__ _n_ :two::hammer: _Railway trestles._  
 __tribulation__ _n_  
 __tributary__ _n_  
@@ -1461,7 +1502,7 @@ __undercroft__ _n_ _The cathedral’s undercroft._
 __undercut__ _v_  
 __underdog__  
 __underemployed__  
-__underfoot__ _adv_  
+__underfoot__ _adv_ :two::hammer:  
 __undergo__ _v_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
@@ -1479,6 +1520,7 @@ __union job__ _n_ A job where employment status is guaranteed by a union; a sine
 __unison__ _n_  
 __unkempt__ _adj_  
 __unmissable__  
+__unpack__  
 __unparalleled__ _adj_ :two::hammer:  
 __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
 __unprecedented__  
@@ -1498,11 +1540,13 @@ __upend__
 __upheaval__ _n_  
 __upholder__ _n_  
 __upkeep__ _n_ _Chalkboards did not require much upkeep._  
+__uplifted__ _adj_  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
 __upskilling__ _n_ :dart: Teaching or learning additional skills.  
 __uptake__ _n_ _Other applications have had limited uptake._  
+__uptick__ _n_  
 __uptime__ _n_  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __urbane__ _adj_ _Urbane customer._  
@@ -1515,6 +1559,7 @@ __V8__ _n_ _(beverage)_
 __vacationer__ _n_  
 __vacuous__  
 __vacuum__ _n_ __4__ A vacuum cleaner.  
+__vagus nerve__ _n_ :m:  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valence__ _n_  
 __valet__ _n_  
@@ -1594,6 +1639,7 @@ __wave goodbye__ _n_ A motion of the hand used to say goodbye. _A kiss and a wav
 __weal__ _n_ /WEEL/ Weal is a somewhat old-fashioned word that refers to “a state of being happy, healthy, and successful.” Weal is usually ascribed to large groups of people, rather than individuals, as in the phrases “common weal” or “public weal.” _Before presenting the bill to the legislature, the senator spoke of her devotion to the general weal._  
 __wedding band__ _n_  
 __wee__ _n_  
+__weirdo__  
 __well versed__ _adj_  
 __well-read__ _adj_  
 __wellbeing__ _n_  

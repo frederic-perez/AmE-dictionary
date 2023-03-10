@@ -7,10 +7,10 @@ __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate 
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __blech__ _slang_ An imitation of the sound of gagging, used to express disgust or disdain. _Blech! Look at all those maggots!_  
 __boo<sup>2</sup>__  
-__boom__  
+__boom__ :two::hammer:  
 __bosh__ :two::hammer: _Oh, bosh._  
 __brrr__ _informal_ An exclamation used to suggest shivering.  
-__d’oh__ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
+__d’oh__ :dart::two: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
 __damn__ Used to express anger, irritation, contempt, or disappointment.  
 __dang__ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
