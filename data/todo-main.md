@@ -1,3 +1,11 @@
+__affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
+__cogitate__ _v_ /KOJ-i/uh-tayt/ To think, reflect, meditate, etc.  
+__curlicue__ _n_ A fancy twist or curl, such as a flourish made with a pen. _Syn_ squiggle _Her penmanship was beautiful, but with so many curlicues, it was hard to read._  
+__exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
+__fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
+__grocer’s apostrophe__ _n_ [:scroll: from its supposed occurrence in grocers’ signage] An apostrophe placed before a final s intended to indicate the plural but in fact forming the possessive: _Price’s Slashed._  
+__ingratiate__ _v_ /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
+__laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
 __mural__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
@@ -241,6 +249,7 @@ __paratransit__ _adj_ _Paratransit services._
 __parcel__ _n_  
 __parched__ _adj_ _Quench your parched throat with a long tall cool Yard of Beer._  
 __pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
+__paring__ _n_ Something, such as a skin or peel, that has been pared off. _Syn_ shaving, sliver _We do not mourn over the parings of our nails nor the cut locks of our hair, though they were once part of ourselves._  
 __parishioner__ _n_  
 __parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
@@ -460,6 +469,7 @@ __produce__ _n_ Farm products, especially fresh fruits and vegetables, considere
 __proficiency__  
 __profligacy__ _adj, n_  
 __profound__ _adj_ :mega:  
+__prolegomenon__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
 __promenade__ _n_ :two::hammer: _Public promenades._  
@@ -608,6 +618,7 @@ __remiss__ _adj_
 __remix__ _n, v_ :mega:  
 __rendition__ _n_ :two::hammer:  
 __renewal__ _n_  
+__repartee__ _n_ /rep-er-TEE/ __1__ Repartee can refer to either “a conversation in which clever statements and replies are made quickly” or a single “quick and witty reply.” _The twins’ repartee at the back of the class always cracked up their classmates, though their teacher was rarely amused._ __2__ It can also refer to one’s cleverness and wit in conversation, as in _“an aunt widely known for her repartee at family gatherings.”_  
 __repeat__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
 __repercussion__ _n_  
 __repertoire__ _n_  
@@ -1543,6 +1554,7 @@ __vigorous__ _adj_
 __Viking__ _n_ :pencil2:  
 __vilify__ _v_  
 __villa__ _n_ :two::hammer:  
+__vindicate__ _v_ /VIN-duh-kayt/ __1__ To show that someone is not guilty. _In light of the new evidence, we believe that our client will be completely vindicated._ __2__ To show that someone or something that has been criticized or doubted is correct, true, or reasonable. _Recent volcanic activity on Jupiter’s moon Io vindicates astronomers’ theories about the geologic makeup of that celestial body._  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __vineyard__ _n_  
 __vintner__ _n_  
