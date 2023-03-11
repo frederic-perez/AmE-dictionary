@@ -1,18 +1,3 @@
-__affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
-__alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/  
-__attune__ _v tr_  
-__bail__ _v_ _Do not bail after only two days!_  
-__bemoan__ _v_  
-__black ice__  
-__careen__ _v_  
-__cogitate__ _v_ /KOJ-i/uh-tayt/ To think, reflect, meditate, etc.  
-__compound__ _v_  
-__crackle__ _v_ _Crackled a bottle of wine._  
-__cue__ _n_ _The cue signals your new behaviors._  
-__curlicue__ _n_ A fancy twist or curl, such as a flourish made with a pen. _Syn_ squiggle _Her penmanship was beautiful, but with so many curlicues, it was hard to read._  
-__dead__ _adj_ _Dead serious._  
-__debacle__ _n_ _A shameful debacle._  
-__dig__ _v_ _We dug into the research._  
 __discombobulated__ _adj_ _Syn_ disconcerted  
 __equipped__ _adj_  
 __exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  

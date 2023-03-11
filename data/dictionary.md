@@ -254,6 +254,7 @@ __aero-hydroponics__
 __aerospike engine__ _n_  
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
+__affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :eight: A written declaration upon oath made before an authorized official. _Syn_ statement, declaration, testimony, proclamation _She was asked to sign an affidavit swearing that nothing had happened._ :es: declaración jurada  
 __affiliate__  
@@ -399,6 +400,7 @@ __all-time__ _adj_ _That’s one of my favorite all-time experiments._
 __allay__ _v tr_ :five::hammer: (allayed)  
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
+__alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/  
 __allegedly__  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
@@ -928,6 +930,7 @@ __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive 
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _v tr, v intr_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
 __attrition__ _n_ :nine: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
+__attune__ _v tr_  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
@@ -1090,6 +1093,7 @@ __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies
 __bagman__ _n_ _Bill is a bag man for corrupt officials._  
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
+__bail__ _v_ _Do not bail after only two days!_  
 __bailiff__ _n_ :four::pencil2::hammer: (bailiffs) :es: alguacil  
 __bailiwick__ _n_ :four::hammer:  
 __bailout__ _n_ :four::hammer:  
@@ -1578,6 +1582,7 @@ __Black Belt__ _n_ :two: Strip of rolling prairie land extending across central 
 __Black Death__ _n_ :two: A form of bubonic plague pandemic in Europe and Asia during the 14th century, when it killed over 50 million people.  
 __Black Friday__ _n_ [:scroll: “The origin of Black Friday in this sense is not known for certain. The day was allegedly so named either in reference to traffic congestion in central cities on the day after Thanksgiving or to the supposed fact that retailers’ accounts shifted from red to black with the beginning of the shopping season.”] The Friday immediately following Thanksgiving Day that is considered by retailers to mark the beginning of the holiday shopping season.  
 __black gold__  
+__black ice__  
 __black lung__ _n_ Pneumoconiosis of coal miners caused by coal dust. _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
 __black out__ _phr v_ :three::hammer: (blacked out)  
@@ -3278,7 +3283,7 @@ __cog railway__
 __cog__ _n_ :eight: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cogent__ _adj_ :five: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
-__cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
+__cogitate__ _v_ :two: /KOJ-i/uh-tayt/ To think, reflect, meditate, etc. To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
 __cognizant__ _adj_ :three: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognomen__ _n_  
@@ -3439,7 +3444,7 @@ __compost__ _v_
 __composting__ _n_ The activity or practice of converting garden and kitchen waste to compost. _There’s a brown bin for organic waste, which goes for composting._  
 __composure__  
 __compound<sup>1</sup>__ _n_ :three: __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
-__compound<sup>2</sup>__ _v_ :three::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
+__compound<sup>2</sup>__ _v_ :four::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
@@ -3842,7 +3847,7 @@ __cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _
 __crackerjack<sup>1</sup>__ _adj_ _slang_ :two: Having or demonstrating a high degree of knowledge or skill. _Syn_ adept, crack, expert, master, masterful, masterly, professional, proficient, skilled, skillful  
 __crackerjack<sup>2</sup>__ _n_ _slang_ :two: A person with a high degree of knowledge or skill in a particular field. A person or thing of exceptional quality or ability. _Syn_ ace, adept, authority, dab hand, expert, master, past master, professional, proficient, wizard  
 __crackers__  
-__crackle__ _v_ (crackling) :two::hammer:  
+__crackle__ _v_ :three::hammer: _Crackled a bottle of wine._  
 __cracklings__ _n_  
 __crackpot__ _n_ :three: An eccentric person, especially one with bizarre ideas. _A reputation as a ridiculous crackpot._  
 __crackpot<sup>1</sup>__ _n_  
@@ -4040,7 +4045,7 @@ __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._
 __cudgel__ _n_ :six: /ˈkʌdʒəl/ (cudgels) A short heavy stick. _Syn_ bastinado, club _She woke up with her head hurting as though it had been hit with a cudgel._  
 __cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
-__cue<sup>1</sup>__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
+__cue<sup>1</sup>__ _n_ :two::hammer: _The cue signals your new behaviors._ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
 __cue<sup>2</sup>__ _v_ :two::hammer:  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
@@ -4083,7 +4088,7 @@ __curfew__ _n_ :three: A regulation requiring people to remain indoors between s
 __Curia__ _n_ :four: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
 __curio__ _n_ :two::hammer: _Curio shop._  
-__curlicue<sup>1</sup>__ _n_ :two::hammer:  
+__curlicue<sup>1</sup>__ _n_ :three: A fancy twist or curl, such as a flourish made with a pen. _Syn_ squiggle _Her penmanship was beautiful, but with so many curlicues, it was hard to read._  
 __curlicue<sup>2</sup>__ _v_ (curlicued)  
 __curly__ _adj_ /ˈkɜr li/ The Three Little Pigs _is a curly tail for the whole family._  
 __curmudgeon__ _n_ :eight: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
@@ -4244,7 +4249,7 @@ __deactivate__ _v_ _The team deactivated Peterson for a game._
 __dead bolt__ _n_  
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
-__dead__ _adj_ _Dead batteries._  
+__dead__ _adj_ :two::hammer: _Dead batteries._ _Dead serious._  
 __dead-end__ _v intr_ _I-84 dead-ends at Portland._  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
@@ -4263,7 +4268,7 @@ __dearth__ _n_ :five::dart::hammer:
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
 __deathless__  
-__debacle__ _n_ :seven: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._  
+__debacle__ _n_ :eight: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._ _A shameful debacle._  
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
@@ -4583,7 +4588,8 @@ __differ__ _v_ :three::mega::hammer:
 __different animal__ _n_ Something different.  
 __diffidence__ _n_ :two: The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._ _He spoke with a certain diffidence._  
 __diffident__ _adj_ :four::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
-__dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
+__dig<sup>1</sup>__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
+__dig<sup>2</sup>__ _v_ _We dug into the research._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip.  
 __diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.  
