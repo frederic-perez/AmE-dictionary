@@ -1,18 +1,3 @@
-__ceramicist__ _n_ A craftsman who shapes pottery on a potter’s wheel and bakes them it a kiln. _Syn_ ceramist, potter, thrower  
-__cleanse__ _n_  
-__discombobulated__ _adj_ _Syn_ disconcerted  
-__disempower__ _v tr_ To deprive of power or influence.  
-__embattled__ _adj_  
-__equipped__ _adj_  
-__exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
-__fanfare__ _n_  
-__fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
-__frame__ _v_  
-__grit__ _n_  
-__grocer’s apostrophe__ _n_ [:scroll: from its supposed occurrence in grocers’ signage] An apostrophe placed before a final s intended to indicate the plural but in fact forming the possessive: _Price’s Slashed._  
-__haul__ _v_  
-__hustle__ _v_  
-__ingratiate__ _v_ /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
 __intrinsic__ _adj_ :mega:  
 __laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
 __lean__ _v_ _Lean onto that idea._  

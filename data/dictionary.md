@@ -2760,6 +2760,7 @@ __center stage__ _n_
 __centerpiece__  
 __centrifuge__ _n_ :two::hammer: _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
+__ceramicist__ _n_ A craftsman who shapes pottery on a potter’s wheel and bakes them it a kiln. _Syn_ ceramist, potter, thrower  
 __cerebral palsy__  
 __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
@@ -3121,7 +3122,8 @@ __clawback__
 __clawed__ _v_  
 __clean his clock__  
 __cleanliness__ _n_ :two::hammer:  
-__cleanse__ _v_  
+__cleanse<sup>1</sup>__ _v_  
+__cleanse<sup>2</sup>__ _n_ An act of cleansing: _a cleanse of the digestive system._  
 __cleanser__ _n_  
 __clear air__  
 __clear bag policy__ _n_ More and more stadiums and venues are implementing a clear bag policy. This means that in order to attend the events you must have a clear bag instead of a regular bag. _Ohio State will have a clear bag policy Saturday._  
@@ -4686,6 +4688,7 @@ __discipline__ _v_
 __disclaimer__ _n_ :two::hammer:  
 __disclosure__ _n_  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
+__discombobulated__ _adj_ _Syn_ disconcerted  
 __discomfit__ _v_ To make uneasy or perplexed; disconcert. _Syn_ discompose, untune, upset, disconcert  
 __discomfited__ _adj_ :two: Uncomfortable.  
 __discomfiture__ _n_ :two::hammer:  
@@ -4711,6 +4714,7 @@ __disdrometer__
 __disembarrass__ _v_ Relieve from. _Syn_ rid, free  
 __disembodied__ _v_ :two::hammer:  
 __disembody__ _v_ (disembodied)  
+__disempower__ _v tr_ To deprive of power or influence.  
 __disenchanted__  
 __disendowment__ _n_  
 __disenfranchise__  
@@ -5429,6 +5433,7 @@ __embargo__ _n_
 __embark__ _v_ :two::hammer: _They embark on a motorcade._  
 __embarrass__ _v_ :two::pencil2: /im-BAIR-us/ To cause to experience a state of self-conscious distress. _No one wants to embarrass themselves with spinach stuck in their teeth during a work luncheon—but it happens._  
 __embattle__ _v_ :four::hammer: (embattled)  
+__embattled__ _adj_  
 __embellish__ _v_ /im-BELL-ish/  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
 __embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
@@ -5636,7 +5641,7 @@ __equine<sup>2</sup>__ _n_
 __equinox__ _n_ :five::mega::hammer:  
 __equip__ _v_ :two::hammer::mega:  
 __equipment__ _n_ _The equipment was out of date._  
-__equipped__  
+__equipped__ _adj_ :two::hammer:  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__ _n_ :three::hammer:  
 __equivocal__ _adj_ _Syn_ ambiguous, confusing  
@@ -5842,6 +5847,7 @@ __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exude__ _v_ :three::hammer:  
 __exult__ _v intr_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
+__exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
 __Eye of Providence__ _n_ (all-seeing eye of God)  
@@ -5958,7 +5964,7 @@ __fancy-schmancy__
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ :five: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
-__fanfare__ _n_ A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
+__fanfare__ _n_ :two: A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
@@ -6015,6 +6021,7 @@ __fatigue__ _n_ :two::hammer::mega:
 __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
+__fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
 __fatuous__ _adj_ :three: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
 __fatwa__ _n_ :two: Religious edict.  
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
@@ -6646,7 +6653,7 @@ __frags__ _n_ _They taped frags to the tops of the drums._
 __frail<sup>1</sup>__ _adj_ :two::hammer: _Too frail to leave._  
 __frail<sup>2</sup>__ _n_  
 __frame grab__  
-__frame__ _v_ _He framed Roger Rabbit._  
+__frame__ _v_ :two::hammer: _He framed Roger Rabbit._  
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
 __franchise__ _n_ :two: __2a__ The right of membership in a professional sports league. __b__ A team and its operating organization having such membership. _Romo is the Cowboys franchise quarterback._  
 __franchisee__ _n_  
@@ -7402,7 +7409,7 @@ __gripping__ _adj_ :five: /ˈgrɪp ɪŋ/ Holding the attention or interest inten
 __grisly__ _adj_ :seven::hammer: /GRIZ-lee/ _A grisly synagogue assault._  
 __grist__ _n_ :four::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._ _A water-powered grist mill._  
 __gristle__ _n_ :three::hammer:  
-__grit__ _n informal_ :eight: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
+__grit__ _n informal_ :nine: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier__ _adj_ _It makes the queso a bit grittier._  
@@ -7412,6 +7419,7 @@ __grizzle__ _v_
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
 __groan__ _v_ :seven::hammer: (groaned) (It sounds like _grown_.)  
 __grocer__ _n_ :two::hammer:  
+__grocer’s apostrophe__ _n_ [:scroll: from its supposed occurrence in grocers’ signage] An apostrophe placed before a final s intended to indicate the plural but in fact forming the possessive: _Price’s Slashed._  
 __grog__  
 __groggy__ _adj_ :two: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion). Unsteady and dazed; shaky.  
 __grok__ _v_ To understand profoundly and intuitively.  
@@ -7785,7 +7793,7 @@ __hatred__ _n_ :two: /ˈheɪ trɪd/ The feeling of one who hates; intense dislik
 __hauberk__ _n_ (Arms & Armour (excluding Firearms)) A long coat of mail, often sleeveless.  
 __haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
-__haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
+__haul<sup>2</sup>__ _v_ :five::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_ :two::hammer: (or haulier)  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
 __haunt<sup>1</sup>__ _v_  
@@ -8395,7 +8403,7 @@ __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver
 __husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
-__hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:  
+__hustle__ _v_ :four::mute:[hus~~t~~le]:hammer:  
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
@@ -8734,7 +8742,7 @@ __ingots__ _n_ :two::hammer::pencil2::
 __ingrain__ _v_ :three: To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :five::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ An ungrateful person.  
-__ingratiate__ _v_ :three::hammer:  
+__ingratiate__ _v_ :four: /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
 __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
