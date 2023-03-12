@@ -380,6 +380,7 @@ __quiet quitting__ /kwahy-it kwit-ing/
 __rabble-rouser__  
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
+__raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
 __rave about (something)__ To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
 __ready, set, go__  
