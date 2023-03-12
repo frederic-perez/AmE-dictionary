@@ -1,18 +1,3 @@
-__airy__ _adj_ _Airy restaurant._  
-__Americana__ _n pl_ :two::hammer:  
-__angora__ _n_  
-__aptly__ _adj_  
-__bison__  
-__bite__ _n_ _Complimentary pretzel bites._  
-__bocce__ _n_ A game of Italian origin similar to lawn bowling that is played with wooden balls on a long narrow court covered with fine gravel.  
-__buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._  
-__candelabrum__ _n_  
-__catechism__ _n_  
-__Chicagoan__ _n_  
-__Chirish__ _n_ A person living in Chicago with primarily Irish ancestry. _A Chirish-style breakfast._  
-__conducive__  
-__crocheter__ _n_  
-__dare__ _v_  
 __decal__ _n_  
 __dollop__ _n_ _A dollop of caviar._  
 __enormous__  

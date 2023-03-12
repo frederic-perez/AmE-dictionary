@@ -353,7 +353,7 @@ __airfield__
 __airhead__ _n_ _slang_ A stupid person.  
 __airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
-__airy__ _adj_ _The master bedroom is airy._  
+__airy__ _adj_ :two::hammer: _Airy restaurant._ _The master bedroom is airy._  
 __aisle__ _n_ :mega: /īl/  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
 __akimbo__ _adj, adv_ /uh-KIM-boh/  
@@ -480,7 +480,7 @@ __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggest
 __amend__ _v_ _The Texas constitution was amended in 1891._  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
-__Americana__ _n pl_  
+__Americana__ _n pl_ :three::hammer:  
 __Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espresso coffee diluted with hot water.  
 __Ames__ _n_ _Ames, Iowa._  
 __amethyst__ _n_ :four::pencil2::hammer:  
@@ -552,6 +552,7 @@ __angler fish__ _n_ :camera:
 __angler__ _n_ :six::hammer: (anglers)  
 __Anglicism__ _n_ (sometimes _anglicism_) __2__ An English word, idiom, etc., occurring in or borrowed by another language.  
 __angling__ _v_ :four::hammer: _Giuliani seemed to be angling for secretary of state._  
+__angora__ _n_  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ _adj_ :three: /ˈæŋstɪ/ (angstier, angstiest) _informal_ Displaying or feeling angst, esp in a self-conscious manner: _two angsty teenagers._  
 __anguish<sup>1</sup>__ _n_  
@@ -708,6 +709,7 @@ __apropos<sup>2</sup>__ _adv_ /ˌæp rəˈpoʊ/
 __apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/ /ap-ruh-POH/ Apropos means “with regard to.” It is frequently used in the phrase “apropos of.” _Sean interrupted our conversation about politics and, apropos of nothing, asked who we thought would win the basketball game._  
 __apse__ _n_ :es: ápside  
 __apt__  
+__aptly__ _adj_  
 __aquanaut__ _n_  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
@@ -1566,10 +1568,11 @@ __birthstone__ _n_ A gemstone associated with a particular month and customarily
 __biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A crisp Italian cookie traditionally flavored with anise and often containing almonds or filberts.  
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
-__bison__ _n_ (_n pl_) _A herd of 500 bison._  
+__bison__ _n_ :two::hammer: (_n pl_) _A herd of 500 bison._  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
 __bitching__ _n_ _Quit your bitching!_  
+__bite__ _n_ _Complimentary pretzel bites._  
 __bite-size__ _adj_  
 __bitingly__  
 __bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
@@ -1750,6 +1753,7 @@ __bobbled__ _v_ _The flowers bobbled and swayed._
 __bobby pin__  
 __bobby socks__  
 __bocce ball__ _n_  
+__bocce__ _n_ A game of Italian origin similar to lawn bowling that is played with wooden balls on a long narrow court covered with fine gravel.  
 __bod__ _n_ :two::hammer:  
 __bodacious__  
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
@@ -2345,6 +2349,7 @@ __buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a compan
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::five::hammer: (buzzards)  
+__buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__ _n_ :two::hammer:  
 __buzzword__  
@@ -2489,6 +2494,7 @@ __canapé__ _n_
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
 __candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
+__candelabrum__ _n_  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candor__ _n_ :three: /KAN-der/ Unreserved, honest, or sincere expression. The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._ _During the interview, the comedian spoke with candor about the nervousness she feels every time she takes the stage._  
 __candy cane__ _n_ :two: (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
@@ -2696,7 +2702,7 @@ __catchall__ _n_ _A catchall phrase._
 __catchpenny__  
 __catchphrase__ _n_  
 __catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new television series._ __2__ Easily remembered: _a song with a catchy tune._ __3__ Tricky; deceptive. Having concealed difficulty. _Syn_ tricky _A catchy question on an exam._ _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._ __4__ Fitful or spasmodic: _catchy breathing._  
-__catechism__ _n_ :two::hammer::pencil2:  
+__catechism__ _n_ :three::hammer::pencil2:  
 __categorical__ _adj_  
 __cater__ _v_ :four:hammer: _Catered dinner._  
 __catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
@@ -2902,6 +2908,7 @@ __chevron__ _n_
 __chewed up__  
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
+__Chicagoan__ _n_  
 __Chicagoland__  
 __chicanery__ _n_ :six: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __Chick-fil-A__ _n_  
@@ -2951,6 +2958,7 @@ __chipper__ _adj_ :four: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful,
 __chippy<sup>1</sup>__ _adj_  
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiral__ _adj_ _Chiral molecules._  
+__Chirish__ _n_ A person living in Chicago with primarily Irish ancestry. _A Chirish-style breakfast._  
 __chiropody__ _n_  
 __chiropractor__ _n_  
 __chirp away__ _v_  
@@ -3503,7 +3511,7 @@ __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of 
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
-__conducive__ _adj_ :six::hammer: _The vehicle doesn’t seem conducive to passing._  
+__conducive__ _adj_ :seven::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :seven::hammer::mega:  
 __coneys__  
@@ -3952,6 +3960,7 @@ __croak<sup>1</sup>__ _n_ _The voice was hoarse like the croak of a frog._
 __croak<sup>2</sup>__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked gayly._  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
+__crocheter__ _n_  
 __crock__ _n_ :two::hammer:  
 __crockery__ _n_ :two::hammer:  
 __croft__ _n_ :three::hammer::pencil2:  
@@ -4200,7 +4209,8 @@ __danse macabre__ _n_ (Art Terms) Another name for dance of death.
 __danseuse__ _n_ A woman who is a ballet dancer.  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :eight: Marked with spots of colour, light, or shade. Having spots or patches of color. _Syn_ mottled _A dappled horse._ _Trees cast their dappled shade._  
-__dare__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
+__dare<sup>1</sup>__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
+__dare<sup>2</sup>__ _v_  
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daresay__ _v_  
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
