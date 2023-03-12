@@ -1,4 +1,8 @@
+__ceramicist__ _n_ A craftsman who shapes pottery on a potter’s wheel and bakes them it a kiln. _Syn_ ceramist, potter, thrower  
+__cleanse__ _n_  
 __discombobulated__ _adj_ _Syn_ disconcerted  
+__disempower__ _v tr_ To deprive of power or influence.  
+__embattled__ _adj_  
 __equipped__ _adj_  
 __exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
 __fanfare__ _n_  
@@ -16,6 +20,7 @@ __linchpin__ _n_
 __lousy__ _adj_ _Lousy advice._  
 __lunatic__ _adj_  
 __mojo__  
+__munch__ _v_  
 __mural__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
@@ -61,6 +66,7 @@ __nevus__ _n_ /ˈni vəs/ Any congenital anomaly of the skin, including moles an
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
 __newlywed__ _n_  
 __news__ _n_ :mega:  
+__newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc.  
 __newsworthy__ _adj_  
 __newts__ _n_ _A pond teeming with frogs and newts._  
 __nexus__ _n_  
@@ -176,6 +182,7 @@ __orchestration__ _n_
 __orderliness__ _n_  
 __orderly__ _adj_ _Since this is an orderly shutdown, zero queries are lost._  
 __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
+__Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/  
 __ornament__ _n_  
 __ornamental__ _adj_  
 __ornate__ _adj_ :four::hammer: /ɔrˈneɪt/  
@@ -253,6 +260,7 @@ __paradigmatic__ _adj_ _A paradigmatic example._
 __paradoxical__ _adj_ :two::hammer:  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
+__paralysis__ _n_ :mega: /pəˈræl ə sɪs/  
 __paramount__ _adj_ _It is of paramount importance._  
 __paraphernalia__  
 __paratransit__ _adj_ _Paratransit services._  
@@ -267,6 +275,7 @@ __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _Afte
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __paroxysm__ _n_  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
+__partake__ _v intr_ _Every year in the weeks leading up to Easter, many Christians around the world partake in Lent._  
 __parterre__ _n_ _A rose parterre._  
 __partial__ _adj_ _Partial kitchen._  
 __particulate matter__ _n_ Material suspended in the air in the form of minute solid particles or liquid droplets, especially when considered as an atmospheric pollutant.  
@@ -451,7 +460,7 @@ __prerogative__ _n_ /prih-RAH-guh-tiv/ Prerogative means “right or privilege,�
 __presbyterian__ _adj_  
 __presbytery__ _n_  
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
-__prescient__ _adj_ :es: clarividente, profético  
+__prescient__ _adj_ :two::hammer: :es: clarividente, profético  
 __presidential suite__ _n_  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __presumptive__ _adj_ /pre-ZUHMP-tiv/ __1__ Assumed; expected; inferred. __2__ Giving a reasonable basis for belief.  
@@ -764,6 +773,7 @@ __sassy__
 __sate__ _v_ _Sate your appetite._  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
+__saucepan__ _n_ :es: olla, cacerola  
 __saudade__  
 __sauerkraut__ _n_  
 __saunter<sup>1</sup>__ _v_  
@@ -819,7 +829,8 @@ __scrape__ _v_
 __scratching__ _n_  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
-__scrub__ _n_ _Trails winding through scrub oak stands._  
+__scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
+__scrub<sup>2</sup>__ _v tr_ __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
@@ -1498,6 +1509,7 @@ __unequaled__ _adj_
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __uneven__  
 __unfazed__ _adj_  
+__unfold__ _v_  
 __unforgiving__ _adj_  
 __unharness__ _v_  
 __unheeded__  
