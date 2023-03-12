@@ -8,10 +8,12 @@ __be a cake walk__
 __be on edge__  
 __bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
 __Captain Obvious__  
+__case in point__  
 __chances are__ It seems likely (that something will happen or be the case).  
 __chip away__  
 __circle back (to something)__  
 __clear the air__ :dart:  
+__comfort food__ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
 __cool headed__  
 __cross paths__  
 __cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
@@ -19,6 +21,7 @@ __cut someone or something off (short)__
 __day in and day out__  
 __dick around__  
 __ding ding ding__  
+__dive bar__ _slang_ A cheap, run-down, or disreputable bar or saloon.  
 __easy-breeze__ :dart:  
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __end of one’s rope__  
@@ -111,6 +114,7 @@ __go granular__ To examine something in detail.
 __go hand in hand__  
 __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
 __go overboard__  
+__go south__  
 __go the distance__ :dart::four: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go toe by toe__  
 __go vacant__ _Her eyes went vacant again._  
@@ -200,6 +204,7 @@ __it takes a village__
 __it takes two to tango__  
 __jacked chad__  
 __jailbreak__  
+__Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
 __jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
@@ -285,6 +290,7 @@ __nepo baby__ A famous person who has at least one parent who is also famous. It
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __night and day__  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
+__no big deal__  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
 __no picnic__ _This is no picnic._  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
@@ -326,6 +332,7 @@ __on the spur of the moment__
 __on the verge of__ :two::hammer:  
 __on the whole__  
 __once and for all__ :three: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
+__otherworldly__  
 __out of harm’s way__  
 __out of sight, out of mind__  
 __out with the old, in with the new__  
@@ -348,6 +355,7 @@ __play ball__ :three::hammer:
 __play out__  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
+__pop in__ :two::hammer: _Pop in for a casual meal._  
 __Potemkin village__  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
@@ -420,6 +428,7 @@ __second guess__
 __second-class citizen__  
 __second-guess__ __1__ To question or doubt someone or something retroactively. _Why are you second-guessing me now? You agreed with this course of treatment just yesterday!_ _You made the best decisions you could with the information you had at the time, so please don’t second-guess yourself._ __2__ To try to anticipate how something will happen or what someone will do. _Trying to second-guess the outcome of a game in progress is exhausting._  
 __secret sauce__ _Secret sauce_ is an expression used to refer to a special quality, feature, or strategy that contributes to the success of a product, service, or individual. It is typically kept secret, as its uniqueness is seen as the key to its success.  
+__see-and-be-seen__ To be noticed by others or to attract attention, especially in social situations. It often implies seeking the attention of important or influential people in order to advance one’s own interests or status. This phrase can also refer to the practice of observing and being observed in social environments, such as trendy nightclubs, where being seen is valued for its own sake. _See-and-be-seen restaurant._  
 __seek after__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
@@ -542,7 +551,8 @@ __tap into (something)__ :seven: __1__ To make a strong or advantageous connecti
 __tap into__ :five::hammer:  
 __tape into__  
 __teaching to the test__ A colloquial term for any method of education where the curriculum is heavily focused on preparing students for a standardized test, for example, with international IELTS English proficiency language test for non-native speakers.  
-__teem with (someone or something)__ :two: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
+__tee off__ _Tee off for St. Patrick’s Day._  
+__teem with (someone or something)__ :three: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __tell apart__  
 __tell me about it__  
@@ -690,6 +700,7 @@ __whistleblower__
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
 __white lie__  
 __white-knuckle__  
+__whiz up__ _Go-karts can whiz up to 45 miles per hour._  
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __why on earth__ Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
@@ -723,6 +734,7 @@ __work (one’s) ass off__
 __work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
+__work wonders__  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __yada yada yada__  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
