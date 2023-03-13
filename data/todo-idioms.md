@@ -1,19 +1,29 @@
+__a kick in the face__  
+__a kick in the teeth__ A humiliating disappointment or setback. _Losing my job after my car broke down was a real kick in the teeth._  
 __a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
 __ask for trouble__  
 __at the ready__  
+__baby step__  
 __back on the horse__  
 __be a cake walk__  
 __be on edge__  
 __bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
+__beg the question__  
+__bigger than life__ (larger than life)  
+__bring (someone or oneself) to (do something)__  
+__burst (one’s) bubble__  
+__butterflies in the stomach__  
+__call (all) the shots__  
 __Captain Obvious__  
 __case in point__  
 __chances are__ It seems likely (that something will happen or be the case).  
-__chip away__  
+__chip away__ :three::hammer:  
 __circle back (to something)__  
 __clear the air__ :dart:  
 __comfort food__ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
+__control freak__  
 __cool headed__  
 __cross paths__  
 __cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
@@ -22,6 +32,7 @@ __day in and day out__
 __dick around__  
 __ding ding ding__  
 __dive bar__ _slang_ A cheap, run-down, or disreputable bar or saloon.  
+__down the toilet__ _Three hours down the toilet._  
 __easy-breeze__ :dart:  
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __end of one’s rope__  
@@ -70,6 +81,7 @@ __fox’s sleep__ A state of apparent sleep (or feigned indifference) in which s
 __free spirit__  
 __Friendsgiving__  
 __frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
+__from the get-go__  
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
 __front and center__ :two::hammer:  
 __funky__ _With that mix, things get funky._  
@@ -164,6 +176,7 @@ __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Ho
 __holy shit__  
 __holy smoke(s)__  
 __hone in__ :dart:  
+__horseshit__  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
 __how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
@@ -202,6 +215,7 @@ __iron out__
 __it is not a competition__  
 __it takes a village__  
 __it takes two to tango__  
+__jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
@@ -216,6 +230,7 @@ __keep tabs on someone__
 __keep tabs on__  
 __keep tabs__  
 __kick ass__  
+__kick butt__ _I was kicking butt at work._  
 __kick in__  
 __kindred spirit__  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
@@ -268,6 +283,7 @@ __mess with (someone or something)__
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
 __mike drop__  
 __mill about__  
+__miss the boat__  
 __miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
 __missing link__  
 __mixed bag__  
@@ -289,6 +305,7 @@ __needless to say__ Obviously; the following is completely self-evident. _Helen 
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __night and day__  
+__nip (something) in the bud__  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __no big deal__  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
@@ -302,6 +319,7 @@ __not the sharpest tool in the box__
 __not the sharpest tool in the shed__  
 __not to mention__  
 __note to self__  
+__noted for (something)__ Having an established reputation or degree of fame because of something. _Professor Jenkins is noted for her groundbreaking work in gene therapy for cancer treatment._  
 __nothing ventured, nothing gained__ _proverb_  
 __nuclear family__  
 __nugget of information__  
@@ -313,6 +331,7 @@ __off work__
 __off-kilter__  
 __on (one’s) own righ__  
 __on (one’s) watch__  
+__on (someone’s or something’s) dime__  
 __on a different note__  
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on demand__ _Requested on demand._  
@@ -356,6 +375,7 @@ __play out__
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
 __pop in__ :two::hammer: _Pop in for a casual meal._  
+__poster child__  
 __Potemkin village__  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
@@ -366,14 +386,15 @@ __pump in__
 __punch up__  
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __push (one’s) buttons__  
-__put (one’s) finger on (something)__  
+__put (one’s) finger on (something)__ :two::hammer:  
 __put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
 __put (oneself) in (someone’s) shoes__  
 __put (something) on the back burner__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put out fires__  
-__put to the test__  
+__put to the test__ :two::hammer:  
+__put up a fight__  
 __put up with__ :two::hammer:  
 __put up__  
 __quiet quitting__ /kwahy-it kwit-ing/  
@@ -404,6 +425,7 @@ __rinse, (and) repeat__ (lather, rinse, (and) repeat)
 __rip (someone or something) to shreds__  
 __ripple effect__  
 __rock bottom__  
+__rock solid__  
 __rock the boat__ :two::hammer:  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
 __roll (one’s) eyes__ :three::hammer:  
@@ -439,6 +461,7 @@ __send off__
 __set in stone__  
 __set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
 __set the bar__  
+__shake up__  
 __shape up__  
 __shoot yourself on the foot__  
 __shot down__  
@@ -509,7 +532,7 @@ __sure as hell__ :two: (See _(as) sure as hell_.)
 __surprise, surprise__  
 __survival mode__  
 __sweep (one) off (one’s) feet__  
-__sweet spot__ :two: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
+__sweet spot__ :four: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
 __swept away__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
@@ -532,8 +555,10 @@ __take a pass__
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
+__take action__  
 __take heart__  
 __take it away!__  
+__take names__  
 __take pride in someone or something__ :three::hammer:  
 __take stock__  
 __take the brunt__  
@@ -671,10 +696,12 @@ __value judgment__
 __vamp up__  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
 __very much so__ Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
+__wak-eup call__  
 __wake up on the wrong side of (the) bed__ To be in a particularly and persistently irritable, unhappy, or grouchy mood or state, especially when it is not in line with one’s normal disposition. _I’m sorry I snapped at you earlier, I think I just woke up on the wrong side of the bed today._  
 __wake-up call__ __1__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. __2__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._  
 __walk a fine line between (something)__  
 __walk someone through something__ To lead someone through a complex problem or thought process. _Mary walked Jane through the complex solution to the calculus problem. Do I have to walk you through this solution?_  
+__walk someone through__  
 __wallflower__ Someone who remains on the outer edges of a social event, especially a dance or party, and does not participate due to being shy or unpopular. _I used to be a real wallflower when I was in high school. It wasn’t until I got to college that I finally started having a bit more confidence and began enjoying myself at parties._  
 __wash something down__ _Wash it down with a glass of milk._  
 __water down__  
@@ -704,7 +731,7 @@ __white-knuckle__
 __whiz up__ _Go-karts can whiz up to 45 miles per hour._  
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
-__why on earth__ Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
+__why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wild__  
 __wildest dreams__  
@@ -736,6 +763,7 @@ __work in concert__ To work together or in cooperation. _The two of us will need
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work wonders__  
+__wrap my head around something__  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __yada yada yada__  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
@@ -747,5 +775,5 @@ __you scratch my back, I’ll scratch yours__
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  
-__zone out__  
+__zone out__ :two::hammer:  
 __zoom out__  
