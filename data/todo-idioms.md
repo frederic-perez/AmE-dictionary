@@ -41,6 +41,7 @@ __even so__ In spite of something; regardless. _I know you’re not happy with m
 __every last one__  
 __every so often__ :two: Sometimes; occasionally. _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everything under the sun__  
+__eye-opening__  
 __face value__  
 __failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
 __fair game__  
@@ -78,6 +79,7 @@ __for the sake of__ :two::hammer: _For the sake of clarity._
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __fourth wall__ The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
 __fox’s sleep__ A state of apparent sleep (or feigned indifference) in which someone is actually aware of everything going on around them. Alludes to the idea that foxes sleep with one eye open and thus are always at the ready. _I think Amy is just in a fox’s sleep, so be careful what you say right now._  
+__free pass__  
 __free spirit__  
 __Friendsgiving__  
 __frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  

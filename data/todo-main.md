@@ -1,6 +1,14 @@
+__amen__  
+__bail__ _v_  
+__believe__ _v_ :mega:  
+__briskly__ _adv_ _Briskly walking._  
+__burrito__ _n_ :mega:  
+__cue__ _v_ _How do I cue this behavior?_  
 __decal__ _n_  
 __dollop__ _n_ _A dollop of caviar._  
+__effortless__ _adj_ _As effortless as making a cup of coffee._  
 __enormous__  
+__euchre__ _n_  
 __foodist__ _n_  
 __frolic__ _v_ (:pencil2: frolicking)  
 __gentrification__  
@@ -13,6 +21,7 @@ __hoot__ _v_ _Hooting and hollering is encouraged._
 __hubbub__ _n_  
 __humdrum__ _n_ _It will be a respite from the humdrum of life._  
 __hushed__ _adj_ _A hushed hotel lounge._  
+__inertia__ _n_ :mega:  
 __intricate__  
 __intrinsic__ _adj_ :mega:  
 __kelly green__ _n_ A strong yellowish green.  
@@ -20,6 +29,7 @@ __lass__ _n_
 __laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
 __lean__ _v_ _Lean onto that idea._  
 __leprechauns__  
+__lightheadedness__ _n_  
 __linchpin__ _n_  
 __lousy__ _adj_ _Lousy advice._  
 __lunatic__ _adj_  
@@ -162,6 +172,7 @@ __offbeat__ _adj_
 __offhandedly__ _adj_  
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
+__oftentimes__ _adv_ Frequently; repeatedly.  
 __okapi__ _n_  
 __Oktoberfest__ _n_  
 __olio__  
@@ -210,6 +221,7 @@ __outcrop__ _n_ :four::hammer:
 __outcropping__ _n_  
 __outcry__ _n_  
 __outfitter__ _n_ :four::hammer: _Outfitter shop._ _River outfitters._ _Horseback outfitter._  
+__outgoing__  
 __outgrowth__ _n_  
 __outing__ _n_  
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
@@ -227,6 +239,7 @@ __outsourcing__
 __outwear__ _n_  
 __overall__ _adj, adv_  
 __overarching__ _adj_ :three::hammer:  
+__overcomplicate__ _v tr_  
 __overdo__  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
@@ -432,6 +445,7 @@ __policyholder__
 __Pompeii__ _n_  
 __pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
 __ponderosa pine__  
+__pontoon boat__ _n_  
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __poodle__  
 __pool table__  
@@ -661,6 +675,7 @@ __repartee__ _n_ /rep-er-TEE/ __1__ Repartee can refer to either “a conversati
 __repeat__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
 __repercussion__ _n_  
 __repertoire__ _n_  
+__reprimand__ _v tr_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
@@ -686,6 +701,7 @@ __revel__ _v intr_ :three::hammer:
 __revelry__ _n_ :two::hammer:  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
 __revue__ _n_ :three::hammer: _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._  
+__reward__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
 __rhododendrons__ _n_ :pencil2:  
@@ -739,6 +755,7 @@ __Rottweiler__ _n_
 __rotunda__ _n_ :six::hammer:  
 __round out__ _v_ _Alluring martinis round out the experience._  
 __rousing__ _adj_ :five::hammer: _A rousing crowd._ _A rousing tale._  
+__route__ _n_ :mega:  
 __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._  
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __ruches__ _n_  
@@ -795,6 +812,7 @@ __saunter<sup>2</sup>__ _n_
 __savage__  
 __savant__ _n_ /sa-VAHNT/  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
+__savor__ _v_ _Savor the moment._  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy__ _adj_ _Savvy travelers._  
 __sawdust__ _n_  
@@ -840,6 +858,7 @@ __scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal o
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
 __scrape__ _v_  
+__scrappy__ _adj_ :two::hammer:  
 __scratching__ _n_  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
@@ -877,6 +896,7 @@ __seethe__ _v_ :two::hammer: _His seething frustration._
 __segrated__ _adj_ :pencil2: _A wave of persecution in the segrated South._  
 __segue__ _v_ (segues)  
 __seitan__  
+__seize__ _v_ _Seize the day._  
 __selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
 __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
@@ -1037,6 +1057,7 @@ __solicitor__ _n_ /səˈlɪsɪtəʳ/
 __soloist__ _n_  
 __sonnet__ _n_  
 __soon enough__ _adv_ :two::hammer:  
+__sophomore__ _n_ :mega:  
 __sorely__ _adv_ _Sorely needed._  
 __sorrowful__  
 __sought-after__  
@@ -1440,6 +1461,7 @@ __trail__ _n_ :three::hammer:
 __trailhead__ _n_ :two::hammer:  
 __trample__ _v_  
 __transmogrify__ _v_ /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
+__trash__ _v_ _Do not trash yourself._  
 __trashy__  
 __travelogue__ _n_  
 __travertine__ _n_  
@@ -1517,6 +1539,7 @@ __unapologetic__ _adj_
 __unassuming__ _adj_  
 __uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
 __uncouth__  
+__uncross__ _v tr_ _Uncross our arms._  
 __undemosaick__ _v_ _Undemosaicked pixels._  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ :two::hammer: /ˈʌn dərˌbɛl i/ _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
@@ -1603,6 +1626,7 @@ __vein__ _n_ :two::hammer: (not vessel)
 __veneer__ _n_ _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
 __venison__ _n_  
+__vent__ _v_  
 __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __verdigris__ _n_ /VER-duh-greess/ Verdigris is a green or bluish deposit, usually of copper carbonates, that forms on copper, brass, or bronze surfaces. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
@@ -1612,6 +1636,7 @@ __verruciform__ _adj_ In the shape of a wart.
 __verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections. _Syn_ wartlike, warty _The witch extended her verrucose arm and shook her gnarled finger in the little boy’s face._  
 __versatile__  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
+__verve__  
 __vexing__ _adj_ _A vexing problem._  
 __viands__ _n_  
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
