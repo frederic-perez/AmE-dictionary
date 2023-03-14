@@ -1,23 +1,3 @@
-__amen__  
-__apotheosis__ _n_ /uh-pah-thee-OH-sis/  
-__bail__ _v_  
-__believe__ _v_ :mega:  
-__briskly__ _adv_ _Briskly walking._  
-__burrito__ _n_ :mega:  
-__coeval__ _adj_ Originating or existing during the same period; lasting through the same era. _Syn_ coetaneous, contemporaneous  
-__cue__ _v_ _How do I cue this behavior?_  
-__cultivable__ _adj_ Capable of being farmed productively. _Syn_ arable, tillable  
-__decal__ _n_  
-__disobligation__ _n_  
-__divulge__ _v_ /dɪˈvʌldʒ, daɪ-/  
-__dollop__ _n_ _A dollop of caviar._  
-__effortless__ _adj_ _As effortless as making a cup of coffee._  
-__enormous__  
-__euchre__ _n_  
-__factotum__ _n_ /fak-TOH-tum/ A factotum is a person who has many diverse activities or responsibilities, and especially one whose work involves a wide variety of tasks. _After graduating from college, Natalia worked for several years as an office factotum._  
-__foodist__ _n_  
-__frolic__ _v_ (:pencil2: frolicking)  
-__gallivant__ _v_ /GAL-uh-vant/ To go or travel to many different places for pleasure. _She spent her gap year gallivanting around Europe with her best friend._  
 __gender dysphoria__ _n_ :dart:  
 __gentrification__  
 __Gold Coast__ _n_ (gold coast) An exclusive residential district.  

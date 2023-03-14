@@ -476,6 +476,7 @@ __ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulat
 __ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
+__amen__  
 __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amend__ _v_ _The Texas constitution was amended in 1891._  
 __amends__ _n pl_ :three: (plurale tantum)  
@@ -666,7 +667,7 @@ __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.
 __apostle__ _n_ :mute:[apos~~t~~le]  
 __apostrophe__ _n_ :two: In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
-__apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
+__apotheosis__ _n_ :two: /uh-pah-thee-OH-sis/ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :six: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :eight: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
@@ -1095,7 +1096,7 @@ __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies
 __bagman__ _n_ _Bill is a bag man for corrupt officials._  
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
-__bail__ _v_ _Do not bail after only two days!_  
+__bail__ _v_ :two::hammer: _Do not bail after only two days!_  
 __bailiff__ _n_ :four::pencil2::hammer: (bailiffs) :es: alguacil  
 __bailiwick__ _n_ :four::hammer:  
 __bailout__ _n_ :four::hammer:  
@@ -1377,7 +1378,7 @@ __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __Belial__ _n_  
 __belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
-__believe__ _v_ :mega:  
+__believe__ _v_ :two::hammer::mega:  
 __believer__ _n_ :mega:  
 __belittle__ _v tr_ :six: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
@@ -2053,7 +2054,7 @@ __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect 
 __brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
 __brisket__ _n_ :five::hammer: _BBQ beef brisket._  
-__briskly__  
+__briskly__ _adv_ :two::hammer: _Briskly walking._  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
 __bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __Bristolian__  
@@ -2283,6 +2284,7 @@ __burqa__
 __burr haircut__  
 __burr__ _n_  
 __burrhead__ _n_  
+__burrito__ _n_ :mega:  
 __burrow<sup>1</sup>__ _n_ :five::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
@@ -3279,7 +3281,8 @@ __coequality__ _n_ The state of being equal with one another, as in rank, power,
 __coerce__ _v_  
 __coerced__  
 __coercion__ _n_ :two::hammer:  
-__coeval__ _adj, n_ :two::hammer:  
+__coeval<sup>1</sup>__ _adj_ :three: Originating or existing during the same period; lasting through the same era. _Syn_ coetaneous, contemporaneous  
+__coeval<sup>2</sup>__ _n_  
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __coffee maker__ _n_ :two::hammer: _In-room coffee maker._  
 __coffee mill__ _n_ _Syn_ coffee grinder  
@@ -4057,7 +4060,7 @@ __cudgel__ _n_ :six: /ˈkʌdʒəl/ (cudgels) A short heavy stick. _Syn_ bastinad
 __cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
 __cue<sup>1</sup>__ _n_ :two::hammer: _The cue signals your new behaviors._ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
-__cue<sup>2</sup>__ _v_ :two::hammer:  
+__cue<sup>2</sup>__ _v_ :three::hammer: _How do I cue this behavior?_  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -4074,6 +4077,7 @@ __culpability__ _n_ The condition of blameworthiness, criminality, censurability
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
 __cult__ _n_ :two::hammer:  
+__cultivable__ _adj_ Capable of being farmed productively. _Syn_ arable, tillable  
 __Cultural Olympiad__ _n_  
 __culvert__ _n_ :three::hammer: _A dry culvert._  
 __cumbersome__ _adj_ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
@@ -4301,7 +4305,7 @@ __debutante__
 __decadence__ _n_ :two: __1__ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation __2a__ Behavior that is considered immoral because it concentrates too much on pleasure. _A life of sexual decadence._ __b__ So much pleasure that it almost seems morally wrong. _Eating like that every night is pure decadence._ _Enjoy elegant decadence._  
 __decadent__ _adj_ :seven::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Renowned for decadent and unique signature items._ _Decadent glory._  
 __decaf__ _n_ Decaffeinated coffee.  
-__decal__ _n_ :four::hammer: _Look for our decal when making dining plans._  
+__decal__ _n_ :five::hammer: _Look for our decal when making dining plans._  
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
 __decamped__ _v_  
 __decant__ _v_ :two::hammer:  
@@ -4773,6 +4777,7 @@ __dismiss__ _v_ __2__ To direct or allow to leave: _dismissed troops after the i
 __dismissive__ _adj_ :four::hammer: _Healthy young adults often are dismissive of health issues._  
 __dismount__ _n_ (Gymnastics) A move by which a gymnast gets off an apparatus or finishes a floor exercise, usually landing upright on the feet.  
 __Disneyfy__ _v_  
+__disobligation__ _n_  
 __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ _n_ :two::hammer:  
@@ -4854,6 +4859,7 @@ __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
 __divisive__ _adj_ _He is more interested in spouting divisive sound bites._  
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
+__divulge__ _v_ /dɪˈvʌldʒ, daɪ-/  
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
 __dizzy__ _adj_ :two::hammer:  
@@ -4915,7 +4921,7 @@ __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small p
 __dole__ _n_  
 __dolirometer__  
 __dollhouse__  
-__dollop__ _n_ :six::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
+__dollop__ _n_ :seven::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _A dollop of caviar._ _An extra dollop of drama._  
 __dolphin kick__ _n_  
 __dolt__ _n_ :two: A stupid person; a dunce.  
 __dome__ _n_  
@@ -5355,7 +5361,7 @@ __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
-__effortless__ _adj_  
+__effortless__ _adj_ :two::hammer: _As effortless as making a cup of coffee._  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
 __effulgence__ _n_ :two: /ih-FULL-junss/ Effulgence means “radiant splendor” or “brilliance.” A brilliant radiance. _Syn_ refulgence, shine, radiance _The state capitol’s golden dome shone with brilliant effulgence in the late afternoon light._  
 __effulgent__ _adj_ :two: [:scroll: C18: from Latin _effulgēre_ to shine forth, from _fulgēre_ to shine] Radiant; brilliant.  
@@ -5561,7 +5567,7 @@ __enliven__ _v_
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
 __ennui__ _n_ :five::mega::hammer:  
-__enormous__ _adj_ :mega: /ɪˈnɔːməs/  
+__enormous__ _adj_ :two::hammer::mega: /ɪˈnɔːməs/  
 __enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
 __enquiry__  
@@ -5717,6 +5723,7 @@ __ethos__ _n_ :nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The dispositi
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :two::astonished: Study of the sources and development of words. Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
+__euchre__ _n_  
 __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
 __eulogy__ _n_ :five::hammer:  
 __eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (well, good) + noos (mind, spirit). Eunoia is the shortest word in English with all five vowels.] __1__ A feeling of goodwill. __2__ A state of good mental health.  
@@ -5908,7 +5915,7 @@ __faction__ _n_
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
 __factoid__ _n_ :five: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
-__factotum__ _n_ A general assistant, engaged to do all varieties of work.  
+__factotum__ _n_ :two: /fak-TOH-tum/ A factotum is a person who has many diverse activities or responsibilities, and especially one whose work involves a wide variety of tasks. A general assistant, engaged to do all varieties of work. _After graduating from college, Natalia worked for several years as an office factotum._  
 __factual__  
 __faculty__ _n_ :three::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
@@ -6514,6 +6521,7 @@ __food stall__
 __food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
 __food-handler’s permit__  
 __foodie__ _n_ _informal_ One who has an ardent or refined interest in food; a gourmet. _A foodie and a friend._  
+__foodist__ _n_  
 __foodstuffs__  
 __fool’s game__  
 __fool’s gold__  
@@ -6749,7 +6757,7 @@ __frizzle<sup>3</sup>__ _n_ A short curl.
 __frock__  
 __frogman__ _n_ :two::hammer:  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
-__frolic<sup>2</sup>__ _v intr_ :five: /FRAH-lik/ /ˈfrɒl ɪk/ To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
+__frolic<sup>2</sup>__ _v intr_ :six: /FRAH-lik/ /ˈfrɒl ɪk/ (:pencil2: frolicking) To play and run about happily. _One of the highlights of spring on the farm is watching newborn lambs frolic in the meadow._  
 __from afar__  
 __from the git-go__  
 __from the rooter to the rooter__  
@@ -6901,6 +6909,7 @@ __Gallicism__ _n_
 __gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
+__gallivant__ _v_ /GAL-uh-vant/ To go or travel to many different places for pleasure. _She spent her gap year gallivanting around Europe with her best friend._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __galloping__  
 __gallows__ _n_ :two::hammer:  
