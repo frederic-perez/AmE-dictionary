@@ -1,16 +1,24 @@
 __amen__  
+__apotheosis__ _n_ /uh-pah-thee-OH-sis/  
 __bail__ _v_  
 __believe__ _v_ :mega:  
 __briskly__ _adv_ _Briskly walking._  
 __burrito__ _n_ :mega:  
+__coeval__ _adj_ Originating or existing during the same period; lasting through the same era. _Syn_ coetaneous, contemporaneous  
 __cue__ _v_ _How do I cue this behavior?_  
+__cultivable__ _adj_ Capable of being farmed productively. _Syn_ arable, tillable  
 __decal__ _n_  
+__disobligation__ _n_  
+__divulge__ _v_ /dɪˈvʌldʒ, daɪ-/  
 __dollop__ _n_ _A dollop of caviar._  
 __effortless__ _adj_ _As effortless as making a cup of coffee._  
 __enormous__  
 __euchre__ _n_  
+__factotum__ _n_ /fak-TOH-tum/ A factotum is a person who has many diverse activities or responsibilities, and especially one whose work involves a wide variety of tasks. _After graduating from college, Natalia worked for several years as an office factotum._  
 __foodist__ _n_  
 __frolic__ _v_ (:pencil2: frolicking)  
+__gallivant__ _v_ /GAL-uh-vant/ To go or travel to many different places for pleasure. _She spent her gap year gallivanting around Europe with her best friend._  
+__gender dysphoria__ _n_ :dart:  
 __gentrification__  
 __Gold Coast__ _n_ (gold coast) An exclusive residential district.  
 __grub__ _n_  
@@ -28,6 +36,7 @@ __kelly green__ _n_ A strong yellowish green.
 __lass__ _n_  
 __laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
 __lean__ _v_ _Lean onto that idea._  
+__leeway__ _n_ A margin of freedom or variation, as of activity, time, or expenditure; latitude. _Syn_ margin, allowance, tolerance  
 __leprechauns__  
 __lightheadedness__ _n_  
 __linchpin__ _n_  
@@ -37,6 +46,7 @@ __lush__ _adj_
 __mac and cheese__ _n_ Macaroni and cheese.  
 __mammoth__ _adj_  
 __man__ _v_ :two::hammer: _John mans the kitchen._  
+__McGuffin__ _n_ /məˈɡʌfɪn/ (MacGuffin)  
 __mischief__ _n_  
 __mojo__  
 __munch__ _v_  
@@ -804,6 +814,7 @@ __sassy__
 __sate__ _v_ _Sate your appetite._  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
+__Saturnalian__ _adj_ /sat-uhr-NAY-lee-uhn/ Marked by unrestrained revelry, overindulgence, licentiousness, etc.  
 __saucepan__ _n_ :es: olla, cacerola  
 __saudade__  
 __sauerkraut__ _n_  
@@ -866,6 +877,7 @@ __scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._
 __scrub<sup>2</sup>__ _v tr_ __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
+__scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
 __scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
 __scrutiny__ _n_  
 __scumbag__  
@@ -1672,6 +1684,7 @@ __wall clock time__ _n_
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __wanderlust__ _n_ :two::hammer:  
+__wanderwort__ _n_ A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.  
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
 __warrant__ _v_  
