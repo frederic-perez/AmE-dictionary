@@ -1,5 +1,6 @@
 __a kick in the face__  
 __a kick in the teeth__ A humiliating disappointment or setback. _Losing my job after my car broke down was a real kick in the teeth._  
+__a slew of (something)__ A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._  
 __a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
@@ -12,6 +13,7 @@ __be on edge__
 __bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
 __beg the question__  
 __bigger than life__ (larger than life)  
+__blow (one’s) mind__  
 __bring (someone or oneself) to (do something)__  
 __burst (one’s) bubble__  
 __butterflies in the stomach__  
@@ -22,6 +24,7 @@ __chances are__ It seems likely (that something will happen or be the case).
 __chip away__ :three::hammer:  
 __circle back (to something)__  
 __clear the air__ :dart:  
+__come to fruition__  
 __comfort food__ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
 __control freak__  
 __cool headed__  
@@ -29,8 +32,10 @@ __cross paths__
 __cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cut someone or something off (short)__  
 __day in and day out__  
+__dial in__ __6__ :dart: To perform a role or duty in a halfhearted, disinterested, and unprofessional manner. A noun or pronoun can be used between “dial” and “in,” especially in the form “dial it in.” _You can tell the actor is dialing it in—I’m sure he got a good paycheck for the voiceover, but you’d think he could try a little bit harder._  
 __dick around__  
 __ding ding ding__  
+__dirt cheap__ Very inexpensive _These shoes were dirt cheap—I found them on the clearance rack._  
 __dive bar__ _slang_ A cheap, run-down, or disreputable bar or saloon.  
 __down the toilet__ _Three hours down the toilet._  
 __easy-breeze__ :dart:  
@@ -67,6 +72,7 @@ __floored__ _I am floored._
 __fly by__  
 __fly on the wall__  
 __fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
+__fond of (someone or something)__ Having an affinity for someone or something. _I’m not too fond of Mike—he really annoys me sometimes._  
 __food baby__  
 __food coma__  
 __food for thought__ Something to consider._ That meeting really gave me food for thought—I might invest in their company after all._  
@@ -130,6 +136,7 @@ __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, th
 __go overboard__  
 __go south__  
 __go the distance__ :dart::four: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
+__go to great lengths (to do something)__  
 __go toe by toe__  
 __go vacant__ _Her eyes went vacant again._  
 __gold rush__ _VCs scramble to cash in on AI gold rush._  
@@ -179,6 +186,7 @@ __holy shit__
 __holy smoke(s)__  
 __hone in__ :dart:  
 __horseshit__  
+__hot air__ Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
 __how come__ How is it that; why: _How come you’re so late?_  
 __hulk out__  
@@ -194,6 +202,7 @@ __in a big bad way__
 __in a heartbeat__  
 __in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
 __in a rut__  
+__in and of itself__ By itself, without considering any other factors. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._  
 __in any way, shape, or form__  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
 __in hindsight__  
@@ -235,12 +244,13 @@ __kick ass__
 __kick butt__ _I was kicking butt at work._  
 __kick in__  
 __kindred spirit__  
+__kludgy__ :dart:  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __land on (one’s) feet__  
-__larger than life__  
+__larger than life__ :two::hammer:  
 __lash out__  
 __latch on__  
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
@@ -316,6 +326,7 @@ __no sooner (do something) than (do something else)__ One action had just conclu
 __no way__  
 __not a problem__ _informal_ __1__ Used to say that one is happy to do something. _“Thanks for your help.” “Not a problem.”_ __2__ Used to say that one is not bothered by something. _“I’m sorry for interrupting you.” “Not a problem.”_ __3__ Used to say that something can be done. _“I would like to pay with my credit card.” “Not a problem.”_  
 __not even close__  
+__not miss a beat__  
 __not miss a thing__  
 __not the sharpest tool in the box__  
 __not the sharpest tool in the shed__  
@@ -327,6 +338,7 @@ __nuclear family__
 __nugget of information__  
 __of no account__  
 __off the clock__  
+__off the hook__  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
 __off to the side__  
 __off work__  
@@ -339,6 +351,7 @@ __on autopilot__ (Functioning) automatically, without thinking about one’s act
 __on demand__ _Requested on demand._  
 __on edge__  
 __on leave__  
+__on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
 __on one’s terms__  
 __on short notice__  
 __on that note__  
@@ -546,6 +559,7 @@ __take (one’s) pick__ To choose from among several options. Often used as an i
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
+__take (someone, something, or some place) by storm__ _Nvidia stock price has doubled since generative AI took the world by storm last fall._  
 __take (something) to the bank__  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
