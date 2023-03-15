@@ -1,14 +1,21 @@
+__bissextile<sup>1</sup>__ _adj_ /by-SEKS-til/tyl/ Relating to the leap year or the extra day in a leap year.  
+__bissextile<sup>2</sup>__ _n_ Leap year.  
+__capricious__ _adj_ Subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic.  
+__ephemeral__ _adj_ /ɪˈfɛmərəl/ Lasting a very short time; short-lived; transitory.  
+__esoteric__ _adj_ Understood by or meant for only the select few who have special knowledge or interest; recondite.  
 __gender dysphoria__ _n_ :dart:  
 __gentrification__  
 __Gold Coast__ _n_ (gold coast) An exclusive residential district.  
 __grub__ _n_  
 __gyros__ _n_  
+__hauteur__ _n_ Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
 __hideaway__ _n_  
 __holler__ _v_ _Hooting and hollering is encouraged._  
 __hoot__ _v_ _Hooting and hollering is encouraged._  
 __hubbub__ _n_  
 __humdrum__ _n_ _It will be a respite from the humdrum of life._  
 __hushed__ _adj_ _A hushed hotel lounge._  
+__ineluctable__ _adj_ Incapable of being evaded; inescapable.  
 __inertia__ _n_ :mega:  
 __intricate__  
 __intrinsic__ _adj_ :mega:  
@@ -45,6 +52,7 @@ __myopic__ _adj_
 __myriad__ _adj_ :three::hammer:  
 __mythical__ _adj_  
 __naan bread__ _n_  
+__nadir__ _n_ /NAY-deer/ Nadir refers to the lowest or worst point of something. When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer. _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._  
 __nameplate__ _n_  
 __namesake__  
 __narcissistic__ _adj_ :pencil2:  
@@ -141,6 +149,7 @@ __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/
 __objectee__  
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obliterate__ _v_ /uh-BLIT-uh-rayt/  
+__obsequious__ _adj_ Characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating.  
 __obstreperous__ _adj_  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obtrude<sup>1</sup>__ _v tr_ /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc.  
@@ -204,7 +213,7 @@ __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._
 __osculate__ _v_  
 __ossification__ _n_  
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
-__ostentatious__ _adj_ /ah-stun-TAY-shus/  
+__ostentatious__ _adj_ :two: /ah-stun-TAY-shus/ Characterized by or given to pretentious or conspicuous show in an attempt to impress others.  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __otter__ _n_ :two::hammer: _Keep a look out for the sea otters._  
 __outcrop__ _n_ :four::hammer:  
@@ -346,6 +355,7 @@ __perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy o
 __pergola__ _n_  
 __peristyle__  
 __perky__ _adj_ _You should be perky until last call._  
+__pernicious__ _adj_ Causing insidious harm or ruin; ruinous; injurious; hurtful.  
 __perpetual__  
 __perspicacious__ _adj_ :two: /per-spuh-KAY-shus/ Perspicacious is a formal word that means “possessing acute mental vision or discernment.” Someone who is perspicacious has a keen ability to notice and understand things that are difficult or not obvious. Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._ _She considers herself a perspicacious judge of character._  
 __pertinent__ _adj_  
@@ -482,6 +492,7 @@ __prescient__ _adj_ :two::hammer: :es: clarividente, profético
 __presidential suite__ _n_  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __presumptive__ _adj_ /pre-ZUHMP-tiv/ __1__ Assumed; expected; inferred. __2__ Giving a reasonable basis for belief.  
+__prevaricate__ _v_ To speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.  
 __prick__ _v_  
 __prickle__ _n_ __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
 __prickling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ tingling, tingle  
@@ -786,7 +797,7 @@ __sandcastle__ _n_ _Have a sandcastle building competition._
 __sangria__ _n_  
 __sap__ _v_  
 __Saratoga__ _n_  
-__sardonic__ _adj_ Scornfully or cynically mocking. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
+__sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sarsaparilla__ _n_  
 __sashimi__ _n_  
@@ -1519,7 +1530,7 @@ __twist__ _n_ :three::hammer: _An innovative twist._
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
 __uber__ _adj_ :two::hammer:  
-__ubiquitous__  
+__ubiquitous__ _adj_ :two::pencil2: Existing or being everywhere, especially at the same time; omnipresent.  
 __ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umbrage__ _n_ /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
