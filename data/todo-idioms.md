@@ -20,14 +20,24 @@ __butterflies in the stomach__
 __call (all) the shots__  
 __Captain Obvious__  
 __case in point__  
+__castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding. _He keeps talking about how he’ll move to Los Angeles to be a famous actor, but it’s just castles in the sky if you ask me._  
 __chances are__ It seems likely (that something will happen or be the case).  
 __chip away__ :three::hammer:  
 __circle back (to something)__  
 __clear the air__ :dart:  
+__code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor. _There are parts of the city where the code of silence is so strong that police don’t even bother questioning the residents there._  
+__collect (one’s) wits__ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
+__collect dust__ To be in a state of disuse for a prolonged period of time. _Why do you want another video game console? You already have three collecting dust under the television!_  
+__come close to blows__ To nearly devolve into a physical fight. _Shopping on Black Friday can be so frenetic and crazy that many customers come close to blows with one another!_  
 __come to fruition__  
 __comfort food__ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
-__control freak__  
+__concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
+__conspicuous consumption__ The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
+__contrary to popular opinion__ Opposite to what is popularly or generally expected or believed. Usually used to introduce such a statement. _Contrary to popular opinion, higher taxes end up benefiting people more than lower ones._  
+__control freak__ :two: Someone who has an obsessive or compulsive need to control every aspect of a situation and/or the ways in which others act. _My father can be such a control freak sometimes, always dictating how I should be living my life._  
 __cool headed__  
+__cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
+__corporate ladder__  
 __cross paths__  
 __cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cut someone or something off (short)__  
@@ -83,7 +93,7 @@ __for crying out loud__
 __for real__  
 __for the sake of__ :two::hammer: _For the sake of clarity._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
-__fourth wall__ The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
+__fourth wall__ :two: The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
 __fox’s sleep__ A state of apparent sleep (or feigned indifference) in which someone is actually aware of everything going on around them. Alludes to the idea that foxes sleep with one eye open and thus are always at the ready. _I think Amy is just in a fox’s sleep, so be careful what you say right now._  
 __free pass__  
 __free spirit__  
@@ -192,6 +202,7 @@ __how come__ How is it that; why: _How come you’re so late?_
 __hulk out__  
 __hunker down__  
 __hunky-dory__  
+__hush money__  
 __I can imagine__ :three::hammer:  
 __I saw what you did there__  
 __icky__  
@@ -204,6 +215,7 @@ __in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a hu
 __in a rut__  
 __in and of itself__ By itself, without considering any other factors. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._  
 __in any way, shape, or form__  
+__in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
@@ -334,6 +346,7 @@ __not to mention__
 __note to self__  
 __noted for (something)__ Having an established reputation or degree of fame because of something. _Professor Jenkins is noted for her groundbreaking work in gene therapy for cancer treatment._  
 __nothing ventured, nothing gained__ _proverb_  
+__now (that) you mention it__ An expression used when one remembers or realizes something because of what the other person has just said. _A: “The weather’s been a bit unpredictable lately, huh?” B: “Now you mention it, I hear there could be a blizzard next week.”_  
 __nuclear family__  
 __nugget of information__  
 __of no account__  
