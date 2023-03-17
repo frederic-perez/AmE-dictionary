@@ -4,6 +4,7 @@ __a slew of (something)__ A very large number or amount of something; a lot of s
 __a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
+__approve of (someone or something)__ To agree with or support someone or something. _I don’t approve of your behavior right now._ _My parents have never approved of any of my girlfriends._  
 __ask for trouble__  
 __at the ready__  
 __baby step__  
@@ -15,6 +16,7 @@ __beg the question__
 __bigger than life__ (larger than life)  
 __blow (one’s) mind__  
 __bring (someone or oneself) to (do something)__  
+__buckle up__ _4_ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __burst (one’s) bubble__  
 __butterflies in the stomach__  
 __call (all) the shots__  
@@ -22,7 +24,7 @@ __Captain Obvious__
 __case in point__  
 __castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding. _He keeps talking about how he’ll move to Los Angeles to be a famous actor, but it’s just castles in the sky if you ask me._  
 __chances are__ It seems likely (that something will happen or be the case).  
-__chip away__ :three::hammer:  
+__chip away__ :four::hammer:  
 __circle back (to something)__  
 __clear the air__ :dart:  
 __code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor. _There are parts of the city where the code of silence is so strong that police don’t even bother questioning the residents there._  
@@ -48,6 +50,7 @@ __ding ding ding__
 __dirt cheap__ Very inexpensive _These shoes were dirt cheap—I found them on the clearance rack._  
 __dive bar__ _slang_ A cheap, run-down, or disreputable bar or saloon.  
 __down the toilet__ _Three hours down the toilet._  
+__early days__  
 __easy-breeze__ :dart:  
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __end of one’s rope__  
@@ -103,6 +106,7 @@ __from the get-go__
 __from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
 __front and center__ :two::hammer:  
 __funky__ _With that mix, things get funky._  
+__funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
 __game changer__  
 __game plan__ :two::hammer:  
 __game-changer__  
@@ -162,6 +166,8 @@ __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have co
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
 __half-ass__ :dart::three: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
+__hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
+__hands down__ Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._  
 __hash something up__  
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
@@ -184,11 +190,13 @@ __heaven forbid__
 __heavy lifting__  
 __higgledy-piggledy__  
 __high and dry__  
+__hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
 __hit home__  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hold (one’s) breath__  
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
+__hold (something) in store (for one)__  
 __hold a candle to__  
 __hold back__  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
@@ -320,6 +328,7 @@ __morning person__
 __mother lode__  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
+__move the needle__ To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __mull over__ To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
 __naked eye__ _With the naked eye._  
@@ -462,6 +471,7 @@ __roller coaster__ _Emotional roller coaster._
 __rub elbows__  
 __rub out__  
 __rubber stamp__  
+__rumor mill__  
 __run errands__  
 __run in circles__ :dart: To waste one’s time and energy engaging in trivial, aimless, or futile activities; to fail to make any meaningful progress in some task or activity. _I tried to get an outline drafted for my thesis, but my ideas were so jumbled in my head that I just kept running in circles._  
 __run the show__  
@@ -531,6 +541,7 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stand to reason__ Be clear to all sensible people.  
 __start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
+__steamroll through__  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step up__ :two::hammer:  
 __stepping stone__  
@@ -690,7 +701,7 @@ __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Oft
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
-__tough love__  
+__tough love__ :two::hammer:  
 __tour de force__ :three::hammer:  
 __trace back__  
 __train wreck__  
@@ -750,6 +761,7 @@ __what makes (one) tick__
 __what the heck__  
 __what’s up with__  
 __when the stakes are low__ When the stakes are low, it means that there is little to lose in a given situation. This can refer to a situation in which the potential rewards or losses are minimal, or a situation in which the potential consequences of an action are not serious. It can also refer to a situation in which the outcome of a decision is not particularly important or significant.  
+__wherever you go, there you are__ _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
@@ -785,6 +797,7 @@ __within walking distance__
 __without a doubt__  
 __without further ado__  
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
+__womp womp__ :astonished: A humorous phrase used to indicate or highlight minor disappointment. It mimics the sad trombone noise often used as a trope in movies and TV shows. _I tried to stop at that boutique on my way home from work, but it was already closed. Womp womp._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
 __word of mouth__ :two::hammer:  
 __work (one’s) ass off__  
