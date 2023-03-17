@@ -1,20 +1,28 @@
+__bemuse__ _v tr_  
+__biff__ _v tr_  
 __bissextile<sup>1</sup>__ _adj_ /by-SEKS-til/tyl/ Relating to the leap year or the extra day in a leap year.  
 __bissextile<sup>2</sup>__ _n_ Leap year.  
 __capricious__ _adj_ Subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic.  
+__derail__ _v_  
+__entrenched__ _adj_ __2__ Established firmly and securely. _The entrenched power of the nobility._  
 __ephemeral__ _adj_ /ɪˈfɛmərəl/ Lasting a very short time; short-lived; transitory.  
 __esoteric__ _adj_ Understood by or meant for only the select few who have special knowledge or interest; recondite.  
+__essential hypertension__ _n_ :dart: Persistent and pathological high blood pressure for which no specific cause can be found.  
 __gender dysphoria__ _n_ :dart:  
 __gentrification__  
+__gingival__ _adj_ Of or relating to the gums.  
 __Gold Coast__ _n_ (gold coast) An exclusive residential district.  
 __grub__ _n_  
 __gyros__ _n_  
 __hauteur__ _n_ Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
+__heifer__ _n_ A young cow that has not given birth to a calf.  
 __hideaway__ _n_  
 __holler__ _v_ _Hooting and hollering is encouraged._  
 __hoot__ _v_ _Hooting and hollering is encouraged._  
 __hubbub__ _n_  
 __humdrum__ _n_ _It will be a respite from the humdrum of life._  
 __hushed__ _adj_ _A hushed hotel lounge._  
+__ineffable__ _adj_  
 __ineluctable__ _adj_ Incapable of being evaded; inescapable.  
 __inertia__ _n_ :mega:  
 __intricate__  
@@ -28,6 +36,7 @@ __leprechauns__
 __lightheadedness__ _n_  
 __linchpin__ _n_  
 __lousy__ _adj_ _Lousy advice._  
+__lull__ _n_  
 __lunatic__ _adj_  
 __lush__ _adj_  
 __mac and cheese__ _n_ Macaroni and cheese.  
@@ -870,7 +879,7 @@ __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witte
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
 __scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
-__scrutiny__ _n_  
+__scrutiny__ _n_ :two::hammer:  
 __scumbag__  
 __scunner<sup>1</sup>__ _v intr_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
 __scunner<sup>2</sup>__ _n_ __1__ Dislike or disgust. __2__ A rascal; nuisance.  
@@ -1213,7 +1222,7 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ _The challenges strike me as fundamental._  
-__stringent__ _adj_ :three::hammer:  
+__stringent__ _adj_ :four::hammer:  
 __stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strive__ _v_ :three::hammer: (striving)  
@@ -1235,6 +1244,7 @@ __subdued__ _adj_ _The subdued dining room._
 __subpar__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
+__subsume__ _v tr_  
 __subtraction__ _n_ :pencil2:  
 __suburbia__ _n_  
 __succint__ _adj_ :two::hammer:  
