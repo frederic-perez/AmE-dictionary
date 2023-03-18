@@ -110,6 +110,8 @@ __a hot mess__
 __a joy to behold__ :two: A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a juggling act__ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
 __a kernel of truth__ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
+__a kick in the face__  
+__a kick in the teeth__ A humiliating disappointment or setback. _Losing my job after my car broke down was a real kick in the teeth._  
 __a knee-slapper__ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
 __a laundry list of (something)__ :dart: A very lengthy, thorough list of items. _I have a laundry list of projects I need to get done before Friday._  
@@ -147,6 +149,7 @@ __a rolling stone gathers no moss__ People pay a price for being always on the m
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a slew of (something)__ A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._  
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a sobering thought__ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a sore loser__ :dart: Someone who complains, becomes upset, or otherwise reacts very negatively when they fail or lose at something competitive. _Don’t be such a sore loser, Jim. I know you pride yourself on your racquetball skills, but I beat you fair and square._  
@@ -154,6 +157,7 @@ __a spring in (one’s) step__ __1__ A happy, confident, and enthusiastic mood o
 __a stab at (someone or something)__  
 __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
 __a stone’s throw__ :two: A very short distance. _The shore house is a stone’s throw from the ocean!_ _Just a stone’s throw from Wrigley Field._  
+__a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
 __a walk in the park__  
 __a wee dram__ A small amount of liquor, often whisky. Primarily heard in Scotland. _How about a wee dram of whisky for the road?_  
 __a week is a long time in politics__ _proverb_ Due to the fast-changing pace of the political landscape, the fortunes of a politician or political group can change drastically just in the course of a single week. The phrase is attributed to British Prime Minister Harold Wilson, c. 1964. _The challenger is enjoying a surge in popularity after the debate, but there’s still time before the election, and a week is a long time in politics._  
@@ -190,6 +194,7 @@ __affinity for (someone or something)__ A passionate interest in or affection fo
 __affirmative action__  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
+__aha moment__ An instant at which the solution to a problem becomes clear.  
 __ahead of the curve__ :five::hammer:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
@@ -227,6 +232,7 @@ __amount to nothing__ To result in no tangible or appreciable difference.
 __amount to something__  
 __amount to__ :five::hammer:  
 __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
+__an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
 __an eye for an eye, a tooth for a tooth__ _proverb_ :two: Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Bible, including in Exodus, Leviticus, and Deuteronomy. _I cannot be placated by paltry excuses of reparation! An eye for an eye, a tooth for a tooth—this I demand from all who have wronged me._  
 __an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
@@ -240,6 +246,7 @@ __anything but__ :two: By no means, not at all. _It is anything but sweet._
 __anything goes__ :three::hammer:  
 __apeshit__  
 __apple of (one’s) eye__ :two::hammer:  
+__approve of (someone or something)__ To agree with or support someone or something. _I don’t approve of your behavior right now._ _My parents have never approved of any of my girlfriends._  
 __arm candy__ :two: An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person they are accompanying. _Did you see the date she had with her at the movie premiere? I doubt they’re actually dating, but he was a nice piece of arm candy all the same._  
 __arm in arm__ _They were arm in arm, singing with the band._  
 __arm’s length__ A distance intentionally kept from something or between something, equal (literally or figuratively) to an arm’s span. Typically used in the phrase “keep at an arm’s length.” _Nancy has been keeping me at an arm’s length ever since she found out I was gossiping about her._  
@@ -269,6 +276,7 @@ __as we speak__ At this very moment.
 __as yet__ Up to the present time; up to now.  
 __as you please__  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
+__ask for trouble__  
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
@@ -301,7 +309,7 @@ __at the end of the day__ :two::hammer:
 __at the forefront (of something)__ _In the clinical community, we need to be at the forefront._  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
 __at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
-__at the ready__ :two: Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
+__at the ready__ :three: Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at top speed__ As fast as something or someone can go. _Once Tom caught the ball, he took off at top speed toward the end zone._  
 __at your leisure__  
@@ -310,9 +318,11 @@ __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
 __aye aye, sir__ _Aye aye, Captain._  
 __B-Team__  
+__baby step__  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
+__back on the horse__  
 __back out__  
 __back to back__  
 __back to basics__  
@@ -364,6 +374,7 @@ __be (someone’s) call__ :dart: To be ultimately left up to someone to decide.
 __be (someone’s) huckleberry__ :two: _(dated)_ To be well or perfectly suited to someone’s job, need, or purpose. Primarily heard in US. _You need someone to go break your brother out of jail? Buddy, I’m your huckleberry._  
 __be (stuck) in a rut__ To become seemingly trapped or stuck in a mundane, non-changing pattern of life, work, and/or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality.  
+__be a cake walk__  
 __be a different kettle of fish__ To be entirely different in scope or description from someone or something that was just being discussed.  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
@@ -424,7 +435,7 @@ __be on (one’s) conscience__ To be a persistent cause or source of guilt, such
 __be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
 __be on (the) air__ To be broadcasting live, as on television or radio. _OK everyone, we’re on the air in five minutes!_  
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
-__be on edge__  
+__be on edge__ :two::hammer:  
 __be on the lookout__ :two::hammer:  
 __be on the same page__  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
@@ -455,6 +466,7 @@ __bean counter__ :two: __1__ A derogatory term used to describe someone who obse
 __bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __bear hug__ :two::hammer:  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
+__bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
 __bear with (someone or something)__  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat down__  
@@ -471,7 +483,7 @@ __been there, done that__
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
-__beg the question__ :three::hammer: _All of this begs the question of Gallego’s own voting record._  
+__beg the question__ :four::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  

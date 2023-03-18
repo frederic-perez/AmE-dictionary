@@ -1,18 +1,3 @@
-__a kick in the face__  
-__a kick in the teeth__ A humiliating disappointment or setback. _Losing my job after my car broke down was a real kick in the teeth._  
-__a slew of (something)__ A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._  
-__a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
-__aha moment__ An instant at which the solution to a problem becomes clear.  
-__an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
-__approve of (someone or something)__ To agree with or support someone or something. _I don’t approve of your behavior right now._ _My parents have never approved of any of my girlfriends._  
-__ask for trouble__  
-__at the ready__  
-__baby step__  
-__back on the horse__  
-__be a cake walk__  
-__be on edge__  
-__bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
-__beg the question__  
 __bigger than life__ (larger than life)  
 __blow (one’s) mind__  
 __bring (someone or oneself) to (do something)__  
