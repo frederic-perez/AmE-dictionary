@@ -1,18 +1,3 @@
-__bemuse__ _v tr_  
-__biff__ _v tr_  
-__bissextile<sup>1</sup>__ _adj_ /by-SEKS-til/tyl/ Relating to the leap year or the extra day in a leap year.  
-__bissextile<sup>2</sup>__ _n_ Leap year.  
-__capricious__ _adj_ Subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic.  
-__derail__ _v_  
-__entrenched__ _adj_ __2__ Established firmly and securely. _The entrenched power of the nobility._  
-__ephemeral__ _adj_ /ɪˈfɛmərəl/ Lasting a very short time; short-lived; transitory.  
-__esoteric__ _adj_ Understood by or meant for only the select few who have special knowledge or interest; recondite.  
-__essential hypertension__ _n_ :dart: Persistent and pathological high blood pressure for which no specific cause can be found.  
-__gender dysphoria__ _n_ :dart:  
-__gentrification__  
-__gingival__ _adj_ Of or relating to the gums.  
-__Gold Coast__ _n_ (gold coast) An exclusive residential district.  
-__grub__ _n_  
 __gyros__ _n_  
 __hauteur__ _n_ Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
 __heifer__ _n_ A young cow that has not given birth to a calf.  

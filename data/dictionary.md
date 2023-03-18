@@ -1408,7 +1408,7 @@ __beltway__ _n_ :dart:
 __belvedere__ _n_ :five::hammer: [:scroll: From Italian, beautiful view] _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something.  
-__bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
+__bemuse__ _v tr_ :three: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
 __bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _n_ _Snow will dust the benches and valleys._  
@@ -1497,6 +1497,7 @@ __bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collect
 __bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
+__biff__ _v tr_  
 __Big A__ _n_ Big Apple, nickname for New York City.  
 __Big Apple__  
 __big brother__  
@@ -1570,6 +1571,8 @@ __biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A cri
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
 __bison__ _n_ :two::hammer: (_n pl_) _A herd of 500 bison._  
+__bissextile<sup>1</sup>__ _adj_ /by-SEKS-til/tyl/ Relating to the leap year or the extra day in a leap year.  
+__bissextile<sup>2</sup>__ _n_ Leap year.  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
 __bitching__ _n_ _Quit your bitching!_  
@@ -2553,7 +2556,7 @@ __capon__ _n_ :two: A male chicken castrated when young to improve the quality o
 __capote__ _n_ A long, usually hooded cloak or coat. _Syn_ hooded coat _The men wore matching black capotes with hoods that obscured their features, and we watched in terror as they advanced in the dim light._  
 __cappie__ _n_  
 __caprice__  
-__capricious__ _adj_ /kuh-prish-uhs, -pree-shuhs/  
+__capricious__ _adj_ :two: /kuh-prish-uhs, -pree-shuhs/ Subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic.  
 __caps__ _n_ Capital letters.  
 __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boats. To overturn or cause to overturn: _The boat capsized; I capsized the canoe._ _Don’t rock the boat, baby, or you might just capsize._  
 __capstan__ _n_  
@@ -4486,7 +4489,7 @@ __depressed__ _adj_ :two: __4__ Lowered in force, amount, etc. _Severely depress
 __deprive__ _v_  
 __deprived__ _adj_ _A very deprived area._  
 __depute__ _v_ Transfer power to someone. _Syn_ delegate  
-__derail__ _v_  
+__derail__ _v_ :two::hammer:  
 __derange__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
 __derangement__ _n_  
@@ -5605,7 +5608,7 @@ __entrant__ _n_ :three::dart::astonished: __1__ A person who takes part in a com
 __entreat__ _v_ _Syn_ beg, plead  
 __entrée__  
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
-__entrenched__ _adj_ :eight: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
+__entrenched__ _adj_ :nine: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._ __2__ Established firmly and securely. _The entrenched power of the nobility._  
 __entrenchment__  
 __entrepreneur__ _n_ :pencil2:  
 __entrust__  
@@ -5624,7 +5627,7 @@ __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets wit
 __epee__  
 __epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its pronunciation easier.  
 __ephemera__  
-__ephemeral<sup>1</sup>__ _adj_ :five: /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory. Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
+__ephemeral<sup>1</sup>__ _adj_ :six: /ɪˈfɛmərəl/ /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; short-lived; transitory. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
 __epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
 __epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
@@ -5689,7 +5692,7 @@ __esculent__ _adj_ Suitable for eating; edible.
 __escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
 __Eskimo__ _n_ :two::mega:  
-__esoteric__ _adj_  
+__esoteric__ _adj_ :two: Understood by or meant for only the select few who have special knowledge or interest; recondite.  
 __espadrilles__ _n_  
 __espalier__ _n_ _Espalier fruit trees._  
 __esplanade__ _n_ :two: A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
@@ -5697,6 +5700,7 @@ __espouse__ _v_ :four: /ih-SPOWZ/ __1__ Espouse is a formal word that means “t
 __espresso__ _n_ :two::pencil2: A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :pencil2:  
+__essential hypertension__ _n_ :dart: Persistent and pathological high blood pressure for which no specific cause can be found.  
 __essential<sup>1</sup>__ _adj_ _Special K - 8 essential vitamins._  
 __essential<sup>2</sup>__ _n_  
 __essoin<sup>1</sup>__ _n_ /ɛˈsɔɪn/ _law_ An excuse for not appearing in court.  
@@ -7011,7 +7015,7 @@ __gelding__ _n_ :three:hammer:
 __gelid__ _adj_ :two: Extremely cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._ _Gelid water._ _A man of gelid reserve._  
 __gelt__  
 __gemstone__ _n_ :es: piedra preciosa  
-__gender dysphoria__ _n_  
+__gender dysphoria__ _n_ :dart::two::hammer:  
 __gender gap__  
 __genealogist__  
 __Generalissimo Stalin__  
@@ -7028,7 +7032,7 @@ __genoise__ _n_ A light, buttery cake with a texture similar to sponge cake.
 __genteel__ _adj_ :three::hammer: /jen-TEEL/  
 __gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
 __gentility__  
-__gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
+__gentrification__ _n_ :four: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
 __gentry__ _n_ :two::hammer:  
 __genuflects__ _v_  
@@ -7101,6 +7105,7 @@ __gingerly<sup>1</sup>__ _adv_ :five::hammer: _Walking gingerly behind the pack.
 __gingerly<sup>2</sup>__ _adj_  
 __gingersnap__ _n_  
 __gingham__  
+__gingival__ _adj_ Of or relating to the gums.  
 __gingivitis__ _n_  
 __ginning__  
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
@@ -7226,7 +7231,7 @@ __Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. 
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __going-over__ _n_ A severe scolding. _Syn_ castigation, bawling out, chewing out, dressing down, upbraiding, earful _When he was caught chewing gum in class, he knew he would have to endure a going-over from the teacher._  
-__Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
+__Gold Coast__ _n_ :two: _(Chicago)_ (gold coast) An exclusive residential district. _Gold Coast neighborhood._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold panner__ _n_ A miner who digs or pans for gold in a gold field.  
 __gold rush__  
@@ -7480,7 +7485,7 @@ __growl<sup>2</sup>__ _v_ :seven::hammer: (growled, growling) _The dogs were gro
 __growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container brought by a customer for beer.  
 __grown-up<sup>1</sup>__ _adj_  
 __grown-up<sup>2</sup>__ _n_  
-__grub__ _n_ _slang_ :seven: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._ _Decent pub grub._  
+__grub__ _n_ _slang_ :eight: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._ _Decent pub grub._  
 __grubbing__ _v_ :two::hammer:  
 __grubby__ _adj_  
 __grubstake__ _n_ Supplies or funds advanced to a mining prospector or a person starting a business in return for a promised share of the profits.  
