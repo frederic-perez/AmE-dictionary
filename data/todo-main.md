@@ -1,18 +1,3 @@
-__aide-memoire__ _n_ A memorandum setting forth the major points of a proposed discussion or agreement, used especially in diplomatic communications. _Syn_ position paper  
-__ampersand__ _n_ [:scroll: Alteration of and per se and, & (the sign) by itself (means) and. n the early 1800s, school children reciting their ABCs concluded the alphabet with the &. It would have been confusing to say “X, Y, Z, and.” So, the students said, “and per se and.”] The character or sign (&) representing the word _and_.  
-__august__ _adj_ Inspiring awe or admiration; majestic. _Syn_ lordly, grand _He was of august lineage, and was widely admired for his family connections._  
-__blarney__ _n_ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
-__disinformation__ __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
-__gyros__ _n_  
-__hauteur__ _n_ Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
-__heifer__ _n_ A young cow that has not given birth to a calf.  
-__heterodox__ _adj_ /HET-uh-ruh-dahks/  
-__hideaway__ _n_  
-__holler__ _v_ _Hooting and hollering is encouraged._  
-__home ground__ _n_ _Syn_ habitat  
-__hoot__ _v_ _Hooting and hollering is encouraged._  
-__hubbub__ _n_  
-__humdrum__ _n_ _It will be a respite from the humdrum of life._  
 __hushed__ _adj_ _A hushed hotel lounge._  
 __ides__ _n_ The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __ineffable__ _adj_  

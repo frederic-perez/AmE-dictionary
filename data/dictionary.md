@@ -332,6 +332,7 @@ __ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical 
 __ahold__  
 __aichmophobia__ _n_ The fear of pointed objects, esp needles, pins, etc.  
 __aide__ _n_ :two::hammer: (aides)  
+__aide-memoire__ _n_ A memorandum setting forth the major points of a proposed discussion or agreement, used especially in diplomatic communications. _Syn_ position paper  
 __ail__ _v_  
 __ailerons__  
 __ailing__ _v_ :four::hammer: _It is ailing the NFL._  
@@ -504,6 +505,7 @@ __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ 
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
+__ampersand__ _n_ [:scroll: Alteration of and per se and, & (the sign) by itself (means) and. n the early 1800s, school children reciting their ABCs concluded the alphabet with the &. It would have been confusing to say “X, Y, Z, and.” So, the students said, “and per se and.”] The character or sign (&) representing the word _and_.  
 __amphibian__ _n_ :pencil2:  
 __amphitheater__ _n_ :two::hammer: _Wind and water are responsible for the natural amphitheater._  
 __ample__ _adj_ :nine::m: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
@@ -950,7 +952,7 @@ __audit__ _n_ :two::hammer: _A tax audit._
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __augur__ _v_ :two::hammer: /AW-gur/  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
-__august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
+__august__ _adj_ :three: Inspiring reverence or admiration; of supreme dignity or grandeur. Inspiring awe or admiration; majestic. _Syn_ lordly, grand _He was of august lineage, and was widely admired for his family connections._  
 __Augustinian__ _adj_  
 __auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
 __Auld Man’s Milk__ _n_  
@@ -1622,7 +1624,7 @@ __blandishment__ _n_ :three: (Often, blandishments.) Something, as an action or 
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
-__blarney<sup>1</sup>__ _n_ :two::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
+__blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
 __blarney<sup>2</sup>__ _v_  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
@@ -4760,6 +4762,7 @@ __disillusionment__
 __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a deterrent.  
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
+__disinformation__ _n_ __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
 __disingenuous__ _adj_ :five: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinherited__ _adj_ Deprived of your rightful heritage.  
@@ -7602,6 +7605,7 @@ __gym rat__ _n_ (gym rat) _He’s a gym-rat type of guy._
 __gymkhana__  
 __gyoza__ _n_  
 __gyrate__ _v_ :two::hammer:  
+__gyros__ _n_  
 __gyroscopic__ _adj_ :mega: _Gyroscopic effect._  
 __H174cm x W82.5cm x D44cm__ _phr_ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __habeas corpus__ _n_  
@@ -7824,7 +7828,7 @@ __haunt<sup>1</sup>__ _v_
 __haunt<sup>2</sup>__ _n_ :three::hammer: _It is a favorite BYOD haunt._  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
 __haunting__ _adj_  
-__hauteur__  
+__hauteur__ _n_ :two: Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
 __haversack__ _n_ :two: A single-strapped bag worn over one shoulder and used for carrying supplies.  
@@ -7951,7 +7955,7 @@ __hefted up__
 __hefty__ _adj_ :two::hammer:  
 __hegemony__ _n_ The predominant influence, as of a state, region, or group, over another or others. _Syn_ domination _Many great works of art were created during the hegemony of Athens in Greece._  
 __hegira__ _n_  
-__heifer__ _n_  
+__heifer__ _n_ :two: A young cow that has not given birth to a calf.  
 __height__ _n_ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :five::hammer: _A heightened awareness of problems._  
 __heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
@@ -8026,6 +8030,7 @@ __Hershey kisses__
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hesperidium__ _n_ :two: The fruit of a citrus plant, as an orange.  
+__heterodox__ _adj_ /HET-uh-ruh-dahks/  
 __heterogeneous__ _adj_  
 __hew__ _v_ :nine::m: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._ _A hand-hewn cave._  
 __hex key__ _n_ Allen key. _Hex key set._  
@@ -8041,7 +8046,7 @@ __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover b
 __hickory shaft__  
 __hickory__ _n_ :four::hammer: _Hickory charcoal-grilled steaks._ _The steaks are grilled over a hickory flame._ _Hickory smoked pork._  
 __hidalgo__ _n_  
-__hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
+__hideaway__ _n_ :three: An area where you can be alone. _Syn_ retreat  
 __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __hideout__ _n_ :two::hammer:  
@@ -8176,7 +8181,7 @@ __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __holistay__ _n_ The British English version of _staycation_.  
 __holistic__ _adj_ :nine: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
-__holler__ _v_ :five: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
+__holler__ _v_ :six: __1__ To yell or shout. _Hooting and hollering is encouraged._ __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __holly__ _n_ :three::astonished::pencil2: /ˈhɒlɪ/ [The plant that is thought to be responsible for the association of the colors red and green with Christmas] Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
@@ -8190,6 +8195,7 @@ __Holy Writ__ _n_
 __homage__ _n_ :two: __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home furnishing__ _n_  
+__home ground__ _n_ _Syn_ habitat  
 __home run__ _n_  
 __home school__ _v_  
 __home__ _v intr_ To go or return to one’s residence or base of operations.  
@@ -8256,7 +8262,7 @@ __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_
 __hoopster__ _n_ A basketball player.  
 __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __Hoosiers__  
-__hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
+__hoot<sup>1</sup>__ _v_ :eight::hammer: (hooted, hooting) _The driver of the car behind hooted again._ _Hooting and hollering is encouraged._  
 __hoot<sup>2</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
 __hootenanny__ _n_  
 __hoover<sup>1</sup>__ _n_ /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
@@ -8362,7 +8368,7 @@ __hovercraft__ _n_ A craft capable of moving over water or land on a cushion of 
 __howl__ _v_ :two::hammer:  
 __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
-__hubbub__ _n_ :six::hammer:  
+__hubbub__ _n_ :seven::hammer:  
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -8384,7 +8390,8 @@ __humbug<sup>1</sup>__ _n_ :two: __1__ Something intended to deceive; a hoax or 
 __humbug<sup>2</sup>__ _v tr_ To deceive or trick.  
 __humbug<sup>3</sup>__ _v intr_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
-__humdrum__ _adj_ :five::hammer: _A humdrum office building._  
+__humdrum<sup>1</sup>__ _adj_ :five::hammer: _A humdrum office building._  
+__humdrum<sup>2</sup>__ _n_ _It will be a respite from the humdrum of life._  
 __humidor__ _n_ :two::hammer: _(cigars, pipes)_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __hummed__ _v_  
