@@ -1,18 +1,3 @@
-__hushed__ _adj_ _A hushed hotel lounge._  
-__ides__ _n_ The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
-__ineffable__ _adj_  
-__ineluctable__ _adj_ Incapable of being evaded; inescapable.  
-__inertia__ _n_ :mega:  
-__intricate__  
-__intrinsic__ _adj_ :mega:  
-__kelly green__ _n_ A strong yellowish green.  
-__lacuna__ _n_ /luh-KOO-nuh/  
-__lass__ _n_  
-__laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
-__lean__ _v_ _Lean onto that idea._  
-__leeway__ _n_ A margin of freedom or variation, as of activity, time, or expenditure; latitude. _Syn_ margin, allowance, tolerance  
-__leprechauns__  
-__lightheadedness__ _n_  
 __linchpin__ _n_  
 __lousy__ _adj_ _Lousy advice._  
 __lull__ _n_  

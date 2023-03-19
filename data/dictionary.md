@@ -8431,6 +8431,7 @@ __hush up__ _phr v_ :three: To not let something become known. _The matter had b
 __hush-hush__ _adj_ _informal_ Very secret. _Though these meetings were hush-hush there were sometimes leaks._  
 __hush<sup>1</sup>__ _n_  
 __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
+__hushed__ _adj_ _A hushed hotel lounge._  
 __husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
@@ -8501,7 +8502,7 @@ __ID window__
 __id__ _n_  
 __ideation__ _n_ :two::hammer:  
 __identical twin__ _n_ :two: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
-__ides__ _n_  
+__ides__ _n_ :two: The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
@@ -8715,14 +8716,15 @@ __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My fathe
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
 __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __inebriated__ _adj_  
-__ineffable__ _adj_ :six: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
+__ineffable__ _adj_ :seven: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __ineffectual__  
 __inefficacious__ _adj_  
 __ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
-__ineluctable__ _adj_ :two: /in-ih-LUK-tuh-bul/ Ineluctable is a formal word meaning “unable to be avoided, changed, or resisted.” Often followed by such words as _fate_ and _conclusion_, it is a synonym of _inevitable_. Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._ _Even the tallest mountains will one day be reduced to sand by the Earth’s slow yet ineluctable geologic forces._  
+__ineluctable__ _adj_ :three: /in-ih-LUK-tuh-bul/ Ineluctable is a formal word meaning “unable to be avoided, changed, or resisted.” Often followed by such words as _fate_ and _conclusion_, it is a synonym of _inevitable_. Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._ _Even the tallest mountains will one day be reduced to sand by the Earth’s slow yet ineluctable geologic forces._  
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _adj_ _Helium is inert._  
+__inertia__ _n_ :mega:  
 __inescapable__ _adj_ :three: Impossible to escape or avoid; inevitable: _inescapable consequences._ _In Portland, nature is inescapable._ _Syn_ certain  
 __inexorable__ _adj_ __1__ Impossible to stop, alter, or resist; _inevitable: an inexorable fate; an inexorable law of nature._ __2__ Not capable of being persuaded by entreaty; relentless: _an inexorable opponent._ _The inexorable investigator questioned the witness repeatedly, long after she had been reduced to tears and claimed to know nothing more._  
 __inexpedient__ _adj_ /ˌɪnɪkˈspiːdɪənt/ Not suitable, advisable, or judicious.  
@@ -8899,8 +8901,8 @@ __intransigence__ _n_ Unwillingness to compromise, especially from an extreme po
 __intransigent__ _adj_ :two: /in-TRAN-suh-junt/ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacy__ _n_ :four::mega::hammer: /ˈɪn trɪ kə si/ (intricacies)  
-__intricate__ _adj_ :two::hammer:  
-__intrinsic__ _adj_  
+__intricate__ _adj_ :three::hammer:  
+__intrinsic__ _adj_ :two::hammer::mega:  
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
 __inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator’s office with letters of protest, we are certain to get her attention._  
@@ -9245,6 +9247,7 @@ __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person wh
 __keg__ _n_ :two::hammer:  
 __kegger__ _n_  
 __keiretsu__ _n_  
+__kelly green__ _n_ A strong yellowish green.  
 __kelp__ _n_ :three::hammer:  
 __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
 __Kendall__ _n_ /ˈkɛndəl/  
@@ -9428,7 +9431,7 @@ __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninsp
 __laconic__ _adj_ :five: /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._ _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
-__lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
+__lacuna__ _n_ :two: /luh-KOO-nuh/ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
 __lacustrine__ _adj_  
 __lacy__ _adj_ :three: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
@@ -9527,6 +9530,7 @@ __laser wall__
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
 __lashings__ _n_ :four: Lavish quantities. _Syn_ oodles, dozens, gobs, heaps, loads, lots, rafts, scads, scores, slews, stacks, tons, wads, piles, mountain _Famished, the men ate lashings of spaghetti and meatballs when they finally reached their destination._ _Gooey cheese and lashings of sour cream._ _A toasted muffin with serious lashings of Hollandaise sauce._  
+__lass__ _n_  
 __lassitude__ _n_ :four: A state or feeling of weariness, diminished energy, or listlessness. Tiredness and a lack of energy. _Syn_ lethargy, sluggishness _Her rapid footsteps shook her own floors, and she routed lassitude and indifference wherever she came._  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
@@ -9555,7 +9559,7 @@ __latrine__ _n_
 __latte__ _n_ A caffe latte.  
 __laud<sup>1</sup>__ _v_ :four: /lɔːd/ (lauded, lauding) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
-__laudable__  
+__laudable__ _adj_ :two: /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
 __laudation__ _n_ The act of lauding; praise.  
 __laudatory__ _adj_ Expressing praise; commendatory.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
@@ -9598,7 +9602,7 @@ __league__ _v_ :mute:[leag~~u~~e]
 __lean on__ _v_ :two::hammer:  
 __lean protein__  
 __lean<sup>1</sup>__ _adj_ :four::hammer: _He is lean fast._ _Lean food._ _A lean face._  
-__lean<sup>2</sup>__ _v_  
+__lean<sup>2</sup>__ _v_ :two::hammer: _Lean onto that idea._  
 __leap day__  
 __leap of faith__  
 __leap year__  
@@ -9625,7 +9629,7 @@ __leer__ _v_
 __leer<sup>1</sup>__ _v_ (leering) :four::pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :nine::m: /ˈliːˌweɪ/ Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :nine::m: /ˈliːˌweɪ/ Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. A margin of freedom or variation, as of activity, time, or expenditure; latitude. _Syn_ margin, allowance, tolerance _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg warmer__ _n_  
 __legal tack__  
@@ -9665,6 +9669,7 @@ __leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spen
 __leper__  
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
+__leprechauns__  
 __lese majeste__ _n_ :four: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_ :two::hammer:  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
@@ -9745,6 +9750,7 @@ __light-headed__ _adj_ :two: (lightheaded) Feeling as though you might fall down
 __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
+__lightheadedness__ _n_  
 __lighthearted__ _adj_ :four: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ glad, lightsome, blithe  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __lightning flash__ _n_  
