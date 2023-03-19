@@ -1,18 +1,27 @@
+__aide-memoire__ _n_ A memorandum setting forth the major points of a proposed discussion or agreement, used especially in diplomatic communications. _Syn_ position paper  
+__ampersand__ _n_ [:scroll: Alteration of and per se and, & (the sign) by itself (means) and. n the early 1800s, school children reciting their ABCs concluded the alphabet with the &. It would have been confusing to say “X, Y, Z, and.” So, the students said, “and per se and.”] The character or sign (&) representing the word _and_.  
+__august__ _adj_ Inspiring awe or admiration; majestic. _Syn_ lordly, grand _He was of august lineage, and was widely admired for his family connections._  
+__blarney__ _n_ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
+__disinformation__ __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
 __gyros__ _n_  
 __hauteur__ _n_ Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
 __heifer__ _n_ A young cow that has not given birth to a calf.  
+__heterodox__ _adj_ /HET-uh-ruh-dahks/  
 __hideaway__ _n_  
 __holler__ _v_ _Hooting and hollering is encouraged._  
+__home ground__ _n_ _Syn_ habitat  
 __hoot__ _v_ _Hooting and hollering is encouraged._  
 __hubbub__ _n_  
 __humdrum__ _n_ _It will be a respite from the humdrum of life._  
 __hushed__ _adj_ _A hushed hotel lounge._  
+__ides__ _n_ The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __ineffable__ _adj_  
 __ineluctable__ _adj_ Incapable of being evaded; inescapable.  
 __inertia__ _n_ :mega:  
 __intricate__  
 __intrinsic__ _adj_ :mega:  
 __kelly green__ _n_ A strong yellowish green.  
+__lacuna__ _n_ /luh-KOO-nuh/  
 __lass__ _n_  
 __laudable__ _adj_ /LAW-duh-bul/ Worthy of praise. _Syn_ commendable _Thanks to the laudable efforts of dozens of volunteers, the town’s Winter Carnival was an enjoyable event for everyone._  
 __lean__ _v_ _Lean onto that idea._  
@@ -28,7 +37,9 @@ __mac and cheese__ _n_ Macaroni and cheese.
 __mammoth__ _adj_  
 __man__ _v_ :two::hammer: _John mans the kitchen._  
 __McGuffin__ _n_ /məˈɡʌfɪn/ (MacGuffin)  
+__mifepristone__ _n_ /mɪf əˈprɪs toʊn/ An antigestational drug that prevents a fertilized egg from attaching to the uterine wall by blocking the action of progesterone.  
 __mischief__ _n_  
+__misinformation__ _n_ False information that is spread, regardless of intent to mislead.  
 __mojo__  
 __munch__ _v_  
 __mural__ _n_  
@@ -150,6 +161,7 @@ __obtrude<sup>1</sup>__ _v tr_ /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to 
 __obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
+__occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
 __occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
 __October__ _n_ [:scroll: Like its neighboring months September, November, and December, the month of October kept its numerical name, even after Julius Caesar expanded the calendar year from 10 months to 12.]  
 __octopi__ _n pl_ A plural of octopus.  
@@ -557,6 +569,7 @@ __purport__ _v_ :two::hammer:
 __purveyor__  
 __pushback__ _n_  
 __pustule__ _n_  
+__putsch__ _n_ A sudden attempt by a group to overthrow a government. _Syn_ coup, coup d’etat, takeover  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
 __Pygmalion__ _n_ :mega:  
 __pylon__ _n_  
@@ -858,6 +871,7 @@ __scrappy__ _adj_ :two::hammer:
 __scratching__ _n_  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
+__scrooge__ _n_ A mean-spirited miserly person. _Syn_ niggard, skinflint, churl _The old scrooge was married to his money, and spending a penny was, to him, as traumatic as divorce._
 __scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
 __scrub<sup>2</sup>__ _v tr_ __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
@@ -1298,6 +1312,7 @@ __table__ _v_ :two: Hold back to a later time. _Let’s table that idea._
 __tableside__ _n_ _Topless tableside dancing._  
 __tabletop__ _adj, n_  
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
+__tactile__ _adj_ /TAK-tul/  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  

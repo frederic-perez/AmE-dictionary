@@ -15,6 +15,7 @@ __ADD__ Attention deficit disorder.
 __ADHD__ :two: Attention deficit hyperactivity disorder.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
+__BAE__ Beautiful and elegant.  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BCE__ Before the Common Era.  
 __BM__ Bowel movement (take a dump).  
@@ -190,7 +191,7 @@ __SL,UT__ Abbreviation for Salt Lake City, Utah.
 __SLA__ Service level agreement.  
 __SMH__ Shaking my head.  
 __SMP__ Shared memory processing.  
-__STI__ :five: Sexually transmitted infection.  
+__STI__ :six: Sexually transmitted infection.  
 __SW__ Southwest.  
 __T__ _v_ _His car shit the bed so he’s going to have to T it._  
 __T-storm__ Thunderstorm.  
