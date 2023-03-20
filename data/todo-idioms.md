@@ -1,18 +1,3 @@
-__(only) time will tell__  
-__all’s well that ends well__ _prov_ A positive ending can overshadow any problems that may have preceded it. Although this phrase is the title of a Shakespeare play, it likely predates it. _Hey, we’re not fighting anymore, and that’s all that matters. All’s well that ends well._  
-__bigger than life__ (larger than life)  
-__blow (one’s) mind__  
-__blow a fuse__ :dart: To react furiously, to the point of losing control of one’s behavior. _Mom totally blew a fuse when I told her I had failed math._ _Don’t blow a fuse—it’s just a tiny scratch on the car._  
-__blow me down__ An expression of shock or surprise at something. Often used jocosely and usually preceded by the word “well.” _Well, blow me down! I never thought I’d see you around these parts again!_  
-__bring (someone or oneself) to (do something)__  
-__buckle up__ _4_ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
-__burst (one’s) bubble__  
-__butterflies in the stomach__  
-__by the dozen(s)__ :dart: __2__ In large numbers. Despite the using the word “dozen,” the phrase is not limited to quantities of 12 and can be written in the plural (“dozens”). _If we institute new rules by the dozen, we’ll never be able to police them all at once._ _Users are uncovering affairs and betrayals by the dozen._  
-__call (all) the shots__  
-__Captain Obvious__  
-__case in point__  
-__castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding. _He keeps talking about how he’ll move to Los Angeles to be a famous actor, but it’s just castles in the sky if you ask me._  
 __chances are__ It seems likely (that something will happen or be the case).  
 __chip away__ :four::hammer:  
 __circle back (to something)__  

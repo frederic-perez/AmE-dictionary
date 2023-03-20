@@ -39,6 +39,7 @@ __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhel
 __(one’s) other half__ One’s spouse, romantic partner, or boyfriend/girlfriend. _I’d love to come out to the bars with you after work, but I’d better check in with my other half to make sure we don’t have any plans for this evening._  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
+__(only) time will tell__  
 __(right) from the off__ _He knew it from the off._  
 __(someone’s) native soil__ The country or geographical area in which someone was born or raised. _Though I’ve spent most of my adult life in London, it’s always nice to return to my native soil of Shanghai, if even for just a few days._  
 __(someone) (just) doesn’t know when to quit__ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
@@ -225,6 +226,7 @@ __all things considered__ :two::hammer:
 __all too often__ Too frequently. _We see this problem all too often._  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-you-can-eat__  
+__all’s well that ends well__ _prov_ A positive ending can overshadow any problems that may have preceded it. Although this phrase is the title of a Shakespeare play, it likely predates it. _Hey, we’re not fighting anymore, and that’s all that matters. All’s well that ends well._  
 __alter ego__  
 __amateur hour__ :two: A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
@@ -510,6 +512,7 @@ __big fish__
 __big spender__ :two: Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __big time__ :two::hammer:  
 __bigger fish to fry__  
+__bigger than life__ (larger than life)  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bitch box__ _rude_ _slang_ An intercom. Typically used in the military. _Ugh, what are they announcing over the bitch box now?_  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
@@ -527,7 +530,9 @@ __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full
 __blood runs cold__ _informal_ To be very frightened.  
 __blood, sweat, and tears__ A lot of effort and suffering.  
 __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and/or conjunctiva (the inside of the eyelid) are colored red due to the prominence of superficial blood vessels. Bloodshot eyes can be the result of a wide range of conditions, including tiredness, eyestrain, irritation, conjunctivitis, injury, or more serious inflammatory conditions. _I’ve got these really bloodshot eyes from studying all night long._  
-__blow (one’s) mind__ :three::hammer:  
+__blow (one’s) mind__ :four::hammer:  
+__blow a fuse__ :dart: To react furiously, to the point of losing control of one’s behavior. _Mom totally blew a fuse when I told her I had failed math._ _Don’t blow a fuse—it’s just a tiny scratch on the car._  
+__blow me down__ An expression of shock or surprise at something. Often used jocosely and usually preceded by the word “well.” _Well, blow me down! I never thought I’d see you around these parts again!_  
 __blow someone away__  
 __blow someone out of the water__  
 __blow the coop__ To leave or escape (something). _This lecture is so boring. Come on, let’s blow the coop and go get a drink somewhere!_  
@@ -587,6 +592,7 @@ __bridge the gap__
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __brighten up (the) day__  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring (someone or oneself) to (do something)__  
 __bring (someone or something) to a halt__  
 __bring (someone) to terms__ To compel a person or group to agree to or do something, especially a set of demands or conditions. _The rebels’ unflinching siege of the king’s palace eventually brought the government to terms._  
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
@@ -604,7 +610,7 @@ __brood over__ :two: To worry anxiously or be despondent about something or some
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
 __bucket list__ :two::hammer: _That’s one of my bucket list items._  
-__buckle up__ :four::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._  
+__buckle up__ :five::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
@@ -619,6 +625,7 @@ __burn the midnight oil__ :three: To work late into the night.
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
 __burning desire__  
+__burst (one’s) bubble__  
 __burst at the seams__ :two::hammer:  
 __burst through (something)__  
 __bury (one’s) head in the sand__  
@@ -630,6 +637,7 @@ __but for (something)__ Except for something; if not for something. _That major 
 __butt heads__ __1__ Literally, to knock heads together, as of rams or sheep. _The two male rams fiercely butted heads to establish dominance among the group._ __2__ By extension, to completely disagree or get into a heated confrontation with someone. _Jonathan and Cynthia always butt heads over politics when they’re together._ _I got kicked out of the bar when I started butting heads with that guy._ _Sullivan butted heads with Standards and Practices._  
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
 __butterfingers__ A person who frequently drops things, clumsy person.  
+__butterflies in the stomach__  
 __button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __buy the farm__ To die.  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
@@ -641,12 +649,12 @@ __by no means__ Not in any way; not at all; absolutely not.
 __by the balls__  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__  
-__by the dozen__  
+__by the dozen(s)__ :dart::two: __2__ In large numbers. Despite the using the word “dozen,” the phrase is not limited to quantities of 12 and can be written in the plural (“dozens”). _If we institute new rules by the dozen, we’ll never be able to police them all at once._ _Users are uncovering affairs and betrayals by the dozen._  
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :three: In the same way.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ :two: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
-__call (all) the shots__  
+__call (all) the shots__ :two::hammer:  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
 __call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
@@ -677,7 +685,7 @@ __candle in the wind__ :two: Something that is particularly vulnerable, weak, fr
 __cannibalize__ _v_  
 __cannon fodder__ Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
-__Captain Obvious__ A person who makes a statement or statements of such obvious meaning or implication as to be entirely redundant, superfluous, or unnecessary. _Pauline: “The President has said that lower-class families are bearing the brunt of the recession worse than anyone else.” Johnny: “Thank you, Captain Obvious!”_  
+__Captain Obvious__ :two: A person who makes a statement or statements of such obvious meaning or implication as to be entirely redundant, superfluous, or unnecessary. _Pauline: “The President has said that lower-class families are bearing the brunt of the recession worse than anyone else.” Johnny: “Thank you, Captain Obvious!”_  
 __cards are stacked against someone__ Luck is against someone.  
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carp at (one)__ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
@@ -686,7 +694,7 @@ __carry (someone) off their feet__ To completely overwhelm someone with enthusia
 __carry a torch for__  
 __carry the ball__ :two: To be in charge.  
 __carry the day__ To win, to be successful.  
-__case in point__ :two: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__case in point__ :three: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
@@ -696,7 +704,7 @@ __cast in concrete__ Firmly or permanently established; not subject to change; u
 __cast the first stone__ To be the first to criticize someone or something. _OK, fine, I’ll cast the first stone—that movie was awful!_  
 __cast/shed/throw light on something__ :two::hammer:  
 __castle in the air__ A hope or wish, especially for one’s life, that is unlikely to come true. A daydream. _I really want to become a famous Hollywood actor, but I realize that it’s just a castle in the air and that I shouldn’t quit my day job._  
-__castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
+__castles in the sky__ :two:Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding. _He keeps talking about how he’ll move to Los Angeles to be a famous actor, but it’s just castles in the sky if you ask me._  
 __cat and mouse__  
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
