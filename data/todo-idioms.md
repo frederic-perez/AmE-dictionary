@@ -1,9 +1,14 @@
+__(only) time will tell__  
+__all’s well that ends well__ _prov_ A positive ending can overshadow any problems that may have preceded it. Although this phrase is the title of a Shakespeare play, it likely predates it. _Hey, we’re not fighting anymore, and that’s all that matters. All’s well that ends well._  
 __bigger than life__ (larger than life)  
 __blow (one’s) mind__  
+__blow a fuse__ :dart: To react furiously, to the point of losing control of one’s behavior. _Mom totally blew a fuse when I told her I had failed math._ _Don’t blow a fuse—it’s just a tiny scratch on the car._  
+__blow me down__ An expression of shock or surprise at something. Often used jocosely and usually preceded by the word “well.” _Well, blow me down! I never thought I’d see you around these parts again!_  
 __bring (someone or oneself) to (do something)__  
 __buckle up__ _4_ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __burst (one’s) bubble__  
 __butterflies in the stomach__  
+__by the dozen(s)__ :dart: __2__ In large numbers. Despite the using the word “dozen,” the phrase is not limited to quantities of 12 and can be written in the plural (“dozens”). _If we institute new rules by the dozen, we’ll never be able to police them all at once._ _Users are uncovering affairs and betrayals by the dozen._  
 __call (all) the shots__  
 __Captain Obvious__  
 __case in point__  
@@ -25,6 +30,7 @@ __control freak__ :two: Someone who has an obsessive or compulsive need to contr
 __cool headed__  
 __cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
 __corporate ladder__  
+__count someone in (for something)__  
 __cross paths__  
 __cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cut someone or something off (short)__  
@@ -39,6 +45,7 @@ __early days__
 __easy-breeze__ :dart:  
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __end of one’s rope__  
+__etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
 __even more so__ :two::hammer:  
 __even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
 __every last one__  
@@ -55,6 +62,7 @@ __fall short__
 __false alarm__  
 __fan service__  
 __faux pass__  
+__feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
 __feeling on edge__ :two::hammer:  
 __fend off__  
 __few and far between__  
@@ -173,6 +181,8 @@ __heart and soul__
 __heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
 __heaven forbid__  
 __heavy lifting__  
+__here’s the kicker__ _slang_ This next point is a really surprising or ironic twist or turn of events. Primarily heard in US.  
+__hidden in plain sight__  
 __higgledy-piggledy__  
 __high and dry__  
 __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
@@ -235,6 +245,7 @@ __jack someone up__ _It jacks me up._
 __jacked chad__  
 __jailbreak__  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
+__jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __Jekyll and Hyde__  
 __joy-joy feelings__  
 __jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
@@ -273,7 +284,7 @@ __line of work__
 __living proof__ :two::hammer:  
 __living the dream__  
 __long hours__ :two: A period of time doing something, especially work, that is longer than is usual or customary. _I’ll be working long hours in the restaurant the lead up to Christmas, but the tips and pay checks will be worth it._  
-__long story short__  
+__long story short__ :two::hammer:  
 __lose (one’s) marbles__ (lose one’s mind) To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her marbles after she had a stroke._  
 __lose count (of something)__ To fail to remember or keep an accurate tally of how many of something there is, often due to there being a great amount. _At this point, I’ve lost count of the number of times they’ve yelled at me!_  
 __lose face__  
@@ -287,6 +298,7 @@ __lump in (one’s) throat__
 __make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make a case for (something)__  
 __make great strides__  
+__make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make oneself wrong__  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
@@ -330,6 +342,7 @@ __no matter how you slice it__ Regardless of how a situation is analyzed, viewed
 __no picnic__ _This is no picnic._  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no way__  
+__not a big deal__ It is often used to indicate that a problem or situation is minor and does not require excessive concern or attention. The phrase can also be used to minimize the impact of a negative event or to reassure someone that everything is fine. It can also be used to express nonchalance or indifference to a situation or event.  
 __not a problem__ _informal_ __1__ Used to say that one is happy to do something. _“Thanks for your help.” “Not a problem.”_ __2__ Used to say that one is not bothered by something. _“I’m sorry for interrupting you.” “Not a problem.”_ __3__ Used to say that something can be done. _“I would like to pay with my credit card.” “Not a problem.”_  
 __not even close__  
 __not miss a beat__  
@@ -399,6 +412,7 @@ __ponder on (something)__ To give great consideration to something; to ruminate 
 __pop in__ :two::hammer: _Pop in for a casual meal._  
 __poster child__  
 __Potemkin village__  
+__power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence. _It’s just a power play—he’s moving the shifts around purely to show that he’s the one who can._  
 __power washing__  
 __practice makes perfect__ :two::hammer:  
 __prone to__  
@@ -524,6 +538,7 @@ __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
 __stand to reason__ Be clear to all sensible people.  
+__stare down the barrel of a/(one’s) gun__ To have a gun pointed at oneself. (The “barrel” of a gun is the tube-shaped part from which the projectile is fired.) _The robber shoved me to the floor, and when I looked up, I was staring down the barrel of his gun._  
 __start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __steamroll through__  
@@ -735,6 +750,7 @@ __watering hole__ :two::hammer: _Revelers can move around watering holes with im
 __way of life__  
 __weather permitting__ :four::hammer: _Weather permitting, you can experience a spectacular view of the city below from atop this mountain._  
 __wee hours__  
+__weekend warrior__  
 __weigh in__ __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __weigh on__  
 __well in advance__ _Book tickets well in advance._  
