@@ -9784,7 +9784,7 @@ __limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa
 __limpid__ _adj_  
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
-__linchpin__ _n_ :seven: A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
+__linchpin__ _n_ :eight: A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
 __line up__ _v_ :three::hammer: _Huge crowds are lining up._  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-up__ _n_ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -9974,7 +9974,7 @@ __Louisiana Purchase__ _n_ Territory in the western United States purchased from
 __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
-__lousy__ _adj_ :two::hammer: _A lousy trip._  
+__lousy__ _adj_ :three::hammer: _A lousy trip._ _Lousy advice._  
 __lout__ _n_ :six: /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
@@ -10019,7 +10019,7 @@ __lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with
 __luge__ _n_ :two::hammer: _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
 __lugubrious__ _adj_ :three: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._ _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
-__lull<sup>1</sup>__ _n_ :four::hammer: /lʌl/ (lulls) _Save meetings for the lulls._  
+__lull<sup>1</sup>__ _n_ :five::hammer: /lʌl/ (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :six::hammer: /lʌl/ (lulled) _Camping under the stars with the sound of the river lulling you to sleep is hard to beat._  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
@@ -10032,6 +10032,7 @@ __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protubera
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
+__lunatic__ _adj_  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
 __lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, cold meats, deli meats) Precooked or cured meats that are sliced and served cold or hot. They are typically served in sandwiches or on a tray. They can be purchased pre-sliced, usually in vacuum packs, or they can be sliced to order. :es: embutidos  
@@ -10051,7 +10052,7 @@ __lure<sup>2</sup>__ _v_ (lured)
 __lurid__ _adj_ :six::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
 __luscious__ _adj_ :three: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
-__lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
+__lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
 __lust__  
@@ -10074,7 +10075,7 @@ __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or aut
 __lyre__  
 __lyrical__ _adj_ /LEER-ih-kul/ Something described as lyrical has an artistically beautiful or expressive quality, often one that is reminiscent of song.  
 __lysimeter__  
-__mac and cheese__ _n_ Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
+__mac and cheese__ _n_ :two: Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
 __macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
@@ -10189,7 +10190,9 @@ __mamasan__
 __mammalian<sup>1</sup>__ _n_ /məˈmeɪ li ən, -ˈmeɪl yən/ An animal of the class Mammalia; mammal.  
 __mammalian<sup>2</sup>__ _adj_ Belonging or pertaining to the class Mammalia; characteristic of mammals.  
 __mammonism__ _n_ The greedy pursuit of riches.  
+__mammoth__ _adj_  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
+__man__ _v_ :two::hammer: _John mans the kitchen._  
 __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
 __man<sup>1</sup>__ _n_  
 __man<sup>2</sup>__ _v_ (manning)  
@@ -10368,6 +10371,7 @@ __maze__ _n_ _Sundance Cinemas will offer more than a maze of screens._
 __mbira__ _n_ _Syn_ kalimba, thumb piano  
 __McDonald’s__ _n_ :mega: [mic...]  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
+__McGuffin__ _n_ /məˈɡʌfɪn/ (MacGuffin)  
 __mea culpa__  
 __mead__ _n_ :two::hammer:  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
@@ -10560,6 +10564,7 @@ __midwatch__ _n_
 __midway__  
 __midwife__ _n_ :three::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
+__mifepristone__ _n_ /mɪf əˈprɪs toʊn/ An antigestational drug that prevents a fertilized egg from attaching to the uterine wall by blocking the action of progesterone.  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
 __miffed__ _adj_ :five: /mɪft/ Annoyed or upset. When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._ _The cat was miffed at being left alone._  
 __MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
@@ -10647,7 +10652,7 @@ __miscellanea__ _n_ Miscellaneous items or written works collected together. _Sy
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
-__mischief__ _n_ :five::hammer:  
+__mischief__ _n_ :six::hammer:  
 __mischievous__ _adj_ :three::mega::hammer:  
 __misconduct__ _n_ :two::hammer:  
 __misconstrue__ _v tr_ :two::hammer:  
@@ -10669,7 +10674,7 @@ __misgiving__ _n_ :eight: (misgivings) _(Often plural)_ Uneasiness about the fit
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
-__misinformation__ _n_ Information that is incorrect.  
+__misinformation__ _n_ :two: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _v tr_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
 __mismatch__ _n_ :two::pencil2::hammer:  
 __misnomer__ _n_ :nine::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
@@ -10730,7 +10735,7 @@ __mogul__ _n_ :seven: __1__ A very rich or powerful person; a magnate. _Feeling 
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
-__mojo__ _n_ :two::hammer:  
+__mojo__ _n_ :three::hammer:  
 __molasses__ _n_ :seven::hammer: :es: melaza _Pomegranate molasses._  
 __mold__ _n_  
 __molding__ _n_ :two::hammer: _Mahogany moldings._  
@@ -10938,7 +10943,7 @@ __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or pa
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __mumbo jumbo__ _n_  
 __mumps__  
-__munch__ _v_ :six:hammer: (munches, munched) _He munched the fruit._  
+__munch__ _v_ :seven:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :six::hammer:  
@@ -10948,6 +10953,7 @@ __munificent__ _adj_ :three: Very liberal in giving; generous. _Syn_ lavish, uns
 __munifience__ _n_ _obsolete_ A fortification.  
 __munition__ _n_ :four::hammer: (munitions) _The munitions factory._  
 __muons__ _n_ _Cosmic-ray muons._  
+__mural__ _n_  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
 __murk__ _n_  

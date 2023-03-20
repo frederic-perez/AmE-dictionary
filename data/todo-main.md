@@ -1,18 +1,3 @@
-__linchpin__ _n_  
-__lousy__ _adj_ _Lousy advice._  
-__lull__ _n_  
-__lunatic__ _adj_  
-__lush__ _adj_  
-__mac and cheese__ _n_ Macaroni and cheese.  
-__mammoth__ _adj_  
-__man__ _v_ :two::hammer: _John mans the kitchen._  
-__McGuffin__ _n_ /məˈɡʌfɪn/ (MacGuffin)  
-__mifepristone__ _n_ /mɪf əˈprɪs toʊn/ An antigestational drug that prevents a fertilized egg from attaching to the uterine wall by blocking the action of progesterone.  
-__mischief__ _n_  
-__misinformation__ _n_ False information that is spread, regardless of intent to mislead.  
-__mojo__  
-__munch__ _v_  
-__mural__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
 __murse__ _n_ A man’s purse.  
@@ -841,7 +826,7 @@ __scrappy__ _adj_ :two::hammer:
 __scratching__ _n_  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
-__scrooge__ _n_ A mean-spirited miserly person. _Syn_ niggard, skinflint, churl _The old scrooge was married to his money, and spending a penny was, to him, as traumatic as divorce._
+__scrooge__ _n_ A mean-spirited miserly person. _Syn_ niggard, skinflint, churl _The old scrooge was married to his money, and spending a penny was, to him, as traumatic as divorce._  
 __scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
 __scrub<sup>2</sup>__ _v tr_ __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
