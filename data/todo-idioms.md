@@ -1,18 +1,3 @@
-__chances are__ It seems likely (that something will happen or be the case).  
-__chip away__ :four::hammer:  
-__circle back (to something)__  
-__clear the air__ :dart:  
-__code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor. _There are parts of the city where the code of silence is so strong that police don’t even bother questioning the residents there._  
-__collect (one’s) wits__ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
-__collect dust__ To be in a state of disuse for a prolonged period of time. _Why do you want another video game console? You already have three collecting dust under the television!_  
-__come close to blows__ To nearly devolve into a physical fight. _Shopping on Black Friday can be so frenetic and crazy that many customers come close to blows with one another!_  
-__come to fruition__  
-__comfort food__ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
-__concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
-__conspicuous consumption__ The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
-__contrary to popular opinion__ Opposite to what is popularly or generally expected or believed. Usually used to introduce such a statement. _Contrary to popular opinion, higher taxes end up benefiting people more than lower ones._  
-__control freak__ :two: Someone who has an obsessive or compulsive need to control every aspect of a situation and/or the ways in which others act. _My father can be such a control freak sometimes, always dictating how I should be living my life._  
-__cool headed__  
 __cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
 __corporate ladder__  
 __count someone in (for something)__  
