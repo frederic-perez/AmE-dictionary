@@ -1,18 +1,3 @@
-__murderess__ _n_ :astonished: A woman who commits murder.  
-__murky__ _adj_  
-__murse__ _n_ A man’s purse.  
-__muse__ _v_ /MYOOZ/ To muse about something is to think about it carefully and thoroughly. The word can also mean “to become absorbed in thought,” or “to think or say something in a thoughtful way.” _The conversation meandered, as the cousins mused about what had changed and what had remained the same since the last family reunion._  
-__mushy__ _adj_ :two::hammer: _Mushy peas._  
-__musketeer__ _n_  
-__muskrats__ _n_  
-__mussel__ _n_ :two::pencil2::hammer:  
-__myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
-__myofascial__ _adj_  
-__myopic__ _adj_  
-__myriad__ _adj_ :three::hammer:  
-__mythical__ _adj_  
-__naan bread__ _n_  
-__nadir__ _n_ /NAY-deer/ Nadir refers to the lowest or worst point of something. When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer. _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._  
 __nameplate__ _n_  
 __namesake__  
 __narcissistic__ _adj_ :pencil2:  

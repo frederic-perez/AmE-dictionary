@@ -10955,12 +10955,15 @@ __munition__ _n_ :four::hammer: (munitions) _The munitions factory._
 __muons__ _n_ _Cosmic-ray muons._  
 __mural__ _n_  
 __murder book__ _n_ The case file of a murder investigation.  
+__murderess__ _n_ :astonished: A woman who commits murder.  
 __muriatic__  
 __murk__ _n_  
+__murky__ _adj_  
+__murse__ _n_ A man’s purse.  
 __muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, “little mouse.”  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
-__muse<sup>2</sup>__ _v_ :five::hammer: (mused) _He mused on his Facebook page about killing his wife._  
+__muse<sup>2</sup>__ _v_ :six: /MYOOZ/ To muse about something is to think about it carefully and thoroughly. The word can also mean “to become absorbed in thought,” or “to think or say something in a thoughtful way.” _The conversation meandered, as the cousins mused about what had changed and what had remained the same since the last family reunion._ _He mused on his Facebook page about killing his wife._  
 __muselet__ _n_ The wire that holds a champagne cork in place.  
 __museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
@@ -10968,16 +10971,17 @@ __mushers__
 __mushmouth__ _n_  
 __mushroom<sup>1</sup>__ _n_  
 __mushroom<sup>2</sup>__ _v_ _Traffic mushroomed in Feb._  
-__mushy__ _adj_ :four::hammer: _Mushy age._  
+__mushy__ _adj_ :six::hammer: _Mushy age._ _Mushy peas._  
 __musing__ _n_ :two: (musings) Contemplation; reflection.  
 __musket__  
+__musketeer__ _n_  
 __muskmelon__ _n_ :three::hammer:  
-__muskrat__ _n_ _The muskrat season._  
+__muskrat__ _n_ :two::hammer: _The muskrat season._  
 __muslin__ _n_ :three: A light thin cotton cloth used for making dresses, curtains, and sheets. _Black muslin dresses._ _Muslin swaddles._ :es: muselina  
 __muss<sup>1</sup>__ _n_ _No fuss, no muss._  
 __muss<sup>2</sup>__ _v_ :two::hammer: (mussed) _Her hair was down and mussed around her face._  
 __mussed__ _v_  
-__mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
+__mussel__ _n_ :five::pencil2: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
 __must have__  
 __mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
@@ -10989,16 +10993,18 @@ __mutt__ _n_ :five::hammer:
 __muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunder became audible._  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
+__myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __myocarditis__ _n_  
+__myofascial__ _adj_  
 __myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a person or an animal.  
 __myopia__ _n_ :pencil2::two::hammer:  
-__myopic__ _adj_ /mye-OH-pik/ _he corrective eye surgery has been approved for myopic patients._  
+__myopic__ _adj_ :two::hammer: /mye-OH-pik/ _The corrective eye surgery has been approved for myopic patients._  
 __myositis__ _n_  
-__myriad__ _adj_ :three: Very many.  
+__myriad__ _adj_ :six: Very many.  
 __myrrh__ _n_ :two::pencil2::hammer: :es: mirra  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
@@ -11011,12 +11017,14 @@ __mystified__
 __mystify__ _v_ _He was mystified._  
 __mystique__ _n_ :pencil2:  
 __myth__ _n_  
+__mythical__ _adj_  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :three::hammer:  
+__naan bread__ _n_  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
-__nadir__ _n_ :two::hammer: _The nadir of French fortunes._  
+__nadir__ _n_ :three: /NAY-deer/ __1__ Nadir refers to the lowest or worst point of something. _The nadir of French fortunes._ _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._ __2__ When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.  
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_ :five::hammer:  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
