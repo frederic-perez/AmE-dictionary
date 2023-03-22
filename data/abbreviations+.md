@@ -88,6 +88,7 @@ __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, 
 __intl__ :four: (int’l) International.  
 __IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __IP__ Intelectual property.  
+__IRL__ In real life.  
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ISV__ Independent software vendor.  
 __IUD__  

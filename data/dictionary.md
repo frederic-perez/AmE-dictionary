@@ -11039,56 +11039,65 @@ __name-and-likeness__
 __name-calling__  
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
 __name-dropping__ _n_  
-__nameplate__ _n_  
+__nameplate__ _n_ :two::hammer:  
 __names and likeness__  
-__namesake__ _n_ :two::hammer:  
+__namesake__ _n_ :three::hammer:  
 __nana__ _n_ :two::hammer: _Her nana._  
 __Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._  
 __nape__ _n_  
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __narcissism__ _n_  
-__narcissistic__ _adj_ :three::pencil2::hammer:  
+__narcissistic__ _adj_ :four::pencil2::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__ _n_ :two::hammer:  
+__narrow__ _v_ _I narrowed the list down to just over twenty entries._  
 __narrow-gauge railroad__ _n_  
 __narrow-minded__ _adj_  
+__narrowboat__  
 __narrowcast<sup>1</sup>__ _v_  
 __narrowcast<sup>2</sup>__ _n_  
 __narrowly__ _adv_ _I narrowly escaped execution._  
 __narwal__ _n_  
-__nary__ _adj_ _Nary a chance of rain throughout the tournament._  
+__nary__ _adj_ :two::hammer: _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
-__nascent__ _adj_ :five: /NASS-unt/ Coming or having recently come into existence. Coming into existence; emerging. _Syn_ beginning _The nascent republic had to formulate its laws while continuing its war for independence._ _The nascent market._ _The actress is now focusing on her nascent singing career._  
+__nascent__ _adj_ :six: /NASS-unt/ Coming or having recently come into existence. Coming into existence; emerging. _Syn_ beginning _The nascent republic had to formulate its laws while continuing its war for independence._ _The nascent market._ _The actress is now focusing on her nascent singing career._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __National Guard__  
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __Native American__ _n_ _Native American reservation._  
+__native language__ _n_  
 __native__ _n_  
 __nativism__ _n_ :two::hammer:  
-__nativity__ _n_ /nuh-TIV-uh-tee/  
+__nativity__ _n_ :two::hammer: /nuh-TIV-uh-tee/  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
-__naughty__ _adj_ :dart::mute:[nau~~gh~~ty] __1__ Behaving disobediently or mischievously: _a naughty child._ __2__ Indecent; improper: _a naughty wink._  
+__naughty<sup>1</sup>__ _adj_ :dart::two::mute:[nau~~gh~~ty] __1__ Behaving disobediently or mischievously: _a naughty child._ __2__ Indecent; improper: _a naughty wink._  
+__naughty<sup>2</sup>__ _n_ :mega:  
 __nauseous__ _adj_ /naw-shuhs/  
 __navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
 __naysayer__ _n_ :four::hammer:  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
+__Neapolitan__ _adj, n_ :two::pencil2:  
+__nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
+__nearlywed__ _n_  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
 __neatnik__ _n_ A very neat and tidy person.  
 __nebbish__ _n_ A person regarded as weak-willed or timid.  
 __nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
+__nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necessary evil__  
 __necessary__ _adj_ /ˈne-sə-ˌser-ē/ :two::mega:pencil2:  
 __necessitate__ _v_  
+__necklace__ _n_ :two::hammer:  
 __necktie__ _n_  
 __necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
 __necromancy__  

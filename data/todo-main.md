@@ -1,18 +1,3 @@
-__nameplate__ _n_  
-__namesake__  
-__narcissistic__ _adj_ :pencil2:  
-__narrow__ _v_ _I narrowed the list down to just over twenty entries._  
-__narrowboat__  
-__nary__  
-__nascent__  
-__native language__ _n_  
-__nativity__ _n_  
-__naughty__ _adj, n_ :mega:  
-__Neapolitan__ _adj, n_ :two::pencil2:  
-__nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
-__nearlywed__ _n_  
-__nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
-__necklace__ _n_ :two::hammer:  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
 __nefarious__ _adj_  
