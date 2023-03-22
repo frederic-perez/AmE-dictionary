@@ -1,3 +1,9 @@
+__abate__ _v_  
+__disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/ Making one feel disappointed and less confident or less hopeful.  
+__dread__ _v_ _𝑫𝒐 𝒚𝒐𝒖 𝒅𝒓𝒆𝒂𝒅 𝒈𝒊𝒗𝒊𝒏𝒈 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏𝒔 𝒊𝒏 𝑬𝒏𝒈𝒍𝒊𝒔h?_  
+__fare__ _v intr_ __It’s still unclear how well GPT-4 will fare in a domain like health care.  
+__mull<sup>1</sup>__ _v tr_ To think about extensively; ponder.  
+__mull<sup>2</sup>__ _v intr_ To ruminate; ponder: _mull over a plan._  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
 __nefarious__ _adj_  
@@ -146,6 +152,7 @@ __ossification__ _n_
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostentatious__ _adj_ :two: /ah-stun-TAY-shus/ Characterized by or given to pretentious or conspicuous show in an attempt to impress others.  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
+__otalgia__ _n_  
 __otter__ _n_ :two::hammer: _Keep a look out for the sea otters._  
 __outcrop__ _n_ :four::hammer:  
 __outcropping__ _n_  
@@ -385,7 +392,7 @@ __pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._
 __pool<sup>2</sup>__ _v_  
 __pore__ _v intr_  
 __pork pie__ _n_  
-__portend__ _v_ /por-TEND/  
+__portend__ _v tr_ :two::hammer: /por-TEND/  
 __porter__ _n_  
 __porterhouse__ _n_ :four::hammer: _Its tender dry-aged porterhouse is unmatched._  
 __portico__ _n_  
@@ -792,7 +799,7 @@ __scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal o
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
 __scrapbook__ _n_  
 __scrape__ _v_  
-__scrappy__ _adj_ :two::hammer:  
+__scrappy__ _adj_ :three::hammer: _The scrappy journalist inside me fuels my fire in the marketing world._  
 __scratching__ _n_  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
@@ -900,6 +907,7 @@ __Shrove Tuesday__ _n_
 __shrunken head__ _n_  
 __shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_  
+__shuriken__ _n_ /ˈʃuːrɪken/ A martial-arts weapon usually in the shape of a star or cross with sharp protruding edges, thrown with a spin towards the target .  
 __shutterbug__ _n_ _Shutterbugs will be intrigued by the Canon camera._  
 __sic__  
 __sickbed__ _n_ A sick person’s bed.  
@@ -973,6 +981,7 @@ __snap__ _v_ _Snap at people._
 __snappy__  
 __snare drum__ _n_  
 __snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
+__snooze__ _v intr_  
 __snowcat__ _n_ :two::hammer:  
 __snowcoach__ _n_ :two::hammer:  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
@@ -1495,6 +1504,7 @@ __unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __uneven__  
+__uneventful__ _adj_ /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet.  
 __unfazed__ _adj_  
 __unfold__ _v_  
 __unforgiving__ _adj_  
@@ -1527,6 +1537,7 @@ __upkeep__ _n_ _Chalkboards did not require much upkeep._
 __uplifted__ _adj_  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
+__upshot__ _n_  
 __upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
 __upskilling__ _n_ :dart: Teaching or learning additional skills.  
 __uptake__ _n_ _Other applications have had limited uptake._  
