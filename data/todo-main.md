@@ -1,7 +1,33 @@
 __abate__ _v_  
+__apostate__  
+__aptly__  
+__betrayal__ _n_  
+__birthright__ _n_  
+__chart__ _v_ _Chart a course._  
+__chipper__ _adj_  
+__debt__ _n_ :mega:  
+__deflect__  
+__dingbat__  
 __disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/ Making one feel disappointed and less confident or less hopeful.  
+__doubt__ _n_ :mega:  
 __dread__ _v_ _𝑫𝒐 𝒚𝒐𝒖 𝒅𝒓𝒆𝒂𝒅 𝒈𝒊𝒗𝒊𝒏𝒈 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏𝒔 𝒊𝒏 𝑬𝒏𝒈𝒍𝒊𝒔h?_  
+__effortless__  
 __fare__ _v intr_ __It’s still unclear how well GPT-4 will fare in a domain like health care.  
+__fire-engine red__ _adj, n_  
+__hard-nosed__  
+__hardwired__ _adj_  
+__heady__ _adj_  
+__high achiever__ _n_ A person who is hardworking and successful.  
+__ides__ _n_  
+__idiot__ _n_ :mega:  
+__inbox__ _n_ :mega:  
+__joyride__ _n_  
+__lambo__ _n_ A Lamborghini car.  
+__level up__ _v_ :two::hammer:  
+__litany__ _n_ :mega:  
+__marathon__ _n_ :mega:  
+__mile-marker__ _n_ (milemarker)  
+__motorhome__  
 __mull<sup>1</sup>__ _v tr_ To think about extensively; ponder.  
 __mull<sup>2</sup>__ _v intr_ To ruminate; ponder: _mull over a plan._  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
@@ -71,6 +97,7 @@ __novella__ _n_
 __novices__ _n_  
 __nuance__ _n_ :two::mega: /NOO-ahnss/ A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._  
 __nubbly__  
+__nudge__ _v_  
 __numb__ _v_  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
@@ -108,7 +135,7 @@ __offbeat__ _adj_
 __offhandedly__ _adj_  
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
-__oftentimes__ _adv_ Frequently; repeatedly.  
+__oftentimes__ _adv_ :two: Frequently; repeatedly.  
 __okapi__ _n_  
 __Oktoberfest__ _n_  
 __olio__  
@@ -166,7 +193,7 @@ __outlandish__ _adj_ :two::hammer:
 __outline__ _v tr_  
 __outpace__ _v_ _Airbus outpaces Boeing yet again._  
 __outperform__ _v_  
-__outpost__ _n_  
+__outpost__ _n_ :two::hammer:  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
@@ -211,6 +238,7 @@ __panache__ _n_ :four: /puh-NAHSH/ [:scroll: Originally, the word referred to an
 __pancetta__ _n_ Italian bacon that has been cured in salt and spices and then air-dried.  
 __panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
+__pang__ _n_ _A pang of loneliness._  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
 __pansexual__  
@@ -362,6 +390,7 @@ __plenty__ _n_ _There are plenty of shops._
 __plethora__ _n_ :three::hammer:  
 __plop__ _v_ __3__ To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._  
 __plot__ _n_ _Vegetable plot._  
+__plummet__ _v_  
 __plummeted__ _v_  
 __plump__ _v_  
 __plush__ _n_ _A plush booth in the bar._  
@@ -483,6 +512,7 @@ __pruritus__ _n_ An intense itching sensation that can have various causes (as b
 __pry__ _v_  
 __psyched__ _v_  
 __psychic reading__ _n_  
+__public speaking__ _n_  
 __pulmonarias__ _n_  
 __pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
 __punch list__ _n_  
@@ -544,7 +574,8 @@ __range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode th
 __rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who causes trouble, often in a mischievous way. _Syn_ rascal, ne’er-do-well _With his shaggy, perpetually unkempt hair and his charmingly crooked smile, the actor seems to have been born to play scamps and rapscallions._  
 __rapt__ _adj_  
 __rapture__ _v_  
-__rash__ _adj_ /RASH/  
+__rash<sup>1</sup>__ _adj_ /RASH/  
+__rash<sup>2</sup>__ _n_  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashomon_ (based on Ryunosuke Akutagawa’s 1922 short story “In a Grove”) which showed a crime described by different people in different ways] Relating to differing accounts or subjective interpretations of an event.  
 __rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used of birds. Given to scratching the ground for food, as chickens. __2__ Adapted for scratching, as a bird’s foot.  
@@ -564,6 +595,7 @@ __rebuke__ _v_
 __recalcitrant__ _adj_  
 __recall__ _v_ :two::hammer:  
 __recap__ _v tr_ To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
+__receiving end__ _n_  
 __recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
 __recipe__ _n_ :m: _Recipe to success._  
 __recitation__ _n_  
@@ -695,7 +727,7 @@ __Rottweiler__ _n_
 __rotunda__ _n_ :six::hammer:  
 __round out__ _v_ _Alluring martinis round out the experience._  
 __rousing__ _adj_ :five::hammer: _A rousing crowd._ _A rousing tale._  
-__route__ _n_ :mega:  
+__route__ _n_ :two::mega::hammer:  
 __rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._  
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __ruches__ _n_  
@@ -924,6 +956,7 @@ __signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a pers
 __signcryption__ _n_ A public-key primitive that simultaneously performs the functions of both digital signature and encryption.  
 __signet ring__ _n_ A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
 __significant__ _adj_ _Time of day is significant._  
+__silly string__ _n_  
 __silviculture__ _n_  
 __simulcast__  
 __sinfully__ _adv_ _Sinfully delicious desserts._  
@@ -938,6 +971,7 @@ __sketch__ _v_ _Let us briefly sketch its major challenges._
 __skewer__ _n_ _Skewers of meats, vegetables, and fruits._  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skit__ _n_ :two::hammer: _Skit theater._  
+__sky diving__  
 __skyrocket__ _v_  
 __skyview__ _n_ _Skyview banquet facility._  
 __skywalk__ _n_  
@@ -962,6 +996,7 @@ __slough__ _n_
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v tr_  
 __sluice__ _n_ _Mining sluice._  
+__slumber party__ _n_  
 __slushies__ _n_ _Boozy slushies._  
 __smack__ _adv_ _Conveniently located right smack in the middle of your vacation plans._  
 __small-claims court__ _n_  
@@ -975,7 +1010,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ :two::hammer:  
-__snack__ _v_  
+__snack__ _v_ :two::hammer:  
 __snafu__  
 __snap__ _v_ _Snap at people._  
 __snappy__  
@@ -1139,6 +1174,7 @@ __storybook__ _n_ :two::hammer: _Storybook characters._
 __stow away__  
 __stow__ _v tr_  
 __straddle__ _v_ :two::hammer:  
+__straight hair__ _n_  
 __straightedge__ _adj, n_ _Straightedge shave and head massage._  
 __strain__ _n_  
 __straining__ _n_ An intense or violent exertion.  
@@ -1490,6 +1526,7 @@ __uncross__ _v tr_ _Uncross our arms._
 __undemosaick__ _v_ _Undemosaicked pixels._  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ :two::hammer: /ˈʌn dərˌbɛl i/ _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
+__underbid__  
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __undercut__ _v_  
 __underdog__  
@@ -1590,6 +1627,7 @@ __vexing__ _adj_ _A vexing problem._
 __viands__ _n_  
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicissitudes__ _n pl_  
+__victory lap__ _n_  
 __vie__ _v_  
 __viewfinder__ _n_  
 __vigorous__ _adj_  
@@ -1667,6 +1705,7 @@ __white-knuckled__
 __whitewater__ _n_ :four::hammer: _Whitewater rafting._  
 __whizz__ _v_  
 __whodunnit__ _n informal_  
+__whole food__ _n_  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
 __wholly__ _adv_  
