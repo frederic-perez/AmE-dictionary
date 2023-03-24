@@ -1,3 +1,4 @@
+__behind closed doors__ :dart: In secret, privately.  
 __dig deep__  
 __ding ding ding__  
 __dirt cheap__ Very inexpensive _These shoes were dirt cheap—I found them on the clearance rack._  
@@ -10,6 +11,7 @@ __easy-breeze__ :dart:
 __elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __empty nester__  
 __end of one’s rope__  
+__err on the side of caution__  
 __etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
 __even more so__ :two::hammer:  
 __even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
@@ -40,7 +42,7 @@ __first things first__ :two::hammer:
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
 __flat-earther__  
 __flesh out__  
-__floored__ _I am floored._  
+__floored__ :two: __1__ Shocked or flabbergasted. _I was completely floored by Rob’s declaration of love—I had no idea he felt that way about me!_  
 __fly by__  
 __fly on the wall__  
 __fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
@@ -95,6 +97,7 @@ __GI Joe__
 __give (one) a pass__  
 __give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give in__ :two::hammer: _Give in to our fears._  
+__give someone an inch__  
 __gloss over (something)__  
 __go a long way__  
 __go apeshit__  
@@ -148,6 +151,7 @@ __heads up__ _Thanks for giving me the heads up._
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __heart and soul__  
 __heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
+__heat up__ __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
 __heaven forbid__  
 __heavy lifting__  
 __here’s the kicker__ _slang_ This next point is a really surprising or ironic twist or turn of events. Primarily heard in US.  
@@ -164,6 +168,7 @@ __hold (someone) accountable (for someone)__ To deem someone responsible for som
 __hold (something) in store (for one)__  
 __hold a candle to__  
 __hold back__  
+__hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
 __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __holy shit__  
 __holy smoke(s)__  
@@ -211,14 +216,14 @@ __in the works__
 __in this day and age__  
 __in your face__  
 __intellectually challenged__ Of low intelligence; stupid.  
-__iron out__  
+__iron out__ :two: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
 __it is not a competition__  
 __it takes a village__  
 __it takes two to tango__  
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
-__jam-packed__ (jampacked)  
+__jam-packed__ :two::hammer: (jampacked)  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
 __jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __Jekyll and Hyde__  
@@ -390,6 +395,7 @@ __piss off__
 __pizzazz__  
 __place an order__  
 __play ball__ :three::hammer:  
+__play it safe__  
 __play out__  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __poker face__  
@@ -449,7 +455,7 @@ __rip (someone or something) to shreds__
 __ripple effect__  
 __rock bottom__  
 __rock solid__  
-__rock the boat__ :two::hammer:  
+__rock the boat__ :three::hammer:  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
 __roll (one’s) eyes__ :three::hammer:  
 __roll out__ __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
@@ -764,6 +770,7 @@ __whistleblower__
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
 __white knuckle something__  
 __white lie__  
+__white-collar worker__  
 __white-knuckle__  
 __whiz up__ _Go-karts can whiz up to 45 miles per hour._  
 __whodunit__ :dart: A detective story or mystery story.  
@@ -774,6 +781,7 @@ __wild__
 __wildest dreams__  
 __win-win__ _A win-win scenario._  
 __wind down__ :two::hammer:  
+__window of opportunity__  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wing it__ :dart: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  

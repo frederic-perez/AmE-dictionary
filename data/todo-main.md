@@ -1,4 +1,8 @@
+__Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.  
+__excursionist__ _n_ A tourist who is visiting sights of interest. _Syn_ rubberneck, sightseer, tripper _The city’s economy depends on tourism, and an influx of enthusiastic excursionists is always welcome._  
+__fawn__ _v_ /FAWN/ __1__ To fawn over someone is to court their favor by groveling or by flattering the person. _Still new to celebrity, the musician seemed a bit baffled by those fawning over her during her recent visit to her hometown._ __2__ Fawn is also sometimes used of dogs to mean “to show affection.” _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._  
 __fire-engine red__ _adj, n_  
+__glockenspiel__ _n_ A percussion instrument with a series of metal bars tuned to the chromatic scale and played with two light hammers. _Syn_ orchestral bells :es: carillón  
 __hard-nosed__  
 __hardwired__ _adj_  
 __heady__ _adj_  
@@ -6,7 +10,9 @@ __high achiever__ _n_ A person who is hardworking and successful.
 __ides__ _n_  
 __idiot__ _n_ :mega:  
 __inbox__ _n_ :mega:  
+__ingrate__ _n_ A person who shows no gratitude. _Syn_ thankless wretch, ungrateful person  
 __joyride__ _n_  
+__kith__ _n_ /KITH/ Familiar friends, neighbors, or relatives. It is often used in the phrase “kith and kin,” which means “friends and relatives.” _We love inviting all of our kith and kin to family cookouts on holidays._  
 __lambo__ _n_ A Lamborghini car.  
 __level up__ _v_ :two::hammer:  
 __litany__ _n_ :mega:  
@@ -92,6 +98,7 @@ __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, th
 __Nymphean__ _adj_ _Nymphean theater._  
 __oasis__ _n_ (_n pl_ oases)  
 __oat__ _n_ _After much deliberation, the US Food and Drug Administration has ruled that oat and soy milk can be called milk._  
+__obdurate__ _adj_ /AHB-duh-rut/  
 __obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __objectee__  
@@ -425,6 +432,7 @@ __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._
 __power-cycle__ _v_  
 __powermark__ _n_  
 __prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
+__preachment__ _n_ A tiresome or unwelcome moral lecture or discourse; tedious sermonizing. _Syn_ homily _Don’t torment me with your preachments now, unless you want to kill me outright._  
 __preceptor__ _n_  
 __precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
@@ -988,7 +996,7 @@ __small-claims court__ _n_
 __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smash__ _adj_ _Our sixth smash year!_  
-__smattering__  
+__smattering__ _n_ :two: A small, scattered amount or number. _Syn_ handful _Her skin had a healthy glow, and her nose was dotted with a smattering of freckles._  
 __smell-feast__  
 __smidge__ _n_  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
@@ -1258,6 +1266,7 @@ __switchback__ _n_ :two::hammer:
 __swoon__ _v_  
 __sycamore tree__  
 __sycamore__ _n_ :two::hammer:  
+__symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
 __synonymous__ _n_ :pencil2:  
 __syzygy__ _n_  
@@ -1754,6 +1763,7 @@ __yule log__ _n_
 __yummy__ _adj_ _Yummy food._  
 __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
+__zany__ _n_ /ZAY-nee/  
 __zeitgeist__ _n_ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
 __zephyr__ _n_  
 __zero in__  
