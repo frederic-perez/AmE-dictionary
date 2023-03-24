@@ -51,7 +51,7 @@ __(stuck) in a rut__ Seemingly trapped or stuck in a mundane, non-changing patte
 __(T)sup?__ _interrog_ /ˈ(t)səp/ What’s up?; What is happening?; What have you been doing? _Hi! Tsup?_  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) man/woman of the hour__ :two: A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
-__(the) next thing (one) knows__ :two: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
+__(the) next thing (one) knows__ :three: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(there’s) no rest for the wicked__ The lack of peace in one’s life, or the perpetual need to be working or be busy, stems from one’s sinfulness. The phrase comes from the Bible, in which it alludes to the suffering in hell that awaits sinners after death. Now, the phrase is usually used humorously. _A: I can’t seem to ever get all my work done. B: No rest for the wicked._  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
@@ -485,7 +485,7 @@ __been there, done that__
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
-__beg the question__ :four::hammer: _All of this begs the question of Gallego’s own voting record._  
+__beg the question__ :five::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  
@@ -546,6 +546,7 @@ __blue pill__
 __bode well for (someone or something)__ To seem indicative of a favorable outcome. This phrase is often used in the negative to suggest the opposite. _Sunny weather bodes well for our flight leaving on time._  
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
+__boil down__  
 __boiling frog__  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
@@ -598,7 +599,7 @@ __bring (someone) to terms__ To compel a person or group to agree to or do somet
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __bring (something) to the table__ :two: To provide or offer a useful skill or attribute. _He brings years of leadership experience to the table._  
 __bring a knife to a gunfight__ :two: To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice. _Make sure you have researched your position thoroughly and comprehensively before the debate. You don’t want to bring a knife to a gunfight._  
-__bring about__ :two: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
+__bring about__ :three: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
 __bring home the bacon__ To earn money to live on.  
 __bring it on__ To begin a fight or competition.  
 __bring the house down__ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
@@ -667,7 +668,7 @@ __call someone names__ :two: To call someone by an abusive or insulting name. _B
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
 __call someone out__ To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
 __call something out__  
-__call the shots__  
+__call the shots__ :two::hammer:  
 __call to action__ :two::hammer:  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
@@ -740,6 +741,7 @@ __chances are__ :three: It seems likely (that something will happen or be the ca
 __change of heart__  
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __charley horse__ :dart: A painful muscle spasm that most commonly occurs in the legs. The phrase is thought to have originated from baseball slang. _Spending all day on my feet caused a charley horse in my leg that was so painful, I had to sit down for a while and rest._  
+__chase down__  
 __chase the clouds away__  
 __chatterbox__ _informal_  
 __cheap out__ To choose a less expensive option or course of action in order to reduce cost, especially at the expense of quality or reliability. _A: “We’ve had to have so many repairs done to the house over the last year.” B: “Well, that’s what you get for cheaping out on building materials.”_  
@@ -836,12 +838,14 @@ __cool customer__ :dart: Someone who remains even-tempered, especially in stress
 __cool head__ The ability to remain calm and rational during stressful situations. _The successful outcome of the hostage situation was due to the police officer°s cool head._  
 __cool headed__  
 __cool it__  
+__cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
-__corporate ladder__  
+__corporate ladder__ :two::hammer:  
 __cost an arm and a leg__ To be extremely expensive.  
 __cost the earth__ To be exorbitant or burdensome in expense.  
 __cottage industry__  
+__count someone in (for something)__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
 __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
@@ -862,6 +866,7 @@ __croc__ _n_ /krɒk/ Crocodile.
 __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and make sure that every last minor detail is completed. _Make sure the legal team crosses their t’s and dots their i’s when drawing up the contract._  
 __cross my heart (and hope to die)__ A vow that one is being truthful. _Billy’s the one who broke the cookie jar—cross my heart and hope to die!_  
 __cross one’s mind__ _It never crossed my mind._  
+__cross paths__  
 __cross swords__ :two: To fight or argue. _They had crossed swords many times._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
@@ -873,7 +878,7 @@ __crux of the matter__ _She saw the crux of the matter in seconds._
 __cry (oneself) to sleep__  
 __cry foul__  
 __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
-__cry over spilled milk__ To be unhappy about what cannot be undone.  
+__cry over spilled milk__ :two: To be upset over something that cannot be fixed, often something minor. To be unhappy about what cannot be undone. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
@@ -895,6 +900,7 @@ __cut from the same cloth__ :three: To be very similar.
 __cut from whole cloth__ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being “cut out of whole cloth,” when in reality, they were pieced together from different cuts.  
 __cut it close__ To do or complete something very near to its limit, especially of time.  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
+__cut someone or something off (short)__  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
 __cut the line__  
 __cut the spin__  
@@ -908,7 +914,7 @@ __dark joke__
 __darkest hour__  
 __date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
 __day and age__  
-__day in and day out__ :four: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
+__day in and day out__ :six: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in day out__ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
 __day or night__ At any point in time; 24 hours a day.  
@@ -939,7 +945,9 @@ __desperate times call for desperate measures__ Extreme and undesirable circumst
 __deus ex machina__ :two::hammer: _Leaders under fire often wait for some deus ex machina._  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
+__dial in__ __6__ :dart: To perform a role or duty in a halfhearted, disinterested, and unprofessional manner. A noun or pronoun can be used between “dial” and “in,” especially in the form “dial it in.” _You can tell the actor is dialing it in—I’m sure he got a good paycheck for the voiceover, but you’d think he could try a little bit harder._  
 __dial up__ :two: To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
+__dick around__  
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  

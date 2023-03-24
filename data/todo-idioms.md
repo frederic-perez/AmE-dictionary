@@ -1,18 +1,3 @@
-__(the) next thing (one) knows__  
-__beg the question__  
-__boil down__  
-__bring about__  
-__call the shots__  
-__chase down__  
-__cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
-__corporate ladder__  
-__count someone in (for something)__  
-__cross paths__  
-__cry over spilled milk__ To be upset over something that cannot be fixed, often something minor. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
-__cut someone or something off (short)__  
-__day in and day out__ :two::hammer:  
-__dial in__ __6__ :dart: To perform a role or duty in a halfhearted, disinterested, and unprofessional manner. A noun or pronoun can be used between “dial” and “in,” especially in the form “dial it in.” _You can tell the actor is dialing it in—I’m sure he got a good paycheck for the voiceover, but you’d think he could try a little bit harder._  
-__dick around__  
 __dig deep__  
 __ding ding ding__  
 __dirt cheap__ Very inexpensive _These shoes were dirt cheap—I found them on the clearance rack._  
