@@ -43,7 +43,7 @@ __abase__ _v_ _To abase a King and leave him on the throne has its dangers._
 __abasement__ _n_  
 __abashed__ _adj_ :five: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
-__abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
+__abate__ _v_ :four::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :three: Slaughterhouse. A building where animals are butchered. _Syn_ slaughterhouse, butchery, shambles _The largest abattoirs are those of the meatpacking industry._  
 __abbesses__ _n pl_  
@@ -664,7 +664,7 @@ __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, espec
 __apoptosis__ _n_  
 __aposematic__ _adj_  
 __apostasy__ _n_ :two::hammer:  
-__apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
+__apostate<sup>1</sup>__ _n_ :five: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
 __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
 __apostle__ _n_ :mute:[apos~~t~~le]  
 __apostrophe__ _n_ :two: In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
@@ -712,7 +712,7 @@ __apropos<sup>2</sup>__ _adv_ /ˌæp rəˈpoʊ/
 __apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/ /ap-ruh-POH/ Apropos means “with regard to.” It is frequently used in the phrase “apropos of.” _Sean interrupted our conversation about politics and, apropos of nothing, asked who we thought would win the basketball game._  
 __apse__ _n_ :es: ápside  
 __apt__  
-__aptly__ _adj_  
+__aptly__ _adj_ :two::hammer:  
 __aquanaut__ _n_  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
@@ -1466,7 +1466,7 @@ __beta__ _n_ :mega:
 __bethren__ _n_  
 __betoken__ _v_  
 __betray__ _v_ :three::hammer: /bɪˈtreɪ/  
-__betrayal__ _n_  
+__betrayal__ _n_ :two::hammer:  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
 __betrothed__ _adj_ :five: Engaged to be married.  
@@ -1568,6 +1568,7 @@ __birdseed__ _n_ Seeds that you give to birds as food.
 __Birkenstock__ _n_  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
+__birthright__ _n_  
 __birthstone__ _n_ A gemstone associated with a particular month and customarily worn by persons born during that month.  
 __biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A crisp Italian cookie traditionally flavored with anise and often containing almonds or filberts.  
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
@@ -2849,6 +2850,7 @@ __charisma__ _n_ :two::mute:[c~~h~~arisma]:hammer: /kuh-RIZ-muh/
 __charlatan__ _n_ :four: /SHAHR-luh-tun/ A person who pretends to know or be something in order to deceive people. A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._ _Some people thought he was a great leader, but others saw him as just a charlatan._  
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect’s basement left little doubt that he was the killer we were seeking._ _It served as the hospital’s charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
+__chart__ _v_ _Chart a course._  
 __charted__  
 __Charter of Liberties__ _n_  
 __charter school__ _n_ An experimental public school for kindergarten through grade 12; created and organized by teachers and parents and community leaders; operates independently of other schools.  
@@ -2961,7 +2963,7 @@ __chip<sup>2</sup>__ _v tr_ :three::hammer: (chipped)
 __chip<sup>3</sup>__ _v intr_ :four: (chipped) __1__ To become broken off into small pieces. _The blue paint was chipping._ _This cup is chipped._  
 __chipped__ _adj_ :two: Damaged by having a small piece broken off. _Chipped around the edges._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
-__chipper__ _adj_ :four: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
+__chipper__ _adj_ :five: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
 __chippy<sup>1</sup>__ _adj_  
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiral__ _adj_ _Chiral molecules._  
@@ -4301,7 +4303,7 @@ __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regime
 __debrief__ _v_  
 __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
-__debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
+__debt__ _n_ :four::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
 __debunk__ _v_ :four: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. _The article thoroughly debunks the notion that life exists on Mars._  
 __deburr__ _v_  
@@ -4392,7 +4394,7 @@ __defile<sup>2</sup>__ _v_ :four: /dih-FYLE/ Defile means “to make (something)
 __definitely__  
 __deflate__ _v_ :two::hammer:  
 __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
-__deflect__ _v_  
+__deflect__ _v_ :two::hammer:  
 __deflection__ _n_ :two::hammer:  
 __defray__ _v_ :two::hammer:  
 __defrock__ _v tr_ :two: /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
@@ -4646,7 +4648,7 @@ __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an
 __dine__ _v_  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v tr_ :five::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._ _Dinged aircraft._  
-__dingbat<sup>1</sup>__ _n_ :two: /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
+__dingbat<sup>1</sup>__ _n_ :three: /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
 __dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
 __dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. _Rubber dinghy and fishing safaris._  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
@@ -4750,7 +4752,7 @@ __disguise__ _n, v_ :mute:[disg~~u~~ise]
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
 __disheartened__ _adj_ :dart::two: Disappointed about something and having less confidence or less hope about it than before.  
-__disheartening__ _adj_ Making one feel disappointed and less confident or less hopeful.  
+__disheartening__ _adj_ :two: /dɪsˈhɑːtənɪŋ/ Making one feel disappointed and less confident or less hopeful.  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __disheveled__ _adj_ :five: /dih-SHEV-uld/ (dishevelled) In disarray; extremely disorderly. Marked by disorder or disarray. _His hair disheveled and his clothes wrinkled, the late student had clearly overslept._  
 __dishing__ _v_  
@@ -4996,7 +4998,7 @@ __double-edged__ _adj_ _Double-edged sword._
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
 __doubly__  
-__doubt__ _n, v_ :two::hammer::mega::mute:[dou~~b~~t] /daʊt/  
+__doubt__ _n, v_ :three::hammer::mega::mute:[dou~~b~~t] /daʊt/  
 __doubting Thomas__ _n_  
 __doubtless__ _adj, adv_ :two::hammer:  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
@@ -5091,7 +5093,7 @@ __drawstring__ _n_
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
 __dread<sup>1</sup>__ _n_  
-__dread<sup>2</sup>__ _v_ :three::hammer:  
+__dread<sup>2</sup>__ _v_ :four::hammer: _Do you dread giving presentations in English?_  
 __dread<sup>3</sup>__ _adj_  
 __dreamboat__ _n_  
 __dreamy__ _adj_ :four: __4__ _informal_ Inspiring delight; wonderful.  
@@ -5367,7 +5369,7 @@ __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
-__effortless__ _adj_ :two::hammer: _As effortless as making a cup of coffee._  
+__effortless__ _adj_ :three::hammer: _As effortless as making a cup of coffee._  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
 __effulgence__ _n_ :two: /ih-FULL-junss/ Effulgence means “radiant splendor” or “brilliance.” A brilliant radiance. _Syn_ refulgence, shine, radiance _The state capitol’s golden dome shone with brilliant effulgence in the late afternoon light._  
 __effulgent__ _adj_ :two: [:scroll: C18: from Latin _effulgēre_ to shine forth, from _fulgēre_ to shine] Radiant; brilliant.  
@@ -6005,7 +6007,7 @@ __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flun
 __far-reaching__ _adj_  
 __farce__ _n_ :four::hammer: /FAHRSS/ _The award-winning actor has a talent for farce._  
 __fare<sup>1</sup>__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_ _A dinner different from our usual fare._  
-__fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ _The second missile fared slightly better than the first._ __b__ To happen. __2__ _archaic_ To travel.  
+__fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ _The second missile fared slightly better than the first._ _It’s still unclear how well GPT-4 will fare in a domain like health care._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
 __faro__ _n_ _A farol dealer._  

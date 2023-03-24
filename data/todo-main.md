@@ -1,18 +1,3 @@
-__abate__ _v_  
-__apostate__  
-__aptly__  
-__betrayal__ _n_  
-__birthright__ _n_  
-__chart__ _v_ _Chart a course._  
-__chipper__ _adj_  
-__debt__ _n_ :mega:  
-__deflect__  
-__dingbat__  
-__disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/ Making one feel disappointed and less confident or less hopeful.  
-__doubt__ _n_ :mega:  
-__dread__ _v_ _𝑫𝒐 𝒚𝒐𝒖 𝒅𝒓𝒆𝒂𝒅 𝒈𝒊𝒗𝒊𝒏𝒈 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏𝒔 𝒊𝒏 𝑬𝒏𝒈𝒍𝒊𝒔h?_  
-__effortless__  
-__fare__ _v intr_ __It’s still unclear how well GPT-4 will fare in a domain like health care.  
 __fire-engine red__ _adj, n_  
 __hard-nosed__  
 __hardwired__ _adj_  
