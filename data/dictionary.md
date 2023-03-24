@@ -10054,7 +10054,7 @@ __lure<sup>2</sup>__ _v_ (lured)
 __lurid__ _adj_ :six::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
 __luscious__ _adj_ :three: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
-__lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
+__lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy. __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
 __lust__  
