@@ -1,18 +1,3 @@
-__Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.  
-__excursionist__ _n_ A tourist who is visiting sights of interest. _Syn_ rubberneck, sightseer, tripper _The city’s economy depends on tourism, and an influx of enthusiastic excursionists is always welcome._  
-__fawn__ _v_ /FAWN/ __1__ To fawn over someone is to court their favor by groveling or by flattering the person. _Still new to celebrity, the musician seemed a bit baffled by those fawning over her during her recent visit to her hometown._ __2__ Fawn is also sometimes used of dogs to mean “to show affection.” _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._  
-__fire-engine red__ _adj, n_  
-__glockenspiel__ _n_ A percussion instrument with a series of metal bars tuned to the chromatic scale and played with two light hammers. _Syn_ orchestral bells :es: carillón  
-__hard-nosed__  
-__hardwired__ _adj_  
-__heady__ _adj_  
-__high achiever__ _n_ A person who is hardworking and successful.  
-__ides__ _n_  
-__idiot__ _n_ :mega:  
-__inbox__ _n_ :mega:  
-__ingrate__ _n_ A person who shows no gratitude. _Syn_ thankless wretch, ungrateful person  
-__joyride__ _n_  
-__kith__ _n_ /KITH/ Familiar friends, neighbors, or relatives. It is often used in the phrase “kith and kin,” which means “friends and relatives.” _We love inviting all of our kith and kin to family cookouts on holidays._  
 __lambo__ _n_ A Lamborghini car.  
 __level up__ _v_ :two::hammer:  
 __litany__ _n_ :mega:  

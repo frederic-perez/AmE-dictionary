@@ -5447,6 +5447,7 @@ __elude__ _v_ :two::astonished::hammer: (eluding)
 __elusive__ _adj_ :three::hammer: _An elusive goal._  
 __elute__ _v tr_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
+__Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.  
 __emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_ Abnormally thin.  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
@@ -5794,6 +5795,7 @@ __excruciating__ _adj_ :three: Very painful.
 __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._  
 __exculpate__ _v_ :two: /EK-skull-payt/ To clear from alleged fault or guilt. To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
+__excursionist__ _n_ A tourist who is visiting sights of interest. _Syn_ rubberneck, sightseer, tripper _The city’s economy depends on tourism, and an influx of enthusiastic excursionists is always welcome._  
 __excursus__ _n_ A message that departs from the main subject. _Syn_ digression, divagation, parenthesis, aside _After yet another long excursus on the subject of housecats, the absent-minded professor finally returned to his main point._  
 __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
 __execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
@@ -6066,7 +6068,7 @@ __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground tro
 __favored__ _adj_ Preferred above all others and treated with partiality. _Syn_ best-loved, pet, preferred, favorite _My sister is clearly the favored child—she has a later curfew and gets away with things I never could!_  
 __favoritism__ _n_  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
-__fawn<sup>2</sup>__ _v_ :three: (fawning) Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish  
+__fawn<sup>2</sup>__ _v_ :four: /FAWN/ (fawning) __1__ To fawn over someone is to court their favor by groveling or by flattering the person. Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish _Still new to celebrity, the musician seemed a bit baffled by those fawning over her during her recent visit to her hometown._ __2__ Fawn is also sometimes used of dogs to mean “to show affection.” _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._  
 __fawningly__  
 __faze__ _v_ :six::hammer: (fazed)  
 __fealty__ _n_ :three::hammer: :es: lealtad (feudal)  
@@ -6251,6 +6253,7 @@ __fire retardant__
 __fire sale__ _n_ :three::hammer:  
 __fire-and-brimstone__ _adj_ __1__ (of a sermon, preacher, etc) Zealous, esp in threatening eternal damnation. __2__ Portending future disaster. _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __fire-eater__ _n_ A belligerent grouch.  
+__fire-engine red__ _adj, n_  
 __firebrand__  
 __firebrick__ _n_  
 __firebug__ _n_  
@@ -7169,6 +7172,7 @@ __gloat<sup>2</sup>__ _n_
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __globetrotting__ _adj_ Traveling or involving travel to a lot of different countries.  
+__glockenspiel__ _n_ A percussion instrument with a series of metal bars tuned to the chromatic scale and played with two light hammers. _Syn_ orchestral bells :es: carillón  
 __gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._  
 __gloom<sup>2</sup>__ _v_  
 __gloomy__ _adj_ :two::hammer: _Winter is coming—but will the gloomiest forecasts come to pass?_  
@@ -7762,7 +7766,7 @@ __hard-drinking__ _adj_ Used to describe a person who often drinks a lot of alco
 __hard-driving__ _adj_ _Hard-driving individuals._  
 __hard-liner__ _n_  
 __hard-nose__  
-__hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
+__hard-nosed__ _adj_ :four: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __hardball__  
 __hardhat__ _n_  
@@ -7775,6 +7779,7 @@ __hardscrabble__ _adj_ Providing or yielding meagerly in return for much effort:
 __hardship__ _n_ :seven: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship’s staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __hardware__ _n_  
+__hardwired__ _adj_  
 __hardwood<sup>1</sup>__ _n_ :three::hammer:  
 __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
 __hardy__ _adj_ :six::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._ _There are hundreds of trails for hardy backpackers._  
@@ -7888,7 +7893,7 @@ __headstrong__ _adj_ :three::dart: Determined to have one’s own way. _Syn_ stu
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
-__heady__ _adj_ :six::hammer: _Heady events._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
+__heady__ _adj_ :seven::hammer: _Heady events._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
 __heap<sup>1</sup>__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
 __heap<sup>2</sup>__ _v_ (heaped)  
@@ -8055,6 +8060,7 @@ __hideout__ _n_ :two::hammer:
 __hieratic__ _adj_ Of or associated with sacred persons or offices. _Syn_ priestly, sacerdotal _The laws did not apply to the hieratic class, whose members were held as nearly gods._  
 __higgledy-piggledy__  
 __Higgs boson__ _n_ :two: (Higgs particle, God particle) An elementary particle with zero spin and mass greater than zero, predicted to exist by electroweak theory and other gauge theories, discovered in 2012.  
+__high achiever__ _n_ A person who is hardworking and successful.  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
 __High Mass__ _n_ A Mass in which the celebrant is assisted by a deacon and a subdeacon and accompanied by acolytes, a thurifer, and a choir. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
@@ -8504,7 +8510,7 @@ __ID window__
 __id__ _n_  
 __ideation__ _n_ :two::hammer:  
 __identical twin__ _n_ :two: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
-__ides__ _n_ :two: The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
+__ides__ _n_ :three: The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
@@ -8512,6 +8518,7 @@ __idiopathic__ _adj_ :three: Of, relating to, or designating a disease having no
 __idiosyncrasy__ _n_ A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
+__idiot__ _n_ :mega:  
 __idle__ _v_  
 __idolatry__ _n_ :three::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
@@ -8641,6 +8648,7 @@ __inaugurate__ _v_ _He will be inaugurated for second term._
 __inbound<sup>1</sup>__ _adj_ :four::hammer: _Inbound trip._ _Inbounds pass._  
 __inbound<sup>2</sup>__ _adv_  
 __inbound<sup>3</sup>__ _v_  
+__inbox__ _n_ :mega:  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
@@ -8776,7 +8784,7 @@ __inglenook__
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrain__ _v_ :three: To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :five::hammer: _Speeding is deeply ingrained in American culture._  
-__ingrate__ _n_ An ungrateful person.  
+__ingrate__ _n_ :two: An ungrateful person. A person who shows no gratitude. _Syn_ thankless wretch, ungrateful person  
 __ingratiate__ _v_ :four: /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
 __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
 __inhalant<sup>1</sup>__ _adj_  
@@ -9153,7 +9161,7 @@ __jovial__ _adj_ :three::hammer: /JOH-vee-ul/
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
-__joyride__ _n_  
+__joyride__ _n_ :two::hammer:  
 __jubilate__ _v_ :dart: /JOO-buh-layt/ Jubilate means “to feel joy or great delight.” It is an old-fashioned synonym of _rejoice_ that still brings a smile to those who encounter it. _Supporters of the mayoral candidate jubilated when his victory was officially announced._  
 __jubilation__ _n_  
 __jubilee__ _n_ :three: [:scroll: Comes from Hebrew yobhel, “ram’s horn,” which was used as a trumpet to proclaim the jubilee, a year of emancipation and restoration (every 50 years).] __2__ A special anniversary, esp. a 25th or 50th one. __5__ (in the Roman Catholic Church) __a__ (Also called jubilee year) An appointed year or other period, ordinarily every 25 years, in which a plenary indulgence is granted upon repentance and the performance of certain acts. __b__ the plenary indulgence granted.  
@@ -9331,6 +9339,7 @@ __kitchenette__ _n_ :pencil2:
 __kitchenware__  
 __kite__ _n_ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kites__ _n_  
+__kith__ _n_ /KITH/ Familiar friends, neighbors, or relatives. It is often used in the phrase “kith and kin,” which means “friends and relatives.” _We love inviting all of our kith and kin to family cookouts on holidays._  
 __kitsch__ _n_ :two::pencil2: /KITCH/ Something that appeals to popular or lowbrow taste and is often of poor quality. _Kitsch and tacky but collectable items can be found at the flea market._  
 __kitten__  
 __kiva__ _n_ _A Native American kiva._  
