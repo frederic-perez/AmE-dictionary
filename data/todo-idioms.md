@@ -1,18 +1,3 @@
-__behind closed doors__ :dart: In secret, privately.  
-__dig deep__  
-__ding ding ding__  
-__dirt cheap__ Very inexpensive _These shoes were dirt cheap—I found them on the clearance rack._  
-__dive bar__ _slang_ A cheap, run-down, or disreputable bar or saloon.  
-__double down__  
-__down the toilet__ _Three hours down the toilet._  
-__dust off__  
-__early days__  
-__easy-breeze__ :dart:  
-__elevator pitch__ A short sales presentation for a product/service/person/idea.  
-__empty nester__  
-__end of one’s rope__  
-__err on the side of caution__  
-__etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
 __even more so__ :two::hammer:  
 __even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
 __every last one__  

@@ -487,6 +487,7 @@ __before long__ Soon. _I’ll probably be retiring before long._
 __before you know it__  
 __beg the question__ :five::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
+__behind closed doors__ :dart::two: In secret, privately.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
@@ -950,10 +951,12 @@ __dial up__ :two: To telephone someone or something: _I dialed up my dentist and
 __dick around__  
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
+__dig deep__  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
-__ding ding ding__ :two: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
+__ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __Ding, ding, ding, we have a winner!__ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
-__dive bar__  
+__dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
+__dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
@@ -987,7 +990,7 @@ __doom and gloom__ :two: A general feeling of pessimism or despondency. This exp
 __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and make sure that every last minor detail is completed. _Please make sure to dot your i’s and cross your t’s when signing this contract._  
 __dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
-__double down__ :three: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
+__double down__ :four: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
 __double entendre__  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
@@ -997,6 +1000,7 @@ __down the drain__ :three: Wasted or lost. This metaphoric term alludes to water
 __down the line__ In the future.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
 __down the road__ _informal_ :three: In the future; later on. _I do want to get married, but down the road, not any time soon._  
+__down the toilet__ _Three hours down the toilet._  
 __down to (someone or something)__  
 __down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
@@ -1028,22 +1032,26 @@ __dud__ :astonished: __1__ Something that does not work as intended, is ineffect
 __duke it out__ :two::hammer:  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
+__dust off__  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
-__early days__ The beginning period or phase of some entity, trend, or phenomenon.  
+__early days__ :two: The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
 __easy peasy__ :two::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
+__easy-breeze__ :dart:  
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __echo chamber__  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
 __elephant in the room__ :two: An obvious problem that people do not want to talk about.  
+__elevator pitch__ A short sales presentation for a product/service/person/idea.  
 __Elvis has left the building__ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
-__empty nester__ _n_ A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
+__empty nester__ _n_ :two: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __end (something) on a high note__ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__  
+__end of one’s rope__  
 __end of story__ A phrase used to end a conversation or topic of discussion, especially when one wants to discourage debate. _I didn’t do anything wrong here, OK? End of story._  
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endgame__ :three: The final stages of a process, development, or activity.  
@@ -1051,7 +1059,9 @@ __engine room__ The main source of talent, power, or ability in a team or group,
 __enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
+__err on the side of caution__  
 __et alia__  
+__etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
 __eureka moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
 __every cloud has a silver lining__ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
