@@ -1063,41 +1063,50 @@ __err on the side of caution__
 __et alia__  
 __etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
 __eureka moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
+__even more so__ :two::hammer:  
+__even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
 __every cloud has a silver lining__ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
+__every last one__  
 __every man for himself__ :dart:  
 __every other__ :three: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ Every individual person or item within a group, without exception.  
-__every so often__ _adv_ :three: Sometimes; occasionally. _Every so often she visits her father._  
+__every so often__ _adv_ :five: Sometimes; occasionally. _Every so often she visits her father._ _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everyone can find fault, few can do better__  
 __everything humanly possible__ Everything that is in the range of human powers. _The rescuers did everything humanly possible to find the lost campers._ _The doctor tried everything humanly possible to save the patient._  
+__everything under the sun__  
 __excuse my French__  
 __exert (oneself)__ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __extra pair of hands__ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :three: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
-__eye-opening__ Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
+__eye-opening__ :two: Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
 __eye-to-eye__ _You can get eye-to-eye with a dolphin._  
 __F-ing__  
-__face value__  
+__face value__ :two::hammer:  
+__failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
 __faint of heart__ :three: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
-__fair game__  
+__fair game__ :two::hammer:  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
+__fall by the wayside__ __2__ To be discarded, ignored, rejected, or set aside in favor of other considerations or more urgent matters. _With the economy suffering, the president’s plan for environmental reform has increasingly fallen by the wayside._ _Amazon’s once-innovative voice assistant Alexa has fallen by the wayside._  
 __fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
 __fall from the sky__ _This trust doesn’t fall from the sky._  
 __fall in place__  
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
+__fall off the wagon__ :two::hammer:  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
-__fall short__ :nine: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ To fail to meet or reach some goal, standard, expectation, etc. _The company usually makes very high-quality devices, but their latest model falls quite short, unfortunately._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
+__fall short of__  
+__fall short__ :nine::m: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ To fail to meet or reach some goal, standard, expectation, etc. _The company usually makes very high-quality devices, but their latest model falls quite short, unfortunately._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
 __fall through the cracks__  
 __fall through__ :dart: To not be completed or come to fruition; to fail due to some outside circumstances. _Oh, we’re not going away next week after all—our vacation plans fell through._  
+__false alarm__  
 __false friend__ :dart::three: A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fam__ An abbreviation for “family that can be used to refer to one’s blood relatives or close friends. Despite the plural connotation of “family,” it can also be applied to an individual. _I’d love to go out tonight, but I’m having dinner with the fam—my mom’s making her famous meatballs!_ _Of course I’ll help you, fam. You’re my best friend!_  
-__fan service__  
+__fan service__ :two::hammer:  
 __fan the flames__ To do or say something to make an argument, problem, or bad situation worse; to further incense an already angry person or group of people. _The debate was going poorly for the senatorial candidate, and his strikingly uncouth comments simply fanned the flames._  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  

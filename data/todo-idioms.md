@@ -1,18 +1,3 @@
-__even more so__ :two::hammer:  
-__even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
-__every last one__  
-__every so often__ :two: Sometimes; occasionally. _Josh does stop by the store every so often, but I haven’t seen him lately._  
-__everything under the sun__  
-__eye-opening__  
-__face value__  
-__failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
-__fair game__  
-__fall by the wayside__ __2__ To be discarded, ignored, rejected, or set aside in favor of other considerations or more urgent matters. _With the economy suffering, the president’s plan for environmental reform has increasingly fallen by the wayside._ _Amazon’s once-innovative voice assistant Alexa has fallen by the wayside._  
-__fall off the wagon__ :two::hammer:  
-__fall short of__  
-__fall short__  
-__false alarm__  
-__fan service__  
 __faux pass__  
 __feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
 __feeling blah__ __2__ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_  
