@@ -9475,6 +9475,7 @@ __lam__ _v_
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v tr_ _informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__ _adj_ :two::hammer:  
+__lambo__ _n_ A Lamborghini car.  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
 __lamest__ _adj_ (from _lame_)  
@@ -9697,6 +9698,7 @@ __lettered__ _adj_ Highly educated; having extensive information or understandin
 __letterman__ _n_  
 __levain__ _n_  
 __levee__  
+__level up__ _v_ :two::hammer:  
 __level__ _v_ :two::hammer: (leveled)  
 __levelheaded__ _adj_ :three: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever<sup>1</sup>__ _n_  
@@ -9840,7 +9842,7 @@ __listing__ _n_ :five::hammer: _One current listing is a $30 million property._ 
 __listless__ _adj_ :two::hammer:  
 __listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __lit crit__ _n_ _informal_ Literary criticism.  
-__litany__ _n_ :nine: /LIT-uh-nee/ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__litany__ _n_ :nine::m::mega: /LIT-uh-nee/ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate<sup>1</sup>__ _adj_  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
@@ -10262,7 +10264,7 @@ __many<sup>2</sup>__ _n_
 __maple__  
 __mar<sup>1</sup>__ _v_ :nine::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._ _It marred the week._  
 __mar<sup>2</sup>__ _n_ A disfiguring mark; a blemish.  
-__marathon__ _n_ _This is more of a marathon than a sprint._  
+__marathon__ _n_ :two::hammer::mega: _This is more of a marathon than a sprint._  
 __maraud__ _v_  
 __marauder__ _n_ :two::hammer:  
 __marauding__ _adj_ :three: (of people or animals) Wandering or raiding in search of plunder or victims. Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
@@ -10592,6 +10594,7 @@ __mile high city__
 __mile-a-minute<sup>1</sup>__ _n_ Any of several species of fast-growing plants, some of which are extremely invasive outside their native range and undesirable.  
 __mile-a-minute<sup>2</sup>__ _adj_ At the rate of one mile per minute, 60 miles per hour. _A mile-a-minute talker._  
 __mile-a-minute<sup>3</sup>__ _adv_ Very fast. _He was all excited after the game, talking a mile-a-minute about the last-second shot._  
+__mile-marker__ _n_ (milemarker)  
 __mileage__  
 __milieu__ _n_ /meel-YOO/ A milieu is the physical or social setting in which something occurs or develops. The word is synonymous with environment. _The quiet suburban neighborhood provides the perfect milieu for raising a family._  
 __military fiat__ _n_  
@@ -10874,7 +10877,7 @@ __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) 
 __motor court__  
 __motorcade__ _n_ A procession of motor vehicles, as in a parade.  
 __motorcycle center (main) stand__ _n_ :es: caballete de la moto  
-__motorhome__ _n_ :camera:  
+__motorhome__ _n_ :two::camera::hammer:  
 __motoring__  
 __motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
@@ -10936,7 +10939,8 @@ __mulching__ _v_
 __mulct__ _v_ :pencil2: __1__ To punish by a fine. __2a__ To defraud especially of money. _Syn_ swindle __b__ To obtain by fraud, duress, or theft.  
 __mule deer__  
 __muleskinner__ _n_  
-__mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. To heat and spice (wine, for example). _His mug of mulled cider._  
+__mull<sup>1</sup>__ _v tr_ :nine::m: (mulled, mulling) __1__ To think about extensively; ponder. To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. To heat and spice (wine, for example). _His mug of mulled cider._  
+__mull<sup>2</sup>__ _v intr_ :nine::m: To ruminate; ponder: _mull over a plan._  
 __mullah__ _n_  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
 __mullet__ _n_ :five: /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. Freshwater or coastal food fishes a spindle-shaped body; found worldwide. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
@@ -11110,18 +11114,21 @@ __necessary__ _adj_ /ˈne-sə-ˌser-ē/ :two::mega:pencil2:
 __necessitate__ _v_  
 __necklace__ _n_ :two::hammer:  
 __necktie__ _n_  
+__necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
 __necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
 __necromancy__  
 __necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
 __nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
 __neediness__ _n_ The state of being needy; poverty.  
-__needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
+__needlepoint<sup>1</sup>__ _n_ _A needlepoint enthusiast._  
+__needlepoint<sup>2</sup>__ _adj_ _The hand needlepoint Christmas Stockings made for her family._  
 __needless to say,__  
 __needlestick__ _n_ :pencil2:  
 __needy__ _adj_ :two::hammer:  
-__nefarious__ _adj_ :eight: /nih-FAIR-ee-us/ __1__ Evil. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._ _Unsurprisingly, the movie’s villain has a nefarious plot to dominate the world._ __2__ Flagrantly wicked or impious; sinful.  
+__nefarious__ _adj_ :nine: /nih-FAIR-ee-us/ __1__ Evil. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._ _Unsurprisingly, the movie’s villain has a nefarious plot to dominate the world._ __2__ Flagrantly wicked or impious; sinful.  
 __neglected__ _adj_ _I don’t feel neglected._  
 __negotiate__ _v_ /nih-GOH-shee-ayt/  
+__negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
 __neigh<sup>2</sup>__ _v_ :three::hammer: (neighed, neighing) :es: relinchar  
 __neighbohing__ _adj_ Adjacent; adjoining.  
@@ -11129,8 +11136,10 @@ __neighbor__ _n_ :mute:[nei~~gh~~bor]
 __nekkid__ _adj_ (nonstandard) Pronunciation spelling of _naked_, representing Southern US English.  
 __nematodes__  
 __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
+__neocortex__ _n_  
+__neologism__ _n_  
 __neophilia__ _n_  
-__neophyte__  
+__neophyte__ _n_ :two::hammer:  
 __neorealist__  
 __neoteric__  
 __nepenthe__ _n_ Something that induces forgetfulness of sorrow or eases pain.  

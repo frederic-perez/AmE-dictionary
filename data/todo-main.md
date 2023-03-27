@@ -1,18 +1,3 @@
-__lambo__ _n_ A Lamborghini car.  
-__level up__ _v_ :two::hammer:  
-__litany__ _n_ :mega:  
-__marathon__ _n_ :mega:  
-__mile-marker__ _n_ (milemarker)  
-__motorhome__  
-__mull<sup>1</sup>__ _v tr_ To think about extensively; ponder.  
-__mull<sup>2</sup>__ _v intr_ To ruminate; ponder: _mull over a plan._  
-__necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
-__needlepoint__ _n_ _A needlepoint enthusiast._  
-__nefarious__ _adj_  
-__negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
-__neocortex__ _n_  
-__neologism__ _n_  
-__neophyte__ _n_  
 __Nepalese__ _adj_  
 __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __nerve-racking__ _adj_  
