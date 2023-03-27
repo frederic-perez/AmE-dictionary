@@ -1,20 +1,3 @@
-__Nepalese__ _adj_  
-__nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
-__nerve-racking__ _adj_  
-__nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
-__neurotypical__ _adj, n_  
-__nevus__ _n_ /ˈni vəs/ Any congenital anomaly of the skin, including moles and various types of birthmarks.  
-__newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
-__newlywed__ _n_  
-__news__ _n_ :mega:  
-__newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc.  
-__newsworthy__ _adj_  
-__newts__ _n_ _A pond teeming with frogs and newts._  
-__nexus__ _n_  
-__nibble on__  
-__nibble__ _v_  
-__nibble<sup>1</sup>__ _n_ _Tasty oriental nibbles._  
-__nibble<sup>2</sup>__ _v_ :two::hammer: (nibbling) _You were nibbling on housemade pastries._  
 __niche__ _adj_ Of or pertaining to a market niche: _niche advertising._ _A niche market._  
 __nick__ _v_ _Marbles that we knicked from Greece._  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  

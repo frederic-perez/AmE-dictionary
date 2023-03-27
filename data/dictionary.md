@@ -11142,13 +11142,15 @@ __neophilia__ _n_
 __neophyte__ _n_ :two::hammer:  
 __neorealist__  
 __neoteric__  
+__Nepalese__ _adj_  
 __nepenthe__ _n_ Something that induces forgetfulness of sorrow or eases pain.  
 __nepotism__ _n_ :six: [:scroll: The term nepotism comes from the Latin root for nephew Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.]  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
+__nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __nerve agent__  
 __nerve racking__  
 __nerve__ _n_ :two::hammer: _He’s got nerve._  
-__nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
+__nerve-racking__ _adj_ :five::hammer: (nerve racking, nerve-wracking)  
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
 __nescience__ _n_  
@@ -11156,6 +11158,7 @@ __Nesquik__ _n_ :mega:
 __nest egg__ _n_ :three::hammer:  
 __nesting doll__ _n_  
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest. _The tumbler was nestled next to the bottle._  
+__nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __nestlings__ _n_  
 __nether__ _adj_ :two::hammer:  
 __netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
@@ -11166,29 +11169,37 @@ __nettle__ _v_
 __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
 __neuroblastoma__  
 __neuropeptide__ _n_  
+__neurotypical__ _adj, n_  
 __neutered__  
 __neutrinos__ _n_  
 __Neutron Jack__  
+__nevus__ _n_ /ˈni vəs/ Any congenital anomaly of the skin, including moles and various types of birthmarks.  
 __New Jerseyan__  
 __New Jerusalem__ _n_ :two: __1__ _Christianity_ The final dwelling place of souls redeemed by Jesus. __2__ An ideal community on earth.  
 __New Orleans, Louisiana__ _n_ :mega: [Common popular pronunciations: /noo awr-lee-uhnz, noo awr-leenz/ Prevailing local pronunciation: /noo awr-luhnz/]  
-__newbie__ _n_ (newbies)  
+__newbie__ _n_ :two::hammer: /ˈnu bi, ˈnyu-/ (newbies) :es: principiante  
 __newborn__ _n_  
 __newcomer__ _n_ One who has only recently arrived.  
 __newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
 __newly__ _adv_ :two::hammer: _The newly elected leader of the Senate Democrats._  
+__newlywed__ _n_  
 __news media outlets__  
 __news outlet__  
+__news__ _n_ :mega:  
+__newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc.  
 __newsbreak__ _n_  
 __newscast__ _n_ A radio or television broadcast of the news.  
 __newspaper rack__  
 __newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and online at onlinestore.usatoday.com._  
-__newsworthy__ _adj_ Of sufficient interest to warrant press coverage.  
+__newsworthy__ _adj_ :two: Of sufficient interest to warrant press coverage.  
 __newsy__  
+__newts__ _n_ _A pond teeming with frogs and newts._  
+__nexus__ _n_  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
-__nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
-__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :nine::m: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ _Goats nibbled._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
-__nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
+__nibble on__  
+__nibble<sup>1</sup>__ _n_ (nibbles) :four::hammer: _Tasty oriental nibbles._  
+__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :nine::m: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ _Goats nibbled._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ _You were nibbling on housemade pastries._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
+__nibling__ _n_ Blend of nephew, niece + sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nicety__ _n_  
 __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
