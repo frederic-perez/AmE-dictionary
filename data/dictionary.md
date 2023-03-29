@@ -385,6 +385,7 @@ __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of men
 __alighted__ _v_ :two::hammer:  
 __align__ _v_ :mute:[ali~~g~~n]  
 __alike__  
+__aliquot__ _adj, n_ /ˈælɪˌkwɒt/  
 __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
 __all righty__  
@@ -594,7 +595,7 @@ __answer for__ _phr v_ To be responsible for something bad.
 __answer__ _n, v_ :mute:[ans~~w~~er]  
 __antacid__ _n_ :pencil2:  
 __antagonize__ _v_  
-__antanaclasis__ _n_  
+__antanaclasis__ _n_ :two::hammer:  
 __ante__ _n_ :six::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
@@ -1527,6 +1528,7 @@ __bikeshed<sup>1</sup>__ _n_
 __bikeshed<sup>2</sup>__ _v_  
 __bikeshedding__ _n_ :dart:  
 __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
+__bildungsroman__ _n_ /BIL-doonks-roh-mahn/ A novel whose principal subject is the moral, psychological, and intellectual development of a usually youthful main character.  
 __bilge__ _n_  
 __bilious__ _adj_ :two: /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered,” “irritable,” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
 __bilk<sup>1</sup>__ _v_ _Durham was guilty of bilking._  
@@ -1729,6 +1731,7 @@ __blue-ribbon__ _adj_ _Blue-ribbon fisheries._
 __bluebell__ _n_  
 __bluegill__  
 __bluegrass__  
+__bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
 __blueprint__ _n_ :eight: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
 __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :four::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has.  
@@ -2738,7 +2741,7 @@ __caulking__ _n_ :two: A usually impermeable substance used for filling seams, a
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :seven::hammer:  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
-__cavalcade__ _n_ :two::hammer: _A cavalcade of bribes._  
+__cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
@@ -2781,6 +2784,7 @@ __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :four: /suh-ROO-lee-un/ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
 __cerulean<sup>2</sup>__ _n_ A light shade of blue.  
+__cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
@@ -4449,7 +4453,7 @@ __demagogy__
 __démarche__ _n_  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
 __demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
-__demigod__  
+__demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
 __demographic__ _adj_  
 __demonize__ _v tr_ :seven::hammer: (demonizing)  
 __demonstrate__ _v_ :pencil2:  
@@ -4790,7 +4794,7 @@ __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vi
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ _n_ :two::hammer:  
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
-__disparate__ _adj_ _Integration of this disparate data is essential for researchers._  
+__disparate__ _adj_ :two: /DISS-puh-rut/ Disparate things are noticeably distinct in quality or character. Disparate can also describe something that contains or is made up of fundamentally different and often incongruous elements. _The proposed law has the support of a disparate collection of interest groups._ _Integration of this disparate data is essential for researchers._  
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
@@ -5396,7 +5400,7 @@ __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ _n_ :two::mute:[ei~~gh~~t]:hammer:  
 __eighty-eight__ _n_ _slang_ Piano.  
-__eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
+__eighty-six__ _v_ :three: /ay-tee-SIKS/ Eighty-six is an informal word that means “to eject, dismiss, or remove someone.” It is usually used in the context of banning or refusing to serve a customer, but it can also refer to rejecting, discontinuing, or removing something in general. _The teenagers were eighty-sixed by the manager after they attempted to start a food fight in the restaurant._  
 __eighty-size__ _v_  
 __either__ _adj, adv, conj, pron_ :mega:  
 __ejecta__ _n pl_ :two: /ɪˈdʒɛk tə/ Ejected matter, as that from an erupting volcano.  
@@ -8537,6 +8541,7 @@ __ilk__ _n_ :four: Type or kind: _can’t trust people of that ilk._
 __ill__  
 __ill-fated__ _adj_ :two::hammer:  
 __illation__  
+__illaudable__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
@@ -8557,6 +8562,7 @@ __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness,
 __immerse__ _v_  
 __immigrated__  
 __immigration__ _n_ :mega: /ɪmɪˈɡreɪʃən/  
+__immiscible__ _adj_ That cannot undergo mixing or blending. _Syn_ unmixable _When two immiscible liquids, such as oil and water, are shaken together, an emulsion is produced._  
 __immiserate__ _v tr_ /i-MIZ-uh-rayt/ To impoverish or to make miserable.  
 __immobile__  
 __immodest__ _adj_  
@@ -9236,7 +9242,7 @@ __kaffeeklatsch__ _n_
 __Kafkaesque__ _adj_  
 __kale__ _n_ :six::hammer:  
 __kamikaze__ _n_ :mega:  
-__kangaroo word__ _n_ :two::hammer:  
+__kangaroo word__ _n_ :three::hammer:  
 __kaput__  
 __karate__ _n_ [:scroll: A Japanese discipline whose name literally translates as “empty hand.”]  
 __karmic__ _adj_ _Karmic balance._  
@@ -9986,7 +9992,7 @@ __loudmouth__ _n_ :two::hammer: _informal_ _I was a loudmouth._ _He is a loudmou
 __Louisiana Purchase__ _n_ Territory in the western United States purchased from France in 1803 for $15 million; extends from the Mississippi River to the Rocky Mountains and from the Gulf of Mexico to Canada.  
 __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
-__louse__ _n_  
+__louse__ _n_ :two::hammer: :es: piojo  
 __lousy__ _adj_ :three::hammer: _A lousy trip._ _Lousy advice._  
 __lout__ _n_ :six: /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
@@ -11202,8 +11208,10 @@ __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :nine::m: __1__ To bite at gently
 __nibling__ _n_ Blend of nephew, niece + sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nicety__ _n_  
-__niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
-__nick__ _n_ _In a nick of time._  
+__niche<sup>1</sup>__ _adj_ Of or pertaining to a market niche: _niche advertising._ _A niche market._  
+__niche<sup>2</sup>__ _n_ :four::mega::hammer: (nĭch, nēsh)  
+__nick<sup>1</sup>__ _n_ _In a nick of time._  
+__nick<sup>2</sup>__ _v_ _Marbles that we knicked from Greece._  
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
 __nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  

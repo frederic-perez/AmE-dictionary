@@ -1,18 +1,3 @@
-__aliquot__ _adj, n_ /ˈælɪˌkwɒt/  
-__antanaclasis__ _n_  
-__bildungsroman__ _n_ /BIL-doonks-roh-mahn/ A novel whose principal subject is the moral, psychological, and intellectual development of a usually youthful main character.  
-__bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
-__cavalcade__ _n_ /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships.  
-__cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
-__demigod__ _n_ A person with great powers and abilities. _Syn_ superman, Ubermensch  
-__disparate__ _adj_ /DISS-puh-rut/ Disparate things are noticeably distinct in quality or character. Disparate can also describe something that contains or is made up of fundamentally different and often incongruous elements. _The proposed law has the support of a disparate collection of interest groups._  
-__eighty-six__ _v_ /ay-tee-SIKS/ Eighty-six is an informal word that means “to eject, dismiss, or remove someone.” It is usually used in the context of banning or refusing to serve a customer, but it can also refer to rejecting, discontinuing, or removing something in general._ The teenagers were eighty-sixed by the manager after they attempted to start a food fight in the restaurant._  
-__illaudable__  
-__immiscible__ _adj_ That cannot undergo mixing or blending. _Syn_ unmixable _When two immiscible liquids, such as oil and water, are shaken together, an emulsion is produced._  
-__kangaroo word__ _n_  
-__louse__ _n_ :es: piojo  
-__niche__ _adj_ Of or pertaining to a market niche: _niche advertising._ _A niche market._  
-__nick__ _v_ _Marbles that we knicked from Greece._  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
 __nightcap__ _n_ :two::hammer: _A romantic nightcap._  
