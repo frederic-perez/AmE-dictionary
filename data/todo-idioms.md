@@ -1,18 +1,3 @@
-__can’t be bothered__ :dart: Unwilling or disinclined to make the effort necessary to do or accomplish something. (Used in the present and past tenses almost interchangeably.) _I can’t be bothered to clean all those dishes after dinner, so I’ll just leave them in the sink until the morning._  
-__creature of habit__ One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
-__curb appeal__ The external attractiveness of a building or property, such as can be viewed from the street (i.e., the curb). _We were suckered into buying the house because of its incredible curb appeal, but once we moved in, we realized just how run-down it was inside._  
-__cut from whole cloth__ Entirely fictional or utterly false; completely fabricated and not based on reality at all. A reference to tailors who would falsely advertise garments being made “out of whole cloth,” when, in reality, they were pieced together from different cuts. _To be honest, I don’t believe a word he says—it sounds like it’s cut from whole cloth to me._  
-__cut it close__ To do or complete something very near to its limit, especially of time. _We’ll be cutting it close, but we should get there just before the movie starts._  
-__damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers. _I don’t care that it might bankrupt the company! Damn the torpedoes and get it done already!_  
-__dark days__ Times of extreme misfortune or difficulty. _The company struggled on through some dark days several years ago, but it has since established itself as a dominant force in the market._  
-__date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
-__day or night__ At any point in time; 24 hours a day. _You know you can always talk to me about your problems. Call me day or night, it doesn’t matter._  
-__dead asleep__ In a deep, immovable sleep. _I was dead asleep after my 12-hour shift; I didn’t even hear the neighbor’s car alarm going off!_  
-__dead last__ In last place, especially by a wide margin, as for a race or other competition. _I didn’t train at all for that marathon, so I guess it’s no wonder I finished dead last._  
-__dealbreaker__  
-__faux pass__  
-__feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
-__feeling blah__ __2__ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_  
 __feeling on edge__ :two::hammer:  
 __fend off__  
 __few and far between__  

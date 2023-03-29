@@ -676,7 +676,7 @@ __call upon (someone or something)__ _It’s nice when they call upon you and yo
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
 __can of worms__  
-__can’t be bothered__ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
+__can’t be bothered__ :dart::two: Unwilling or disinclined to make the effort necessary to do or accomplish something. (Used in the present and past tenses almost interchangeably.) _I can’t be bothered to clean all those dishes after dinner, so I’ll just leave them in the sink until the morning._  
 __can’t even__ _slang_ Cannot handle (something). A phrase used (usually comically) when one cannot articulate their strong feelings (often of frustration) about something or someone. _I can’t even with this show! How many awesome characters are they going to kill off?_  
 __can’t get a break__  
 __can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
@@ -859,7 +859,7 @@ __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned 
 __crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
 __crash course__ :three: A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
 __crash__ __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._  
-__creature of habit__ One who prefers the comfort and reliability of routine and habitual behavior.  
+__creature of habit__ :two: One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
 __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
 __cringey__  
@@ -882,6 +882,7 @@ __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We ne
 __cry over spilled milk__ :two: To be upset over something that cannot be fixed, often something minor. To be unhappy about what cannot be undone. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
+__curb appeal__ The external attractiveness of a building or property, such as can be viewed from the street (i.e., the curb). _We were suckered into buying the house because of its incredible curb appeal, but once we moved in, we realized just how run-down it was inside._  
 __curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
 __curl (one’s) hair__ To shock or terrify someone. _That horror movie sure curled my hair—I could not sleep for a week!_  
 __curl (one’s) lip__ To sneer at something. _When I heard what was for dinner, I curled my lip in disgust._  
@@ -898,8 +899,8 @@ __cut back on (something)__ To reduce or decrease something. _My doctor told me 
 __cut corners__ To do something in the easiest or most inexpensive way.  
 __cut down (on something)__ _Cut down on smoking._  
 __cut from the same cloth__ :three: To be very similar.  
-__cut from whole cloth__ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being “cut out of whole cloth,” when in reality, they were pieced together from different cuts.  
-__cut it close__ To do or complete something very near to its limit, especially of time.  
+__cut from whole cloth__ :two: Entirely fictional or utterly false; completely fabricated and not based on reality at all. A reference to tailors who would falsely advertise garments being made “out of whole cloth,” when, in reality, they were pieced together from different cuts. _To be honest, I don’t believe a word he says—it sounds like it’s cut from whole cloth to me._  
+__cut it close__ :two: To do or complete something very near to its limit, especially of time. _We’ll be cutting it close, but we should get there just before the movie starts._  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut someone or something off (short)__  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
@@ -907,28 +908,28 @@ __cut the line__
 __cut the spin__  
 __cut ties with (someone)__ :four::hammer: _I was cutting ties without even knowing._  
 __cutting edge__ _Cutting edge fashion._  
-__damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers.  
+__damn the torpedoes__ :two: To press on with a task or current course of action regardless of apparent risks or dangers. _I don’t care that it might bankrupt the company! Damn the torpedoes and get it done already!_  
 __dance the night away__ :four: To dance the entire evening. _We danced the night away._  
-__dark days__ Times of extreme misfortune or difficult.  
+__dark days__ :two: Times of extreme misfortune or difficulty. _The company struggled on through some dark days several years ago, but it has since established itself as a dominant force in the market._  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __dark joke__  
 __darkest hour__  
-__date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
+__date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
 __day and age__  
 __day in and day out__ :six: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in day out__ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
-__day or night__ At any point in time; 24 hours a day.  
+__day or night__ :two: At any point in time; 24 hours a day. _You know you can always talk to me about your problems. Call me day or night, it doesn’t matter._  
 __day tripper__ _You are funny, sitting there like a day tripper._  
 __day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __days gone by__ _Read about the colorful characters of days gone by._  
 __days on end__  
 __days to come__  
-__dead asleep__ In a deep, immovable sleep.  
+__dead asleep__ :two: In a deep, immovable sleep. _I was dead asleep after my 12-hour shift; I didn’t even hear the neighbor’s car alarm going off!_  
 __dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead in the water__ :two: [:scroll: _Dead in the water_ was originally used of a ship and in this context means ‘unable to move’.] Without any chance for success. A person or plan that is dead in the water has failed and has little hope of succeeding in the future: _Now the scandal is out, his leadership campaign is dead in the water._  
-__dead last__ In last place, especially by a wide margin, as for a race or other competition.  
+__dead last__ :two: In last place, especially by a wide margin, as for a race or other competition. _I didn’t train at all for that marathon, so I guess it’s no wonder I finished dead last._  
 __dead man walking__ :two::hammer: _Jack was a dead man walking._  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
 __dead on (one’s) feet__  
@@ -937,7 +938,7 @@ __dead on__
 __dead set against something__ To be completely against something.  
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
-__dealbreaker__ :six::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealbreaker__ :seven::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
 __deep dive__ :four: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
 __deepfake__ :two::hammer:  
@@ -1117,13 +1118,16 @@ __farmer’s tan__ :dart: A tan or sunburn on the neck and lower arms that resul
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
+__faux pass__  
 __fear not__  
 __feather your own nest__ To use your position or your job to get a lot of money for yourself.  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival.  
+__feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
 __feel all the feels__ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like a new man/woman__ To feel completely refreshed and in good health and spirits, especially after an exhausting or debilitating experience. _After he had some time to recover from the surgery, he felt like a new man._  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
+__feeling blah__ __2__ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_  
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
 __few and far between__ :three: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
