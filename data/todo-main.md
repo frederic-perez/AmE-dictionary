@@ -1,3 +1,16 @@
+__aliquot__ _adj, n_ /ˈælɪˌkwɒt/  
+__antanaclasis__ _n_  
+__bildungsroman__ _n_ /BIL-doonks-roh-mahn/ A novel whose principal subject is the moral, psychological, and intellectual development of a usually youthful main character.  
+__bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
+__cavalcade__ _n_ /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships.  
+__cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
+__demigod__ _n_ A person with great powers and abilities. _Syn_ superman, Ubermensch  
+__disparate__ _adj_ /DISS-puh-rut/ Disparate things are noticeably distinct in quality or character. Disparate can also describe something that contains or is made up of fundamentally different and often incongruous elements. _The proposed law has the support of a disparate collection of interest groups._  
+__eighty-six__ _v_ /ay-tee-SIKS/ Eighty-six is an informal word that means “to eject, dismiss, or remove someone.” It is usually used in the context of banning or refusing to serve a customer, but it can also refer to rejecting, discontinuing, or removing something in general._ The teenagers were eighty-sixed by the manager after they attempted to start a food fight in the restaurant._  
+__illaudable__  
+__immiscible__ _adj_ That cannot undergo mixing or blending. _Syn_ unmixable _When two immiscible liquids, such as oil and water, are shaken together, an emulsion is produced._  
+__kangaroo word__ _n_  
+__louse__ _n_ :es: piojo  
 __niche__ _adj_ Of or pertaining to a market niche: _niche advertising._ _A niche market._  
 __nick__ _v_ _Marbles that we knicked from Greece._  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
@@ -244,6 +257,7 @@ __pediment__ _n_
 __pedorthist__ _n_  
 __peephole__  
 __peerless__ _adj_ _Peerless scenic beauty._  
+__peignoir__ _n_ A woman’s loose-fitting dressing gown. _Syn_ neglige, wrapper, housecoat  
 __pellucid__ _adj_ Admitting the passage of light; transparent or translucent. _Syn_ transparent, crystal clear, limpid, crystalline, lucid _The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes._  
 __pen__ _v_  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
@@ -708,6 +722,7 @@ __sammy__ _n_ _It is known for its killer grilled cheese sammies._
 __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
 __samurai__ _n_ :mega:  
 __San Diegans__ _n_  
+__sanctimonious__  
 __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
 __sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
@@ -1723,4 +1738,5 @@ __zero in__
 __zesty__ _adj_ :four::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zinch__  
 __zipline__ _n_ :two::hammer: _A zipline park._  
+__zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
 __zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
