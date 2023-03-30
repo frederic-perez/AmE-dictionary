@@ -1,3 +1,9 @@
+__covet__ _v_  
+__egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance.  
+__hardy__  
+__life raft__ _n_ A raft to use if a ship must be abandoned in an emergency.  
+__lock horns__  
+__matchmaking__ _n_ Mediation in order to bring about a marriage between others.  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
 __nightcap__ _n_ :two::hammer: _A romantic nightcap._  
@@ -305,6 +311,7 @@ __pimple__ _n_
 __pin__ _v_ _Pinned it against the wall._  
 __pinback__ _n_ :two::hammer:  
 __pine nuts__  
+__pinecone__ _n_ The seed-producing cone of a pine tree.  
 __pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
 __pinion<sup>1</sup>__ _n_ /PIN-yuhn/ __1__ A feather or a wing, especially the terminal segment of a wing. __2__ A small cogwheel engaging with a larger wheel or a rack.  
 __pinion<sup>2</sup>__ _v tr_ __1__ To cut or bind the wing of a bird. __2__ To bind, restrain, shackle, etc.  
@@ -372,6 +379,7 @@ __portico__ _n_
 __Portlander__ _n_  
 __Portuguese__ _adj, n_  
 __possum__ _n_  
+__postponement__ _n_  
 __postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
 __posturing__  
 __pot-bellied__ _adj_ _Pot-bellied seahorses._  
@@ -473,9 +481,10 @@ __purebred__
 __puree__ _n_ :mega:  
 __purist__  
 __purport__ _v_ :two::hammer:  
+__purulent__ _adj_  
 __purveyor__  
 __pushback__ _n_  
-__pustule__ _n_  
+__pustule__ _n_ :two::hammer:  
 __putsch__ _n_ A sudden attempt by a group to overthrow a government. _Syn_ coup, coup d’etat, takeover  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
 __Pygmalion__ _n_ :mega:  
@@ -1411,6 +1420,7 @@ __trestle__ _n_ :two::hammer: _Railway trestles._
 __tribulation__ _n_  
 __tributary__ _n_  
 __trickle__ _n_ _A trickle of sweat._  
+__tried-and-true__ _adj_ Tested and proved to be worthy or good.  
 __trim__ _n_ _Metallic trim._  
 __trimmings__ _n_ _A delicious dinner complete with all the trimmings and free seconds._  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
@@ -1707,7 +1717,7 @@ __year-round__ _adj_ :three: Existing, active, or continuous throughout the year
 __yearn__ _v_  
 __yeast__ _n_  
 __yeoman__ _n_  
-__yesteryear__ _n_ :three::hammer:  
+__yesteryear__ _n_ :four::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __Yggdrasil__ _n_  
 __yogurt__ _n_ :two::hammer: (yoghourt)  
