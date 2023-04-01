@@ -1,3 +1,8 @@
+__(deep) in the weeds__ :dart:  
+__a head start (on something)__  
+__be baked into (one’s) DNA__  
+__circle back (to something)__  
+__duck and cover__  
 __feeling on edge__ :two::hammer:  
 __fend off__  
 __few and far between__  
@@ -36,6 +41,7 @@ __front and center__ :two::hammer:
 __funky__ _With that mix, things get funky._  
 __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
 __game changer__  
+__game of chicken__  
 __game plan__ :two::hammer:  
 __game-changer__  
 __gaslighting__ :four::hammer:  
@@ -77,6 +83,7 @@ __go for the jugular__ _Go straight for the jugular._
 __go granular__ To examine something in detail.  
 __go hand in hand__  
 __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
+__go into the weeds__ :dart: To become totally immersed in or preoccupied with the minute details or complexities (of something). _Before we go into the weeds, let’s give a brief overview for any of our listeners who aren’t familiar with the issue._  
 __go overboard__  
 __go south__  
 __go the distance__ :dart::four: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
@@ -169,6 +176,7 @@ __in park__ Of a vehicle, having the gear stick set to “park,” which keeps t
 __in perfect harmony__  
 __in spite of__  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
+__in the (grand) scheme of things__  
 __in the (very) nick of time__ :two::hammer:  
 __in the blink of an eye__  
 __in the face of (something)__  
@@ -356,6 +364,7 @@ __pave the way__
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
 __peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
+__pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __people pleaser__ (_less commonly_ people-pleaser)  
 __perfect storm__  
 __piece of shit__  
@@ -463,6 +472,7 @@ __set the ball rolling__ (start the ball rolling) To set something, often a proc
 __set the bar__  
 __shake up__  
 __shape up__  
+__shine a/more/some light on something__ To examine something more closely or explain it so that it becomes clearer.  
 __shoot yourself on the foot__  
 __shot down__  
 __shoulder to shoulder__  
@@ -596,6 +606,7 @@ __thanks for nothing__ An expression of annoyance, exasperation, or disappointme
 __that being said__  
 __that’s a given__  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
+__the bends__ :astonished: A serious and painful condition that divers get if they come up from under the water too quickly.  
 __the big picture__  
 __the bigger picture__  
 __the bigger they come, the harder they fall__ _proverb_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
@@ -648,6 +659,7 @@ __tick someone off__
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __tiger team__  
 __til you drop__  
+__time and time again__ :dart:  
 __time capsule__  
 __tip (one’s) hat__  
 __to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
@@ -678,6 +690,7 @@ __trigger__ :five: __1__ _n_ Something that causes one psychological distress, t
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn (something) on its head__  
 __turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
 __turn something around__  
 __turn tables__  
