@@ -3839,6 +3839,7 @@ __cover charge__ _n_ :three: A fixed amount paid when arriving or added to the b
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
+__covet__ _v_  
 __covetable__ _adj_ :two::hammer:  
 __coveted<sup>1</sup>__ _adj_ :three: Sought-after. _A coveted item._  
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
@@ -5390,7 +5391,7 @@ __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavoring
 __eggs benedict__  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
-__egotistical__ _adj_ :three::hammer:  
+__egotistical__ _adj_ :four: Characteristic of those having an inflated idea of their own importance.  
 __egotists__  
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress<sup>1</sup>__ _n_ :three::hammer:  
@@ -7786,7 +7787,7 @@ __hardware__ _n_
 __hardwired__ _adj_  
 __hardwood<sup>1</sup>__ _n_ :three::hammer:  
 __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
-__hardy__ _adj_ :six::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._ _There are hundreds of trails for hardy backpackers._  
+__hardy__ _adj_ :seven::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._ _There are hundreds of trails for hardy backpackers._  
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __harelip__ _n_ A congenital cleft in the middle of the upper lip. _Syn_ cheiloschisis, cleft lip _The insurance company argued that the surgery to correct her harelip was not medically necessary._  
@@ -9748,6 +9749,7 @@ __liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The
 __lier__ _n_ A person who lies down.  
 __life buoy__  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
+__life raft__ _n_ A raft to use if a ship must be abandoned in an emergency.  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
 __lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._  
@@ -9892,6 +9894,7 @@ __lobster roll__
 __locale__ _n_ :two::hammer: _We want to recruit nationally, but in our locale we have talent._  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
+__lock horns__  
 __lock__ _v_  
 __lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
@@ -10347,7 +10350,7 @@ __masthead__ _n_
 __mastodon__ _n_ :two::hammer: :es: mastodonte  
 __mastoiditis__ _n_  
 __matchmaking service__  
-__matchmaking__ _n_ Mediation in order to bring about a marriage between others.  
+__matchmaking__ _n_ :two: Mediation in order to bring about a marriage between others.  
 __matchstick__ _n_ :two::hammer:  
 __matchup__ _n_ :two::hammer: (matchups)  
 __materfamilias__ _n_ A female head of a family or tribe. _Syn_ matriarch _As materfamilias, my grandmother calls the shots on holidays like Thanksgiving, and no one dares question her._  
@@ -11214,8 +11217,9 @@ __nick<sup>1</sup>__ _n_ _In a nick of time._
 __nick<sup>2</sup>__ _v_ _Marbles that we knicked from Greece._  
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
+__nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
 __nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  
-__nifty__ _adj informal_ :six: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__nifty__ _adj informal_ :eight: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Nifty little passport pouches._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
@@ -11223,11 +11227,12 @@ __nigh__ _adj, adv, prep_ :three: An archaic, poetic, or dialect word for near. 
 __night sweats__ _n_ (nocturnal hyperhidrosis)  
 __night<sup>1</sup>__ _n_ :mute:[ni~~gh~~t]  
 __night<sup>2</sup>__ _adj_ :mute:[ni~~gh~~t]  
-__nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
+__nightcap__ _n_ :six::hammer: (nightcaps) _Whiskey nightcaps._ _A romantic nightcap._  
 __nightie__ _n_ :two: A woman’s nightgown.  
 __nightingale__ _n_ :three: [:scroll: Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
 __nightmarish__ _adj_ :three::hammer:  
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
+__nightspot__ _n_ :two: An informal word for nightclub.  
 __nightstand__ _n_  
 __nighttime__ _n_ :pencil2:  
 __nigiri__ _n_  
@@ -11236,26 +11241,31 @@ __nihilistic__
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimiety__ _n_ Superfluity; excess.  
-__nimrod__ _n_ __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
+__nimrod__ _n_ :two: __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
 __nip-and-tuck__  
-__nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
+__nip<sup>1</sup>__ _v_ :six::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
 __niqab__ _v_  
 __nit__ _n_ The egg of certain parasitic insects, especially a head louse. _Hair filled with nits._  
+__nit-picking<sup>1</sup>__ _n_ A concern with insignificant details, esp with the intention of finding fault.  
+__nit-picking<sup>2</sup>__ _adj_ Showing such a concern; fussy.  
 __nitch<sup>1</sup>__ _n_ /nich/ A notch or a small cut.  
 __nitch<sup>2</sup>__ _v tr_ To make a small cut or notch.  
 __nitpick<sup>1</sup>__ _n_  
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nitty__ _adj_ _informal_ Foolish; stupid.  
-__nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__nitty-gritty__ _n_ :seven: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nival__ _adj_ Relating to, growing in or under, or living on snow cover: _nival fauna._  
 __nix<sup>1</sup>__ _n_  
-__nix<sup>2</sup>__ _v_ :two: To cancel something, to stop something from happening.  
+__nix<sup>2</sup>__ _v_ :three: To cancel something, to stop something from happening.  
 __no jive__  
 __no offense__  
 __no questions asked__  
 __no way around it__  
+__no-brainer__  
+__no-frills__ _adj_ _informal_  
+__no-go<sup></sup>__ _n_ (_n pl_ no-goes) A situation in which planned operations cannot be effectuated, as in the case of the launch of spacecraft: _The flight is a no-go because of technical problems._ _After today’s job interview, I reckon it is a no-go._  
 __no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not advisable, as because of being improper or unsafe. _Wives and children were a no-no in anyone’s books._ _What are the no-nos of API testing?_  
 __no-questions-asked__ _adj_ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  

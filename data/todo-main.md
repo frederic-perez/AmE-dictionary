@@ -1,23 +1,3 @@
-__covet__ _v_  
-__egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance.  
-__hardy__  
-__life raft__ _n_ A raft to use if a ship must be abandoned in an emergency.  
-__lock horns__  
-__matchmaking__ _n_ Mediation in order to bring about a marriage between others.  
-__nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
-__nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
-__nightcap__ _n_ :two::hammer: _A romantic nightcap._  
-__nightcaps__  
-__nightspot__ _n_ :two: An informal word for nightclub.  
-__nimrod__ _n_  
-__nip__ _v_  
-__nit-picking<sup>1</sup>__ _n_ A concern with insignificant details, esp with the intention of finding fault.  
-__nit-picking<sup>2</sup>__ _adj_ Showing such a concern; fussy.  
-__nitty-gritty__ _n_ :two::hammer:  
-__nix__ _v_  
-__no-brainer__  
-__no-frills__ _adj_ _informal_  
-__no-go<sup></sup>__ _n_ (_n pl_ no-goes) A situation in which planned operations cannot be effectuated, as in the case of the launch of spacecraft: _The flight is a no-go because of technical problems._ _After today’s job interview, I reckon it is a no-go._  
 __no-go<sup>1</sup>__ _adj_ Not in a suitable condition for proceeding or functioning properly: _The space launch was no-go._  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __no-nonsense__ _adj_ _A no-nonsense approach._  
