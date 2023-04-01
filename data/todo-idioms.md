@@ -1,18 +1,3 @@
-__(deep) in the weeds__ :dart:  
-__a head start (on something)__  
-__be baked into (one’s) DNA__  
-__circle back (to something)__  
-__duck and cover__  
-__feeling on edge__ :two::hammer:  
-__fend off__  
-__few and far between__  
-__fight the good fight__  
-__find (one‘s) bearings__ To recognize or determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _It took me a little while to find my bearings in the new office, but after a week, I felt as if I’d been working there for years._  
-__fired up__ Excited; enthusiastic. _How can you be so fired up at this time of the morning?_  
-__first and foremost__  
-__first things first__ :two::hammer:  
-__flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
-__flat-earther__  
 __flesh out__  
 __floored__ :two: __1__ Shocked or flabbergasted. _I was completely floored by Rob’s declaration of love—I had no idea he felt that way about me!_  
 __fly by__  
