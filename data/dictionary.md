@@ -660,6 +660,7 @@ __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apo
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
+__apologue__ _n_ A moral fable, especially one having animals or inanimate objects as characters. _Syn_ allegory, parable, fable  
 __apoplectic__  
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __apoptosis__ _n_  
@@ -1265,7 +1266,7 @@ __battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _n_ :two::hammer: _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
-__battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
+__battlement__ _n_ :four: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement. _Syn_ crenelation, crenellation  
 __batty__  
 __bauble__ _n_ :seven: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawd__ _n_ __1__ A woman who keeps a brothel; a madam. __2__ A woman prostitute.  
@@ -2440,6 +2441,7 @@ __cajole__ _v_ :nine::m: /kuh-JOHL/ Cajole usually means “to persuade someone 
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cakewalk__  
+__calamari__ _n_ :astonished: Squid prepared as food. _Syn_ squid _Lisa ordered calamari at the Italian restaurant._  
 __calamitous__ _adj_ :two::mega: Causing or involving calamity; disastrous. Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
 __calamity__ _n_ :two::mega::hammer:  
 __calcareous__ _adj_ Of, containing, or resembling calcium carbonate. _Syn_ chalky  
@@ -4769,7 +4771,7 @@ __disillusionment__
 __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a deterrent.  
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
-__disinformation__ _n_ __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
+__disinformation__ _n_ :two: __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
 __disingenuous__ _adj_ :five: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinherited__ _adj_ Deprived of your rightful heritage.  
@@ -5178,6 +5180,7 @@ __drum up__
 __drum__ _v_  
 __drumbeat__ _n_ _Their drumbeat of criticism._  
 __drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
+__drumroll__ _n_  
 __drumstick__ _n_ :astonished: __1__ A stick for beating a drum. __2__ The meaty leg of a chicken, turkey, or other fowl.  
 __drupe__ _n_  
 __druthers__ _n informal_ :two: /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
@@ -5448,7 +5451,7 @@ __elope__ _v intr_ :nine::dart: (elopes, eloped) Run away secretly in order to g
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elucidation__ _n_  
-__elude__ _v_ :two::astonished::hammer: (eluding)  
+__elude__ _v_ :three::astonished::hammer: (eluding)  
 __elusive__ _adj_ :three::hammer: _An elusive goal._  
 __elute__ _v tr_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
@@ -5827,6 +5830,7 @@ __exiguous__ _adj_ :two::hammer:
 __existential__ _n_ :pencil2:  
 __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
 __exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
+__exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
@@ -7257,6 +7261,7 @@ __golden__ _adj_ :astonished: __4__ Indicating the fiftieth event of a series.
 __goldenrod__ _n_ :two::hammer:  
 __goldfinch__ _n_ :es: jilguero  
 __goldilocks__ _n informal_ :two: __1__ A person, usually a woman or girl, with golden or blond hair. __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
+__golem__ _n_ /GOH-lum/  
 __golf course__  
 __golf__ _n_ :mega:  
 __golliwog__ _n_ :two::hammer:  
@@ -7508,7 +7513,7 @@ __grudge<sup>2</sup>__ _n_ :nine: (grudges) A deep-seated feeling of resentment 
 __grudging__ _adj_ _That behavior had won the soldier’s respect, and grudging affection._  
 __grudgingly__ _adv_ :four::hammer:  
 __gruel__ _n_ :three::hammer:  
-__grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
+__grueling__ _adj_ :four: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._ :es: duro, penoso; agotador  
 __gruelling__  
 __gruff__ _adj_ :six::hammer:  
 __gruffly__  
@@ -8557,7 +8562,7 @@ __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). 
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
 __imbue__ _v_ :seven: /im-BYOO/ (imbued) Imbue can be used as a synonym for endow (“to provide with something freely or naturally”) and can also mean “to permeate or influence” in a way that suggests colored dye permeating cloth fabric. __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ _The children were imbued with a passion for nature by their parents, both biologists._ __2__ To saturate, impregnate, or dye.  
-__immaculate__ _adj_ _An immaculate pharmacy._  
+__immaculate__ _adj_ :two::mega::hammer: /ih-MAK-yuh-lut/ _An immaculate pharmacy._  
 __immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
@@ -10697,7 +10702,7 @@ __misgiving__ _n_ :eight: (misgivings) _(Often plural)_ Uneasiness about the fit
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
-__misinformation__ _n_ :two: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
+__misinformation__ _n_ :three: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _v tr_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
 __mismatch__ _n_ :two::pencil2::hammer:  
 __misnomer__ _n_ :nine::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
@@ -11265,8 +11270,11 @@ __no questions asked__
 __no way around it__  
 __no-brainer__  
 __no-frills__ _adj_ _informal_  
-__no-go<sup></sup>__ _n_ (_n pl_ no-goes) A situation in which planned operations cannot be effectuated, as in the case of the launch of spacecraft: _The flight is a no-go because of technical problems._ _After today’s job interview, I reckon it is a no-go._  
+__no-go<sup>1</sup>__ _n_ (_n pl_ no-goes) A situation in which planned operations cannot be effectuated, as in the case of the launch of spacecraft: _The flight is a no-go because of technical problems._ _After today’s job interview, I reckon it is a no-go._  
+__no-go<sup>2</sup>__ _adj_ Not in a suitable condition for proceeding or functioning properly: _The space launch was no-go._  
+__no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not advisable, as because of being improper or unsafe. _Wives and children were a no-no in anyone’s books._ _What are the no-nos of API testing?_  
+__no-nonsense__ _adj_ _A no-nonsense approach._  
 __no-questions-asked__ _adj_ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ _n_ :mega: /nəʊˈbɛl/  
@@ -11280,12 +11288,14 @@ __noetic__ _adj_ Of, relating to, originating in, or apprehended by the intellec
 __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
 __noir__ _adj_ _A noir novel._  
 __noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
+__noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nom de guerre__  
-__nomad__ _adj_ :mega:  
-__nomadic__  
+__nomad__ _n_ :mega:  
+__nomadic__ _adj_ :two::hammer:  
 __nomenclature__ _n_ /NOH-mun-klay-cher/ _Starting a new job or entering a new field of study means becoming familiar with the nomenclature._  
+__Nomex__ _n_  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
-__nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
+__nomophobia__ _n_ :two: (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
 __non sequitur__ _n_ :eight: /NAHN-SEK-wuh-ter/ __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. A statement that either does not logically follow from or is not clearly related to what was previously said. _The host’s non sequitur about the award recipient’s unconventional dress did not go unnoticed by her fans on social media._ :es: incongruencia  
 __non-committal__  
 __non-communicable disease__  
@@ -11309,7 +11319,8 @@ __nonpareil<sup>1</sup>__ _adj_ /nahn-puh-REL/ Having no equal. _The singer’s 
 __nonpareil<sup>2</sup>__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
 __nonpartisan__ _adj_  
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
-__nonplus__ _v_ :two: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
+__nonplus<sup>1</sup>__ _v_ :three: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffl1, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
+__nonplus<sup>2</sup>__ _n_  
 __nonplussed__ _adj_ :three::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  

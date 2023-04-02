@@ -1,23 +1,3 @@
-__apologue__ _n_ A moral fable, especially one having animals or inanimate objects as characters. _Syn_ allegory, parable, fable  
-__battlement__ _n_ A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. _Syn_ crenelation, crenellation  
-__calamari__ _n_ :astonished: Squid prepared as food. _Syn_ squid _Lisa ordered calamari at the Italian restaurant._  
-__disinformation__ _n_ __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
-__drumroll__ _n_  
-__egregious__ _adj_  
-__elude__  
-__exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
-__golem__ _n_ /GOH-lum/  
-__grueling__ _adj_ Physically or mentally demanding to the point of exhaustion: _a grueling campaign._ :es: duro, penoso; agotador  
-__immaculate__ _adj_ :mega: /ih-MAK-yuh-lut/  
-__misinformation__ _n_ False information that is spread, regardless of intent to mislead.  
-__no-go<sup>1</sup>__ _adj_ Not in a suitable condition for proceeding or functioning properly: _The space launch was no-go._  
-__no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
-__no-nonsense__ _adj_ _A no-nonsense approach._  
-__noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
-__nomadic__  
-__Nomex__ _n_  
-__nomophobia__ _n_  
-__nonplus__ _n, v_  
 __Nordic jumps__ _n_  
 __nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especially as a seasoning or as a wrapper for sushi. _Nori crusted tuna._  
 __normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
