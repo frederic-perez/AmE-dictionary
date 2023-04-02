@@ -1,3 +1,15 @@
+__apologue__ _n_ A moral fable, especially one having animals or inanimate objects as characters. _Syn_ allegory, parable, fable  
+__battlement__ _n_ A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. _Syn_ crenelation, crenellation  
+__calamari__ _n_ :astonished: Squid prepared as food. _Syn_ squid _Lisa ordered calamari at the Italian restaurant._  
+__disinformation__ _n_ __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
+__drumroll__ _n_  
+__egregious__ _adj_  
+__elude__  
+__exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
+__golem__ _n_ /GOH-lum/  
+__grueling__ _adj_ Physically or mentally demanding to the point of exhaustion: _a grueling campaign._ :es: duro, penoso; agotador  
+__immaculate__ _adj_ :mega: /ih-MAK-yuh-lut/  
+__misinformation__ _n_ False information that is spread, regardless of intent to mislead.  
 __no-go<sup>1</sup>__ _adj_ Not in a suitable condition for proceeding or functioning properly: _The space launch was no-go._  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __no-nonsense__ _adj_ _A no-nonsense approach._  
@@ -419,6 +431,7 @@ __produce__ _n_ Farm products, especially fresh fruits and vegetables, considere
 __proficiency__  
 __profligacy__ _adj, n_  
 __profound__ _adj_ :mega:  
+__prohibitionist__ _n_ A reformer who opposes the use of intoxicating beverages. _Syn_ dry _She was a tireless prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet._  
 __prolegomenon__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
@@ -846,6 +859,7 @@ __sheepskin__ _n_
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
+__shenanigans__ _n pl_ /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._  
 __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shoe leather__ _n_  
