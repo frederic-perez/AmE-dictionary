@@ -11335,48 +11335,63 @@ __noontime__ _n_ _It was noontime, time for lunch._
 __noose<sup>1</sup>__ _n_ :six::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ _n_ _US informal_ Northern California.  
+__Nordic jumps__ _n_  
+__nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especially as a seasoning or as a wrapper for sushi. _Nori crusted tuna._  
 __normalcy__ _n_ :five::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy,” about getting back to normal life after the war. Since then, the word has been used often instead of “normality.” _It took me months to get back to normalcy._  
+__normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
 __normothermic__ _adj_ (Medicine) Of or pertaining to normothermia; having a normal body temperature.  
 __norovirus__  
+__Norse__ _adj, n_  
 __north of__ _phr_ More than. _Our base is Windows users worldwide, which is north of 1.2bn._ _The owners are seeking north of $20 billion for the company._  
 __nose > running noses__  
 __nose dive__  
 __nose-thumbing__ _n_ :camera: The placing of thumb to nose in derision or contempt.  
+__nose-to-nose__ _adj_  
+__nosebag__ _n_ A canvas bag that is used to feed an animal (such as a horse). _Syn_ feedbag _The stableboy replaced the horse’s nosebag, which had torn in two places._  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
+__nosh<sup>1</sup>__ _v intr_ _informal_ :four: To snack or eat between meals. _Late-night noshing._  
+__nosh<sup>2</sup>__ _v tr_ To snack on: _to nosh potato chips._  
+__nosh<sup>3</sup>__ _n_ A snack.  
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__ _n_ :two::hammer:  
 __nostrum__ _n_ :four:astonished: __1__ A medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness. Hypothetical remedy for all ills or diseases. _Syn_ cure-all, panacea, catholicon _Stay healthy, for science is no closer to a nostrum than alchemy was._ _It is put to work at county fairs, promoting a quack nostrum for pain relief._ __2__ A usually questionable remedy or scheme. _Syn_ panacea  
-__nosy__ _adj_ _slang_ :five: Inappropriately curious. _He’s nosy as hell._  
+__nosy__ _adj_ _slang_ :six: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
+__not-for-profit__ _adj_  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __note__ _n_ _On a much more serious note..._  
+__noteworthy__  
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
+__noticeboard__ _n_  
 __notorious__ _adj_ :two: /noh-TOR-ee-us/ Notorious describes people and things that are famously known, especially for something unfavorable. _They live in a region that’s notorious for its severe winters._  
+__notoriously__ _adv_ :two::hammer:  
 __Notre Dame__ _n_ Our Lady (the Virgin Mary).  
-__notwithstanding__ _adv, conj, prep_ :seven::hammer:  
+__notwithstanding__ _adv, conj, prep_ :eight::hammer:  
 __nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
 __noun__ _n_  
 __nouny__ _adj_  
 __nova__  
 __novelette__  
-__novella__  
+__novella__ _n_ :two::hammer:  
 __novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Buy a novelty T-shirt._  
-__novice__ _n_ :mega: /ˈnɒv ɪs/  
+__novice__ _n_ :two::hammer::mega: /ˈnɒv ɪs/ (novices)  
 __nowadays__  
 __nowcast__  
 __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
 __noxious__ _adj_ :two::hammer:  
 __nozzle__ _n_ :two::hammer:  
 __nth__ _adj_  
-__nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
+__nuance<sup>1</sup>__ _n_ :dart::six::mega: /NOO-ahnss/ (nuances) A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
+__nubbly__  
 __nubby__ _adj_ _Nubby sole design._  
 __nubile__ _adj_  
 __nuclear family__ _n_  
 __nucleotide__ _n_  
+__nudge__ _v_  
 __nudum pactum__ _n_ /ˈnjuːdʊm ˈpæktʊm/ (Law) An agreement made without consideration and void unless made under seal.  
 __nugatory__ _adj_ :two: /NOO-guh-tor-ee/ __1__ Of little or no importance; trifling: _The nation’s interests in such a remote region were nugatory._ __2__ Unavailing, futile, or invalid: _Efforts to remedy the situation proved to be nugatory._ _The law was unenforced and thus rendered nugatory._  
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  

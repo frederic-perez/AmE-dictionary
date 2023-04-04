@@ -1,23 +1,3 @@
-__Nordic jumps__ _n_  
-__nori__ _n_ :two: Dried laver seaweed pressed into thin sheets and used especially as a seasoning or as a wrapper for sushi. _Nori crusted tuna._  
-__normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
-__Norse__ _adj, n_  
-__nose-to-nose__ _adj_  
-__nosebag__ _n_ A canvas bag that is used to feed an animal (such as a horse). _Syn_ feedbag _The stableboy replaced the horse’s nosebag, which had torn in two places._  
-__nosh<sup>1</sup>__ _v intr_ _informal_ :four: To snack or eat between meals. _Late-night noshing._  
-__nosh<sup>2</sup>__ _v tr_ To snack on: _to nosh potato chips._  
-__nosh<sup>3</sup>__ _n_ A snack.  
-__nosy__  
-__not-for-profit__ _adj_  
-__noteworthy__  
-__noticeboard__ _n_  
-__notoriously__ _adv_ :two::hammer:  
-__notwithstanding__  
-__novella__ _n_  
-__novices__ _n_  
-__nuance__ _n_ :two::mega: /NOO-ahnss/ A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._  
-__nubbly__  
-__nudge__ _v_  
 __numb__ _v_  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
