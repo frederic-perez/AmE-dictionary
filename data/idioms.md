@@ -1231,13 +1231,15 @@ __frenemy__
 __fresh legs__ In sports, one or more substitute players who have not yet participated in a given game or match, thus having more energy than the players they are replacing. _Their offense is completely wearing out our defense—it’s time to get some fresh legs on the field!_  
 __fresh-faced__ Of or having an appearance of health, vitality, and/or youthfulness.  
 __Freudian slip__ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
-__Friendsgiving__ A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
+__Friendsgiving__ :two: A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
+__frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from bad to worse__  
 __from rags to riches__ From being poor to being wealthy.  
-__from the ground up__ _Written from the ground up._  
+__from the get-go__  
+__from the ground up__ :two: [:scroll: This expression alludes to the construction of a house, which begins with the foundation.] From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ _Written from the ground up._  
 __from time to time__  
-__front and center__ :four::hammer:  
+__front and center__ :six::hammer:  
 __frost the cake__  
 __fruit loop__  
 __fuck a duck__ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
@@ -1247,16 +1249,23 @@ __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you ca
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
 __full stop__  
+__funky__ _With that mix, things get funky._  
+__funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
 __funny feeling__ :two: An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances. _I have a funny feeling that this meeting isn’t going to end in our favor._  
 __gag me with a spoon__ An expression of disgust or annoyance.  
-__game changer__  
-__game-changer__  
+__game changer__ :two::hammer:  
+__game of chicken__  
+__game plan__ :two::hammer:  
+__game-changer__ :two::hammer:  
 __garbage in, garbage out__  
-__gaslight__ :four: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gaslight__ :eight: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __gender fluid__ Not strictly identifying as one distinct gender, perhaps identifying as a different gender at different times, or identifying as more than one gender at once. _My sex is male, but I’m gender fluid, and I feel more feminine than masculine some days._  
 __generally speaking__ Used to say that a statement describes a general feeling or opinion relating to or affecting all the people or things in a group. _Generally speaking, people like her as a leader._  
 __gentleman’s agreement__ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
+__get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
+__get (one’s) act together__  
 __get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
 __get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears.  
 __get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  

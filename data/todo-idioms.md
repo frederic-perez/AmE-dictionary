@@ -1,18 +1,3 @@
-__Friendsgiving__  
-__frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
-__from the get-go__  
-__from the ground up__ From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ This expression alludes to the construction of a house, which begins with the foundation.  
-__front and center__ :two::hammer:  
-__funky__ _With that mix, things get funky._  
-__funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
-__game changer__  
-__game of chicken__  
-__game plan__ :two::hammer:  
-__game-changer__  
-__gaslighting__ :four::hammer:  
-__gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
-__get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
-__get (one’s) act together__  
 __get (one’s) shit together__ :two::hammer:  
 __get (something) straight__ _Let’s get this straight._  
 __get a grip__  
