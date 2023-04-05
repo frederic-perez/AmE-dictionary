@@ -1,18 +1,3 @@
-__get (one’s) shit together__ :two::hammer:  
-__get (something) straight__ _Let’s get this straight._  
-__get a grip__  
-__get back on one’s word__ To break one’s promise.  
-__get bombed__ _slang_ To get very drunk. _After the long week I had, all I want to do is go to the bar and get bombed._  
-__get it off my chest__  
-__get on top of (something)__  
-__get out of town__  
-__get shut-eye__ _I’ll get some shut-eye._  
-__get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
-__get the best of me__  
-__get the edge__  
-__get the hang of something__  
-__get the sniffles__ To catch a cold, usually a minor one. _My daughter seems to have gotten the sniffles from someone at daycare._  
-__get word (from someone or something)__  
 __get your act together__  
 __get your shit together__  
 __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
