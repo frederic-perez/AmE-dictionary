@@ -1,23 +1,3 @@
-__numb__ _v_  
-__nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
-__nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
-__nurture__ _v_ /NER-cher/  
-__nutrition label__ _n_  
-__nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
-__Nymphean__ _adj_ _Nymphean theater._  
-__oasis__ _n_ (_n pl_ oases)  
-__oat__ _n_ _After much deliberation, the US Food and Drug Administration has ruled that oat and soy milk can be called milk._  
-__obdurate__ _adj_ /AHB-duh-rut/  
-__obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
-__obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
-__objectee__  
-__oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
-__obliterate__ _v_ /uh-BLIT-uh-rayt/  
-__obsequious__ _adj_ Characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating.  
-__obstreperous__ _adj_  
-__obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
-__obtrude<sup>1</sup>__ _v tr_ /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc.  
-__obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  

@@ -11398,7 +11398,8 @@ __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advi
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :five: (nullified) Declare invalid. _Syn_ annul, invalidate, void, quash, avoid _He used his broad executive powers to nullify decisions by local government._  
-__numb__ _adj_ :four::mute:[num~~b~~]:hammer:  
+__numb<sup>1</sup>__ _adj_ :four::mute:[num~~b~~]:hammer:  
+__numb<sup>2</sup>__ _v_  
 __number<sup>1</sup>__ _n_ __6__ An indefinite quantity of units or individuals. _A number of people complained._ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __number<sup>2</sup>__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbers game__ _n_  
@@ -11413,40 +11414,47 @@ __nurse<sup>1</sup>__ _n_
 __nurse<sup>2</sup>__ _v tr_ :three::hammer:  
 __nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing._  
 __nursery rhyme__ _n_ A short, rhymed poem or tale for children.  
-__nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it’s a child’s room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child’s room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
+__nursery__ _n_ :three::astonished: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it’s a child’s room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child’s room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions. _Nursery with thousands of plant varieties available._  
 __nursing home__ _n_  
-__nurturance__ _n_ The providing of loving care and attention.  
-__nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
+__nurturance__ _n_ :two: /ˈnɜr tʃər əns/ The providing of loving care and attention.  
+__nurture__ _v_ :five::hammer: /NER-cher/ (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nut__ _n_ _slang_ A crazy or strange person.  
 __nutation__ _n_ :two: __1__ The act or an instance of nodding the head.  
 __nutmeg__ _n_ :two::hammer: :es: nuez moscada  
 __nutriment__ _n_ A source of nourishment; food. _Syn_ sustenance, victuals, aliment, nourishment, nutrition _The animals’ habitat was destroyed in the storm, and they wandered the ravaged plains searching for nutriment._  
+__nutrition label__ _n_  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
+__nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
+__Nymphean__ _adj_ _Nymphean theater._  
 __oaf__ _n_ :four: (oafs) __1__ A stupid person. _Syn_ boob __2__ A big clumsy slow-witted person. _Syn_ goon, lout  
 __oafish__ _adj_ :two::hammer:  
 __Oakley__ _n_ A complimentary ticket or pass. Also known as an Annie Oakley. After the sharpshooter Annie Oakley (1860-1926) who was renowned for her skill, from association of the punched ticket with one of her bullet-riddled targets.  
 __oar__ _n_ :three::hammer: (oars)  
 __oases__ _n_  
-__oat__ _n_  
+__oasis__ _n_ (_n pl_ oases)  
+__oat__ _n_ :two::hammer: _After much deliberation, the US Food and Drug Administration has ruled that oat and soy milk can be called milk._  
 __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
 __oatmeal__ _n_ :three::hammer:  
-__obdurate__ _adj_ Hardened against feeling; hardhearted. _Syn_ granitic, stony, flinty _The child’s misery would move even the most obdurate heart._  
+__obdurate__ _adj_ :two: /AHB-duh-rut/ Hardened against feeling; hardhearted. _Syn_ granitic, stony, flinty _The child’s misery would move even the most obdurate heart._  
+__obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
 __obelus__ _n_ /OB-uh-luhs/ __1__ A sign (- or ÷) used in ancient manuscripts to indicate a spurious or doubtful word or passage. __2__ A sign (†) used to indicate reference marks. Also known as obelisk or dagger.  
+__obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __obfuscate__ _v_ /AHB-fuh-skayt/ _When asked about the lawsuit alleging plagiarism, the singer obfuscated._  
 __obi__ _n_  
 __obit__ _n_ :three::hammer: _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
 __obituaries__  
 __obituary__  
+__objectee__  
 __objurgate__ _v_ Express strong disapproval of. _Syn_ condemn, decry, excoriate, reprobate _During the sentencing, the judge objurgated the crime in the strongest possible terms._  
 __oblast__ _n_ :four: An administrative subdivision, or region, of a republic in the U.S.S.R.  
 __oblate__ _n_  
 __oblation__ _n_  
 __obligation__  
-__oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I’ll be much obliged._  
-__obliterate__ _v_  
+__oblige__ _v_ :nine::m: /uh-BLYJE/ (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. To force or require someone to do something. _Syn_ compel _The law obliges the government to make this information public._ _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. To do a favor for someone. _Syn_ indulge, gratify _They needed help organizing the event, and I was happy to oblige._ _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I’ll be much obliged._ __4__ To do something as a favor, or as though it is a favor.  
+__obliterate__ _v_ :two::hammer: /uh-BLIT-uh-rayt/  
 __obliteration__ _n_  
 __oblivion__ _n_ :three: /uh-BLIV-ee-un/ Oblivion can refer to the state of something that is not remembered, used, or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.  
 __oblivious__ _adj_ :six::hammer: _He is very oblivious._  
@@ -11455,12 +11463,13 @@ __obnoxious__ _adj_ :four::hammer:
 __obnubilate__ _v_  
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
-__obsequious__ _adj_ :three::hammer:  
+__obsequious__ _adj_ :four: Characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating.  
 __obsidian__  
 __obstinate__  
-__obstreperous__ _adj_ :five: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
+__obstreperous__ _adj_ :six: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
 __obstreperousness__  
-__obtrude__ _v_ :two::hammer:  
+__obtrude<sup>1</sup>__ _v tr_ :four: /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc. To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
+__obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
 __obtrusive__ _adj_  
 __obtuse__ _adj_ /ahb-TOOSS/  
 __obtuseness__  
