@@ -1,3 +1,15 @@
+__belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
+__démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
+__deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
+__encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
+__encyclical<sup>2</sup>__ _adj_ For wide circulation.  
+__feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
+__forthright__ _adj_  
+__gerrymander__ _v_ /JAIR-ee-man-der/  
+__infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
+__jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
+__macedoine__ _n_  
+__mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
@@ -110,6 +122,7 @@ __pageantry__ _n_ :three::hammer:
 __painstakingly__  
 __palate__ _n_  
 __palingenesis__ _n_  
+__palpitation__ _n_ A trembling or shaking. _Syn_ shakiness, trembling, quiver, vibration _Cornelius put his hand on his heart, to repress as it were its violent palpitation._  
 __pamper__ _v tr_ :six:hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
 __pampering__ _n_  
 __pan out__ _v_  
@@ -494,6 +507,7 @@ __recoup__ _v_
 __rectify__ _v_ /REK-tuh-fye/  
 __recumbent__ _adj_  
 __recurse__ _v_ /ri-KUHRS/  
+__recuse__ _v_ /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
 __Red Cross__ _n_  
 __red panda__  
 __red rice__ _n_  
@@ -654,6 +668,7 @@ __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval o
 __sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
+__sanguine__ _adj_ /sang-gwin/  
 __sap__ _v_  
 __Saratoga__ _n_  
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
@@ -750,6 +765,7 @@ __seating__ _n_ :two::hammer: _Plenty of garden seating._
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __second__ _v tr_ _I second you._  
+__seder__ _n_ /SAY-der/  
 __sedge__ _n_ _Sedge meadows._  
 __seek__ _v_ _We seek to characterize the performance variations._  
 __seep__ _v_ (seeped)  
@@ -956,6 +972,7 @@ __spiffed__ _v_
 __spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __spike__ _v_  
 __spindle__ _n_  
+__spindrift__ _n_ Spray of water, snow, sand, etc., blown by the wind.  
 __spinner__ _n_  
 __spiral__ _v_ :two::hammer: _It spirals out of control._  
 __spire__ _n_ :four::hammer:  
@@ -1487,6 +1504,7 @@ __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table
 __valence__ _n_  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
+__vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
 __vamoose__ _v_ /vuh-MOOSS/ Vamoose is an informal word that means “to depart quickly.” _With the sheriff and his posse hot on their tails, the bank robbers knew they had better vamoose._  
 __vampire bat__ _n_  
 __van__ _n_  
