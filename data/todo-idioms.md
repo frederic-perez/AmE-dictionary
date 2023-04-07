@@ -1,3 +1,9 @@
+__bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
+__be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
+__bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
+__cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
+__cut to the chase__  
+__dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
 __get your act together__  
 __get your shit together__  
 __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
@@ -70,7 +76,7 @@ __high and dry__
 __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
 __hit home__  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
-__hit the ground running__  
+__hit the ground running__ :two::hammer:  
 __hold (one’s) breath__  
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
@@ -93,6 +99,7 @@ __hunky-dory__
 __hush money__  
 __I can imagine__ :three::hammer:  
 __I hear you__  
+__I know the feeling__  
 __I saw what you did there__  
 __icky__  
 __in (a) shambles__ :two::hammer:  
@@ -172,6 +179,7 @@ __left and right__
 __let alone__ :two::hammer:  
 __let down__  
 __lie ahead of (someone or something)__  
+__lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
 __lightbulb moment__  
 __like crazy__  
 __like death warmed up__ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”) _You look like death warmed up, I think you should see a doctor!_  
@@ -192,6 +200,7 @@ __low-hanging fruit__ The most easily achieved of a set of tasks or goals.
 __lump in (one’s) throat__  
 __make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make a case for (something)__  
+__make a dent in (something)__  
 __make great strides__  
 __make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
@@ -264,6 +273,7 @@ __on (one’s) own righ__
 __on (one’s) watch__  
 __on (someone’s or something’s) dime__  
 __on a different note__  
+__on a mission__ _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on demand__ _Requested on demand._  
 __on edge__  
@@ -273,6 +283,7 @@ __on one’s terms__
 __on short notice__  
 __on that note__  
 __on the contrary__ :two::hammer:  
+__on the fast track__ On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
 __on the fly__  
 __on the line__ _Everything was on the line._  
 __on the lookout__  
@@ -302,6 +313,7 @@ __peace of mind__ A tranquility that results from not having worries, guilt, or 
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __people pleaser__ (_less commonly_ people-pleaser)  
 __perfect storm__  
+__phish__ To attempt to steal personal information that can be used to defraud someone by pretending to be person or website that legitimately requires such information.  
 __piece of shit__  
 __piping hot__  
 __piss off__  
@@ -339,6 +351,7 @@ __put up a fight__
 __put up with__ :two::hammer:  
 __put up__  
 __quiet quitting__ :two::hammer: /kwahy-it kwit-ing/  
+__quite a lot__  
 __rabble-rouser__  
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
@@ -385,6 +398,7 @@ __run with it__
 __run with scissors__  
 __running bit__  
 __running joke__  
+__rush out__  
 __sack (someone)__ _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
 __sanctum sanctorum__  
 __save face__ :two::hammer:  
@@ -439,11 +453,13 @@ __so to speak__ A phrase used to indicate that what one has just said is an figu
 __soak__ _v_  
 __soft pedal__ _There is no soft pedaling._  
 __soon enough__ No later than needed, soon.  
+__souped up__ :dart: Modified to have increased power or performance. Sometimes hyphenated when used before a noun. _At this point, her car is so souped up that it could probably reach 200 miles per hour!_  
 __speaking of which__  
 __spell disaster__  
 __spice up__  
 __spill out (of something)__  
 __spot on__ (spot on)  
+__spring (something) on (one)__ To tell, present, or disclose something unexpected to one. _I’m springing a trip to Barcelona on my wife for her birthday._ _The boss sprang several huge changes to the project on us at the last minute._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
@@ -459,7 +475,7 @@ __stepping stone__
 __steppingstone__  
 __sticky fingers__  
 __stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
-__stir the pot__ To exacerbate a tense or otherwise difficult situation. _If you want a drama-free party, don’t invite Kaitlin—she loves to stir the pot._  
+__stir the pot__ :two: To exacerbate a tense or otherwise difficult situation. _If you want a drama-free party, don’t invite Kaitlin—she loves to stir the pot._  
 __stomach bug__ Something, such as a germ (colloquially a bug), that causes intestinal distress (particularly vomiting). Sometimes incorrectly used to refer to _food poisoning_.  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __story arc__  
@@ -625,7 +641,7 @@ __trigger__ :five: __1__ _n_ Something that causes one psychological distress, t
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true to form__  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
-__turn (something) on its head__  
+__turn (something) on its head__ :two::hammer:  
 __turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
 __turn something around__  
 __turn tables__  
@@ -643,6 +659,7 @@ __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used 
 __unpack__ :four: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
 __unsung hero__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
+__until next time__  
 __up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up-and-coming__ _Up-and-coming writers and artists._  
