@@ -1,14 +1,30 @@
+__aioli__ _n_  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
+__disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
+__doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
+__doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
+__dovetail__ _v_  
+__echo chamber__  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
+__exchequer__ _n_ /ɪksˈtʃɛkə/  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
+__flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __forthright__ _adj_  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
+__hector__ _v_ _TikTok keeps hectoring us._  
+__herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
+__hubris__ _n_  
+__humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
+__life raft__ _n_  
+__liminal__ _adj_  
 __macedoine__ _n_  
+__mess around__  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
@@ -305,6 +321,7 @@ __polecats__ _n_
 __police academy__  
 __policiymaker__ _n_ :two::hammer: (policy maker)  
 __policyholder__  
+__policymaking__ _adj, n_  
 __Pompeii__ _n_  
 __pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
 __ponderosa pine__  
@@ -395,6 +412,7 @@ __prompt<sup>2</sup>__ _v tr_
 __prompt<sup>3</sup>__ _n_  
 __proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
+__proptosis__ _n_  
 __prosopopoeia__ _n_ (prosopopeia) __1__ Personification, as of inanimate things. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
 __Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
 __protonation__ _n_  
@@ -588,6 +606,7 @@ __ribeye__ _n_ :two: /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s
 __rickshaw__  
 __ridicule__ _v_  
 __riff__ _v_  
+__right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
 __riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._  
@@ -696,6 +715,7 @@ __sawhorse__ _n_ A frame with legs, used to support pieces of wood being sawed. 
 __scab__ _n_ :es: costra  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scalp__ _n_ __3__ A trophy or token signifying conquest.  
+__scamp__ _n_  
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
 __scapegoat__ _n_  
@@ -887,7 +907,7 @@ __sleek__ _adj_ :two::hammer: _A sleek shopping center._
 __sleepover__ _n_  
 __sleuth__ _n_ :three::hammer:  
 __slice__ _n_ :two::hammer: _A free plain slice of cheesecake._ _A taste of a very diverse slice of East of England life._  
-__slick__ _adj_ :three::hammer: _A natural water slide eroded into slick rock._ _Slick dance arrangements._  
+__slick__ _adj_ :four::hammer: _A natural water slide eroded into slick rock._ __5__ _slang_ Excellent; wonderful. _Slick dance arrangements._  
 __slide deck__ _n_ :dart: A collection of slides used as visual aids during a presentation.  
 __slider__ _n_ _Enjoy Asian inspired sliders, salads amd more._  
 __slither__ _v_ _I have started slithering out of bed to deal with anxiety in the morning._  
@@ -1020,6 +1040,8 @@ __standpoint__ _n_ _From a technical standpoint._
 __standstill__ _n_  
 __stanza__ _n_ __1__ A fixed number of verse lines arranged in a definite metrical pattern, forming a unit of a poem. __2__ A period (such as a half or an inning) into which the duration of a game is divided.  
 __star anise__ _n_ :es: anís estrellado  
+__star-spangled__ _adj_ :dart: __1__ Spangled with stars. __2__ _informal_ Made up of or attended by celebrities, distinguished or illustrious persons, etc. _Like a rhinestone cowboy, rding out on a horse in a star-spangled rodeo._ _A star-spangled reception._  
+__star-studded__ _adj_ __2__ Exhibiting or characterized by the presence of many preeminent performers: _a star-studded Hollywood party._  
 __starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
 __stardom__ _n_  
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
@@ -1501,6 +1523,7 @@ __vacuous__
 __vacuum__ _n_ __4__ A vacuum cleaner.  
 __vagus nerve__ _n_ :m:  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
+__valediction__ _n_  
 __valence__ _n_  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
@@ -1518,7 +1541,7 @@ __veal__ _n_ :two::hammer:
 __vehicular__ _adj_ :two::hammer_ _Vehicular networks.  
 __veiling__ _n_ Sheer material, such as gauze or fine lace, used for veils. _Syn_ netting, gauze _The seamstress attached a lace trim to the veiling, so that it would match the bride’s dress._  
 __vein__ _n_ :two::hammer: (not vessel)  
-__veneer__ _n_ _Porcelain veneers._  
+__veneer__ _n_ :two::hammer: _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
 __venison__ _n_  
 __vent__ _v_  
@@ -1593,6 +1616,7 @@ __wellbeing__ _n_
 __wellrounded__  
 __welter__ _n_ A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._  
 __wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
+__wet market__ _n_ A market that sells perishable items (such as fresh meat and produce) and sometimes live animals which are often slaughtered on-site. _This scientist now believes covid started in Wuhan’s wet market._  
 __wet suit__ _n_  
 __wetback__  
 __wetsuit__ _n_  
