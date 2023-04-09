@@ -1,9 +1,15 @@
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
+__brace (oneself) for (something)__  
 __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
+__churn out__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut to the chase__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
+__fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
+__fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
+__fear of missing out__  
+__get (someone or something) on track__ To cause or help someone or something to begin or resume progressing or developing as planned, scheduled, or expected. _The project’s development cycle started spinning out of control, so upper management brought in a consultant to get us on track._  
 __get your act together__  
 __get your shit together__  
 __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
@@ -64,7 +70,7 @@ __head-on__ (head on) _Confront it head-on._
 __head-spinning__ :two: Incredible, overwhelming.  
 __heads up__ _Thanks for giving me the heads up._  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
-__heart and soul__  
+__heart and soul__ :two::hammer:  
 __heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
 __heat up__ __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
 __heaven forbid__  
@@ -77,6 +83,7 @@ __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or appa
 __hit home__  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hit the ground running__ :two::hammer:  
+__hold (down) the fort__  
 __hold (one’s) breath__  
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
@@ -141,6 +148,7 @@ __jack someone up__ _It jacks me up._
 __jacked chad__  
 __jailbreak__  
 __jam-packed__ :two::hammer: (jampacked)  
+__jarring experience__ An experience that creates an acute sense of shock, confusion, or bewilderment. _That car accident was such a jarring experience, I don’t know if I’ll be able to sleep for days._  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
 __jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __Jekyll and Hyde__  
@@ -300,7 +308,7 @@ __out of harm’s way__
 __out of sight, out of mind__  
 __out with the old, in with the new__  
 __ouy (of) the (starting) gate__  
-__owing to__  
+__owing to__ :dart::two: Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._ _Cancer plans are essential owing to the complexity of care._  
 __panic attack__  
 __part ways (with one)__  
 __party crasher__ One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
@@ -404,6 +412,7 @@ __sanctum sanctorum__
 __save face__ :two::hammer:  
 __save the day__ :three::hammer:  
 __schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism, especially in art, music, or writing. Originally from Yiddish. _The film is pretty schmaltzy, to be sure, but it would take a heart of stone not to be moved by it all the same._  
+__scramble for (something)__  
 __scratch the surface__  
 __second guess__  
 __second-class citizen__  
@@ -476,6 +485,7 @@ __steppingstone__
 __sticky fingers__  
 __stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
 __stir the pot__ :two: To exacerbate a tense or otherwise difficult situation. _If you want a drama-free party, don’t invite Kaitlin—she loves to stir the pot._  
+__stir up__ __3__ To rouse, incite, or provoke something. In this usage, a noun or pronoun can be used between “stir” and “up.” _Quit stirring up trouble!_ _The mayor has been stirring up controversy again with another inflammatory remark._  
 __stomach bug__ Something, such as a germ (colloquially a bug), that causes intestinal distress (particularly vomiting). Sometimes incorrectly used to refer to _food poisoning_.  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __story arc__  
@@ -635,6 +645,7 @@ __tough love__ :two::hammer:
 __tour de force__ :three::hammer:  
 __trace back__  
 __train wreck__  
+__tread carefully__ :dart: To delicately handle or approach a situation in order not to upset or worsen the current circumstances, which may be precarious. _Tread carefully when you ask Mom whether she’s going to the party. She’s been acting weird about it._ _There are good reasons why Google should be tread carefully._  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
