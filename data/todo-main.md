@@ -1,14 +1,21 @@
+__abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
 __aioli__ _n_  
+__auspicious__ _adj_ /aw-SPISH-us/  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
+__betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
+__bowdlerize__  
+__circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
+__Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
 __echo chamber__  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
+__equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
@@ -24,6 +31,8 @@ __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England 
 __life raft__ _n_  
 __liminal__ _adj_  
 __macedoine__ _n_  
+__Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
+__maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __mess around__  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
@@ -183,6 +192,7 @@ __partridge__ _n_
 __party favor__ _n_ Souvenir consisting of a small gift given to a guest at a party.  
 __partygoer__ _n_  
 __passive-aggressive__ _adj_  
+__Passover__  
 __pasta__  
 __pastime__ _n_ :two::hammer:  
 __pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
@@ -253,6 +263,7 @@ __pewter__ _n_ :three::hammer:
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __pharmacophores__ _n_  
 __phenom__  
+__philippic__ _n_ A verbal denunciation characterized by harsh, often insulting language; a tirade. _Syn_ tirade, broadside _Ferrars looked exceedingly angry, and drawing herself up more stiffly than ever, pronounced in retort a bitter philippic._  
 __philistine__ _n_ A smug, ignorant, especially middle-class person who is regarded as being indifferent or antagonistic to artistic and cultural values. _Syn_ anti-intellectual _He may have an advanced degree in mathematics, but the man is a total philistine when it comes to the arts._  
 __Philly__ _n_ _The small-time Philly boxer Rocky Balboa._  
 __phonotaxis__ _n_ _Cricket phonotaxis._  
@@ -785,7 +796,7 @@ __seating__ _n_ :two::hammer: _Plenty of garden seating._
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __second__ _v tr_ _I second you._  
-__seder__ _n_ /SAY-der/  
+__seder__ _n_ :two::hammer: /SAY-der/  
 __sedge__ _n_ _Sedge meadows._  
 __seek__ _v_ _We seek to characterize the performance variations._  
 __seep__ _v_ (seeped)  
