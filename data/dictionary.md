@@ -15101,8 +15101,10 @@ __skyjack__ _v_ To hijack (an aircraft).
 __skylark<sup>1</sup>__ _n_ :es: alondra  
 __skylark<sup>2</sup>__ _v_ :two: To frolic; sport.  
 __skylight__  
-__skyrocket__ _v_ :three::hammer:  
+__skyrocket__ _v_ :four::hammer:  
 __skyscraper__ _n_  
+__skyview__ _n_ _Skyview banquet facility._  
+__skywalk__ _n_  
 __skywriting__  
 __slab__ _n_ :two::hammer: (slabs) _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
@@ -15113,7 +15115,7 @@ __slacker__ _n_ :four: One who shirks work or duty, especially one who tries to 
 __slackline__ _n_ :two::hammer:  
 __slag__  
 __slain__ _n_  
-__slake__ _v_ :four: (slaked) To make someone happy by giving them what they want or need. To satisfy (a craving); quench. _Syn_ allay, assuage _My first act on coming to this water was, of course, to slake my thirst._  
+__slake__ _v_ :five: (slaked) To make someone happy by giving them what they want or need. To satisfy (a craving); quench. _Syn_ allay, assuage _My first act on coming to this water was, of course, to slake my thirst._  
 __slam dunk__ _n_ :dart::three: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :eight: (slandering) To utter or circulate slander (about). _Syn_ traduce :es: difamar  
@@ -15134,7 +15136,7 @@ __slate__ _n_ __6__ _(Film)_ __a__ The reference information written on a clappe
 __slather__ _v_ :three::hammer: _To slather on hand lotion._  
 __slathered__ _v_  
 __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._  
-__slatted__ _v_ :two::hammer: _Slatted sunlight._  
+__slatted__ _adj_ :three::hammer: _A slatted building perched atop a wharf._ _Slatted sunlight._  
 __slatternly__  
 __slaughter<sup>1</sup>__ _n_ :mute:[slau~~gh~~ter]  
 __slaughter<sup>2</sup>__ _v tr_ :two::hammer::mute:[slau~~gh~~ter]  
@@ -15144,16 +15146,16 @@ __slay__ _v_ ;two::hammer: (slain) JFK was slain.
 __slayer__ _n_ :two: Someone who causes the death of a person or animal.  
 __sleazebag__  
 __sleaziest__  
-__sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
+__sleazy__ _adj_ :nine::m: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _Syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
-__sleek__ _adj_ :two::hammer:  
+__sleek__ _adj_ :four::hammer: _A sleek shopping center._  
 __sleeky__ _adj_  
 __sleep deprivation__  
 __sleep in__ _v_ :two::hammer:  
 __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleeper__ _n_ __2__ _Railways_ A railway sleeping car or compartment.  
-__sleepover__ _n_ :three::hammer:  
+__sleepover__ _n_ :four::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
 __sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
@@ -15161,20 +15163,20 @@ __sleety__
 __sleeveless__ _adj_ :astonished::mega: /ˈslivlɪs, SLEEV-luhs/lis/ __1__ Unprofitable; futile; unreasonable; irrelevant. What does a sleeve have to do with profit? In former times, a lady would give her detachable sleeve to a knight as a symbol of love and he would wear it as he went around in his adventures. A knight without a sleeve was, well, sleeveless. _A sleeveless errand._ __2__ Without sleeves.  
 __sleight__ _n_ :dart: Adroitness in using the hands. _Syn_ dexterity _Only through his unequaled sleight can the juggler manage to keep eight chainsaws safely aloft._  
 __slender__  
-__sleuth<sup>1</sup>__ _n informal_ :four::mega: A detective. _Sassy (TV) sleuth._  
+__sleuth<sup>1</sup>__ _n informal_ :seven::mega: A detective. _Sassy (TV) sleuth._  
 __sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._ _REJECTED is a state of mind, and it brings on a slew of awful feelings._  
-__slice__ _n_ :two::hammer: _A big slice of the pie._  
+__slice__ _n_ :four::hammer: _A big slice of the pie._ _A free plain slice of cheesecake._ _A taste of a very diverse slice of East of England life._  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
-__slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _Slick magazines._ _A slick paper magazine._  
+__slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _A natural water slide eroded into slick rock._ _The alligators were slick with mud._ _A slick paper magazine._ __5__ _slang_ Excellent; wonderful. _It was a slick scam._ _Slick dance arrangements._  
 __slicker__  
 __slickness__  
+__slide deck__ _n_ :dart: A collection of slides used as visual aids during a presentation.  
 __slide rule__ _n_  
 __slide<sup>1</sup>__ _n_ :three::hammer: _A slide in the euro from yesterday’s highs._ _An evacuation slide was activated during a flight Wednesday._ :es: tobogán  
 __slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
-__slider__ _n_ :four::hammer: _What’s up with someone’s slider?_  
-__sliders__ _n_ (food)  
+__slider__ _n_ :six::hammer: _Enjoy Asian inspired sliders, salads amd more._ _What’s up with someone’s slider?_  
 __sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or wages vary in accordance with another factor, as wages with the cost-of-living index or medical charges with a patient’s income.  
 __slight<sup>1</sup>__ _adj_  
 __slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don’t slight your work._  
@@ -15205,30 +15207,32 @@ __slipshod__ _adj_ :dart::two: __1__ Carelessly done or arranged: _slipshod rese
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
-__slither__ _v_ :four::hammer: _Slithering in mud._  
-__slithering__ _adj_ :two::hammer:  
+__slither__ _v_ :five::hammer: _Slithering in mud._ _I have started slithering out of bed to deal with anxiety in the morning._  
+__slithering__ _adj_ :three::hammer:  
+__sliver__ _n_  
 __sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :five::hammer:  
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
 __slog<sup>1</sup>__ _v_ :nine::m: (slogged, slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
-__slog<sup>2</sup>__ _n_ :five: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
+__slog<sup>2</sup>__ _n_ :six: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ _The trail is a thrilling slog up the Virgin River._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slogan__ _n_  
 __slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __slop<sup>2</sup>__ _v_ (slopped)  
 __sloppy joe__ _n informal_ :two: (sloppy joe sandwich) A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
-__sloppy__ _adj_ :four::hammer: _We were a little sloppy in the second half of the game._  
+__sloppy__ _adj_ :five::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloshed__ _adj_  
-__sloth__ _n_ :five: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
+__slot machine__ _n_  
+__sloth__ _n_ :six: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ :four::hammer: (slouching)  
 __slouchy__  
 __slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
-__slough<sup>1</sup>__ _n_ :four::mega::hammer:  
+__slough<sup>1</sup>__ _n_ :five::mega::hammer:  
 __slough<sup>2</sup>__ _v_ :six: /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._ _Henry sloughs off questions about his odometer._  
 __sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
 __slovenly__ _adj_ :three: Very messy.  

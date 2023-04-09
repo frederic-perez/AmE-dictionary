@@ -897,27 +897,6 @@ __skewer__ _n_ _Skewers of meats, vegetables, and fruits._
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skit__ _n_ :two::hammer: _Skit theater._  
 __sky diving__  
-__skyrocket__ _v_  
-__skyview__ _n_ _Skyview banquet facility._  
-__skywalk__ _n_  
-__slake__ _v_  
-__slatted__ _adj_ _A slatted building perched atop a wharf._  
-__sleazy__ _adj_  
-__sleek__ _adj_ :two::hammer: _A sleek shopping center._  
-__sleepover__ _n_  
-__sleuth__ _n_ :three::hammer:  
-__slice__ _n_ :two::hammer: _A free plain slice of cheesecake._ _A taste of a very diverse slice of East of England life._  
-__slick__ _adj_ :four::hammer: _A natural water slide eroded into slick rock._ __5__ _slang_ Excellent; wonderful. _Slick dance arrangements._  
-__slide deck__ _n_ :dart: A collection of slides used as visual aids during a presentation.  
-__slider__ _n_ _Enjoy Asian inspired sliders, salads amd more._  
-__slither__ _v_ _I have started slithering out of bed to deal with anxiety in the morning._  
-__slithering__ _adj_  
-__sliver__ _n_  
-__slog__ _n_ _The trail is a thrilling slog up the Virgin River._  
-__sloppy__  
-__slot machine__ _n_  
-__sloth__ _n_  
-__slough__ _n_  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v tr_  
 __sluice__ _n_ _Mining sluice._  
