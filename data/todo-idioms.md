@@ -5,7 +5,14 @@ __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something ill
 __churn out__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut to the chase__  
+__derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
+__desperate times call for desperate measures__ _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
+__do the right thing__ To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
+__Doctors make the worst patients__ _proverb_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task. _Mary tried to convince her boss at the bank to see a credit advisor about his growing debt, but he kept insisting that he knew how to manage his money. Doctors make the worst patients._  
+__dodge a bullet__ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful. _I really dodged the bullet when my exam was postponed to next week, as I hadn’t studied for it at all!_  
+__don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
+__don’t get (one) started__  
 __fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __fear of missing out__  
@@ -37,6 +44,7 @@ __go the distance__ :dart::four: To persist with some activity or goal until its
 __go to great lengths (to do something)__  
 __go toe by toe__  
 __go vacant__ _Her eyes went vacant again._  
+__God is in the detail(s)__ _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
 __gold rush__ _VCs scramble to cash in on AI gold rush._  
 __golden boy__  
 __golden goose__  
@@ -120,6 +128,7 @@ __in and of itself__ By itself, without considering any other factors. _Yes, in 
 __in any way, shape, or form__  
 __in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
+__in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
@@ -354,10 +363,12 @@ __put (something) on the back burner__
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put out fires__  
+__put the pedal to the metal__  
 __put to the test__ :two::hammer:  
 __put up a fight__  
 __put up with__ :two::hammer:  
 __put up__  
+__quiet firing__ An informal term for the practice in which employers make workplace conditions worse for employees with the intent of driving some of them to quit. The term implies that this is done secretly or at least subtly enough to make it appear unintentional.  
 __quiet quitting__ :two::hammer: /kwahy-it kwit-ing/  
 __quite a lot__  
 __rabble-rouser__  
@@ -572,6 +583,7 @@ __the big picture__
 __the bigger picture__  
 __the bigger they come, the harder they fall__ _proverb_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
+__the devil is in the detail(s)__ _proverb_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the end of the world__ An extremely bad situation or event. Almost always used hyperbolically and ironically. _Well, whoever is elected, it won’t be the end of the world; each candidate is as good or bad as the other in my book._  
@@ -754,6 +766,7 @@ __work in concert__ To work together or in cooperation. _The two of us will need
 __work like a charm__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work wonders__  
+__worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
 __wrap my head around something__  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __yada yada yada__  
