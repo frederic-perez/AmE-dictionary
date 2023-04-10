@@ -1,10 +1,14 @@
+__age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
+__be on the fence (about something)__  
 __be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
+__boy oh boy__  
 __brace (oneself) for (something)__  
 __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
 __churn out__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut to the chase__  
+__defuse (something)__  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
 __desperate times call for desperate measures__ _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
@@ -13,9 +17,11 @@ __Doctors make the worst patients__ _proverb_ It is difficult to give people hel
 __dodge a bullet__ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful. _I really dodged the bullet when my exam was postponed to next week, as I hadn’t studied for it at all!_  
 __don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
 __don’t get (one) started__  
+__every so often__  
 __fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __fear of missing out__  
+__for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __get (someone or something) on track__ To cause or help someone or something to begin or resume progressing or developing as planned, scheduled, or expected. _The project’s development cycle started spinning out of control, so upper management brought in a consultant to get us on track._  
 __get your act together__  
 __get your shit together__  
@@ -191,6 +197,7 @@ __lay off__
 __lead domino__ :two::hammer:  
 __lean on (someone or something)__  
 __leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
+__learn (something) the hard way__  
 __learn the ropes__  
 __left and right__  
 __let alone__ :two::hammer:  
@@ -257,7 +264,7 @@ __needless to say__ Obviously; the following is completely self-evident. _Helen 
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __night and day__  
-__nip (something) in the bud__  
+__nip (something) in the bud__ :two: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __no big deal__  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
@@ -323,6 +330,7 @@ __part ways (with one)__
 __party crasher__ One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
 __party pooper__  
 __pass along__  
+__pass with flying colors__  
 __pave the way__  
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
@@ -510,6 +518,7 @@ __struck a nerve__
 __stuff (one’s) face__ _slang_ To eat a lot of food, especially quickly and in a short period of time. _Sorry, I’m not hungry for dinner—I really stuffed my face at the luncheon earlier._  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
 __suck up to (one)__ :dart: To seek the approval, attention, or support of others, especially superiors, through abject subservience, flattery, or fawning. _I’m not doing well at all in math this year, so it seems like sucking up to the teacher is my only hope for a good grade!_  
+__suffice (it) to say__  
 __sugar baby__ A young female or male who is financially pampered/cared for by a sugar daddy or sugar mama in exchange for companionship (i.e. sexual favors).  
 __sugar daddy__  
 __sugar mommy__  
@@ -531,7 +540,7 @@ __take (one’s) pick__ To choose from among several options. Often used as an i
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__ _Nvidia stock price has doubled since generative AI took the world by storm last fall._  
+__take (someone, something, or some place) by storm__ :two::hammer: _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
 __take (something) to the bank__  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
@@ -663,6 +672,7 @@ __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._
 __trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true to form__  
+__tug of war__ A struggle for supremacy.  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn (something) on its head__ :two::hammer:  
 __turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
@@ -674,6 +684,7 @@ __two a penny__ Very common, ordinary, or widespread. _At first, they were quite
 __twofer__  
 __U-turn__  
 __uncanny valley__  
+__uncharted territory__  
 __under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s thumb__  
 __under the yolk__  
@@ -691,12 +702,14 @@ __value judgment__
 __vamp up__  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
 __very much so__ Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
+__wait-and-see__ Hesitant, skeptical, or circumspect, as of a mindset, outlook, or tactic. _With all due respect, the situation is too dire for this kind of wait-and-see approach._  
 __wak-eup call__  
 __wake up on the wrong side of (the) bed__ To be in a particularly and persistently irritable, unhappy, or grouchy mood or state, especially when it is not in line with one’s normal disposition. _I’m sorry I snapped at you earlier, I think I just woke up on the wrong side of the bed today._  
 __wake-up call__ __1__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. __2__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._  
 __walk a fine line between (something)__  
 __walk someone through something__ To lead someone through a complex problem or thought process. _Mary walked Jane through the complex solution to the calculus problem. Do I have to walk you through this solution?_  
 __walk someone through__  
+__walk the line__ :dart: To remain neutral rather than committing to a particular position, view, or thing. _When my kids fight, I try to walk the line rather than siding with one of them._  
 __wallflower__ Someone who remains on the outer edges of a social event, especially a dance or party, and does not participate due to being shy or unpopular. _I used to be a real wallflower when I was in high school. It wasn’t until I got to college that I finally started having a bit more confidence and began enjoying myself at parties._  
 __wallow in something__ _Do not wallow in failure._  
 __wash something down__ _Wash it down with a glass of milk._  
