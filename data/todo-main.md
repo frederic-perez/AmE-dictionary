@@ -998,26 +998,6 @@ __sporadic__ _adj_ /spuh-RAD-ik/
 __sportscaster__  
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
-__sprinkle__ _v_  
-__sprite__ _n_ _Mischievous sprites._  
-__spruce__  
-__spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
-__spurious__ _adj_ Lacking authenticity or validity in essence or origin; not genuine. _Syn_ specious, unauthentic _The professor explained to the student that her essay had received a “C” due to numerous examples of spurious reasoning._  
-__squab__  
-__squabble__ _v_  
-__square dancing__ _n_ American country dancing in which couples form squares.  
-__squats__ _n_  
-__squeaky__ _adj_ _Squeaky cheese curds._  
-__squeamish__ _adj_  
-__stable__ _n_ _With three restaurants in his stable, this man is easy to spot._  
-__staddle__ _n_ /ˈstædəl/ __1__ A support or prop, esp a low flat-topped stone structure for supporting hay or corn stacks about two feet above ground level. _Staddle stones are mushroom-shaped stones on which granaries are rested. This helps keep the grain dry and stops rodents from climbing in._ __2__ A supporting frame for such a stack __3__ The lower part of a hay or corn stack.  
-__stadium__ _n_ _A football stadium._  
-__staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
-__stage play__  
-__stage show__  
-__stagecoach__ _n_ :two::hammer:  
-__staggering__ _adj_ _Staggering costs._  
-__stagnant__ _adj_  
 __stakeholder__ _n_ :two::hammer:  
 __stale__ _adj_  
 __stalk__ _n_  
