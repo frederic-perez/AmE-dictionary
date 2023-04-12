@@ -497,22 +497,6 @@ __stare down the barrel of a/(one’s) gun__ To have a gun pointed at oneself. (
 __start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __steamroll through__  
-__steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
-__step up__ :two::hammer:  
-__stepping stone__  
-__steppingstone__  
-__sticky fingers__  
-__stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
-__stir the pot__ :two: To exacerbate a tense or otherwise difficult situation. _If you want a drama-free party, don’t invite Kaitlin—she loves to stir the pot._  
-__stir up__ __3__ To rouse, incite, or provoke something. In this usage, a noun or pronoun can be used between “stir” and “up.” _Quit stirring up trouble!_ _The mayor has been stirring up controversy again with another inflammatory remark._  
-__stomach bug__ Something, such as a germ (colloquially a bug), that causes intestinal distress (particularly vomiting). Sometimes incorrectly used to refer to _food poisoning_.  
-__storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
-__story arc__  
-__stow away__  
-__straight shooter__  
-__stressed out__ Experiencing a lot of mental, emotional, or physical strain or tension. _Now, don’t get stressed out, but the boss has some things he wants you to change in the project._  
-__strike a chord__  
-__strike off__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __struck a nerve__  
 __stuff (one’s) face__ _slang_ To eat a lot of food, especially quickly and in a short period of time. _Sorry, I’m not hungry for dinner—I really stuffed my face at the luncheon earlier._  

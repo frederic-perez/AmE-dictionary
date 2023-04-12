@@ -2895,16 +2895,29 @@ __stay put__ :six: To not move or leave; to remain in same location or position.
 __stay strong__  
 __staying power__ _This exercise has staying power._  
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
+__steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step back__  
 __step in__  
-__stir up__  
+__step up__ :two::hammer:  
+__stepping stone__  
+__steppingstone__  
+__sticky fingers__  
+__stinker__ __1__ A term of endearment for a playfully mischievous child. _You tricked me, you little stinker! That was a good joke!_ __2__ _slang_ An odious, contemptible, or despicable person. _How a stinker like him got elected to congress is beyond me._ __3__ _slang_ Something of an especially inferior quality. _The first movie was an overlooked classic, but its sequels were all stinkers._  
+__stir the pot__ :two: To exacerbate a tense or otherwise difficult situation. _If you want a drama-free party, don’t invite Kaitlin—she loves to stir the pot._  
+__stir up__ :two: __3__ To rouse, incite, or provoke something. In this usage, a noun or pronoun can be used between “stir” and “up.” _Quit stirring up trouble!_ _The mayor has been stirring up controversy again with another inflammatory remark._  
+__stomach bug__ Something, such as a germ (colloquially a bug), that causes intestinal distress (particularly vomiting). Sometimes incorrectly used to refer to _food poisoning_.  
 __stone cold__ :two: Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
+__storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
+__story arc__  
+__stow away__  
+__straight shooter__  
 __strangely enough__ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __strap on the (old) feedbag__ _slang_ To begin eating; to have a meal. _I can’t wait to get to Grandma’s and strap on the old feedbag. She always cooks the tastiest food!_  
 __street smart__  
-__stressed out__ Experiencing a lot of mental, emotional, or physical strain or tension. _Now, don’t get stressed out, but the boss has some things he wants you to change in the project._  
+__stressed out__ :two: Experiencing a lot of mental, emotional, or physical strain or tension. _Now, don’t get stressed out, but the boss has some things he wants you to change in the project._  
 __strike a (raw) nerve__  
-__strike a chord__ :two: Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
+__strike a chord__ :three: Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
+__strike off__  
 __stuff your face__ To eat a lot of food quickly.  
 __suffice (it) to say__ :two::hammer:  
 __sugarcoat (something)__ To say, explain, or present something in a manner that is easier to accept, understand, cope with, or endure. _Don’t sugarcoat it for me, Doc—is my wife going to make it?_  
