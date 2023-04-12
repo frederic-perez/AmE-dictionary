@@ -16180,24 +16180,26 @@ __stuff__ _v_
 __stuffer__  
 __stuffing__  
 __stuffy nose__ _n_ The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection). _Side effects are stuffy or runny nose, and sore throat._  
-__stuffy__ _adj_ :three::hammer:  
+__stuffy__ _adj_ :five::hammer: _A stuffy routine meeting._  
+__stultify__ _v_ /STUL-tuh-fye/ To cause someone or something to become dull or ineffective. _With a government as stultified by bureaucracy as that one, even the simplest records request can take weeks._  
 __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can’t answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That’s a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you’re stumping, stomping, and stamping around, you’re making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
 __stun<sup>1</sup>__ _v_ (stunned)  
 __stun<sup>2</sup>__ _n_ _Stun zone._  
 __stunned__ _adj_ :six: When you’re stunned, you’re thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you’d be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
-__stunning__ _adj_ :five::hammer:  
+__stunning__ _adj_ :eight::hammer:  
 __stunt<sup>1</sup>__ _n_ :five::hammer: (stunts) _Singers emphasize stunts over music._  
 __stunt<sup>2</sup>__ _v_ :seven:hammer: (stunted, stunting) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._ _Acidic oceans are stunting growth of coral reefs._  
 __stunted__ _adj_ Inferior in size or quality.  
 __stupas__  
 __stupefy__  
 __stupendous__ _adj_ _A stupendous twelve-hour sermon._  
-__sturdy__ _adj_ :four::hammer:  
-__sturgeon__  
+__sturdy__ _adj_ :five::hammer:  
+__sturgeon__ _n_ :three::hammer: :es: esturión  
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
+__stylesetter__  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
@@ -16209,7 +16211,10 @@ __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ 
 __subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ _n_ _US_ A small car that is smaller than a compact car.  
-__subdue__ _v_ :eight: (subdued) __1__ To subjugate (a region or people, for example) by military force. __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._ __3__ To bring (land) under cultivation: _Farmers subdued the arid lands of Australia._  
+__subcontinent__ _n_  
+__subdermal__ _adj_  
+__subdue__ _v_ :eight: __1__ To subjugate (a region or people, for example) by military force. __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._ __3__ To bring (land) under cultivation: _Farmers subdued the arid lands of Australia._  
+__subdued__ _adj_ _The subdued dining room._  
 __subfreezing__ _adj_ Below the freezing point. _Subfreezing temperature._  
 __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
@@ -16217,7 +16222,7 @@ __sublet__ _v_ :three::hammer: (subletting) :es: subarrendar
 __sublimate__ _v_  
 __submachine gun__  
 __suborn__ _v_ :three::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
-__subpar__  
+__subpar__ _adj_ :two::hammer:  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :six::mega: (subpoenaed) Put the screws to someone.  
 __subsea__ _n_  
@@ -16227,26 +16232,30 @@ __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._
 __subsidence__ _n_  
 __subsidiary__  
 __subsidy__  
+__subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
+__substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __substation__  
-__subsumed__ _v_ :two::hammer:  
+__subsume__ _v tr_ :three::hammer:  
 __subterfuge__ _n_ :four: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
 __subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
+__subtraction__ _n_ :pencil2:  
 __suburbanites__ _n_  
+__suburbia__ _n_  
 __suburbs__  
 __succinct__ _adj_ :five::pencil2::mega::hammer: _My advice is to get your posts succinct._  
 __succinctly__ _adv_ :pencil2:  
-__succint__  
+__succint__ _adj_ :three::hammer:  
 __succor__ _n_ :three::hammer:  
-__succotash__ _n_ :two: (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
+__succotash__ _n_ :three: /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
 __succubus__ _n_ :three::hammer:  
+__succulent__ _n_ A succulent plant, such as a sedum or cactus.  
 __succumb__ _v_ :six::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
 __sucker__ _n_ :five::hammer: (of a plant) _He is a sucker for anything cute._  
 __sucker-punch__ _v_ _slang_ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
-__suckle__ _v_  
-__suckled__ _v_ :two::hammer:  
+__suckle__ _v_ :four::hammer:  
 __sucklings__ _n_  
 __sudden cardiac arrest__  
 __sudden__  

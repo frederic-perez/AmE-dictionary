@@ -1098,26 +1098,6 @@ __strobing__ _n_ (Computer science) The technique required to time-synchronize d
 __stroganoff__  
 __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
-__stuffy__ _adj_ :two::hammer: _A stuffy routine meeting._  
-__stultify__ _v_ /STUL-tuh-fye/ To cause someone or something to become dull or ineffective. _With a government as stultified by bureaucracy as that one, even the simplest records request can take weeks._  
-__stunning__ _adj_ :three::hammer:  
-__sturdy__ _adj_  
-__sturgeon__ _n_ :two::hammer: :es: esturión  
-__stylesetter__  
-__stymied__ _v_  
-__subcontinent__ _n_  
-__subdermal__ _adj_  
-__subdued__ _adj_ _The subdued dining room._  
-__subpar__  
-__subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
-__substantive__ _adj_ :mega: /SUB-stun-tiv/  
-__subsume__ _v tr_  
-__subtraction__ _n_ :pencil2:  
-__suburbia__ _n_  
-__succint__ _adj_ :two::hammer:  
-__succotash__ _n_ /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
-__succulent__ _n_ A succulent plant, such as a sedum or cactus.  
-__suckle__ _v_  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
 __suffocate__ _v_  
 __sugar beet__ _n_  
