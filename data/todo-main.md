@@ -1,10 +1,15 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
 __aioli__ _n_  
+__anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
+__anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
+__apothegm__ _n_ A terse, witty, instructive saying.  
 __auspicious__ _adj_ /aw-SPISH-us/  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
+__bloaviate__ _v intr_  
 __bowdlerize__  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
+__clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
@@ -19,9 +24,11 @@ __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings.
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
+__foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __forthright__ _adj_  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __hector__ _v_ _TikTok keeps hectoring us._  
+__helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __hubris__ _n_  
@@ -31,6 +38,7 @@ __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England 
 __life raft__ _n_  
 __liminal__ _adj_  
 __macedoine__ _n_  
+__MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __mess around__  
@@ -80,6 +88,7 @@ __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving 
 __operating system__  
 __optic flow__ _n_  
 __opulent__ _adj_  
+__oracular__ _adj_ /aw-RAK-yuh-ler/  
 __orchestrate__ _v_  
 __orchestration__ _n_  
 __orderliness__ _n_  
@@ -438,6 +447,7 @@ __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anythi
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
+__pseudopseudohypoparathyroidism__  
 __psyched__ _v_  
 __psychic reading__ _n_  
 __public speaking__ _n_  
@@ -730,6 +740,7 @@ __scamp__ _n_
 __scant__ _adj_ :two::hammer:  
 __scape__ _n_ _Moon and Mars scapes._  
 __scapegoat__ _n_  
+__scapegrace__ _n_ A scoundrel. _Syn_ rascal _Both Kuragin and Dolokhov were at that time notorious among the rakes and scapegraces of Petersburg._  
 __scapula__ _n_  
 __scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
 __scar__ _v_  
@@ -826,7 +837,7 @@ __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
-__sesquipedalianism__ _n_ /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
+__sesquipedalianism__ _n_ :two: /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
 __setback__ _n_  
 __severance pay__ _n_ A sum of money usually based on length of employment for which an employee is eligible upon termination.  
 __shallot__ _n_ :two::hammer:  
@@ -1120,7 +1131,7 @@ __sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
-__supercalifragilisticexpialidocious__ _adj_ Used as a nonsense word by children to express approval or to represent the longest word in English.  
+__supercalifragilisticexpialidocious__ _adj_ :two: Used as a nonsense word by children to express approval or to represent the longest word in English.  
 __supercilious__  
 __superintendent__  
 __superlative__ _adj_ _Superlative works._  
@@ -1484,7 +1495,7 @@ __van__ _n_
 __vantage point__  
 __vapid__ _adj_ :two: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
-__varsity__ _n_  
+__varsity__ _n_ :two: The principal team representing a university, college, or school in sports, games, or other competitions. _Syn_ first team _She was determined to make the varsity basketball team and practiced her game all summer._  
 __vast__ _adj_ :two::hammer: _The vast array of resources._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veal__ _n_ :two::hammer:  
@@ -1508,6 +1519,7 @@ __verve__
 __vexing__ _adj_ _A vexing problem._  
 __viands__ _n_  
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
+__vicinity__ _n_ /vuh-SIN-uh-tee/  
 __vicissitudes__ _n pl_  
 __victory lap__ _n_  
 __vie__ _v_  
