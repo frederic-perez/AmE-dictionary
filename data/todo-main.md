@@ -448,26 +448,6 @@ __prudery__ _n_
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
-__psyched__ _v_  
-__psychic reading__ _n_  
-__public speaking__ _n_  
-__pulmonarias__ _n_  
-__pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
-__punch list__ _n_  
-__punch__ _n_ :es: ponche  
-__punctilious__ _adj_ :dart: /pʌŋkˈtɪlɪəs/  
-__pundit__  
-__punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
-__punt<sup>1</sup>__ _n_ __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole.  
-__punt<sup>2</sup>__ _v_ _Punting on the river._  
-__punting__ _n_  
-__pupil__ _n_ /ˈpjuːpəl/  
-__purebred__  
-__puree__ _n_ :mega:  
-__purist__  
-__purport__ _v_ :two::hammer:  
-__purulent__ _adj_  
-__purveyor__  
 __pushback__ _n_  
 __pustule__ _n_ :two::hammer:  
 __putsch__ _n_ A sudden attempt by a group to overthrow a government. _Syn_ coup, coup d’etat, takeover  

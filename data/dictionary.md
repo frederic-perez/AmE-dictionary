@@ -13100,7 +13100,9 @@ __pseudo__ _adj_ :two::mute:[~~p~~seudo] /ˈsu doʊ/ Made-up; false, pretended, 
 __pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
 __psych__ _v_  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
+__psyched__ _v_  
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
+__psychic reading__ _n_  
 __psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
 __psychic<sup>2</sup>__ _adj_ :mute:[~~p~~sychic]  
 __psychobabble__ _n_ /SY-ko-bab-uhl/ Language laden with jargon from psychotherapy or psychiatry, used without concern for accuracy.  
@@ -13113,6 +13115,7 @@ __pubes__ _n_
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
 __public housing__  
+__public speaking__ _n_  
 __publican__ _n_ :three::hammer:  
 __pucker__ _v_ :six: (puckered) (especially with reference to a person’s face) Tightly gather or contract into wrinkles or small folds. _The child’s face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida _A flat, mouth-puckering taste._  
 __pud__ _n_ :five::hammer:  
@@ -13145,6 +13148,7 @@ __pulley__ _n_ :pencil2::mega:
 __pullout<sup>1</sup>__ _n_  
 __pullout<sup>2</sup>__ _adj_ _Pullout couches._  
 __pullulate__ _v intr_ :two: __1__ To germinate; sprout. __2__ To breed or increase rapidly. __3__ To swarm; teem.  
+__pulmonaria__ _n_  
 __pulmonary embolism__ _n_ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulp__ _n_ _The pulps were running out of steam._  
 __pulpit__ _n_ :three::hammer:  
@@ -13153,30 +13157,33 @@ __pulse__ _n_ _A basket of pulse._
 __pummel__ _v_ :six::hammer: (pummeled)  
 __pump<sup>1</sup>__ _n_ :three: __5__ _informal_ The place where consumers purchase gasoline. Used with the: _gas prices rising at the pump._ _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
+__pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
 __pumpkin spice__ _n_  
 __pun<sup>1</sup>__ _n_ :five: A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other. :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
+__punch list__ _n_  
 __punch out__ _v_ :two::hammer: (eject a flying pilot)  
-__punch<sup>1</sup>__ _n_ A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base.  
+__punch<sup>1</sup>__ _n_ :two: A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base. :es: ponche  
 __punch<sup>2</sup>__ _v_ :three::hammer: _I’m going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _n_ _The firm was a regular punching bag._  
 __punchline__ _n_ :pencil2:  
-__punctilious__ _adj_ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
+__punctilious__ _adj_ :dart::two: /pʌŋkˈtɪlɪəs/ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
 __punctuate__  
 __puncture__ _n_ :two::hammer: _Transeptal puncture._  
 __punctured__ _v_ _Punctured his tire._  
-__pundit__ _n_ :three::hammer:  
+__pundit__ _n_ :four::hammer:  
 __punditocracy__ _n_ A group of powerful and influential political commentators.  
 __pungent__ _adj_ :two::hammer:  
 __pungi__  
+__punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
 __punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
-__punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
+__punt<sup>1</sup>__ _n_ :three: __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole. __2__ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v tr_ To propel (a ball) by means of a punt.  
-__punt<sup>3</sup>__ _v intr_ :two: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
+four__punt<sup>3</sup>__ _v intr_ :three: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
 __punters__ _n_ :two::hammer: _I have laced a few punters._  
-__punting__ _v_  
+__punting__ _n_ _football_ A kick in which the football is dropped from the hands and kicked before it touches the ground. _Syn_ punt  
 __puny__ _adj_ _A puny garden snail._  
-__pupil__ _n_  
+__pupil__ _n_ :two::hammer: /ˈpjuːpəl/  
 __pupillary__ _adj_ _Pupillary distance._  
 __puppet government__ _n_ A government that is appointed by and whose affairs are directed by an outside authority that may impose hardships on those governed.  
 __puppy love__ _n_ _slang_ Adolescent love or infatuation. Immature love between young people or children.  
@@ -13184,22 +13191,26 @@ __puppy play__
 __puppy__  
 __pups__ _n_  
 __purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, venal, dishonest  
+__purebred__  
 __purée__  
-__puree__ _v_ :three::hammer:  
+__puree<sup>1</sup>__ _n_ :mega:  
+__puree<sup>2</sup>__ _v tr_ :three::hammer:  
 __purge__ _v_ :two::hammer:  
-__purloin__ _v_ :eight: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
+__purist__  
+__purloin__ _v_ :nine: To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _n_ _A hint of purple._  
-__purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
+__purport__ _v_ :nine::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
 __purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
 __purr<sup>1</sup>__ _n_ __1__ The soft vibrant sound made by a cat. __2__ A sound similar to that made by a cat: the purr of an engine.  
 __purr<sup>2</sup>__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
 __purse__ _v_ _His lips pursed._  
 __purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
 __purslane__ _n_ :four::hammer:  
+__purulent__ _adj_  
 __purveyance__ _n_  
-__purveyor__ _n_ :seven::hammer: _Purveyors of unhelpfully vapid self help._  
+__purveyor__ _n_ :eight::hammer: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ /pʌs/ :pencil2::three: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
