@@ -198,26 +198,6 @@ __parterre__ _n_ _A rose parterre._
 __partial__ _adj_ _Partial kitchen._  
 __particulate matter__ _n_ Material suspended in the air in the form of minute solid particles or liquid droplets, especially when considered as an atmospheric pollutant.  
 __partridge__ _n_  
-__party favor__ _n_ Souvenir consisting of a small gift given to a guest at a party.  
-__partygoer__ _n_  
-__passive-aggressive__ _adj_  
-__Passover__  
-__pasta__  
-__pastime__ _n_ :two::hammer:  
-__pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
-__patina__ _n_ /puh-TEE-nuh/  
-__patron__ _n_ :eight: __1__ A person, esp a man, who sponsors or aids artists, charities, etc; protector or benefactor. __2__ A customer of a shop, hotel, etc, esp a regular one. _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
-__patronize__ _v_  
-__patsy__ _n_ /PAT-see/ One who is easily taken advantage of, by being deceived, unfairly blamed, or ridiculed.  
-__patty__ _n_ _Two beef patties topped with knockwurst._  
-__pavers__ _n_  
-__pavilion__ _n_ :two::hammer:  
-__payload__ _n_  
-__payout__ _n_  
-__paysleys__ _n_  
-__paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
-__peat__ _n_ _Peat bed._  
-__peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
 __peck__ _v_ _I feel like I’m pecked to death by ducks._  
 __peculiar__ _adj_ :three: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
 __pedal boat__ _n_  

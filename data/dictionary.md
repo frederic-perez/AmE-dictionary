@@ -12047,10 +12047,12 @@ __partisan__ _n_ :four::hammer: (partisans) _A partisan atmosphere._
 __partner__ _n_  
 __partridge__ _n_ :two::hammer:  
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
+__party favor__ _n_ Souvenir consisting of a small gift given to a guest at a party.  
 __party line__ _n_  
 __party poppers__  
 __party__ _n_  
 __partyer__ _n_ :two::pencil2: (_or less commonly_ partier) A person who enjoys hosting or going to parties.  
+__partygoer__ _n_  
 __parvenu__ _n_ :three: (parvenus) A person who has suddenly risen to a higher social and economic class and has not yet gained social acceptance by others in that class.  
 __Pascal’s wager__ _n_ An argument according to which belief in God is rational whether or not God exists, since falsely believing that God exists leads to no harm whereas correctly believing that God exists may lead to an eternal reward.  
 __paschal__ _adj_ /ˈpæskəl/ __1__ _Judaism_ Of or relating to Passover. __2__ _Ecclesiastical Terms_ Of or relating to Easter.  
@@ -12062,9 +12064,11 @@ __passel__ _n_ :two: /PASS-ul/ A large number or amount of something. _A passel 
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __passionate__ _adj_  
-__Passover__  
+__passive-aggressive__ _adj_  
+__Passover__ _n_ :two::hammer:  
+__pasta__  
 __pastiche__ _n_ :three::hammer:  
-__pastime__ _n_ :five::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
+__pastime__ _n_ :seven::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
 __pastoral__ _adj_ :two: Idyllically rustic. _Syn_ arcadian, bucolic _Last I heard he bought a cottage on farmland and now leads a perfectly pastoral existence._ _A pastoral letter._  
 __pastry__ _n_ (pastries) _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
@@ -12084,33 +12088,34 @@ __pathogenic__
 __pathogens__ _n_  
 __pathography__ _n_  
 __pathologist__ _n_  
-__pathos__ _n_ :six::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ _n_ :eight: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._ _Ms. Merkel is known to be allergic to pathos and big words._  
 __patient discharge__ _n_ The formal ending of inpatient care.  
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
+__patina__ _n_ /puh-TEE-nuh/  
 __patinated__ _v_  
 __patio__ _n_  
 __patois__ _n_  
 __patrician__ _adj_ _A patrician class._  
 __patrolman__ _n_ A policeman who patrols a given region. _Syn_ flatfoot  
 __patron saint__ _n_ A saint regarded as the special guardian of a person, group, trade, country, etc. _Santa Claus is associated with Saint Nicholas, who is the patron saint of children._  
-__patron__ _n_ :six::hammer: _China, North Korea’s patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
+__patron__ _n_ :nine::m: __1__ A person, esp a man, who sponsors or aids artists, charities, etc; protector or benefactor. _China, North Korea’s patron._ _He became a patron of the greatest contemporary chronicler._ __2__ A customer of a shop, hotel, etc, esp a regular one. _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._ _Patrons who eat before 6 p.m._  
 __patronage__  
-__patronize__ _v_ :three::hammer:  
+__patronize__ _v_ :four::hammer:  
 __patronizing__ _adj_ :two::hammer:  
 __patronymic__  
-__patsy__ _adj_  
+__patsy__ _n_ :two: /PAT-see/ One who is easily taken advantage of, by being deceived, unfairly blamed, or ridiculed.  
 __patter__  
 __pattern__ _v_ :three::hammer:  
 __patterned__ _adj_ _A patterned background._  
 __patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
+__patty__ _n_ :four::hammer: (patties) _Two beef patties topped with knockwurst._ _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __patty-cake__ _n_ _They can play patty-cake._  
 __paucity__ _n_ :eight: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” _Syn_ dearth _People in LA don’t understand how New Yorkers can live with such a paucity of space._ _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
 __Paulistano__  
 __paunch__ _n_  
 __paunchy__ _adj_  
-__pavilion__ _n_  
-__pavilions__  
+__pavers__ _n_  
+__pavilion__ _n_ :four::hammer:  
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __pawn__ _v_ _She pawned her jewelry._  
@@ -12120,9 +12125,11 @@ __pay off__ _v_
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__ _n_ :two::hammer:  
 __paycheck__ _n_ :pencil2: _Syn_ payroll check  
-__payload__ _n_ :three::hammer:  
+__payload__ _n_ :four::hammer:  
 __payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payoff._  
-__paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
+__payout__ _n_  
+__paysleys__ _n_  
+__paywall__ _n_ :five: /PAY-wal/ (paywalls) A system of restricting access to online content or services, making them accessible only upon payment. A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
 __peach<sup>1</sup>__ _n_  
 __peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
@@ -12138,7 +12145,8 @@ __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M
 __pear martinis__  
 __pearl onion__ _n_ :two::hammer:  
 __peasant__ _n_  
-__peat__ _n_ :four::hammer: _Battling the blazes in peat swamp forests._ _The huts were filled with peat smoke._ :es: turba  
+__peat__ _n_ :five::hammer: _Battling the blazes in peat swamp forests._ _The huts were filled with peat smoke._ _Peat bed._ :es: turba  
+__peavey__ _n_ A stout lever with a sharp spike; used for handling logs. _Syn_ cant dog _The lumberjack rammed the peavey’s spike into the log and rolled it toward the pile._  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ :three: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault. A petty misdeed. _Syn_ indiscretion _I have stayed with my husband for the sake of our children, but I can tolerate his frequent peccadilloes no longer._  
 __peccant__  
@@ -13179,7 +13187,7 @@ __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wro
 __punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
 __punt<sup>1</sup>__ _n_ :three: __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole. __2__ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v tr_ To propel (a ball) by means of a punt.  
-four__punt<sup>3</sup>__ _v intr_ :three: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
+__punt<sup>3</sup>__ _v intr_ :three: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
 __punters__ _n_ :two::hammer: _I have laced a few punters._  
 __punting__ _n_ _football_ A kick in which the football is dropped from the hands and kicked before it touches the ground. _Syn_ punt  
 __puny__ _adj_ _A puny garden snail._  
