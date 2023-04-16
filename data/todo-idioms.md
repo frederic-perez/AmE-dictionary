@@ -498,21 +498,6 @@ __start the ball rolling__ (set the ball rolling) To set something, often a proc
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __steamroll through__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
-__struck a nerve__  
-__stuff (one’s) face__ _slang_ To eat a lot of food, especially quickly and in a short period of time. _Sorry, I’m not hungry for dinner—I really stuffed my face at the luncheon earlier._  
-__stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
-__suck up to (one)__ :dart: To seek the approval, attention, or support of others, especially superiors, through abject subservience, flattery, or fawning. _I’m not doing well at all in math this year, so it seems like sucking up to the teacher is my only hope for a good grade!_  
-__suffice (it) to say__  
-__sugar baby__ A young female or male who is financially pampered/cared for by a sugar daddy or sugar mama in exchange for companionship (i.e. sexual favors).  
-__sugar daddy__  
-__sugar mommy__  
-__sum up__ _Summing up, we can say that yadda yadda yadda._  
-__Sunday scaries__  
-__sure as hell__ :two: (See _(as) sure as hell_.)  
-__surprise, surprise__  
-__survival mode__  
-__sweep (one) off (one’s) feet__  
-__sweet spot__ :four: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
 __swept away__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
