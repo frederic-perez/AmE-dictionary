@@ -8,8 +8,11 @@ __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Oliv
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __bloaviate__ _v intr_  
 __bowdlerize__  
+__cachinnate__ _v intr_  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
+__contraption__ _n_ /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
+__declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
@@ -20,6 +23,7 @@ __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with 
 __echo chamber__  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
+__entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
@@ -27,6 +31,7 @@ __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatiou
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __forthright__ _adj_  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
+__hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
@@ -35,6 +40,8 @@ __hubris__ _n_
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
+__juvenilize__  
+__lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __life raft__ _n_  
 __liminal__ _adj_  
 __macedoine__ _n_  
@@ -148,6 +155,7 @@ __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
 __pachyderm__  
 __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
+__pacify__ _v_ :mega: /PASS-uh-fye/ The verb pacify has several related definitions. Among the most common are “to soothe the anger or agitation of” (as in “pacify a crying child”) and “to appease” (“trying to pacify the enemy”).  
 __package__ _n_ :mega:  
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  
@@ -514,6 +522,7 @@ __red snapper__ _n_
 __redeem__ _v_  
 __redeemer__ _n_  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
+__redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
 __reef__ _n_  
 __reenactment__ _n_  
 __refectory__ _n_ :two::hammer:  
@@ -719,6 +728,7 @@ __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept pe
 __schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schnitzel__ _n_ :es: escalope  
 __school__ _n_ _Flocks, herds, and schools._  
+__schoolman__ _n_ A scholar who is skilled in academic disputation. _Syn_ academician  
 __schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._  
 __schuss__ _v_  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
@@ -969,6 +979,7 @@ __sporadic__ _adj_ /spuh-RAD-ik/
 __sportscaster__  
 __sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
+__squib__ _n_  
 __stakeholder__ _n_ :two::hammer:  
 __stale__ _adj_  
 __stalk__ _n_  
@@ -1251,6 +1262,7 @@ __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or requ
 __timeshare__  
 __tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
 __titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
+__titter__  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
 __toady__ _v_  
@@ -1503,7 +1515,7 @@ __voucher__ _n_ _A lunch voucher._
 __wade__ _v_ :two::hammer:  
 __waffle__  
 __wager__ _v_ :two::hammer:  
-__waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
+__waggish__ _adj_ :dart::two: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
 __wainscoting__ _n_  
 __wakeboarding__  
 __wakeless__ _adj_ (Of sleep) Deep or unbroken. _Syn_ profound, sound, heavy _He fell into a deep, wakeless sleep._  
