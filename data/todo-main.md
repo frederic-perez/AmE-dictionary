@@ -6,11 +6,16 @@ __apothegm__ _n_ A terse, witty, instructive saying.
 __auspicious__ _adj_ /aw-SPISH-us/  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
+__blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __bowdlerize__  
 __cachinnate__ _v intr_  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
+__commendable__ _adj_  
+__commissure__ _n_  
+__comradery__ _n_  
+__confabulate__ _v intr_  
 __contraption__ _n_ /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
 __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
@@ -25,6 +30,7 @@ __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
+__eradicate__ _v tr_  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
@@ -50,6 +56,7 @@ __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day tha
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __mess around__  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
+__morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
@@ -78,6 +85,7 @@ __omnibus__ _n_
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off__ _adj_ :three::hammer: _One-off handcrafted pieces._  
+__one-stop__ _adj_ Having or providing a range of related services or goods in one place: _a one-stop shop._  
 __onerous__ _adj_ :two::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onset__ _n_ :mega:  
@@ -740,7 +748,7 @@ __scorn__ _n_
 __Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
-__scramble__ _v_  
+__scramble__ _v intr_ :two: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._  
 __scrap<sup>1</sup>__ _n_  
 __scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
@@ -1008,6 +1016,7 @@ __stationery__ _n_
 __statuary<sup>1</sup>__ _n_ :two::hammer: :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __stature__ _n_ _A golf facility of world class stature._  
+__stave__ _n_  
 __staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
 __staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
 __steadfast__ _adj_ :two::hammer:  
@@ -1144,6 +1153,7 @@ __tableside__ _n_ _Topless tableside dancing._
 __tabletop__ _adj, n_  
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
 __tactile__ _adj_ /TAK-tul/  
+__tad__  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  
@@ -1249,6 +1259,7 @@ __tickling__ _n_ :dart: The act of touching, stroking, or poking a person, part 
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __tidbits__  
 __tight__ _adj_ _Are you on a tight schedule?_  
+__tightrope__ _n_  
 __tikkamassala__ _n_  
 __til__ _conj, prep_  
 __till__ _v_ (tilled)  
@@ -1441,7 +1452,7 @@ __upshot__ _n_
 __upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
 __upskilling__ _n_ :dart: Teaching or learning additional skills.  
 __uptake__ _n_ _Other applications have had limited uptake._  
-__uptick__ _n_  
+__uptick__ _n_ :two::hammer:  
 __uptime__ _n_  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __urbane__ _adj_ _Urbane customer._  

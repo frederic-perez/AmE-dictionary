@@ -26,6 +26,7 @@ __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
 __CBT__  
+__CCP__ Chinese Communist Party, the ruling political party of China.  
 __CDC__ :three: Center for Disease Control. _A CDC van._  
 __CE__ :two: __1__ Common Era. Of the period coinciding with the Christian era; preferred by some writers who are not Christians; “in 200 CE.” _A Jewish revolt against Rome ended in defeat in 135 C.E._ __2__ Christian era. __3__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __CFL__ _Compact fluorescent lamp._  
@@ -77,6 +78,7 @@ __HDL-C__ High-density-lipoprotein cholesterol.
 __HIV__  
 __HMS__ Her (or His) Majesty’s Ship.  
 __HSIA__ High speed Internet access.  
+__HTN__ Hypertension.  
 __HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __ICU__ Intensive care unit.  
@@ -220,3 +222,4 @@ __WSO__ Weapon systems officer.
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
 __YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
+__YOY__ Year over year.  
