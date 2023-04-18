@@ -1,42 +1,71 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
+__acolyte__ _n_ :two::hammer:  
+__ad nauseam__ _adv_ :two::hammer:  
 __aioli__ _n_  
+__alienate__  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
 __apothegm__ _n_ A terse, witty, instructive saying.  
+__arraignment__ _n_  
+__asterisk__ _n_ :mega:  
 __auspicious__ _adj_ /aw-SPISH-us/  
+__backhanded__ _adj_  
+__bargain__ _n_  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
+__biff__ _n_  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
+__boolean__ _n_ :mega:  
 __bowdlerize__  
+__breadwinner__ _n_ :pencil2:  
 __cachinnate__ _v intr_  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
+__coalesce__ _v_  
+__colon__ _n_ :mega:  
 __commendable__ _adj_  
 __commissure__ _n_  
-__comradery__ _n_  
+__comradery__ _n_ :two::hammer:  
 __confabulate__ _v intr_  
+__console__ _n_ :mega:  
 __contraption__ _n_ /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
+__cringe__ _v_  
+__cue__ _v_  
+__curmudgeon__  
+__curt__  
 __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
+__default__ _v_  
+__deflect__ _v_  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
+__derelict__ _n_  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
+__downtime__ _n_  
+__dysgraphia__ _n_  
+__earplug__ _n_ :pencil2:  
 __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
 __echo chamber__  
+__effect__ _v_  
+__eleven__ _n_ :mega:  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __eradicate__ _v tr_  
+__erupt__ _v_  
+__etch__ _v_  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
+__family member__ _n_  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __forthright__ _adj_  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
+__giraffe__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
@@ -44,19 +73,26 @@ __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a ne
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
+__impending__  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
+__infighting__ _n_  
+__integer__ _n_ :mega:  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __juvenilize__  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
+__level up__  
 __life raft__ _n_  
 __liminal__ _adj_  
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
+__Mad Libs__ _n_  
+__matter-of-fact__ _adj_  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __mess around__  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__nitpick__ _v_  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
@@ -141,6 +177,7 @@ __outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodg
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outrun__ _v_  
 __outshine__ _v_  
+__outsmart__  
 __outsourcing__  
 __outwear__ _n_  
 __overall__ _adj, adv_  
@@ -195,6 +232,7 @@ __paradoxical__ _adj_ :two::hammer:
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
 __paralysis__ _n_ :mega: /pəˈræl ə sɪs/  
+__parameter__ _n_ :mega:  
 __paramount__ _adj_ _It is of paramount importance._  
 __paraphernalia__  
 __paratransit__ _adj_ _Paratransit services._  
@@ -264,6 +302,7 @@ __petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointment
 __petticoat__  
 __pettifog__ _v_  
 __pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
+__petty__ _adj_ _They are petty._  
 __pewter__ _n_ :three::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __pharmacophores__ _n_  
@@ -466,6 +505,7 @@ __querulous__ _adj_ /ˈkwɛr ə ləs, ˈkwɛr yə-/
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
 __quilling__ _n_ /kwĭl′ĭng/ The art or craft of making decorative designs out of thin strips of rolled paper.  
+__quinquennial__  
 __quintessential__ _adj_ :three::hammer:  
 __quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
 __rabble__ _n_ /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._  
@@ -529,8 +569,10 @@ __red rice__ _n_
 __red snapper__ _n_  
 __redeem__ _v_  
 __redeemer__ _n_  
+__redemption__ _n_  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
+__redress__  
 __reef__ _n_  
 __reenactment__ _n_  
 __refectory__ _n_ :two::hammer:  
@@ -748,7 +790,7 @@ __scorn__ _n_
 __Scots__ _adj, n_ :pencil2: _Scots accent._  
 __scoundrel__ _adj_ _Those scoundrel disks._  
 __scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
-__scramble__ _v intr_ :two: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._  
+__scramble__ _v intr_ :four: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._  
 __scrap<sup>1</sup>__ _n_  
 __scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
@@ -765,7 +807,7 @@ __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witte
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
 __scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
-__scrutiny__ _n_ :two::hammer:  
+__scrutiny__ _n_ :three::hammer:  
 __scumbag__  
 __scunner<sup>1</sup>__ _v intr_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
 __scunner<sup>2</sup>__ _n_ __1__ Dislike or disgust. __2__ A rascal; nuisance.  
@@ -801,6 +843,7 @@ __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._
 __self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
 __self-serving__ _adj_  
 __send-off__  
+__sendoff__  
 __sensei__ _n_ :mega:  
 __sensibility__ _n_ /sen-suh-BIL-uh-tee/  
 __sepulchre__ _n_ /SEP-ul-ker/ Sepulchre is an old-fashioned word for a tomb or other place of burial.  
@@ -924,6 +967,7 @@ __snooze__ _v intr_
 __snowcat__ _n_ :two::hammer:  
 __snowcoach__ _n_ :two::hammer:  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
+__snowglobe__ _n_  
 __snowkit__ _v_  
 __snowmobile__ _n_  
 __snowshoe__ _n_ :three::hammer: (snowshoeing)  
@@ -1031,6 +1075,7 @@ __steeped__ _v_ :two::hammer: _This region is steeped in history._
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
+__step up__  
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
@@ -1151,6 +1196,7 @@ __tabbouleh__ _n_
 __table__ _v_ :two: Hold back to a later time. _Let’s table that idea._  
 __tableside__ _n_ _Topless tableside dancing._  
 __tabletop__ _adj, n_  
+__tack__ _v_ _Tack the note on the board._  
 __tackle__ _n_ :two::hammer: _Bait and tackle available._  
 __tactile__ _adj_ /TAK-tul/  
 __tad__  
@@ -1331,6 +1377,7 @@ __treed__ _adj_
 __treetops__ _n_  
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
+__tremendously__ _adv_ :two::hammer:  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
 __trepidation__ _n_ :two: A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
 __trestle__ _n_ :two::hammer: _Railway trestles._  
@@ -1365,6 +1412,7 @@ __tuck__ _v_ (tucked)
 __tuff rock__  
 __tuition__ _n_  
 __tune-up__ _n_ _Overnight tune-ups and repairs._  
+__tuple__ _n_ :mega:  
 __turducken__ _n_  
 __turmeric__ _n_ :two::hammer:  
 __turnabout__ _n_  
@@ -1381,6 +1429,7 @@ __tweak__ _v_ _Tweak your workout routine._
 __tween__ _n_ A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener._  
 __twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
 __twist__ _n_ :three::hammer: _An innovative twist._  
+__twitch__ _v_  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
 __uber__ _adj_ :two::hammer:  
@@ -1477,6 +1526,7 @@ __vampire bat__ _n_
 __van__ _n_  
 __vantage point__  
 __vapid__ _adj_ :two: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
+__variable__ _n_ :mega:  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_ :two: The principal team representing a university, college, or school in sports, games, or other competitions. _Syn_ first team _She was determined to make the varsity basketball team and practiced her game all summer._  
 __vast__ _adj_ :two::hammer: _The vast array of resources._  
@@ -1584,6 +1634,7 @@ __whitewater__ _n_ :four::hammer: _Whitewater rafting._
 __whizz__ _v_  
 __whodunnit__ _n informal_  
 __whole food__ _n_  
+__whole number__  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
 __wholly__ _adv_  
