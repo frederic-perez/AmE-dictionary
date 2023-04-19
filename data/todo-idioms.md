@@ -1,6 +1,7 @@
 __a front-row seat__  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __all of a sudden__  
+__anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __as of late__  
 __at the expense of (someone or something)__  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
@@ -13,14 +14,17 @@ __brace (oneself) for (something)__
 __bring the house down__  
 __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
 __call someone out__  
+__cash in__  
 __catch__ _Here is the catch._  
 __cheesy__  
+__chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
 __churn out__  
 __closed-minded__ :dart:  
 __coast along__  
+__crack down__ _France is cracking down on shady influencers._  
 __crystal clear__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
-__cut to the chase__  
+__cut to the chase__ :two::hammer:  
 __day in and day out__  
 __defuse (something)__  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
@@ -31,6 +35,7 @@ __Doctors make the worst patients__ _proverb_ It is difficult to give people hel
 __dodge a bullet__ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful. _I really dodged the bullet when my exam was postponed to next week, as I hadn’t studied for it at all!_  
 __don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
 __don’t get (one) started__  
+__don’t let the door hit you on the way out__ Leave here quickly and directly; don’t linger on your way out the door. Used sarcastically to express one’s desire to see someone leave. _I couldn’t be happier that you’re leaving the firm, you were a nuisance here anyway. Don’t let the door hit you on the way out!_  
 __down the road__  
 __educated guess__  
 __end game__  
@@ -38,9 +43,11 @@ __every so often__
 __fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __fear of missing out__  
+__fiddle with (something)__ To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __for the sake of__  
 __full of (oneself)__  
+__full stop__  
 __get (one’s) teeth into (something)__  
 __get (someone or something) on track__ To cause or help someone or something to begin or resume progressing or developing as planned, scheduled, or expected. _The project’s development cycle started spinning out of control, so upper management brought in a consultant to get us on track._  
 __get ahead of (oneself)__  
@@ -118,6 +125,7 @@ __hidden in plain sight__
 __higgledy-piggledy__  
 __high and dry__  
 __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
+__hit a wall__  
 __hit home__  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hit the ground running__ :two::hammer:  
@@ -195,6 +203,7 @@ __jazz up__ To make something fancier, more festive, more exciting, etc., often 
 __Jekyll and Hyde__  
 __joy-joy feelings__  
 __jump off__  
+__jump on (someone or something)__ _Amazon is jumping on the generative AI hype train._  
 __jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
 __jump-start__  
 __junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
@@ -227,7 +236,7 @@ __learn (something) the hard way__
 __learn the ropes__  
 __left and right__  
 __let alone__ :two::hammer:  
-__let down__  
+__letdown__ :two: Something that is disappointing, usually because it did not meet one’s high expectations about it. _Not getting tickets to the game after my aunt promised them to us is a real letdown._  
 __lie ahead of (someone or something)__  
 __lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
 __lightbulb moment__  
@@ -264,6 +273,7 @@ __mean the world to (one)__ :dart:
 __meant to be__  
 __measure up__  
 __menty b__ A cutesy shortening of the much more serious phrase mental breakdown.  
+__mess around__  
 __mess with (someone or something)__  
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
 __mike drop__  
@@ -291,7 +301,7 @@ __needless to say__ Obviously; the following is completely self-evident. _Helen 
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __night and day__  
-__nip (something) in the bud__ :two: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
+__nip (something) in the bud__ :three: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __no big deal__  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
@@ -331,8 +341,10 @@ __on edge__
 __on leave__  
 __on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
 __on one’s terms__  
+__on pins and needles__ _I’ve been waiting on pins and needles for this moment, because I have something extraordinary to share with you!_  
 __on short notice__  
 __on that note__  
+__on the cards__ Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._  
 __on the contrary__ :two::hammer:  
 __on the defensive__  
 __on the fast track__ On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
@@ -347,11 +359,13 @@ __on the spur of the moment__
 __on the verge of__ :two::hammer:  
 __on the whole__  
 __once and for all__ :three: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
+__one for the books__ (one for the book)  
 __otherworldly__  
 __out of harm’s way__  
 __out of sight, out of mind__  
 __out of whack__ :dart::two: _My hormones are out of whack._  
 __out with the old, in with the new__  
+__out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later. _As long as people have to pay out of pocket to see a physician, many people will not get the necessary care._  
 __ouy (of) the (starting) gate__  
 __owing to__ :dart::two: Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._ _Cancer plans are essential owing to the complexity of care._  
 __panic attack__  
@@ -360,7 +374,7 @@ __party crasher__ One who attends a party without having been invited. _I don’
 __party pooper__  
 __pass along__  
 __pass with flying colors__  
-__pave the way__  
+__pave the way__ :two::hammer:  
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
 __peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
@@ -370,6 +384,7 @@ __perfect storm__
 __phish__ To attempt to steal personal information that can be used to defraud someone by pretending to be person or website that legitimately requires such information.  
 __pick someone up__  
 __piece of shit__  
+__pill__ __1__ _slang_ An unsavory, unpleasant, or difficult person. _Tom is such a pill, but I have to work with him to get this project finished, unfortunately._  
 __piping hot__  
 __piss off__  
 __pizzazz__  
@@ -532,6 +547,7 @@ __stand up for__
 __stare down the barrel of a/(one’s) gun__ To have a gun pointed at oneself. (The “barrel” of a gun is the tube-shaped part from which the projectile is fired.) _The robber shoved me to the floor, and when I looked up, I was staring down the barrel of his gun._  
 __start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
+__stay woke__  
 __steamroll through__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __sweet tooth__  
