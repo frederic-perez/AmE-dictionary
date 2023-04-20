@@ -12972,6 +12972,7 @@ __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ needi
 __privies__ _n pl_ :two: __1a__ An outdoor toilet; an outhouse. __b__ A toilet.  
 __privy<sup>1</sup>__ _adj_ __1__ (foll by: to) Participating in the knowledge of something secret. _Few people are privy to this information._  
 __privy<sup>2</sup>__ _n_ :five::hammer:  
+__prix fixe__ _n_ :seven::hammer: _Prix fixe dinner._ _Prix-fixe specials._ _A la carte or elegant prix fixe dining._  
 __prix__ _n_ Prize. _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ _n_  
 __prize<sup>2</sup>__ _adj_ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
@@ -12982,39 +12983,44 @@ __pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate’s president pro tem._  
 __pro<sup>1</sup>__ _n_ __1__ An argument or consideration in favor of something: _weighing the pros and cons._ _The pro column, not the con column._ __2__ One who supports a proposal or takes the affirmative side in a debate.  
 __pro<sup>2</sup>__ _adj_ __1__ Affirmative; supporting: _a pro vote._ __2__ Professional: _pro football._  
+__probate__ _adj_ _Probate records._  
 __probation__ _n_ _A person has ben sentenced to probation._  
 __probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proboscis__ _n_  
 __proceedings__ _n_ _The bishops held the proceedings against Wyclif in abeyance._  
-__proceeds__ _n_ :eight: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proceeds__ _n_ :nine: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ _Proceeds of refreshments to the British Red Cross._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
 __procrastinate__ _v_ /pruh-KRASS-tuh-nayt/  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctologist__ _n_ :two::hammer:  
 __proctor<sup>1</sup>__ _n_ :two: __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
-__proctor<sup>2</sup>__ _v tr_ (Education) _US_ To supervise (an examination).  
-__procure__ _v_ :two::hammer: (procuring)  
+__proctor<sup>2</sup>__ _v tr_ (Education) _US_ :four: To supervise (an examination). _I’m proctoring a DiRT exercise._  
+__procurator__ _n_ One authorized to manage the affairs of another; an agent. _Syn_ proxy, placeholder _The wealthy businessman’s procurator arrived at the auction to bid on his behalf._  
+__procure__ _v_ :four::hammer: (procuring)  
 __prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
 __prod<sup>2</sup>__ _n_ :es: _empujón_  
 __prodigal<sup>1</sup>__ _adj_ :three: Rashly or wastefully extravagant. _Syn_ profligate, spendthrift, extravagant _Her prodigal spending left her with a mountain of bills and an empty bank account._  
 __prodigal<sup>2</sup>__ _n_  
-__produce__ _n_ :three::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
+__produce__ _n_ :four: Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._ _People value fresh produce._ _We proudly feature only organic produce._  
 __productive cough__ _n_ (medicine) A cough accompanied by expectoration.  
 __profane__ _adj_  
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
 __proffer__ _v_ _formal_ :three: /PRAH-fer/ To present (something) for acceptance. _Several recommendations were proffered by the finance board on how to reduce the city’s debt without making drastic cuts in department budgets._ _I ignored the proffered hand._  
+__proficiency__  
 __proficient__  
 __profit__ _v_ :astonished:  
 __profiteer<sup>1</sup>__ _n_  
 __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
 __profiteering__  
-__profligacy__ _n_ :two: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
+__profligacy<sup>1</sup>__ _adj_  
+__profligacy<sup>2</sup>__ _n_ :three: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
 __profligate<sup>1</sup>__ _adj_ :five: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
+__profound__ _adj_ :mega:  
 __profoundly__  
 __profusely__ _adv_ :two::hammer:  
 __profusion__  
@@ -16837,21 +16843,28 @@ __thoracotomy__ _n_
 __thorn__ _n_ __4__ The runic letter þ, used in Old English, Middle English, and Old Norse manuscripts to represent both the voiceless sound (th) of Modern English _thin_ and the voiced sound (th) of Modern English _this_.  
 __thorny__ _adj_  
 __thorough__ _adj_ :three::astonished::hammer::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._ _Thorough investigation._  
-__thoroughfare__  
+__thoroughfare__ _n_ :eight::hammer: _A vibrant shopping thoroughfare._  
 __thoroughly__  
+__thoughout__  
 __thought leader__ _n_  
 __thought__ _n_ :mute:[thou~~gh~~t]  
-__thought-provoking__ _adj_  
+__thought-provoking__ _adj_ :three: Challenging or causing someone to think, esp about things they have not thought about before.  
+__thoughtful__ _adj_  
 __thousandth__  
 __thrall__ _n_ :six::hammer:  
 __thrash out__  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __thrawn__ _adj_  
 __thread the needle__  
+__three ring circus__  
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
+__three-wheeler__ _n_  
 __threequel__ _n_ _There’s the original, the sequel, and the threequel._  
 __thresh__ _v_  
-__thrifty__ _adj_ :three::hammer:  
+__thrift shop__ _n_ A shop which sells used goods (especially clothes) at low prices. A shop that sells secondhand articles and especially clothes and is often run for charitable purposes.  
+__thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
+__thrift__ _n_ _Thrift store._  
+__thrifty__ _adj_ :five::hammer: _Thrifty car rental._  
 __thrilling__ _adj_  
 __throb__ _v_ :six::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  

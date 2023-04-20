@@ -446,16 +446,6 @@ __prior__ _n_ _They deblur the captured images using the motion path as a prior.
 __pristine__ _adj_  
 __privacy lock__  
 __privy__  
-__prix fixe__ _n_ :seven::hammer: _Prix fixe dinner._ _Prix-fixe specials._ _A la carte or elegant prix fixe dining._  
-__probate__ _adj_ _Probate records._  
-__proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
-__proctor__ _v tr_ :three: To supervise (an examination). _I’m proctoring a DiRT exercise._  
-__procurator__ _n_ One authorized to manage the affairs of another; an agent. _Syn_ proxy, placeholder _The wealthy businessman’s procurator arrived at the auction to bid on his behalf._  
-__procure__ _v_ :two::hammer:  
-__produce__ _n_ Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._  
-__proficiency__  
-__profligacy__ _adj, n_  
-__profound__ _adj_ :mega:  
 __prohibitionist__ _n_ A reformer who opposes the use of intoxicating beverages. _Syn_ dry _She was a tireless prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet._  
 __prolegomenon__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
@@ -1277,16 +1267,6 @@ __third rail__ _n_ /thurd rayl/ __1__ A topic believed to be too controversial o
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thorough__ _adj_ _Their thorough feedback._  
 __thoroughbred__  
-__thoroughfare__ _n_ :seven::hammer: _A vibrant shopping thoroughfare._  
-__thoughout__  
-__thought-provoking__ _adj_ :two: Challenging or causing someone to think, esp about things they have not thought about before.  
-__thoughtful__ _adj_  
-__three ring circus__  
-__three-wheeler__ _n_  
-__thrift shop__ _n_ A shop which sells used goods (especially clothes) at low prices. A shop that sells secondhand articles and especially clothes and is often run for charitable purposes.  
-__thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
-__thrift__ _n_ _Thrift store._  
-__thrifty__ _adj_ :two::hammer: _Thrifty car rental._  
 __throat__ _n_ _Throat clearing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
