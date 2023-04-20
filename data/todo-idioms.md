@@ -645,28 +645,6 @@ __the Wild West__
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the writing on the wall__  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
-__then again__ :eight::hammer: _Then again, you might not remember it._  
-__there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
-__things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
-__this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
-__through the roof__  
-__throw (one) a curveball__  
-__throw a party__  
-__throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
-__throw hands__  
-__throw money at (someone or something)__  
-__throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
-__throw the towel__  
-__throwback__ A throwback is a sudden reminder of the past, usually in the form of something that evokes a strong emotional response. This could be a song from high school, an old photograph, a place from your childhood, or something else from your past. Throwbacks can be a great way to reconnect with memories and draw on nostalgia to create a sense of comfort and belonging.  
-__thumbs up__ _We have a thumbs up!_  
-__tick someone off__  
-__tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
-__tiger team__  
-__til you drop__  
-__time and time again__ :dart:  
-__time capsule__  
-__tip (one’s) hat__  
-__to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be in a better place__  

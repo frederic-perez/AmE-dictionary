@@ -3058,7 +3058,8 @@ __the very thing__ Exactly what is most ideal, desired, or useful in a particula
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
 __the whole nine yards__  
 __the whole shebang__  
-__then again__ :nine::m: [:sound: then again] From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
+__then again__ :nine::m: [:sound: then again] From another standpoint; on the other hand; on second thought; from a different, conflicting, or contradictory point of view. An opposite possibility. _I need a vacation. Then again, so do my coworkers._ _Then again, you might not remember it._  
+__there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
@@ -3068,6 +3069,7 @@ __there’s no other way around (it)__ There is no solution to avoid a particula
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ :two::dart::hammer:  
+__things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __think aloud__ To verbalize one’s thoughts. _I’m just thinking aloud._  
 __think back__ :two: To think about a past event or a past time.  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
@@ -3075,32 +3077,49 @@ __third wheel__ The “third wheel” refers to the person who is the outsider w
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this is no picnic__  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
+__this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
 __through and through__ :six: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
 __through the grapevine__ :two: Through or via an informal means of communication or information, especially gossip. _I heard through the grapevine that John is planning to propose to Samantha next week!_  
+__through the roof__  
 __through thick and thin__ Through good times and bad times.  
+__throw (one) a curveball__  
 __throw (someone) under the bus__ :two::hammer:  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
-__throw a party__  
+__throw a party__ :two::hammer:  
+__throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
 __throw away__ To get rif of something that you no longer want.  
+__throw hands__  
 __throw in the towel__ :two::hammer: (throw in the sponge; toss in the sponge)  
+__throw money at (someone or something)__  
+__throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
+__throw the towel__  
 __throw up__ _I might throw up._  
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated “TBT”) as an accompanying hashtag or caption. _I’m going to post my second grade class picture for throwback Thursday!_  
+__throwback__ A throwback is a sudden reminder of the past, usually in the form of something that evokes a strong emotional response. This could be a song from high school, an old photograph, a place from your childhood, or something else from your past. Throwbacks can be a great way to reconnect with memories and draw on nostalgia to create a sense of comfort and belonging.  
 __thug live__ (often ironic) [:scroll: Popularized by American rapper Tupac Shakur (1971–1996) in 1993. ] A resilient attitude in the face of racism and injustice. A life in which one has to go through many struggles, like that of poor gangstas. _I didn’t choose the thug life. It chose me._  
 __thumb (one’s) nose at (someone or something)__ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
+__thumbs up__ _We have a thumbs up!_  
+__tick someone off__  
+__tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __tide someone over (until something)__ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tie (one) down__ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
 __tie the can__ _It ain’t every day that you tie the can to a Congressman._  
 __tie the knot__ :two::hammer:  
+__tiger team__  
 __tight as a drum__ Taut or close-fitting; also, watertight.  
 __tighten the purse strings__ To become less liberal with or more controlling of one’ expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tighten your belt__ To spend less money.  
+__til you drop__  
 __time and (time) again__ :four::dart: Repeatedly; on multiple occasions. _Why do you continue to trust John when he has lied to you time and again?_  
 __time and again__ :two: Again and again; repeatedly.  
+__time and time again__ :dart:  
+__time capsule__  
 __time flies__ :two::hammer: _Time flies when you’re having fun._  
+__tip (one’s) hat__  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tipping point__  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
-__to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
+__to (one’s) heart’s desire__ :two: As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
 __to be on a mission__  
 __to be on edge__ _You seem on edge._  
