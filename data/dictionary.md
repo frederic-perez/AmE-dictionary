@@ -18139,12 +18139,15 @@ __waterbed__
 __watercress__ _n_  
 __waterfowl__ _n_ :two::hammer:  
 __waterfront__ _n_ :five::hammer: _Waterfront real state._  
+__watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __waterlogged__  
 __watermelon__ _n_ :pencil2:  
+__waterpark__  
 __watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized the watershed moment of his passing._  
 __waterspout__ _n_  
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
+__wave goodbye__ _n_ A motion of the hand used to say goodbye. _A kiss and a wave goodbye._ _Waving goodbye to the paper lab book._  
 __waver__ _v intr_ :four::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
 __wavering__ _adj_ Uncertain in purpose or action. _A wavering statement._  
 __wax__ _v_ :three::hammer: _Moon waxing and waning._ _Religious intolerance waxed._  
@@ -18155,7 +18158,7 @@ __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent
 __WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-40 Company based in San Diego, California.  
 __weakling__ _adj, n_ One that is weak in body, character, or mind.  
 __weakness__ _n_ (weaknesses) _What are your personal strengths and weaknesses?_  
-__weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
+__weal__ _n_ :two: /WEEL/ Weal is a somewhat old-fashioned word that refers to “a state of being happy, healthy, and successful.” Weal is usually ascribed to large groups of people, rather than individuals, as in the phrases “common weal” or “public weal.” Prosperity; happiness: _in weal and woe._ Prosperity; happiness: _in weal and woe._ _Before presenting the bill to the legislature, the senator spoke of her devotion to the general weal._  
 __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
@@ -18172,14 +18175,16 @@ __weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traf
 __weaver__ _n_ _A crowd of fullers and weavers._  
 __webbing__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __wedding anniversary__ _n_ (not “marriage anniversary”)  
-__wedding band__  
+__wedding band__ _n_ :two::hammer:  
 __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
 __wedge<sup>2</sup>__ _v_ :three::hammer: (wedged) :es : acuñar  
 __wedgie__  
 __wedhe issue__  
 __wedlock__ _n_ :two: The state of being married; matrimony.  
 __Wednesday__ _n_ :two::mega::mute:[we~~d~~nesday]:hammer: /’wEnzdi, -deI/  
-__wee__ _adj_ :six: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
+__wee hours__  
+__wee<sup>1</sup>__ _adj_ :seven: __1__ _chiefly Scot_ Very small. Little; very small; tiny. _Syn_ tiny _Take your wee ones to see the river being dyed green._ _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
+__wee<sup>2</sup>__ _n_  
 __weed out__ _phr v_ :dart::five: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ :three::hammer: (weeding) _It’s like weeding a garden._  
@@ -18194,16 +18199,19 @@ __weigh__ _v_ :two::mute:[wei~~gh~~] :es: pesar; sopesar, considerar
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
 __weighty__ _adj_ _His weighty agenda._  
 __weir__ _n_ _Crenelated weir._  
+__weirdo__  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don’t give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
+__well versed__ _adj_  
 __well-adjusted__ _adj_ Mentally or emotionally stable; not troubled or distressed: _a well-adjusted new student._  
 __well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
 __well-founded__ _adj_ Based on sound reasoning or evidence.  
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-off__ _adj_  
-__well-read__ _adj_ :two: Someone who is well-read has read many books and has a lot of knowledge.  
-__well-rounded__ _adj_ :four::hammer:  
+__well-read__ _adj_ :three: Someone who is well-read has read many books and has a lot of knowledge.  
+__well-rounded__ _adj_ :five::hammer:  
+__wellbeing__ _n_  
 __wellhead__  
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
@@ -18214,13 +18222,15 @@ __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
 __welted__  
-__welter__ _n_ :five: A confused multitude of things. _A welter of data._ _A welter of chaos._ _The welter of different versions._ _A welter of ice._  
+__welter__ _n_ :six: A confused multitude of things. A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._ _A welter of data._ _A welter of chaos._ _The welter of different versions._ _A welter of ice._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :six: /wɛnd/ (wending) __1__ To direct one’s course. To move or travel slowly somewhere. _Syn_ travel _Hikers wend along the marked trails to the top of the mountain, which provides a panoramic view of the area towns._ _Leo wended his way home through the wet streets._ _She had to wend her way through the crowd._ __2__ To proceed on. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _The legal battle wends its way through the federal appeals process._  
 __werewolf__ _n_ :two::hammer: :es: hombre lobo  
 __wet a line__  
+__wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
+__wet market__ _n_ A market that sells perishable items (such as fresh meat and produce) and sometimes live animals which are often slaughtered on-site. _This scientist now believes covid started in Wuhan’s wet market._  
 __wet__ _v_ (wetted) _A wetted wick._  
 __wet-nurse__ _n_ A woman hired to suckle a child of someone else.  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  

@@ -1576,22 +1576,6 @@ __water__ _n_ :mega:
 __waterbugs__ _n_  
 __waterfowl__ _n_  
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
-__watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
-__waterpark__  
-__wave goodbye__ _n_ A motion of the hand used to say goodbye. _A kiss and a wave goodbye._ _Waving goodbye to the paper lab book._  
-__weal__ _n_ /WEEL/ Weal is a somewhat old-fashioned word that refers to “a state of being happy, healthy, and successful.” Weal is usually ascribed to large groups of people, rather than individuals, as in the phrases “common weal” or “public weal.” _Before presenting the bill to the legislature, the senator spoke of her devotion to the general weal._  
-__wedding band__ _n_  
-__wee hours__  
-__wee<sup>1</sup>__ _adj_ __1__ Little; very small; tiny. _Take your wee ones to see the river being dyed green._  
-__wee<sup>2</sup>__ _n_  
-__weirdo__  
-__well versed__ _adj_  
-__well-read__ _adj_  
-__wellbeing__ _n_  
-__wellrounded__  
-__welter__ _n_ A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._  
-__wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
-__wet market__ _n_ A market that sells perishable items (such as fresh meat and produce) and sometimes live animals which are often slaughtered on-site. _This scientist now believes covid started in Wuhan’s wet market._  
 __wet suit__ _n_  
 __wetback__  
 __wetsuit__ _n_  
