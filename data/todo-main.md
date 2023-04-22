@@ -1,16 +1,20 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
 __acolyte__ _n_ :two::hammer:  
+__acquittance__ _n_ A written release from an obligation, specifically a receipt indicating payment in full. _Syn_ release  
 __ad nauseam__ _adv_ :two::hammer:  
 __aioli__ _n_  
 __alienate__  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
+__anime__ _n_ /AN-uh-may/  
+__apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
 __apothegm__ _n_ A terse, witty, instructive saying.  
 __arraignment__ _n_  
 __asterisk__ _n_ :mega:  
 __auspicious__ _adj_ /aw-SPISH-us/  
 __backhanded__ _adj_  
 __bargain__ _n_  
+__beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
@@ -20,8 +24,10 @@ __boolean__ _n_ :mega:
 __bowdlerize__  
 __breadwinner__ _n_ :pencil2:  
 __cachinnate__ _v intr_  
+__cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
+__coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
 __coalesce__ _v_  
 __colon__ _n_ :mega:  
 __commendable__ _adj_  
@@ -30,6 +36,10 @@ __comradery__ _n_ :two::hammer:
 __confabulate__ _v intr_  
 __console__ _n_ :mega:  
 __contraption__ _n_ /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
+__cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
+__cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
+__cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
+__craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
 __cringe__ _v_  
 __cue__ _v_  
 __curmudgeon__  
@@ -38,9 +48,11 @@ __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets
 __default__ _v_  
 __deflect__ _v_  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
+__demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
 __derelict__ _n_  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
+__dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
@@ -60,10 +72,12 @@ __erupt__ _v_
 __etch__ _v_  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __family member__ _n_  
+__farouche__ _adj_  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __forthright__ _adj_  
+__fortitude__ _n_ /FOR-tuh-tood/  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
@@ -89,7 +103,9 @@ __Mad Libs__ _n_
 __matter-of-fact__ _adj_  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
+__melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
+__mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __nitpick__ _v_  
@@ -490,9 +506,12 @@ __quake__ _v_ :two::hammer: _The trains emerge from a sea of quaking aspens._
 __qualify__ _v_  
 __qualm__ _v_  
 __quarantine__ _n_ :mega:  
+__quarry<sup>1</sup>__ _n_ /KWOR-ee/  
+__quarry<sup>2</sup>__ _v tr_ To dig, cut into, or extract.  
 __quench__ _v_ :two::hammer:  
 __querulous__ _adj_ /ˈkwɛr ə ləs, ˈkwɛr yə-/  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
+__quiche__ _n_ /kiːʃ/ [:scroll: French, from German _Kuchen_ cake] A n open savoury tart with a rich custard filling to which bacon, onion, cheese, etc, are added: _quiche Lorraine_.  
 __quiddity__ _n_ /ˈkwɪdɪtɪ/  
 __quilling__ _n_ /kwĭl′ĭng/ The art or craft of making decorative designs out of thin strips of rolled paper.  
 __quinquennial__  
@@ -1403,6 +1422,7 @@ __turnkey__ _adj_ _Turnkey solutions._
 __turntable__ _n_  
 __turntables__ _n_  
 __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
+__turquoise__ _n_ /TUHR-koiz/kwoiz/ [:scroll: Named after Turkey. The gemstone was called turquoise because either it was discovered in Turkey or transported to Europe via Turkey.] __1__ A blue, bluish-green, or greenish-gray semi-precious stone. __2__ A bluish-green color.  
 __turret__ _n_ :two::hammer:  
 __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
 __tweak__ _v_ _Tweak your workout routine._  
@@ -1435,6 +1455,7 @@ __undercut__ _v_
 __underdog__  
 __underemployed__  
 __underfoot__ _adv_ :two::hammer:  
+__undergird__ _v_ /un-der-GHERD/ Undergird means “to strengthen or support (something) from below” or “to form the basis or foundation of.” _Their way of life is undergirded by religious faith._  
 __undergo__ _v_  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
@@ -1619,6 +1640,7 @@ __wintering__ _v_
 __winze__  
 __wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  
+__wistful__ _adj_ /WIST-ful/ _As the car pulled away, Lea cast one last wistful glance at the house where she’d spent so many happy years._  
 __Wite-Out__ _n_  
 __withershins__ _adv_  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
