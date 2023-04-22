@@ -20,8 +20,10 @@ __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.
 __biff__ _n_  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
+__blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __boolean__ _n_ :mega:  
 __bowdlerize__  
+__brain fog__ _n_  
 __breadwinner__ _n_ :pencil2:  
 __cachinnate__ _v intr_  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
@@ -45,6 +47,7 @@ __cue__ _v_
 __curmudgeon__  
 __curt__  
 __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
+__decongestant__ _n_  
 __default__ _v_  
 __deflect__ _v_  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
@@ -57,6 +60,7 @@ __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by oth
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
 __downtime__ _n_  
+__drawn-out__ _adj_ Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __dysgraphia__ _n_  
 __earplug__ _n_ :pencil2:  
 __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
@@ -65,6 +69,7 @@ __effect__ _v_
 __eleven__ _n_ :mega:  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
+__Energizer Bunny__  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __eradicate__ _v tr_  
@@ -74,10 +79,13 @@ __exchequer__ _n_ /ɪksˈtʃɛkə/
 __family member__ _n_  
 __farouche__ _adj_  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
+__finicky__ _adj_  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
+__foil__ _v tr_  
 __forthright__ _adj_  
 __fortitude__ _n_ /FOR-tuh-tood/  
+__friction__ _n_  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
@@ -97,6 +105,7 @@ __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as l
 __level up__  
 __life raft__ _n_  
 __liminal__ _adj_  
+__mac and cheese__ _n_  
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Mad Libs__ _n_  
@@ -120,11 +129,13 @@ __oddball__ _adj, n_
 __odeum__ _n_  
 __oenophile__ _n_ A connoisseur of fine wines. _Syn_ wine lover _The oenophile was heartbroken when months of heavy rain ruined a particularly promising grape harvest._  
 __off-color__ _adj_ _An off-color remark._  
+__off-putting__  
 __off-the-clock__ _adv_ Overtime without extra compensation. _She often has to work off-the-clock._  
 __off-the-shelf__  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
+__offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
 __oftentimes__ _adv_ :two: Frequently; repeatedly.  
@@ -384,6 +395,7 @@ __ply__ _v_ :three: _Yatchs ply between the islands._ _Little shops where craftm
 __pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
 __pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
 __pocketbook__  
+__pockmarked__ _adj_  
 __pod__ _n_ _Pea pod._  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __pogonip__ _n_ A dense winter fog containing ice particles. _Syn_ ice fog  
@@ -601,7 +613,7 @@ __rejoice__ _v_
 __rejoicing__ _n_ :pencil2:  
 __rejuvenated__ _adj_  
 __relatable__ _adj_  
-__reliant__ _adj_  
+__reliant__ _adj_ :two::hammer:  
 __reluctant__ _v_ _Reluctant to leave._  
 __remarkable__ _adj_  
 __remarkably__  
@@ -736,7 +748,7 @@ __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval o
 __sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
-__sanguine__ _adj_ /sang-gwin/  
+__sanguine__ _adj_ :two::hammer: /sang-gwin/  
 __sap__ _v_  
 __Saratoga__ _n_  
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
@@ -1009,6 +1021,7 @@ __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not excl
 __spate__ _n_  
 __spaz__  
 __speakeasy__ _n_ :two::hammer:  
+__spearhead__ _v tr_ To be the leader of (a movement, for example).  
 __specie__ _n_ /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
 __speckled__ _adj_ _Speckled hen._  
 __speculative__  
@@ -1336,6 +1349,7 @@ __tomcat<sup>2</sup>__ _v intr_ To pursue women promiscuously.
 __tonic__ _n_ _The perfect tonic to the excesses of the night before._  
 __tony__ _adj_ _Tony boutiques._  
 __toothsome__ _adj_ :two::hammer:  
+__toothy smile__  
 __tootsie__ _n_ /ˈtʊtsɪ/  
 __top__ _v_ _The investment soon topped a billion dollars._  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
@@ -1384,6 +1398,7 @@ __tribulation__ _n_
 __tributary__ _n_  
 __trickle__ _n_ _A trickle of sweat._  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
+__trillion__ _n_ _There are trillions of microbes living in and on our bodies—and we might be able to modify them to help us treat diseases._  
 __trim__ _n_ _Metallic trim._  
 __trimmings__ _n_ _A delicious dinner complete with all the trimmings and free seconds._  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
@@ -1426,7 +1441,7 @@ __turquoise__ _n_ /TUHR-koiz/kwoiz/ [:scroll: Named after Turkey. The gemstone w
 __turret__ _n_ :two::hammer:  
 __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
 __tweak__ _v_ _Tweak your workout routine._  
-__tween__ _n_ A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener._  
+__tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
 __twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
 __twist__ _n_ :three::hammer: _An innovative twist._  
 __twitch__ _v_  
@@ -1640,7 +1655,7 @@ __wintering__ _v_
 __winze__  
 __wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  
-__wistful__ _adj_ /WIST-ful/ _As the car pulled away, Lea cast one last wistful glance at the house where she’d spent so many happy years._  
+__wistful__ _adj_ :two::hammer: /WIST-ful/ _As the car pulled away, Lea cast one last wistful glance at the house where she’d spent so many happy years._  
 __Wite-Out__ _n_  
 __withershins__ _adv_  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
