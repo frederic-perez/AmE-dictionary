@@ -591,24 +591,6 @@ __talk turkey__ To discuss something in a frank, straightforward, and serious ma
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__ :two::hammer:  
 __tall tale__ :three::hammer:  
-__tap into (something)__ :eight: __1__ To make a strong or advantageous connection with. To establish a connection with (something), especially in order to take advantage. _Trying to tap into a new market._ _Tap into the dark side of the Force._ __2__ To access some large, abundant, or powerful resource. To gain access to some resource: _The building tapped into the city’s water supply._ _When he ran out of money, he decided to tap into his trust fund._  
-__tap into__ :six::hammer:  
-__tape into__  
-__teaching to the test__ A colloquial term for any method of education where the curriculum is heavily focused on preparing students for a standardized test, for example, with international IELTS English proficiency language test for non-native speakers.  
-__tee off__ _Tee off for St. Patrick’s Day._  
-__teem with (someone or something)__ :three: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
-__tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
-__tell apart__  
-__tell me about it__  
-__temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
-__test (one’s) mettle__  
-__test the water(s)__ :two::hammer:  
-__thank you very much__  
-__thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
-__that being said__  
-__that’s a given__  
-__that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
-__the bends__ :astonished: A serious and painful condition that divers get if they come up from under the water too quickly.  
 __the big picture__  
 __the bigger picture__  
 __the bigger they come, the harder they fall__ _proverb_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  

@@ -2990,27 +2990,41 @@ __talk to the hand__ A rude interjection meant to interrupt and dismiss what ano
 __talking head__ :dart::two: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._ _Talking head videos._  
 __tan (one’s) hide__ To spank one. _Young lady, I will tan your hide if you disobey me again!_  
 __tap dancing__  
-__tap into (something)__ To access some large, abundant, or powerful resource. _The man was found guilty for illegally tapping into the city’s electrical grid without paying._  
-__tap into__ :seven: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It’s possible that a new loan wouldn’t have to be tapped into immediately._  
+__tap into (something)__ :nine::m: __1__ To make a strong or advantageous connection with. To establish a connection with (something), especially in order to take advantage. _Trying to tap into a new market._ _Tap into the dark side of the Force._ __2__ To access some large, abundant, or powerful resource. To gain access to some resource: _The building tapped into the city’s water supply._ _When he ran out of money, he decided to tap into his trust fund._ _The man was found guilty for illegally tapping into the city’s electrical grid without paying._  
+__tap into__ :nine::m: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It’s possible that a new loan wouldn’t have to be tapped into immediately._  
+__tape into__  
 __tapped out__ Completely exhausted or depleted (of some resource). _A: “Do you want to place another bet?” B: “Nah, I’m tapped out.” Do we have any more ink cartridges? This one’s tapped out._  
+__teaching to the test__ A colloquial term for any method of education where the curriculum is heavily focused on preparing students for a standardized test, for example, with international IELTS English proficiency language test for non-native speakers.  
 __tear (one’s) hair out__ :dart: To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
 __tear a strip off (someone)__ To scold, upbraid, or rebuke someone very severely, as for an error or wrongdoing. _The teacher really tore a strip off me for causing a disruption in class again._  
 __tear around__ _Her idea of taking a day off is tearing around a golf course._  
 __tear down__  
+__tee off__ _Tee off for St. Patrick’s Day._  
+__teem with (someone or something)__ :three: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __teensy-weensy__ Particularly small or tiny. _I’m not hungry myself, but I’d love to try just a teensy-weensy bite of your meal, if you don’t mind._  
 __tell (someone or something) apart__ To be able to discern or distinguish two or more people or things that appear or seem similar. _This one is real, and this one is the counterfeit—you can tell them apart by the small holographic mark at the top corner of the genuine document._  
-__tell me about it__ (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ¡Dímelo a mí!  
+__tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
+__tell apart__  
+__tell me about it__ :two: (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ¡Dímelo a mí!  
 __tell someone off__ To scold someone; to attack someone verbally. (This has a sense of finality about it.) _I was so mad at Bob that I told him off. By the end of the day, I had told off everyone else, too._  
+__temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
 __tempest in a teapot__ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempus fugit__ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
-__test the water(s)__ :two::hammer: _We’re testing the waters._  
+__test (one’s) mettle__  
+__test the water(s)__ :four::hammer: _We’re testing the waters._  
 __TFW__ An abbreviation for “that feel when” or “that feeling when,” used in texting and social media to introduce a commonly experienced feeling or situation (that others will likely identify with). _TFW you see your dog after you get home from work._  
+__thank you very much__  
+__thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
+__that being said__  
 __that will be the day__ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that’ll be the day!_  
+__that’s a given__  
 __that’s all she wrote__ This is the end; there is nothing left to say. _I’m sorry, Ben, but the board’s decision is final. That’s all she wrote, I’m afraid._  
+__that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
 __the (hot) skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
 __the ball is in someone’s court__ :two: To be responsible for taking the next action.  
 __the bee’s knees__ _dated slang_ Something or someone highly enjoyable, desirable, or impressive, especially in a fancy or elaborate way. _Tom’s new Cadillac is really the bee’s knees!_  
+__the bends__ :astonished: A serious and painful condition that divers get if they come up from under the water too quickly.  
 __the big one__  
 __the bigger they come, the harder they fall__ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
 __the darkest hour is just before the dawn__  
