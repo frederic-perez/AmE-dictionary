@@ -11921,18 +11921,21 @@ __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I’m surprised you haven’t met Ricky’s new palsy-walsy from school yet—they’re together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
 __paltry__ _adj_ :nine::m: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
-__pamper__ _v_ :seven::hammer: (pampered)  
+__pamper__ _v tr_ :nine::m::hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
 __pampered__ _adj_  
+__pampering__ _n_  
 __pamphlet__ _n_  
 __pampling__  
-__pan out__ _v_ :three::hammer:  
-__pan__ _v_ _Obama pans republicans._  
-__panacea__ _n_ :three: (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
-__panache__ _n_ :six: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. _With great panache._ __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
+__pan out__ _v_ :four::hammer:  
+__pan__ _v_ :two::hammer: _Obama pans republicans._ _Try your hand at milking a cow, panning for gold or spinning wool._  
+__panacea__ _n_ :five: /pan-uh-SEE-uh/ (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _Syn_ cure-all _The new program should help with the city’s housing crisis, but it’s no panacea._  
+__panache__ _n_ :nine::m: /puh-NAHSH/ [:scroll: Originally, the word referred to an ornamental tuft or plume of feathers, and especially one affixed to a helmet.] The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. When we say that someone has panache, we are saying that they have energy, spirit, and style. Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._ _Ever the showman, he not only caught the ball, he made a diving catch and caught it with panache._ _With great panache._ __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
+__pancetta__ _n_ Italian bacon that has been cured in salt and spices and then air-dried.  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
-__panderer__ _n_  
+__panderer__ _n_ :two: /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
+__pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
 __panelist__ _n_  
-__pang__ _n_ (pangs) :four::hammer:  
+__pang__ _n_ :five::hammer: (pangs) _A pang of loneliness._  
 __Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
 __Panglossian<sup>2</sup>__ _n_ One who is optimistic regardless of the circumstances.  
 __pangram__ _n_ :three: A sentence, verse, etc., that includes all the letters of the alphabet, such as _the quick brown fox jumps over the lazy dog._  
@@ -11940,13 +11943,16 @@ __panhandle__ _v_
 __panhandling__  
 __panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
 __panko__ _n_  
+__panna cotta__ _n_  
 __panned out__  
 __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
-__panorama__ _n_  
+__panorama__ _n_ :two: An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
+__pansexual__  
 __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
 __pant__ _v_ :eight: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._ _Panting wisps of smoke._  
 __pantalons__ _n_  
 __pantheon__ _n_  
+__pantomime__ _v_  
 __pantophagous__ _adj_  
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
 __pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
@@ -11956,6 +11962,7 @@ __pants-on-fire__
 __pantsed__ _v_  
 __papacy__  
 __paper cut__ _n_ (papercut) _He can’t stand the sight of blood, not even from a paper cut._  
+__paper lantern__ _n_ :camera:  
 __paper route__ _n_ __1__ The job of delivering newspapers regularly. __2__ The route taken when delivering newspapers every day. _Syn_ paper round  
 __paper tablecloth__ _n_ :two::hammer:  
 __paper tape__ _n_  
@@ -11967,12 +11974,15 @@ __papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, 
 __papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false; illusory. __2__ Made of papier-mache.  
 __pappy__  
 __paprika__ _n_  
+__papule__ _n_  
+__papules__ _n pl_ Firm bumps on the skin.  
 __parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on moral attitude, a standard of conduct, or a religious principle. _The priest opened his homily by relating the parable of the Good Samaritan from the Gospel of Luke._  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
 __paradigm__ _n_ :three::mute:[paradi~~g~~m] One that serves as a pattern or model. _Syn_ epitome, prototype _Their company is a paradigm of the small high-tech firms that have recently sprung up in this area._  
+__paradigmatic__ _adj_ _A paradigmatic example._  
 __paradox__ _n_ :four: /ˈpær əˌdɒks/ __1__ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young. A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._ _The statement “less is more” is a common paradox._  
-__paradoxical__ _adj_  
+__paradoxical__ _adj_ :three::hammer:  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :seven: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  

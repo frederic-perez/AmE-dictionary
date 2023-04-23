@@ -237,25 +237,6 @@ __painstakingly__
 __palate__ _n_  
 __palingenesis__ _n_  
 __palpitation__ _n_ A trembling or shaking. _Syn_ shakiness, trembling, quiver, vibration _Cornelius put his hand on his heart, to repress as it were its violent palpitation._  
-__pamper__ _v tr_ :six:hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
-__pampering__ _n_  
-__pan out__ _v_  
-__pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
-__panacea__ _n_ :two: /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
-__panache__ _n_ :four: /puh-NAHSH/ [:scroll: Originally, the word referred to an ornamental tuft or plume of feathers, and especially one affixed to a helmet.] When we say that someone has panache, we are saying that they have energy, spirit, and style. Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._ _Ever the showman, he not only caught the ball, he made a diving catch and caught it with panache._  
-__pancetta__ _n_ Italian bacon that has been cured in salt and spices and then air-dried.  
-__panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
-__pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
-__pang__ _n_ _A pang of loneliness._  
-__panna cotta__ _n_  
-__panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
-__pansexual__  
-__pantomime__ _v_  
-__paper lantern__ _n_ :camera:  
-__papule__ _n_  
-__papules__ _n pl_ Firm bumps on the skin.  
-__paradigmatic__ _adj_ _A paradigmatic example._  
-__paradoxical__ _adj_ :two::hammer:  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
 __paralysis__ _n_ :mega: /pəˈræl ə sɪs/  
