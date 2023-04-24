@@ -686,26 +686,6 @@ __rosewood__
 __rosy__  
 __rot__ _v_ (rotted)  
 __Rottweiler__ _n_  
-__rotunda__ _n_ :six::hammer:  
-__round out__ _v_ _Alluring martinis round out the experience._  
-__rousing__ _adj_ :five::hammer: _A rousing crowd._ _A rousing tale._  
-__route__ _n_ :two::mega::hammer:  
-__rowdy__ _adj_ :three::hammer: _A rowdy guilty pleasure._  
-__rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
-__ruches__ _n_  
-__ruckus__ _n_  
-__rufescent__ _adj_ /ru-FES-uhnt/ [:scroll::astonished: From Latin rufus (red, reddish)] Reddish.  
-__rugged__ _adj_ :four::hammer: _The rugged trail._  
-__rummage__ _v_  
-__run in__ _n_  
-__running shoes__ _n_  
-__runway__ _n_  
-__Russian salad__ _n_  
-__rustle__ _v_ _The quiet rustling of the river._  
-__rut__ _n_  
-__Rx__  
-__s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers.  
-__sable__ _n_ (animal)  
 __saccade__ _n_  
 __sacrifice__ _n_ :mega:  
 __sacristy__ _n_  
