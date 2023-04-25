@@ -3162,25 +3162,35 @@ __town-gown__ Relating to the two coexisting communities of a university town, i
 __train of thought__  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
+__trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __trouble is__ _Trouble is, that man is my last hope._  
+__true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true enough__ _It was true enough._  
 __true story__  
-__true to form__ Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
+__true to form__ :two: Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
 __try out__ :two::hammer:  
+__tug of war__ A struggle for supremacy.  
 __turf war__  
+__turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn (something) on its head__ :two::hammer:  
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
 __turn on someone__ To attack someone. _I thought the strange dog was friendly, but suddenly it turned on me and bit me._  
 __turn out__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
-__turn the tables__ :two: To change or reverse something dramatically. _Wow, they really turned the tables on their opponents after the intermission. The score went from 0-3 to 5-3!_  
+__turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
+__turn something around__  
+__turn the tables__ :six: To change or reverse something dramatically. _Wow, they really turned the tables on their opponents after the intermission. The score went from 0-3 to 5-3!_ _Feds turning the tables on sexual predators._  
+__turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
-__turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twists and turns__ Surprising changes. _It’s hard to follow all the twists and turns of the plot._  
+__two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
 __two-way street__ _n_ :two: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
+__twofer__  
+__U-turn__  
 __uh-huh__  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
-__uncanny valley__ :three::hammer:  
+__uncanny valley__ :four::hammer:  
 __under (one’s) belt__ :two: __1__ In one’s scope of experience. _Once you get a few more major league games under your belt, you’ll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under (one’s) breath__ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (one’s) wing__ Under one’s care, protection, or tutelage. _Our parents died when we were quite young, so my aunt took us under her wing._  

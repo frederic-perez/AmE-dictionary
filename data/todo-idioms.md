@@ -678,21 +678,6 @@ __train wreck__
 __tread carefully__ :dart: To delicately handle or approach a situation in order not to upset or worsen the current circumstances, which may be precarious. _Tread carefully when you ask Mom whether she’s going to the party. She’s been acting weird about it._ _There are good reasons why Google should be tread carefully._  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
-__trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
-__true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
-__true to form__  
-__tug of war__ A struggle for supremacy.  
-__turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
-__turn (something) on its head__ :two::hammer:  
-__turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
-__turn something around__  
-__turn tables__  
-__turn the tables__  
-__turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
-__two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
-__twofer__  
-__U-turn__  
-__uncanny valley__  
 __uncharted territory__  
 __under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s thumb__  
