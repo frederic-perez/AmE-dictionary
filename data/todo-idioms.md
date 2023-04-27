@@ -30,6 +30,7 @@ __crack down__ _France is cracking down on shady influencers._
 __crystal clear__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut to the chase__ :two::hammer:  
+__dabble in (something)__  
 __day in and day out__  
 __defuse (something)__  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
@@ -121,6 +122,7 @@ __hatch out__
 __have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
 __have (something) down cold__ To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it. _Make sure you practice these equations until you have them down cold._  
+__have (something) in store (for one)__  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a leg up__ To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
 __have a trick up (one’s) sleeve__  
@@ -160,6 +162,8 @@ __holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Ho
 __holy shit__  
 __holy smoke(s)__  
 __hone in__ :dart:  
+__hoover up__ _The data was collected by hoovering up content off the internet._  
+__hoover__ _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
 __horseshit__  
 __hot air__ Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
@@ -209,6 +213,7 @@ __in this day and age__
 __in your face__  
 __intellectually challenged__ Of low intelligence; stupid.  
 __iron out__ :two: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
+__ironclad__  
 __it goes without saying__  
 __it is not a competition__  
 __it takes a village__  
@@ -238,6 +243,7 @@ __kick ass__
 __kick butt__ _I was kicking butt at work._  
 __kick in__  
 __kindred spirit__  
+__kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
 __kludgy__ :dart:  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__  
@@ -249,6 +255,7 @@ __lash out__ :two::hammer:
 __latch on__  
 __laugh off__  
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__lay bare (something)__ To divulge, explain, or reveal something not previously known publicly. _Our hope is that this expedition will lay bare the secrets of the ancient king’s tomb._ _Influencers are laying bare the inner workings of the internet._  
 __lay off__  
 __lead domino__ :two::hammer:  
 __lean on (someone or something)__  
@@ -449,6 +456,7 @@ __quiet firing__ An informal term for the practice in which employers make workp
 __quiet quitting__ :two::hammer: /kwahy-it kwit-ing/  
 __quite a lot__  
 __rabble-rouser__  
+__race against the clock__  
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
 __raise the bar__  
@@ -560,7 +568,7 @@ __spell disaster__
 __spice up__  
 __spill out (of something)__  
 __spin (one’s) wheels__  
-__spot on__ (spot on)  
+__spot on__ :two::hammer: (spot on)  
 __spring (something) on (one)__ To tell, present, or disclose something unexpected to one. _I’m springing a trip to Barcelona on my wife for her birthday._ _The boss sprang several huge changes to the project on us at the last minute._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
@@ -602,6 +610,7 @@ __take action__
 __take heart__  
 __take it away!__  
 __take names__  
+__take over__ _Execs aren’t ready for AI to completely take over._  
 __take pride in someone or something__ :three::hammer:  
 __take stock__  
 __take the brunt__  
@@ -667,6 +676,7 @@ __to the hilt__
 __to this day__  
 __toe-to-toe__  
 __tongue-in-cheek__  
+__tooth and nail__  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
@@ -695,6 +705,7 @@ __utterly__
 __verbal diarrhea__  
 __walk on eggshells__  
 __walk out the door__ To leave a place. _She walked out the door without saying goodbye._  
+__watershed moment__ A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __wee hours__  
 __weekend warrior__  
 __weigh in__ __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
@@ -704,6 +715,7 @@ __well-heeled__ Having plenty of money; prosperous.
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
 __what a drag__  
 __what are the odds__  
+__what do I know__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what makes (one) tick__  
 __what the heck__  
@@ -731,7 +743,7 @@ __win-win__ _A win-win scenario._
 __wind down__ :two::hammer:  
 __window of opportunity__  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
-__wing it__ :dart: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
+__wing it__ :dart::two: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  
 __wipe the floor__  
 __wishy-washy__  
