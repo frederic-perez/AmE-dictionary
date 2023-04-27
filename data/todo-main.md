@@ -25,8 +25,10 @@ __boolean__ _n_ :mega:
 __bowdlerize__  
 __brain fog__ _n_  
 __breadwinner__ _n_ :pencil2:  
+__bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __cachinnate__ _v intr_  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
+__carouse__ _v_ /kuh-ROWZ/ (“OW” as in ‘cow’) To drink alcohol, make noise, and have fun with other people. _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
@@ -47,6 +49,7 @@ __cue__ _v_
 __curmudgeon__  
 __curt__  
 __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
+__declivity__ _n_ A downward slope or bend. _Syn_ fall, downslope, declension, declination, decline, descent  
 __decongestant__ _n_  
 __default__ _v_  
 __deflect__ _v_  
@@ -75,6 +78,7 @@ __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings.
 __eradicate__ _v tr_  
 __erupt__ _v_  
 __etch__ _v_  
+__euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __family member__ _n_  
 __farouche__ _adj_  
@@ -88,6 +92,7 @@ __fortitude__ _n_ /FOR-tuh-tood/
 __friction__ _n_  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
+__gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
@@ -103,8 +108,11 @@ __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England 
 __juvenilize__  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __level up__  
+__libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __life raft__ _n_  
 __liminal__ _adj_  
+__littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
+__littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __mac and cheese__ _n_  
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
@@ -178,6 +186,7 @@ __ornamental__ _adj_
 __ornate__ _adj_ :five::hammer: /ɔrˈneɪt/  
 __orography__ _n_ /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
+__orthography__ _n_ /or-THAH-gruh-fee/  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __osculate__ _v_  
 __ossification__ _n_  
@@ -295,6 +304,7 @@ __peristyle__
 __perky__ _adj_ _You should be perky until last call._  
 __pernicious__ _adj_ Causing insidious harm or ruin; ruinous; injurious; hurtful.  
 __perpetual__  
+__perquisite__ _n_ A payment or profit received in addition to a regular wage or salary, especially a benefit expected as one’s due. _Syn_ fringe benefit, perk  
 __perspicacious__ _adj_ :two: /per-spuh-KAY-shus/ Perspicacious is a formal word that means “possessing acute mental vision or discernment.” Someone who is perspicacious has a keen ability to notice and understand things that are difficult or not obvious. Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._ _She considers herself a perspicacious judge of character._  
 __pertinent__ _adj_  
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
@@ -608,6 +618,7 @@ __repartee__ _n_ /rep-er-TEE/ __1__ Repartee can refer to either “a conversati
 __repeat__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
 __repercussion__ _n_  
 __repertoire__ _n_  
+__reprehensible__ _adj_ /rep-rih-HEN-suh-bul/ Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism.  
 __reprimand__ _v tr_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
@@ -675,6 +686,7 @@ __Romanesque__ _adj_ :three::hammer: :es: románico
 __romp__ _v_  
 __ronin__  
 __rooftop deck__ _n_ :two::hammer:  
+__roomer__ _n_ A tenant in someone’s house. _Syn_ boarder, lodger  
 __roorback__ _n_ A false or slanderous story used for political advantage.  
 __rosacea__ _n_  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
@@ -1530,7 +1542,7 @@ __vexing__ _adj_ _A vexing problem._
 __viands__ _n_  
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicinity__ _n_ /vuh-SIN-uh-tee/  
-__vicissitudes__ _n pl_  
+__vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually refers to events or situations that occur by chance. It can also apply specifically to the difficulties or hardships, usually beyond one’s control, that are commonly encountered in a life, career, etc., or simply to the quality or state of being changeable.  
 __victory lap__ _n_  
 __vie__ _v_  
 __viewfinder__ _n_  
