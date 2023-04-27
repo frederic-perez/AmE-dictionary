@@ -16447,15 +16447,17 @@ __swear jar__
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
 __Swede__ _n_  
-__sweeping__ _adj_ :two::hammer: _Sweeping policy changes._  
+__sweeping__ _adj_ :eight::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._ _Sweeping policy changes._  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
 __Sweet 16__ _n_ _sports_  
 __sweet water__ _n_ :two: _(uncommon)_ Fresh water.  
+__sweet-tooth__  
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
 __sweeting__ _n_ A sweet apple.  
 __swell<sup>1</sup>__ _n_ :five::hammer: _The swell of people from war-torn countries._  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
+__swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
@@ -16481,6 +16483,7 @@ __swish<sup>2</sup>__ _n_ _He felt a slight swish of air._
 __swish<sup>3</sup>__ _adj_  
 __switch<sup>1</sup>__ _n_  
 __switch<sup>2</sup>__ _v_  
+__switchback__ _n_ :two::hammer:  
 __switchblade__ _n_ _Switchblade artists._  
 __swive__ _v_  
 __swivel__ _n_  
@@ -16495,12 +16498,15 @@ __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid
 __swooshing__  
 __sword__ _n_ :mega::mute:[s~~w~~ord]  
 __sybarite__ _n_ A person devoted to pleasure and luxury; a voluptuary. _Syn_ voluptuary  
+__sycamore tree__  
+__sycamore__ _n_ :two::hammer:  
 __sycophant__ _n_ :dart::seven: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
 __syllabub__ _n_ _Syllabub of fresh fruit._  
 __syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
 __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
+__symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/  
 __sympathetic__ _adj_ :two::hammer:  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
@@ -16510,9 +16516,10 @@ __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
-__synecdoche__ _n_ :two: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
+__synecdoche__ _n_ :three: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
 __synesthesia__ _n_  
 __synod__ _n_ :pencil2:  
+__synonymous__ _n_ :pencil2:  
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
 __synoptical__  
 __syphilis__ _n_ :pencil2:  
@@ -16520,31 +16527,38 @@ __syringe__
 __syrup__ _n_ _Maple syrup._  
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy “chick flicks” are another thing altogether._  
 __systemic__ _adj_ :two::hammer:  
-__syzygy__  
+__syzygy__ _n_ :two::hammer:  
 __T-ball__  
 __T&A__  
 __tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
-__tab<sup>2</sup>__ _v_ (tabbed, tabby)  
+__tab<sup>2</sup>__ _v_ :two::hammer: (tabbed) _It has been tabbed the no. 2 French restaurant in Arizona._  
+__tabbouleh__ _n_  
 __tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
+__table__ _v_ :two: Hold back to a later time. _Let’s table that idea._  
 __tableau__  
 __tableaux__  
 __tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The hikers climbed all morning, planning to stop for lunch when they reached the tableland._  
+__tableside__ _n_ _Topless tableside dancing._  
 __tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of a compressed powdered substance containing an active drug and excipients. _Hair tablet._  
+__tabletop__ _adj, n_  
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
 __tachypnea__ _n_ Abnormally rapid and shallow breathing.  
 __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
 __taciturn__ _adj_ :two::hammer:  
-__tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
-__tackle__ _v_  
+__tack<sup>1</sup>__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
+__tack<sup>2</sup>__ _v_ _Tack the note on the board._  
+__tackle<sup>1</sup>__ _n_ :two::hammer: _Bait and tackle available._  
+__tackle<sup>2</sup>__ _v_  
 __tacky__ _adj_ :nine::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ :es: cutre  
 __tactful__ _adj_ :two::hammer:  
 __tactfully__ _adv_ :two::hammer:  
 __tactical__ _adj_ _Tactical plot._  
-__tad__ _n informal_ :four::hammer:  
+__tactile__ _adj_ /TAK-tul/  
+__tad__ _n informal_ :five::hammer:  
 __tadpole__ _n_  
 __tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
 __taffeta__ _n_  

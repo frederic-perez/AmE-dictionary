@@ -1175,26 +1175,6 @@ __swashbuckling__ _adj_
 __swath__ _n_ (swathes)  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sway__ _n_  
-__sweeping__ _adj_ :six::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._  
-__sweet-tooth__  
-__swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
-__switchback__ _n_ :two::hammer:  
-__swoon__ _v_  
-__sycamore tree__  
-__sycamore__ _n_ :two::hammer:  
-__symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/  
-__synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
-__synonymous__ _n_ :pencil2:  
-__syzygy__ _n_  
-__tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._  
-__tabbouleh__ _n_  
-__table__ _v_ :two: Hold back to a later time. _Let’s table that idea._  
-__tableside__ _n_ _Topless tableside dancing._  
-__tabletop__ _adj, n_  
-__tack__ _v_ _Tack the note on the board._  
-__tackle__ _n_ :two::hammer: _Bait and tackle available._  
-__tactile__ _adj_ /TAK-tul/  
-__tad__  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  
