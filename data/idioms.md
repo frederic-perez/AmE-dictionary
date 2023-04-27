@@ -3200,17 +3200,26 @@ __under the radar__ Doing something without other people noticing.
 __under the sun__ It’s used for emphasizing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn’t save her life._  
 __under the weather__ :two: To feel ill.  
 __unheard of__ :four: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
+__unpack__ :four: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
+__unsung hero__  
+__until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
+__until next time__  
 __up a tree__ In a difficult situation.  
+__up and running__ :two::hammer: _The cluster is up and running within a very small timescale._  
 __up for grabs__ :four: Available for anyone.  
+__up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up to (one’s) neck in alligators__ (business adage) The full expression is some variation of: “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
 __up to no good__  
 __up to your eyeballs in something__ To have too much of something.  
 __up yours__ _vulgar_ _slang_ :two: An expression of anger at someone.  
+__up-and-coming__ _Up-and-coming writers and artists._  
 __uphill battle__ :two: Something very difficult to do.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
+__utterly__  
 __value judgment__  
 __vamp up__  
 __vanish into thin air__ To disappear completely, without leaving a trace.  
+__verbal diarrhea__  
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
@@ -3223,7 +3232,9 @@ __walk a fine line between (something)__
 __walk away__ _Knowing when to walk away is an essential life skill._  
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
+__walk on eggshells__  
 __walk on water__ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
+__walk out the door__ To leave a place. _She walked out the door without saying goodbye._  
 __walk someone through something__ To lead someone through a complex problem or thought process. _Mary walked Jane through the complex solution to the calculus problem. Do I have to walk you through this solution?_  
 __walk someone through__  
 __walk the line__ :dart: To remain neutral rather than committing to a particular position, view, or thing. _When my kids fight, I try to walk the line rather than siding with one of them._  
@@ -3242,14 +3253,18 @@ __water down__
 __water torture__  
 __water under the bridge__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
+__watershed moment__ A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
 __weak in the knees__ Unsteady or flustered due to a strong emotional reaction to someone or something. _Hearing the news of my father’s sudden death, I went weak in the knees and could barely remain standing._  
 __wear too many hats__ _business slang_ To hold too many responsibilities or assume too many roles at the same time. _One of the pitfalls many entrepreneurs fall into when setting up a new company is to wear too many hats, which not only spreads themselves very thin, but ends up being counterproductive to the operation as a whole._  
 __wear two hats__ To hold or function in more than one position or role. _I’m able to work from home, so I’m able to wear two hats: stay-at-home dad and website developer._  
 __weather permitting__ :four::hammer: _Weather permitting, you can experience a spectacular view of the city below from atop this mountain._  
+__wee hours__  
+__weekend warrior__  
 __weep (one’s) heart out__ To weep copiously; to cry intensely and for a long time. _Lauren wept her heart out at the news of her father’s sudden death._  
 __weigh down__ To make someone heavy and unable to move easily.  
+__weigh in__ __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __well played__  
 __well-heeled__ (well-fixed; well-off) [:scroll: Alluding to a person who can easily afford to replace shoes often] Wealthy; with sufficient money. _My uncle can afford a new car. He’s well-heeled. Everyone in his family is well-off._  
 __welp__ A common alternative to “well” that is used to express disappointment, often in text messaging.  
