@@ -189,24 +189,6 @@ __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._
 __Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/  
 __ornament__ _n_  
 __ornamental__ _adj_  
-__ornate__ _adj_ :five::hammer: /ɔrˈneɪt/  
-__orography__ _n_ /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
-__Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
-__orthography__ _n_ /or-THAH-gruh-fee/  
-__orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
-__osculate__ _v_  
-__ossification__ _n_  
-__ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
-__ostentatious__ _adj_ :two: /ah-stun-TAY-shus/ Characterized by or given to pretentious or conspicuous show in an attempt to impress others.  
-__ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
-__otalgia__ _n_  
-__otter__ _n_ :two::hammer: _Keep a look out for the sea otters._  
-__outcrop__ _n_ :four::hammer:  
-__outcropping__ _n_  
-__outcry__ _n_  
-__outfitter__ _n_ :four::hammer: _Outfitter shop._ _River outfitters._ _Horseback outfitter._  
-__outgoing__  
-__outgrowth__ _n_  
 __outing__ _n_  
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :two::hammer:  

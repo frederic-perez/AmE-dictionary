@@ -11668,31 +11668,38 @@ __organization__ _n_ :mega:
 __originally__ _adv_ :dart:  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__  
-__ornate__ _adj_ :six::hammer: _The ornate front entrance._  
+__ornate__ _adj_ :nine::m::hammer: /ɔrˈneɪt/ _The ornate front entrance._  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
 __orofacial__ _adj_ Relating to the mouth and face.  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
-__orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
+__orography__ _n_ :two: /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
+__Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orphic__ _adj_ Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding. _Syn_ occult, mysterious, mystical, secret _The orphic symbols on the tome could only be deciphered by the blind wizard._  
 __orphrery__  
 __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
+__orthography__ _n_ /or-THAH-gruh-fee/  
 __orthokeratology__  
 __orthopnea__ _n_ Difficulty breathing except when standing or sitting up.  
+__orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
-__ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible.  
+__osculate__ _v_  
+__ossification__ _n_  
+__ossify__ _v_ :four: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible. To become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostensible__ _adj_ /ah-STEN-suh-bul/ Seeming or said to be true or real but very possibly not true or real. _The ostensible purpose of a filibuster is to extend debate._  
-__ostentatious__ _adj_ /os-ten-tey-shuhs, -tuhn-/  
+__ostentatious__ _adj_ :three: /ah-stun-TAY-shus/ /os-ten-tey-shuhs, -tuhn-/ Characterized by or given to pretentious or conspicuous show in an attempt to impress others.  
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
 __ostracize__ _v_ :eight::pencil2: /AH-struh-syze/ (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
+__ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __ostrichism__ _n_ /OS-tri-chiz-uhm/ [:scroll: From the erroneous popular belief that ostriches bury their heads in the sand when facing danger.] The act or policy of refusing to face reality or unpleasant facts. The act of refusing to accept reality or hiding one’s head in the sand.  
+__otalgia__ _n_  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
-__otter__  
+__otter__ _n_ :three::hammer: _Keep a look out for the sea otters._  
 __ottoman__  
 __ouboros__ _n_  
 __Ouija board__ _n_ :astonished: [:scroll: from French _oui_ yes + German _ja_ yes] _We were doing Ouija board and I asked what I was going to be._  
@@ -11715,8 +11722,9 @@ __outburst__ _n_ :four::hammer:
 __outcast__ _n_  
 __outcaste__ _n_  
 __outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
-__outcropping__ _n_ :two::hammer:  
-__outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
+__outcrop__ _n_ :four::hammer:  
+__outcropping__ _n_ :three::hammer:  
+__outcry__ _n_ :nine: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated__ _adj_ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
 __outdoor__ _adj_ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outdoorsy__ _adj_ _informal_  
@@ -11725,13 +11733,13 @@ __outfield__ _n_ _(baseball)_
 __outfight__ _v_ To fight better than someone.  
 __outfit<sup>1</sup>__ _n_ :five::hammer: (outfits)  
 __outfit<sup>2</sup>__ _v_  
-__outfitter__  
+__outfitter__ _n_ :five::hammer: _Outfitter shop._ _River outfitters._ _Horseback outfitter._  
 __outfly__ _v_ :two: To fly better or faster than someone or something.  
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
-__outgoing__  
+__outgoing__ _adj_ :two::hammer:  
 __outgrow__ _v_ :two: To grow bigger than or too big for something.  
-__outgrowth__  
+__outgrowth__ _n_ :two::hammer:  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
 __outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody’s homosexuality against their will.  
