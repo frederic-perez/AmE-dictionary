@@ -5,6 +5,7 @@ __ad nauseam__ _adv_ :two::hammer:
 __aioli__ _n_  
 __alienate__  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
+__anaphylaxis__ _n_  
 __anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
 __anime__ _n_ /AN-uh-may/  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
@@ -29,6 +30,7 @@ __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic.
 __cachinnate__ _v intr_  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __carouse__ _v_ /kuh-ROWZ/ (“OW” as in ‘cow’) To drink alcohol, make noise, and have fun with other people. _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._  
+__chokehold__ _n_ A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
@@ -55,10 +57,12 @@ __default__ _v_
 __deflect__ _v_  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
+__demystify__ _v tr_  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
 __derelict__ _n_  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
+__don__ _n_ __3__ The leader of an organized-crime family.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
@@ -122,6 +126,8 @@ __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day tha
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
+__mildewed__ _adj_ :es: mohoso  
+__money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
@@ -162,7 +168,7 @@ __ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activit
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
-__onus__ _n_ :three: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
+__onus__ _n_ :four: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
 __onyx__  
 __oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
 __ooze__ _v_  
@@ -255,7 +261,7 @@ __paraphernalia__
 __paratransit__ _adj_ _Paratransit services._  
 __paratrooper__ _n_  
 __parcel__ _n_  
-__parched__ _adj_ _Quench your parched throat with a long tall cool Yard of Beer._  
+__parched__ _adj_ :two: /pärcht/ __1__ Dried out from extreme heat: _parched land._ __2__ Roasted or dried: _parched rice._ _Quench your parched throat with a long tall cool Yard of Beer._ __3__ Very thirsty: _parched laborers._  
 __pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
 __paring__ _n_ Something, such as a skin or peel, that has been pared off. _Syn_ shaving, sliver _We do not mourn over the parings of our nails nor the cut locks of our hair, though they were once part of ourselves._  
 __parishioner__ _n_  
@@ -301,6 +307,7 @@ __performative__ _adj, n_ :two::hammer:
 __perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy or enthusiasm, as a duty or out of habit. _Clearly exhausted after a long day on her feet, our server gave us only a perfunctory greeting before taking our drink orders._  
 __pergola__ _n_  
 __peristyle__  
+__periwinkle__ _n_  
 __perky__ _adj_ _You should be perky until last call._  
 __pernicious__ _adj_ Causing insidious harm or ruin; ruinous; injurious; hurtful.  
 __perpetual__  
@@ -374,7 +381,8 @@ __plentiful__
 __plenty__ _n_ _There are plenty of shops._  
 __plethora__ _n_ :three::hammer:  
 __plop__ _v_ __3__ To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._  
-__plot__ _n_ _Vegetable plot._  
+__plot<sup>1/sup>__ _n_ _Vegetable plot._  
+__plot<sup>2</sup>__ _v tr_ __4__ To form a plot for; prearrange secretly or deviously: _plot an assassination._ _China is plotting to take control of enemy satellites._  
 __plummet__ _v_  
 __plummeted__ _v_  
 __plump__ _v_  
@@ -556,6 +564,7 @@ __ravenous__ _adj_
 __raver__ _n_  
 __ravishing__  
 __raw bar__  
+__readout__  
 __realistic__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
@@ -658,6 +667,7 @@ __ribbon candy__
 __ribeye__ _n_ :two: /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
 __rickshaw__  
 __ridicule__ _v_  
+__rife__ _adj_  
 __riff__ _v_  
 __right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
@@ -875,6 +885,7 @@ __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._
 __shenanigans__ _n pl_ /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._  
 __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
+__shoal__ _n_  
 __shoe leather__ _n_  
 __shoeshine__ _n_  
 __shogunate__ _n_ A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship  
@@ -951,6 +962,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ :two::hammer:  
+__smudge__ _v_  
 __snack__ _v_ :two::hammer:  
 __snafu__  
 __snap__ _v_ _Snap at people._  
@@ -982,6 +994,7 @@ __soon enough__ _adv_ :two::hammer:
 __sophomore__ _n_ :mega:  
 __sorely__ _adv_ _Sorely needed._  
 __sorrowful__  
+__sorta__ _adv_ Contraction of sort of. Sort of; rather: _I’m sorta nervous._ _I’m sorta tired—let’s go home._  
 __sought-after__  
 __soul food__ _n_  
 __soul-searching__ _n_ Examination of one’s conscience especially with regard to motives and values.  
@@ -1453,6 +1466,7 @@ __unscathed__ _adj_
 __unsettling__ _adj_ Making one feel rather worried or uncertain.  
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
+__untapped__ _adj_ /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._  
 __unwavering__ _adj_  
 __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
 __unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
@@ -1624,6 +1638,7 @@ __woodsy__ _adj_ :two::hammer: _A warm, woodsy room._
 __word-hoard__ _n_ :dart: A person’s vocabulary.  
 __work desk__ _n_ :two: A desk used for work; a desk in the workplace.  
 __workaholism__ _n_ :mega: The state of being a workaholic.  
+__workbook__ _n_  
 __workforce__ _n_ (work force)  
 __worksheet__ _n_ _Ask for a library worksheet._  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
