@@ -770,26 +770,6 @@ __schuss__ _v_
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scion__ _n_  
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
-__scone__ _n_ :five::hammer: (scones) _Cookery_ :es: bollo  
-__scoot__ _v intr_ :two: To move or go suddenly and speedily; hurry.  
-__scorn__ _n_  
-__Scots__ _adj, n_ :pencil2: _Scots accent._  
-__scoundrel__ _adj_ _Those scoundrel disks._  
-__scour__ _v_ :two: /SKOW-er/ Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._  
-__scramble__ _v intr_ :four: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._  
-__scrap<sup>1</sup>__ _n_  
-__scrap<sup>2</sup>__ _v tr_ :three: _1_ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._  
-__scrap<sup>3</sup>__ _v intr_ To fight, usually with the fists.  
-__scrapbook__ _n_  
-__scrape__ _v_  
-__scrappy__ _adj_ :three::hammer: _The scrappy journalist inside me fuels my fire in the marketing world._  
-__scratching__ _n_  
-__scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
-__screen__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
-__scrooge__ _n_ A mean-spirited miserly person. _Syn_ niggard, skinflint, churl _The old scrooge was married to his money, and spending a penny was, to him, as traumatic as divorce._  
-__scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
-__scrub<sup>2</sup>__ _v tr_ __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
-__scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
 __scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  

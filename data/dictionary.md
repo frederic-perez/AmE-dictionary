@@ -14467,9 +14467,8 @@ __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted pract
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce<sup>1</sup>__ _n_ :two: __1__ A small defensive earthwork or fort. __2__ A decorative wall bracket for holding candles or lights. _Wall sconces._ __3__ A flattened candlestick that has a handle.  
 __sconce<sup>2</sup>__ _v_  
-__scone__ _n_ _Like strawberry jam slathered on a scone._  
-__scones__ _n_  
-__scoot__ _v_ :six: (scooted) To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
+__scone__ _n_ :seven::hammer: (scones) _Cookery_ _Like strawberry jam slathered on a scone._ :es: bollo  
+__scoot__ _v intr_ :eight: (scooted) To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
@@ -14477,12 +14476,12 @@ __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Fiv
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
 __scorecard__ _n_ /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. __2__ A card identifying the players in a sports match, esp cricket or baseball.  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
-__scorn<sup>1</sup>__ _n_ :two::hammer:  
+__scorn<sup>1</sup>__ _n_ :three::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
-__Scots__ _n_  
-__scoundrel__ _n_ :two::hammer:  
-__scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
+__Scots__ _adj, n_ :two::hammer::pencil2: _Scots accent._  
+__scoundrel__ _n_ :three::hammer: _Those scoundrel disks._  
+__scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ /SKOW-er/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ :dart: Search thoroughly. Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._ _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __Scouser__ _n_ A native or resident of Liverpool, England. _Syn_ Liverpudlian  
@@ -14491,15 +14490,20 @@ __scowl<sup>1</sup>__ _n_
 __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
 __scrabble__ _n_ /ˈskræbəl/  
 __scram__ _v_ _We better scram._  
-__scramble__ _v_ :eight: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
-__scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
+__scramble<sup>1</sup>__ _v intr_ :four: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._  
+__scramble<sup>2</sup>__ _v tr_ :eight: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
+__scrap<sup>1</sup>__ _n_ :three: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
+__scrapbook__ _n_  
+__scrape__ _v_  
 __scrapper__  
-__scrappy__ _adj_ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
+__scrappy__ _adj_ :five::hammer: _The scrappy journalist inside me fuels my fire in the marketing world._ _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
 __scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
 __scratcher__ _n_ __1__ A workman who uses a tool for scratching. __2__ A person who scratches to relieve an itch. __3__ A device used for scratching.  
+__scratching__ _n_  
+__scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __scrawl__ _v_ :six: (scrawled) To write hastily or sloppily. Write carelessly. _Syn_ scribble _The note that my brother scrawled before his quick exit was unreadable._ _Ben scrawled a notation on the memo._  
 __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
@@ -14507,7 +14511,8 @@ __screaming yellow__
 __screech<sup>1</sup>__ _n_ :two::hammer:  
 __screech<sup>2</sup>__ _v_ :nine::m: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _“he heard the screen slam as she left.”_  
-__screen__ _v_ (screened) _The horsemen screened the advance of the column._  
+__screen<sup>1</sup>__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
+__screen<sup>2</sup>__ _v_ (screened) _The horsemen screened the advance of the column._  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
@@ -14522,13 +14527,15 @@ __scripted__ _adj_ Written in advance.
 __scrofulous__  
 __scrooch__ _v_  
 __Scrooge__  
+__scrooge__ _n_ A mean-spirited miserly person. _Syn_ niggard, skinflint, churl _The old scrooge was married to his money, and spending a penny was, to him, as traumatic as divorce._  
 __scrouching__ _v_  
 __scrub brush__  
 __scrub out__ _v_  
-__scrub__ _v_ :four: (scrubbed) __4__ _slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._ _He scrubbed his hands at the sink._  
+__scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
+__scrub<sup>2</sup>__ _v tr_ :five: (scrubbed) __1a__ To rub hard in order to clean: _scrubbed the floor._ _He scrubbed his hands at the sink._ __b__ To remove (dirt or stains) by hard rubbing. __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scrubber__ _n_ __1__ A person or thing that scrubs. __2__ (Chemical Engineering) An apparatus for purifying a gas.  
 __scrubbers__ _n_  
-__scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :nine::m::camera: /ˈskrʌfɪ/ (scruffier) Shabby and untidy. Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrum__ _n_  
 __scrummy__ _adj_ :three: Delicious; lovely.  
 __scrumptious__  
