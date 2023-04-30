@@ -93,21 +93,6 @@ __go off the rails__
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
 __go overboard__  
 __go south__  
-__go the distance__ :dart::four: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
-__go to great lengths (to do something)__  
-__go toe by toe__  
-__go vacant__ _Her eyes went vacant again._  
-__God is in the detail(s)__ _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
-__gold rush__ _VCs scramble to cash in on AI gold rush._  
-__golden boy__  
-__golden goose__  
-__good call__ :two::hammer:  
-__good for you__ A complimentary expression of encouragement for something that someone has done or received.  
-__good riddance__  
-__goof up__  
-__goof__  
-__grab and go__  
-__grace period__ _The doctor had already moved on to their next appointment because they have a five-minute grace period._  
 __grasp__  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
 __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
