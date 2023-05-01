@@ -98,20 +98,6 @@ __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a
 __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
 __groom (someone) for (something)__  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
-__half-ass__ :dart::three: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
-__hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
-__hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
-__hands down__ Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._  
-__hash something up__  
-__hatch out__  
-__have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
-__have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
-__have (something) down cold__ To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it. _Make sure you practice these equations until you have them down cold._  
-__have (something) in store (for one)__  
-__have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
-__have a leg up__ To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
-__have a trick up (one’s) sleeve__  
-__have an itch for (something)__ To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
 __have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  

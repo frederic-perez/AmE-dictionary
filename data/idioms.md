@@ -1494,9 +1494,12 @@ __haha__ _informal_ Used as a written expression of laughter, or more generally 
 __Hail Mary__  
 __hair-splitting__  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
+__half-ass__ :dart::three: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
-__hands down__ :seven::hammer: _Hands down, best episode ever._ _It beats other cinemas hands down._  
+__hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
+__hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
+__hands down__ :eight: Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._ _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
@@ -1518,10 +1521,12 @@ __harp on the same string__ To dwell tediously and repeatedly upon a single subj
 __harrowing experience__ :two: An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant. _With so much traffic, cycling in this city can be a harrowing experience._  
 __hash out__ :dart::three: To discuss something in detail. A noun or pronoun can be used between “hash” and “out.” _I’m calling Mom right now to hash out the details for Thanksgiving dinner._  
 __hash slinger__ A cook or a waitress, especially at a diner or cheap restaurant. (“Hash,” in this sense, refers to a dish or stew of chopped meat and vegetables, not hashish.) Primarily heard in US.  
+__hash something up__  
 __haste makes waste__ _proverb_ Rushing through a task often creates problems or extra work. _Haste makes waste, so please double-check your measurements before cutting the fabric._  
 __hat trick__ :mega:  
+__hatch out__  
 __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s guts._ The _guts_ here refers to a person’s inner essence.  
-__have (a) skeleton(s) in (one’s)/the closet__ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one’s past.  
+__have (a) skeleton(s) in (one’s)/the closet__ :two: To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have (got) (someone’s) back__ :five: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
 __have (got) (someone) pegged as (something)__ To distinctly regard someone as being a certain type of person.  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
@@ -1534,13 +1539,14 @@ __have (one’s) head read__ To have one’s logic or sanity examined or reevalu
 __have (one’s) heart in (one’s) mouth__ To feel very nervous or anxious. _I had my heart in my mouth as I waited for the ambulance to arrive._ _A heart-in-mouth thriller._  
 __have (one’s) heart in (something)__ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (one’s) heart on (one’s) sleeve__ To openly display or make known one’s emotions or sentiments. _She’s always had her heart on her sleeve, so she isn.t very good at holding back when she’s upset about something._  
-__have (one’s) say__ To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
+__have (one’s) say__ :two: To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
 __have (some/any) qualms about (something or someone)__ To have some or certain hesitations, apprehensions, uneasiness, or pangs of conscience (about something or someone). (Also often used in the negative to mean the opposite.) _I know it’s wrong to feel this way, but I don’t have any qualms about telling my boss I’m sick if it means I can have a long weekend._  
 __have (someone’s) blood on (one’s) head__ To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death.  
 __have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions.  
-__have (something) cold down__ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
+__have (something) down cold__ :dart::two: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it. _Make sure you practice these equations until you have them down cold._  
 __have (something) going for (one)__ To have something that is favorable, beneficial, or advantageous to one.  
+__have (something) in store (for one)__  
 __have a bone to pick with someone__ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ To be pregnant.  
 __have a crush on (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person.  
@@ -1549,8 +1555,10 @@ __have a few__ To have multiple alcoholic drinks, especially to the point of bec
 __have a fling (with someone)__ To have a brief, noncommittal sexual relationship (with someone).  
 __have a gas__ To have a thoroughly entertaining, enjoyable, and/or amusing time. _We were all having a gas at the party when the police showed up to tell us we were being too loud._  
 __have a hankering for (something)__ To have a very strong, persistent desire or craving for something.  
+__have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a heart of gold__ To be very kind and generous.  
 __have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
+__have a leg up__ To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
 __have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
 __have a look-see__ :dart: To have a very quick look or brief examination.  
 __have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something. _Though I was excited for my daughter to start her college experience, I still had a lump in my throat saying goodbye to her at the airport._  
@@ -1562,9 +1570,10 @@ __have a say (in something)__ :two: To have an active and participatory role in 
 __have a screw loose__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person.  
-__have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve.  
+__have a trick up (one’s) sleeve__ :two: To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve.  
 __have a yen for (something)__ To have a very strong and persistent desire or craving for something.  
 __have a/the wolf by the ear(s)__ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
+__have an itch for (something)__ To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
 __have bats in the belfry__  
 __have bigger fish to fry__ :two: To have more important things to do.  
 __have butterflies on one’s stomach__  
