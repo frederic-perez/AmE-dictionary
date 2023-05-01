@@ -1431,26 +1431,6 @@ __unsurmountable__ _adj_
 __untapped__ _adj_ /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._  
 __unwavering__ _adj_  
 __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
-__unwind__ _v_ :five: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
-__unwittingly__  
-__up to now__  
-__upbeat__ _adj_ _The atmosphere is upbeat and fun._  
-__upend__  
-__upheaval__ _n_  
-__upholder__ _n_  
-__upkeep__ _n_ _Chalkboards did not require much upkeep._  
-__uplifted__ _adj_  
-__upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
-__upscale__ _adj_ :three::hammer: _Upscale shops._  
-__upshot__ _n_  
-__upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
-__upskilling__ _n_ :dart: Teaching or learning additional skills.  
-__uptake__ _n_ _Other applications have had limited uptake._  
-__uptick__ _n_ :two::hammer:  
-__uptime__ _n_  
-__uptown__ _adj, adv, n_ :two::hammer:  
-__urbane__ _adj_ _Urbane customer._  
-__use case__ _n_  
 __use__ _v_ _informal_  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  

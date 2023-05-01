@@ -17717,17 +17717,18 @@ __unwell__ _adj_
 __unwielding__  
 __unwieldy__ _adj_ :three: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
-__unwind__ _v_  
-__unwittingly__ _adv_ :three::dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._  
+__unwind__ _v_ :six: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
+__unwittingly__ _adv_ :four::dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._  
 __unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
 __up and running__  
 __up and under__ _n_ A basketball move.  
+__up to now__  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _adj_ _Up-tempo kind of game._  
-__upbeat__ _adj_ :five: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil’s colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He’s extremely upbeat during down times._ __2__ Happy; cheerful.  
+__upbeat__ _adj_ :six: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil’s colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He’s extremely upbeat during down times._ __2__ Happy; cheerful. _The atmosphere is upbeat and fun._  
 __upchuck__ _v_ _You know, Freddo, Frank Borman was upchucking most of the way to the moon on_ Apollo 8.  
 __upcoming__  
 __upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
@@ -17740,10 +17741,12 @@ __upheaval__ _n_ :nine::m: /ʌpˈhi vəl/ A state of violent disturbance and dis
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
 __uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
-__upkeep__ _n_ :four: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
+__upholder__ _n_  
+__upkeep__ _n_ :five: __1__ Maintenance in proper operation, condition, and repair. _Chalkboards did not require much upkeep._ __2__ The cost of such maintenance.  
+__uplifted__ _adj_  
 __uplifting__ _adj_ :two::hammer: /ʌpˈlɪftɪŋ/  
 __upmarket__  
-__upmost__ _adj_ Uppermost.  
+__upmost__ _adj_ :two: /ˈʌpˌməʊst/ Another word for uppermost.  
 __upped__ _v_  
 __upper crust__ _n_ _informal_ The highest social class or group.  
 __upper__ _n_ (uppers)  
@@ -17758,16 +17761,18 @@ __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive lau
 __uproot__ _v_ :four::hammer: (uprooted) _Uprooted workers._  
 __uprparious__ _adj_ _An uproarious fracas._  
 __upsale__ _n_ An act of upselling.  
-__upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
+__upscale<sup>1</sup>__ _adj_ :nine::m: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._ _Upscale shops._  
 __upscale<sup>2</sup>__ _v_  
 __upscale<sup>3</sup>__ _n_  
 __upsell__ _v_  
 __upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
 __upset__ _n_ :three::mega::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_ :eight: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
+__upshot__ _n_ :nine: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
 __upside__ _n_ :four: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
+__upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
+__upskilling__ _n_ :dart: Teaching or learning additional skills.  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upslope__ _n_  
@@ -17776,21 +17781,23 @@ __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting foc
 __upstate__  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :five: __4__ The act of accepting or taking up something on offer or available.  
+__uptake__ _n_ :six: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
 __uptalk__ _v_  
-__uptick__ _n_ :six::hammer:  
+__uptick__ _n_ :eight::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
-__uptime__ _n_ :two: The time during which a device, such as a computer, is functioning or available for use.  
+__uptime__ _n_ :three: The time during which a device, such as a computer, is functioning or available for use.  
+__uptown__ _adj, adv, n_ :two::hammer:  
 __upward__  
 __upwardly__  
 __urban legend__  
-__urbane__ _adj_ :two: Showing a high degree of refinement and the assurance that comes from wide social experience. Notably polite or polished in manner. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._  
+__urbane__ _adj_ :three: Showing a high degree of refinement and the assurance that comes from wide social experience. Notably polite or polished in manner. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._ _Urbane customer._  
 __urbanite__ _n_ :two::hammer:  
 __urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
 __urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
+__use case__ _n_  
 __usher__ _v_ :four::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
 __usufruct__ _n_  
 __usurp__ _v_  
