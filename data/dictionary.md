@@ -11613,20 +11613,26 @@ __only problem is__
 __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
 __onset__ _n_ :eight::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
 __onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
-__onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
+__onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
+__onyx__  
 __Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid when at rest and like a solid when pressure is applied.  
 __oofs__  
-__oompah__ _n_ :two::hammer: _The house oompah band._  
+__oompah__ _n_ :three: A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._ _The house oompah band._  
 __oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
-__op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
+__op-ed__ _n, adj_ :seven::mega: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
+__opalesce__ _v intr_ To exhibit a milky iridescence.  
 __open house__ _n_ :three::hammer: _Educational open house._  
 __open loop__  
 __open mike__ _n_ :two::hammer: _When are you going to do an open mike?_  
+__open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __open-air bus__  
+__open-ended question__  
 __open-label trial__ _n_  
 __open-wheel car__ _n_ :three::camera::hammer:  
+__openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __opening hours__  
+__operating system__  
 __operetta__ _n_ :pencil2:  
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
@@ -11644,30 +11650,35 @@ __opprobrium__ _n_ :two: Disgrace arising from exceedingly shameful conduct; ign
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opt__ _v_  
+__optic flow__ _n_  
 __opticks__ _n_ _Obsolete form of optics._  
 __optio__ _n_  
 __optogenetic__ _adj_  
 __optometry__ _n_  
-__opulent__  
+__opulent__ _adj_ :two::hammer:  
+__oracular__ _adj_ /aw-RAK-yuh-ler/  
 __Orange Julius__  
 __orb__ _n_ :two::hammer:  
 __orbiting__ _n_ _slang_ When someone who won’t speak to you otherwise still watches every snap on your story/IG and/or likes your posts. Usually someone who has ghosted you, but not always. Basically they’re lingering in your life despite refusing to be an active part in it in any other capacity.  
-__orchestrate__ _v_  
+__orchestrate__ _v_ :two::hammer:  
+__orchestration__ _n_  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __order around__ _phr v_ To give commands to someone in a bossy way.  
-__orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A condition of regular or proper arrangement; _he put his desk in order_; _the machine is now in working order._  
+__orderliness__ _n_ :two: __1__ The quality of appreciating method and system. __2__ A condition of regular or proper arrangement; _he put his desk in order_; _the machine is now in working order._  
 __orderly<sup>1</sup>__ _adv_ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
-__orderly<sup>2</sup>__ _adj_  
+__orderly<sup>2</sup>__ _adj_ :two::hammer: _Since this is an orderly shutdown, zero queries are lost._  
 __orderly<sup>3</sup>__ _n_ :two::astonished: __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :four::pencil2::hammer:  
 __ordure__ _n_ _In lower-class quarters a pile of ordure usually lay at every doorway._  
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
+__oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
+__Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/  
 __organization__ _n_ :mega:  
 __originally__ _adv_ :dart:  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
-__ornament__  
+__ornament__ _n_ :two::hammer:  
 __ornate__ _adj_ :nine::m::hammer: /ɔrˈneɪt/ _The ornate front entrance._  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  

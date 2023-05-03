@@ -175,26 +175,6 @@ __ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activit
 __onset__ _n_ :mega:  
 __onslaught__ _n_  
 __ontology__ _n_  
-__onus__ _n_ :four: /OH-nuss/ Onus is a formal word that means “a responsibility, obligation, or burden.” It can also be used in some contexts as a synonym for blame or stigma. It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._  
-__onyx__  
-__oompah__ _n_ A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._  
-__ooze__ _v_  
-__op-ed__ _adj, n_ :mega:  
-__opalesce__ _v intr_ To exhibit a milky iridescence.  
-__open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
-__open-ended question__  
-__openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
-__operating system__  
-__optic flow__ _n_  
-__opulent__ _adj_  
-__oracular__ _adj_ /aw-RAK-yuh-ler/  
-__orchestrate__ _v_  
-__orchestration__ _n_  
-__orderliness__ _n_  
-__orderly__ _adj_ _Since this is an orderly shutdown, zero queries are lost._  
-__oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
-__Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/  
-__ornament__ _n_  
 __ornamental__ _adj_  
 __outing__ _n_  
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
