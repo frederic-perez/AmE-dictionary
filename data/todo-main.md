@@ -8,8 +8,10 @@ __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is 
 __anaphylaxis__ _n_  
 __anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
 __anime__ _n_ /AN-uh-may/  
+__anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym when posting messages on the board._  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
 __apothegm__ _n_ A terse, witty, instructive saying.  
+__arboreal__ _adj_ /ahr-BOR-ee-ul/  
 __arraignment__ _n_  
 __asterisk__ _n_ :mega:  
 __auspicious__ _adj_ /aw-SPISH-us/  
@@ -17,6 +19,7 @@ __backhanded__ _adj_
 __bargain__ _n_  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
+__Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
@@ -27,7 +30,7 @@ __bowdlerize__
 __brain fog__ _n_  
 __breadwinner__ _n_ :pencil2:  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
-__cachinnate__ _v intr_  
+__cachinnate__ _v intr_ :two::hammer:  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __carouse__ _v_ /kuh-ROWZ/ (“OW” as in ‘cow’) To drink alcohol, make noise, and have fun with other people. _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._  
 __chokehold__ _n_ A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._  
@@ -84,6 +87,7 @@ __erupt__ _v_
 __etch__ _v_  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
+__expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
 __family member__ _n_  
 __farouche__ _adj_  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
@@ -94,10 +98,12 @@ __foil__ _v tr_
 __forthright__ _adj_  
 __fortitude__ _n_ /FOR-tuh-tood/  
 __friction__ _n_  
+__fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate pests or disinfect. _Syn_ fume  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
+__haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
@@ -105,6 +111,7 @@ __Holy Week__ _n_ The week before Easter. Also called _Passion Week._
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __impending__  
+__importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
 __integer__ _n_ :mega:  
@@ -354,7 +361,7 @@ __plateau<sup>1</sup>__ _n_
 __plateau<sup>2</sup>__ _v_  
 __Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
 __platted__ _v_  
-__plausible__ _adj_  
+__plausible__ _adj_ :two::hammer: /PLAW-zuh-bul/  
 __playpark__ _n_  
 __pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
 __plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abundance.  
@@ -466,6 +473,7 @@ __prompt<sup>2</sup>__ _v tr_
 __prompt<sup>3</sup>__ _n_  
 __proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
+__propinquity__ _n_ The property of being close together. _Syn_ proximity _She loved Emma Jane, but it was a friendship born of propinquity and circumstance, not of true affinity._  
 __proptosis__ _n_  
 __prosopopoeia__ _n_ (prosopopeia) __1__ Personification, as of inanimate things. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
 __Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
@@ -894,6 +902,7 @@ __significant__ _adj_ _Time of day is significant._
 __silly string__ _n_  
 __silviculture__ _n_  
 __simulcast__  
+__sinecure__ _n_ /SYE-nih-kyoor/ Sinecure is a noun that refers to a usually paid job or position that requires little or no work. _The king was in the habit of rewarding his loyal supporters with sinecures._  
 __sinfully__ _adv_ _Sinfully delicious desserts._  
 __sing-along__ _n_  
 __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
@@ -1452,6 +1461,7 @@ __van__ _n_
 __vantage point__  
 __vapid__ _adj_ :two: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
 __variable__ _n_ :mega:  
+__variegate__ _v_ Make something more diverse and varied. _Syn_ vary  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varsity__ _n_ :two: The principal team representing a university, college, or school in sports, games, or other competitions. _Syn_ first team _She was determined to make the varsity basketball team and practiced her game all summer._  
 __vast__ _adj_ :two::hammer: _The vast array of resources._  
@@ -1515,7 +1525,7 @@ __wanderwort__ _n_ A loanword that has spread to many different languages, often
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
 __warrant__ _v_  
-__watchword__ _n_ :two::hammer:  
+__watchword__ _n_ :three: A slogan used to rally support for a cause. _Syn_ cry _“Fight and fall, but fly not,” that was our watchword._  
 __water flumes__ _n_  
 __water__ _n_ :mega:  
 __waterbugs__ _n_  
