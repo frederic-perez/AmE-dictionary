@@ -313,26 +313,6 @@ __picknicking__ _v_
 __pickup__ _adj_ _A pickup team._  
 __picky__ _adj_  
 __pico de gallo__ _n_ :two::hammer:  
-__picturesque__ _adj_ :four::hammer:  
-__pigeonhole__ _v_  
-__piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
-__pike__ _n_  
-__pimple__ _n_  
-__pin__ _v_ _Pinned it against the wall._  
-__pinback__ _n_ :two::hammer:  
-__pine nuts__  
-__pinecone__ _n_ The seed-producing cone of a pine tree.  
-__pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
-__pinion<sup>1</sup>__ _n_ /PIN-yuhn/ __1__ A feather or a wing, especially the terminal segment of a wing. __2__ A small cogwheel engaging with a larger wheel or a rack.  
-__pinion<sup>2</sup>__ _v tr_ __1__ To cut or bind the wing of a bird. __2__ To bind, restrain, shackle, etc.  
-__piñon__ _n_ _A 30-minute excursion through pines and piñons._  
-__Pinot Gris__ _n_  
-__pinstripes__ _n_  
-__piquancy__  
-__pique__ _v_ :two::hammer: _The video piqued your interest._  
-__piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
-__pit__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._  
-__pivotal__  
 __pizzeria__ _n_ :mega:  
 __planter__ _n_ :four: __3__ An early settler or colonist.  
 __plantman__ _n_  

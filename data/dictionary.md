@@ -12413,7 +12413,7 @@ __picky__ _adj_ :three::hammer:
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pictogram__  
 __picture-perfect__ _adj_ _The picture-perfect porch._  
-__picturesque__  
+__picturesque__ _adj_ :five::hammer:  
 __piddle__ _v_  
 __piddling__ _adj_ Petty; trifling; trivial. _He had killed several hours with footless piddling._  
 __pièce de résistance__ _n_  
@@ -12429,16 +12429,17 @@ __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a repre
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __pigeonhole<sup>1</sup>__ _n_ /PIJ-uhn-hohl/ __1__ A hole or recess for a pigeon to nest or rest. __2__ One of a series of small compartments for filing papers, etc. __3__ A stereotypical category, not reflecting the complexities.  
-__pigeonhole<sup>2</sup>__ _v tr_ /PIJ-uhn-hohl/ __1__ To place in, or as if, in a pigeonhole. __2__ To lay aside for future consideration. __3__ To stereotype, to put into a preconceived, rigid category.  
+__pigeonhole<sup>2</sup>__ _v tr_ :two: /PIJ-uhn-hohl/ __1__ To place in, or as if, in a pigeonhole. __2__ To lay aside for future consideration. __3__ To stereotype, to put into a preconceived, rigid category.  
 __piggish__  
 __piggy bank__ _n_ A child’s coin bank (often shaped like a pig).  
 __piggy-back__  
-__piggyback__ _v_ :two::hammer:  
+__piggyback__ _v_ :three: /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
 __pigheaded__ _adj_ Obstinate.  
 __pignole__ _n_ :astonished::mega; Pine nuts.  
 __pigs in a blanket__ _n_ (food) :camera:  
 __pigsty__ _n_ (BrE) A pigpen.  
 __pigtail__ _n_ :two::hammer: (pigtails)  
+__pike__ _n_  
 __pilaf__ _n_ _Chicken pilaf._  
 __Pilates__ _n_ :mega: (Etymology: Joseph H. Pilates †1967 U.S. (German-born) fitness instructor.)  
 __pilcrow__ _n_ :two: [:scroll: Apparently an alteration of the word paragraph, with r changing into l and remodeled along the more familiar words pill and crow.] A symbol (¶) used to indicate paragraph breaks.  
@@ -12457,12 +12458,14 @@ __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.
 __pilot light__ _n_ :astonished:  
 __pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
 __Piltdown man__ _n_ A hypothetical early modern human whose existence was inferred from bone fragments allegedly found at Piltdown, England, in 1912 but identified as a hoax in 1953.  
-__pimple__ _n_ :two::hammer: _Pop the pimples._  
+__pimple__ _n_ :three::hammer: _Pop the pimples._  
+__pin__ _v_ _Pinned it against the wall._  
 __pin-curled__  
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
 __pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
 __pinafore__  
+__pinback__ _n_ :two::hammer:  
 __pincer__ _n_ :two: __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __pinch > in a pinch__  
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
@@ -12472,10 +12475,13 @@ __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down
 __pincher__ _n_ :two::hammer:  
 __pincushion__  
 __pine (for)__ _v_  
+__pine nuts__  
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
+__pinecone__ _n_ The seed-producing cone of a pine tree.  
 __ping__ _v_ _Pinging with heat._  
-__pinion<sup>1</sup>__ _n_  
-__pinion<sup>2</sup>__ _v_ :three::hammer: (pinioned)  
+__pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
+__pinion<sup>1</sup>__ _n_ :two: /PIN-yuhn/ __1__ A feather or a wing, especially the terminal segment of a wing. __2__ A small cogwheel engaging with a larger wheel or a rack.  
+__pinion<sup>2</sup>__ _v tr_ :four: (pinioned) __1__ To cut or bind the wing of a bird. __2__ To bind, restrain, shackle, etc.  
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
 __pink slip__  
@@ -12489,11 +12495,14 @@ __pinnacle<sup>1</sup>__ _n_ [:scroll: From Old French, from Latin pinnaculum, d
 __pinnacle<sup>2</sup>__ _adj_ __1__ To reach the peak of achievement, development, etc. __2__ To form a pinnacle.  
 __pinned__  
 __pinning__ _v_  
+__piñon__ _n_ _A 30-minute excursion through pines and piñons._  
+__Pinot Gris__ _n_  
 __pinpoint<sup>1</sup>__ _v tr_  
 __pinpoint<sup>2</sup>__ _n_ :two::hammer: _His face was covered with pinpoints of sweat and dirt._  
 __pinpoint<sup>3</sup>__ _adj_  
 __pinpricks__ _n_  
 __pins and needles__ _n pl_ :es: hormigueo  
+__pinstripes__ _n_  
 __pinwheel__ _v_  
 __pinwheeling__  
 __pions__ _n_  
@@ -12505,6 +12514,7 @@ __pipeline__
 __pipeyard__  
 __piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges of clothes or furniture. _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
+__piquancy__  
 __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::m::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
@@ -12512,7 +12522,7 @@ __pirogue__ _n_ :three: A canoe made from a hollowed tree trunk. _Syn_ dugout ca
 __pirouette<sup>1</sup>__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
 __pirouette<sup>2</sup>__ _v intr_  
 __Pisces__ _n_ /ˈpaɪsiːz; ˈpɪ-/  
-__piscine__ _adj_ :astonished: Of, relating to, or characteristic of a fish or fishes.  
+__piscine__ _adj_ :two::astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or characteristic of a fish or fishes.  
 __pissed__ _adj_  
 __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
@@ -12521,7 +12531,7 @@ __pit latrine__ _n_
 __pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :three::hammer: _The pit of his stomach._ _Money pit._ _A pit of snakes._  
-__pit<sup>2</sup>__ _v_ :three::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
+__pit<sup>2</sup>__ _v tr_ :four::hammer: __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._ _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
 __pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
 __pitch in__ _v_  
 __pitch__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
@@ -12544,7 +12554,7 @@ __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._
 __pituitary__  
 __pivot<sup>1</sup>__ _n_ :three: __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
 __pivot<sup>2</sup>__ _v_  
-__pivotal__ _adj_ :four: __2__ Of crucial importance.  
+__pivotal__ _adj_ :five: __2__ Of crucial importance.  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull’s penis.  
