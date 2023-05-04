@@ -156,21 +156,6 @@ __hulk out__
 __hunker down__  
 __hunky-dory__  
 __hush money__  
-__I can imagine__ :three::hammer:  
-__I hear you__  
-__I know the feeling__  
-__I saw what you did there__  
-__icky__  
-__if nothing else__ A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._  
-__in (a) shambles__ :two::hammer:  
-__in (one’s) tracks__  
-__in (the) light of (something)__  
-__in a big bad way__  
-__in a heartbeat__  
-__in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
-__in a rut__  
-__in and of itself__ By itself, without considering any other factors. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._  
-__in any way, shape, or form__  
 __in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
 __in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
