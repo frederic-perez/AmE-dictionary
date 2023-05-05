@@ -367,26 +367,6 @@ __pore__ _v intr_
 __pork pie__ _n_  
 __portend__ _v tr_ :two::hammer: /por-TEND/  
 __porter__ _n_  
-__porterhouse__ _n_ :four::hammer: _Its tender dry-aged porterhouse is unmatched._  
-__portico__ _n_  
-__Portlander__ _n_  
-__Portuguese__ _adj, n_  
-__possum__ _n_  
-__postponement__ _n_  
-__postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
-__posturing__  
-__pot-bellied__ _adj_ _Pot-bellied seahorses._  
-__potentate__ _n_ :two: One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
-__potsticker__ _n_  
-__potty-train__ _v_  
-__POTUS__ _n_ /ˈpəʊtəs/ Acronym for (in the US) President of the United States.  
-__poutine__  
-__powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
-__power-cycle__ _v_  
-__powermark__ _n_  
-__prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
-__preachment__ _n_ A tiresome or unwelcome moral lecture or discourse; tedious sermonizing. _Syn_ homily _Don’t torment me with your preachments now, unless you want to kill me outright._  
-__preceptor__ _n_  
 __precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
 __predate__ _v_ _This standard predates the emergence of smartphones._  

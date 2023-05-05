@@ -12796,19 +12796,22 @@ __portal__
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
-__portentous__ _adj_ :two::hammer:  
+__porterhouse__ _n_ :six::hammer: :es: bistec de filete _Its tender dry-aged porterhouse is unmatched._  
 __porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
+__portico__ _n_  
+__Portlander__ _n_  
 __portly__  
 __portmanteau__ _n_ :two: A large leather suitcase that opens into two hinged compartments. _Syn_ Gladstone _With both sides stuffed to capacity, he needed to sit on top of the portmanteau in order to close it._  
 __portrait__  
 __portray__ _v_  
 __portrayal__ _n_ :two::mega::hammer:  
+__Portuguese__ _adj, n_  
 __pose__ _v_ :two::hammer: _That’s the question I pose to you._  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :four::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
-__possum__ _n_ :two::hammer: :es: zarigüeya  
+__possum__ _n_ :three::hammer: :es: zarigüeya  
 __post hoc__ _adj, adv, n_ :two::hammer:  
 __postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
@@ -12820,17 +12823,21 @@ __postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupe
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
 __postmortem__ _n_  
+__postponement__ _n_  
 __postscript__ _n_  
-__postulate__ _v_ (postulated)  
+__postulate__ _v_ :two: /PAHSS-chuh-layt/ (postulate) To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
+__posturing__  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunker__ _n_ :two::hammer: (golf) A small, circular but deep bunker with steep faces. _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
+__pot-bellied__ _adj_ _Pot-bellied seahorses._  
 __pot-valiant<sup>1</sup>__ _n_ /POT-val-yuhnt/ [:scroll: From pot, alluding to a drinking pot + valor (boldness), from Latin valor (worth), from valere (to be well, be of worth). Earliest documented use: 1647.] Someone pot-valiant is also said to display liquid courage or Dutch courage. A person displaying boldness or courage while drunk.  
 __pot-valiant<sup>2</sup>__ _adj_ /POT-val-yuhnt/ Displaying bravado under the influence of alcohol.  
 __potatoes__ _n_ :pencil2::mega:  
 __potbelly__ _n_  
 __Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: _“the Potemkin village of this country’s borrowed prosperity” (Lewis H. Lapham)._  
 __potent__ _adj_ :two::hammer:  
+__potentate__ _n_ :two: One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
 __potentiometer__ _n_  
 __pothead__  
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
@@ -12839,9 +12846,12 @@ __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s 
 __potion__ _n_  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __potshot__ _n_  
+__potsticker__ _n_  
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n informal_ :two: Toilet training.  
 __potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
+__potty-train__ _v_  
+__POTUS__ _n_ /ˈpəʊtəs/ Acronym for (in the US) President of the United States.  
 __pouch__ _n_  
 __poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fashionable in the 14th-15th centuries. __2__ A shoe made in this way.  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
@@ -12852,20 +12862,23 @@ __pounding__ _v_ _Pounding the Jaguars._
 __pour-over coffee__ _n_  
 __pout__ _v_ :nine::m: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: _The child’s lips pouted._ _You better not cry, you better not pout._  
 __pouter__ _n_ Someone with a habitually sullen or gloomy expression. _Syn_ picklepuss, sourpuss _What will it take for you to stop being such a pouter and enjoy yourself?_  
-__poutine__ _n_  
+__poutine__ _n_ :two::hammer:  
 __pouty__ _adj_  
 __pow-wow__  
 __powder blue__ _n_ :camera: A moderate to pale blue or purplish blue.  
 __powder keg__  
+__powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
 __power bar__  
 __power play__  
 __power storm__  
 __power strip__ _n_ :two: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
 __power tool__ _n_  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _“He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
+__power-cycle__ _v_  
 __powerbocking__ _n_ The act of powerbocking is jumping and running with elastic-like spring-loaded stilts.  
 __powerhouse__ _n_ :three::dart: A highly energetic and indefatigable person.  
 __powerlessness__  
+__powermark__ _n_  
 __powermongers__ _n_  
 __powwows__ _n_  
 __pox__  
@@ -12878,6 +12891,7 @@ __pram suit__ _n_
 __pram__ _n_ :three::hammer:  
 __prance__ _v_ :eight: (pranced, prancing) __1__ To walk with a lofty proud gait, often in an attempt to impress others. _Syn_ strut, swagger, tittup, sashay, cock, ruffle _On the floor exercise, Wieber prances, tumbles and smiles._ __2__ Spring forward on the hind legs. _The horse pranced._ _Prancing reindeer._ __3__ Cause (a horse) to bound spring forward. __4__ Ride a horse such that it springs and bounds forward.  
 __prat__ _n_ _British_ A stupid or foolish person. _He could be such a prat at times._  
+__prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
 __prattle<sup>1</sup>__ _n_  
 __prattle<sup>2</sup>__ _v_ :four: To talk or chatter idly or meaninglessly; babble or prate. _Syn_ blabber, piffle, gabble, prate _The group of tourists on the plane wouldn’t stop talking, and I fell asleep listening to them prattle._  
 __prayer beads__ _n_ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
@@ -12885,12 +12899,13 @@ __prayer book__
 __prayer wheel__  
 __praying mantis__ _n_ A mantis, especially the European species _Mantis religiosa_, which while at rest folds its front legs as if in prayer.  
 __pre-emptive__  
+__preachment__ _n_ A tiresome or unwelcome moral lecture or discourse; tedious sermonizing. _Syn_ homily _Don’t torment me with your preachments now, unless you want to kill me outright._  
 __precarious__ _adj_ :two: /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
 __preceded__ _v_  
 __precedent<sup>1</sup>__ _n_  
 __precedent<sup>2</sup>__ _adj_  
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
-__preceptor__ _n_ :two::hammer:  
+__preceptor__ _n_ :three::hammer:  
 __precint__  
 __precipitancy__ _n_ The quality of happening with headlong haste or without warning. _Syn_ suddenness, abruptness  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
