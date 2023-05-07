@@ -565,26 +565,6 @@ __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.
 __reservoir computing__ _n_  
 __reset__ _n_ :mega:  
 __resonate__ _v_  
-__respite__ _n_ :four::hammer:  
-__resplendent__ _adj_ :pencil2:  
-__restaurateur__ _n_  
-__restroom__ _n_  
-__resumption__ _n_ _Power resumption._  
-__retcon<sup>1</sup>__ _n_ :two::hammer:  
-__retcon<sup>2</sup>__ _v_  
-__retention__ _n_ _Employee retention._  
-__reticent__ _adj_ Inclined to keep one’s thoughts, feelings, and personal affairs to oneself. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._  
-__reticle__ _n_ A grid or pattern placed in the eyepiece of an optical instrument, used to establish scale or position. _Syn_ graticule, reticule  
-__retiree__ _n_  
-__retrace__ _v_  
-__retrofit__ _v_  
-__retrospective__ _adj_ /reh-truh-SPEK-tiv/  
-__retsina__ _n_  
-__revel__ _v intr_ :three::hammer:  
-__revelry__ _n_ :two::hammer:  
-__revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
-__revue__ _n_ :three::hammer: _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._  
-__reward__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
 __rhododendrons__ _n_ :pencil2:  

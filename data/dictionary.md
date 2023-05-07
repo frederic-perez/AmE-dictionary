@@ -13866,14 +13866,14 @@ __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._
 __resounding__ _adj_ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
 __respite__ _n_ :nine::m: /ˈrɛspɪt; -paɪt/ A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
-__resplendent__ _adj_ Splendid or dazzling in appearance; brilliant.  
+__resplendent__ _adj_ :two::pencil2: Splendid or dazzling in appearance; brilliant.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
 __responsive__ _adj_ /rih-SPAHN-siv/  
 __rest home__ _n_  
 __restate__ _v_  
-__restaurateur__ _n_ :two: /res-tuh-ruh-TER/ A restaurateur is a person who owns or manages a restaurant.  
+__restaurateur__ _n_ :three: /res-tuh-ruh-TER/ A restaurateur is a person who owns or manages a restaurant.  
 __restenosis__ _n_  
 __restitution__ _n_ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :four: Unwilling to be controlled or be patient.  
@@ -13881,7 +13881,8 @@ __restless__ _adj_
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ _n_ :three: __3__ Control of the expression of one’s feelings; constraint.  
-__resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
+__restroom__ _n_  
+__resumption__ _n_ :seven::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._ _Power resumption._  
 __resurgence__  
 __resurrection__ _n_ /ˌrɛz əˈrɛk ʃən/ _The community applauded the resurrection of the commuter rail system._  
 __resuscitate__ _v_ :astonished:  
@@ -13890,17 +13891,21 @@ __retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b_
 __retaliate__ _v_ :two::hammer:  
 __retch__ _v_ :four::hammer: (retched)  
 __retcon__ _n_ /RET-kon/ [:scroll: From the first three letters of words in the phrase _retroactive continuity_] The introduction of new information to give a different interpretation of an established storyline.  
+__retcon<sup>1</sup>__ _n_ :two::hammer:  
+__retcon<sup>2</sup>__ _v_  
 __retelling__  
-__retention__  
+__retention__ _n_ :two::hammer: _Employee retention._  
 __rethoric__ _n_ :two::mega::hammer:  
-__reticent__ _adj_ :astonished: Unwilling to speak; reserved; taciturn, uncommunicative: _She was reticent to answer our questions._ Not to be confused with: reluctant: disinclined; unwilling to act: _She’s reluctant to report him to the police._  
+__reticent__ _adj_ :two::astonished: Inclined to keep one’s thoughts, feelings, and personal affairs to oneself.Unwilling to speak; reserved; taciturn, uncommunicative. _Syn_ untalkative _She was so reticent about her personal life that even her roommates did not know she had a boyfriend._ _She was reticent to answer our questions._ Not to be confused with: reluctant: disinclined; unwilling to act: _She’s reluctant to report him to the police._  
+__reticle__ _n_ A grid or pattern placed in the eyepiece of an optical instrument, used to establish scale or position. _Syn_ graticule, reticule  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
 __retinue__ _n_ :six: (retinues) The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
-__retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
+__retiree__ _n_ :four::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
 __retort__ _v_ (retorted)  
+__retrace__ _v_  
 __retracement__  
 __retract__ _v_  
 __retractable__ _adj_ _Retractable bed._  
@@ -13912,10 +13917,13 @@ __retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.
 __retrenchment__ _n_ :two::hammer: _An era of American retrenchment._  
 __retribution__  
 __retrocede__ _v_  
+__retrofit__ _v_  
 __retrograde<sup>1</sup>__ _adj_ :two::hammer: _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
 __retrograde<sup>2</sup>__ _v_  
 __retronym__ _n_  
 __retroscopic__  
+__retrospective__ _adj_ /reh-truh-SPEK-tiv/  
+__retsina__ _n_  
 __returnee__  
 __Reuben James__  
 __Reuben__ _n_ :mega: /ro͞o′bən/ A hot sandwich consisting of corned beef, Swiss cheese, and sauerkraut usually served on rye bread.  
@@ -13924,14 +13932,15 @@ __reunite__ _v_ :three::hammer:
 __rev up__ _v_  
 __reveal__ _n_  
 __reveille__ _n_ :two::hammer: _Reveille was at 0430._  
-__revel__ _v_ :eight: (revelled, revelling, reveling) __1__ To take great pleasure or delight: _She reveled in her unaccustomed leisure._ _He paused for a moment, reveling in their incredulity._ __2__ To engage in uproarious festivities; make merry.  
+__revel__ _v intr_ :nine::m: (revelled, revelling, reveling) __1__ To take great pleasure or delight: _She reveled in her unaccustomed leisure._ _He paused for a moment, reveling in their incredulity._ __2__ To engage in uproarious festivities; make merry.  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
-__revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
+__revelry__ _n_ :six: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
 __reverberate__ _v_ Ring or echo with sound. _Syn_ resound, ring, echo _The explosion reverberated through the castle._  
 __revered__  
 __reversal of fortune__  
 __reversible__  
+__revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
 __revile__ _v_ :two::hammer:  
 __revisionist__  
 __revisit__ _v_  
@@ -13939,7 +13948,8 @@ __revive__ _v_ _To revive unemployment benefits._
 __revocation__  
 __Revolutionary War__  
 __revolve__ _v_  
-__revue__ _n_ :two::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ :es: revista, show  
+__revue__ _n_ :five::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._ :es: revista, show  
+__reward__ _n_ :mega:  
 __rezoning__  
 __rhabdomancy__  
 __rhapsodize__ _v_ :two::hammer:  
