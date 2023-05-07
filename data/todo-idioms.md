@@ -348,22 +348,6 @@ __on the sidelines__ If you are _on the sidelines_ in a situation, you watch it 
 __on the spur of the moment__  
 __on the verge of__ :two::hammer:  
 __on the whole__  
-__once and for all__ :three: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. As a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
-__one for the books__ (one for the book)  
-__otherworldly__  
-__out of harm’s way__  
-__out of sight, out of mind__  
-__out of whack__ :dart::two: _My hormones are out of whack._  
-__out with the old, in with the new__  
-__out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later. _As long as people have to pay out of pocket to see a physician, many people will not get the necessary care._  
-__ouy (of) the (starting) gate__  
-__owing to__ :dart::two: Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._ _Cancer plans are essential owing to the complexity of care._  
-__panic attack__  
-__part ways (with one)__  
-__party crasher__ One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
-__party pooper__  
-__pass along__  
-__pass with flying colors__  
 __pave the way__ :two::hammer:  
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
