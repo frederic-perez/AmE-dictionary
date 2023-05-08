@@ -582,26 +582,6 @@ __riff__ _v_
 __right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
-__riparian__ _adj_ :four: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._  
-__riposte__ _n_ :astonished: /rih-POHST/ A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
-__ritzy__ _adj_ /RIT-see/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier known for luxurious hotels] Stylish, glamorous, elegant, fashionable, etc., especially in an ostentatious manner.  
-__rive<sup>1</sup>__ _v tr_ /raɪv/ To tear, split, fracture, etc.  
-__rive<sup>2</sup>__ _v intr_ To become split or to cracked.  
-__riverfront__  
-__riverside__  
-__roadblock__ _n_ _Substantial roadblocks stand in the way._  
-__roadside__  
-__roam__ _v_ :three::hammer: _Cuts of beef served tableside by a parade of roaming carvers._ _Users must be able to roam between networks._  
-__roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
-__Robert Burns__ _n_  
-__rocker__ _n_ _Porch rockers._  
-__rockery__ _n_ :four::hammer:  
-__rogue planet__ _n_  
-__roll call__ _n_ _A unique roll call of featured designers._  
-__rollaway bed__  
-__rollicking__  
-__rolling hills__ _n_ :four::hammer:  
-__rom-com__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
 __romp__ _v_  
 __ronin__  

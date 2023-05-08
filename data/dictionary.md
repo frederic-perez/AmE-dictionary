@@ -14029,11 +14029,11 @@ __riotous__ _adj_ :two::hammer:
 __rip your wiring out__  
 __rip__ _v_ _The bullets rip._  
 __rip-off__ _n_ _slang_ Something that is not worth what you pay for it.  
-__riparian__ _adj_ Of, on, or relating to the banks of a natural course of water. _Riparian woodland._  
+__riparian__ _adj_ :five: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._ _Riparian woodland._  
 __ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ _The ripe-smelling barn._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __ripoff__ _n_ _slang_  
-__riposte__ _n_ :three::hammer: (ripostes)  
+__riposte__ _n_ :four::astonished: /rih-POHST/ (ripostes) A clever retort or retaliatory measure. In fencing, it refers specifically to a quick return thrust immediately following a successful defensive action. _She’s known for having a brilliant riposte to nearly any insult._  
 __ripped__ _v_  
 __ripple<sup>1</sup>__ _n_ _Can send ripples of positivity throughout your workplace?_  
 __ripple<sup>2</sup>__ _v_ :four::hammer: (rippled)  
@@ -14045,25 +14045,30 @@ __risible__ _adj_ :four: __1__ Having a tendency to laugh. __2__ Causing laughte
 __rite__ _n_ :two::hammer:  
 __ritz<sup>1</sup>__ _n_ /rits/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier.] Luxury, glamor, opulence, etc. The word ritz is often used in the phrase “to put on the ritz” meaning to “make an ostentatious show.”  
 __ritz<sup>2</sup>__ _v tr_ /rits/ __1__ To make a show of luxury or opulence. __2__ To behave haughtily toward someone; to snub.  
-__ritzy__ _adj_ :four: /RIT-see/ (ritzier, ritziest) Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy. _One of the ritziest restaurants._  
-__rived__ _v_  
+__ritzy__ _adj_ :five: /RIT-see/ (ritzier, ritziest) [:scroll: After César Ritz (1850-1918), a Swiss hotelier known for luxurious hotels] Stylish, glamorous, elegant, fashionable, etc., especially in an ostentatious manner. Ritzy is used to describe things that are fancy or stylish in ways that one might consider impressive or showy. _One of the ritziest restaurants._  
+__rive<sup>1</sup>__ _v tr_ /raɪv/ To tear, split, fracture, etc.  
+__rive<sup>2</sup>__ _v intr_ :two: To become split or to cracked.  
 __riven__  
 __river outfitter__  
+__riverfront__  
+__riverside__  
 __rivulet__ _n_ :three::hammer: (rivulets) _Rivulets of blood._  
 __roach motel__ _n_ In computing, a type of dark pattern deceptive user interface. _The “roach motel” is another opt-in tactic dubbed as such because it opts you in and makes it nearly impossible to leave._  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :pencil2:  
 __road salt__ _n_  
-__roadblock__ _n_  
+__roadblock__ _n_ :two::hammer: _Substantial roadblocks stand in the way._  
 __roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
-__roadside__ _n_ __1a__ Ahe area at the edge of a road. __b__ (as modifier): _roadside diners._ _Roadside billboards._  
-__roam__ _v_ :seven: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
+__roadside__ _n_ :two: __1a__ Ahe area at the edge of a road. __b__ (as modifier): _roadside diners._ _Roadside billboards._  
+__roam__ _v_ :nine::m: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._ _Users must be able to roam between networks._ _Cuts of beef served tableside by a parade of roaming carvers._  
+__roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __roast__ _n_  
 __roasted__ _adj_ (meat) Cooked by dry heat in an oven. _Roasted tea._ :camera:  
 __robe<sup>1</sup>__ _n_ :two::hammer: _The judge’s robe._  
 __robe<sup>2</sup>__ _v_  
 __robed__ _adj_ Dressed or clothed especially in fine attire; often used in combination. _Crimson-robed nuns._  
+__Robert Burns__ _n_  
 __robin-breasted__  
 __Robinson__ _n_ /ˈrɒbɪnsən/  
 __robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
@@ -14072,6 +14077,8 @@ __rock salt__ _n_ _Rock salt is used in the UK to treat roads during the winter 
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _n_ _Is this rock-paper-scissors?_  
+__rocker__ _n_ _Porch rockers._  
+__rockery__ _n_ :four::hammer:  
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __rocket__ _n_ :mega:  
 __rocky road__ _n_ One of the more common flavors that you’ll see outside of plain vanilla and chocolate ice cream. It’s made by mixing chocolate ice cream with marshmallows and chopped almonds.  
@@ -14083,6 +14090,7 @@ __roe__ _n_ :two::hammer: _A roe deer._
 __roebuck__  
 __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
 __roger__ _n_ _The first message is a roger to Alpha 66._  
+__rogue planet__ _n_  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyance in others. _Syn_ mischief, devilment, rascality _Ms. Adams caught Tommy dipping Sally’s pigtail in his inkwell and gave him detention for his roguery._  
@@ -14091,22 +14099,24 @@ __roister__ _v_ :three: /ROY-ster/ Engage in boisterous, drunken merrymaking. _S
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __role play__ _v_  
 __roll (someone’s) eyes__  
-__roll call__ _n_ :two: The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
+__roll call__ _n_ :three: The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._ _A unique roll call of featured designers._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
 __roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over my gym shorts._ _A deli where I buy a morning paper, roll and coffee._  
 __roll<sup>2</sup>__ _v_ :eight::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._ _Roll the video, please._ _You rolled 6, you go 6._ _They hadn’t rolled or pitched too much in the storm they hit just outside of San Francisco._  
+__rollaway bed__  
 __roller bag__  
 __roller derby__  
-__rollicking__ _adj_ :two: Boisterously carefree, joyful, or high-spirited. _A rollicking adventure film._  
+__rollicking__ _adj_ :three: Boisterously carefree, joyful, or high-spirited. _A rollicking adventure film._  
 __rolling back__ _v_  
 __rolling caisson__  
-__rolling hills__ _n_ :two::hammer: :es: colinas (onduladas)  
+__rolling hills__ _n_ :six::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
 __rollout__ _n_ :six::hammer: (rollouts) _Vaccine rollout._  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
+__rom-com__  
 __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
 __romance__ _n_ :astonished:  
 __romancer__  
