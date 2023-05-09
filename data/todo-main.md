@@ -30,10 +30,13 @@ __bowdlerize__
 __brain fog__ _n_  
 __breadwinner__ _n_ :pencil2:  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
-__cachinnate__ _v intr_ :two::hammer:  
+__cachinnate__ _v intr_ :three::hammer:  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __carouse__ _v_ /kuh-ROWZ/ (“OW” as in ‘cow’) To drink alcohol, make noise, and have fun with other people. _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._  
+__chivalry__ _n_ /SHIV-ul-ree/  
 __chokehold__ _n_ A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._  
+__chophouse__ _n_ A restaurant that specializes in steaks. _Syn_ steakhouse  
+__chrism__ _n_ A consecrated mixture of oil and balsam, used for anointing in church sacraments such as baptism and confirmation. _Syn_ holy oil, sacramental oil  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
@@ -56,6 +59,7 @@ __curt__
 __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
 __declivity__ _n_ A downward slope or bend. _Syn_ fall, downslope, declension, declination, decline, descent  
 __decongestant__ _n_  
+__deepfake__ _n_ /DEEP-fayk/ Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
 __default__ _v_  
 __deflect__ _v_  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
@@ -81,6 +85,7 @@ __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __Energizer Bunny__  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
+__eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __eradicate__ _v tr_  
 __erupt__ _v_  
@@ -98,7 +103,9 @@ __foil__ _v tr_
 __forthright__ _adj_  
 __fortitude__ _n_ /FOR-tuh-tood/  
 __friction__ _n_  
+__fulcrum__ _n_ /FULL-krum/ In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something. _Although the lead actor was phenomenal, critics believe that the supporting cast was the real fulcrum of the show._  
 __fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate pests or disinfect. _Syn_ fume  
+__gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
@@ -115,6 +122,7 @@ __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them 
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
 __integer__ _n_ :mega:  
+__ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __juvenilize__  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
@@ -630,6 +638,7 @@ __sarsaparilla__ _n_
 __sashimi__ _n_  
 __sassy__  
 __sate__ _v_ _Sate your appetite._  
+__satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
 __Saturnalian__ _adj_ /sat-uhr-NAY-lee-uhn/ Marked by unrestrained revelry, overindulgence, licentiousness, etc.  
@@ -858,6 +867,7 @@ __sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homest
 __sofa bed__ _n_ :two::hammer:  
 __softball__ _n_  
 __sol__ _n_ __4__ A colloidal solution.  
+__solemnity__ _n_ A trait of dignified seriousness. _Syn_ staidness, sedateness  
 __solicitor__ _n_ /səˈlɪsɪtəʳ/  
 __soloist__ _n_  
 __sonnet__ _n_  
@@ -870,6 +880,7 @@ __sought-after__
 __soul food__ _n_  
 __soul-searching__ _n_ Examination of one’s conscience especially with regard to motives and values.  
 __soundness__ _n_  
+__soupcon__ _n_ A very small amount; a trace. _Syn_ mite, tinge, jot, hint, pinch, speck, touch _This dish could use a soupcon of salt._  
 __southerly__ _adj_  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -1033,6 +1044,7 @@ __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneou
 __sundry<sup>1</sup>__ _adj_  
 __sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
+__sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __supercalifragilisticexpialidocious__ _adj_ :two: Used as a nonsense word by children to express approval or to represent the longest word in English.  
@@ -1097,6 +1109,7 @@ __tautomer__ _n_
 __tavern__ _n_  
 __taxi__ _n_ (_n pl_ taxis, or taxies)  
 __taxonomy__ _n_  
+__Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
 __technical__ _adj_ _Technical garments._  
 __tedium__ _n_ _The bitter tedium of his daily life._  
 __teem__ _v_ :two::hammer: (teeming) _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
@@ -1298,6 +1311,7 @@ __unassuming__ _adj_
 __uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
 __uncouth__  
 __uncross__ _v tr_ _Uncross our arms._  
+__unctuous__ _adj_ /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
 __undemosaick__ _v_ _Undemosaicked pixels._  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ :two::hammer: /ˈʌn dərˌbɛl i/ _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
@@ -1408,6 +1422,8 @@ __vociferous__ _adj_ /voh-SIF-uh-rus/
 __voles__ _n_ _Water voles._  
 __volition__ _n_ /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” _Every choice I made was of my own volition and not subject to outside influence._  
 __voucher__ _n_ _A lunch voucher._  
+__Vulcan<sup>1</sup>__ _n_ /VUHL-kuhn/ __1__ A blacksmith or a metalworker. __2__ A miner. __3__ A person whose leg is broken or deformed. __4__ A cuckold: a man whose wife is unfaithful. __5__ One who is extremely logical and shows a lack of emotions, humor, etc.  
+__Vulcan<sup>2</sup>__ _adj_ Extremely logical, unemotional, etc.  
 __wade__ _v_ :two::hammer:  
 __waffle__  
 __wager__ _v_ :two::hammer:  
