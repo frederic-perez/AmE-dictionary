@@ -322,26 +322,6 @@ __pickup__ _adj_ _A pickup team._
 __picky__ _adj_  
 __pico de gallo__ _n_ :two::hammer:  
 __pizzeria__ _n_ :mega:  
-__planter__ _n_ :four: __3__ An early settler or colonist.  
-__plantman__ _n_  
-__plantwoman__ _n_  
-__plateau<sup>1</sup>__ _n_  
-__plateau<sup>2</sup>__ _v_  
-__Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
-__platted__ _v_  
-__plausible__ _adj_ :two::hammer: /PLAW-zuh-bul/  
-__playpark__ _n_  
-__pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
-__plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abundance.  
-__plenteous__ _adj_  
-__plentiful__  
-__plenty__ _n_ _There are plenty of shops._  
-__plethora__ _n_ :three::hammer:  
-__plop__ _v_ __3__ To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._  
-__plot<sup>1/sup>__ _n_ _Vegetable plot._  
-__plot<sup>2</sup>__ _v tr_ __4__ To form a plot for; prearrange secretly or deviously: _plot an assassination._ _China is plotting to take control of enemy satellites._  
-__plummet__ _v_  
-__plummeted__ _v_  
 __plump__ _v_  
 __plush__ _n_ _A plush booth in the bar._  
 __plushy__ _adj_  

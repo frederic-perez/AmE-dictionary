@@ -12583,7 +12583,9 @@ __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trum
 __plankton__ _n_  
 __plano__ _adj_ Having a flat surface. A corrective lens with a power of zero is called a _plano lens_. These lenses are used when one or both eyes do not require correction of a refractive error. Some people with good natural eyesight like to wear eyeglasses as a style accessory, or want to change the appearance of their eyes using novelty contact lenses. _Plano sunglasses._  
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
-__planter__ _n_ _My sidewalk planter._  
+__planter__ _n_ :five::hammer: _My sidewalk planter._ __3__ An early settler or colonist.  
+__plantman__ _n_  
+__plantwoman__ _n_  
 __plaque__ _n_ _Plaque in arteries._  
 __plashed__ _v_  
 __plasmapheresis__ _n_  
@@ -12591,11 +12593,13 @@ __plaster<sup>1</sup>__ _n_ :two: (plasters) __4__ (Chiefly British) An adhesive
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
+__plat__ _v tr_ (platted)  
 __plate armor__ _n_ :two::hammer:  
 __plate__ _n_ :two: __1a__ A smooth flat thin piece of material. __b__ Forged, rolled, or cast metal in sheets usually thicker than ¹/₄ inch (6 millimeters). __c__ A very thin layer of metal deposited on a surface of base metal by plating. __d__ One of the broad metal pieces used in armor; also armor of such plates. _Linked plates._ __9__ _Baseball_ Home plate.  
 __plate-glass__ _n_  
-__plateau<sup>1</sup>__ _n_  
-__plateau<sup>2</sup>__ _v_ :two: (plateaued, plateauing) To reach a stable level; level off.  
+__plateau<sup>1</sup>__ _n_ :two::hammer:  
+__plateau<sup>2</sup>__ _v_ :three: (plateaued, plateauing) To reach a stable level; level off.  
+__Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
 __plating__ _n_ _It’s your armor plating._  
 __platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :five::hammer: (platitudes)  
@@ -12604,7 +12608,7 @@ __platter__ _n_ A large shallow usually oval dish or plate, used for serving foo
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
 __plaudit__ _n_ :three: (plaudits) An enthusiastic expression of approval.  
 __plausibility__ _n_ :pencil2:  
-__plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father’s plausive nod was likely as much praise as Jane would receive from her stoic parents._  
+__plausible__ _adj_ :three::astonished: /PLAW-zuh-bul/ Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father’s plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
 __play down something__ _phr v_ :two: To make something seem less important than it is. _She tried to play down her beauty._  
 __play havoc__  
@@ -12616,6 +12620,7 @@ __playbook__ _n_ :six::hammer: _The industry’s playbook._
 __playful__ _adj_ _A playful aside._  
 __playmaker__ _n_ :two: A player who leads the offense for a team (as in basketball or hockey).  
 __playmaking__ _n_ _His playmaking ability._  
+__playpark__ _n_  
 __playpen__ _n_ :two: A portable enclosure in which babies may be left to play. _Playpen balls._  
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
@@ -12625,11 +12630,16 @@ __plead out__
 __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ _adv_ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
+__pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
 __plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
 __pledge__ _n_ :three::hammer:  
+__plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abundance.  
+__plenteous__ _adj_  
+__plentiful__  
 __plenty of (something)__  
+__plenty__ _n_ _There are plenty of shops._  
 __pleonastic__ _adj_ Characterized by the repetition of the same sense in different words. _Syn_ redundant, tautological _“A true fact” and “a free gift” are pleonastic expressions._  
-__plethora__ _n_ :six: Extreme excess.  
+__plethora__ _n_ :nine: Extreme excess.  
 __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
 __pliable__ _adj_ _The pliable GOP._  
 __pliant__ _adj_ :four: Easily bent or flexed; pliable. _Syn_ bendable _A pliant young waitress._  
@@ -12643,8 +12653,9 @@ __plinth__ _n_ :four::hammer: (plinths)
 __plod__ _v_ :eight: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
 __plonk__ _v_ (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
-__plop<sup>2</sup>__ _v_ :eight: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._ _He plopped his hat on._  
-__plot__ _n_ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
+__plop<sup>2</sup>__ _v_ :nine: (plopping, plopped, plops) __3__ Fall or cause to fall with a plop. To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._ _The stone plopped into the pond._ _He plopped his hat on._  
+__plot<sup>1/sup>__ _n_ :three::hammer: _A plot of dirt._ _In the same plot of sand._ _Vegetable plot._  
+__plot<sup>2</sup>__ _v tr_ __4__ To form a plot for; prearrange secretly or deviously: _plot an assassination._ _China is plotting to take control of enemy satellites._  
 __plotz__ _v_ :two: _informal_ To faint, collapse, explode, or flop down, as from excitement, frustration, surprise, exhaustion, etc. From Yiddish platsn (to burst), from German platzen (to burst). _I laughed so hard I almost plotzed._  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
@@ -12660,7 +12671,7 @@ __plumb__ _v_ :two::hammer:
 __plumbago__ _n_  
 __plumber__ _n_ :mute:[plum~~b~~er]  
 __plumbing__  
-__plummet__ _v_ :five::hammer: (plummeted, plummeting)  
+__plummet__ _v_ :seven::hammer: (plummeted, plummeting)  
 __plump__ _adj_ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :seven::hammer: (plundered)  
