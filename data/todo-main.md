@@ -677,26 +677,6 @@ __schuss__ _v_
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scion__ _n_  
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
-__scrumptious__ _adj_ :four: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
-__scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
-__scrutinize__ _v_ /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
-__scrutiny__ _n_ :three::hammer:  
-__scumbag__  
-__scunner<sup>1</sup>__ _v intr_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
-__scunner<sup>2</sup>__ _n_ __1__ Dislike or disgust. __2__ A rascal; nuisance.  
-__sea bass__ _n_ _Chilean sea bass._  
-__seabed__ _n_  
-__seafarer__ _n_ A sailor or mariner. _Syn_ old salt, Jack-tar, mariner, sea dog, seaman, gob, Jack, tar _Then he arose quickly, like a seafarer who all at once seeth the land; and he shouted for joy: for he saw a new truth._  
-__seafaring<sup>1</sup>__ _n_  
-__seafaring<sup>2</sup>__ _adj_ _A seafaring connection._  
-__seafood__ _n_  
-__sealioning__ _n_ A critical term for a form of trolling that involves relentlessly pestering someone with questions and requests (such as for evidence or sources), typically with the goal of upsetting them and making their position or viewpoint seem weak or unreasonable. _Scientists with prominent social media presences know that sealioning is a very common way for trolls to try to fluster them and waste their time._  
-__seamster__ _n_ A tailor. _Syn_ sartor, tailor _We found a talented seamster who fixed the ill-fitting pants in an hour._  
-__searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; highly critical. _Shakespeare’s searing tragedy._  
-__seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
-__seat sticks__  
-__seater__ _n_ __2__ One that has a specified number of seats—used in combination _a 2-seater jet._ _110 seater restaurant._  
-__seating__ _n_ :two::hammer: _Plenty of garden seating._  
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __second__ _v tr_ _I second you._  

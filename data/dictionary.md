@@ -14605,13 +14605,14 @@ __scrubbers__ _n_
 __scruffy__ _adj_ :nine::m::camera: /ˈskrʌfɪ/ (scruffier) Shabby and untidy. Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrum__ _n_  
 __scrummy__ _adj_ :three: Delicious; lovely.  
-__scrumptious__  
+__scrumptious__ _adj_ :five: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
 __scruple__ _n_ An uneasy feeling arising from conscience or principle that tends to hinder action. _Syn_ misgiving, qualm _Lady Macbeth is impatient with her husband’s scruples and goads him into killing the king._  
+__scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
 __scrupulously__  
-__scrutinize__ _v_  
-__scrutiny__ _n_ :three::dart::hammer:  
+__scrutinize__ _v_ :two: /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
+__scrutiny__ _n_ :six::dart::hammer:  
 __scry__ _v_ To see or predict the future by means of a crystal ball.  
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
@@ -14622,9 +14623,9 @@ __scuffle<sup>2</sup>__ _n_ :six::hammer: _Other guards hurried by with a scuffl
 __scull__ _v_ _Sculled the boat._  
 __scullery__ _n_ A small room (in large old British houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.  
 __scum__ _n_ :three::hammer: _He was scum._  
-__scumbag__  
-__scumbags__  
-__scunner__ _n_ A strong dislike. _They took a scunner against the United States._ _To take a scunner to sb/sth._ :es: tomarla con algn/algo, tenerle ojeriza a algn/algo  
+__scumbag__ _n_ :three::hammer:  
+__scunner<sup>1</sup>__ _v intr_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
+__scunner<sup>2</sup>__ _n_ :two: __1__ Dislike or disgust. A strong dislike. _They took a scunner against the United States._ _To take a scunner to sb/sth._ :es: tomarla con algn/algo, tenerle ojeriza a algn/algo __2__ A rascal; nuisance.  
 __scupper__ _v_  
 __scuppers__ _n_ :two::hammer:  
 __scurry<sup>1</sup>__ _v_ :three: To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
@@ -14636,28 +14637,37 @@ __scuttlebutt__ _n_ :three: __1__ _informal_ Rumor; gossip. Stories about someon
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ :four::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
+__sea bass__ _n_ _Chilean sea bass._  
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
-__seabed__  
+__seabed__ _n_ :two::hammer:  
 __Seabees__ _n_ :two::hammer:  
 __seacock__ _n_ :two::hammer:  
-__seafarer__ _n_ :two::hammer:  
-__seafaring__  
+__seafarer__ _n_ :three: A sailor or mariner. _Syn_ old salt, Jack-tar, mariner, sea dog, seaman, gob, Jack, tar _Then he arose quickly, like a seafarer who all at once seeth the land; and he shouted for joy: for he saw a new truth._  
+__seafaring<sup>1</sup>__ _n_  
+__seafaring<sup>2</sup>__ _adj_ :two::hammer: _A seafaring connection._  
+__seafood__ _n_  
 __seagoing__ _adj_ _Seagoing admirals._  
 __seagulls__ _n_ :two::hammer:  
 __seahawk__ _n_  
 __seal__ _v_ _Lacy gained 27 yards to seal their fourth division win._  
+__sealioning__ _n_ A critical term for a form of trolling that involves relentlessly pestering someone with questions and requests (such as for evidence or sources), typically with the goal of upsetting them and making their position or viewpoint seem weak or unreasonable. _Scientists with prominent social media presences know that sealioning is a very common way for trolls to try to fluster them and waste their time._  
 __seamed__ _v_ _A seamed old man._  
 __seamless__  
 __seamlessly__ _adv_  
+__seamster__ _n_ A tailor. _Syn_ sartor, tailor _We found a talented seamster who fixed the ill-fitting pants in an hour._  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
 __seaplane tender__ _n_ :two::hammer:  
 __seaport__ _n_  
 __sear__ _v_ :six: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
-__searing__ _adj_ :two::hammer: _Searing work._  
+__searing__ _adj_ :three: /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. _Searing work._ __3__ Fierce; highly critical. _Shakespeare’s searing tragedy._  
 __seaside__  
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar, condimentar  
+__seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
+__seat sticks__  
+__seater__ _n_ __2__ One that has a specified number of seats—used in combination _a 2-seater jet._ _110 seater restaurant._  
+__seating__ _n_ :two::hammer: _Plenty of garden seating._  
 __seawall__  
 __seaweed__ _n_ :two::hammer: :es: alga  
 __secateurs__ _n_  
