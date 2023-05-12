@@ -2,6 +2,7 @@ __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ house
 __acolyte__ _n_ :two::hammer:  
 __acquittance__ _n_ A written release from an obligation, specifically a receipt indicating payment in full. _Syn_ release  
 __ad nauseam__ _adv_ :two::hammer:  
+__agency__ _n_ __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._  
 __aioli__ _n_  
 __alienate__  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
@@ -27,8 +28,10 @@ __bloaviate__ _v intr_
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __boolean__ _n_ :mega:  
 __bowdlerize__  
+__brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain fog__ _n_  
 __breadwinner__ _n_ :pencil2:  
+__brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __cachinnate__ _v intr_ :three::hammer:  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
@@ -52,7 +55,7 @@ __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
 __craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
-__cringe__ _v_  
+__cringe__ _v_ :two::hammer: _Data scientists both rejoice and cringe._  
 __cue__ _v_  
 __curmudgeon__  
 __curt__  
@@ -93,9 +96,11 @@ __etch__ _v_
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
+__falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
 __farouche__ _adj_  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
+__fictive__ _adj_  
 __finicky__ _adj_  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
@@ -126,12 +131,15 @@ __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a 
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __juvenilize__  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
+__landfill__ _n_  
+__leaner__ _adj_ _AI might make tech companies leaner._  
 __level up__  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __life raft__ _n_  
 __liminal__ _adj_  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
+__luster__  
 __mac and cheese__ _n_  
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
@@ -142,6 +150,7 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
 __mildewed__ _adj_ :es: mohoso  
+__miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
@@ -184,6 +193,7 @@ __onset__ _n_ :mega:
 __onslaught__ _n_  
 __ontology__ _n_  
 __ornamental__ _adj_  
+__orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __outing__ _n_  
 __outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :two::hammer:  
@@ -1039,6 +1049,7 @@ __surcease__ _n_ A stopping. _Syn_ cessation
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __surge__ _n_  
+__surmise__ _v_ :dart:  
 __survival skills__ _n_  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __sustenance__ _n_ :two::hammer:  
@@ -1051,6 +1062,7 @@ __swashbuckling__ _adj_
 __swath__ _n_ (swathes)  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sway__ _n_  
+__sworn__ _adj_ Bound, pledged, or made inveterate, by or as if by an oath: _a sworn statement; he was sworn to God._ _Jedi Knights are sworn protectors of the Force and the Jedi Order._  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  
@@ -1188,6 +1200,7 @@ __top-notch__
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
 __topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
 __toppings__ _n_  
+__torn__ _v_ Past participle of tear. _You feel so torn about what to do._  
 __torpid__ _adj_ :two: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __toss<sup>1</sup>__ _v_ _Create your own salad to be freshly tossed._  
@@ -1334,6 +1347,7 @@ __unsurmountable__ _adj_
 __untapped__ _adj_ /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._  
 __unwavering__ _adj_  
 __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
+__upheaval__ _n_  
 __use__ _v_ _informal_  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
@@ -1424,6 +1438,7 @@ __warrant__ _v_
 __watchword__ _n_ :three: A slogan used to rally support for a cause. _Syn_ cry _“Fight and fall, but fly not,” that was our watchword._  
 __water flumes__ _n_  
 __water__ _n_ :mega:  
+__waterbed__ _n_  
 __waterbugs__ _n_  
 __waterfowl__ _n_  
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
