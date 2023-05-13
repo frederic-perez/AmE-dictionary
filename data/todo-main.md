@@ -774,26 +774,6 @@ __sigmoidoscopy__ _n_
 __signage__ _n_ :three::hammer: _Backlit signage._  
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
-__signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._  
-__signcryption__ _n_ A public-key primitive that simultaneously performs the functions of both digital signature and encryption.  
-__signet ring__ _n_ A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
-__significant__ _adj_ _Time of day is significant._  
-__silly string__ _n_  
-__silviculture__ _n_  
-__simulcast__  
-__sinecure__ _n_ /SYE-nih-kyoor/ Sinecure is a noun that refers to a usually paid job or position that requires little or no work. _The king was in the habit of rewarding his loyal supporters with sinecures._  
-__sinfully__ _adv_ _Sinfully delicious desserts._  
-__sing-along__ _n_  
-__singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
-__sit__ _v_ :two::hammer: _The nightlife district sits just north of the Chicago River._ __17__ To baby-sit for.  
-__sizzle__ _v_ :three::hammer: _Sizzling burgers/soups._  
-__skate__ _n_ _Need skates? Rent them for $10._  
-__skeeball__ _n_  
-__skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
-__sketch__ _v_ _Let us briefly sketch its major challenges._  
-__skewer__ _n_ _Skewers of meats, vegetables, and fruits._  
-__ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
-__skit__ _n_ :two::hammer: _Skit theater._  
 __sky diving__  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v tr_  

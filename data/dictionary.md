@@ -15112,11 +15112,12 @@ __sign-off__ _n_
 __signage__ _n_ :five: /ˈsaɪ nɪdʒ/ Signs collectively. _The neon signage._ _Family upset his individual feat isn’t honored with signage._  
 __signal__ _n_ :mega:  
 __signature<sup>1</sup>__ _n_  
-__signature<sup>2</sup>__ _adj_ _That’s their signature meal._  
+__signature<sup>2</sup>__ _adj_ :five: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._ _That’s their signature meal._  
+__signcryption__ _n_ A public-key primitive that simultaneously performs the functions of both digital signature and encryption.  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
-__signet ring__ _n_ :two: a finger ring containing a small seal, one’s initial, or the like.  
+__signet ring__ _n_ :three: a finger ring containing a small seal, one’s initial, or the like. A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
 __significant other__  
-__significant__ _adj_ :two::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._  
+__significant__ _adj_ :three::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._ _Time of day is significant._  
 __signify__ _v_ :two::hammer:  
 __signposting__  
 __Sikh__  
@@ -15124,7 +15125,7 @@ __silk__ _n_
 __sill__ _n_ :two::hammer: (sills) _Concrete sills._  
 __silly boy__  
 __Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical properties.  
-__Silly String__ _n_ (silly string) Aerosol string.  
+__Silly String__ _n_ :two: (silly string) Aerosol string.  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
 __silt__ _n_  
 __silver screen__  
@@ -15132,6 +15133,7 @@ __Silver State__ _n_ Nevada.
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
 __silverplate__ _v_  
+__silviculture__ _n_  
 __simile__ _n_ :two: A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
@@ -15141,22 +15143,25 @@ __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
 __simulacrum__ _n_ /sim-yuh-LAK-rum/ A superficial likeness or representation of something. _The wax figure is a perfect simulacrum of the president._  
+__simulcast__  
 __Sin City__ _n_ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven’t been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
 __sine die__ _adv_ :two: [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sine qua non__ _n_ :two: An essential element or condition. _“The perfect cake is the sine qua non of the carefully planned modern wedding” (J.M. Hilary)._  
-__sinecure__ _n_ :two: A position or office that requires little or no work but provides a salary.  
+__sinecure__ _n_ :three: /SYE-nih-kyoor/ Sinecure is a noun that refers to a usually paid job or position that requires little or no work. A position or office that requires little or no work but provides a salary. _The king was in the habit of rewarding his loyal supporters with sinecures._  
 __sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
-__sing along<sup>1</sup>__ _n_ :four: (sing-along, singalongs) A gathering or event where participants are encouraged to add their voices in song. _That’s the best sing along we’ve ever had._  
+__sinfully__ _adv_ _Sinfully delicious desserts._  
+__sing along<sup>1</sup>__ _n_ :five: (sing-along, singalongs) A gathering or event where participants are encouraged to add their voices in song. _That’s the best sing along we’ve ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
 __single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
+__singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
 __singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
 __sinistrality__ _n_ The condition of being left-handed.  
 __sinkhole__ _n_ :two::hammer:  
@@ -15168,7 +15173,7 @@ __sire<sup>1</sup>__ _n_
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
 __siriasis__ _n_ Sudden prostration due to exposure to the sun or excessive heat. _Syn_ insolation, sunstroke, thermic fever _We were stranded in the desert, and it was not long before members of our party began exhibiting signs of siriasis._  
 __Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
-__sit__ _v_ _Stop sitting on the bull._  
+__sit__ _v_ :three::hammer: _The nightlife district sits just north of the Chicago River._ __17__ To baby-sit for. _Stop sitting on the bull._  
 __sit-down__ _n_ :two::hammer: _Johnny Carp says he wants another sit-down._  
 __sit-ins__ _n_  
 __sitdown__ _n_ :two::hammer:  
@@ -15181,21 +15186,25 @@ __situated__ _adj_ Having a place or location. _Syn_ located, placed, set
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
 __sixth man__ _n_ A player in basketball who is regularly used as the first of a team’s substitutes in a game.  
 __sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton’s sizable lead._  
-__sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
+__sizzle<sup>1</sup>__ _v_ :six::hammer: _Rihanna sizzled when she performed in New York._ _Sizzling burgers/soups._  
 __sizzle<sup>2</sup>__ _n_ :five: _Filming a “sizzle reel.”_  
 __sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling singer._ __2__ Hot enough to make a hissing sound. __3__ Brought to the table in the metal dish it has been cooked in, making such a sound.  
 __skag__  
 __skank__ _v_  
-__skate__ _v_ :three::hammer: _He don’t let nobody skate unless it’s for money._  
+__skate__ _v_ :four::hammer: _He don’t let nobody skate unless it’s for money._ _Need skates? Rent them for $10._  
 __skedaddle__  
+__skeeball__ _n_  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
-__skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
+__skeleton__ _n_ :two: __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
 __skell__ _n_ _slang_ A homeless person who lives as a derelict. _How you like it, skell?_  
 __skeptic__ _adj_ :pencil2:  
+__sketch__ _v_ _Let us briefly sketch its major challenges._  
 __sketchy__  
-__skewer__ _v_ :three::astonished::hammer:  
+__skewer<sup>1</sup>__ _n_ _Skewers of meats, vegetables, and fruits._  
+__skewer<sup>2</sup>__ _v_ :three::astonished::hammer:  
 __skews__ _v_  
+__ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skid row__ _n_ _slang_ _His father would take him to a blind pig on skid row._  
 __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn’t put skids on sales._  
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
@@ -15218,7 +15227,7 @@ __skirmish<sup>1</sup>__ _n_ :five::hammer: (skirmishes)
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
 __skirmishers__ _n_  
 __skirting__ _v_ :two::hammer:  
-__skit__ _n_ :three::hammer:  
+__skit__ _n_ :five::hammer: _Skit theater._  
 __skitter__ _v_ :seven::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
