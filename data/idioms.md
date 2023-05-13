@@ -2601,13 +2601,16 @@ __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ 
 __place your bets__  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plastic grin__ A forced, artificial smile; a smile someone wears despite having no feelings of happiness or joy. _Look at his big plastic grin—he’s such a con man! I sure hope he doesn’t win the election._  
+__play ball__ :three::hammer:  
 __play by the rules__ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down__ To make something seem less important or remarkable. _The pharmaceutical company tried to play down the harmful side effects of its new medication._  
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome. _Quit playing games, Karen—I know that you’re involved in this deal!_  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
+__play it safe__  
 __play it straight__  
+__play out__  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
 __play safe__  
 __play smart__  
@@ -2616,14 +2619,23 @@ __played out__
 __plead the Fifth (Amendment)__ :two: (plead the 5th) __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
 __pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
 __poetry in motion__ Something that is very elegant, graceful, and/or beautiful to observe, especially dance or the performing arts. _The ballet was sublime to watch, truly poetry in motion._  
+__point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
+__poker face__  
+__ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
+__Ponzi scheme__  
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
+__pop in__ :two::hammer: _Pop in for a casual meal._  
 __pop up__ To suddenly appear or become available. _Problems started popping up as soon as the software went live._ _He might pop up in this movie in the tail end._  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
-__Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
+__poster child__  
+__Potemkin village__ :two: Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
 __pounce (up)on someone or something__ :two::hammer:  
-__practice makes perfect__ _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
+__power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence. _It’s just a power play—he’s moving the shifts around purely to show that he’s the one who can._  
+__power washing__  
+__practice makes perfect__ :three: _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
 __prick up (one’s) ears__ :two::hammer:  
 __prior to__ _prep_ Before. _Prior to this episode._  
+__prone to__  
 __prop up__ _But with her leg propped up._  
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
 __publicity hound__ Someone who seeks to have the attention of the public constantly focused on him- or herself, typically by means of attracting media coverage. _The former actor’s run at politics is seen by many as just another stunt by a publicity hound desperate to keep the spotlight on himself._  
@@ -2631,16 +2643,21 @@ __pull (oneself) together__ :two: Calm down.
 __pull a face (at someone)__ To make a grimacing or humorously distorted facial expression (at someone). _Young lady, don’t you pull a face at me! You will eat your broccoli or you won’t have any dessert._ _The teacher scolded Jimmy for pulling faces at her from the back of class._  
 __pull a prank (on someone)__ To carry out a trick, deception, or practical joke (against someone). _It turns out that the supposed alien visitors that people had been seeing were just a bunch of teenagers pulling a prank on the town._ _I’ve got a great plan to pull a prank on the school for April Fools’ Day._  
 __pull a U-ie__ To make a U-turn. Primarily heard in US, Australia.  
-__pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
+__pull an all-nighter__ :two: To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
+__pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
 __pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
 __pull something off__ :two::dart: __1__ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __pull tabs__ (casino)  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull your socks up__ To improve your work or behaviour.  
+__pump in__  
 __punch out__ To record that one has left one’s workplace at a certain time. _Why didn’t you punch out when you left last night?_  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
+__punch up__  
+__puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __puppy love__  
+__push (one’s) buttons__  
 __push back__ :two::hammer:  
 __push the envelope__ :three: To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._ _Pushing the envelope of contemporary Japanese cuisine._  
 __push your buttons__  

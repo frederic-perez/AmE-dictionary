@@ -363,26 +363,6 @@ __piping hot__
 __piss off__  
 __pizzazz__  
 __place an order__  
-__play ball__ :three::hammer:  
-__play it safe__  
-__play out__  
-__point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
-__poker face__  
-__ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
-__Ponzi scheme__  
-__pop in__ :two::hammer: _Pop in for a casual meal._  
-__poster child__  
-__Potemkin village__  
-__power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence. _It’s just a power play—he’s moving the shifts around purely to show that he’s the one who can._  
-__power washing__  
-__practice makes perfect__ :two::hammer:  
-__prone to__  
-__pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
-__pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
-__pump in__  
-__punch up__  
-__puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
-__push (one’s) buttons__  
 __put (one’s) finger on (something)__ :three::hammer:  
 __put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
 __put (oneself) in (someone’s) shoes__  
