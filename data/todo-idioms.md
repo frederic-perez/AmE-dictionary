@@ -410,26 +410,6 @@ __rip (someone or something) to shreds__
 __ripple effect__  
 __rock bottom__  
 __rock solid__  
-__rock the boat__ :three::hammer:  
-__rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
-__roll (one’s) eyes__ :three::hammer:  
-__roll out__ __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
-__roller coaster__ _Emotional roller coaster._  
-__rub elbows__  
-__rub out__  
-__rubber stamp__  
-__ruffle (one’s) feathers__  
-__rumor has it (that)__  
-__rumor mill__  
-__run errands__  
-__run in circles__ :dart: To waste one’s time and energy engaging in trivial, aimless, or futile activities; to fail to make any meaningful progress in some task or activity. _I tried to get an outline drafted for my thesis, but my ideas were so jumbled in my head that I just kept running in circles._  
-__run the show__  
-__run with it__  
-__run with scissors__  
-__running bit__  
-__running joke__  
-__rush out__  
-__sack (someone)__ _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
 __sanctum sanctorum__  
 __save face__ :two::hammer:  
 __save the day__ :three::hammer:  
