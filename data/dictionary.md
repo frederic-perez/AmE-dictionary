@@ -15782,18 +15782,19 @@ __spiral binder__
 __spiral<sup>1</sup>__ _n_  
 __spiral<sup>2</sup>__ _v_  
 __spiraling__  
-__spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
+__spire__ _n_ :seven: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spirit stove__ _n_ A stove that burns a volatile liquid fuel such as alcohol. _We had a small spirit stove._  
 __spite__ _n_ :four::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
 __spiteful__ _adj_ :three: Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive  
 __spitting image__  
 __spittle__ _n_ :six::hammer: _Spittle and gore clogged his throat._  
 __spittoon__  
-__splashdown__  
+__splashdown__ _n_ :two::dart: The landing of a crewed spacecraft in the ocean.  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
 __spleen__ _n_ _Interned-stoked spleen._  
-__splendid__  
-__splendor__  
+__splendid__ _adj_ :two::hammer:  
+__splendor__ _n_ :three::hammer:  
+__splendour__ _n_  
 __splenetic__ _adj_ Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
 __splice__ _v_ :two::hammer:  
 __splint<sup>1</sup>__ _n_  
@@ -15803,9 +15804,9 @@ __split<sup>2</sup>__ _v_ __9__ _slang_ To depart from; leave: _a mobster who su
 __splitting headache__ _n_ A very bad headache.  
 __splotched__ _v_  
 __splotches__ _n_  
-__splurge<sup>1</sup>__ _n_ :three: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
+__splurge<sup>1</sup>__ _n_ :five: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ _Have a splurge-worthy meal._ __2__ An extravagant display or large amount: _a splurge of flowers._  
 __splurge<sup>2</sup>__ _v intr_ :five: (splurged, splurging) To make an ostentatious display.  
-__splurge<sup>3</sup>__ _v tr, v intr_ :four: (splurged, splurging) To spend lavishly or wastefully.  
+__splurge<sup>3</sup>__ _v tr, v intr_ :six: (splurged, splurging) To spend lavishly or wastefully.  
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _n_ _A baby’s spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
@@ -15823,15 +15824,17 @@ __sponsee__ _n_ One who is sponsored.
 __sponsor<sup>1</sup>__ _n_ :three: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __sponsor<sup>2</sup>__ _v_  
 __spontaneous__ _adj_ :mega:  
+__spoofing__ _n_ :dart: The act or an instance of impersonating another person on the internet or via email.  
 __spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
 __spool tables__  
 __spool__ _n_  
 __spoonerism__ _n_  
 __spoonful__ _n_ :es: cucharada  
-__sporadic__ _adj_  
+__sporadic__ _adj_ :two::hammer: /spuh-RAD-ik/  
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__ _v_ :two::hammer: _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
+__sportscaster__  
 __spot<sup>1</sup>__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spot<sup>2</sup>__ _v_ :two::hammer: (spotted)  
 __spotless__  
@@ -15841,11 +15844,12 @@ __spotted__ _v_
 __spout__ _v_ :two::hammer: _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
 __sprawl__ _v_ :six::hammer: (sprawled, sprawling)  
-__sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
+__sprawling__ _adj_ :six: Spreading out in different directions. _Sprawling handwriting._ _A sprawling cabin of rustic elegance._  
 __spray charts__  
 __spree<sup>1</sup>__ _n_ :four::hammer: _A killing spree._  
 __spree<sup>2</sup>__ _v_ Engage without restraint in an activity and indulge, as when shopping.  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
+__sprightly__ _adj, adv_ _Sprightly salads._  
 __sprigs__  
 __springboard__ _n_ :four::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
@@ -15918,7 +15922,7 @@ __squeamish__ _adj_ :eight: Easily upset or disgusted by things or actions you f
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :five::hammer: (squelched)  
-__squib__ _n_ :two: A short and witty or sarcastic saying or writing.  
+__squib__ _n_ :three: A short and witty or sarcastic saying or writing.  
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :five::hammer: (squires) _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
@@ -15962,15 +15966,15 @@ __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs
 __stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
 __stake truck__ _n_ :camera:  
 __stake__ _n_  
-__stakeholder__ _n_ :three::hammer:  
+__stakeholder__ _n_ :five::hammer:  
 __stakeout__ _n_ :four::hammer: (stakeouts)  
 __stakes__ _n_  
 __stale antiperspirant__  
-__stale__ _adj_ :five::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
+__stale__ _adj_ :six::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
 __stalemate__ _n_ /ˈsteɪlˌmeɪt/  
 __staler__ _adj_ _The air in the place grew staler._  
 __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
-__stalk<sup>1</sup>__ _n_  
+__stalk<sup>1</sup>__ _n_ :two::hammer:  
 __stalk<sup>2</sup>__ _v_ :three::hammer: (stalked) _Scarcity was stalking France._  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
 __stall__ _v_  
@@ -15986,14 +15990,15 @@ __stamp__ _n_ _Additional stamp duties went into effect last year._
 __stamped__ _v_ :two::hammer:  
 __stampede__  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
-__stance__ _n_ :nine: /ˈstan(t)s/ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
+__stance__ _n_ :nine::m: /ˈstan(t)s/ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stanchion__ _n_ :two::hammer: _He braced his hands on a stanchion._  
 __stand a chance__  
 __stand strong__  
 __standard of care__ _n_  
 __standard__ _n_ :camera: :es: estandarte  
-__standardize__ _v_  
+__standardization__ _n_  
+__standardize__ _v_ :three::hammer:  
 __standardized__ _adj_ _Standardized math test._  
 __standby<sup>1</sup>__ _n_ _The old standby._  
 __standby<sup>2</sup>__ _adj_  

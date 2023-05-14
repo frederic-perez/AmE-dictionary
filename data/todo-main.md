@@ -858,26 +858,6 @@ __spindle__ _n_
 __spindrift__ _n_ Spray of water, snow, sand, etc., blown by the wind.  
 __spinner__ _n_  
 __spiral__ _v_ :two::hammer: _It spirals out of control._  
-__spire__ _n_ :four::hammer:  
-__splashdown__ _n_ :dart: The landing of a crewed spacecraft in the ocean.  
-__splendid__ _adj_  
-__splendor__ _n_ :three::hammer:  
-__splendour__ _n_  
-__splurge__ _n_ _Have a splurge-worthy meal._  
-__splurge<sup>1</sup>__ _n_  
-__splurge<sup>2</sup>__ _v_ :two::hammer:  
-__spoofing__ _n_ :dart: The act or an instance of impersonating another person on the internet or via email.  
-__sporadic__ _adj_ /spuh-RAD-ik/  
-__sportscaster__  
-__sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
-__sprightly__ _adj, adv_ _Sprightly salads._  
-__squib__ _n_  
-__stakeholder__ _n_ :two::hammer:  
-__stale__ _adj_  
-__stalk__ _n_  
-__stance__ _n_ :two::hammer:  
-__standardization__ _n_  
-__standardize__ _v_ :two::hammer:  
 __standee__  
 __standout__ _n_  
 __standpoint__ _n_ _From a technical standpoint._  
