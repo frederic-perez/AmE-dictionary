@@ -9,10 +9,12 @@ __an accident waiting to happen__
 __anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __as of late__  
 __at the expense of (someone or something)__  
+__backwater__  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __be on the fence (about something)__  
 __be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
 __be stoked__ _slang_ To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
+__beef up__  
 __behind bars__  
 __behind closed doors__  
 __better (to be) safe than sorry__  
@@ -20,6 +22,7 @@ __boy oh boy__ :two::hammer:
 __brace (oneself) for (something)__  
 __bring the house down__  
 __burner account__ A social media account that one uses to post anonymously and avoid having their posts (usually ones that are inappropriate somehow) traced to them. _The 76ers GM resigned after being linked to burner accounts on Twitter that shared private information about several players._  
+__burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
 __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
 __call someone out__  
 __cash in__  
@@ -29,8 +32,10 @@ __chomp at the bit__ To be impatient or eager for something to happen or over so
 __chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
 __churn out__  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
+__close up shop__  
 __closed-minded__ :dart:  
 __coast along__  
+__course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
 __cozy up (to someone or something)__  
 __crack down (on someone or something)__  
 __crack down__ _France is cracking down on shady influencers._  
@@ -44,9 +49,11 @@ __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referri
 __desperate times call for desperate measures__ _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
 __dig in(to) (something)__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
+__dish out__ _Yoda will dish out the advice._  
 __do the right thing__ To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
 __Doctors make the worst patients__ _proverb_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task. _Mary tried to convince her boss at the bank to see a credit advisor about his growing debt, but he kept insisting that he knew how to manage his money. Doctors make the worst patients._  
 __dodge a bullet__ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful. _I really dodged the bullet when my exam was postponed to next week, as I hadn’t studied for it at all!_  
+__doggone it__  
 __don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
 __don’t get (one) started__  
 __don’t go there__ Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic. _A: “So, do you ever hear from your ex-husband?” B: “Don’t even go there. That divorce trial still gives me a headache!”_  
@@ -98,7 +105,7 @@ __give (something) a face-lift__ To refurbish or improve the appearance of somet
 __give in__ :two::hammer: _Give in to our fears._  
 __give someone an inch__  
 __gloss over (something)__  
-__go a long way__  
+__go a long way__ :two::hammer:  
 __go apeshit__  
 __go berserk__  
 __go down in/make history__  
@@ -114,12 +121,14 @@ __go off the rails__
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
 __go overboard__  
 __go south__  
-__grapple with (someone or something)__ _Telehealth companies grapple with regulatory uncertainty._  
+__grapple with (someone or something)__ :two::hammer: _Telehealth companies grapple with regulatory uncertainty._  
 __grasp__  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
 __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
 __groom (someone) for (something)__  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
+__hand out__  
+__have (got) someone or something covered__ _informal_ To have done, gotten, or provided whatever is needed. _Syn_ take care of everything _Don’t worry about a thing. We’ve got you covered._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
 __have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
@@ -167,6 +176,7 @@ __hulk out__
 __hunker down__  
 __hunky-dory__  
 __hush money__  
+__I’m all ears__  
 __in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
 __in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
@@ -254,6 +264,7 @@ __living proof__ :two::hammer:
 __living the dream__  
 __long hours__ :two: A period of time doing something, especially work, that is longer than is usual or customary. _I’ll be working long hours in the restaurant the lead up to Christmas, but the tips and pay checks will be worth it._  
 __long story short__ :two::hammer:  
+__loom large__ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __lose (one’s) marbles__ (lose one’s mind) To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her marbles after she had a stroke._  
 __lose count (of something)__ To fail to remember or keep an accurate tally of how many of something there is, often due to there being a great amount. _At this point, I’ve lost count of the number of times they’ve yelled at me!_  
 __lose face__  
@@ -302,6 +313,7 @@ __move the goal posts__
 __move the needle__ To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __mull over__ To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
+__my spidey-sense is tingling__  
 __naked eye__ _With the naked eye._  
 __name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__  
@@ -309,6 +321,7 @@ __needless to say__ Obviously; the following is completely self-evident. _Helen 
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __night and day__  
+__not so fast__  
 __nugget of information__  
 __nuts__ __3__ _adj_ Crazy; manic or eccentric; out of one’s mind. _Trying to figure out what’s wrong with this computer is driving me nuts!_  
 __oddly enough__ It is strange or remarkable (that). _I saw John this morning. Oddly enough, I was just thinking I hadn’t seen him for a long time._ :es: por extraño que parezca, curiosamente  
@@ -401,8 +414,7 @@ __resonate with (one)__
 __rest assured__  
 __rest on her laurels__  
 __rest on one’s laurels__  
-__riddle with__  
-__riddled with__  
+__riddle with__ :three::hammer: (riddled with) _Neuralink’s oversights board is riddled with potential conflicts._  
 __right mess__ A _right mess_ is a situation or thing that is in complete chaos or disarray. It can be used to describe a situation that is confusing, chaotic, and difficult to manage. _This project has become a right mess!_  
 __rile up__ :two: To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” _Seeing that kind of injustice on the news always riles me up to no end._  
 __rinse, (and) repeat__ (lather, rinse, (and) repeat)  
@@ -489,6 +501,7 @@ __stay woke__
 __steamroll through__  
 __stop at nothing__ :dart: To do whatever it takes to accomplish a task or goal. _I assure you, ma’am, we will stop at nothing to catch that thief._ _They will stop at nothing to keep the Haller-Bosch dream team from uncovering what the deputy’s killing was really about._  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
+__swear off (something)__ To promise, pledge, or be determined not to do, use, eat, or imbibe something anymore. _Thank you, but I don’t drink. I swore off alcohol when my father was killed by a drunk driver._  
 __sweet tooth__  
 __swept away__  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
@@ -500,7 +513,7 @@ __take (one’s) pick__ To choose from among several options. Often used as an i
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__ :two::hammer: _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
+__take (someone, something, or some place) by storm__ :three: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
 __take (something) to the bank__  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
