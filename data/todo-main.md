@@ -2,12 +2,14 @@ __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ house
 __acolyte__ _n_ :two::hammer:  
 __acquittance__ _n_ A written release from an obligation, specifically a receipt indicating payment in full. _Syn_ release  
 __ad nauseam__ _adv_ :two::hammer:  
+__aftermath__ _n_ /AF-ter-math/ Aftermath refers to the period of time shortly following a destructive event, or to a negative consequence or result.  
 __agency__ _n_ __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._  
 __aioli__ _n_  
 __alienate__  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anaphylaxis__ _n_  
 __anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
+__anecdotage__ _n_  
 __anime__ _n_ /AN-uh-may/  
 __anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym when posting messages on the board._  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
@@ -51,6 +53,7 @@ __comradery__ _n_ :two::hammer:
 __confabulate__ _v intr_  
 __console__ _n_ :mega:  
 __contraption__ _n_ /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
+__cordial__ _adj_ :mega: /KOR-jul/ Cordial means “politely pleasant and friendly.” It also means “showing or marked by warm and often hearty friendliness, favor, or approval” and “sincerely or deeply felt.”  
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
@@ -87,6 +90,7 @@ __eleven__ _n_ :mega:
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __Energizer Bunny__  
+__engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
@@ -103,6 +107,7 @@ __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.
 __fictive__ _adj_  
 __finicky__ _adj_  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
+__florescence__ _n_ /flor-ESS-unss/ Florescence refers to a state or period of being in bloom or of flourishing.  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __foil__ _v tr_  
 __forthright__ _adj_  
@@ -131,9 +136,11 @@ __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a 
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __juvenilize__  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
+__laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
 __landfill__ _n_  
 __leaner__ _adj_ _AI might make tech companies leaner._  
 __level up__  
+__liaison__ _n_ :pencil2:  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __life raft__ _n_  
 __liminal__ _adj_  
@@ -144,13 +151,16 @@ __mac and cheese__ _n_
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Mad Libs__ _n_  
+__manslaughter__ _n_  
 __matter-of-fact__ _adj_  
+__maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
 __mildewed__ _adj_ :es: mohoso  
 __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
+__misspell__ _v_ :pencil2:  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
@@ -238,6 +248,7 @@ __pageantry__ _n_ :three::hammer:
 __painstakingly__  
 __palate__ _n_  
 __palingenesis__ _n_  
+__Palladian__ _adj_ /puh-LAY-dee-uhn/ __1__ Wise or learned. __2__ Relating to wisdom, knowledge, or learning. __3__ Of or relating to the classical architectural style of Andrea Palladio.  
 __palpitation__ _n_ A trembling or shaking. _Syn_ shakiness, trembling, quiver, vibration _Cornelius put his hand on his heart, to repress as it were its violent palpitation._  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __Paralympic Games__  
@@ -435,6 +446,7 @@ __puzzle box__ _n_ _Syn_ secret box, trick box
 __Pygmalion__ _n_ :mega:  
 __pylon__ _n_  
 __pyrite__ _n_ _Syn_ fool’s gold  
+__pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder. _Syn_ heartburn _Even after he swore off spicy foods, his pyrosis kept him up at night._  
 __quadragenarian__ _adj, n_  
 __quaff__ _v_  
 __quaffing__ _v_  
@@ -460,6 +472,7 @@ __rabble__ _n_ /RAB-ul/ Rabble is used to refer to a large group of loud people 
 __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
 __radar__ _n_ :mega:  
+__raffish__ _adj_ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
 __rafting__ _n_ _River rafting._  
 __rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __ragu__ _n_  
@@ -810,7 +823,7 @@ __snowshoe__ _n_ :three::hammer: (snowshoeing)
 __snuffbox__ _n_ :two::hammer:  
 __soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring fuel costs; the soaring spires of the cathedral._ _Soaring ceilings._  
 __sobering__ _adj_ Making you think about things in a serious way.  
-__sobriquet__ _n_ (soubriquet)  
+__sobriquet__ _n_ :two: (soubriquet) An affectionate or humorous nickname. _Syn_ cognomen, moniker, nickname, soubriquet  
 __social hour__ _n_  
 __socialite__  
 __sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
@@ -1003,6 +1016,7 @@ __swath__ _n_ (swathes)
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sway__ _n_  
 __sworn__ _adj_ Bound, pledged, or made inveterate, by or as if by an oath: _a sworn statement; he was sworn to God._ _Jedi Knights are sworn protectors of the Force and the Jedi Order._  
+__syncope__ _n_ A brief loss of consciousness caused by a temporary deficiency of oxygen in the brain; a swoon. _Syn_ deliquium, faint, swoon  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  
@@ -1152,6 +1166,7 @@ __tour__ _v_ _Tour a real submarine._
 __tout__ _v tr_  
 __touting__ _v_  
 __towel__ _n_ :mega:  
+__town hall__ _n_  
 __towpath__  
 __traboule__ _n_  
 __trade-off__ _n_ :three::hammer: (trade-offs)  
