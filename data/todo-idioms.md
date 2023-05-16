@@ -376,26 +376,6 @@ __piping hot__
 __piss off__  
 __pizzazz__  
 __place an order__  
-__put (one’s) finger on (something)__ :three::hammer:  
-__put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
-__put (oneself) in (someone’s) shoes__  
-__put (something) on the back burner__  
-__put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
-__put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
-__put out fires__  
-__put the finger on (one)__  
-__put the pedal to the metal__  
-__put to the test__ :two::hammer:  
-__put up a fight__  
-__put up with__ :two::hammer:  
-__put up__  
-__quiet firing__ An informal term for the practice in which employers make workplace conditions worse for employees with the intent of driving some of them to quit. The term implies that this is done secretly or at least subtly enough to make it appear unintentional.  
-__quiet quitting__ :two::hammer: /kwahy-it kwit-ing/  
-__quite a lot__  
-__rabble-rouser__  
-__race against the clock__  
-__rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
-__raise a red flag__  
 __raise the bar__  
 __raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
