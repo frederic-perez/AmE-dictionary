@@ -1013,26 +1013,6 @@ __tankard__ _n_
 __tankinis__ _n_  
 __tanner__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
-__tantalizing__ _adj_ :four:hammer: _A tantalizing question._  
-__tantamount__ _adj_ /TAN-tuh-mount/  
-__tanzanite__  
-__tap into__  
-__tap__ _v_  
-__taper__ _v_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
-__tapioca__ _n_  
-__tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
-__tarnished__  
-__tartan__ _n_ :two::hammer: _Trinket and tartan shops._  
-__tartare__ _adj_ (of food) Served raw: _salmon tartare._  
-__task__ _v_ (tasked)  
-__tassel__ _n_  
-__taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
-__tater tots__ _n_  
-__tatterdemalion__ _n_ _rare_  
-__tattered__ _adj_ _The famous_ Tattered Cover Bookstore.  
-__taunt__ _v_  
-__tautomer__ _n_  
-__tavern__ _n_  
 __taxi__ _n_ (_n pl_ taxis, or taxies)  
 __taxonomy__ _n_  
 __Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  

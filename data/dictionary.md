@@ -16743,15 +16743,17 @@ __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the s
 __tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
 __tanning__ _n_  
 __tantalize__ _v_ (tantalizing)  
-__tantalizing__ _adj_ :four::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
-__tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
-__tap__ _v_ :nine: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tantalizing__ _adj_ :eight::hammer: _The revelations are a tantalizing indication of how much we still have to learn._ _A tantalizing question._  
+__tantamount__ _adj_ :dart::eight: /TAN-tuh-mount/ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
+__tanzanite__  
+__tap into__  
+__tap__ _v_ :nine::m: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __tape dispenser__  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
-__taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._ _Finally, the sound tapered off._  
+__taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._ _Finally, the sound tapered off._ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __tapeworm__ _n_  
-__tapioca__ _n_ :mega:  
+__tapioca__ _n_ :two::mega: hammer:  
 __taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _pl n_ A bugle call or drum signal sounded at night, as at a military camp, as an order to put out lights and also sounded at military funerals and memorial services. _A bugler played taps._  
@@ -16761,8 +16763,9 @@ __target ball__
 __target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
 __tariff__ _n_ :six::hammer: (tariffs)  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
+__tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
 __tarnation__ _n_ :two: A euphemism for damnation.  
-__tarnish__ _v_ :eight::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarnish__ _v_ :nine::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpaulin__ _n_ :dart::four: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
@@ -16770,20 +16773,24 @@ __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
 __tart__ _adj_ :five::hammer: _She’d bitten into something overly tart._  
-__tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._  
+__tartan__ _n_ :five::hammer: _Tartan trousers._ _Tartan upholstery._ _Trinket and tartan shops._  
 __tartar__ _n_  
+__tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
-__task__ _v_ :four::hammer: (tasked) _They have been tasked._  
+__task__ _v_ :five::hammer: (tasked) _They have been tasked._  
 __Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
-__tassel<sup>1</sup>__ _n_ :three::hammer: _A thong with tassels._ _Six little palfreys caparisoned in green velvet with crimson tassels._  
+__tassel<sup>1</sup>__ _n_ :four::hammer: _A thong with tassels._ _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)  
+__taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
 __tat__ _n_ :two: __3__ _informal_ (tatt) A mark or design made on the skin; a tattoo.  
 __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
+__tater tots__ _n_  
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatterdemalion<sup>1</sup>__ _adj_ /tat-uhr-di-MAYL-yuhn, -MAL-/ Ragged, tattered.  
-__tatterdemalion<sup>2</sup>__ _n_ :two: /ˌtæt ər dɪˈmeɪl yən, -ˈmæl-/ A person wearing ragged or tattered clothing. _Syn_ ragamuffin _It was a crew of tatterdemalions that limped and straggled and wandered back into Barnesdale that day._  
+__tatterdemalion<sup>2</sup>__ _n_ _rare_ :three: /ˌtæt ər dɪˈmeɪl yən, -ˈmæl-/ A person wearing ragged or tattered clothing. _Syn_ ragamuffin _It was a crew of tatterdemalions that limped and straggled and wandered back into Barnesdale that day._  
+__tattered__ _adj_ _The famous_ Tattered Cover Bookstore.  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattle<sup>1</sup>__ _n_  
@@ -16791,13 +16798,15 @@ __tattle<sup>2</sup>__ _v_ :two::hammer: (tattling)
 __tattletale__ _adj, n_  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
-__taunt<sup>2</sup>__ _v_ :seven::hammer: (taunted, taunting)  
+__taunt<sup>2</sup>__ _v_ :eight::hammer: (taunted, taunting)  
 __taupe__  
 __Taurus__ _n_ :mega:  
 __taut__ _adj_  
 __tautened__  
 __tautly__  
 __tautology__ _n_  
+__tautomer__ _n_  
+__tavern__ _n_  
 __taw<sup>1</sup>__ _v intr_ To shoot a marble.  
 __taw<sup>2</sup>__ _v tr_ __1__ To prepare raw material for use. __2__ To tan animal skin with alum and salt.  
 __taw<sup>3</sup>__ _n_ __1__ A large marble used as a shooter. __2__ A line from which the players shoot marbles.  
