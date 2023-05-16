@@ -958,26 +958,6 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ _The challenges strike me as fundamental._  
-__stringent__ _adj_ :four::hammer:  
-__stripling__ _n_ A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
-__stripy__ _adj_ Marked with or suggestive of stripes; striped.  
-__strive__ _v_ :three::hammer: (striving)  
-__strobe lights__  
-__strobing__ _n_ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
-__stroganoff__  
-__stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
-__stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
-__sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
-__suffocate__ _v_  
-__sugar beet__ _n_  
-__suited__ _adj_  
-__suitor__ _n_ :two: A man who is courting a woman. _Syn_ suer, wooer _The princess had many suitors, but the only man she was interested in was a poor farmhand._  
-__Sullivan__ _n_ :mega:  
-__sultry__ _adj_ :two::hammer:  
-__sum up__  
-__summertime__ _n_ :pencil2:  
-__summiteer__ _n_ :astonished: An official who takes part in a summit conference.  
-__sumptuous__ _adj_ :three: /SUMP-shuh-wus/ Things that are extremely costly, rich, luxurious, or magnificent. _The hotel’s most sumptuous suite overlooks the lush gardens and includes a palatial marble bathroom with a spa and a commodious, intricately tiled walk-in shower._ _A sumptuous Sunday feast._  
 __sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
 __sunblock__ _n_  
 __suncatcher__ _n_  

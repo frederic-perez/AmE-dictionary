@@ -16287,16 +16287,19 @@ __striker__ _n_ :four::hammer: _The match was damp and wouldn’t ignite against
 __string beans__  
 __string tie__  
 __stringency__ _adj_ _Suffering from financial stringency._  
-__stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
+__stringent__ _adj_ :nine::m: /ˈstrɪn dʒənt/ (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __strip<sup>1</sup>__ _n_ __2__ A comic strip. _The Peanuts strips._  
 __strip<sup>2</sup>__ _v_ _Data striped across different storage nodes._  
-__stripling__ _n_  
-__strive__ _v_ :six::hammer: _We strive for peace._  
+__stripling__ _n_ :two: A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
+__stripy__ _adj_ Marked with or suggestive of stripes; striped.  
+__strive__ _v_ :nine::hammer: (striving) _We strive for peace._  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
-__strobe light__ _n_ _The Cubs packed up their fog machine and strobe lights._  
+__strobe light__ _n_ :two::hammer: _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
+__strobing__ _n_ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
+__stroganoff__  
 __stroke__ _n_ _Stroke of good fortune._  
 __stroker__ _n_ _Regular strokers sold their plunder._  
 __stroll__ _v_  
@@ -16318,12 +16321,13 @@ __stubborn__ _adj_
 __stubby__ _adj_ :two::hammer: _Stubby fingers._  
 __stucco__  
 __stuck a chord__  
-__stuck-up__  
+__stuck-up__ _adj_ :two: _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stud<sup>1</sup>__ _n_ :four::hammer: _Tires with studs._  
 __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury’s studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
 __stuff__ _v_  
+__stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
 __stuffer__  
 __stuffing__  
 __stuffy nose__ _n_ The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection). _Side effects are stuffy or runny nose, and sore throat._  
@@ -16408,40 +16412,46 @@ __sudden cardiac arrest__
 __sudden__  
 __suds__  
 __sudsy__  
+__sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
+__suffocate__ _v_  
 __suffocation__ _n_ :pencil2:  
 __suffrage__ _n_  
 __suffragette__  
 __suffuse__ _v_ :eight: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means “to pour.” _It suffuses you with mild pleasure._  
-__sugar beet__  
+__sugar beet__ _n_ :two::hammer:  
 __sugar daddy__ _n_ _slang_ :two: A rich usually middle-aged or old man who bestows expensive gifts on a young person in return for companionship or sexual favours. _A sugar daddy relationship._  
 __sugarcoat__ _v_  
 __sugarplum__ _n_ A small candy in the shape of a ball or disk.  
 __sugary yogurt__  
 __suicide vests__  
 __suit up__ _v_  
-__suitor__ _n_ /ˈsu tər/ :three: __1__ A man who courts a woman; wooer. :es: pretendiente __2__ A person who makes a petition or request.  
+__suited__ _adj_  
+__suitor__ _n_ :five: /ˈsu tər/ __1__ A man who courts a woman; wooer. _Syn_ suer, wooer _The princess had many suitors, but the only man she was interested in was a poor farmhand._ :es: pretendiente __2__ A person who makes a petition or request.  
 __sukey__ _n_ /SOO-kee/ [:scroll: After Suki, a girl in the nursery rhyme “Polly Put the Kettle On”. From _Sukey_, nickname for _Susanna_.] A tea-kettle.  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ _adj_ :two::hammer:  
 __sullenly__  
+__Sullivan__ _n_ :mega:  
 __sully__ _v_ :five::hammer: /SUL-ee/ _The money-related charges brought against the restaurant’s owner has sullied her reputation._  
 __sultanate__  
-__sultry__ _adj_ :four::hammer: _A sultry smile._  
+__sultry__ _adj_ :six::hammer: _A sultry smile._  
+__sum up__  
 __summa cum laude__ _adj, adv_ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
 __summarily__ _adv_  
 __summarize__ _v_ /ˈsʌməˌraɪz/  
 __summary<sup>1</sup>__ _n_  
 __summary<sup>2</sup>__ _adj_ :two::hammer: _Summary deaths._ _Summary killings._  
 __summations__ _n_ _Both sides made their summations._  
-__summertime__ _n_ :three::pencil2::hammer:  
+__summertime__ _n_ :four::pencil2::hammer:  
 __summit__ _n_  
+__summiteer__ _n_ :astonished: An official who takes part in a summit conference.  
 __summonses__ _n pl_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
 __sumptuary__ _adj_  
-__sumptuous__ _adj_ Of a size or splendor suggesting great expense; lavish. _Syn_ deluxe, opulent, princely, luxurious _The sumptuous homes of the wealthy were full of gilding and ornament._  
+__sumptuous__ _adj_ :four: /SUMP-shuh-wus/ Things that are extremely costly, rich, luxurious, or magnificent. Of a size or splendor suggesting great expense; lavish. _Syn_ deluxe, opulent, princely, luxurious _The sumptuous homes of the wealthy were full of gilding and ornament._ _The hotel’s most sumptuous suite overlooks the lush gardens and includes a palatial marble bathroom with a spa and a commodious, intricately tiled walk-in shower._ _A sumptuous Sunday feast._  
 __Sun Belt__ _n_ :two: (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __sunburn__ _n_  
 __Sunday__ _n_ :mega: /’söndi, -deI/  
