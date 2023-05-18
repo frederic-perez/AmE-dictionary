@@ -436,26 +436,6 @@ __show up__
 __shroom__  
 __shut down__ :two::hammer:  
 __sick as a dog__  
-__side hustle__ :three::hammer:  
-__simply put__  
-__single out__  
-__sink in__  
-__skim through (something)__  
-__skip a beat__  
-__skip town__  
-__slay__ To succeed at something in a particularly impressive or dominant way. _She’s definitely getting the promotion after she slayed that presentation for the CEO._ _I absolutely slayed the interview; at one point, I even laid flat out on the couch on live TV!_  
-__sleep on (something)__  
-__slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
-__slippery slope__  
-__slow burner__  
-__small hours__ (wee hours)  
-__smarty-pants__ :two::hammer:  
-__snake oil__  
-__snap out of (something)__ To suddenly recover or be freed from some negative or undesirable condition, emotion, or situation. _Alex has been really gloomy lately. I hope he snaps out of it soon, because we’ll need him to present our project to the supervisor next week._  
-__snoothfest__ _Total snoozefest at Google’s event._  
-__snooty__ Haughtily condescending, dismissive, or snobbish. _I can’t believe that snooty waiter scoffed at you for ordering red wine with fish._  
-__snork__  
-__snowflake__ _n_ _slang_  
 __so much so that__  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __soak__ _v_  
