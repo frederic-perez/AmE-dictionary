@@ -3,6 +3,7 @@ __a falling out__ A severe quarrel or disagreement, especially one that leads to
 __a front-row seat__  
 __a life of its own__ The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
+__a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
 __a wild goose never laid a tame egg__ _proverb_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before. _We must never presume that humanity will be without violence; after all, a wild goose never laid a tame egg._  
 __above the salt__ Of or in a position of high standing, rank, regard, or repute. The term is derived from the social hierarchy of nobility in medieval times, in which salt, a precious commodity then, was set in the middle of the dining table. Those of high noble rank were seated “above the salt,” that is, closer to the lord and lady of the house, while those in lower social standing were seated “below” it. _Even though my boss is above the salt, he still makes a point of mingling with everyone in the company._  
 __absolve from guilt__ To consider innocent, clear of all suspicion, or pardon from any cause of guilt. _The knights of the crusades committed many atrocities in their campaign, but they were absolved from guilt by the heads of the church._  
@@ -11,15 +12,17 @@ __abstract idea__ An idea or thought that is intangible or outside the constrain
 __add up__  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __all aboard__  
+__all in__  
 __all of a sudden__  
 __an accident waiting to happen__  
 __anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __as of late__  
 __at the expense of (someone or something)__  
 __backwater__  
+__baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __be on the fence (about something)__  
-__be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
+__be quite something__ :two: To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_ _Ah, millennial parties were quite something._  
 __be stoked__ _slang_ To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
 __beef up__  
 __behind bars__  
@@ -34,10 +37,11 @@ __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something ill
 __call someone out__  
 __cash in__  
 __catch__ _Here is the catch._  
+__catfish__ _Dating sites are riddled with catfish._  
 __cheesy__  
 __chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
 __chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
-__churn out__  
+__churn out__ :two::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  
@@ -79,6 +83,8 @@ __every single one__ Every individual person or item within a group, without exc
 __every so often__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
+__fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
+__fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for. _Danny says he has several laptops and smartphones he wants to sell for cheap—sounds like they fell off the back of a truck to me._  
 __fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
@@ -163,6 +169,7 @@ __hidden in plain sight__
 __higgledy-piggledy__  
 __high and dry__  
 __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
+__hit a snag__ :dart:  
 __hit a wall__  
 __hit home__  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
@@ -410,6 +417,7 @@ __resonate with (one)__
 __rest assured__  
 __rest on her laurels__  
 __rest on one’s laurels__  
+__riddled with__ _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish_  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __self-fulfilling prophecy__  
@@ -428,7 +436,7 @@ __show up__
 __shroom__  
 __shut down__ :two::hammer:  
 __sick as a dog__  
-__side hustle__ :two::hammer:  
+__side hustle__ :three::hammer:  
 __simply put__  
 __single out__  
 __sink in__  
@@ -526,6 +534,7 @@ __the big picture__
 __the bigger picture__  
 __the bigger they come, the harder they fall__ _proverb_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
+__the cat is out of the bag__ Some secret or surprise has been revealed or exposed.  
 __the devil is in the detail(s)__ _proverb_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
 __the eleventh hour__  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
@@ -624,6 +633,7 @@ __why on earth__ :two: Used to ask a question that emphasizes one’s shock, ang
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wild__  
 __wildest dreams__  
+__win (one) over__  
 __win-win__ _A win-win scenario._  
 __wind down__ :two::hammer:  
 __window of opportunity__  
@@ -653,7 +663,7 @@ __won’t budge an inch__ Will not move, change, or shift in any way at all. _On
 __word of mouth__ :two::hammer:  
 __work (one’s) ass off__  
 __work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
-__work like a charm__  
+__work like a charm__ :two::hammer:  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work wonders__  
 __worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
