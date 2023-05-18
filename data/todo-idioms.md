@@ -1,6 +1,13 @@
 __a disaster waiting to happen__  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
 __a front-row seat__  
+__a life of its own__ The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
+__a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
+__a wild goose never laid a tame egg__ _proverb_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before. _We must never presume that humanity will be without violence; after all, a wild goose never laid a tame egg._  
+__above the salt__ Of or in a position of high standing, rank, regard, or repute. The term is derived from the social hierarchy of nobility in medieval times, in which salt, a precious commodity then, was set in the middle of the dining table. Those of high noble rank were seated “above the salt,” that is, closer to the lord and lady of the house, while those in lower social standing were seated “below” it. _Even though my boss is above the salt, he still makes a point of mingling with everyone in the company._  
+__absolve from guilt__ To consider innocent, clear of all suspicion, or pardon from any cause of guilt. _The knights of the crusades committed many atrocities in their campaign, but they were absolved from guilt by the heads of the church._  
+__absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world. _It’s no use trying to talk to Helen when she’s absorbed in thought like that; it’s as if we don’t even exist!_  
+__abstract idea__ An idea or thought that is intangible or outside the constraints or possibilities of the real world. _Some regard love as but an abstract idea, as it is impossible to define what makes love real._  
 __add up__  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __all aboard__  
@@ -43,6 +50,7 @@ __crystal clear__
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut to the chase__ :two::hammer:  
 __dabble in (something)__  
+__dark side__ A deeply negative, troubled, or antagonistic aspect of someone or something that is usually kept concealed. _Jonathan’s mom is always sweet to me and our friends, but apparently she has a bit of a dark side when we’re not around._  
 __day in and day out__  
 __defuse (something)__  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
@@ -90,14 +98,19 @@ __fork over the dough__ To pay, generally unwillingly, a certain amount of money
 __freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual. _My high school literature teacher taught me to always be true to myself and to wear my freak flag proudly._  
 __fresh-faced__ Of or having an appearance of health, vitality, and/or youthfulness. _After a good night’s sleep, he woke up fresh-faced and feeling like a million bucks._  
 __Freudian slip__  
+__from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __full of (oneself)__  
 __full stop__  
 __game-changer__  
+__gentleman’s agreement__ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved. _Though my father left me his entire estate in his will, I made a gentleman’s agreement with my brother to share the wealth equally between us._  
 __get (one’s) teeth into (something)__  
 __get (someone or something) on track__ To cause or help someone or something to begin or resume progressing or developing as planned, scheduled, or expected. _The project’s development cycle started spinning out of control, so upper management brought in a consultant to get us on track._  
+__get (the hell) out of Dodge__ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s. _It looks like things are getting pretty tense in here, let’s get out of Dodge!_  
 __get ahead of (oneself)__  
+__get in touch (with one)__ To initiate or establish contact or communication with one. _I tried getting in touch with you yesterday, but the office said you were out sick._  
 __get your act together__  
 __get your shit together__  
+__get-rich-quick__ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy. _Jenny’s always coming up with some get-rich-quick scheme to lift us out of this dinky little town._  
 __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
 __GI Joe__  
 __give (one) a pass__  
@@ -121,12 +134,14 @@ __go off the rails__
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
 __go overboard__  
 __go south__  
+__gomer__  
 __grapple with (someone or something)__ :two::hammer: _Telehealth companies grapple with regulatory uncertainty._  
 __grasp__  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
 __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
 __groom (someone) for (something)__  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
+__Hail Mary__ __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
 __hand out__  
 __have (got) someone or something covered__ _informal_ To have done, gotten, or provided whatever is needed. _Syn_ take care of everything _Don’t worry about a thing. We’ve got you covered._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
@@ -202,6 +217,7 @@ __in your face__
 __intellectually challenged__ Of low intelligence; stupid.  
 __iron out__ :two: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
 __ironclad__  
+__Is the glass half empty or half full?__  
 __it goes without saying__  
 __it is not a competition__  
 __it takes a village__  
@@ -617,6 +633,7 @@ __winning ways__ One’s charming, endearing, or likeable personality or demeano
 __wipe the floor__  
 __wishy-washy__  
 __wit’s end__ :dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
+__witch hunt__  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
 __with a bang__ :two::hammer: _Chamber music with a bang!_  
