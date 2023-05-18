@@ -17657,9 +17657,10 @@ __umbrella__ _n_ _Under his umbrella._
 __umpteen__  
 __umpteenth__ _adj_ :two::dart: Last in an indefinitely numerous series.  
 __un-American__  
-__unabashed__ _adj_ :six: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. _An unabashed fan._  
+__unabashed__ _adj_ :nine::m: /un-uh-BASHT/ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. _An unabashed fan._ _Unabashed humor._  
 __unabashedly__  
 __unabated__ _adj_ :four::hammer:  
+__unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
 __unakin__ _adj_ Not related or comparable.  
 __unalienable__  
 __unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fear of radioactivity, born of ignorance._  
@@ -17667,7 +17668,7 @@ __unanimous__
 __unapologetic__ _adj_ :nine::m: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ _adj_ :two::hammer:  
-__unassuming__ _adj_ :four::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unassuming__ _adj_ :five::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unavenged__ _adj_  
 __unbidden__ _adj_  
@@ -17677,30 +17678,40 @@ __unburdened__
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
 __Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
 __unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
+__uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
-__uncouth__ _adj_ :six: /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._ _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
+__uncouth__ _adj_ :seven: /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._ _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
 __uncrating__  
+__uncross__ _v tr_ _Uncross our arms._  
 __unction__ _n_  
-__unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
+__unctuous__ _adj_ :five::dart: /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __undaunted__  
+__undemosaick__ _v_ _Undemosaicked pixels._  
+__undeniably__ _adv_ _An undeniably true Chicago snack._  
 __under (someone’s) watch__  
 __under siege__  
 __under water__  
 __under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table payment of $10 million._  
-__underbelly__ _n_ :two::hammer: (underbellies)  
+__underbelly__ _n_ :four::hammer: /ˈʌn dərˌbɛl i/ (underbellies) _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
+__underbid__  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
+__undercroft__ _n_ _The cathedral’s undercroft._  
 __undercurrent__ _n_ :three::hammer:  
-__undercut__ _v_ :nine::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
-__underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+__undercut__ _v_ :nine::m::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
+__underdog__ _n_ :two::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
-__underfoot__ _adv_ :two::hammer: _They were reluctant to recognize crisis until it was underfoot._  
+__underemployed__  
+__underfoot__ _adv_ :four::hammer: _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  
+__undergird__ _v_ /un-der-GHERD/ Undergird means “to strengthen or support (something) from below” or “to form the basis or foundation of.” _Their way of life is undergirded by religious faith._  
+__undergo__ _v_  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
+__underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underlying__ _adj_ _The underlying software stack._  
 __undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
 __underpin__ _v tr_ :six::hammer:  

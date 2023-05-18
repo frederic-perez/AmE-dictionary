@@ -1212,26 +1212,6 @@ __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli;
 __umbrage__ _n_ /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
 __umpteen__ _adj, n_  
 __umpteenth__ _adj_ :dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
-__unabashed__ _adj_ :four::hammer: /un-uh-BASHT/ _Unabashed humor._  
-__unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
-__unapologetic__ _adj_  
-__unassuming__ _adj_  
-__uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
-__uncouth__  
-__uncross__ _v tr_ _Uncross our arms._  
-__unctuous__ _adj_ /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
-__undemosaick__ _v_ _Undemosaicked pixels._  
-__undeniably__ _adv_ _An undeniably true Chicago snack._  
-__underbelly__ _n_ :two::hammer: /ˈʌn dərˌbɛl i/ _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
-__underbid__  
-__undercroft__ _n_ _The cathedral’s undercroft._  
-__undercut__ _v_  
-__underdog__  
-__underemployed__  
-__underfoot__ _adv_ :two::hammer:  
-__undergird__ _v_ /un-der-GHERD/ Undergird means “to strengthen or support (something) from below” or “to form the basis or foundation of.” _Their way of life is undergirded by religious faith._  
-__undergo__ _v_  
-__underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
 __undermine__ _v_  
 __underscore__ _v_  
