@@ -17,6 +17,7 @@ __apothegm__ _n_ A terse, witty, instructive saying.
 __arboreal__ _adj_ /ahr-BOR-ee-ul/  
 __arraignment__ _n_  
 __asterisk__ _n_ :mega:  
+__attenuate__ _adj_ :astonished: Reduced or weakened, as in strength, value, or virulence. _Syn_ faded, weakened _She placed a record in the player, and the attenuate tones of the old recording swept through the house._  
 __auspicious__ _adj_ /aw-SPISH-us/  
 __backhanded__ _adj_  
 __bargain__ _n_  
@@ -32,12 +33,14 @@ __boolean__ _n_ :mega:
 __bowdlerize__  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain fog__ _n_  
+__brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
 __breadwinner__ _n_ :pencil2:  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __cachinnate__ _v intr_ :three::hammer:  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __carouse__ _v_ /kuh-ROWZ/ (“OW” as in ‘cow’) To drink alcohol, make noise, and have fun with other people. _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._  
+__censure__ _v_ :mega: /SEN-sher/  
 __chivalry__ _n_ /SHIV-ul-ree/  
 __chokehold__ _n_ A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._  
 __chophouse__ _n_ A restaurant that specializes in steaks. _Syn_ steakhouse  
@@ -58,6 +61,7 @@ __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
 __craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
+__crapulous__ _adj_  
 __cringe__ _v_ :two::hammer: _Data scientists both rejoice and cringe._  
 __cue__ _v_  
 __curmudgeon__  
@@ -73,6 +77,7 @@ __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, tha
 __demystify__ _v tr_  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
 __derelict__ _n_  
+__disapprobation__ _n_ /dis-ap-ruh-BAY-shun/  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
@@ -134,7 +139,9 @@ __infighting__ _n_
 __integer__ _n_ :mega:  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
+__jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __juvenilize__  
+__kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
 __landfill__ _n_  
@@ -490,6 +497,7 @@ __range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode th
 __rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who causes trouble, often in a mischievous way. _Syn_ rascal, ne’er-do-well _With his shaggy, perpetually unkempt hair and his charmingly crooked smile, the actor seems to have been born to play scamps and rapscallions._  
 __rapt__ _adj_  
 __rapture__ _v_  
+__rarefied__ _adj_ /RAIR-uh-fyde/  
 __rash<sup>1</sup>__ _adj_ /RASH/  
 __rash<sup>2</sup>__ _n_  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
@@ -747,6 +755,7 @@ __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._
 __shenanigans__ _n pl_ /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._  
 __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
+__shivaree__ _n_ A noisy mock serenade for newlyweds. _Syn_ belling, callithump  
 __shoal__ _n_  
 __shoe leather__ _n_  
 __shoeshine__ _n_  
@@ -812,6 +821,7 @@ __snap__ _v_ _Snap at people._
 __snappy__  
 __snare drum__ _n_  
 __snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
+__snooker__ _v tr_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
 __snooze__ _v intr_  
 __snowcat__ _n_ :two::hammer:  
 __snowcoach__ _n_ :two::hammer:  
@@ -990,6 +1000,7 @@ __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and 
 __swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
 __swan<sup>2</sup>__ _v intr_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
 __swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
+__swarthy__ _adj_ Having a dark complexion or color. _Syn_ dusky, swart, dark-skinned  
 __swash__ _n_  
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
@@ -1252,6 +1263,7 @@ __vacationer__ _n_
 __vacuous__  
 __vacuum__ _n_ __4__ A vacuum cleaner.  
 __vagus nerve__ _n_ :m:  
+__vainglory__ _n_ Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valence__ _n_  
@@ -1343,7 +1355,7 @@ __wetsuit__ _n_
 __wharf__ _n_ :four: __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
 __whatnot__  
 __wheelbarrow__ _n_ :two::hammer:  
-__wheelhouse__ _n_  
+__wheelhouse__ _n_ :two: /HWEEL-haus/ __1__ An enclosed area on a boat or ship that houses the steering wheel. __2__ In baseball, the area in which it’s easiest for the batter to hit the ball with the most power. __3__ One’s area of interest or expertise.  
 __wherry__ _n_  
 __whimsical__ _adj_  
 __whinge<sup>1</sup>__ _v intr_ /whinj/ To complain or protest, especially in an annoying or persistent manner.  
@@ -1427,7 +1439,7 @@ __yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of c
 __yuzu__ _n_ (A Japanese citrus fruit.)  
 __zany__ _n_ /ZAY-nee/  
 __zeitgeist__ _n_ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
-__zephyr__ _n_  
+__zephyr__ _n_ :two: /ZEFF-er/ A zephyr is a breeze blowing from the west. More loosely, a zephyr can be any gentle breeze.  
 __zero in__  
 __zesty__ _adj_ :four::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zinch__  
