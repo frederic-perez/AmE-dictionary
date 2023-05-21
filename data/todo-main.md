@@ -1422,26 +1422,6 @@ __Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and
 __xenial__ _adj_ Of, relating to, or constituting hospitality or relations between host and guest and especially among the ancient Greeks between persons of different cities.  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
-__yarn__ _n_ :four::hammer:  
-__yatch__ _n_ :mega:  
-__year-round__ _adj_ :three: Existing, active, or continuous throughout the year: _a year-round resort._  
-__yearn__ _v_  
-__yeast__ _n_  
-__yeoman__ _n_  
-__yesteryear__ _n_ :four::hammer:  
-__yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
-__Yggdrasil__ _n_  
-__yogurt__ _n_ :two::hammer: (yoghourt)  
-__Yom Kippur__ _n_ (Judaism) A holy day observed on the tenth day of Tishri and marked by fasting and prayer for the atonement of sins. Also called _Day of Atonement._  
-__yule log__ _n_  
-__yummy__ _adj_ _Yummy food._  
-__yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
-__yuzu__ _n_ (A Japanese citrus fruit.)  
-__zany__ _n_ /ZAY-nee/  
-__zeitgeist__ _n_ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
-__zephyr__ _n_ :two: /ZEFF-er/ A zephyr is a breeze blowing from the west. More loosely, a zephyr can be any gentle breeze.  
-__zero in__  
-__zesty__ _adj_ :four::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zinch__  
 __zipline__ _n_ :two::hammer: _A zipline park._  
 __zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  

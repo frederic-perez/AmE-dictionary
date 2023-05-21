@@ -18813,7 +18813,8 @@ __yardage__
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
 __yarn du jour__  
-__yarn__ _n_ :seven::hammer: _Political yarns._ _Nylon yarn._  
+__yarn__ _n_ :nine::m::hammer: _Political yarns._ _Nylon yarn._  
+__yatch__ _n_ :mega:  
 __yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawner__ _n_ _slang_ :three: Something that is very boring.  
@@ -18822,9 +18823,10 @@ __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom 
 __yay__ _adv_ So; by this amount: _“The fish was yay big” he said, spreading his arms three feet apart._  
 __year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
-__yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
+__year-round__ _adj_ :three: Existing, active, or continuous throughout the year: _a year-round resort._  
+__yearn__ _v_ :nine: __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
-__yeast__ _n_  
+__yeast__ _n_ :two::hammer:  
 __yegg__ _n_ /jɛɡ/ _slang_ _chiefly US_ A burglar or safe-breaker.  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
@@ -18832,14 +18834,15 @@ __yellow__ _adj_ _slang_ A coward.
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yen__ _n_ A strong desire, urge, or craving for something. _After dinner, the family went out for ice cream to satisfy their yen for something sweet._ _Students with a yen to travel should consider studying abroad._  
-__yeoman__ _n_ :five::hammer: (yeomen)  
+__yeoman__ _n_ :six::hammer: (yeomen)  
 __yestereve<sup>1</sup>__ _n_ /YES-tuh-reev/ [:scroll: From yester- (a time one period before the present one), from Old English giestran (previous day) + eve/even (evening).] Yesterday evening.  
 __yestereve<sup>2</sup>__ _adv_ During yesterday evening.  
 __yesternight__ _n_ Last night.  
-__yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
+__yesteryear__ _n_ :eight: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ _n_ :two::hammer:  
-__yew__ _n_ :two::hammer: (yews)  
+__yew__ _n_ :five::hammer: (yews) _Yew hedges._ _A restful yew square._  
+__Yggdrasil__ _n_  
 __Yiddish__ _n_ :two::hammer:  
 __yield<sup>1</sup>__ _v_ :five::hammer: (yielded) _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
@@ -18851,10 +18854,12 @@ __ylem__ _n_ noun: (cosmology) The original matter that (according to the big ba
 __yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
 __yo-yo<sup>3</sup>__ _adj_  
+__yogurt__ _n_ :two::hammer: (yoghourt)  
 __yoke<sup>1</sup>__ _n_ :four::hammer: (yokes) _Egg yoke._ _The yoke of taxes._  
 __yoke<sup>2</sup>__ _v_  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
+__Yom Kippur__ _n_ (Judaism) A holy day observed on the tenth day of Tishri and marked by fasting and prayer for the atonement of sins. Also called _Day of Atonement._  
 __yonder__  
 __yore__ _n_ :two: Time long pass. _Days of yore._ _The good simple days of yore._  
 __your face sounds familiar__ _n_ Philippines TV show. :es: _tu cara me suena_  
@@ -18864,32 +18869,34 @@ __yowled__ _v_
 __yowza__  
 __yuan__ _n_  
 __yucca__ _n_  
+__yule log__ _n_  
 __Yule__ _n_ :two::hammer: (yule)  
 __Yuletide__ _n_ :two: (archaic) Christmas.  
-__yummy__  
-__yurt__ _n_ :two::hammer: (yurts)  
+__yummy__ _adj_ :two::hammer: _Yummy food._  
+__yurt__ _n_ :four: (yurts) A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
+__yuzu__ _n_ (A Japanese citrus fruit.)  
 __zaftig__ _adj_ _slang_ (zoftig) (of a woman) Having a pleasantly plump figure. _Portraits of zaftig models are exhibited in the artist’s collection._  
 __zaniness__ _n_ :two::hammer:  
-__zany__ _adj_ :nine: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
+__zany__ _adj_ :nine::m: /ZAY-nee/ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  
 __zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a cause, especially a religious one. _Syn_ drumbeater, partisan _Jane, who had dabbled in vegetarianism during high school, became an environmental zealot while in college._  
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ :six: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._  
+__zeitgeist__ _n_ :seven: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :two::mega::hammer: /ˈzɛnɪθ; _US_ ˈziːnɪθ/  
-__zephyr__ _n_ :two: /ZEF-uhr/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
+__zephyr__ _n_ :four: /ZEF-uhr/ /ZEFF-er/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
 __zeppelin__ _n_  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
-__zero in__  
+__zero in__ _v_ :two::hammer:  
 __zero point__ _n_  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :five::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
-__zesty__ _adj_ :two::hammer:  
+__zesty__ _adj_ :six::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zhuzh__ _v_  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
