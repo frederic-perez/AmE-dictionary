@@ -477,26 +477,6 @@ __take (one’s) pick__ To choose from among several options. Often used as an i
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__ :three: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
-__take (something) to the bank__  
-__take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
-__take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
-__take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
-__take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
-__take a deep breath__  
-__take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
-__take a pass__  
-__take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
-__take a step back__  
-__take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
-__take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
-__take action__  
-__take heart__  
-__take it away!__  
-__take names__  
-__take over__ _Execs aren’t ready for AI to completely take over._  
-__take pride in someone or something__ :three::hammer:  
-__take stock__  
 __take the brunt__  
 __take the edge off__  
 __take the reins__  

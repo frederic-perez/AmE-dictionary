@@ -3077,30 +3077,47 @@ __tail end__ _The tail end of the day._
 __tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
 __take (a)hold__  
 __take (one’s) side__ To support or side with one in an argument.  
+__take (someone, something, or some place) by storm__ :three: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
 __take (someone) under (one’s) wing__  
 __take (something) into consideration__  
 __take (something) to heart__  
+__take (something) to the bank__  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
-__take a deep breath__ :two::hammer:  
+__take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
+__take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
+__take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
+__take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
+__take a deep breath__ :three::hammer:  
 __take a dive__  
+__take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
 __take a hike__ __1__ Literally, to go on a hike. __2__ By extension, to get out of here; to go away; to get lost. Usually used as an imperative. _Listen, I don’t want to buy any, so why don’t you just take a hike and leave me alone!_  
 __take a leak__ :three: _vulgar slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.) _Could you pull over? I need to take a leak._  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
+__take a pass__  
 __take a piss__ Urinate.  
+__take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
+__take a step back__  
+__take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
+__take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
+__take action__  
 __take aim (at someone or something)__  
 __take by storm__ _The dystopian drama that has taken the internet by storm._  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take for granted__  
-__take heart__ :four::dart: To be confident or courageous.  
+__take heart__ :five::dart: To be confident or courageous.  
 __take ill__ To be or become sick or unwell. _I heard your sister has taken ill recently. I hope that it isn’t anything too serious?_  
 __take it away__ :two: _informal_ An invitation or instruction for someone to begin their performance. Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_ _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
+__take it away!__  
 __take it to the bank__  
+__take names__  
 __take no notice of (something or someone)__ To not pay any attention to someone or something; to ignore or disregard someone or something. _Take no notice of those troublemakers, they’re only trying to provoke you._  
 __take no prisoners__ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
-__take over__ :two: Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
+__take over__ :three: Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._ _Execs aren’t ready for AI to completely take over._  
 __take pains__  
+__take pride in someone or something__ :three::hammer:  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
 __take stock (of something)__  
+__take stock__  
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incriminate oneself, as in _He took the Fifth on so many of the prosecutor’s questions that we’re sure he’s guilty._  
 __take the gloves off__ _The gloves are coming off today._  
