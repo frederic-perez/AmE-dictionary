@@ -3135,6 +3135,7 @@ __talk back__
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
 __talk to the hand__ A rude interjection meant to interrupt and dismiss what another person is saying. (Sometimes written or spoken in longer forms, such as, “talk to the hand, because the face isn’t listening,” or the like.) _All of us were aghast when Jonathan turned to the police officer and said, “Talk to the hand, ’cause the face ain’t interested!”_  
 __talking head__ :dart::two: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._ _Talking head videos._  
+__tall tale__ :three::hammer:  
 __tan (one’s) hide__ To spank one. _Young lady, I will tan your hide if you disobey me again!_  
 __tap dancing__  
 __tap into (something)__ :nine::m: __1__ To make a strong or advantageous connection with. To establish a connection with (something), especially in order to take advantage. _Trying to tap into a new market._ _Tap into the dark side of the Force._ __2__ To access some large, abundant, or powerful resource. To gain access to some resource: _The building tapped into the city’s water supply._ _When he ran out of money, he decided to tap into his trust fund._ _The man was found guilty for illegally tapping into the city’s electrical grid without paying._  
@@ -3169,23 +3170,38 @@ __that’s all she wrote__ This is the end; there is nothing left to say. _I’m
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
 __the (hot) skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
+__the ball is in (one’s) court__  
 __the ball is in someone’s court__ :two: To be responsible for taking the next action.  
 __the bee’s knees__ _dated slang_ Something or someone highly enjoyable, desirable, or impressive, especially in a fancy or elaborate way. _Tom’s new Cadillac is really the bee’s knees!_  
 __the bends__ :astonished: A serious and painful condition that divers get if they come up from under the water too quickly.  
 __the big one__  
-__the bigger they come, the harder they fall__ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
+__the big picture__  
+__the bigger picture__  
+__the bigger they come, the harder they fall__ _proverb_ :two: Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
+__the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
+__the cat is out of the bag__ Some secret or surprise has been revealed or exposed.  
 __the darkest hour is just before the dawn__  
-__the devil is in the detail(s)__ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
-__the eleventh hour__ The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
+__the devil is in the detail(s)__ _proverb_ :two: Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
+__the eleventh hour__ :two: The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
+__the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
+__the end of the world__ An extremely bad situation or event. Almost always used hyperbolically and ironically. _Well, whoever is elected, it won’t be the end of the world; each candidate is as good or bad as the other in my book._  
 __the fact of the matter__ The most basic, fundamental truth of something.  
+__the final straw__  
+__the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence. _One must never forget the sway held by members of the Fourth Estate—if we want public support, then we need the press on our side._  
+__the full monty__  
 __the going thing__ The latest and most popular trend, fad, or fashion.  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
+__the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
+__the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the happy day__ A wedding, or marriage in general.  
+__the head honcho__ _slang_ The person in charge. _That decision is above my pay grade. You’ll have to ask the head honcho._  
 __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. Often used with “get” or “give.” _I have the heebie-jeebies whenever I go to the dentist._  
 __the hell out of__ _slang_ To a huge or great degree; very much. _Don’t sneak up on me like that, you scared the hell out of me!_ _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ The sincere, unadulterated truth.  
+__the icing on the cake__  
+__the ick__ A sudden feeling of disgust or revulsion toward a person, usually one’s date.  
 __the idiot box__ A television set, or television in general.  
 __the inmates are running the asylum__ The people least capable of running a group or organization are now in charge. Said especially when the result is total chaos or calamity. _With the primary schools giving their young students complete control over the curriculum, it seems as though the inmates are running the asylum._  
 __the jet set__ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
@@ -3195,6 +3211,7 @@ __the L-bomb__ An expression of romantic love for another, especially when said 
 __the lady of the house__ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list.  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
+__the likes of (someone or something)__  
 __the lion’s den__ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :two: Major share of something.  
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  

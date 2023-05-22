@@ -488,26 +488,6 @@ __talk trash__
 __talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__ :two::hammer:  
-__tall tale__ :three::hammer:  
-__the ball is in (one’s) court__  
-__the big picture__  
-__the bigger picture__  
-__the bigger they come, the harder they fall__ _proverb_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
-__the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
-__the cat is out of the bag__ Some secret or surprise has been revealed or exposed.  
-__the devil is in the detail(s)__ _proverb_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
-__the eleventh hour__  
-__the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
-__the end of the world__ An extremely bad situation or event. Almost always used hyperbolically and ironically. _Well, whoever is elected, it won’t be the end of the world; each candidate is as good or bad as the other in my book._  
-__the final straw__  
-__the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
-__the full monty__  
-__the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
-__the handwriting on the wall__ _He could see the handwriting on the wall._  
-__the head honcho__ _slang_ The person in charge. _That decision is above my pay grade. You’ll have to ask the head honcho._  
-__the icing on the cake__  
-__the ick__ A sudden feeling of disgust or revulsion toward a person, usually one’s date.  
-__the likes of (someone or something)__  
 __the likes of__  
 __the lion’s den__  
 __the meat and potatoes__  
