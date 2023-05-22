@@ -1352,26 +1352,6 @@ __waterfront__ _n_ :two: Land, land with buildings, or a section of a town front
 __wet suit__ _n_  
 __wetback__  
 __wetsuit__ _n_  
-__wharf__ _n_ :four: __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
-__whatnot__  
-__wheelbarrow__ _n_ :two::hammer:  
-__wheelhouse__ _n_ :two: /HWEEL-haus/ __1__ An enclosed area on a boat or ship that houses the steering wheel. __2__ In baseball, the area in which it’s easiest for the batter to hit the ball with the most power. __3__ One’s area of interest or expertise.  
-__wherry__ _n_  
-__whimsical__ _adj_  
-__whinge<sup>1</sup>__ _v intr_ /whinj/ To complain or protest, especially in an annoying or persistent manner.  
-__whinge<sup>2</sup>__ _n_ A whine or complaint.  
-__whiplash__ _n_ :two::hammer: _An amazing, whiplash-inducing performance._  
-__whirlpool__ _n_  
-__whisk__ _v_ :three::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
-__whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
-__white hole__ _n_  
-__white paper__ _n_  
-__white-knuckled__  
-__whitewater__ _n_ :four::hammer: _Whitewater rafting._  
-__whizz__ _v_  
-__whodunnit__ _n informal_  
-__whole food__ _n_  
-__whole number__  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
 __wholly__ _adv_  

@@ -18416,22 +18416,23 @@ __whale<sup>2</sup>__ _v_ :mute:[w~~h~~ale]
 __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
-__wharf__ _n_ :five::hammer: (wharves)  
+__wharf__ _n_ :nine: (wharves) __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
 __what’s the haps?__  
 __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
 __what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]  
 __what<sup>3</sup>__ _adv_ :mute:[w~~h~~at]  
 __what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]  
-__whatnot__ _n_ :three::hammer:  
+__whatnot__ _n_ :four::hammer:  
 __Wheat Belt__ _n_ The part of North America where wheat is the primary crop.  
 __wheat__ _n_ :mute:[w~~h~~eat]  
 __wheedle__ _v_ :four::dart: /WEE-dul/ Wheedle means “to use soft words or flattery,” usually for the purpose of persuading someone to do something or to give you something. It is often used disapprovingly, and is frequently followed by the word _into_, as in “wheedle one’s way into favor.” To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._ _The sales clerk tried to wheedle us into spending more money than we wanted._ _We managed to wheedle the juicy details about her date out of her._  
 __wheel well__ _n_ _The Corvette’s wheel well._  
 __wheel__ _v_ :mute:[w~~h~~eel]  
-__wheelbarrow__  
+__wheelbarrow__ _n_ :three::hammer:  
 __wheelbarrow-sledges__  
 __wheeled__ _v_ _Shallows dipped and wheeled._  
 __wheeler-dealer__ _n_ _informal_ :dart: One who advances one’s own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin’._  
+__wheelhouse__ _n_ :two: /HWEEL-haus/ __1__ An enclosed area on a boat or ship that houses the steering wheel. __2__ In baseball, the area in which it’s easiest for the batter to hit the ball with the most power. __3__ One’s area of interest or expertise.  
 __wheelie__  
 __wheelwright__ _n_  
 __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  
@@ -18443,6 +18444,7 @@ __whereas__
 __whereby__  
 __wherefore__ _adv_  
 __wherewithal__ _n_ :five: /WAIR-wih-thawl/ Wherewithal refers to the means, resources, or money that is needed to get or do something. _News reports suggest that the company does not have the wherewithal from investors to prevent a buyout._  
+__wherry__ _n_  
 __whet__ _v_ :nine::m: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate. _Syn_ quicken, pique _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
 __whether__ _conj_ :mute:[w~~h~~ether]  
 __whetstone__  
@@ -18455,27 +18457,29 @@ __whilom__ _adj_ Having once been; former: _the whilom editor in chief._ _Syn_ e
 __whim__ _n_ :two::hammer:  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
-__whimsical__ _adj_  
-__whinge__ _v_ _British English_ To keep complaining in an annoying way.  
+__whimsical__ _adj_ :two::hammer:  
+__whinge<sup>1</sup>__ _v intr_ :two: /whinj/ _British English_ To keep complaining in an annoying way. To complain or protest, especially in an annoying or persistent manner.  
+__whinge<sup>2</sup>__ _n_ A whine or complaint.  
 __whinnied__ _v_  
 __whip up__ _phr v_ To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
-__whiplash__ _n_ :two: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
+__whiplash__ _n_ :four: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ :es: latigazo  
 __whippersnapper__  
 __whipsaw__ _v_  
 __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
 __whirl<sup>1</sup>__ _v_ :mute:[w~~h~~irl]  
 __whirl<sup>2</sup>__ _n_ :two::hammer::mute:[w~~h~~irl] (whirled)  
-__whirlpool__ _n_  
+__whirlpool__ _n_ :two::hammer:  
 __whirlwind__ _n_ :three::hammer: _A whirlwind tour of American universities._ :es: torbellino  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
 __whirred__ _v_ :three::hammer: (wirring) _The arrow whirred over his head._  
 __whisk broom__  
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe’s fastest elevator whisk you 24 floors in a mere 20 seconds._  
-__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ _She whisked into the kitchen._ __2__ To whip (eggs or cream).  
+__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ _She whisked into the kitchen._ _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._ __2__ To whip (eggs or cream).  
 __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]  
+__whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
 __whisper<sup>1</sup>__ _n_ :mute:[w~~h~~isper]  
 __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]  
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
@@ -18485,12 +18489,14 @@ __whistleblower__ _n_ :two::hammer:
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
+__white hole__ _n_  
 __white line__ _n_ (appliances)  
-__white paper__  
+__white paper__ _n_ :two::hammer:  
 __white supremacist__ _n_ One who believes that white people are racially superior to others and should therefore dominate society.  
 __white whale__ _n_ Small northern whale that is white when adult.  
 __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
+__white-knuckled__  
 __white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]  
 __white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
 __whitecap__ _n_ A wave with a crest of foam.  
@@ -18498,18 +18504,20 @@ __whitelist__ _v_ To place on a whitelist.
 __whiteout__ _n_ :three::hammer:  
 __whitewash<sup>1</sup>__ _n_ :two::hammer: __4__ _slang_ (Financial) An unexploited opportunity. _That is, whitespace is a potential source of profit, almost always associated with some level of risk._  
 __whitewash<sup>2</sup>__ _v_ :five: __1__ To paint or coat with whitewash. __2__ To conceal or gloss over (wrongdoing, for example). __3__ (Sports) To defeat (an opponent) in a game in which the opponent does not score.  
-__whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.  
+__whitewater<sup>1</sup>__ _n_ :five: (white water) Turbulent or frothy water, as in rapids or surf. _Whitewater rafting._  
 __whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
 __whithered__  
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoeic representation of the sound made by a firearm or firework. It was popularized in WWI as high-speed shells were called whizbangs. It was also the name given to a rocket launcher used by the US Army during WWII.] __1__ Someone or something extraordinarily successful. __2__ Someone or something flashy, impressive, technologically innovative, etc. __3__ A firework that makes whizzing sounds and loud bangs.  
 __whizbang<sup>2</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
-__whizz__ _n_ :two::hammer: (whizzes) _Asians are generally thought to be math whizzes compared to other ethnic groups._  
-__whizzing__  
+__whizz<sup>1</sup>__ _n_ :two::hammer: (whizzes) _Asians are generally thought to be math whizzes compared to other ethnic groups._  
+__whizz<sup>2</sup>__ _v_ :two::hammer:  
 __who__ _pron_ :mute:[~~w~~ho]  
-__whodunit__ _n_ :three: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
+__whodunit__ _n informal_ :four: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
+__whole food__ _n_  
 __whole milk__  
 __whole nine yards, the__  
+__whole number__  
 __whole<sup>1</sup>__ _adj_ :mute:[~~w~~hole]  
 __whole<sup>2</sup>__ _n_ :mute:[~~w~~hole]  
 __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a whole new idea._  
