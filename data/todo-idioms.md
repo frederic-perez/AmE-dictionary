@@ -529,26 +529,6 @@ __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no u
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
 __tough love__ :two::hammer:  
-__tour de force__ :three::hammer:  
-__trace back__  
-__train wreck__  
-__tread carefully__ :dart: To delicately handle or approach a situation in order not to upset or worsen the current circumstances, which may be precarious. _Tread carefully when you ask Mom whether she’s going to the party. She’s been acting weird about it._ _There are good reasons why Google should be tread carefully._  
-__treasure hunt__  
-__tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
-__uncharted territory__  
-__under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
-__under one’s thumb__  
-__under the yolk__  
-__undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
-__unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
-__up and coming__ (up-and-coming) On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
-__up to (one’s) neck in alligators__ _business adage_ So overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective. The full expression is some variation of “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” _I’ve spent so much time dealing with various infrastructure problems for my new business that I’ve had no time to actually develop our product properly. I guess it’s easy to forget that when up to your neck in alligators, the mission was to drain the swamp._  
-__weigh on__  
-__well in advance__ _Book tickets well in advance._  
-__well-heeled__ Having plenty of money; prosperous.  
-__west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
-__what a drag__  
-__what are the odds__  
 __what do I know__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what makes (one) tick__  
