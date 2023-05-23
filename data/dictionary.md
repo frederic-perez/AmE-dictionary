@@ -18679,10 +18679,10 @@ __womanizer__ _n_ :four::hammer:
 __womanizing__  
 __womb__ _n_ :mute:[wom~~b~~] __1__ The nontechnical name for uterus.  
 __women__ _n_ :two::mega: /ˈwɪmɪn/  
-__wondrous<sup>1</sup>__ _adj_ :five::hammer:  
+__wondrous<sup>1</sup>__ _adj_ :nine::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
-__wonky__ _adj_ :two::hammer:  
+__wonky__ _adj_ :three::hammer:  
 __wont__ _adj_  
 __wonted__ _adj_ Commonly used or practiced; usual.  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
@@ -18690,12 +18690,15 @@ __wood chipper__ _n_ A power-driven machine for cutting wood into chips.
 __wood pellets__  
 __wood rasp__ _n_  
 __wood shavings__  
+__woodchuck__ _n_ /ˈwʊdˌtʃʌk/ A North American marmot, _Marmota monax_, having coarse reddish-brown fur. Also called: _groundhog_  
 __wooden-headed__ _adj_ _informal_ Stupid.  
 __woodland__ _n_  
 __woodpile__ _n_  
+__woods__ _n pl_  
 __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.  
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
+__woodsy__ _adj_ :two::hammer: _A warm, woodsy room._  
 __woodwork__ _n_ :two::hammer:  
 __woolcarder__ _n_ :two::hammer: _Peasant’s tools include hammer, knife, ax, and wool-carder’s comb._  
 __woolgathering__ _n_ Indulgence in idle daydreaming. _My woolgathering was abruptly interrupted by a question from the flight attendant._  
@@ -18704,6 +18707,7 @@ __woomb__
 __woozy__ _adj_ :four::hammer:  
 __wop__  
 __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
+__word-hoard__ _n_ :dart: A person’s vocabulary.  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wordiness__ _n_  
 __wording__ _n_  
@@ -18714,20 +18718,25 @@ __wordsmith__ _v_ :two::hammer:
 __wordy__ _adj_ :two: Using or containig too many words.  
 __work as planned__  
 __work at__ _phr v_ To try hard to develop or improve something.  
+__work desk__ _n_ :two: A desk used for work; a desk in the workplace.  
 __work my tail of__  
 __work off__ _phr v_ To get rid of something by using physical effort.  
 __work on__ _phr v_ :two: To spend time or improving something.  
 __work out__ _phr v_ :two: To find the answer or solution.  
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen’s work surface._  
 __workaday__ _adj_ :two::hammer: _The workaday world._  
-__workforce__  
+__workaholism__ _n_ :mega: The state of being a workaholic.  
+__workbook__ _n_  
+__workforce__ _n_ :two::hammer: (work force)  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working title__  
 __workload__ _n_ :two::hammer: _A new weight management service will result in a significant rise in GP workload._  
 __workmanlike__  
+__worksheet__ _n_ _Ask for a library worksheet._  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __workstation__ _n_ :two::hammer:  
 __worktop__ _n_ A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
+__World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
 __world powers__ _n_ :astonished:  
 __worldliness__ _n_ _The worldliness of friars._  
 __wormed__ _v_  
@@ -18742,16 +18751,20 @@ __wort__
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one’s time, effort, or interest.  
 __would you be so kind as to__ _phr_ :es: sería tan amable de, tendría la bondad de  
 __would__ _v_ :mute:[wou~~l~~d]  
+__woven__ _n_  
 __wow factor__  
-__wow__ _v_ :two::hammer:  
+__wow__ _v_ :three::hammer:  
 __wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
 __wraith__ _n_ :three: __1__ An apparition of a living person supposed to portend his or her death. __2__ A visible spirit. _Syn_ ghost  
 __wrangle__ _v_ :two::hammer: (wrangling)  
+__wrangler__ _n_  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
 __wrap<sup>1</sup>__ _v_ :mute:[~~w~~rap]  
 __wrap<sup>2</sup>__ _n_ :mute:[~~w~~rap]  
 __wraparound__ _adj_ :two::hammer: _A wraparound front porch._ _Wraparound season._  
 __wrath__ _n_ :mute:[~~w~~rath]  
+__wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
+__wreak-havoc__ _v_  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
 __wreathe__ _v_ To encircle or adorn, as with a wreath; to envelop: _Her head was wreathed in spring flowers._  
@@ -18780,7 +18793,7 @@ __write up__ _phr v_ :three: To write something using notes that you wrote earli
 __write__ _v_ :mute:[~~w~~rite]  
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
-__writhe__ _v_ :eight::hammer: (writhed, writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
+__writhe__ _v_ :nine: /RYTHE/ (writhed, writhing) Writhe means “to twist.” The word is often used when the body or a bodily part is twisting, and especially when it is twisting in pain. _After suffering an injury during the game, he lay on the football field, writhing in pain._ _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
 __writs__ _n_  
 __wrong<sup>1</sup>__ _adj_ :mute:[~~w~~rong]  
 __wrong<sup>2</sup>__ _adv_ :mute:[~~w~~rong]  
@@ -18794,11 +18807,13 @@ __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ _adv_ :four::pencil2::hammer: :es: irónicamente, con ironía _A few people laughed wryly._  
+__Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
 __wynn__ _n_ (wen) An Old English rune (ƿ) having the sound (w) and used in Old English and Middle English writing.  
 __X factor__ _n_ _informal_ (X-factor) An unknown or unexplained element that makes something more interesting or valuable. _Terry could become Ryukyu’s X-factor._  
 __Xanadu__ _n_ A place of great beauty, luxury, and contentment.  
+__xenial__ _adj_ Of, relating to, or constituting hospitality or relations between host and guest and especially among the ancient Greeks between persons of different cities.  
 __xenobiotic<sup>1</sup>__ _n_  
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  

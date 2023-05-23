@@ -1380,26 +1380,6 @@ __witty__ _adj_ _A witty cast of characters that serve and entertain._
 __wizen__ _v_  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __womance__ _n_ A close friendship between women.  
-__wondrous__ _adj_ :four::hammer:  
-__wonky__ _adj_  
-__woodchuck__ _n_ /ˈwʊdˌtʃʌk/ A North American marmot, _Marmota monax_, having coarse reddish-brown fur. Also called: _groundhog_  
-__woods__ _n pl_  
-__woodsy__ _adj_ :two::hammer: _A warm, woodsy room._  
-__word-hoard__ _n_ :dart: A person’s vocabulary.  
-__work desk__ _n_ :two: A desk used for work; a desk in the workplace.  
-__workaholism__ _n_ :mega: The state of being a workaholic.  
-__workbook__ _n_  
-__workforce__ _n_ (work force)  
-__worksheet__ _n_ _Ask for a library worksheet._  
-__World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
-__woven__ _n_  
-__wow__ _v_  
-__wrangler__ _n_  
-__wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
-__wreak-havoc__ _v_  
-__writhe__ _v_ /RYTHE/ Writhe means “to twist.” The word is often used when the body or a bodily part is twisting, and especially when it is twisting in pain. _After suffering an injury during the game, he lay on the football field, writhing in pain._  
-__Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
-__xenial__ _adj_ Of, relating to, or constituting hospitality or relations between host and guest and especially among the ancient Greeks between persons of different cities.  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __zinch__  
