@@ -2405,7 +2405,7 @@ __caboose__ _n_ :camera::three::hammer: _Mr. Miller kept 50 engines, boxcars, fl
 __cache<sup>1</sup>__ _n_ :two::mega: A secret store of valuables or money. _Syn_ hoard, stash _In case of an emergency, I have a small cache of money and weapons hidden in the shed._  
 __cache<sup>2</sup>__ _v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
-__cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
+__cachinnate__ _v intr_ :five: To laugh hard, loudly, or convulsively; guffaw.  
 __cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle<sup>1</sup>__ _v_ :four::hammer: (cackling)  
@@ -2440,6 +2440,7 @@ __caitiff__ _adj_ _Caitiff nobles._
 __cajole__ _v_ :nine::m: /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax. _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
+__cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __cakewalk__  
 __calamari__ _n_ :astonished: Squid prepared as food. _Syn_ squid _Lisa ordered calamari at the Italian restaurant._  
 __calamitous__ _adj_ :two::mega: Causing or involving calamity; disastrous. Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
@@ -2618,7 +2619,7 @@ __carol__ _v_ :two::hammer: (caroling) (vs Christmas carol) _Join others carolin
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
-__carouse__ _v_ :six: (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. _Syn_ roister _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
+__carouse__ _v_ :seven: /kuh-ROWZ/ (“OW” as in ‘cow’) (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. To drink alcohol, make noise, and have fun with other people. _Syn_ roister _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._ _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
 __carousel__  
 __carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
 __carpal tunnel syndrome__ _n_  
@@ -2774,6 +2775,7 @@ __cement bird bath__
 __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._  
 __censer__ _n_ :two: A container for burning incense.  
 __censure motion__  
+__censure__ _v_ :mega: /SEN-sher/  
 __centennial__  
 __center stage__ _n_  
 __centerpiece__  
@@ -2985,7 +2987,7 @@ __chit-chat<sup>1</sup>__ _n_ :two: (chit chat) An informal conversation about t
 __chit-chat<sup>2</sup>__ _v_  
 __chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
-__chivalry__ _n_ :four::hammer:  
+__chivalry__ _n_ :five::hammer: /SHIV-ul-ree/  
 __chive__ _n_ :three::hammer: _Chive sauce._ :es: cebollino, cebolleta  
 __chivvy__ _v_ :three: (chivy) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
@@ -2996,14 +2998,14 @@ __choir__ _n_ :mega:
 __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
 __choke<sup>1</sup>__ _n_ :two::hammer: _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
-__chokehold__ _n_ __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. __2__ Complete power or control: _the chokehold the mob has had on the town._  
+__chokehold__ _n_ :two: __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._ __2__ Complete power or control: _the chokehold the mob has had on the town._  
 __choker__ _n_ _A velvet choker._  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
 __chop<sup>1</sup>__ _n_ :two: __2__ Quality; class: _first chop._ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
 __chop<sup>2</sup>__ _v_  
-__chophouse__ _n_ :two: A restaurant that specializes in serving steaks and chops of meat.  
+__chophouse__ _n_ :three: A restaurant that specializes in serving steaks and chops of meat. _Syn_ steakhouse  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ _n, v_ :mute:[c~~h~~ord]  
@@ -3015,6 +3017,7 @@ __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
 __chowder__ _n_ /ˈtʃaʊ dər/ A thick soup of clams, fish, or vegetables, usu. with potatoes, milk, and various seasonings.  
+__chrism__ _n_ A consecrated mixture of oil and balsam, used for anointing in church sacraments such as baptism and confirmation. _Syn_ holy oil, sacramental oil  
 __christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
 __Christendom__ _n_  
 __christening__ _n_  
@@ -3084,6 +3087,7 @@ __circumforaneous__ _adj_
 __circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
 __circumnavigate__ _v_ :two: __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
+__circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
 __circumspect__ _adj_ :two: Heedful of circumstances and potential consequences; prudent. Cautious, prudent, or discreet. _Syn_ discreet _Because the drug was shown to have adverse side effects, physicians are now more circumspect about recommending its use._  
 __circumsphere__  
 __circus__ _n_ [:scroll: Middle English, _round arena_, from Latin, _circus_, _circle_]  
@@ -3219,6 +3223,7 @@ __closeout__ _n_ :dart: A sale of goods at very low prices because a store wants
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
 __closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
+__clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
 __clothesline__ _n_ :two::hammer:  
 __clothespin__ _n_ :two::camera::hammer:  
 __clothiers__ _n_  
@@ -3255,7 +3260,8 @@ __co-sleeping__
 __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
 __coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
-__coalesce__ _v_ :pencil2::six: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
+__coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
+__coalesce__ _v_ :pencil2::seven: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
 __coaster brakes__  
@@ -3365,6 +3371,7 @@ __collude__ _v_ :three: Act in unison or agreement and in secret towards a decei
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocate__ _v_  
 __colocation > data colocation__  
+__colon__ _n_ :mega:  
 __colonel__ _n_ :two::mega::hammer:  
 __colonnade__  
 __colophon__ _n_  
@@ -3414,7 +3421,7 @@ __commemorate__ _v_ /kuh-MEM-uh-rayt/
 __commence__ _v_  
 __commencement__ _n_ _The high school commencement ceremony._  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
-__commendable__ _adj_ :five: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
+__commendable__ _adj_ :six: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__ _adj_ :five: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
@@ -3424,6 +3431,7 @@ __commiserate__ _v_ :seven::hammer: /kəˈmɪzəˌreɪt/
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __commissioned__ _adj_  
+__commissure__ _n_  
 __commitment__ _n_ /kəˈmɪt mənt/  
 __committal__ _n_ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
@@ -3485,6 +3493,7 @@ __compute<sup>1</sup>__ _n_
 __compute<sup>2</sup>__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
 __computer__ _n_ :mega:  
 __comrade__  
+__comradery__ _n_ :two::hammer:  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con-artist__  
@@ -3531,7 +3540,7 @@ __conducive__ _adj_ :seven::hammer: _The vehicle doesn’t seem conducive to pas
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :seven::hammer::mega:  
 __coneys__  
-__confabulate__ _v_ :four: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
+__confabulate__ _v intr_ :five: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
 __confectionery__ _n_ :two::hammer:  
 __confederacy__  
@@ -3603,6 +3612,7 @@ __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _C
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consistently__  
+__console__ _n_ :mega:  
 __consoled__ _v_  
 __consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
 __consort__ _v_ (consorting)  
@@ -3652,7 +3662,7 @@ __contractor__ _n_ :hammer::two:
 __contrafactum__ _n_ A composition that makes use of an existing piece of music with different lyrics.  
 __contrail__ _n_ (vapor trail) A visible condensation of water droplets or ice crystals from the atmosphere, occurring in the wake of an aircraft, rocket, or missile.  
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning “to adhere closely” and “to part or split.”  
-__contraption__  
+__contraption__ _n_ :two: /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
 __contrarian__  
 __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
 __contretemps__ _n_ :three: /KAHN-truh-tahn/ The word contretemps refers to an inconvenient or embarrassing occurrence or situation. It can also refer to a dispute or argument. An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
@@ -3730,7 +3740,7 @@ __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched ov
 __cord blood__  
 __cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
 __cordate__ _adj_ Having a heart-shaped outline. _Syn_ heart-shaped, cordiform _When a cordate leaf fell from the tree, she considered it a sign that she would soon find love._  
-__cordial__ _n_ :astonished: __1__ A strong, sweetened, aromatic alcoholic liquor; liqueur. __2__ A stimulating medicine.  
+__cordial__ _adj_ :two::mega::astonished: /KOR-jul/ Cordial means “politely pleasant and friendly.” It also means “showing or marked by warm and often hearty friendliness, favor, or approval” and “sincerely or deeply felt. __1__ A strong, sweetened, aromatic alcoholic liquor; liqueur. __2__ A stimulating medicine.  
 __cordite__ _n_  
 __cordon sanitaire__ _n_ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  

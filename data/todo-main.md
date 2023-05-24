@@ -37,26 +37,6 @@ __brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that se
 __breadwinner__ _n_ :pencil2:  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
-__cachinnate__ _v intr_ :three::hammer:  
-__cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
-__carouse__ _v_ /kuh-ROWZ/ (“OW” as in ‘cow’) To drink alcohol, make noise, and have fun with other people. _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._  
-__censure__ _v_ :mega: /SEN-sher/  
-__chivalry__ _n_ /SHIV-ul-ree/  
-__chokehold__ _n_ A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._  
-__chophouse__ _n_ A restaurant that specializes in steaks. _Syn_ steakhouse  
-__chrism__ _n_ A consecrated mixture of oil and balsam, used for anointing in church sacraments such as baptism and confirmation. _Syn_ holy oil, sacramental oil  
-__circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
-__clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
-__coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
-__coalesce__ _v_  
-__colon__ _n_ :mega:  
-__commendable__ _adj_  
-__commissure__ _n_  
-__comradery__ _n_ :two::hammer:  
-__confabulate__ _v intr_  
-__console__ _n_ :mega:  
-__contraption__ _n_ /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
-__cordial__ _adj_ :mega: /KOR-jul/ Cordial means “politely pleasant and friendly.” It also means “showing or marked by warm and often hearty friendliness, favor, or approval” and “sincerely or deeply felt.”  
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
