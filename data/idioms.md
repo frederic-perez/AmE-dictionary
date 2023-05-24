@@ -3484,21 +3484,40 @@ __with (one’s) blessing__ With one’s express approval, consent, or well-wish
 __with (one’s) pants down__ _slang_ In an embarrassing position.  
 __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manner.  
 __with a passion__ _informal_ Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
+__with a twist__ :three::hammer:  
 __with a vengeance__ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._  
+__with a view__ _Chateau with a view._  
+__with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
 __with flying colors__ :two: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
+__with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __with reckless abandon__ With rash, unrestrained impulsiveness, enthusiasm, or zeal. _Ever since my brother got that car for his birthday, he’s been motoring around at night with reckless abandon._  
+__wither away__  
+__within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within reason__ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
+__within walking distance__  
+__without a doubt__  
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
-__without further ado__ With no more delay.  
+__without further ado__ :two: With no more delay.  
+__without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
+__womp womp__ :astonished: A humorous phrase used to indicate or highlight minor disappointment. It mimics the sad trombone noise often used as a trope in movies and TV shows. _I tried to stop at that boutique on my way home from work, but it was already closed. Womp womp._  
+__won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
+__word of mouth__ :two::hammer:  
+__work (one’s) ass off__  
+__work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
+__work like a charm__ :two::hammer:  
 __work one’s fingers to the bone__  
 __work one’s tail off__  
+__work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work up a sweat__ __1__ Literally, to perspire due to strenuous physical activity. _Ping pong is actually great exercise. You really can work up a sweat after just a few games._ __2__ By extension, to put forth a large amount of energy or effort into or toward a task. Often used in the negative to indicate the opposite. _That test was so easy, I aced it without even working up a sweat._  
+__work wonders__  
 __worked out__ __5__ _v_ To have a specific result. _I never planned to become a lawyer, that’s just how it worked out._  
 __worried sick__ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
+__worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
 __wouldn’t listen__ _He wouldn’t listen._  
 __wouldn’t touch something/someone with a ten-foot pole__ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
 __wrap (one’s) head around it__ :seven: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
 __wrap around one’s finger__ (twist around one’s finger) Exert complete control over someone, do as one likes with someone, as in _Alison could twist just about every man around her finger._  
+__wrap my head around something__  
 __wreak havoc__ :three: (wreaked havoc) To cause a lot of problems.  
 __write (one’s) own ticket__ :two::hammer:  
 __write someone or something off__  

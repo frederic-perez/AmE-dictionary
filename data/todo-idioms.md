@@ -568,26 +568,6 @@ __witching hour__ _The pizzeria servers until the witching hours._
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
 __with a bang__ :two::hammer: _Chamber music with a bang!_  
 __with a passion__  
-__with a twist__ :three::hammer:  
-__with a view__ _Chateau with a view._  
-__with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
-__with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
-__wither away__  
-__within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
-__within walking distance__  
-__without a doubt__  
-__without further ado__  
-__without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
-__womp womp__ :astonished: A humorous phrase used to indicate or highlight minor disappointment. It mimics the sad trombone noise often used as a trope in movies and TV shows. _I tried to stop at that boutique on my way home from work, but it was already closed. Womp womp._  
-__won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
-__word of mouth__ :two::hammer:  
-__work (one’s) ass off__  
-__work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
-__work like a charm__ :two::hammer:  
-__work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
-__work wonders__  
-__worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
-__wrap my head around something__  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __yada yada yada__  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
