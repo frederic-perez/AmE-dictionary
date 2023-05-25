@@ -22,26 +22,6 @@ __backwater__
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __be on the fence (about something)__  
-__be quite something__ :two: To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_ _Ah, millennial parties were quite something._  
-__be stoked__ _slang_ To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
-__beef up__  
-__behind bars__  
-__behind closed doors__  
-__better (to be) safe than sorry__  
-__boy oh boy__ :two::hammer:  
-__brace (oneself) for (something)__  
-__bring the house down__  
-__burner account__ A social media account that one uses to post anonymously and avoid having their posts (usually ones that are inappropriate somehow) traced to them. _The 76ers GM resigned after being linked to burner accounts on Twitter that shared private information about several players._  
-__burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
-__bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
-__call someone out__  
-__cash in__  
-__catch__ _Here is the catch._  
-__catfish__ _Dating sites are riddled with catfish._  
-__cheesy__  
-__chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
-__chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
-__churn out__ :two::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  

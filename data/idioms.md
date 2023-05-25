@@ -447,6 +447,7 @@ __be on vacation__ _During January and February the trolleys are on vacation._
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
 __be put in (one’s) place__ To be humbled or have one’s dignity lowered (by someone); to be made aware that one is not as important, respected, influential, etc., as one thinks. _John was really put in his place by the teacher, who scolded him so harshly that he burst into tears._  
 __be put out of business__ To be caused or forced to cease carrying on commercial trading or transactions. _Our bookstore has been a part of the neighborhood for nearly 50 years, but we’re being put out of business by these new electronic books that you can download._  
+__be quite something__ :two: To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_ _Ah, millennial parties were quite something._  
 __be rained out__ To be delayed, postponed, or cancelled due to the rain. _I was really looking forward to the football match this weekend, but it was rained out._  
 __be running on fumes__ To be continuing to operate with no or very little enthusiasm, energy, or resources left. _I’ve been painting the house for four hours every night after work, and I am seriously running on fumes at this point._ _We were running on fumes by the time our team made it to the championship round._  
 __be rushed off (one’s) feet__ :dart: To be exceptionally busy, especially to an exhausting or exasperating degree; to be made to work very hard and very quickly. _We have three parties of 40 scheduled for the dining room this evening, so all of our servers are going to be rushed off their feet._  
@@ -458,6 +459,7 @@ __be sold on (something)__ To be confident in or convinced about something’s v
 __be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
+__be stoked__ _slang_ To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
 __be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
 __be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
 __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
@@ -482,14 +484,15 @@ __beat your head against the wall__ To try to do something that is hopeless.
 __beautiful people__ Stylish, glamorous, and often wealthy people admired by others. _I wish we were as cool as them—man, they are really the beautiful people._  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __beauty queen__ A woman who has won, or looks as if she could win, a beauty pageant. _When that beauty queen walked in, everyone’s heads turned._  
-__beef up__ :two: To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
+__beef up__ :three: To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
 __been there, done that__  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
 __beg the question__ :five::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
-__behind closed doors__ :dart::two: In secret, privately.  
+__behind bars__  
+__behind closed doors__ :dart::three: In secret, privately.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
@@ -504,6 +507,7 @@ __bend over backwards__ To try very hard to do something. This phrase has its or
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
+__better (to be) safe than sorry__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __between dog and wolf__ Between dusk and daylight. _What were you guys doing out between dog and wolf? You better not have been getting into trouble last night!_  
 __beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
@@ -569,7 +573,8 @@ __bounce back__
 __bound to (be or do something)__ :two::hammer: _It’s bound to be an exciting game._  
 __bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __Box and Cox__ Two people who always miss each other and thus are never together. The phrase comes from the 19th-century story of the same name, in which two men named Box and Cox rent the same room at different times of day. _Since I’ve been on night work all week, Irene and I are like Box and Cox these days, constantly missing each other. I hope to actually spend time with her over the weekend!_  
-__boy oh boy__ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
+__boy oh boy__ :six: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
+__brace (oneself) for (something)__  
 __brace of shakes__ Instantly, quickly, or in an extremely short amount of time, as of a task or event. “Brace,” taken from the old French for the arms’ breadth from hand to hand, means twice; the phrase as a whole refers either to an old nautical term, meaning the time it takes the sail to shake twice as it takes up the wind, or else the short time it takes to shake a dice-box twice. Often used in the phrase “in a brace of shakes.” _I’ll have that ready for you in a brace of shakes._ _We’ll be there in a brace of shakes._  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
@@ -605,7 +610,7 @@ __bring a knife to a gunfight__ :two: To come poorly prepared or equipped for so
 __bring about__ :three: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
 __bring home the bacon__ To earn money to live on.  
 __bring it on__ To begin a fight or competition.  
-__bring the house down__ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
+__bring the house down__ :two: __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __bring to an end__  
 __bristle with something__ _phr v_ :nine::m: [:sound: bristled with] (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __broken record__ :dart::three: A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly. _I feel like a broken record having to tell you this each day, but please clean your room!_  
@@ -628,13 +633,16 @@ __burn the candle at both ends__ To work or study day and night.
 __burn the midnight oil__ :three: To work late into the night.  
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
+__burner account__ A social media account that one uses to post anonymously and avoid having their posts (usually ones that are inappropriate somehow) traced to them. _The 76ers GM resigned after being linked to burner accounts on Twitter that shared private information about several players._  
 __burning desire__  
+__burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
 __burst (one’s) bubble__  
 __burst at the seams__ :two::hammer:  
 __burst through (something)__  
 __bury (one’s) head in the sand__  
 __bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
 __bust out__ _She clearly has something busting out._  
+__bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
 __busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
 __but for (someone)__ Except for someone; if not for someone. _But for the support of my friends, I never would have survived that difficult time._  
 __but for (something)__ Except for something; if not for something. _That major home repair would have sent me into debt but for my emergency fund._  
@@ -669,7 +677,7 @@ __call on (someone or something)__ _He called on me._
 __call out__ :four::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
 __call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
-__call someone out__ To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
+__call someone out__ :two: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
 __call something out__  
 __call the shots__ :two::hammer:  
 __call to action__ :two::hammer:  
@@ -702,7 +710,7 @@ __case in point__ :three: A specific example of what one is talking about. _Now,
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
-__cash in__  
+__cash in__ :two::hammer:  
 __cast a sheep’s eye__ To give a sideways glance or a suspicious look. _When I tried to feed the baby something new, she cast a sheep’s eye at it and then tried to smack it out of my hand._  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable. _The healthcare law looks promising, but we’ll have to wait until it’s cast in concrete before we know exactly what it will do._  
 __cast the first stone__ To be the first to criticize someone or something. _OK, fine, I’ll cast the first stone—that movie was awful!_  
@@ -728,7 +736,8 @@ __catch onto (something)__
 __catch some Zs__ To go to sleep, to take a nap.  
 __catch the sun__ To get sunburned. _I caught the sun at the beach last weekend, and now my back hurts so much that I have to sleep on my side!_  
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
-__catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_  
+__catch__ :two: __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_ _Here is the catch._  
+__catfish__ _Dating sites are riddled with catfish._  
 __catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
 __caught on the hop__ Caught unawares or in a state of unpreparedness. _Please forgive my distracted attention—I’m afraid I was caught on the hop by your sudden arrival._  
 __caught unaware(s)__ To be surprised by someone or something. _The clerk was caught unawares, and the robber emptied out the cash register before the clerk could sound the alarm._  
@@ -751,7 +760,7 @@ __cheap out__ To choose a less expensive option or course of action in order to 
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
 __check off__ :dart::seven::hammer: To mark someone or something as present, verified, or completed, as on a list. A noun or pronoun can be used between “check” and “off.” _Checking things off my to-do list is so satisfying._ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._ _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
-__cheesy__ _adj informal_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
+__cheesy__ _adj informal_ :four: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chew on something__  
 __chew out__ _slang_ To scold or berate one harshly or angrily. A noun or pronoun can be used between “chew” and “out.” _The boss is totally going to chew us out if he hears that we lost that big client._  
 __chew the fat__ To chat or gossip.  
@@ -768,10 +777,13 @@ __chip in__
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
 __choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
+__chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
+__chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
+__churn out__ :two::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __churn something up__  
 __cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0). _I feel like a bit of a cipher in such a large company._  
 __circle back (to something)__ :two::hammer:  
