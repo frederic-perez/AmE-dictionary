@@ -11611,18 +11611,20 @@ __oncoming__ _adj_ _The oncoming winter’s patterns._
 __one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
 __one-liner__ _n_ :dart: A quick joke or quip; a funny observation.  
 __one-note__  
-__one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
+__one-off<sup>1</sup>__ _adj_ :four: _British informal_ Done, made, or happening only once. _A one-off benefit show._ _One-off handcrafted pieces._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
-__onerous__ _adj_ :five::hammer::pencil2::astonished: _Onerous task._  
+__one-stop__ _adj_ Having or providing a range of related services or goods in one place: _a one-stop shop._  
+__onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
-__ongoing__ _adj_  
+__ongoing__ _adj_ :three::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
 __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
-__onset__ _n_ :eight::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
-__onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
+__onset__ _n_ :nine::mega::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
+__onslaught__ _n_ :five: A violent attack. _The onslaught of the Jacques._  
+__ontology__ _n_  
 __onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
 __onyx__  
 __Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid when at rest and like a solid when pressure is applied.  
@@ -11689,12 +11691,14 @@ __organization__ _n_ :mega:
 __originally__ _adv_ :dart:  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__ _n_ :two::hammer:  
+__ornamental__ _adj_  
 __ornate__ _adj_ :nine::m::hammer: /ɔrˈneɪt/ _The ornate front entrance._  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
 __orofacial__ _adj_ Relating to the mouth and face.  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ :two: /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
+__orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orphic__ _adj_ Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding. _Syn_ occult, mysterious, mystical, secret _The orphic symbols on the tome could only be deciphered by the blind wizard._  
 __orphrery__  
@@ -11764,31 +11768,35 @@ __outgrowth__ _n_ :two::hammer:
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
 __outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody’s homosexuality against their will.  
-__outlander__  
+__outlander__ _n_ :two: A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva’s outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlaw__ _n_  
 __outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
-__outline__ _n_  
+__outline<sup>1</sup>__ _n_  
+__outline<sup>2</sup>__ _v tr_  
 __outlook__ _n_ :six::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
-__outpace__ _v_ :three::hammer: (outpacing)  
+__outpace__ _v_ :four::hammer: (outpacing) _Airbus outpaces Boeing yet again._  
 __outpatient clinic__ _n_  
 __outpatient__ _n_ :three::hammer:  
-__outperform__ _v_ :three::hammer:  
+__outperform__ _v_ :four::hammer:  
 __outplay__ _v_ :two::hammer: (outplayed)  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
-__outpost__  
+__outpost__ _n_ :three::hammer:  
 __outpour__ _v_ :two::hammer: (outpouring)  
 __outrace__ _v_ _Her expenditures continued to outrace his gifts._  
+__outrage<sup>1</sup>__ _n_ /ˈaʊt reɪdʒ/  
 __outrage<sup>2</sup>__ _v_  
-__outrageous__ _adj_ :three::hammer:  
+__outrageous__ _adj_ :six::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
+__outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outriggers__  
 __outright__ _adj, adv_  
+__outrun__ _v_  
 __outset__ _n_ :seven::hammer: _The outset of his campaign._ _Designed at the outset._  
 __outshine__ _v_ :two: To be much better than someone or something else.  
 __outshit__ _v_  

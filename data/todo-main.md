@@ -182,26 +182,6 @@ __omelet__ _n_ :mega: (omelette)
 __omnibus__ _n_  
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
-__one-off__ _adj_ :three::hammer: _One-off handcrafted pieces._  
-__one-stop__ _adj_ Having or providing a range of related services or goods in one place: _a one-stop shop._  
-__onerous__ _adj_ :two::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
-__ongoing__ _adj_ :two::hammer: _Ongoing efforts._ _The ongoing research activities,_  
-__onset__ _n_ :mega:  
-__onslaught__ _n_  
-__ontology__ _n_  
-__ornamental__ _adj_  
-__orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
-__outing__ _n_  
-__outlander__ _n_ A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
-__outlandish__ _adj_ :two::hammer:  
-__outline__ _v tr_  
-__outpace__ _v_ _Airbus outpaces Boeing yet again._  
-__outperform__ _v_  
-__outpost__ _n_ :two::hammer:  
-__outrage__ _n_ /ˈaʊt reɪdʒ/  
-__outrageous__ _adj_ :three::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
-__outrecuidance__ _n_ Excessive self-confidence or conceit.  
-__outrun__ _v_  
 __outshine__ _v_  
 __outsmart__  
 __outsourcing__  
