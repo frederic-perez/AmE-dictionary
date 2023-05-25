@@ -218,6 +218,7 @@ __w/__ :two: With. On drawings, abbr. for “with.”
 __w/o__ _abbr_ Without.  
 __WFH__  
 __WHO__ World Health Organization.  
+__whoops__ _interj_ Oops.  
 __WMO__ :three: World Meteorological Organization.  
 __WSO__ Weapon systems officer.  
 __XLNC__ _gramo_ Excellency.  

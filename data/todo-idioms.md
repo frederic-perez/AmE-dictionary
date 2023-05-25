@@ -31,12 +31,14 @@ __cozy up (to someone or something)__
 __crack down (on someone or something)__  
 __crack down__ _France is cracking down on shady influencers._  
 __crystal clear__  
+__cup of joe__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut to the chase__ :two::hammer:  
 __dabble in (something)__  
 __dark side__ A deeply negative, troubled, or antagonistic aspect of someone or something that is usually kept concealed. _Jonathan’s mom is always sweet to me and our friends, but apparently she has a bit of a dark side when we’re not around._  
 __day in and day out__  
 __defuse (something)__  
+__deliver on__ _v_ :dart: To do something one has promised or is expected to do: _The contractor delivered on his promises to get the work done by Friday._ _Caregiving robots don’t always deliver on their promises._  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
 __desperate times call for desperate measures__ _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
 __dig in(to) (something)__  
@@ -78,7 +80,7 @@ __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehem
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
 __first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
-__for one__ As one example or reason (out of several potential ones). Often used after a name or personal pronoun to count someone or oneself as an example of something. _Why don’t I like musicals? Well, for one, I just can’t take a story seriously when it’s set to music._  
+__for one__ :two: As one example or reason (out of several potential ones). Often used after a name or personal pronoun to count someone or oneself as an example of something. _Why don’t I like musicals? Well, for one, I just can’t take a story seriously when it’s set to music._  
 __for the sake of__  
 __fork over the dough__ To pay, generally unwillingly, a certain amount of money. _If you want the most cutting edge technology, you’d better be prepared to fork over the dough for it._  
 __freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual. _My high school literature teacher taught me to always be true to myself and to wear my freak flag proudly._  
@@ -100,6 +102,7 @@ __get-rich-quick__ (used as a modifier before a noun) Of or characterized by gen
 __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
 __GI Joe__  
 __give (one) a pass__  
+__give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give in__ :two::hammer: _Give in to our fears._  
 __give someone an inch__  
@@ -379,6 +382,7 @@ __piping hot__
 __piss off__  
 __pizzazz__  
 __place an order__  
+__pull the plug (on someone or something)__  
 __raise the bar__  
 __raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
@@ -401,6 +405,7 @@ __riddled with__ _v_ __3__ To be permeated in many places by something, especial
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __self-fulfilling prophecy__  
+__sell up__  
 __send (one’s) love to (someone)__  
 __send off__  
 __set in stone__  
@@ -505,6 +510,7 @@ __toe-to-toe__
 __tongue-in-cheek__  
 __tooth and nail__  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
+__topsy-turvy__ _Welcome back to another topsy-turvy day in AI._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
@@ -541,7 +547,7 @@ __window-shopping__ The act of visiting stores, or looking in their windows, to 
 __wing it__ :dart::two: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  
 __wipe the floor__  
-__wishy-washy__  
+__wishy-washy__ :two::hammer:  
 __wit’s end__ :dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __witch hunt__  
 __witching hour__ _The pizzeria servers until the witching hours._  

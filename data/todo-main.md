@@ -30,6 +30,7 @@ __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters.
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __boolean__ _n_ :mega:  
+__boomtown__ _n_  
 __bowdlerize__  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain fog__ _n_  
@@ -53,6 +54,7 @@ __deepfake__ _n_ /DEEP-fayk/ Deepfake refers to an image or recording that has b
 __default__ _v_  
 __deflect__ _v_  
 __démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
+__demo__ _v_ Short for demonstrate. _Google demoed its AI-powered search engine._  
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __demystify__ _v tr_  
 __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
@@ -70,6 +72,7 @@ __dysgraphia__ _n_
 __earplug__ _n_ :pencil2:  
 __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
 __echo chamber__  
+__edge__ _v_ Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
 __effect__ _v_  
 __eleven__ _n_ :mega:  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
@@ -103,8 +106,11 @@ __fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate p
 __gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
+__gloomy__ _adj_  
+__goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
+__hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
@@ -147,6 +153,7 @@ __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, o
 __mess around__  
 __mildewed__ _adj_ :es: mohoso  
 __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
+__missal__ _n_  
 __misspell__ _v_ :pencil2:  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
@@ -282,6 +289,7 @@ __pertinent__ _adj_
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __perusal__ _n_  
 __pervasive__  
+__pesky__ _adj_  
 __pet name__ _n_  
 __pet peeve__ _n_  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
@@ -454,6 +462,7 @@ __rancid__ _adj_ /RAN-sid/
 __rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
 __random forest__  
 __range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode the range an miners searched for gold._  
+__rapid-fire__ _adj_  
 __rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who causes trouble, often in a mischievous way. _Syn_ rascal, ne’er-do-well _With his shaggy, perpetually unkempt hair and his charmingly crooked smile, the actor seems to have been born to play scamps and rapscallions._  
 __rapt__ _adj_  
 __rapture__ _v_  
@@ -521,6 +530,7 @@ __reinstate__ _v_
 __rejoice__ _v_  
 __rejoicing__ _n_ :pencil2:  
 __rejuvenated__ _adj_  
+__rekindle__ _v tr_ _Will generative AI wreck or rekindle the doctor-patient relationship?_  
 __relatable__ _adj_  
 __reliant__ _adj_ :two::hammer:  
 __reluctant__ _v_ _Reluctant to leave._  
@@ -756,6 +766,7 @@ __sigmoidoscopy__ _n_
 __signage__ _n_ :three::hammer: _Backlit signage._  
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
+__skittish__ _adj_  
 __sky diving__  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v tr_  
@@ -775,6 +786,7 @@ __smithy__ _n_ _A working smithy._
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ :two::hammer:  
 __smudge__ _v_  
+__smush__ _v tr_ /smʌʃ/ To smash or crush.  
 __snack__ _v_ :two::hammer:  
 __snafu__  
 __snap__ _v_ _Snap at people._  
@@ -976,6 +988,7 @@ __take-out__
 __takeaway__ _n_  
 __takeover__ _n_  
 __talented__ _adj_  
+__Tamagotchi__ _n_ :pencil2:  
 __tamarind__  
 __tandem__ _n_  
 __tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
