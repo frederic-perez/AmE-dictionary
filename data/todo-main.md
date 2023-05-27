@@ -194,26 +194,6 @@ __outsmart__
 __outsourcing__  
 __outwear__ _n_  
 __overall__ _adj, adv_  
-__overarching__ _adj_ :three::hammer:  
-__overcomplicate__ _v tr_  
-__overdo__  
-__overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
-__overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
-__overhaul<sup>1</sup>__ _v_ :dart:  
-__overhaul<sup>2</sup>__ _n_  
-__overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
-__overlord__ _n_  
-__overly__  
-__overstuffed__ _adj_ _Overstuffed sandwiches._  
-__overthink__ _v_ To spend more time thinking about (something) than is necessary or productive.  
-__overthinker__  
-__Overton window__ _n_ /OH-vuhr-tuhn WIN-doh/ [:scroll: After Joseph Overton (1960-2003) who proposed the idea] The range of beliefs, attitudes, etc., considered acceptable at any given time.  
-__overwhelm__ _v_ /oh-ver-WELM/  
-__oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
-__oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
-__pachyderm__  
-__Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
-__pacify__ _v_ :mega: /PASS-uh-fye/ The verb pacify has several related definitions. Among the most common are “to soothe the anger or agitation of” (as in “pacify a crying child”) and “to appease” (“trying to pacify the enemy”).  
 __package__ _n_ :mega:  
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  

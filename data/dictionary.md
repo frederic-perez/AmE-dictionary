@@ -11823,23 +11823,28 @@ __over-under__
 __overachieve__  
 __overall__ _adj, adv_  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
-__overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching principle._  
+__overarching__ _adj_ :seven::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overbook__ _v_  
 __overcast__ _adj_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
-__overdo__ _v_ :two::hammer: _Do not overdo caffeine._  
+__overcomplicate__ _v tr_  
+__overdo__ _v_ :three::hammer: _Do not overdo caffeine._  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _adj_ _A resurgence in social homes is long overdue._  
+__overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overflight__  
-__overhaul<sup>1</sup>__ _v tr_  
-__overhaul<sup>2</sup>__ _n_  
+__overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
+__overhaul<sup>1</sup>__ _v tr_ :dart::two::hammer:  
+__overhaul<sup>2</sup>__ _n_ :two::hammer:  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
-__overlay__ _n_  
+__overlay<sup>2</sup>__ _n_  
+__overlay<sup>1</sup>__ _v tr_ _Overlay relevant metadata on the cellphone’s screen._  
 __overlook__ _v_ :two::hammer:  
+__overlord__ _n_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
 __overnight<sup>1</sup>__ _adj_ :two::hammer:  
 __overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._  
@@ -11856,19 +11861,22 @@ __overshadow__ _v_ :two: (overshadowed) To render insignificant or less importan
 __oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
 __overstated__ _v_ :two::hammer:  
 __overstep__ _v tr_  
+__overstuffed__ _adj_ _Overstuffed sandwiches._  
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
 __overtaxed__  
-__overthink__ _v_ :two::hammer:  
-__overthinker__ _n_ _I’m a chronic overthinker._  
+__overthink__ _v_ :three: To spend more time thinking about (something) than is necessary or productive.  
+__overthinker__ _n_ :two::hammer: _I’m a chronic overthinker._  
 __overtime__ _n_ :es: horas extras  
 __overtly__ _adv_  
+__Overton window__ _n_ /OH-vuhr-tuhn WIN-doh/ [:scroll: After Joseph Overton (1960-2003) who proposed the idea] The range of beliefs, attitudes, etc., considered acceptable at any given time.  
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
 __overtourism__ _n_ A situation in which too many tourists travel to a popular destination, causing the place to suffer negative environmental, economic, and sociocultural impacts: From packed viewpoints to water shortages, _Santorini is the most visible face of overtourism in the Greek islands._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overweenimg__ _adj_ :two::hammer: _An overweening pride._  
+__overwhelm__ _v_ /oh-ver-WELM/  
 __overwrought__ _adj_ :four::hammer: _Overwrought adults_ _Overwrought minds turned to magic and the supernatural._  
 __overzealous__ _n_  
 __owing to__ _prep_ :two: Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._ _Cavalry coul not deploy en masse owing to the marshes, hedges, and ditches._  
@@ -11877,17 +11885,19 @@ __own right__
 __own up__  
 __own__ _v_  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
+__oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oxymoron__ _n_ :two::mega: Oxymoron is a figure of speech that uses two opposite words together. Example: The treaty led to a violent peace.  
-__oyster__ _n_ :two::hammer:  
+__oyster__ _n_ :three::hammer::pencil2: _A vast selection of oysters and seafood._  
 __Oz__ _n_ _Iowa would offer the best territory for his American Oz._  
 __oz.__  
 __Ozzie__ _n_ :two: (Ozzies) __1__ An Ozzie or (Aussie) is an Australian slang term to name themselves, often used in chants on Australia day “Ozzie ozzie ozzie” “oi oi oi.” __2__ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
 __pablum__ _n_ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
 __pace__ _v_ :two::hammer:  
 __pachinko__ _n_ A Japanese gambling game played on a vertical pinball machine.  
-__pachyderm__ _n_ :pencil2:  
+__pachyderm__ _n_ :two::hammer::pencil2:  
 __Pacific Basin__ _n_ _Pacific Basin nations._  
-__Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
+__Pacific Rim__ _n_ :three: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets. _Creative Pacific Rim cuisine._  
+__pacify__ _v_ :mega: /PASS-uh-fye/ The verb pacify has several related definitions. Among the most common are “to soothe the anger or agitation of” (as in “pacify a crying child”) and “to appease” (“trying to pacify the enemy”).  
 __pack ice__ _n_ Floating ice that has been driven together into a single mass.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package peanuts__  
