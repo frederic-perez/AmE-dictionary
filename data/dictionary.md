@@ -11841,8 +11841,8 @@ __overhaul<sup>2</sup>__ _n_ :two::hammer:
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
-__overlay<sup>2</sup>__ _n_  
 __overlay<sup>1</sup>__ _v tr_ _Overlay relevant metadata on the cellphone’s screen._  
+__overlay<sup>2</sup>__ _n_  
 __overlook__ _v_ :two::hammer:  
 __overlord__ _n_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
@@ -11915,14 +11915,14 @@ __paean<sup>2</sup>__ _v tr_ /PEE-uhn/ To make such an expression.
 __pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_  
 __page__ _n_ :three::hammer:  
-__pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
+__pageantry__ _n_ :four: Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pages__ _n_ A source or record of knowledge: _in the pages of science._  
 __pail__ _n_ :four::hammer: _A lunch pail._ _Milk pails._  
 __pain point__ _n_ A persistent or recurring problem (as with a product or service) that frequently inconveniences or annoys customers. _One of the main pain points for our clients is the difficulties they have in accessing the online service._  
 __pain__ _n_ _You’re such a pain!_ :es: ¡Pero qué pesado eres!  
 __painstaking__ _adj_ :two::hammer: _Painstaking patience._  
-__painstakingly__ _adv_ :two::hammer:  
+__painstakingly__ _adv_ :three::hammer:  
 __painter__  
 __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
@@ -11930,7 +11930,7 @@ __Pakistani__ _adj, n_ :mega: /ˌpɑːkɪˈstɑːnɪ/ /ˌpæk əˈstæn i, ˌpɑ
 __paladin__ _n_ :two: /PAL-uh-din/ A paladin is a leading champion of a cause, or a trusted military leader (as for a medieval prince). Someone who fights for a cause. _Syn_ champion, fighter, hero _The keynote speaker is regarded as a paladin of environmental justice._  
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :six: /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  
-__palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
+__palate__ _n_ :three::hammer: _I add a few spices to educate their palates._  
 __palaver<sup>1</sup>__ _n_ :three: Talk intended to charm or beguile. _Syn_ blandishment, cajolery _Then she would pounce upon me with a lot of that drivelling poodle palaver and kiss me on the nose—but what could I do?_  
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
@@ -11938,9 +11938,11 @@ __paleo__
 __palette__ _n_ :mega:  
 __palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __palindrome__ _n_ /PAL-un-drohm/  
+__palingenesis__ _n_  
 __palisade__ _n_ /pal-uh-SAYD/ :two::hammer: _The iron palisade surrounding the decrepit mansion stood strong._  
 __pall<sup>1</sup>__ _n_ :six::hammer: _The tragedy casts a pall over Austin._  
 __pall<sup>2</sup>__ _v_  
+__Palladian__ _adj_ /puh-LAY-dee-uhn/ __1__ Wise or learned. __2__ Relating to wisdom, knowledge, or learning. __3__ Of or relating to the classical architectural style of Andrea Palladio.  
 __palladium__  
 __pallbearer__ _n_ :two: One of several persons who carry or attend the coffin at a funeral.  
 __palled__ _v_  
@@ -11964,6 +11966,7 @@ __palpably__
 __palpate__ _v_ To examine by touch especially medically.  
 __palpebral__ _adj_  
 __palpitate__ _v_ Shake with fast, tremulous movements. _Syn_ quake, quiver _The encounter with the robber made me palpitate with fear, and hours passed before I stopped shaking._  
+__palpitation__ _n_ A trembling or shaking. _Syn_ shakiness, trembling, quiver, vibration _Cornelius put his hand on his heart, to repress as it were its violent palpitation._  
 __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I’m surprised you haven’t met Ricky’s new palsy-walsy from school yet—they’re together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
@@ -12032,27 +12035,32 @@ __paradox__ _n_ :four: /ˈpær əˌdɒks/ __1__ In rhetoric, the word paradox re
 __paradoxical__ _adj_ :three::hammer:  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
+__paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
 __paragon__ _n_ :seven: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __parakeet__ _n_ :mega: :es: periquito  
 __parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
-__paralysis__ _n_ :mega:  
+__Paralympic Games__  
+__paralysis__ _n_ :two::hammer::mega: /pəˈræl ə sɪs/  
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
-__paramount__ _adj_ :two::hammer: _The reliability of the weather station is paramount._  
+__parameter__ _n_ :mega:  
+__paramount__ _adj_ :three::hammer: _The reliability of the weather station is paramount._ _It is of paramount importance._  
 __paramour__ _n_  
 __paranoid__ _adj_  
 __parapet wall__ _n_ That part of a wall which is entirely above the roof.  
 __parapet__ _n_ :two::hammer:  
 __paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
-__paraphernalia__ _n_ :five::pencil2::hammer: _Star Wars paraphernalia._  
+__paraphernalia__ _n_ :six::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __paraprosdokian__  
 __parasailing__  
 __paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
 __parasternal__ _adj_ Adjacent to the sternum.  
-__parcel<sup>1</sup>__ _n_ :nine: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ _Open up that parcel of books._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
+__paratransit__ _adj_ _Paratransit services._  
+__paratrooper__ _n_  
+__parcel<sup>1</sup>__ _n_ :nine::m: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ _Open up that parcel of books._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
-__parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
+__parched__ _adj_ :six: /pärcht/ __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ _Quench your parched throat with a long tall cool Yard of Beer._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
 __parchment paper__ _n_ :camera:  
 __parchment__ _n_ :eight::astonished: __1__ The skin of a sheep or goat prepared as a material on which to write or paint. :es: pergamino _A parchment chart._ __2__ A written text or drawing on a sheet of this material. __3__ Paper made in imitation of this material.  
@@ -12062,14 +12070,15 @@ __pare__ _v_ :three::hammer: (pares, pared)
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
 __paresthesia__ _n_  
-__pariah__ _n_ :five::hammer:  
+__pariah__ _n_ :six: A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
 __parietal__ _adj_ _The parietal portion of the skull._  
 __paring knife__ _n_  
-__paring__  
-__parishioner__  
+__paring__ _n_ :two: Something, such as a skin or peel, that has been pared off. _Syn_ shaving, sliver _We do not mourn over the parings of our nails nor the cut locks of our hair, though they were once part of ourselves._  
+__parishioner__ _n_ :two::hammer:  
 __parity__ _n_ :astonished: __1__ The condition of having given birth. __2__ The number of children borne by one woman.  
 __parkade__ _n_ _Canadian_ A building used as a car park.  
 __parkour__  
+__parlance__ _n_  
 __parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
 __parley<sup>1</sup__ _n_ :five::hammer: _A peace parley._  
 __parley<sup>2</sup__ _v_ :two::hammer: _The Prince’s chief knights came under safe-conduct to parley in person._  

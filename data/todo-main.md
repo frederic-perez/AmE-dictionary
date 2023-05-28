@@ -210,26 +210,6 @@ __package__ _n_ :mega:
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  
 __paganism__ _n_  
-__pageantry__ _n_ :three::hammer:  
-__painstakingly__  
-__palate__ _n_  
-__palingenesis__ _n_  
-__Palladian__ _adj_ /puh-LAY-dee-uhn/ __1__ Wise or learned. __2__ Relating to wisdom, knowledge, or learning. __3__ Of or relating to the classical architectural style of Andrea Palladio.  
-__palpitation__ _n_ A trembling or shaking. _Syn_ shakiness, trembling, quiver, vibration _Cornelius put his hand on his heart, to repress as it were its violent palpitation._  
-__paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
-__Paralympic Games__  
-__paralysis__ _n_ :mega: /pəˈræl ə sɪs/  
-__parameter__ _n_ :mega:  
-__paramount__ _adj_ _It is of paramount importance._  
-__paraphernalia__  
-__paratransit__ _adj_ _Paratransit services._  
-__paratrooper__ _n_  
-__parcel__ _n_  
-__parched__ _adj_ :two: /pärcht/ __1__ Dried out from extreme heat: _parched land._ __2__ Roasted or dried: _parched rice._ _Quench your parched throat with a long tall cool Yard of Beer._ __3__ Very thirsty: _parched laborers._  
-__pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
-__paring__ _n_ Something, such as a skin or peel, that has been pared off. _Syn_ shaving, sliver _We do not mourn over the parings of our nails nor the cut locks of our hair, though they were once part of ourselves._  
-__parishioner__ _n_  
-__parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __paroxysm__ _n_  
