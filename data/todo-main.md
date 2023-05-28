@@ -20,6 +20,7 @@ __asterisk__ _n_ :mega:
 __attenuate__ _adj_ :astonished: Reduced or weakened, as in strength, value, or virulence. _Syn_ faded, weakened _She placed a record in the player, and the attenuate tones of the old recording swept through the house._  
 __auspicious__ _adj_ /aw-SPISH-us/  
 __backhanded__ _adj_  
+__baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
 __bargain__ _n_  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
@@ -61,6 +62,7 @@ __deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecat
 __derelict__ _n_  
 __disapprobation__ _n_ /dis-ap-ruh-BAY-shun/  
 __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
+__distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
@@ -91,9 +93,11 @@ __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its 
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
 __farouche__ _adj_  
+__feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __fictive__ _adj_  
 __finicky__ _adj_  
+__flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __florescence__ _n_ /flor-ESS-unss/ Florescence refers to a state or period of being in bloom or of flourishing.  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
@@ -101,20 +105,25 @@ __foil__ _v tr_
 __forthright__ _adj_  
 __fortitude__ _n_ /FOR-tuh-tood/  
 __friction__ _n_  
+__fubar__ _adj_  
 __fulcrum__ _n_ /FULL-krum/ In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something. _Although the lead actor was phenomenal, critics believe that the supporting cast was the real fulcrum of the show._  
 __fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate pests or disinfect. _Syn_ fume  
+__furuncle__ _n_ A painful sore with a hard pus-filled core. _Syn_ boil _His doctor referred him to a dermatologist who would examine the furuncle on his leg._  
 __gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute  
+__gamut__ _n_ /GAM-ut/ A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things. _I adore licorice, mints, lollipops, candy corn—the whole gamut of penny candy._  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
 __gloomy__ _adj_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
+__graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
@@ -123,6 +132,7 @@ __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them 
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
 __integer__ _n_ :mega:  
+__interpolate__ _v_ /in-TER-puh-layt/  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
@@ -149,6 +159,7 @@ __matter-of-fact__ _adj_
 __maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
+__meddlesome__ _adj_  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
 __mildewed__ _adj_ :es: mohoso  
@@ -177,6 +188,7 @@ __off-the-shelf__
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
+__officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tends to offer unwanted advice in a way that annoys the advice recipients. It is a synonym of meddlesome. _After the boss told his workers what to do, his officious assistant stepped in to micromanage._  
 __offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
@@ -291,6 +303,7 @@ __Philly__ _n_ _The small-time Philly boxer Rocky Balboa._
 __phonotaxis__ _n_ _Cricket phonotaxis._  
 __piano bar__  
 __pica__ _n_ A psychiatric disorder characterized by the compulsive eating of nonfood substances, such as soil, clay, ice, or hair. _Syn_ allotriophagy  
+__Piccadilly Circus__ _n_ /pik-uh-dil-ee SUHR-kuhs/ A place that is very busy, crowded, or noisy.  
 __picket fence__ _n_  
 __pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
@@ -509,6 +522,7 @@ __reindeer__ _n pl_ :two::hammer:
 __reinstate__ _v_  
 __rejoice__ _v_  
 __rejoicing__ _n_ :pencil2:  
+__rejoinder__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ riposte, comeback, retort, replication, counter, return _Her eyes darkened, and he expected an indignant rejoinder._  
 __rejuvenated__ _adj_  
 __rekindle__ _v tr_ _Will generative AI wreck or rekindle the doctor-patient relationship?_  
 __relatable__ _adj_  
@@ -592,6 +606,7 @@ __sandcastle__ _n_ _Have a sandcastle building competition._
 __sangria__ _n_  
 __sanguine__ _adj_ :two::hammer: /sang-gwin/  
 __sap__ _v_  
+__sapient__ _adj_ /SAY-pee-unt/ Sapient is a formal word that means “possessing or expressing great wisdom.”  
 __Saratoga__ _n_  
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
@@ -990,6 +1005,7 @@ __teetotaling__ _n_
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __telco__  
 __telebiometric__ _adj_  
+__telegenic__ _adj_ /tel-uh-JEN-ik/  
 __teleological__ _adj_ /tel-ee-uh-LAH-jih-kul/ Teleological (and its less common variant _teleologic_) is a philosophical term meaning “exhibiting or relating to purpose or design especially in nature.” _Their teleological theory on the origin of human beings was heavily challenged._  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
@@ -1052,6 +1068,7 @@ __timeshare__
 __tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
 __titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
 __titter__  
+__tittle__ _n_ A tiny or scarcely detectable amount. _Syn_ iota, scintilla, shred, smidgeon, whit _Sydney Carton drank nothing but a tittle coffee._  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
 __toady__ _v_  
