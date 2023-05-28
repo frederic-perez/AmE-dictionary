@@ -5,13 +5,23 @@ __a life of its own__ The state of something that exists and thrives outside and
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
 __a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
 __a wild goose never laid a tame egg__ _proverb_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before. _We must never presume that humanity will be without violence; after all, a wild goose never laid a tame egg._  
+__a-ha moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind. _We’d been working on the problem at the lab for weeks, but the aha moment came to me when I was out gardening!_  
 __above the salt__ Of or in a position of high standing, rank, regard, or repute. The term is derived from the social hierarchy of nobility in medieval times, in which salt, a precious commodity then, was set in the middle of the dining table. Those of high noble rank were seated “above the salt,” that is, closer to the lord and lady of the house, while those in lower social standing were seated “below” it. _Even though my boss is above the salt, he still makes a point of mingling with everyone in the company._  
 __absolve from guilt__ To consider innocent, clear of all suspicion, or pardon from any cause of guilt. _The knights of the crusades committed many atrocities in their campaign, but they were absolved from guilt by the heads of the church._  
 __absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world. _It’s no use trying to talk to Helen when she’s absorbed in thought like that; it’s as if we don’t even exist!_  
 __abstract idea__ An idea or thought that is intangible or outside the constraints or possibilities of the real world. _Some regard love as but an abstract idea, as it is impossible to define what makes love real._  
+__accident of birth__ Any and all particulars surrounding one’s birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one’s control. _My poverty when I was young was merely an accident of birth—through hard work and determination, I was able to overcome it and lead a successful life._  
+__act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._  
 __add up__  
+__admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit. _Well, I ran a good campaign, but it is time I admitted defeat in this election._  
+__advance notice__ A notification, signal, or sign that something is going to happen or is expected to happen. _I know that we were all surprised that Dad decided to move to China, but I think his learning Mandarin last year was something of an advance notice._  
+__advanced in years__ Of an older age. _Though my grandpa loves to read, he is rather advanced in years and has a hard time making out small print anymore._  
+__affable personality__ A personality that is friendly, approachable, sociable, amicable, or likeable. _He might not be the best instructor in the school, but he has such an affable personality that he is everyone’s favorite._  
+__after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
+__agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
 __all aboard__  
+__all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
 __all in__  
 __all of a sudden__  
 __an accident waiting to happen__  
@@ -33,6 +43,7 @@ __crack down__ _France is cracking down on shady influencers._
 __crystal clear__  
 __cup of joe__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
+__daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __down the road__  
 __driver’s seat__ _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __educated guess__  
@@ -222,6 +233,7 @@ __kludgy__ :dart:
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__kvetch__ :dart:  
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __land on (one’s) feet__  
@@ -430,6 +442,7 @@ __stay woke__
 __steamroll through__  
 __stop at nothing__ :dart: To do whatever it takes to accomplish a task or goal. _I assure you, ma’am, we will stop at nothing to catch that thief._ _They will stop at nothing to keep the Haller-Bosch dream team from uncovering what the deputy’s killing was really about._  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
+__swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
 __swear off (something)__ To promise, pledge, or be determined not to do, use, eat, or imbibe something anymore. _Thank you, but I don’t drink. I swore off alcohol when my father was killed by a drunk driver._  
 __sweet tooth__  
 __swept away__  
@@ -442,6 +455,7 @@ __take (one’s) pick__ To choose from among several options. Often used as an i
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
+__take a haircut__ A reduction in value. To accept a loss on a return of a financial investment. _The new interest rate hike means that many investors will be forced to take a haircut on their largest assets in the coming fiscal year._  
 __take the brunt__  
 __take the edge off__  
 __take the reins__  
