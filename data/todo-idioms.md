@@ -71,26 +71,6 @@ __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehem
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
 __first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
-__for one__ :two: As one example or reason (out of several potential ones). Often used after a name or personal pronoun to count someone or oneself as an example of something. _Why don’t I like musicals? Well, for one, I just can’t take a story seriously when it’s set to music._  
-__for the sake of__  
-__fork over the dough__ To pay, generally unwillingly, a certain amount of money. _If you want the most cutting edge technology, you’d better be prepared to fork over the dough for it._  
-__freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual. _My high school literature teacher taught me to always be true to myself and to wear my freak flag proudly._  
-__fresh-faced__ Of or having an appearance of health, vitality, and/or youthfulness. _After a good night’s sleep, he woke up fresh-faced and feeling like a million bucks._  
-__Freudian slip__  
-__from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
-__full of (oneself)__  
-__full stop__  
-__game-changer__  
-__gentleman’s agreement__ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved. _Though my father left me his entire estate in his will, I made a gentleman’s agreement with my brother to share the wealth equally between us._  
-__get (one’s) teeth into (something)__  
-__get (someone or something) on track__ To cause or help someone or something to begin or resume progressing or developing as planned, scheduled, or expected. _The project’s development cycle started spinning out of control, so upper management brought in a consultant to get us on track._  
-__get (the hell) out of Dodge__ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s. _It looks like things are getting pretty tense in here, let’s get out of Dodge!_  
-__get ahead of (oneself)__  
-__get in touch (with one)__ To initiate or establish contact or communication with one. _I tried getting in touch with you yesterday, but the office said you were out sick._  
-__get your act together__  
-__get your shit together__  
-__get-rich-quick__ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy. _Jenny’s always coming up with some get-rich-quick scheme to lift us out of this dinky little town._  
-__get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
 __GI Joe__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
