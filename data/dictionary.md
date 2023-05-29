@@ -12223,40 +12223,50 @@ __peckerwood__
 __pecking order__  
 __peculation__ _n_ _Jean was imprisoned for peculation._  
 __peculator__ _n_ _Two inveterate peculators._  
+__peculiar__ _adj_ :three: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
 __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
+__pedal boat__ _n_  
 __pedantic__ _adj_ :two: Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
 __peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
+__pedestal__ _n_  
 __pedestrian__ _adj_ :dart::six: (pedestrians) Lacking in vitality, imagination, or distinction. _Syn_ prosaic _His style is so pedestrian that the book is really boring._  
 __pedestrianized__ _v_  
 __pedi__  
+__pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
 __pediculous__ _adj_ Infested with lice.  
+__pedigree__  
+__pediment__ _n_  
 __pedo__  
+__pedorthist__ _n_  
 __pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail’s famous back bowls._  
 __peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __peep__ _n_ :three::hammer: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
+__peephole__  
 __peeps__ _n pl_ _slang_ :two: Associates; friends.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peered__ _adj_  
-__peerless__  
+__peerless__ _adj_ :two::hammer: _Peerless scenic beauty._  
 __peeved__ _v_  
 __peevishly__ _adv_ :two::hammer:  
 __peewee__ _n_  
 __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
+__peignoir__ _n_ A woman’s loose-fitting dressing gown. _Syn_ neglige, wrapper, housecoat  
 __pelagic__ _adj_ :two: /puh-LAJ-ik/ [:scroll: From Latin pelagicus (of the sea), from Greek pelagos (sea)] Relating to or living in the open ocean, far from land. Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__ _adv_ :two: /pel-MEL/ Pell-mell means “in a confused and hurried way” or “in mingled confusion or disorder.” _On Black Friday, some shoppers rush pell-mell into stores to find their favorite items at a discounted price._  
 __pellet__ _n_  
+__pellucid__ _adj_ Admitting the passage of light; transparent or translucent. _Syn_ transparent, crystal clear, limpid, crystalline, lucid _The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes._  
 __pelorus__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._ _The rain was pelting down._  
 __pen name__ _n_ :two::hammer:  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
-__pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
+__pen<sup>2</sup>__ _v_ :four::hammer: (penned) _The team pens hundreds of scientific papers._  
 __penal code__ _n_ :mega:  
 __penal__ _adj_ :two::mega::hammer: _Penal system._  
 __penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
@@ -12264,25 +12274,30 @@ __pence__ _n_ (Chiefly British) A plural of penny. _See what you’re using in p
 __penchant__ _n_ :nine::m: [:scroll: from French, ‘leaning, inclining’, present participle of the verb “pencher”] A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pencil__ _n_ (_Pencil_ comes from the Latin _penicillus_ literally meaning “little tail.”)  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
-__penetralia__ _n pl_ __1__ The innermost parts or recesses. __2__ The most private or secret things.  
+__pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
+__penetralia__ _n pl_ :two: [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. The innermost parts or recesses. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
 __penitentiary__  
 __penitents__ _n_  
 __penknife__ _n_ :two::hammer:  
 __pennant races__  
-__pennant__ _n_ :three::hammer: (pennants)  
+__pennant__ _n_ :four: /PEN-uhnt/ __1__ A long tapering flag. __2__ A flag symbolizing a sports championship or another achievement. __3__ A victory, championship, etc.  
 __penned hogs__  
 __penned up__  
+__penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __penny-pinch__ _v_ Spend money frugally; spend as little as possible. _Syn_ nickel-and-dime _Penny-pinching conservatives._  
+__Pennywise__ _n_  
 __pennyworth__ _n_ __3__ A bargain: _got my pennyworth at that price._  
 __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
 __pensionary<sup>1</sup>__ _adj_  
 __pensionary<sup>2</sup>__ _n_ __1__ A pensioner. :es: jubilado __2__ A hireling.  
 __pensive__ _adj_ :four::hammer: _You look pensive._  
 __pensively__  
+__penstemon__ _n_  
 __pensum__ _n_ A task given, especially as a punishment.  
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ :two: Unwilling to spend money. _Syn_ stingy, parsimonious _When solicited for a donation, the penurious man began to extend a nickel, but, thinking twice, withdrew it._  
+__people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
 __peoples__ _pl n_ :three: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _n_ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  

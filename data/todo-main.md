@@ -220,26 +220,6 @@ __partial__ _adj_ _Partial kitchen._
 __particulate matter__ _n_ Material suspended in the air in the form of minute solid particles or liquid droplets, especially when considered as an atmospheric pollutant.  
 __partridge__ _n_  
 __peck__ _v_ _I feel like I’m pecked to death by ducks._  
-__peculiar__ _adj_ :three: /pih-KYOOL-yer/ Peculiar describes people and things that are different from the usual or normal, or that are characteristic of only one person, group, or thing. _The dog’s peculiar behavior worried them._ _He shared customs that were peculiar to his home country._  
-__pedal boat__ _n_  
-__pedestal__ _n_  
-__pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
-__pedigree__  
-__pediment__ _n_  
-__pedorthist__ _n_  
-__peephole__  
-__peerless__ _adj_ _Peerless scenic beauty._  
-__peignoir__ _n_ A woman’s loose-fitting dressing gown. _Syn_ neglige, wrapper, housecoat  
-__pellucid__ _adj_ Admitting the passage of light; transparent or translucent. _Syn_ transparent, crystal clear, limpid, crystalline, lucid _The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes._  
-__pen__ _v_  
-__pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
-__penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
-__pennant__ _n_ /PEN-uhnt/ __1__ A long tapering flag. __2__ A flag symbolizing a sports championship or another achievement. __3__ A victory, championship, etc.  
-__penned__ _v_  
-__penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
-__Pennywise__ _n_  
-__penstemon__ _n_  
-__people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
 __peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __perch__ _v_  
 __percolation__ _n_  
