@@ -12402,14 +12402,15 @@ __petulance__
 __petulant__ _adj_ :eight::mega: Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
 __petulantly__  
 __pew__ _n_ _Church pews._  
-__pewter__  
+__pewter__ _n_ :four::hammer:  
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
-__phalanx__ _n_ :two::hammer:  
+__phalanx__ _n_ :three: A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phantasmagoric__ _adj_  
 __Pharaoh__  
 __pharmaceutical__ _adj_ :two::dart::mega: /ˌfɑr məˈsu tɪ kəl/ /fär′mə-so͞o′tĭ-kəl/  
+__pharmacophores__ _n_  
 __phase out__  
-__phenom__ _n_ :three: _slang_ A phenomenon, especially a remarkable or outstanding person.  
+__phenom__ _n_ :four: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
 __phenotype__ _n_  
@@ -12417,8 +12418,10 @@ __phials__ _n_ _Several glass phials of dirty white meth crystals._
 __philanderer__  
 __philandering__  
 __philanthropy__ _n_  
+__philippic__ _n_ A verbal denunciation characterized by harsh, often insulting language; a tirade. _Syn_ tirade, broadside _Ferrars looked exceedingly angry, and drawing herself up more stiffly than ever, pronounced in retort a bitter philippic._  
 __Philippine__ _adj_ Of or pertaining to the Philippines or their inhabitants. _The Philippine archipelago._  
-__Philly__ _n_ :three: Philadelphia  
+__philistine__ _n_ A smug, ignorant, especially middle-class person who is regarded as being indifferent or antagonistic to artistic and cultural values. _Syn_ anti-intellectual _He may have an advanced degree in mathematics, but the man is a total philistine when it comes to the arts._  
+__Philly__ _n_ :four: Philadelphia. _The small-time Philly boxer Rocky Balboa._  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
 __philtrum__ _n_ :two: __1__ A philter or love potion. __2__ The infranasal depression; the groove in the midline of the upper lip.  
@@ -12429,6 +12432,7 @@ __phlegm__ _n_ :five::hammer:
 __phlegmy__ _adj_ :three: Charged with phlegm.  
 __phoenix__ _n_  
 __phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
+__phonotaxis__ _n_ _Cricket phonotaxis._  
 __photo-op__  
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
@@ -12440,10 +12444,13 @@ __physiology__ _n_
 __phytophagous__ _adj_ Feeding on plants, including shrubs and trees. _Syn_ plant-eating, phytophilous _The dot moth is phytophagous, feeding on a wide variety of plants._  
 __phytoplankton__ _n_ :two::pencil2::hammer:  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
+__piano bar__  
 __piano wire__  
 __pic__ _n_ _slang_ __1__ A photograph. __2__ A movie.  
+__pica__ _n_ A psychiatric disorder characterized by the compulsive eating of nonfood substances, such as soil, clay, ice, or hair. _Syn_ allotriophagy  
 __picayune<sup>1</sup>__ _adj_ :two: Of little value or importance; paltry. _Syn_ fiddling, footling, niggling, piddling, piffling, trivial, petty, lilliputian, little _Giving a police officer a free meal may be against the law, but it seems to be a picayune infraction._  
 __picayune<sup>2</sup>__ _n_ :two::hammer:  
+__Piccadilly Circus__ _n_ /pik-uh-dil-ee SUHR-kuhs/ A place that is very busy, crowded, or noisy.  
 __pick a fight__  
 __pick and roll__  
 __pick me out__  
@@ -12455,14 +12462,17 @@ __pick-up game__ _n_ A game, usually in basketball, that starts spontaneously by
 __pick-up__ _n_ __6__ _informal_ A casual acquaintance, usually one made with sexual intentions. _The restaurant was little more than a pick-up joint._  
 __pickaxe__ _n_  
 __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
-__picket fence__ _n_  
+__picket fence__ _n_ :two::hammer:  
 __picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
 __pickets__ _n_  
+__pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picklock__ _v_  
+__picknicking__ _v_  
 __pickoff__ _n_ __1__ _Baseball_ A play in which a runner is caught off base and is put out by a quick throw, as from the pitcher or catcher. _A pickoff throw to first base._  
-__pickup__  
-__picky__ _adj_ :three::hammer:  
+__pickup__ _adj_ :two::hammer: _A pickup team._  
+__picky__ _adj_ :four::hammer:  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
+__pico de gallo__ _n_ :two::hammer:  
 __pictogram__  
 __picture-perfect__ _adj_ _The picture-perfect porch._  
 __picturesque__ _adj_ :five::hammer:  
@@ -12609,6 +12619,7 @@ __pivot<sup>2</sup>__ _v_
 __pivotal__ _adj_ :five: __2__ Of crucial importance.  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
+__pizzeria__ _n_ :mega:  
 __pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull’s penis.  
 __PJs__  
 __pk__  
@@ -12724,7 +12735,8 @@ __plumbago__ _n_
 __plumber__ _n_ :mute:[plum~~b~~er]  
 __plumbing__  
 __plummet__ _v_ :seven::hammer: (plummeted, plummeting)  
-__plump__ _adj_ _Plump and juicy hotdogs._  
+__plump<sup>1</sup>__ _adj_ _Plump and juicy hotdogs._  
+__plump<sup>2</sup>__ _v_  
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :seven::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
@@ -12732,7 +12744,8 @@ __plunger__ _n_ :two::hammer: _The syringe’s plunger._
 __plunked__ _v_  
 __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
 __plus__ _adj, conj, n_  
-__plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
+__plush<sup>1</sup>__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
+__plush<sup>2</sup>__ _n_ _A plush booth in the bar._  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
 __plywood__ _n_ :es: contrachapado, madera laminada  

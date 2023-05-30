@@ -253,26 +253,6 @@ __petticoat__
 __pettifog__ _v_  
 __pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
 __petty__ _adj_ _They are petty._  
-__pewter__ _n_ :three::hammer:  
-__phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
-__pharmacophores__ _n_  
-__phenom__  
-__philippic__ _n_ A verbal denunciation characterized by harsh, often insulting language; a tirade. _Syn_ tirade, broadside _Ferrars looked exceedingly angry, and drawing herself up more stiffly than ever, pronounced in retort a bitter philippic._  
-__philistine__ _n_ A smug, ignorant, especially middle-class person who is regarded as being indifferent or antagonistic to artistic and cultural values. _Syn_ anti-intellectual _He may have an advanced degree in mathematics, but the man is a total philistine when it comes to the arts._  
-__Philly__ _n_ _The small-time Philly boxer Rocky Balboa._  
-__phonotaxis__ _n_ _Cricket phonotaxis._  
-__piano bar__  
-__pica__ _n_ A psychiatric disorder characterized by the compulsive eating of nonfood substances, such as soil, clay, ice, or hair. _Syn_ allotriophagy  
-__Piccadilly Circus__ _n_ /pik-uh-dil-ee SUHR-kuhs/ A place that is very busy, crowded, or noisy.  
-__picket fence__ _n_  
-__pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
-__picknicking__ _v_  
-__pickup__ _adj_ _A pickup team._  
-__picky__ _adj_  
-__pico de gallo__ _n_ :two::hammer:  
-__pizzeria__ _n_ :mega:  
-__plump__ _v_  
-__plush__ _n_ _A plush booth in the bar._  
 __plushy__ _adj_  
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
