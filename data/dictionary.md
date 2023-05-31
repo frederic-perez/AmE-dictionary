@@ -12747,10 +12747,11 @@ __plus__ _adj, conj, n_
 __plush<sup>1</sup>__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plush<sup>2</sup>__ _n_ _A plush booth in the bar._  
 __plutocracy__ _n_ Government by the wealthy.  
-__ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
+__ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. _Little shops where craftmen still ply their wares._ __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._ _Yatchs ply between the islands._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ _n_ :two::mute:[~~p~~neumonia]:hammer:  
+__pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
 __po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
@@ -12758,21 +12759,25 @@ __poacher__ _n_ :five: __1__ (Cookery) A metal pan with individual cups for poac
 __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
+__pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
 __pocket<sup>1</sup>__ _n_ :two: __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._  
 __pocket<sup>2</sup>__ _v_  
+__pocketbook__  
 __pockmark__ _n_ __1__ _Pathology_ (pock) A a pitted scar left on the skin after the healing of a smallpox or similar pustule. __2__ Any pitting of a surface that resembles or suggests such scars.  
-__pockmarked__ _adj_ :camera::two::hammer: _His pockmarked face._  
+__pockmarked__ _adj_ :camera::three::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
-__pod__ _n_ :two::hammer: _A pod of whales._ _A seed pod._  
+__pod__ _n_ :three::hammer: _A pod of whales._ _A seed pod._ _Pea pod._  
 __podge__ _n informal_ A short chubby person.  
 __podiatrist__ _n_  
 __podjo__  
 __podna__ _n_ :two: _slang_ Podna is a very close, or just a friend of yours.  
 __Podunk town__  
+__Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
+__pogonip__ _n_ A dense winter fog containing ice particles. _Syn_ ice fog  
 __pogrom__ _n_ :dart::six: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
 __poignance__ _n_  
-__poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
+__poignant__ _adj_ :four: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ _n_ :pencil2:  
 __point guard__ _n_  
 __Point is,__  
@@ -12791,11 +12796,15 @@ __polarity__ _n_ :mega:
 __polarizing__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
 __pole__ _v_  
+__polecats__ _n_  
 __polemic__ _n_ A controversial argument, especially one refuting or attacking a specific opinion or doctrine. _Syn_ tirade, diatribe _He launched into the polemic, not caring whom he offended or won over, intent only on getting his point across._  
 __polemology__ _n_ The study of war.  
+__police academy__  
 __police state__ _n_ _A society log run as a police state._  
+__policymaker__ _n_ :two::hammer: (policy maker)  
 __policy-making__  
-__policyholder__  
+__policyholder__ _n_ :two: The individual or firm in whose name an insurance policy is written; an insured.  
+__policymaking__ _adj, n_  
 __polio__ _n_  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
 __polish<sup>1</sup>__ _v_  
@@ -12820,19 +12829,22 @@ __polystyrene__
 __pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
 __pomegranate__ _n_ :three::hammer: /ˈpɒməgrænɪt/ (pomegranates)  
 __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
-__pompous__ _adj_ :two::hammer:  
+__Pompeii__ _n_  
+__pompous__ _adj_ :three: Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
 __ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
+__ponderosa pine__  
 __ponderous__ _adj_ :eight::hammer: _He shouldered his ponderous bundle._  
 __pong__ _n_  
 __pontiff__  
-__pontoon__ _n_ :three::hammer: (pontoons) _The building floated on pontoons._  
+__pontoon boat__ _n_ :two::hammer: _Pedal a pontoon boat._  
+__pontoon__ _n_ :five::hammer: (pontoons) _The building floated on pontoons._  
 __pony up__ _phr v_ _slang_ :two: To pay (money owed or due).  
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
 __pooch__ _n_ _slang_ :four: A dog.  
-__poodle__ _n_ :es: caniche  
+__poodle__ _n_ :two::hammer: :es: caniche  
 __poofy__ _adj_ :pencil2:  
 __pooh-bah__ _n_ :dart::two: [:scroll: After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
 __pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  

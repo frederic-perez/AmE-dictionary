@@ -256,26 +256,6 @@ __petty__ _adj_ _They are petty._
 __plushy__ _adj_  
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
-__ply__ _v_ :three: _Yatchs ply between the islands._ _Little shops where craftmen still ply their wares._  
-__pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
-__pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
-__pocketbook__  
-__pockmarked__ _adj_  
-__pod__ _n_ _Pea pod._  
-__Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
-__pogonip__ _n_ A dense winter fog containing ice particles. _Syn_ ice fog  
-__poignant__ _adj_  
-__polecats__ _n_  
-__police academy__  
-__policiymaker__ _n_ :two::hammer: (policy maker)  
-__policyholder__  
-__policymaking__ _adj, n_  
-__Pompeii__ _n_  
-__pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
-__ponderosa pine__  
-__pontoon boat__ _n_  
-__pontoon__ _n_ _Pedal a pontoon boat._  
-__poodle__  
 __pool table__  
 __pool__ _v_  
 __pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._  
