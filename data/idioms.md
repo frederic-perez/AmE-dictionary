@@ -1432,7 +1432,7 @@ __go places__ :two::hammer: _This kid is going places._
 __go potty__ _He has to go potty._  
 __go soft on (someone)__ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
-__go south__ :eight::hammer: _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
+__go south__ :eight: __1__ To escape; to vanish or disappear. _Everyone in the gang went south when they learned that the police had discovered their hideout._ __2__ To fall or drop; to depreciate; to lose quality or value. (Especially related to finances or stock exchanges.) _I used to be a big player in the stock market, but all my investments have gone south lately._ __3__ To cease working or functioning; to quit, fail, or fall apart. _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
 __go steady (with someone)__ To date someone exclusively. _Don’t ask Jill out—she’s already going steady with Bobby._ _Are those two really going steady?_  
 __go stir-crazy__ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison.  
 __go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
@@ -1662,17 +1662,23 @@ __head in the clouds, to have one’s__ Daydreaming, absentminded. _In the cloud
 __head on shoulders__  
 __head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
+__head-spinning__ :two: Incredible, overwhelming.  
+__heads up__ _Thanks for giving me the heads up._  
 __headspinning__ :two: (head-spinning) Incredible, overwhelming.  
 __hear a pin drop, one/you could__ :two: Complete silence.  
-__heart and soul__  
+__hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
+__heart and soul__ :three::hammer:  
 __heart sinks, one’s__ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
 __heart skips a beat__  
+__heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
+__heat up__ __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
 __heat wave__ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
 __heave into view__ (heave into sight) To move or rise into sight, especially from a distance. _We’d been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
+__heaven forbid__  
 __heaven knows__  
 __heaven on earth__  
 __heavy handed__  
-__heavy lifting__ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
+__heavy lifting__ :two::dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
 __heavy-duty__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread.  
 __heavy-hearted__ Sorrowful; melancholy; depressed.  
@@ -1688,8 +1694,12 @@ __hem and haw__ :dart: To speak in an evasive, vague, roundabout way in order to
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __here and there__ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __here you are__ Here is what you needed or asked for; I present this to you.  
+__here’s the kicker__ _slang_ This next point is a really surprising or ironic twist or turn of events. Primarily heard in US.  
 __hero’s journey__  
+__hidden in plain sight__  
 __hide and seek__ A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
+__higgledy-piggledy__  
+__high and dry__  
 __high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _We’re just waiting for the high muckety muck to give us the green light before we get the project started._  
 __high note__ The most successful, impressive, or climactic point (of something).  
 __high profile__ A presence or stance that is deliberately conspicuous and prominent socially.  
@@ -1699,20 +1709,23 @@ __highbrow__ __1__ _adj_ Of or pertaining to heightened intellectualism or super
 __highbrowed__ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
 __hindsight is (always) 20/20__ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
 __hit (one’s) stride__  
+__hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
 __hit (one) when (one) is down__ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit a brick wall__ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
-__hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
+__hit a snag__ :two::dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
+__hit a wall__  
 __hit and miss__ :two::hammer: (hit or miss)  
 __hit bottom__ To reach the lowest or worst point. _Our profits have hit bottom._  
-__hit home__ To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
+__hit home__ :two: To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit on (one)__ To show one’s romantic or sexual interest in one; to flirt with one. _Are you hitting on me? You’re a married man!_  
 __hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit or miss__ :two::hammer:  
 __hit the big time__ To become very famous or successful.  
+__hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
 __hit the gas__ :two: To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
-__hit the ground running__  
+__hit the ground running__ :three::hammer:  
 __hit the jackpot__ :two::hammer:  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
@@ -1723,6 +1736,8 @@ __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither 
 __Hobson’s choice__ A choice between what is available and nothing; a lack of an alternative.  
 __hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
+__hold (down) the fort__  
+__hold (one’s) breath__  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one’s) nerve__ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold (one’s) nose__  

@@ -90,26 +90,6 @@ __have someone’s number__ If you have someone’s number, you understand what 
 __head and shoulders above (someone or something)__  
 __head and shoulders__  
 __head-on__ (head on) _Confront it head-on._  
-__head-spinning__ :two: Incredible, overwhelming.  
-__heads up__ _Thanks for giving me the heads up._  
-__hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
-__heart and soul__ :two::hammer:  
-__heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
-__heat up__ __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
-__heaven forbid__  
-__heavy lifting__  
-__here’s the kicker__ _slang_ This next point is a really surprising or ironic twist or turn of events. Primarily heard in US.  
-__hidden in plain sight__  
-__higgledy-piggledy__  
-__high and dry__  
-__hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
-__hit a snag__ :dart:  
-__hit a wall__  
-__hit home__  
-__hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
-__hit the ground running__ :two::hammer:  
-__hold (down) the fort__  
-__hold (one’s) breath__  
 __hold (someone or something) back (from someone or something)__  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (something) in store (for one)__  
