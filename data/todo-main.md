@@ -269,27 +269,6 @@ __preconception__ _n_
 __predate__ _v_ _This standard predates the emergence of smartphones._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __preeminent__ _adj_  
-__premier__ _adj_ :three::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
-__preposterous__  
-__preprandial__ _adj_ _Preprandial drinkers._  
-__prepsters__  
-__prerequisite__  
-__prerogative__ _n_ /prih-RAH-guh-tiv/ Prerogative means “right or privilege,” and especially refers to a special right or privilege that some people have. _If you’d rather sell the tickets than use them, that’s your prerogative._  
-__presbyterian__ _adj_  
-__presbytery__ _n_  
-__prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
-__prescient__ _adj_ :two::hammer: :es: clarividente, profético  
-__presidential suite__ _n_  
-__pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
-__presumptive__ _adj_ /pre-ZUHMP-tiv/ __1__ Assumed; expected; inferred. __2__ Giving a reasonable basis for belief.  
-__prevaricate__ _v_ To speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.  
-__prick__ _v_  
-__prickle__ _n_ __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
-__prickling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ tingling, tingle  
-__prickly pear__ _n_  
-__prickly__ _adj_  
-__priestess__ _n_  
-__prime__ _adj_ :three::hammer: _Prime steaks._ _Prime examples of his work still exist._  
 __primeval__ _adj_  
 __primitive__ _n_ __4b__ An artist having or affecting a simple, direct, unschooled style, as of painting. __c__ A work of art created by a primitive artist. _Primitives, collectibles and gifts for all._  
 __primo__ _adj, adv, n_  

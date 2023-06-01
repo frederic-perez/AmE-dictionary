@@ -12801,9 +12801,9 @@ __polemic__ _n_ A controversial argument, especially one refuting or attacking a
 __polemology__ _n_ The study of war.  
 __police academy__  
 __police state__ _n_ _A society log run as a police state._  
-__policymaker__ _n_ :two::hammer: (policy maker)  
 __policy-making__  
 __policyholder__ _n_ :two: The individual or firm in whose name an insurance policy is written; an insured.  
+__policymaker__ _n_ :two::hammer: (policy maker)  
 __policymaking__ _adj, n_  
 __polio__ _n_  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
@@ -13015,7 +13015,7 @@ __prehensile__ _adj_ :pencil2:
 __prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
 __prelate__ _n_ :three: A high-ranking member of the clergy, especially a bishop.  
 __preliminary__  
-__premier__ _adj_  
+__premier__ _adj_ :four::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
 __premortem__  
 __prenup__ _n_ _informal_ :two: A prenuptial agreement.  
@@ -13030,12 +13030,17 @@ __prepone__ _v_ To bring forward to an earlier time.
 __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Pre- means before. Post- means after. To use both prefixes together, ...would be preposterous._ _Syn_ foolish  
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preppers__  
+__preprandial__ _adj_ _Preprandial drinkers._  
+__prepsters__  
 __prequel__  
-__prerogative__ _n_ :eight: __1__ An exclusive privilege or right exercised by a person or group of people holding a particular office or hereditary rank. __2__ Any privilege or right. __3__ (Government, Politics & Diplomacy) A power, privilege, or immunity restricted to a sovereign or sovereign government.  
+__prerequisite__  
+__prerogative__ _n_ :nine: /prih-RAH-guh-tiv/ __1__ An exclusive privilege or right exercised by a person or group of people holding a particular office or hereditary rank. __2__ Any privilege or right. _If you’d rather sell the tickets than use them, that’s your prerogative._ __3__ (Government, Politics & Diplomacy) A power, privilege, or immunity restricted to a sovereign or sovereign government.  
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
-__prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :nine::m: /prĕsh′ənt, -ē-ənt, prē′shənt, -shē-ənt/ Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._  
+__presbyterian__ _adj_  
+__presbytery__ _n_  
+__prescience__ _n_ :five::mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. The fact of knowing something in advance; foreknowledge. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
+__prescient__ _adj_ :nine::m: /prĕsh′ənt, -ē-ənt, prē′shənt, -shē-ənt/ Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._ :es: clarividente, profético  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
@@ -13046,13 +13051,16 @@ __preserve__ _n_ __3__ An area maintained for the protection of wildlife or natu
 __preserves__ _n pl_ :two: Fruit cooked with sugar to protect against decay or fermentation. _A jar of fig preserves._  
 __president-elect__ _n_ :four::hammer:  
 __President-elect__ _n_ :six::hammer: (also president-elect)  
+__presidential suite__ _n_  
 __press box__ _n_  
 __press on__  
 __press release__ _n_  
 __press the pocket__  
 __pressed__ _adj_ __1__ Compacted by ironing. _Pressed pants._ _A young man with neatly pressed khakis._ :es: planchados __2__ Having very little of something, esp time or money.  
 __pressie__ _n informal_ /ˈprɛzɪ/ (pressy, prezzie) An informal word for present.  
+__pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __pressure cooker__ _n_  
+__presumptive__ _adj_ /pre-ZUHMP-tiv/ __1__ Assumed; expected; inferred. __2__ Giving a reasonable basis for belief.  
 __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
 __presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
 __pretense__ _n_ :two::hammer:  
@@ -13064,7 +13072,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __prevail__ _v_ :four::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
-__prevaricate__ _v_ :four::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
+__prevaricate__ _v_ :five::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate or create an incorrect impression; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
 __preventable__  
 __preventative__ _adj_ :two: Another form of _preventive_. _Preventative antibiotics._  
 __prevention is better than cure__ _prov_ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -13074,18 +13082,19 @@ __prez__ _n informal_ (Prez) President.
 __price point__ _n_ _The best in price point._  
 __price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
+__prick__ _v_  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _v_ :six::hammer: (pricked, pricking) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
-__prickle__ _n_  
+__prickle__ _n_ :two: __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
 __prickled__ _v_ _Rob’s skin prickled._  
-__prickling__  
-__prickly pear__ _n_ :two::hammer: :es: higo chumbo, nopal  
-__prickly__ _adj_ :two::hammer:  
+__prickling__ _n_ :two: A somatic sensation as from many tiny prickles. _Syn_ tingling, tingle  
+__prickly pear__ _n_ :three::hammer: :es: higo chumbo, nopal  
+__prickly__ _adj_ :three::hammer:  
 __pride flag__  
 __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._  
 __pride<sup>2</sup>__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
-__priestesses__ _n_  
+__priestess__ _n_ :two::hammer: (priestesses)  
 __priesthood__ _n_  
 __prima facie__  
 __primacy__ _n_  
@@ -13093,7 +13102,7 @@ __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._
 __primary school__ _n_ A school for young children; usually the first 6 or 8 grades.  
 __Prime Minister__  
 __prime-age__  
-__prime<sup>1</sup>__ _adj_ :two::hammer: _Their master bedroom has a prime view of the green wall._  
+__prime<sup>1</sup>__ _adj_ :five::hammer: _Their master bedroom has a prime view of the green wall._ _Prime steaks._ _Prime examples of his work still exist._  
 __prime<sup>2</sup>__ _n_ :two::hammer:  
 __prime<sup>3</sup>__ _v_ :seven::astonished::hammer: (primed, priming) _The children who were primed to be happy significantly outperformed the others._  
 __primer__ _n_ :five:hammer:  
