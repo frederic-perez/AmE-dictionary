@@ -1898,29 +1898,38 @@ __in someone’s shoes__ If you talk about being in someone’s shoes, you are d
 __in spades__ :two::dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._ _Cultural savvy. Portland’s got it in spades._  
 __in stitches__  
 __in tall cotton__ In a time or period of great success or wellbeing; doing very well.  
+__in the (very) nick of time__ :two::hammer:  
 __in the back__ In the back part of a building; in the back room of a building. _He’s not in the shop right now. I’ll see if he’s in the back._  
 __in the black__ :two: Not in debt, profitable.  
+__in the blink of an eye__  
 __in the circumstances__ Due to the conditions or particular situation; such as the case is.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ :two::hammer:  
 __in the event of (something)__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the event that__ If it should happen or be the case that.  
 __in the eye of (something)__ At, in, or amidst the central or focal point of something.  
+__in the face of (something)__  
+__in the gutter__  
 __in the heat of (something)__ During a time of extreme action, emotion, or agitation. _Soldiers have to train themselves not to feel fear in the heat of battle._  
 __in the hope that__ With the expectation, intention, or desire that (something will happen).  
+__in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
 __in the know__ :four::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
+__in the long term__  
+__in the loop__  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
 __in the making__ :two::hammer:  
-__in the middle of nowhere__ In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
+__in the middle of nowhere__ :two: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
 __in the midst of (something)__ :two::hammer:  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the offing__ :dart::two: __1__ In the near or immediate future; soon to come: _with exams finished and graduation in the offing._ _A budding rivalry could be in the offing._ __2__ Nearby; at hand.  
+__in the pipeline__ :dart: In progress or about to be started or implemented. _Don’t worry, your raise is in the pipeline for next quarter._  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
+__in the public eye__  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __in the thick of it/(something)__ :nine::m: [:sound: in the thick of it] Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
@@ -1930,13 +1939,13 @@ __in the view of (someone)__ In someone’s or some group’s opinion.
 __in the wake of (something)__ __1__ In the aftermath of something, often as a consequence. _In the wake of the scandal, several committee members resigned._ __2__ Coming immediately after something. _In the wake of the final scene, the audience burst into applause._  
 __in the wild__ In naturally occurring conditions or environments.  
 __in the wind__  
-__in the works__ In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
+__in the works__ :two: In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
 __in their own right__  
-__in this day and age__  
+__in this day and age__ :two::hammer:  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in your birthday suit__ Naked.  
-__in your face__  
+__in your face__ :two::hammer:  
 __in-the-know__  
 __in(to) shape__ In good, robust health; strong or fit.  
 __incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
@@ -1944,16 +1953,20 @@ __inner circle__ A small, exclusive, and intimate group of like-minded people sh
 __inopportune moment__ An unfortunate or inconvenient moment in time. _I’m afraid you’ve caught me at an inopportune moment, as I’m just about to leave for the airport._  
 __inside and out__ Thoroughly; down to the last detail.  
 __insofar as__ To such an extent that; to the degree that.  
+__intellectually challenged__ Of low intelligence; stupid.  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
-__iron out__ :two::hammer:  
+__iron out__ :four: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
+__ironclad__  
+__Is the glass half empty or half full?__  
 __isn’t that funny?__  
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
-__it goes without saying__ :two: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
+__it goes without saying__ :three: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
+__it is not a competition__  
 __it is what it is__ :two: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it speaks for itself__  
-__it takes a village__ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
-__it takes two to tango__ :two::hammer:  
+__it takes a village__ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
+__it takes two to tango__ :three::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
 __it’s all good__ A phrase used to express general approval, unconcern, or disinterest.  

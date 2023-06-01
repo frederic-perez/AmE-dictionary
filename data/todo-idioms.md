@@ -122,27 +122,6 @@ __in perfect harmony__
 __in spite of__  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
 __in the (grand) scheme of things__  
-__in the (very) nick of time__ :two::hammer:  
-__in the blink of an eye__  
-__in the face of (something)__  
-__in the gutter__  
-__in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
-__in the long term__  
-__in the loop__  
-__in the middle of nowhere__  
-__in the pipeline__ :dart: In progress or about to be started or implemented. _Don’t worry, your raise is in the pipeline for next quarter._  
-__in the public eye__  
-__in the works__  
-__in this day and age__  
-__in your face__  
-__intellectually challenged__ Of low intelligence; stupid.  
-__iron out__ :two: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
-__ironclad__  
-__Is the glass half empty or half full?__  
-__it goes without saying__  
-__it is not a competition__  
-__it takes a village__  
-__it takes two to tango__  
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
