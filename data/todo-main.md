@@ -328,26 +328,6 @@ __pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by 
 __quadragenarian__ _adj, n_  
 __quaff__ _v_  
 __quaffing__ _v_  
-__quail<sup>1</sup>__ _n_ :three::hammer: _Quails marinated in yoghurt._  
-__quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
-__quaint__ _adj_  
-__quake__ _v_ :two::hammer: _The trains emerge from a sea of quaking aspens._  
-__qualify__ _v_  
-__qualm__ _v_  
-__quarantine__ _n_ :mega:  
-__quarry<sup>1</sup>__ _n_ /KWOR-ee/  
-__quarry<sup>2</sup>__ _v tr_ To dig, cut into, or extract.  
-__quench__ _v_ :two::hammer:  
-__querulous__ _adj_ /ˈkwɛr ə ləs, ˈkwɛr yə-/  
-__quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
-__quiche__ _n_ /kiːʃ/ [:scroll: French, from German _Kuchen_ cake] A n open savoury tart with a rich custard filling to which bacon, onion, cheese, etc, are added: _quiche Lorraine_.  
-__quiddity__ _n_ /ˈkwɪdɪtɪ/  
-__quilling__ _n_ /kwĭl′ĭng/ The art or craft of making decorative designs out of thin strips of rolled paper.  
-__quinquennial__  
-__quintessential__ _adj_ :three::hammer:  
-__quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
-__rabble__ _n_ /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._  
-__racket__ _n_ :two: __1__ A loud distressing noise. __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
 __radar__ _n_ :mega:  
 __raffish__ _adj_ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
