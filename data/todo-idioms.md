@@ -32,6 +32,8 @@ __backwater__
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __be on the fence (about something)__  
+__bigheaded__  
+__carve out__  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  
@@ -46,6 +48,7 @@ __cut it out__ To stop doing something. Often used as an imperative. _Come on, m
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __down the road__  
 __driver’s seat__ _We want to put the users in the driver’s seat when it comes to how their data is used._  
+__eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
 __educated guess__  
 __elephant in the room__ An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
 __Elvis has left the building__  
@@ -70,6 +73,7 @@ __final cut__ The completed and finalized edited version of a film, as authorize
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
 __first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
+__fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __GI Joe__  
 __give (one) a pass__  
@@ -83,6 +87,7 @@ __go apeshit__
 __go berserk__  
 __go down in/make history__  
 __go downhill__  
+__gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
 __have (got) someone or something covered__ _informal_ To have done, gotten, or provided whatever is needed. _Syn_ take care of everything _Don’t worry about a thing. We’ve got you covered._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
@@ -91,6 +96,7 @@ __head and shoulders above (someone or something)__
 __head and shoulders__  
 __head-on__ (head on) _Confront it head-on._  
 __hold (someone or something) back (from someone or something)__  
+__hold (someone, something, or an animal) back (from someone or something)__ To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (something) in store (for one)__  
 __hold a candle to__  
@@ -122,6 +128,8 @@ __in perfect harmony__
 __in spite of__  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
 __in the (grand) scheme of things__  
+__in the zone__  
+__it goes without saying__  
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
@@ -245,7 +253,7 @@ __oddly enough__ It is strange or remarkable (that). _I saw John this morning. O
 __of a lifetime__ Used to describe something extremely exceptional, important, or enjoyable that isn’t likely to occur again. _They offered me the chance of a lifetime to travel the world and write about my experiences abroad._ _She must first unravel an unsolved murder, or lose this opportunity of a lifetime._  
 __of no account__  
 __off the clock__  
-__off the hook__  
+__off the hook__ :two::hammer:  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
 __off to the side__  
 __off work__  
@@ -278,6 +286,7 @@ __on the sidelines__ If you are _on the sidelines_ in a situation, you watch it 
 __on the spur of the moment__  
 __on the verge of__ :two::hammer:  
 __on the whole__  
+__part ways (with one)__  
 __pave the way__ :two::hammer:  
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
@@ -313,6 +322,7 @@ __rest assured__
 __rest on her laurels__  
 __rest on one’s laurels__  
 __riddled with__ _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish_  
+__rule out__ :two: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __self-fulfilling prophecy__  
@@ -338,6 +348,7 @@ __soak__ _v_
 __soft pedal__ _There is no soft pedaling._  
 __soon enough__ No later than needed, soon.  
 __sort through (something)__  
+__sound the alarm__ To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
 __souped up__ :dart: Modified to have increased power or performance. Sometimes hyphenated when used before a noun. _At this point, her car is so souped up that it could probably reach 200 miles per hour!_  
 __speaking of which__  
 __spell disaster__  
@@ -375,6 +386,7 @@ __take (one) aback__
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
 __take a haircut__ A reduction in value. To accept a loss on a return of a financial investment. _The new interest rate hike means that many investors will be forced to take a haircut on their largest assets in the coming fiscal year._  
+__take offense (at) (something)__ To be or feel insulted, offended, or humiliated by something.  
 __take the brunt__  
 __take the edge off__  
 __take the reins__  
