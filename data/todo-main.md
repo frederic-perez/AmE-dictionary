@@ -27,11 +27,13 @@ __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Oliv
 __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
+__bird of prey__ _n_  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
+__boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain fog__ _n_  
@@ -51,6 +53,7 @@ __curt__
 __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
 __declivity__ _n_ A downward slope or bend. _Syn_ fall, downslope, declension, declination, decline, descent  
 __decongestant__ _n_  
+__deep__ _n_ __9__ Large in quantity or size; big: _deep cuts in the budget._ _Deep breakfast._  
 __deepfake__ _n_ /DEEP-fayk/ Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
 __default__ _v_  
 __deflect__ _v_  
@@ -117,11 +120,13 @@ __gloomy__ _adj_
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
+__grunt__ _n_ __1__ A deep guttural sound.  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
+__hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
@@ -131,6 +136,7 @@ __impending__
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
+__insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __integer__ _n_ :mega:  
 __interpolate__ _v_ /in-TER-puh-layt/  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
@@ -162,14 +168,17 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __meddlesome__ _adj_  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
+__migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
 __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
+__misnomer__ _n_  
 __missal__ _n_  
 __misspell__ _v_ :pencil2:  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __nitpick__ _v_  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
@@ -210,6 +219,7 @@ __package__ _n_ :mega:
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  
 __paganism__ _n_  
+__parcel__ _v tr_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __paroxysm__ _n_  
@@ -264,6 +274,7 @@ __pore__ _v intr_
 __pork pie__ _n_  
 __portend__ _v tr_ :two::hammer: /por-TEND/  
 __porter__ _n_  
+__possum__ _n_  
 __precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
 __predate__ _v_ _This standard predates the emergence of smartphones._  
@@ -336,7 +347,7 @@ __quinquennial__
 __quintessential__ _adj_ :three::hammer:  
 __quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
 __rabble__ _n_ /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._  
-__racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
+__racket__ _n_ :two: __1__ A loud distressing noise. __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
 __radar__ _n_ :mega:  
 __raffish__ _adj_ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
@@ -480,6 +491,7 @@ __rosewood__
 __rosy__  
 __rot__ _v_ (rotted)  
 __Rottweiler__ _n_  
+__roundup__ _n_ :dart: __3__ A summary: _a news roundup._ _Headline roundup._  
 __saccade__ _n_  
 __sacrifice__ _n_ :mega:  
 __sacristy__ _n_  
@@ -618,6 +630,7 @@ __sheet__ _n_ _A three-sheeted bed._
 __shenanigan__ _n informal_ :two::hammer: _Pulling shenanigans._  
 __shenanigans__ _n pl_ /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._  
 __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
+__shimmering__ _adj_ :es: reluciente  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shivaree__ _n_ A noisy mock serenade for newlyweds. _Syn_ belling, callithump  
 __shoal__ _n_  
@@ -658,6 +671,7 @@ __sidesplitting__ _adj_ _A sidesplitting ceremony._
 __sightsee__ _v_ :two::hammer:  
 __sigmoidoscopy__ _n_  
 __signage__ _n_ :three::hammer: _Backlit signage._  
+__signatory__ _n_  
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
 __skittish__ _adj_  
@@ -872,8 +886,10 @@ __swashbuckling__ _adj_
 __swath__ _n_ (swathes)  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sway__ _n_  
+__swell__ _v_  
 __sworn__ _adj_ Bound, pledged, or made inveterate, by or as if by an oath: _a sworn statement; he was sworn to God._ _Jedi Knights are sworn protectors of the Force and the Jedi Order._  
 __syncope__ _n_ A brief loss of consciousness caused by a temporary deficiency of oxygen in the brain; a swoon. _Syn_ deliquium, faint, swoon  
+__tachyarrythmia__ _n_  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
 __Tahitian__  
@@ -994,6 +1010,7 @@ __top-notch__
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
 __topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
 __toppings__ _n_  
+__toque__ _n_ __1__ A soft, brimless, close-fitting hat for women, in any of several shapes. __2__ A tall white hat worn by chefs. __3__ A velvet hat with a narrow brim, a full crown, and usu. a plume, worn by men and women in the 16th century.  
 __torn__ _v_ Past participle of tear. _You feel so torn about what to do._  
 __torpid__ _adj_ :two: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
@@ -1120,6 +1137,7 @@ __unsettling__ _adj_ Making one feel rather worried or uncertain.
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
 __untapped__ _adj_ /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._  
+__untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unwavering__ _adj_  
 __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
 __upheaval__ _n_  
@@ -1218,6 +1236,7 @@ __waterbed__ _n_
 __waterbugs__ _n_  
 __waterfowl__ _n_  
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
+__weaponize__ _v_  
 __wet suit__ _n_  
 __wetback__  
 __wetsuit__ _n_  
