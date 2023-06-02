@@ -1380,8 +1380,10 @@ __give (someone) an out__ To provide someone with an excuse or a means of escapi
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
 __give and take__ :two::hammer: _Love don’t come easy. It’s a game of give and take._  
+__give in__ :two::hammer: _Give in to our fears._  
 __give or take__ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ To speak angrily to someone because they have done something wrong.  
+__give someone an inch__  
 __give someone some lip__ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __give someone the creeps__ To make you feel frightened or nervous.  
 __give someone the finger__  
@@ -1390,17 +1392,21 @@ __give up on (someone or something)__
 __glad tidings__ Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.”  
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
+__gloss over (something)__  
 __go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
-__go a long way__ :dart::six: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
+__go a long way__ :dart::eight: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go after (someone or something)__  
 __go along__  
+__go apeshit__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor.  
 __go at it hammer and tongs__ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go back to square one__ To start from the beginning.  
 __go ballistic__ :two::hammer:  
+__go berserk__  
 __go commando__  
-__go downhill__  
+__go down in/make history__  
+__go downhill__ :two::hammer:  
 __go figure__ :seven: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
 __go for a run__  
 __go for a spin (to some place)__ To go for a brief, leisurely drive (to some place). _Hey Noah, fancy going for a spin to the grocery store with me?_ _Jenny just got a new car for her birthday, so I think we’re going to go for a spin after school._  
@@ -1527,6 +1533,7 @@ __guilt complex__ A very strong and persistent feeling of guilt regarding someth
 __guilty pleasure__ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __gush over (someone or something)__  
+__gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
 __gut bomb__ Any greasy, filling junk food.  
 __gut feeling__ An intuition, an instinctive feeling about something.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
@@ -1574,6 +1581,7 @@ __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s gu
 __have (a) skeleton(s) in (one’s)/the closet__ :two: To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have (got) (someone’s) back__ :five: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
 __have (got) (someone) pegged as (something)__ To distinctly regard someone as being a certain type of person.  
+__have (got) someone or something covered__ _informal_ To have done, gotten, or provided whatever is needed. _Syn_ take care of everything _Don’t worry about a thing. We’ve got you covered._  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers.”  
 __have (one’s) feet on the ground__ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one’s situation.  
@@ -1631,9 +1639,10 @@ __have had (one’s) chips__ To be defeated; to fail completely; to die or be ki
 __have hot pants (for someone)__  
 __have it easy__ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
 __have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
-__have its/(one’s) day__ :two: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._  
+__have its/(one’s) day__ :three: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._ _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
+__have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
 __have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
 __have one foot in the grave__ To be very old and close to death.  
 __have one’s cake and eat it too__  
@@ -1642,6 +1651,7 @@ __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorre
 __have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
 __have skin in the game__ :two: To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance. _I have no skin in the game._  
 __have someone pegged__ :two: _She had me pegged on that, too._ _You got me pegged._ :es: Me has calado.  
+__have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
 __have teeth__ To have enough power or support of authority to compel obedience or punish offenders, as of a law. _This new law against littering has teeth, so if you don’t pick up your trash, you’ll get a hefty fine._  
 __have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
 __have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
@@ -1657,10 +1667,12 @@ __have your head in the clouds__ :two: To be separate from reality, to dream.
 __have/put skin in the game__  
 __hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
-__head and shoulders above someone or something__  
+__head and shoulders above (someone or something)__ :two::hammer:  
+__head and shoulders__  
 __head in the clouds, to have one’s__ Daydreaming, absentminded. _In the clouds_ has been used figuratively to mean obscure or fanciful since the mid-seventeenth century. It was not until relatively recent times that a vague, dreamy person was said to have his or her head in the clouds.  
 __head on shoulders__  
 __head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head-on__ (head on) _Confront it head-on._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
 __head-spinning__ :two: Incredible, overwhelming.  
 __heads up__ _Thanks for giving me the heads up._  
@@ -1742,7 +1754,10 @@ __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consen
 __hold (one’s) nerve__ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold (one’s) nose__  
 __hold (one’s) water__ To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
+__hold (someone, something, or an animal) back (from someone or something)__ :two: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
+__hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
+__hold (something) in store (for one)__  
 __hold a candle__  
 __hold a grudge__ To feel angry with someone who has done something to upset you in the past.  
 __hold a/the wolf by the ear(s)__ To be in a difficult and precarious situation from which it is as dangerous to extricate oneself as it is to remain in it. _I’m afraid we’re holding a wolf by the ears regarding our current healthcare system. It would be unthinkable to completely overhaul it, but it is dangerously untenable in its current condition._  

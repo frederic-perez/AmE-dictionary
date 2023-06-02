@@ -79,26 +79,6 @@ __GI Joe__
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
-__give in__ :two::hammer: _Give in to our fears._  
-__give someone an inch__  
-__gloss over (something)__  
-__go a long way__ :two::hammer:  
-__go apeshit__  
-__go berserk__  
-__go down in/make history__  
-__go downhill__  
-__gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
-__have (got) someone or something covered__ _informal_ To have done, gotten, or provided whatever is needed. _Syn_ take care of everything _Don’t worry about a thing. We’ve got you covered._  
-__have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
-__have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
-__have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
-__head and shoulders above (someone or something)__  
-__head and shoulders__  
-__head-on__ (head on) _Confront it head-on._  
-__hold (someone or something) back (from someone or something)__  
-__hold (someone, something, or an animal) back (from someone or something)__ To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
-__hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
-__hold (something) in store (for one)__  
 __hold a candle to__  
 __hold back__  
 __hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
