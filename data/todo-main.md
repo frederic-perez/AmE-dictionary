@@ -41,12 +41,14 @@ __brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that se
 __breadwinner__ _n_ :pencil2:  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
+__cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
 __craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
 __crapulous__ _adj_  
 __cringe__ _v_ :two::hammer: _Data scientists both rejoice and cringe._  
+__crotchet__ _n_ An odd, whimsical, or stubborn notion. _Syn_ oddity, queerness, quirk _He is perhaps the sanest man and has the fewest crotchets of any I chance to know._  
 __cue__ _v_  
 __curmudgeon__  
 __curt__  
@@ -68,6 +70,7 @@ __disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something an
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
+__doodad__ _n_ _informal_ Something, especially a small device or part, whose name is unknown or forgotten.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
@@ -84,6 +87,7 @@ __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __Energizer Bunny__  
 __engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
+__enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
@@ -100,11 +104,13 @@ __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __fictive__ _adj_  
 __finicky__ _adj_  
+__flattop__ _n_ A large warship that carries planes and has a long flat deck for take-offs and landings. _Syn_ aircraft carrier  
 __flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __florescence__ _n_ /flor-ESS-unss/ Florescence refers to a state or period of being in bloom or of flourishing.  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __foil__ _v tr_  
+__foolhardy__ _adj_  
 __forthright__ _adj_  
 __fortitude__ _n_ /FOR-tuh-tood/  
 __friction__ _n_  
@@ -116,14 +122,17 @@ __gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute
 __gamut__ _n_ /GAM-ut/ A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things. _I adore licorice, mints, lollipops, candy corn—the whole gamut of penny candy._  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
+__gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
 __gloomy__ _adj_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __grunt__ _n_ __1__ A deep guttural sound.  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
+__hardy__ _adj_  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
+__hearty__ _adj_  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
@@ -136,9 +145,11 @@ __impending__
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
+__infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
 __insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __integer__ _n_ :mega:  
 __interpolate__ _v_ /in-TER-puh-layt/  
+__interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
@@ -179,7 +190,10 @@ __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known o
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
+__nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
+__nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.  
 __nitpick__ _v_  
+__obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
 __occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
@@ -472,9 +486,11 @@ __rosy__
 __rot__ _v_ (rotted)  
 __Rottweiler__ _n_  
 __roundup__ _n_ :dart: __3__ A summary: _a news roundup._ _Headline roundup._  
+__rusticle__ _n_ /RUHS-tuh/ti-kuhl/ An icicle-like formation of rust, as on an underwater shipwreck.  
 __saccade__ _n_  
 __sacrifice__ _n_ :mega:  
 __sacristy__ _n_  
+__sacrosanct__ _adj_ /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
 __safeguard__ _n_  
 __saga__ _n_ /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
