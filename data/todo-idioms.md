@@ -10,8 +10,10 @@ __above the salt__ Of or in a position of high standing, rank, regard, or repute
 __absolve from guilt__ To consider innocent, clear of all suspicion, or pardon from any cause of guilt. _The knights of the crusades committed many atrocities in their campaign, but they were absolved from guilt by the heads of the church._  
 __absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world. _It’s no use trying to talk to Helen when she’s absorbed in thought like that; it’s as if we don’t even exist!_  
 __abstract idea__ An idea or thought that is intangible or outside the constraints or possibilities of the real world. _Some regard love as but an abstract idea, as it is impossible to define what makes love real._  
+__abysmal failure__ Failure that is total and extreme in measure or implication. _The business was an abysmal failure, and everyone was out of a job within a month._  
 __accident of birth__ Any and all particulars surrounding one’s birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one’s control. _My poverty when I was young was merely an accident of birth—through hard work and determination, I was able to overcome it and lead a successful life._  
 __act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._  
+__actuary__ _n_ A statistician who computes insurance risks and premiums.  
 __add up__  
 __admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit. _Well, I ran a good campaign, but it is time I admitted defeat in this election._  
 __advance notice__ A notification, signal, or sign that something is going to happen or is expected to happen. _I know that we were all surprised that Dad decided to move to China, but I think his learning Mandarin last year was something of an advance notice._  
@@ -20,11 +22,15 @@ __affable personality__ A personality that is friendly, approachable, sociable, 
 __after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
+__all (one’s) eggs in one basket__  
 __all aboard__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
 __all in__  
 __all of a sudden__  
+__all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
+__amount to nothing__  
 __an accident waiting to happen__  
+__anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
 __anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __as of late__  
 __at the expense of (someone or something)__  
@@ -79,6 +85,10 @@ __GI Joe__
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
+__go off in a huff__ To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
+__go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
+__go out with the boys__ To go and socialize somewhere with a group of exclusively male friends. _I love my girlfriend and all, but sometimes, I just need to go out with the boys!_  
+__hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __hold a candle to__  
 __hold back__  
 __hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
@@ -212,6 +222,7 @@ __more often than not__
 __more so__ To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
 __more than meets the eye__  
 __morning person__  
+__mother hen__ _n_ A person who fusses over others in an overprotective manner.  
 __mother lode__  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
@@ -226,6 +237,7 @@ __needless to say__ Obviously; the following is completely self-evident. _Helen 
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __night and day__  
+__no spring chicken__  
 __not so fast__  
 __nugget of information__  
 __nuts__ __3__ _adj_ Crazy; manic or eccentric; out of one’s mind. _Trying to figure out what’s wrong with this computer is driving me nuts!_  
@@ -271,6 +283,7 @@ __pave the way__ :two::hammer:
 __pay (for something) up front__  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
 __peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
+__pecking order__  
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __people pleaser__ (_less commonly_ people-pleaser)  
 __perfect storm__  
@@ -303,6 +316,7 @@ __rest on her laurels__
 __rest on one’s laurels__  
 __riddled with__ _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish_  
 __rule out__ :two: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
+__rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __self-fulfilling prophecy__  
@@ -420,6 +434,7 @@ __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no u
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
 __tough love__ :two::hammer:  
+__walk on eggshells__  
 __what do I know__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what makes (one) tick__  
