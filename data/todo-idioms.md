@@ -134,26 +134,6 @@ __kvetch__ :dart:
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __land on (one’s) feet__  
-__larger than life__ :two::hammer:  
-__lash out__ :two::hammer:  
-__latch on__  
-__laugh off__  
-__laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
-__lay bare (something)__ To divulge, explain, or reveal something not previously known publicly. _Our hope is that this expedition will lay bare the secrets of the ancient king’s tomb._ _Influencers are laying bare the inner workings of the internet._  
-__lay off__  
-__lead domino__ :two::hammer:  
-__lean on (someone or something)__  
-__leaps and bounds__ _Communication and control technologies are advancing in leaps and bounds._  
-__learn (something) the hard way__  
-__learn the ropes__  
-__left and right__  
-__let alone__ :two::hammer:  
-__letdown__ :two: Something that is disappointing, usually because it did not meet one’s high expectations about it. _Not getting tickets to the game after my aunt promised them to us is a real letdown._  
-__lie ahead of (someone or something)__  
-__lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
-__lightbulb moment__  
-__like crazy__  
-__like death warmed up__ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”) _You look like death warmed up, I think you should see a doctor!_  
 __line of work__  
 __living proof__ :two::hammer:  
 __living the dream__  
