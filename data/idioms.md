@@ -1987,9 +1987,14 @@ __it’s a dog’s life__ :dart::astonished:
 __it’s all good__ A phrase used to express general approval, unconcern, or disinterest.  
 __it’s one of those things__  
 __ivory tower__ An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
+__jam-packed__ :two::hammer: (jampacked)  
 __Jane Doe__ An unidentified woman.  
+__jarring experience__ An experience that creates an acute sense of shock, confusion, or bewilderment. _That car accident was such a jarring experience, I don’t know if I’ll be able to sleep for days._  
 __jaw away__ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._  
+__Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
+__jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __jazzed__  
+__Jekyll and Hyde__  
 __jet-setter__ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
@@ -2002,15 +2007,20 @@ __joking aside__ Used to introduce a serious statement that follows a humorous s
 __jollies__ _slang_ Gun, thrills, enjoyment.  
 __jolly (someone) along__ To encourage someone (to do something), especially in a positive, cheerful manner.  
 __jolly (someone) up__ To make (someone) happier or more cheerful; to cheer (someone) up.  
+__joy-joy feelings__  
 __jug-eared__ :astonished: Having ears that stick out markedly from the side of the head, thus resembling the handles of a jug.  
 __juggling act__  
 __jump at the chance (to do something)__ To accept or seize with alacrity an opportunity (to do something).  
 __jump for joy__ To be very happy about something.  
 __jump in (one’s) skin__ To start or recoil, as from shock, surprise, or fear.  
+__jump off__  
+__jump on (someone or something)__ _Amazon is jumping on the generative AI hype train._  
 __jump ship__ To leave a job or activity.  
-__jump the gun__ To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
+__jump the gun__ :two::dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._ _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
 __jump through hoops__ To do a lot of difficult things before you are allowed to have or do something you want.  
+__jump-start__  
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
+__junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just another day at the office__  
 __just because__ _informal_ :three: For no specific or meaningful reason.  
@@ -2019,6 +2029,7 @@ __just the same (to one)__
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
 __kangaroo court__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
+__keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one’s)/an eye on (someone or something)__ :three: To watch someone or something carefully; to be attentive to someone or something. _Keep an eye on the Twitter._  
@@ -2030,6 +2041,7 @@ __keep a close eye on (someone or something)__ :two: To monitor someone or somet
 __keep a cool head__ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
 __keep a lid on (something)__ __1__ To keep the level of something from increasing drastically or beyond what is undesirable or dangerous. _They were one of the few countries in the EU able to keep a lid on unemployment during the recession._ __2__ To not allow something to become known to other people; to keep something a secret or classified. _No one else knows about it yet, so keep a lid on it for now._  
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
+__keep a tab on (someone or something)__  
 __keep above water__ :three::hammer: _This is keeping myself above water._  
 __keep an eye out__  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
@@ -2043,8 +2055,9 @@ __keep one’s countenance__ Maintain one’s composure, especially by refrainin
 __keep one’s eyes peeled__ (keep one’s eyes skinned) To watch vigilantly (for).  
 __keep one’s word__ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep out of sight__ To remain unseen, as by hiding or evasion.  
-__keep pace__  
+__keep pace__ :two::hammer:  
 __keep tab(s) (on someone or something)__ :nine::m: [:sound: keep taps on] (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
+__keep tabs__  
 __keep the ball rolling__  
 __keep the lid on (something)__ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep the wheels turning__ :dart: To make something continue to happen or operate. _It’s people like him that keep the wheels of commerce turning._  
@@ -2054,10 +2067,10 @@ __keep your head above water__ To just be able to manage when you have financial
 __keep your shirt on__  
 __key into (something)__  
 __keyed up__ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
-__kick (someone or something) to the curb__ To discard, abandon, or dismiss someone or something that has become redundant, obsolete, useless, or unwanted. _I can’t believe that after 20 years of hard work the company would just kick me to the curb like that!_ _I think it’s about time we kick this old computer to the curb._  
-__kick ass__ :three: _vulgar_ _slang_ To take forceful or harsh measures to achieve an objective.  
+__kick (someone or something) to the curb__ :two: To discard, abandon, or dismiss someone or something that has become redundant, obsolete, useless, or unwanted. _I can’t believe that after 20 years of hard work the company would just kick me to the curb like that!_ _I think it’s about time we kick this old computer to the curb._  
+__kick ass__ :four::dart: __1__ _v_ _rude slang_ To defeat someone or something decisively. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _We weren’t prepared for that game, and the other team kicked our asses._ __2__ _v_ _rude slang_ To physically attack one; to beat one up. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _I’ll kick your ass if I ever see you talking to my girlfriend again._ __3__ _v_ _rude slang_ To be very effective or successful. _This new strategy is really kicking ass and keeping the groundhogs away from my vegetable garden!_ __4__ _v_ _rude slang_ To be excellent or exceptional. _That move kicked ass! All movies should be like that!_ __5__ _v_ _rude slang_ To motivate one or shock one out of complacency. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _The professor’s speech today kind of kicked my ass and made me realize I need to start applying myself._ __6__ _n_ _rude slang_ Excellent or exceptional; awesome. In this usage, the phrase is hyphenated or spelled as one word. _That was a pretty kick-ass roller coaster._ __7__ _v_ _vulgar slang_ To take forceful or harsh measures to achieve an objective.  
 __kick back__  
-__kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
+__kick butt__ :two: To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._ _I was kicking butt at work._  
 __kick in__ :two: To start to have an effect or to happen.  
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __kick the crap out of (someone)__  

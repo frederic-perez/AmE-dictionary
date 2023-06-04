@@ -123,26 +123,6 @@ __it goes without saying__
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
-__jam-packed__ :two::hammer: (jampacked)  
-__jarring experience__ An experience that creates an acute sense of shock, confusion, or bewilderment. _That car accident was such a jarring experience, I don’t know if I’ll be able to sleep for days._  
-__Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
-__jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
-__Jekyll and Hyde__  
-__joy-joy feelings__  
-__jump off__  
-__jump on (someone or something)__ _Amazon is jumping on the generative AI hype train._  
-__jump the gun__ :dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._  
-__jump-start__  
-__junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
-__keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
-__keep a tab on (someone or something)__  
-__keep pace__  
-__keep tabs on someone__  
-__keep tabs on__  
-__keep tabs__  
-__kick (someone or something) to the curb__  
-__kick ass__  
-__kick butt__ _I was kicking butt at work._  
 __kick in__  
 __kindred spirit__  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
