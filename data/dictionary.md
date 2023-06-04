@@ -147,7 +147,7 @@ __Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :eight::hammer: (acolytes)  
+__acolyte__ _n_ :eight: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ __2__ An altar attendant in public worship; altar boy.  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -4054,7 +4054,9 @@ __cruffy__
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
-__crumble__ _v_ :eight::hammer: (crumbled, crumbling)  
+__crumble<sup>1</sup>__ _v tr_ :eight: To break into small fragments or pieces: _I crumbled the cheese into the salad._  
+__crumble<sup>2</sup>__ _v intr_ :eight: __1__ To fall into small fragments or pieces; disintegrate: _The ancient castle had crumbled to ruins._ __2__ To give way; collapse: _an ego that crumbles under pressure._  
+__crumble<sup>3</sup>__ _n_  
 __crumbling__ _adj_ :two::hammer: _Crumbling sidewalk._ _A crumbling Germany at the start of the Third Reich._  
 __crummy__ _adj_ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
@@ -5060,7 +5062,7 @@ __downhearted__ _adj_
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
-__downplay__ _v tr_ :nine::hammer: (downplayed) _Do not downplay your dreams._  
+__downplay__ _v tr_ :nine: To minimize the significance of; play down: _downplayed the bad news._ _Do not downplay your dreams._  
 __downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
 __downright__ _adv_ :dart::seven::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :four::hammer: (downsides) _Working from home has its upsides as well as downsides._  
@@ -5128,7 +5130,7 @@ __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. _
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
-__dreg__ _n_ :eight::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
+__dreg__ _n_ :eight: (often dregs) __1__ The sediment in a liquid, such as wine or coffee. _Retrieve dregs from the cup._ __2__ The basest or least desirable portion: _the dregs of humanity._ _Away from the dregs and junkies._ _The whole mass of scum and dregs of society._ __3__ A small amount; a residue.  
 __dreidel__ _n_ __1__ A 4-sided toy marked with Hebrew letters and spun like a top in a game of chance. __2__ A children’s game of chance played especially at Hanukkah with a dreidel.  
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
@@ -5386,7 +5388,7 @@ __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa 
 __edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
 __educated guess__ _n_ :three::hammer:  
 __eel__ _n_ :two::hammer: _Electric eels._  
-__eerie__ _adj_ :nine::hammer: (eery) _Eerie incidents._  
+__eerie__ _adj_ :nine: (eery) Uncanny, so as to inspire superstitious fear; strange and mysterious: _an eerie howl._ _Eerie incidents._  
 __eerily__ _adv_ :three::hammer:  
 __effect__ _v_ :three::hammer: (effecting) _A view to effecting opportunities._  
 __effeminacy__ _n_  
