@@ -27,26 +27,6 @@ __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cos
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
 __craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
 __crapulous__ _adj_  
-__cringe__ _v_ :two::hammer: _Data scientists both rejoice and cringe._  
-__crotchet__ _n_ An odd, whimsical, or stubborn notion. _Syn_ oddity, queerness, quirk _He is perhaps the sanest man and has the fewest crotchets of any I chance to know._  
-__cue__ _v_  
-__curmudgeon__  
-__curt__  
-__declination__ _n_ A polite refusal of an invitation. _Syn_ regrets  
-__declivity__ _n_ A downward slope or bend. _Syn_ fall, downslope, declension, declination, decline, descent  
-__decongestant__ _n_  
-__deep__ _n_ __9__ Large in quantity or size; big: _deep cuts in the budget._ _Deep breakfast._  
-__deepfake__ _n_ /DEEP-fayk/ Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
-__default__ _v_  
-__deflect__ _v_  
-__démarche__ _n_ /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
-__demo__ _v_ Short for demonstrate. _Google demoed its AI-powered search engine._  
-__demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
-__demystify__ _v tr_  
-__deprecate__ _v_ To belittle. _Syn_ depreciate _The teacher should not deprecate his student’s efforts._  
-__derelict__ _n_  
-__disapprobation__ _n_ /dis-ap-ruh-BAY-shun/  
-__disheartened__ _adj_ :mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
