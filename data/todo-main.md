@@ -1,24 +1,4 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
-__acolyte__ _n_ :two::hammer:  
-__acquittance__ _n_ A written release from an obligation, specifically a receipt indicating payment in full. _Syn_ release  
-__ad nauseam__ _adv_ :two::hammer:  
-__aftermath__ _n_ /AF-ter-math/ Aftermath refers to the period of time shortly following a destructive event, or to a negative consequence or result.  
-__agency__ _n_ __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._  
-__aioli__ _n_  
-__alienate__  
-__anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
-__anaphylaxis__ _n_  
-__anastrophe__ _n_ /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
-__anecdotage__ _n_  
-__anime__ _n_ /AN-uh-may/  
-__anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym when posting messages on the board._  
-__apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
-__apothegm__ _n_ A terse, witty, instructive saying.  
-__arboreal__ _adj_ /ahr-BOR-ee-ul/  
-__arraignment__ _n_  
-__asterisk__ _n_ :mega:  
-__attenuate__ _adj_ :astonished: Reduced or weakened, as in strength, value, or virulence. _Syn_ faded, weakened _She placed a record in the player, and the attenuate tones of the old recording swept through the house._  
-__auspicious__ _adj_ /aw-SPISH-us/  
 __backhanded__ _adj_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
 __bargain__ _n_  

@@ -147,7 +147,7 @@ __Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :six::hammer: (acolytes)  
+__acolyte__ _n_ :eight::hammer: (acolytes)  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -157,6 +157,7 @@ __acquisitive__ _adj_
 __acquisitiveness__ _n_  
 __acquit__ _v tr_ :six: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
+__acquittance__ _n_ A written release from an obligation, specifically a receipt indicating payment in full. _Syn_ release  
 __acreage__ _n_ :three: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
 __acrimonious__ _adj_ :three::hammer:  
@@ -177,7 +178,7 @@ __acute__ _adj_
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
-__ad nauseam__ _adv_ To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
+__ad nauseam__ _adv_ :three: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ :two::mega: Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
@@ -284,7 +285,7 @@ __aftereffects__
 __afterglow__  
 __afterimage__ _n_ A visual image that persists after the visual stimulus causing it has ceased to act. _Syn_ photogene  
 __aftermarket__  
-__aftermath__ _n_ :two::hammer:  
+__aftermath__ _n_ :three: /AF-ter-math/ Aftermath refers to the period of time shortly following a destructive event, or to a negative consequence or result.  
 __afters__ _n informal_ :two: Dessert.  
 __afterward__ _adv_ :two::hammer:  
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
@@ -297,7 +298,7 @@ __age<sup>2</sup>__ _v_
 __ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
 __agemate__ _n_  
-__agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
+__agency__ _n_ :four::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
@@ -340,7 +341,7 @@ __ailment__ _n_ :five: An often persistent bodily disorder or disease; a cause f
 __ails__ _v_ :two::hammer:  
 __ailurophile__ _n_ One who loves cats.  
 __aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalless, haphazard, vagrant, directionless, unguided _After several hours of aimless driving, we were getting low on fuel._  
-__aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
+__aioli__ _n_ :two: Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzle__ _n_ _(mechanical engineering)_ In an automotive engine, a device for supplying air to the air-injection reactor. _Try adjusting your air nozzles to full force._  
 __air pocket__ _n_  
@@ -379,7 +380,7 @@ __alfresco<sup>1</sup>__ _adv_ :two: In the fresh air. _Syn_ outdoors _Dining al
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __Alhambresque__ _adj_  
-__alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
+__alienate__ _v_ :nine::m: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alienated__ _adj_ Feeling that you do not belong in a particular society, place, or group.  
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_ :two::hammer:  
@@ -517,6 +518,7 @@ __amusement park__ _n_ :three::hammer:
 __amygdala__ _n_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
+__anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anal bleaching__ _n_  
 __analemma__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
@@ -524,8 +526,9 @@ __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parall
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
 __anaphora__ _n_ :two: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
+__anaphylaxis__ _n_  
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
-__anastrophe__ _n_  
+__anastrophe__ _n_ :two: /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
 __anchor<sup>1</sup>__ _n_ :mute:[anc~~h~~or]  
@@ -540,6 +543,7 @@ __Andean condor__ _n_ A very large vulture found in the Andes Mountains.
 __andirons__  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
+__anecdotage__ _n_  
 __anecdotal__ _adj_ :mega:  
 __anecdotally__  
 __anecdote__ _n_ :two: An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
@@ -564,7 +568,7 @@ __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
-__anime__ _n_ /ˈænɪˌmeɪ/ A style of animation developed in Japan, characterized by stylized colorful art and often adult themes.  
+__anime__ _n_ :two: /ˈænɪˌmeɪ/ /AN-uh-may/ A style of animation developed in Japan, characterized by stylized colorful art and often adult themes.  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :seven::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
 __aniseed__ _n_  
@@ -588,6 +592,7 @@ __anodized__ _v_ :two::hammer:
 __anodyne<sup>1</sup>__ _adj_  
 __anodyne<sup>2</sup>__ _n_ :two: __1__ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller __2__ Anything that alleviates mental distress.  
 __anomic__  
+__anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym when posting messages on the board._  
 __Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
 __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, originally worn in polar regions, but now worn for any outdoor activity.  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
@@ -651,7 +656,7 @@ __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or o
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
 __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
-__apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey.  
+__apiary__ _n_ :two: A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
@@ -670,7 +675,7 @@ __apostate<sup>1</sup>__ _n_ :five: A person who abandons his religion, party, c
 __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
 __apostle__ _n_ :mute:[apos~~t~~le]  
 __apostrophe__ _n_ :two: In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
-__apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
+__apothegm__ _n_ :two: A short, pithy, and instructive saying or formulation. A terse, witty, instructive saying. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __apotheosis__ _n_ :two: /uh-pah-thee-OH-sis/ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :six: Shocked or dismayed; filled with horror.  
@@ -728,6 +733,7 @@ __Arapahoe__ _n_ :two::hammer:
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
+__arboreal__ _adj_ /ahr-BOR-ee-ul/  
 __arboretum__ _n_ :nine: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
 __arboriculture__ _n_  
 __arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._  
@@ -780,6 +786,7 @@ __armscye__ _n_
 __arose__ _v_ :two::hammer:  
 __arousal__  
 __arpents__ _n_ :two::hammer:  
+__arraignment__ _n_  
 __arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
 __arrangement__ _n_  
 __array<sup>1</sup>__ _n_ :mega:  
@@ -871,6 +878,7 @@ __assuage__ _v_ :seven: (assuaged) To make (something burdensome or painful) les
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
+__asterisk__ _n_ :mega:  
 __asterism__ _n_  
 __astern__ _adj, adv_ :three: /uh-STUHRN/ __1__ At the rear of a ship or another vessel. __2__ In a reverse direction. __3__ Backward.  
 __asthma__ _n_ :three::pencil2::hammer:  
@@ -927,6 +935,7 @@ __attend to__ _phr v_ To deal with something or someone.
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :three::mega::hammer:  
 __attentive__ _adj_ :two::hammer:  
+__attenuate__ _adj_ :astonished: Reduced or weakened, as in strength, value, or virulence. _Syn_ faded, weakened _She placed a record in the player, and the attenuate tones of the old recording swept through the house._  
 __attest__ _v_ :three::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
@@ -962,6 +971,7 @@ __aum__
 __aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
 __auscultation__ _n_  
 __auspices__  
+__auspicious__ _adj_ /aw-SPISH-us/  
 __Aussie__ _n_ _informal_  
 __austere__  
 __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
