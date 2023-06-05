@@ -22,6 +22,7 @@ __affable personality__ A personality that is friendly, approachable, sociable, 
 __after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
+__ahead of the curve__  
 __all (one’s) eggs in one basket__  
 __all aboard__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
@@ -44,10 +45,12 @@ __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a ven
 __close up shop__  
 __closed-minded__ :dart:  
 __coast along__  
+__come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
 __course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
 __cozy up (to someone or something)__  
 __crack down (on someone or something)__  
 __crack down__ _France is cracking down on shady influencers._  
+__crunchy-granola__  
 __crystal clear__  
 __cup of joe__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
@@ -71,6 +74,7 @@ __fair-weather fan__ A person who is supportive of and enthusiastic about a spor
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for. _Danny says he has several laptops and smartphones he wants to sell for cheap—sounds like they fell off the back of a truck to me._  
 __fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite. _There’s no need for that false modesty here; you are fully aware of your success and achievement, and you don’t need me to reaffirm it for you._  
+__far and wide__ All over; everywhere.  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __fear of missing out__  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
@@ -80,6 +84,7 @@ __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehem
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
 __first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
 __fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
+__follow suit__ To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __GI Joe__  
 __give (one) a pass__  
@@ -115,6 +120,7 @@ __in donkeys__ In an exceptionally long period of time. The phrase likely origin
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
+__in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
 __in spite of__  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
 __in the (grand) scheme of things__  
@@ -143,6 +149,7 @@ __loom large__ To seem imminent and cause worry or unease. _We all started worki
 __lose (one’s) marbles__ (lose one’s mind) To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her marbles after she had a stroke._  
 __lose count (of something)__ To fail to remember or keep an accurate tally of how many of something there is, often due to there being a great amount. _At this point, I’ve lost count of the number of times they’ve yelled at me!_  
 __lose face__  
+__lose out__  
 __lost cause__  
 __lost for words__ (at a loss for words)  
 __lost in the shuffle__  
@@ -158,6 +165,7 @@ __make great strides__
 __make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
+__make sense (out) of (something)__ To interpret something in a way that one can understand or that reveals some purpose, reason, etc. _It will be a long time before we can begin to make sense of this tragedy._  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
 __make waves__ _Make waves with an Apple computer._  
 __marinate__  
@@ -238,6 +246,7 @@ __on the sidelines__ If you are _on the sidelines_ in a situation, you watch it 
 __on the spur of the moment__  
 __on the verge of__ :two::hammer:  
 __on the whole__  
+__pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else. _The film was enjoyable, but it pales in comparison to the original._ _Bard still pales in comparison to GPT-4 when it comes to the creative stuff._  
 __part ways (with one)__  
 __pave the way__ :two::hammer:  
 __pay (for something) up front__  
@@ -255,6 +264,8 @@ __piping hot__
 __piss off__  
 __pizzazz__  
 __place an order__  
+__pop into (someone’s) head__ To occur or form suddenly in someone’s mind, as a thought, idea, or revelation. _The idea for this new model of car just popped into my head as I was driving home last night._  
+__pour gas/gasoline on the fire__  
 __pull the plug (on someone or something)__  
 __raise the bar__  
 __raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
@@ -271,7 +282,7 @@ __relate to (someone or something)__
 __relief party__  
 __reminisce about (someone or something)__ To recall or think back on memories of someone or something, especially in a fond and sentimental manner. _We sat together reminiscing about the wild times we had in college together._  
 __resonate with (one)__  
-__rest assured__  
+__rest assured__ :two::hammer:  
 __rest on her laurels__  
 __rest on one’s laurels__  
 __riddled with__ _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish_  
@@ -296,13 +307,16 @@ __show up__
 __shroom__  
 __shut down__ :two::hammer:  
 __sick as a dog__  
+__sigh of relief__ A feeling or display of relief that something particularly stressful, unpleasant, or undesirable has been avoided or completed. _Everyone in class heaved a sigh of relief after that horrible midterm exam was over._  
+__sneak peek__ An early preview of something that has yet to be fully revealed or shown prominently.  
 __so much so that__  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __soak__ _v_  
+__social butterfly__ Someone who enjoys frequently mingling with other people at social events.  
 __soft pedal__ _There is no soft pedaling._  
 __soon enough__ No later than needed, soon.  
 __sort through (something)__  
-__sound the alarm__ To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
+__sound the alarm__ :two: To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
 __souped up__ :dart: Modified to have increased power or performance. Sometimes hyphenated when used before a noun. _At this point, her car is so souped up that it could probably reach 200 miles per hour!_  
 __speaking of which__  
 __spell disaster__  
@@ -347,6 +361,7 @@ __take the reins__
 __take up__ _We have taken up this challenge._  
 __taken aback__  
 __taking it on your chin__  
+__talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent manner; to sass. _If you don’t stop talking back like that, you’ll be going to bed with no dinner!_  
 __talk down to (one)__  
 __talk trash__  
 __talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
@@ -435,7 +450,7 @@ __with (one’s) head held high__ Displaying pride and confidence, often (but no
 __with a bang__ :two::hammer: _Chamber music with a bang!_  
 __with a passion__  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
-__yada yada yada__  
+__yada, yada(, yada)__ :two::hammer:  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
 __you don’t say__  
