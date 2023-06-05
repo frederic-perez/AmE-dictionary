@@ -6371,7 +6371,7 @@ __flagship__ _n_ :six: __1__ A ship that carries the fleet commander and flies t
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
-__flail__ _v_ :eight::hammer: (flailed, flailing)  
+__flail__ _v_ :eight: __1__ _tr_ To beat or thrash with or as if with a flail. __2__ To move or be moved like a flail; thresh about: _with arms flailing._  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
 __flak__ _n_ :nine: /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. __1__ Severe criticism. __2__ Anti-aircraft fire. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
@@ -7207,7 +7207,7 @@ __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“priva
 __glitz__ _n_ :two::hammer:  
 __glitzy__ _adj_ :two::hammer:  
 __gloaming__ _n_ _poetic_ :four: /GLOH-ming/ Gloaming is a literary term synonymous with _twilight_ and _dusk_, the darker part of twilight. It’s used most commonly in the noun phrase _the gloaming_. _Across the field, fireflies twinkled in the gloaming._  
-__gloat<sup>1</sup>__ _v_ :nine::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
+__gloat<sup>1</sup>__ _v intr_ :nine: To feel or express great, often malicious, pleasure or self-satisfaction: _Don’t gloat over your rival’s misfortune._ _The feisty man gloated._  
 __gloat<sup>2</sup>__ _n_  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
@@ -7257,7 +7257,7 @@ __go-getter__
 __go-kart__ _n_ (go-cart) A small low motor vehicle with four wheels and an open framework; used for racing.  
 __go-pills__ _n_  
 __go-to__ _adj_ _The go-to method for 3D printing._  
-__goad__ _v_ :nine::hammer: (goaded, goading)  
+__goad__ _v tr_ :nine: To prod or urge with or as if with a long pointed stick.  
 __goads__ _n_  
 __goahead__  
 __goal average__ _n_ (sports) The ratio of the numbers of goals scored for and against a team in a series of matches, sometimes used in deciding the team’s position in a table.  
@@ -7350,7 +7350,7 @@ __governance__ _n_
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._ _Priceless pieces from The Beatles grace the walls._  
-__gracious__ _adj_ :nine::hammer: _He was very gracious._ _An attitude of gracious humility._ __3__ Characterized by elegance and good taste: _gracious living._ _You’ll find gracious accommodations and friendly service._  
+__gracious__ _adj_ :nine: __1__ Characterized by or showing kindness and courtesy. _An attitude of gracious humility._ __2__ Condescendingly courteous, benevolent, or indulgent. __3__ Characterized by elegance and good taste. Characterized by or suitable for a life of elegance, ease, and indulgence: _gracious living; gracious furnishings._ _You’ll find gracious accommodations and friendly service._ __4__ Merciful or compassionate.  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
 __grade<sup>1</sup>__ _n_ :three::hammer: _The grade over the mountain was well protected._ _Their jeep waited at a grade crossing for five minutes._  
@@ -8262,7 +8262,7 @@ __homesite__ _n_ :two::hammer:
 __homespun<sup>1</sup>__ _adj_ :three::hammer:  
 __homespun<sup>2</sup>__ _n_  
 __homestand__ _n_ :six: A series of games played at a team’s home field.  
-__homestead<sup>1</sup>__ _n_ :eight::hammer:  
+__homestead<sup>1</sup>__ _n_ :eight: __1__ A dwelling with its land and buildings occupied by the owner as a home and exempted by a homestead law from seizure or sale for debt. __2__ Any dwelling with its land and buildings where a family makes its home. __3__ A tract of land acquired under the Homestead Act.  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
 __homicide__  
