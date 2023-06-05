@@ -141,26 +141,6 @@ __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)
 __lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __land on (one’s) feet__  
 __line of work__  
-__living proof__ :two::hammer:  
-__living the dream__  
-__long hours__ :two: A period of time doing something, especially work, that is longer than is usual or customary. _I’ll be working long hours in the restaurant the lead up to Christmas, but the tips and pay checks will be worth it._  
-__long story short__ :two::hammer:  
-__loom large__ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
-__lose (one’s) marbles__ (lose one’s mind) To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her marbles after she had a stroke._  
-__lose count (of something)__ To fail to remember or keep an accurate tally of how many of something there is, often due to there being a great amount. _At this point, I’ve lost count of the number of times they’ve yelled at me!_  
-__lose face__  
-__lose out__  
-__lost cause__  
-__lost for words__ (at a loss for words)  
-__lost in the shuffle__  
-__lost on me__ _It is not lost on me._  
-__love (someone) to the moon (and back)__  
-__love handles__ _slang_ An accumulation of fat around one’s midsection. _I need to go back to the gym and start working out again if I want to lose these love handles in time for the wedding._  
-__low-hanging fruit__ The most easily achieved of a set of tasks or goals.  
-__lump in (one’s) throat__  
-__make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
-__make a case for (something)__  
-__make a dent in (something)__ :two::hammer:  
 __make great strides__  
 __make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
