@@ -4394,10 +4394,10 @@ __deep freezers__
 __deep pockets__  
 __Deep South__  
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
-__deep<sup>1</sup>__ _adj_ :two::hammer: _Deep discounted prices._ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
-__deep<sup>2</sup>__ _n_ __9__ Large in quantity or size; big: _deep cuts in the budget._ _Deep breakfast._  
 __deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
+__deep<sup>1</sup>__ _adj_ :two::hammer: _Deep discounted prices._ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
+__deep<sup>2</sup>__ _n_ __9__ Large in quantity or size; big: _deep cuts in the budget._ _Deep breakfast._  
 __deepfake__ _n_ :two: /DEEP-fayk/ Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
 __deeply__  
 __deer__ _adj_ _A deer survey._  
@@ -13849,19 +13849,21 @@ __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
 __refunds__ _n_  
-__refurbish__ _v_ :four::hammer: (refurbished)  
-__refurbishment__ _n_ :two::hammer:  
+__refurbish__ _v_ :seven::hammer: (refurbished)  
+__refurbishment__ _n_ :three::hammer:  
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
-__refuse<sup>2</sup>__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
+__refuse<sup>2</sup>__ _n_ :two: Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she’s the queen and we’re her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn’t rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
 __regale__ _v_ :two: (regaled) __1__ To give delight or amusement to: _he regaled them with stories of his youth._ __2__ To provide with choice or abundant food or drink.  
 __regalia__ _n_ :two::hammer:  
-__regatta__  
+__regatta__ _n_ :four::pencil2::hammer:  
 __regency__  
 __regent__ _n_ :two::hammer:  
 __regimen__ _n_ _An exercise regimen._  
+__regiment__ _n_ _Several regiments of soldiers._  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __regnant__ _adj_ __1__ Reigning; ruling: _a queen regnant._ __2__ Predominant. __3__ Widespread; prevalent.  
+__regolith__ _n_ The layer of loose rock resting on bedrock, constituting the surface of most land. Also called _mantle rock_.  
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
 __regrettably__ _adv_ Unfortunately (used to express apology for or sadness at something).  
@@ -13872,23 +13874,26 @@ __regulatory body__ _n_ (regulatory agency, regulator, independent agency, indep
 __regulatory muster__  
 __regulatory__  
 __rehabber__ _n informal_ A person who engages in rehabilitating something. _A wildlife rehabber._  
+__rehabilitation__ _n_  
 __rehash__ _v_ :two::hammer:  
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reiki__ _n_ /ˈreɪkɪ/  
 __reimagining__ _n_  
-__reindeer__  
-__reinstate__ _v_ :three::hammer:  
+__reindeer__ _n pl_ :three::hammer:  
+__reinstate__ _v_ :four::hammer:  
 __reinstatement__ _n_  
 __reiterate__ _v_ :two::hammer: /riːˈɪtəˌreɪt/  
 __reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
 __rejigged__ _v_  
 __rejiggered__  
-__rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
-__rejoinder__ _n_ :four: An answer, especially to a reply.  
+__rejoice__ _v_ :four::pencil2::hammer: (rejoiced, rejoicing)  
+__rejoicing__ _n_ :pencil2:  
+__rejoinder__ _n_ :five: A quick reply to a question or remark (especially a witty or critical one). _Syn_ riposte, comeback, retort, replication, counter, return _Her eyes darkened, and he expected an indignant rejoinder._  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/  
-__rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
+__rejuvenated__ _adj_  
+__rekindle__ _v tr_ :three::hammer: _Will generative AI wreck or rekindle the doctor-patient relationship?_ _We must rekindle the fire of idealism in this country._  
 __relapse__ _n_  
-__relatable__ _adj_ :six: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
+__relatable__ _adj_ :seven: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
@@ -13898,7 +13903,7 @@ __relent__ _v_ :five::hammer: /rɪˈlɛnt/ (relented)
 __relentless__ _adj_ :six::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _adj_ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
-__reliant__ _adj_ :two::hammer:  
+__reliant__ _adj_ :four::hammer:  
 __relic__ _n_  
 __relief teams__  
 __relief__ _n_ :three::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._ _Stress relief._  
@@ -13910,12 +13915,12 @@ __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relo__ _n_ _informal_ __1__ Relocation.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
-__reluctant__  
+__reluctant__ _v_ :two::hammer: _Reluctant to leave._  
 __rely on__ _v_  
 __remanded__ _v_  
-__remarkable__  
-__remarkably__ _adv_ :two::hammer:  
-__remembrance__ _n_ :six: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
+__remarkable__ _adj_ :two::hammer:  
+__remarkably__ _adv_ :three::hammer:  
+__remembrance__ _n_ :eight: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
 __reminisce__ _v_ :four: (reminiscing) To indulge in the process or practice of thinking or telling about past experiences. _Reminisce_ is one of several English verbs starting with re- that mean “to bring an image or idea from the past into the mind.” Others in this group include _remember_, _recall_, _remind_, and _recollect_. _Reminisce_ distinguishes itself from the others by implying a casual recalling of experiences long past, often with a sense of nostalgia. _After the official reunion dinner, the old friends gathered at a pub to reminisce about their high school days, now long past._  
 __reminiscent__  
 __remit__  

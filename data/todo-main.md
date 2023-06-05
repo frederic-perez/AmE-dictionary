@@ -375,26 +375,6 @@ __refectory__ _n_ :two::hammer:
 __referral__ _n_ :two::hammer: _Free referral service for apartments and homes._ _Spouse referral._  
 __refreshment__ _n_  
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
-__refurbish__ _v_ :three::hammer: (refurbished)  
-__refurbishment__  
-__refuse__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
-__regatta__ _n_ :three::hammer:  
-__regiment__ _n_ _Several regiments of soldiers._  
-__regolith__ _n_ The layer of loose rock resting on bedrock, constituting the surface of most land. Also called _mantle rock_.  
-__rehabilitation__ _n_  
-__reindeer__ _n pl_ :two::hammer:  
-__reinstate__ _v_  
-__rejoice__ _v_  
-__rejoicing__ _n_ :pencil2:  
-__rejoinder__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ riposte, comeback, retort, replication, counter, return _Her eyes darkened, and he expected an indignant rejoinder._  
-__rejuvenated__ _adj_  
-__rekindle__ _v tr_ _Will generative AI wreck or rekindle the doctor-patient relationship?_  
-__relatable__ _adj_  
-__reliant__ _adj_ :two::hammer:  
-__reluctant__ _v_ _Reluctant to leave._  
-__remarkable__ _adj_  
-__remarkably__  
-__remembrance__ _n_ :two::hammer:  
 __reminiscent__  
 __remiss__ _adj_  
 __remix__ _n, v_ :mega:  
