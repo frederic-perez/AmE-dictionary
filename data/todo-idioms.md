@@ -144,25 +144,6 @@ __line of work__
 __make great strides__  
 __make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
-__make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
-__make sense (out) of (something)__ To interpret something in a way that one can understand or that reveals some purpose, reason, etc. _It will be a long time before we can begin to make sense of this tragedy._  
-__make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
-__make waves__ _Make waves with an Apple computer._  
-__marinate__  
-__Mary Jane__ _slang_ [:scroll: an Americanism for the Mexican Spanish _marihuana_ or _mariguana_, which is associated with the personal name María Juana] Marijuana. _Hey man, you know where we can score some Mary Jane around here?_  
-__maternity leave__  
-__mean the world to (one)__ :dart:  
-__meant to be__  
-__measure up__  
-__menty b__ A cutesy shortening of the much more serious phrase mental breakdown.  
-__mess around__  
-__mess with (someone or something)__  
-__mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
-__mike drop__  
-__mill about__  
-__miss the boat__  
-__miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
-__missing link__  
 __mixed bag__  
 __mixed feelings__  
 __Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
