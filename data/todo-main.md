@@ -409,26 +409,6 @@ __riff__ _v_
 __right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
-__Romanesque__ _adj_ :three::hammer: :es: románico  
-__romp__ _v_  
-__ronin__  
-__rooftop deck__ _n_ :two::hammer:  
-__roomer__ _n_ A tenant in someone’s house. _Syn_ boarder, lodger  
-__roorback__ _n_ A false or slanderous story used for political advantage.  
-__rosacea__ _n_  
-__Rose City__ _n_ Nicknames of Portland, Oregon.  
-__rose-colored__ _adj_ /ROZ-kuhl-uhrd/ [:scroll: From Latin rosa (rose), from Greek rhodon (rose). Yes, a rhododendron is a rose tree, literally speaking.] __1__ Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form “to see through rose-colored glasses.” __2__ Of a bright pink or red color.  
-__roseate__ _adj_ /ROH-zee-uht/ayt/ __1__ Like a rose, especially in color: pink, red, etc. __2__ Bright; favorable; promising. __3__ Unreasonably optimistic.  
-__rosemaling__ _n_  
-__rosette__ _n_  
-__rosewood__  
-__rosy__  
-__rot__ _v_ (rotted)  
-__Rottweiler__ _n_  
-__roundup__ _n_ :dart: __3__ A summary: _a news roundup._ _Headline roundup._  
-__rusticle__ _n_ /RUHS-tuh/ti-kuhl/ An icicle-like formation of rust, as on an underwater shipwreck.  
-__saccade__ _n_  
-__sacrifice__ _n_ :mega:  
 __sacristy__ _n_  
 __sacrosanct__ _adj_ /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
 __safeguard__ _n_  

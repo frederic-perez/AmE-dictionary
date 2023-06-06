@@ -14250,18 +14250,21 @@ __rom-com__
 __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
 __romance__ _n_ :astonished:  
 __romancer__  
+__Romanesque__ _adj_ :three::hammer: :es: románico  
 __romanticize__ _v_ :pencil2:  
-__romp__ _v_ :six::hammer:  
+__romp__ _v_ :seven::hammer:  
 __rondo__ _n_ (music)  
-__ronin__ _n_ :two: A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
+__ronin__ _n_ :three: A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
 __rood__ _n_ :two::hammer:  
 __roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
+__rooftop deck__ _n_ :two::hammer:  
 __rooftop__ _n_ :seven::pencil2::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
 __rookery__ _n_ _There are several Emperor rookeries there._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
-__roorback__ _n_ /ˈrʊəˌbæk/ [:scroll: After Baron von Roorback, a fictitious author invented during the 1844 presidential elections in the US to discredit the Democratic candidate James K. Polk.] A false story or slander, especially one spread for political purposes.  
+__roomer__ _n_ A tenant in someone’s house. _Syn_ boarder, lodger  
+__roorback__ _n_ :two: /ˈrʊəˌbæk/ [:scroll: After Baron von Roorback, a fictitious author invented during the 1844 presidential elections in the US to discredit the Democratic candidate James K. Polk.] A false story or slander, especially one spread for political purposes. A false or slanderous story used for political advantage.  
 __roost<sup>1</sup>__ _n_ __1__ A place where winged animals, especially birds or bats, rest or sleep.  
 __roost<sup>2</sup>__ _v_  
 __rooster__ _n_ :two::hammer:  
@@ -14275,22 +14278,28 @@ __rope in__ _v_
 __rope-a-dope__ _n_ :two::hammer:  
 __ropes__ _n pl_ :two: Special or basic techniques or procedures. _He’s teaching her the ropes._ _They need to learn the ropes._  
 __ropy__ _adj_ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
+__rosacea__ _n_  
 __rosary__ _n_ (rosaries)  
+__Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
-__rosette__ _n_  
+__rose-colored__ _adj_ /ROZ-kuhl-uhrd/ [:scroll: From Latin rosa (rose), from Greek rhodon (rose). Yes, a rhododendron is a rose tree, literally speaking.] __1__ Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form “to see through rose-colored glasses.” __2__ Of a bright pink or red color.  
+__roseate__ _adj_ /ROH-zee-uht/ayt/ __1__ Like a rose, especially in color: pink, red, etc. __2__ Bright; favorable; promising. __3__ Unreasonably optimistic.  
+__rosemaling__ _n_  
+__rosette__ _n_ :two::hammer:  
+__rosewood__  
 __Rosh HaShanah__ _n_  
 __rosin box__  
 __roster__ _n_ :three::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
 __rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
-__rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
-__rot__ _v_  
+__rosy__ _adj_ :seven::hammer: _A rosy picture._ _Predictions of a rosy future._  
+__rot__ _v_ :two::hammer: (rotted)  
 __Rotarian__ _n_ :two::hammer: (Rotarians)  
 __rote__ _n_  
 __roti__ _n_ (Cookery) (in India and the Caribbean) A type of unleavened bread. _A roti shop._  
 __Roto-Rooter__  
 __rotorcraft__  
 __rototiling__  
-__Rottweiler__  
+__Rottweiler__ _n_ :two::hammer:  
 __rotund__ _adj_  
 __rotunda__ _n_ :seven::hammer:  
 __rough > the rough__ _n_ __2b__ (Sports) The area of a golf hole in which the grass is left unmowed or is cut to a length longer than that of the fairway. _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
@@ -14307,7 +14316,7 @@ __roundabout__ _n_ :two::hammer: (Children’s attraction.)
 __rounder__ _n_ /RAUN-duhr/ __3__ [:scroll: Apparently referring to one who makes rounds of bars or downs many rounds of drinks. From Latin rotundus (round), from rota (wheel).] A drunkard, idler, or self-indulgent person.  
 __roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
-__roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
+__roundup__ _n_ :three::dart::hammer: (roundups) _There were public roundups and massacres._ __3__ A summary: _a news roundup._ _Headline roundup._  
 __rousing__ _adj_ :seven::hammer: _A rousing crowd._ _A rousing tale._ _A rousing dramatization._ _The magazine was a rousing success._  
 __roustabout__ _n_ :two::hammer: (roustabouts) _The roustabout Bohemian._  
 __rousted__ _v_  
@@ -14398,6 +14407,7 @@ __rush<sup>2</sup>__ _v_
 __Russian salad__ _n_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
 __rusticate__ _v_  
+__rusticle__ _n_ /RUHS-tuh/ti-kuhl/ An icicle-like formation of rust, as on an underwater shipwreck.  
 __rustle up__ _v_  
 __rustle<sup>1</sup>__ _n_ _A sound like the rustle of silk._  
 __rustle<sup>2</sup>__ _v_ :nine::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. _A rustling sound._ _The quiet rustling of the river._ __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
@@ -14419,9 +14429,11 @@ __sable__ _n_ (animal)
 __sabotage__ _n_  
 __saboteur__ _n_ :two: /sab-uh-TUHR/ [:scroll: From French saboter (to walk noisily, to botch), from sabot (wooden shoe)] One who disrupts, damages, or destroys, especially in an underhanded manner.  
 __sac-a-lait__  
+__saccade__ _n_  
 __saccharin__ _n_ :two::pencil2::mega::hammer:  
 __saccular__ _adj_  
 __sackful__  
+__sacrifice__ _n_ :mega:  
 __sacristan__  
 __sacristy__ _n_  
 __sacrosanct__  
