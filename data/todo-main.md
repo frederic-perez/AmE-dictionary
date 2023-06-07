@@ -565,26 +565,6 @@ __shoulder__ _v_
 __shove__ _v_  
 __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
 __showbiz__ _n_  
-__showdown__ _n_ :three::hammer:  
-__showplace__ _n_  
-__showroom__ _n_ :two::hammer:  
-__showrunner__ _n_ :two::hammer:  
-__showstopper__  
-__showstopping__  
-__shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
-__Shrove Tuesday__ _n_  
-__shrunken head__ _n_  
-__shuffleboard__ _n_ :two::hammer:  
-__shun__ _v_  
-__shuriken__ _n_ /ˈʃuːrɪken/ A martial-arts weapon usually in the shape of a star or cross with sharp protruding edges, thrown with a spin towards the target .  
-__shutterbug__ _n_ _Shutterbugs will be intrigued by the Canon camera._  
-__sic__  
-__sickbed__ _n_ A sick person’s bed.  
-__side-splitting__ _adj_ _Side-splitting laughs._  
-__sideburns__ _n_  
-__sideline__ _v_ :two::hammer:  
-__sidesplitting__ _adj_ _A sidesplitting ceremony._  
-__sightsee__ _v_ :two::hammer:  
 __sigmoidoscopy__ _n_  
 __signage__ _n_ :three::hammer: _Backlit signage._  
 __signatory__ _n_  

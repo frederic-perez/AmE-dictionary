@@ -15159,13 +15159,14 @@ __show off__ _v_ :two::hammer:
 __show-off__ _n_ :two::hammer:  
 __showboat__ _v_  
 __showcase__ _v_  
-__showdown__ _n_ :seven: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
+__showdown__ _n_ :nine::m: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
 __showhouse__  
 __showpiece__ _n_ :three::hammer:  
-__showroom__ _n_  
-__showrunner__ _n_ :four: (show runner) A person who has creative control over a broadcast series, as on television, and who manages its day-to-day operations.  
-__showstopper__ _n_ _informal_  
-__showstopping__ _adj_ _A showstopping performance._  
+__showplace__ _n_  
+__showroom__ _n_ :three::hammer:  
+__showrunner__ _n_ :six: (show runner) A person who has creative control over a broadcast series, as on television, and who manages its day-to-day operations.  
+__showstopper__ _n_ _informal_ :two::hammer:  
+__showstopping__ _adj_ :two::hammer: _A showstopping performance._  
 __showtime__  
 __shrapnel__ _n_ :five: __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ _informal_ :pencil2: Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shred__ _n_ :two::hammer: _A shred of evidence._ _I sat in their place, headed to the front lines of a war without a shred of experience._  
@@ -15181,11 +15182,14 @@ __shrilly__
 __shrimp__  
 __shrines__ _n_  
 __shrink__ _n_  
+__shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
 __shrivel up__ _v_ :three::hammer:  
 __shrivel__ _v_ :nine: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
+__Shrove Tuesday__ _n_ The day before Ash Wednesday.  
 __shrubbery__  
+__shrunken head__ _n_  
 __shtick__ _n_ :three: (also shtik) _slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
@@ -15193,13 +15197,15 @@ __shudder__ _v_ :four::hammer: (shudders, shuddered)
 __shudderings__ _n_  
 __shuffle off__  
 __shuffle__ _v_ :three::hammer: (shuffling)  
+__shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir _Cristiano Ronaldo has been widely praised by public health experts after he shunned Coca-Cola during a press conference._  
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
+__shuriken__ _n_ /ˈʃuːrɪken/ A martial-arts weapon usually in the shape of a star or cross with sharp protruding edges, thrown with a spin towards the target .  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
-__shutterbug__ _n_ _informal_ An enthusiastic amateur photographer.  
+__shutterbug__ _n_ _informal_ :two: An enthusiastic amateur photographer. _Shutterbugs will be intrigued by the Canon camera._  
 __shuttlecock__ _n_  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
@@ -15209,19 +15215,24 @@ __shylocking__
 __shyly__ _adv_ _(funny spelling)_  
 __shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
 __sibilance__ _n_ A hissing quality of sound, or the hissing sound itself. _I dozed in the hammock to the ocean’s gentle sibilance._  
+__sic__  
 __sicced__ _v_  
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
 __sick leave__ _n_ :three::hammer: _The UK’s biggest reason for sick leave._  
+__sickbed__ _n_ A sick person’s bed.  
 __sickle cell__  
 __sickly__ _adj_ :es: enfermizo  
 __side effect__  
+__side-splitting__ _adj_ _Side-splitting laughs._  
 __sidearm__  
 __sidebar__ _n_  
+__sideburns__ _n_  
 __sidecar shovelhead__  
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
-__sideline<sup>2</sup>__ _v_ :four: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
+__sideline<sup>2</sup>__ _v_ :six: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
+__sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sidestep__ _v_ :seven::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
@@ -15237,6 +15248,7 @@ __sigh<sup>2</sup>__ _v_ :two::mega::mute:[si~~gh~~]
 __sight<sup>1</sup>__ _n_ :mute:[si~~gh~~t]  
 __sight<sup>2</sup>__ _v_ :mute:[si~~gh~~t]  
 __sightline__ _n_  
+__sightsee__ _v_ :two::hammer:  
 __sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
 __sign__ _n_ :mute:[si~~g~~n]  
 __sign-off__ _n_  
