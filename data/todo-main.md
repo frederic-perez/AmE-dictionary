@@ -1,4 +1,8 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
+__animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
+__arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
+__autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
+__b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
 __backhanded__ _adj_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
 __bargain__ _n_  
@@ -8,6 +12,7 @@ __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
 __bird of prey__ _n_  
+__blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
@@ -22,6 +27,7 @@ __breadwinner__ _n_ :pencil2:
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
+__concatenate__ _v_ /kahn-KAT-uh-nayt/  
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
@@ -54,12 +60,15 @@ __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings.
 __eradicate__ _v tr_  
 __erupt__ _v_  
 __etch__ _v_  
+__etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
+__fare__ _v intr_  
 __farouche__ _adj_  
+__favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favorable), the god of the west wind in Roman mythology. His Greek equivalent is Zephyr.] __1__ Relating to the west wind. __2__ Mild; gentle; benign.  
 __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __fictive__ _adj_  
@@ -131,12 +140,14 @@ __mac and cheese__ _n_
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Mad Libs__ _n_  
+__malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
 __manslaughter__ _n_  
 __matter-of-fact__ _adj_  
 __maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __meddlesome__ _adj_  
+__meet-cute__ _n_ /MEET-kyoot/  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
 __migraine__ _n_  
@@ -145,6 +156,7 @@ __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; av
 __misnomer__ _n_  
 __missal__ _n_  
 __misspell__ _v_ :pencil2:  
+__mixtape__ _n_  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
@@ -196,7 +208,7 @@ __paganism__ _n_
 __parcel__ _v tr_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
-__paroxysm__ _n_  
+__paroxysm__ _n_ :two: A sudden uncontrollable attack. _Syn_ convulsion, fit  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __partake__ _v intr_ _Every year in the weeks leading up to Easter, many Christians around the world partake in Lent._  
 __parterre__ _n_ _A rose parterre._  
@@ -324,6 +336,7 @@ __rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who ca
 __rapt__ _adj_  
 __rapture__ _v_  
 __rarefied__ _adj_ /RAIR-uh-fyde/  
+__raring__ _adj_ Full of eagerness; enthusiastic. _Syn_ impatient _Standing at the starting line of the race, he shifted from foot to foot and was raring to go._  
 __rash<sup>1</sup>__ _adj_ /RASH/  
 __rash<sup>2</sup>__ _n_  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
@@ -490,6 +503,7 @@ __schuss__ _v_
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scion__ _n_  
 __scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
+__scratching__ _n_ A percussive effect obtained by rotating a gramophone record manually: a disc-jockey and dub technique.  
 __seawall__ _n_ _A two-mile seawall promenade._  
 __secluded__ _adj_  
 __second__ _v tr_ _I second you._  
@@ -574,6 +588,7 @@ __skittish__ _adj_
 __sky diving__  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v tr_  
+__slugabed__ _n_ One inclined to stay in bed out of laziness.  
 __sluice__ _n_ _Mining sluice._  
 __slumber party__ _n_  
 __slushies__ _n_ _Boozy slushies._  
@@ -942,6 +957,7 @@ __treetops__ _n_
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __tremendously__ _adv_ :two::hammer:  
+__trenchant__ _adj_ /TREN-chunt/ Trenchant is a formal word that is usually used to describe communication that is notably strong, clear, and perceptive, or in other words, “sharp.” _The author’s trenchant wit was very evident in thencritique she wrote of the much-acclaimed film._  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
 __trepidation__ _n_ :two: A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
 __trestle__ _n_ :two::hammer: _Railway trestles._  
@@ -1149,6 +1165,7 @@ __wily__
 __wimpy__ _adj_  
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
+__windsock__ _n_ A tapered, open-ended sleeve pivotally attached to a standard, that indicates the direction of the wind blowing through it. _Syn_ drogue, air sock, wind cone  
 __winningest__ _adj informal_ /ˈwɪn ɪŋ ɪst/ __1__ Winning most often: _the winningest coach in college basketball._ __2__ Most winning or charming: _the winningest smile in town._  
 __winter__ _v_ _Explorers wintered in the neighborhood in 1805._  
 __winterfest__ _n_ Any of various winter festivals.  
@@ -1166,6 +1183,7 @@ __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard fam
 __womance__ _n_ A close friendship between women.  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
+__yips__ _n_ /YIPS/ Yips is a plural noun that refers to a state of nervousness that affects an athlete (such as a golfer) when they’re about to make an important move or play. It is almost always used in the phrase “the yips.” _To avoid the yips he changed his style of putting._  
 __zinch__  
 __zipline__ _n_ :two::hammer: _A zipline park._  
 __zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
