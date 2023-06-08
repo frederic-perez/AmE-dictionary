@@ -54,6 +54,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
 - [Nate Bargatze](https://www.youtube.com/results?gl=US&search_query=Nate+Bargatze)
 - [Nick Kroll](https://www.youtube.com/results?gl=US&search_query=Nick+Kroll)
+- [Norm Macdonald](https://www.youtube.com/results?gl=US&search_query=Norm+Macdonald)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Patton Oswalt](https://www.youtube.com/results?gl=US&search_query=Patton+Oswalt)
 - [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins) » [paulftompkins.com](https://paulftompkins.com) » [YouTube channel](https://www.youtube.com/channel/UCjurejnWKaS_Qpp10rz_Z6A)
