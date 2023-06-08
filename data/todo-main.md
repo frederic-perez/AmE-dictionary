@@ -580,26 +580,6 @@ __shove__ _v_
 __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
 __showbiz__ _n_  
 __sigmoidoscopy__ _n_  
-__signage__ _n_ :three::hammer: _Backlit signage._  
-__signatory__ _n_  
-__signature__ _adj_ :two::hammer: _Signature dishes._  
-__signature<sup>1</sup>__ _n_  
-__skittish__ _adj_  
-__sky diving__  
-__slug<sup>1</sup>__ _n_  
-__slug<sup>2</sup>__ _v tr_  
-__slugabed__ _n_ One inclined to stay in bed out of laziness.  
-__sluice__ _n_ _Mining sluice._  
-__slumber party__ _n_  
-__slushies__ _n_ _Boozy slushies._  
-__smack__ _adv_ _Conveniently located right smack in the middle of your vacation plans._  
-__small-claims court__ _n_  
-__small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  
-__smalltime__ _adj informal_ _Smalltime dealer._  
-__smash__ _adj_ _Our sixth smash year!_  
-__smattering__ _n_ :two: A small, scattered amount or number. _Syn_ handful _Her skin had a healthy glow, and her nose was dotted with a smattering of freckles._  
-__smell-feast__  
-__smidge__ _n_  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  

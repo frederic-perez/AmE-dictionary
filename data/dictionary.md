@@ -15252,10 +15252,11 @@ __sightsee__ _v_ :two::hammer:
 __sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
 __sign__ _n_ :mute:[si~~g~~n]  
 __sign-off__ _n_  
-__signage__ _n_ :five: /ˈsaɪ nɪdʒ/ Signs collectively. _The neon signage._ _Family upset his individual feat isn’t honored with signage._  
+__signage__ _n_ :eight: /ˈsaɪ nɪdʒ/ Signs collectively. _The neon signage._ _Family upset his individual feat isn’t honored with signage._ _Backlit signage._  
 __signal__ _n_ :mega:  
-__signature<sup>1</sup>__ _n_  
-__signature<sup>2</sup>__ _adj_ :five: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._ _That’s their signature meal._  
+__signatory__ _n_  
+__signature<sup>1</sup>__ _n_ :two::hammer:  
+__signature<sup>2</sup>__ _adj_ :seven: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _Signature dishes._ _A signature gift._ _That’s their signature meal._  
 __signcryption__ _n_ A public-key primitive that simultaneously performs the functions of both digital signature and encryption.  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
 __signet ring__ _n_ :three: a finger ring containing a small seal, one’s initial, or the like. A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
@@ -15381,6 +15382,7 @@ __skulk__ _v_ :three::hammer: _Jessica makes both friends and enemies skulking a
 __skullcap__  
 __skunk__ _n_ :two::hammer:  
 __skunworks__  
+__sky diving__  
 __sky high__  
 __skyjack__ _v_ To hijack (an aircraft).  
 __skylark<sup>1</sup>__ _n_ :es: alondra  
@@ -15526,16 +15528,16 @@ __slowdown__ _n_
 __slubber__ _v_ :two::dart: To do in a hurried or imperfect manner.  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it’s full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
-__slug<sup>1</sup>__ _n_  
-__slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
-__slugabed__ _n_ :astonished: __1__ A person who lazily stays in bed long after the usual time for arising. __2__ A self-indulgent person who spends time avoiding work or other useful activity.  
+__slug<sup>1</sup>__ _n_ :two::hammer:  
+__slug<sup>2</sup>__ _v tr_ :four::hammer: (slugs)  
+__slugabed__ _n_ :two::astonished: __1__ A person who lazily stays in bed long after the usual time for arising. One inclined to stay in bed out of laziness. __2__ A self-indulgent person who spends time avoiding work or other useful activity.  
 __sluggard__  
 __sluggish__ _adj_ :three::hammer:  
-__sluice<sup>1</sup>__ _n_ _A sluice for washing gold._  
+__sluice<sup>1</sup>__ _n_ :two::hammer: _A sluice for washing gold._ _Mining sluice._  
 __sluice<sup>2</sup>__ _v_ :six::hammer: (sluiced, sluicing)  
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
-__slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend’s home.  
+__slumber party__ _n_ :two: An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend’s home.  
 __slumber<sup>1</sup>__ _n_ :three::hammer:  
 __slumber<sup>2</sup>__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
 __slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
@@ -15544,6 +15546,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
 __slush__ _n_ :seven::hammer: _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._  
+__slushies__ _n_ _Boozy slushies._  
 __slushy__  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
@@ -15551,11 +15554,13 @@ __slyly__ _adv_ :astonished: _She smiled slyly._
 __smack-dab__  
 __smack<sup>1</sup>__ _v_ :four::hammer: _He smacked his lips._ _The bomb smacked into the destroyer._  
 __smack<sup>2</sup>__ _n_  
-__smack<sup>3</sup>__ _adv_  
+__smack<sup>3</sup>__ _adv_ :two::hammer: _Conveniently located right smack in the middle of your vacation plans._  
 __small fry__ _adj_ :two: (small-fry) Lacking importance.  
 __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small print__  
 __small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
+__small-claims court__ _n_  
+__small-time__ _adj_ _informal_ :two: (smalltime) Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._ _Smalltime dealer._  
 __smallpox__ _n_ :two::hammer: :es: viruela  
 __smarmy__ _adj_ :three: /SMAR-mee/ __1__ Excessively ingratiating or insincerely earnest. Hypocritically, complacently, or effusively earnest. _Syn_ fulsome, oleaginous, unctuous _His smarmy speech left no doubt that he actually felt superior to those he was meant to be praising._ _Online reviews of the resort warned of smarmy street vendors when wandering from the tourist areas._ __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
@@ -15569,18 +15574,19 @@ __smarter than the average bear__
 __smarty-pants__ _n_ _informal_  
 __smash hit__  
 __smash song__ _n_ _That was a smash song._  
-__smash__ _n_ __5__ _informal_ A resounding success. _The picture was a smash from coast to coast._  
+__smash<sup>1</sup>__ _adj_ _Our sixth smash year!_  
+__smash<sup>2</sup>__ _n_ __5__ _informal_ A resounding success. _The picture was a smash from coast to coast._  
 __smashing__  
 __smashmouth__  
-__smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
+__smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. A small, scattered amount or number. _Syn_ handful _Her skin had a healthy glow, and her nose was dotted with a smattering of freckles._ _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
 __smear<sup>1</sup>__ _v_ :seven: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _n_ __1__ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
-__smell-feast__ _n_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
+__smell-feast__ _n_ :two: One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
 __smelting__ _n_ :two: The process of extracting a metal from an ore by heating. _A smelting furnace._  
-__smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
+__smidgen__ _n_ _informal_ :three: (smidgeon or smidgin or smidge) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
 __smite__ _v_ :six: (smitten) To strike down, injure, or slay. _God will smite me._  
