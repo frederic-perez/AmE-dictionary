@@ -174,26 +174,6 @@ __on pins and needles__ _I’ve been waiting on pins and needles for this moment
 __on short notice__  
 __on that note__  
 __on the cards__ Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._  
-__on the contrary__ :two::hammer:  
-__on the defensive__  
-__on the fast track__ On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
-__on the fly__  
-__on the line__ _Everything was on the line._  
-__on the lookout__  
-__on the nose__  
-__on the right side of history__  
-__on the rocks__ _Your marriage is on the rocks._  
-__on the sidelines__ If you are _on the sidelines_ in a situation, you watch it happening but are not directly involved and cannot influence it. _France no longer wants to be left on the sidelines when critical decisions are taken._  
-__on the spur of the moment__  
-__on the verge of__ :two::hammer:  
-__on the whole__  
-__pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else. _The film was enjoyable, but it pales in comparison to the original._ _Bard still pales in comparison to GPT-4 when it comes to the creative stuff._  
-__part ways (with one)__  
-__pave the way__ :two::hammer:  
-__pay (for something) up front__  
-__pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
-__peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
-__pecking order__  
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __people pleaser__ (_less commonly_ people-pleaser)  
 __perfect storm__  

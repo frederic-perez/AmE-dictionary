@@ -2608,13 +2608,15 @@ __on the attack__ _He couldn’t stand being criticized any longer and went on t
 __on the back burner__ :two::hammer:  
 __on the cards__ Very likely to happen. _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
-__on the contrary__ :dart:  
-__on the defensive__ Prepared to withstand or counter aggression or attack.  
+__on the contrary__ :dart::three::hammer:  
+__on the defensive__ :two: Prepared to withstand or counter aggression or attack.  
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
 __on the face of it__ _That seems totally bizarre on the face of it._  
+__on the fast track__ On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
 __on the fence__ Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :two::hammer:  
+__on the fly__  
 __on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
 __on the go__  
 __on the grapevine__ :two::hammer: _Al must have heard something on the grapevine._  
@@ -2622,15 +2624,21 @@ __on the gravy train__ In a state, position, or job where one makes an excessive
 __on the hush-hush__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _I need to tell you some important news, but you have to keep it on the hush-hush, OK?_  
 __on the lam__ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
-__on the lookout__  
+__on the line__ _Everything was on the line._  
+__on the lookout__ :two::hammer:  
+__on the nose__  
+__on the right side of history__  
 __on the rise__  
 __on the road__ __2__ (on the road to) On the way to, following a course that will end in. _We could see Mary was on the road to recovery._  
+__on the rocks__ _Your marriage is on the rocks._  
 __on the same page__ To agree on something.  
-__on the sidelines__  
+__on the sidelines__ :two: If you are _on the sidelines_ in a situation, you watch it happening but are not directly involved and cannot influence it. _France no longer wants to be left on the sidelines when critical decisions are taken._  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
+__on the spur of the moment__  
 __on the tip of your tongue__ About to be said or almost remembered.  
 __on the upswing__ :two: Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
-__on the whole__ :two: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
+__on the verge of__ :two::hammer:  
+__on the whole__ :three: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
 __on thin ice__ :four: In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
@@ -2702,12 +2710,13 @@ __pace around__ To walk around nervously or anxiously. _He was pacing around mak
 __package deal__ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
 __paint a (some kind of) picture of (something)__ To give an elaborate or detailed description of something that portrays it in a specific way. _The board meeting painted a pretty grim picture of the company’s future._  
 __paint the town red__ Have a good time.  
+__pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else. _The film was enjoyable, but it pales in comparison to the original._ _Bard still pales in comparison to GPT-4 when it comes to the creative stuff._  
 __panic attack__  
 __paper chase__ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __pardon my French__ :two: Excuse me for swearing.  
 __park the bus__ In football (soccer), to employ all (or nearly all) of a team’s active players in defending its own side of the pitch. _Protecting a narrow one-point lead, it looks like the home team has parked the bus for the remaining minutes of the match._  
 __part company (with/from somebody/something)__  
-__part ways (with one)__ :two::hammer:  
+__part ways (with one)__ :three::hammer:  
 __party crasher__ :two: One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
 __party pooper__ :two: (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __pass along__  
@@ -2717,14 +2726,19 @@ __pass up__
 __pass with flying colors__ :two::hammer:  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
+__pave the way__ :two::hammer:  
+__pay (for something) up front__  
 __pay (one’s) last respects__ To show or express one’s respect for someone who has died, especially by attending their funeral, wake, memorial service, etc. _Anyone who wishes to pay their last respects to my husband is welcome to do so at the viewing this Saturday, from 10 AM to 4 PM._  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __pay homage (to someone or something)__ :two::hammer:  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
+__pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
+__peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
 __pearly whites__ A person’s set of teeth. _Be sure to brush your pearly whites twice a day, or you might end up getting a cavity!_  
+__pecking order__  
 __peel off__ __3__ To deviate or depart from a group’s course or direction of movement. _When he saw his parents approaching, Tom peeled off from his friends and ducked down a side alley._  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __peg it__ To leave or depart very quickly or suddenly. _You’d better peg it, or you’re going to be late for school!_ _After a really long day at the office, I pegged it out of there as soon as the clock struck 5!_  
