@@ -1,3 +1,4 @@
+__(it’s) (a)bout time__ It is almost too late!; I’ve been waiting a long time! (Said with impatience.) _So you finally got here! It’s about time!_  
 __a disaster waiting to happen__  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
 __a front-row seat__  
@@ -46,6 +47,7 @@ __close up shop__
 __closed-minded__ :dart:  
 __coast along__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
+__competitive edge__  
 __course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
 __cozy up (to someone or something)__  
 __crack down (on someone or something)__  
@@ -55,6 +57,8 @@ __crystal clear__
 __cup of joe__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
+__dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
+__dish out__  
 __down the road__  
 __driver’s seat__ _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
@@ -86,13 +90,15 @@ __first port of call__ The first place where one stops to visit, accomplish some
 __fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __follow suit__ To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
+__for Pete’s sake__  
 __GI Joe__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
-__give (something) a face-lift__ To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
+__give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __go off in a huff__ To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
 __go out with the boys__ To go and socialize somewhere with a group of exclusively male friends. _I love my girlfriend and all, but sometimes, I just need to go out with the boys!_  
+__ground-breaking__  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __hold a candle to__  
 __hold back__  
@@ -126,6 +132,7 @@ __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random tex
 __in the (grand) scheme of things__  
 __in the zone__  
 __it goes without saying__  
+__it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
@@ -140,10 +147,14 @@ __kvetch__ :dart:
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __land on (one’s) feet__  
+__last resort__ The only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  
 __line of work__  
+__lose it__  
 __make great strides__  
 __make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
+__make up (one’s) mind__  
+__make waves__  
 __mixed bag__  
 __mixed feelings__  
 __Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
@@ -160,6 +171,7 @@ __muddle along__ To attempt to proceed or continue doing something despite being
 __mull over__ To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
 __my spidey-sense is tingling__  
 __naked eye__ _With the naked eye._  
+__narrow the gap__  
 __on (one’s) watch__  
 __on (someone’s or something’s) dime__  
 __on a different note__  
@@ -174,6 +186,7 @@ __on pins and needles__ _I’ve been waiting on pins and needles for this moment
 __on short notice__  
 __on that note__  
 __on the cards__ Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._  
+__pecking order__ :two:::hammer: _Regardless of how good you are at your job, whether you’re a consultant, [...,] physician’s associate, or GP, qualifications still puts you in a pecking order._  
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __people pleaser__ (_less commonly_ people-pleaser)  
 __perfect storm__  
@@ -193,6 +206,7 @@ __raring to go__ Very eager, excited, or anxious to go somewhere or begin doing 
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
 __rave about (something)__ To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
 __ready, set, go__  
+__reap the benefits__ To enjoy the rewards resulting from something. _You’ll always reap the benefits of hard work—don’t ever forget that._  
 __reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
 __red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
 __red flag__  
@@ -221,6 +235,7 @@ __set the bar__
 __shake up__  
 __shape up__  
 __shine a/more/some light on something__ To examine something more closely or explain it so that it becomes clearer.  
+__shoot (oneself) in the foot__ To damage or impede one’s own plans, progress, or actions through foolish actions or words. _Companies have already shot themselves in the foot by relying on AI to execute tasks without supervision._  
 __shoot yourself on the foot__  
 __shot down__  
 __shoulder to shoulder__  
@@ -229,6 +244,8 @@ __shroom__
 __shut down__ :two::hammer:  
 __sick as a dog__  
 __sigh of relief__ A feeling or display of relief that something particularly stressful, unpleasant, or undesirable has been avoided or completed. _Everyone in class heaved a sigh of relief after that horrible midterm exam was over._  
+__sit on the fence__  
+__sit out__ To not participate or be involved in something, whether or not by one’s own volition. A noun or pronoun can be used between “sit” and “out.” _To be honest, I’m a little winded, so I think I’ll just sit this game out._  
 __sneak peek__ An early preview of something that has yet to be fully revealed or shown prominently.  
 __so much so that__  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
@@ -251,6 +268,7 @@ __squeeze in__ _Lawmakers squeezed in a key detail in the latest draft, requirin
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
+__stamp out__  
 __stand on the shoulders of giants__  
 __stand to reason__ :two: Be clear to all sensible people.  
 __stand up for__  
@@ -329,7 +347,7 @@ __topsy-turvy__ _Welcome back to another topsy-turvy day in AI._
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
-__tough love__ :two::hammer:  
+__tough love__ :three::hammer:  
 __walk on eggshells__  
 __what do I know__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
@@ -357,7 +375,7 @@ __wild__
 __wildest dreams__  
 __win (one) over__  
 __win-win__ _A win-win scenario._  
-__wind down__ :two::hammer:  
+__wind down__ :three::hammer:  
 __window of opportunity__  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wing it__ :dart::two: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
@@ -370,6 +388,7 @@ __witching hour__ _The pizzeria servers until the witching hours._
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
 __with a bang__ :two::hammer: _Chamber music with a bang!_  
 __with a passion__  
+__word on the street__ The information, or the version of that information, that is currently spreading from person to person, often in a particular setting, like school or work. _There are so many people stopping by Shelly’s office because word on the street is that she’s leaving the company._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __yada, yada(, yada)__ :two::hammer:  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
@@ -381,5 +400,6 @@ __you scratch my back, I’ll scratch yours__
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  
+__zinger__  
 __zone out__ :two::hammer:  
 __zoom out__  
