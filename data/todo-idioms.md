@@ -347,26 +347,6 @@ __topsy-turvy__ _Welcome back to another topsy-turvy day in AI._
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
-__tough love__ :three::hammer:  
-__walk on eggshells__  
-__what do I know__  
-__what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
-__what makes (one) tick__  
-__what the heck__  
-__what’s up with__  
-__when the stakes are low__ When the stakes are low, it means that there is little to lose in a given situation. This can refer to a situation in which the potential rewards or losses are minimal, or a situation in which the potential consequences of an action are not serious. It can also refer to a situation in which the outcome of a decision is not particularly important or significant.  
-__wherever you go, there you are__ _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
-__while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
-__while supplies last__ :two::hammer:  
-__while the night__ _Anyone who is anyone has whiled the night away here._  
-__whistleblower__  
-__white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
-__white knuckle something__  
-__white lie__  
-__white-collar worker__  
-__white-knuckle__  
-__whittle down__  
-__whiz up__ _Go-karts can whiz up to 45 miles per hour._  
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  

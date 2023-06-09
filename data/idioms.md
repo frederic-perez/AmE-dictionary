@@ -3495,7 +3495,7 @@ __toss and turn__ Sleep badly.
 __toss out__ _v_ _One student tossed out expletives._  
 __touch base (with someone)__ :four: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
-__tough love__ :two: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
+__tough love__ :three: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
 __tour de force__ :three::hammer:  
 __town-gown__ Relating to the two coexisting communities of a university town, i.e., the university (primarily the students) and the residents of the town where it is located, used especially in reference to tensions between the two. “Gown” is a reference to the traditional academic gown once worn by university students, now typically reserved for graduation ceremonies. _The periodic town-gown riots._  
 __trace back__  
@@ -3581,8 +3581,7 @@ __wake-up call__ :seven: __1__ An event that triggers a sense of urgency or the 
 __walk a fine line between (something)__  
 __walk away__ _Knowing when to walk away is an essential life skill._  
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
-__walk on eggs__ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
-__walk on eggshells__  
+__walk on eggs__ :four: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
 __walk on water__ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walk out the door__ To leave a place. _She walked out the door without saying goodbye._  
 __walk someone through something__ To lead someone through a complex problem or thought process. _Mary walked Jane through the complex solution to the calculus problem. Do I have to walk you through this solution?_  
@@ -3626,26 +3625,42 @@ __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems 
 __whale on (someone or something)__  
 __what a drag__  
 __what are the odds__  
+__what do I know__  
 __what do you know__ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
 __what if scenario__  
-__what makes (one) tick__ _We’ve never captured one of them, and consequently don’t know what makes them tick._  
+__what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
+__what makes (one) tick__ :two::hammer: _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __what on earth__  
+__what the heck__  
 __what-if__ _n informal_ A hypothetical question; speculation: _one of the great what-ifs of modern history._ _Evaluate various what-if scenarios._  
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the deal?__  
+__what’s up with__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when in Rome (do as the Romans do)__ _proverb_ One should do what is customary or typical in a particular place or setting, especially when one is a tourist. _I don’t love cotton candy, but we are at a carnival. When in Rome, right?_  
 __when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
 __when pigs fly__ :three: Never, impossible.  
 __when the chips are down__ :three: When a situation has become especially difficult, desperate, or hard to recover from. The expression alludes to having a low amount of poker chips, which means that one may soon lose. _You can tell a lot about a person’s character from how they act when the chips are down._  
+__when the stakes are low__ When the stakes are low, it means that there is little to lose in a given situation. This can refer to a situation in which the potential rewards or losses are minimal, or a situation in which the potential consequences of an action are not serious. It can also refer to a situation in which the outcome of a decision is not particularly important or significant.  
 __where the sun doesn’t shine__  
+__wherever you go, there you are__ _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
+__while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
+__while supplies last__ :two::hammer:  
+__while the night__ _Anyone who is anyone has whiled the night away here._  
 __whip by__ (whipping by) _The summer is whipping by._  
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
+__whistleblower__  
+__white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
 __white elephant__ :two::hammer:  
-__white lie__ Lie to protect another person’s feelings.  
+__white knuckle something__  
+__white lie__ :two: Lie to protect another person’s feelings.  
 __white on rice__ As close as can be. Often used in the phrase “like white on rice.”  
+__white-collar worker__  
+__white-knuckle__  
 __whitewash__  
+__whittle down__  
+__whiz up__ _Go-karts can whiz up to 45 miles per hour._  
 __who cares__ (who cares?; what do I, you, etc. care?) A phrase used to dismiss something as insignificant. _Oh, who cares, it’s not a big deal anyway._  
 __wild goose chase__ :two: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
