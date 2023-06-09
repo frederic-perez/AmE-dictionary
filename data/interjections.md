@@ -1,7 +1,8 @@
 __aah__ Used to express pleasure, satisfaction, surprise, or great joy.  
 __aha__ Used to express surprise, pleasure, or triumph.  
+__ahem__ :dart: Used to attract attention or to express doubt or warning.  
 __ahoy__ Used to hail a ship or to attract attention.  
-__alas__  
+__alas__ :two::hammer:  
 __aw__ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  

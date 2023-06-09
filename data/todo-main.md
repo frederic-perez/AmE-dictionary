@@ -1,5 +1,8 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
+__allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
+__ammonia__ _n_ :es: amoníaco  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
+__ant hill__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
@@ -24,9 +27,11 @@ __brain death__ _n_ _We’re witnessing the brain death of Twitter._
 __brain fog__ _n_  
 __brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
 __breadwinner__ _n_ :pencil2:  
+__breastwork__ _n_  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
+__coddle__ _v_ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
 __concatenate__ _v_ /kahn-KAT-uh-nayt/  
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
@@ -54,6 +59,7 @@ __encyclical<sup>2</sup>__ _adj_ For wide circulation.
 __Energizer Bunny__  
 __engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
+__enthuse__ _v_  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
@@ -73,12 +79,14 @@ __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __fictive__ _adj_  
 __finicky__ _adj_  
+__firefly__ _n_ :es: luciérnaga  
 __flattop__ _n_ A large warship that carries planes and has a long flat deck for take-offs and landings. _Syn_ aircraft carrier  
 __flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __florescence__ _n_ /flor-ESS-unss/ Florescence refers to a state or period of being in bloom or of flourishing.  
 __foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
 __foil__ _v tr_  
+__foo fighter__ _n_ :dart: Any of various unidentified flying objects, as reported by Allied pilots during World War II.  
 __foolhardy__ _adj_  
 __forthright__ _adj_  
 __fortitude__ _n_ /FOR-tuh-tood/  
@@ -97,6 +105,7 @@ __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly de
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __grunt__ _n_ __1__ A deep guttural sound.  
+__guardrail__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hardy__ _adj_  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
@@ -125,9 +134,11 @@ __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and 
 __juvenilize__  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
+__laconic__  
 __laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
 __landfill__ _n_  
 __leaner__ _adj_ _AI might make tech companies leaner._  
+__legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.  
 __level up__  
 __liaison__ _n_ :pencil2:  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
@@ -164,6 +175,7 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
 __nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.  
+__neural tube__ _n_  
 __nitpick__ _v_  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
@@ -187,7 +199,7 @@ __officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tend
 __offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
-__oftentimes__ _adv_ :two: Frequently; repeatedly.  
+__oftentimes__ _adv_ :three: Frequently; repeatedly.  
 __okapi__ _n_  
 __Oktoberfest__ _n_  
 __olio__  
@@ -196,6 +208,9 @@ __omelet__ _n_ :mega: (omelette)
 __omnibus__ _n_  
 __on-site__ _adj_ :two::hammer:  
 __one-of-a-kind__ _adj_ :two: Unique.  
+__one-stop__ _adj_ Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
+__outright<sup>1</sup>__ _adv_  
+__outright<sup>2</sup>__ _adj_  
 __outshine__ _v_  
 __outsmart__  
 __outsourcing__  
@@ -205,6 +220,7 @@ __package__ _n_ :mega:
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __paddlewheel__  
 __paganism__ _n_  
+__palliative care__ _n_  
 __parcel__ _v tr_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
@@ -388,6 +404,7 @@ __refectory__ _n_ :two::hammer:
 __referral__ _n_ :two::hammer: _Free referral service for apartments and homes._ _Spouse referral._  
 __refreshment__ _n_  
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
+__refurbish__ _v_  
 __reminiscent__  
 __remiss__ _adj_  
 __remix__ _n, v_ :mega:  
@@ -579,7 +596,9 @@ __shoulder__ _v_
 __shove__ _v_  
 __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
 __showbiz__ _n_  
+__sidestep__ _v_  
 __sigmoidoscopy__ _n_  
+__slink__ _v_  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
@@ -678,6 +697,7 @@ __stave__ _n_
 __staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
 __staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
 __steadfast__ _adj_ :two::hammer:  
+__steady__ _adj_  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
 __steam room__ _n_  
@@ -1032,6 +1052,7 @@ __untapped__ _adj_ /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cas
 __untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unwavering__ _adj_  
 __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
+__unwittingly__ _adv_ Without knowledge or intention. _He unwittingly deleted the references._  
 __upheaval__ _n_  
 __use__ _v_ _informal_  
 __username__ _n_ ;pencil2:  
@@ -1161,6 +1182,7 @@ __witty__ _adj_ _A witty cast of characters that serve and entertain._
 __wizen__ _v_  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __womance__ _n_ A close friendship between women.  
+__wonderland__ _n_  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __yips__ _n_ /YIPS/ Yips is a plural noun that refers to a state of nervousness that affects an athlete (such as a golfer) when they’re about to make an important move or play. It is almost always used in the phrase “the yips.” _To avoid the yips he changed his style of putting._  
