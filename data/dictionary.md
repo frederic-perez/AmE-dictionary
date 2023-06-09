@@ -11561,17 +11561,18 @@ __offshore__
 __oft__ _adv_ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
 __often__ _adv_ :mute:[of~~t~~en]  
-__oftentimes__ _adv_ :two::hammer:  
+__oftentimes__ _adv_ :five: Frequently; repeatedly.  
 __ogle__ _v_ :three::hammer: (ogled)  
 __Ohioans__  
 __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
 __oilcloth__  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
-__okapi__ _n_  
+__okapi__ _n_ :two::hammer:  
 __okay<sup>1</sup>__ _adj, adv, v tr_ /ˈoʊˈkeɪ, ˌoʊˈkeɪ, ˈoʊˌkeɪ/  
 __okay<sup>2</sup>__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 __okra gumbo__  
 __okra__ _n_ :two::hammer:  
+__Oktoberfest__ _n_  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the “Dominion of Virginia.”  
 __Old Glory__ _n_ The flag of the United States.  
 __old hat__  
@@ -11589,9 +11590,11 @@ __oligarch__ _n_ :three: One of the rulers in an oligarchy.
 __oligo-__ _prefix_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
+__olio__  
+__ollie__ _n_  
 __Omaha__ _n_ :mega:  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
-__omelets__  
+__omelet__ _n_ :two::hammer::mega: (omelette)  
 __omen__ _n_ :six::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
@@ -11600,7 +11603,7 @@ __omission__
 __omnibox__ _n_ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as “how many cups are in 2 liters?”_  
 __omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
 __omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
-__omnibus<sup>2</sup>__ _n_ :two::hammer:  
+__omnibus<sup>2</sup>__ _n_ :three::hammer:  
 __omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __omnipresent__ _adj_  
 __omniscient__ _adj_ :two: Having complete or unlimited knowledge, awareness, or understanding; perceiving all things. Having total knowledge; knowing everything: _an omniscient deity; the omniscient narrator._  
@@ -11617,6 +11620,7 @@ __on the hoof__
 __on the run__  
 __on the verge__  
 __on three__ _phr_ _On three: One, two, three!_  
+__on-site__ _adj_ :two::hammer:  
 __on<sup>1</sup>__ _prep_ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn’t care._ _It’s on the Internet._ _A military base on the island of Okinawa._ _The plans are described on its website._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _The shooting happened late on a Saturday night._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _Others would get on line for loans._  
 __on<sup>2</sup>__ _adv_  
 __on<sup>3</sup>__ _adj_  
@@ -11632,9 +11636,10 @@ __oncoming__ _adj_ _The oncoming winter’s patterns._
 __one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
 __one-liner__ _n_ :dart: A quick joke or quip; a funny observation.  
 __one-note__  
+__one-of-a-kind__ _adj_ :two: Unique.  
 __one-off<sup>1</sup>__ _adj_ :four: _British informal_ Done, made, or happening only once. _A one-off benefit show._ _One-off handcrafted pieces._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
-__one-stop__ _adj_ Having or providing a range of related services or goods in one place: _a one-stop shop._  
+__one-stop__ _adj_ :two: Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
 __onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
@@ -11816,16 +11821,18 @@ __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper;
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outriggers__  
-__outright__ _adj, adv_  
+__outright<sup>1</sup>__ _adv_ :two::hammer:  
+__outright<sup>2</sup>__ _adj_ :two::hammer:  
 __outrun__ _v_  
 __outset__ _n_ :seven::hammer: _The outset of his campaign._ _Designed at the outset._  
-__outshine__ _v_ :two: To be much better than someone or something else.  
+__outshine__ _v_ :three: To be much better than someone or something else.  
 __outshit__ _v_  
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
 __outsize<sup>1</sup>__ _adj_ :two::hammer: _An outsize risk._  
 __outsize<sup>2</sup>__ _n_  
-__outsmart__ _v_ :two::hammer:  
+__outsmart__ _v_ :three::hammer:  
 __outsole__ _n_ The outer sole of a shoe or boot.  
+__outsourcing__  
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::m::pencil2: Frank in stating one’s opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstanding__ _adj_  
@@ -11833,6 +11840,7 @@ __outstripped__ _v_
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form “out of.” _Straight outta Tahoe._  
 __outtakes__ _n_  
 __outthink__ _v_  
+__outwear__ _n_  
 __outwit__ _v_ (outwitted)  
 __outwork__ _v_  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
@@ -11842,7 +11850,7 @@ __over-ear headphones__
 __over-the-hill__ _adj_ :two: __1__ Past one’s prime. _I’m over-the-hill for Passion._ __2__ Advanced in age.  
 __over-under__  
 __overachieve__  
-__overall__ _adj, adv_  
+__overall__ _adj, adv_ :two::hammer:  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overarching__ _adj_ :seven::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
@@ -11922,13 +11930,15 @@ __pacify__ _v_ :mega: /PASS-uh-fye/ The verb pacify has several related definiti
 __pack ice__ _n_ Floating ice that has been driven together into a single mass.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package peanuts__  
-__package__ _n_ :mega: /păk′ĭj/  
+__package__ _n_ :two::hammer::mega: /păk′ĭj/  
 __packtrain__ _n_ :two: A string of animals for transporting supplies and equipment.  
+__Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __padded__ _adj_ _He leaned back in his padded chair._  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
 __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._  
 __paddleboat__ _n_ Small recreational boat powered by pedals that turn a paddle wheel.  
+__paddlewheel__  
 __paddock__ _n_  
 __padlock__  
 __paean<sup>1</sup>__ _n_ :nine: /PEE-uhn/ (paeans) [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  

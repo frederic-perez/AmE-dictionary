@@ -199,26 +199,6 @@ __officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tend
 __offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
-__oftentimes__ _adv_ :three: Frequently; repeatedly.  
-__okapi__ _n_  
-__Oktoberfest__ _n_  
-__olio__  
-__ollie__ _n_  
-__omelet__ _n_ :mega: (omelette)  
-__omnibus__ _n_  
-__on-site__ _adj_ :two::hammer:  
-__one-of-a-kind__ _adj_ :two: Unique.  
-__one-stop__ _adj_ Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
-__outright<sup>1</sup>__ _adv_  
-__outright<sup>2</sup>__ _adj_  
-__outshine__ _v_  
-__outsmart__  
-__outsourcing__  
-__outwear__ _n_  
-__overall__ _adj, adv_  
-__package__ _n_ :mega:  
-__Pacu__ _n_ :astonished: A South American fresh-water fish.  
-__paddlewheel__  
 __paganism__ _n_  
 __palliative care__ _n_  
 __parcel__ _v tr_  
