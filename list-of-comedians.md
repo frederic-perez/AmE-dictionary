@@ -76,6 +76,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan comedy.
 - [Tom Segura](https://www.youtube.com/results?gl=US&search_query=Tom+Segura)
 - [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
+- [Trevor Noah](https://www.youtube.com/results?gl=US&search_query=Trevor+Noah)
 - [Wayne Brady](https://www.youtube.com/results?gl=US&search_query=Wayne+Brady)
 - [Whitney Cummings](https://www.youtube.com/results?gl=US&search_query=Whitney+Cummings)
 - [Will Ferrell](https://www.youtube.com/results?gl=US&search_query=Will+Ferrell) is an actor, comedian, producer, writer, and businessman.
