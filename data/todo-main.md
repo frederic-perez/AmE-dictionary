@@ -599,26 +599,6 @@ __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno
 __snowglobe__ _n_  
 __snowkit__ _v_  
 __snowmobile__ _n_  
-__snowshoe__ _n_ :three::hammer: (snowshoeing)  
-__snuffbox__ _n_ :two::hammer:  
-__soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring fuel costs; the soaring spires of the cathedral._ _Soaring ceilings._  
-__sobering__ _adj_ Making you think about things in a serious way.  
-__sobriquet__ _n_ :two: (soubriquet) An affectionate or humorous nickname. _Syn_ cognomen, moniker, nickname, soubriquet  
-__social hour__ _n_  
-__socialite__  
-__sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
-__sofa bed__ _n_ :two::hammer:  
-__softball__ _n_  
-__sol__ _n_ __4__ A colloidal solution.  
-__solemnity__ _n_ A trait of dignified seriousness. _Syn_ staidness, sedateness  
-__solicitor__ _n_ /səˈlɪsɪtəʳ/  
-__soloist__ _n_  
-__sonnet__ _n_  
-__soon enough__ _adv_ :two::hammer:  
-__sophomore__ _n_ :mega:  
-__sorely__ _adv_ _Sorely needed._  
-__sorrowful__  
-__sorta__ _adv_ Contraction of sort of. Sort of; rather: _I’m sorta nervous._ _I’m sorta tired—let’s go home._  
 __sought-after__  
 __soul food__ _n_  
 __soul-searching__ _n_ Examination of one’s conscience especially with regard to motives and values.  

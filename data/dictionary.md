@@ -15704,12 +15704,14 @@ __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._
 __snowpack<sup>2</sup>__ _n_ :three: A seasonal accumulation of slow-melting packed snow.  
 __snowplows__ _n_  
 __snowshed__ _n_ :two::hammer:  
-__snowshoe__ _v_ :two::hammer: (snowshoeing)  
+__snowshoe<sup>1</sup>__ _n_ :three::hammer: (snowshoeing)  
+__snowshoe<sup>2</sup>__ _v_ :two::hammer: (snowshoeing)  
 __snub-nosed__ _adj_ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
 __snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
+__snuffbox__ _n_ :two::hammer:  
 __snug__ _v_ :three::hammer:  
 __snuggery__ _n_ /ˈsnʌɡərɪ/ _Chiefly British_ __1__ A snug place or position. __2__ A comfortable or cozy room. _Syn_ cubby, cubbyhole  
 __snuggle<sup>1</sup>__ _v_  
@@ -15725,25 +15727,31 @@ __soap-spuds__ _n_
 __soapbox<sup>1</sup>__ _n_ :three::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soar__ _v_  
-__sobering__ _adj_ :five: Tending to make sober or more serious: _the news had a sobering effect._  
+__soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring fuel costs; the soaring spires of the cathedral._ _Soaring ceilings._  
+__sobering__ _adj_ :six: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
-__sobriquet__ _n_ :four: A nickname.  
+__sobriquet__ _n_ :six: (soubriquet) An affectionate or humorous nickname. _Syn_ cognomen, moniker, nickname, soubriquet  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
 __soccage__  
 __social contract__ _n_ An implicit agreement among people that results in the organization of society; individual surrenders liberty in return for protection.  
+__social hour__ _n_  
 __social ladder__  
+__socialite__  
 __societal__  
 __sociopath__ _n_ :two: A psychopath or a person with antisocial personality disorder.  
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
+__sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __sodding__ _adj_  
 __sodium amytal__  
+__sofa bed__ _n_ :two::hammer:  
 __soffit__  
 __soft serve__ _n_ :camera: Any of several soft, creamy frozen desserts, such as ice cream and frozen yogurt, dispensed from a machine at the point of sale.  
 __soft skills__ _n_  
 __soft-pedal__ _v_ _informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
 __soft-spoken__ _adj_ :three::hammer:  
+__softball__ _n_  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
@@ -15754,6 +15762,7 @@ __soiled__
 __soiree__ _n_ An evening party or reception.  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
+__sol__ _n_ __4__ A colloidal solution.  
 __solace__ _n_ :seven::mega: /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
@@ -15764,8 +15773,10 @@ __sole<sup>2</sup>__ _v_
 __sole<sup>3</sup>__ _adj_ _Its sole responsibility._  
 __solely__ _adv_ :two::hammer:  
 __solemn__ _adj_ :mute:[solem~~n~~]  
+__solemnity__ _n_ A trait of dignified seriousness. _Syn_ staidness, sedateness  
 __solemnize__ _v_  
 __solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanbase._  
+__solicitor__ _n_ /səˈlɪsɪtəʳ/  
 __solicitous__ _adj_ :two::hammer:  
 __solicitude__ _n_ A feeling of excessive concern.  
 __solid gold__  
@@ -15774,7 +15785,7 @@ __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient tha
 __soliloquy__ _n_ :two::hammer:  
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
-__soloist__ _n_ :three::hammer:  
+__soloist__ _n_ :four::hammer:  
 __solvent__ _n_  
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
 __somber__ _adj_ /ˈsɒm bər/  
@@ -15784,16 +15795,18 @@ __somnambulant__ _adj_
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __somnolent__ _adj_ :two: Drowsy; sleepy. _Syn_ slumbery, slumberous _The monotonous sound of his voice had a somnolent effect, and I found myself nodding off during the speech._  
 __son of a biscuit__  
+__sonnet__ _n_  
 __sonny__  
 __sonogram__  
 __Sonora cacti__ _n_ :camera:  
+__soon enough__ _adv_ :two::hammer:  
 __sooner > sooner rather than later__  
 __soot__ _n_ :three::hammer:  
 __soothe__ _v_ (soothing)  
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
 __sophistry__ _n_ __1__ A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. __2__ A false argument; sophism. _The argument was utter sophistry._  
-__sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
+__sophomore__ _n_ :four::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __soporific<sup>1</sup>__ _adj_ :two: /sah-puh-RIFF-ik/ [:scroll: From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep).] __1__ Inducing sleep. _Syn_ somniferous __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
 __soporific<sup>2</sup>__ _n_ Something that induces sleep.  
@@ -15802,15 +15815,16 @@ __soppy__
 __sorbet__ _n_ :two::mega::hammer:  
 __sordid__ _adj_  
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
-__sorely__ _adv_ :three::hammer:  
+__sorely__ _adv_ :four::hammer: _Sorely needed._  
 __sorghum__  
 __sorority__ _n_ :four: /səˈrɒrɪtɪ/ [:scroll: C16: from Medieval Latin _sorōritās_, from Latin _soror_ sister] (Education) _chiefly US_ A social club or society for university women. _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrow__ _v_ (sorrowed)  
-__sorrowful__ _adj_ Very sad.  
+__sorrowful__ _adj_ :two: Very sad.  
 __sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter’s_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
+__sorta__ _adv_ Contraction of sort of. Sort of; rather: _I’m sorta nervous._ _I’m sorta tired—let’s go home._  
 __sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of Earthmen, that they were welcome to live._  
 __sot__ _n_ :two::hammer: _A surly sot._  
 __sotto voce__  
