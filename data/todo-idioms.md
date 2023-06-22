@@ -3,6 +3,7 @@ __a disaster waiting to happen__
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
 __a front-row seat__  
 __a life of its own__ The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
+__a rough patch__ A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
 __a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
 __a wild goose never laid a tame egg__ _proverb_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before. _We must never presume that humanity will be without violence; after all, a wild goose never laid a tame egg._  
@@ -41,7 +42,10 @@ __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bows
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __be on the fence (about something)__  
 __bigheaded__  
+__bling__  
+__butch__ (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
 __carve out__  
+__cisgender__  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  
@@ -59,6 +63,8 @@ __cut it out__ To stop doing something. Often used as an imperative. _Come on, m
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __dish out__  
+__diss__  
+__double entendre__  
 __down the road__  
 __driver’s seat__ _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
@@ -82,6 +88,7 @@ __far and wide__ All over; everywhere.
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __fear of missing out__  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
+__femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
 __fiddle with (something)__ To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer. _We finished shooting last week, but it will likely be another several months before we’re ready with the final cut._  
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
@@ -91,6 +98,7 @@ __fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out th
 __follow suit__ To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __for Pete’s sake__  
+__fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __GI Joe__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
@@ -98,6 +106,10 @@ __give (something) a face-lift__ :two: To refurbish or improve the appearance of
 __go off in a huff__ To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
 __go out with the boys__ To go and socialize somewhere with a group of exclusively male friends. _I love my girlfriend and all, but sometimes, I just need to go out with the boys!_  
+__go soft on (someone)__ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
+__go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination. _You used to be the toughest sheriff this town has ever had, but you’ve gone soft in your old age._  
+__go stir-crazy__ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison. _The doctor said I need to remain in bed as much as possible, but I’ll go stir-crazy if I can’t get out of the house at least once a day!_  
+__go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
 __ground-breaking__  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __hold a candle to__  
@@ -136,6 +148,7 @@ __it remains to be seen__ Something is not yet clear, certain, or known. _It rem
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
+__keep it real__  
 __kick in__  
 __kindred spirit__  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
@@ -269,6 +282,7 @@ __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
 __stamp out__  
+__stan__ A blend of _stalker_ and _fan_, the term stan describes an “overly enthusiastic fan, especially of a celebrity.” This term is linked to Eminem’s 2000 song “Stan.”  
 __stand on the shoulders of giants__  
 __stand to reason__ :two: Be clear to all sensible people.  
 __stand up for__  
@@ -347,6 +361,7 @@ __topsy-turvy__ _Welcome back to another topsy-turvy day in AI._
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
+__whitewash__  
 __whodunit__ :dart: A detective story or mystery story.  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
