@@ -15925,11 +15925,11 @@ __spew<sup>2</sup>__ _v intr_ __1__ To flow or gush forth: _Water was spewing fr
 __spic__ _n_ _offensive_ Used as an insulting and contemptuous term for a Spanish-American person. _Behind our backs they called us the Spic and the Mik._  
 __Spider-Man__  
 __spiel__ _n_ :three: /SPEEL/ A spiel is a fast speech—often one that has been rehearsed or given before—that is usually intended to get someone to buy something or to agree to something. _Syn_ patter, speech, pitch, recital, harangue, sales talk, sales patter _We let the salesman give us his opening spiel, but when he got to the high-pressure sales tactics, we cut him short and made it clear that we were not interested._  
-__spiffy<sup>1</sup>__ _adj_ :three::hammer:  
+__spiffy<sup>1</sup>__ _adj_ :six::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __spiffy<sup>2</sup>__ _v_ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You’ve seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
-__spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
+__spike<sup>2</sup>__ _v_ :nine::m: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spiked__ _adj_ _Spiked tire._  
 __spill over__  
 __spill the beans__  
@@ -15940,12 +15940,13 @@ __spin bike__ _n_ :camera:
 __spin<sup>1</sup>__ _n_ _But don’t believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
 __spinal tap__  
-__spindle__ _n_ :three::hammer:  
+__spindle__ _n_ :four::hammer:  
 __spindly__  
+__spindrift__ _n_ Spray of water, snow, sand, etc., blown by the wind.  
 __spinel__ _n_ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin “spina.” Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet__ _n_ :camera:  
 __spinnaker__ _n_  
-__spinner__ _n_ _A pastoral letter declared that spinners could be excommunicated for wasting their wool._  
+__spinner__ _n_ :two::hammer: _A pastoral letter declared that spinners could be excommunicated for wasting their wool._  
 __spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
 __spinning__ _n_ (Textiles)  
 __spinouts__  
@@ -15953,7 +15954,7 @@ __spinster__ _n_ :two::hammer:
 __spiny lobster__ _n_ :camera:  
 __spiral binder__  
 __spiral<sup>1</sup>__ _n_  
-__spiral<sup>2</sup>__ _v_  
+__spiral<sup>2</sup>__ _v_ :three::hammer: _It spirals out of control._  
 __spiraling__  
 __spire__ _n_ :seven: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spirit stove__ _n_ A stove that burns a volatile liquid fuel such as alcohol. _We had a small spirit stove._  
@@ -16176,37 +16177,46 @@ __standardized__ _adj_ _Standardized math test._
 __standby<sup>1</sup>__ _n_ _The old standby._  
 __standby<sup>2</sup>__ _adj_  
 __standby<sup>3</sup>__ _adv_  
+__standee__ _n_ A person who stands, as in a public conveyance, usu. because all seats are occupied.  
 __standings__ _n_ :four: (Sports) A listing of individual competitors or of teams in a league according to their record of performance. _31 points in the overall standings._ _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
 __standoff__ _n_ :four::hammer:  
 __standout<sup>1</sup>__ _adj informal_ :seven: Exceptionally good. _He became a standout quarterback in the NFL._  
-__standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
-__standpoint__ _n_ :two::hammer: _From a contractual standpoint._  
-__standstill__ _n_ :three::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
-__stanza__  
+__standout<sup>2</sup>__ _n_ :four: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
+__standpoint__ _n_ :three::hammer: _From a contractual standpoint._ _From a technical standpoint._  
+__standstill__ _n_ :four::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
+__stanza__ _n_ :two: __1__ A fixed number of verse lines arranged in a definite metrical pattern, forming a unit of a poem. __2__ A period (such as a half or an inning) into which the duration of a game is divided.  
 __staph__ _n_ _informal_ Staphylococcus. _Staph infections._  
 __staple__ _n_ :three::hammer: (staples) _There are staples we’ve come to expect in the American frontier novel._  
 __star 69__ _v_ _slang_ In most areas of the United States, phone companies offer \*69 service. If you miss a call, or receive one from an unknown caller, dialing \*69 on your phone will identify the last caller’s number (if possible) and give you the option to call them back. _He thought he could just hang up on me and I wouldn’t know who he was, but I star 69ed his ass._ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__star anise__ _n_ :es: anís estrellado  
 __star__ _v_  
 __star-crossed__ _adj_ Thwarted or opposed by the stars; ill-fated: _star-crossed lovers._  
+__star-spangled__ _adj_ :dart: __1__ Spangled with stars. __2__ _informal_ Made up of or attended by celebrities, distinguished or illustrious persons, etc. _Like a rhinestone cowboy, rding out on a horse in a star-spangled rodeo._ _A star-spangled reception._  
+__star-studded__ _adj_ __2__ Exhibiting or characterized by the presence of many preeminent performers: _a star-studded Hollywood party._  
 __starboard__ _n_  
 __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
 __starchitect__  
-__stardom__ _n_ :two::hammer:  
+__starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
+__stardom__ _n_ :three::hammer:  
 __stardust__ _n_ :four::dart: __1__ A feeling or impression of romance, magic, or ethereality. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
+__stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
 __starfish__  
+__stargaze__ _v_  
 __stargazer__ _n_  
 __stargazing__  
 __stark__ _adj_ :seven: __1__ Clearly distinguished or delineated: _a stark contrast._ _A stark reminder._  
 __starlings__ _n_  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startling__ _adj_ :five: Causing surprise or fear; striking; astonishing.  
+__stash__ _v_  
 __Stasi__  
 __stasis__ _n_ :three: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
 __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
 __statecraft__ _n_ The art of conducting public affairs. _Syn_ statesmanship, diplomacy _Only through superior statecraft was he able to avoid a war while simultaneously achieving favorable trade conditions._  
+__stately home__ _n_ _BrE_ A large mansion, esp one open to the public.  
 __stately__ _adj_ :four: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __Staten Islander__ _n_  

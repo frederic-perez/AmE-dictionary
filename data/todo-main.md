@@ -625,26 +625,6 @@ __spelunking__ _n_
 __spent volcano__  
 __sphinx__ _n_  
 __spiffed__ _v_  
-__spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
-__spike__ _v_  
-__spindle__ _n_  
-__spindrift__ _n_ Spray of water, snow, sand, etc., blown by the wind.  
-__spinner__ _n_  
-__spiral__ _v_ :two::hammer: _It spirals out of control._  
-__standee__  
-__standout__ _n_  
-__standpoint__ _n_ _From a technical standpoint._  
-__standstill__ _n_  
-__stanza__ _n_ __1__ A fixed number of verse lines arranged in a definite metrical pattern, forming a unit of a poem. __2__ A period (such as a half or an inning) into which the duration of a game is divided.  
-__star anise__ _n_ :es: anís estrellado  
-__star-spangled__ _adj_ :dart: __1__ Spangled with stars. __2__ _informal_ Made up of or attended by celebrities, distinguished or illustrious persons, etc. _Like a rhinestone cowboy, rding out on a horse in a star-spangled rodeo._ _A star-spangled reception._  
-__star-studded__ _adj_ __2__ Exhibiting or characterized by the presence of many preeminent performers: _a star-studded Hollywood party._  
-__starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
-__stardom__ _n_  
-__stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
-__stargaze__ _v_  
-__stash__ _v_  
-__stately home__ _n_ _BrE_ A large mansion, esp one open to the public.  
 __stately__ _adj_ _A stately afternoon tea._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
