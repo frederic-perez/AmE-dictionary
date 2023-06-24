@@ -1,14 +1,17 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
+__advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of.  
 __allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
 __ammonia__ _n_ :es: amoníaco  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
 __ant hill__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
+__assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
 __backhanded__ _adj_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
 __bargain__ _n_  
+__barranca__ _n_ (barranco)  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.  
@@ -36,6 +39,7 @@ __concatenate__ _v_ /kahn-KAT-uh-nayt/
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
+__cowpuncher__ _n_ A cowboy or a cowgirl.  
 __craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
 __crapulous__ _adj_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
@@ -115,20 +119,26 @@ __hector__ _v_ _TikTok keeps hectoring us._
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
+__high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __impending__  
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
+__indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
+__indomitable__ _adj_ /in-DAH-muh-tuh-bul/ Indomitable is a formal word used to describe something that is impossible to defeat or discourage.  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
 __infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
 __insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __integer__ _n_ :mega:  
+__interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
 __interpolate__ _v_ /in-TER-puh-layt/  
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
+__jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __juvenilize__  
@@ -161,6 +171,8 @@ __meddlesome__ _adj_
 __meet-cute__ _n_ /MEET-kyoot/  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
+__mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
+__microcosm__ _n_ /MY-kruh-kah-zum/  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
 __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
@@ -172,6 +184,7 @@ __money__ _n_ :mega: /ˈmʌnɪ/
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
 __nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.  
@@ -215,7 +228,7 @@ __peck__ _v_ _I feel like I’m pecked to death by ducks._
 __peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __perch__ _v_  
 __percolation__ _n_  
-__perennial__ _adj_ :two::hammer: _A perennial favorite._  
+__perennial__ _adj_ :three::hammer: /puh-REN-ee-ul/ _A perennial favorite._  
 __perf__ _n_ __1__ Perfect. __2__ Perforated. __3__ Performance.  
 __perfect__ _v_  
 __perfidious__ _adj_  
@@ -254,6 +267,7 @@ __pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._
 __pool<sup>2</sup>__ _v_  
 __pore__ _v intr_  
 __pork pie__ _n_  
+__port__ _n_ [See also _starboard_]  
 __portend__ _v tr_ :two::hammer: /por-TEND/  
 __porter__ _n_  
 __possum__ _n_  
@@ -280,6 +294,7 @@ __promo__
 __prompt<sup>1</sup>__ _adj_ _Prompt, safe, and reliable._  
 __prompt<sup>2</sup>__ _v tr_  
 __prompt<sup>3</sup>__ _n_  
+__promulgate__ _v_ To make known (a decree, for example) by public declaration; announce officially. _Syn_ exclaim, proclaim  
 __proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __propinquity__ _n_ The property of being close together. _Syn_ proximity _She loved Emma Jane, but it was a friendship born of propinquity and circumstance, not of true affinity._  
@@ -320,6 +335,7 @@ __rail car__
 __rail__ _v intr_ To express objections or criticisms in bitter, harsh, or abusive language. _Syn_ scold  
 __raillery__ _n_  
 __rambler__ _n_  
+__ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
 __rampart__ _n_ :two::hammer:  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
@@ -361,6 +377,7 @@ __recipe__ _n_ :m: _Recipe to success._
 __recitation__ _n_  
 __reckoning__ _n_  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
+__reconcile__ _v_ /REK-un-syle/  
 __reconvene__ _v_ To gather, call together, or summon again, esp for a formal meeting.  
 __recount__ _v_  
 __recoup__ _v_  
@@ -396,6 +413,7 @@ __repercussion__ _n_
 __repertoire__ _n_  
 __reprehensible__ _adj_ /rep-rih-HEN-suh-bul/ Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism.  
 __reprimand__ _v tr_  
+__reprobate__ _n_ A morally unprincipled person. _Syn_ miscreant  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
 __resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
@@ -419,6 +437,7 @@ __riff__ _v_
 __right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
+__ropy__ _adj_  
 __sacristy__ _n_  
 __sacrosanct__ _adj_ /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
 __safeguard__ _n_  
@@ -455,6 +474,7 @@ __satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
 __Saturnalian__ _adj_ /sat-uhr-NAY-lee-uhn/ Marked by unrestrained revelry, overindulgence, licentiousness, etc.  
+__saturnine__ _adj_ /SAT-er-nyne/ Saturnine is a literary word that typically describes people who are glum and grumpy, or things that suggest or express gloom. It can also mean “slow to act or change.”  
 __saucepan__ _n_ :es: olla, cacerola  
 __saudade__  
 __sauerkraut__ _n_  
@@ -578,7 +598,12 @@ __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants h
 __showbiz__ _n_  
 __sidestep__ _v_  
 __sigmoidoscopy__ _n_  
+__skeeve<sup>1</sup>__ _n_ A disgusting person.  
+__skeeve<sup>2</sup>__ _v tr_ /skeev/ To disgust.  
 __slink__ _v_  
+__sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
+__sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
+__sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
@@ -599,11 +624,14 @@ __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno
 __snowglobe__ _n_  
 __snowkit__ _v_  
 __snowmobile__ _n_  
+__sonic boom__ _n_ The explosive sound of the shock wave produced by an aircraft traveling at or above the speed of sound.  
 __sought-after__  
 __soul food__ _n_  
 __soul-searching__ _n_ Examination of one’s conscience especially with regard to motives and values.  
 __soundness__ _n_  
 __soupcon__ _n_ A very small amount; a trace. _Syn_ mite, tinge, jot, hint, pinch, speck, touch _This dish could use a soupcon of salt._  
+__souse<sup>1</sup>__ _v tr_ /sous/ [:scroll: From Old French souser (to pickle)] __1__ To soak or steep. __2__ To pickle, cook in a marinade, etc. __3__ To make intoxicated.  
+__souse<sup>2</sup>__ _n_ __1__ Something or someone soaked. __2__ The liquid used in soaking. __3__ Food steeped in pickle; also such liquid. __4__ A drunkard. __5__ A period of heavy drinking.  
 __southerly__ _adj_  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -625,6 +653,7 @@ __spelunking__ _n_
 __spent volcano__  
 __sphinx__ _n_  
 __spiffed__ _v_  
+__starboard__ _n_ [To keep _port_ and _starboard_ straight, remember that sailors use _stars_ to point them in the _right_ direction after they have _left port_]  
 __stately__ _adj_ _A stately afternoon tea._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
@@ -699,6 +728,8 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ _The challenges strike me as fundamental._  
+__stymie<sup>1</sup>__ _v tr_ /STY-mee/ To obstruct, thwart, stump, etc.  
+__stymie<sup>2</sup>__ _n_ A hindrance.  
 __sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
 __sunblock__ _n_  
 __suncatcher__ _n_  
@@ -1090,6 +1121,7 @@ __waterbugs__ _n_
 __waterfowl__ _n_  
 __waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
 __weaponize__ _v_  
+__weather vane__ _n_ /WETH-uhr vayn/ __1__ A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. __2__ Someone or something constantly changing.  
 __wet suit__ _n_  
 __wetback__  
 __wetsuit__ _n_  
