@@ -12351,14 +12351,17 @@ __percolator__ _n_
 __percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
 __perdure__ _v_ _formal_ To last permanently; endure.  
 __peremptory<sup>1</sup>__ _adj_ :four: /puh-REMP-tuh-ree/ __1__ Expressive of urgency or command. _The soldiers were given a peremptory order to abandon the mission._ __2__ Marked by arrogant self-assurance. _The company’s president has a peremptory manner about her especially at the negotiating table._  
-__perennial<sup>1</sup>__ _adj_ :three::hammer:  
+__perennial<sup>1</sup>__ _adj_ :six::hammer: /puh-REN-ee-ul/ _A perennial favorite._  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
+__perf__ _n_ __1__ Perfect. __2__ Perforated. __3__ Performance.  
+__perfect__ _v_  
 __perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
-__perfidious__  
+__perfidious__ _adj_ :two::hammer:  
 __perfidy__ _n_ :three: Deliberate breach of faith; calculated violation of trust. _Syn_ treachery, betrayal, treason _Discovering that he had sold her confidences to the tabloids, she was outraged at his perfidy._  
 __performance__ _n_ _It denigrates your performance considerably._  
-__performative__  
-__perfunctory__ _adj_ :eight::dart: [:scroll: Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”] Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. _She gave me a little nod and a perfunctory smile._  
+__performative__ _adj, n_ :three::hammer:  
+__perfunctory__ _adj_ :nine::dart: /per-FUNK-tuh-ree/ [:scroll: Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”] Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Something that is done without energy or enthusiasm, as a duty or out of habit. _Clearly exhausted after a long day on her feet, our server gave us only a perfunctory greeting before taking our drink orders._ _She gave me a little nod and a perfunctory smile._  
+__pergola__ _n_  
 __periconceptual__ _adj_ Of, relating to, or done during the period from before conception to early pregnancy: _periconceptional folic acid supplementation._  
 __perigee__ _n_ [:scroll: from peri- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
@@ -12378,22 +12381,25 @@ __peripheral__
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
 __peristalsis__ _n_ The wavelike muscular contractions of the digestive tract or other tubular structures by which contents are forced onward toward the opening.  
 __peristaltic__ _adj_  
+__peristyle__  
 __peritonitis__ _n_  
-__periwinkle__ _n_ :two::hammer: (periwinkles)  
+__periwinkle__ _n_ :three::hammer: (periwinkles)  
 __perjury__ _n_ :three: Criminal offense of making false statements under oath. _Syn_ bearing false witness, lying under oath  
 __Perkins booth__ _n_  
 __perks__  
+__perky__ _adj_ _You should be perky until last call._  
 __permafrost__ _n_ :two::hammer:  
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
-__pernicious__ _adj_ :seven: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
+__pernicious__ _adj_ :eight: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
 __peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__ _n_ :two::hammer:  
+__perpetual__  
 __perpetuity__ _n_ /per-puh-TOO-uh-tee/ A state of continuing forever or for a very long time. _The property will be passed on from generation to generation in perpetuity._  
-__perquisite__ _n_  
+__perquisite__ _n_ :two: A payment or profit received in addition to a regular wage or salary, especially a benefit expected as one’s due. _Syn_ fringe benefit, perk  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
 __persnickety__ _adj_ :dart::two::hammer:  
@@ -12401,22 +12407,24 @@ __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s
 __personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
 __personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
 __personify__ _v_  
-__perspicacious__ _adj_ Having keen mental perception and understanding; discerning. :es: perspicaz  
+__perspicacious__ _adj_ :three: /per-spuh-KAY-shus/ Perspicacious is a formal word that means “possessing acute mental vision or discernment.” Someone who is perspicacious has a keen ability to notice and understand things that are difficult or not obvious. Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient :es: perspicaz _She was much too perspicacious to be taken in by such a spurious argument._ _She considers herself a perspicacious judge of character._  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
 __pert__ _adj_ :two::hammer:  
 __pertinacious__ _adj_  
-__pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
+__pertinent__ _adj_ :three::hammer: _The meeting was full of pertinent information._  
+__perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __pertussis__  
-__perusal__ _n_  
+__perusal__ _n_ :two::hammer:  
 __peruse__ _v_ :five::mega::hammer: (perused)  
 __Peruvian__  
-__pervasive__ _adj_ :three::hammer:  
-__pesky__  
+__pervasive__ _adj_ :four::hammer:  
+__pesky__ _adj_ :two::hammer:  
 __pessary__ _n_  
 __pester__ _v_ :three::hammer: (pestered)  
 __pestiferous__ _adj_  
 __pestilence__ _n_ :two::hammer:  
+__pet name__ _n_  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
 __peter out__  
 __petite__  

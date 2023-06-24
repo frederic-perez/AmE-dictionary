@@ -228,26 +228,6 @@ __peck__ _v_ _I feel like I’m pecked to death by ducks._
 __peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __perch__ _v_  
 __percolation__ _n_  
-__perennial__ _adj_ :three::hammer: /puh-REN-ee-ul/ _A perennial favorite._  
-__perf__ _n_ __1__ Perfect. __2__ Perforated. __3__ Performance.  
-__perfect__ _v_  
-__perfidious__ _adj_  
-__performative__ _adj, n_ :two::hammer:  
-__perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy or enthusiasm, as a duty or out of habit. _Clearly exhausted after a long day on her feet, our server gave us only a perfunctory greeting before taking our drink orders._  
-__pergola__ _n_  
-__peristyle__  
-__periwinkle__ _n_  
-__perky__ _adj_ _You should be perky until last call._  
-__pernicious__ _adj_ Causing insidious harm or ruin; ruinous; injurious; hurtful.  
-__perpetual__  
-__perquisite__ _n_ A payment or profit received in addition to a regular wage or salary, especially a benefit expected as one’s due. _Syn_ fringe benefit, perk  
-__perspicacious__ _adj_ :two: /per-spuh-KAY-shus/ Perspicacious is a formal word that means “possessing acute mental vision or discernment.” Someone who is perspicacious has a keen ability to notice and understand things that are difficult or not obvious. Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._ _She considers herself a perspicacious judge of character._  
-__pertinent__ _adj_  
-__perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
-__perusal__ _n_  
-__pervasive__  
-__pesky__ _adj_  
-__pet name__ _n_  
 __pet peeve__ _n_  
 __pet__ _v_ :two::hammer: _Petting the farm animals._  
 __peter out__  
