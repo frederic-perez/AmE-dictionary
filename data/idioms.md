@@ -1378,6 +1378,7 @@ __give (someone) a call__ _Give me a call._
 __give (someone) a piece of (one’s) mind__ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
+__give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
 __give and take__ :two::hammer: _Love don’t come easy. It’s a game of give and take._  
 __give in__ :two::hammer: _Give in to our fears._  
@@ -1421,14 +1422,14 @@ __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, th
 __go head to head__  
 __go into the weeds__ :dart: To become totally immersed in or preoccupied with the minute details or complexities (of something). _Before we go into the weeds, let’s give a brief overview for any of our listeners who aren’t familiar with the issue._  
 __go native__ :astonished: _You going native on me, Supercop?_  
-__go off in a huff__ To leave in an angry, belligerent, or vexed mood.  
+__go off in a huff__ :two: To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
 __go off the rails__  
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go one on one__  
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
-__go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner.  
-__go out with the boys__ To go and socialize somewhere with a group of exclusively male friends.  
+__go out with a bang__ :two: To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
+__go out with the boys__ :two: To go and socialize somewhere with a group of exclusively male friends. _I love my girlfriend and all, but sometimes, I just need to go out with the boys!_  
 __go out with the girls__ To go and socialize somewhere with a group of exclusively female friends.  
 __go out__ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over (one’s) head__ :two: __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
@@ -1436,15 +1437,16 @@ __go over the top__
 __go overboard__ :dart::three: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go places__ :two::hammer: _This kid is going places._  
 __go potty__ _He has to go potty._  
-__go soft on (someone)__ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
-__go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
+__go soft on (someone)__ :two: To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
+__go soft__ :two: To become overly lenient, easily manipulated, or apathetic; to lose strength or determination. _You used to be the toughest sheriff this town has ever had, but you’ve gone soft in your old age._  
 __go south__ :eight: __1__ To escape; to vanish or disappear. _Everyone in the gang went south when they learned that the police had discovered their hideout._ __2__ To fall or drop; to depreciate; to lose quality or value. (Especially related to finances or stock exchanges.) _I used to be a big player in the stock market, but all my investments have gone south lately._ __3__ To cease working or functioning; to quit, fail, or fall apart. _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
 __go steady (with someone)__ To date someone exclusively. _Don’t ask Jill out—she’s already going steady with Bobby._ _Are those two really going steady?_  
-__go stir-crazy__ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison.  
+__go stir-crazy__ :two: To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison. _The doctor said I need to remain in bed as much as possible, but I’ll go stir-crazy if I can’t get out of the house at least once a day!_  
 __go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
 __go the distance__ :dart::five: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go the extra mile__  
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
+__go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
 __go through the roof__  
 __go to bed with the chickens__ To go to bed very early.  
 __go to Canossa__ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
@@ -1528,6 +1530,7 @@ __grind (someone’s) gears__ To greatly or specifically irritate or annoy someo
 __gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
 __groom (someone) for (something)__  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
+__ground-breaking__  
 __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __guilt complex__ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilty pleasure__ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
@@ -1545,6 +1548,7 @@ __haha__ _informal_ Used as a written expression of laughter, or more generally 
 __Hail Mary__ :two: __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
 __hair-splitting__  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
+__hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __half-ass__ :dart::three: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
@@ -1758,20 +1762,24 @@ __hold (someone, something, or an animal) back (from someone or something)__ :tw
 __hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
 __hold (something) in store (for one)__  
+__hold a candle to__  
 __hold a candle__  
 __hold a grudge__ To feel angry with someone who has done something to upset you in the past.  
 __hold a/the wolf by the ear(s)__ To be in a difficult and precarious situation from which it is as dangerous to extricate oneself as it is to remain in it. _I’m afraid we’re holding a wolf by the ears regarding our current healthcare system. It would be unthinkable to completely overhaul it, but it is dangerously untenable in its current condition._  
+__hold back__  
 __hold fast to something__ _A pair of friends holding fast to their dreams._  
 __hold on to your hat__ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
 __hold on__  
 __hold one’s ground__  
 __hold one’s peace__ :two::dart: To stay quiet despite wanting to say something. _Just hold your peace if you don’t have anything constructive to add._ _“Oh!” She looked puzzled, but held her peace._  
 __hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
+__hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
 __hold the reins__ To have or be in control, especially of a group, project, or situation.  
 __hold your horses__ :two: Slow down, wait.  
 __holy crickets__ An exclamation of surprise, shock, or astonishment.  
-__holy moley__ An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
-__holy smoke__ What a surprise. _Holy smoke! Look at all of those geese!_  
+__holy moley__ :two::pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
+__holy shit__  
+__holy smoke(s)__ :two: What a surprise. _Holy smoke! Look at all of those geese!_  
 __home skillet__ __1__ _slang_ A friendly term of address. _What’s up, home skillet?_ _Hey home skillet, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my home skillet—he’ll help us out._  
 __home sweet home__ An expression of pleasure or relief upon returning to one’s home, especially after an extended period away from it. _Ah, home sweet home! After two months in India, it sure is great to be back._  
 __home, James (, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
@@ -1779,6 +1787,7 @@ __homeboy__ _n_ (homegirl) [:scroll: Originally between blacks. Also a term of a
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
 __homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ _Hey homie, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my homie—he’ll help us out._  
+__hone in__ :dart:  
 __honest injun__ An expression used to emphasize the veracity of one’s statement. Based on a colloquial spelling of “Indian” (i.e., Native American). One of many expressions often considered offensive for making reference to Native American stereotypes or tropes. Primarily heard in US. _I swear it wasn’t me who broke the lamp, honest injun!_  
 __honest mistake__  
 __honest to Pete__ Honestly; truly; genuinely. An expression used to emphasize the veracity of one’s statement, “Pete” here is a substitution of the word “God,” so as to avoid potential blasphemy.  
@@ -1787,10 +1796,13 @@ __honey-mouthed__ Smooth, soothing, and sweet in voice, especially in a persuasi
 __honorable mention__ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
 __hook, line, and sinker__ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __hooked on (someone or something)__  
+__hoover up__ _The data was collected by hoovering up content off the internet._  
+__hoover__ _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
 __hope against (all) hope__ :two: To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
 __horse and rabbit stew__ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse around__  
 __horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner.  
+__horseshit__  
 __hot desking__ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
 __hot potato__ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot tip__ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  

@@ -102,26 +102,6 @@ __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh bea
 __GI Joe__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
-__give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
-__go off in a huff__ To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
-__go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
-__go out with the boys__ To go and socialize somewhere with a group of exclusively male friends. _I love my girlfriend and all, but sometimes, I just need to go out with the boys!_  
-__go soft on (someone)__ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
-__go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination. _You used to be the toughest sheriff this town has ever had, but you’ve gone soft in your old age._  
-__go stir-crazy__ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison. _The doctor said I need to remain in bed as much as possible, but I’ll go stir-crazy if I can’t get out of the house at least once a day!_  
-__go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
-__ground-breaking__  
-__hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
-__hold a candle to__  
-__hold back__  
-__hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
-__holy moley__ :pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
-__holy shit__  
-__holy smoke(s)__  
-__hone in__ :dart:  
-__hoover up__ _The data was collected by hoovering up content off the internet._  
-__hoover__ _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
-__horseshit__  
 __hot air__ Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
 __hothead__  
