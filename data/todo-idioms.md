@@ -340,26 +340,6 @@ __set in stone__
 __set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
 __set the bar__  
 __shake something off__  
-__shake up__ :three::hammer:  
-__shine a/more/some light on something__ To examine something more closely or explain it so that it becomes clearer.  
-__shoot (oneself) in the foot__ To damage or impede one’s own plans, progress, or actions through foolish actions or words. _Companies have already shot themselves in the foot by relying on AI to execute tasks without supervision._  
-__shoot yourself on the foot__  
-__shot down__  
-__shoulder to shoulder__  
-__show up__  
-__shroom__  
-__shut down__ :two::hammer:  
-__sick and tired of (something)__  
-__sick as a dog__  
-__side hustle__  
-__sigh of relief__ A feeling or display of relief that something particularly stressful, unpleasant, or undesirable has been avoided or completed. _Everyone in class heaved a sigh of relief after that horrible midterm exam was over._  
-__sit on the fence__  
-__sit out__ To not participate or be involved in something, whether or not by one’s own volition. A noun or pronoun can be used between “sit” and “out.” _To be honest, I’m a little winded, so I think I’ll just sit this game out._  
-__smokescreen__ :pencil2:  
-__sneak peek__ An early preview of something that has yet to be fully revealed or shown prominently.  
-__so much so that__  
-__so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
-__soak__ _v_  
 __social butterfly__ Someone who enjoys frequently mingling with other people at social events.  
 __soft pedal__ _There is no soft pedaling._  
 __soon enough__ No later than needed, soon.  

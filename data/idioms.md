@@ -3066,6 +3066,7 @@ __set the table__
 __seventh heaven__ :two::astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
 __shake a leg__ :two::hammer:  
 __shake off__ Free oneself or get rid of something or someone, as in _I’ve had a hard time shaking off this cold_, or _She forged ahead, shaking off all the other runners._  
+__shake up__ :three::hammer:  
 __shaken up__ Greatly startled, shocked, or upset. _I was very shaken up after the car accident. I couldn’t even speak properly to the police for about an hour._  
 __shame on (one)__ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
 __shank’s nag__ :dart: One’s legs and feet, used for walking; travel by foot. Also “shanks’ nag.” A reference to the shank—the lower leg between the knee and the ankle—and the use of ponies or horses for travel. _My bicycle fell apart three miles away from home, so I had to use shank’s nag to go the rest of the way._  
@@ -3073,36 +3074,45 @@ __shed (some) light on (something)__ :two::hammer:
 __shed a tear__ To cry or weep, especially from grief; to grieve or mourn in general. _Everyone in the room was shedding tears by the end of the ceremony._  
 __shine (one) on__  
 __shine (someone) on__ _Don’t shine me on._  
+__shine a/more/some light on something__ To examine something more closely or explain it so that it becomes clearer.  
 __shine someone__  
 __shitshow__  
+__shoot (oneself) in the foot__ To damage or impede one’s own plans, progress, or actions through foolish actions or words. _Companies have already shot themselves in the foot by relying on AI to execute tasks without supervision._  
 __shoot for the moon__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot for the stars__  
 __shoot from the hip__ :two::hammer:  
 __shoot the breeze__ _informal_ :four: Have a casual conversation. _We’ve been shooting the breeze for well over an hour now._  
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot your mouth off__ To boast or talk too much, to tell secrets.  
-__shoot yourself in the foot__ :two: (shoot themselves in the foot) To do or say something that causes problems for you.  
+__shoot yourself in the foot__ :three: (shoot themselves in the foot) To do or say something that causes problems for you.  
 __short of (something)__ _Anything short of that._  
 __short on looks__ Homely; rather plain or unattractive; not aesthetically pleasing. _Janet’s date was a little short on looks, but she said he was very nice and a true gentleman._  
 __short shrift__ A minimal amount of time, attention, or consideration given to someone. (Typically used in the phrases “give/get short shrift.”) _Despite the urgency of the problem, the minister’s proposed solutions are getting short shrift in parliament._  
 __short-order cook__ A restaurant worker whose job is to cook food that can be prepared quickly. _She worked as a short-order cook._ :es: cocinero de comida rápida  
 __shortly after__ Soon after. _Shortly after she hung up, the phone rang again._  
+__shot down__  
 __shot in the arm__ :two::hammer:  
 __shot in the dark__ An attempt to guess something when you have no information or knowledge about it.  
 __shotgun house__ _slang_ A one-story house in which each room is in a straight alignment with the others, connected by a continuous hallway running from the front to the back of the residence. Chiefly used in the Southern United States. _When our whole family goes to stay in my grandmother’s shotgun house in New Orleans, it always feels like we’re all right on top of one another._  
+__shoulder to shoulder__  
 __show (one’s) (true) colors__ :two::hammer: _He has shown his true colors._  
 __show someone the door__ To dismiss someone from a job.  
+__show up__  
 __shrinking violet__ Someone who is very shy and not assertive. _I am not exactly a shrinking violet, but I don’t have the guts to say what you said to her._  
+__shroom__  
 __shut (one’s) mouth__  
-__shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
+__shut down__ :three::hammer: _San Antonio shut down Utah for its fourth straight road victory._  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
 __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
-__side hustle__ :four: Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
+__sick and tired of (something)__  
+__sick as a dog__  
+__side hustle__ :five: Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
 __side track__  
 __sidle up (from someone or something)__ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
 __sidle up (to someone or something)__ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
+__sigh of relief__ A feeling or display of relief that something particularly stressful, unpleasant, or undesirable has been avoided or completed. _Everyone in class heaved a sigh of relief after that horrible midterm exam was over._  
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
 __silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
@@ -3116,7 +3126,9 @@ __sit back__
 __sit for (some)/(one’s) exam__ To take an examination in a formal setting or situation. To take an exam to qualify for a license, such as a bar exam. _It was only when I sat for my final exam that I realized I had left my calculator at home._  
 __sit in for (one)__ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
 __sit on it__ An exclamation of frustration directed at another person. Popularized by the TV show _Happy Days_. _If he thinks he can call at this hour of the night, he can sit on it!_ _Sit on it, Joe—I’m not helping you with this!_  
+__sit on the fence__  
 __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
+__sit out__ To not participate or be involved in something, whether or not by one’s own volition. A noun or pronoun can be used between “sit” and “out.” _To be honest, I’m a little winded, so I think I’ll just sit this game out._  
 __sitting duck__  
 __sitting on the fence__  
 __sitting pretty__ :three: Living in comfort.  
@@ -3151,11 +3163,13 @@ __smash hit__
 __smell blood__  
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
+__smokescreen__ :pencil2:  
 __snake oil__  
 __snap out of (something)__ To suddenly recover or be freed from some negative or undesirable condition, emotion, or situation. _Alex has been really gloomy lately. I hope he snaps out of it soon, because we’ll need him to present our project to the supervisor next week._  
 __snap__ _v_ To go crazy.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
+__sneak peek__ An early preview of something that has yet to be fully revealed or shown prominently.  
 __sneeze at__  
 __snoothfest__ _Total snoozefest at Google’s event._  
 __snooty__ Haughtily condescending, dismissive, or snobbish. _I can’t believe that snooty waiter scoffed at you for ordering red wine with fish._  
@@ -3165,10 +3179,12 @@ __snow on the mountain__ Silver, grey, or white hair on one’s head, as due to 
 __snowflake__ _n_ _slang_  
 __snug as a bug__  
 __so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
-__so much so that__ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
+__so much so that__ :two: To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ :three::hammer: _So much so that working with animals has become one of his passions._  
+__so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __so-and-so__ :dart: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __soak up__  
+__soak__ _v_  
 __soaked to the bone__ Extremely or completely wet, especially through one’s clothing. _I can’t believe you pushed me into the pool! Now I have to walk home soaked to the bone!_  
 __social hour__ :two: Time spent talking and hanging out with people.  
 __something is rotten in the state of Denmark__  
