@@ -703,26 +703,6 @@ __sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time
 __sheepskin__ _n_  
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
-__shenanigans__ _n pl_ :three: /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._ _Pulling shenanigans._  
-__shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
-__shimmering__ _adj_ :es: reluciente  
-__Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
-__shivaree__ _n_ A noisy mock serenade for newlyweds. _Syn_ belling, callithump  
-__shoal__ _n_  
-__shoe leather__ _n_  
-__shoeshine__ _n_  
-__shogunate__ _n_ A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship  
-__shoot out__ _n_ :two::hammer:  
-__shootie__ _n_ /ˈʃuːtɪ/ A fashionable shoe that covers the ankle.  
-__shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
-__shoppe__ _n_ :two: Variant of shop.  
-__shoreline__ _n_  
-__short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
-__shortcoming__ _n_  
-__shortfall__ _n_  
-__shoulder__ _v_  
-__shove__ _v_  
-__show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
 __showbiz__ _n_  
 __sidestep__ _v_  
 __sigmoidoscopy__ _n_  

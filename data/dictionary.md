@@ -15065,7 +15065,7 @@ __shelling<sup>1</sup>__ _n_ :es: bombardeo
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
-__shenanigans__ _n_ :three::hammer:  
+__shenanigans__ _n pl_ :six: /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._ _Pulling shenanigans._  
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
 __sherbet punch__  
@@ -15081,7 +15081,9 @@ __shih tzu__ _n_ A toy dog breed developed in China.
 __shill__ _n_ (shills) _Government shills._  
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
 __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
+__shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
 __shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._  
+__shimmering__ _adj_ :es: reluciente  
 __shimmy__ _v_ :four: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
@@ -15098,6 +15100,7 @@ __shipshape__ _adj_ :two: Of places; characterized by order and neatness; free f
 __shipyard__ _n_ :two::hammer: :es: astillero  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
+__Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shirttail__ _n_  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
 __shirttail<sup>2</sup>__ _adj_ __1__ Very young or immature. __2__ Very small or trivial. __3__ Distantly related.  
@@ -15109,36 +15112,42 @@ __shitfaced__ _adj vulgar slang_ :three: Intoxicated; drunk. _He was shitfaced d
 __shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
 __shitshow__ _n_  
 __shiv__ _n_ :three: A knife used as a weapon.  
-__shivaree__ _n_ :two: _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
+__shivaree__ _n_ :three: _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade. _Syn_ belling, callithump  
 __shiver__ _n_  
-__shoal__ _n_ :four: (shoals) An area of shallow water.  
+__shoal__ _n_ :five: (shoals) An area of shallow water.  
 __shoat__ _n_  
 __shock jock__ _n_ :two: _informal_ A radio disc jockey who is deliberately controversial or provocative.  
 __shoddily__  
 __shoddy__ _adj_ :six::hammer:  
+__shoe leather__ _n_  
 __shoebox__ _n_  
 __shoehorn<sup>1</sup>__ _n_ A smooth curved implement, often of plastic or metal, inserted at the heel to help put on a shoe.  
 __shoehorn<sup>2</sup>__ _v_ To squeeze into or as if into an insufficient space: _Can you shoehorn four of us into the back seat of your car?_  
+__shoeshine__ _n_  
 __shoestring<sup>1</sup>__ _n_ :two: __1__ Shoelace. __2__ A small sum of money; capital that is barely adequate: _a company that started on a shoestring._  
 __shoestring<sup>2</sup>__ _adj_ :three: __1__ Long and slender: _shoestring potatoes._ __2__ Marked by or consisting of a small amount of money: _a shoestring budget._ _A shoestring budget._ _A shoestring operation._  
 __shoftlift__ _v_  
 __shogun__ _n_  
-__shogunate__ _n_ :two::hammer: _A local shogunate office._  
+__shogunate__ _n_ :three: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship _A local shogunate office._  
 __shoo__ _v_ :six::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
+__shoot out__ _n_ :two::hammer:  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
 __shootaround__ _n_ :four::hammer: (basketball)  
+__shootie__ _n_ /ˈʃuːtɪ/ A fashionable shoe that covers the ankle.  
 __shooting gallery__ _n_ :two: __1__ A place equipped with targets and used for practice in shooting. __2__ _slang_ A place where drug addicts can buy and inject themselves with narcotic drugs.  
-__shooting guard__ _n_  
+__shooting guard__ _n_ :two: _Basketball_ The player responsible for attempting long-range shots.  
 __shootout__ _n_ :two: __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
+__shoppe__ _n_ :two: Variant of shop.  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
-__shoreline__  
+__shoreline__ _n_ :two::hammer:  
 __shorn<sup>1</sup>__ _v_ A past participle of shear.  
 __shorn<sup>2</sup>__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby’s shorn curls from the floor._  
+__short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
 __short fuse__  
 __short hand__  
 __short__ _n_  
@@ -15147,9 +15156,9 @@ __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, 
 __short-lived__ _adj_ :four: Living or lasting only a short time; ephemeral.  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _v tr_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
-__shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
+__shortcoming__ _n_ :three::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
-__shortfall__ _n_ :three::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
+__shortfall__ _n_ :four::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
 __shorthand__ _n_ :two::hammer: :es: taquigrafía  
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist’s biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
@@ -15164,17 +15173,18 @@ __shotgun house__
 __shotgun__  
 __shotput__ _n_  
 __shoulder<sup>1</sup>__ _n_ :two: __8__ The edge or border running on either side of a roadway. :camera: _The shoulders of the freeway will be wider._ _Even pulling onto shoulder causes huge jams._  
-__shoulder<sup>2</sup>__ _v_ :three::hammer:  
+__shoulder<sup>2</sup>__ _v_ :four::hammer:  
 __shout out__ _n_ _Shout out to Jenny for taking our photo._  
 __shout-out > give a shout-out__  
 __shove off__ _v_  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
-__shove<sup>2</sup>__ _v_ :two: Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel _The armed guard shoved people aside to make way for the Duke._  
+__shove<sup>2</sup>__ _v_ :three: Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel _The armed guard shoved people aside to make way for the Duke._  
 __shovel__ _v_  
 __show jumping__ _n_ :es: concurso hípico  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
 __show-off__ _n_ :two::hammer:  
+__show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
 __showboat__ _v_  
 __showcase__ _v_  
 __showdown__ _n_ :nine::m: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
