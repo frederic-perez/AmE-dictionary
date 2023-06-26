@@ -379,6 +379,7 @@ __be (stuck) in a rut__ To become seemingly trapped or stuck in a mundane, non-c
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality.  
 __be a cake walk__  
 __be a different kettle of fish__ To be entirely different in scope or description from someone or something that was just being discussed.  
+__be a keeper__ :two::hammer:  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
 __be a roaring success__ To be extremely or triumphantly successful.  
@@ -393,6 +394,7 @@ __be caught off (one’s) guard__ To be taken by surprise; to be caught when one
 __be caught with (one’s) pants down__ To be taken by surprise; to be caught in a vulnerable (often embarrassing) position or situation. _We seriously underestimated our opponents on Saturday and were caught with our pants down._  
 __be champing at the bit__ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
 __be cleaned out__ To be emptied or devoid of money, food, resources, etc.  
+__be even (with someone)__  
 __be full of shit__  
 __be full of yourself__ To think that you are very important in a way that annoys other people.  
 __be given no quarter__ To be offered no mercy, concession, or indulgence. _This match determines if we’re heading to the finals of the tournament, so make sure they are given no quarter!_  
@@ -440,6 +442,7 @@ __be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, im
 __be on (the) air__ To be broadcasting live, as on television or radio. _OK everyone, we’re on the air in five minutes!_  
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
 __be on edge__ :two::hammer:  
+__be on the fence (about something)__  
 __be on the lookout__ :two::hammer:  
 __be on the same page__  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
@@ -489,7 +492,7 @@ __been there, done that__
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
-__beg the question__ :five::hammer: _All of this begs the question of Gallego’s own voting record._  
+__beg the question__ :six::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
 __behind bars__  
 __behind closed doors__ :dart::three: In secret, privately.  
@@ -520,6 +523,7 @@ __big spender__ :two: Someone who spends money freely and in great amounts, espe
 __big time__ :two::hammer:  
 __bigger fish to fry__  
 __bigger than life__ (larger than life)  
+__bigheaded__  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
 __bitch box__ _rude_ _slang_ An intercom. Typically used in the military. _Ugh, what are they announcing over the bitch box now?_  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
@@ -528,10 +532,13 @@ __bite the bullet__
 __bite the dust__ :three::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._ _Bite the dust, asteroid!_  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
+__black magic__  
+__black sheep__  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blank canvas__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blind date__ A date between two people who have not previously met. _Blind dates are terrifying because you don’t know what the person will be like, but that’s also part of the excitement._  
+__bling__  
 __blood in the water__ The exposure of a competitive weakness in an opponent that arouses increased competitive aggression in others. Likened to the literal presence of blood in water that causes aquatic predators (such as sharks) to seek out and attack prey. _After their opponents’ star striker left the match with an injury, the home team smelled blood in the water and brought on their attack with everything they had._  
 __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full moon is in exact alignment with the Earth and the sun, with Earth in between the two. Light refracted off of Earth’s atmosphere appears on the moon in a dark-red hue, hence the name “blood moon.” It is referred to in the Bible (Revelation 6:12–14) as a sign of the end of the world, and so it is regarded by many as an ill omen. _The wind was howling, the sky was pitch black, and a blood moon loomed heavy over our heads. I knew something bad was coming our way._  
 __blood runs cold__ _informal_ To be very frightened.  
@@ -555,11 +562,15 @@ __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __boil down__  
 __boiling frog__  
+__bomb out__  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
 __bonehead__  
+__bonus points__  
+__boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Don’t stress yourself._ __2__ A hurt; a cut; a bruise. _She has a little boo-boo on her knee._  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
+__boom__  
 __bored to tears__ :two: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
 __born to the purple__ Born in the purple. _Both were born to the purple._  
@@ -589,6 +600,7 @@ __break a sweat__
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
 __break into__  
+__break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
 __break new ground__  
 __break the bank__ :two: To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __break the ice__ To make people who have not met before feel more relaxed with each other.  
@@ -624,6 +636,7 @@ __buff up__
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __build bridges__  
+__build up__  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
 __bull in a china shop__ :two: A clumsy person.  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
@@ -646,10 +659,12 @@ __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something ill
 __busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
 __but for (someone)__ Except for someone; if not for someone. _But for the support of my friends, I never would have survived that difficult time._  
 __but for (something)__ Except for something; if not for something. _That major home repair would have sent me into debt but for my emergency fund._  
+__butch__ (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
 __butt heads__ __1__ Literally, to knock heads together, as of rams or sheep. _The two male rams fiercely butted heads to establish dominance among the group._ __2__ By extension, to completely disagree or get into a heated confrontation with someone. _Jonathan and Cynthia always butt heads over politics when they’re together._ _I got kicked out of the bar when I started butting heads with that guy._ _Sullivan butted heads with Standards and Practices._  
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
 __butterfingers__ A person who frequently drops things, clumsy person.  
 __butterflies in the stomach__  
+__butthead__  
 __button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __buy the farm__ To die.  
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
@@ -668,9 +683,10 @@ __by trade__ :three: By professional training, experience, and/or expertise. _I 
 __bystander effect__ :two: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __call (all) the shots__ :two::hammer:  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
+__call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
 __call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
-__call it a day__ _If there are no further points, then let’s call it a day._  
+__call it a day__ :two::hammer: _If there are no further points, then let’s call it a day._  
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
 __call on (someone or something)__ _He called on me._  
@@ -706,7 +722,8 @@ __carry (someone) off their feet__ To completely overwhelm someone with enthusia
 __carry a torch for__  
 __carry the ball__ :two: To be in charge.  
 __carry the day__ To win, to be successful.  
-__case in point__ :three: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__carve out__  
+__case in point__ :four: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  

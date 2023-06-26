@@ -44,26 +44,6 @@ __baby boomer__
 __backwater__  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
-__be a keeper__ :two::hammer:  
-__be even (with someone)__  
-__be on the fence (about something)__  
-__beg the question__  
-__bigheaded__  
-__black magick__  
-__black sheep__  
-__bling__  
-__bomb out__  
-__bonus points__  
-__boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Don’t stress yourself._ __2__ A hurt; a cut; a bruise. _She has a little boo-boo on her knee._  
-__boom__  
-__break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
-__build up__  
-__butch__ (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
-__butthead__  
-__call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
-__call it a day__  
-__carve out__  
-__case in point__  
 __catch on__  
 __cautionary tale__  
 __cisgender__  
