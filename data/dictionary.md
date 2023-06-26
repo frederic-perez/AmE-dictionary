@@ -16395,18 +16395,23 @@ __stop-and-go__ _adj_ Alternately proceeding and halting: _stop-and-go traffic j
 __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
 __stoplight__ _n_ :pencil2: __1__ A taillight that lights up as the driver of a vehicle steps on the brake pedal to slow down or stop. __2__ Traffic light.  
-__stopover__  
+__stopover__ _n_ :four::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
 __stoppage__ _n_ :nine::m: __1__ An act or instance of stopping. __2__ The state of being stopped or obstructed. _A stoppage-time goal._ __3__ A cessation of activity, esp. work; strike. _Keep work stoppages to a minimum._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that’s what we did._  
 __stopwatch__ _n_  
 __store-bought__ _adj_ Manufactured and purchased at retail; not homemade: _store-bought cookies._  
-__storefront__ _n_ :two::hammer:  
+__storefront__ _n_ :four::hammer:  
 __storeful__  
 __storey__ _n_ _BrE_ Variant of story.  
+__storge__ _n_ /ˈstɔːɡɪ/ Natural or instinctual affection, as of a parent for a child.  
 __storied__ _adj_ Having or consisting of a specified number of stories. Often used in combination: _a three-storied house; a multistoried office building._ _Storied market._  
 __storks__  
 __storm surge__ _n_ :two::hammer:  
-__storm__ _v_  
+__storm<sup>1</sup>__ _n_ _A storm of dishes._  
+__storm<sup>2</sup>__ _v_ :two::hammer: _The U.S. women also stormed the 1996 Olympics._  
+__storyboard__ _n_ :pencil2:  
+__storybook__ _n_ :two::hammer: _Storybook characters._  
 __storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
 __storytelling__ _n_  
 __storywise__ _adv_ In terms of a story or narrative.  
@@ -16414,11 +16419,12 @@ __stoup__
 __stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
 __stove__ _n_ :three::hammer:  
 __stovepipe hat__  
-__stow__ _v_ :two::hammer: (stowed)  
+__stow away__  
+__stow__ _v tr_ :three::hammer: (stowed)  
 __stowage__  
 __stowaway__  
 __strabismus__ _n_ Abnormal alignment of one or both eyes.  
-__straddle__ _v_ :four::hammer: (straddles, straddling)  
+__straddle__ _v_ :six::hammer: (straddles, straddling)  
 __strafed__ _v_  
 __strafes__ _v_  
 __strafing__  
@@ -16426,6 +16432,7 @@ __straggler__ _n_ :three: A person who walks too slowly during a march etc and g
 __straggly__ _adj_ :two: Spreading out in different directions. _Syn_ rambling, sprawling _The gardener’s job was to tame the yard’s few straggly bushes and make them look neat and presentable for the party that evening._  
 __straight and narrow__  
 __straight arrow__ _n_  
+__straight hair__ _n_  
 __straight shooter__  
 __straight-A student__  
 __straight-arrow__ _adj_ :three::hammer: _They were hopelessly straight-arrow._  
@@ -16433,23 +16440,25 @@ __straight-limbed__
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straightaway__  
+__straightedge__ _adj, n_ _Straightedge shave and head massage._  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one’s body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
-__strain<sup>2</sup>__ _n_ :eight: __1__ The act or an instance of straining. _Can you keep an even strain?_ _“Out of the strain of the doing, into the peace of the done.”—Julia Louise Woodruff_ __2__ The damage resulting from excessive exertion. __3__ An intense physical or mental effort. __4__ (Music, other) Music (often plural) a theme, melody, or tune. __5__ A great demand on the emotions, resources, etc. __6__ (Psychology) A feeling of tension and tiredness resulting from overwork, worry, etc; stress. __7__ A variety, esp. of microorganisms. _A new strain of coronavirus._  
+__strain<sup>2</sup>__ _n_ :nine::m: __1__ The act or an instance of straining. _Can you keep an even strain?_ _“Out of the strain of the doing, into the peace of the done.”—Julia Louise Woodruff_ __2__ The damage resulting from excessive exertion. __3__ An intense physical or mental effort. __4__ (Music, other) Music (often plural) a theme, melody, or tune. __5__ A great demand on the emotions, resources, etc. __6__ (Psychology) A feeling of tension and tiredness resulting from overwork, worry, etc; stress. __7__ A variety, esp. of microorganisms. _A new strain of coronavirus._  
 __strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._  
-__straining__ _v_ :two::hammer:  
-__strains__ _n_ :two::hammer:  
+__straining__ _n_ An intense or violent exertion.  
 __strait__  
 __straitjacket__ _n_  
 __straits__  
-__strand__ _n_ :three::hammer: _A long strand of rope._  
+__stramineous__ _adj_ struh-MIN-ee-uhs/ __1__ Straw-colored. __2__ Of or relating to straw. __3__ Like straw: Valueless.  
+__strand__ _n_ :four::hammer: _A long strand of rope._ _The strands powering cable cars._  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
-__stranglehold__ _n_ :three::hammer:  
+__stranglehold__ _n_ :four::hammer:  
 __strap overalls__  
 __strapless__ _adj_ Having no strap or straps, as a dress or an undergarment. _Strapless black dress._  
 __strappado__ _n_ /straˈpɑːdəʊ,straˈpeɪdəʊ/  
 __strapped__  
+__strapper__ _n_ A powerfully built, robust person. _Syn_ bruiser, bull, Samson _Grandmother described everyone in larger-than-life terms. Even scrawny Bill from down the block was “a regular strapper.”_  
 __strapping__ _adj_ Having a sturdy muscular physique; robust. _Two strapping sons._  
 __stratovolcano__ _n_  
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
@@ -16461,6 +16470,7 @@ __streak__ _n_ :three::hammer: _A cold streak._ _A hot streak._
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _adj_ Exuding a bodily fluid in profuse amounts. _Streaming eyes._  
 __streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
+__streamside__  
 __street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
 __streetcar__  
 __streetwise__  

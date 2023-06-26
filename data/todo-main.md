@@ -815,26 +815,6 @@ __stokehold__ _n_ The area or compartment into which a ship’s furnaces or boil
 __stoneware__ _n_  
 __stooges__ _n_  
 __stope__  
-__stopover__ _n_ :three::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
-__stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle._  
-__storefront__ _n_ :two::hammer:  
-__storge__ _n_ /ˈstɔːɡɪ/ Natural or instinctual affection, as of a parent for a child.  
-__storm<sup>1</sup>__ _n_ _A storm of dishes._  
-__storm<sup>2</sup>__ _v_ _The U.S. women also stormed the 1996 Olympics._  
-__storyboard__ _n_ :pencil2:  
-__storybook__ _n_ :two::hammer: _Storybook characters._  
-__stow away__  
-__stow__ _v tr_  
-__straddle__ _v_ :two::hammer:  
-__straight hair__ _n_  
-__straightedge__ _adj, n_ _Straightedge shave and head massage._  
-__strain__ _n_  
-__straining__ _n_ An intense or violent exertion.  
-__stramineous__ _adj_ struh-MIN-ee-uhs/ __1__ Straw-colored. __2__ Of or relating to straw. __3__ Like straw: Valueless.  
-__strand__ _n_ _The strands powering cable cars._  
-__stranglehold__ _n_  
-__strapper__ _n_ A powerfully built, robust person. _Syn_ bruiser, bull, Samson _Grandmother described everyone in larger-than-life terms. Even scrawny Bill from down the block was “a regular strapper.”_  
-__streamside__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __strengthen__ _v_ :two::hammer:  
 __stretch limousine__ _n_ :two::hammer:  
