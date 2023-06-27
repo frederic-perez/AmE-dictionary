@@ -48,9 +48,11 @@ __brainwash__ _n_
 __brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
 __breadwinner__ _n_ :pencil2:  
 __breastwork__ _n_  
+__broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __bully__ _n_  
+__byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __Calvinism__ _n_  
 __calypso__ _n_ (music)  
 __canasta__ _n_  
@@ -76,6 +78,7 @@ __color scheme__
 __commonality__ _n_  
 __concatenate__ _v_ /kahn-KAT-uh-nayt/  
 __congrats__ _n_ :mega:  
+__consigliere__ _n_ /kohn-sil-YEH-reh/ Consigliere refers to a trusted adviser or counselor. Originally, a consigliere specifically served the leader of a criminal organization such as the Mafia, but others likened to such an adviser are now sometimes called consiglieres too.  
 __contextual__  
 __cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
 __cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
@@ -83,14 +86,17 @@ __cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.
 __counterpoint__ _n_  
 __cowpuncher__ _n_ A cowboy or a cowgirl.  
 __coyote__ _n_ :mega:  
+__crabbed__ _adj_  
 __craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
 __crapulous__ _adj_  
 __crash__ _v tr_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
+__critical mass__ _n_ /KRI-ti-kuhl MAHS/ The minimum amount or number of something required to initiate or sustain a process or effect.  
 __cull__ _n_ _Meeting culls are also popular._  
 __cult__ _n_ :mega:  
 __cumulonimbus__ _n_ _Syn_ thunderstorm  
 __dalai lama__ _n_ :mega:  
 __daredevil__ _n_  
+__debouch__ _v_  
 __decidophobia__ _n_  
 __dis__ _v_  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
@@ -123,6 +129,7 @@ __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone 
 __enthuse__ _v_  
 __enthused__ _adj_  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
+__epicure__ _n_ A person devoted to refined sensuous enjoyment (especially good food and drink). _Syn_ gastronome, bon vivant, foodie, gourmet  
 __epiphany__  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
@@ -156,6 +163,7 @@ __flamethrower__ _n_
 __flattop__ _n_ A large warship that carries planes and has a long flat deck for take-offs and landings. _Syn_ aircraft carrier  
 __flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
 __flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
+__flinders__ _n_ Bits, fragments, or splinters. _Syn_ slivers, splinters _The bullet blew the glass bottle into flinders._  
 __florescence__ _n_ /flor-ESS-unss/ Florescence refers to a state or period of being in bloom or of flourishing.  
 __flounder__ _v intr_  
 __flustered__ _adj_ /ˈflʌstəd/ In a state of confusion or agitation.  
@@ -242,6 +250,7 @@ __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins t
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __laconic__  
 __laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
+__lambent__ _adj_ /LAM-bunt/ When used literally, lambent can mean “softly bright or radiant” or “flickering.” _Lambent_ is also often used to describe speech, writing, music, and even wine, that has a light, appealing quality.  
 __landfill__ _n_  
 __leaner__ _adj_ _AI might make tech companies leaner._  
 __legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.  
@@ -307,6 +316,7 @@ __neural tube__ _n_
 __neurobics__ _n_  
 __nitpick__ _v_  
 __non-negotiable__ _adj_  
+__nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
@@ -330,6 +340,7 @@ __offline__ _adj_ __3__ Conducted in private or without the knowledge of others:
 __offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __oft__ _adv_  
 __ogre__ _n_  
+__omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __optíonal__ _adj_ :mega:  
 __ostopenia__  
 __outcome__ _n_ :mega:  
@@ -361,6 +372,7 @@ __petticoat__
 __pettifog__ _v_  
 __pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
 __petty__ _adj_ _They are petty._  
+__phlegmatic__ _adj_ Having or suggesting a calm, sluggish temperament; unemotional. _Syn_ indifferent, cold, heavy, dull, stoical, bovine, apathetic, frigid, lymphatic, listless, impassive, stolid, unfeeling, undemonstrative  
 __phoropter__ _n_  
 __pickleball__ _n_  
 __picky__  
@@ -425,6 +437,7 @@ __pruritus__ _n_ An intense itching sensation that can have various causes (as b
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
 __pulpit__ _n_  
+__pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __pushback__ _n_ :two::hammer:  
 __pustule__ _n_ :two::hammer:  
 __put out__ _v_ __1__ To extinguish: _put out a fire._  
@@ -560,6 +573,8 @@ __rip-roaring__ _adj_ _Rip-roaring German beer._
 __rivulet__ _n_  
 __rocker__ _n_  
 __ropy__ _adj_  
+__roustabout__ _n_ A member of a ship’s crew who performs manual labor. _Syn_ deckhand  
+__Rubicon__ _n_  
 __sabotage__ _v tr_ _I was sabotaging myself._  
 __sacristy__ _n_  
 __sacrosanct__ _adj_ /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
@@ -590,6 +605,7 @@ __Saratoga__ _n_
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sarsaparilla__ _n_  
+__sashay__ _v_ /sa-SHAY/ To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot.  
 __sashimi__ _n_  
 __sassy__  
 __sate__ _v_ _Sate your appetite._  
@@ -728,6 +744,7 @@ __snap__ _v_ _Snap at people._
 __snappy__ _adj_ :two::hammer:  
 __snare drum__ _n_  
 __snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
+__snollygoster__ _n_ One, especially a politician, who is guided by personal advantage rather than by consistent, respectable principles.  
 __snooker__ _v tr_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
 __snooze__ _v intr_  
 __snowcat__ _n_ :two::hammer:  
@@ -825,6 +842,7 @@ __strifle__ _n_
 __strike__ _v_ :two::hammer: _The challenges strike me as fundamental._ _This episode struck._  
 __stymie<sup>1</sup>__ _v tr_ /STY-mee/ To obstruct, thwart, stump, etc.  
 __stymie<sup>2</sup>__ _n_ A hindrance.  
+__submersible__ _adj, n_  
 __sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
 __sunblock__ _n_  
 __suncatcher__ _n_  
@@ -962,6 +980,7 @@ __timepiece__ _n_ :three::hammer:
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __timeshare__  
 __tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
+__tintinnabulation__ _n_ The ringing or sounding of bells.  
 __titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
 __titter__  
 __tittle__ _n_ A tiny or scarcely detectable amount. _Syn_ iota, scintilla, shred, smidgeon, whit _Sydney Carton drank nothing but a tittle coffee._  
@@ -1001,6 +1020,7 @@ __tot__ _n_
 __total__ _v_ (totaling)  
 __totally__  
 __tote bag__ _n_  
+__touchstone__ _n_ A basis for comparison; a reference point against which other things can be evaluated. _Syn_ criterion, standard, measure  
 __tour__ _v_ _Tour a real submarine._  
 __tout__ _v tr_  
 __touting__ _v_  
