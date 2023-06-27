@@ -16756,20 +16756,22 @@ __swampy__
 __swan song__  
 __swank<sup>1</sup>__ _adj_ _A swank condominium complex._  
 __swank<sup>2</sup>__ _v_ :four::astonished::hammer:  
-__swanky__ _adj_ :two::hammer: _Swanky dinner._  
+__swanky__ _adj_ :five::hammer: _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
 __swarthiness__  
-__swarthy__ _adj_ :three::hammer: _Swarthy skin._ :es: moreno  
-__swashbuckling__ _n_ :two::hammer:  
+__swarthy__ _adj_ :four: Having a dark complexion or color. _Syn_ dusky, swart, dark-skinned _Swarthy skin._ :es: moreno  
+__swash__ _n_  
+__swashbuckling__ _adj_ :three::hammer:  
 __swatches__  
-__swath__ _n_ :nine::m: (swathe) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swath__ _n_ :nine::m: (swathe, swathes) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_  
 __swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)  
 __swats__ _n_ :two::hammer:  
 __swatted__  
+__swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sway<sup>1</sup>__ _v_ :nine::m: /sweɪ/ (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__ To incline or bend to one side; veer: _She swayed and put out a hand to steady herself._ _The flowers bobbled and swayed._ __3a__ To incline toward change, as in opinion or feeling: _He swayed toward trying out for the chorus._ _Swayed to the Dark Side._ __b__ To fluctuate, as in outlook. __4__ Win approval or support for. _He could sway a mob._ _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
-__sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
+__sway<sup>2</sup>__ _n_ :three: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
@@ -16783,7 +16785,7 @@ __sweetbreads__ _n_ Edible glands of an animal.
 __sweethearts__  
 __sweeting__ _n_ A sweet apple.  
 __swell<sup>1</sup>__ _n_ :five::hammer: _The swell of people from war-torn countries._  
-__swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
+__swell<sup>2</sup>__ _v_ :four::hammer: (swelled, swelling)  
 __swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
@@ -16824,6 +16826,7 @@ __swoopy__
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
 __sword__ _n_ :mega::mute:[s~~w~~ord]  
+__sworn__ _adj_ Bound, pledged, or made inveterate, by or as if by an oath: _a sworn statement; he was sworn to God._ _Jedi Knights are sworn protectors of the Force and the Jedi Order._  
 __sybarite__ _n_ A person devoted to pleasure and luxury; a voluptuary. _Syn_ voluptuary  
 __sycamore tree__  
 __sycamore__ _n_ :two::hammer:  
@@ -16839,11 +16842,11 @@ __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together)
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __synaptogenesis__ _n_  
 __synchronizity__ _n_ /ˌsɪnkrəˈnɪsɪtɪ/ __2__ An apparently meaningful coincidence in time of two or more similar or identical events that are causally unrelated.  
-__syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
+__syncope__ _n_ :two: A brief loss of consciousness caused by a temporary deficiency of oxygen in the brain; a swoon. _Syn_ deliquium, faint, swoon  
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
-__synecdoche__ _n_ :three: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
+__synecdoche__ _n_ :four: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
 __synesthesia__ _n_  
 __synod__ _n_ :pencil2:  
 __synonymous__ _n_ :pencil2:  
@@ -16873,6 +16876,7 @@ __tabletop__ _adj, n_
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
+__tachyarrythmia__ _n_  
 __tachypnea__ _n_ Abnormally rapid and shallow breathing.  
 __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
 __taciturn__ _adj_ :two::hammer:  
@@ -16889,15 +16893,18 @@ __tad__ _n informal_ :five::hammer:
 __tadpole__ _n_  
 __tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
 __taffeta__ _n_  
-__tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
+__taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
+__tag<sup>1</sup>__ _n_ :two::hammer: __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer. _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
 __tahini__ _n_  
+__Tahitian__  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :five::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
+__Taj Mahal__ _n_ /taj/tazh muh-HUHL/HAHL/ [:scroll: After Taj Mahal, a mausoleum in Agra, India] Something, especially a building, that is luxurious or an extraordinary example of its kind.  
 __take a shit__ _v_  
 __take a stand__  
 __take aback__ _phr v_ To surprise or shock.  
@@ -16907,13 +16914,16 @@ __take on__ _phr v_ :two: To accept some work or responsibility.
 __take out__ _n_ _Order some Chinese take out._  
 __take through__ _phr v_ To explain something to someone.  
 __take to__ _phr v_ To make a habit of something.  
-__takeaways__ _n_  
+__take-out__  
+__takeaway__ _n_ :two::hammer:  
 __takeout containers__  
 __takeout<sup>1</sup>__ _n_ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __takeout<sup>2</sup>__ _adj_  
+__takeover__ _n_  
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _n_ _A specific set of talents._  
+__talented__ _adj_  
 __talisman__ _n_ /TAL-iss-mun/ _In ancient times, the gemstone was worn as a talisman to avert evil._  
 __talk away__ _v_ To consume or pass (as time) in talking. _Talking the long night hours away._  
 __talk down to__ _phr v_ :two: To talk to someone as if they are not as clever or important as you are.  

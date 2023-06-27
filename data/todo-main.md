@@ -876,26 +876,6 @@ __sustenance__ _n_ :two::hammer:
 __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
 __swan<sup>2</sup>__ _v intr_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
-__swanky__ _adj_ :three::hammer: _Swanky steakhouses._ _Swanky gifts._  
-__swarthy__ _adj_ Having a dark complexion or color. _Syn_ dusky, swart, dark-skinned  
-__swash__ _n_  
-__swashbuckling__ _adj_  
-__swath__ _n_ (swathes)  
-__swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
-__sway__ _n_  
-__swell__ _v_  
-__sworn__ _adj_ Bound, pledged, or made inveterate, by or as if by an oath: _a sworn statement; he was sworn to God._ _Jedi Knights are sworn protectors of the Force and the Jedi Order._  
-__syncope__ _n_ A brief loss of consciousness caused by a temporary deficiency of oxygen in the brain; a swoon. _Syn_ deliquium, faint, swoon  
-__synecdoche__ _n_  
-__tachyarrythmia__ _n_  
-__taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
-__tag__ _n_ __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer.  
-__Tahitian__  
-__Taj Mahal__ _n_ /taj/tazh muh-HUHL/HAHL/ [:scroll: After Taj Mahal, a mausoleum in Agra, India] Something, especially a building, that is luxurious or an extraordinary example of its kind.  
-__take-out__  
-__takeaway__ _n_  
-__takeover__ _n_  
-__talented__ _adj_  
 __talktative__  
 __Tamagotchi__ _n_ :pencil2:  
 __tamarind__  
