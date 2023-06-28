@@ -17305,7 +17305,7 @@ __tickling__ _n_
 __ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
-__tidbit__ _n_ :six::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
+__tidbit__ _n_ /ˈtɪdˌbɪt/ :nine::hammer::pencil2::dart: (tidbits) _He fed the cat tidbits._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _adj_ _A tidy plan._  
 __tie-dye__  
@@ -17316,33 +17316,43 @@ __tier__ _n_ _After breakfast the four tiers came to life with music and news an
 __tiffin__ _n_ (noun) A meal at midday; a luncheon. _Syn_ luncheon, dejeuner, lunch _His impudence still rankled when I came into the dining room at tiffin time._  
 __tiger nut__ _n_ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
 __tiger__ _n_ _Ben was the tiger of the defense._  
-__tight__ _adj_ :two::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._  
+__tight__ _adj_ :three::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._ _Are you on a tight schedule?_  
 __tight-knit__ _adj_ Well-organized or closely integrated. _We are a tight-knit family._  
 __tighten__ _v_ _Tighten your belts._  
 __tightknit__ _adj_  
 __tightly wound__ _adj_ Chronically tense, unable to relax, highly reactive. _My cat is so tightly wound he springs up off the floor if anything startles him, and he startles at the drop of a feather._  
+__tightrope__ _n_  
 __tightwad__ _n_  
 __tigress__ _n_  
 __Tijuana special__  
 __tiki torches__ _n_ :camera:  
 __tiki<sup>1</sup>__ _adj_ :two::hammer: _Tiki sensibility._  
 __tiki<sup>2</sup>__ _n_  
+__tikkamassala__ _n_  
+__til__ _conj, prep_  
 __tilapia__  
+__till__ _v_ (tilled)  
 __tiller__ _n_ :three: One that tills land: _a tiller of soil._  
+__Tilt-A-Whirl__ _n_  
 __tiltyard__  
 __timbrology__ _n_ /tim-BROL-uh-jee/ [:scroll: From French timbre (stamp) + -logy (study).] The collecting or study of postage stamps and related matter.  
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _n_ (timeline) _Can it be done in that time line?_  
+__time-consuming__ _adj_  
 __time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample. _SSFP cine sequences provide high resolution, time-resolved images._  
-__timeless__ _adj_ /TYME-luss/ Not restricted to a particular time or date. _Syn_ eternal, ageless _Proverbs are statements of timeless wisdom._  
+__time-stamp__ _v_ _These events are time-stamped._  
+__timeless<sup>1</sup>__ _adj_ :two: /TYME-luss/ Not restricted to a particular time or date. _Syn_ eternal, ageless _Proverbs are statements of timeless wisdom._  
+__timeless<sup>2</sup>__ _adv_  
+__timeless<sup>3</sup>__ _n_ :two::hammer:  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__ _n_  
 __timeliness__ _n_ :two::hammer:  
 __timely__ _adj, adv_ :nine::m: Occurring at a suitable or opportune time; well-timed. _The timely filing of his income tax return._ _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
-__timepiece__ _n_ A watch, or a clock.  
+__timepiece__ _n_ :four: A watch, or a clock.  
+__timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __timeserver__ _n_ :three: /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network. __4__ One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist. A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
-__timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
+__timeshare__ _n_ :two::hammer: _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
 __timetable<sup>2</sup>__ _v_  
 __timid__  
@@ -17357,13 +17367,14 @@ __tinge<sup>1</sup>__ _n_ :two::hammer:
 __tinge<sup>2</sup>__ _v_  
 __tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
 __tingle<sup>2</sup>__ _n_ A sensation of tingling. _I’m all tingles and shakes._  
+__tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
 __tink__ _v_  
 __tinker<sup>1</sup>__ _n_  
 __tinker<sup>2</sup>__ _v_ :four::hammer:  
 __tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
-__tintinnabulation__ _n_ __1__ The sound made by ringing bells. __2__ A tinkling, bell-like sound. :es: campanilleo  
+__tintinnabulation__ _n_ :two: __1__ The sound made by ringing bells. __2__ A tinkling, bell-like sound. :es: campanilleo  
 __tip over__ _v_ :three::hammer:  
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
@@ -17389,16 +17400,15 @@ __tite__
 __tithe__ _n_ :six: __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. _Clerical tithe._ _The tithes of the French clergy._ __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
 __titian__ _n_ A brownish orange.  
 __titillating__ _adj_  
-__titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
+__titivate__ _v_ :two: /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._ _Her morning routine includes a few minutes spent titivating in front of the mirror._  
 __title__ _n_ :pencil2:  
 __titled__ _adj_ :three: Having a title, especially a noble title.  
 __titlist__ _n_ The holder of a competitive title; a champion: a chess titlist. _He is the former bantamweight titlist._  
 __titration__ _n_ _Lesion titration._  
-__titter__ _v_ :two::hammer:  
-__titters__  
-__tittle__ _n_ :two::astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_. __2__ The tiniest bit; an iota.  
+__titter__ _v_ :four::hammer:  
+__tittle__ _n_ :three::astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_. __2__ The tiniest bit; an iota. A tiny or scarcely detectable amount. _Syn_ iota, scintilla, shred, smidgeon, whit _Sydney Carton drank nothing but a tittle coffee._  
 __titubation__ _n_ /ˌtɪtjʊˈbeɪʃən/ __1__ (Pathology) Adisordered gait characterized by stumbling or staggering, often caused by a lesion of the cerebellum. _He walked hesitatingly to a chair, his titubation increasing._ __2__ (Pathology) Stuttering or stammering. _Syn_ lingual titubation  
-__tix__ _pl n_ _informal_ Tickets.  
+__tix__ _n pl_ _informal_ :two: Tickets.  
 __tixker__  
 __tizzy__  
 __tmesis__ _n_ The insertion of a word or part of a word in another word. Examples: another = “a whole nother” absolutely = “abso-freakin’-lutely” somewhere = “some bloody where”  

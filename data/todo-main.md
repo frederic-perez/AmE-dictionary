@@ -945,26 +945,6 @@ __thwart__ _v_ :two::hammer: (thwarted)
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __tickling__ _n_ :dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
-__tidbit__ _n_ /ˈtɪdˌbɪt/ :three::hammer::dart: (tidbits)  
-__tight__ _adj_ _Are you on a tight schedule?_  
-__tightrope__ _n_  
-__tikkamassala__ _n_  
-__til__ _conj, prep_  
-__till__ _v_ (tilled)  
-__Tilt-A-Whirl__ _n_  
-__time-consuming__ _adj_  
-__time-stamp__ _v_ _These events are time-stamped._  
-__timeless__ _adj, adv, n_ :two::hammer:  
-__timely__ _adv_ :two::hammer: _In a timely manner._  
-__timepiece__ _n_ :three::hammer:  
-__timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
-__timeshare__  
-__tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
-__tintinnabulation__ _n_ The ringing or sounding of bells.  
-__titivate__ _v_ /TIH-tuh-vayt/ Titivate means “to make (someone or something) neater or more attractive,” and is a synonym of spruce up. _Her morning routine includes a few minutes spent titivating in front of the mirror._  
-__titter__  
-__tittle__ _n_ A tiny or scarcely detectable amount. _Syn_ iota, scintilla, shred, smidgeon, whit _Sydney Carton drank nothing but a tittle coffee._  
-__tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
 __toady__ _v_  
 __tobbogan__ _v intr_  
