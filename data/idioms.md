@@ -998,6 +998,7 @@ __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on 
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
 __dish out__ _Yoda will dish out the advice._  
 __dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
+__dive in__ :dart::two::hammer: _Let’s dive in together._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
@@ -1024,6 +1025,7 @@ __don’t get (one) started__ :three::hammer:
 __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ :two: An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ :two: Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic. _A: “So, do you ever hear from your ex-husband?” B: “Don’t even go there. That divorce trial still gives me a headache!”_  
+__don’t kill the messenger__  
 __don’t let the door hit you on the way out__ :two: Leave here quickly and directly; don’t linger on your way out the door. Used sarcastically to express one’s desire to see someone leave. _I couldn’t be happier that you’re leaving the firm, you were a nuisance here anyway. Don’t let the door hit you on the way out!_  
 __don’t press your luck__ :two::hammer:  
 __don’t rock the boat__ Don’t say or do something that could upset a stable situation.  
@@ -1034,7 +1036,7 @@ __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and 
 __dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
 __double down__ :four: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
-__double entendre__  
+__double entendre__ :two::hammer:  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down for (something)__  
@@ -1042,27 +1044,28 @@ __down in the mouth__ Visibly sad or depressed. _Molly’s been moping around al
 __down the drain__ :three: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the line__ In the future.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
-__down the road__ _informal_ :three: In the future; later on. _I do want to get married, but down the road, not any time soon._  
+__down the road__ _informal_ :four: In the future; later on. _I do want to get married, but down the road, not any time soon._  
 __down the toilet__ _Three hours down the toilet._  
 __down to (someone or something)__  
-__down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
+__down to the wire__ :two: (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.) Until the last possible second.  
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
 __down-to-earth__ _adj_ :five: Sensible and realistic.  
 __downer__  
-__doxxing__ :two: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
+__doxxing__ :three: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
 __drag (one’s) feet__ :two: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw a blank__ :two: To fail to find or remember something.  
 __draw a line in the sand__ :two::hammer:  
-__draw to a close__ :four::hammer:  
+__draw the line__ _Draw the line in the sand._  
+__draw to a close__ :five::hammer:  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __dressed to kill__  
 __drink like a fish__ To drink too much alcohol.  
 __drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
-__drivers seat__  
+__driver’s seat__ :two::hammer: _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __driving force__  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
 __drop a bomb__ :two::hammer:  
@@ -1072,7 +1075,7 @@ __drop in the bucket__ :two: A very small or unimportant amount.
 __drop the ball__ :three: To make a mistake, to fail.  
 __duck and cover__  
 __duck__ __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._  
-__dud__ :astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
+__dud__ :two::astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__ :two::hammer:  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
@@ -1085,28 +1088,30 @@ __easier than falling off a log__ Extremely easy; very intuitive; requiring litt
 __easy peasy__ :two::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-breeze__ :dart:  
+__eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __echo chamber__  
+__educated guess__  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
-__elephant in the room__ :two: An obvious problem that people do not want to talk about.  
-__elevator pitch__ A short sales presentation for a product/service/person/idea.  
-__Elvis has left the building__ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
+__elephant in the room__ :three: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
+__elevator pitch__ :two: A short sales presentation for a product/service/person/idea.  
+__Elvis has left the building__ :four: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __empty nester__ _n_ :two: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __end (something) on a high note__ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
-__end game__  
+__end game__ :two::hammer:  
 __end of one’s rope__  
 __end of story__ A phrase used to end a conversation or topic of discussion, especially when one wants to discourage debate. _I didn’t do anything wrong here, OK? End of story._  
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endgame__ :three: The final stages of a process, development, or activity.  
-__engine room__ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
+__engine room__ :two::dart: The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
 __enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
 __err on the side of caution__  
 __et alia__  
 __etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
-__eureka moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
+__eureka moment__ :two: A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __even more so__ :two::hammer:  
 __even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
@@ -1115,8 +1120,8 @@ __every last one__
 __every man for himself__ :dart:  
 __every other__ :three: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
-__every single one__ Every individual person or item within a group, without exception.  
-__every so often__ _adv_ :five: Sometimes; occasionally. _Every so often she visits her father._ _Josh does stop by the store every so often, but I haven’t seen him lately._  
+__every single one__ :two: Every individual person or item within a group, without exception. _This is going to be the hardest game we’ve played all year, so I need every single one of you giving it everything you’ve got!_  
+__every so often__ _adv_ :six: Sometimes; occasionally. _Every so often she visits her father._ _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everyone can find fault, few can do better__  
 __everything humanly possible__ Everything that is in the range of human powers. _The rescuers did everything humanly possible to find the lost campers._ _The doctor tried everything humanly possible to save the patient._  
 __everything under the sun__  

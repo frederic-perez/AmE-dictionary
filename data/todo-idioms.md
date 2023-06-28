@@ -77,26 +77,6 @@ __Ding, ding, ding, we have a winner!__
 __dirtbag__  
 __dish out__  
 __diss__  
-__dive in__ :dart::two::hammer: _Let’s dive in together._  
-__don’t kill the messenger__  
-__double entendre__  
-__down the road__  
-__down to the wire__ Until the last possible second.  
-__doxxing__  
-__draw the line__ _Draw the line in the sand._  
-__draw to a close__  
-__driver’s seat__ _We want to put the users in the driver’s seat when it comes to how their data is used._  
-__dud__  
-__eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
-__educated guess__  
-__elephant in the room__ An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
-__elevator pitch__  
-__Elvis has left the building__  
-__end game__  
-__engine room__ :dart: The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
-__eureka moment__  
-__every single one__ Every individual person or item within a group, without exception. _This is going to be the hardest game we’ve played all year, so I need every single one of you giving it everything you’ve got!_  
-__every so often__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
