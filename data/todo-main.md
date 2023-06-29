@@ -967,26 +967,6 @@ __top__ _v_ _The investment soon topped a billion dollars._
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
-__topiary__ _adj, n_ :three::hammer: _Topiary garden._  
-__topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
-__toppings__ _n_  
-__toque__ _n_ __1__ A soft, brimless, close-fitting hat for women, in any of several shapes. __2__ A tall white hat worn by chefs. __3__ A velvet hat with a narrow brim, a full crown, and usu. a plume, worn by men and women in the 16th century.  
-__torn__ _v_ Past participle of tear. _You feel so torn about what to do._  
-__torpid__ _adj_ :two: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
-__torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
-__toss<sup>1</sup>__ _v_ _Create your own salad to be freshly tossed._  
-__toss<sup>2</sup>__ _n_ _Great fruitcase toss._  
-__tot__ _n_  
-__total__ _v_ (totaling)  
-__totally__  
-__tote bag__ _n_  
-__touchstone__ _n_ A basis for comparison; a reference point against which other things can be evaluated. _Syn_ criterion, standard, measure  
-__tour__ _v_ _Tour a real submarine._  
-__tout__ _v tr_  
-__touting__ _v_  
-__towel__ _n_ :mega:  
-__town hall__ _n_  
-__towpath__  
 __traboule__ _n_  
 __traci meet__ _n_ :two::hammer:  
 __trade-off__ _n_ :three::hammer: (trade-offs)  

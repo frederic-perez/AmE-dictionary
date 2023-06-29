@@ -17497,33 +17497,42 @@ __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to ma
 __top-dog__  
 __top-flight__  
 __top-of-mind__  
-__topiary__ _adj_ :two::hammer: _Topiary figures adorned the gardens._  
+__topiary<sup>1</sup>__ _adj_ :two::hammer: _Topiary figures adorned the gardens._  
+__topiary<sup>2</sup>__ _n_ :three::hammer: _Topiary garden._  
 __topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
+__topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
+__toppings__ _n_  
 __topple__ _v_ :four::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._ _Men-at-arms on ladders climbed to the very brink of the walls to be toppled back._  
 __tops__ _adv_ :dart: At a maximum; at most: _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
 __topsy-turvy<sup>3</sup>__ _n_ A topsy-turvy state.  
+__toque__ _n_ __1__ A soft, brimless, close-fitting hat for women, in any of several shapes. __2__ A tall white hat worn by chefs. __3__ A velvet hat with a narrow brim, a full crown, and usu. a plume, worn by men and women in the 16th century.  
 __torch__ _n_  
 __torches__ _n_  
 __tore__ _v_  
 __toric__ _adj_ _Toric lens._  
 __torment__ _v_  
 __tormentor__ _n_ :two::hammer:  
-__torn__ _v_ :two::hammer:  
+__torn__ _v_ :three: Past participle of tear. _You feel so torn about what to do._  
 __torpedo__ _v_  
+__torpid__ _adj_ :two: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
-__torrid__ _adj_ :two::hammer: _A torrid affair._  
+__torrid__ _adj_ :three: Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __tortuous__ _adj_ /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
 __toss__ _v_ :three::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
-__tossing__ _v_ _The prisoner lay tossing and moaning._  
+__toss<sup>1</sup>__ _v_ :two::hammer: _Create your own salad to be freshly tossed._ _The prisoner lay tossing and moaning._  
+__toss<sup>2</sup>__ _n_ _Great fruitcase toss._  
 __tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lot__ _n_ An outdoor playground for very young children. _There are tot lots, but there is no place for us._  
-__totally__ _adv_ :two: Entirely; wholly; completely.  
+__tot__ _n_  
+__total__ _v_ (totaling)  
+__totally__ _adv_ :three: Entirely; wholly; completely.  
+__tote bag__ _n_  
 __tote board__ _n_ A large, usually electrically operated board that displays changing numerical information, such as betting payoffs or voting results.  
 __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
 __tots__  
@@ -17532,24 +17541,29 @@ __tottered__
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touch down__ _phr v_ To make contact with the ground; land: _The spacecraft touched down on schedule._ _The jet touched down there yesterday._  
 __touchline__  
-__touchstone__ _n_  
+__touchstone__ _n_ :two: A basis for comparison; a reference point against which other things can be evaluated. _Syn_ criterion, standard, measure  
 __touchy__ _adj_ :five: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
 __tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
 __toupee__ _n_  
 __tour de force__ _n_ :two::hammer:  
+__tour__ _v_ _Tour a real submarine._  
 __tournament__ _n_ :four::hammer:  
 __tourney__  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in front of the mirror and tousled his hair, trying to get a cool, disheveled look._  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
-__tout__ _v_ :three::hammer: (touted)  
+__tout__ _v tr_ :four::hammer: (touted)  
+__touting__ _v_  
 __tow truck__ _n_  
 __toward__ _prep_ :five::mega::hammer:  
+__towel__ _n_ :mega:  
 __tower__ _v_ _Towering over our heads._  
 __towheaded__ _adj_  
+__town hall__ _n_  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
+__towpath__  
 __toy dog__ _n_ Any of several breeds of very small dogs kept purely as pets.  
 __toy__ _v_ :two::hammer: (toying)  
 __Toyota__ _n_ :mega: A city of south-central Honshu, Japan, east-southeast of Nagoya. It is an industrial center.  
