@@ -1781,7 +1781,7 @@ __hold (one’s) nerve__ To remain calm, steady, and resolute, especially in the
 __hold (one’s) nose__  
 __hold (one’s) water__ To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
 __hold (someone, something, or an animal) back (from someone or something)__ :two: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
-__hold (someone) accountable (for someone)__ To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
+__hold (someone) accountable (for someone)__ :three: To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
 __hold (something) in store (for one)__  
 __hold a candle to__  
@@ -1812,6 +1812,7 @@ __homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ _Hey h
 __hone in__ :dart:  
 __honest injun__ An expression used to emphasize the veracity of one’s statement. Based on a colloquial spelling of “Indian” (i.e., Native American). One of many expressions often considered offensive for making reference to Native American stereotypes or tropes. Primarily heard in US. _I swear it wasn’t me who broke the lamp, honest injun!_  
 __honest mistake__  
+__honest to God__  
 __honest to Pete__ Honestly; truly; genuinely. An expression used to emphasize the veracity of one’s statement, “Pete” here is a substitution of the word “God,” so as to avoid potential blasphemy.  
 __honey-do list__ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
 __honey-mouthed__ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
@@ -1820,26 +1821,32 @@ __hook, line, and sinker__ Completely and unquestioningly. _The moment I met my 
 __hooked on (someone or something)__  
 __hoover up__ _The data was collected by hoovering up content off the internet._  
 __hoover__ _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
-__hope against (all) hope__ :two: To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
+__hope against (all) hope__ :three: To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
 __horse and rabbit stew__ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse around__  
 __horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner.  
 __horseshit__  
+__hot air__ Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._  
 __hot desking__ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
 __hot potato__ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot tip__ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
-__hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
+__hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
+__hothead__ :two: A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __house of cards__  
 __housewarming (party)__ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
 __how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
-__how come__ Why? Why is it that (something is the case)? _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
+__how come__ Why? Why is it that (something is the case)? How is it that; why: _How come you’re so late?_ _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
 __how on earth__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _How on earth did you get here? I thought your car was in the shop._  
 __how’s life (treating you)?__ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ No matter how much.  
+__huff and puff__  
+__hulk out__  
 __Humpty Dumptyism__ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one’s own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll’s _Through the Looking-Glass_, who states, “When I use a word it means just what I choose it to mean.”  
-__hunker down__ __1__ Literally, to squat. _The magician hunkered down to the eye level of the children._ __2__ To seek refuge in a particular place or area. _We hunkered down at home with some movies while the blizzard raged all weekend._ __3__ To work or begin to work on something in a determined matter. _I can’t believe I didn’t get an A on my project after I’d hunkered down all weekend to do it!_ __4__ To stubbornly maintain some belief. _It seems he’s hunkered down and will never see me as anything but the villain in his life._  
+__hunker down__ :two: __1__ Literally, to squat. _The magician hunkered down to the eye level of the children._ __2__ To seek refuge in a particular place or area. _We hunkered down at home with some movies while the blizzard raged all weekend._ __3__ To work or begin to work on something in a determined matter. _I can’t believe I didn’t get an A on my project after I’d hunkered down all weekend to do it!_ __4__ To stubbornly maintain some belief. _It seems he’s hunkered down and will never see me as anything but the villain in his life._  
+__hunky-dory__  
 __hunt where the ducks are__ To pursue or look for one’s objectives, results, or goals in the place where one is most likely to find them.  
+__hush money__  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly.  
 __hustle and bustle__ Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
 __hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
@@ -1849,12 +1856,13 @@ __I hear you__ :five: I acknowledge what you have said and am sympathetic to it.
 __I kid you not__  
 __I know the feeling__  
 __I rest my case__  
-__I see what you did there__ :two: (I saw what you did there) An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
+__I see what you did there__ :three: (I saw what you did there) An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I suppose (so)__ An expression of vague affirmation or assent.  
 __I take it__ _idiom_ I imagine this is the case; I presume it to be true (that); it is my understanding (that).  
 __I wish__  
 __I’d say__ In my opinion; it is my estimation that.  
 __I’ll be hanged if I (do something)__ :two: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
+__I’m all ears__ :two::hammer:  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __ice maiden__ (pejorative) A coolly composed, unemotional woman; a woman without affection or warmth of feeling.  
 __icing on the cake__ :three::hammer:  
@@ -1863,8 +1871,9 @@ __idiom__ _n_ __1__ A speech form or an expression of a given language that is p
 __idiot mittens__ Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _And if nothing else, Selig will be watching._  
-__if only__  
+__if only__ :two::hammer:  
 __if the shoe fits, wear it__ If a description applies to you, then accept it.  
+__if you ask me__  
 __if you will__ :four: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __in (a) shambles__ :two::hammer:  
 __in (all) fairness (to one)__  
@@ -1889,6 +1898,7 @@ __in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a hu
 __in a jam__ In a troublesome situation.  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a rut__  
+__in a similar vein__  
 __in a sorry state__ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in abeyance__ :two: A phrase used to describe something as pending or suspended. _How long do you think they will hold the decision in abeyance? I’m eager to know what they think._ _The bishops held the proceedings against Wyclif in abeyance._ _You capture the inventory into containers that hold items in abeyance._  
@@ -1904,11 +1914,13 @@ __in awe (of someone or something)__
 __in bits and pieces__ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in broad daylight__ Out in the open during the daytime, when anyone can see what’s happening. _The gangland feud is getting so bad that people are being shot in broad daylight._ _A sniper who prays on victims in broad daylight._  
 __in bulk__  
+__in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in check__ Under control; contained or restrained. _Keep those emotions in check._  
+__in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
 __in deep water__ To be in a difficult situation.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
 __in denial__  
-__in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears” -where “ears” rhymes with “years” and alludes to the length of a donkey’s ears.  
+__in donkeys__ :two: In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
 __in due time__  
 __in excess of__ :six: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._ _The retail giant predicts earnings for the past year in excess of $4 million._  

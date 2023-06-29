@@ -119,26 +119,6 @@ __go-to girl__
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __good for you!__ A complimentary expression of encouragement for something that someone has done or received.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
-__hold (someone) accountable (for someone)__ :two::hammer:  
-__honest to God__  
-__hope against (all) hope__  
-__hot air__ Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._  
-__hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
-__hothead__  
-__how come__ How is it that; why: _How come you’re so late?_  
-__huff and puff__  
-__hulk out__  
-__hunker down__  
-__hunky-dory__  
-__hush money__  
-__I saw what you did there__  
-__I’m all ears__ :two::hammer:  
-__if only__  
-__if you ask me__  
-__in a similar vein__  
-__in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
-__in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
-__in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
