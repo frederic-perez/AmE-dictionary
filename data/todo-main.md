@@ -969,26 +969,6 @@ __top-flight__ _adj_ _Top-flight restaurant._
 __top-notch__  
 __traboule__ _n_  
 __traci meet__ _n_ :two::hammer:  
-__trade-off__ _n_ :three::hammer: (trade-offs)  
-__trail__ _n_ :three::hammer:  
-__trailhead__ _n_ :two::hammer:  
-__trample__ _v_  
-__transition__ _v intr_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
-__transmogrify__ _v_ /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
-__trash__ _v_ _Do not trash yourself._  
-__trashy__  
-__travelogue__ _n_  
-__travertine__ _n_  
-__travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
-__travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
-__trawl__ _v_  
-__treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
-__treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
-__treasure__ _v_  
-__tree felling__ _n_  
-__treed__ _adj_  
-__treetops__ _n_  
-__treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __tremendously__ _adv_ :two::hammer:  
 __trenchant__ _adj_ /TREN-chunt/ Trenchant is a formal word that is usually used to describe communication that is notably strong, clear, and perceptive, or in other words, “sharp.” _The author’s trenchant wit was very evident in thencritique she wrote of the much-acclaimed film._  

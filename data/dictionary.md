@@ -17578,7 +17578,7 @@ __tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)
 __tractor__ _n_  
 __trade paperback__  
 __trade__ _n_  
-__trade-off__ _n_ :two::hammer: (tradeoff) _She has to make trade-offs._  
+__trade-off__ _n_ :five::hammer: (tradeoff, trade-offs) _She has to make trade-offs._  
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
 __trading card__ _n_ A card with a picture or design printed on it, often one of a set collected and traded by children.  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
@@ -17586,9 +17586,11 @@ __traffickers__
 __tragicomedy__ _n_  
 __tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
 __trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
+__trail__ _n_ :three::hammer:  
 __trailblazer__ _n_ __1__ A leader or pioneer in a particular field __2__ A person who blazes a trail.  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
+__trailhead__ _n_ :two::hammer:  
 __trailing plants__  
 __trails__ _n_  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
@@ -17612,9 +17614,10 @@ __transfigure__ _v_ Change completely the nature or appearance of.
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
 __transient<sup>1</sup>__ _adj_ :seven::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
+__transition__ _v intr_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translucent__ _adj_  
-__transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
+__transmogrify__ _v_ :two: /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._ _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __transom__ _n_ :two::hammer:  
 __transparent__ _adj_ :mega:  
 __transpire__ _v_ /tran-SPYRE/ __1__ To happen. _The police are still trying to determine what transpired on the night of the accident._ __2__ To become known. _After the business magnate was arrested for financial-related crimes, it transpired that he has been in insurmountable debt for years._  
@@ -17628,24 +17631,33 @@ __trappings__ _n_ :five::hammer: _He has all the trappings of a New York insider
 __traps__ _n_  
 __trascends__ _v_  
 __trash talk__ _n_ :two::hammer:  
-__trashing__ _v_  
+__trash__ _v_ :two::hammer: _Do not trash yourself._  
+__trashy__  
 __travail__ _n_ :two: Work, especially when arduous or involving painful effort. _Syn_ effort, exertion, labor, toil _She deserved to take a vacation after her long travail._  
 __travails__ _n_ :two::hammer:  
-__travelogue__ _n_ :two::hammer:  
-__travesty__ _n_ :four::hammer: (travesties)  
-__trawled__ _v_ :two::hammer:  
+__travelogue__ _n_ :three::hammer:  
+__travertine__ _n_ Calcium carbonate deposited by water, as in stalactites.  
+__travesty<sup>1</sup>__ _n_ :five: /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
+__travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
+__trawl__ _v_ :three::hammer:  
 __trawler__  
 __treacherous__ _adj_ :three::hammer:  
 __treachery__ _n_ :five::hammer: _Navarre preferred guile and treachery._  
 __treacle__  
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
 __treading__  
-__treasure__ _v_ :four::hammer:  
+__treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
+__treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
+__treasure__ _v_ :five::hammer:  
 __treat<sup>1</sup>__ _v_ :three::hammer: _Treating a friend to lunch is a good way to spend the money on others._ _Treat yourself a coffee._  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :three: __1__ Threefold; triple. _A treble hook._  
 __treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ early retirement has trebled since 2008._  
+__tree felling__ _n_  
+__treed__ _adj_  
 __treen__ _n_ Small woodenware.  
+__treetops__ _n_  
+__treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trek__ _n_ :mega:  
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
