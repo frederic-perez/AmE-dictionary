@@ -46,6 +46,7 @@ __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bows
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __catch on__  
 __cautionary tale__  
+__cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __cisgender__  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
@@ -69,14 +70,19 @@ __crystal clear__
 __cup of joe__  
 __cut from the same cloth__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
+__cut it__  
 __cut out__ _Cutting out the negative influences._  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __day in, day out__  
+__dealbreaker__  
 __Ding, ding, ding, we have a winner!__  
 __dirtbag__  
 __dish out__  
 __diss__  
+__dive in__  
+__don’t get (one) started__  
+__drill in(to) (someone or something)__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
@@ -104,9 +110,12 @@ __food coma__
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __for Pete’s sake__  
 __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
+__frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __game-changer__  
 __gaslighting__  
 __get off (one’s) high horse__ To stop acting as if one is better than other people; to stop being arrogant or haughty.  
+__get real__  
+__get to someone__  
 __GI Joe__  
 __git it a shot__  
 __give (one) a pass__  
@@ -118,6 +127,7 @@ __go to the mattresses__ To enter into or prepare for a lengthy war, battle, or 
 __go-to girl__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __good for you!__ A complimentary expression of encouragement for something that someone has done or received.  
+__hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
@@ -139,6 +149,7 @@ __jam-packed__
 __jump in__  
 __keep in mind__  
 __keep it real__  
+__kick (someone or something) to the curb__  
 __kick in__  
 __kindred spirit__  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
@@ -159,6 +170,7 @@ __line of work__
 __live up to (something)__  
 __lose it__  
 __loud and clear__  
+__make (one’s) mouth water__  
 __make great strides__  
 __make inroads (in/into something)__  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
@@ -216,6 +228,7 @@ __pop into (someone’s) head__ To occur or form suddenly in someone’s mind, a
 __pour gas/gasoline on the fire__  
 __power nap__  
 __pull the plug (on someone or something)__  
+__punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
 __rad__ :two::hammer:  
 __raise the bar__  
@@ -240,6 +253,7 @@ __rest on her laurels__
 __rest on one’s laurels__  
 __riddled with__ _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish_  
 __rock the boat__  
+__roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
 __roll with the punches__ :dart:  
 __rule out__ :two: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
 __rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
@@ -258,6 +272,7 @@ __serve time__
 __set in stone__  
 __set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
 __set the bar__  
+__seventh-inning stretch__ _baseball_ A tradition taking place in the middle (between the top and bottom) of the seventh inning during which the audience stands up to stretch and sing along to music, traditionally “Take Me Out to the Ball Game.”  
 __shake something off__  
 __social butterfly__ Someone who enjoys frequently mingling with other people at social events.  
 __soft pedal__ _There is no soft pedaling._  
