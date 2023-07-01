@@ -982,26 +982,6 @@ __tried-and-true__ _adj_ Tested and proved to be worthy or good.
 __trillion__ _n_ _There are trillions of microbes living in and on our bodies—and we might be able to modify them to help us treat diseases._  
 __trim__ _n_ _Metallic trim._  
 __trimmings__ _n_ _A delicious dinner complete with all the trimmings and free seconds._  
-__trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
-__trip__ _v_ _Tripping the fuses._  
-__trippy__  
-__trivial__ _adj_ /TRIV-ee-ul/ Of little worth or importance.  
-__trolley__ _n_ :two::hammer: _A motorized trolley._  
-__trompe-l’oeil__  
-__troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
-__trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
-__trout__ _n_ (_n pl_ trout or trouts)  
-__trove__ _n_ :three::hammer:  
-__trudge<sup>1</sup>__ _v_  
-__trudge<sup>2</sup>__ _n_  
-__truffle__ _n_ :two::hammer: :es: trufa  
-__trunk__ _n_ _Leatherbound Tibetan trunks._  
-__truss__ _n_ :two::hammer: _Trusses of grapes._  
-__trustworthy__  
-__tryst__ _n_ An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
-__tub__ _n_  
-__tubing<sup>1</sup>__ _adj_ _A lift-served, lighted tubing hill._  
-__tubing<sup>2</sup>__ _n_ :two::hammer: _River tubing._  
 __tuck away__ _v_ :two::hammer:  
 __tuck__ _v_ (tucked)  
 __tuff rock__  

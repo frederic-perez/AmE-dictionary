@@ -17705,8 +17705,9 @@ __trilobite__ _n_ :two::mega::hammer:
 __trim__ _n_ :three::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trimming__ _n_ :dart: __1__ An extra piece used to decorate or complete. __2__ _(plural)_ Usual or traditional accompaniments: _roast turkey with all the trimmings._ __3__ _(plural)_ Parts that are cut off. __4__ _(plural)_ Dialect ornaments; decorations: _Christmas trimmings._  
 __trinity__ _n_ _Trinity College in Dublin._  
-__trinkets__ _n_ :five::hammer:  
+__trinket__ _n_ :eight::hammer: _Trinket and tartan shops._  
 __trip wire__ _n_ _You hit a trip wire._  
+__trip__ _v_ _Tripping the fuses._  
 __trip-hammer<sup>1</sup>__ _n_  
 __trip-hammer<sup>2</sup>__ _adj_ Suggesting a trip-hammer in loud pounding or persistent action. _No trip-hammer questions._  
 __triple__  
@@ -17714,7 +17715,7 @@ __triple-check__ _v_
 __tripledemic__ _n_  
 __triplex__ _adj_ _A triplex penthouse._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
-__trippy__ _adj_ /ˈtrɪpɪ/ _It’s trippy and dark._ :es: flipante  
+__trippy__ _adj_ :two::hammer: /ˈtrɪpɪ/ _It’s trippy and dark._ :es: flipante  
 __triptych__  
 __trireme__ _n_  
 __triskelion__ _n_ (triskele)  
@@ -17722,6 +17723,7 @@ __Tristan and Isolde__ _n_ (Tristan and Isolde) A chivalric romance retold in nu
 __trite__ _adj_ :nine::m: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning “wear out.” An old-fashioned or outdated definition of the word is “frayed or worn out by use,” and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__ _n_ :three::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
+__trivial__ _adj_ /TRIV-ee-ul/ Of little worth or importance.  
 __trochanter__ _n_ :two::hammer: _Greater trochanter._  
 __troche__ _n_ /TROH-kee/ A small tablet or lozenge, typically round and sweetened.  
 __trodden down__ _v_  
@@ -17730,8 +17732,10 @@ __troglodyte__ _n_ :two::hammer:
 __Trojan__ _n_ :astonished: After Troy, an ancient city in modern-day Turkey. From the reputation of Trojans in defending their city. The computing sense is from Trojan horse. __1__ A person from Troy. __2__ One who exhibits great stamina, energy, and hard work. __3__ A merry fellow. __4__ In computing, a piece of malware that appears harmless, but causes damage.  
 __troll<sup>1</sup>__ _v_ :two::hammer: _Kim may see these dual transitions as an opening to troll world powers._  
 __troll<sup>2</sup>__ _n_ _He’s a gifted hacker and vicious troll._  
+__trolley__ _n_ :two::hammer: _A motorized trolley._  
 __trollop__  
-__troop__  
+__trompe-l’oeil__  
+__troop__ _n_ :two::hammer: _Wells Street is home to the famed Second City comedy troop._  
 __trooper__ _n_ :two::hammer:  
 __troot__  
 __trope__ _n_ :two::hammer: (tropes)  
@@ -17740,11 +17744,14 @@ __troposphere__
 __trot line__  
 __trot out__  
 __trot__  
+__trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
 __troubleshoot__ _v_ :three::hammer:  
 __troubleshooter__ _n_ :two::hammer:  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trousseau__ _n_ :two: The clothes, linen, etc, collected by a bride for her marriage. :es: ajuar  
+__trout__ _n_ (_n pl_ trout or trouts)  
+__trove__ _n_ :three::hammer:  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
 __troy ounce__ _n_ :two::hammer:  
@@ -17754,8 +17761,10 @@ __truck__ _v_ _They will not truck with terrorists._
 __truckle__ _v_  
 __truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m: (trudged, trudging) To walk in a laborious, heavy-footed way; plod. Walk heavily and firmly, as when weary, or through mud. _Mules plodded in a circle around a grindstone._ _Syn_ footslog, plod, slog, tramp, pad  
+__trudge<sup>1</sup>__ _v_  
+__trudge<sup>2</sup>__ _n_  
 __true to form__  
-__truffle__ _n_ :two::hammer: (truffles)  
+__truffle__ _n_ :four::hammer: :es: trufa  
 __truism__ _n_ :two::hammer:  
 __trull__  
 __truly__ _adj_ :two::hammer: _We truly appreciate it._  
@@ -17764,23 +17773,26 @@ __trumpeter__ _n_ _The trumpeters were flourishing bright pennants from their si
 __truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were truncated before publication._  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
-__truss__ _n_ :two::hammer:  
+__trunk__ _n_ _Leatherbound Tibetan trunks._  
+__truss__ _n_ :four::hammer: _Trusses of grapes._  
 __trussed up__ _v_  
 __trussed__ _v_ :three::hammer:  
 __trust company__  
 __trust__ _n_ (trusts)  
 __trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
-__trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._  
+__trustworthy__ _adj_ :three::dart::hammer: _Trustworthy information._  
 __truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and annoying, straining one’s patience and goodwill to the limit. Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
-__tryst__  
+__tryst__ _n_ :two: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
-__tub__ _n_ :six: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
+__tub__ _n_ :seven: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
+__tubing<sup>1</sup>__ _adj_ _A lift-served, lighted tubing hill._  
+__tubing<sup>2</sup>__ _n_ :two::hammer: _River tubing._  
 __tubthumping__  
 __tuck away__  
 __tuck<sup>1</sup>__ _v_ :six: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
