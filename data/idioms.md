@@ -2405,7 +2405,7 @@ __make the welkin ring__ To make a very loud, reverberating sound or noise. (“
 __make the world go round__ :dart: To be of critical or integral importance to the ordinary operation of life or the world at large. (Sometimes used hyperbolically.) _I tell you, coffee made the world go round when I was in grad school!_  
 __make up one’s mind__ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
-__make waves__ :seven: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water. _Make waves with an Apple computer._  
+__make waves__ :nine: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water. _Make waves with an Apple computer._  
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
 __mansplain__  
@@ -2440,16 +2440,19 @@ __menty b__ A cutesy shortening of the much more serious phrase mental breakdown
 __mess around__ :two::hammer:  
 __mess of pottage__ Something of little, trivial, or no value but which appears to be attractive or valuable on first reckoning. An allusion to Esau in Genesis 25:29–32, who sells to Jacob his birthright to his family’s estate for a bowl of lentil stew (pottage). _Only after the economic crash did it become fully clear what messes of pottage these sub-prime mortgages proved to be for first-time homeowners._  
 __mess with (someone or something)__  
+__messed up__  
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
 __middle ground__ :three: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __mike drop__  
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __mill about__ :two: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
+__milquetoast__  
 __mince (one’s) words__  
 __mind (one’s) manners__ To be well behaved and act appropriately. _Make sure you mind your manners while you are with your Aunt Josephine. I don’t want to hear about you giving her any trouble while I’m away!_  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
 __miss a beat__ _Without missing a beat._  
+__miss out__  
 __Miss Right__ The perfect or most suitable woman to be in a relationship with or to marry. _If you’re waiting for Miss Right to just appear in your life, you’re never going to find someone you’ll be happy with. You have to get out there and give people a chance!_  
 __miss the boat__  
 __miss the cut__ In golf, to fail to match or better the score necessary to remain in the final two rounds of a four-round tournament, thus resulting in elimination.  
@@ -2457,12 +2460,15 @@ __miss the mark__ :two: To be slightly or somewhat mistaken, incorrect, or inacc
 __miss the point__ :two::hammer:  
 __miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
 __missing link__  
+__mission accomplished__  
 __mission creep__ The gradual expansion or widening in scope of a project, action, or task, especially a military operation, beyond its initial goal or objective. _Congress is wary of granting the president’s request for military authority in the region, fearing a repeat of the mission creep that plagued his last war effort._  
 __mix and match__ :two: To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ To combine or compare two different things.  
-__mixed bag__  
+__mixed bag__ :two::hammer:  
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
+__mixed feelings__  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
+__Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
 __Monday morning quarterback__  
 __money doesn’t grow on trees__ :two: Money should not be wasted because it is not something that can be replenished whenever one wants. _I can’t believe you would spend your entire allowance on a silly video game. Money doesn’t grow on trees, you know!_  
 __money laundering__ :two: The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally. The criminal act or practice of processing large amounts of money obtained through illegitimate or illegal means, often in small increments through banks or other legitimate businesses, so as to conceal its source or origins. _One of the clubs downtown was shut down last week on charges of suspected money laundering for a local criminal enterprise._  
@@ -2473,24 +2479,34 @@ __mooch off (of) (someone or something)__ To ask for or obtain (something) throu
 __mop-top__  
 __moral compass__ :three: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics. _Our country’s moral compass has surely gone awry in recent times, as our priorities seem now to favor the wealthy accumulating more wealth at the expense of any other concern._  
 __more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always have a great time when Katie’s around—she’s more fun than a barrel of monkeys!_  
-__more often than not__ :two: Usually; as a rule. _Syn_ by and large, generally, mostly  
+__more often than not__ :four: Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
+__more so__ To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
+__more than meets the eye__  
+__morning person__  
 __most of the time__ _Most of the time I do my breakfast._  
+__mother hen__ _n_ A person who fusses over others in an overprotective manner.  
+__mother lode__  
 __mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  
 __mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or description, especially as makes one’s mouth salivate. _I can’t wait to eat—those steaks you’re cooking smell mouth-watering!_  
 __move heaven and earth__ To do everything that one can to make something happen.  
-__move the needle__ :two::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
+__move on__ _So, moving on to the next item on the agenda._  
+__move the goal posts__  
+__move the needle__ :three::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __much ado about nothing__  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
+__muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
-__mull over__ :dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
+__mull over__ :two::dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
 __muscle memory__  
 __mush (something) up__ To mash or crush something into a thick, soft pulp. _Make sure you mush up that banana before you give it to Katie—she’s still having trouble chewing solid food._  
 __mushhead__ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
 __my hands are tied__ You are not free to behave in the way that you would like for some reason.  
 __my lucky star__  
+__my spidey-sense is tingling__  
+__nail in (someone’s or something’s) coffin__  
 __name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__ :two: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
 __narrow escape__ :two::hammer:  

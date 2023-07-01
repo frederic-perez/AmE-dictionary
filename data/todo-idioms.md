@@ -164,27 +164,6 @@ __make inroads (in/into something)__
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make or break__  
 __make up (one’s) mind__  
-__make waves__ :two::hammer:  
-__messed up__  
-__milquetoast__  
-__miss out__  
-__mission accomplished__  
-__mixed bag__  
-__mixed feelings__  
-__Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
-__more often than not__ :two::hammer:  
-__more so__ To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
-__more than meets the eye__  
-__morning person__  
-__mother hen__ _n_ A person who fusses over others in an overprotective manner.  
-__mother lode__  
-__move on__ _So, moving on to the next item on the agenda._  
-__move the goal posts__  
-__move the needle__ To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
-__muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
-__mull over__ To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
-__my spidey-sense is tingling__  
-__nail in (someone’s or something’s) coffin__  
 __naked eye__ _With the naked eye._  
 __narrow the gap__  
 __nip in the bud__  
