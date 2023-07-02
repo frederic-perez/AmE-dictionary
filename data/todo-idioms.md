@@ -2,6 +2,9 @@ __(it’s) (a)bout time__ It is almost too late!; I’ve been waiting a long tim
 __a disaster waiting to happen__  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
 __a front-row seat__  
+__a going concern__ :astonished: A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _The odds weren’t great setting up another café in town, but it has since become a going concern._  
+__a good turn__ An action that is beneficial to another person in some way. _Angela did me a good turn by sharing her notes with me while I was out sick from school._  
+__a lean patch__ A period of failure, decline, or poor performance or results. _Almost every new business experiences a lean patch at some point or another._  
 __a life of its own__ The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
 __a rough patch__ A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
@@ -120,15 +123,25 @@ __GI Joe__
 __git it a shot__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
+__go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
+__go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go to Canossa__  
 __go to great lengths (to do something)__  
 __go to the mattresses__ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders. _While the political party has shown some flexibility over other contentious issues, it looks as though they’re ready to go to the mattresses over this one._  
+__go under the hammer__ To be put up for or sold at auction. _The bankers family estate had to go under the hammer to cover some of his mounting debt._  
 __go-to girl__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
+__golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
 __good for you!__ A complimentary expression of encouragement for something that someone has done or received.  
+__good going__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good going, Frank, now we’re going to have to rebuild this entire model from scratch._  
+__good graces__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good graces” or some variation thereof. _John’s been in my good graces ever since he helped get me out of debt._  
+__good job__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
+__good-natured__ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
+__goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__have (got) a knack for (something)__ To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
@@ -178,6 +191,7 @@ __make or break__
 __make up (one’s) mind__  
 __naked eye__ _With the naked eye._  
 __narrow the gap__  
+__nice one__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Nice one, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __nip in the bud__  
 __nod off__ :dart:  
 __note to self__  
@@ -323,6 +337,7 @@ __tall order__ :two::hammer:
 __tap into something__  
 __tap into__  
 __thank God__ _That was the end of it—thank God._  
+__the going thing__ The latest and most popular trend, fad, or fashion. _My son came home asking to have half his head shaved—apparently, that’s the going thing these days!_  
 __the likes of__  
 __the lion’s den__  
 __the meat and potatoes__  
