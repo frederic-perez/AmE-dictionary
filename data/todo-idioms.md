@@ -206,26 +206,6 @@ __other than (something)__
 __ouch__ :dart:  
 __out of character__  
 __outsmart (oneself)__  
-__pecking order__ :two:::hammer: _Regardless of how good you are at your job, whether you’re a consultant, [...,] physician’s associate, or GP, qualifications still puts you in a pecking order._  
-__pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
-__people pleaser__ (_less commonly_ people-pleaser)  
-__perfect storm__  
-__phish__ To attempt to steal personal information that can be used to defraud someone by pretending to be person or website that legitimately requires such information.  
-__pick a fight__  
-__pick on (someone or something)__  
-__pick someone up__  
-__pick up__ _He will pick up the tool?_  
-__piece of cake__  
-__piece of shit__  
-__pill__ __1__ _slang_ An unsavory, unpleasant, or difficult person. _Tom is such a pill, but I have to work with him to get this project finished, unfortunately._  
-__piping hot__  
-__piss off__  
-__pitch in__ :dart:  
-__pizzazz__  
-__place an order__  
-__play off__  
-__pop into (someone’s) head__ To occur or form suddenly in someone’s mind, as a thought, idea, or revelation. _The idea for this new model of car just popped into my head as I was driving home last night._  
-__pour gas/gasoline on the fire__  
 __power nap__  
 __pull the plug (on someone or something)__  
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
