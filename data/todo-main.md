@@ -1004,26 +1004,6 @@ __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.
 __tweak__ _v_ _Tweak your workout routine._  
 __tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
 __twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
-__twist__ _n_ :three::hammer: _An innovative twist._  
-__twitch<sup>1</sup>__ _v_  
-__twitch<sup>2</sup>__ _n_ _That wad a beautiful last twitch._  
-__tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
-__typify__ _v_ (typifies)  
-__tyro__ _n_ A beginner in learning something. _Syn_ beginner, initiate, novice  
-__uber__ _adj_ :two::hammer:  
-__ubiquitous__ _adj_ :two::pencil2: Existing or being everywhere, especially at the same time; omnipresent.  
-__ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
-__ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
-__umbrage__ _n_ /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
-__umpteen__ _adj, n_  
-__umpteenth__ _adj_ :dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
-__underling__ _n_  
-__undermine__ _v_  
-__underscore__ _v_  
-__unduly__ _adv_ Excessively; immoderately: _unduly familiar with strangers._  
-__unequaled__ _adj_  
-__unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
-__uneven__  
 __uneventful__ _adj_ /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet.  
 __unfazed__ _adj_  
 __unfold__ _v_  

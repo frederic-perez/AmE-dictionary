@@ -17887,11 +17887,11 @@ __twinge__ _n_ :three::hammer: _A painful twinge._
 __twinkle__  
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
-__twist__ _n_ _I’ll have my vodka martini with a twist of lemon._  
+__twist__ _n_ :four::hammer: _An innovative twist._ _I’ll have my vodka martini with a twist of lemon._  
 __twister__ _n_ __3__ _informal_ A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
-__twitch<sup>1</sup>__ _n_  
-__twitch<sup>2</sup>__ _v_ :eight::hammer: (twitched) _The curtain was twitched._ _A curtain twitched in the house next door._  
+__twitch<sup>1</sup>__ _n_ :two::hammer: _That wad a beautiful last twitch._  
+__twitch<sup>2</sup>__ _v_ :nine::hammer: (twitched) _The curtain was twitched._ _A curtain twitched in the house next door._  
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
@@ -17902,29 +17902,34 @@ __two-timer__ _n_
 __twofer__ _n_ _informal_ :three::hammer:  
 __tycoon__ _n_ :five::hammer: [:scroll: Tycoon is an English variation of the Japanese word _taikun_, which comes from Chinese words meaning “great prince.”]  
 __tying__ _v_ :pencil2:  
+__tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __type-A personalities__  
 __typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
+__typify__ _v_ (typifies)  
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__ _n_ :two::pencil2::mega:  
 __tyrant__ _n_ :three::hammer:  
-__tyro__ _n_ (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
+__tyro__ _n_ :two: (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
-__ubiquitous__ _adj_ :three: /yoo-bik-wi-tuhs/ Being or seeming to be everywhere at the same time. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
+__uber__ _adj_ :two::hammer:  
+__ubiquitous__ _adj_ :five::pencil2: /yoo-bik-wi-tuhs/ Being or seeming to be everywhere at the same time. Existing or being everywhere, especially at the same time; omnipresent. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
 __ulterior__ _adj_  
 __ultimately__  
 __ultimatum__ _n_ :mega:  
+__ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
+__ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __ululate__ _v_ :two: Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
-__umbrage__ _n_ :three: A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._  
+__umbrage__ _n_ :four: /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._ _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
 __umbrella__ _n_ _Under his umbrella._  
-__umpteen__  
-__umpteenth__ _adj_ :two::dart: Last in an indefinitely numerous series.  
+__umpteen__ _adj, n_ :two::hammer:  
+__umpteenth__ _adj_ :three::dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
 __un-American__  
 __unabashed__ _adj_ :nine::m: /un-uh-BASHT/ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. _An unabashed fan._ _Unabashed humor._  
 __unabashedly__  
@@ -17981,13 +17986,14 @@ __undergo__ _v_
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
+__underling__ _n_  
 __underlying__ _adj_ _The underlying software stack._  
 __undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
 __underpin__ _v tr_ :six::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  
-__underscore__ _v_ :five: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
+__underscore__ _v_ :six: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
 __undersecretary__  
 __understandably__ _adv_ :two::hammer:  
 __understated__ _adj_  
@@ -18013,12 +18019,15 @@ __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, 
 __undulate__ _v_ :two: /UN-juh-layt/ Undulate is a formal word that means “to move or be shaped like waves.” To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :nine::hammer:  
+__unduly__ _adv_ :nine::m: Excessively; immoderately: _unduly familiar with strangers._  
 __unearth__ _v_ :five::hammer: (unearthed)  
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
+__unequaled__ _adj_  
+__unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unequivocally__  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
+__uneven__  
 __uneventful__ _adj_ Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
