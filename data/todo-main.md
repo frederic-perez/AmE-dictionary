@@ -31,6 +31,7 @@ __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.
 __bench__ _v_  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
+__billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
 __bird of prey__ _n_  
 __blackmail__  
 __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
@@ -46,12 +47,14 @@ __brain death__ _n_ _We’re witnessing the brain death of Twitter._
 __brain fog__ _n_  
 __brainwash__ _n_  
 __brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
+__bravado__  
 __breadwinner__ _n_ :pencil2:  
 __breastwork__ _n_  
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __bully__ _n_  
+__bunting__ _n_  
 __byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __Calvinism__ _n_  
 __calypso__ _n_ (music)  
@@ -63,6 +66,7 @@ __castor__
 __catharsis__ _n_  
 __catnap__  
 __catnip__  
+__cerulean__ _n_  
 __chalet__ _n_ :mega:  
 __chime__ _v_ _Everybody chimes into a discussion._  
 __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
@@ -98,6 +102,7 @@ __dalai lama__ _n_ :mega:
 __daredevil__ _n_  
 __debouch__ _v_  
 __decidophobia__ _n_  
+__decollete__ _adj_ Cut low at the neckline. _Syn_ low-cut, low-necked  
 __dis__ _v_  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
@@ -112,6 +117,7 @@ __dovetail__ _v_
 __downtime__ _n_  
 __dragon__ _n_ :mega:  
 __drawn-out__ _adj_ Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
+__dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
 __dysgraphia__ _n_  
 __earplug__ _n_ :pencil2:  
 __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
@@ -120,6 +126,7 @@ __edge__ _v_ Advance slowly, as if by inches. _He edged closer to the door._ _A 
 __effect__ _v_  
 __eleven__ _n_ :mega:  
 __elope__ _v intr_  
+__embezzle__ _v_ /im-BEZZ-ul/  
 __emote__ _v intr_  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
@@ -143,6 +150,7 @@ __ex-con__ _n_ _informal_ A former prisoner.
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
+__facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
 __fare__ _v intr_  
@@ -185,6 +193,7 @@ __fulcrum__ _n_ /FULL-krum/ In technical use, fulcrum refers to the support on w
 __fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate pests or disinfect. _Syn_ fume  
 __furuncle__ _n_ A painful sore with a hard pus-filled core. _Syn_ boil _His doctor referred him to a dermatologist who would examine the furuncle on his leg._  
 __gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute  
+__gala__ _n_  
 __gamut__ _n_ /GAM-ut/ A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things. _I adore licorice, mints, lollipops, candy corn—the whole gamut of penny candy._  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
@@ -223,6 +232,7 @@ __Holy Week__ _n_ The week before Easter. Also called _Passion Week._
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __hustle__ _v_  
+__hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
 __illegal__ _adj, n_ :mega:  
 __impending__  
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
@@ -230,6 +240,7 @@ __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or l
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indomitable__ _adj_ /in-DAH-muh-tuh-bul/ Indomitable is a formal word used to describe something that is impossible to defeat or discourage.  
 __indulge__  
+__inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
 __infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
@@ -247,6 +258,7 @@ __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England 
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __juvenilize__  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __laconic__  
 __laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
@@ -570,7 +582,7 @@ __riff__ _v_
 __right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
-__rivulet__ _n_  
+__rivulet__ _n_ :two: A small brook or stream. _Syn_ rill, runnel, streamlet, run  
 __rocker__ _n_  
 __ropy__ _adj_  
 __roustabout__ _n_ A member of a ship’s crew who performs manual labor. _Syn_ deckhand  
@@ -765,6 +777,7 @@ __southerly__ _adj_
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
+__spangle__ _n_ _Syn_ glitter, sequin  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __spate__ _n_  
 __spaz__  
@@ -1094,6 +1107,7 @@ __vineyard__ _n_
 __vintner__ _n_  
 __virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __visceral__ _adj_ _Visceral reaction._  
+__viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
 __visitor__  
 __viticulture__ _n_  
 __vocation__ _n_ /voh-KAY-shun/  
@@ -1136,6 +1150,7 @@ __wet suit__ _n_
 __wetback__  
 __wetsuit__ _n_  
 __wheel of fortune__ _n_ (game)  
+__whimsical__ _adj_ :astonished: /WIM-zih-kul/ __1__ Characterized by, arising from, or subject to whimsy: _a whimsical decision._ __2__ Playful or fanciful, especially in a humorous way.  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
 __wholly__ _adv_  
