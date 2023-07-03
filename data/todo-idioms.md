@@ -224,36 +224,6 @@ __power nap__
 __pull the plug (on someone or something)__  
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
-__rad__ :two::hammer:  
-__raise the bar__  
-__rapid fire__ _Start with rapid fire decisions._  
-__raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
-__rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
-__rave about (something)__ To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
-__ready, set, go__  
-__reap the benefits__ To enjoy the rewards resulting from something. _You’ll always reap the benefits of hard work—don’t ever forget that._  
-__reckon with__ :dart: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
-__red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
-__red flag__ :two::hammer:  
-__red flags__  
-__red herring__  
-__reinvent (oneself)__ :two: To create a new style or persona for oneself; to change one’s pursuits, way of life, etc. _As a teenager, I was always trying to reinvent myself to be cooler or more mysterious._  
-__relate to (someone or something)__  
-__relief party__  
-__reminisce about (someone or something)__ To recall or think back on memories of someone or something, especially in a fond and sentimental manner. _We sat together reminiscing about the wild times we had in college together._  
-__resonate with (one)__  
-__rest assured__ :two::hammer:  
-__rest on her laurels__  
-__rest on one’s laurels__  
-__riddled with__ _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish_  
-__rock the boat__  
-__roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
-__roll with the punches__ :dart:  
-__rule out__ :two: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
-__rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
-__run-of-the-mill__  
-__running joke__  
-__save face__ :two::hammer:  
 __scarlet letter__ :two::hammer:  
 __second-guess__  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  

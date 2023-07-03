@@ -2964,35 +2964,50 @@ __rabbit hole__ :four::hammer: _We fell into the poop rabbit hole again in this 
 __rabble-rouser__ :two: Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __race against the clock__  
 __race against time__ To do something very quickly.  
+__rad__ :two::hammer:  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun. _My uncle’s is a true rags-to-riches story. He grew up without a penny, but through sheer determination, he founded his own company and is now one of the wealthiest men in the state._  
 __rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
 __rain or shine__ _Market open rain or shine._  
 __rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
-__raise the bar__  
+__raise the bar__ :two::hammer:  
 __ramp up__ :two::hammer:  
+__rapid fire__ _Start with rapid fire decisions._  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
+__raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
 __rat race__ :two: [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc. __1__ A fierce competition for success, wealth, or power. _The company’s environment felt like a rat race—employees were constantly sabotaging each other to climb the corporate ladder._ __2__ :astonished: A busy, tiring routine. _Cathy was tired of the rat race and knew she needed to get a less stressful job._  
 __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
+__rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
+__rave about (something)__ To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
 __raw deal__ _n_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __reach for the stars__ :two: Have high or ambitious aims.  
 __read between the lines__  
 __read it and weep__  
 __ready cash__  
+__ready, set, go__  
+__reap the benefits__ To enjoy the rewards resulting from something. _You’ll always reap the benefits of hard work—don’t ever forget that._  
 __receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
-__reckon with__  
+__reckon with__ :dart::two: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
+__red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
+__red flag__ :three::hammer:  
+__red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red pill__  
-__reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
+__reinvent (oneself)__ :three: To create a new style or persona for oneself; to change one’s pursuits, way of life, etc. _As a teenager, I was always trying to reinvent myself to be cooler or more mysterious._ _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
+__relate to (someone or something)__  
+__relief party__  
 __religious intolerance__ Intolerance of another’s religious beliefs or practices or lack thereof. _Religious intolerance waxed._  
+__reminisce about (someone or something)__ To recall or think back on memories of someone or something, especially in a fond and sentimental manner. _We sat together reminiscing about the wild times we had in college together._  
 __reset button__  
-__rest assured__ :two::hammer: _Rest assured you’ll sleep like an angel._  
+__resonate with (one)__  
+__rest assured__ :four::hammer: _Rest assured you’ll sleep like an angel._  
 __rest my case__ :two::hammer: _I rest my case._  
+__rest on one’s laurels__ :two::hammer:  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __revel in__  
 __rid out__ _(chiefly Midwestern United States)_ To clean, empty, or clear out (something or some space). Primarily heard in US. _You’ve got to learn to rid out some of these negative thoughts you’ve been having, and make room for some positive emotions._ _I’ll be spending this weekend ridding out the garage._  
-__riddle with__ :three::hammer: (riddled with) _Neuralink’s oversights board is riddled with potential conflicts._  
+__riddled with__ :four::hammer: _v_ (riddled with) __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish._ _Neuralink’s oversights board is riddled with potential conflicts._  
 __ride or die__ _n_ :astonished: One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
 __ride the pine__ In sports (especially baseball), to remain sitting on the bench, rather than be an active participant in the game. _I’m not going to play next year if coach makes me ride the pine again this season._  
 __ride the rail(s)__ To travel on a vehicle mounted on rails (especially a train or streetcar). _I know it takes a lot longer than flying, but I love riding the rail from Portland to Vancouver._  
@@ -3017,15 +3032,16 @@ __rise from the ashes__ To recover after a serious failure.
 __rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
 __rock bottom__ :two::hammer:  
 __rock solid__  
-__rock the boat__ :eight: To do or say something that might endanger a stable situation or upset the status quo. _None of my family members are fighting with each other right now, so please don’t rock the boat by bringing up politics or any other controversial topics._  
+__rock the boat__ :nine: To do or say something that might endanger a stable situation or upset the status quo. _None of my family members are fighting with each other right now, so please don’t rock the boat by bringing up politics or any other controversial topics._  
 __rocket science__ :three: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
 __roll (one’s) eyes__ :four: To turn one’s eyes upward or around in a circle, usually as an expression of exasperation, annoyance, impatience, or disdain. _I just rolled my eyes as my dad told another one of his corny jokes._  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
+__roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
 __roll out__ __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
 __roll the dice__ To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
 __roll with it__ :two: To adapt to a situation despite unexpected circumstances or challenges.  
-__roll with the punches__ Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
+__roll with the punches__ :dart::two: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __roller coaster__ _Emotional roller coaster._  
 __rolling in dough__ Exceptionally wealthy; having large amounts of money to spend. _I hear her father is rolling in dough, so I wouldn’t be too worried about her future._  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
@@ -3042,6 +3058,8 @@ __rubber stamp__
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __ruffle (one’s) feathers__  
 __rug rat__ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
+__rule out__ :two: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
+__rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
 __rumor has it (that)__ :three: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
 __rumor mill__ :four: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
 __run (one’s) mouth (off)__  
@@ -3058,8 +3076,9 @@ __run the show__
 __run wild__ :two: To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
 __run with it__  
 __run with scissors__  
+__run-of-the-mill__  
 __running bit__  
-__running joke__  
+__running joke__ :two::hammer:  
 __rush out__  
 __saber rattling__ :dart: (saber-rattling) A show or threat of military power. Words and actions that seek to convey anger, power, and intimidation, often in a military setting. _The leaders of these countries need to quit their saber rattling before we end up at war._  
 __sack (someone)__ _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
@@ -3074,7 +3093,7 @@ __same same__
 __sanctum sanctorum__ :two::hammer:  
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
 __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
-__save face__ :four: To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
+__save face__ :six: To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __save the day__ :dart::six: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
