@@ -98,6 +98,7 @@ __critical mass__ _n_ /KRI-ti-kuhl MAHS/ The minimum amount or number of somethi
 __cull__ _n_ _Meeting culls are also popular._  
 __cult__ _n_ :mega:  
 __cumulonimbus__ _n_ _Syn_ thunderstorm  
+__cuttlefish__ _n_  
 __dalai lama__ _n_ :mega:  
 __daredevil__ _n_  
 __debouch__ _v_  
@@ -146,6 +147,7 @@ __etch__ _v_
 __etiology__  
 __etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
+__ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __expat__  
@@ -167,6 +169,7 @@ __fictive__ _adj_
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
+__first responder__ _n_ :two: A person, such as a police officer, firefighter, or EMT, trained in urgent medical care and other emergency procedures and prepared to move quickly to the scene of an accident or disaster.  
 __flamethrower__ _n_  
 __flattop__ _n_ A large warship that carries planes and has a long flat deck for take-offs and landings. _Syn_ aircraft carrier  
 __flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
@@ -192,6 +195,7 @@ __fubar__ _adj_
 __fulcrum__ _n_ /FULL-krum/ In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something. _Although the lead actor was phenomenal, critics believe that the supporting cast was the real fulcrum of the show._  
 __fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate pests or disinfect. _Syn_ fume  
 __furuncle__ _n_ A painful sore with a hard pus-filled core. _Syn_ boil _His doctor referred him to a dermatologist who would examine the furuncle on his leg._  
+__fusion cooking__ _n_ Cooking that combines ingredients and techniques and seasonings from different cuisines.  
 __gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute  
 __gala__ _n_  
 __gamut__ _n_ /GAM-ut/ A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things. _I adore licorice, mints, lollipops, candy corn—the whole gamut of penny candy._  
@@ -356,6 +360,10 @@ __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all 
 __optíonal__ _adj_ :mega:  
 __ostopenia__  
 __outcome__ _n_ :mega:  
+__overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
+__overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
+__oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
+__overview__ _n_ A general review or summary of something.  
 __paganism__ _n_  
 __palliative care__ _n_  
 __parcel__ _v tr_  
@@ -587,6 +595,7 @@ __rocker__ _n_
 __ropy__ _adj_  
 __roustabout__ _n_ A member of a ship’s crew who performs manual labor. _Syn_ deckhand  
 __Rubicon__ _n_  
+__rundown__ _n_  
 __sabotage__ _v tr_ _I was sabotaging myself._  
 __sacristy__ _n_  
 __sacrosanct__ _adj_ /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
@@ -732,6 +741,7 @@ __sheepskin__ _n_
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
 __showbiz__ _n_  
+__side of bacon__ _n_ Salted and cured abdominal wall of a side of pork. _Syn_ flitch  
 __sidestep__ _v_  
 __sigmoidoscopy__ _n_  
 __single-handedly__ _adv_ :dart: Without assistance.  
@@ -778,6 +788,7 @@ __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball p
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
 __spangle__ _n_ _Syn_ glitter, sequin  
+__Spanglish__ _n_ Spanish characterized by numerous borrowings from English.  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __spate__ _n_  
 __spaz__  
@@ -1014,9 +1025,10 @@ __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity 
 __turquoise__ _n_ /TUHR-koiz/kwoiz/ [:scroll: Named after Turkey. The gemstone was called turquoise because either it was discovered in Turkey or transported to Europe via Turkey.] __1__ A blue, bluish-green, or greenish-gray semi-precious stone. __2__ A bluish-green color.  
 __turret__ _n_ :two::hammer:  
 __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
-__tweak__ _v_ _Tweak your workout routine._  
+__tweak__ _v tr_ :two::hammer: _Tweak your workout routine._  
 __tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
 __twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
+__unbundling__ _n_  
 __uneventful__ _adj_ /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet.  
 __unfazed__ _adj_  
 __unfold__ _v_  
@@ -1043,6 +1055,8 @@ __unwavering__ _adj_
 __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
 __unwittingly__ _adv_ Without knowledge or intention. _He unwittingly deleted the references._  
 __upheaval__ _n_  
+__upkeep__ _n_  
+__upskilling__ _n_ Teaching or learning additional skills.  
 __use__ _v_ _informal_  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
