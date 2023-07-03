@@ -1131,56 +1131,6 @@ __walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.
 __wall clock time__ _n_  
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
-__wallow__ _v_ :three::hammer:  
-__wanderlust__ _n_ :two::hammer:  
-__wanderwort__ _n_ A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.  
-__wannabe__ _adj, n_  
-__wares__ _n_ _The retailers showcase their wares on the runway._  
-__warrant__ _v_  
-__watchword__ _n_ :three: A slogan used to rally support for a cause. _Syn_ cry _“Fight and fall, but fly not,” that was our watchword._  
-__water flumes__ _n_  
-__water__ _n_ :mega:  
-__waterbed__ _n_  
-__waterbugs__ _n_  
-__waterfowl__ _n_  
-__waterfront__ _n_ :two: Land, land with buildings, or a section of a town fronting or abutting on a body of water.  
-__weaponize__ _v_  
-__weather vane__ _n_ /WETH-uhr vayn/ __1__ A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. __2__ Someone or something constantly changing.  
-__wet suit__ _n_  
-__wetback__  
-__wetsuit__ _n_  
-__wheel of fortune__ _n_ (game)  
-__whimsical__ _adj_ :astonished: /WIM-zih-kul/ __1__ Characterized by, arising from, or subject to whimsy: _a whimsical decision._ __2__ Playful or fanciful, especially in a humorous way.  
-__wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
-__wholesome__  
-__wholly__ _adv_  
-__wide-eyed__ _adj_ _Wide-eyed ingenue._  
-__widen__ _v_ _Widening the sidewalks._  
-__wildflowers__ _n_ :two::hammer:  
-__wildfowl__  
-__Willamette__ _n_  
-__willy-nilly__ _adj, adv_ :two::hammer:  
-__wily__  
-__wimpy__ _adj_  
-__wind chimes__ _n pl_  
-__windchimes__ _n_  
-__windsock__ _n_ A tapered, open-ended sleeve pivotally attached to a standard, that indicates the direction of the wind blowing through it. _Syn_ drogue, air sock, wind cone  
-__winningest__ _adj informal_ /ˈwɪn ɪŋ ɪst/ __1__ Winning most often: _the winningest coach in college basketball._ __2__ Most winning or charming: _the winningest smile in town._  
-__winter__ _v_ _Explorers wintered in the neighborhood in 1805._  
-__winterfest__ _n_ Any of various winter festivals.  
-__wintering__ _v_  
-__winze__  
-__wishful__ _adj_ _A wishful thought._  
-__wishy-washy__  
-__wistful__ _adj_ :two::hammer: /WIST-ful/ _As the car pulled away, Lea cast one last wistful glance at the house where she’d spent so many happy years._  
-__Wite-Out__ _n_  
-__withershins__ _adv_  
-__witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
-__witty__ _adj_ _A witty cast of characters that serve and entertain._  
-__wizen__ _v_  
-__woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
-__womance__ _n_ A close friendship between women.  
-__wonderland__ _n_ :two::hammer:  
 __wordle__ _n_ (game)  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
