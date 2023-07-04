@@ -224,36 +224,6 @@ __power nap__
 __pull the plug (on someone or something)__  
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
-__scarlet letter__ :two::hammer:  
-__second-guess__  
-__seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
-__seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
-__self-fulfilling prophecy__  
-__sell up__  
-__send (one’s) love to (someone)__  
-__send off__  
-__serve time__  
-__set in stone__  
-__set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
-__set the bar__  
-__seventh-inning stretch__ _baseball_ A tradition taking place in the middle (between the top and bottom) of the seventh inning during which the audience stands up to stretch and sing along to music, traditionally “Take Me Out to the Ball Game.”  
-__shake something off__  
-__social butterfly__ Someone who enjoys frequently mingling with other people at social events.  
-__soft pedal__ _There is no soft pedaling._  
-__soon enough__ No later than needed, soon.  
-__sort it out__  
-__sort through (something)__  
-__sound the alarm__ :two: To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
-__souped up__ :dart: Modified to have increased power or performance. Sometimes hyphenated when used before a noun. _At this point, her car is so souped up that it could probably reach 200 miles per hour!_  
-__spare time__  
-__speaking of which__  
-__spell disaster__  
-__spice up__  
-__spill out (of something)__  
-__spin (one’s) wheels__  
-__spot on__ :two::hammer: (spot on)  
-__spring (something) on (one)__ To tell, present, or disclose something unexpected to one. _I’m springing a trip to Barcelona on my wife for her birthday._ _The boss sprang several huge changes to the project on us at the last minute._  
-__squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __squeal on (one)__  
 __squeeze in__ _Lawmakers squeezed in a key detail in the latest draft, requiring generative AI companies to disclose any copyrighted material used in training their models._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  

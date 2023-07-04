@@ -3104,6 +3104,7 @@ __scare (one) silly__ To shock or frighten one very suddenly or severely. Hyperb
 __scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __scare the shit out of someone__  
+__scarlet letter__ :two::hammer:  
 __schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism, especially in art, music, or writing. Originally from Yiddish. _The film is pretty schmaltzy, to be sure, but it would take a heart of stone not to be moved by it all the same._  
 __schmooze__  
 __score big__ _Come in and score big._  
@@ -3119,7 +3120,7 @@ __second best__ :two: (Describing) someone or something that is one step below o
 __second guess__  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __second-class citizen__  
-__second-guess__ :four: __1__ To question or doubt someone or something retroactively. _Why are you second-guessing me now? You agreed with this course of treatment just yesterday!_ _You made the best decisions you could with the information you had at the time, so please don’t second-guess yourself._ __2__ To try to anticipate how something will happen or what someone will do. _Trying to second-guess the outcome of a game in progress is exhausting._  
+__second-guess__ :five: __1__ To question or doubt someone or something retroactively. _Why are you second-guessing me now? You agreed with this course of treatment just yesterday!_ _You made the best decisions you could with the information you had at the time, so please don’t second-guess yourself._ __2__ To try to anticipate how something will happen or what someone will do. _Trying to second-guess the outcome of a game in progress is exhausting._  
 __secondhand smoke__ Tobacco smoke involuntarily inhaled.  
 __secret sauce__ _Secret sauce_ is an expression used to refer to a special quality, feature, or strategy that contributes to the success of a product, service, or individual. It is typically kept secret, as its uniqueness is seen as the key to its success.  
 __secret weapon__ :two::hammer:  
@@ -3130,13 +3131,19 @@ __see red__ :three: To become very angry. To fall into a state of extreme anger,
 __see-and-be-seen__ To be noticed by others or to attract attention, especially in social situations. It often implies seeking the attention of important or influential people in order to advance one’s own interests or status. This phrase can also refer to the practice of observing and being observed in social environments, such as trendy nightclubs, where being seen is valued for its own sake. _See-and-be-seen restaurant._  
 __seek after__  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
+__seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
+__seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __seize the opportunity__ :two: To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
+__self-fulfilling prophecy__  
 __sell (someone, something, or oneself) short__ :two: To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
 __sell like hotcakes__ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
+__sell up__  
+__send (one’s) love to (someone)__  
 __send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
-__send off__  
+__send off__ :two::hammer:  
+__serve time__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone or something) off__  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
@@ -3144,13 +3151,17 @@ __set (something) in cement__ To establish something firmly or permanently; to m
 __set (something) out__  
 __set about (doing something)__ To undertake a task; to begin doing something. _After the meeting, I’ll set about writing a draft of the report._  
 __set down<sup>1</sup>__ To seat, to cause to sit.  
-__set in stone__ No longer changeable. _The agreement is not yet set in stone._ _Our mindset is never set in stone, but constantly in flux._  
+__set in stone__ :two: No longer changeable. _The agreement is not yet set in stone._ _Our mindset is never set in stone, but constantly in flux._  
+__set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
+__set the bar__  
 __set the pace__  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__  
 __seventh heaven__ :two::astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
+__seventh-inning stretch__ _baseball_ A tradition taking place in the middle (between the top and bottom) of the seventh inning during which the audience stands up to stretch and sing along to music, traditionally “Take Me Out to the Ball Game.”  
 __shake a leg__ :two::hammer:  
 __shake off__ Free oneself or get rid of something or someone, as in _I’ve had a hard time shaking off this cold_, or _She forged ahead, shaking off all the other runners._  
+__shake something off__  
 __shake up__ :three::hammer:  
 __shaken up__ Greatly startled, shocked, or upset. _I was very shaken up after the car accident. I couldn’t even speak properly to the police for about an hour._  
 __shame on (one)__ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
@@ -3271,32 +3282,45 @@ __so-and-so__ :dart: __1__ Some unnamed or unknown person. _They always have som
 __soak up__  
 __soak__ _v_  
 __soaked to the bone__ Extremely or completely wet, especially through one’s clothing. _I can’t believe you pushed me into the pool! Now I have to walk home soaked to the bone!_  
+__social butterfly__ Someone who enjoys frequently mingling with other people at social events.  
 __social hour__ :two: Time spent talking and hanging out with people.  
+__soft pedal__ _There is no soft pedaling._  
 __something is rotten in the state of Denmark__  
 __something or other__ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
-__sort it out__ :six: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
+__soon enough__ No later than needed, soon.  
+__sort it out__ :seven: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
+__sort through (something)__  
+__sound the alarm__ :two: To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
 __sounding board__ A person or group with whom one discusses an idea, plan, or suggestion in order to evaluate its strengths, acceptability, feasibility, practicality, etc. _My friend John and I really know each other’s skills and interests, so whenever one of us has an idea for a new project, we use the other as a sounding board._  
+__souped up__ :dart: Modified to have increased power or performance. Sometimes hyphenated when used before a noun. _At this point, her car is so souped up that it could probably reach 200 miles per hour!_  
 __sour grapes__ Criticism or disparagement of that which one cannot have. The phrase originated in one of Aesop’s fables, in which a fox that cannot reach some grapes deems them sour and therefore undesirable. _He always mocks sports cars as being really impractical, but it’s just sour grapes, if you ask me._  
 __spare a thought for__ To think about. _You should spare a thought for those who are less fortunate than you._  
+__spare time__  
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
 __speak of the devil, and he shall appear__ _proverb_ An acknowledgment of a person who has arrived just as or after they were being discussed.  
 __speak up__ __1__ To speak loud enough to be audible: _Speak up—I can’t hear you._ __2__ To speak without fear or hesitation: _You have to speak up if you want something._  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
+__speaking of which__  
+__spell disaster__  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
+__spice up__  
+__spill out (of something)__  
 __spill the beans__ :two: To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
-__spin (one’s) wheels__ :four: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
+__spin (one’s) wheels__ :five: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
 __split hairs__ :two: Argue or worry about small details.  
 __spoiled for choice__ Having an abundance of suitable or ideal options from which to choose, such that it may be difficult to make a decision. Primarily heard in US. _Between video games, television, and the Internet, kids these days are being brought up spoiled for choice when it comes to their entertainment._  
 __sponge something up__ To absorb or take up moisture, as with a sponge. _I had to sponge the spilled milk up from the floor, the chair, the table, and the baby. What a mess! Liz sponged up the water._  
-__spot on__ _informal_ :seven: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
+__spot on__ _informal_ :nine: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
 __spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__spring (something) on (one)__ To tell, present, or disclose something unexpected to one. _I’m springing a trip to Barcelona on my wife for her birthday._ _The boss sprang several huge changes to the project on us at the last minute._  
 __spring fever__ A feeling of often restless excitement or exuberance coinciding with the onset of warmer spring weather. _It’s hard enough keeping control of a class full of young children throughout the year, but it’s particularly difficult once spring fever starts to spread._  
 __spring to life__ To become suddenly alive or more alive. _The party sprang to life after midnight._ _The city sprang to life at dawn._  
 __spruce up__ _v_ :four: To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
 __spur of the moment__ An impulse characterized by a lack of preparation or consideration. The phrase can be hyphenated and used as a modifier before a noun. _The administrators mada a “spur of the moment” decision to block him._ _You’ve got to stop making these spur-of-the-moment decisions about your business, or you’ll end up running it into the ground!_  
 __square off__ _These top-ranked players will square off against fierce competitors._  
+__squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stalk out__ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __stand at attention__ _They were standing at attention._  
 __stand in (someone’s) shoes__ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  
