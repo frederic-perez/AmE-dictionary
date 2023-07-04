@@ -3271,7 +3271,7 @@ __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance pas
 __coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
-__coalesce__ _v_ :pencil2::seven: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
+__coalesce__ _v_ :pencil2::nine: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__ To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
 __coaster brakes__  
@@ -3301,7 +3301,7 @@ __cocoon<sup>1</sup>__ _n_
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __cod__ _n_ :es: bacalao  
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
-__coddle__ _v_ :five: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__coddle__ _v_ :six: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
@@ -3333,7 +3333,7 @@ __cognoscente__ _n_ :two: A person with superior, usually specialized knowledge 
 __cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
-__cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
+__cohort study__ _n_ :three: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __cohort__ _n_  
 __coif__ _n_ :es: cofia _Strange coif._  
 __coiffed__ _adj_  
@@ -3385,6 +3385,7 @@ __colon__ _n_ :mega:
 __colonel__ _n_ :two::mega::hammer:  
 __colonnade__  
 __colophon__ _n_  
+__color scheme__  
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
 __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
@@ -3451,7 +3452,7 @@ __commoditization__
 __commodity hardware__  
 __commodity__ _n_ :two::hammer: _Communication on a commodity cluster._  
 __common__ _adj_ :mega: (kŏm′ən)  
-__commonality__ _n_ :two::hammer: (commonalities)  
+__commonality__ _n_ :three::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __commonplace__ _adj, n_  
 __commonwealth__ _n_ :three: __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
@@ -3510,6 +3511,7 @@ __con-artist__
 __con<sup>1</sup>__ _n_ :six::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don’t con me!_  
 __Concacaf__  
+__concatenate__ _v_ /kahn-KAT-uh-nayt/  
 __concede__ _v_ _A total of 44 goals scored and 48 conceded last year._  
 __conceit<sup>1</sup>__ _n_ :dart::three: A favorable and especially unduly high opinion of one’s own abilities or worth. _Syn_ amour-propre, vanity _She was convinced that she was worthy of marrying royalty, but her vanity and conceit only made her less attractive to the prince._  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
@@ -3584,7 +3586,7 @@ __congested__ _adj_ __3__ (of the nose) Blocked with mucus.
 __congestion__ _n_ _The congestion during peak hours._  
 __conglomerate__  
 __conglomerates__  
-__congrats__ _n pl_ _Congrats on your wedding._  
+__congrats__ _n pl_ :two::mega::hammer: _Congrats on your wedding._  
 __Congressmen__ _n_  
 __conjecture__ _v_ :two::hammer:  
 __conjoined__ _adj_ Consisting of two or more associated entities.  
@@ -3616,7 +3618,7 @@ __consensus__ _n_ :four: General or widespread agreement (esp in the phrase cons
 __consequently__  
 __conservancies__  
 __conservatory__ _n_ :seven: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. _A tropical conservatory._ :es: invernadero  
-__consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
+__consigliere__ _n_ :two: /kohn-sil-YEH-reh/ Consigliere refers to a trusted adviser or counselor. Originally, a consigliere specifically served the leader of a criminal organization such as the Mafia, but others likened to such an adviser are now sometimes called consiglieres too. _Our family consigliere._  
 __consign__ _v_ :two::hammer: (consigned) _Fashionable consigned clothes._  
 __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
@@ -3657,6 +3659,7 @@ __contentious__ _adj_ :nine: A contentious issue is one that people are likely t
 __contentment__ _n_  
 __contestation__ _n_ Controversy, debate.  
 __contested shot__ _n_ (vs uncontested shot)  
+__contextual__  
 __contextualize__ _v_ :dart::four:  
 __contiguous > the contiguous U.S.__  
 __continence__ _n_ :two::hammer:  
@@ -3800,6 +3803,9 @@ __cortisol__ _n_ _Cortisol is the primary stress hormone._
 __coruscant__ _adj_ Shining or glittering.  
 __coruscate__ _v intr_ :five::astonished: /KOR-uh-skayt/ __1__ To sparkle, flash, or gleam. Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._ __2__ To display great style or technique.  
 __corvine__ _adj_ Of, resembling, or characteristic of crows.  
+__cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
+__cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
+__cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
 __cosset__ _v_  
 __cosseted__  
 __costliest__ _adj_ :two::hammer:  
@@ -3837,7 +3843,7 @@ __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_ :four: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
 __counteroffensive__ _n_  
-__counterpoint__ _n_  
+__counterpoint__ _n_ :two::hammer:  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _v_ _Countervailing evidence._  
 __countless__ _adj_ :three::hammer: /ˈkaʊnt lɪs/ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
@@ -3874,16 +3880,17 @@ __cowering__ _v_ :two::hammer:
 __cowl__ _n_ :three::hammer: _Their cowls were filthy rags._ _Cowl-like hoods._ :es: capucha  
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
+__cowpuncher__ _n_ A cowboy or a cowgirl.  
 __cox’n__  
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
-__coyote__ _n_ :mega:  
+__coyote__ _n_ :two::mega::hammer:  
 __cozen__ _v_ :four: /KUZ-un/ To mislead by means of a petty trick or fraud. _Syn_ deceive, delude, lead on _He has wronged me and deceived me enough, he shall not cozen me further!_  
 __cozy<sup>1</sup>__ _adj_ :five::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._ _There are many cozy B and B inns._  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
-__crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
+__crabbed__ _adj_ :two: Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack down__ _v_  
 __crack pipe__ _n_  
@@ -3908,6 +3915,7 @@ __crafty__
 __crag__ _n_ :four::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
 __craggy__ _adj_ :six::hammer: _Craggy shore._  
+__craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
 __crakle__ _v_ _The phone collection crackles._  
 __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ _A late-night cram session._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :five::hammer: (cramps, cramped)  
@@ -3918,10 +3926,10 @@ __crank<sup>1</sup>__ _n_ :six::hammer: __1__ A device for transmitting rotary m
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
-__crapulous__ _adj_ :three: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
+__crapulous__ _adj_ :four: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash blossom__ _n_ An ambiguously worded news headline that can have a confusing or humorous interpretation. Crash blossom examples: Doctors Help Bee Sting Victims, Dead Man Remains Discovered by Police.  
 __crash course__  
-__crash__ _v_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
+__crash__ _v tr_ :two: __3__ _informal_ To join or enter (a party, for example) without invitation.  
 __crash-land__ _v_ _A jet crash-landed in the city._  
 __crass__ _adj_ :five: So crude and unrefined as to be lacking in discrimination and sensibility. _Syn_ unrefined _Jenny’s mother was horrified by the crass behavior of the young man whom her daughter had befriended._ _Crass attitudes._  
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
@@ -3988,7 +3996,7 @@ __crisply__ _adv_ _Nuggent greeted him crisply._
 __crisscross__ _v_ :three::hammer:  
 __crisscrossed__ _adj_  
 __critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
-__critical mass__  
+__critical mass__ _n_ :two: /KRI-ti-kuhl MAHS/ The minimum amount or number of something required to initiate or sustain a process or effect.  
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :three::mega: /kruh-TEEK/ A critique is a careful judgment in which you give your opinion about the good and bad parts of something, such as a piece of writing or a work of art. _Although I disagreed with them, the reviewer gave a fair and honest critique of the film._  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
@@ -4108,17 +4116,19 @@ __cuffing season__ _n_ A period during the fall and winter seasons, including ho
 __cufflinks__ _n_ :two::hammer:  
 __cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
-__cull__ _v_ :five::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__cull<sup>1</sup>__ _v_ :five::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__cull<sup>2</sup>__ _n_ _Meeting culls are also popular._  
 __culminate__ _v_ /ˈkʌlmɪˌneɪt/ /ˈkʌl məˌneɪt/ /KUL-muh-nayt/  
 __culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
-__cult__ _n_ :two::hammer:  
+__cult__ _n_ :mega::mega::hammer:  
 __cultivable__ _adj_ Capable of being farmed productively. _Syn_ arable, tillable  
 __Cultural Olympiad__ _n_  
 __culvert__ _n_ :three::hammer: _A dry culvert._  
 __cumbersome__ _adj_ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
+__cumulonimbus__ _n_ _Syn_ thunderstorm  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
@@ -4182,7 +4192,7 @@ __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat co
 __cuttin’ a rug__  
 __cutting edge__ _n_  
 __cutting-edge__ _adj_ :four::hammer: _Cutting-edge research._  
-__cuttlefish__ _n_ _Cuttlefish bones._  
+__cuttlefish__ _n_ :two::hammer: _Cuttlefish bones._  
 __Cutty Sark__ _n_  
 __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
 __cyanide__ _n_ A very strong poison.  
@@ -4217,6 +4227,7 @@ __daiquiri__ _n_ :mega:
 __dais__ _n_ :five: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
 __daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
 __daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
+__dalai lama__ _n_ :mega:  
 __Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
 __dale__ _n_ _Secluded dales._  
 __dalliance__  
@@ -4252,7 +4263,7 @@ __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked 
 __dappled__ _adj_ :eight: Marked with spots of colour, light, or shade. Having spots or patches of color. _Syn_ mottled _A dappled horse._ _Trees cast their dappled shade._  
 __dare<sup>1</sup>__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
 __dare<sup>2</sup>__ _v_  
-__daredevil__ _n_ :three::hammer: _The daredevils of the group._  
+__daredevil__ _n_ :four::hammer: _The daredevils of the group._  
 __daresay__ _v_  
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
 __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
@@ -4329,7 +4340,7 @@ __debauchery__ _n_ :four::hammer:
 __debilitating__ _adj_ /dih-BILL-uh-tay-ting/ Causing serious impairment of strength or ability to function. _The flu can be debilitating for several days._  
 __debonair__ _adj_  
 __debonnaire__ _adj_  
-__debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
+__debouch__ _v_ :two: __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debrief__ _v_  
 __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
@@ -4351,6 +4362,7 @@ __decathlon__
 __deceit__ _n_ :three::mega::hammer: /dɪˈsiːt/  
 __decelerate__ _v_  
 __decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
+__decidophobia__ _n_  
 __deciduous__ _adj_ :two::hammer:  
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
@@ -4364,6 +4376,7 @@ __declination__ _n_ A polite refusal of an invitation. _Syn_ regrets
 __decline__ _n_  
 __declivity__ _n_ A downward slope or bend. _Syn_ fall, downslope, declension, declination, decline, descent  
 __declutter__ _v_  
+__decollete__ _adj_ Cut low at the neckline. _Syn_ low-cut, low-necked  
 __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
 __decommits__  
 __decompensation__ _n_ __1__ _Medicine_ The inability of a bodily organ or system, especially the circulatory system, to maintain adequate physiological function in the presence of disease.  
@@ -4722,7 +4735,7 @@ __dirtdobbers__
 __dirty boogie__  
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
-__dis<sup>2</sup>__ _v tr_ _informal_ :four::hammer:  
+__dis<sup>2</sup>__ _v tr_ _informal_ :five::hammer:  
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
 __disaffected__ _adj_ :three::hammer:  

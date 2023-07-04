@@ -75,36 +75,6 @@ __chirk<sup>3</sup>__ _adj_ Lively; cheerful.
 __chit chat__  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __clammy__ _adj_  
-__coalesve__ _v_ :two::hammer:  
-__coddle__ _v_ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper  
-__cohort study__ _n_  
-__color scheme__  
-__commonality__ _n_  
-__concatenate__ _v_ /kahn-KAT-uh-nayt/  
-__congrats__ _n_ :mega:  
-__consigliere__ _n_ /kohn-sil-YEH-reh/ Consigliere refers to a trusted adviser or counselor. Originally, a consigliere specifically served the leader of a criminal organization such as the Mafia, but others likened to such an adviser are now sometimes called consiglieres too.  
-__contextual__  
-__cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
-__cosplay<sup>2</sup>__ _v tr_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
-__cosplay<sup>3</sup>__ _v intr_ To take part in cosplay.  
-__counterpoint__ _n_  
-__cowpuncher__ _n_ A cowboy or a cowgirl.  
-__coyote__ _n_ :mega:  
-__crabbed__ _adj_  
-__craic__ _n_ /krak/ Good times involving pleasant company, enjoyable conversation, etc.  
-__crapulous__ _adj_  
-__crash__ _v tr_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
-__critical mass__ _n_ /KRI-ti-kuhl MAHS/ The minimum amount or number of something required to initiate or sustain a process or effect.  
-__cull__ _n_ _Meeting culls are also popular._  
-__cult__ _n_ :mega:  
-__cumulonimbus__ _n_ _Syn_ thunderstorm  
-__cuttlefish__ _n_  
-__dalai lama__ _n_ :mega:  
-__daredevil__ _n_  
-__debouch__ _v_  
-__decidophobia__ _n_  
-__decollete__ _adj_ Cut low at the neckline. _Syn_ low-cut, low-necked  
-__dis__ _v_  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
