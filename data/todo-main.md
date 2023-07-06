@@ -139,36 +139,6 @@ __fictive__ _adj_
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
-__first responder__ _n_ :two: A person, such as a police officer, firefighter, or EMT, trained in urgent medical care and other emergency procedures and prepared to move quickly to the scene of an accident or disaster.  
-__flamethrower__ _n_  
-__flattop__ _n_ A large warship that carries planes and has a long flat deck for take-offs and landings. _Syn_ aircraft carrier  
-__flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
-__flex__ _v_ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
-__flinders__ _n_ Bits, fragments, or splinters. _Syn_ slivers, splinters _The bullet blew the glass bottle into flinders._  
-__florescence__ _n_ /flor-ESS-unss/ Florescence refers to a state or period of being in bloom or of flourishing.  
-__flounder__ _v intr_  
-__flustered__ _adj_ /ˈflʌstəd/ In a state of confusion or agitation.  
-__foible__ _n_ /FOY-bul/ Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._  
-__foil__ _v tr_  
-__foo fighter__ _n_ :dart: Any of various unidentified flying objects, as reported by Allied pilots during World War II.  
-__foolhardy__ _adj_  
-__foreign__ _adj_ __3__ Not pertinent or related: _a matter foreign to the discussion._  
-__forester__ _n_  
-__forthright__ _adj_  
-__fortitude__ _n_ /FOR-tuh-tood/  
-__friction__ _n_  
-__frost__ _n_  
-__frosting__ _n_  
-__fruition__ _n_ /froo-ISH-un/ Fruition refers to a state of being complete or fully realized. It’s usually used in the phrases “come to fruition” or “bring to fruition.” Fruition can also refer to the state of bearing fruit.  
-__frumpy__ _adj_  
-__fubar__ _adj_  
-__fulcrum__ _n_ /FULL-krum/ In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something. _Although the lead actor was phenomenal, critics believe that the supporting cast was the real fulcrum of the show._  
-__fumigate__ _v_ To subject to smoke or fumes, usually in order to exterminate pests or disinfect. _Syn_ fume  
-__furuncle__ _n_ A painful sore with a hard pus-filled core. _Syn_ boil _His doctor referred him to a dermatologist who would examine the furuncle on his leg._  
-__fusion cooking__ _n_ Cooking that combines ingredients and techniques and seasonings from different cuisines.  
-__gainsay__ _v_ To oppose, especially by contradiction. _Syn_ challenge, dispute  
-__gala__ _n_  
-__gamut__ _n_ /GAM-ut/ A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things. _I adore licorice, mints, lollipops, candy corn—the whole gamut of penny candy._  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
