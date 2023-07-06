@@ -40,6 +40,7 @@ __amount to nothing__
 __an accident waiting to happen__  
 __an armchair something__  
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
+__anyone’s guess__ Something that no one knows for sure.  
 __anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __as of late__  
 __at the expense of (someone or something)__  
@@ -47,16 +48,19 @@ __baby boomer__
 __backwater__  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
+__cap__  
 __catch on__  
 __cautionary tale__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
+__chime in__  
 __cisgender__  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  
-__coast along__  
+__coast along__ :two: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._  
 __come (a)round__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
+__come out swinging__ To compete or defend someone or something passionately or aggressively. _After hearing so much opposition to his proposed construction project, the developer came out swinging at the town hall meeting._  
 __come to grips__  
 __come to terms with (someone or something)__  
 __competitive edge__  
@@ -69,6 +73,7 @@ __cram in__
 __crank up__  
 __crasher__  
 __crunchy-granola__  
+__cry out for (someone or something)__  
 __crystal clear__  
 __cup of joe__  
 __cut from the same cloth__  
@@ -86,6 +91,7 @@ __diss__
 __dive in__  
 __don’t get (one) started__  
 __drill in(to) (someone or something)__  
+__dynamic duo__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
@@ -102,6 +108,7 @@ __fear of missing out__
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
 __femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
 __fiddle with (something)__ To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
+__fill up__  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer. _We finished shooting last week, but it will likely be another several months before we’re ready with the final cut._  
 __finish off__  
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
@@ -114,8 +121,10 @@ __for (one’s) (own) good__ For one’s benefit, even though it may not be enjo
 __for Pete’s sake__  
 __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
+__fuck (one’s) brains out__  
 __game-changer__  
 __gaslighting__  
+__get hammered__  
 __get off (one’s) high horse__ To stop acting as if one is better than other people; to stop being arrogant or haughty.  
 __get real__  
 __get to someone__  
@@ -164,11 +173,13 @@ __keep in mind__
 __keep it real__  
 __kick (someone or something) to the curb__  
 __kick in__  
+__kick into high gear__  
 __kindred spirit__  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
 __kludgy__ :dart:  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__  
+__knock-off__  
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __kvetch__ :dart:  
@@ -180,7 +191,7 @@ __last resort__ The only remaining option that may help one or be of any use aft
 __left and right__  
 __lesson learned__ The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
 __line of work__  
-__live up to (something)__  
+__live up to (something)__ :two::hammer:  
 __lose it__  
 __loud and clear__  
 __make (one’s) mouth water__  
@@ -194,6 +205,7 @@ __narrow the gap__
 __nice one__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Nice one, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __nip in the bud__  
 __nod off__ :dart:  
+__not cut it__ If you say that _someone cannot cut it_ or _does not cut it_, you mean that they are not talented or ambitious enough to succeed in a particular job. _We’re in a real mess now Johnny’s gone. Lorenzo’s been doing the vocals, but he just can’t cut it._ _It’s a very tough work environment. If you don’t cut it then you’re out._  
 __note to self__  
 __nothing wrong with that__  
 __off the hook__ _I let you off the hook._  
@@ -220,12 +232,18 @@ __other than (something)__
 __ouch__ :dart:  
 __out of character__  
 __outsmart (oneself)__  
+__play (one’s) cards__  
 __power nap__  
 __pull the plug (on someone or something)__  
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
+__retail for (something)__  
+__rocky start__ :two::hammer:  
+__run out of steam__  
+__scoop up__  
 __squeal on (one)__  
 __squeeze in__ _Lawmakers squeezed in a key detail in the latest draft, requiring generative AI companies to disclose any copyrighted material used in training their models._  
+__stack up__  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stag party__  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
@@ -278,6 +296,7 @@ __tap into something__
 __tap into__  
 __thank God__ _That was the end of it—thank God._  
 __the going thing__ The latest and most popular trend, fad, or fashion. _My son came home asking to have half his head shaved—apparently, that’s the going thing these days!_  
+__the golden rule__  
 __the likes of__  
 __the lion’s den__  
 __the meat and potatoes__  
@@ -300,6 +319,7 @@ __the witching hour__ :two: __1__ A late time of night, most often midnight, som
 __the writing on the wall__  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
 __third world__  
+__ticker__ __1__ _n_ A heart. _His ticker finally gave out._ __2__ _n_ A watch. _My ticker stopped. The battery must be dead._  
 __time and time again__  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
@@ -332,7 +352,10 @@ __uphill battle__ :dart:
 __wakeup call__  
 __walk on eggshells__  
 __walk the line__  
+__walkout__  
 __watch (someone’s) back__  
+__wean off (of) (something)__  
+__weigh in__ :dart: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __whet (one’s) appetite__  
 __whitewash__  
 __whodunit__ :dart: A detective story or mystery story.  
