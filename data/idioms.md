@@ -821,6 +821,7 @@ __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegal
 __cloud the issue__ :two: To obfuscate or distract from the topic at hand by introducing irrelevant or misleading information. _Politicians are always clouding the issue during debates by pointing out their opponents’ history in other issues._  
 __clout list__ :two: A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process. _Even though he didn’t do well in school, his father’s connections to state senators and local politicians enabled him to be put on the university’s clout list, and he eventually gained admission._  
 __clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to once-salacious but now relatively common things, events, situations, etc. _Parents should try not to clutch the pearls every time their teenagers come out of their room dressed outrageously—it only makes them want to push the envelope even further._  
+__coast along__ :two: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._  
 __cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
 __cock of the walk__ [:scroll: In animal husbandry, an enclosed yard or a pen is known as a walk. A rooster who rules a roost is, literally, a cock of the walk.] A person who behaves in an arrogant and domineering manner in a group. _The deputy manager was cock of the walk until the new manager arrived. He loved acting cock of the walk and ordering everyone about._  
 __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
@@ -831,6 +832,8 @@ __cold fish__ :two: A person who is very reserved or aloof in manner or who lack
 __collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
 __collect (one’s) wits__ :two: To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ :two: To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._ _Why do you want another video game console? You already have three collecting dust under the television!_  
+__come (a)round__  
+__come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
 __come across__ :four::hammer:  
 __come again?__ :two::hammer:  
 __come and go__  
@@ -841,6 +844,7 @@ __come into play__ To become a factor in a particular situation. _Once personal 
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
 __come of age__  
 __come out of the woodwork__ To appear unexpectedly, or from unexpected places. _No one had anything negative to say when I first pitched this idea, but now people are coming out of the woodwork to criticize it._ _Ever since Liam won the lottery, his so-called relatives have been coming out of the woodwork._  
+__come out swinging__ To compete or defend someone or something passionately or aggressively. _After hearing so much opposition to his proposed construction project, the developer came out swinging at the town hall meeting._  
 __come out__  
 __come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
@@ -848,8 +852,8 @@ __come to a parting of the ways__ To separate. To leave someone or something beh
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ :three: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__  
-__come to grips__  
-__come to terms with (someone or something)__ :seven::hammer:  
+__come to grips__ :two::hammer:  
+__come to terms with (someone or something)__ :eight::hammer:  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
@@ -858,11 +862,13 @@ __comfort food__ :two: Particular dishes or food items that are meant to ease em
 __coming-of-age__ :four: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
+__competitive edge__  
 __concrete jungle__ :two: An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
 __connect the dots__  
 __connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :three: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
+__content farm__  
 __contrary to popular opinion__ Opposite to what is popularly or generally expected or believed. Usually used to introduce such a statement. _Contrary to popular opinion, higher taxes end up benefiting people more than lower ones._  
 __control freak__ :three: Someone who has an obsessive or compulsive need to control every aspect of a situation and/or the ways in which others act. _My father can be such a control freak sometimes, always dictating how I should be living my life._  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
@@ -880,16 +886,21 @@ __cottage industry__
 __count someone in (for something)__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
+__course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
 __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
-__cozy up (to someone or something)__  
-__crack down (on someone or something)__ To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
+__cozy up (to someone or something)__ :two::hammer:  
+__crack down (on someone or something)__ :two: To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
+__crack down__ _France is cracking down on shady influencers._  
 __crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
+__cram in__  
+__crank up__  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
 __crash course__ :three: A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
 __crash__ __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._  
+__crasher__  
 __creature of habit__ :two: One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
 __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
@@ -903,6 +914,7 @@ __cross swords__ :two: To fight or argue. _They had crossed swords many times._
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
+__crunchy-granola__  
 __crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
 __crushing blow__ :two: A major defeat or setback that is devastating to the goals of a person, group, or organization. _The team’s loss last Sunday was a crushing blow to their chances for a championship._  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
@@ -910,9 +922,12 @@ __crux of the matter__ _She saw the crux of the matter in seconds._
 __cry (oneself) to sleep__  
 __cry foul__  
 __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
+__cry out for (someone or something)__  
 __cry over spilled milk__ :two: To be upset over something that cannot be fixed, often something minor. To be unhappy about what cannot be undone. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
+__crystal clear__  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
+__cup of joe__  
 __curb appeal__ The external attractiveness of a building or property, such as can be viewed from the street (i.e., the curb). _We were suckered into buying the house because of its incredible curb appeal, but once we moved in, we realized just how run-down it was inside._  
 __curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
 __curl (one’s) hair__ To shock or terrify someone. _That horror movie sure curled my hair—I could not sleep for a week!_  
@@ -929,7 +944,7 @@ __cut and dry__
 __cut back on (something)__ To reduce or decrease something. _My doctor told me that I need to cut back on eating fried foods in order to improve my cholesterol._  
 __cut corners__ To do something in the easiest or most inexpensive way.  
 __cut down (on something)__ _Cut down on smoking._  
-__cut from the same cloth__ :three: To be very similar.  
+__cut from the same cloth__ :four: To be very similar.  
 __cut from whole cloth__ :two: Entirely fictional or utterly false; completely fabricated and not based on reality at all. A reference to tailors who would falsely advertise garments being made “out of whole cloth,” when, in reality, they were pieced together from different cuts. _To be honest, I don’t believe a word he says—it sounds like it’s cut from whole cloth to me._  
 __cut it close__ :two: To do or complete something very near to its limit, especially of time. _We’ll be cutting it close, but we should get there just before the movie starts._  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  

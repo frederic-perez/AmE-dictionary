@@ -57,26 +57,6 @@ __cisgender__
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  
-__coast along__ :two: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._  
-__come (a)round__  
-__come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
-__come out swinging__ To compete or defend someone or something passionately or aggressively. _After hearing so much opposition to his proposed construction project, the developer came out swinging at the town hall meeting._  
-__come to grips__  
-__come to terms with (someone or something)__  
-__competitive edge__  
-__content farm__  
-__course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
-__cozy up (to someone or something)__  
-__crack down (on someone or something)__  
-__crack down__ _France is cracking down on shady influencers._  
-__cram in__  
-__crank up__  
-__crasher__  
-__crunchy-granola__  
-__cry out for (someone or something)__  
-__crystal clear__  
-__cup of joe__  
-__cut from the same cloth__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut it__  
 __cut out__ _Cutting out the negative influences._  
