@@ -275,27 +275,6 @@ __non-negotiable__ _adj_
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
-__occasion__ _n_ :two: An event that occurs at a critical time. _It was needed only on special occasions._  
-__occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
-__occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
-__October__ _n_ [:scroll: Like its neighboring months September, November, and December, the month of October kept its numerical name, even after Julius Caesar expanded the calendar year from 10 months to 12.]  
-__octopi__ _n pl_ A plural of octopus.  
-__odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
-__oddball__ _adj, n_  
-__odeum__ _n_  
-__oenophile__ _n_ A connoisseur of fine wines. _Syn_ wine lover _The oenophile was heartbroken when months of heavy rain ruined a particularly promising grape harvest._  
-__off-color__ _adj_ _An off-color remark._  
-__off-putting__  
-__off-the-clock__ _adv_ Overtime without extra compensation. _She often has to work off-the-clock._  
-__off-the-shelf__  
-__offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
-__offbeat__ _adj_  
-__offhandedly__ _adj_  
-__officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tends to offer unwanted advice in a way that annoys the advice recipients. It is a synonym of meddlesome. _After the boss told his workers what to do, his officious assistant stepped in to micromanage._  
-__offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
-__offset__ _v_ __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
-__oft__ _adv_  
-__ogre__ _n_  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __optíonal__ _adj_ :mega:  
 __ostopenia__  

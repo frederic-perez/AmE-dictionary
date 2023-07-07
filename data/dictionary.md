@@ -11534,62 +11534,73 @@ __obtuseness__
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
-__occasion__ _n_ :five::mega::pencil2::hammer: /əˈkeɪʒən/  
+__occasion__ _n_ :seven::mega::pencil2: /əˈkeɪʒən/ An event that occurs at a critical time. _It was needed only on special occasions._  
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
+__occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
 __occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam, block _The excess inventory had occluded the exit, and was deemed a hazard by the safety inspector._  
+__occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
 __occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
 __occurr__ _v intr_ :pencil2:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ochre__ _n_ (ocher)  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
+__October__ _n_ [:scroll: Like its neighboring months September, November, and December, the month of October kept its numerical name, even after Julius Caesar expanded the calendar year from 10 months to 12.]  
 __octogenarians__  
+__octopi__ _n pl_ A plural of octopus.  
 __octoroons__  
 __octothorpe__ _n_ The symbol (#).  
-__odd__ _adj_ :two: __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
-__oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
+__odd__ _adj_ :three::hammer: _Bikes are allowed in City Creek Canyon on odd days._ __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
+__oddball__ _n informal_ :six: A strange or eccentric person. :es: bicho raro  
 __oddity__ _n_  
 __oddly enough__ _adv_ :two::hammer:  
 __odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
+__odeum__ _n_  
 __odious__ _adj_ :three: /OH-dee-us/ Arousing or meriting strong dislike, aversion, or intense displeasure. _Syn_ abominable, detestable, execrable _Pray do not talk of that odious man._  
 __odium__ _n_  
 __odometer__ _n_ :two::hammer:  
 __odontalgia__ _n_ /oh-don-TAL-juh -jee-uh/ [:scroll::astonished: From Greek odont- (tooth) + -algia (pain).] Toothache.  
 __odyssey__ _n_ :pencil2:  
+__oenophile__ _n_ A connoisseur of fine wines. _Syn_ wine lover _The oenophile was heartbroken when months of heavy rain ruined a particularly promising grape harvest._  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
 __of__ _prep_ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
-__off-color__ _adj_ :three: An off-color joke or remark is rude or offensive. _Off-color stories._  
+__off-color__ _adj_ :four: An off-color joke or remark is rude or offensive. _Off-color stories._  
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-hand__ _adv_  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
 __off-price stores__  
-__off-putting__  
+__off-putting__ _adj_ :two::hammer:  
 __off-street__ _adj_ Located away from a street. _Off-street parking._  
+__off-the-clock__ _adv_ Overtime without extra compensation. _She often has to work off-the-clock._  
 __off-the-cuff__ _adj_ :two::hammer: _It was just an off-the-cuff remark._  
-__off-the-shelf__ _adj_ :two::hammer:  
+__off-the-shelf__ _adj_ :three::hammer:  
 __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._  
 __off<sup>2</sup>__ _adj_  
 __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
-__offal__ _n_  
-__offbeat__ _adj_ _slang_ :four: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
+__offal__ _n_ :two: __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
+__offbeat__ _adj_ _slang_ :five: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
+__offhandedly__ _adj_  
 __officer__ _n_ :two::hammer:  
+__officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tends to offer unwanted advice in a way that annoys the advice recipients. It is a synonym of meddlesome. _After the boss told his workers what to do, his officious assistant stepped in to micromanage._  
+__offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offload__ _v_  
 __offramp__  
-__offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)  
+__offset<sup>1</sup>__ _v_ :four::hammer: (offsetting) __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah’s older homes._  
 __offshoot__ _n_ :three::hammer:  
 __offshore__  
-__oft__ _adv_ :two::hammer: _The oft-hated SAT._  
+__oft__ _adv_ :three::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
 __often__ _adv_ :mute:[of~~t~~en]  
 __oftentimes__ _adv_ :five: Frequently; repeatedly.  
 __ogle__ _v_ :three::hammer: (ogled)  
+__ogre__ _n_  
 __Ohioans__  
 __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
 __oilcloth__  
