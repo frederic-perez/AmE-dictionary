@@ -12156,7 +12156,7 @@ __parlor__
 __parochial__ _adj_ :four::hammer:  
 __parody__ _n_ Parody is an imitation of something with the intent to poke fun at it. Example: If Edgar Allen Poe had written this speech, it might have opened with “Here we are, weak and weary, gathered on a Monday dreary.”  
 __parolee__ _n_  
-__paroxysm__ _n_ :two::hammer:  
+__paroxysm__ _n_ :four: A sudden uncontrollable attack. _Syn_ convulsion, fit  
 __paroxysmal__ _adj_ :two: Sudden and uncontrolled.  
 __parried__ _v_  
 __parrot nose pliers__ _n_ :es: Mordaza pico de loro  
@@ -12164,6 +12164,7 @@ __parrot__ _v_ To repeat or imitate, especially without understanding.
 __parroting__ _v_  
 __parry__ _v_ :dart::five: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer. To deflect, evade, or avoid. _Syn_ hedge, sidestep, skirt, circumvent, dodge, elude, duck _He parried every inquiry so successfully that soon he was the one asking the questions._ _We didn’t have to parry questions._  
 __parse__ _v_  
+__parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
 __parsley__ _n_ :two::hammer: :es: perejil  
@@ -12173,14 +12174,16 @@ __parsonage__ _n_ :two::pencil2::hammer:
 __part company__ _v_  
 __part-time<sup>1</sup>__ _adj_ :two::hammer: _He is also a part-time consultant._  
 __part-time<sup>2</sup>__ _adv_  
-__partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
+__partake__ _v intr_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ _Every year in the weeks leading up to Easter, many Christians around the world partake in Lent._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted__ _adj_ :two::hammer: _Diaz wore parted hair._ _Slightly parted lips._  
-__parterre__ _n_ :two: An ornamental flower garden having the beds and paths arranged to form a pattern.  
+__parterre__ _n_ :three: An ornamental flower garden having the beds and paths arranged to form a pattern. _A rose parterre._  
+__partial__ _adj_ _Partial kitchen._  
 __participatory__ _adj_ _I wanted to be a participatory father._  
 __particle board__  
+__particulate matter__ _n_ Material suspended in the air in the form of minute solid particles or liquid droplets, especially when considered as an atmospheric pollutant.  
 __partisan__ _n_ :four::hammer: (partisans) _A partisan atmosphere._  
 __partner__ _n_  
-__partridge__ _n_ :two::hammer:  
+__partridge__ _n_ :three::hammer:  
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
 __party favor__ _n_ Souvenir consisting of a small gift given to a guest at a party.  
 __party line__ _n_  
@@ -12287,7 +12290,7 @@ __peccadillo__ _n_ :three: _(pl. peccadilloes or peccadillos)_ :pencil2::astonis
 __peccant__  
 __peck away__ _v_  
 __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on her cheek._  
-__peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._  
+__peck<sup>2</sup>__ _v_ :two::hammer: _Pecking away at the piano keys._ _I feel like I’m pecked to death by ducks._  
 __peckerwood__  
 __pecking order__  
 __peculation__ _n_ _Jean was imprisoned for peculation._  
@@ -12367,7 +12370,7 @@ __pensum__ _n_ A task given, especially as a punishment.
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ :two: Unwilling to spend money. _Syn_ stingy, parsimonious _When solicited for a donation, the penurious man began to extend a nickel, but, thinking twice, withdrew it._  
 __people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
-__peoples__ _pl n_ :three: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
+__peoples__ _n pl_ :four: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _n_ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pep<sup>2</sup>__ _v_ (pepping)  
@@ -12383,8 +12386,9 @@ __percent__
 __percentile__ _n_ :mega:  
 __perceptible__ _adj_ /per-SEP-tuh-bul/ Able to be seen or noticed.  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
-__perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
+__perch<sup>2</sup>__ _v_ :seven::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
+__percolation__ _n_  
 __percolator__ _n_  
 __percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
 __perdure__ _v_ _formal_ To last permanently; endure.  
@@ -12463,18 +12467,24 @@ __pester__ _v_ :three::hammer: (pestered)
 __pestiferous__ _adj_  
 __pestilence__ _n_ :two::hammer:  
 __pet name__ _n_  
-__pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
-__peter out__  
+__pet peeve__ _n_  
+__pet<sup>1</sup>__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
+__pet<sup>2</sup>__ _v_ :two::hammer: _Petting the farm animals._  
+__peter out__ _v_ :two::hammer:  
+__petit jury__ _n_ (petty jury)  
 __petite__  
 __Petri dish__ _n_ :mega: (petri dish)  
-__petrichor__ _n_ :two::hammer:  
+__petrichor__ _n_ :three::hammer:  
 __petroglyph__ _n_ _Ancient Indian petroglyph._  
 __petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother’s remedy, a big jar of petrolatum._  
-__petroleum jelly__  
+__petroleum jelly__ _n_ :two: A soft substance got from petroleum, used eg in ointments. :es: vaselina  
 __petted__  
+__petticoat__  
+__pettifog__ _v_  
+__pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
 __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the payment of minor incidental expenses.  
 __petty officer__ _n_ :three::hammer:  
-__petty__ _adj_ :two: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
+__petty__ _adj_ :dart::three: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
 __petulance__  
 __petulant__ _adj_ :eight::mega: Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
 __petulantly__  
@@ -12506,10 +12516,12 @@ __phimosis__ _n_ :mega:
 __phlebotomist__ _n_ A nurse or other health worker trained in drawing venous blood for testing or donation.  
 __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
 __phlegm__ _n_ :five::hammer:  
+__phlegmatic__ _adj_ Having or suggesting a calm, sluggish temperament; unemotional. _Syn_ indifferent, cold, heavy, dull, stoical, bovine, apathetic, frigid, lymphatic, listless, impassive, stolid, unfeeling, undemonstrative  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
 __phoenix__ _n_  
 __phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
 __phonotaxis__ _n_ _Cricket phonotaxis._  
+__phoropter__ _n_  
 __photo-op__  
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
@@ -12542,7 +12554,7 @@ __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper
 __picket fence__ _n_ :two::hammer:  
 __picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
 __pickets__ _n_  
-__pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
+__pickleball__ _n_ :three: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picklock__ _v_  
 __picknicking__ _v_  
 __pickoff__ _n_ __1__ _Baseball_ A play in which a runner is caught off base and is put out by a quick throw, as from the pitcher or catcher. _A pickoff throw to first base._  

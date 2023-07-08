@@ -289,31 +289,6 @@ __parcel__ _v tr_
 __pariah__  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
-__paroxysm__ _n_ :two: A sudden uncontrollable attack. _Syn_ convulsion, fit  
-__parsec__ _n_ [:scroll: C20: from parallax + second]  
-__partake__ _v intr_ _Every year in the weeks leading up to Easter, many Christians around the world partake in Lent._  
-__parterre__ _n_ _A rose parterre._  
-__partial__ _adj_ _Partial kitchen._  
-__particulate matter__ _n_ Material suspended in the air in the form of minute solid particles or liquid droplets, especially when considered as an atmospheric pollutant.  
-__partridge__ _n_  
-__patron__ _n_  
-__peck__ _v_ _I feel like I’m pecked to death by ducks._  
-__peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
-__perch__ _v_  
-__percolation__ _n_  
-__pet peeve__ _n_  
-__pet__ _v_ :two::hammer: _Petting the farm animals._  
-__peter out__  
-__petit jury__ _n_ (petty jury)  
-__petrichor__ _n_  
-__petroleum jelly__ _n_ A soft substance got from petroleum, used eg in ointments. :es: vaselina  
-__petticoat__  
-__pettifog__ _v_  
-__pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
-__petty__ _adj_ _They are petty._  
-__phlegmatic__ _adj_ Having or suggesting a calm, sluggish temperament; unemotional. _Syn_ indifferent, cold, heavy, dull, stoical, bovine, apathetic, frigid, lymphatic, listless, impassive, stolid, unfeeling, undemonstrative  
-__phoropter__ _n_  
-__pickleball__ _n_  
 __picky__  
 __pinwheel__ _n_  
 __play-off__ _n_ :pencil2:  
