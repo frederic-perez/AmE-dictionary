@@ -171,33 +171,6 @@ __last resort__ The only remaining option that may help one or be of any use aft
 __left and right__  
 __lesson learned__ The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
 __line of work__  
-__live up to (something)__ :two::hammer:  
-__lose it__  
-__loud and clear__  
-__make (one’s) mouth water__  
-__make great strides__  
-__make inroads (in/into something)__  
-__make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
-__make or break__  
-__make up (one’s) mind__  
-__naked eye__ _With the naked eye._  
-__narrow the gap__  
-__nice one__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Nice one, Frank, now we’re going to have to rebuild this entire model from scratch._  
-__nip in the bud__  
-__nod off__ :dart:  
-__not cut it__ If you say that _someone cannot cut it_ or _does not cut it_, you mean that they are not talented or ambitious enough to succeed in a particular job. _We’re in a real mess now Johnny’s gone. Lorenzo’s been doing the vocals, but he just can’t cut it._ _It’s a very tough work environment. If you don’t cut it then you’re out._  
-__note to self__  
-__nothing wrong with that__  
-__off the hook__ _I let you off the hook._  
-__on (one’s) watch__  
-__on (someone’s or something’s) dime__  
-__on (someone’s) behalf__  
-__on a different note__  
-__on a mission__ _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
-__on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
-__on demand__ _Requested on demand._  
-__on edge__  
-__on end__  
 __on leave__  
 __on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
 __on one’s terms__  
