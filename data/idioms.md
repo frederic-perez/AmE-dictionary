@@ -3068,6 +3068,7 @@ __rock solid__
 __rock the boat__ :nine: To do or say something that might endanger a stable situation or upset the status quo. _None of my family members are fighting with each other right now, so please don’t rock the boat by bringing up politics or any other controversial topics._  
 __rocket science__ :three: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
+__rocky start__ :two::hammer:  
 __roll (one’s) eyes__ :four: To turn one’s eyes upward or around in a circle, usually as an expression of exasperation, annoyance, impatience, or disdain. _I just rolled my eyes as my dad told another one of his corny jokes._  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
@@ -3104,6 +3105,7 @@ __run errands__ :two::hammer:
 __run for the hills__  
 __run guns__  
 __run in circles__ :dart: To waste one’s time and energy engaging in trivial, aimless, or futile activities; to fail to make any meaningful progress in some task or activity. _I tried to get an outline drafted for my thesis, but my ideas were so jumbled in my head that I just kept running in circles._  
+__run out of steam__  
 __run the place__ _The baby African elephant born at the zoo basically runs the place._  
 __run the show__  
 __run wild__ :two: To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
@@ -3140,6 +3142,7 @@ __scare the shit out of someone__
 __scarlet letter__ :two::hammer:  
 __schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism, especially in art, music, or writing. Originally from Yiddish. _The film is pretty schmaltzy, to be sure, but it would take a heart of stone not to be moved by it all the same._  
 __schmooze__  
+__scoop up__  
 __score big__ _Come in and score big._  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
@@ -3354,25 +3357,39 @@ __spruce up__ _v_ :four: To make to look cleaner, neater, or more attractive; to
 __spur of the moment__ An impulse characterized by a lack of preparation or consideration. The phrase can be hyphenated and used as a modifier before a noun. _The administrators mada a “spur of the moment” decision to block him._ _You’ve got to stop making these spur-of-the-moment decisions about your business, or you’ll end up running it into the ground!_  
 __square off__ _These top-ranked players will square off against fierce competitors._  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
+__squeal on (one)__  
+__squeeze in__ _Lawmakers squeezed in a key detail in the latest draft, requiring generative AI companies to disclose any copyrighted material used in training their models._  
+__stack up__  
+__stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
+__stag party__  
 __stalk out__ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
+__stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
+__stamp out__  
+__stan__ A blend of _stalker_ and _fan_, the term stan describes an “overly enthusiastic fan, especially of a celebrity.” This term is linked to Eminem’s 2000 song “Stan.”  
 __stand at attention__ _They were standing at attention._  
 __stand in (someone’s) shoes__ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  
-__stand on the shoulders of giants__ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
+__stand on the shoulders of giants__ :two: To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out__ __1__ To protrude from something; to project outward from something. _He chose a strong branch standing out from the tree to hang the swing from._ __2__ To be especially noticeable, conspicuous, or prominent, especially in comparison to someone or something else. _The dragons are notoriously varied in physique—they’d stand out in the Mos Eisley Cantina._  
 __stand tall__ :five: To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
-__stand to reason__ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
+__stand to reason__ :four: To be sensible or understandable. Be clear to all sensible people. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
+__stand up for__  
 __stand up__ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __stands to reason__  
+__stare down the barrel of a/(one’s) gun__ To have a gun pointed at oneself. (The “barrel” of a gun is the tube-shaped part from which the projectile is fired.) _The robber shoved me to the floor, and when I looked up, I was staring down the barrel of his gun._  
+__start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __starve out__ To deprive someone or something of food in order to force them to submit or surrender. A noun or pronoun can be used between “starve” and “out.” _The empire’s army began starving the rebel city out with a siege that lasted nearly eleven months._ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __status quo__  
+__stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __stay put__ :six: To not move or leave; to remain in same location or position. To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._ _I want you kids to stay put while I go into the store, OK?_ _And you stayed put for all these years? I would have thought you’d find a different career by now._  
 __stay strong__  
+__stay woke__  
 __staying power__ _This exercise has staying power._  
+__steamroll through__  
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __step back__  
 __step in__  
-__step up__ :two::hammer:  
+__step up__ :four::hammer:  
 __stepping stone__  
 __steppingstone__  
 __sticky fingers__  
@@ -3381,6 +3398,7 @@ __stir the pot__ :two: To exacerbate a tense or otherwise difficult situation. _
 __stir up__ :two: __3__ To rouse, incite, or provoke something. In this usage, a noun or pronoun can be used between “stir” and “up.” _Quit stirring up trouble!_ _The mayor has been stirring up controversy again with another inflammatory remark._  
 __stomach bug__ Something, such as a germ (colloquially a bug), that causes intestinal distress (particularly vomiting). Sometimes incorrectly used to refer to _food poisoning_.  
 __stone cold__ :two: Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
+__stop at nothing__ :dart: To do whatever it takes to accomplish a task or goal. _I assure you, ma’am, we will stop at nothing to catch that thief._ _They will stop at nothing to keep the Haller-Bosch dream team from uncovering what the deputy’s killing was really about._  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __story arc__  
 __stow away__  

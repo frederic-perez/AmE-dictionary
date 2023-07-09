@@ -191,27 +191,6 @@ __pull the plug (on someone or something)__
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
 __retail for (something)__  
-__rocky start__ :two::hammer:  
-__run out of steam__  
-__scoop up__  
-__squeal on (one)__  
-__squeeze in__ _Lawmakers squeezed in a key detail in the latest draft, requiring generative AI companies to disclose any copyrighted material used in training their models._  
-__stack up__  
-__stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
-__stag party__  
-__stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
-__stamp out__  
-__stan__ A blend of _stalker_ and _fan_, the term stan describes an “overly enthusiastic fan, especially of a celebrity.” This term is linked to Eminem’s 2000 song “Stan.”  
-__stand on the shoulders of giants__  
-__stand to reason__ :two: Be clear to all sensible people.  
-__stand up for__  
-__stare down the barrel of a/(one’s) gun__ To have a gun pointed at oneself. (The “barrel” of a gun is the tube-shaped part from which the projectile is fired.) _The robber shoved me to the floor, and when I looked up, I was staring down the barrel of his gun._  
-__start the ball rolling__ (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
-__stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
-__stay woke__  
-__steamroll through__  
-__step up__ :two::hammer:  
-__stop at nothing__ :dart: To do whatever it takes to accomplish a task or goal. _I assure you, ma’am, we will stop at nothing to catch that thief._ _They will stop at nothing to keep the Haller-Bosch dream team from uncovering what the deputy’s killing was really about._  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __strong word__  
 __swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
