@@ -12938,6 +12938,8 @@ __poofy__ _adj_ :pencil2:
 __pooh-bah__ _n_ :dart::two: [:scroll: After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
 __pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  
 __pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
+__pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._  
+__pool<sup>2</sup>__ _v_  
 __poor-boy__ _n_ _Poor-boy sandwich._  
 __poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __poorly<sup>2</sup>__ _adj_  
@@ -12958,7 +12960,8 @@ __popsicle__ _n_ Ice cream or water ice on a small wooden stick.
 __populace__  
 __porch screen__  
 __porcupette__ _n_ A baby porcupine.  
-__pore__ _v_ :six::dart::hammer: (poring)  
+__pore__ _v intr_ :seven::dart::hammer: (poring)  
+__pork pie__ _n_  
 __pork rind__ _n_ :two::dart::hammer: (pork rinds) :es: cortezas de cerdo  
 __porkpie hat__ _n_ :two: (pork pie hat, porkpie) A pork pie hat is one of several different styles of hat that have been popular since the mid-19th century, all of which bear superficial resemblance to a pork pie.  
 __porkpie__ _n_ :two: A hat having a low flat crown and a flexible, narrow brim. Also called _porkpie hat_.  
@@ -12967,12 +12970,14 @@ __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer gr
 __porpoise__ _n_ :two: A type of blunt-nosed sea animal of the dolphin family.  
 __porridge__  
 __porringer__  
+__port__ _n_ [See also _starboard_]  
 __porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
 __portable building__ _n_ A portable, demountable or transportable building is a building designed and built to be movable rather than permanently located. :es: barracones  
 __portal__  
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
-__portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
+__portend__ _v tr_ :nine::hammer: /por-TEND/ (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
+__porter__ _n_  
 __porterhouse__ _n_ :six::hammer: :es: bistec de filete _Its tender dry-aged porterhouse is unmatched._  
 __porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
 __portico__ _n_  
@@ -12988,7 +12993,7 @@ __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Pos
 __posit__ _v_ :four::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
-__possum__ _n_ :three::hammer: :es: zarigüeya  
+__possum__ _n_ :four::hammer: :es: zarigüeya  
 __post hoc__ _adj, adv, n_ :two::hammer:  
 __postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
@@ -13089,11 +13094,14 @@ __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it
 __precision<sup>1</sup>__ _n_  
 __precision<sup>2</sup>__ _adj_ _Precision medicine._  
 __preclude__ _v_  
-__predate__ _v_ :five::hammer: (predated) _The building predated the revolution._ _Those commandments predate the Bible._  
+__precocious__ _adj_ /prih-KOH-shus/  
+__preconception__ _n_  
+__predate__ _v_ :six::hammer: (predated) _The building predated the revolution._ _Those commandments predate the Bible._ _This standard predates the emergence of smartphones._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
 __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
-__preeminent__ _adj_ :four::hammer:  
+__predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
+__preeminent__ _adj_ :five::hammer:  
 __preempt__ _v_  
 __preemption__ _n_ :two::hammer:  
 __preemptive__  
@@ -13195,23 +13203,29 @@ __prime<sup>1</sup>__ _adj_ :five::hammer: _Their master bedroom has a prime vie
 __prime<sup>2</sup>__ _n_ :two::hammer:  
 __prime<sup>3</sup>__ _v_ :seven::astonished::hammer: (primed, priming) _The children who were primed to be happy significantly outperformed the others._  
 __primer__ _n_ :five:hammer:  
+__primeval__ _adj_  
+__primitive__ _n_ __4b__ An artist having or affecting a simple, direct, unschooled style, as of painting. __c__ A work of art created by a primitive artist. _Primitives, collectibles and gifts for all._  
 __primly__ _adv_ :two::hammer:  
+__primo__ _adj, adv, n_  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
+__primrose__ _n_  
 __princeling__ _n_ (princelet, princekin) A young, subordinate, or minor prince.  
+__principled__ _adj_ _A principled foundation._  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _adv_  
-__prior<sup>3</sup>__ _n_ (priors)  
+__prior<sup>3</sup>__ _n_ :two::hammer: _They deblur the captured images using the motion path as a prior._  
 __prioritize__ _v_ :two::hammer:  
 __prise<sup>1</sup>__ _n_  
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  
 __prissy__ _adj_ :four::hammer: _A prissy mustache._  
-__pristine__ _adj_ _They were in pristine condition._  
+__pristine__ _adj_ :two::hammer: _They were in pristine condition._  
+__privacy lock__  
 __private dancer__ _n_ A dancer who performs a striptease.  
 __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
 __privies__ _n pl_ :two: __1a__ An outdoor toilet; an outhouse. __b__ A toilet.  
-__privy<sup>1</sup>__ _adj_ __1__ (foll by: to) Participating in the knowledge of something secret. _Few people are privy to this information._  
-__privy<sup>2</sup>__ _n_ :five::hammer:  
+__privy<sup>1</sup>__ _adj_ :two: __1__ (foll by: to) Participating in the knowledge of something secret. _Few people are privy to this information._  
+__privy<sup>2</sup>__ _n_ :six::hammer:  
 __prix fixe__ _n_ :seven::hammer: _Prix fixe dinner._ _Prix-fixe specials._ _A la carte or elegant prix fixe dining._  
 __prix__ _n_ Prize. _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ _n_  
@@ -13245,7 +13259,7 @@ __prodigal<sup>1</sup>__ _adj_ :three: Rashly or wastefully extravagant. _Syn_ p
 __prodigal<sup>2</sup>__ _n_  
 __produce__ _n_ :four: Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._ _People value fresh produce._ _We proudly feature only organic produce._  
 __productive cough__ _n_ (medicine) A cough accompanied by expectoration.  
-__profane__ _adj_  
+__profane__ _adj_ :two::hammer:  
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
@@ -13267,10 +13281,11 @@ __profusion__
 __progeny__ _n_ :three::hammer:  
 __prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
+__prohibitionist__ _n_ A reformer who opposes the use of intoxicating beverages. _Syn_ dry _She was a tireless prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet._  
 __Prohibitionists__  
 __prolapse<sup>1</sup>__ _v_  
 __prolapse<sup>2</sup>__ _n_  
-__prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
+__prolegomenon__ _n_ :two: A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
 __prolix__ _adj_ :three: Using too many words and therefore boring.  

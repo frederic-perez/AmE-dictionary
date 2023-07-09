@@ -298,31 +298,6 @@ __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -
 __polish__ _v_ _I polish your writing._  
 __pool table__  
 __pool__ _v_  
-__pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._  
-__pool<sup>2</sup>__ _v_  
-__pore__ _v intr_  
-__pork pie__ _n_  
-__port__ _n_ [See also _starboard_]  
-__portend__ _v tr_ :two::hammer: /por-TEND/  
-__porter__ _n_  
-__possum__ _n_  
-__precocious__ _adj_ /prih-KOH-shus/  
-__preconception__ _n_  
-__predate__ _v_ _This standard predates the emergence of smartphones._  
-__predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
-__preeminent__ _adj_  
-__primeval__ _adj_  
-__primitive__ _n_ __4b__ An artist having or affecting a simple, direct, unschooled style, as of painting. __c__ A work of art created by a primitive artist. _Primitives, collectibles and gifts for all._  
-__primo__ _adj, adv, n_  
-__primrose__ _n_  
-__principled__ _adj_ _A principled foundation._  
-__prior__ _n_ _They deblur the captured images using the motion path as a prior._  
-__pristine__ _adj_  
-__privacy lock__  
-__privy__  
-__profane__ _adj_  
-__prohibitionist__ _n_ A reformer who opposes the use of intoxicating beverages. _Syn_ dry _She was a tireless prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet._  
-__prolegomenon__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
 __promenade__ _n_ :two::hammer: _Public promenades._  
