@@ -13292,16 +13292,19 @@ __prolix__ _adj_ :three: Using too many words and therefore boring.
 __prolixity__ _n_ :two: Excessive wordiness in speech or writing; longwindedness.  
 __prolog__ _n_ :two::hammer:  
 __prolong__ _v_  
-__promenade__ _n_ :two::hammer:  
+__promenade__ _n_ :four::hammer: _Public promenades._  
 __Promethean__ _adj_ Creative; boldly original.  
 __prominence__  
 __prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
 __prominently__  
 __promissory__ _adj_ :pencil2: Containing, involving, or having the nature of a promise. _A promissory note._  
+__promo__  
 __promotion and relegation__ _n_ In sports leagues, promotion and relegation is a process where teams are transferred between multiple divisions based on their performance for the completed season. _England’s soccer pyramid features a promotion-and-relegation system._  
-__prompt<sup>1</sup>__ _adj_ __1__ Being on time; punctual. __2__ Carried out or performed without delay. _A prompt reply._  
-__prompt<sup>2</sup>__ _v_ :two::hammer: (prompting)  
+__prompt<sup>1</sup>__ _adj_ :two: __1__ Being on time; punctual. __2__ Carried out or performed without delay. _A prompt reply._ _Prompt, safe, and reliable._  
+__prompt<sup>2</sup>__ _v tr_ :three::hammer: (prompting)  
+__prompt<sup>3</sup>__ _n_  
 __promptly__ _adv_ :dart: _The importance of detecting diabetes promptly._  
+__promulgate__ _v_ To make known (a decree, for example) by public declaration; announce officially. _Syn_ exclaim, proclaim  
 __prone<sup>1</sup>__ _adj_ :es: propenso  
 __prone<sup>2</sup>__ _n_  
 __prone<sup>3</sup>__ _v_  
@@ -13309,25 +13312,29 @@ __prong__ _n_ :four::hammer: (prongs) _A barbed prong._ _A two-prong whatnot._
 __pronged__  
 __pronounce__ _v_ _Prevnar 13® is pronounced “Prev-nar 13.”_  
 __pronounceable__  
+__proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._  
 __propaganda__ _n_ :astonished:  
+__propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __propel__ _v_ :two::hammer:  
 __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
 __property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
 __prophecy__ _n_ :pencil2: _A self-fulfilling prophesy._  
 __prophesy__ _v_ (prophesied)  
 __prophylaxis__ _n_  
+__propinquity__ _n_ The property of being close together. _Syn_ proximity _She loved Emma Jane, but it was a friendship born of propinquity and circumstance, not of true affinity._  
 __propitiate__ _v_ :pencil2::two::hammer: /proh-PISH-ee-ayt/  
 __proponent__  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
 __propriety__  
 __props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often used in expressions of gratitude: _Props to my friends for helping me out. I’d like to give props to my manager._ _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year’s Tour de France._  
+__proptosis__ _n_  
 __prosaic__ _adj_ :two: /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, everyday, or ordinary, but its original meaning is “characteristic of prose as distinguished from poetry.” _Retirement can lead to a prosaic lifestyle unless you will yourself to seek adventure._  
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
 __proselytism__ _n_ :astonished:  
 __proselytize__ _v_ :six::pencil2::dart: /PRAH-suh-luh-tyze/ Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
-__prosopopoeia__ _n_ Representing an abstract quality or idea as a person or creature personification.  
+__prosopopoeia__ _n_ :two: (prosopopeia) __1__ Personification, as of inanimate things. Representing an abstract quality or idea as a person or creature personification. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
 __prospect__ _n_ (sports)  
 __prospective__ _adj_ :three::hammer: _Prospective clients._  
 __prospector__  
@@ -13340,19 +13347,22 @@ __protean__ _adj_ :four::hammer:
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
+__Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
+__protonation__ _n_  
 __protract__ _v_ :three: (protracted) Lengthen in time; cause to be or last longer. _Syn_ prolong, draw out, extend _Wisputants who needlessly protracted the negotiations._  
-__protracted__ _adj_ Extended or lengthened in time; prolonged: _a protracted legal battle._ _The king’s health required protracted stops._  
+__protracted__ _adj_ :two: Extended or lengthened in time; prolonged: _a protracted legal battle._ _The king’s health required protracted stops._ _A protracted discussion._  
 __prove<sup>1</sup>__ _v tr_  
 __prove<sup>2</sup>__ _v intr_ To be shown to be such; turn out: a theory that proved impractical in practice; _a schedule that proved to be too demanding._ _His first story proved immensely popular._  
 __provenance__  
 __provender__ _n_ :two::hammer:  
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
-__providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
-__provider__ _n_ _Mental health providers._  
-__proviso__ _n_  
-__provost__ _n_ :nine: A provost is an administrator at a college or university. The provost is very important to the school.  
+__providence__ _n_ :four: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
+__provider__ _n_ :two::hammer: _Mental health providers._  
+__proviso__ _n_ :two::hammer:  
+__provost__ _n_ :nine::m: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :nine::m: /ˈpraʊ ɪs/ Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. _It was no lack of prowess that defeated the French and allied knights._ __2__ Extraordinary ability. _His prowess on the football field._  
 __prowled__ _v_  
+__proximate__ _adj_ /PRAHK-suh-mut/  
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  

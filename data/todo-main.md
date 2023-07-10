@@ -300,26 +300,6 @@ __pool table__
 __pool__ _v_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
-__promenade__ _n_ :two::hammer: _Public promenades._  
-__promo__  
-__prompt<sup>1</sup>__ _adj_ _Prompt, safe, and reliable._  
-__prompt<sup>2</sup>__ _v tr_  
-__prompt<sup>3</sup>__ _n_  
-__promulgate__ _v_ To make known (a decree, for example) by public declaration; announce officially. _Syn_ exclaim, proclaim  
-__proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
-__propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
-__propinquity__ _n_ The property of being close together. _Syn_ proximity _She loved Emma Jane, but it was a friendship born of propinquity and circumstance, not of true affinity._  
-__proptosis__ _n_  
-__prosopopoeia__ _n_ (prosopopeia) __1__ Personification, as of inanimate things. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
-__Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
-__protonation__ _n_  
-__protracted__ _adj_ _A protracted discussion._  
-__providence__ _n_ Prudent management; economy. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
-__provider__ _n_  
-__proviso__ _n_  
-__provost__ _n_ :two::hammer:  
-__prowess__ _n_ :two::hammer:  
-__proximate__ _adj_ /PRAHK-suh-mut/  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
