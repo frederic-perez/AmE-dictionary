@@ -3483,20 +3483,30 @@ __take stock__
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incriminate oneself, as in _He took the Fifth on so many of the prosecutor’s questions that we’re sure he’s guilty._  
 __take the gloves off__ _The gloves are coming off today._  
-__take the high road__ :two: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
+__take the high road__ :four: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
 __take the hit__ (take the fall) To incur blame or censure, either willingly or unwillingly: _a senior official who took the fall for the failed intelligence operation._  
+__take the reins__  
 __take the weight off (one’s) feet__ To lie or (especially) sit down, generally after being upright for a long period of time. _We’ve been walking all over town today, so I think we’re just going to head back to the hotel and take the weight off our feet for a while._  
 __take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
 __take umbrage__ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
-__take up__ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he’s retired._  
+__take up__ :two: To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he’s retired._ _We have taken up this challenge._  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ To do something to help you forget about something else.  
+__taken aback__ :two::astonished: Startled, astonished, shocked, or disconcerted. _All of us were a bit taken aback to learn that John was moving to England next month._  
+__taking it on your chin__  
 __talk a mile a minute__ To speak in a very quick or hurried manner; to talk very fast. _When the boss gets excited, she starts talking a mile a minute, and I can never follow everything she’s trying to say!_  
+__talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent manner; to sass. _If you don’t stop talking back like that, you’ll be going to bed with no dinner!_  
 __talk back__  
+__talk down to (one)__  
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
+__talk the talk__  
 __talk to the hand__ A rude interjection meant to interrupt and dismiss what another person is saying. (Sometimes written or spoken in longer forms, such as, “talk to the hand, because the face isn’t listening,” or the like.) _All of us were aghast when Jonathan turned to the police officer and said, “Talk to the hand, ’cause the face ain’t interested!”_  
+__talk trash__  
+__talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
+__talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __talking head__ :dart::two: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._ _Talking head videos._  
+__tall order__ :two::hammer:  
 __tall tale__ :three::hammer:  
 __tan (one’s) hide__ To spank one. _Young lady, I will tan your hide if you disobey me again!_  
 __tap dancing__  
@@ -3523,6 +3533,7 @@ __tempus fugit__ [:scroll: The phrase is Latin for “time flies.”] Time passe
 __test (one’s) mettle__  
 __test the water(s)__ :four::hammer: _We’re testing the waters._  
 __TFW__ An abbreviation for “that feel when” or “that feeling when,” used in texting and social media to introduce a commonly experienced feeling or situation (that others will likely identify with). _TFW you see your dog after you get home from work._  
+__thank God__ _That was the end of it—thank God._  
 __thank you very much__  
 __thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
 __that being said__  
@@ -3552,7 +3563,8 @@ __the final straw__
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence. _One must never forget the sway held by members of the Fourth Estate—if we want public support, then we need the press on our side._  
 __the full monty__  
-__the going thing__ The latest and most popular trend, fad, or fashion.  
+__the going thing__ :two: The latest and most popular trend, fad, or fashion. _My son came home asking to have half his head shaved—apparently, that’s the going thing these days!_  
+__the golden rule__  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
 __the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
@@ -3574,11 +3586,12 @@ __the lady of the house__ A woman who looks after and runs the house; the matria
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list.  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
 __the likes of (someone or something)__  
-__the lion’s den__ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
+__the likes of__  
+__the lion’s den__ :two: A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :two: Major share of something.  
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
-__the meat and potatoes__ The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
+__the meat and potatoes__ :two: The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
 __the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
 __the moon on a stick__ Anything and everything that one desires or can imagine wanting (i.e., above and beyond what would be normal or appropriate). _Jim was so smitten with his co-worker that he’d probably try to get her the moon on a stick if she asked for it._ _Jonathan always wants the moon on a stick when it comes to relationships._  

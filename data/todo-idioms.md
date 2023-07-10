@@ -212,26 +212,6 @@ __take offense (at) (something)__ To be or feel insulted, offended, or humiliate
 __take something by storm__  
 __take the brunt__  
 __take the edge off__  
-__take the high road__ :two::hammer:  
-__take the reins__  
-__take up__ _We have taken up this challenge._  
-__taken aback__ :two::astonished: Startled, astonished, shocked, or disconcerted. _All of us were a bit taken aback to learn that John was moving to England next month._  
-__taking it on your chin__  
-__talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent manner; to sass. _If you don’t stop talking back like that, you’ll be going to bed with no dinner!_  
-__talk down to (one)__  
-__talk the talk__  
-__talk trash__  
-__talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
-__talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
-__tall order__ :two::hammer:  
-__tap into something__  
-__tap into__  
-__thank God__ _That was the end of it—thank God._  
-__the going thing__ The latest and most popular trend, fad, or fashion. _My son came home asking to have half his head shaved—apparently, that’s the going thing these days!_  
-__the golden rule__  
-__the likes of__  
-__the lion’s den__  
-__the meat and potatoes__  
 __the more you know__  
 __the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the nature of the beast__  
