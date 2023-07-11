@@ -853,7 +853,7 @@ __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as 
 __come to fruition__ :three: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__  
 __come to grips__ :two::hammer:  
-__come to terms with (someone or something)__ :eight::hammer:  
+__come to terms with (someone or something)__ :eight: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
@@ -3596,21 +3596,37 @@ __the meat of the matter__ The most important, basic, or fundamental essence or 
 __the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
 __the moon on a stick__ Anything and everything that one desires or can imagine wanting (i.e., above and beyond what would be normal or appropriate). _Jim was so smitten with his co-worker that he’d probably try to get her the moon on a stick if she asked for it._ _Jonathan always wants the moon on a stick when it comes to relationships._  
 __the moral high ground__ A position of moral authority or superiority that one’s arguments, beliefs, ideas, etc., are claimed or purported to occupy, especially in comparison to a differing viewpoint. (Used especially in the phrase “take/claim/seize/etc. the moral high ground.”) _The senator always tries to claim the moral high ground during a debate so as to shift public opinion in his favor._  
+__the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
+__the nature of the beast__  
+__the new black__  
+__the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
+__the nitty-gritty__ :two::hammer:  
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
 __the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
 __the outside world__ The people, culture, ideas, or experiences beyond an enclosed, sheltered, or remote place, situation or environment. _Being raised out on the farm meant Jacob had little knowledge of the outside world._  
+__the pit of (one’s) stomach__ :two: An area in the core of one’s abdomen, approximately in or near one’s stomach, in which one feels a physical response to strong emotion, especially fear, stress, or anxiety. _I’ve had this awful feeling in the pit of my stomach all morning because I know we’ll be finding out the results to the final exam this afternoon._  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas stations as a whole. _Prices at the pump have been at their lowest since 1995._  
+__the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
 __the sky is the limit__ :three: (the sky’s the limit) Anything is possible; there is practically no limit.  
+__the spur of the moment__  
 __the straw that broke the camel’s back__  
+__the terrible twos__ A developmental stage of children, generally at or around the age of two, marked by increased rebelliousness and frequent tantrums. _Becca’s been having really bad temper tantrums lately and just keeps saying “no” to everything we say to her. I guess she’s going into the terrible twos._  
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
+__the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
+__the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
+__the usual suspects__ _Side vegetables contain all the usual suspects._  
 __the very thing__ Exactly what is most ideal, desired, or useful in a particular moment or situation. _I’m telling you, when you’re hungover, a big basket of French fries is the very thing!_ _I have the very thing to wear with a dress that color._ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
 __the whole nine yards__  
-__the whole shebang__  
+__the whole shebang__ :two::hammer:  
+__the Wild West__  
+__the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
+__the writing on the wall__  
+__the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
 __then again__ :nine::m: [:sound: then again] From another standpoint; on the other hand; on second thought; from a different, conflicting, or contradictory point of view. An opposite possibility. _I need a vacation. Then again, so do my coworkers._ _Then again, you might not remember it._  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
@@ -3627,6 +3643,7 @@ __think aloud__ To verbalize one’s thoughts. _I’m just thinking aloud._
 __think back__ :two: To think about a past event or a past time.  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
 __third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
+__third world__  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this is no picnic__  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
@@ -3653,6 +3670,7 @@ __thug live__ (often ironic) [:scroll: Popularized by American rapper Tupac Shak
 __thumb (one’s) nose at (someone or something)__ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
 __thumbs up__ _We have a thumbs up!_  
 __tick someone off__  
+__ticker__ __1__ _n_ A heart. _His ticker finally gave out._ __2__ _n_ A watch. _My ticker stopped. The battery must be dead._  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __tide someone over (until something)__ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tie (one) down__ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
@@ -3665,7 +3683,7 @@ __tighten your belt__ To spend less money.
 __til you drop__  
 __time and (time) again__ :four::dart: Repeatedly; on multiple occasions. _Why do you continue to trust John when he has lied to you time and again?_  
 __time and again__ :two: Again and again; repeatedly.  
-__time and time again__ :dart:  
+__time and time again__ :dart::two::hammer:  
 __time capsule__  
 __time flies__ :two::hammer: _Time flies when you’re having fun._  
 __tip (one’s) hat__  
