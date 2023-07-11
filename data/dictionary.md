@@ -13494,40 +13494,44 @@ __pus__ _n_ /pʌs/ :pencil2::three: A generally viscous, yellowish-white fluid f
 __push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
 __push<sup>2</sup>__ _n_  
-__pushback__ _n_  
+__pushback__ _n_ :three::hammer:  
 __pushcart__ _n_ _A pushcart vendor._  
 __pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy__ _adj_ :three::hammer: _I guess I was a little pushy._ _Pushy sales._  
 __pusillanimous__ _adj_ :two: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
 __pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
-__pustules__ _n_  
+__pustule__ _n_ :three::hammer:  
 __put it on the money__  
 __put on a clinic__  
 __put on hold__  
+__put out__ _v_ __1__ To extinguish: _put out a fire._  
 __put to the test__  
 __put__ _v_ __8__ _Sports_ To hurl with an overhand pushing motion: _put the shot._  
 __putative__ _adj_ /PYOO-tuh-tiv/ Putative is a formal word meaning “generally believed, supposed, or assumed to be (something).” It is always used before a noun. _The putative reason for their dismissal was poor job performance._ _Critics challenged his putative allegiance to the cause._  
 __putbacks__  
 __putdowns__  
 __putrid__  
-__putsch__ _n_ A sudden attempt by a group to overthrow a government.  
+__putsch__ _n_ :two: A sudden attempt by a group to overthrow a government. _Syn_ coup, coup d’etat, takeover  
 __putt<sup>1</sup>__ _n_ A light golf stroke made on the putting green in an effort to place the ball into the hole. _Jason missed a 5-foot par putt._  
 __putt<sup>2</sup>__ _v_  
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
 __putty knife__ _n_ :astonished: A spatula used to mix or apply putty. :es: espátula  
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
+__puzzle box__ _n_ _Syn_ secret box, trick box  
 __puzzler__ _n_ A person or thing that puzzles.  
-__pylon__ _n_  
+__Pygmalion__ _n_ :mega:  
+__pylon__ _n_ :two::hammer:  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyranometer__ _n_ :four::hammer:  
 __pyre__ _n_ :two::hammer: (pyres) _It burned like a funeral Viking pyre._  
 __Pyrenees__ _n_ :pencil2:  
 __pyrheliometer__ _n_ :two::hammer:  
-__pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
+__pyrite__ _n_ :two: /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
+__pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder. _Syn_ heartburn _Even after he swore off spicy foods, his pyrosis kept him up at night._  
 __pyrrhic__ _adj_ :four::pencil2: (of a victory) Won at too great a cost to have been worthwhile for the victor.  
 __Pyrrhonism__ _n_ /PIR-uh-niz-uhm/ [:scroll: After Pyrrho, a Greek philosopher, c. 360-270 BCE.] Extreme or absolute skepticism.  
 __q-tip__  
@@ -13536,9 +13540,10 @@ __Q.E.D.__
 __Q&A__ _n_ _The gathering will feature question-and-answer sessions._  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
 __quack__ _n_ :seven: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. _Other quacks and remedies of all kinds were tried to no avail._ __2__ A charlatan; a mountebank. _Partisan quacks._  
+__quadragenarian__ _adj, n_  
 __quadrennial__  
 __quadroons__  
-__quaff__ _v_ :two: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
+__quaff__ _v_ :four: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
 __quaffable__  
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ _n_ :six: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ :dart: An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
@@ -13643,11 +13648,12 @@ __racket<sup>2</sup>__ _v_
 __racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeer<sup>2</sup>__ _v_  
 __racketeering__ _n_ :two: Engaging in a racket.  
-__raconteur__ _n_ One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
+__raconteur__ _n_ :two: One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
 __racous__  
 __racousness__  
 __racquet__  
 __racy__ _adj_ :three::hammer: _A racy line from a popular song._ _Racy song._  
+__radar__ _n_ :mega:  
 __radial__ _n_ _Such a thrill when your radials squeal._  
 __radiation budget__  
 __radical candor__  
@@ -13656,22 +13662,27 @@ __radiometer__ _n_ :two::hammer:
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
 __radium dial__ _n_ _He checked the radium dial on his watch: 0517._  
+__radius__ _n_ :mega:  
 __radome__ _n_ :two::hammer:  
-__raffish__ _adj_ [:scroll: From raff (rubbish), also the source of riffraff.] __1__ Vulgar or tawdry. __2__ Unconventional; carefree; rakish.  
+__raffish__ _adj_ :two: [:scroll: From raff (rubbish), also the source of riffraff.] __1__ Vulgar or tawdry. __2__ Unconventional; carefree; rakish. __3__ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
+__rafting__ _n_ _River rafting._  
 __ragamuffin__ _n_ A shabbily clothed, dirty child.  
 __ragbag__ _n_ :two: A motley assortment of things.  
+__rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __rage<sup>1</sup>__ _n_ :two::hammer:  
 __rage<sup>2</sup>__ _v_ :two::hammer: (raged)  
 __raging__ _adj_ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker’s dream._  
 __ragtag__ _adj_ :four::hammer: _A ragtag group._ _It was a ragtag formation._  
+__ragu__ _n_  
 __rah-rah__ _adj_ _informal_ :two::hammer: _Rah-rah motivation._  
 __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
+__rail car__  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
-__rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing against Medicaid._  
+__rail<sup>2</sup>__ _v intr_ :five: To express objections or criticisms in bitter, harsh, or abusive language. _Syn_ scold _He is railing against Medicaid._  
 __raiment__ _n_ :three::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _n_ _football_  

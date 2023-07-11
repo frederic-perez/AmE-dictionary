@@ -307,27 +307,6 @@ __pry__ _v_
 __pseudopseudohypoparathyroidism__  
 __pulpit__ _n_  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
-__pushback__ _n_ :two::hammer:  
-__pustule__ _n_ :two::hammer:  
-__put out__ _v_ __1__ To extinguish: _put out a fire._  
-__putsch__ _n_ A sudden attempt by a group to overthrow a government. _Syn_ coup, coup d’etat, takeover  
-__puzzle box__ _n_ _Syn_ secret box, trick box  
-__Pygmalion__ _n_ :mega:  
-__pylon__ _n_  
-__pyrite__ _n_ _Syn_ fool’s gold  
-__pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder. _Syn_ heartburn _Even after he swore off spicy foods, his pyrosis kept him up at night._  
-__quadragenarian__ _adj, n_  
-__quaff__ _v_  
-__quaffing__ _v_  
-__raconteur__ _n_  
-__radar__ _n_ :mega:  
-__radius__ _n_ :mega:  
-__raffish__ _adj_ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
-__rafting__ _n_ _River rafting._  
-__rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
-__ragu__ _n_  
-__rail car__  
-__rail__ _v intr_ To express objections or criticisms in bitter, harsh, or abusive language. _Syn_ scold  
 __raillery__ _n_  
 __rambler__ _n_  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
