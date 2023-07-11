@@ -1,4 +1,5 @@
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
+__abscond__ _v_ /ab-SKAHND/  
 __abusive__ _adj_  
 __adenosine__ _n_  
 __adrift__  
@@ -13,8 +14,10 @@ __ant hill__ _n_
 __appraisal__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __articulate__ _v_  
+__artiodactyl__ _n_  
 __assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
+__avenge__ _v tr_  
 __avent__ _n_  
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
 __ayahuasca__ _n_  
@@ -33,11 +36,13 @@ __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.
 __biff__ _n_  
 __billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
 __bird of prey__ _n_  
+__blackface__ _n_  
 __blackmail__  
 __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
+__bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
 __boo__ _v_  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
@@ -58,11 +63,13 @@ __bunting__ _n_
 __byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __Calvinism__ _n_  
 __calypso__ _n_ (music)  
+__camarilla__ _n_ A group of confidential, often scheming advisers. _Syn_ cabal, faction, junto  
 __canasta__ _n_  
 __cannoli__ _n_  
 __carefree__ _adj_  
 __carousel__  
 __castor__  
+__cataplasm__ _n_ A _Syn_ poultice, plaster  
 __catharsis__ _n_  
 __catnap__  
 __catnip__  
@@ -75,6 +82,8 @@ __chirk<sup>3</sup>__ _adj_ Lively; cheerful.
 __chit chat__  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __clammy__ _adj_  
+__clobber__ _v tr_  
+__coddle__ _v tr_  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
@@ -103,6 +112,8 @@ __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __Energizer Bunny__  
 __engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
+__engram__ _n_ _Syn_ memory trace  
+__ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
 __enthuse__ _v_  
 __enthused__ _adj_  
@@ -134,6 +145,7 @@ __favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favora
 __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __felon__  
+__fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __fiasco__  
 __fictive__ _adj_  
 __filching__ _v_ _Filching felines._  
@@ -221,6 +233,7 @@ __litany__
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __locution__ _n_  
+__loquacious__ _adj_ /loh-KWAY-shus/  
 __lovesick__ _adj_  
 __lowlight__  
 __Luddite__ _n_  
@@ -245,6 +258,7 @@ __meet-cute__ _n_ /MEET-kyoot/
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __mess around__  
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
+__miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
@@ -253,6 +267,7 @@ __misguide__ _v_
 __misnomer__ _n_  
 __missal__ _n_  
 __misspell__ _v_ :pencil2:  
+__mitigate__ _v_ /MIT-uh-gayt/  
 __mixtape__ _n_  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
@@ -275,6 +290,7 @@ __non-negotiable__ _adj_
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
+__olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __optíonal__ _adj_ :mega:  
 __ostopenia__  
@@ -357,6 +373,7 @@ __reconvene__ _v_ To gather, call together, or summon again, esp for a formal me
 __recount__ _v_  
 __recoup__ _v_  
 __rectify__ _v_ /REK-tuh-fye/  
+__rectitude__ _n_ /REK-tuh-tood/  
 __recumbent__ _adj_  
 __recurse__ _v_ /ri-KUHRS/  
 __recuse__ _v_ /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
@@ -375,6 +392,7 @@ __reef__ _n_
 __reenactment__ _n_  
 __refectory__ _n_ :two::hammer:  
 __referral__ _n_ :two::hammer: _Free referral service for apartments and homes._ _Spouse referral._  
+__reflexive__ _adj_ /ri-FLEK-siv/  
 __refreshment__ _n_  
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __refurbish__ _v_  
@@ -400,6 +418,7 @@ __reset<sup>1</sup>__ _n_ :mega:
 __reset<sup>2</sup>__ _v_ :mega::two::hammer:  
 __resonate__ _v_  
 __responsibility__ _n_  
+__revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
@@ -692,8 +711,8 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ :two::hammer: _The challenges strike me as fundamental._ _This episode struck._  
-__stymie<sup>1</sup>__ _v tr_ /STY-mee/ To obstruct, thwart, stump, etc.  
-__stymie<sup>2</sup>__ _n_ A hindrance.  
+__stymie<sup>1</sup>__ _v tr_ :two: /STY-mee/ To obstruct, thwart, stump, etc.  
+__stymie<sup>2</sup>__ _n_ :two: A hindrance.  
 __submersible__ _adj, n_  
 __sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
 __sunblock__ _n_  
@@ -793,7 +812,7 @@ __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other 
 __thru__  
 __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
 __thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
-__thwart__ _v_ :two::hammer: (thwarted)  
+__thwart__ _v_ :three::hammer: /THWORT/  
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __tickling__ _n_ :dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
@@ -884,10 +903,12 @@ __unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._
 __unwittingly__ _adv_ Without knowledge or intention. _He unwittingly deleted the references._  
 __upheaval__ _n_  
 __upkeep__ _n_  
+__upmost__  
 __upskilling__ _n_ Teaching or learning additional skills.  
 __use__ _v_ _informal_  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
+__utmost__  
 __utterly__  
 __V8__ _n_ _(beverage)_  
 __vacationer__ _n_  
