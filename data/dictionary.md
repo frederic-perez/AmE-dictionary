@@ -13715,15 +13715,17 @@ __rampage<sup>1</sup>__ _v intr_ :seven::hammer:
 __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
 __rampant__ _adj_ :four::hammer:  
 __rampantly__  
-__rampart__ _n_ :five::hammer: (ramparts) _Ancient stone ramparts._  
-__ramshackle__ _adj_ :two::hammer:  
+__rampart__ _n_ :seven::hammer: (ramparts) _Ancient stone ramparts._  
+__ramshackle__ _adj_ :three: /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
 __ranch hand__ _n_ A hired hand on a ranch. _In a denim western shirt and jeans he looks like a ranch hand._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
-__rancor__ _n_ :two::hammer: _A rising rancor of the poor against the rich._  
+__rancid__ _adj_ /RAN-sid/  
+__rancor__ _n_ :three: Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._ _A rising rancor of the poor against the rich._  
 __rancorous__ _adj_  
+__random forest__  
 __random__ _adj_ :mega: /ˈrændəm/  
 __randy__  
-__range<sup>1</sup>__ _n_ :two::hammer: _A range of details._ _Range war._  
+__range<sup>1</sup>__ _n_ :three::hammer: _A range of details._ _Range war._ _Ghost Town preserves the best of the Old West when cowboy rode the range an miners searched for gold._  
 __range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming down your diary._  
 __rangy__ _adj_ _A rangy Texas native._  
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
@@ -13739,28 +13741,32 @@ __rap sheet__ _n_ _slang_ :three: A record kept by law-enforcement authorities o
 __rap__ _n_ :two::hammer: _South has a bad rap._ _There was a sharp rap on the door._  
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
+__rapid-fire__ _adj_  
 __rapidly__  
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapine__ _n_ :three: The violent seizure and carrying off of another’s property; plunder.  
 __rapping__ _v_  
 __rapport__ _n_ :two: A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy. Relationship, especially one of mutual trust or emotional affinity. _Syn_ resonance _They had an excellent rapport and would never keep secrets from one another._  
 __rapprochement__ _n_ :three::hammer:  
-__rapt<sup>1</sup>__ _adj_ :six::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
+__rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who causes trouble, often in a mischievous way. _Syn_ rascal, ne’er-do-well _With his shaggy, perpetually unkempt hair and his charmingly crooked smile, the actor seems to have been born to play scamps and rapscallions._  
+__rapt<sup>1</sup>__ _adj_ :seven::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture<sup>1</sup>__ _n_ :five::hammer: _The film _Carol_ left critics in rapture._  
-__rapture<sup>2</sup>__ _v_  
+__rapture<sup>2</sup>__ _v_ :two::hammer:  
 __rapturous__  
 __rare news conference__  
 __rare__  
-__rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.  
-__raring__  
+__rarefied__ _adj_ :three::astonished: /RAIR-uh-fyde/ Extremely high or elevated; lofty; exalted.  
+__raring__ _adj_ :two: Full of eagerness; enthusiastic. _Syn_ impatient _Standing at the starting line of the race, he shifted from foot to foot and was raring to go._  
 __rascal__ _n_ :three: __1__ One that is playfully mischievous. __2__ An unscrupulous, dishonest person; a scoundrel.  
 __rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
-__rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
-__rash<sup>2</sup>__ _adj_ :dart::four: Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
-__Rashomon effect__ _n_ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
+__rash<sup>1</sup>__ _n_ :nine::m: __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
+__rash<sup>2</sup>__ _adj_ :dart::five: /RASH/ Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
+__Rashomon effect__ _n_ :two: The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident. _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
+__rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashomon_ (based on Ryunosuke Akutagawa’s 1922 short story “In a Grove”) which showed a crime described by different people in different ways] Relating to differing accounts or subjective interpretations of an event.  
+__rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used of birds. Given to scratching the ground for food, as chickens. __2__ Adapted for scratching, as a bird’s foot.  
 __rasp__ _v_  
-__raspberry__ _n_ :mute:[ras~~p~~berry]  
+__raspberry__ _n_ :two::mega::mute:[ras~~p~~berry]:hammer: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __raspy__  
 __rastafari__ _n_  
 __rat race__  
@@ -13773,15 +13779,17 @@ __ratchet<sup>3</sup>__ _adj_ _slang_ Lacking in class, refinement, or good tast
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
+__rathskeller__ _n_ A restaurant or bar located below street level.  
 __ratify__ _v_ (ratified)  
 __rating__ _n_ :two::hammer:  
 __rationale__ _n_ :two::dart: /rash-uh-NAL/ An explanation or reason for something said or done. _Senators who opposed the bill were questioned by media to uncover their rationale for voting against it._ _It has four main rationales._  
-__rationalize__ _v_  
+__rationalize__ _v_ :two::hammer:  
 __ratlines__  
 __ratoon__ _n_  
 __rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
 __ratter__ _n_  
 __rattle__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
+__rattled__ _adj_ :two::hammer: _I feel rattled._  
 __rattlers__  
 __rattlesnake__  
 __rattling<sup>1</sup>__ _n_  

@@ -327,28 +327,6 @@ __raillery__ _n_
 __rambler__ _n_  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
-__rampart__ _n_ :two::hammer:  
-__ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
-__rancid__ _adj_ /RAN-sid/  
-__rancor__ _n_ Bitter, long-lasting resentment; deep-seated ill will. Bitter, long-lasting resentment; deep-seated ill will. _Syn_ bitterness, resentment, gall :es: rencor, resentimiento _He was filled with rancor after losing his job._ _After a year Edinburgh dropped him, thus supplying substantial fuel for his ingrained poor man’s jealousy and rancor at the privileged classes._  
-__random forest__  
-__range__ _n_ _Ghost Town preserves the best of the Old West when cowboy rode the range an miners searched for gold._  
-__rapid-fire__ _adj_  
-__rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who causes trouble, often in a mischievous way. _Syn_ rascal, ne’er-do-well _With his shaggy, perpetually unkempt hair and his charmingly crooked smile, the actor seems to have been born to play scamps and rapscallions._  
-__rapt__ _adj_  
-__rapture__ _v_  
-__rarefied__ _adj_ /RAIR-uh-fyde/  
-__raring__ _adj_ Full of eagerness; enthusiastic. _Syn_ impatient _Standing at the starting line of the race, he shifted from foot to foot and was raring to go._  
-__rash<sup>1</sup>__ _adj_ /RASH/  
-__rash<sup>2</sup>__ _n_  
-__Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
-__rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashomon_ (based on Ryunosuke Akutagawa’s 1922 short story “In a Grove”) which showed a crime described by different people in different ways] Relating to differing accounts or subjective interpretations of an event.  
-__rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used of birds. Given to scratching the ground for food, as chickens. __2__ Adapted for scratching, as a bird’s foot.  
-__raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
-__rathskeller__ _n_ A restaurant or bar located below street level.  
-__rationalize__ _v_  
-__rattled__ _adj_ :two::hammer: _I feel rattled._  
-__raucous__ _adj_ :two::hammer:  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravenous__ _adj_  
 __raver__ _n_  
