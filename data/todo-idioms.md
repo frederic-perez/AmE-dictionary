@@ -1,4 +1,5 @@
 __(it’s) (a)bout time__ It is almost too late!; I’ve been waiting a long time! (Said with impatience.) _So you finally got here! It’s about time!_  
+__(old) geezer__  
 __a disaster waiting to happen__  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
 __a front-row seat__  
@@ -36,6 +37,7 @@ __All Hands Meeting__
 __all in__  
 __all of a sudden__  
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
+__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __amount to nothing__  
 __an accident waiting to happen__  
 __an armchair something__  
@@ -48,8 +50,13 @@ __baby boomer__
 __backwater__  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
+__bear the brunt (of something)__  
+__big name__  
+__bounce back__  
 __cap__  
+__capitalize on (something)__ To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
 __catch on__  
+__cater to (someone or something)__  
 __cautionary tale__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __chime in__  
@@ -70,6 +77,7 @@ __dish out__
 __diss__  
 __dive in__  
 __don’t get (one) started__  
+__draw up__  
 __drill in(to) (someone or something)__  
 __dynamic duo__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
@@ -99,6 +107,7 @@ __follow suit__ To do the same thing as others, especially by following their ex
 __food coma__  
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __for Pete’s sake__  
+__for the time being__  
 __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __fuck (one’s) brains out__  
@@ -112,7 +121,9 @@ __GI Joe__
 __git it a shot__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
+__give (one) the creeps__  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
+__go all out__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go to Canossa__  
@@ -128,6 +139,8 @@ __good graces__ Favorable, kindly, or approving regard or treatment. Usually use
 __good job__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good-natured__ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
+__grapple with (someone or something)__  
+__gulp down__  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __have (got) a knack for (something)__ To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
@@ -151,6 +164,7 @@ __jam-packed__
 __jump in__  
 __keep in mind__  
 __keep it real__  
+__keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __kick (someone or something) to the curb__  
 __kick in__  
 __kick into high gear__  
@@ -171,6 +185,7 @@ __last resort__ The only remaining option that may help one or be of any use aft
 __left and right__  
 __lesson learned__ The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
 __line of work__  
+__looking up__ Appearing as if improvement will begin or continue into the future. _Now that businesses have started returning, the country’s economy is finally looking up._  
 __on leave__  
 __on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
 __on one’s terms__  
@@ -185,12 +200,14 @@ __other than (something)__
 __ouch__ :dart:  
 __out of character__  
 __outsmart (oneself)__  
+__pie in the sky__  
 __play (one’s) cards__  
 __power nap__  
 __pull the plug (on someone or something)__  
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
 __retail for (something)__  
+__rock (one’s) world__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __strong word__  
 __swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
@@ -201,18 +218,21 @@ __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._
 __switch gears__ :dart: To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
-__tag along__  
+__tag along__ :two::hammer:  
 __take (great) pains (to do something)__  
 __take (one’s) pick__ To choose from among several options. Often used as an imperative in the phrase “take your pick.” _We’ve got 45 flavors. Vanilla, chocolate, bacon—take your pick._  
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__  
+__take (someone, something, or some place) by storm__  
 __take a haircut__ A reduction in value. To accept a loss on a return of a financial investment. _The new interest rate hike means that many investors will be forced to take a haircut on their largest assets in the coming fiscal year._  
 __take offense (at) (something)__ To be or feel insulted, offended, or humiliated by something.  
 __take something by storm__  
 __take the brunt__  
 __take the edge off__  
 __the more you know__  
+__the nitty-gritty__  
+__time and (time) again__  
 __to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be in a better place__  
@@ -239,7 +259,9 @@ __touch wood__
 __tour de force__  
 __trip__ _We were tripping on acid when we broke._  
 __turn (something) on its head__  
+__turn the corner__  
 __unpack__  
+__up in arms__  
 __uphill battle__ :dart:  
 __wakeup call__  
 __walk on eggshells__  
@@ -248,6 +270,7 @@ __walkout__
 __watch (someone’s) back__  
 __wean off (of) (something)__  
 __weigh in__ :dart: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
+__what gives?__  
 __whet (one’s) appetite__  
 __whitewash__  
 __whodunit__ :dart: A detective story or mystery story.  
@@ -256,12 +279,13 @@ __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, 
 __why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wild__  
-__wildest dreams__  
+__wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
 __willy-nilly__  
 __win (one) over__  
 __win-win__ _A win-win scenario._  
 __with a record__  
 __with a twist__  
+__you can’t teach an old dog new tricks__  
 __you don’t say__  
 __you name it__ :two::hammer:  
 __you scratch my back, I’ll scratch yours__  
