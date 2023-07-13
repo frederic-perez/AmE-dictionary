@@ -13866,52 +13866,63 @@ __rebuttal__ _n_
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
 __recalcitrant__ _adj_ :five: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
-__recall<sup>2</sup>__ _v_  
+__recall<sup>2</sup>__ _v_ :three::hammer:  
 __recant__ _v_ :five::hammer: (recanted) _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
-__recap<sup>2</sup>__ _v informal_ :three: Recapitulate.  
+__recap<sup>2</sup>__ _v tr_ _informal_ :four: To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
 __recapitulate__ _v_ :two::hammer:  
 __recce__ _n_ :two::hammer:  
 __recede__ _v_  
 __receipt__ _n_ :three::mute:[recei~~p~~t]:hammer: /rih-SEET/ _Expected items pending receipt from other sources._  
 __receivership__  
+__receiving end__ _n_  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
 __recidivate__ _v_ To return to a previous pattern of behavior, especially to return to criminal habits. _Syn_ relapse, retrogress, lapse, regress, fall back _I did not mean to recidivate, but burgling homes is second nature to me._  
-__recidivism__ _n_ :two: The repeating of or returning to criminal behavior by the same offender or type of offender.  
+__recidivism__ _n_ :three: /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. The repeating of or returning to criminal behavior by the same offender or type of offender. _The county’s new program has been very successful in reducing recidivism rates._  
 __recidivist__ _n_ :four::hammer:  
+__recipe__ _n_ :m: _Recipe to success._  
 __reciprocate__ _v_ /rih-SIP-ruh-kayt/ To do something for or to someone who has done something similar for or to you. _It was kind of my friend to give me a ride to the airport, and on the flight I was thinking of how to reciprocate the favor._  
 __recitalist__  
+__recitation__ _n_  
 __reckless__  
 __recknit bones__  
 __reckon__ _v_ :three::hammer:  
-__reckoning__ _n_ :three::hammer:  
+__reckoning__ _n_ :four::hammer:  
 __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past and has been used for buildings and structures from the 18th to the early 20th century. The wood is recycled and reused to meet today’s ever-growing need for sustainable and eco-friendly homes and businesses. _Antique doors and beams made of reclaimed wood._  
+__recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recollect__ _v_  
 __recollection__ _n_ :seven::hammer::hammer:  
-__reconcile__ _v_  
+__reconcile__ _v_ :two::hammer: /REK-un-syle/  
 __recondite__ _adj_ /REK-un-dyte/ Recondite is a formal word used to describe something that is difficult to understand or something that is not known by many people.  
 __reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
-__reconvene__ _v_ :seven::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
+__reconvene__ _v_ :eight: To gather, call together, or summon again, esp for a formal meeting. _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
+__recount__ _v_  
 __recounting__ _n_ :two::hammer: _His recounting._  
-__recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
+__recoup__ _v_ :seven: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
 __recreational__ _adj_ _Recreational marijuana vs medical marijuana._  
 __recreationally__ _adv_ _He plays tennis recreationally._  
-__rectitude__ _n_ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
+__rectify__ _v_ /REK-tuh-fye/  
+__rectitude__ _n_ :two: /REK-tuh-tood/ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
 __rector__  
-__recumbent__  
-__recuse__ _v_ _She recused herself._  
+__recumbent__ _adj_ :two::hammer:  
+__recurse__ _v_ /ri-KUHRS/  
+__recuse__ _v_ :two: /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
+__Red Cross__ _n_  
 __red eye__ _n_  
 __red flag__ _n_ :three: Something that irritates or demands immediate action. _Red flag day._ _That raised a red flag to us._  
 __red herring__  
 __red line__ _n_ _They’re crossing red lines._  
+__red panda__  
+__red rice__ _n_  
 __red rover__ _n_  
+__red snapper__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
 __red-eye__ _n_ _Catch the red-eye._  
@@ -13919,9 +13930,9 @@ __red-hot__ _adj_ _A circlet of red-hot iron._
 __red-letter day__  
 __redbones__ _n_  
 __redeal__ _v_ To deal playing cards again.  
-__redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
-__Redeemer__ _n_  
-__redemption__ _n_ :three::hammer::mega: (redemptions)  
+__redeem__ _v_ :three::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
+__redeemer__ _n_ :two::hammer:  
+__redemption__ _n_ :four::hammer::mega: (redemptions)  
 __redhead__ _n_ :pencil2:  
 __redline__ _v_  
 __redlining__ _n_  

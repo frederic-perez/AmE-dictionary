@@ -338,30 +338,6 @@ __realm__ _n_
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
 __recalcitrant__ _adj_  
-__recall__ _v_ :two::hammer:  
-__recap__ _v tr_ To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
-__receiving end__ _n_  
-__recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
-__recipe__ _n_ :m: _Recipe to success._  
-__recitation__ _n_  
-__reckoning__ _n_  
-__recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
-__reconcile__ _v_ /REK-un-syle/  
-__reconvene__ _v_ To gather, call together, or summon again, esp for a formal meeting.  
-__recount__ _v_  
-__recoup__ _v_  
-__rectify__ _v_ /REK-tuh-fye/  
-__rectitude__ _n_ /REK-tuh-tood/  
-__recumbent__ _adj_  
-__recurse__ _v_ /ri-KUHRS/  
-__recuse__ _v_ /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
-__Red Cross__ _n_  
-__red panda__  
-__red rice__ _n_  
-__red snapper__ _n_  
-__redeem__ _v_  
-__redeemer__ _n_  
-__redemption__ _n_  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
 __redress__  
