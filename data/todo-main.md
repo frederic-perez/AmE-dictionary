@@ -344,32 +344,6 @@ __redress__
 __redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
 __reef__ _n_  
 __reenactment__ _n_  
-__refectory__ _n_ :two::hammer:  
-__referral__ _n_ :two::hammer: _Free referral service for apartments and homes._ _Spouse referral._  
-__reflexive__ _adj_ /ri-FLEK-siv/  
-__refreshment__ _n_  
-__refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
-__refurbish__ _v_  
-__release__ _v_ (from a hospital)  
-__reminiscent__  
-__remiss__ _adj_  
-__remix__ _n, v_ :mega:  
-__rendition__ _n_ :two::hammer:  
-__renewal__ _n_  
-__repartee__ _n_ /rep-er-TEE/ __1__ Repartee can refer to either “a conversation in which clever statements and replies are made quickly” or a single “quick and witty reply.” _The twins’ repartee at the back of the class always cracked up their classmates, though their teacher was rarely amused._ __2__ It can also refer to one’s cleverness and wit in conversation, as in _“an aunt widely known for her repartee at family gatherings.”_  
-__repeat__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
-__repercussion__ _n_  
-__repertoire__ _n_  
-__reprehensible__ _adj_ /rep-rih-HEN-suh-bul/ Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism.  
-__reprimand__ _v tr_  
-__reprobate__ _n_ A morally unprincipled person. _Syn_ miscreant  
-__reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
-__reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
-__resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
-__reservoir computing__ _n_  
-__reset__ _n_ :mega:  
-__reset<sup>1</sup>__ _n_ :mega:  
-__reset<sup>2</sup>__ _v_ :mega::two::hammer:  
 __resonate__ _v_  
 __responsibility__ _n_  
 __revenge__ _n_  

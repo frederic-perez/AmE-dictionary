@@ -13962,17 +13962,20 @@ __reenactment__ _n_
 __reeve<sup>1</sup>__ _n_ :five::pencil2: A local official.  
 __reeve<sup>2</sup>__ _v tr_ To pass (a rope or the like) through.  
 __ref__ _n_ A referee.  
-__refectory__ _n_ :five: A communal dining hall in a religious, academic, or other institution.  
+__refectory__ _n_ :seven: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
-__referral__ _n_ :two::hammer:  
+__referral__ _n_ :four::hammer: _Free referral service for apartments and homes._ _Spouse referral._  
 __referred__ _v_ _Donovan referred to the main engine room of the destroyer._  
 __reffing__  
+__reflexive__ _adj_ /ri-FLEK-siv/  
 __refractory__ _adj_ :five::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
+__refreshment__ _n_  
 __refugium__ _n_ :two::hammer:  
+__refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __refunds__ _n_  
-__refurbish__ _v_ :seven::hammer: (refurbished)  
+__refurbish__ _v_ :eight::hammer: (refurbished)  
 __refurbishment__ _n_ :three::hammer:  
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
 __refuse<sup>2</sup>__ _n_ :two: Items or material discarded or rejected as useless or worthless; trash or rubbish.  
@@ -14020,6 +14023,7 @@ __relatable__ _adj_ :seven: __2__ _informal_ Easy to relate to, sympathize with,
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
+__release__ _v_ (from a hospital)  
 __relegate__ _v_ To assign to an obscure place, position, or condition. _Syn_ demote, bump _After allowing the other team to score on three consecutive shots, he was relegated to the bench._  
 __relegation__ _n_ _Sports_  
 __relent__ _v_ :five::hammer: /rɪˈlɛnt/ (relented)  
@@ -14045,9 +14049,11 @@ __remarkable__ _adj_ :two::hammer:
 __remarkably__ _adv_ :three::hammer:  
 __remembrance__ _n_ :eight: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
 __reminisce__ _v_ :four: (reminiscing) To indulge in the process or practice of thinking or telling about past experiences. _Reminisce_ is one of several English verbs starting with re- that mean “to bring an image or idea from the past into the mind.” Others in this group include _remember_, _recall_, _remind_, and _recollect_. _Reminisce_ distinguishes itself from the others by implying a casual recalling of experiences long past, often with a sense of nostalgia. _After the official reunion dinner, the old friends gathered at a pub to reminisce about their high school days, now long past._  
-__reminiscent__  
+__reminiscent__ _adj_ :two::hammer:  
+__remiss__ _adj_  
 __remit__  
 __remittance__ _n_ :two::hammer:  
+__remix__ _n, v_ :mega:  
 __remnants__  
 __remonstrate__ _v_ :five: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
@@ -14058,8 +14064,9 @@ __remuneration__ _n_
 __rend__ _v_ To tear or split apart or into pieces violently. _Syn_ rip, rive _The widow began to rend her clothes in grief._  
 __render__ _v_ :six::hammer::astonished: (rendered) _Electronic banking has rendered the system unnecessary for consumer goods._ __1b__ To give or make available; provide: _render assistance; render a service._ _The grand jury has rendered its decision._ __7__ To reduce, convert, or melt down (fat) by heating. _Cook bacon until about half the fat is rendered._ _Rendered fat._ :camera:  
 __rendering plant__  
-__rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
+__rendition__ _n_ :six: An interpretation of a musical score or a dramatic piece.  
 __renew__ _v_  
+__renewal__ _n_  
 __renminbi__ _n_ :three: The official currency of the People’s Republic of China.  
 __renominate__ _v_  
 __renown__  
@@ -14067,42 +14074,50 @@ __renowned__ _adj_ :three: Having renown; famous. _World-renowned experts._
 __rent metal__  
 __rent__ _v_ _The elkhound’s hound was rent._  
 __rents__ _n_  
+__repartee__ _n_ /rep-er-TEE/ __1__ Repartee can refer to either “a conversation in which clever statements and replies are made quickly” or a single “quick and witty reply.” _The twins’ repartee at the back of the class always cracked up their classmates, though their teacher was rarely amused._ __2__ It can also refer to one’s cleverness and wit in conversation, as in _“an aunt widely known for her repartee at family gatherings.”_  
 __repast__ _n_  
 __repeal<sup>1</sup>__ _n_  
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
-__repeat__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
+__repeat<sup>1</sup>__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
+__repeat<sup>2</sup>__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
 __repent__ _v_ :five::hammer: (repented)  
 __repentance__ _n_ :three::hammer:  
-__repercussion__ _n_ :dart:  
-__repertoire__  
+__repercussion__ _n_ :dart::two::hammer:  
+__repertoire__ _n_ :two::hammer:  
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
 __replete__ _adj_  
 __replica__ _n_  
 __reportedly__ _adv_ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
-__reprehensible__ _adj_ Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
+__reprehensible__ _adj_ :two: /rep-rih-HEN-suh-bul/ Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism. Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It’s a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone’s punishment  
+__reprimand__ _v tr_  
 __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
 __reprise__ _n_  
-__reprobate<sup>1</sup>__ _n_ /REP-ruh-bayt/ A reprobate is an unprincipled or depraved person. Other names for such a being are scoundrel and rogue. _The reprobate preyed on well-to-do elderly women, who he would swindle out of their money._  
+__reprobate<sup>1</sup>__ _n_ :two: /REP-ruh-bayt/ A reprobate is an unprincipled or depraved person. Other names for such a being are scoundrel and rogue. _Syn_ miscreant _The reprobate preyed on well-to-do elderly women, who he would swindle out of their money._  
 __reprobate<sup>2</sup>__ _v_  
 __reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
 __reps__ _n_ :two::hammer: _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __reptilian conspiracy theory__  
 __repudiate__ _v_ :two::hammer:  
-__reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._  
+__reputedly__ _adv_ :three: /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._ :es: se dice; según se dice  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __requite__ _v_  
 __rerun__ _n_ :two: The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._ _Of course I’ve seen it! It’s a rerun._  
+__reschedule__ _v tr_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
 __rescind__ _v_ :three: (Not to be confused with _resend_) Countermand, repeal, veto; nullify, retract: _rescind an agreement._  
 __reseller__  
+__resent__ _v tr_ /rɪˈzɛnt/ To feel bitter, indignant, or aggrieved at.  
 __reservation__ _n_ _Native American reservation._  
 __reserve__ _n_ __6__ _Sports_ __a__ A group of players that play only as substitutes for starters in games or are kept from playing for some reason. __b__ One of these players. :es: reserva  
+__reservoir computing__ _n_  
 __reset__ _v_ :three::mega::hammer:  
+__reset<sup>1</sup>__ _n_ :mega::two::hammer:  
+__reset<sup>2</sup>__ _v_ :mega::two::hammer:  
 __residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resign__ _v_ :mute:[resi~~g~~n]  
