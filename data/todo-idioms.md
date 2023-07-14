@@ -218,28 +218,6 @@ __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._
 __switch gears__ :dart: To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
-__tag along__ :two::hammer:  
-__take (great) pains (to do something)__  
-__take (one’s) pick__ To choose from among several options. Often used as an imperative in the phrase “take your pick.” _We’ve got 45 flavors. Vanilla, chocolate, bacon—take your pick._  
-__take (one) aback__  
-__take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
-__take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__  
-__take a haircut__ A reduction in value. To accept a loss on a return of a financial investment. _The new interest rate hike means that many investors will be forced to take a haircut on their largest assets in the coming fiscal year._  
-__take offense (at) (something)__ To be or feel insulted, offended, or humiliated by something.  
-__take something by storm__  
-__take the brunt__  
-__take the edge off__  
-__the more you know__  
-__the nitty-gritty__  
-__time and (time) again__  
-__to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
-__to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
-__to be in a better place__  
-__to be taken aback__  
-__to boot__ :two::hammer: _Delectable game-focused menu to boot._  
-__to name (but) a few__ :two::hammer:  
-__to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to some extent__  
 __to the core__ _Charming to the core._  
