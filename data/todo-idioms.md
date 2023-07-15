@@ -228,27 +228,6 @@ __toe-to-toe__
 __together__  
 __tongue-in-cheek__  
 __tooth and nail__  
-__top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
-__topsy-turvy__ _Welcome back to another topsy-turvy day in AI._  
-__torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
-__touch base__ :two::hammer:  
-__touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
-__touch wood__  
-__tour de force__  
-__trip__ _We were tripping on acid when we broke._  
-__turn (something) on its head__  
-__turn the corner__  
-__unpack__  
-__up in arms__  
-__uphill battle__ :dart:  
-__wakeup call__  
-__walk on eggshells__  
-__walk the line__  
-__walkout__  
-__watch (someone’s) back__  
-__wean off (of) (something)__  
-__weigh in__ :dart: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
-__what gives?__  
 __whet (one’s) appetite__  
 __whitewash__  
 __whodunit__ :dart: A detective story or mystery story.  
