@@ -357,31 +357,6 @@ __ribald<sup>2</sup>__ _n_ A ribald person.
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
-__ribeye__ _n_ :two: /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
-__rickshaw__  
-__ridicule__ _v_  
-__rife__ _adj_  
-__riff__ _v_  
-__right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
-__rink__ _n_ :two::hammer: _A wintertime skating rink._  
-__rip-roaring__ _adj_ _Rip-roaring German beer._  
-__rivulet__ _n_ :two: A small brook or stream. _Syn_ rill, runnel, streamlet, run  
-__rocker__ _n_  
-__ropy__ _adj_  
-__roustabout__ _n_ A member of a ship’s crew who performs manual labor. _Syn_ deckhand  
-__Rubicon__ _n_  
-__rundown__ _n_  
-__sabotage__ _v tr_ _I was sabotaging myself._  
-__sacristy__ _n_  
-__sacrosanct__ _adj_ /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
-__safeguard__ _n_  
-__saga__ _n_ /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
-__sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
-__saguaro__ _n_  
-__saint__ _v_ (sainted) _The chef should be sainted._  
-__sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
-__salamander__ _n_  
-__salient__ _adj_ :two: /SAIL-yunt/ Strikingly conspicuous. _Syn_ prominent, outstanding, striking, spectacular  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
 __samara__ _n_  

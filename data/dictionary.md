@@ -14242,12 +14242,13 @@ __ribald__ _adj_
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ _n_ :two::hammer:  
 __ribbon-cutting ceremony__ _n_  
+__ribeye__ _n_ :two: /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
 __Rice Belt__ _n_ The Rice Belt of the United States includes Arkansas, Louisiana, Mississippi and Texas, four southern U.S. states that grow a significant portion of the nation’s rice crop.  
 __riches__ _pl n_ :nine::m: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
-__rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
+__rickshaw__ _n_ :three: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for _cycle rickshaw._  
 __ricochet<sup>1</sup>__ _v_ :five::mega::mute:[ricoche~~t~~]:hammer:  
 __ricochet<sup>2</sup>__ _n_ :two::hammer:  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
@@ -14257,10 +14258,10 @@ __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is
 __riddled__ _adj_  
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
-__ridiculed__ _v_ _They were ridiculed._  
+__ridicule__ _v_ :two::hammer: _They were ridiculed._  
 __ridiculous__ _adj_ :mega:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
-__riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
+__riff<sup>1</sup>__ _v_ _informal_ :eight: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
 __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
@@ -14270,6 +14271,7 @@ __rig__ _n_ _Horse and the red wagon were a good rig._
 __rigged__ _adj_ :two::hammer: _A rigged game._  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
+__right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __righteous__ _adj_ :two::mega: /ˈraɪ tʃəs/ __1__ Morally upright; without guilt or sin: _a righteous parishioner._ __2__ In accordance with virtue or morality: _a righteous judgment._ _Syn_ moral __3__ _slang_ Absolutely genuine or wonderful: _some righteous playing by a jazz great._  
 __rightful__ _adj_ _Edward III announced himself the rightful King of France._  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
@@ -14292,11 +14294,12 @@ __ringlets__
 __ringmaster__ _n_ :two: A person who is in charge of the performances in a circus ring.  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
 __ringworm__ _n_ _Pathology_  
-__rink__ _n_  
+__rink__ _n_ :three::hammer: _A wintertime skating rink._  
 __riotous__ _adj_ :two::hammer:  
 __rip your wiring out__  
 __rip__ _v_ _The bullets rip._  
 __rip-off__ _n_ _slang_ Something that is not worth what you pay for it.  
+__rip-roaring__ _adj_ _Rip-roaring German beer._  
 __riparian__ _adj_ :five: Of, on, or relating to the banks of a natural course of water. _Riparian sanctuary._ _Refreshing riparian areas._ _Riparian woodland._  
 __ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ _The ripe-smelling barn._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
@@ -14320,7 +14323,7 @@ __riven__
 __river outfitter__  
 __riverfront__  
 __riverside__  
-__rivulet__ _n_ :three::hammer: (rivulets) _Rivulets of blood._  
+__rivulet__ _n_ :five: A small brook or stream. _Syn_ rill, runnel, streamlet, run _Rivulets of blood._  
 __roach motel__ _n_ In computing, a type of dark pattern deceptive user interface. _The “roach motel” is another opt-in tactic dubbed as such because it opts you in and makes it nearly impossible to leave._  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
@@ -14345,7 +14348,7 @@ __rock salt__ _n_ _Rock salt is used in the UK to treat roads during the winter 
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _n_ _Is this rock-paper-scissors?_  
-__rocker__ _n_ _Porch rockers._  
+__rocker__ _n_ :two::hammer: _Porch rockers._  
 __rockery__ _n_ :four::hammer:  
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __rocket__ _n_ :mega:  
@@ -14415,7 +14418,7 @@ __rooting__ _v_ _She was rooting in the Dumpster._
 __rope in__ _v_  
 __rope-a-dope__ _n_ :two::hammer:  
 __ropes__ _n pl_ :two: Special or basic techniques or procedures. _He’s teaching her the ropes._ _They need to learn the ropes._  
-__ropy__ _adj_ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
+__ropy__ _adj_ :three::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosacea__ _n_  
 __rosary__ _n_ (rosaries)  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
@@ -14456,8 +14459,8 @@ __roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :three::dart::hammer: (roundups) _There were public roundups and massacres._ __3__ A summary: _a news roundup._ _Headline roundup._  
 __rousing__ _adj_ :seven::hammer: _A rousing crowd._ _A rousing tale._ _A rousing dramatization._ _The magazine was a rousing success._  
-__roustabout__ _n_ :two::hammer: (roustabouts) _The roustabout Bohemian._  
-__rousted__ _v_  
+__roustabout__ _n_ :three: A member of a ship’s crew who performs manual labor. _Syn_ deckhand _The roustabout Bohemian._  
+__roust__ _v tr_  
 __rout<sup>1</sup>__ _n_ :five: An overwhelming defeat.  
 __rout<sup>2</sup>__ _v_ :three: Defeat disastrously.  
 __route__ _n_ :three::mega::hammer:  
@@ -14477,6 +14480,7 @@ __rubble__ _n_ :two::hammer:
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __Rubenesque__ _adj_  
+__Rubicon__ _n_  
 __rubicund__ _adj_ :two: /ROO-bi-kuhnd/ Red or reddish. Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
 __ruble__ _n_ /ˈruːbəl/ :two: (rouble in BrE) The standard unit of money in Russia and Belarus. _A copper ruble coin._  
 __ruches__ _n_  
@@ -14525,7 +14529,7 @@ __run-in__ _n_ :dart::three: (run-ins) __1__ A quarrel or argument. _A run-in wi
 __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
-__rundown__ _n_ :three::hammer:  
+__rundown__ _n_ :four::hammer:  
 __rung__ _n informal_ :nine: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running shoes__ _n_  
@@ -14564,7 +14568,8 @@ __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its gra
 __s’more__ _n_ :two: (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers. _S’mores season!_  
 __Sabbath__ _n_ /SAB-uhth/ [:scroll: From Old English sabat, from French sabbat, from Latin sabbatum, from Greek sabbaton, from Hebrew sabbat, from sabat (rest)] __1__ A day of the week observed as a day of rest. __2__ A period of rest. __3__ A meeting of witches and sorcerers (typically spelled as sabbat).  
 __sable__ _n_ (animal)  
-__sabotage__ _n_  
+__sabotage<sup>1</sup>__ _n_  
+__sabotage<sup>2</sup>__ _v tr_ _I was sabotaging myself._  
 __saboteur__ _n_ :two: /sab-uh-TUHR/ [:scroll: From French saboter (to walk noisily, to botch), from sabot (wooden shoe)] One who disrupts, damages, or destroys, especially in an underhanded manner.  
 __sac-a-lait__  
 __saccade__ _n_  
@@ -14573,8 +14578,8 @@ __saccular__ _adj_
 __sackful__  
 __sacrifice__ _n_ :mega:  
 __sacristan__  
-__sacristy__ _n_  
-__sacrosanct__  
+__sacristy__ _n_ :two::hammer:  
+__sacrosanct__ _adj_ :two: /SAK-roh-sankt/ Sacrosanct is a formal word that describes things too important and respected to be changed or criticized. It can also mean “most sacred or holy.”  
 __sadden__ _v_ :two::pencil2::hammer: (saddened)  
 __saddle__ _n_ _A saddle of meat._  
 __sadism__ _n_  
@@ -14584,7 +14589,7 @@ __safe house__
 __safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __safe-conduct__ _n_ _The Prince’s chief knights came under safe-conduct to parley in person._  
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
-__safeguard<sup>1</sup>__ _n_  
+__safeguard<sup>1</sup>__ _n_ :two::hammer:  
 __safeguard<sup>2</sup>__ _v_ :three::hammer:  
 __safekeeping__ _n_ :two: The act of keeping safe or the state of being kept safe; protection. _The Cardinal put his treasure in safekeeping and fled to Avignon, never to return._  
 __safety net__  
@@ -14592,7 +14597,8 @@ __safety pin__ _n_ :two::hammer: :es: imperdible
 __saffron__ _n_ :four::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
-__saga__ _n_ :mega:  
+__saga__ _n_ :two::mega: /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
+__sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
 __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.  
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
@@ -14600,19 +14606,21 @@ __saggy__
 __sagittal__  
 __Sagittarian__  
 __Sagittarius__ _n_ :three::pencil2::hammer: [:scroll: Middle English, from Latin Sagittārius, from sagittārius, _archer_, from sagitta, _arrow_]  
-__saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
+__saguaro__ _n_ :two: (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
 __sailer__ _n_ :pencil2:  
-__saint__ _n_ /seɪnt; _unstressed_ sənt/  
-__sake__ _n_ _For comparison’s sake, it hit 90 twice here all of last July._  
+__saint<sup>1</sup>__ _n_ /seɪnt; _unstressed_ sənt/  
+__saint<sup>2</sup>__ _v tr_ (sainted) _The chef should be sainted._  
+__sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __sakura__  
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
 __salacious__ _adj_ :four::hammer: _Salacious music._  
 __salad spinner__ _n_  
+__salamander__ _n_  
 __salchow__ _n_ /săl′kou′/ [:scroll: After Ulrich Salchow (1877-1949), Swedish figure skater.] A move in figure skating in which the skater, while skating backwards, jumps from the back inside edge of one skate, completes a full rotation, and lands on the back outside edge of the other skate.  
 __sales force__  
 __salesperson__ _n_ :two::hammer:  
-__salient__ _adj_ :four::hammer: _That is a salient fact._  
+__salient__ _adj_ :six: /SAIL-yunt/ Strikingly conspicuous. _Syn_ prominent, outstanding, striking, spectacular _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :eight: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
 __sally out__ _v_  
