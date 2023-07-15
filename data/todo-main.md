@@ -69,6 +69,7 @@ __cannoli__ _n_
 __carefree__ _adj_  
 __carousel__  
 __castor__  
+__catachresis__ _n_  
 __cataplasm__ _n_ A _Syn_ poultice, plaster  
 __catharsis__ _n_  
 __catnap__  
@@ -84,6 +85,7 @@ __cincture__ _n_ A band of material around the waist that strengthens a skirt or
 __clammy__ _adj_  
 __clobber__ _v tr_  
 __coddle__ _v tr_  
+__comprise__ _v_ /kum-PRYZE/  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
@@ -104,6 +106,7 @@ __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with 
 __echo chamber__  
 __edge__ _v_ Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
 __effect__ _v_  
+__eggcorn__  
 __eleven__ _n_ :mega:  
 __elope__ _v intr_  
 __embezzle__ _v_ /im-BEZZ-ul/  
@@ -111,6 +114,7 @@ __emote__ _v intr_
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __Energizer Bunny__  
+__enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfeebling, weakening  
 __engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
 __engram__ _n_ _Syn_ memory trace  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
@@ -151,6 +155,7 @@ __fictive__ _adj_
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
+__forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
@@ -243,6 +248,7 @@ __mac and cheese__ _n_
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Mad Libs__ _n_  
+__malapropism__  
 __malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
 __malleable__  
 __manage__ _v_ :mega:  
@@ -269,12 +275,17 @@ __missal__ _n_
 __misspell__ _v_ :pencil2:  
 __mitigate__ _v_ /MIT-uh-gayt/  
 __mixtape__ _n_  
+__mondegreen__ _n_  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __Monopoly Deal__ _n_  
+__moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little practical value, hence not worth considering.  
+__moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
+__moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
+__mumpsimus__  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __mythos__ _n_  
 __nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
@@ -295,12 +306,14 @@ __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all 
 __optíonal__ _adj_ :mega:  
 __ostopenia__  
 __outcome__ _n_ :mega:  
+__outlandish__ _adj_ /out-LAN-dish/ _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overview__ _n_ A general review or summary of something.  
 __paganism__ _n_  
 __palliative care__ _n_  
+__parapraxis__ _n_  
 __parcel__ _v tr_  
 __pariah__  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
@@ -312,6 +325,7 @@ __plushy__ _adj_
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
 __polish__ _v_ _I polish your writing._  
+__polliwog__ _n_ A larval frog or toad. __Syn_ tadpole  
 __pool table__  
 __pool__ _v_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
@@ -359,6 +373,7 @@ __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.
 __ribbon candy__  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
+__salvo__ _n_ /SAL-voh/  
 __samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
@@ -557,6 +572,7 @@ __spelunking__ _n_
 __spent volcano__  
 __sphinx__ _n_  
 __spiffed__ _v_  
+__spoonerism__ _n_  
 __squeamish__  
 __starboard__ _n_ [To keep _port_ and _starboard_ straight, remember that sailors use _stars_ to point them in the _right_ direction after they have _left port_]  
 __startle__ _v_  
@@ -897,6 +913,7 @@ __walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.
 __wall clock time__ _n_  
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
+__whistleblower__  
 __wordle__ _n_ (game)  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
