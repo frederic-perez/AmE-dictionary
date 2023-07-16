@@ -182,6 +182,7 @@ __RICO__ _He had been indicted on RICO charges._
 __RIF__ _Reading Is Fundamental._  
 __RIO__ Radar interception officer.  
 __ROI__ Return on investment.  
+__RPG__ Role-playing game.  
 __RSV__ Respiratory syncytial virus.  
 __RSVP__ Répondez S’il Vous Plaît. _(French: Reply, If You Please; commonly seen on invitations)_ _Guests must RSVP to foo@bar.baz by June 19._  
 __RV__ :two: Recreational vehicle.  

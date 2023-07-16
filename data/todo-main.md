@@ -16,17 +16,20 @@ __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Sy
 __articulate__ _v_  
 __artiodactyl__ _n_  
 __assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
+__austerity__ _n_ /ɔˈstɛr ɪ ti/  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avenge__ _v tr_  
 __avent__ _n_  
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
 __ayahuasca__ _n_  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
+__baccalaureate__ _n_  
 __backhanded__ _adj_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
 __bargain__ _n_  
 __barrage__ _n_  
 __barranca__ _n_ (barranco)  
+__beachhead__ _n_ :pencil2: __2__ A first achievement that opens the way for further developments; a foothold.  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __belly laugh__ _n_  
@@ -58,6 +61,7 @@ __breastwork__ _n_
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __brouhaha__ _n_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
+__building block__  
 __bully__ _n_  
 __bunting__ _n_  
 __byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
@@ -86,6 +90,12 @@ __clammy__ _adj_
 __clobber__ _v tr_  
 __coddle__ _v tr_  
 __comprise__ _v_ /kum-PRYZE/  
+__convey__ _v tr_  
+__deem__ _v_  
+__deep-routed__  
+__demystify__ _v tr_  
+__Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
+__disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
@@ -109,6 +119,7 @@ __effect__ _v_
 __eggcorn__  
 __eleven__ _n_ :mega:  
 __elope__ _v intr_  
+__elucidate__ _v_ /ɪˈluːsɪˌdeɪt/ To make clear (something obscure or difficult); clarify.  
 __embezzle__ _v_ /im-BEZZ-ul/  
 __emote__ _v intr_  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
@@ -128,6 +139,7 @@ __eponymous__ _adj_ /ih-PAH-nuh-mus/
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __eradicate__ _v tr_  
 __erupt__ _v_  
+__escape velocity__ _n_  
 __etch__ _v_  
 __etiology__  
 __etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
@@ -155,7 +167,10 @@ __fictive__ _adj_
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
+__flywheel__ _n_  
+__formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
+__gauge__ _v tr_  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
@@ -164,6 +179,7 @@ __gloomy__ _adj_
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
+__greeble__  
 __gripping__ _adj_  
 __grunt__ _n_ __1__ A deep guttural sound.  
 __guardrail__ _n_  
@@ -189,6 +205,7 @@ __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ 
 __highlight__ _n_ :es: punto culminante  
 __histrionic__  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
+__holistic__ _adj_  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
@@ -217,6 +234,7 @@ __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feeli
 __Jody__ _n_  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
+__junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
@@ -254,6 +272,7 @@ __malleable__
 __manage__ _v_ :mega:  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
+__mashup__ _n_  
 __matrix__ _n_ :mega:  
 __matter-of-fact__ _adj_  
 __maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
@@ -286,6 +305,8 @@ __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
 __mumpsimus__  
+__mushroom__ _v intr_  
+__musing__ _adj, n_  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __mythos__ _n_  
 __nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
@@ -296,6 +317,8 @@ __near__ _v_
 __nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.  
 __neural tube__ _n_  
 __neurobics__ _n_  
+__nigh<sup>1</sup__ _adv_ _Syn_ almost, about, nearly, close to, practically, approximately _Accurate earthquake prediction is well nigh impossible._  
+__nigh<sup>2</sup__ _adj_ _Syn_ near, next, close, imminent, impending, at hand, upcoming _The end of the world is nigh._  
 __nitpick__ _v_  
 __non-negotiable__ _adj_  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
@@ -304,9 +327,12 @@ __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _S
 __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __optíonal__ _adj_ :mega:  
+__ornamental__ _adj, n_  
 __ostopenia__  
 __outcome__ _n_ :mega:  
 __outlandish__ _adj_ /out-LAN-dish/ _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.  
+__outright__ _adj, adv_  
+__outset__ _n_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
@@ -318,18 +344,24 @@ __parcel__ _v tr_
 __pariah__  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
+__petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
+__philanderer__ _n_  
 __picky__  
+__pinecone__ _n_  
 __pinwheel__ _n_  
+__pitfall__ _n_  
 __play-off__ _n_ :pencil2:  
 __plushy__ _adj_  
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
 __polish__ _v_ _I polish your writing._  
-__polliwog__ _n_ A larval frog or toad. __Syn_ tadpole  
+__polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
 __pool table__  
 __pool__ _v_  
+__procurement__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
+__proponent__ _n_  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -337,6 +369,10 @@ __pry__ _v_
 __pseudopseudohypoparathyroidism__  
 __pulpit__ _n_  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
+__purport<sup>1</sup>__ _v tr_ :astonished:  
+__purport<sup>2</sup>__ _n_  
+__purview__ _n_  
+__quirk__ _n_  
 __raillery__ _n_  
 __rambler__ _n_  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
@@ -346,7 +382,10 @@ __ravenous__ _adj_
 __raver__ _n_  
 __ravishing__  
 __raw bar__  
+__readily__ _adv_ /ˈrɛdɪlɪ/  
+__readiness__ _n_ /ˈrɛd i nɪs/  
 __readout__  
+__ready__ _adj_ __4__ Prompt in apprehending or reacting: _a ready intelligence; a ready response._  
 __realistic__  
 __realm__ _n_  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
@@ -371,6 +410,8 @@ __ribald<sup>2</sup>__ _n_ A ribald person.
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
+__rollout__ _n_  
+__rung__ _n_  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
 __salvo__ _n_ /SAL-voh/  
@@ -551,6 +592,7 @@ __sphinx__ _n_
 __spiffed__ _v_  
 __spoonerism__ _n_  
 __squeamish__  
+__stakeholder__ _n_  
 __starboard__ _n_ [To keep _port_ and _starboard_ straight, remember that sailors use _stars_ to point them in the _right_ direction after they have _left port_]  
 __startle__ _v_  
 __stately__ _adj_ _A stately afternoon tea._  
@@ -600,16 +642,19 @@ __stoneware__ _n_
 __stooges__ _n_  
 __stope__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
-__strengthen__ _v_ :two::hammer:  
+__strengthen__ _v_ :three::hammer:  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
 __strife__ _n_  
 __strifle__ _n_  
 __strike__ _v_ :two::hammer: _The challenges strike me as fundamental._ _This episode struck._  
+__stringent__ _adj_  
+__strum__ _v_  
 __stymie<sup>1</sup>__ _v tr_ :two: /STY-mee/ To obstruct, thwart, stump, etc.  
 __stymie<sup>2</sup>__ _n_ :two: A hindrance.  
 __submersible__ _adj, n_  
+__success story__ _n_  
 __sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
 __sunblock__ _n_  
 __suncatcher__ _n_  
@@ -653,6 +698,7 @@ __tankard__ _n_
 __tankinis__ _n_  
 __tanner__ _n_  
 __tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
+__tattletale__ _n_  
 __taxi__ _n_ (_n pl_ taxis, or taxies)  
 __taxonomy__ _n_  
 __Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
@@ -692,6 +738,7 @@ __thaw__ _v_ _Let the meat thaw out and simmer._
 __The Crown__ _n_  
 __theatregoer__ _n_  
 __thereabout__ _adv_  
+__thereby__ _adv_  
 __thicket__ _n_  
 __third rail__ _n_ /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
@@ -890,6 +937,7 @@ __walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.
 __wall clock time__ _n_  
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
+__warrant__ _v_  
 __whistleblower__  
 __wordle__ _n_ (game)  
 __yakisoba__ _n_  
