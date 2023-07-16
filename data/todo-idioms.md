@@ -48,6 +48,7 @@ __anonymous tip__ Information about something (typically criminal or illegal act
 __anyone’s guess__ Something that no one knows for sure.  
 __anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __as of late__  
+__as yet__ At this time; yet. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __at the expense of (someone or something)__  
 __baby boomer__  
 __backwater__  
@@ -56,6 +57,8 @@ __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborat
 __bear the brunt (of something)__  
 __big name__  
 __bounce back__  
+__break new ground__ To advance, innovate, or pioneer (something). _They’ve really broken new ground with their latest product—I’ve never seen anything like it._  
+__bring (one) up to speed__ To inform one of the latest details (about something). _Tom, will you please bring the rest of the team up to speed on the status of the project?_  
 __cap__  
 __capitalize on (something)__ To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
 __catch on__  
@@ -67,6 +70,7 @@ __cisgender__
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __close up shop__  
 __closed-minded__ :dart:  
+__come by__  
 __cut (one) some slack__  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut it__  
@@ -74,6 +78,7 @@ __cut out__ _Cutting out the negative influences._
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __day in, day out__  
+__de facto__  
 __dealbreaker__  
 __Ding, ding, ding, we have a winner!__  
 __dirtbag__  
@@ -81,6 +86,7 @@ __dish out__
 __diss__  
 __dive in__  
 __dog days__  
+__dog__ A pint bottle (470ml) of liquor; thus _short dog_, a half-pint bottle. _Short dogs of bonded bourbon._  
 __don’t get (one) started__  
 __draw up__  
 __drill in(to) (someone or something)__  
@@ -115,6 +121,7 @@ __for Pete’s sake__
 __for the time being__  
 __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
+__from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __fuck (one’s) brains out__  
 __game-changer__  
 __gaslighting__  
@@ -152,6 +159,7 @@ __gulp down__
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
 __hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
+__happen by__ To appear, arrive, pass, or come upon casually or by chance. _I happened by a quaint new craft store the other day._  
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
@@ -170,6 +178,7 @@ __in the eye of the beholder__
 __in the zone__  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
+__ivory tower__  
 __jack someone up__ _It jacks me up._  
 __jacked chad__  
 __jailbreak__  
@@ -178,6 +187,7 @@ __jump in__
 __keep in mind__  
 __keep it real__  
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
+__keep pace__  
 __kick (someone or something) to the curb__  
 __kick in__  
 __kick into high gear__  
@@ -189,7 +199,7 @@ __knock it off__
 __knock-off__  
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
-__kvetch__ :dart:  
+__kvetch__ :dart::two::hammer: /kvɛtʃ/ (quetch /kʍɛtʃ/)  
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __laid-back__  
@@ -199,6 +209,7 @@ __left and right__
 __lesson learned__ The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
 __line of work__  
 __looking up__ Appearing as if improvement will begin or continue into the future. _Now that businesses have started returning, the country’s economy is finally looking up._  
+__low-hanging fruit__  
 __nervy__ :astonished: Daring or fearless; courageous. Primarily heard in US. _You’ve got to be pretty nervy to jump out of a plane and trust a little backpack to save your life._  
 __on leave__  
 __on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
@@ -208,6 +219,7 @@ __on short notice__
 __on solid ground__  
 __on that note__  
 __on the cards__ Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._  
+__on the cusp__  
 __on the fence__  
 __on the lookout__  
 __other than (something)__  
@@ -222,6 +234,7 @@ __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowar
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
 __retail for (something)__  
 __rock (one’s) world__  
+__run afoul of (someone or something)__  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __strong word__  
 __swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
@@ -233,6 +246,7 @@ __switch gears__ :dart: To quickly or abruptly change what one is doing or discu
 __sword of Damocles__  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
 __think (someone) hung the moon and the stars__ To believe that someone is the most wonderful and important person in the world; to love and adore someone more than anyone else. _Your little sister absolutely adores you—she thinks you hung the moon and the stars!_  
+__throwdown gun__ An unregistered gun placed as evidence to suggest that a shooting by police was done in self-defense. _Something about the sergeant’s description of the shooting seems off. I’m starting to have suspicions that the gun recovered at the scene was really a throwdown gun._  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to some extent__  
 __to the core__ _Charming to the core._  
