@@ -14459,8 +14459,8 @@ __roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :three::dart::hammer: (roundups) _There were public roundups and massacres._ __3__ A summary: _a news roundup._ _Headline roundup._  
 __rousing__ _adj_ :seven::hammer: _A rousing crowd._ _A rousing tale._ _A rousing dramatization._ _The magazine was a rousing success._  
-__roustabout__ _n_ :three: A member of a ship’s crew who performs manual labor. _Syn_ deckhand _The roustabout Bohemian._  
 __roust__ _v tr_  
+__roustabout__ _n_ :three: A member of a ship’s crew who performs manual labor. _Syn_ deckhand _The roustabout Bohemian._  
 __rout<sup>1</sup>__ _n_ :five: An overwhelming defeat.  
 __rout<sup>2</sup>__ _v_ :three: Defeat disastrously.  
 __route__ _n_ :three::mega::hammer:  
@@ -14670,6 +14670,7 @@ __sanitize__ _v_
 __sanity check__  
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
 __sap<sup>2</sup>__ _n_ :four::hammer: _A flat-sided sap stuck out of his back pocket._ _What a sap!_  
+__sapient__ _adj_ /SAY-pee-unt/ Sapient is a formal word that means “possessing or expressing great wisdom.”  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a “duckling,” a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __saponify__ _v_  
@@ -14678,35 +14679,49 @@ __sapphire lidar__
 __sapphire__ _n_ :mute:[sa~~p~~phire]  
 __sappy__ _adj_ _Sappy smile._  
 __Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
+__Saratoga__ _n_  
 __sarcasm__ _n_ Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
 __sarcophagi__ _n_  
 __sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
+__sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
+__sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
+__sarsaparilla__ _n_  
 __sartorial__  
 __sash__ _n_ :five::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
-__sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
-__sashimi__ _n_  
+__sashay__ _v_ :six: /sa-SHAY/ (sashayed) To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot. To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house._  
+__sashimi__ _n_ :two::hammer:  
 __sass__ _v_ (sassed)  
-__sassy__ _adj_ :two::hammer:  
+__sassy__ _adj_ :three::hammer:  
 __satchel__ _n_ :two::hammer:  
-__sated__ _v_  
+__sate__ _v_ :two::hammer: (sated) _Sate your appetite._  
+__satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
 __satire__ _n_ Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
+__satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
+__satisfice__ _v_  
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ _n_ :mega: /’sæÔødi, -deI/  
-__saturnine__ _adj_ :four: Showing a brooding ill humor. _Syn_ glowering, moody, morose, sullen, glum, dour, sour, dark _Since he had heard of Lilla’s death, the gloom of his remorse had made more hopeless his cruel, selfish, saturnine nature._  
+__Saturnalian__ _adj_ /sat-uhr-NAY-lee-uhn/ Marked by unrestrained revelry, overindulgence, licentiousness, etc.  
+__saturnine__ _adj_ :five: /SAT-er-nyne/ Saturnine is a literary word that typically describes people who are glum and grumpy, or things that suggest or express gloom. It can also mean “slow to act or change.” Showing a brooding ill humor. _Syn_ glowering, moody, morose, sullen, glum, dour, sour, dark _Since he had heard of Lilla’s death, the gloom of his remorse had made more hopeless his cruel, selfish, saturnine nature._  
 __satyr__  
 __sauce__ _n_  
+__saucepan__ _n_ :es: olla, cacerola  
 __saucerful__  
 __saucy__  
+__saudade__  
+__sauerkraut__ _n_  
 __sauna__ _n_ :mega: /ˈsɔːnə/  
-__saunter__ _v_ :four: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
+__saunter<sup>1</sup>__ _v_ :five: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
+__saunter<sup>2</sup>__ _n_  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
 __sauté<sup>1</sup>__ _v_ To fry lightly in fat in a shallow open pan.  
 __sauté<sup>2</sup>__ _n_ A dish of sautéed food, esp meat that is browned and then cooked in a sauce.  
 __sauté<sup>3</sup>__ _adj_ Sautéed until lightly brown: _sauté potatoes._  
 __sautoir__ _n_ _Sautoir necklace._  
+__savage__  
 __savagery__  
+__savant__ _n_ /sa-VAHNT/  
 __save (one’s) face__  
 __savior__  
 __savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  

@@ -384,29 +384,6 @@ __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval o
 __sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
-__sanguine__ _adj_ :two::hammer: /sang-gwin/  
-__sap__ _v_  
-__sapient__ _adj_ /SAY-pee-unt/ Sapient is a formal word that means “possessing or expressing great wisdom.”  
-__Saratoga__ _n_  
-__sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
-__sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
-__sarsaparilla__ _n_  
-__sashay__ _v_ /sa-SHAY/ To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot.  
-__sashimi__ _n_  
-__sassy__  
-__sate__ _v_ _Sate your appetite._  
-__satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
-__satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
-__satisfice__ _v_  
-__Saturnalian__ _adj_ /sat-uhr-NAY-lee-uhn/ Marked by unrestrained revelry, overindulgence, licentiousness, etc.  
-__saturnine__ _adj_ /SAT-er-nyne/ Saturnine is a literary word that typically describes people who are glum and grumpy, or things that suggest or express gloom. It can also mean “slow to act or change.”  
-__saucepan__ _n_ :es: olla, cacerola  
-__saudade__  
-__sauerkraut__ _n_  
-__saunter<sup>1</sup>__ _v_  
-__saunter<sup>2</sup>__ _n_  
-__savage__  
-__savant__ _n_ /sa-VAHNT/  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
