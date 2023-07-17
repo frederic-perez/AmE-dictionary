@@ -199,26 +199,6 @@ __knock it off__
 __knock-off__  
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
-__kvetch__ :dart::two::hammer: /kvɛtʃ/ (quetch /kʍɛtʃ/)  
-__labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
-__lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
-__laid-back__  
-__land on (one’s) feet__  
-__last resort__ The only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  
-__left and right__  
-__lesson learned__ The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
-__line of work__  
-__looking up__ Appearing as if improvement will begin or continue into the future. _Now that businesses have started returning, the country’s economy is finally looking up._  
-__low-hanging fruit__  
-__nervy__ :astonished: Daring or fearless; courageous. Primarily heard in US. _You’ve got to be pretty nervy to jump out of a plane and trust a little backpack to save your life._  
-__on leave__  
-__on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
-__on one’s terms__  
-__on pins and needles__ _I’ve been waiting on pins and needles for this moment, because I have something extraordinary to share with you!_  
-__on short notice__  
-__on solid ground__  
-__on that note__  
-__on the cards__ Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._  
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
