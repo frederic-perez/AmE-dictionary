@@ -14726,20 +14726,22 @@ __save (one’s) face__
 __savior__  
 __savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
 __savor__ _v_ (savoring) _I was savoring the moment._  
+__savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe, from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  
-__savvy<sup>3</sup>__ _adj_ :two: Shrewd or knowledgeable, especially in practical matters.  
+__savvy<sup>3</sup>__ _adj_ :three: Shrewd or knowledgeable, especially in practical matters. _Savvy travelers._  
 __saw__ _n_ A maxim or proverb.  
 __sawbuck__ _n_ _I had to slip the clerck an extra sawbuck._  
+__sawdust__ _n_  
 __sawed-off__  
 __sawgrass__ _n_ :two::hammer:  
-__sawhorse__ _n_ :five::hammer: (sawhorses)  
+__sawhorse__ _n_ :six: A frame with legs, used to support pieces of wood being sawed. _Syn_ buck, horse, sawbuck :es: caballete  
 __sawyer__ _n_ :astonished:  
 __say the world__  
 __saying__ _n_ :two::hammer:  
 __sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
-__scab__ _n_  
-__scabbard__ _n_ :seven: A sheath for a sword, dagger, or bayonet.  
+__scab__ _n_ :two::hammer: :es: costra  
+__scabbard__ _n_ :eight: /ˈskæb ərd/ A sheath for a sword, dagger, or bayonet. :es: vaina  
 __scabby__ _adj_ :two: __1__ Having scabs. __2__ Mean or contemptible.  
 __scabies__  
 __scabs__ _n_ :two::hammer:  
@@ -14752,35 +14754,47 @@ __scallop<sup>1</sup>__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira
 __scallop<sup>2</sup>__ _v_ :camera: (scalloped)  
 __scalloped__ _adj_ Having an edge shaped like a scallop. _Scalloped robes._  
 __scalp bounties__  
-__scalp__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
+__scalp<sup>1</sup>__ _n_ __3__ A trophy or token signifying conquest.  
+__scalp<sup>2</sup>__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
 __scalpel__  
 __scalper__ _n_ :four::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
 __scammer__  
+__scamp__ _n_  
 __scamper__ _v_ :four::hammer: (scampered, scampering) _Scampered into the van._  
 __scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.  
-__scant__ _adj_ :seven: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
+__scant__ _adj_ :nine: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scantily__ _adv_ :two::hammer: _A scantily clad spider._  
 __scanty__ _adj_  
-__scapegoat<sup>1</sup>__ _n_  
+__scape__ _n_ _Moon and Mars scapes._  
+__scapegoat<sup>1</sup>__ _n_ :two::hammer:  
 __scapegoat<sup>2</sup>__ _v_ (scapegoated)  
+__scapegrace__ _n_ A scoundrel. _Syn_ rascal _Both Kuragin and Dolokhov were at that time notorious among the rakes and scapegraces of Petersburg._  
+__scapula__ _n_  
 __scapular__  
-__scar__ _v_ _CIA to=ture scarred man’s psyche for years._  
+__scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
+__scar__ _v_ :two::hammer: _CIA to=ture scarred man’s psyche for years._  
 __scarce__ _adj_ :three::hammer:  
 __scarcely__ _adv_ :astonished: _The executioner seemed scarcely older than Rob._  
 __scare__ _n_  
-__scarlet__ _n_ :two: (vs _Scarlett_) A strong to vivid red or reddish orange.  
+__scaremonger__ _n_ A person who spreads frightening rumors and stirs up trouble. _Syn_ stirrer _When he started spreading the rumor that the government was bent on destroying our homes, we decided that he was a scaremonger and stopped paying attention._  
+__scarlet letter__ _n_  
+__scarlet__ _n_ :three: (vs _Scarlett_) A strong to vivid red or reddish orange.  
 __Scarlett__ _n_ (vs _scarlet_) A female given name transferred from the surname; in general use since 1936. Scarlett is the female name that has originated from the colour scarlet.  
 __scarper__ _n_ A hasty departure.  
+__scat__ _v_  
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scatheless__ _adj_ _A remarkably scatheless record._  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
-__scatterbrained__ _adj_ :two: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
+__scatterbrained__ _adj_ :three: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :three: Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
 __scenario__ _n_ :mute:[s~~c~~enario]  
+__scend<sup>1</sup>__ _v intr_ (send) To rise or lift by, or as if by, a wave.  
+__scend<sup>2</sup>__ _n_ (send) The rising movement of a wave or a ship on a wave.  
 __scene__ _n_ :mute:[s~~c~~ene]  
-__scenic__  
+__scenic<sup>1</sup>__ _adj_  
+__scenic<sup>2</sup>__ _n_ :two::hammer:  
 __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  

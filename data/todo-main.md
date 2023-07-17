@@ -427,30 +427,6 @@ __sandcastle__ _n_ _Have a sandcastle building competition._
 __sangria__ _n_  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
-__savory__ _adj_ :two::hammer: _Savory menu items._  
-__savvy__ _adj_ _Savvy travelers._  
-__sawdust__ _n_  
-__sawhorse__ _n_ A frame with legs, used to support pieces of wood being sawed. _Syn_ buck, horse, sawbuck  
-__scab__ _n_ :es: costra  
-__scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
-__scalp__ _n_ __3__ A trophy or token signifying conquest.  
-__scamp__ _n_  
-__scant__ _adj_ :two::hammer:  
-__scape__ _n_ _Moon and Mars scapes._  
-__scapegoat__ _n_  
-__scapegrace__ _n_ A scoundrel. _Syn_ rascal _Both Kuragin and Dolokhov were at that time notorious among the rakes and scapegraces of Petersburg._  
-__scapula__ _n_  
-__scar tissue__ _n_ Dense fibrous connective tissue that forms over a healed wound or cut.  
-__scar__ _v_  
-__scaremonger__ _n_ A person who spreads frightening rumors and stirs up trouble. _Syn_ stirrer _When he started spreading the rumor that the government was bent on destroying our homes, we decided that he was a scaremonger and stopped paying attention._  
-__scarlet letter__ _n_  
-__scarlet__ _n_  
-__scatterbrained__ _adj_ /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly  
-__scatting__ _v_  
-__scend<sup>1</sup>__ _v intr_ (send) To rise or lift by, or as if by, a wave.  
-__scend<sup>2</sup>__ _n_ (send) The rising movement of a wave or a ship on a wave.  
-__scenic<sup>1</sup>__ _adj_  
-__scenic<sup>2</sup>__ _n_  
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
