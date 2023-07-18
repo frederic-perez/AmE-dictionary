@@ -261,3 +261,17 @@ __young at heart__
 __zinger__  
 __zone out__ :two::hammer:  
 __zoom out__  
+__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
+__wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
+__check in on (someone or something)__  
+__easier said than done__  
+__stand tall__ To exhibit courage, strength, or calm especially in the face of adversity.  
+__pave the way (for someone or something)__  
+__hoover__  
+__on a tear__  
+__rocky start__  
+__when it comes to (someone or something)__  
+__brick by brick__  
+__dish something out__  
+__feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
+__cred__ A shortening of “credibility,” referring to one’s ability to be accepted or deemed legitimate in a particular situation or group. _A scrawny geek like me has no cred with the jocks._  
