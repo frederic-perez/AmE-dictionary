@@ -275,3 +275,26 @@ __brick by brick__
 __dish something out__  
 __feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
 __cred__ A shortening of “credibility,” referring to one’s ability to be accepted or deemed legitimate in a particular situation or group. _A scrawny geek like me has no cred with the jocks._  
+__lovebirds__  
+__froufrow__ (?)  
+__pizzazz__ Energy; power.  
+__Commies__ :two::hammer: 
+__semper fi__  
+__wigged out__  
+__whanger__ :two::hammer: (?)  
+__spiffy__  
+__buzz__ :two::hammer: _Buzzed the fuzz._  
+__frog-fry__ (?)  
+__sassy__  
+__shooed__ (?)  
+__sashayed__ (?)  
+__go Greek__ 
+__highball__ _Highball glasses._  
+__drift__ _Follow m6 drift._  
+__up-and-coming__ (?)  
+__bopped__ _v_  
+__goon__ _n_  
+__ballyhooed__ _v_  
+__dicey__  
+__sawbuck__ (?)  
+__flit__ _n_ (?)  
