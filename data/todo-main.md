@@ -925,3 +925,26 @@ __zinch__
 __zipline__ _n_ :two::hammer: _A zipline park._  
 __zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
 __zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
+__A-bomb__  _n_  
+__conversant__  
+__stenos__  
+__frisson__ _n_  
+__happenstance__  
+__ducat__. 
+__adroit__  
+__Old Crow__ _n_  
+__cadre__  
+__prosty__  
+__priapically__ _Priapically apace._  
+__apace__ _Priapically apace._  
+__Spanish fly__  
+__scrounge__ _v_  
+__salacious__  
+__swoon__ _v_  
+__ensued__ _v_  
+__chagrined__ _v_  
+__factotum__  
+__musical clefs__  
+__clique__  
+__heisted__ _v_ 
+__litentiously__  
