@@ -14809,34 +14809,38 @@ __schlock__
 __schlocky__  
 __schmaltz__ _n_ _informal_ :two: The quality or condition of being affectedly or overly emotional.  
 __schmear__ _n_ (schmeer) _informal US_ A situation, matter, or affair (esp in the phrase _the whole schmear_).  
-__schmooze__ _v_ :four: (schmoozed, schmoozing) Talk idly or casually and in a friendly way.  
+__schmooze__ _v_ :six: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. Talk idly or casually and in a friendly way. _The event gives an opportunity for local business owners to network and schmooze._  
 __schmuck__ _n_ _slang_ :three: (schmucks) A clumsy or stupid person; an oaf.  
 __schnapps__  
+__schnitzel__ _n_ :es: escalope  
 __scholar__ _n_ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
 __school of thought__  
-__school<sup>1</sup>__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
+__school<sup>1</sup>__ _n_ :three::mute:[sc~~h~~ool]:hammer: _A school of fish._ _Flocks, herds, and schools._  
 __school<sup>2</sup>__ _v tr_ _She schooled her face into careful neutrality._  
+__schoolcharm__  
 __schooling__ _n_ __3__ The training of a horse or a horse and rider in equitation. _I could smell trout schooling up in the bay._  
+__schoolman__ _n_ A scholar who is skilled in academic disputation. _Syn_ academician  
 __schoolwork__ _n_  
-__schooner__ _n_ :seven::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
-__schuss__  
+__schooner__ _n_ :nine: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._ _A frosted schooner of draft._ _A schooner of beer._  
+__schuss__ _v_ :two::hammer:  
 __schwa__ _n_ :four: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _alone_, _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
 __sciatic__  
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :three::hammer:  
 __scintilla__ _n_  
+__scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
-__scion__ _n_ :five: /ˈsaɪ ən/ __1__ A descendant or offspring, esp. of an illustrious family. __2__ A shoot or twig, esp. one cut for grafting or planting.  
+__scion__ _n_ :six: /ˈsaɪ ən/ __1__ A descendant or offspring, esp. of an illustrious family. __2__ A shoot or twig, esp. one cut for grafting or planting.  
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
 __scoff__ _v_ :nine::m: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at _They scoffed at the idea._  
 __scoffer__ _n_  
-__scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
+__scofflaw__ _n_ :three: A person who flouts rules, conventions, or accepted practices. _Town constables will be on-hand to quickly penalize scofflaws._  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce<sup>1</sup>__ _n_ :two: __1__ A small defensive earthwork or fort. __2__ A decorative wall bracket for holding candles or lights. _Wall sconces._ __3__ A flattened candlestick that has a handle.  
 __sconce<sup>2</sup>__ _v_  
@@ -14847,7 +14851,7 @@ __scope out__ _v_
 __scorching__  
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
-__scorecard__ _n_ /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. __2__ A card identifying the players in a sports match, esp cricket or baseball.  
+__scorecard__ _n_ :two: /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. _Inner scorecard._ __2__ A card identifying the players in a sports match, esp cricket or baseball.  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :three::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
@@ -14875,7 +14879,7 @@ __scrappy__ _adj_ :five::hammer: _The scrappy journalist inside me fuels my fire
 __scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
 __scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
 __scratcher__ _n_ __1__ A workman who uses a tool for scratching. __2__ A person who scratches to relieve an itch. __3__ A device used for scratching.  
-__scratching__ _n_  
+__scratching__ _n_ :two: A percussive effect obtained by rotating a gramophone record manually: a disc-jockey and dub technique.  
 __scraunch__ _v tr_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
 __scrawl__ _v_ :six: (scrawled) To write hastily or sloppily. Write carelessly. _Syn_ scribble _The note that my brother scrawled before his quick exit was unreadable._ _Ben scrawled a notation on the memo._  
 __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
@@ -14902,6 +14906,7 @@ __scrooch__ _v_
 __Scrooge__  
 __scrooge__ _n_ A mean-spirited miserly person. _Syn_ niggard, skinflint, churl _The old scrooge was married to his money, and spending a penny was, to him, as traumatic as divorce._  
 __scrouching__ _v_  
+__scrounge__ _v_  
 __scrub brush__  
 __scrub out__ _v_  
 __scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
@@ -14954,7 +14959,7 @@ __seafaring<sup>1</sup>__ _n_
 __seafaring<sup>2</sup>__ _adj_ :two::hammer: _A seafaring connection._  
 __seafood__ _n_  
 __seagoing__ _adj_ _Seagoing admirals._  
-__seagulls__ _n_ :two::hammer:  
+__seagull__ _n_ :three::hammer: :es: gaviota  
 __seahawk__ _n_  
 __seal__ _v_ _Lacy gained 27 yards to seal their fourth division win._  
 __sealioning__ _n_ A critical term for a form of trolling that involves relentlessly pestering someone with questions and requests (such as for evidence or sources), typically with the goal of upsetting them and making their position or viewpoint seem weak or unreasonable. _Scientists with prominent social media presences know that sealioning is a very common way for trolls to try to fluster them and waste their time._  
@@ -14974,15 +14979,17 @@ __seasonal pool__ _n_ A pool that is opened for a few months during the calendar
 __seat sticks__  
 __seater__ _n_ __2__ One that has a specified number of seats—used in combination _a 2-seater jet._ _110 seater restaurant._  
 __seating__ _n_ :two::hammer: _Plenty of garden seating._  
-__seawall__  
+__seawall__ _n_ :two::hammer: _A two-mile seawall promenade._  
 __seaweed__ _n_ :two::hammer: :es: alga  
 __secateurs__ _n_  
 __seclude__ _v_ Keep away from others. _Syn_ sequester, withdraw _During my moody teenage years, I would often seclude myself in my room to brood._  
+__secluded__ _adj_  
 __second best__  
 __Second Coming__ _n_ (Theology) The prophesied return of Christ to earth at the Last Judgment.  
 __second nature__  
 __second string__ _n_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
+__second__ _v tr_ _I second you._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
@@ -14997,6 +15004,8 @@ __security__ _n_ :two::mega::hammer:
 __sedan chair__ _n_  
 __sedative__ _n_ _Not the strongest sedative._  
 __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which much sitting is involved. _Editorial work is chiefly sedentary._  
+__seder__ _n_ :two::hammer: /SAY-der/  
+__sedge__ _n_ _Sedge meadows._  
 __sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It’s what the southern states did at the start of the Civil War.  
 __seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
@@ -15008,7 +15017,7 @@ __seediness__
 __seedling__ _n_ :dart: A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
 __seedy__ _adj_ _A seedy world._  
 __seek out__  
-__seek__ _v_ (sought)  
+__seek__ _v_ :two::hammer: (sought) _We seek to characterize the performance variations._  
 __seemingly__ _adv_ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seep__ _v_ :nine::m: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
 __seepage__ _n_ :two::mega::hammer:  

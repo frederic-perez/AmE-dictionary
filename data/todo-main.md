@@ -1,8 +1,10 @@
+__A-bomb__ _n_  
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
 __abscond__ _v_ /ab-SKAHND/  
 __abusive__ _adj_  
 __adenosine__ _n_  
 __adrift__  
+__adroit__  
 __advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of.  
 __affectionally__  
 __aghast__  
@@ -11,6 +13,7 @@ __ammonia__ _n_ :es: amoníaco
 __Anchors Aweigh__ _n_  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
 __ant hill__ _n_  
+__apace__ _adv_  
 __appraisal__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __articulate__ _v_  
@@ -65,6 +68,7 @@ __building block__
 __bully__ _n_  
 __bunting__ _n_  
 __byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
+__cadre__  
 __Calvinism__ _n_  
 __calypso__ _n_ (music)  
 __camarilla__ _n_ A group of confidential, often scheming advisers. _Syn_ cabal, faction, junto  
@@ -79,6 +83,7 @@ __catharsis__ _n_
 __catnap__  
 __catnip__  
 __cerulean__ _n_  
+__chagrined__ _v_  
 __chalet__ _n_ :mega:  
 __chime__ _v_ _Everybody chimes into a discussion._  
 __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
@@ -87,9 +92,11 @@ __chirk<sup>3</sup>__ _adj_ Lively; cheerful.
 __chit chat__  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __clammy__ _adj_  
+__clique__  
 __clobber__ _v tr_  
 __coddle__ _v tr_  
 __comprise__ _v_ /kum-PRYZE/  
+__conversant__  
 __convey__ _v tr_  
 __deem__ _v_  
 __deep-routed__  
@@ -109,6 +116,7 @@ __dovetail__ _v_
 __downtime__ _n_  
 __dragon__ _n_ :mega:  
 __drawn-out__ _adj_ Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
+__ducat__  
 __dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
 __dysgraphia__ _n_  
 __earplug__ _n_ :pencil2:  
@@ -129,6 +137,7 @@ __enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfe
 __engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
 __engram__ _n_ _Syn_ memory trace  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__ensued__ _v_  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
 __enthuse__ _v_  
 __enthused__ _adj_  
@@ -150,6 +159,7 @@ __exchequer__ _n_ /ɪksˈtʃɛkə/
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
+__factotum__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
 __fare__ _v intr_  
@@ -170,6 +180,7 @@ __firefly__ _n_ :es: luciérnaga
 __flywheel__ _n_  
 __formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
+__frisson__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
@@ -187,6 +198,7 @@ __guffaw__ _v_
 __guy__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
+__happenstance__  
 __hardy__ _adj_  
 __Harry__ _n_ :mega:  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
@@ -195,6 +207,7 @@ __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a
 __hearty__ _adj_  
 __heat pump__ _n_  
 __hector__ _v_ _TikTok keeps hectoring us._  
+__heist__ _v_  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
 __heliskiing__ _n_  
 __helter-skelter__  
@@ -253,6 +266,7 @@ __life raft__ _n_
 __liminal__ _adj_  
 __Listerine__ _n_  
 __litany__  
+__litentiously__  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __locution__ _n_  
@@ -306,6 +320,7 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
 __mumpsimus__  
 __mushroom__ _v intr_  
+__musical clefs__  
 __musing__ _adj, n_  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __mythos__ _n_  
@@ -324,6 +339,7 @@ __non-negotiable__ _adj_
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
+__Old Crow__ _n_  
 __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __optíonal__ _adj_ :mega:  
@@ -358,10 +374,12 @@ __polish__ _v_ _I polish your writing._
 __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
 __pool table__  
 __pool__ _v_  
+__priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __procurement__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
 __proponent__ _n_  
+__prosty__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -412,6 +430,7 @@ __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.
 __ribbon candy__  
 __rollout__ _n_  
 __rung__ _n_  
+__salacious__  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
 __salvo__ _n_ /SAL-voh/  
@@ -430,26 +449,6 @@ __savor__ _v_ _Savor the moment._
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
-__schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
-__schnitzel__ _n_ :es: escalope  
-__school__ _n_ _Flocks, herds, and schools._  
-__schoolcharm__  
-__schoolman__ _n_ A scholar who is skilled in academic disputation. _Syn_ academician  
-__schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._  
-__schuss__ _v_  
-__scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
-__scion__ _n_  
-__scofflaw__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
-__scorecard__ _n_ _Inner scorecard._  
-__scrap__ _v_ _Scrapping meetings may be one way to boost employee productivity._  
-__scratching__ _n_ A percussive effect obtained by rotating a gramophone record manually: a disc-jockey and dub technique.  
-__seagull__ _n_ :es: gaviota  
-__seawall__ _n_ _A two-mile seawall promenade._  
-__secluded__ _adj_  
-__second__ _v tr_ _I second you._  
-__seder__ _n_ :two::hammer: /SAY-der/  
-__sedge__ _n_ _Sedge meadows._  
-__seek__ _v_ _We seek to characterize the performance variations._  
 __seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
@@ -548,6 +547,7 @@ __souvenir__ _n_ _Souvenir items._
 __sow__ _n_  
 __spangle__ _n_ _Syn_ glitter, sequin  
 __Spanglish__ _n_ Spanish characterized by numerous borrowings from English.  
+__Spanish fly__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __spate__ _n_  
 __spaz__  
@@ -596,6 +596,7 @@ __steeped__ _v_ :two::hammer: _This region is steeped in history._
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
+__stenos__  
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
@@ -664,6 +665,7 @@ __sustenance__ _n_ :two::hammer:
 __swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
 __swan<sup>2</sup>__ _v intr_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
+__swoon__ _v_  
 __talktative__  
 __Tamagotchi__ _n_ :pencil2:  
 __tamarind__  
@@ -925,26 +927,3 @@ __zinch__
 __zipline__ _n_ :two::hammer: _A zipline park._  
 __zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
 __zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
-__A-bomb__  _n_  
-__conversant__  
-__stenos__  
-__frisson__ _n_  
-__happenstance__  
-__ducat__. 
-__adroit__  
-__Old Crow__ _n_  
-__cadre__  
-__prosty__  
-__priapically__ _Priapically apace._  
-__apace__ _Priapically apace._  
-__Spanish fly__  
-__scrounge__ _v_  
-__salacious__  
-__swoon__ _v_  
-__ensued__ _v_  
-__chagrined__ _v_  
-__factotum__  
-__musical clefs__  
-__clique__  
-__heisted__ _v_ 
-__litentiously__  
