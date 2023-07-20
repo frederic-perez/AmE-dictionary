@@ -14731,7 +14731,6 @@ __savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Por
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  
 __savvy<sup>3</sup>__ _adj_ :three: Shrewd or knowledgeable, especially in practical matters. _Savvy travelers._  
 __saw__ _n_ A maxim or proverb.  
-__sawbuck__ _n_ _I had to slip the clerck an extra sawbuck._  
 __sawdust__ _n_  
 __sawed-off__  
 __sawgrass__ _n_ :two::hammer:  

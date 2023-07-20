@@ -56,41 +56,32 @@ __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bows
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __bear the brunt (of something)__  
 __big name__  
+__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
+__bop__ _v_  
 __bounce back__  
 __break new ground__ To advance, innovate, or pioneer (something). _They’ve really broken new ground with their latest product—I’ve never seen anything like it._  
+__brick by brick__  
 __bring (one) up to speed__ To inform one of the latest details (about something). _Tom, will you please bring the rest of the team up to speed on the status of the project?_  
-__cap__  
-__capitalize on (something)__ To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
-__catch on__  
-__cater to (someone or something)__  
-__cautionary tale__  
-__cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
-__chime in__  
-__cisgender__  
-__clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
-__close up shop__  
-__closed-minded__ :dart:  
-__come by__  
-__cut (one) some slack__  
-__cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
-__cut it__  
-__cut out__ _Cutting out the negative influences._  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __day in, day out__  
 __de facto__  
 __dealbreaker__  
+__dicey__  
 __Ding, ding, ding, we have a winner!__  
 __dirtbag__  
 __dish out__  
+__dish something out__  
 __diss__  
 __dive in__  
+__Do you get my drift?__  
 __dog days__  
 __dog__ A pint bottle (470ml) of liquor; thus _short dog_, a half-pint bottle. _Short dogs of bonded bourbon._  
 __don’t get (one) started__  
 __draw up__  
 __drill in(to) (someone or something)__  
 __dynamic duo__  
+__easier said than done__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
@@ -104,6 +95,7 @@ __false modesty__ A vain or hypocritical pretense of holding a low or humble opi
 __far and wide__ All over; everywhere.  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __fear of missing out__  
+__feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
 __femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
 __fiddle with (something)__ To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
@@ -137,6 +129,7 @@ __give (one) the creeps__
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
 __go all out__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
+__go Greek__  
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go to Canossa__  
 __go to great lengths (to do something)__  
@@ -151,6 +144,7 @@ __good graces__ Favorable, kindly, or approving regard or treatment. Usually use
 __good job__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good-natured__ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
+__goon__ _n_  
 __grand total__ The final amount after adding several different numbers or sums. _After everything was accounted for, the cost of remodeling the kitchen came to a grand total of $4,500._  
 __grapple with (someone or something)__  
 __grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
@@ -165,6 +159,8 @@ __hard knocks__ The real and practical experiences of life, especially those inv
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __have (got) a knack for (something)__ To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken. _I can’t understand these notes at all, you have handwriting like chicken scratch!_  
+__highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
+__hoover__  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
@@ -199,6 +195,8 @@ __knock it off__
 __knock-off__  
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__lovebirds__  
+__on a tear__  
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
@@ -206,7 +204,10 @@ __other than (something)__
 __ouch__ :dart:  
 __out of character__  
 __outsmart (oneself)__  
+__pave the way (for someone or something)__  
 __pie in the sky__  
+__pinko__ __1__ _n_ A communist. (Popular during the 1950s.) _Get out of here, you pinko!_ __2__ _mod_ Having communist tendencies; in the manner of a communist. _Get that pinko jerk out of here!_  
+__pizzazz__ Energy; power.  
 __play (one’s) cards__  
 __power nap__  
 __pull the plug (on someone or something)__  
@@ -214,7 +215,13 @@ __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowar
 __put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
 __retail for (something)__  
 __rock (one’s) world__  
+__rocky start__  
 __run afoul of (someone or something)__  
+__sassy__  
+__sawbuck__ :two: _slang_ A 10-dollar bill. A sawbuck is another name for a sawhorse (a support on which timber is placed when it is being cut) that has two crossed legs at each end, creating an X, which were featured on old 10-dollar bills as the Roman numeral for 10. Primarily heard in US. _This place is great. You can get a full meal, a soft drink, and a dessert for less than a sawbuck!_ _I had to slip the clerk an extra sawbuck._  
+__semper fi__  
+__spiffy__  
+__stand tall__ To exhibit courage, strength, or calm especially in the face of adversity.  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __strong word__  
 __swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
@@ -237,6 +244,10 @@ __toe-to-toe__
 __together__  
 __tongue-in-cheek__  
 __tooth and nail__  
+__up-and-coming__  
+__wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
+__whanger__ :two: _slang_ The penis.  
+__when it comes to (someone or something)__  
 __whet (one’s) appetite__  
 __whitewash__  
 __whodunit__ :dart: A detective story or mystery story.  
@@ -244,6 +255,7 @@ __whole nother thing__
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
+__wigged out__  
 __wild__  
 __wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
 __willy-nilly__  
@@ -261,40 +273,3 @@ __young at heart__
 __zinger__  
 __zone out__ :two::hammer:  
 __zoom out__  
-__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
-__wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
-__check in on (someone or something)__  
-__easier said than done__  
-__stand tall__ To exhibit courage, strength, or calm especially in the face of adversity.  
-__pave the way (for someone or something)__  
-__hoover__  
-__on a tear__  
-__rocky start__  
-__when it comes to (someone or something)__  
-__brick by brick__  
-__dish something out__  
-__feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
-__cred__ A shortening of “credibility,” referring to one’s ability to be accepted or deemed legitimate in a particular situation or group. _A scrawny geek like me has no cred with the jocks._  
-__lovebirds__  
-__froufrow__ (?)  
-__pizzazz__ Energy; power.  
-__Commies__ :two::hammer: 
-__semper fi__  
-__wigged out__  
-__whanger__ :two::hammer: (?)  
-__spiffy__  
-__buzz__ :two::hammer: _Buzzed the fuzz._  
-__frog-fry__ (?)  
-__sassy__  
-__shooed__ (?)  
-__sashayed__ (?)  
-__go Greek__ 
-__highball__ _Highball glasses._  
-__drift__ _Follow m6 drift._  
-__up-and-coming__ (?)  
-__bopped__ _v_  
-__goon__ _n_  
-__ballyhooed__ _v_  
-__dicey__  
-__sawbuck__ (?)  
-__flit__ _n_ (?)  

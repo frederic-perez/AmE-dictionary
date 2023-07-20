@@ -28,6 +28,7 @@ __ayahuasca__ _n_
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
 __baccalaureate__ _n_  
 __backhanded__ _adj_  
+__ballyhoo__ _v_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
 __bargain__ _n_  
 __barrage__ _n_  
@@ -177,10 +178,13 @@ __fictive__ _adj_
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
+__flit__ _n_  
 __flywheel__ _n_  
 __formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
 __frisson__ _n_  
+__frog fry__ _n_ Frog hopper.  
+__froufrou__  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
@@ -444,6 +448,7 @@ __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval o
 __sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
+__sashay__ _v intr_  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
 __schadenfreude__  
@@ -498,6 +503,7 @@ __sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time
 __sheepskin__ _n_  
 __sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
 __sheet__ _n_ _A three-sheeted bed._  
+__shoo__ _v tr_  
 __showbiz__ _n_  
 __side of bacon__ _n_ Salted and cured abdominal wall of a side of pork. _Syn_ flitch  
 __sidestep__ _v_  
