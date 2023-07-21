@@ -457,27 +457,6 @@ __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept pe
 __seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
-__seethe__ _v_ :two::hammer: _His seething frustration._  
-__segrated__ _adj_ :pencil2: _A wave of persecution in the segrated South._  
-__segue__ _v_ (segues)  
-__seitan__  
-__seize__ _v_ _Seize the day._  
-__selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
-__self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
-__self-conscious__ _adj_ __1__ Unduly aware of oneself as the object of the attention of others; embarrassed.  
-__self-serving__ _adj_  
-__sell-off__ _n_  
-__send-off__  
-__sendoff__  
-__sensei__ _n_ :mega:  
-__sensibility__ _n_ /sen-suh-BIL-uh-tee/  
-__sepulchre__ _n_ /SEP-ul-ker/ Sepulchre is an old-fashioned word for a tomb or other place of burial.  
-__sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
-__sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
-__sequester__ _v_  
-__serendipity__ _n_ /sair-un-DIP-uh-tee/ Serendipity is luck that takes the form of finding valuable or pleasant things that are not looked for. _We found the restaurant by pure serendipity, rather than careful research, but it turned out to be the best deal in town._  
-__Serengeti__ _n_ :pencil2:  
-__serigraph__ _n_  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
 __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.  
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  

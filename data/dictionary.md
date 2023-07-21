@@ -15024,19 +15024,22 @@ __seer__ _n_
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning “milk and sugar,” probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
-__seethe__ _v_ :nine::m::dart: If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._ _Seething with jealousy._  
+__seethe__ _v_ :nine::m::dart: If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._ _Seething with jealousy._ _His seething frustration._  
 __seething__ _adj_ __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
-__segregate__ _v_ :two::hammer: (segregated) _Same building, but segregated schools._  
-__segue__ _v_ :six::pencil2::mega::hammer:  
-__seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
+__segregate__ _v_ :three::hammer: (segregated) _Same building, but segregated schools._  
+__segue__ _v_ :seven::pencil2::mega::hammer: (segues)  
+__seitan__  
+__seize__ _v_ :six::hammer: (seizing) _Seize him!_ _Seizing an opportunity._ _Seize the day._  
 __seizing__ _n_ :three::hammer:  
 __seldom<sup>1</sup>__ _adj_ :two::hammer:  
 __seldom<sup>2</sup>__ _adv_ :two::hammer: _People seldom think about their values consciously._  
 __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
+__selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
 __self-absorbed__ _adj_ _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
+__self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
-__self-conscious__ _adj_ :six::hammer: :es: acomplejado; cohibido, tímido  
+__self-conscious__ _adj_ :seven: __1__ Unduly aware of oneself as the object of the attention of others; embarrassed. :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
 __self-effacing__ _adj_ :three::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
@@ -15045,7 +15048,7 @@ __self-hatred__ _n_ (self-hate) Hatred, disregard, and denigration of oneself.
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
-__self-serving__ _adj_ :three: __1__ Serving one’s own interests, especially without concern for the needs or interests of others. __2__ Exhibiting concern solely for one’s own interests: _a speech full of self-serving comments._  
+__self-serving__ _adj_ :four: __1__ Serving one’s own interests, especially without concern for the needs or interests of others. __2__ Exhibiting concern solely for one’s own interests: _a speech full of self-serving comments._  
 __self-steem__  
 __self-sustained__ _adj_ Needing no outside support.  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
@@ -15053,7 +15056,7 @@ __self-worth__ _n_ Self-esteem; self-respect.
 __selfless__  
 __selfsame__  
 __sell short__  
-__sell-offs__  
+__sell-off__ _n_ :two::hammer:  
 __sellout__ _n_ (sold out, sellouts) :three::hammer: _There have been no sellouts._  
 __sellsworth__ _n_  
 __seltzer__ _n_ __1__ A natural effervescent spring water of high mineral content. __2__ A similar synthetic water, used as a beverage.  
@@ -15065,13 +15068,14 @@ __seminal__ _adj_ :two: Highly influential in an original way; constituting or p
 __seminoles__  
 __sempiternal__ _adj_ Enduring forever; eternal.  
 __senate__ _n_ :mega:  
-__send-of__  
+__send-off__ _n_ :three::hammer:  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
 __seneschal__ _n_ :three: An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
 __senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
-__sensibility__ _n_ Mental responsiveness; discernment; awareness. _Syn_ aesthesia _After nine months in a coma, the patient began to exhibit sensibility._  
+__sensei__ _n_ :mega:  
+__sensibility__ _n_ :two: /sen-suh-BIL-uh-tee/ Mental responsiveness; discernment; awareness. _Syn_ aesthesia _After nine months in a coma, the patient began to exhibit sensibility._  
 __sensible<sup>1</sup>__ _adj_  
 __sensible<sup>2</sup>__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _adj_ _Sensitive questions._  
@@ -15086,8 +15090,10 @@ __separate__ _adj_ :two::hammer:
 __seppuku__ _n_ :two::hammer:  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sepulcher__ _n_ :two::hammer::mega:  
-__sequelae__ _n pl_  
-__sequestered__ _v_  
+__sepulchre__ _n_ /SEP-ul-ker/ (mostly British) Sepulchre is an old-fashioned word for a tomb or other place of burial.  
+__sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
+__sequelae__ _n pl_ :two: The consequences of a particular condition or therapeutic intervention.  
+__sequester__ _v_ :two::hammer:  
 __sequestration__ _n_ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
@@ -15098,11 +15104,13 @@ __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraph
 __seratonin__ _n_ :mega:  
 __sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
-__serendipity__ _n_  
+__serendipity__ _n_ :two: /sair-un-DIP-uh-tee/ Serendipity is luck that takes the form of finding valuable or pleasant things that are not looked for. _We found the restaurant by pure serendipity, rather than careful research, but it turned out to be the best deal in town._  
+__Serengeti__ _n_ :pencil2:  
 __Serenity Prayer__  
 __serf__ _n_ _A vagrant serf._  
 __serfdom__ _n_  
 __serial comma__ _n_ Oxford comma.  
+__serigraph__ _n_  
 __seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
 __sermon__  
