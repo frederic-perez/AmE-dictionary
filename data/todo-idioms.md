@@ -218,26 +218,6 @@ __rock (one’s) world__
 __rocky start__  
 __run afoul of (someone or something)__  
 __sassy__  
-__sawbuck__ :two: _slang_ A 10-dollar bill. A sawbuck is another name for a sawhorse (a support on which timber is placed when it is being cut) that has two crossed legs at each end, creating an X, which were featured on old 10-dollar bills as the Roman numeral for 10. Primarily heard in US. _This place is great. You can get a full meal, a soft drink, and a dessert for less than a sawbuck!_ _I had to slip the clerk an extra sawbuck._  
-__semper fi__  
-__spiffy__  
-__stand tall__ To exhibit courage, strength, or calm especially in the face of adversity.  
-__strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
-__strong word__  
-__swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
-__swear off (something)__ To promise, pledge, or be determined not to do, use, eat, or imbibe something anymore. _Thank you, but I don’t drink. I swore off alcohol when my father was killed by a drunk driver._  
-__sweet tooth__  
-__swept away__  
-__Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
-__switch gears__ :dart: To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
-__sword of Damocles__  
-__table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
-__think (someone) hung the moon and the stars__ To believe that someone is the most wonderful and important person in the world; to love and adore someone more than anyone else. _Your little sister absolutely adores you—she thinks you hung the moon and the stars!_  
-__throwdown gun__ An unregistered gun placed as evidence to suggest that a shooting by police was done in self-defense. _Something about the sergeant’s description of the shooting seems off. I’m starting to have suspicions that the gun recovered at the scene was really a throwdown gun._  
-__to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
-__to some extent__  
-__to the core__ _Charming to the core._  
-__to the fullest__  
 __to the hilt__  
 __to this day__  
 __toe-to-toe__  

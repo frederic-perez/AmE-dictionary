@@ -3161,6 +3161,7 @@ __save face__ :six: To try to regain favorable standing after something embarras
 __save the day__ :dart::six: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
+__sawbuck__ :two: _slang_ A 10-dollar bill. A sawbuck is another name for a sawhorse (a support on which timber is placed when it is being cut) that has two crossed legs at each end, creating an X, which were featured on old 10-dollar bills as the Roman numeral for 10. Primarily heard in US. _This place is great. You can get a full meal, a soft drink, and a dessert for less than a sawbuck!_ _I had to slip the clerk an extra sawbuck._  
 __Say again?__ Could you please repeat what you just said? _Sorry, Mike, say again? I’m getting bad reception here._  
 __Says who?__  
 __scads__ _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _I’ve still got scads to do before the in-laws arrive!_  
@@ -3205,6 +3206,7 @@ __sell like hotcakes__ To be sold quickly and in large quantities. _This record 
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
 __sell up__  
+__semper fi__  
 __send (one’s) love to (someone)__  
 __send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
 __send off__ :two::hammer:  
@@ -3370,6 +3372,7 @@ __speaking of which__
 __spell disaster__  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
 __spice up__  
+__spiffy__  
 __spill out (of something)__  
 __spill the beans__ :two: To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
@@ -3399,7 +3402,7 @@ __stand at attention__ _They were standing at attention._
 __stand in (someone’s) shoes__ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  
 __stand on the shoulders of giants__ :two: To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out__ __1__ To protrude from something; to project outward from something. _He chose a strong branch standing out from the tree to hang the swing from._ __2__ To be especially noticeable, conspicuous, or prominent, especially in comparison to someone or something else. _The dragons are notoriously varied in physique—they’d stand out in the Mos Eisley Cantina._  
-__stand tall__ :five: To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
+__stand tall__ :six: To prove or display one’s pride, confidence, or fortitude. To exhibit courage, strength, or calm especially in the face of adversity. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ :four: To be sensible or understandable. Be clear to all sensible people. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up for__  
 __stand up__ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
@@ -3439,6 +3442,8 @@ __stressed out__ :two: Experiencing a lot of mental, emotional, or physical stra
 __strike a (raw) nerve__  
 __strike a chord__ :three: Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __strike off__  
+__strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
+__strong word__  
 __struck a nerve__  
 __stuff (one’s) face__ _slang_ To eat a lot of food, especially quickly and in a short period of time. _Sorry, I’m not hungry for dinner—I really stuffed my face at the luncheon earlier._  
 __stuff your face__ To eat a lot of food quickly.  
@@ -3457,12 +3462,19 @@ __sure enough__ :three: As one might have expected; certainly. _Sure enough, tha
 __surefire__ Certain to work, be effective, or have a particular outcome; foolproof. The term is sometimes hyphenated, and it is always used before a noun. _Coming in to work drunk is a surefire way to get yourself fired, Tom._ _We’ve developed a sure-fire method of teaching grammar to grade-schoolers in a way that they will not ignore or forget._ _A surefire tactic._  
 __surprise, surprise__ :three: Said ironically of or in a situation in which something very predictable has happened.  
 __survival mode__  
+__swan song__ A final performance, product, or accomplishment before someone or something stops creating work or products, as due to death, retirement, closure, etc. From the ancient belief that swans issue a beautiful song-like sound just before they die. _We didn’t know that her performance last night was the singer’s swan song._  
 __swear in__ To administer an oath to someone as part of the official process of taking public office. A noun or pronoun can be used between “swear” and “in.” _The current president was sworn in after his predecessor died of a sudden heart attack._  
+__swear off (something)__ To promise, pledge, or be determined not to do, use, eat, or imbibe something anymore. _Thank you, but I don’t drink. I swore off alcohol when my father was killed by a drunk driver._  
 __sweat bullets__ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
 __sweep (one) off (one’s) feet__ :two: To charm one in such a way that they form an instant and strong romantic attraction, usually unexpectedly. _A: “Is Lucy still gushing about her new boyfriend?” B: “Yeah, he must have really swept her off her feet._  
 __sweet spot__ :five: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
-__switch gears__ To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
+__sweet tooth__  
+__swept away__  
+__Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
+__switch gears__ :dart::two: To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
+__sword of Damocles__  
 __sync up__ _Syncing up over coffee._  
+__table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
 __tag along__ :six::dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._ _His old swing has tagged along._ _You want to tag along?_  
 __tail end__ _The tail end of the day._  
 __tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
@@ -3678,6 +3690,7 @@ __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunc
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ :two::dart::hammer:  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
+__think (someone) hung the moon and the stars__ To believe that someone is the most wonderful and important person in the world; to love and adore someone more than anyone else. _Your little sister absolutely adores you—she thinks you hung the moon and the stars!_  
 __think aloud__ To verbalize one’s thoughts. _I’m just thinking aloud._  
 __think back__ :two: To think about a past event or a past time.  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
@@ -3705,6 +3718,7 @@ __throw the towel__
 __throw up__ _I might throw up._  
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated “TBT”) as an accompanying hashtag or caption. _I’m going to post my second grade class picture for throwback Thursday!_  
 __throwback__ A throwback is a sudden reminder of the past, usually in the form of something that evokes a strong emotional response. This could be a song from high school, an old photograph, a place from your childhood, or something else from your past. Throwbacks can be a great way to reconnect with memories and draw on nostalgia to create a sense of comfort and belonging.  
+__throwdown gun__ An unregistered gun placed as evidence to suggest that a shooting by police was done in self-defense. _Something about the sergeant’s description of the shooting seems off. I’m starting to have suspicions that the gun recovered at the scene was really a throwdown gun._  
 __thug live__ (often ironic) [:scroll: Popularized by American rapper Tupac Shakur (1971–1996) in 1993. ] A resilient attitude in the face of racism and injustice. A life in which one has to go through many struggles, like that of poor gangstas. _I didn’t choose the thug life. It chose me._  
 __thumb (one’s) nose at (someone or something)__ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
 __thumbs up__ _We have a thumbs up!_  
@@ -3746,9 +3760,12 @@ __to let (one’s) guard down__ To stop being cautious; to relax and stop being 
 __to make a long story short__ To skip boring, extraneous, or unnecessary details; to get to the point. _Anyway, to make a long story short, I got expelled for writing graffiti on the bathroom stalls._  
 __to name (but) a few__ :two::hammer:  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
+__to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to see red__ Very angry.  
-__to some extent__  
+__to some extent__ :two::hammer:  
 __to that end__ :four::hammer: (to that end,)  
+__to the core__ _Charming to the core._  
+__to the fullest__  
 __to this day__ :seven::hammer: _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
