@@ -15122,6 +15122,7 @@ __servicers__
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __sesquipedalian<sup>1</sup>__ _n_ A long word.  
 __sesquipedalian<sup>2</sup>__ _adj_ :two: __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
+__sesquipedalianism__ _n_ :two: /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
 __set (someone) up__ _v_ _Emile’s trying to set you up._  
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
 __set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
@@ -15134,14 +15135,15 @@ __set someone apart__
 __set the pace__  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
-__setback__ _n_ :six::hammer::pencil2: (setbacks) _It has suffered several setbacks._  
+__setback__ _n_ :seven::hammer::pencil2: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting__ _n_ __3__ The surroundings or environment of anything. _Picturesque setting._ :es: entorno picturesco  
+__settler__ _n_  
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
 __Seven Dwarf status__  
 __seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
-__severance pay__ _n_ A sum of money usually based on length of employment for which an employee is eligible upon termination. :es: finiquito  
+__severance pay__ _n_ :two: A sum of money usually based on length of employment for which an employee is eligible upon termination. :es: finiquito  
 __severance__ _n_ :three::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
@@ -15172,7 +15174,7 @@ __shale oil__ _n_ _Shale oil production._
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
-__shallots__ _n_  
+__shallot__ _n_ :three::hammer:  
 __shallow__  
 __sham<sup>1</sup>__ _adj_ :four: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
 __sham<sup>2</sup>__ _n_ :four::hammer: _The novelty effect isn’t a sham._  
@@ -15183,28 +15185,36 @@ __shambolic__ _adj_ Very badly organized.
 __shame__ _v_ _He shamed me._  
 __shaming__ _adj_  
 __shamrock__ _n_ :two::hammer:  
+__Shamrocks__ _n_ A solitaire game.  
 __shamus__  
+__shanghai__ _v_ :astonished:  
+__Shangri-la__ _n_ :mega:  
 __shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
 __shank<sup>2</sup>__ _v_ :four: (shanked) __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement. To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
 __shanties__  
-__shanty__  
+__shanty__ _n_ :three: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
 __shantytown__ _n_ :two: A town or section of a town or city where there are many poor people living in shanties.  
 __shape up__ _v_  
 __shapely__ _adj_ (esp of a woman’s body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __shaping the bullet__  
+__shard__ _n_ /SHAHRD/ Shard refers to “a small piece or part” of something, and is often used as a synonym of scrap. _A single shard of sunlight pierced the dense forest canopy, illuminating the entrance to the ancient ruin._  
 __share__ _v_ _Everything you share is confidential._  
 __sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that’s rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
 __sharkskin__ _n_  
 __sharp elbows__  
-__sharp__ _adj_ _He’s a sharp guy._  
+__sharp__ _adj_ :two::hammer: _He’s a sharp guy._ _In sharp contrast to the whatnot._  
 __sharps collector__ _n_ :camera:  
 __sharpshooter__ _n_ :two::hammer:  
 __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._  
-__shaved ice__  
+__shaved ice__ _n_ :two::hammer: _Glacee flavored shaved ice._  
+__shaved__ _adj_ :two: __1__ Having the hair cut close to the skin. _A shaved head._ __2__ :dart: Cut from a larger portion into thin slivers or slices. _Shaved Parmesan._  
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
 __sheaf__ _n_ :three::hammer: (sheaves) _A sheaf of photos._  
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
+__sheared__ _adj_ _Sheared mink._  
+__shearing__ _n_ _Sheep shearing._  
+__shearling__ _n_ _Luxurious shearlings._  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
 __shebang__ _n_ :two::hammer: _The whole shebang._  
@@ -15214,15 +15224,17 @@ __shedding__ _v_
 __sheelling__  
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
+__sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time in a month that a predator had managed to tear through the sheepcotes wire._  
 __sheepfold__ _n_ (Agriculture) A pen or enclosure for sheep.  
 __sheepishly__  
+__sheepskin__ _n_  
 __sheer fabric__ _n_ :two::hammer:  
 __sheer yoga pants__ _n_ :camera: Semi see-through yoga pants.  
-__sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
+__sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ _The city’s sheer density of concert spaces._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
 __sheet rock__  
-__sheet__ _n_ :two:  
+__sheet__ _n_ :three::hammer: _A three-sheeted bed._  
 __sheeting__  
 __sheik__ _n_ :two::pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
@@ -15302,7 +15314,7 @@ __shoestring<sup>2</sup>__ _adj_ :three: __1__ Long and slender: _shoestring pot
 __shoftlift__ _v_  
 __shogun__ _n_  
 __shogunate__ _n_ :three: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship _A local shogunate office._  
-__shoo__ _v_ :six::hammer: (shooing)  
+__shoo__ _v tr_ :seven::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
 __shoot out__ _n_ :two::hammer:  
 __shoot the moon__ _v_ :three::hammer:  
@@ -15358,6 +15370,7 @@ __show of hands__
 __show off__ _v_ :two::hammer:  
 __show-off__ _n_ :two::hammer:  
 __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants have served show-stopping meals for decades._  
+__showbiz__ _n_  
 __showboat__ _v_  
 __showcase__ _v_  
 __showdown__ _n_ :nine::m: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
@@ -15424,6 +15437,7 @@ __sickbed__ _n_ A sick person’s bed.
 __sickle cell__  
 __sickly__ _adj_ :es: enfermizo  
 __side effect__  
+__side of bacon__ _n_ Salted and cured abdominal wall of a side of pork. _Syn_ flitch  
 __side-splitting__ _adj_ _Side-splitting laughs._  
 __sidearm__  
 __sidebar__ _n_  
@@ -15434,7 +15448,7 @@ __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a play
 __sideline<sup>2</sup>__ _v_ :six: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
-__sidestep__ _v_ :seven::hammer: (sidestepped)  
+__sidestep__ _v_ :eight::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with anyone at Augusta_  
@@ -15450,6 +15464,7 @@ __sight<sup>1</sup>__ _n_ :mute:[si~~gh~~t]
 __sight<sup>2</sup>__ _v_ :mute:[si~~gh~~t]  
 __sightline__ _n_  
 __sightsee__ _v_ :two::hammer:  
+__sigmoidoscopy__ _n_  
 __sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
 __sign__ _n_ :mute:[si~~g~~n]  
 __sign-off__ _n_  
@@ -15504,10 +15519,12 @@ __sing along<sup>1</sup>__ _n_ :five: (sing-along, singalongs) A gathering or ev
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
+__single-handedly__ _adv_ :dart: Without assistance.  
 __single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
 __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
 __singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
+__sinister__  
 __sinistrality__ _n_ The condition of being left-handed.  
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ _n_ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
@@ -15540,6 +15557,8 @@ __skate__ _v_ :four::hammer: _He don’t let nobody skate unless it’s for mone
 __skedaddle__  
 __skeeball__ _n_  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
+__skeeve<sup>1</sup>__ _n_ A disgusting person.  
+__skeeve<sup>2</sup>__ _v tr_ /skeev/ To disgust.  
 __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
 __skeleton__ _n_ :two: __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
 __skell__ _n_ _slang_ A homeless person who lives as a derelict. _How you like it, skell?_  

@@ -462,35 +462,6 @@ __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
-__sesquipedalianism__ _n_ :two: /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
-__setback__ _n_  
-__settler__ _n_  
-__severance pay__ _n_ A sum of money usually based on length of employment for which an employee is eligible upon termination.  
-__shallot__ _n_ :two::hammer:  
-__Shamrocks__ _n_ A solitaire game.  
-__shanghai__ _v_ :astonished:  
-__Shangri-la__ _n_ :mega:  
-__shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
-__shard__ _n_ /SHAHRD/ Shard refers to “a small piece or part” of something, and is often used as a synonym of scrap. _A single shard of sunlight pierced the dense forest canopy, illuminating the entrance to the ancient ruin._  
-__sharp__ _adj_ _In sharp contrast to the whatnot._  
-__shaved ice__ _n_ _Glacee flavored shaved ice._  
-__shaved__ _adj_ :two: __1__ Having the hair cut close to the skin. _A shaved head._ __2__ :dart: Cut from a larger portion into thin slivers or slices. _Shaved Parmesan._  
-__sheared__ _adj_ _Sheared mink._  
-__shearing__ _n_ _Sheep shearing._  
-__shearling__ _n_ _Luxurious shearlings._  
-__sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time in a month that a predator had managed to tear through the sheepcotes wire._  
-__sheepskin__ _n_  
-__sheer__ _adj_ :two::hammer: _The city’s sheer density of concert spaces._  
-__sheet__ _n_ _A three-sheeted bed._  
-__shoo__ _v tr_  
-__showbiz__ _n_  
-__side of bacon__ _n_ Salted and cured abdominal wall of a side of pork. _Syn_ flitch  
-__sidestep__ _v_  
-__sigmoidoscopy__ _n_  
-__single-handedly__ _adv_ :dart: Without assistance.  
-__sinister__  
-__skeeve<sup>1</sup>__ _n_ A disgusting person.  
-__skeeve<sup>2</sup>__ _v tr_ /skeev/ To disgust.  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __slink__ _v_  
