@@ -8,7 +8,9 @@ __adroit__
 __advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of.  
 __affectionally__  
 __aghast__  
+__airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
 __allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
+__ameliorate__ _v_ /uh-MEE-lee-uh-rayt/  
 __ammonia__ _n_ :es: amoníaco  
 __Anchors Aweigh__ _n_  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
@@ -26,6 +28,7 @@ __avent__ _n_
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
 __ayahuasca__ _n_  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
+__Baader–Meinhof phenomenon__ _n_ (frequency illusion, frequency bias) A cognitive bias by which a recently learned word, concept, etc. suddenly seems to appear with improbable frequency.  
 __baccalaureate__ _n_  
 __backhanded__ _adj_  
 __ballyhoo__ _v_  
@@ -92,13 +95,16 @@ __chirk<sup>2</sup>__ _v tr_ To make a shrill noise.
 __chirk<sup>3</sup>__ _adj_ Lively; cheerful.  
 __chit chat__  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
+__clairvoyant__ _adj_ Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
 __clammy__ _adj_  
 __clique__  
 __clobber__ _v tr_  
 __coddle__ _v tr_  
+__cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __comprise__ _v_ /kum-PRYZE/  
 __conversant__  
 __convey__ _v tr_  
+__dauntless__ _adj_ /DAWNT-lus/  
 __deem__ _v_  
 __deep-routed__  
 __demystify__ _v tr_  
@@ -147,6 +153,7 @@ __epicure__ _n_ A person devoted to refined sensuous enjoyment (especially good 
 __epiphany__  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
+__equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __eradicate__ _v tr_  
 __erupt__ _v_  
 __escape velocity__ _n_  
@@ -202,12 +209,15 @@ __guffaw__ _v_
 __guy__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
+__hamstring<sup>1</sup>__ _n_ [:scroll: From ham (the back of the knee) + string (tendon)]  
+__hamstring<sup>2</sup>__ _v tr_  
 __happenstance__  
 __hardy__ _adj_  
 __Harry__ _n_ :mega:  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
+__heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
 __hearty__ _adj_  
 __heat pump__ _n_  
 __hector__ _v_ _TikTok keeps hectoring us._  
@@ -224,6 +234,7 @@ __histrionic__
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __holistic__ _adj_  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
+__homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __hustle__ _v_  
@@ -288,6 +299,7 @@ __malapropism__
 __malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
 __malleable__  
 __manage__ _v_ :mega:  
+__Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
 __mashup__ _n_  
@@ -303,6 +315,7 @@ __mess around__
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
+__midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
 __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
@@ -321,6 +334,7 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__mosey__ _v intr_  
 __multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
 __mumpsimus__  
 __mushroom__ _v intr_  
@@ -338,6 +352,7 @@ __neural tube__ _n_
 __neurobics__ _n_  
 __nigh<sup>1</sup__ _adv_ _Syn_ almost, about, nearly, close to, practically, approximately _Accurate earthquake prediction is well nigh impossible._  
 __nigh<sup>2</sup__ _adj_ _Syn_ near, next, close, imminent, impending, at hand, upcoming _The end of the world is nigh._  
+__nimiety__ _n_ Superfluity; excess. _Syn_ excess, surplus, surplusage  
 __nitpick__ _v_  
 __non-negotiable__ _adj_  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
@@ -356,12 +371,14 @@ __outset__ _n_
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
+__overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
 __paganism__ _n_  
 __palliative care__ _n_  
 __parapraxis__ _n_  
 __parcel__ _v tr_  
 __pariah__  
+__parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
@@ -791,6 +808,7 @@ __V8__ _n_ _(beverage)_
 __vacationer__ _n_  
 __vacuous__  
 __vacuum__ _n_ __4__ A vacuum cleaner.  
+__vagary__ _n_ /VAY-guh-ree/ The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._  
 __vagus nerve__ _n_ :m:  
 __vainglory__ _n_ Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
@@ -846,7 +864,7 @@ __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ V
 __vineyard__ _n_  
 __vintner__ _n_  
 __virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
-__visceral__ _adj_ _Visceral reaction._  
+__visceral__ _adj_ :two::hammer: /VIS-uhr-uhl/ _Visceral reaction._  
 __viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
 __visitor__  
 __viticulture__ _n_  
@@ -873,6 +891,7 @@ __walleye__ _n_ _Walleye fishing._
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __warrant__ _v_  
 __whistleblower__  
+__word-hoard__ _n_  
 __wordle__ _n_ (game)  
 __yakisoba__ _n_  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
