@@ -226,27 +226,6 @@ __tongue-in-cheek__
 __tooth and nail__  
 __up-and-coming__  
 __wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
-__whanger__ :two: _slang_ The penis.  
-__when it comes to (someone or something)__  
-__whet (one’s) appetite__  
-__whitewash__  
-__whodunit__ :dart: A detective story or mystery story.  
-__whole nother thing__  
-__whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
-__why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
-__wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
-__wigged out__  
-__wild__  
-__wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
-__willy-nilly__  
-__win (one) over__  
-__win-win__ _A win-win scenario._  
-__with a record__  
-__with a twist__  
-__you can’t teach an old dog new tricks__  
-__you don’t say__  
-__you name it__ :two::hammer:  
-__you scratch my back, I’ll scratch yours__  
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  

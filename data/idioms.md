@@ -3918,6 +3918,7 @@ __Were you born in a tent?__ Have you no basic manners? (Usually said after some
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
 __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems continue to arise faster than one is able to solve or cope with them, resulting in piecemeal, incomplete, or temporary results. _Every time we think we have the software debugged, more problems show up. We’ve just been playing whack-a-mole from day one!_  
 __whale on (someone or something)__  
+__whanger__ :two: _slang_ The penis.  
 __what a drag__  
 __what are the odds__  
 __what do I know__  
@@ -3934,12 +3935,14 @@ __what’s the deal?__
 __what’s up with__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when in Rome (do as the Romans do)__ _proverb_ One should do what is customary or typical in a particular place or setting, especially when one is a tourist. _I don’t love cotton candy, but we are at a carnival. When in Rome, right?_  
+__when it comes to (someone or something)__  
 __when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
 __when pigs fly__ :three: Never, impossible.  
 __when the chips are down__ :three: When a situation has become especially difficult, desperate, or hard to recover from. The expression alludes to having a low amount of poker chips, which means that one may soon lose. _You can tell a lot about a person’s character from how they act when the chips are down._  
 __when the stakes are low__ When the stakes are low, it means that there is little to lose in a given situation. This can refer to a situation in which the potential rewards or losses are minimal, or a situation in which the potential consequences of an action are not serious. It can also refer to a situation in which the outcome of a decision is not particularly important or significant.  
 __where the sun doesn’t shine__  
 __wherever you go, there you are__ _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
+__whet (one’s) appetite__  
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
@@ -3954,13 +3957,24 @@ __white lie__ :two: Lie to protect another person’s feelings.
 __white on rice__ As close as can be. Often used in the phrase “like white on rice.”  
 __white-collar worker__  
 __white-knuckle__  
-__whitewash__  
+__whitewash__ :two::hammer:  
 __whittle down__  
 __whiz up__ _Go-karts can whiz up to 45 miles per hour._  
 __who cares__ (who cares?; what do I, you, etc. care?) A phrase used to dismiss something as insignificant. _Oh, who cares, it’s not a big deal anyway._  
+__whodunit__ :dart: A detective story or mystery story.  
+__whole nother thing__  
+__whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
+__why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
+__wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
+__wigged out__  
 __wild goose chase__ :two: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
+__wild__  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
+__wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
+__willy-nilly__  
+__win (one) over__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
+__win-win__ _A win-win scenario._  
 __wind down__ :three::hammer:  
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
 __window of opportunity__  
@@ -3980,7 +3994,8 @@ __with (one’s) pants down__ _slang_ In an embarrassing position.
 __with a bang__ :two::hammer: _Chamber music with a bang!_  
 __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manner.  
 __with a passion__ _informal_ :two: Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
-__with a twist__ :three::hammer:  
+__with a record__  
+__with a twist__ :four::hammer:  
 __with a vengeance__ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._  
 __with a view__ _Chateau with a view._  
 __with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
@@ -4029,11 +4044,12 @@ __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express i
 __you are what you eat__ To be healthy, you need to eat good food.  
 __you bet__ _Do you want more coffee? You bet._  
 __you can say that again__ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
+__you can’t teach an old dog new tricks__  
 __you could hear the grass grow(ing)__ :dart: It is so still or quiet that one would be able to hear even the tiniest, imperceptible sounds. _I reckon you could hear the grass growing in the awkward silence that followed that dreadful performance._  
-__you don’t say__  
+__you don’t say__ :two::hammer:  
 __you look a little peaked__ You look ill, especially as if you might vomit. _You look a little peaked since you got off that roller coaster. Do you want some ginger ale to settle your stomach?_  
-__you name it__ :dart::six: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
-__you scratch my back, I’ll scratch yours__ If you help me, I will help you.  
+__you name it__ :dart::eight: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
+__you scratch my back, I’ll scratch yours__ :two: If you help me, I will help you.  
 __you’re a lifesaver__ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __you’ve got a point there__ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  
 __your eyes are bigger than your stomach__ You want more food than you can eat.  
