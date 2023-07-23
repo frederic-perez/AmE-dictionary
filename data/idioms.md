@@ -2891,7 +2891,7 @@ __pick your poison__
 __pick-me-up__ Something used to improve a person’s mood or level of energy. _After a long week, I needed a pick-me-up, so I stopped by the salon to get a pedicure._ _I was so drowsy on the way to work, so I stopped by the coffee shop for a little pick-me-up._  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __picture perfect__  
-__pie in the sky__ :three::hammer:  
+__pie in the sky__ :four::hammer:  
 __piece by piece__ Incrementally; slowly; one piece at a time. In stages, gradually. _Let’s go over your exam paper, piece by piece._ _It took years, but piece by piece we turned this ramshackle old house into a real home._  
 __piece of cake__  
 __piece of shit__  
@@ -2900,6 +2900,7 @@ __pig in a poke__ _n_ Something purchased, accepted, or acquired without a preli
 __pill__ __1__ _slang_ An unsavory, unpleasant, or difficult person. _Tom is such a pill, but I have to work with him to get this project finished, unfortunately._  
 __pin (something) down__ _Pinned it down to two locations._  
 __pink elephants__ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
+__pinko__ __1__ _n_ A communist. (Popular during the 1950s.) _Get out of here, you pinko!_ __2__ _mod_ Having communist tendencies; in the manner of a communist. _Get that pinko jerk out of here!_  
 __pipe down__ _informal_ To become quiet and calm; to stop being loud or boisterous. Often said as a command. _OK, class, pipe down! Let’s begin our lesson, shall we?_ _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
 __piping hot__ :two: Very hot. Usually said of food that has just been taken out of the oven and has steam “piping” out of it. _Cook the casserole in the oven for 40 minutes or until it is golden brown and piping hot._ _The coffee was still piping hot._  
 __piss off__  
@@ -2907,11 +2908,12 @@ __pit stop__
 __pitch a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to pitch a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started pitching a fit in the grocery store._  
 __pitch in__ :dart:  
 __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
-__pizzazz__ Dazzling, flamboyant style, energy, or vitality. Punch; glitter and excitement. _Your performance was a little bit dull, truthfully. It was technically sound, but it needed more pizzazz.__Listen to the way she put pizzazz into that song!_  
+__pizzazz__ :two: Dazzling, flamboyant style, energy, or vitality. Punch; glitter and excitement. Energy; power. _Your performance was a little bit dull, truthfully. It was technically sound, but it needed more pizzazz.__Listen to the way she put pizzazz into that song!_  
 __place an order__  
 __place your bets__  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plastic grin__ A forced, artificial smile; a smile someone wears despite having no feelings of happiness or joy. _Look at his big plastic grin—he’s such a con man! I sure hope he doesn’t win the election._  
+__play (one’s) cards__  
 __play ball__ :three::hammer:  
 __play by the rules__ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
@@ -2944,6 +2946,7 @@ __poster child__
 __Potemkin village__ :two: Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
 __pounce (up)on someone or something__ :two::hammer:  
 __pour gas/gasoline on the fire__  
+__power nap__  
 __power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence. _It’s just a power play—he’s moving the shifts around purely to show that he’s the one who can._  
 __power washing__  
 __practice makes perfect__ :three: _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
@@ -2964,11 +2967,13 @@ __pull someone’s leg__ :three: To make a playful attempt to fool or deceive so
 __pull something off__ :two::dart: __1__ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __pull tabs__ (casino)  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
+__pull the plug (on someone or something)__  
 __pull your socks up__ To improve your work or behaviour.  
 __pump in__  
 __punch out__ To record that one has left one’s workplace at a certain time. _Why didn’t you punch out when you left last night?_  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __punch up__  
+__punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
 __puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __puppy love__  
 __push (one’s) buttons__  
@@ -2980,7 +2985,7 @@ __pushing up (the) daisies__ Dead and buried. (Usually in the future tense.) _I�
 __pushing up the daisies__ Dead and buried.  
 __put (one’s) back up__ [:scroll: This idiom refers to the way cats arch their backs when they are angry.] To be or become angry, hostile, defensive, defiant, or irritable, or to instill such a feeling in someone else. _John put his back up when his parents brought up the subject of college._ _Election season always puts my dad’s back up._  
 __put (one’s) finger on (something)__ :three::hammer:  
-__put (one’s) foot in (one’s) mouth__ :two: To unintentionally say something foolish, tactless, or offensive.  
+__put (one’s) foot in (one’s) mouth__ :three: To unintentionally say something foolish, tactless, or offensive.  
 __put (one’s) hands together (for someone or something)__ To applaud (someone or something); to clap (for someone or something). _Ladies and gentlemen, please put your hands together for our next comedian this evening!_  
 __put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
 __put (one’s) money where (one’s) mouth is__ :three::hammer:  
@@ -3065,6 +3070,7 @@ __resonate with (one)__
 __rest assured__ :four::hammer: _Rest assured you’ll sleep like an angel._  
 __rest my case__ :two::hammer: _I rest my case._  
 __rest on one’s laurels__ :two::hammer:  
+__retail for (something)__  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __revel in__  
@@ -3092,12 +3098,13 @@ __ripen up__ To grow ripe; to become mature enough to harvest or pick. _Make sur
 __ripple effect__  
 __rise from the ashes__ To recover after a serious failure.  
 __rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
+__rock (one’s) world__  
 __rock bottom__ :two::hammer:  
 __rock solid__  
 __rock the boat__ :nine: To do or say something that might endanger a stable situation or upset the status quo. _None of my family members are fighting with each other right now, so please don’t rock the boat by bringing up politics or any other controversial topics._  
 __rocket science__ :three: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
-__rocky start__ :two::hammer:  
+__rocky start__ :three::hammer:  
 __roll (one’s) eyes__ :four: To turn one’s eyes upward or around in a circle, usually as an expression of exasperation, annoyance, impatience, or disdain. _I just rolled my eyes as my dad told another one of his corny jokes._  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
@@ -3128,6 +3135,7 @@ __rumor mill__ :four: The source from, or process by, which rumors are generated
 __run (one’s) mouth (off)__  
 __run a fever__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
+__run afoul of (someone or something)__  
 __run amok__ :two::hammer:  
 __run an errand__ :three::hammer:  
 __run errands__ :two::hammer:  
@@ -3156,6 +3164,7 @@ __same old same old__ The same thing that is always done or that always happens.
 __same same__  
 __sanctum sanctorum__ :two::hammer:  
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
+__sassy__  
 __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
 __save face__ :six: To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __save the day__ :dart::six: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
@@ -3766,10 +3775,15 @@ __to some extent__ :two::hammer:
 __to that end__ :four::hammer: (to that end,)  
 __to the core__ _Charming to the core._  
 __to the fullest__  
-__to this day__ :seven::hammer: _I don’t know if they still do it to this day._  
+__to the hilt__  
+__to this day__ :eight: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
+__toe-to-toe__  
+__together__  
 __Tom Swifty__  
+__tongue-in-cheek__  
+__tooth and nail__  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
@@ -3853,7 +3867,7 @@ __up to (one’s) neck in alligators__ :two: _business adage_ So overcome or pre
 __up to no good__  
 __up to your eyeballs in something__ To have too much of something.  
 __up yours__ _vulgar_ _slang_ :two: An expression of anger at someone.  
-__up-and-coming__ _Up-and-coming writers and artists._  
+__up-and-coming__ :two::hammer: _Up-and-coming writers and artists._  
 __uphill battle__ :dart::three: Something very difficult to do.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
 __utterly__  
@@ -3897,6 +3911,7 @@ __water torture__
 __water under the bridge__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
 __watershed moment__ A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
+__wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
 __weak in the knees__ Unsteady or flustered due to a strong emotional reaction to someone or something. _Hearing the news of my father’s sudden death, I went weak in the knees and could barely remain standing._  
@@ -4050,7 +4065,13 @@ __you don’t say__ :two::hammer:
 __you look a little peaked__ You look ill, especially as if you might vomit. _You look a little peaked since you got off that roller coaster. Do you want some ginger ale to settle your stomach?_  
 __you name it__ :dart::eight: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
 __you scratch my back, I’ll scratch yours__ :two: If you help me, I will help you.  
+__you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’re a lifesaver__ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __you’ve got a point there__ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  
+__you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
+__young at heart__  
 __your eyes are bigger than your stomach__ You want more food than you can eat.  
+__zinger__  
 __zip your lip__ Be quiet.  
+__zone out__ :two::hammer:  
+__zoom out__  

@@ -205,30 +205,3 @@ __ouch__ :dart:
 __out of character__  
 __outsmart (oneself)__  
 __pave the way (for someone or something)__  
-__pie in the sky__  
-__pinko__ __1__ _n_ A communist. (Popular during the 1950s.) _Get out of here, you pinko!_ __2__ _mod_ Having communist tendencies; in the manner of a communist. _Get that pinko jerk out of here!_  
-__pizzazz__ Energy; power.  
-__play (one’s) cards__  
-__power nap__  
-__pull the plug (on someone or something)__  
-__punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
-__put (one’s) foot in (one’s) mouth__ To unintentionally say something foolish, tactless, or offensive.  
-__retail for (something)__  
-__rock (one’s) world__  
-__rocky start__  
-__run afoul of (someone or something)__  
-__sassy__  
-__to the hilt__  
-__to this day__  
-__toe-to-toe__  
-__together__  
-__tongue-in-cheek__  
-__tooth and nail__  
-__up-and-coming__  
-__wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
-__you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
-__you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
-__young at heart__  
-__zinger__  
-__zone out__ :two::hammer:  
-__zoom out__  
