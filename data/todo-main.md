@@ -488,33 +488,6 @@ __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
-__smorgasbord__ _n_ :two::hammer:  
-__smudge__ _v_  
-__smush__ _v tr_ /smʌʃ/ To smash or crush.  
-__snack__ _v_ :two::hammer:  
-__snafu__  
-__snap__ _v_ _Snap at people._  
-__snappy__ _adj_ :two::hammer:  
-__snare drum__ _n_  
-__snarky__ _adj_ :two::hammer: _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
-__snollygoster__ _n_ One, especially a politician, who is guided by personal advantage rather than by consistent, respectable principles.  
-__snooker__ _v tr_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
-__snooze__ _v intr_  
-__snowcat__ _n_ :two::hammer:  
-__snowcoach__ _n_ :two::hammer:  
-__snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
-__snowglobe__ _n_  
-__snowkit__ _v_  
-__snowmobile__ _n_  
-__sonic boom__ _n_ The explosive sound of the shock wave produced by an aircraft traveling at or above the speed of sound.  
-__sought-after__  
-__soul food__ _n_  
-__soul-searching__ _n_ :two::hammer::pencil2: Examination of one’s conscience especially with regard to motives and values.  
-__soundness__ _n_  
-__soupcon__ _n_ A very small amount; a trace. _Syn_ mite, tinge, jot, hint, pinch, speck, touch _This dish could use a soupcon of salt._  
-__souse<sup>1</sup>__ _v tr_ /sous/ [:scroll: From Old French souser (to pickle)] __1__ To soak or steep. __2__ To pickle, cook in a marinade, etc. __3__ To make intoxicated.  
-__souse<sup>2</sup>__ _n_ __1__ Something or someone soaked. __2__ The liquid used in soaking. __3__ Food steeped in pickle; also such liquid. __4__ A drunkard. __5__ A period of heavy drinking.  
-__southerly__ _adj_  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  

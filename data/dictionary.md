@@ -15827,19 +15827,21 @@ __smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib
 __smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
-__smorgasbord__ _n_ :three::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
+__smorgasbord__ _n_ :five::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
 __smote__ _v_ :two::hammer: _Smote a horse with a whip._  
 __smother__ _v_ :four::hammer: (smothered, smothering) _Do not smother your true feelings._ _Smothering us._  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smouldering__ _adj_ :two::hammer:  
-__smudge__  
-__smudges__  
+__smudge<sup>1</sup>__ _v_ :two::hammer:  
+__smudge<sup>2</sup>__ _n_  
 __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
 __smuggling__ _v_  
 __smugly__ _adv_ :seven: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
+__smush__ _v tr_ /smʌʃ/ To smash or crush.  
 __smut__ _n_ _They want to report smut._  
-__snafu<sup>1</sup>__ _n_ :two: /snæˈfuː/ (Military) [:scroll: s(ituation) n(ormal) a(ll) f(ucked) u(p)] Confusion or chaos regarded as the normal state.  
+__snack__ _v_ :two::hammer:  
+__snafu<sup>1</sup>__ _n_ :three: /snæˈfuː/ (Military) [:scroll: s(ituation) n(ormal) a(ll) f(ucked) u(p)] Confusion or chaos regarded as the normal state.  
 __snafu<sup>2</sup>__ _adj_ (postpositive) Confused or muddled up, as usual.  
 __snafu<sup>3</sup>__ _v tr_ (US and Canadian) To throw into chaos.  
 __snag<sup>1</sup>__ _n_ :six::hammer: (snags) :es: problema _A very telling snag._  
@@ -15847,18 +15849,18 @@ __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on
 __snake charmer__ _n_ :astonished:  
 __snakebite__ _n_  
 __snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
-__snap<sup>2</sup>__ _v_ :two::hammer:  
+__snap<sup>2</sup>__ _v_ :three::hammer: _Snap at people._  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
 __snapper__ _n_ _A red snapper._  
 __snappier__ _adj_ :two::hammer: _Everything will be snappier._  
 __snapping__  
-__snappy__  
-__snare drum__ _n_ :two::hammer: (snare drums) :es: tambor militar pequeño  
+__snappy__ _adj_ :three::hammer:  
+__snare drum__ _n_ :three::hammer: (snare drums) :es: tambor militar pequeño  
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of “snide” and “remark.” Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarky__ _adj informal_ :dart::four: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
+__snarky__ _adj informal_ :dart::six: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
@@ -15885,13 +15887,15 @@ __snit__ _n_ _informal_ A state of agitation or irritation. _President Trump res
 __snitch__  
 __snivel__ _v_  
 __snob__ _n_  
-__snollygoster__ _n_ :two: _slang US_ A politician who cares more for personal gain than serving the people.  
+__snollygoster__ _n_ :three: _slang US_ A politician who cares more for personal gain than serving the people. One, especially a politician, who is guided by personal advantage rather than by consistent, respectable principles.  
 __snoodlike__  
+__snooker__ _v tr_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
 __snoop__ _v_ :three: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._ _Big Brother snooping on innocent Americans._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :eight: __1__ Snobbishly aloof; haughty. _A snooty restaurant._ __2__ High-class; exclusive.  
-__snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
+__snooze<sup>1</sup>__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
+__snooze<sup>2</sup>__ _v intr_  
 __snoring__ _n_ The act of snoring or producing a snoring sound.  
 __snorkel__ _v intr_  
 __snort<sup>1</sup>__ _n_ :four: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
@@ -15906,9 +15910,14 @@ __snowball<sup>1</sup>__ _n_
 __snowball<sup>2</sup>__ _v_  
 __snowbank__ _n_ A pile or heap of snow. _He was driving and crashed into a snowbank._  
 __snowbird__ _n_  
-__snowcat__ _n_ :two::hammer: _Snowcat ride._  
+__snowcat__ _n_ :four::hammer: _Snowcat ride._  
+__snowcoach__ _n_ :two::hammer:  
 __snowdrifts__  
+__snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
 __snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
+__snowglobe__ _n_  
+__snowkit__ _v_  
+__snowmobile__ _n_  
 __snowmobiler__  
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
 __snowpack<sup>2</sup>__ _n_ :three: A seasonal accumulation of slow-melting packed snow.  
@@ -16005,6 +16014,7 @@ __somnambulant__ _adj_
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __somnolent__ _adj_ :two: Drowsy; sleepy. _Syn_ slumbery, slumberous _The monotonous sound of his voice had a somnolent effect, and I found myself nodding off during the speech._  
 __son of a biscuit__  
+__sonic boom__ _n_ The explosive sound of the shock wave produced by an aircraft traveling at or above the speed of sound.  
 __sonnet__ _n_  
 __sonny__  
 __sonogram__  
@@ -16039,14 +16049,18 @@ __sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of 
 __sot__ _n_ :two::hammer: _A surly sot._  
 __sotto voce__  
 __soubriquet__ _n_  
-__sought-after__ _adj_ :three: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
+__sought-after__ _adj_ :four: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
+__soul food__ _n_  
 __soul__ _n_ :mega:  
+__soul-searching__ _n_ :two::hammer::pencil2: Examination of one’s conscience especially with regard to motives and values.  
 __sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
 __sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
 __sounding system__  
 __soundly__ _adv_ _Sleep soundly._  
+__soundness__ _n_  
 __soup kitchen__ _n_  
+__soupcon__ _n_ A very small amount; a trace. _Syn_ mite, tinge, jot, hint, pinch, speck, touch _This dish could use a soupcon of salt._  
 __souped-up__ _v_  
 __souping up__ _v_  
 __sour grapes__ _n_ :three::dart: Pretending to dislike something you cannot have.  
@@ -16055,8 +16069,11 @@ __source__ _v_
 __sourdough__ _n_  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
+__souse<sup>1</sup>__ _v tr_ /sous/ [:scroll: From Old French souser (to pickle)] __1__ To soak or steep. __2__ To pickle, cook in a marinade, etc. __3__ To make intoxicated.  
+__souse<sup>2</sup>__ _n_ __1__ Something or someone soaked. __2__ The liquid used in soaking. __3__ Food steeped in pickle; also such liquid. __4__ A drunkard. __5__ A period of heavy drinking.  
 __soused__ _v_  
 __South of the Border__  
+__southerly__ _adj_  
 __southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
 __sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:  
 __sovereignty__ _n_ :pencil2:  
