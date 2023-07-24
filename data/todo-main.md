@@ -498,26 +498,6 @@ __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not excl
 __spate__ _n_  
 __spaz__  
 __speak up__  
-__speakeasy__ _n_ :two::hammer:  
-__spearhead__ _v tr_ To be the leader of (a movement, for example).  
-__specie__ _n_ /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
-__speckled__ _adj_ _Speckled hen._  
-__speculative__  
-__spedometer__ _n_ :mega:  
-__speechify__ _v intr_ /ˈspiːtʃɪˌfaɪ/ To make a speech, especially in a tedious or pompous manner.  
-__speedway__ _n_  
-__spellbind__ _v_  
-__spelt__ _n_ :es: espelta _Spelt-crusted pizza._  
-__spelunking__ _n_  
-__spent volcano__  
-__sphinx__ _n_  
-__spiffed__ _v_  
-__spoonerism__ _n_  
-__squeamish__  
-__stakeholder__ _n_  
-__starboard__ _n_ [To keep _port_ and _starboard_ straight, remember that sailors use _stars_ to point them in the _right_ direction after they have _left port_]  
-__startle__ _v_  
-__stately__ _adj_ _A stately afternoon tea._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __statesman__ _n_ :two::hammer:  
 __stationer__ _n_  

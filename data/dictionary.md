@@ -16111,15 +16111,15 @@ __spay__ _v_ :three::hammer: (spayed)
 __spd__  
 __speak out__ _phr v_ :two::hammer: (spoke out)  
 __speak up__ _v_ :three::hammer:  
-__speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
+__speakeasy__ _n_ :five::hammer: :es: taberna clandestina  
 __spear chucker__  
 __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _distaff side_).  
 __speargun__  
-__spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead__ _v tr_ :nine: (spearheaded, spearheading) Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specialty__ _n_ :four::hammer: _Specialty doctor._  
-__specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
+__specie__ _n_ :two::astonished: /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _The king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._ __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
 __species__ _n_ _It is a protected species._  
 __specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
 __specifically__  
@@ -16128,7 +16128,8 @@ __specifics__ _n_ _The new project lacks many specifics at this point, including
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
 __specious__ _adj_ :four: /SPEE-shuss/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._ _Specious argument._  
 __speck__ _n_ :two::hammer: _A speck of blood._  
-__speckled__ _v_  
+__speckled__ _adj_ _Speckled hen._  
+__speckle__ _v_  
 __specs__ _n_ :two: Spectacles, glasses.  
 __spectacle__ _n_ :two::mega::hammer:  
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
@@ -16136,22 +16137,31 @@ __spectacular__
 __spectate__ _v intr_ To be present as a spectator (as at a sports event). _He resumed his spectating._  
 __spectra__ _n pl_  
 __speculate__ _v_ :two: /SPEK-yuh-layt/ __1__ In general contexts, _speculate_ means “to form ideas or theories about something usually when there are many things not known about it.” _Scientists speculate that the newly discovered exoplanet could contain liquid water._ __2__ In contexts relating to business or finance, it means “to invest money in ways that could produce a large profit but that also involve a lot of risk.” _Their research explores the implications of so many people speculating on the stock market in the years leading up to the Great Depression._  
-__speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
+__speculative__ _adj_ :two: Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
 __Sped case__  
+__spedometer__ _n_ :mega:  
+__speechify__ _v intr_ /ˈspiːtʃɪˌfaɪ/ To make a speech, especially in a tedious or pompous manner.  
 __speechless__ _adj_  
 __speed bag__ _n_  
 __speed demon__  
 __speed-dial__ _v_  
+__speedway__ _n_  
 __spell<sup>1</sup>__ _v_  
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
+__spellbind__ _v_  
 __spellbound__ _adj_  
+__spelt__ _n_ :es: espelta _Spelt-crusted pizza._  
+__spelunking__ _n_  
 __spendolie__  
 __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
+__spent volcano__  
 __spew<sup>1</sup>__ _v tr_ :eight: (spewed) __1__ To send out or force out in large amounts: _a volcano that spewed molten lava; spewed invective at his opponent._ _Carbon-spewing coal power plants._ __2__ To vomit or otherwise cast out (matter) through the mouth.  
 __spew<sup>2</sup>__ _v intr_ __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
+__sphinx__ _n_  
 __spic__ _n_ _offensive_ Used as an insulting and contemptuous term for a Spanish-American person. _Behind our backs they called us the Spic and the Mik._  
 __Spider-Man__  
 __spiel__ _n_ :three: /SPEEL/ A spiel is a fast speech—often one that has been rehearsed or given before—that is usually intended to get someone to buy something or to agree to something. _Syn_ patter, speech, pitch, recital, harangue, sales talk, sales patter _We let the salesman give us his opening spiel, but when he got to the high-pressure sales tactics, we cut him short and made it clear that we were not interested._  
+__spiff__ _v_  
 __spiffy<sup>1</sup>__ _adj_ :six::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __spiffy<sup>2</sup>__ _v_ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You’ve seen a big water tank with a spigot hanging out over the train tracks._  
@@ -16229,7 +16239,7 @@ __spoofing__ _n_ :dart: The act or an instance of impersonating another person o
 __spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
 __spool tables__  
 __spool__ _n_  
-__spoonerism__ _n_  
+__spoonerism__ _n_ :two::hammer:  
 __spoonful__ _n_ :es: cucharada  
 __sporadic__ _adj_ :two::hammer: /spuh-RAD-ik/  
 __sporadically__  
@@ -16319,7 +16329,7 @@ __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_
 __squeaky__ _adj_ :three::hammer: _Squeaky cheese curds._  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
-__squeamish__ _adj_ :eight: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
+__squeamish__ _adj_ :nine: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :five::hammer: (squelched)  
@@ -16367,7 +16377,7 @@ __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs
 __stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
 __stake truck__ _n_ :camera:  
 __stake__ _n_  
-__stakeholder__ _n_ :five::hammer:  
+__stakeholder__ _n_ :six::hammer:  
 __stakeout__ _n_ :four::hammer: (stakeouts)  
 __stakes__ _n_  
 __stale antiperspirant__  
@@ -16420,7 +16430,7 @@ __star__ _v_
 __star-crossed__ _adj_ Thwarted or opposed by the stars; ill-fated: _star-crossed lovers._  
 __star-spangled__ _adj_ :dart: __1__ Spangled with stars. __2__ _informal_ Made up of or attended by celebrities, distinguished or illustrious persons, etc. _Like a rhinestone cowboy, rding out on a horse in a star-spangled rodeo._ _A star-spangled reception._  
 __star-studded__ _adj_ __2__ Exhibiting or characterized by the presence of many preeminent performers: _a star-studded Hollywood party._  
-__starboard__ _n_  
+__starboard__ _n_ :two: [To keep _port_ and _starboard_ straight, remember that sailors use _stars_ to point them in the _right_ direction after they have _left port_]  
 __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
 __starchitect__  
@@ -16435,6 +16445,7 @@ __stargazing__
 __stark__ _adj_ :seven: __1__ Clearly distinguished or delineated: _a stark contrast._ _A stark reminder._  
 __starlings__ _n_  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
+__startle__ _v_  
 __startling__ _adj_ :five: Causing surprise or fear; striking; astonishing.  
 __stash__ _v_  
 __Stasi__  
@@ -16444,7 +16455,7 @@ __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
 __statecraft__ _n_ The art of conducting public affairs. _Syn_ statesmanship, diplomacy _Only through superior statecraft was he able to avoid a war while simultaneously achieving favorable trade conditions._  
 __stately home__ _n_ _BrE_ A large mansion, esp one open to the public.  
-__stately__ _adj_ :four: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
+__stately__ _adj_ :five: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._ _A stately afternoon tea._  
 __statement__  
 __Staten Islander__ _n_  
 __stateroom scene__ _n_ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
