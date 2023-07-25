@@ -1,23 +1,3 @@
-__absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world. _It’s no use trying to talk to Helen when she’s absorbed in thought like that; it’s as if we don’t even exist!_  
-__abstract idea__ An idea or thought that is intangible or outside the constraints or possibilities of the real world. _Some regard love as but an abstract idea, as it is impossible to define what makes love real._  
-__abysmal failure__ Failure that is total and extreme in measure or implication. _The business was an abysmal failure, and everyone was out of a job within a month._  
-__accident of birth__ Any and all particulars surrounding one’s birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one’s control. _My poverty when I was young was merely an accident of birth—through hard work and determination, I was able to overcome it and lead a successful life._  
-__act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._  
-__actuary__ _n_ A statistician who computes insurance risks and premiums.  
-__add up__  
-__admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit. _Well, I ran a good campaign, but it is time I admitted defeat in this election._  
-__advance notice__ A notification, signal, or sign that something is going to happen or is expected to happen. _I know that we were all surprised that Dad decided to move to China, but I think his learning Mandarin last year was something of an advance notice._  
-__advanced in years__ Of an older age. _Though my grandpa loves to read, he is rather advanced in years and has a hard time making out small print anymore._  
-__affable personality__ A personality that is friendly, approachable, sociable, amicable, or likeable. _He might not be the best instructor in the school, but he has such an affable personality that he is everyone’s favorite._  
-__after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
-__age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
-__agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
-__ahead of the curve__  
-__all (one’s) eggs in one basket__  
-__all aboard__  
-__all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
-__All Hands Meeting__  
-__all in__  
 __all of a sudden__  
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  

@@ -180,9 +180,10 @@ __above board__ :two::hammer:
 __above the salt__ :two: Of or in a position of high standing, rank, regard, or repute. The term is derived from the social hierarchy of nobility in medieval times, in which salt, a precious commodity then, was set in the middle of the dining table. Those of high noble rank were seated “above the salt,” that is, closer to the lord and lady of the house, while those in lower social standing were seated “below” it. _Even though my boss is above the salt, he still makes a point of mingling with everyone in the company._  
 __absence makes the heart grow fonder__ _proverb_ A separation causes one to feel even more positive about the absent person or thing. _Ever since Carla’s boyfriend moved away, she can’t stop thinking about him. Absence makes the heart grow fonder._  
 __absolve from guilt__ To consider innocent, clear of all suspicion, or pardon from any cause of guilt. _The knights of the crusades committed many atrocities in their campaign, but they were absolved from guilt by the heads of the church._  
-__absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
-__abysmal failure__ Failure that is total and extreme in measure or implication.  
-__accident of birth__ Any and all particulars surrounding one’s birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one’s control.  
+__absorbed in thought__ :two: Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world. _It’s no use trying to talk to Helen when she’s absorbed in thought like that; it’s as if we don’t even exist!_  
+__abstract idea__ An idea or thought that is intangible or outside the constraints or possibilities of the real world. _Some regard love as but an abstract idea, as it is impossible to define what makes love real._  
+__abysmal failure__ :two: Failure that is total and extreme in measure or implication. _The business was an abysmal failure, and everyone was out of a job within a month._  
+__accident of birth__ :two: Any and all particulars surrounding one’s birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one’s control. _My poverty when I was young was merely an accident of birth—through hard work and determination, I was able to overcome it and lead a successful life._  
 __according to Hoyle__ In accord with the prescribed rules or regulations.  
 __according to legend__  
 __according to plan__ :three: In the way something is supposed to be. _Syn_ as expected _Not everything at the show went according to plan._ _If everything goes according to plan._  
@@ -191,21 +192,27 @@ __ace in the hole__ :two::hammer:
 __Achilles’ heel__  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
 __across the board__ :two::hammer:  
-__act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
+__act of Congress__ :two: That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._ _Trying to get my doctor on the phone is like an act of Congress!_  
+__actuary__ _n_ A statistician who computes insurance risks and premiums.  
 __Adam’s ale__ _slang_ Water.  
 __add fuel to the fire__ To do or say something to make an argument, problem, or bad situation worse; to further incense an already angry person or group of people. _Anything the mayor says will just add fuel to the fire, so do not let him speak to reporters about this sensitive issue._  
 __add insult to injury__ :two: To hurt the feelings of a person who is already upset.  
 __add up to (something)__ :two: To equal or amount to something.  
-__add up__ _It doesn’t add up._  
-__admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit.  
+__add up__ :two::hammer: _It doesn’t add up._  
+__admit defeat__ :two: To yield to the opposition or accept that one is wrong in some pursuit. _Well, I ran a good campaign, but it is time I admitted defeat in this election._  
 __adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
-__advanced in years__ Of an older age.  
+__advance notice__ A notification, signal, or sign that something is going to happen or is expected to happen. _I know that we were all surprised that Dad decided to move to China, but I think his learning Mandarin last year was something of an advance notice._  
+__advanced in years__ :two: Of an older age. _Though my grandpa loves to read, he is rather advanced in years and has a hard time making out small print anymore._  
+__affable personality__ A personality that is friendly, approachable, sociable, amicable, or likeable. _He might not be the best instructor in the school, but he has such an affable personality that he is everyone’s favorite._  
 __affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
 __affirmative action__  
+__after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
+__age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
+__agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
-__ahead of the curve__ :five::hammer:  
+__ahead of the curve__ :six::hammer:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
@@ -214,13 +221,16 @@ __akin to (something)__
 __al fresco__  
 __alarm bell__ A sudden warning or intimation of danger, risk, or ill fortune. (Often pluralized.) _Alarm bells were going off in my head when I saw the panicked expression on her face._  
 __alive and kicking__  
-__all aboard__  
+__all (one’s) eggs in one basket__  
+__all aboard__ :two::hammer:  
 __all around__  
-__all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
+__all bark and no bite__ :two: Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
 __all downhill from here__  
 __all ears__ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
+__All Hands Meeting__  
 __all hands__ __1__ A call for all members of a ship’s crew to come to the deck, usually in a time of crisis. (A “hand” is a member of a ship’s crew.) _We’re under attack! All hands on deck!_  
 __all hell broke loose__  
+__all in__  
 __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ In a nervous, confused, or agitated state.  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
