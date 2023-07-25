@@ -16128,8 +16128,8 @@ __specifics__ _n_ _The new project lacks many specifics at this point, including
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
 __specious__ _adj_ :four: /SPEE-shuss/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._ _Specious argument._  
 __speck__ _n_ :two::hammer: _A speck of blood._  
-__speckled__ _adj_ _Speckled hen._  
 __speckle__ _v_  
+__speckled__ _adj_ _Speckled hen._  
 __specs__ _n_ :two: Spectacles, glasses.  
 __spectacle__ _n_ :two::mega::hammer:  
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
@@ -16460,16 +16460,18 @@ __statement__
 __Staten Islander__ _n_  
 __stateroom scene__ _n_ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ :five: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner “stateroom scene.”_ _The spacious forward stateroom of the boat._  
-__statesman__ _n_ :two::hammer: _The elder statesman of the group._  
+__statesman__ _n_ :four::hammer: _The elder statesman of the group._  
 __statesmen__ _n_ (notice, not ‘statement’)  
 __statin__ _n_ :two::hammer:  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
 __station__ _n_ :two::hammer: _It was difficult to maintain station._ _We can maintain station._  
 __stationary bicycle__ _n_ A “going-nowhere” bicycle.  
 __stationary bike__  
-__stationery__  
-__statuary__ _n_  
-__stature__ _n_ __2__ An achieved level; status.  
+__stationer__ _n_  
+__stationery__ _n_ :two::hammer:  
+__statuary<sup>1</sup>__ _n_ :three::hammer: :es: estatuas  
+__statuary<sup>2</sup>__ _adj_  
+__stature__ _n_ :two: __2__ An achieved level; status. _A golf facility of world class stature._  
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
@@ -16478,29 +16480,35 @@ __staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true.
 __staunch<sup>2</sup>__ _v_ :two::hammer: _He applied pressure to staunch the flow of blood._  
 __staunchest__ _adj_ :two::hammer:  
 __stave off__ _phr v_ :nine: (staved off) To keep or hold off; repel: _“For 12 years, we’ve sought to stave off this ultimate threat of disaster”._  
-__stave__ _v_  
-__staves__ _n_ :two::hammer: _Iron-pointed staves._  
+__stave<sup>1</sup>__ _n_ :three::hammer: _Iron-pointed staves._  
+__stave<sup>2</sup>__ _v_  
 __stay__ _n_ __20__ _(Law)_ The suspension of a judicial proceeding, etc. _Granted a stay of execution._  
 __stay-at-home__ _adj_ _Stay-at-home dad._  
-__staycation__ _n_ _This is the perfect week to take a staycation and do nothing._  
+__staycation<sup>1</sup>__ _n_ :two: /STAY-kay-shuhn/ A vacation spent at home or close to home. _This is the perfect week to take a staycation and do nothing._  
+__staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
 __staying power__  
 __stead__  
 __steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. _He was known for his steadfast will to live._ __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
 __steadiness__  
-__steady__ _adj_ :five: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
+__steady__ _adj_ :six: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
 __steady-eddy__  
+__steak__ _n_ /steɪk/  
+__steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
 __stealth camping__ _n_ _(US)_ Camping out of sight on land not designated as a campsite, especially on land not used for habitation, agriculture etc. _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you’re a plumber or whatever and no one would notice._  
 __stealthy__ _adj_ :two: Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, surreptitious, sneaky _Jane thought she was being stealthy as she sneaked in past curfew, but her mother heard the door creak as soon as it opened._  
+__steam room__ _n_  
 __steam-pop phenomenon__  
 __steamer trunk__ _n_ A small trunk originally designed to fit under the bunk of a steamship cabin. _A steamer trunk lay opened by the couch._  
-__steamrolled__ _v_  
-__steed__ _n_ :two::hammer: (steeds)  
+__steampunk__ _n_  
+__steamroll__ _v_ :two::hammer: _I tended to steamroll other people in meetings._  
+__steed__ _n_ :three::hammer: (steeds) _Epic battles of steel and steed._  
 __steel drum__ _n_ :two::hammer:  
 __steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._  
+__steelhead__ _n_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
-__steep<sup>2</sup>__ _v_ :nine::m: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ _Steeped in hot water._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
+__steep<sup>2</sup>__ _v_ :nine::m: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ _Steeped in hot water._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc. _This region is steeped in history._  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__ _n_ :two: [:scroll: These horse races originally used churches (which are known for having steeples) to mark the end of the race or as a landmark for riders (who would “chase the steeple”).]  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  

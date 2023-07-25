@@ -499,26 +499,6 @@ __spate__ _n_
 __spaz__  
 __speak up__  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
-__statesman__ _n_ :two::hammer:  
-__stationer__ _n_  
-__stationery__ _n_  
-__statuary<sup>1</sup>__ _n_ :two::hammer: :es: estatuas  
-__statuary<sup>2</sup>__ _adj_  
-__stature__ _n_ _A golf facility of world class stature._  
-__stave__ _n_  
-__staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
-__staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
-__steadfast__ _adj_ :two::hammer:  
-__steady__ _adj_  
-__steak__ _n_ /steɪk/  
-__steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
-__steam room__ _n_  
-__steampunk__ _n_  
-__steamroll__ _v_ _I tended to steamroll other people in meetings._  
-__steed__ _n_ _Epic battles of steel and steed._  
-__steelhead__ _n_  
-__steep__ _v_ _Steeped in history._  
-__steeped__ _v_ :two::hammer: _This region is steeped in history._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
