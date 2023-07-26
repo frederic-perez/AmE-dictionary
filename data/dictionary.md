@@ -16534,14 +16534,17 @@ __stepper__ _n_ A professional dancer. _Syn_ hoofer
 __steppes__ _n_  
 __stepping stone__ _n_ :two::hammer:  
 __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
-__sterling__ _n_ :four::hammer: _A sterling example._ _Sterling stories._  
-__stern__ _n_ :three::hammer: _The ship’s stern._  
+__sterling__ _adj_ :six::hammer: _A sterling job._ _A sterling example._ _Sterling stories._  
+__stern__ _n_ :four::hammer: _The ship’s stern._ :es: popa  
+__sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
 __stethoscope__ _n_  
+__Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
+__stevedore__ _n_  
 __stew-bums__ _n_  
-__stew<sup>1</sup>__ _n_ :three::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
-__stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._  
-__steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._  
-__stewardship__  
+__stew<sup>1</sup>__ _n_ :four::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
+__stew<sup>2</sup>__ _v_ :two::hammer: _I have no desire to stew in politics._  
+__steward__ _n_ :four::hammer: (stewards) _Concerned stewards of the Earth._  
+__stewardship__ _n_ :three::hammer:  
 __stewed tomatoes__  
 __stick > turnaround stick__  
 __stick of gum__ _n_  
@@ -16567,12 +16570,13 @@ __stigmatize__ _v_ :two::hammer:
 __stile__ _n_  
 __still life__ _n_ _Still life painting._  
 __stillbirth__ _n_ :three::hammer:  
-__stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
+__stilt__ _n_ :eight: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting operation__ _n_  
 __sting<sup>1</sup>__ _n_ :three::hammer:  
 __sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
+__stinging__ _n_  
 __stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, penurious  
 __stink__ _n_ _slang_ The end of the anal canal of a male or female. _You’ve got to give up yous stink._  
 __stinker__  
@@ -16593,6 +16597,8 @@ __stock car__ _n_ __1__ An automobile of a standard make modified for racing. _S
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
 __stock__ _n_ :two::hammer: __9__ The broth in which meat, fish, bones, or vegetables are simmered for a relatively long period, used as a base in preparing soup, gravy, or sauces. __14a__ The rear wooden, metal, or plastic handle or support of a rifle, pistol, or automatic weapon, to which the barrel and mechanism are attached. _The plastic stock of the rifle._  
 __stock-in-trade__ _n_ (stock in trade)  
+__stockade__ _n_  
+__stockfish__ _n_  
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
@@ -16600,8 +16606,9 @@ __stockpile<sup>1</sup>__ _n_ :four: A large collection of things that may be ne
 __stockpile<sup>2</sup>__ _v_ :three: To collect large amounts of things that may be needed.  
 __stocks__ _n_ __1__ A device consisting of a heavy timber frame with holes for confining the ankles and sometimes the wrists, formerly used for punishment. _They joined in bands to rescue a fellow peasant from the stocks._  
 __stodgiest__  
-__stodgy__ _adj_ _The mainstream may sound too stodgy._  
+__stodgy__ _adj_ :two::hammer: _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
+__stokehold__ _n_ The area or compartment into which a ship’s furnaces or boilers open. _Syn_ fireroom, stokehole _When the ship was sinking, many passengers were able to escape, but the stokehold crew was trapped below deck._  
 __stoking__ _n_  
 __stola__ _n_ /STOH-luh/ A long, draped robe worn by women of ancient Rome. _The traditional garment worn by women in ancient Rome was the stola; men wore the corresponding toga._  
 __stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
@@ -16613,6 +16620,8 @@ __stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient 
 __stone-walling__  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
+__stoneware__ _n_  
+__stooges__ _n_  
 __stool pigeon__ _n_ _slang_ :two: A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch _A guard’s stool pigeon._  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._  
 __stoop<sup>2</sup>__ _n_  
@@ -16620,6 +16629,7 @@ __stooped__ _adj_ :four: Hraving the back and shoulders rounded; not erect. _A l
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop up__ _v_ To block. _Some rubbish got into the drain and stopped it up._ _Snakes that stop up one ear with their tail._ :es: taponar  
 __stop-and-go__ _adj_ Alternately proceeding and halting: _stop-and-go traffic jams._  
+__stope__  
 __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
 __stoplight__ _n_ :pencil2: __1__ A taillight that lights up as the driver of a vehicle steps on the brake pedal to slow down or stop. __2__ Traffic light.  
@@ -16702,8 +16712,9 @@ __streamside__
 __street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
 __streetcar__  
 __streetwise__  
+__Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __strength__ _n_ _They noticed the strengths of their team members._  
-__strengthen__ _v_ :three::hammer:  
+__strengthen__ _v_ :six::hammer:  
 __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament._  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stressful__ _adj_  

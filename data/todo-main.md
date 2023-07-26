@@ -506,26 +506,6 @@ __stenos__
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
-__sterling__ _adj_ :two::hammer: _A sterling job._  
-__stern__ _n_ :es: popa  
-__sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
-__Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
-__stevedore__ _n_  
-__stew<sup>1</sup>__ _n_  
-__stew<sup>2</sup>__ _v_  
-__steward__ _n_  
-__stewardship__ _n_ :two::hammer:  
-__stilt__  
-__stinging__ _n_  
-__stockade__ _n_  
-__stockfish__ _n_  
-__stodgy__ _n_  
-__stokehold__ _n_ The area or compartment into which a ship’s furnaces or boilers open. _Syn_ fireroom, stokehole _When the ship was sinking, many passengers were able to escape, but the stokehold crew was trapped below deck._  
-__stoneware__ _n_  
-__stooges__ _n_  
-__stope__  
-__Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
-__strengthen__ _v_ :three::hammer:  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
