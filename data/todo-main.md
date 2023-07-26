@@ -9,18 +9,30 @@ __advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); 
 __affectionally__  
 __aghast__  
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
+__all of a sudden__  
+__all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
+__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
 __ameliorate__ _v_ /uh-MEE-lee-uh-rayt/  
 __ammonia__ _n_ :es: amoníaco  
+__amount to nothing__  
+__an accident waiting to happen__  
+__an armchair something__  
 __Anchors Aweigh__ _n_  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
+__anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
 __ant hill__ _n_  
+__anyone’s guess__ Something that no one knows for sure.  
+__anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __apace__ _adv_  
 __appraisal__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __articulate__ _v_  
 __artiodactyl__ _n_  
+__as of late__  
+__as yet__ At this time; yet. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
+__at the expense of (someone or something)__  
 __austerity__ _n_ /ɔˈstɛr ɪ ti/  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avenge__ _v tr_  
@@ -29,14 +41,19 @@ __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/
 __ayahuasca__ _n_  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
 __Baader–Meinhof phenomenon__ _n_ (frequency illusion, frequency bias) A cognitive bias by which a recently learned word, concept, etc. suddenly seems to appear with improbable frequency.  
+__baby boomer__  
 __baccalaureate__ _n_  
 __backhanded__ _adj_  
+__backwater__  
+__baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __ballyhoo__ _v_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
+__bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __bargain__ _n_  
 __barrage__ _n_  
 __barranca__ _n_ (barranco)  
 __beachhead__ _n_ :pencil2: __2__ A first achievement that opens the way for further developments; a foothold.  
+__bear the brunt (of something)__  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __belly laugh__ _n_  
@@ -44,6 +61,7 @@ __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.
 __bench__ _v_  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
+__big name__  
 __billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
 __bird of prey__ _n_  
 __blackface__ _n_  
@@ -51,11 +69,13 @@ __blackmail__
 __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
+__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
 __boo__ _v_  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
+__bop__ _v_  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  

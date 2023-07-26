@@ -1,23 +1,3 @@
-__all of a sudden__  
-__all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
-__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
-__amount to nothing__  
-__an accident waiting to happen__  
-__an armchair something__  
-__anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
-__anyone’s guess__ Something that no one knows for sure.  
-__anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
-__as of late__  
-__as yet__ At this time; yet. _No one has responded to my email as yet, so I don’t have an answer for you._  
-__at the expense of (someone or something)__  
-__baby boomer__  
-__backwater__  
-__baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
-__bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
-__bear the brunt (of something)__  
-__big name__  
-__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
-__bop__ _v_  
 __bounce back__  
 __break new ground__ To advance, innovate, or pioneer (something). _They’ve really broken new ground with their latest product—I’ve never seen anything like it._  
 __brick by brick__  
