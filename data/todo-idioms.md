@@ -1,7 +1,11 @@
+__a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
+__a sobering thought__  
 __bounce back__  
+__brainwave__ A sudden idea or moment of inspiration; a brainstorm. _I had a brilliant brainwave last night about how we could end world hunger._  
 __break new ground__ To advance, innovate, or pioneer (something). _They’ve really broken new ground with their latest product—I’ve never seen anything like it._  
 __brick by brick__  
 __bring (one) up to speed__ To inform one of the latest details (about something). _Tom, will you please bring the rest of the team up to speed on the status of the project?_  
+__chopped liver__  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __day in, day out__  
@@ -22,6 +26,7 @@ __draw up__
 __drill in(to) (someone or something)__  
 __dynamic duo__  
 __easier said than done__  
+__Elysian Fields__  
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
@@ -57,15 +62,21 @@ __from the outset__ From the beginning. _Honestly, I never expected this play to
 __fuck (one’s) brains out__  
 __game-changer__  
 __gaslighting__  
+__get a big head__ To become arrogant or conceited; to assume an exaggeratedly high opinion of oneself. _Samantha got a big head after her book became a bestseller._  
 __get hammered__  
 __get off (one’s) high horse__ To stop acting as if one is better than other people; to stop being arrogant or haughty.  
 __get real__  
+__get the gist__  
+__get the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal. _We’re just waiting to get the green light from our managers before we release the latest software update._  
+__get the knack of__ To learn how to do something competently or well after a certain period of practice or development. _Wow, you’re really getting the knack of playing piano!_  
 __get to someone__  
+__get with the times__ _slang_ To understand or be knowledgeable of modern times, especially as relates to the contemporary trends, ideas, or fashions. (Usually said as a jocular or sarcastic imperative.) _Get with the times, John, nobody wears their hat like that anymore!_  
 __GI Joe__  
 __git it a shot__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (one) the creeps__  
+__glower at (someone or something)__  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
 __go all out__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
@@ -81,8 +92,11 @@ __golden duck__ In cricket, a batter’s score of zero after being dismissed on 
 __good for you!__ A complimentary expression of encouragement for something that someone has done or received.  
 __good going__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good going, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good graces__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good graces” or some variation thereof. _John’s been in my good graces ever since he helped get me out of debt._  
+__good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Good gracious, look at the time! How is it nearly midnight already?_  
 __good job__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good-natured__ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
+__goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
+__goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
 __goon__ _n_  
 __grand total__ The final amount after adding several different numbers or sums. _After everything was accounted for, the cost of remodeling the kitchen came to a grand total of $4,500._  
@@ -136,6 +150,7 @@ __knock-off__
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __lovebirds__  
+__null and void__ No longer valid, legitimate, or enforceable.  
 __on a tear__  
 __on the cusp__  
 __on the fence__  
@@ -145,3 +160,5 @@ __ouch__ :dart:
 __out of character__  
 __outsmart (oneself)__  
 __pave the way (for someone or something)__  
+__spaced (out)__  
+__turn of phrase__  
