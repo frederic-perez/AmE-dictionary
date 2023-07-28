@@ -521,26 +521,6 @@ __steppe__ _n_ /stɛp/
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
-__stretch limousine__ _n_ :two::hammer:  
-__stretch<sup>1</sup>__ _n_  
-__stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
-__strife__ _n_  
-__strifle__ _n_  
-__strike__ _v_ :two::hammer: _The challenges strike me as fundamental._ _This episode struck._  
-__stringent__ _adj_  
-__strum__ _v_  
-__stymie<sup>1</sup>__ _v tr_ :two: /STY-mee/ To obstruct, thwart, stump, etc.  
-__stymie<sup>2</sup>__ _n_ :two: A hindrance.  
-__submersible__ _adj, n_  
-__success story__ _n_  
-__sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
-__sunblock__ _n_  
-__suncatcher__ _n_  
-__sundae__ _n_  
-__sundowner__ _n_ _Sundowner socials._  
-__sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
-__sundry<sup>1</sup>__ _adj_  
-__sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  

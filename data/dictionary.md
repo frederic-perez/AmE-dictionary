@@ -16719,10 +16719,12 @@ __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stressful__ _adj_  
 __stressor__ _n_ /ˈstrɛs ər, -ɔr/ :two: An event, experience, stimulus, etc, that causes stress.  
+__stretch limousine__ _n_ :two::hammer:  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
-__stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
-__stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
+__stretch<sup>1</sup>__ _n_ :four::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
+__stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
+__stretch<sup>3</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
 __strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child’s job is to strew the path with petals. _Strewing the streets with flowers._  
 __stricken__ _adj_ :seven::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women’s behavior were easing._  
@@ -16732,7 +16734,7 @@ __strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; c
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
 __strike warfare__  
 __strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
-__strike<sup>2</sup>__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
+__strike<sup>2</sup>__ _v_ :four::hammer: _The United States is looking to strike trade deals in countries like Vietnam._ _The challenges strike me as fundamental._ _This episode struck._  
 __striker__ _n_ :four::hammer: _The match was damp and wouldn’t ignite against the striker._ __4__ An enlisted person in usually intensive training for a naval technical rating. _The young striker transcribed the message._  
 __string beans__  
 __string tie__  
@@ -16760,7 +16762,7 @@ __strongman__
 __struck a nerve__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
 __strudel__ _n_ :three::hammer:  
-__strummed__ _v_ _He then strummed out a string of hits, including “Message in a Bottle.”_  
+__strum__ _v_ :two::hammer: _He then strummed out a string of hits, including “Message in a Bottle.”_  
 __strumpet__ _n_ _archaic_ A prostitute or promiscuous woman.  
 __strung out__  
 __strung__ _v_  
@@ -16801,7 +16803,8 @@ __sturgeon__ _n_ :three::hammer: :es: esturión
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
 __stylesetter__  
-__stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
+__stymie<sup>1</sup>__ _v tr_ :nine:m: /STY-mee/ (stymieing, stymied) To obstruct, thwart, stump, etc. To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
+__stymie<sup>2</sup>__ _n_ :two: A hindrance.  
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
@@ -16822,6 +16825,7 @@ __subjugation__ _n_ Forced submission to control by others.
 __sublet__ _v_ :three::hammer: (subletting) :es: subarrendar  
 __sublimate__ _v_  
 __submachine gun__  
+__submersible__ _adj, n_  
 __suborn__ _v_ :three::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
 __subpar__ _adj_ :two::hammer:  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
@@ -16845,6 +16849,7 @@ __subtraction__ _n_ :pencil2:
 __suburbanites__ _n_  
 __suburbia__ _n_  
 __suburbs__  
+__success story__ _n_  
 __succinct__ _adj_ :five::pencil2::mega::hammer: _My advice is to get your posts succinct._  
 __succinctly__ _adv_ :pencil2:  
 __succint__ _adj_ :three::hammer:  
@@ -16903,12 +16908,19 @@ __sump__ _n_ :two::hammer:
 __sumptuary__ _adj_  
 __sumptuous__ _adj_ :four: /SUMP-shuh-wus/ Things that are extremely costly, rich, luxurious, or magnificent. Of a size or splendor suggesting great expense; lavish. _Syn_ deluxe, opulent, princely, luxurious _The sumptuous homes of the wealthy were full of gilding and ornament._ _The hotel’s most sumptuous suite overlooks the lush gardens and includes a palatial marble bathroom with a spa and a commodious, intricately tiled walk-in shower._ _A sumptuous Sunday feast._  
 __Sun Belt__ _n_ :two: (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
+__sun deck__ _n_ :two: A roof, balcony, or terrace used for sunbathing.  
+__sunblock__ _n_  
 __sunburn__ _n_  
+__suncatcher__ _n_  
+__sundae__ _n_  
 __Sunday__ _n_ :mega: /’söndi, -deI/  
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
-__sundry__ _adj_ :two: Various; miscellaneous: _a purse containing sundry items._  
+__sundowner__ _n_ _Sundowner socials._  
+__sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
+__sundry<sup>1</sup>__ _adj_ :three: Various; miscellaneous: _a purse containing sundry items._  
+__sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
 __sunken__  
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
