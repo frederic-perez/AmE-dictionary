@@ -233,14 +233,16 @@ __all hell broke loose__
 __all in__  
 __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ In a nervous, confused, or agitated state.  
+__all of a sudden__  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the map__  
 __all over the place<sup>1</sup>__ _adj_ :two: Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ :two: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
-__all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
+__all sizzle and no steak__ :two: Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
 __all that jazz__ :four: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
+__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __all things considered__ :two::hammer:  
 __all too often__ Too frequently. _We see this problem all too often._  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
@@ -249,11 +251,13 @@ __all’s well that ends well__ _prov_ A positive ending can overshadow any prob
 __alter ego__  
 __amateur hour__ :two: A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
-__amount to nothing__ To result in no tangible or appreciable difference.  
+__amount to nothing__ :two: To result in no tangible or appreciable difference.  
 __amount to something__  
 __amount to__ :five::hammer:  
 __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
+__an accident waiting to happen__  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
+__an armchair something__  
 __an eye for an eye, a tooth for a tooth__ _proverb_ :two: Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Bible, including in Exodus, Leviticus, and Deuteronomy. _I cannot be placated by paltry excuses of reparation! An eye for an eye, a tooth for a tooth—this I demand from all who have wronged me._  
 __an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
@@ -261,10 +265,12 @@ __an iron fist__
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __and all__  
-__anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
+__anonymous tip__ :two: Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
+__anyone’s guess__ Something that no one knows for sure.  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
 __anything goes__ :three::hammer:  
+__anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __apeshit__  
 __apple of (one’s) eye__ :two::hammer:  
 __approve of (someone or something)__ To agree with or support someone or something. _I don’t approve of your behavior right now._ _My parents have never approved of any of my girlfriends._  
@@ -288,13 +294,13 @@ __as if to say__
 __as it happens,__ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
-__as of late__  
+__as of late__ :two::hammer:  
 __as of now__ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
 __as we know it__ :two: As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
 __as we speak__ At this very moment.  
-__as yet__ Up to the present time; up to now.  
+__as yet__ :two: At this time; yet. Up to the present time; up to now. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __as you please__  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
 __ask for trouble__  
@@ -327,6 +333,7 @@ __at the buzzer__ _Durant missed a floater at the buzzer._
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of (one’s) tether__ Completely worn out, exasperated, or exhausted; having no more patience, endurance, or energy left. _Joshua has been throwing a tantrum all afternoon, and with all the other things I have to get done, I’m simply at the end of my tether!_  
 __at the end of the day__ :two::hammer:  
+__at the expense of (someone or something)__  
 __at the forefront (of something)__ _In the clinical community, we need to be at the forefront._  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
 __at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
@@ -339,6 +346,7 @@ __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
 __aye aye, sir__ _Aye aye, Captain._  
 __B-Team__  
+__baby boomer__  
 __baby step__  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
@@ -351,11 +359,13 @@ __back to the salt mines__ Back to one’s job or daily work, especially when it
 __back-of-the-envelope ideas__ Rough ideas.  
 __backpedal__ :two: To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
 __backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
+__backwater__  
 __bad blood__ :two::hammer:  
 __bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
 __bad press__ Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __badass__ :three::hammer:  
+__baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __balancing act__  
@@ -365,6 +375,8 @@ __ball hog__ _sports_ A player who monopolizes the ball without including teamma
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ball-buster__  
 __ballpark figure__ :two: A rough numerical estimate.  
+__ballyhoo__ _v_  
+__bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
 __Band E__  
 __bang for one’s buck__ _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
@@ -494,6 +506,7 @@ __bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _T
 __bear hug__ :two::hammer:  
 __bear in mind (that)__ To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
+__bear the brunt (of something)__  
 __bear with (someone or something)__  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat down__  
@@ -537,6 +550,7 @@ __big break__ :two: A fortuitous moment, opportunity, or turn of events of great
 __big cheese__ An influential person.  
 __big deal__  
 __big fish__  
+__big name__  
 __big spender__ :two: Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __big time__ :two::hammer:  
 __bigger fish to fry__  
@@ -557,6 +571,7 @@ __blank canvas__
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blind date__ A date between two people who have not previously met. _Blind dates are terrifying because you don’t know what the person will be like, but that’s also part of the excitement._  
 __bling__  
+__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
 __blood in the water__ The exposure of a competitive weakness in an opponent that arouses increased competitive aggression in others. Likened to the literal presence of blood in water that causes aquatic predators (such as sharks) to seek out and attack prey. _After their opponents’ star striker left the match with an injury, the home team smelled blood in the water and brought on their attack with everything they had._  
 __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full moon is in exact alignment with the Earth and the sun, with Earth in between the two. Light refracted off of Earth’s atmosphere appears on the moon in a dark-red hue, hence the name “blood moon.” It is referred to in the Bible (Revelation 6:12–14) as a sign of the end of the world, and so it is regarded by many as an ill omen. _The wind was howling, the sky was pitch black, and a blood moon loomed heavy over our heads. I knew something bad was coming our way._  
 __blood runs cold__ _informal_ To be very frightened.  
@@ -589,6 +604,7 @@ __boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Do
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __boom__  
+__bop__ _v_  
 __bored to tears__ :two: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
 __born to the purple__ Born in the purple. _Both were born to the purple._  

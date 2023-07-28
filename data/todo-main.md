@@ -8,31 +8,21 @@ __adroit__
 __advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of.  
 __affectionally__  
 __aghast__  
+__agog__ _adj_ Highly excited by eagerness, curiosity, anticipation, etc.  
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
-__all of a sudden__  
-__all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
-__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
 __ameliorate__ _v_ /uh-MEE-lee-uh-rayt/  
 __ammonia__ _n_ :es: amoníaco  
-__amount to nothing__  
-__an accident waiting to happen__  
-__an armchair something__  
 __Anchors Aweigh__ _n_  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
-__anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
 __ant hill__ _n_  
-__anyone’s guess__ Something that no one knows for sure.  
-__anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __apace__ _adv_  
+__apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __appraisal__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __articulate__ _v_  
 __artiodactyl__ _n_  
-__as of late__  
-__as yet__ At this time; yet. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
-__at the expense of (someone or something)__  
 __austerity__ _n_ /ɔˈstɛr ɪ ti/  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avenge__ _v tr_  
@@ -41,19 +31,13 @@ __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/
 __ayahuasca__ _n_  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
 __Baader–Meinhof phenomenon__ _n_ (frequency illusion, frequency bias) A cognitive bias by which a recently learned word, concept, etc. suddenly seems to appear with improbable frequency.  
-__baby boomer__  
 __baccalaureate__ _n_  
 __backhanded__ _adj_  
-__backwater__  
-__baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
-__ballyhoo__ _v_  
 __baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
-__bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __bargain__ _n_  
 __barrage__ _n_  
 __barranca__ _n_ (barranco)  
 __beachhead__ _n_ :pencil2: __2__ A first achievement that opens the way for further developments; a foothold.  
-__bear the brunt (of something)__  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __belly laugh__ _n_  
@@ -61,7 +45,6 @@ __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.
 __bench__ _v_  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
-__big name__  
 __billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
 __bird of prey__ _n_  
 __blackface__ _n_  
@@ -69,13 +52,11 @@ __blackmail__
 __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
-__blood and guts__ __1__ _n_ A shorthand reference to the result of graphic violence, often as depicted in a film or television show; gore. _I can’t stand horror movies like that. Who wants to look at blood and guts for two hours?_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
 __boo__ _v_  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
-__bop__ _v_  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
@@ -124,12 +105,14 @@ __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something tha
 __comprise__ _v_ /kum-PRYZE/  
 __conversant__  
 __convey__ _v tr_  
+__corollary__ _n_ /KOR-uh-lair-ee/  
 __dauntless__ _adj_ /DAWNT-lus/  
 __deem__ _v_  
 __deep-routed__  
 __demystify__ _v tr_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
+__disavow__ _v_ /dis-uh-VOW/  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
@@ -146,6 +129,7 @@ __drawn-out__ _adj_ Protracted. _Are you tired of long and drawn-out meetings th
 __ducat__  
 __dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
 __dysgraphia__ _n_  
+__dyspepsia__ _n_ Disturbed digestion. _Syn_ indigestion, upset stomach  
 __earplug__ _n_ :pencil2:  
 __Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
 __echo chamber__  
@@ -181,11 +165,14 @@ __etch__ _v_
 __etiology__  
 __etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
+__evince__ _v_ /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
+__exodus__ _n_ /EK-suh-duhs/ A large scale departure or emigration.  
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
+__extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
@@ -219,6 +206,7 @@ __giraffe__ _n_
 __gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
 __gloomy__ _adj_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
+__gospel__ _n_ /GOS-puhl/  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __greeble__  
@@ -260,6 +248,7 @@ __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood
 __hustle__ _v_  
 __hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
 __illegal__ _adj, n_ :mega:  
+__illustrious__ _adj_ /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected.  
 __impending__  
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
@@ -331,7 +320,9 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __meddlesome__ _adj_  
 __meet-cute__ _n_ /MEET-kyoot/  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
+__meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
 __mess around__  
+__messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
@@ -403,10 +394,12 @@ __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _Afte
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
 __philanderer__ _n_  
+__philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
 __picky__  
 __pinecone__ _n_  
 __pinwheel__ _n_  
 __pitfall__ _n_  
+__plaintive__ _adj_ /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
 __play-off__ _n_ :pencil2:  
 __plushy__ _adj_  
 __Pluto__ _n_  
@@ -499,6 +492,7 @@ __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
+__simile__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __slink__ _v_  
@@ -526,6 +520,7 @@ __stenos__
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
+__stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
@@ -754,7 +749,7 @@ __vamoose__ _v_ /vuh-MOOSS/ Vamoose is an informal word that means “to depart 
 __vampire bat__ _n_  
 __van__ _n_  
 __vantage point__  
-__vapid__ _adj_ :two: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
+__vapid__ _adj_ :astonished::three: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. Lacking taste, zest, or flavor; flat. _Syn_ flavorless, insipid, savorless, bland, flat _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
 __variable__ _n_ :mega:  
 __variegate__ _v_ Make something more diverse and varied. _Syn_ vary  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
