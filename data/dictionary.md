@@ -16930,15 +16930,19 @@ __suped-up__ _adj_ Of a motor vehicle modified for higher performance, applied b
 __super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superb__ _adj_  
 __superbly__  
+__supercalifragilisticexpialidocious__ _adj_ :two: Used as a nonsense word by children to express approval or to represent the longest word in English.  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
-__supercilious__ _adj_ :four: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
+__supercentenarian__  
+__supercilious__ _adj_ :five: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
 __superfluous__ _adj_ :mega:  
-__superintendent__ _n_ :three::hammer:  
+__superintendent__ _n_ :four::hammer:  
+__superlative__ _adj_ _Superlative works._  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
+__supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
 __supernumerary__  
 __superpooch__  
 __supersede__ _v tr_ :two::hammer: /ˌsu pərˈsid/  
-__supersize__ _v_  
+__supersize__ _v_ :two::hammer:  
 __superstorm__ _n_ :two::hammer:  
 __supervise__ _v_  
 __supine__ _adj_ Inactive, passive, or inert, especially from indolence or indifference. _Syn_ lethargic, passive, apathetic, listless _No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried._  
@@ -16948,35 +16952,39 @@ __supple__ _adj_ :pencil2::nine: __1__ Readily bent, folded, or manipulated; pli
 __suppleness__ _n_ _Mental suppleness._  
 __supplier__ _n_  
 __supply and demand__  
+__support__ _v_  
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
 __supremacist__ _n_ _A white supremacist._  
-__supreme<sup>1</sup>__ _adj_ :two::hammer: _The great ones possess supreme confidence._  
+__supreme<sup>1</sup>__ _adj_ :three::hammer: /səˈprim, sʊ-/ _The great ones possess supreme confidence._  
 __supreme<sup>2</sup>__ _n_  
-__surcease<sup>1</sup>__ _n_ Cessation or intermission.  
+__surcease<sup>1</sup>__ _n_ :two: Cessation or intermission. A stopping. _Syn_ cessation  
 __surcease<sup>2</sup>__ _v_ :two: __1__ To desist from (some action). __2__ To cease or cause to cease.  
 __surcharge<sup>1</sup>__ _n_ _Additional hotel surcharge of $5.00 per order._  
 __surcharge<sup>2</sup>__ _v_  
 __sure-fire__ _adj_ _informal_ :dart:  
-__surefire__  
+__surefire__ _n_ :two::hammer: _A surefire way to see the secrets of the Park._  
 __surety__  
+__surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __surfeit__ _n_ :five::astonished: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount. _Syn_ overabundance, excess _The surfeit of goods produced caused prices to fall, hurting the economy._  
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
-__surge<sup>2</sup>__ _n_  
+__surge<sup>2</sup>__ _n_ :two::hammer:  
 __suricate__ _n_  
 __surliness__  
 __surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
-__surmise__ _v_ :eight::hammer: (surmised, surmising)  
+__surmise__ _v_ :dart::nine::hammer: (surmised, surmising)  
 __surmount__ _v_ :three::hammer: (surmounted)  
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
 __surpass__ _v_  
 __surplice__ _n_ :two: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
+__surreal__ _adj_  
 __surreptitious__  
 __surreptitiously__ _adv_ :four: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
 __surrogate__ _n_ :two::hammer:  
 __surveyor__ _n_ :two::hammer:  
+__survival skills__ _n_  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __susceptible__ _adj_  
 __suspend__ _v_  
@@ -16984,7 +16992,7 @@ __suspenders__ _n_ :two::hammer: _Larry King’s suspenders._
 __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
-__sustenance__ _n_ __3__ Something that sustains something else; essential support: _researchers seeking financial sustenance._  
+__sustenance__ _n_ :three: __3__ Something that sustains something else; essential support: _researchers seeking financial sustenance._  
 __susurration__ _n_  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _n_  
@@ -16994,6 +17002,7 @@ __Svengali__ _n_ A person who manipulates or controls another, especially by for
 __swab__ _n_ _Nasopharyngeal swabs._  
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
+__swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
 __swage__ _adj_  
 __swagger stick__ _n_ [:scroll: Its use derives from the vine staff carried by Roman centurions as an emblem of office.] A short metal-tipped cane carried especially by officers in the armed forces.  
 __swagger<sup>1</sup>__ _n_ :two::hammer: _A swagger stick._  
@@ -17005,6 +17014,8 @@ __swamp<sup>1</sup>__ _n_ :three: __1a__ Permanently waterlogged ground that is 
 __swamp<sup>2</sup>__ _v_ :seven::hammer: (swamped) _Syn_ overwhelm _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
 __swan song__  
+__swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
+__swan<sup>2</sup>__ _v intr_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
 __swank<sup>1</sup>__ _adj_ _A swank condominium complex._  
 __swank<sup>2</sup>__ _v_ :four::astonished::hammer:  
 __swanky__ _adj_ :five::hammer: _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._  
@@ -17184,7 +17195,7 @@ __talk over__ _phr v_
 __talk shit__  
 __talk up__  
 __talk__ _v_ :mute:[ta~~l~~k]  
-__talktative__  
+__talktative__ _adj_ :two::hammer:  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say “That’s a tall order!” when someone else asks for something unrealistic.  
 __tall tale__ _n_ :four: (tall tales) __1__ _informal_ An entertaining and often oral account of a real or fictitious occurrence. _Syn_ anecdote, fable, story, tale __2__ _informal_ An untrue declaration _Syn_ canard, cock-and-bull story, falsehood, falsity, fib, fiction, inveracity, lie, misrepresentation, misstatement, prevarication, story, tale, untruth  
 __tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales of heroic exploits._  
@@ -17193,6 +17204,7 @@ __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a f
 __tally__ _v_  
 __talon__ _n_ (talons) _The nails were sharp as talons._ :es: garra  
 __talpa__ _n_ [:scroll: From Latin talpa (mole). Because a mole burrows under the earth, the word came to be applied to a growth under the skin: a cyst or a tumor.] /TAL-puh/ __1__ A mole (the animal). __2__ A cyst.  
+__Tamagotchi__ _n_ :pencil2:  
 __tamale__ _n_ (tamales) A Mexican dish made of chopped meat and crushed peppers, highly seasoned, wrapped in cornhusks spread with masa, and steamed. _I’m staying away from that one—that’s a hot tamale._  
 __tambour__ _n_ A small wooden embroidery frame consisting of two concentric hoops between which fabric is stretched. _Syn_ embroidery frame, embroidery hoop _She was addicted to needlepoint and took her tambour wherever she went._  
 __tamp down__ _v_ :two::hammer:  

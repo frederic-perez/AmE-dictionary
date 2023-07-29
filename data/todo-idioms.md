@@ -178,6 +178,7 @@ __reel off__
 __reinvent the wheel__  
 __rock the boat__  
 __spaced (out)__  
+__sus__ _adj_ _slang_ Suspicious, suspect.  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __turn of phrase__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  

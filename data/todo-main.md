@@ -525,30 +525,6 @@ __sunshower__ _n_ A localized rain shower in which rain falls while the sun is s
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
-__supercalifragilisticexpialidocious__ _adj_ :two: Used as a nonsense word by children to express approval or to represent the longest word in English.  
-__supercentenarian__  
-__supercilious__  
-__superintendent__  
-__superlative__ _adj_ _Superlative works._  
-__supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
-__supersize__ _v_  
-__support__ _v_  
-__supreme__ _adj_ /səˈprim, sʊ-/  
-__surcease__ _n_ A stopping. _Syn_ cessation  
-__surefire__ _n_ _A surefire way to see the secrets of the Park._  
-__surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
-__surge__ _n_  
-__surmise__ _v_ :dart:  
-__surreal__ _adj_  
-__survival skills__ _n_  
-__sus__ _adj_ _slang_ Suspicious, suspect.  
-__sustenance__ _n_ :two::hammer:  
-__swag__ _n_ __1__ A suspended garland, drapery, etc., fastened at each end and hanging down in the middle; festoon.  
-__swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
-__swan<sup>2</sup>__ _v intr_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
-__swoon__ _v_  
-__talktative__  
-__Tamagotchi__ _n_ :pencil2:  
 __tamarind__  
 __tandem__ _n_  
 __tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
