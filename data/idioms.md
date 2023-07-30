@@ -73,7 +73,7 @@ __a bit beyond (one’s) ken__ :two::dart: Advanced beyond one’s ability to un
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome. _This street looks a bit dicey—I think we should walk another way home._  
 __a bit obtuse__ Coming across as dull, thick-witted, or stupid; unable to grasp or understand a situation or concept. _I feel like I’m a bit too obtuse to understand what these people are talking about._  
 __a bit of a stretch__ :two: A mild exaggeration beyond the truth or what is likely the case. _I’m not too fond of taxes either, but it’s a bit of a stretch to claim they are the cause of all our problems._  
-__a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
+__a bit out of it__:two: Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
 __a blessing in disguise__ :two: An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
 __a breath of fresh air__  
@@ -158,7 +158,7 @@ __a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to
 __a slew of (something)__ A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._  
 __a sly dog__ :two: Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
 __a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
-__a sobering thought__ A thought or idea which is dispiriting, depressing, or traumatic.  
+__a sobering thought__ :two: A thought or idea which is dispiriting, depressing, or traumatic.  
 __a sore loser__ :dart: Someone who complains, becomes upset, or otherwise reacts very negatively when they fail or lose at something competitive. _Don’t be such a sore loser, Jim. I know you pride yourself on your racquetball skills, but I beat you fair and square._  
 __a spring in (one’s) step__ __1__ A happy, confident, and enthusiastic mood or manner, as indicated by the carefree way one walks. _Joe’s been walking with a spring in his step ever since he found out he was getting a promotion._ __2__ An increased amount of energy or alertness. _Add an extra shot of espresso to my latte. I need something that will put a spring in my step!_  
 __a stab at (someone or something)__  
@@ -336,6 +336,7 @@ __at the end of the day__ :two::hammer:
 __at the expense of (someone or something)__  
 __at the forefront (of something)__ _In the clinical community, we need to be at the forefront._  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
+__at the mercy of (someone or something)__  
 __at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
 __at the ready__ :three: Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
@@ -444,7 +445,7 @@ __be in for a treat__ To be guaranteed to receive or experience something unexpe
 __be in over (one’s) head__ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be in pursuit__ Following or chasing someone or something. _The burglar got away, but I called the police, and now they’re in pursuit._  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
-__be kept in the dark (about something)__ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
+__be kept in the dark (about something)__ :two: To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
 __be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
 __be knocking on heaven’s door__ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
 __be left (out) in the cold__ To be ignored, forgotten, or excluded, as from a group, activity, benefit, etc.  
@@ -543,6 +544,7 @@ __best-kept secret__
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __better (to be) safe than sorry__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
+__better the devil you know__  
 __between dog and wolf__ Between dusk and daylight. _What were you guys doing out between dog and wolf? You better not have been getting into trouble last night!_  
 __beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
@@ -614,7 +616,7 @@ __bottle up__ :two::hammer: _Find a balance between bottling up feelings and ove
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
-__bounce back__  
+__bounce back__ :two::hammer:  
 __bound to (be or do something)__ :two::hammer: _It’s bound to be an exciting game._  
 __bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __Box and Cox__ Two people who always miss each other and thus are never together. The phrase comes from the 19th-century story of the same name, in which two men named Box and Cox rent the same room at different times of day. _Since I’ve been on night work all week, Irene and I are like Box and Cox these days, constantly missing each other. I hope to actually spend time with her over the weekend!_  
@@ -625,7 +627,7 @@ __brace yourself__ Prepare yourself mentally or emotionally for hearing somethin
 __bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __brain surgery__ :three: A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
-__brainwave__ A sudden idea or moment of inspiration; a brainstorm.  
+__brainwave__ :two: A sudden idea or moment of inspiration; a brainstorm. _I had a brilliant brainwave last night about how we could end world hunger._  
 __brass monkeys__ Very cold weather.  
 __brazen it out__ To face a difficult, uncertain, or intimidating situation with brave or impudent self-confidence. _I’m terrified to give this presentation, but I just have to brazen it out and hope for the best._  
 __breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
@@ -635,18 +637,20 @@ __break bread__ To eat. _We should break bread before the meal gets cold._
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
 __break into__  
 __break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
-__break new ground__  
+__break new ground__ :two: To advance, innovate, or pioneer (something). _They’ve really broken new ground with their latest product—I’ve never seen anything like it._  
 __break the bank__ :two: To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __break the ice__ To make people who have not met before feel more relaxed with each other.  
 __break your back__ :two: To work extremely hard.  
 __break your duck__ To do something for the first time.  
 __breaking point__ :three: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
+__brick by brick__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __bridge the gap__  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __brighten up (the) day__  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring (one) up to speed__ To inform one of the latest details (about something). _Tom, will you please bring the rest of the team up to speed on the status of the project?_  
 __bring (someone or oneself) to (do something)__  
 __bring (someone or something) to a halt__  
 __bring (someone) to terms__ To compel a person or group to agree to or do something, especially a set of demands or conditions. _The rebels’ unflinching siege of the king’s palace eventually brought the government to terms._  
@@ -715,7 +719,7 @@ __by the dozen(s)__ :dart::two: __2__ In large numbers. Despite the using the wo
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :three: In the same way.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
-__bystander effect__ :two: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
+__bystander effect__ :three: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __call (all) the shots__ :two::hammer:  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
 __call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
@@ -728,7 +732,7 @@ __call on (someone or something)__ _He called on me._
 __call out__ :four::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
 __call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
-__call someone out__ :two: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
+__call someone out__ :three: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
 __call something out__  
 __call the shots__ :two::hammer:  
 __call to action__ :two::hammer:  
@@ -790,6 +794,7 @@ __catch one’s breath__ :two: To pause or rest before continuing an activity or
 __catch onto (something)__  
 __catch some Zs__ To go to sleep, to take a nap.  
 __catch the sun__ To get sunburned. _I caught the sun at the beach last weekend, and now my back hurts so much that I have to sleep on my side!_  
+__catch the wave__ If you catch the wave, you act quickly in order to use an opportunity, especially an opportunity to do something new. _We knew we had to catch the wave now or be left behind in the future._ _The venture relies on catching the wave of interest generated by the Tolkien films._  
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
 __catch__ :two: __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_ _Here is the catch._  
 __cater to (someone or something)__  
@@ -836,6 +841,7 @@ __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
 __choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
 __chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
+__chopped liver__  
 __chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
 __chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
@@ -1007,8 +1013,10 @@ __cut ties with (someone)__ :four::hammer: _I was cutting ties without even know
 __cut to the chase__ :two::hammer:  
 __cutting edge__ _Cutting edge fashion._  
 __dabble in (something)__  
+__daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __damn the torpedoes__ :two: To press on with a task or current course of action regardless of apparent risks or dangers. _I don’t care that it might bankrupt the company! Damn the torpedoes and get it done already!_  
 __dance the night away__ :four: To dance the entire evening. _We danced the night away._  
+__dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __dark days__ :two: Times of extreme misfortune or difficulty. _The company struggled on through some dark days several years ago, but it has since established itself as a dominant force in the market._  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __dark joke__  
@@ -1017,7 +1025,7 @@ __darkest hour__
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
 __day and age__  
 __day in and day out__ :seven: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
-__day in day out__ :two: For an indefinite number of successive days. _Syn_ time after time  
+__day in, day out__ :three: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
 __day or night__ :two: At any point in time; 24 hours a day. _You know you can always talk to me about your problems. Call me day or night, it doesn’t matter._  
 __day tripper__ _You are funny, sitting there like a day tripper._  
@@ -1025,6 +1033,7 @@ __day/moment/time in the sun__ A period of being popular or getting a lot of att
 __days gone by__ _Read about the colorful characters of days gone by._  
 __days on end__  
 __days to come__  
+__de facto__  
 __dead asleep__ :two: In a deep, immovable sleep. _I was dead asleep after my 12-hour shift; I didn’t even hear the neighbor’s car alarm going off!_  
 __dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
@@ -1038,7 +1047,7 @@ __dead on__
 __dead set against something__ To be completely against something.  
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
-__dealbreaker__ :seven::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealbreaker__ :eight::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
 __deep dive__ :four: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
 __deepfake__ :two::hammer:  
@@ -1052,6 +1061,7 @@ __devil in disguise__ Something or someone that appears to be good, useful, or b
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
 __dial in__ __6__ :dart: To perform a role or duty in a halfhearted, disinterested, and unprofessional manner. A noun or pronoun can be used between “dial” and “in,” especially in the form “dial it in.” _You can tell the actor is dialing it in—I’m sure he got a good paycheck for the voiceover, but you’d think he could try a little bit harder._  
 __dial up__ :two: To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
+__dicey__  
 __dick around__  
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
