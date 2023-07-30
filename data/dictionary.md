@@ -17217,16 +17217,19 @@ __tangerine__ _n_
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
-__tank__ _v intr_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
+__tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
+__tank__ _v intr_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._ _Google’s value tanked by as much as $100 billion because of the two flubs._  
+__tankard__ _n_  
 __tanker truck__  
 __tanker__ _n_  
+__tankinis__ _n_  
 __Tannenbaum__ _n_ (German noun) Fir tree (Christmas tree).  
-__tanner__ _n_ :three::hammer:  
+__tanner__ _n_ :four::hammer:  
 __tannery__  
 __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the sting out._  
 __tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
 __tanning__ _n_  
-__tantalize__ _v_ (tantalizing)  
+__tantalize__ _v_ :three::hammer: _A plethora of delectable options tantalize your taste buds._  
 __tantalizing__ _adj_ :eight::hammer: _The revelations are a tantalizing indication of how much we still have to learn._ _A tantalizing question._  
 __tantamount__ _adj_ :dart::eight: /TAN-tuh-mount/ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tanzanite__  
@@ -17279,7 +17282,8 @@ __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its repu
 __tatting__ _v_  
 __tattle<sup>1</sup>__ _n_  
 __tattle<sup>2</sup>__ _v_ :two::hammer: (tattling)  
-__tattletale__ _adj, n_  
+__tattletale<sup>1</sup>__ _adj_  
+__tattletale<sup>2</sup>__ _n_ :two::hammer:  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :eight::hammer: (taunted, taunting)  
@@ -17301,8 +17305,11 @@ __tax levy__
 __taxa__  
 __taxative__ _adj_ (Economics) Of, relating to, or involving taxation.  
 __taxi medallion__ _n_ A taxi medallion, also known as a CPNC (Certificate of Public Necessity and Convenience), is a transferable permit in the United States allowing a taxicab driver to operate. Several major cities in the US use these in their taxi licensing systems, including New York City, Boston, Cambridge, Chicago, Philadelphia, and San Francisco.  
+__taxi__ _n_ (_n pl_ taxis, or taxies)  
 __taxidermy__ _n_  
+__taxonomy__ _n_  
 __taxpayer__ _n_ :two::pencil2::hammer:  
+__Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __teakwood__ _n_ :pencil2: Teak.  
@@ -17314,25 +17321,33 @@ __tear gas__ _n_ :two::hammer:
 __teardown__ _n_  
 __tearjerker__ _n_ _informal_  
 __techie__ _n informal_ :two: (techies) One who studies or is highly interested or proficient in a technical field, especially electronics. _Facebook’s techie in chief._  
+__technical__ _adj_ _Technical garments._  
 __Tecnetium__  
 __tedious__  
-__tedium__ _n_  
+__tedium__ _n_ :two::hammer: _The bitter tedium of his daily life._  
 __tee up__ _v_  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
-__teem__ _v_ :two: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._  
-__teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teem__ _v_ :four: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._ _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
+__teeming__ _adj_ :six::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeter-totter__ _n_ _Upper Northern & Western US_ A plaything consisting of a board balanced on a fulcrum; the board is ridden up and down by children at either end. _Syn_ dandle board, seesaw, teeter, teeterboard, teetertotter, tilting board  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
+__teethe__ _v_  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
-__teetotaler__ _n_ :three: One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
+__teetotaler__ _n_ :four: One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
+__teetotaling__ _n_  
+__teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
 __telangiectasia__ _n_  
+__telco__  
+__telebiometric__ _adj_  
 __telecast__ _n, v_  
-__telegenic__  
+__telegenic__ _adj_ :two::hammer: /tel-uh-JEN-ik/  
 __telekinesis__ _n_ :mega:  
+__teleological__ _adj_ /tel-ee-uh-LAH-jih-kul/ Teleological (and its less common variant _teleologic_) is a philosophical term meaning “exhibiting or relating to purpose or design especially in nature.” _Their teleological theory on the origin of human beings was heavily challenged._  
+__teleology__  
 __televangelist__ _n_  
 __televised__  
 __telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  

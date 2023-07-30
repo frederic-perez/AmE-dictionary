@@ -527,29 +527,6 @@ __super-duper__
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __tamarind__  
 __tandem__ _n_  
-__tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
-__tank__ _v intr_ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _Google’s value tanked by as much as $100 billion because of the two flubs._  
-__tankard__ _n_  
-__tankinis__ _n_  
-__tanner__ _n_  
-__tantalize__ _v_ :two::hammer: _A plethora of delectable options tantalize your taste buds._  
-__tattletale__ _n_  
-__taxi__ _n_ (_n pl_ taxis, or taxies)  
-__taxonomy__ _n_  
-__Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
-__technical__ _adj_ _Technical garments._  
-__tedium__ _n_ _The bitter tedium of his daily life._  
-__teem__ _v_ :two::hammer: (teeming) _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
-__teeming__ _adj_  
-__teethe__ _v_  
-__teetotaler__  
-__teetotaling__ _n_  
-__teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
-__telco__  
-__telebiometric__ _adj_  
-__telegenic__ _adj_ /tel-uh-JEN-ik/  
-__teleological__ _adj_ /tel-ee-uh-LAH-jih-kul/ Teleological (and its less common variant _teleologic_) is a philosophical term meaning “exhibiting or relating to purpose or design especially in nature.” _Their teleological theory on the origin of human beings was heavily challenged._  
-__teleology__  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
