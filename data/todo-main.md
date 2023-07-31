@@ -49,6 +49,7 @@ __billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wa
 __bird of prey__ _n_  
 __blackface__ _n_  
 __blackmail__  
+__blacktop__ _n_ __1__ A bituminous paving substance, as asphalt. __2__ A road covered with blacktop.  
 __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
@@ -106,9 +107,11 @@ __comprise__ _v_ /kum-PRYZE/
 __conversant__  
 __convey__ _v tr_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
+__damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __dauntless__ _adj_ /DAWNT-lus/  
 __deem__ _v_  
 __deep-routed__  
+__defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __demystify__ _v tr_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
@@ -116,6 +119,7 @@ __disavow__ _v_ /dis-uh-VOW/
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
+__doctor__ _v tr_ __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._  
 __doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
@@ -125,7 +129,7 @@ __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy o
 __dovetail__ _v_  
 __downtime__ _n_  
 __dragon__ _n_ :mega:  
-__drawn-out__ _adj_ Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
+__drawn-out__ _adj_ :two: Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __ducat__  
 __dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
 __dysgraphia__ _n_  
@@ -199,6 +203,8 @@ __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in
 __frisson__ _n_  
 __frog fry__ _n_ Frog hopper.  
 __froufrou__  
+__fudge__ _n_  
+__ganache__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
@@ -294,6 +300,7 @@ __litentiously__
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __locution__ _n_  
+__long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a long-drawn-out story._  
 __loquacious__ _adj_ /loh-KWAY-shus/  
 __lovesick__ _adj_  
 __lowlight__  
@@ -320,7 +327,9 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __meddlesome__ _adj_  
 __meet-cute__ _n_ /MEET-kyoot/  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
+__melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
+__Mesoamerica__ _n_  
 __mess around__  
 __messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
@@ -386,6 +395,7 @@ __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implicatio
 __overview__ _n_ A general review or summary of something.  
 __paganism__ _n_  
 __palliative care__ _n_  
+__panacea__ _n_  
 __parapraxis__ _n_  
 __parcel__ _v tr_  
 __pariah__  
@@ -400,6 +410,7 @@ __pinecone__ _n_
 __pinwheel__ _n_  
 __pitfall__ _n_  
 __plaintive__ _adj_ /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
+__plank__ _n_ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
 __play-off__ _n_ :pencil2:  
 __plushy__ _adj_  
 __Pluto__ _n_  
@@ -412,6 +423,7 @@ __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by
 __procurement__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
+__prophylaxis__ _n_  
 __proponent__ _n_  
 __prosty__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
@@ -463,6 +475,8 @@ __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
 __rollout__ _n_  
+__row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
+__rummy__ _n_  
 __rung__ _n_  
 __salacious__  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
@@ -502,6 +516,7 @@ __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
+__smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
@@ -646,8 +661,9 @@ __unparalleled__ _adj_ :two::hammer:
 __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
 __unprecedented__  
 __unpretentious__  
+__unravel__ _v_ __2__ To free from complications; make plain or clear; solve: _to unravel a mystery._  
 __unsavory__ _adj_ /ʌnˈseɪ və ri/  
-__unscathed__ _adj_  
+__unscathed__ _adj_ :two::hammer:  
 __unsettling__ _adj_ Making one feel rather worried or uncertain.  
 __unsubstantiated__ _adj_  
 __unsurmountable__ _adj_  
