@@ -5140,6 +5140,7 @@ __drawbridge__ _n_ :three::hammer:
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
 __drawl<sup>2</sup>__ _n_ :five::hammer: _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
+__drawn-out__ _adj_ :two: Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __drawstring__ _n_  
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
@@ -5241,6 +5242,7 @@ __drywall__ _n_ A building material consisting of rectangular sections usually m
 __dub__ _v_ (dubbed)  
 __dubious__ _adj_ :six::hammer:  
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
+__ducat__  
 __duchy__ _n_ :three::hammer:  
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck reuben sandwich__  
@@ -5318,13 +5320,16 @@ __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, dimin
 __dyad__  
 __dyadic__  
 __dye__ _v_ (dyes, dyed, dyeing) :two::pencil2::hammer: _Sail the dyed green waters of the Chicago River._  
+__dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynasty__ _n_ :three::pencil2::hammer:  
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dysfunctional__  
+__dysgraphia__ _n_  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
+__dyspepsia__ _n_ Disturbed digestion. _Syn_ indigestion, upset stomach  
 __dysphemism__ _n_  
 __dysphoria__ _n_ :four: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
@@ -5349,6 +5354,7 @@ __earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, u
 __earmuffs__ _n_ :two::hammer:  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
+__earplug__ _n_ :pencil2:  
 __earring__ _n_ :three::pencil2: An ornament worn on or suspended from the ear, especially the earlobe.  
 __earth-shattering__  
 __earthing__ _n_ Fastening electrical equipment to earth.  
@@ -5361,7 +5367,7 @@ __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.
 __ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
 __easing__  
-__Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ A hidden message or feature, as in a video game or DVD.  
+__Easter egg__ _n_ :two: __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
 __Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
 __easy chair__ _n_ :three: A large, comfortable, upholstered chair.  
@@ -5380,7 +5386,7 @@ __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outbur
 __eccentric__ _adj_ /ik-SEN-trik/ __1__ People and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. _Down the road from us lives an eccentric old man who claims that he can communicate with the birds that roost in his yard._ __2__ Deviating from a circular path. _The dwarf planet Pluto has a particularly eccentric orbit._ __3__ Located elsewhere than at the geometric center.  
 __eccentricity__ _n_  
 __echelon__ _n_ :two::hammer: /ESH-uh-lahn/ _The upper echelons of the State Security force._  
-__echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
+__echo chamber__ _n_ :four: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
 __echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also a word created in this manner.  
 __eclampsia__  
@@ -5400,7 +5406,7 @@ __edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracio
 __edamame__ _n_  
 __eddy__ _v_ _Water eddies and cascades._  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
-__edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
+__edge__ _v_ :four: Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
 __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
@@ -5412,7 +5418,7 @@ __educated guess__ _n_ :three::hammer:
 __eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :nine: (eery) Uncanny, so as to inspire superstitious fear; strange and mysterious: _an eerie howl._ _Eerie incidents._  
 __eerily__ _adv_ :three::hammer:  
-__effect__ _v_ :three::hammer: (effecting) _A view to effecting opportunities._  
+__effect__ _v_ :four::hammer: (effecting) _A view to effecting opportunities._  
 __effeminacy__ _n_  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
@@ -5432,7 +5438,7 @@ __egg head__ _n_ _informal_ A very studious and academic person.
 __egg roll__  
 __egg white__  
 __egg__ _v_  
-__eggcorn__ _n_ :four: A new word or phrase that emerges from mistakenly hearing or interpreting another. Although resulting from a mistake, an eggcorn often still seems to make logical sense. Eggcorn examples: all intensive purposes (“All intents and purposes”), duck tape (duct tape), wet one’s appetite (“whet one’s appetite”)  
+__eggcorn__ _n_ :five: A new word or phrase that emerges from mistakenly hearing or interpreting another. Although resulting from a mistake, an eggcorn often still seems to make logical sense. Eggcorn examples: all intensive purposes (“All intents and purposes”), duck tape (duct tape), wet one’s appetite (“whet one’s appetite”)  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. _A big eggnog party._  
 __eggs benedict__  
@@ -5481,7 +5487,7 @@ __elevator boy__
 __elevator control box__  
 __elevator operator__ _n_ :camera:  
 __elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
-__eleven__ _n_ :mega:  
+__eleven__ _n_ :two::hammer::mega:  
 __elfin__ _adj_  
 __elicit__ _v_ :eight: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
@@ -5491,9 +5497,9 @@ __elision__
 __elite__ _n_ :two::hammer: (elites)  
 __elk__ _n_ :three::hammer: /ɛlk/ (_n pl_ elk or elks) :es: alce  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
-__elope__ _v intr_ :nine::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__elope__ _v intr_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
-__elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
+__elucidate__ _v_ :four: /ih-LOO-suh-dayt/ /ɪˈluːsɪˌdeɪt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elucidation__ _n_  
 __elude__ _v_ :three::astonished::hammer: (eluding)  
 __elusive__ _adj_ :three::hammer: _An elusive goal._  
@@ -5513,7 +5519,7 @@ __embattle__ _v_ :four::hammer: (embattled)
 __embattled__ _adj_  
 __embellish__ _v_ /im-BELL-ish/  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
-__embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
+__embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ /im-BEZZ-ul/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzlement__ _n_  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embitterment__  
@@ -5546,7 +5552,7 @@ __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotio
 __emoji__ _n pl_  
 __emollient__ _adj_ :five: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
-__emote__ _v intr_ :two::hammer:  
+__emote__ _v intr_ :three::hammer:  
 __empathetic__  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
@@ -5584,6 +5590,8 @@ __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions o
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :three: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
+__encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
+__encyclical<sup>2</sup>__ _adj_ For wide circulation.  
 __end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
 __end product__  
 __end result__  
@@ -5608,14 +5616,17 @@ __endpoint__ _n_ _Surrogate endpoints._
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
 __endure__ _v_ :three: Last for a long time.  
+__Energizer Bunny__  
 __energy harvesting__ _n_  
 __enervate__ _v_ :astonished: To weaken.  
+__enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfeebling, weakening  
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ :three::hammer: _I’m engaged with my work._  
 __engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
-__engender__ _v_  
+__engender__ _v_ :two: /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
+__engram__ _n_ _Syn_ memory trace  
 __engross__ _v_ :three::hammer::dart: (engrossed) _I was engrossed in my thoughts._  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  

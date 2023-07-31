@@ -129,28 +129,6 @@ __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy o
 __dovetail__ _v_  
 __downtime__ _n_  
 __dragon__ _n_ :mega:  
-__drawn-out__ _adj_ :two: Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
-__ducat__  
-__dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
-__dysgraphia__ _n_  
-__dyspepsia__ _n_ Disturbed digestion. _Syn_ indigestion, upset stomach  
-__earplug__ _n_ :pencil2:  
-__Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
-__echo chamber__  
-__edge__ _v_ Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
-__effect__ _v_  
-__eggcorn__  
-__eleven__ _n_ :mega:  
-__elope__ _v intr_  
-__elucidate__ _v_ /ɪˈluːsɪˌdeɪt/ To make clear (something obscure or difficult); clarify.  
-__embezzle__ _v_ /im-BEZZ-ul/  
-__emote__ _v intr_  
-__encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
-__encyclical<sup>2</sup>__ _adj_ For wide circulation.  
-__Energizer Bunny__  
-__enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfeebling, weakening  
-__engender__ _v_ /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
-__engram__ _n_ _Syn_ memory trace  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __ensued__ _v_  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
