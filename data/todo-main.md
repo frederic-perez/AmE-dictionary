@@ -536,30 +536,6 @@ __terraform__ _v_
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  
 __testament__ _n_  
-__testbed__ _n_ :two::hammer:  
-__textbook__ _n_ A book used in schools or colleges for the formal study of a subject.  
-__thalis__  
-__thaw__ _v_ _Let the meat thaw out and simmer._  
-__The Crown__ _n_  
-__theatregoer__ _n_  
-__thereabout__ _adv_  
-__thereby__ _adv_  
-__thicket__ _n_  
-__third rail__ _n_ /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
-__thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
-__thorough__ _adj_ _Their thorough feedback._  
-__thoroughbred__  
-__throat__ _n_ _Throat clearing._  
-__throbbing__ _adj_ _A throbbing dance club atmosphere._  
-__throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
-__thrombectomy__ _n_ Surgery to remove a blood clot.  
-__throng__  
-__throttle__ _v_ :two::hammer: _Most work has focused on throttling throughput._  
-__throughout__  
-__throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
-__thru__  
-__thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
-__thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
 __thwart__ _v_ :three::hammer: /THWORT/  
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  

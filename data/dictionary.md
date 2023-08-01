@@ -17420,7 +17420,7 @@ __terrestrial<sup>2</sup>__ _n_
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__ _adj_ :two: Brief and to the point; effectively concise.  
 __tesseract__ _n_ (Mathematics) A cube inside another cube.  
-__testbed__ _n_ :two::hammer:  
+__testbed__ _n_ :four::hammer:  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  
 __testosterone__ _n_  
@@ -17432,9 +17432,11 @@ __tetromino__ _n_
 __Texas Panhandle__  
 __Texas__ _n_ /ˈtɛksəs/  
 __texcetera__  
+__textbook__ _n_ A book used in schools or colleges for the formal study of a subject.  
 __textrovert__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __thalassaemia__ _n_ An inherited form of anemia caused by faulty synthesis of hemoglobin. _Syn_ Cooley’s anaemia  
+__thali__ _n_  
 __thane__ _v_  
 __thang__ _n slang_ :two::hammer:  
 __thank-you note__ _n_  
@@ -17447,7 +17449,7 @@ __that much__ _adv_ To a certain degree. _I’ll tell you that much._
 __that will do__  
 __that’s the breaks__  
 __thaumaturge__ _n_ /THO-muh-tuhrj/ [:scroll: From Greek thaumat- (wonder, miracle) + -urgy (work)] __1__ A miracle worker. __2__ A magician. _Syn_ necromancer, sorcerer, thaumaturgist, wizard, magician  
-__thaw<sup>1</sup>__ _v_ :five: When things thaw, they’re coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
+__thaw<sup>1</sup>__ _v_ :six: When things thaw, they’re coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too. _Let the meat thaw out and simmer._  
 __thaw<sup>2</sup>__ _n_ :seven: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the “m” word__  
@@ -17456,6 +17458,7 @@ __the 11th hour__
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
 __the big three-oh__  
 __the City of Brotherly Love__  
+__The Crown__ _n_  
 __the day’s full of spiders__  
 __the final frontier__ _n_ Outer space, especially from the perspective of space colonization. _There is a turf war brewing in the final frontier._  
 __the final straw__  
@@ -17464,15 +17467,16 @@ __The More You Know__ _n_
 __the name of the game__  
 __the order of the day__  
 __the writing on the wall__  
+__theatregoer__ _n_  
 __thecracy__  
 __theism__ _n_ Belief in the existence of a god or gods, especially belief in a personal God as creator and ruler of the world.  
 __theist__ _adj_  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
-__thereabout__  
+__thereabout__ _adv_ :two::hammer:  
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
-__thereby__  
+__thereby__ _adv_ :two::hammer:  
 __thereof__ _adv_ :two::hammer:  
 __thereto__ _adv_ _Pushed thereto by the nobles of his party._  
 __thermistor__ _n_ :two::hammer:  
@@ -17482,7 +17486,7 @@ __thespian<sup>1</sup>__ _adj_ :two::hammer:
 __thespian<sup>2</sup>__ _n_  
 __thew__ _n_  
 __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent is getting thicker._  
-__thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
+__thicket__ _n_ :seven::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ _n_ :mute:[thi~~gh~~]  
 __thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
@@ -17496,18 +17500,20 @@ __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.
 __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
 __thinning__ _n_  
 __third estate__ _n_ The third of the traditional social classes; the common people.  
-__third rail__ _n_ __1__ The rail that supplies the high voltage to power a train on an electric railway. __2__ A subject that tends to be avoided because of its offensive or controversial nature.  
+__third rail__ _n_ :two: /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
 __this and that__  
 __this time around__ _phr_ :dart::hammer: :es: esta vez  
 __thistle__ _n_ :mute:[this~~t~~le] :es: cardo  
 __thistledown__ _n_ The mature, silky pappus of a thistle.  
+__thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thobbing__  
 __Thomas Aquinas__ _n_ :two: (Aquinas /ə-kwī′nəs/, Saint Thomas) [1225-1274] Italian Dominican friar, theologian, and philosopher.  
 __thong__ _n_ :two::hammer:  
 __thoracotomy__ _n_  
 __thorn__ _n_ __4__ The runic letter þ, used in Old English, Middle English, and Old Norse manuscripts to represent both the voiceless sound (th) of Modern English _thin_ and the voiced sound (th) of Modern English _this_.  
 __thorny__ _adj_  
-__thorough__ _adj_ :three::astonished::hammer::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._ _Thorough investigation._  
+__thorough__ _adj_ :four::astonished::hammer::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._ _Thorough investigation._ _Their thorough feedback._  
+__thoroughbred__  
 __thoroughfare__ _n_ :eight::hammer: _A vibrant shopping thoroughfare._  
 __thoroughly__  
 __thoughout__  
@@ -17531,16 +17537,19 @@ __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially c
 __thrift__ _n_ _Thrift store._  
 __thrifty__ _adj_ :five::hammer: _Thrifty car rental._  
 __thrilling__ _adj_  
+__throat__ _n_ _Throat clearing._  
 __throb__ _v_ :six::hammer: (throbs, throbbing) _My head is throbbing._  
+__throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throbbingly__  
-__throes__ _n_ :five::hammer:  
+__throes__ _n pl_ :six: A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
+__thrombectomy__ _n_ Surgery to remove a blood clot.  
 __thrombocytopenia__ _n_  
 __thromboembolism__ _n_  
-__throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
-__throttle__ _v_ :two:: __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
+__throng__ _n_ :eight: A large gathering of people. _A throng of news media members._  
+__throttle__ _v_ :four::hammer: _Most work has focused on throttling throughput._ __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._ __4__ _prep_ _chiefly US_ Up to and including: _Monday through Friday._ _The meeting takes place from today through Thursday._  
 __throughfare__ _n_ Another word for thoroughfare.  
-__throughput__ _n_ :m: /ˈθruːˌpʊt/ Output or production, as of a computer program, over a period of time.  
+__throughput__ _n_ :two::mega: /ˈθruːˌpʊt/ Output or production, as of a computer program, over a period of time.  
 __throw a monkey off his back__  
 __throw down<sup>1</sup>__ _v_  
 __throw down<sup>2</sup>__ _n_  
@@ -17549,7 +17558,8 @@ __throw out the red meat__
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
 __throwback__ _n_ :four::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
-__throws__ _n_  
+__throws__ _n_ :two: __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
+__thru__  
 __thrum__ _v_ :three::hammer:  
 __thrust<sup>1</sup>__ _v_ :two::hammer:  
 __thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._  
@@ -17561,10 +17571,12 @@ __thumb war__
 __thumb<sup>1</sup>__ _n_ :mute:[thum~~b~~]  
 __thumb<sup>2</sup>__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
 __thumbnail__ _n_ __2__ Concise and brief. _Here’s a thumbnail of the story._  
+__thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _adj_ _informal_ _A thumping majority._  
 __thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
 __thunderheads__  
+__thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
 __thunderous__ _adj_  
 __thunderstone__ _n_  
 __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
