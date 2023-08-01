@@ -1,3 +1,5 @@
+__bag__ __2__ _v_ 2. To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
+__brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes. _Did I just say that two plus two equals five? Wow, I’m really brain dead today._  
 __Ding, ding, ding, we have a winner!__  
 __dirtbag__  
 __dish out__  
@@ -36,6 +38,7 @@ __finish off__
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
 __first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
+__floored__  
 __fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __follow suit__ To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
 __food coma__  
@@ -62,6 +65,7 @@ __git it a shot__
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (one) the creeps__  
+__give (someone) the business__  
 __give notice__  
 __glower at (someone or something)__  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
@@ -103,6 +107,7 @@ __hard knocks__ The real and practical experiences of life, especially those inv
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __have (got) a knack for (something)__ To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken. _I can’t understand these notes at all, you have handwriting like chicken scratch!_  
+__have a go (at someone or something)__  
 __highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
 __hoover__  
 __in hindsight__  
@@ -115,6 +120,7 @@ __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random tex
 __in the (grand) scheme of things__  
 __in the doghouse__ _slang_ In trouble with someone due to one’s misdeeds or blunders.  
 __in the eye of the beholder__  
+__in the guise of (something)__  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the zone__  
 __it goes without saying__  
@@ -141,7 +147,9 @@ __knock-off__
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __lovebirds__  
+__natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __null and void__ No longer valid, legitimate, or enforceable.  
+__of all things__  
 __on a tear__  
 __on the cusp__  
 __on the fence__  
@@ -154,11 +162,18 @@ __pan out__
 __pave the way (for someone or something)__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
+__quite something__  
 __reel off__  
 __reinvent the wheel__  
 __rock the boat__  
+__sleight of hand__  
+__smarty-pants__  
+__so much for someone or something__  
 __spaced (out)__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
+__the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __turn of phrase__  
+__What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
+__whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
