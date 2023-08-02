@@ -14,6 +14,7 @@ __allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments alleged
 __ameliorate__ _v_ /uh-MEE-lee-uh-rayt/  
 __ammonia__ _n_ :es: amoníaco  
 __Anchors Aweigh__ _n_  
+__ancillary__ _adj_ /AN-suh-lair-ee/  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
 __ant hill__ _n_  
 __apace__ _adv_  
@@ -43,6 +44,7 @@ __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Oliv
 __belly laugh__ _n_  
 __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.  
 __bench__ _v_  
+__benignant__ _adj_ /bih/buh-NIG-nuhnt/ __1__ Kind and gracious. __2__ Beneficial. __3__ Not harmful.  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __biff__ _n_  
 __billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
@@ -104,9 +106,12 @@ __clobber__ _v tr_
 __coddle__ _v tr_  
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __comprise__ _v_ /kum-PRYZE/  
+__contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __conversant__  
 __convey__ _v tr_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
+__crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
+__crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __dauntless__ _adj_ /DAWNT-lus/  
 __deem__ _v_  
@@ -129,6 +134,7 @@ __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy o
 __dovetail__ _v_  
 __downtime__ _n_  
 __dragon__ _n_ :mega:  
+__endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __ensued__ _v_  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
@@ -171,6 +177,7 @@ __felon__
 __fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __fiasco__  
 __fictive__ _adj_  
+__filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
@@ -191,6 +198,7 @@ __gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,
 __gloomy__ _adj_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gospel__ _n_ /GOS-puhl/  
+__gourmand__ _n_ A lover of good food. _Syn_ trencherman, glutton  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __greeble__  
@@ -198,6 +206,7 @@ __gripping__ _adj_
 __grunt__ _n_ __1__ A deep guttural sound.  
 __guardrail__ _n_  
 __guffaw__ _v_  
+__guidepost__ _n_ A rule or principle that provides guidance to appropriate behavior. _Syn_ rule of thumb, guideline  
 __guy__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
@@ -258,6 +267,7 @@ __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and 
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__Klondike__ _n_ A form of solitaire card game.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __laconic__  
@@ -266,6 +276,7 @@ __lambent__ _adj_ /LAM-bunt/ When used literally, lambent can mean “softly bri
 __landfill__ _n_  
 __leaner__ _adj_ _AI might make tech companies leaner._  
 __legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.  
+__legerdemain__ _n_  
 __lemon grass__ _n_  
 __level up__  
 __liaison__ _n_ :pencil2:  
@@ -306,6 +317,7 @@ __meddlesome__ _adj_
 __meet-cute__ _n_ /MEET-kyoot/  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
+__menage__ _n_ A domestic establishment. _Syn_ household  
 __meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
 __Mesoamerica__ _n_  
 __mess around__  
@@ -339,6 +351,7 @@ __mushroom__ _v intr_
 __musical clefs__  
 __musing__ _adj, n_  
 __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
+__myopia__ _n_ _Syn_ nearsightedness, shortsightedness  
 __mythos__ _n_  
 __nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
 __namely__ _adv_  
@@ -360,6 +373,7 @@ __Old Crow__ _n_
 __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __optíonal__ _adj_ :mega:  
+__orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
 __ornamental__ _adj, n_  
 __ostopenia__  
 __outcome__ _n_ :mega:  
@@ -380,6 +394,7 @@ __pariah__
 __parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
+__perquisite__ _n_ /PER-kwuh-zut/  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
@@ -505,6 +520,7 @@ __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not excl
 __spate__ _n_  
 __spaz__  
 __speak up__  
+__spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
