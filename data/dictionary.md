@@ -17588,7 +17588,7 @@ __thusly__
 __thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)  
 __thwack<sup>2</sup>__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at being unable to fix it, Dad thwacked the engine, and it started right up._  
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
-__thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
+__thyme__ _n_ :six::hammer::mega::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :five: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman’s hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _The papal tiara._ :es: diadema  
 __tic-tac-toe__ _n_  
 __tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._  
@@ -17599,10 +17599,11 @@ __tick<sup>2</sup>__ _v_ _Prices ticked up 0.2%._
 __ticker tape__  
 __ticker__ _n_ :two: __1a__ _slang_ A person’s heart. __b__ A watch. __2__ A person or thing that ticks.  
 __ticket taker__ _n_ Someone who is paid to admit only those who have purchased tickets.  
+__ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __ticket__ _n_ __5__ (Government, Politics & Diplomacy) chiefly US and NZ the group of candidates nominated by one party in an election; slate. _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
-__tickling__ _n_  
+__tickling__ _n_ :two::dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
 __ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
@@ -17712,6 +17713,7 @@ __titubation__ _n_ /ˌtɪtjʊˈbeɪʃən/ __1__ (Pathology) Adisordered gait cha
 __tix__ _n pl_ _informal_ :two: Tickets.  
 __tixker__  
 __tizzy__  
+__tkt__ _n_ Ticket.  
 __tmesis__ _n_ The insertion of a word or part of a word in another word. Examples: another = “a whole nother” absolutely = “abso-freakin’-lutely” somewhere = “some bloody where”  
 __to be at sea__  
 __to be in the clear__  
@@ -17723,12 +17725,16 @@ __to that extent__ _adv_ To the degree or extent that. _Syn_ in so far, insofar,
 __to-do list__  
 __toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
-__toady__ _n_ One who flatters in the hope of gaining favors. _Syn_ sycophant  
+__toady<sup>1</sup>__ _n_ One who flatters in the hope of gaining favors. _Syn_ sycophant  
+__toady<sup>2</sup>__ _v_  
 __toast > French toast__  
 __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
-__toboggan__ _n_ :two::hammer:  
+__toboggan<sup>1</sup>__ _n_ :two::hammer:  
+__toboggan<sup>2</sup>__ _v intr_  
+__tobogganer__  
+__tobogganing__ _n_ _Summer tobogganing run._  
 __tocsin__ _n_ :two: __1__ An alarm or warning signal, esp one sounded on a bell. __2__ An alarm bell.  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
@@ -17739,24 +17745,29 @@ __toe<sup>1</sup>__ _n_
 __toe<sup>2</sup>__ _v_ :two::hammer: (toed)  
 __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
+__toffee__  
 __tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
 __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
-__toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
+__toil<sup>2</sup>__ _v_ :six::hammer: (toiled) _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
 __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.  
 __toilet stool__  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
 __toiletries__  
 __Tokyoites__  
+__tolerant__  
 __tolerate__ _v_  
-__toll<sup>1</sup>__ _n_ :three::hammer:  
+__toll-free__  
+__toll<sup>1</sup>__ _n_ :five::hammer: _Emotional toll._ _Toll road._  
 __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
 __Tom and Jerry__ _n_ A hot drink consisting of rum or another liquor, a beaten egg, milk or water, sugar, and spices.  
 __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
 __tomb__ _n_ :mute:[tom~~b~~]  
+__tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
 __tomboy__  
 __tombstone__ _n_  
-__tomcat__  
+__tomcat<sup>1</sup>__ _n_ :two: /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
+__tomcat<sup>2</sup>__ _v intr_ To pursue women promiscuously.  
 __tome__ _n_ :two: /TOHM/ A large heavy book, usually about a serious subject. A tome is a large or scholarly book. _The book is a literary tome set during the French Revolution._  
 __tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
 __tommyrot__ _n_ Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
@@ -17767,13 +17778,14 @@ __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is n
 __tongue twister__ _n_ __1__ A word or group of words difficult to articulate rapidly, usually because of a succession of similar consonantal sounds, as in _Shall she sell seashells?_ __2__ Something difficult to pronounce.  
 __tongue__ _n_ :mute:[tong~~u~~e]  
 __tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
-__tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
+__tonic<sup>1</sup>__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
+__tonic<sup>2</sup>__ _n_ _The perfect tonic to the excesses of the night before._  
 __tonnes__ _n pl_  
 __tonsil__ _n_ _A tonsil infection._  
 __tonsillitis__ _n_  
 __tonsils__ _n_ :two::hammer:  
 __tonsure__ _n_ :five::camera: __1__ The act of shaving the head or part of the head, especially as a preliminary to becoming a priest or a member of a monastic order. __2__ The part of a monk’s or priest’s head that has been shaved. _The pate of a monk with a wet red tonsure._  
-__tony__ _adj informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
+__tony__ _adj informal_ :six: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._ _Tony boutiques._  
 __toodles__ _v_  
 __toodling__  
 __toom__  
@@ -17786,8 +17798,9 @@ __tooth-gnashing__
 __tooth-wrecking__  
 __toothless__ _adj_ _Some consider most of those laws toothless._  
 __toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer is that English is weird. The long answer is that compound words generally use the singular form of a word to represent the whole, including those involving body parts: _hairbrush_, _footstool_, _armchair_, _bookcase_, etc.  
-__toothsome__ _adj_ :three: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
-__tootsie__ _n_ _slang_ :two: Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
+__toothsome__ _adj_ :five: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
+__toothy smile__  
+__tootsie__ _n_ _slang_ :three: /ˈtʊtsɪ/ Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top billing__ _n_ The advertisement of a star’s name at the top of a theatrical poster.  
 __top dog__  
@@ -17795,6 +17808,7 @@ __top dollars__
 __top flight__ _n_  
 __top hat__ _n_  
 __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
+__top__ _v_ _The investment soon topped a billion dollars._  
 __top-dog__  
 __top-flight__  
 __top-of-mind__  

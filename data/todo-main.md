@@ -553,28 +553,6 @@ __terrazzo__
 __terrific__ _adj_ _The traffic is terrific._  
 __testament__ _n_  
 __thwart__ _v_ :three::hammer: /THWORT/  
-__thyme__ _n_ :two::mega::hammer:  
-__ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
-__tickling__ _n_ :dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
-__tkt__ _n_ Ticket.  
-__toady__ _v_  
-__tobbogan__ _v intr_  
-__tobogganer__  
-__tobogganing__ _n_ _Summer tobogganing run._  
-__toffee__  
-__toil__ _v_ _Artisans toil in fascinating foundries._  
-__tolerant__  
-__toll__ _n_ :two::hammer: _Emotional toll._ _Toll road._  
-__toll-free__  
-__tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
-__tomcat<sup>1</sup>__ _n_ /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
-__tomcat<sup>2</sup>__ _v intr_ To pursue women promiscuously.  
-__tonic__ _n_ _The perfect tonic to the excesses of the night before._  
-__tony__ _adj_ _Tony boutiques._  
-__toothsome__ _adj_ :two::hammer:  
-__toothy smile__  
-__tootsie__ _n_ /ˈtʊtsɪ/  
-__top__ _v_ _The investment soon topped a billion dollars._  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
