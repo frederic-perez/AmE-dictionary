@@ -557,27 +557,6 @@ __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
 __traboule__ _n_  
-__traci meet__ _n_ :two::hammer:  
-__trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
-__tremendously__ _adv_ :two::hammer:  
-__trenchant__ _adj_ /TREN-chunt/ Trenchant is a formal word that is usually used to describe communication that is notably strong, clear, and perceptive, or in other words, “sharp.” _The author’s trenchant wit was very evident in thencritique she wrote of the much-acclaimed film._  
-__trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
-__trepidation__ _n_ :two: A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
-__trestle__ _n_ :two::hammer: _Railway trestles._  
-__tribulation__ _n_  
-__tributary__ _n_  
-__trickle__ _n_ _A trickle of sweat._  
-__tried-and-true__ _adj_ Tested and proved to be worthy or good.  
-__trillion__ _n_ _There are trillions of microbes living in and on our bodies—and we might be able to modify them to help us treat diseases._  
-__trim__ _n_ _Metallic trim._  
-__trimmings__ _n_ _A delicious dinner complete with all the trimmings and free seconds._  
-__tuck away__ _v_ :two::hammer:  
-__tuck__ _v_ (tucked)  
-__tuff rock__  
-__tuition__ _n_  
-__tune-up__ _n_ _Overnight tune-ups and repairs._  
-__tuple__ _n_ :mega:  
-__turducken__ _n_  
 __turmeric__ _n_ :two::hammer:  
 __turnabout__ _n_  
 __turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  

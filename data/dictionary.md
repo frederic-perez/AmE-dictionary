@@ -17885,6 +17885,7 @@ __Toyota__ _n_ :mega: A city of south-central Honshu, Japan, east-southeast of N
 __tpngue-in-cheek__  
 __trace element__ _n_ __1__ A chemical element present in tiny amounts: _trace elements in ground water._ _This elixir packs a nutritional punch with antioxidants, trace elements, enzymes, and energy-promoting superfoods._ __2__ A chemical element required in minute quantities by an organism to maintain proper physical functioning.  
 __traceability__ _n_  
+__traci meet__ _n_ :two::hammer:  
 __track__ _n_ :camera:  
 __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
@@ -17974,19 +17975,21 @@ __treen__ _n_ Small woodenware.
 __treetops__ _n_  
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trek__ _n_ :mega:  
-__trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
+__trellis__ _n_ :eight::hammer: (trellises) _A series of couches shaded by trellises._ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
 __tremendous__ _adj_ :two::hammer:  
+__tremendously__ _adv_ :two::hammer:  
 __tremor__ _n_  
 __trench coat__ _n_  
-__trenchant__ _adj_ :two: Having keenness and forcefulness and penetration in thought, expression, or intellect. _Syn_ searching _His trenchant criticism redirected the debate and gave everyone something new to consider._  
+__trenchant__ _adj_ :three: /TREN-chunt/ Having keenness and forcefulness and penetration in thought, expression, or intellect. Trenchant is a formal word that is usually used to describe communication that is notably strong, clear, and perceptive, or in other words, “sharp.” _Syn_ searching _His trenchant criticism redirected the debate and gave everyone something new to consider._ _The author’s trenchant wit was very evident in thencritique she wrote of the much-acclaimed film._  
 __trend__ _v_  
-__trepidation__ _n_ :six: /trep-uh-DAY-shun/ Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
+__trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
+__trepidation__ _n_ :eight: /trep-uh-DAY-shun/ Worry or anxiety about something that is going to happen. A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._ _With some trepidation, I asked him out for dinner._  
 __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
-__trestle__ _n_ :seven: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: bastidor  
+__trestle__ _n_ :nine: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _Railway trestles._ :es: bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__ _n_ :two::hammer:  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
@@ -17997,7 +18000,7 @@ __tribal__
 __tribble__ _n_  
 __Tribeca__  
 __tribulation__ _n_ :nine::m: __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Syn_ affliction, burden, cross, trial _The realm could not endure the great tribulation and poverty._ __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
-__tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
+__tributary__ _n_ :three: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _n_ _Her fellow tribute and her hunting buddy._  
 __trice__ _n_ A very short time; an instant.  
 __trick of the light__  
@@ -18005,20 +18008,23 @@ __trick pad__
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
+__trickle__ _n_ _A trickle of sweat._  
 __trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
 __trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
+__tried-and-true__ _adj_ Tested and proved to be worthy or good.  
 __trifecta__ _n_ :six::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle<sup>1</sup>__ _n_ :two::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trilby__ _n_ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
 __trill__ _n_ :six::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_  
+__trillion__ _n_ _There are trillions of microbes living in and on our bodies—and we might be able to modify them to help us treat diseases._  
 __trilobite__ _n_ :two::mega::hammer:  
-__trim__ _n_ :three::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._ _The built-in microwave can be built into cabinetry with a trim kit._  
-__trimming__ _n_ :dart: __1__ An extra piece used to decorate or complete. __2__ _(plural)_ Usual or traditional accompaniments: _roast turkey with all the trimmings._ __3__ _(plural)_ Parts that are cut off. __4__ _(plural)_ Dialect ornaments; decorations: _Christmas trimmings._  
+__trim__ _n_ :four::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._ _The built-in microwave can be built into cabinetry with a trim kit._ _Metallic trim._  
+__trimming__ _n_ :dart::two: __1__ An extra piece used to decorate or complete. __2__ _(plural)_ Usual or traditional accompaniments: _roast turkey with all the trimmings._ _A delicious dinner complete with all the trimmings and free seconds._ __3__ _(plural)_ Parts that are cut off. __4__ _(plural)_ Dialect ornaments; decorations: _Christmas trimmings._  
 __trinity__ _n_ _Trinity College in Dublin._  
 __trinket__ _n_ :eight::hammer: _Trinket and tartan shops._  
 __trip wire__ _n_ _You hit a trip wire._  
@@ -18109,17 +18115,18 @@ __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube w
 __tubing<sup>1</sup>__ _adj_ _A lift-served, lighted tubing hill._  
 __tubing<sup>2</sup>__ _n_ :two::hammer: _River tubing._  
 __tubthumping__  
-__tuck away__  
-__tuck<sup>1</sup>__ _v_ :six: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
+__tuck away__ _v_ :three::hammer:  
+__tuck<sup>1</sup>__ _v_ :seven: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __Tucson, Arizona__ _n_ :mega: [Common popular pronunciation: /tuhk-son/ Prevailing local pronunciation: /too-son/]  
 __Tudor__  
 __Tuesday__ _n_ :mega: /’tuzdi, -deI/  
+__tuff rock__  
 __tuffet__ _n_ :two: __1__ A clump or tuft of grass. __2__ A low seat, such as a stool. A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
 __tuft__ _n_  
 __tufted__  
 __tug of war__ _n_ :four::hammer:  
-__tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
+__tuition__ _n_ :three::hammer: _The tuition for the workshops is on a sliding scale._  
 __tuk-tuk__  
 __tulip__  
 __tulle__ _n_ _Tulle-covered arch._  
@@ -18131,14 +18138,16 @@ __tumbleweed__ _n_
 __tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; barrow.).  
 __tumult__ _n_ :two: Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__ _adj_ :two::hammer:  
+__tune-up__ _n_ _Overnight tune-ups and repairs._  
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunic__ _n_ :two::hammer: __1__ A coat worn as part of a military or other uniform.  
 __tunnel vision__ _n_ :two::hammer:  
+__tuple__ _n_ :mega:  
 __tuppence__  
 __turbid__ _adj_  
 __turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
-__turducken__ _n_ :two: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
+__turducken__ _n_ :three: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
 __Turkey day__  
 __turkey drumstick__ _n_  
