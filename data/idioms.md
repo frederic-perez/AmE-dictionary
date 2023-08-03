@@ -369,6 +369,7 @@ __badass__ :three::hammer:
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __bag of tricks__ All the clever methods by which someone achieves something.  
+__bag__ __2__ _v_ 2. To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
 __balancing act__  
 __bald-faced lie__ A blatantly obvious or impudent untruth, one in which the liar does not attempt to disguise their mendacity. _Our son tells us nothing but bald-faced lies when we ask him where he goes at night._  
 __ball and chain__ A wife.  
@@ -626,6 +627,7 @@ __brace of shakes__ Instantly, quickly, or in an extremely short amount of time,
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
+__brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes. _Did I just say that two plus two equals five? Wow, I’m really brain dead today._  
 __brain surgery__ :three: A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
 __brainwave__ :two: A sudden idea or moment of inspiration; a brainstorm. _I had a brilliant brainwave last night about how we could end world hunger._  
 __brass monkeys__ Very cold weather.  
@@ -1069,12 +1071,15 @@ __dig deep__
 __dig in(to) (something)__  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
 __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
-__Ding, ding, ding, we have a winner!__ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
+__Ding, ding, ding, we have a winner!__ :two: _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
+__dirtbag__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
-__dish out__ _Yoda will dish out the advice._  
+__dish out__ :two::hammer: _Yoda will dish out the advice._  
+__dish something out__  
+__diss__  
 __dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
-__dive in__ :dart::two::hammer: _Let’s dive in together._  
+__dive in__ :dart::three::hammer: _Let’s dive in together._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
@@ -1084,6 +1089,7 @@ __do the dishes__ Wash dishes.
 __do the right thing__ To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
 __do the trick__  
 __do well__ Prosper, thrive, succeed, as in _He’s done well in the market._  
+__Do you get my drift?__  
 __Do your magic__  
 __do-gooder__  
 __doctors make the worst patients__ :two: _proverb_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task. _Mary tried to convince her boss at the bank to see a credit advisor about his growing debt, but he kept insisting that he knew how to manage his money. Doctors make the worst patients._  
@@ -1091,13 +1097,15 @@ __dodge a bullet__ :three: To narrowly avoid something or some situation that tu
 __doesn’t hold water__ Not true or not reasonable.  
 __dog and pony show__ a presentation which designed to impress an audience but has no real content.  
 __dog day afternoon__ An afternoon in the part of the summer often thought to be hottest, usually considered to be July 3 to August 11. As such, it is often related to feelings of lethargy. In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed “the dog star.” _As a kid, I loved lounging in the swimming pool on dog day afternoons._  
+__dog days__  
+__dog__ A pint bottle (470ml) of liquor; thus _short dog_, a half-pint bottle. _Short dogs of bonded bourbon._  
 __dog-and-pony show__ :two::hammer: (dog and pony show)  
 __dog-eat-dog__ _adj_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __doggone it__  
 __doggone__ A mild substitution for “goddamn” or “damn.” _I have so much doggone homework tonight, ugh._ _I can’t believe we lost that doggone game._  
 __don’t call us, we’ll call you__ :two: _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
 __don’t count your chickens before they hatch__ :dart::three: (don’t count your chickens before they’re hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, “Don’t count your chickens before they’re hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don’t count your chickens before they’re hatched, babe!_  
-__don’t get (one) started__ :three::hammer:  
+__don’t get (one) started__ :four::hammer:  
 __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ :two: An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ :two: Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic. _A: “So, do you ever hear from your ex-husband?” B: “Don’t even go there. That divorce trial still gives me a headache!”_  
@@ -1136,8 +1144,10 @@ __draw a blank__ :two: To fail to find or remember something.
 __draw a line in the sand__ :two::hammer:  
 __draw the line__ _Draw the line in the sand._  
 __draw to a close__ :five::hammer:  
+__draw up__  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __dressed to kill__  
+__drill in(to) (someone or something)__  
 __drink like a fish__ To drink too much alcohol.  
 __drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
@@ -1156,10 +1166,11 @@ __duke it out__ :two::hammer:
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __dust off__  
+__dynamic duo__  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early days__ :two: The beginning period or phase of some entity, trend, or phenomenon.  
-__easier said than done__ Said of a task that is easier to talk about than to do.  
+__easier said than done__ :two: Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
 __easy peasy__ :two::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
@@ -1173,6 +1184,7 @@ __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall 
 __elephant in the room__ :three: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
 __elevator pitch__ :two: A short sales presentation for a product/service/person/idea.  
 __Elvis has left the building__ :four: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
+__Elysian Fields__  
 __empty nester__ _n_ :two: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __end (something) on a high note__ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ :two::hammer:  
@@ -1203,13 +1215,14 @@ __everything humanly possible__ Everything that is in the range of human powers.
 __everything under the sun__  
 __excuse my French__  
 __exert (oneself)__ To make a concerted effort to do something. Put oneself to strenuous effort.  
-__explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
-__extra pair of hands__ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
+__explore every avenue__ :two: To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
+__extra pair of hands__ :two::dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._ _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :three: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye-opening__ :two: Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
 __eye-to-eye__ _You can get eye-to-eye with a dolphin._  
 __F-ing__  
 __face value__ :two::hammer:  
+__fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
 __failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
 __faint of heart__ :three: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  

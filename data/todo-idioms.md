@@ -1,23 +1,3 @@
-__bag__ __2__ _v_ 2. To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
-__brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes. _Did I just say that two plus two equals five? Wow, I’m really brain dead today._  
-__Ding, ding, ding, we have a winner!__  
-__dirtbag__  
-__dish out__  
-__dish something out__  
-__diss__  
-__dive in__  
-__Do you get my drift?__  
-__dog days__  
-__dog__ A pint bottle (470ml) of liquor; thus _short dog_, a half-pint bottle. _Short dogs of bonded bourbon._  
-__don’t get (one) started__  
-__draw up__  
-__drill in(to) (someone or something)__  
-__dynamic duo__  
-__easier said than done__  
-__Elysian Fields__  
-__explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
-__extra pair of hands__ :dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._  
-__fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
 __fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
 __fair game__  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
