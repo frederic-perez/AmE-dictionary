@@ -1,3 +1,6 @@
+__a shot in the arm__  
+__bird-dog__ __1__ To become romantically involved with someone else’s significant other, especially when done by a man. _I can’t believe that guy bird-dogged me and stole my girlfriend!_ __2__ To pay close, usually unwelcome, attention to someone else. _Would you quit bird-dogging me and let me work in peace?_  
+__catch (one’s) eye__  
 __fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
 __fair game__  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
@@ -11,7 +14,7 @@ __fear of missing out__
 __feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
 __femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
-__fiddle with (something)__ To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
+__fiddle with (something)__ :dart::two: To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __fill up__  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer. _We finished shooting last week, but it will likely be another several months before we’re ready with the final cut._  
 __finish off__  
@@ -78,6 +81,7 @@ __grapple with (someone or something)__
 __grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
 __gulp down__  
+__gunk__  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
 __hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
@@ -88,7 +92,9 @@ __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is ha
 __have (got) a knack for (something)__ To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken. _I can’t understand these notes at all, you have handwriting like chicken scratch!_  
 __have a go (at someone or something)__  
+__high profile__  
 __highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
+__hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoover__  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
@@ -128,12 +134,14 @@ __know (one’s) shit__
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __lovebirds__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
+__nix__  
 __null and void__ No longer valid, legitimate, or enforceable.  
 __of all things__  
 __on a tear__  
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
+__one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __other than (something)__  
 __ouch__ :dart:  
 __out of character__  
@@ -142,6 +150,7 @@ __pan out__
 __pave the way (for someone or something)__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
+__poon__  
 __quite something__  
 __reel off__  
 __reinvent the wheel__  
@@ -151,9 +160,14 @@ __smarty-pants__
 __so much for someone or something__  
 __spaced (out)__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
+__take back__  
+__tap into__  
 __the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
+__touch up__ :dart: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._  
+__trick__ _v_  
 __turn of phrase__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
+__yea or nay__  
