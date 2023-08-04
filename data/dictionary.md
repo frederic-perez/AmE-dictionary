@@ -18152,16 +18152,20 @@ __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn
 __Turkey day__  
 __turkey drumstick__ _n_  
 __turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
+__turmeric__ _n_ :two::hammer:  
 __turmoil__  
 __turn a profit__  
 __turn on__ _phr v_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
 __turn-key__ _adj_ :five: A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
+__turnabout__ _n_  
 __turnaround__ _n_ :two::hammer:  
+__turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
+__turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
 __turndown__ _n_ The act of refusing an offer.  
 __turnip greens__  
-__turnip__ _n_ :four: [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
-__turnkey__ _adj_ :four::hammer: _Turnkey property._ _Turnkey solutions._  
+__turnip__ _n_ :five::hammer: [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
+__turnkey__ _adj_ :five::hammer: _Turnkey property._ _Turnkey solutions._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :five: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
@@ -18169,11 +18173,12 @@ __turnpike__
 __turnround__  
 __turnsole__ _n_ :pencil2:  
 __turnstile__ _n_ :two::hammer:  
+__turntable__ _n_ :two::hammer:  
 __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
-__turpitude__ _n_ :three: Behavior that is dishonest or immoral. A corrupt or depraved or degenerate act or practice. _Syn_ depravity _Seeing the various turpitudes of modern society shook her faith in humanity._  
-__turquoise__ _n_ :pencil2:  
-__turret__ _n_ :four::hammer:  
+__turpitude__ _n_ :three: /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” Behavior that is dishonest or immoral. A corrupt or depraved or degenerate act or practice. _Syn_ depravity _Seeing the various turpitudes of modern society shook her faith in humanity._ _Crimes such as theft and perjury may involve moral turpitude._  
+__turquoise__ _n_ :two::pencil2: TUHR-koiz/kwoiz/ [:scroll: Named after Turkey. The gemstone was called turquoise because either it was discovered in Turkey or transported to Europe via Turkey.] __1__ A blue, bluish-green, or greenish-gray semi-precious stone. __2__ A bluish-green color.  
+__turret__ _n_ :six::hammer:  
 __turtledove__ _n_ :es: tórtola  
 __tush__ _n_ A canine tooth, especially of a horse.  
 __tushie__ _n_ :two::hammer:  
@@ -18194,11 +18199,14 @@ __twang<sup>2</sup>__ _v_ :two::hammer:
 __twanger__ _n_  
 __twangy__  
 __twat__ _n_ :two::hammer:  
+__twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
 __tweak<sup>1</sup>__ _n_ :four (tweaks) __2__ A small adjustment: _made a few tweaks to the sound system._  
-__tweak<sup>2</<sup>__ _v tr_ :two: __2__ To adjust; fine-tune: _tweaked her computer setup._  
+__tweak<sup>2</<sup>__ _v tr_ :four: __2__ To adjust; fine-tune: _tweaked her computer setup._ _Tweak your workout routine._  
 __tweak<sup>3</<sup>__ _v intr_ _slang_ __1__ To behave in an agitated or compulsive manner, especially when under the influence of a stimulant drug. __2__ To be under the influence of a stimulant drug, especially methamphetamine.  
 __tweed__  
+__tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
 __tweeny-weeny__  
+__twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twiddle__ _v_ :three::hammer: (twiddling) _Twiddle their tootsies._  
 __twilight sleep__ _n_ A state of partial anaesthesia in which the patient retains a slight degree of consciousness.  
@@ -18272,6 +18280,7 @@ __unavenged__ _adj_
 __unbidden__ _adj_  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
+__unbundling__ _n_  
 __unburdened__  
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
 __Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
@@ -18352,7 +18361,7 @@ __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderst
 __unequivocally__  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
 __uneven__  
-__uneventful__ _adj_ Lacking in important or interesting occurrences; routine: _an uneventful day._  
+__uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _adj_ :nine:m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
@@ -18361,8 +18370,9 @@ __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
-__unfold__ _v_ :five::hammer: _Mysteries unfold._  
+__unfold__ _v_ :six::hammer: _Mysteries unfold._  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
+__unforgiving__ _adj_  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
 __unfurnished__ _adj_ Having no furniture, especially when available to be rented. _One-bedroom unfurnished flats start at £1,325 a month._  
@@ -18371,6 +18381,7 @@ __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._
 __ungodly__ _adj_  
 __ungulate<sup>1</sup>__ _adj_ :two::hammer:  
 __ungulate<sup>2</sup>__ _n_ A hoofed mammal.  
+__unharness__ _v_  
 __unheralded__ _adj_ :two::hammer:  
 __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
 __unhinged__ _adj_ :three: Deranged or unbalanced. _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  

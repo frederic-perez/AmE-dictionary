@@ -557,27 +557,6 @@ __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
 __traboule__ _n_  
-__turmeric__ _n_ :two::hammer:  
-__turnabout__ _n_  
-__turncoat__ _n_ :astonished: One who traitorously switches allegiance. _Syn_ apostate, deserter, ratter, recreant, renegade _He was a turncoat who betrayed his friends to curry favor with the King._ :es: chaquetero; tránsfuga  
-__turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
-__turnip__ _n_  
-__turnkey__ _adj_ _Turnkey solutions._  
-__turntable__ _n_  
-__turntables__ _n_  
-__turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
-__turquoise__ _n_ /TUHR-koiz/kwoiz/ [:scroll: Named after Turkey. The gemstone was called turquoise because either it was discovered in Turkey or transported to Europe via Turkey.] __1__ A blue, bluish-green, or greenish-gray semi-precious stone. __2__ A bluish-green color.  
-__turret__ _n_ :two::hammer:  
-__twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
-__tweak__ _v tr_ :two::hammer: _Tweak your workout routine._  
-__tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
-__twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
-__unbundling__ _n_  
-__uneventful__ _adj_ /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet.  
-__unfazed__ _adj_  
-__unfold__ _v_  
-__unforgiving__ _adj_  
-__unharness__ _v_  
 __unheeded__  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
