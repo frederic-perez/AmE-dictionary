@@ -56,6 +56,7 @@ __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done i
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
+__boilerplate code__ _n_  
 __bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
 __boo__ _v_  
 __boolean__ _n_ :mega:  
@@ -75,11 +76,13 @@ __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic.
 __building block__  
 __bully__ _n_  
 __bunting__ _n_  
+__buzzcut__ _n_ /ˈbʌzˌkʌt/ (buzz cut) A very short haircut.  
 __byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __cadre__  
 __Calvinism__ _n_  
 __calypso__ _n_ (music)  
 __camarilla__ _n_ A group of confidential, often scheming advisers. _Syn_ cabal, faction, junto  
+__camper van__ _n_ (camping van) A motor caravan.  
 __canasta__ _n_  
 __cannoli__ _n_  
 __carefree__ _adj_  
@@ -105,6 +108,7 @@ __clique__
 __clobber__ _v tr_  
 __coddle__ _v tr_  
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
+__commodify__ _v tr_  
 __comprise__ _v_ /kum-PRYZE/  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __conversant__  
@@ -118,6 +122,7 @@ __deem__ _v_
 __deep-routed__  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __demystify__ _v tr_  
+__desiccant__ _n_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __disavow__ _v_ /dis-uh-VOW/  
@@ -183,8 +188,10 @@ __finicky__ _adj_
 __firefly__ _n_ :es: luciérnaga  
 __flit__ _n_  
 __flywheel__ _n_  
+__forfeit__ _v tr_  
 __formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
+__forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __frisson__ _n_  
 __frog fry__ _n_ Frog hopper.  
 __froufrou__  
@@ -195,6 +202,7 @@ __gemini__ _n_ :mega:
 __gerrymander__ _v_ /JAIR-ee-man-der/  
 __giraffe__ _n_  
 __gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
+__glaring__ _adj_  
 __gloomy__ _adj_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gospel__ _n_ /GOS-puhl/  
@@ -282,6 +290,7 @@ __level up__
 __liaison__ _n_ :pencil2:  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __life raft__ _n_  
+__lighthearted__ _adj_  
 __liminal__ _adj_  
 __Listerine__ _n_  
 __litany__  
@@ -345,6 +354,7 @@ __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argum
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __mosey__ _v intr_  
+__mosh pit__ _n_  
 __multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
 __mumpsimus__  
 __mushroom__ _v intr_  
@@ -372,6 +382,7 @@ __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _S
 __Old Crow__ _n_  
 __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
+__op-ed__ _n_  
 __optíonal__ _adj_ :mega:  
 __orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
 __ornamental__ _adj, n_  
@@ -395,6 +406,7 @@ __parlance__ _n_
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __perquisite__ _n_ /PER-kwuh-zut/  
+__persona__ _n_  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
@@ -499,6 +511,7 @@ __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
+__shortlist__ _n, v_  
 __simile__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
@@ -530,10 +543,13 @@ __steppe__ _n_ /stɛp/
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
+__stopgap__ _n_  
+__sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__survivalist__ _n_ /səˈvaɪvəlɪst/  
 __tamarind__  
 __tandem__ _n_  
 __telethon__ _n_  
@@ -553,6 +569,7 @@ __terrazzo__
 __terrific__ _adj_ _The traffic is terrific._  
 __testament__ _n_  
 __thwart__ _v_ :three::hammer: /THWORT/  
+__time-saver__ _n_  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
