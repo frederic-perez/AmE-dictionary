@@ -1,6 +1,11 @@
+__(one’s) secret weapon__  
 __a shot in the arm__  
+__ahead of the curve__  
+__be shortlisted__  
 __bird-dog__ __1__ To become romantically involved with someone else’s significant other, especially when done by a man. _I can’t believe that guy bird-dogged me and stole my girlfriend!_ __2__ To pay close, usually unwelcome, attention to someone else. _Would you quit bird-dogging me and let me work in peace?_  
 __catch (one’s) eye__  
+__come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
+__compare apples to oranges__ To compare two unlike things or people. _Stop comparing apples to oranges—those two companies you’re talking about are completely different._  
 __fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
 __fair game__  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
@@ -59,6 +64,8 @@ __go Greek__
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go to Canossa__  
 __go to great lengths (to do something)__  
+__go to show__ To prove, demonstrate, or indicate that something is true. Used especially in the phrase “just goes to show.” _Their success just goes to show that you can’t underestimate the power of good marketing._  
+__go to the mat__ [:scroll: This expression refers to a wrestler who fights fiercely and is willing to risk a fall.] If someone goes to the mat, they fight very fiercely about something. _Erickson said he will go to the mat to save parks in the city._  
 __go to the mattresses__ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders. _While the political party has shown some flexibility over other contentious issues, it looks as though they’re ready to go to the mattresses over this one._  
 __go under the hammer__ To be put up for or sold at auction. _The bankers family estate had to go under the hammer to cover some of his mounting debt._  
 __go-to girl__  
@@ -89,7 +96,7 @@ __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I ha
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
-__have (got) a knack for (something)__ To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
+__have (got) a knack for (something)__ :two: To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken. _I can’t understand these notes at all, you have handwriting like chicken scratch!_  
 __have a go (at someone or something)__  
 __high profile__  
@@ -119,6 +126,7 @@ __jam-packed__
 __jump in__  
 __keep in mind__  
 __keep it real__  
+__keep it up__ :dart:  
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep pace__  
 __kick (someone or something) to the curb__  
@@ -133,6 +141,8 @@ __knock-off__
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __lovebirds__  
+__make great strides__  
+__mixed feelings__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __nix__  
 __null and void__ No longer valid, legitimate, or enforceable.  
@@ -152,11 +162,16 @@ __play catch-up__ To try to reach the same level of understanding, accomplishmen
 __play dumb__ To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __poon__  
 __quite something__  
+__rack up__  
 __reel off__  
 __reinvent the wheel__  
 __rock the boat__  
+__roll out__  
+__seize the opportunity (to do something)__  
+__shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __sleight of hand__  
 __smarty-pants__  
+__snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __so much for someone or something__  
 __spaced (out)__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
@@ -164,6 +179,7 @@ __take back__
 __tap into__  
 __the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
+__to the fore__  
 __touch up__ :dart: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._  
 __trick__ _v_  
 __turn of phrase__  
