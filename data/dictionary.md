@@ -18401,11 +18401,13 @@ __unlucky__ _adj_
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__ _adj_ :three::hammer::astonished:  
 __unobstrusive__  
-__unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
+__unparalleled__ _adj_ :two::hammer:  
+__unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
+__unprecedented__ _adj_ :two: Having no previous example: _unprecedented economic growth._  
+__unpretentious__  
 __unprofessional__ _adj_  
 __unquestioned__  
-__unravel__  
-__unraveling__  
+__unravel__ _v_ :three: __2__ To free from complications; make plain or clear; solve: _to unravel a mystery._  
 __unreal__  
 __unreasonable__ _adj_  
 __unrecognizable__ _adj_  
@@ -18417,11 +18419,11 @@ __unrestrained__
 __unruffled__ _adj_ _An unruffled commander._  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
-__unsavory__  
-__unscathed__ _adj_ :six: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unsavory__ _adj_ :two::hammer: /ʌnˈseɪ və ri/  
+__unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unseemly__ _adj_ _Syn_ indecorous  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
-__unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man’s unsettling eyes._  
+__unsettling__ _adj_ :three: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man’s unsettling eyes._  
 __unshackle__ _v_ _The two guards unshackled Sam at the door._  
 __unsheathe__ _v_ (unsheathed) _He unsheathed his sword._  
 __unshirted__ _adj_ __1__ Serious; unmitigated. _Trump did outdo former holders of the office in one regard: producing unshirted chaos._ __2__ Plain; undisguised. _Maloof first gave Carter his unshirted opinion about some of his recent votes._  
@@ -18432,12 +18434,15 @@ __unsound__
 __unspool__ _v_ (unspooling) _Unspooling microphone cables._  
 __unstiking__ _v_  
 __unstoppable__ _adj_ :two::hammer: _She is our unstoppable force of nature._  
+__unsubstantiated__ _adj_  
 __unsung__  
+__unsurmountable__ _adj_  
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _adj_ :two: __1__ Not having been tapped: an untapped cask of wine. __2__ Not utilized: _untapped resources._ _Untapped talent._  
+__untapped__ _adj_ :three: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
+__untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
 __unthinkable__ _adj_ _The unthinkable has befallen President._  
 __unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my to-do list._  
@@ -18447,12 +18452,13 @@ __untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ 
 __untuck__ _v_  
 __unwarranted__  
 __unwary__ _adj_  
+__unwavering__ _adj_  
 __unwell__ _adj_  
 __unwielding__  
-__unwieldy__ _adj_ :three: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._  
+__unwieldy__ _adj_ :four: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._ _Unwieldy design and operational complexity must be avoided._  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_ :six: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
-__unwittingly__ _adv_ :four::dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._  
+__unwittingly__ _adv_ :five::dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._ _He unwittingly deleted the references._  
 __unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
@@ -18476,11 +18482,11 @@ __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
 __uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
 __upholder__ _n_  
-__upkeep__ _n_ :five: __1__ Maintenance in proper operation, condition, and repair. _Chalkboards did not require much upkeep._ __2__ The cost of such maintenance.  
+__upkeep__ _n_ :six: __1__ Maintenance in proper operation, condition, and repair. _Chalkboards did not require much upkeep._ __2__ The cost of such maintenance.  
 __uplifted__ _adj_  
 __uplifting__ _adj_ :two::hammer: /ʌpˈlɪftɪŋ/  
 __upmarket__  
-__upmost__ _adj_ :two: /ˈʌpˌməʊst/ Another word for uppermost.  
+__upmost__ _adj_ :three: /ˈʌpˌməʊst/ Another word for uppermost.  
 __upped__ _v_  
 __upper crust__ _n_ _informal_ The highest social class or group.  
 __upper__ _n_ (uppers)  
@@ -18506,7 +18512,7 @@ __upshot__ _n_ :nine: The final outcome. _Syn_ conclusion, result _The upshot of
 __upside__ _n_ :four: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
-__upskilling__ _n_ :dart: Teaching or learning additional skills.  
+__upskilling__ _n_ :dart::two: Teaching or learning additional skills.  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upslope__ _n_  
@@ -18532,7 +18538,9 @@ __urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend 
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __use case__ _n_  
-__usher__ _v_ :four::hammer: _NVIDIA ushered in a new era in the high performance computing industry._  
+__use__ _v_ _informal_  
+__username__ _n_ :pencil2:  
+__usher__ _v_ :five::hammer: _NVIDIA ushered in a new era in the high performance computing industry._ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __usufruct__ _n_  
 __usurp__ _v_  
 __usury__ _n_ :seven::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
@@ -18542,17 +18550,18 @@ __utilitarian__
 __utility room__  
 __utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
-__utmost<sup>1</<sup>__ _adj_ :seven::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
+__utmost<sup>1</<sup>__ _adj_ :eight::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
 __utmost<sup>2</<sup>__ _n_  
 __utopia__ _n_ /yoo-TOH-pee-uh/  
 __utter__ _adj_ _Utter darkness._  
 __utterance__  
-__utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
+__utterly__ _adv_ :eight::hammer: _An utterly trivial dispute._  
 __uvula__ _n_ :es: úvula, campanilla  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one’s wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __V bolt__  
 __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
+__V8__ _n_ _(beverage)_  
 __vacant__ _adj_ :two::hammer: _A vacant look._ _Adam parked in a vacant spot._  
 __vacant-eyed__  
 __vacate__ _v_ :three::hammer:  

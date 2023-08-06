@@ -580,31 +580,6 @@ __unison__ _n_
 __unkempt__ _adj_  
 __unmissable__  
 __unpack__  
-__unparalleled__ _adj_ :two::hammer:  
-__unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
-__unprecedented__  
-__unpretentious__  
-__unravel__ _v_ __2__ To free from complications; make plain or clear; solve: _to unravel a mystery._  
-__unsavory__ _adj_ /ʌnˈseɪ və ri/  
-__unscathed__ _adj_ :two::hammer:  
-__unsettling__ _adj_ Making one feel rather worried or uncertain.  
-__unsubstantiated__ _adj_  
-__unsurmountable__ _adj_  
-__untapped__ _adj_ /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._  
-__untethered__ _adj_ Not tied or limited with or as if with a tether.  
-__unwavering__ _adj_  
-__unwieldy__ _adj_ _Unwieldy design and operational complexity must be avoided._  
-__unwittingly__ _adv_ Without knowledge or intention. _He unwittingly deleted the references._  
-__upheaval__ _n_  
-__upkeep__ _n_  
-__upmost__  
-__upskilling__ _n_ Teaching or learning additional skills.  
-__use__ _v_ _informal_  
-__username__ _n_ ;pencil2:  
-__usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
-__utmost__  
-__utterly__  
-__V8__ _n_ _(beverage)_  
 __vacationer__ _n_  
 __vacuous__  
 __vacuum__ _n_ __4__ A vacuum cleaner.  
