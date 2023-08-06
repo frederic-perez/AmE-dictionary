@@ -1,23 +1,3 @@
-__(one’s) secret weapon__  
-__a shot in the arm__  
-__ahead of the curve__  
-__be shortlisted__  
-__bird-dog__ __1__ To become romantically involved with someone else’s significant other, especially when done by a man. _I can’t believe that guy bird-dogged me and stole my girlfriend!_ __2__ To pay close, usually unwelcome, attention to someone else. _Would you quit bird-dogging me and let me work in peace?_  
-__catch (one’s) eye__  
-__come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
-__compare apples to oranges__ To compare two unlike things or people. _Stop comparing apples to oranges—those two companies you’re talking about are completely different._  
-__fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
-__fair game__  
-__fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
-__fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for. _Danny says he has several laptops and smartphones he wants to sell for cheap—sounds like they fell off the back of a truck to me._  
-__fall through the cracks__  
-__fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
-__false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite. _There’s no need for that false modesty here; you are fully aware of your success and achievement, and you don’t need me to reaffirm it for you._  
-__far and wide__ All over; everywhere.  
-__fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
-__fear of missing out__  
-__feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
-__feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
 __femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
 __fiddle with (something)__ :dart::two: To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __fill up__  

@@ -39,6 +39,7 @@ __(one’s) lucky day__ A particular day or moment in one’s life when one expe
 __(one’s) moment in the sun__ A brief period of time in which one is or has been particularly successful, popular, famous, etc., especially when set against an otherwise moderate or unremarkable life. _After 35 years in this one-horse town, all I want is a moment in the sun, a time when the whole world knows and loves me!_  
 __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one’s) other half__ One’s spouse, romantic partner, or boyfriend/girlfriend. _I’d love to come out to the bars with you after work, but I’d better check in with my other half to make sure we don’t have any plans for this evening._  
+__(one’s) secret weapon__  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
 __(only) time will tell__  
@@ -155,6 +156,7 @@ __a rolling stone gathers no moss__ People pay a price for being always on the m
 __a rough patch__ :two: A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a shot in the arm__  
 __a slew of (something)__ A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._  
 __a sly dog__ :two: Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
 __a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
@@ -212,7 +214,7 @@ __against the clock__ :two: Rushed and short on time.
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
-__ahead of the curve__ :six::hammer:  
+__ahead of the curve__ :seven::hammer:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
@@ -486,6 +488,7 @@ __be quite something__ :two: To be particularly noteworthy, remarkable, interest
 __be rained out__ To be delayed, postponed, or cancelled due to the rain. _I was really looking forward to the football match this weekend, but it was rained out._  
 __be running on fumes__ To be continuing to operate with no or very little enthusiasm, energy, or resources left. _I’ve been painting the house for four hours every night after work, and I am seriously running on fumes at this point._ _We were running on fumes by the time our team made it to the championship round._  
 __be rushed off (one’s) feet__ :dart: To be exceptionally busy, especially to an exhausting or exasperating degree; to be made to work very hard and very quickly. _We have three parties of 40 scheduled for the dining room this evening, so all of our servers are going to be rushed off their feet._  
+__be shortlisted__  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sick to death of (someone or something)__ To be or become exceedingly wearied by, bored of, or exasperated with someone or something. _I’m sick to death of doing my boss’s errands. If something doesn’t change soon, I’m going to quit!_  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
@@ -560,6 +563,7 @@ __bigger fish to fry__
 __bigger than life__ (larger than life)  
 __bigheaded__  
 __billet-doux__ A love letter. _John was so enamored with the new girl in his class that he wrote a billet-doux and slipped it into her locker after school._  
+__bird-dog__ __1__ To become romantically involved with someone else’s significant other, especially when done by a man. _I can’t believe that guy bird-dogged me and stole my girlfriend!_ __2__ To pay close, usually unwelcome, attention to someone else. _Would you quit bird-dogging me and let me work in peace?_  
 __bitch box__ _rude_ _slang_ An intercom. Typically used in the military. _Ugh, what are they announcing over the bitch box now?_  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
@@ -786,6 +790,7 @@ __cat’s pajamas__ Something or someone highly enjoyable, desirable, or impress
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
 __catch (on) fire__ To begin to burn, usually after being touched by an existing fire. _Hey, keep an eye on that pan, I don’t want our dinner to catch on fire._  
 __catch (one’s) breath__  
+__catch (one’s) eye__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
 __catch a snooze__ To sleep or take a nap, especially of a short duration.  
 __catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
@@ -909,13 +914,14 @@ __come to grips with (someone or something)__
 __come to grips__ :two::hammer:  
 __come to terms with (someone or something)__ :eight: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
-__come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
+__come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
 __come-one-come-all__  
 __comfort food__ :two: Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
 __coming-of-age__ :four: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __commy__ (Commy; commies) Pinko.  
 __compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
+__compare apples to oranges__ To compare two unlike things or people. _Stop comparing apples to oranges—those two companies you’re talking about are completely different._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __competitive edge__  
 __concrete jungle__ :two: An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
@@ -1223,42 +1229,47 @@ __eye-to-eye__ _You can get eye-to-eye with a dolphin._
 __F-ing__  
 __face value__ :two::hammer:  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
+__fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
 __failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
 __faint of heart__ :three: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
-__fair game__ :two::hammer:  
-__fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
+__fair game__ :three::hammer:  
+__fair-weather fan__ :two: A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
 __fall by the wayside__ __2__ To be discarded, ignored, rejected, or set aside in favor of other considerations or more urgent matters. _With the economy suffering, the president’s plan for environmental reform has increasingly fallen by the wayside._ _Amazon’s once-innovative voice assistant Alexa has fallen by the wayside._  
 __fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
 __fall from the sky__ _This trust doesn’t fall from the sky._  
 __fall in place__  
-__fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
+__fall off the back of a truck__ :two: Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for. _Danny says he has several laptops and smartphones he wants to sell for cheap—sounds like they fell off the back of a truck to me._  
 __fall off the wagon__ :two::hammer:  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short of__  
 __fall short__ :nine::m: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ To fail to meet or reach some goal, standard, expectation, etc. _The company usually makes very high-quality devices, but their latest model falls quite short, unfortunately._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
-__fall through the cracks__  
+__fall through the cracks__ :two::hammer:  
 __fall through__ :dart: To not be completed or come to fruition; to fail due to some outside circumstances. _Oh, we’re not going away next week after all—our vacation plans fell through._  
+__fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
 __false alarm__  
 __false friend__ :dart::three: A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
-__false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
+__false modesty__ :two: A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite. _There’s no need for that false modesty here; you are fully aware of your success and achievement, and you don’t need me to reaffirm it for you._  
 __fam__ An abbreviation for “family that can be used to refer to one’s blood relatives or close friends. Despite the plural connotation of “family,” it can also be applied to an individual. _I’d love to go out tonight, but I’m having dinner with the fam—my mom’s making her famous meatballs!_ _Of course I’ll help you, fam. You’re my best friend!_  
 __fan service__ :two::hammer:  
 __fan the flames__ To do or say something to make an argument, problem, or bad situation worse; to further incense an already angry person or group of people. _The debate was going poorly for the senatorial candidate, and his strikingly uncouth comments simply fanned the flames._  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  
 __far and away__ :astonished:  
-__far and wide__ :five::hammer: _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
+__far and wide__ :six: All over; everywhere. _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
 __far cry (from something)__ :nine::m: [:sound: far cry from] A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __farmer’s tan__ :dart: A tan or sunburn on the neck and lower arms that results from wearing a T-shirt during prolonged sun exposure and that is clearly demarcated from the pale skin of the chest and upper arms that remained covered. :es: moreno paleta _It was so warm that I only wore a T-shirt on the four-hour hike, but I had a pretty gnarly farmer’s tan by the end of the day._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
+__fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __faux pass__  
 __fear not__  
+__fear of missing out__  
+__feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
 __feather your own nest__ To use your position or your job to get a lot of money for yourself.  
-__feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival.  
+__feed (someone) to the wolves__ :two: To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
 __feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
 __feel all the feels__ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
