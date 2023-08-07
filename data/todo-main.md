@@ -600,26 +600,6 @@ __vapid__ _adj_ :astonished::three: /VAP-id/ /ˈvæp ɪd/ Someone or something d
 __variable__ _n_ :mega:  
 __variegate__ _v_ Make something more diverse and varied. _Syn_ vary  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
-__varsity__ _n_ :two: The principal team representing a university, college, or school in sports, games, or other competitions. _Syn_ first team _She was determined to make the varsity basketball team and practiced her game all summer._  
-__vast__ _adj_ :two::hammer: _The vast array of resources._  
-__vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
-__veal__ _n_ :two::hammer:  
-__vehicular__ _adj_ :two::hammer_ _Vehicular networks.  
-__veiling__ _n_ Sheer material, such as gauze or fine lace, used for veils. _Syn_ netting, gauze _The seamstress attached a lace trim to the veiling, so that it would match the bride’s dress._  
-__vein__ _n_ :two::hammer: (not vessel)  
-__veneer__ _n_ :two::hammer: _Porcelain veneers._  
-__venerable__ _adj_ _Venerable institution._  
-__venison__ _n_  
-__vent__ _v_  
-__ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
-__verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
-__verdigris__ _n_ /VER-duh-greess/ Verdigris is a green or bluish deposit, usually of copper carbonates, that forms on copper, brass, or bronze surfaces. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
-__verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
-__vermeil__ _adj, n_  
-__verruciform__ _adj_ In the shape of a wart.  
-__verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections. _Syn_ wartlike, warty _The witch extended her verrucose arm and shook her gnarled finger in the little boy’s face._  
-__versatile__  
-__vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __verve__  
 __vexing__ _adj_ _A vexing problem._  
 __viands__ _n_  

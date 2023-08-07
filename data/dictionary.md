@@ -18617,10 +18617,10 @@ __variety store__
 __varlet__ _n_  
 __varmints__  
 __varnish__ _n_  
-__varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
+__varsity__ _n_ :nine::m: The principal team representing a university, college, or school in sports, games, or other competitions. The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _Syn_ first team _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._ _She was determined to make the varsity basketball team and practiced her game all summer._  
 __vasculitis__ _n_ Inflammation of the blood vessels.  
 __vassal__ _n_ :two::hammer:  
-__vast__ _adj_ _A vast number._  
+__vast__ _adj_ :three::hammer: _The vast array of resources._ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
 __vat__ _n_ :six: __1__ A large vessel, such as a tub, cistern, or barrel, used to hold or store liquids. _A large vat of water._ _Wine vats._ _He could be seen trampling grapes in a wooden vat._ __2__ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vatic__ _adj_ Of or characteristic of a prophet; oracular.  
@@ -18628,7 +18628,8 @@ __vaudeville__ _n_ :two::pencil2::hammer:
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __vaunted__ _adj_ :two: Highly or widely praised or boasted about. _His vaunted years of experience._  
-__veal__ _n_ :es: ternera  
+__vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
+__veal__ _n_ :three::hammer: :es: ternera  
 __vector__ _v tr_ _He vectored toward the tanker waiting for him._  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
@@ -18637,9 +18638,10 @@ __veg<sup>2</sup>__ _v intr_ To engage in relaxing or passive activities. Often 
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __veggies__ _n pl_ _slang_ Vegetables.  
 __vehicle__ _n_ :mute:[ve~~h~~icle]  
-__vehicular__ _adj_ :mega: _Vehicular homicide._  
+__vehicular__ _adj_ :three::mega::hammer: _Vehicular homicide._ _Vehicular networks._  
 __veil__ _v_  
-__vein__ _n_ _Gold vein._  
+__veiling__ _n_ Sheer material, such as gauze or fine lace, used for veils. _Syn_ netting, gauze _The seamstress attached a lace trim to the veiling, so that it would match the bride’s dress._  
+__vein__ _n_ :three::hammer: (not vessel) _Gold vein._  
 __velar__ _adj_ __2__ Articulated with the back of the tongue touching or near the soft palate, as (g) in good and (k) in king.  
 __Velcro__ _n_  
 __velleity__ _n_ :two: /vɛˈliːɪtɪ/ __1__ The weakest level of desire or volition. __2__ A mere wish.  
@@ -18651,16 +18653,17 @@ __vendetta__ _n_ :two: __1__ A feud between two families that arises from the in
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
-__veneer__ _n_ :seven::hammer: (veneers) _A veneer of quality._  
-__venerable__ _adj_  
+__veneer__ _n_ :nine::hammer: (veneers) _A veneer of quality._ _Porcelain veneers._  
+__venerable__ _adj_ :two::hammer: _Venerable institution._  
 __venerate__ _v_ :two: /VEN-uh-rayt/ To feel or show deep respect and honor for someone or something. To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._ _Volunteers of the Peace Corps are venerated for their selfless dedication and contributions._  
 __vengeful__ _adj_  
 __venial__ _adj_  
-__venison__ _n_ :four::hammer:  
+__venison__ _n_ :five::hammer:  
 __Venn__ _n_ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
-__vent__ _v_ _slang_ :three: To express a negative emotion in a forceful way.  
+__vent__ _v_ _slang_ :four: To express a negative emotion in a forceful way.  
+__ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __ventilator__ _n_ :two::pencil2: _med_ A machine that helps a patient breathe. This machine pumps oxygen into the lungs and removes carbon dioxide through a tube. The insertion of this tube into a person’s windpipe (trachea) is called intubation.  
 __venture__ _n_  
 __venue__ _n_ :two::hammer: _What’s the venue?_  
@@ -18673,22 +18676,26 @@ __verberize__
 __verbiage__ _n_ :three::hammer: _Ornamental verbiage._  
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
-__verdant__ _adj_ _Verdant hills._  
+__verdant__ _adj_ :three: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ _Verdant hills._ __3__ Unripe in experience or judgment.  
 __verdict__ _n_ :five::hammer::pencil2:  
-__verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
+__verdigris__ _n_ :two::astonished: /VER-duh-greess/ __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
 __verge__ _n_ :two::hammer:  
 __vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
 __verigreen__ _n_ A simple or gullible person.  
-__verisimilitude__ _n_ :two::hammer:  
+__verisimilitude__ _n_ :three: The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __veritable__ _adj_ :two::hammer:  
+__vermeil__ _adj, n_  
 __vermicelli__  
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
 __vermouth__ _n_  
 __vernacular__ _n_ :four::hammer:  
 __vernal__ _adj_  
-__versatile__ _adj_ :two::hammer.  
+__verruciform__ _adj_ In the shape of a wart.  
+__verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections. _Syn_ wartlike, warty _The witch extended her verrucose arm and shook her gnarled finger in the little boy’s face._  
+__versatile__ _adj_ :three::hammer.  
 __vertical farm__  
+__vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __verve__ _n_ :seven::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very<sup>1</sup>__ _adj_ :two: __4__ Used to emphasize the importance of what is specified. _For this very reason._ _We were in this very room._  
