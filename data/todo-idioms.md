@@ -1,3 +1,7 @@
+__a ground ball with eyes__  
+__bag__ __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
+__blue moon__  
+__bully pulpit__  
 __femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
 __fiddle with (something)__ :dart::two: To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __fill up__  
@@ -63,12 +67,21 @@ __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immed
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
 __goon__ _n_  
+__grand poobah__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). _I think it sounds like a great idea, but you’ll have to ask the grand poobah first._  
 __grand total__ The final amount after adding several different numbers or sums. _After everything was accounted for, the cost of remodeling the kitchen came to a grand total of $4,500._  
 __grapple with (someone or something)__  
+__grasp in the dark__  
 __grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
+__grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
+__grind (someone’s) gears__ To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
+__guilt complex__ A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __gulp down__  
+__gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
 __gunk__  
+__gut factor__  
+__half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
+__halfway decent__  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
 __hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
@@ -157,6 +170,8 @@ __spaced (out)__
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __take back__  
 __tap into__  
+__the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
+__the Greek calends__  
 __the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __to the fore__  
