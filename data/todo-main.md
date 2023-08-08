@@ -7,6 +7,7 @@ __adrift__
 __adroit__  
 __advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of.  
 __affectionally__  
+__aggrandize__ _v_ /uh-GRAN-dyze/  
 __aghast__  
 __agog__ _adj_ Highly excited by eagerness, curiosity, anticipation, etc.  
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
@@ -109,6 +110,7 @@ __clobber__ _v tr_
 __coddle__ _v tr_  
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __commodify__ _v tr_  
+__commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
 __comprise__ _v_ /kum-PRYZE/  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __conversant__  
@@ -116,8 +118,11 @@ __convey__ _v tr_
 __corollary__ _n_ /KOR-uh-lair-ee/  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
+__culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __dauntless__ _adj_ /DAWNT-lus/  
+__debonair__ _adj_ /deb-uh-NAIR/  
+__debunk__ _v_ To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose  
 __deem__ _v_  
 __deep-routed__  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
@@ -215,6 +220,7 @@ __grunt__ _n_ __1__ A deep guttural sound.
 __guardrail__ _n_  
 __guffaw__ _v_  
 __guidepost__ _n_ A rule or principle that provides guidance to appropriate behavior. _Syn_ rule of thumb, guideline  
+__gumption__ _n_ /GUMP-shun/  
 __guy__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
@@ -252,6 +258,7 @@ __illegal__ _adj, n_ :mega:
 __illustrious__ _adj_ /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected.  
 __impending__  
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
+__incarcerate__ _v_ /in-KAHR-suh-rayt/  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indomitable__ _adj_ /in-DAH-muh-tuh-bul/ Indomitable is a formal word used to describe something that is impossible to defeat or discourage.  
@@ -277,6 +284,7 @@ __juvenilize__
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __Klondike__ _n_ A form of solitaire card game.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
+__kowtow__ _v_  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __laconic__  
 __laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
@@ -292,6 +300,7 @@ __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Sy
 __life raft__ _n_  
 __lighthearted__ _adj_  
 __liminal__ _adj_  
+__lionhearted__  
 __Listerine__ _n_  
 __litany__  
 __litentiously__  
@@ -309,6 +318,7 @@ __mac and cheese__ _n_
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Mad Libs__ _n_  
+__malaise__ _n_ /muh-LAYZ/ Malaise refers to a slight or general feeling of not being healthy or happy.  
 __malapropism__  
 __malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
 __malleable__  
@@ -405,6 +415,8 @@ __pariah__
 __parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
+__peewee__ _n_  
+__penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __perquisite__ _n_ /PER-kwuh-zut/  
 __persona__ _n_  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
@@ -424,6 +436,7 @@ __polish__ _v_ _I polish your writing._
 __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
 __pool table__  
 __pool__ _v_  
+__presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
 __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __procurement__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
@@ -441,6 +454,7 @@ __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a stro
 __purport<sup>1</sup>__ _v tr_ :astonished:  
 __purport<sup>2</sup>__ _n_  
 __purview__ _n_  
+__quiddity__ _n_  
 __quirk__ _n_  
 __raillery__ _n_  
 __rambler__ _n_  
@@ -480,6 +494,7 @@ __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
 __rollout__ _n_  
+__roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __rummy__ _n_  
 __rung__ _n_  
@@ -515,6 +530,7 @@ __shortlist__ _n, v_
 __simile__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
+__skullduggery__ _n_  
 __slink__ _v_  
 __sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
 __sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
@@ -574,6 +590,8 @@ __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
 __traboule__ _n_  
+__trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
+__unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __unheeded__  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
