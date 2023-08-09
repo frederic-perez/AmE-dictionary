@@ -18725,44 +18725,56 @@ __vicar__
 __vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you’re telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
+__vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually refers to events or situations that occur by chance. It can also apply specifically to the difficulties or hardships, usually beyond one’s control, that are commonly encountered in a life, career, etc., or simply to the quality or state of being changeable.  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
+__victory lap__ _n_  
 __victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
 __victual<sup>2</sup>__ _v tr_ To provide with food.  
 __victual<sup>3</sup>__ _v intr_ To obtain food or to eat.  
 __victuals__ _n pl_ :five::mega: /ˈvɪtəlz/ Food supplies; provisions.  
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning “to invite” as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize.”  
+__vie__ _v_  
+__viewfinder__ _n_  
 __vig__ _n_ :three::hammer:  
 __vignette__ _n_ /vin-YET/ A short written description or a brief scene in a movie or play. _The documentary is a series of vignettes showing the lives of three families under quarantine during the pandemic._  
-__vigorous__ _adj_ _A vigorous intellect._  
+__vigorous__ _adj_ :two::hammer: _A vigorous intellect._  
+__Viking__ _n_ :pencil2:  
 __vile__  
-__vilify__ _v tr_ :five: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
+__vilify__ _v tr_ :six: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
-__villa__ _n_ :two::hammer:  
+__villa__ _n_ :four::hammer:  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
 __villeinage__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
-__vindicate__ _v_ :nine::hammer: (vindicated)  
+__vindicate__ _v_ :nine::m: /VIN-duh-kayt/ __1__ To show that someone is not guilty. _In light of the new evidence, we believe that our client will be completely vindicated._ __2__ To show that someone or something that has been criticized or doubted is correct, true, or reasonable. _Recent volcanic activity on Jupiter’s moon Io vindicates astronomers’ theories about the geologic makeup of that celestial body._  
 __vindication__ _n_ :eight::hammer:  
+__vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __vindictive__ _adj_  
-__vintner__ _n_  
+__vineyard__ _n_  
+__vintner__ _n_ :two::hammer:  
 __vinyasa__ _n_ :two::hammer:  
 __viper__ _n_ :three::hammer: (vipers)  
 __virescent__ _adj_ /vuh/vy/vi-RES-uhnt/ __1__ Greenish. __2__ Turning green.  
+__virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __viridity__ _n_ __1__ Youth; innocence; inexperience. __2__ The quality or condition of being green, especially as manifested in vegetation.  
 __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
 __visage__ _n_ :two::mega: __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
+__visceral__ _adj_ :two::hammer: /VIS-uhr-uhl/ _Visceral reaction._  
 __viscount__ _n_ :mega:  
+__viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
+__visitor__  
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
 __vitiate__ _v_ :two: To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._  
+__viticulture__ _n_  
 __vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
 __vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
 __vitriol__ _n_ :seven: /ˈvɪtrɪəl/ Bitter criticism or malice. Abusive or venomous language used to express blame or censure or bitter deep-seated ill will. _Syn_ invective, vituperation _At first, she patiently listened to him vent his frustration, but when he began to spout vitriol, she told him she had to leave._ _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
@@ -18778,7 +18790,8 @@ __vizier__ _n_ :two::hammer:
 __vocab__  
 __vocal<sup>1</sup>__ _adj_ :four:::hammer: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
-__vociferous__ _adj_ /vəʊˈsɪfərəs/  
+__vocation__ _n_ /voh-KAY-shun/  
+__vociferous__ _adj_ :two::hammer: /vəʊˈsɪfərəs/ /voh-SIF-uh-rus/  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __vodka__ _n_ :mega:  
 __voguish__  
@@ -18788,8 +18801,8 @@ __voicemail__ _n_
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
 __volatile__ _adj_  
 __volcano__ _n_ :mega::two::hammer:  
-__vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
-__volition__ _n_ :four::hammer:  
+__vole__ _n_ :two: A small animal similar to a mouse but with a short tail. _Syn_ field mouse _Water voles._  
+__volition__ _n_ :five: /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” _Every choice I made was of my own volition and not subject to outside influence._  
 __volley__ _n_ :two::hammer: _A volley of invective._  
 __voltage__ _n_ :two::mega::hammer:  
 __voltron__  
@@ -18802,7 +18815,7 @@ __vote in__ _phr v_ To choose somebody for a position by voting.
 __vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  
 __vouch for__ _phr v_ To give personal assurances of someone.  
 __vouch__ _v_ :two::hammer:  
-__voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
+__voucher__ _n_ :five: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._ _A lunch voucher._  
 __vouchsafed__  
 __vow__ _v_  
 __vulcanic__ _adj_ /vuhl-KAN-ik/ __1__ Relating to volcanoes. __2__ Fiery; explosive; full of anger, energy, etc.  

@@ -624,28 +624,6 @@ __viands__ _n_
 __vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicar__ _n_  
 __vicinity__ _n_ /vuh-SIN-uh-tee/  
-__vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually refers to events or situations that occur by chance. It can also apply specifically to the difficulties or hardships, usually beyond one’s control, that are commonly encountered in a life, career, etc., or simply to the quality or state of being changeable.  
-__victory lap__ _n_  
-__vie__ _v_  
-__viewfinder__ _n_  
-__vigorous__ _adj_  
-__Viking__ _n_ :pencil2:  
-__vilify__ _v_  
-__villa__ _n_ :two::hammer:  
-__vindicate__ _v_ /VIN-duh-kayt/ __1__ To show that someone is not guilty. _In light of the new evidence, we believe that our client will be completely vindicated._ __2__ To show that someone or something that has been criticized or doubted is correct, true, or reasonable. _Recent volcanic activity on Jupiter’s moon Io vindicates astronomers’ theories about the geologic makeup of that celestial body._  
-__vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
-__vineyard__ _n_  
-__vintner__ _n_  
-__virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
-__visceral__ _adj_ :two::hammer: /VIS-uhr-uhl/ _Visceral reaction._  
-__viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
-__visitor__  
-__viticulture__ _n_  
-__vocation__ _n_ /voh-KAY-shun/  
-__vociferous__ _adj_ /voh-SIF-uh-rus/  
-__voles__ _n_ _Water voles._  
-__volition__ _n_ /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” _Every choice I made was of my own volition and not subject to outside influence._  
-__voucher__ _n_ _A lunch voucher._  
 __vox populi__ _n_ /VOKS-POP-yoo-lye/ _Vox populi_ is a Latin phrase that translates to “the voice of the people” and means, in essence, “popular sentiment or opinion.”  
 __Vulcan<sup>1</sup>__ _n_ /VUHL-kuhn/ __1__ A blacksmith or a metalworker. __2__ A miner. __3__ A person whose leg is broken or deformed. __4__ A cuckold: a man whose wife is unfaithful. __5__ One who is extremely logical and shows a lack of emotions, humor, etc.  
 __Vulcan<sup>2</sup>__ _adj_ Extremely logical, unemotional, etc.  
