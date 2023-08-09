@@ -1,23 +1,3 @@
-__a ground ball with eyes__  
-__bag__ __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
-__blue moon__  
-__bully pulpit__  
-__femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
-__fiddle with (something)__ :dart::two: To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
-__fill up__  
-__final cut__ The completed and finalized edited version of a film, as authorized by its director and producer. _We finished shooting last week, but it will likely be another several months before we’re ready with the final cut._  
-__finish off__  
-__fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
-__first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
-__first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
-__floored__  
-__fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
-__follow suit__ To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
-__food coma__  
-__for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
-__for Pete’s sake__  
-__for the time being__  
-__fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __fuck (one’s) brains out__  
