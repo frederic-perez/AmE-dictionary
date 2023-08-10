@@ -2,6 +2,7 @@ __A-bomb__ _n_
 __abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
 __abscond__ _v_ /ab-SKAHND/  
 __abusive__ _adj_  
+__abuzz__ _adj_ /əˈbʌz/ __1__ Buzzing. __2__ Full of or alive with activity or talk: _The company was abuzz with rumors._  
 __adenosine__ _n_  
 __adrift__  
 __adroit__  
@@ -70,9 +71,11 @@ __brainwash__ _n_
 __brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
 __bravado__  
 __breadwinner__ _n_ :pencil2:  
+__breakout__ _adj_  
 __breastwork__ _n_  
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __brouhaha__ _n_  
+__browbeat__ _v tr_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __building block__  
 __bully__ _n_  
@@ -88,6 +91,7 @@ __canasta__ _n_
 __cannoli__ _n_  
 __carefree__ _adj_  
 __carousel__  
+__caseload__ _n_  
 __castor__  
 __catachresis__ _n_  
 __cataplasm__ _n_ A _Syn_ poultice, plaster  
@@ -197,10 +201,12 @@ __forfeit__ _v tr_
 __formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
+__fret__ _v_ :dart:  
 __frisson__ _n_  
 __frog fry__ _n_ Frog hopper.  
 __froufrou__  
 __fudge__ _n_  
+__fuss__ _v_  
 __ganache__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
@@ -216,6 +222,7 @@ __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the sig
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __greeble__  
 __gripping__ _adj_  
+__groundbreaking__ _adj_  
 __grunt__ _n_ __1__ A deep guttural sound.  
 __guardrail__ _n_  
 __guffaw__ _v_  
@@ -284,6 +291,7 @@ __juvenilize__
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __Klondike__ _n_ A form of solitaire card game.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
+__knickers__ _n_ __2__ A US variant of knickerbockers.  
 __kowtow__ _v_  
 __lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
 __laconic__  
@@ -400,6 +408,7 @@ __ostopenia__
 __outcome__ _n_ :mega:  
 __outlandish__ _adj_ /out-LAN-dish/ _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.  
 __outright__ _adj, adv_  
+__outsell__ _v tr_  
 __outset__ _n_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
@@ -433,7 +442,9 @@ __plushy__ _adj_
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
 __polish__ _v_ _I polish your writing._  
+__politicking__ _n_  
 __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
+__polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
 __pool table__  
 __pool__ _v_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
@@ -474,6 +485,7 @@ __realm__ _n_
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
 __recalcitrant__ _adj_  
+__red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
 __redress__  
@@ -498,6 +510,7 @@ __roundworm__ _n_
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __rummy__ _n_  
 __rung__ _n_  
+__safeguard__ _n_  
 __salacious__  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
@@ -558,6 +571,7 @@ __stenos__
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
+__stillborn__ _adj_  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stopgap__ _n_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
@@ -641,6 +655,7 @@ __wall clock time__ _n_
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __warrant__ _v_  
+__whimper__ _v_  
 __whistleblower__  
 __word-hoard__ _n_  
 __wordle__ _n_ (game)  
