@@ -1,3 +1,9 @@
+__(as) healthy as a horse__  
+__been there, done that__  
+__buck the trend__  
+__come to a halt__  
+__courtesy of (someone or something)__  
+__for better or (for) worse__  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __fuck (one’s) brains out__  
@@ -22,6 +28,7 @@ __give notice__
 __glower at (someone or something)__  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
 __go all out__  
+__go astray__ :dart:  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
 __go far__  
 __go Greek__  
@@ -89,6 +96,7 @@ __in the eye of the beholder__
 __in the guise of (something)__  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the zone__  
+__it (always) pays to (do something)__  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __ivory tower__  
@@ -118,19 +126,26 @@ __make great strides__
 __mixed feelings__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __nix__  
+__no longer__  
+__no sweat__  
 __null and void__ No longer valid, legitimate, or enforceable.  
 __of all things__  
+__OG__  
 __on a tear__  
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
+__one and done__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __other than (something)__  
 __ouch__ :dart:  
 __out of character__  
+__out of the wood(s)__  
 __outsmart (oneself)__  
 __pan out__  
 __pave the way (for someone or something)__  
+__pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
+__pick up__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __poon__  
@@ -138,12 +153,14 @@ __quite something__
 __rack up__  
 __reel off__  
 __reinvent the wheel__  
+__riding high__  
 __rock the boat__  
 __roll out__  
 __seize the opportunity (to do something)__  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __sleight of hand__  
 __smarty-pants__  
+__snafu__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __so much for someone or something__  
 __spaced (out)__  
@@ -152,12 +169,15 @@ __take back__
 __tap into__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
+__the likes of (someone or something)__  
 __the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __to the fore__  
 __touch up__ :dart: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._  
 __trick__ _v_  
 __turn of phrase__  
+__under the guise of (something)__  
+__wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
