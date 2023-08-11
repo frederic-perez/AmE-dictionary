@@ -10939,8 +10939,8 @@ __mortified__ _adj_ :seven: Having been offended or embarrassed.
 __mortify__ _v_  
 __mortuaries__  
 __mosey<sup>1</sup>__ _n_  
-__mosey<sup>2</sup>__ _v intr_  
-__mosh pit__ _n_ An area in front of a stage where very physical and rough dancing takes place at a rock concert.  
+__mosey<sup>2</sup>__ _v intr_ :three:hammer:  
+__mosh pit__ _n_ :two: An area in front of a stage where very physical and rough dancing takes place at a rock concert.  
 __mosh__ _v intr_ :two: To knock against others intentionally while dancing at a rock concert; slam-dance.  
 __mosque__ _n_ :two::hammer: (mosques)  
 __mot juste__ _n_ The appropriate word or expression.  
@@ -11032,7 +11032,7 @@ __mulling__ _n_ The act of one who mulls or thinks over something.
 __multicast__  
 __multicopter__ _n_ _Syn_ multirotor  
 __multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
-__multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
+__multifarious__ _adj_ :two: Having many aspects. Having great variety; diverse. _Syn_ multifaceted, many-sided _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
 __multipronged__ _adj_  
 __multipurpose__ _n_ :two::dart: Designed or used for several purposes: _a multipurpose room; multipurpose software._ :es: polivalente  
 __multitude__  
@@ -11041,6 +11041,7 @@ __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or pa
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __mumbo jumbo__ _n_  
 __mumps__  
+__mumpsimus__ _n_  
 __munch__ _v_ :seven:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
@@ -11068,9 +11069,11 @@ __mush__ _n_ :four::hammer: _A mush brain._
 __mushers__  
 __mushmouth__ _n_  
 __mushroom<sup>1</sup>__ _n_  
-__mushroom<sup>2</sup>__ _v_ _Traffic mushroomed in Feb._  
+__mushroom<sup>2</sup>__ _v intr_ :two::hammer: _Traffic mushroomed in Feb._  
 __mushy__ _adj_ :six::hammer: _Mushy age._ _Mushy peas._  
-__musing__ _n_ :two: (musings) Contemplation; reflection.  
+__musical clefs__  
+__musing<sup>1</sup>__ _adj_  
+__musing<sup>2</sup>__ _n_ :two: (musings) Contemplation; reflection.  
 __musket__  
 __musketeer__ _n_  
 __muskmelon__ _n_ :three::hammer:  
@@ -11095,11 +11098,11 @@ __myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
-__myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
+__myeloma__ _n_ :two: A malignant tumor formed by the cells of the bone marrow.  
 __myocarditis__ _n_  
 __myofascial__ _adj_  
 __myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a person or an animal.  
-__myopia__ _n_ :pencil2::two::hammer:  
+__myopia__ _n_ :pencil2::three::hammer: _Syn_ nearsightedness, shortsightedness  
 __myopic__ _adj_ :two::hammer: /mye-OH-pik/ _The corrective eye surgery has been approved for myopic patients._  
 __myositis__ _n_  
 __myriad__ _adj_ :six: Very many.  
@@ -11118,11 +11121,11 @@ __myth__ _n_
 __mythical__ _adj_  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
-__mythos__ _n_ :three::hammer:  
+__mythos__ _n_ :four::hammer:  
 __naan bread__ _n_  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
-__nadir__ _n_ :three: /NAY-deer/ __1__ Nadir refers to the lowest or worst point of something. _The nadir of French fortunes._ _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._ __2__ When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.  
+__nadir__ _n_ :four: /NAY-deer/ __1__ An extreme state of adversity; the lowest or worst point of anything. _Syn_ low-water mark, rock bottom _The nadir of French fortunes._ _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._ __2__ When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.  
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_ :five::hammer:  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
@@ -11137,15 +11140,17 @@ __name-and-likeness__
 __name-calling__  
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
 __name-dropping__ _n_  
+__namely__ _adv_  
 __nameplate__ _n_ :two::hammer:  
 __names and likeness__  
 __namesake__ _n_ :three::hammer:  
 __nana__ _n_ :two::hammer: _Her nana._  
 __Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._  
 __nape__ _n_  
+__naphthalene__ _n_ (naphthaline, naphthalin)  
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
-__narcissism__ _n_  
+__narcissism__ _n_ :two::hammer:  
 __narcissistic__ _adj_ :four::pencil2::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__ _n_ :two::hammer:  
@@ -11185,6 +11190,7 @@ __navigate__ _v_
 __naysayer__ _n_ :four::hammer:  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __Neapolitan__ _adj, n_ :two::pencil2:  
+__near__ _v_  
 __nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
 __nearlywed__ _n_  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
@@ -11218,6 +11224,7 @@ __neighbohing__ _adj_ Adjacent; adjoining.
 __neighbor__ _n_ :mute:[nei~~gh~~bor]  
 __nekkid__ _adj_ (nonstandard) Pronunciation spelling of _naked_, representing Southern US English.  
 __nematodes__  
+__nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.  
 __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
 __neocortex__ _n_  
 __neologism__ _n_  
@@ -11250,6 +11257,8 @@ __netizen__ _n_ A person who is a frequent or habitual user of the internet.
 __netsuke__ _n_  
 __nettle__ _v_  
 __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
+__neural tube__ _n_  
+__neurobics__ _n_  
 __neuroblastoma__  
 __neuropeptide__ _n_  
 __neurotypical__ _adj, n_  
@@ -11297,7 +11306,9 @@ __nifty__ _adj informal_ :eight: __1__ Particularly good, skilful, or effective.
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
-__nigh__ _adj, adv, prep_ :three: An archaic, poetic, or dialect word for near. Near in space or time.  
+__nigh<sup>1</sup__ _adv_ _Syn_ almost, about, nearly, close to, practically, approximately _Accurate earthquake prediction is well nigh impossible._  
+__nigh<sup>2</sup__ _adj_ :four::hammer: _Syn_ near, next, close, imminent, impending, at hand, upcoming _The end of the world is nigh._  
+__nigh<sup>3</sup>__ _prep_ Not far from; near.  
 __night sweats__ _n_ (nocturnal hyperhidrosis)  
 __night<sup>1</sup>__ _n_ :mute:[ni~~gh~~t]  
 __night<sup>2</sup>__ _adj_ :mute:[ni~~gh~~t]  
@@ -11314,7 +11325,7 @@ __nihilist__ _n_ :two::hammer:
 __nihilistic__  
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
-__nimiety__ _n_ Superfluity; excess.  
+__nimiety__ _n_ :two::astonished: Superfluity; excess. _Syn_ excess, surplus, surplusage  
 __nimrod__ _n_ :two: __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :six::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
@@ -11326,7 +11337,7 @@ __nit-picking<sup>2</sup>__ _adj_ Showing such a concern; fussy.
 __nitch<sup>1</sup>__ _n_ /nich/ A notch or a small cut.  
 __nitch<sup>2</sup>__ _v tr_ To make a small cut or notch.  
 __nitpick<sup>1</sup>__ _n_  
-__nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
+__nitpick<sup>2</sup>__ _v_ :eight: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nitty__ _adj_ _informal_ Foolish; stupid.  
 __nitty-gritty__ _n_ :seven: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  

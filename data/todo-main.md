@@ -379,28 +379,6 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
-__mosey__ _v intr_ :two::hammer:  
-__mosh pit__ _n_  
-__multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
-__mumpsimus__  
-__mushroom__ _v intr_  
-__musical clefs__  
-__musing__ _adj, n_  
-__myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
-__myopia__ _n_ _Syn_ nearsightedness, shortsightedness  
-__mythos__ _n_  
-__nadir__ _n_ An extreme state of adversity; the lowest point of anything. _Syn_ low-water mark, rock bottom  
-__namely__ _adv_  
-__naphthalene__ _n_ (naphthaline, naphthalin)  
-__narcissist__  
-__near__ _v_  
-__nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.  
-__neural tube__ _n_  
-__neurobics__ _n_  
-__nigh<sup>1</sup__ _adv_ _Syn_ almost, about, nearly, close to, practically, approximately _Accurate earthquake prediction is well nigh impossible._  
-__nigh<sup>2</sup__ _adj_ _Syn_ near, next, close, imminent, impending, at hand, upcoming _The end of the world is nigh._  
-__nimiety__ _n_ Superfluity; excess. _Syn_ excess, surplus, surplusage  
-__nitpick__ _v_  
 __non-negotiable__ _adj_  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
