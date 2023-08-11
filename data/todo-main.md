@@ -61,6 +61,7 @@ __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous
 __boilerplate code__ _n_  
 __bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
 __boo__ _v_  
+__booby trap__ _n_  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
@@ -154,6 +155,7 @@ __ensued__ _v_
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
 __enthuse__ _v_  
 __enthused__ _adj_  
+__entrain__ _v tr_  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __epicure__ _n_ A person devoted to refined sensuous enjoyment (especially good food and drink). _Syn_ gastronome, bon vivant, foodie, gourmet  
 __epiphany__  
@@ -164,6 +166,7 @@ __eradicate__ _v tr_
 __erupt__ _v_  
 __escape velocity__ _n_  
 __etch__ _v_  
+__ethos__ _n_  
 __etiology__  
 __etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
@@ -195,6 +198,7 @@ __filch__ _v_ To filch something is to secretly or casually steal it. The word _
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
+__fission__ _n_ :pencil2: (_vs_ fusion)  
 __flit__ _n_  
 __flywheel__ _n_  
 __forfeit__ _v tr_  
@@ -208,6 +212,7 @@ __froufrou__
 __fudge__ _n_  
 __fuss__ _v_  
 __ganache__ _n_  
+__gangrene__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
@@ -283,11 +288,13 @@ __interpolate__ _v_ /in-TER-puh-layt/
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
+__jet ventilation__ _n_  
 __Jody__ _n_  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
+__kerf__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __Klondike__ _n_ A form of solitaire card game.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
@@ -350,6 +357,7 @@ __Mesoamerica__ _n_
 __mess around__  
 __messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
+__mewl__ _v tr_ To cry or whimper as an infant or young child: _the infant, mewling and puking in the nurse’s arms._  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -371,7 +379,7 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
-__mosey__ _v intr_  
+__mosey__ _v intr_ :two::hammer:  
 __mosh pit__ _n_  
 __multifarious__ _adj_ Having great variety; diverse. _Syn_ multifaceted, many-sided  
 __mumpsimus__  
@@ -505,6 +513,7 @@ __ribald<sup>2</sup>__ _n_ A ribald person.
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
+__rigmarole__ _n_  
 __rollout__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
@@ -540,6 +549,9 @@ __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
 __shortlist__ _n, v_  
+__shuck<sup>1</sup>__ _n_  
+__shuck<sup>2</sup>__ _v tr_  
+__shudder__ _v intr_  
 __simile__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
@@ -574,12 +586,15 @@ __stepwise__ _adj_ _An optimal stepwise upgrade strategy._
 __stillborn__ _adj_  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stopgap__ _n_  
+__stovepipe hat__ _n_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
+__swell__ _adj_  
 __tamarind__  
 __tandem__ _n_  
 __telethon__ _n_  
@@ -600,11 +615,16 @@ __terrific__ _adj_ _The traffic is terrific._
 __testament__ _n_  
 __thwart__ _v_ :three::hammer: /THWORT/  
 __time-saver__ _n_  
+__tongs__ _n pl_ :es: tenazas  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
+__tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance, quality, or favor; outstanding.  
+__tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __traboule__ _n_  
+__tradeoff__ _n_ :pencil2:  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
+__tussle__ _v intr_  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __unheeded__  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
@@ -655,6 +675,7 @@ __wall clock time__ _n_
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __warrant__ _v_  
+__weaponize__ _v_  
 __whimper__ _v_  
 __whistleblower__  
 __word-hoard__ _n_  
