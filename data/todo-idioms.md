@@ -80,27 +80,6 @@ __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I ha
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
-__have (got) a knack for (something)__ :two: To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
-__have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken. _I can’t understand these notes at all, you have handwriting like chicken scratch!_  
-__have a go (at someone or something)__  
-__high profile__  
-__highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
-__hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
-__hoover__  
-__hotfoot__  
-__in hindsight__  
-__in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
-__in perfect harmony__  
-__in regard to (someone or something)__  
-__in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
-__in spite of__  
-__in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
-__in the (grand) scheme of things__  
-__in the doghouse__ _slang_ In trouble with someone due to one’s misdeeds or blunders.  
-__in the eye of the beholder__  
-__in the guise of (something)__  
-__in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
-__in the loop__  
 __in the zone__  
 __it (always) pays to (do something)__  
 __it goes without saying__  

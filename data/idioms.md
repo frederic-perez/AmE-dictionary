@@ -1720,8 +1720,9 @@ __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s gu
 __have (a) skeleton(s) in (one’s)/the closet__ :two: To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
 __have (got) (someone’s) back__ :five: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
 __have (got) (someone) pegged as (something)__ To distinctly regard someone as being a certain type of person.  
+__have (got) a knack for (something)__ :two: To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __have (got) someone or something covered__ _informal_ To have done, gotten, or provided whatever is needed. _Syn_ take care of everything _Don’t worry about a thing. We’ve got you covered._  
-__have (hand)writing like chicken scratch__ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
+__have (hand)writing like chicken scratch__ :two: To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken. _I can’t understand these notes at all, you have handwriting like chicken scratch!_  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers.”  
 __have (one’s) feet on the ground__ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one’s situation.  
 __have (one’s) fill (of something)__ To have, consume, or experience as much (of something) as one desires or is able to. Often used in the present perfect tense (“have had one’s fill”).  
@@ -1746,6 +1747,7 @@ __have a fable for (something)__ To have a strong or particular preference, affi
 __have a few__ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
 __have a fling (with someone)__ To have a brief, noncommittal sexual relationship (with someone).  
 __have a gas__ To have a thoroughly entertaining, enjoyable, and/or amusing time. _We were all having a gas at the party when the police showed up to tell us we were being too loud._  
+__have a go (at someone or something)__  
 __have a hankering for (something)__ To have a very strong, persistent desire or craving for something.  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a heart of gold__ To be very kind and generous.  
@@ -1853,9 +1855,10 @@ __higgledy-piggledy__
 __high and dry__  
 __high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _We’re just waiting for the high muckety muck to give us the green light before we get the project started._  
 __high note__ The most successful, impressive, or climactic point (of something).  
-__high profile__ A presence or stance that is deliberately conspicuous and prominent socially.  
+__high profile__ :two: A presence or stance that is deliberately conspicuous and prominent socially.  
 __high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
 __high-res__  
+__highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
 __highbrow__ __1__ _adj_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows. _After two degrees in literature, Stanley insists on reading only highbrow books._ __2__ _n_ A person who has or affects heightened intellectualism or superior learning or culture, often in a pretentious or elitist manner. _Of course, a book like this won’t be given the time of day by literary highbrows, but it nevertheless provides an engaging and—dare I say it—entertaining read._  
 __highbrowed__ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
 __hindsight is (always) 20/20__ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
@@ -1885,7 +1888,7 @@ __hit the wall__ :two::hammer:
 __hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m sure we can find a present for her there._ _She thought about hitting up an amusement park._  
 __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __Hobson’s choice__ A choice between what is available and nothing; a lack of an alternative.  
-__hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
+__hog (something)__ :two: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
 __hold (down) the fort__  
 __hold (one’s) breath__  
@@ -1933,7 +1936,7 @@ __honorable mention__ A recognition or citation of merit given to a contestant, 
 __hook, line, and sinker__ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __hooked on (someone or something)__  
 __hoover up__ _The data was collected by hoovering up content off the internet._  
-__hoover__ _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
+__hoover__ :two: _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
 __hope against (all) hope__ :three: To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
 __horse and rabbit stew__ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse around__  
@@ -1944,6 +1947,7 @@ __hot desking__ The act or practice of sharing desks or workstations between emp
 __hot potato__ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot tip__ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
+__hotfoot__  
 __hothead__ :two: A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __house of cards__  
@@ -2044,6 +2048,7 @@ __in front of (one’s) very eyes__ Right in plain sight or while one is watchin
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
 __in full swing__ :three::hammer: _The conference was in full swing when I arrived._  
 __in full__  
+__in hindsight__  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ :two: In trouble, and likely to be reprimanded.  
 __in its entirety__  
@@ -2060,39 +2065,49 @@ __in no way, shape, or form__ In no possible manner; under no circumstances; not
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in order that__ So that; with the particular aim or purpose of.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
+__in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
+__in perfect harmony__  
 __in place__ :two::hammer:  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ Currently being discussed or under consideration. _I just don’t see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
+__in regard to (someone or something)__  
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in round numbers__  
+__in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
 __in short order__ :four: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
 __in so many words__  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
 __in spades__ :two::dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._ _Cultural savvy. Portland’s got it in spades._  
+__in spite of__  
 __in stitches__  
 __in tall cotton__ In a time or period of great success or wellbeing; doing very well.  
+__in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
+__in the (grand) scheme of things__  
 __in the (very) nick of time__ :two::hammer:  
 __in the back__ In the back part of a building; in the back room of a building. _He’s not in the shop right now. I’ll see if he’s in the back._  
 __in the black__ :two: Not in debt, profitable.  
 __in the blink of an eye__  
 __in the circumstances__ Due to the conditions or particular situation; such as the case is.  
 __in the clear__ :two::hammer: _She is in the clear._  
-__in the doghouse__ :two::hammer:  
+__in the doghouse__ :three: _slang_ In trouble with someone due to one’s misdeeds or blunders.  
 __in the event of (something)__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the event that__ If it should happen or be the case that.  
 __in the eye of (something)__ At, in, or amidst the central or focal point of something.  
+__in the eye of the beholder__  
 __in the face of (something)__  
+__in the guise of (something)__  
 __in the gutter__  
 __in the heat of (something)__ During a time of extreme action, emotion, or agitation. _Soldiers have to train themselves not to feel fear in the heat of battle._  
 __in the hope that__ With the expectation, intention, or desire that (something will happen).  
+__in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
 __in the know__ :four::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
 __in the long term__  
-__in the loop__  
+__in the loop__ :two::hammer:  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
 __in the making__ :two::hammer:  
 __in the middle of nowhere__ :two: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
