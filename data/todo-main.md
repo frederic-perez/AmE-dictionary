@@ -23,6 +23,7 @@ __apace__ _adv_
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __appraisal__ _n_  
 __arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
+__arresting__ _adj_  
 __articulate__ _v_  
 __artiodactyl__ _n_  
 __assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
@@ -81,6 +82,8 @@ __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic.
 __building block__  
 __bully__ _n_  
 __bunting__ _n_  
+__burlap__ _n_  
+__bustle__ _n_ :two::hammer:  
 __buzzcut__ _n_ /ˈbʌzˌkʌt/ (buzz cut) A very short haircut.  
 __byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __cadre__  
@@ -107,6 +110,7 @@ __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.
 __chirk<sup>2</sup>__ _v tr_ To make a shrill noise.  
 __chirk<sup>3</sup>__ _adj_ Lively; cheerful.  
 __chit chat__  
+__chowder__ _n_  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __clairvoyant__ _adj_ Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
 __clammy__ _adj_  
@@ -121,11 +125,14 @@ __contiguous__ _adj_ /kun-TIG-yuh-wus/
 __conversant__  
 __convey__ _v tr_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
+__courtship__ _n_ _Syn_ courting, wooing, suit  
+__cravat__ _n_  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __dauntless__ _adj_ /DAWNT-lus/  
+__dawdle__ _v_ :dart:  
 __debonair__ _adj_ /deb-uh-NAIR/  
 __debunk__ _v_ To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose  
 __deem__ _v_  
@@ -220,8 +227,10 @@ __giraffe__ _n_
 __gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
 __glaring__ _adj_  
 __gloomy__ _adj_  
+__golem__ _n_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __gospel__ _n_ /GOS-puhl/  
+__gossamer__ _n_ __2__ Any thin, light fabric, esp. one used for veils.  
 __gourmand__ _n_ A lover of good food. _Syn_ trencherman, glutton  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
@@ -314,6 +323,7 @@ __liaison__ _n_ :pencil2:
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __life raft__ _n_  
 __lighthearted__ _adj_  
+__lilt__ _v_  
 __liminal__ _adj_  
 __lionhearted__  
 __Listerine__ _n_  
@@ -375,6 +385,7 @@ __money__ _n_ :mega: /ˈmʌnɪ/
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __Monopoly Deal__ _n_  
+__moodiness__ _n_  
 __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little practical value, hence not worth considering.  
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
@@ -401,6 +412,7 @@ __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlook
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
+__pad__ _v intr_ __1__ To go about on foot. __2__To move or walk about almost inaudibly. _The cat was padding through the grass._  
 __paganism__ _n_  
 __palliative care__ _n_  
 __panacea__ _n_  
@@ -408,6 +420,7 @@ __parapraxis__ _n_
 __parcel__ _v tr_  
 __pariah__  
 __parlance__ _n_  
+__parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __peewee__ _n_  
@@ -422,6 +435,7 @@ __pinecone__ _n_
 __pinwheel__ _n_  
 __pitfall__ _n_  
 __plaintive__ _adj_ /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
+__planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
 __plank__ _n_ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
 __play-off__ _n_ :pencil2:  
 __plushy__ _adj_  
@@ -497,6 +511,7 @@ __roundworm__ _n_
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __rummy__ _n_  
 __rung__ _n_  
+__ruse__ _n_  
 __safeguard__ _n_  
 __salacious__  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
@@ -526,6 +541,8 @@ __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
+__settee__ _n_  
+__shanghai__ _v_  
 __shortlist__ _n, v_  
 __shuck<sup>1</sup>__ _n_  
 __shuck<sup>2</sup>__ _v tr_  
@@ -542,6 +559,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
+__snicker__ _v intr_  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
@@ -601,6 +619,7 @@ __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance,
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
+__trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __tussle__ _v intr_  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
@@ -656,6 +675,7 @@ __warrant__ _v_
 __weaponize__ _v_  
 __whimper__ _v_  
 __whistleblower__  
+__whitewash__ _n_  
 __word-hoard__ _n_  
 __wordle__ _n_ (game)  
 __yakisoba__ _n_  
