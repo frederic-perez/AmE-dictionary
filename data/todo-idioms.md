@@ -1,12 +1,16 @@
 __(as) healthy as a horse__  
+__a far cry from (something)__  
 __been there, done that__  
+__bridge the gap__  
 __buck the trend__  
 __come to a halt__  
+__cool off__  
 __courtesy of (someone or something)__  
 __for better or (for) worse__  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __fuck (one’s) brains out__  
+__full stop__  
 __game-changer__  
 __gaslighting__  
 __get a big head__ To become arrogant or conceited; to assume an exaggeratedly high opinion of oneself. _Samantha got a big head after her book became a bestseller._  
@@ -83,6 +87,7 @@ __high profile__
 __highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
 __hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoover__  
+__hotfoot__  
 __in hindsight__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in perfect harmony__  
@@ -95,6 +100,7 @@ __in the doghouse__ _slang_ In trouble with someone due to one’s misdeeds or b
 __in the eye of the beholder__  
 __in the guise of (something)__  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
+__in the loop__  
 __in the zone__  
 __it (always) pays to (do something)__  
 __it goes without saying__  
@@ -123,7 +129,11 @@ __know (one’s) shit__
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __lovebirds__  
 __make great strides__  
+__measure up (to someone or something)__  
+__mess with (someone or something)__  
+__Mickey (Finn)__  
 __mixed feelings__  
+__more so__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __nix__  
 __no longer__  
@@ -132,6 +142,7 @@ __null and void__ No longer valid, legitimate, or enforceable.
 __of all things__  
 __OG__  
 __on a tear__  
+__on the block__  
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
@@ -148,6 +159,7 @@ __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 mi
 __pick up__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
+__point taken__  
 __poon__  
 __quite something__  
 __rack up__  
@@ -158,6 +170,7 @@ __rock the boat__
 __roll out__  
 __seize the opportunity (to do something)__  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
+__slam (someone or something)__  
 __sleight of hand__  
 __smarty-pants__  
 __snafu__  
@@ -172,13 +185,17 @@ __the Greek calends__
 __the likes of (someone or something)__  
 __the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
+__tight-lipped__ Secretive; not revealing information.  
 __to the fore__  
 __touch up__ :dart: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._  
 __trick__ _v_  
 __turn of phrase__  
+__under (one’s) belt__  
 __under the guise of (something)__  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
+__whoopsie-daisy__  
+__win over__  
 __yea or nay__  
