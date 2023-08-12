@@ -83,27 +83,6 @@ __building block__
 __bully__ _n_  
 __bunting__ _n_  
 __burlap__ _n_  
-__bustle__ _n_ :two::hammer:  
-__buzzcut__ _n_ /ˈbʌzˌkʌt/ (buzz cut) A very short haircut.  
-__byzantine__ _adj_ /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ Highly complex or intricate. __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
-__cadre__  
-__Calvinism__ _n_  
-__calypso__ _n_ (music)  
-__camarilla__ _n_ A group of confidential, often scheming advisers. _Syn_ cabal, faction, junto  
-__camper van__ _n_ (camping van) A motor caravan.  
-__canasta__ _n_  
-__cannoli__ _n_  
-__carefree__ _adj_  
-__carousel__  
-__caseload__ _n_  
-__castor__  
-__catachresis__ _n_  
-__cataplasm__ _n_ A _Syn_ poultice, plaster  
-__catharsis__ _n_  
-__catnap__  
-__catnip__  
-__cerulean__ _n_  
-__chagrined__ _v_  
 __chalet__ _n_ :mega:  
 __chime__ _v_ _Everybody chimes into a discussion._  
 __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  

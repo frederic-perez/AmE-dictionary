@@ -2326,7 +2326,7 @@ __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I c
 __busticate__ _v_ _informal US_ To break.  
 __bustiers__ _n_  
 __bustle<sup>1</sup>__ _v_  
-__bustle<sup>2</sup>__ _n_ :three::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
+__bustle<sup>2</sup>__ _n_ :five::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
@@ -2371,6 +2371,7 @@ __buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a compan
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::five::hammer: (buzzards)  
+__buzzcut__ _n_ /ˈbʌzˌkʌt/ (buzz cut) A very short haircut.  
 __buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__ _n_ :two::hammer:  
@@ -2392,7 +2393,7 @@ __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gon
 __byproduct__ _n_ :two::hammer:  
 __bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
-__byzantine__ _adj_ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
+__byzantine__ _adj_ :two::pencil2: /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ (of a system or situation) Highly complex or intricate. Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._ __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __C-rations__  
 __C-section__ _n_  
 __C-suite__ _n_ The executive suite in an organization. It refers to all the “C” titles of top level managers such as CEO, CFO, CTO, CIO, etc. _C-suite staff._  
@@ -2433,7 +2434,7 @@ __Caddy__ _n_ A Cadillac car.
 __cadence__ _n_ :four: /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
 __cadet__ _n_  
 __cadge__ _v_ :three: __1__ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._ __2__ To cadge is to plead or beg for something. _A hungry child might cadge an extra cookie from her dad while he’s baking._ _He cadged money and bribed guards._  
-__cadre__ _n_ :seven::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__cadre__ _n_ :eight::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before the usual time. Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
@@ -2491,8 +2492,11 @@ __caltrops__ _n_
 __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
 __calves__  
+__Calvinism__ _n_  
+__calypso__ _n_ (music)  
 __calzone__ _n_ (food)  
 __camaraderie__ _n_ :two::hammer: /kahm-RAH-duh-ree/  
+__camarilla__ _n_ A group of confidential, often scheming advisers. _Syn_ cabal, faction, junto  
 __Cambodia__  
 __cameleer__  
 __camellia__  
@@ -2504,6 +2508,7 @@ __camp<sup>2</sup>__ _adj_ :two::hammer: _A classic camp comedy._
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building.  
 __camper shell__  
+__camper van__ _n_ (camping van) A motor caravan.  
 __camper__ _n_ :five::camera::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
 __campground__ _n_ :three: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
@@ -2517,6 +2522,7 @@ __Canadian Mounties__ _n_
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
+__canasta__ _n_  
 __candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
 __candelabrum__ _n_  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
@@ -2529,7 +2535,7 @@ __canister__ _n_ :five::hammer: _Organic coffee canisters._
 __cannibalization__ _n_  
 __cannibalize__ _v_  
 __cannikin__ _n_  
-__cannolis__  
+__cannoli__ _n_ :two::hammer:  
 __cannonball__ _n_ __3__ A dive made in a curled-up position with the arms pressing the knees against the chest. _Do a cannonball!_  
 __cannoneer__ _n_ A serviceman in the artillery. _Syn_ gunner, artilleryman  
 __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
@@ -2610,7 +2616,7 @@ __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical
 __career ladder__ _n_  
 __career suicide__  
 __career__ _v_ :astonished: /kuh-REER/ To go at top speed in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
-__carefree__  
+__carefree__ _adj_ :two::hammer:  
 __carefully__ _adv_ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ _n_ :two::hammer: _A caretaker government._  
@@ -2630,7 +2636,7 @@ __carolers__ _n_
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
 __carouse__ _v_ :seven: /kuh-ROWZ/ (“OW” as in ‘cow’) (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. To drink alcohol, make noise, and have fun with other people. _Syn_ roister _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._ _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
-__carousel__  
+__carousel__ _n_ :two::hammer:  
 __carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
 __carpal tunnel syndrome__ _n_  
 __carpet bombing__  
@@ -2665,7 +2671,7 @@ __case in point__ _n_ :nine: An example that is used to justify similar occurren
 __case study__ _n_ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
-__caseload__ _n_ The number of cases constituting the work of a doctor, solicitor, social worker, etc over a specified period.  
+__caseload__ _n_ :two: The number of cases constituting the work of a doctor, solicitor, social worker, etc over a specified period.  
 __casemates__ _n_  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __casement__ _n_ :two::hammer: :es: ventana de bisagras _Casement window._  
@@ -2693,6 +2699,7 @@ __castigate__ _v_ Censure severely. _Syn_ chasten, chastise, objurgate _ften he 
 __castigation__ _n_  
 __castle__ _n, v_ :mute:[cas~~t~~le]  
 __castoff__ _n_  
+__castor__  
 __casual Friday__ _n_ :two: Another name for dress-down Friday. _Casual Fridays should be every day._  
 __casual__ _adj_ _He put on casual clothes._  
 __casualty__ _n_ :two::hammer:  
@@ -2700,6 +2707,7 @@ __casuist__ _n_ /KAZH-oo-ist/ One who employs deceptive or excessively subtle re
 __cat__ _n informal_  
 __cat-and-mouse__ _adj_ :two::hammer: _A psychological cat-and-mouse thriller._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
+__catachresis__ _n_  
 __cataclysm__ _n_ :pencil2:  
 __catacomb__ _n_ :three::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
@@ -2708,6 +2716,7 @@ __catalyst__ _n_ :four::hammer:
 __catalyze__ _v_ :pencil2:  
 __catamaran__ _n_  
 __catamounts__  
+__cataplasm__ _n_ A _Syn_ poultice, plaster  
 __catapult<sup>1</sup>__ _n_ __3__ A slingshot. :es: tirachinas  
 __catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :two::hammer: :es: cataratas  
@@ -2735,10 +2744,11 @@ __caterwaul<sup>1</sup>__ _n_
 __caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__ _adj_ :two::hammer: _Caterwauling choristers._  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
-__catharsis__ _n_ :three::hammer:  
+__catharsis__ _n_ :four::hammer:  
 __cathartic__  
 __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
-__catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
+__catnap__  
+__catnip__ _n_ :four: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
 __catskills__  
 __cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :three::hammer:  
@@ -2797,7 +2807,7 @@ __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain 
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :four: /suh-ROO-lee-un/ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
-__cerulean<sup>2</sup>__ _n_ A light shade of blue.  
+__cerulean<sup>2</sup>__ _n_ :two: A light shade of blue.  
 __cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
@@ -2811,7 +2821,7 @@ __chafe<sup>2</sup>__ _n_
 __chafer__ _n_  
 __chaff__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._ _To the chef’s chagrin, the sauce was too sweet._  
-__chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
+__chagrin<sup>2</sup>__ _v_ :four: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain letter__ _n_  
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
