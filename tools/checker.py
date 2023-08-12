@@ -281,6 +281,7 @@ class Checker(object):
         self.num_invalid_syn = 0
         self.num_missing_part_of_speech = 0
         self.num_tag_shit = 0
+        self.num_wrong_nine_m = 0
         self.num_too_many_double_spaces = 0
         self.num_wrong_part_of_speech = 0
 
@@ -399,6 +400,15 @@ class Checker(object):
         print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL \
             + ' « :shit: found; use :hammer: instead' + END_C)
 
+    def treat_wrong_nine_m(self, entry):
+        """Self-explanatory"""
+        self.num_wrong_nine_m += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        part_of_speech = tokens[1]
+        print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL \
+            + ' « :nine:m: found; add missing colon' + END_C)
+
     def treat_missing_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
@@ -447,6 +457,8 @@ class Checker(object):
             self.treat_question_mark(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
+        if entry.find(':nine:m:') > -1:
+            self.treat_wrong_nine_m(entry)
         if do_check_parts_of_speech:
             # if entry_has_tag_of_any_number(entry, 2, 9) and \
             #   entry_misses_part_of_speech(entry):
@@ -500,7 +512,8 @@ class Checker(object):
             + self.num_entries_with_rogue_underscore \
             + self.num_entries_with_question_mark \
             + self.num_missing_part_of_speech \
-            + self.num_wrong_part_of_speech == 0)
+            + self.num_wrong_part_of_speech \
+            + self.num_wrong_nine_m == 0)
         if succeeded:
             print('✅ ' + OK_GREEN + 'No entries-related problems were found in file \'' \
                 + self.filename + '\'' + END_C)
@@ -532,6 +545,7 @@ class Checker(object):
             print_colored_if_positive('Entries missing part of speech', self.num_missing_part_of_speech)
             print_colored_if_positive('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)
+            print_colored_if_positive('Entries with wrong nine m', self.num_wrong_nine_m)
         print
         return succeeded
 

@@ -16835,7 +16835,7 @@ __sturgeon__ _n_ :three::hammer: :es: esturión
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
 __stylesetter__  
-__stymie<sup>1</sup>__ _v tr_ :nine:m: /STY-mee/ (stymieing, stymied) To obstruct, thwart, stump, etc. To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
+__stymie<sup>1</sup>__ _v tr_ :nine::m: /STY-mee/ (stymieing, stymied) To obstruct, thwart, stump, etc. To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __stymie<sup>2</sup>__ _n_ :two: A hindrance.  
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
@@ -18385,7 +18385,7 @@ __uneven__
 __uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _adj_ :nine:m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
+__unfazed__ _adj_ :nine::m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ _adj_ :two::hammer:  
