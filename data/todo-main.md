@@ -42,6 +42,7 @@ __bargain__ _n_
 __barrage__ _n_  
 __barranca__ _n_ (barranco)  
 __beachhead__ _n_ :pencil2: __2__ A first achievement that opens the way for further developments; a foothold.  
+__bedside__ _adj, n_  
 __beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
 __belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
 __belly laugh__ _n_  
@@ -103,6 +104,7 @@ __comprise__ _v_ /kum-PRYZE/
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __conversant__  
 __convey__ _v tr_  
+__coo__ _v_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __cravat__ _n_  
@@ -149,6 +151,7 @@ __eponymous__ _adj_ /ih-PAH-nuh-mus/
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __eradicate__ _v tr_  
+__ermine__ _n_  
 __erupt__ _v_  
 __escape velocity__ _n_  
 __etch__ _v_  
@@ -190,6 +193,7 @@ __flywheel__ _n_
 __forfeit__ _v tr_  
 __formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
+__forthright__ _adj, adv_  
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __fret__ _v_ :dart:  
 __frisson__ _n_  
@@ -223,7 +227,9 @@ __guidepost__ _n_ A rule or principle that provides guidance to appropriate beha
 __gumption__ _n_ /GUMP-shun/  
 __guy__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
+__hag__ _n_  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
+__hairline__ _n_  
 __hamstring<sup>1</sup>__ _n_ [:scroll: From ham (the back of the knee) + string (tendon)]  
 __hamstring<sup>2</sup>__ _v tr_  
 __happenstance__  
@@ -250,6 +256,7 @@ __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that o
 __holistic__ _adj_  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
+__hoot__ _v_  
 __hubris__ _n_  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __hustle__ _v_  
@@ -268,6 +275,7 @@ __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as
 __infighting__ _n_  
 __infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
 __infuriating__ _adj_  
+__instrumental__ _adj_  
 __insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __intangible__  
 __integer__ _n_ :mega:  
@@ -298,6 +306,7 @@ __legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.
 __legerdemain__ _n_  
 __lemon grass__ _n_  
 __level up__  
+__leverage__ _v_  
 __liaison__ _n_ :pencil2:  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __life raft__ _n_  
@@ -336,6 +345,7 @@ __matter-of-fact__ _adj_
 __maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
+__maypole__ _n_ :camera:  
 __meddlesome__ _adj_  
 __meet-cute__ _n_ /MEET-kyoot/  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
@@ -402,6 +412,7 @@ __parlance__ _n_
 __parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
+__peeps__ _n pl_ _slang_ Associates; friends. People.  
 __peewee__ _n_  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __perquisite__ _n_ /PER-kwuh-zut/  
@@ -420,12 +431,14 @@ __play-off__ _n_ :pencil2:
 __plushy__ _adj_  
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
+__poise__ _v_ _Develop poise between body and mind._  
 __polish__ _v_ _I polish your writing._  
 __politicking__ _n_  
 __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
 __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
 __pool table__  
 __pool__ _v_  
+__prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
 __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __procurement__ _n_  
@@ -439,6 +452,7 @@ __prudery__ _n_
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
+__Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
 __pulpit__ _n_  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __purport<sup>1</sup>__ _v tr_ :astonished:  
@@ -450,6 +464,7 @@ __raillery__ _n_
 __rambler__ _n_  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
+__rasp__ _n_  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravenous__ _adj_  
 __raver__ _n_  
@@ -539,6 +554,7 @@ __smithy__ _n_ _A working smithy._
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __snicker__ _v intr_  
+__soft hat__ _n_ :camera:  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
@@ -550,6 +566,8 @@ __spate__ _n_
 __spaz__  
 __speak up__  
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
+__spoon__ _v_  
+__squander__ _v tr_  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
@@ -562,16 +580,20 @@ __stillborn__ _adj_
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stopgap__ _n_  
 __stovepipe hat__ _n_  
+__streamer__ _n_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
+__subclinical__ _adj_ Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__surrey__ _n_  
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __swell__ _adj_  
 __tamarind__  
 __tandem__ _n_  
+__tangible__ _adj_  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
