@@ -659,29 +659,6 @@ __vicinity__ _n_ /vuh-SIN-uh-tee/
 __vox populi__ _n_ /VOKS-POP-yoo-lye/ _Vox populi_ is a Latin phrase that translates to “the voice of the people” and means, in essence, “popular sentiment or opinion.”  
 __Vulcan<sup>1</sup>__ _n_ /VUHL-kuhn/ __1__ A blacksmith or a metalworker. __2__ A miner. __3__ A person whose leg is broken or deformed. __4__ A cuckold: a man whose wife is unfaithful. __5__ One who is extremely logical and shows a lack of emotions, humor, etc.  
 __Vulcan<sup>2</sup>__ _adj_ Extremely logical, unemotional, etc.  
-__wade__ _v_ :two::hammer:  
-__waffle__  
-__wager__ _v_ :two::hammer:  
-__waggish__ _adj_ :dart::two: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
-__wainscoting__ _n_  
-__wake__ _n_ :es: velatorio  
-__wakeboarding__  
-__wakeless__ _adj_ (Of sleep) Deep or unbroken. _Syn_ profound, sound, heavy _He fell into a deep, wakeless sleep._  
-__walk-in__ _n_ _Appointments or walk-ins are welcome!_  
-__walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.  
-__wall clock time__ _n_  
-__walleye__ _n_ _Walleye fishing._  
-__wallflower__ _n_ /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
-__warrant__ _v_  
-__weaponize__ _v_  
-__whimper__ _v_  
-__whistleblower__  
-__whitewash__ _n_  
-__word-hoard__ _n_  
-__wordle__ _n_ (game)  
-__yakisoba__ _n_  
-__Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
-__yawn__  
 __yips__ _n_ /YIPS/ Yips is a plural noun that refers to a state of nervousness that affects an athlete (such as a golfer) when they’re about to make an important move or play. It is almost always used in the phrase “the yips.” _To avoid the yips he changed his style of putting._  
 __Zen__ _n_ _You found your Zen in LA._  
 __zinch__  

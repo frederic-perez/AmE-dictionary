@@ -18852,26 +18852,27 @@ __wad__ _n_
 __wad<sup>1</sup>__ _v_ :seven::hammer: (wadded, wadding) _He wadded up the towel._  
 __wad<sup>2</sup>__ _n_ _Wads of cash._  
 __waddle__ _v_ :three::hammer: (waddling) _Two chubby guys waddling around the pool table._  
-__wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
+__wade__ _v_ :eight::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
 __wafer__ _n_ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
-__waffle<sup>1</sup>__ _v intr_ :seven: (waffled, waffling) /WAH-fuhl/ [:scroll: From Dutch wafel. Ultimately from the Indo-European root webh- (to weave; to move quickly), which also gave us weave, webster, wave, waver, wafer, wobble, and weft.] To be indecisive or evasive; to waver.  
-__waffle<sup>2</sup>__ _n_ :two: /WAH-fuhl/ __1__ A crisp cake made by baking batter in an appliance with a gridlike pattern. __2__ Evasive speech or writing.  
+__waffle<sup>1</sup>__ _v intr_ :eight: (waffled, waffling) /WAH-fuhl/ [:scroll: From Dutch wafel. Ultimately from the Indo-European root webh- (to weave; to move quickly), which also gave us weave, webster, wave, waver, wafer, wobble, and weft.] To be indecisive or evasive; to waver.  
+__waffle<sup>2</sup>__ _n_ :three: /WAH-fuhl/ __1__ A crisp cake made by baking batter in an appliance with a gridlike pattern. __2__ Evasive speech or writing.  
 __waft__ _v_ :five: (wafted, wafting) To carry or be carried gently on or as if on the air or water. _Syn_ drift, float, blow _The scent of her perfume wafted through the room._ _Fine powder that wafts up from footsteps like flour._  
 __wag<sup>1</sup>__ _v_ :four::hammer: _The puppy was wagging its tail._  
 __wag<sup>2</sup>__ _n_ (wags) A humorous or droll person; a wit.  
 __wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
 __wage<sup>1</sup>__ _n_ :two::hammer:  
 __wage<sup>2</sup>__ _v_ :five::hammer: (waged) _Champipns wage war to get what they want._  
-__wager__ _n_  
-__wagered__ _v_ :astonished: _I’d have wagered so._  
+__wager<sup>1</sup>__ _n_  
+__wager<sup>2</sup>__ _v_ :three::astonished::hammer: _I’d have wagered so._  
+__waggish__ _adj_ :dart::two: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
 __waging__ _v_  
 __wagon__ _n_ :two::hammer: _A covered wagon._  
 __waifish__  
 __wail__ _n_  
 __wainscoating__ _n_ __1__ A wainscoted wall or walls; paneling. __2__ Material, such as wood, used for wainscoting.  
-__wainscoting__  
+__wainscoting__ _n_ :two::hammer:  
 __waist band__  
 __waistcoat__ _n_  
 __wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
@@ -18880,14 +18881,18 @@ __waitlist<sup>2</sup>__ _v tr_ To place on a waiting list; to create a waiting 
 __waive__ _v_ :six::hammer: (waived)  
 __waiver__ _n_ :three::hammer: (waivers)  
 __wakame__ _n_  
-__wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
+__wake__ _n_ :six::hammer: _At wakes._ _In the wake of the pandemic._ _Irish wake._ :es: velatorio  
+__wakeboarding__  
+__wakeless__ _adj_ (Of sleep) Deep or unbroken. _Syn_ profound, sound, heavy _He fell into a deep, wakeless sleep._  
 __waking hours__  
 __waldo__ _n_ (waldoes)  
 __walk in sunshine__  
 __walk out__ _phr v_ To leave a relationship suddenly.  
 __walk the walk__  
+__walk-in__ _n_ _Appointments or walk-ins are welcome!_  
 __walk-on__ _n_ :two: __1__ A small part in a play or other entertainment, esp. a part without speaking lines.  
 __walk-through__ _n_ __1__ A thorough demonstration or explanation that details each step of a process. __2__ A brief rehearsal, as of a play or role, performed usually in an early stage of production.  
+__walk-up__ _n_ _informal_ :two: An apartment in a building without an elevator.  
 __walk<sup>1</sup>__ _v_ :mute:[wa~~l~~k]  
 __walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]  
 __walkabout__  
@@ -18895,10 +18900,12 @@ __walkaway__ _n_ An easy victory.
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
 __walkout__ _n_ :four: __1__ A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest. _The walkout at the United Nations by all the Middle Eastern delegates._  
 __walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  
+__wall clock time__ _n_  
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wall-eyed__  
 __wallboard__  
-__wallflower__ _n_ :two::hammer:  
+__walleye__ _n_ _Walleye fishing._  
+__wallflower__ _n_ :three: /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._ _Don’t wallow in despair._  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
@@ -18939,7 +18946,7 @@ __warmer__ _n_ _Fragance warmer._
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warmongering__ _n_  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It’s a noun! It’s a verb! It’s a word that warrants our attention! As a noun, it’s the piece of paper they show you through the keyhole during an investigation. It’s also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it’ll work for a certain amount of time).  
-__warrant<sup>2</sup>__ _v_ :five: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
+__warrant<sup>2</sup>__ _v_ :six: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
 __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
 __Warsaw__ _n_ :mega:  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
@@ -19003,7 +19010,7 @@ __weal__ _n_ :two: /WEEL/ Weal is a somewhat old-fashioned word that refers to �
 __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :seven::hammer:  
+__weaponize__ _v_ :eight::hammer:  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
@@ -19126,7 +19133,7 @@ __whiffed__ _v_
 __while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._  
 __whilom__ _adj_ Having once been; former: _the whilom editor in chief._ _Syn_ erstwhile, former, late, old, once, onetime, past, previous, quondam, sometime  
 __whim__ _n_ :two::hammer:  
-__whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
+__whimper<sup>1</sup>__ _v_ :five: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whimsical__ _adj_ :astonished::three: /WIM-zih-kul/ __1__ Characterized by, arising from, or subject to whimsy: _a whimsical decision._ __2__ Playful or fanciful, especially in a humorous way.  
 __whinge<sup>1</sup>__ _v intr_ :two: /whinj/ _British English_ To keep complaining in an annoying way. To complain or protest, especially in an annoying or persistent manner.  
@@ -19156,7 +19163,7 @@ __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __whistle<sup>1</sup>__ _n_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle<sup>2</sup>__ _adj_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
-__whistleblower__ _n_ :two::hammer:  
+__whistleblower__ _n_ :three::hammer:  
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
@@ -19173,7 +19180,7 @@ __white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]
 __whitecap__ _n_ A wave with a crest of foam.  
 __whitelist__ _v_ To place on a whitelist.  
 __whiteout__ _n_ :three::hammer:  
-__whitewash<sup>1</sup>__ _n_ :two::hammer: __4__ _slang_ (Financial) An unexploited opportunity. _That is, whitespace is a potential source of profit, almost always associated with some level of risk._  
+__whitewash<sup>1</sup>__ _n_ :three::hammer: __4__ _slang_ (Financial) An unexploited opportunity. _That is, whitespace is a potential source of profit, almost always associated with some level of risk._  
 __whitewash<sup>2</sup>__ _v_ :five: __1__ To paint or coat with whitewash. __2__ To conceal or gloss over (wrongdoing, for example). __3__ (Sports) To defeat (an opponent) in a game in which the opponent does not score.  
 __whitewater<sup>1</sup>__ _n_ :five: (white water) Turbulent or frothy water, as in rapids or surf. _Whitewater rafting._  
 __whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
@@ -19394,11 +19401,11 @@ __woomb__
 __woozy__ _adj_ :four::hammer:  
 __wop__  
 __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
-__word-hoard__ _n_ :dart: A person’s vocabulary.  
+__word-hoard__ _n_ :dart::two: A person’s vocabulary.  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wordiness__ _n_  
 __wording__ _n_  
-__wordle__ _n_  
+__wordle__ _n_ :two::hammer: (game)  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
@@ -19512,10 +19519,11 @@ __xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -phil
 __xyst__ _n_ /zɪst/  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
 __yakety-yak__ _n_ Noisy talk.  
-__yakisoba__ _n_  
+__yakisoba__ _n_ :two::hammer:  
 __yakuza__ _n_ :two::hammer:  
 __yam__ _n_ :three: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
+__Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __yap<sup>1</sup>__ _v_ :four::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
 __yap<sup>2</sup>__ _n_ _slang_ :two: Mouth.  
 __Yarborough__ _n_ (yarborough) A hand in bridge or whist in which no card is higher than a nine. After Charles Anderson Worsley, 2nd Earl of Yarborough (1809-1897), who is said to have bet 1000 to 1 against the occurrence of such a hand. The actual odds are 1827 to 1.  
@@ -19526,7 +19534,7 @@ __yarn du jour__
 __yarn__ _n_ :nine::m::hammer: _Political yarns._ _Nylon yarn._  
 __yatch__ _n_ :mega:  
 __yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
-__yawn__ _n_ _The sound of yawns and crickets._  
+__yawn__ _n_ :two::hammer: _The sound of yawns and crickets._  
 __yawner__ _n_ _slang_ :three: Something that is very boring.  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
