@@ -27,6 +27,7 @@ __arresting__ _adj_
 __articulate__ _v_  
 __artiodactyl__ _n_  
 __assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
+__asunder__ _adj, adv_ /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.”  
 __austerity__ _n_ /ɔˈstɛr ɪ ti/  
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avenge__ _v tr_  
@@ -57,17 +58,21 @@ __blackface__ _n_
 __blackmail__  
 __blacktop__ _n_ __1__ A bituminous paving substance, as asphalt. __2__ A road covered with blacktop.  
 __blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
+__blatherskite__ _n_  
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
+__bob__ _v_  
 __boilerplate code__ _n_  
 __bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
 __boo__ _v_  
 __booby trap__ _n_  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
+__bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
+__boycott__ _n_ /BOY-kaht/  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain fog__ _n_  
 __brainwash__ _n_  
@@ -82,6 +87,7 @@ __browbeat__ _v tr_
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __building block__  
 __bully__ _n_  
+__bunkum__ _n_ /ˈbʌŋkəm/ (buncombe) Empty talk; nonsense. __2__ _chiefly US_ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunting__ _n_  
 __burlap__ _n_  
 __chalet__ _n_ :mega:  
@@ -102,6 +108,7 @@ __commodify__ _v tr_
 __commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
 __comprise__ _v_ /kum-PRYZE/  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
+__contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conversant__  
 __convey__ _v tr_  
 __coo__ _v_  
@@ -137,6 +144,7 @@ __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy o
 __dovetail__ _v_  
 __downtime__ _n_  
 __dragon__ _n_ :mega:  
+__encomium__ _n_ /en-KOH-mee-um/  
 __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __ensued__ _v_  
@@ -200,12 +208,14 @@ __frisson__ _n_
 __frog fry__ _n_ Frog hopper.  
 __froufrou__  
 __fudge__ _n_  
+__fungible__ _adj_ /FUN-juh-bul/  
 __fuss__ _v_  
 __ganache__ _n_  
 __gangrene__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
 __gerrymander__ _v_ /JAIR-ee-man-der/  
+__ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
 __giraffe__ _n_  
 __gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
 __glaring__ _adj_  
@@ -340,6 +350,7 @@ __Mandela effect__ _n_ The phenomenon of a large number of persons independently
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
 __mashup__ _n_  
+__mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
 __matrix__ _n_ :mega:  
 __matter-of-fact__ _adj_  
 __maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
@@ -351,6 +362,7 @@ __meet-cute__ _n_ /MEET-kyoot/
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __menage__ _n_ A domestic establishment. _Syn_ household  
+__meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
 __meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
 __Mesoamerica__ _n_  
 __mess around__  
@@ -380,6 +392,7 @@ __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argum
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __non-negotiable__ _adj_  
+__nondescript__ _adj_ /non-di-SKRIPT/  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
@@ -415,6 +428,7 @@ __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His 
 __peeps__ _n pl_ _slang_ Associates; friends. People.  
 __peewee__ _n_  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
+__perficient__ _adj_ /puhr-FISH-uhnt/ Accomplishing or achieving desired results; effective.  
 __perquisite__ _n_ /PER-kwuh-zut/  
 __persona__ _n_  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
@@ -438,6 +452,7 @@ __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole
 __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
 __pool table__  
 __pool__ _v_  
+__preen__ _v_ /PREEN/  
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
 __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
@@ -486,8 +501,10 @@ __redress__
 __redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
 __reef__ _n_  
 __reenactment__ _n_  
+__reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
 __resonate__ _v_  
 __responsibility__ _n_  
+__reticent__ _adj_ /RET-uh-sunt/  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
@@ -499,6 +516,7 @@ __ribald<sup>2</sup>__ _n_ A ribald person.
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
+__ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __rigmarole__ _n_  
 __rollout__ _n_  
 __roundworm__ _n_  
@@ -537,6 +555,7 @@ __sesquicentennial__ _adj_
 __sesquipedalian__ _adj, n_  
 __settee__ _n_  
 __shanghai__ _v_  
+__shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shortlist__ _n, v_  
 __shuck<sup>1</sup>__ _n_  
 __shuck<sup>2</sup>__ _v tr_  
@@ -612,6 +631,7 @@ __terrific__ _adj_ _The traffic is terrific._
 __testament__ _n_  
 __thwart__ _v_ :three::hammer: /THWORT/  
 __time-saver__ _n_  
+__tomfoolery__ _n_  
 __tongs__ _n pl_ :es: tenazas  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
@@ -620,6 +640,7 @@ __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance,
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
+__travesty__ _n_ /TRAV-uh-stee/  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __tussle__ _v intr_  
