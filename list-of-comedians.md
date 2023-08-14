@@ -3,6 +3,7 @@
 Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](https://en.wikipedia.org/wiki/List_of_comedians)):
 
 - [Amy Schumer](https://www.youtube.com/results?gl=US&search_query=Amy+Schumer)
+- [Andrew Dice Clay](https://www.youtube.com/results?gl=US&search_query=Andrew+Dice+Clay)
 - [Andy Daly](https://www.youtube.com/results?gl=US&search_query=Andy+Daly)
 - [Andy Richter](https://www.youtube.com/results?gl=US&search_query=Andy+Richter) asks "The Three Questions."
 - [Anthony Jeselnik](https://www.youtube.com/results?gl=US&search_query=Anthony+Jeselnik), one of the members of the Titans of Comedy. » [Thoughts and Prayers](https://www.youtube.com/watch?v=GiQfb-FZMUI&list=PLqSGXD25g6PspFfkBG8xT-Kx_8wq5xd7y)
