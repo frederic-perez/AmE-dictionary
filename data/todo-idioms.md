@@ -1,11 +1,18 @@
 __(as) healthy as a horse__  
 __a far cry from (something)__  
+__around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _We’ve gone around and around with the insurance company, and they still haven’t paid our claim._  
+__baby step__  
 __been there, done that__  
+__beg to differ__ To politely disagree with someone else.  
 __bridge the gap__  
 __buck the trend__  
+__call to action__  
+__carve out__  
+__churn out__  
 __come to a halt__  
 __cool off__  
 __courtesy of (someone or something)__  
+__crash course (in something)__  
 __for better or (for) worse__  
 __frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
@@ -80,6 +87,7 @@ __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I ha
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__here we go__  
 __in the zone__  
 __it (always) pays to (do something)__  
 __it goes without saying__  
@@ -96,13 +104,14 @@ __keep it up__ :dart:
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep pace__  
 __kick (someone or something) to the curb__  
-__kick in__  
+__kick in__ :two::hammer:  
 __kick into high gear__  
 __kindred spirit__  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
 __kludgy__ :dart:  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__  
+__knock out__ __7__ :dart: _slang_ To produce or complete something, usually with the main motivation of simply getting it done. _If we can knock out a few more of these reports before the weekend, we’ll be in good shape for next week._ _It’s your time to drop into flow and knock out your biggest task._  
 __knock-off__  
 __know (one’s) shit__  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
@@ -111,12 +120,14 @@ __make great strides__
 __measure up (to someone or something)__  
 __mess with (someone or something)__  
 __Mickey (Finn)__  
+__mixed bag__  
 __mixed feelings__  
 __more so__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __nix__  
 __no longer__  
 __no sweat__  
+__notch up__  
 __null and void__ No longer valid, legitimate, or enforceable.  
 __of all things__  
 __OG__  
@@ -125,6 +136,7 @@ __on the block__
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
+__on the rocks__ __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._  
 __one and done__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __other than (something)__  
@@ -148,6 +160,7 @@ __riding high__
 __rock the boat__  
 __roll out__  
 __seize the opportunity (to do something)__  
+__shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __slam (someone or something)__  
 __sleight of hand__  
@@ -155,6 +168,7 @@ __smarty-pants__
 __snafu__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __so much for someone or something__  
+__so much so__ To such an extent or great degree (that).  
 __spaced (out)__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __take back__  
@@ -167,6 +181,7 @@ __thrash out__ :dart: To engage in a thorough discussion in order to determine a
 __tight-lipped__ Secretive; not revealing information.  
 __to the fore__  
 __touch up__ :dart: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._  
+__tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __trick__ _v_  
 __turn of phrase__  
 __under (one’s) belt__  
