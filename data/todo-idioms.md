@@ -104,31 +104,6 @@ __keep it up__ :dart:
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep pace__  
 __kick (someone or something) to the curb__  
-__kick in__ :two::hammer:  
-__kick into high gear__  
-__kindred spirit__  
-__kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
-__kludgy__ :dart:  
-__knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
-__knock it off__  
-__knock out__ __7__ :dart: _slang_ To produce or complete something, usually with the main motivation of simply getting it done. _If we can knock out a few more of these reports before the weekend, we’ll be in good shape for next week._ _It’s your time to drop into flow and knock out your biggest task._  
-__knock-off__  
-__know (one’s) shit__  
-__know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
-__lovebirds__  
-__make great strides__  
-__measure up (to someone or something)__  
-__mess with (someone or something)__  
-__Mickey (Finn)__  
-__mixed bag__  
-__mixed feelings__  
-__more so__  
-__natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
-__nix__  
-__no longer__  
-__no sweat__  
-__notch up__  
-__null and void__ No longer valid, legitimate, or enforceable.  
 __of all things__  
 __OG__  
 __on a tear__  
