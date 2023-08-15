@@ -663,26 +663,3 @@ __valence__ _n_
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
-__vamoose__ _v_ /vuh-MOOSS/ Vamoose is an informal word that means “to depart quickly.” _With the sheriff and his posse hot on their tails, the bank robbers knew they had better vamoose._  
-__vampire bat__ _n_  
-__van__ _n_  
-__vantage point__  
-__vapid__ _adj_ :astonished::three: /VAP-id/ /ˈvæp ɪd/ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. Lacking taste, zest, or flavor; flat. _Syn_ flavorless, insipid, savorless, bland, flat _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
-__variable__ _n_ :mega:  
-__variegate__ _v_ Make something more diverse and varied. _Syn_ vary  
-__variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
-__verve__  
-__vexing__ _adj_ _A vexing problem._  
-__viands__ _n_  
-__vibrissa__ _n_ Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
-__vicar__ _n_  
-__vicinity__ _n_ /vuh-SIN-uh-tee/  
-__vox populi__ _n_ /VOKS-POP-yoo-lye/ _Vox populi_ is a Latin phrase that translates to “the voice of the people” and means, in essence, “popular sentiment or opinion.”  
-__Vulcan<sup>1</sup>__ _n_ /VUHL-kuhn/ __1__ A blacksmith or a metalworker. __2__ A miner. __3__ A person whose leg is broken or deformed. __4__ A cuckold: a man whose wife is unfaithful. __5__ One who is extremely logical and shows a lack of emotions, humor, etc.  
-__Vulcan<sup>2</sup>__ _adj_ Extremely logical, unemotional, etc.  
-__yips__ _n_ /YIPS/ Yips is a plural noun that refers to a state of nervousness that affects an athlete (such as a golfer) when they’re about to make an important move or play. It is almost always used in the phrase “the yips.” _To avoid the yips he changed his style of putting._  
-__Zen__ _n_ _You found your Zen in LA._  
-__zinch__  
-__zipline__ _n_ :two::hammer: _A zipline park._  
-__zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
-__zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  

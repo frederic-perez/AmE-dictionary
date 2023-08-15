@@ -18613,11 +18613,12 @@ __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fal
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
-__vamoose__ _v intr_ :two: [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp.  
+__vamoose__ _v intr_ :three: /vuh-MOOSS/ [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp. Vamoose is an informal word that means “to depart quickly.” _With the sheriff and his posse hot on their tails, the bank robbers knew they had better vamoose._  
 __vamp<sup>1</sup>__ _n_  
 __vamp<sup>2</sup>__ _v_ :two::hammer: (vamping)  
+__vampire bat__ _n_  
 __vampire squid__  
-__van__ _n_ _The knight was in command of the van._  
+__van__ _n_ :two::hammer: _The knight was in command of the van._  
 __vandalize__ _v_ :three: /VAN-duh-lyze/ [:scroll: After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome] Vandalize means “to deliberately damage or destroy public or private property.” _The impulse of many graffiti artists is not to vandalize infrastructure but to beautify city environments that are often monotone and nondescript._  
 __vandals__  
 __vane__ _n_ :nine: (not to be confused with vain, vein) __1__ (Mechanical Engineering) A flat plate or blade of metal mounted on a vertical axis in an exposed position to indicate wind direction. _Syn_ weather vane, wind vane _A smooth metal weather vane._ _Wind vane._ __2__ (Mechanical Engineering) Any one of the flat blades or sails forming part of the wheel of a windmill. __3__ (Mechanical Engineering) Any flat or shaped plate used to direct fluid flow, esp a stator blade in a turbine, etc. __4__ (Mechanical Engineering) A fin or plate fitted to a projectile or missile to provide stabilization or guidance. _Propeller vane._ __5__ (Zoology) _ornithol_ The flat part of a feather, consisting of two rows of barbs on either side of the shaft.  
@@ -18627,14 +18628,17 @@ __vanilla-flavored__ _adj_ _He is cautious about every step, to the point of see
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :six::dart: [:scroll: from Old French ‘vencus’, ‘venquis’] (vanquished) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
-__vantage point__ _n_ :three: A position or place that affords a wide perspective.  
+__vantage point__ _n_ :four: A position or place that affords a wide perspective.  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _n_ _I’m with a beer smoking on my vape._  
-__vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
+__vapid__ _adj_ :astonished::nine: /VAP-id/ /ˈvæp ɪd/ __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ Someone or something described as vapid is lacking in liveliness, force, or spirit. As such, _vapid_ is often synonymous with _dull_ or _boring_. __2__ Lacking taste, zest, or flavor; flat: _vapid beer._ _Syn_ flavorless, insipid, savorless, bland, flat _Finn preferred to watch the game in silence, with the TV on mute, rather than listen to the vapid chatter of the play-by-play announcer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
+__variable__ _n_ :mega:  
+__variegate__ _v_ Make something more diverse and varied. _Syn_ vary  
 __variegated__ _adj_ __1__ Marked with patches or spots of different colors. __2__ Varied; diverse.  
 __variety store__  
+__variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varlet__ _n_  
 __varmints__  
 __varnish__ _n_  
@@ -18717,7 +18721,7 @@ __verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections
 __versatile__ _adj_ :three::hammer.  
 __vertical farm__  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
-__verve__ _n_ :seven::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ _n_ :eight::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very<sup>1</sup>__ _adj_ :two: __4__ Used to emphasize the importance of what is specified. _For this very reason._ _We were in this very room._  
 __very<sup>2</sup>__ _adv_  
@@ -18737,13 +18741,14 @@ __vetting__
 __vex__ _v_ :three::hammer: (vexed)  
 __vexatious__ _adj_ :two: Causing irritation or annoyance. Causing or creating vexation; annoying: _vexatious delays._ _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
 __vexillology__ _n_ The study of flags.  
-__vexing__ _adj_ :three::hammer: _Vexing problem._ _It’s a vexing topic._  
+__vexing__ _adj_ :four::hammer: _A vexing problem._ _It’s a vexing topic._  
 __viable__ _adj_ :two::hammer:  
 __vial__ _n_ :two: /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._ _Angels empty the vials of wrath._  
-__viand__ _n_ (viands)  
-__vibrissa__ _n_  
-__vicar__  
+__viand__ _n_ :two::hammer: (viands)  
+__vibrissa__ _n_ :two: Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
+__vicar__ _n_ :two::hammer:  
 __vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
+__vicinity__ _n_ /vuh-SIN-uh-tee/  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you’re telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
 __vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually refers to events or situations that occur by chance. It can also apply specifically to the difficulties or hardships, usually beyond one’s control, that are commonly encountered in a life, career, etc., or simply to the quality or state of being changeable.  
@@ -18839,6 +18844,9 @@ __vouch__ _v_ :two::hammer:
 __voucher__ _n_ :five: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._ _A lunch voucher._  
 __vouchsafed__  
 __vow__ _v_  
+__vox populi__ _n_ /VOKS-POP-yoo-lye/ _Vox populi_ is a Latin phrase that translates to “the voice of the people” and means, in essence, “popular sentiment or opinion.”  
+__Vulcan<sup>1</sup>__ _n_ /VUHL-kuhn/ __1__ A blacksmith or a metalworker. __2__ A miner. __3__ A person whose leg is broken or deformed. __4__ A cuckold: a man whose wife is unfaithful. __5__ One who is extremely logical and shows a lack of emotions, humor, etc.  
+__Vulcan<sup>2</sup>__ _adj_ Extremely logical, unemotional, etc.  
 __vulcanic__ _adj_ /vuhl-KAN-ik/ __1__ Relating to volcanoes. __2__ Fiery; explosive; full of anger, energy, etc.  
 __vulcanize__ _v_ :two: /VUHL-kuh-nyz/ [:scroll: After Vulcan, the Roman god of fire, metalworking, etc.] __1__ _v tr_ To harden or improve, for example, rubber by application of sulfur and heat. To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure. __2__ _v intr_ To become hardened.  
 __vulnerable__ _adj_  
@@ -19567,7 +19575,7 @@ __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers
 __yin and yang__  
 __yipped__ _v_  
 __yipping__ _v_  
-__yips__ _n_ :two: (the yips) Nervous tension that causes an athlete to fail (especially causes golfers to miss short putts). _To avoid the yips he changed his style of putting._  
+__yips__ _n_ :three: /YIPS/ (the yips) Yips is a plural noun that refers to a state of nervousness that affects an athlete (such as a golfer) when they’re about to make an important move or play. It is almost always used in the phrase “the yips.” _To avoid the yips he changed his style of putting._ Nervous tension that causes an athlete to fail (especially causes golfers to miss short putts). _To avoid the yips he changed his style of putting._  
 __ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
 __yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
@@ -19603,7 +19611,7 @@ __zealotry__
 __zealous__  
 __zeightgeist__  
 __zeitgeist__ _n_ :seven: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
-__Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
+__Zen<sup>1</sup>__ _n_ :two: (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals. _You found your Zen in LA._  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :two::mega::hammer: /ˈzɛnɪθ; _US_ ˈziːnɪθ/  
 __zephyr__ _n_ :four: /ZEF-uhr/ /ZEFF-er/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
@@ -19619,6 +19627,7 @@ __zhuzh__ _v_
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
 __zillion__ _n_ _informal_  
+__zinch__  
 __zinger__ _n_ :three: (zingers) A witty remark; something that is lively, interesting, amusing, or impressive. _I’ve made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
@@ -19627,9 +19636,11 @@ __zip__ _v_ __9__ (Computer Science) Computing to compress (a file) in order to 
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
+__zipline__ _n_ :two::hammer: _A zipline park._  
 __zippy__ _adj_ Full of energy; lively. _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
 __zoanthropy__ _n_ /zo-AN-thruh-pee/ The delusion that one is a beast.  
+__zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
 __zone out__ _phr v_ :three: To lose concentration or become inattentive. To fall asleep.  
 __zonk out__ _v_  
 __zonk__ _n_ :two::hammer:  
@@ -19637,6 +19648,7 @@ __zoom in__ _phr v_ To focus more closely.
 __zoomorphic__ _adj_ /zoh-uh-MOR-fik/ Having the form of an animal. _Using cookie cutters, the children made zoomorphic treats to bring to the bake sale._  
 __zoonotic__ _adj_  
 __zoophobia__ _n_ /zo-uh-FOH-bee-uh/ __1__ An unusual fear of animals. Some examples of zoophobia are acarophobia (insects), ailurophobia (cats), arachnophobia (spiders), and cynophobia (dogs). __2__ A dislike of keeping animals in captivity.  
+__zoot suit__ _n_ A man’s suit popular during the early 1940s, characterized by wide-legged, tight-cuffed trousers and a long coat with wide lapels and heavily padded, wide shoulders.  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men’s suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ _n_ :three::pencil2::hammer: :es: calabacín  
 __zugzwang__ _n_ A situation in a chess game in which a player is forced to make an undesirable or disadvantageous move.  
