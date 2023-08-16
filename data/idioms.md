@@ -3,6 +3,7 @@ __(a) good sport__ Someone who can accept a loss in a competition or can accept 
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(Are) you kidding (me)?__  
 __(as) happy as a lark__ Very happy; contented. _I’ve been happy as a lark ever since we moved to the countryside._  
+__(as) healthy as a horse__  
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
 __(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad as hops after I crashed his car._  
 __(as) nice as ninepence__ Very tidy, neat, and well-organized; in good order. _James is so meticulous with his office, always keeping it nice as ninepence._  
@@ -90,7 +91,7 @@ __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no val
 __a disaster waiting to happen__  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
 __a falling out__ :two: A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
-__a far cry from (something)__ [:sound: far cry from]  
+__a far cry from (something)__ :two::hammer: [:sound: far cry from]  
 __a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
 __a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
 __a fine state of affairs__ :two: A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm. _Well, this is a fine state of affairs we’re in now. The client doesn’t like the job we’ve done, and they want it fixed in less than a week._  
@@ -282,6 +283,7 @@ __arm in arm__ _They were arm in arm, singing with the band._
 __arm’s length__ A distance intentionally kept from something or between something, equal (literally or figuratively) to an arm’s span. Typically used in the phrase “keep at an arm’s length.” _Nancy has been keeping me at an arm’s length ever since she found out I was gossiping about her._  
 __armchair expert__  
 __armed to the teeth__ :two: Fully armed, having many weapons.  
+__around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _We’ve gone around and around with the insurance company, and they still haven’t paid our claim._  
 __around Robin Hood’s barn__ On a long, indirect route. _A: “What took you guys so long to get here?” B: “Well, rather than just going through town, our esteemed driver took us all around Robin Hood’s barn instead!”_  
 __around the clock__ :three: Without stopping. _Syn_ for 24 hours, round the clock _Engineers work around the clock for three days trying to recover._  
 __around the corner__ :two: Going to happen soon.  
@@ -351,7 +353,7 @@ __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I cou
 __aye aye, sir__ _Aye aye, Captain._  
 __B-Team__  
 __baby boomer__  
-__baby step__  
+__baby step__ :two::hammer:  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
@@ -525,12 +527,12 @@ __beautiful people__ Stylish, glamorous, and often wealthy people admired by oth
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __beauty queen__ A woman who has won, or looks as if she could win, a beauty pageant. _When that beauty queen walked in, everyone’s heads turned._  
 __beef up__ :three: To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
-__been there, done that__  
+__been there, done that__ :two::hammer:  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
 __beg the question__ :six::hammer: _All of this begs the question of Gallego’s own voting record._  
-__beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
+__beg to differ__ :dart::two: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
 __behind bars__  
 __behind closed doors__ :dart::three: In secret, privately.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
@@ -654,7 +656,7 @@ __breaking point__ :three: The point at which an overworked or overburdened pers
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
 __brick by brick__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
-__bridge the gap__  
+__bridge the gap__ :two::hammer:  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __brighten up (the) day__  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
@@ -676,6 +678,7 @@ __bromance__ _slang_ A very close friendship between two men. The word is a port
 __brood over__ :two: To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
+__buck the trend__  
 __bucket list__ :two::hammer: _That’s one of my bucket list items._  
 __buckle up__ :five::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
@@ -744,7 +747,7 @@ __call someone on the carpet__ To call someone before an authority to be scolded
 __call someone out__ :three: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
 __call something out__  
 __call the shots__ :two::hammer:  
-__call to action__ :two::hammer:  
+__call to action__ :three::hammer:  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
@@ -772,7 +775,7 @@ __carry (someone) off their feet__ To completely overwhelm someone with enthusia
 __carry a torch for__  
 __carry the ball__ :two: To be in charge.  
 __carry the day__ To win, to be successful.  
-__carve out__  
+__carve out__ :two::hammer:  
 __case in point__ :four: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
@@ -857,7 +860,7 @@ __chug__ _v_ [for one person] To drink something, usually beer, quickly and in l
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
-__churn out__ :two::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
+__churn out__ :three::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __churn something up__  
 __cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0). _I feel like a bit of a cipher in such a large company._  
 __circle back (to something)__ :two::hammer:  
@@ -910,6 +913,7 @@ __come out swinging__ To compete or defend someone or something passionately or 
 __come out__  
 __come thick and fast__ To come rapidly and in large quantities (as in an attack). _Those bees came thick and fast after you disturbed that beehive._  
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
+__come to a halt__  
 __come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ :three: To successfully be brought into existence or to completion.  
@@ -940,6 +944,7 @@ __cool customer__ :dart: Someone who remains even-tempered, especially in stress
 __cool head__ The ability to remain calm and rational during stressful situations. _The successful outcome of the hostage situation was due to the police officer°s cool head._  
 __cool headed__  
 __cool it__  
+__cool off__  
 __cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
@@ -951,6 +956,7 @@ __count someone in (for something)__
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
 __course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
+__courtesy of (someone or something)__  
 __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
 __cozy up (to someone or something)__ :two::hammer:  
 __crack down (on someone or something)__ :two: To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
@@ -962,7 +968,7 @@ __cram in__
 __crank up__  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
-__crash course__ :three: A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
+__crash course (in something)__ :four: A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
 __crash__ __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._  
 __crasher__  
 __creature of habit__ :two: One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
@@ -1347,7 +1353,7 @@ __for (one’s) (own) good__ For one’s benefit, even though it may not be enjo
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
 __for all intents and purposes__  
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
-__for better or (for) worse__ :five::hammer:  
+__for better or (for) worse__ :six::hammer:  
 __for crying out loud__ :four: A expression of frustration or surprise.  
 __for good__ :three::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
 __for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
@@ -1390,16 +1396,18 @@ __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh bea
 __fresh-faced__ :two: Of or having an appearance of health, vitality, and/or youthfulness. _After a good night’s sleep, he woke up fresh-faced and feeling like a million bucks._  
 __Freudian slip__ :two: Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
 __Friendsgiving__ :two: A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
-__frigging__ :dart: _rude slang_ An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
+__frigging__ :dart::two: _rude slang_ (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from a mile away__ :two: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from bad to worse__  
 __from rags to riches__ From being poor to being wealthy.  
 __from the get-go__  
 __from the ground up__ :two: [:scroll: This expression alludes to the construction of a house, which begins with the foundation.] From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ _Written from the ground up._  
+__from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __from time to time__  
 __front and center__ :six::hammer:  
 __frost the cake__  
 __fruit loop__  
+__fuck (one’s) brains out__  
 __fuck a duck__ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
 __full as a tick__ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
 __full of (oneself)__  
@@ -1407,7 +1415,7 @@ __full of beans__ :two: To have a lot of energy.
 __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
-__full stop__ :two::hammer:  
+__full stop__ :three::hammer:  
 __funky__ _With that mix, things get funky._  
 __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
 __funny feeling__ :two: An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances. _I have a funny feeling that this meeting isn’t going to end in our favor._  

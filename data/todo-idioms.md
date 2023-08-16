@@ -1,23 +1,3 @@
-__(as) healthy as a horse__  
-__a far cry from (something)__  
-__around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _We’ve gone around and around with the insurance company, and they still haven’t paid our claim._  
-__baby step__  
-__been there, done that__  
-__beg to differ__ To politely disagree with someone else.  
-__bridge the gap__  
-__buck the trend__  
-__call to action__  
-__carve out__  
-__churn out__  
-__come to a halt__  
-__cool off__  
-__courtesy of (someone or something)__  
-__crash course (in something)__  
-__for better or (for) worse__  
-__frigging__ _rude slang_ :dart: (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
-__from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
-__fuck (one’s) brains out__  
-__full stop__  
 __game-changer__  
 __gaslighting__  
 __get a big head__ To become arrogant or conceited; to assume an exaggeratedly high opinion of oneself. _Samantha got a big head after her book became a bestseller._  
