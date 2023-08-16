@@ -33,6 +33,7 @@ __a fool and his money are soon parted__ _prov_ Foolish people make purchases wi
 __à gogo__ _adj, adv_ :two: /ə ˈɡəʊˌɡəʊ/ _informal_ As much as one likes; galore: _wine à gogo._  
 __a great deal__ _adv_  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
+__A-bomb__ _n_  
 __A-list__  
 __A4__ _adj, n_ :astonished: _A4 stainless steel._  
 __ab initio__ _adv_ From the beginning.  
@@ -58,6 +59,7 @@ __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :six::hammer:  
+__abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
 __abide__ _v_ :six: /uh-BYDE/ Abide is often used in negative constructions, such as “can’t abide,” to say that someone cannot tolerate or accept something. Abide can also mean “to accept without objection” and “to remain or continue.” _I just can’t abide such blatant dishonesty._ _Residents of the dorm agree to abide by the dorm’s rules._ _Abiding trepidation._  
 __abject__ _adj_ :six: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
@@ -86,7 +88,7 @@ __abrupt__ _adj_ :two::hammer: /uh-BRUPT/ _An abrupt decrease._
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __abscission__ _n_ The act of cutting off. _Syn_ cutting off _He had surgery for the abscission of a malignancy._  
-__abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
+__abscond__ _v_ :four: /ab-SKAHND/ (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __absent-minded__ _adj_  
 __absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away from the place where he or she is registered.  
@@ -98,9 +100,10 @@ __abstract__ _v_
 __abstruse__ _adj_ :two: /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure. Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__ _adj_ :two::hammer:  
+__abusive__ _adj_  
 __abut__ _v_ :two::hammer: (abutted, abutting) _Bungalows abutting._  
 __abutting__ _adj_  
-__abuzz__ _adj_ :two::hammer:  
+__abuzz__ _adj_ :three: /əˈbʌz/ __1__ Buzzing. __2__ Full of or alive with activity or talk: _The company was abuzz with rumors._  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
 __abyss__ _n_ :seven::astonished::mega: /əˈbɪs/ _Looking into the abyss._  
 __acacia__ _n_  
@@ -197,6 +200,7 @@ __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor hea
 __address<sup>2</sup>__ _v_ :five::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
+__adenosine__ _n_  
 __adequacy__  
 __adhere__ _v_  
 __adhesive__ _adj, n_ _Double-stick adhesive strips._  
@@ -223,7 +227,8 @@ __admonition__ _n_ :nine: Bringing a skateboard to school is a great way to get 
 __admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
-__adroit__ _adj_ :three::hammer:  
+__adrift__  
+__adroit__ _adj_ :four::hammer:  
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulate__ _v_ :mega:  
 __adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
@@ -246,7 +251,7 @@ __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The peti
 __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
-__advocate<sup>1</sup>__ _v_ _She advocated for me when the doctors were wrong._  
+__advocate<sup>1</sup>__ _v_ :two: /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of. _She advocated for me when the doctors were wrong._  
 __advocate<sup>2</sup>__ _n_ :mega:  
 __aegis__ _n_ :two: /ˈiːdʒɪs/ (egis) __1__ Sponsorship or protection; auspices (esp in the phrase _under the aegis of_). __2__ (Greek myth) The shield of Zeus, often represented in art as a goatskin.  
 __aerials__  
@@ -256,6 +261,7 @@ __aerospike engine__ _n_
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
 __affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
+__affectionally__  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :eight: A written declaration upon oath made before an authorized official. _Syn_ statement, declaration, testimony, proclamation _She was asked to sign an affidavit swearing that nothing had happened._ :es: declaración jurada  
 __affiliate__  
@@ -302,17 +308,18 @@ __agency__ _n_ :four::astonished: __6__ The state of being in action or exerting
 __agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
+__aggrandize__ _v_ /uh-GRAN-dyze/  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
 __aggravator__ _n_ An unpleasant person who is annoying or exasperating.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aggro__ _n_ :three::hammer:  
-__aghast__ _adj_ :eight: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
+__aghast__ _adj_ :nine: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitation__ _n_ __1__ A state of excitement, disturbance, or worry.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
 __agnostic__ _adj_ :two::hammer:  
-__agog__ _adj_  
+__agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonist__ _n_ __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
@@ -353,6 +360,7 @@ __aircraft hold__ _n_ :es: bodega (de avión)
 __aircraft__ _n_ _Ejecting from aircraft._  
 __airfield__  
 __airhead__ _n_ _slang_ A stupid person.  
+__airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
 __airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _adj_ :two::hammer: _Airy restaurant._ _The master bedroom is airy._  
@@ -404,7 +412,7 @@ __allay__ _v tr_ :five::hammer: (allayed)
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/  
-__allegedly__  
+__allegedly__ _adv_ :two: /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
 __alleviate__ _v_ :two::hammer: /uh-LEE-vee-ayt/  
@@ -478,7 +486,7 @@ __ambulate__ _v_ :two: To walk from place to place; move about.
 __ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulation._  
 __ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
-__ameliorate__ _v_ :two::hammer:  
+__ameliorate__ _v_ :three::hammer: /uh-MEE-lee-uh-rayt/  
 __amen__  
 __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amend__ _v_ _The Texas constitution was amended in 1891._  
@@ -500,7 +508,7 @@ __amiss<sup>2</sup>__ _adv_
 __amity__ _n_ :two::hammer: /AM-uh-tee/ _Amity between the nations was restored with the treaty._  
 __ammeter__ _n_ :astonished: An instrument for measuring electric currents in amperes.  
 __ammo__  
-__ammonia__ _n_  
+__ammonia__ _n_ :two::hammer: :es: amoníaco  
 __amnesty player__  
 __amnesty__ _n_ :pencil2:  
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
@@ -533,8 +541,9 @@ __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and 
 __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
 __anchor<sup>1</sup>__ _n_ :mute:[anc~~h~~or]  
 __anchor<sup>2</sup>__ _v_ :mute:[anc~~h~~or] _Does your kid aspire to anchor the evening news?_  
+__Anchors Aweigh__ _n_  
 __anchovies__  
-__ancillary<sup>1</sup>__ _adj_ :seven::mega::hammer: _Ancillary study end points._  
+__ancillary<sup>1</sup>__ _adj_ :eight::mega::hammer: /AN-suh-lair-ee/ _Ancillary study end points._  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
@@ -568,6 +577,7 @@ __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
+__animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
 __anime__ _n_ :two: /ˈænɪˌmeɪ/ /AN-uh-may/ A style of animation developed in Japan, characterized by stylized colorful art and often adult themes.  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :seven::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
@@ -598,6 +608,7 @@ __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, 
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ _n, v_ :mute:[ans~~w~~er]  
+__ant hill__ _n_  
 __antacid__ _n_ :pencil2:  
 __antagonize__ _v_  
 __antanaclasis__ _n_ :two::hammer:  
@@ -643,7 +654,7 @@ __anvil__ _n_ :six: (anvils) A heavy block of iron or steel on which hot metals 
 __any longer__  
 __anybody’s guess__  
 __anytime__  
-__apace__ _adv_ With speed; quickly; swiftly. _Syn_ chop-chop, quickly, rapidly, speedily _Concussion concerns continue apace._  
+__apace__ _adv_ :two: With speed; quickly; swiftly. _Syn_ chop-chop, quickly, rapidly, speedily _Concussion concerns continue apace._  
 __apache__ _n_ :mega:  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
@@ -661,6 +672,7 @@ __aping__
 __aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_ :two: Temporary cessation of breathing.  
+__apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand raise._  
@@ -699,7 +711,7 @@ __appointed__ _adj_ :five: __3__ Provided with furnishing and accessories (espec
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
 __apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog; felt the comments were not apposite to the discussion._  
 __apposition__ _n_ :two::hammer: (grammar)  
-__appraisal__ _n_ :nine::m: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
+__appraisal__ _n_ :nine::m: __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
 __appreciable__ _adj_ Capable of being perceived or measured.  
@@ -736,6 +748,7 @@ __arbor__ _n_ :two::hammer: _An arbor of live oaks._
 __arboreal__ _adj_ /ahr-BOR-ee-ul/  
 __arboretum__ _n_ :nine: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
 __arboriculture__ _n_  
+__arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._  
 __arcade game__  
 __arcade__ _n_ :two::hammer: _Catering capabilities, 2 bars, billards and an arcade._ _West’s oldest amusement arcade._  

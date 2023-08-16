@@ -1,28 +1,3 @@
-__A-bomb__ _n_  
-__abidance__ _n_ Adherence. _Syn_ compliance, conformity _In my parents’ household, strict abidance by the rules was required, so naturally I rebelled._  
-__abscond__ _v_ /ab-SKAHND/  
-__abusive__ _adj_  
-__abuzz__ _adj_ /əˈbʌz/ __1__ Buzzing. __2__ Full of or alive with activity or talk: _The company was abuzz with rumors._  
-__adenosine__ _n_  
-__adrift__  
-__adroit__  
-__advocate__ _v_ /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of.  
-__affectionally__  
-__aggrandize__ _v_ /uh-GRAN-dyze/  
-__aghast__  
-__agog__ _adj_ Highly excited by eagerness, curiosity, anticipation, etc.  
-__airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
-__allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
-__ameliorate__ _v_ /uh-MEE-lee-uh-rayt/  
-__ammonia__ _n_ :es: amoníaco  
-__Anchors Aweigh__ _n_  
-__ancillary__ _adj_ /AN-suh-lair-ee/  
-__animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
-__ant hill__ _n_  
-__apace__ _adv_  
-__apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
-__appraisal__ _n_  
-__arborist__ _n_ A specialist in the care of woody plants, especially trees. _Syn_ tree surgeon  
 __arresting__ _adj_  
 __articulate__ _v_  
 __artiodactyl__ _n_  
