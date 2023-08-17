@@ -37,6 +37,7 @@ __blatherskite__ _n_
 __blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __bloaviate__ _v intr_  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
+__blurb__ _n_ A brief testimonial or excerpt of a review, as on a book jacket.  
 __bob__ _v_  
 __boilerplate code__ _n_  
 __bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
@@ -44,6 +45,9 @@ __boo__ _v_
 __booby trap__ _n_  
 __boolean__ _n_ :mega:  
 __boomtown__ _n_  
+__bop<sup>1</sup>__ _n_ A blow; a punch.  
+__bop<sup>2</sup>__ _v tr_ To hit or strike.  
+__bop<sup>3</sup>__ _v intr_ :dart: _slang_ To move, go, or proceed. _I just bopped down to Boston for an action-packed 24 hours!_  
 __bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
@@ -104,11 +108,13 @@ __defamatory__ _adj_ Injurious to someone’s name or reputation.
 __demystify__ _v tr_  
 __desiccant__ _n_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
+__dill__ _n_ :es: eneldo  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __disavow__ _v_ /dis-uh-VOW/  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
+__dither__ _v intr_ To be nervously irresolute in acting or doing.  
 __doctor__ _v tr_ __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._  
 __doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
@@ -172,6 +178,7 @@ __finicky__ _adj_
 __firefly__ _n_ :es: luciérnaga  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __flit__ _n_  
+__flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __flywheel__ _n_  
 __forfeit__ _v tr_  
 __formidable__ _adj_ :astonished:  
@@ -197,6 +204,7 @@ __glaring__ _adj_
 __gloomy__ _adj_  
 __golem__ _n_  
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
+__gooseberry__ _n_ :es: grosella espinosa  
 __gospel__ _n_ /GOS-puhl/  
 __gossamer__ _n_ __2__ Any thin, light fabric, esp. one used for veils.  
 __gourmand__ _n_ A lover of good food. _Syn_ trencherman, glutton  
@@ -233,6 +241,8 @@ __heliskiing__ _n_
 __helter-skelter__  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__hex<sup>1</sup>__ _n_ :dart: __1__ An evil spell; a curse. __2__ One that brings bad luck.  
+__hex<sup>2</sup>__ _v tr_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
 __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
 __highlight__ _n_ :es: punto culminante  
@@ -277,7 +287,7 @@ __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports j
 __juvenilize__  
 __kerf__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
-__Klondike__ _n_ A form of solitaire card game.  
+__Klondike__ _n_ :two: A form of solitaire card game.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
 __knickers__ _n_ __2__ A US variant of knickerbockers.  
 __kowtow__ _v_  
@@ -366,9 +376,10 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
-__non-negotiable__ _adj_  
+__non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __nondescript__ _adj_ /non-di-SKRIPT/  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
+__nutmeg__ _n_ :es: nuez moscada  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __Old Crow__ _n_  
@@ -381,6 +392,7 @@ __ornamental__ _adj, n_
 __ostopenia__  
 __outcome__ _n_ :mega:  
 __outlandish__ _adj_ /out-LAN-dish/ _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.  
+__outperform__ _v tr_  
 __outright__ _adj, adv_  
 __outsell__ _v tr_  
 __outset__ _n_  
@@ -493,6 +505,7 @@ __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.
 __ribbon candy__  
 __ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __rigmarole__ _n_  
+__roadblock__ _n_  
 __rollout__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
@@ -549,6 +562,7 @@ __smoke__ _v_ _It was cold and our breath smoked._
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __snicker__ _v intr_  
 __soft hat__ _n_ :camera:  
+__solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
