@@ -1,3 +1,10 @@
+__around the horn__ [:scroll: Originally a nautical term referring to Cape Horn of South America, the long way to navigate around the continent since the creation of the Panama Canal.] __2__ A difficult route chosen despite a simpler alternative. _If traffic on the highway is too bad, we might have to go around the horn instead._  
+__bag__ __2__ To get or obtain something. _World’s Strongest Man bags new job._  
+__become second nature (to one)__  
+__break free__ __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
+__burn the candle at both ends__ To work very hard and stay up very late at night. (One end of the candle is work done in the daylight, and the other end is work done at night.) _No wonder Mary is ill. She has been burning the candle at both ends for a long time._ _You’ll wear out if you keep burning the candle at both ends._  
+__buster__ __1__ :dart: A generic term of address for a male. _Listen buster, if you keep starting trouble like this, the police are going to arrest you sooner than later._ __2__ _slang_ A pejorative term for someone regarded as falsely or overly confident and aggressive. _That kid’s a buster, he’s no threat to us._  
+__doom and gloom__ (A situation) characterized by negativity or futility. a general feeling of having lost all hope and of pessimism (= expecting things to go badly). _The situation isn’t all doom and gloom—there are still plenty of good schools that did accept you!_  
 __game-changer__  
 __gaslighting__  
 __get a big head__ To become arrogant or conceited; to assume an exaggeratedly high opinion of oneself. _Samantha got a big head after her book became a bestseller._  
@@ -68,6 +75,8 @@ __hard done-by__
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __here we go__  
+__hold (someone, something, or an animal) back (from someone or something)__  
+__hophead__  
 __in the zone__  
 __it (always) pays to (do something)__  
 __it goes without saying__  
@@ -84,6 +93,7 @@ __keep it up__ :dart:
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep pace__  
 __kick (someone or something) to the curb__  
+__lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __of all things__  
 __OG__  
 __on a tear__  
@@ -92,6 +102,7 @@ __on the cusp__
 __on the fence__  
 __on the lookout__  
 __on the rocks__ __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._  
+__on track__ Progressing or developing as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __one and done__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __other than (something)__  
@@ -105,6 +116,7 @@ __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 mi
 __pick up__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
+__play second fiddle__  
 __point taken__  
 __poon__  
 __quite something__  
@@ -117,6 +129,7 @@ __roll out__
 __seize the opportunity (to do something)__  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
+__shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __slam (someone or something)__  
 __sleight of hand__  
 __smarty-pants__  
@@ -134,8 +147,9 @@ __the likes of (someone or something)__
 __the usual suspects__ The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __tight-lipped__ Secretive; not revealing information.  
+__to (one’s) name__ In one’s possession; owned by one. _Without a penny to his name._  
 __to the fore__  
-__touch up__ :dart: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._  
+__touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __trick__ _v_  
 __turn of phrase__  
@@ -147,4 +161,5 @@ __whistleblower__
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
 __whoopsie-daisy__  
 __win over__  
+__wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
 __yea or nay__  
