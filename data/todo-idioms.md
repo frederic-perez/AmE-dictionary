@@ -1,23 +1,3 @@
-__around the horn__ [:scroll: Originally a nautical term referring to Cape Horn of South America, the long way to navigate around the continent since the creation of the Panama Canal.] __2__ A difficult route chosen despite a simpler alternative. _If traffic on the highway is too bad, we might have to go around the horn instead._  
-__bag__ __2__ To get or obtain something. _World’s Strongest Man bags new job._  
-__become second nature (to one)__  
-__break free__ __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
-__burn the candle at both ends__ To work very hard and stay up very late at night. (One end of the candle is work done in the daylight, and the other end is work done at night.) _No wonder Mary is ill. She has been burning the candle at both ends for a long time._ _You’ll wear out if you keep burning the candle at both ends._  
-__buster__ __1__ :dart: A generic term of address for a male. _Listen buster, if you keep starting trouble like this, the police are going to arrest you sooner than later._ __2__ _slang_ A pejorative term for someone regarded as falsely or overly confident and aggressive. _That kid’s a buster, he’s no threat to us._  
-__doom and gloom__ (A situation) characterized by negativity or futility. a general feeling of having lost all hope and of pessimism (= expecting things to go badly). _The situation isn’t all doom and gloom—there are still plenty of good schools that did accept you!_  
-__game-changer__  
-__gaslighting__  
-__get a big head__ To become arrogant or conceited; to assume an exaggeratedly high opinion of oneself. _Samantha got a big head after her book became a bestseller._  
-__get hammered__  
-__get off (one’s) high horse__ To stop acting as if one is better than other people; to stop being arrogant or haughty.  
-__get real__  
-__get the gist__  
-__get the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal. _We’re just waiting to get the green light from our managers before we release the latest software update._  
-__get the knack of__ To learn how to do something competently or well after a certain period of practice or development. _Wow, you’re really getting the knack of playing piano!_  
-__get to someone__  
-__get with the times__ _slang_ To understand or be knowledgeable of modern times, especially as relates to the contemporary trends, ideas, or fashions. (Usually said as a jocular or sarcastic imperative.) _Get with the times, John, nobody wears their hat like that anymore!_  
-__GI Joe__  
-__git it a shot__  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (one) the creeps__  
