@@ -1,28 +1,3 @@
-__arresting__ _adj_  
-__articulate__ _v_  
-__artiodactyl__ _n_  
-__assuage__ _v_ /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.”  
-__asunder__ _adj, adv_ /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.”  
-__austerity__ _n_ /ɔˈstɛr ɪ ti/  
-__autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
-__avenge__ _v tr_  
-__avent__ _n_  
-__average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
-__ayahuasca__ _n_  
-__b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
-__Baader–Meinhof phenomenon__ _n_ (frequency illusion, frequency bias) A cognitive bias by which a recently learned word, concept, etc. suddenly seems to appear with improbable frequency.  
-__baccalaureate__ _n_  
-__backhanded__ _adj_  
-__baloney__ _n_ /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] Nonsense, such as foolish, deceptive, or pretentious talk.  
-__bargain__ _n_  
-__barrage__ _n_  
-__barranca__ _n_ (barranco)  
-__beachhead__ _n_ :pencil2: __2__ A first achievement that opens the way for further developments; a foothold.  
-__bedside__ _adj, n_  
-__beguile__ _v_ /bih-GHYLE/ __1__ To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __2__ To trick or deceive them. _She was cunning enough to beguile her classmates into doing the work for her._  
-__belated__ _adj_ /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._  
-__belly laugh__ _n_  
-__Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.  
 __bench__ _v_  
 __benignant__ _adj_ /bih/buh-NIG-nuhnt/ __1__ Kind and gracious. __2__ Beneficial. __3__ Not harmful.  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  

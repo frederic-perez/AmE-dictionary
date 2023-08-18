@@ -806,7 +806,7 @@ __array<sup>1</sup>__ _n_ :mega:
 __array<sup>2</sup>__ _v_ (arrayed)  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
 __arrest__ _v_ :two::astonished::hammer: _While others are arrested by discouragement, we are not._  
-__arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
+__arresting__ _adj_ :two::hammer: _The arresting Gothic mansion of Mount Stuart._  
 __arrive__ _v_ _He arrived in England in April 1376._  
 __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __arrowroot__  
@@ -817,12 +817,13 @@ __artery__ _n_ :mega:
 __artful__  
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :five: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
-__articulate<sup>2</sup>__ _v_ :seven::hammer: (articulated)  
+__articulate<sup>2</sup>__ _v_ :eight::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artillery__ _n_  
+__artiodactyl__ _n_  
 __artisanal__ _adj_ :two::hammer: _Artisanal cheeses._  
 __artistry__ _n_ :two: A superior skill that one can learn by study and practice and observation. _Syn_ prowess, art  
 __artsy__ _adj_ :four::hammer: (arty in BrE)  
@@ -887,8 +888,8 @@ __assizes__ _n_
 __associate with__ _phr v_ To spend time with someone.  
 __assonance__ _n_ :two: Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
-__assuage__ _v_ :seven: (assuaged) To make (something burdensome or painful) less intense or severe. _Syn_ alleviate, relieve, palliate _Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger._  
-__assurance__ _n_ :two::hammer: (assurances)  
+__assuage__ _v_ :eight: /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.” To make (something burdensome or painful) less intense or severe. _Syn_ alleviate, relieve, palliate _Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger._  
+__assurance__ _n_ :two::hammer:  
 __assuredness__ _n_  
 __asswipe__ _n_  
 __asterisk__ _n_ :mega:  
@@ -906,7 +907,7 @@ __astringent__
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
 __astute__ _adj_ :two::hammer: /uh-STOOT/  
-__asunder__ _adv_ :five::hammer: _A world torn asunder by evil and hate._  
+__asunder__ _adj, adv_ :six: /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.” _A world torn asunder by evil and hate._  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
@@ -987,6 +988,7 @@ __auspices__
 __auspicious__ _adj_ /aw-SPISH-us/  
 __Aussie__ _n_ _informal_  
 __austere__  
+__austerity__ _n_ /ɔˈstɛr ɪ ti/  
 __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
 __Australia__ _n_ :mega:  
 __authorial__  
@@ -1006,11 +1008,15 @@ __automaton__ _n_ :two: __1__ Someone who behaves like a machine and shows no fe
 __autonym__ _n_ /O-tuh-nim/ __1__ A person’s own name, as distinguished from a pseudonym. __2__ A work published under the real name of the author.  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
+__autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avail__ _v_ :three::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_ :two::hammer:  
+__avenge__ _v tr_  
+__avent__ _n_  
 __aver__ _v_ :two::hammer:  
 __average citizens__  
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
+__average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
 __aviary__ _n_ :four: A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
@@ -1035,14 +1041,15 @@ __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile.
 __awry__ _adj, adv_ :six: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
-__ayahuasca__ _n_ :two: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
+__ayahuasca__ _n_ :three: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
 __Ayurveda__ _n_  
 __azure<sup>1</sup>__ _n_ :two::hammer:  
 __azure<sup>2</sup>__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
+__b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
-__Baader-Meinhof effect__ _n_  
+__Baader–Meinhof phenomenon__ _n_ :dart::two: (Baader-Meinhof effect, frequency illusion, frequency bias) A cognitive bias by which a recently learned word, concept, etc. suddenly seems to appear with improbable frequency.  
 __baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
 __Babar the elephant__  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
@@ -1057,6 +1064,7 @@ __baby__ _v tr_ __1__ To treat with love and attention. __2__ To treat (someone)
 __Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia from about 586 to about 538 bc. __2__ (Historical Terms) The exile of the seven popes in Avignon (1309–77).  
 __Babylonian exile__ _n_ Babylonian captivity.  
 __babysit__ _v_ :two::hammer:  
+__baccalaureate__ _n_  
 __bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
 __back away__  
@@ -1078,6 +1086,7 @@ __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, es
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__ _n_  
 __backfire__ _v_  
+__backhanded__ _adj_  
 __backhander__ _n_ /ˈbækˌhændə/  
 __backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
 __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
@@ -1165,7 +1174,7 @@ __ballyhoo<sup>1</sup>__ _n_
 __ballyhoo<sup>2</sup>__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :three::hammer: _The air was sweet and balmy._ _A balmy day._  
-__baloney__ _n_ :four::pencil2::mega: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
+__baloney__ _n_ :five::pencil2::mega: /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement. Nonsense, such as foolish, deceptive, or pretentious talk.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balsa__ _n_  
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
@@ -1219,7 +1228,7 @@ __bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __barf__ _v_ :four: To vomit. _Barf bag._ _Barf bucket._  
-__bargain__ _n_ :three::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
+__bargain__ _n_ :four::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
 __bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
@@ -1237,8 +1246,9 @@ __barnyard__ _n_ :two::pencil2: The area surrounding a barn, often enclosed by a
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
-__barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage<sup>1</sup>__ _n_ :six: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
+__barranca__ _n_ (barranco)  
 __barre__  
 __barrel bombs__  
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank’s barrel._  
@@ -1302,7 +1312,7 @@ __bays__ _n_
 __bazillion__ _n informal_ :four: /bəˈzɪl yən/ An extremely large, indeterminate number.  
 __beach__ _v_  
 __beachcomb__ _v_ To search for and collect objects such as seashells and driftwood along the seashore.  
-__beachhead__ _n_ :four::hammer:  
+__beachhead__ _n_ :five::pencil2::hammer: __2__ A first achievement that opens the way for further developments; a foothold.  
 __bead__ _n_ __4__ :astonished: (Firearms, Gunnery, Ordnance & Artillery) A small metallic knob acting as the sight of a firearm.  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
@@ -1345,6 +1355,7 @@ __bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or 
 __bedridden__ _adj_ :four: Confined to bed because of illness or infirmity. _She was practically bedridden._  
 __bedrock__ _n_ :eight: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
+__bedside__ _adj, n_  
 __bedspreads__ _n_  
 __bedstead__  
 __bee eater__ _n_ :es: abejaruco  
@@ -1379,7 +1390,7 @@ __beggar__ _n_ :two::hammer:
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
 __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes  
-__beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
+__beguile__ _v_ :nine: /bih-GHYLE/ __1__ To deceive by guile or charm: _beguiled unwary investors._ _She was cunning enough to beguile her classmates into doing the work for her._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behavioral intervention__  
 __behemoth__ _n_ :eight: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
@@ -1396,7 +1407,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
-__belated__ _adj_ :two::hammer: _A belated shoutout to Dave for his recent contribution to the museum._  
+__belated__ _adj_ :five: /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._ _A belated shoutout to Dave for his recent contribution to the museum._  
 __belatedly__ _adv_ :five::hammer:  
 __belch<sup>1</sup>__ _v_ :three::hammer: _Smoke belched._ _Steam belches from the nuclear power plant._  
 __belch<sup>2</sup>__ _n_  
@@ -1423,12 +1434,14 @@ __bellows__ _n_ :two: A mechanical device that blows a strong current of air; us
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
 __bellwether__ _n_ :three::hammer:  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
+__belly laugh__ _n_  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
 __belong__ _v_ /bɪˈlɒŋ/  
 __belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
 __belt out__  
 __belt socket__ _n_  
 __belt__ _n_ A swallow or a gulp of an alcoholic drink.  
+__Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __beltway__ _n_ :dart:  
