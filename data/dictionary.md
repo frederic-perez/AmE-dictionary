@@ -1451,7 +1451,8 @@ __bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; b
 __bemuse__ _v tr_ :three: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
 __bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
-__bench__ _n_ _Snow will dust the benches and valleys._  
+__bench<sup>1</sup>__ _n_ _Snow will dust the benches and valleys._  
+__bench<sup>2</sup>__ _v_  
 __benchmark<sup>1</sup>__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __benchmark<sup>2</sup>__ _v_  
 __benchmarking__ _n_ :two::hammer:  
@@ -1462,7 +1463,7 @@ __beneficent__ _adj_ Characterized by or performing acts of kindness or charity.
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__ _adj_ :three::hammer: /buh-nev-uh-luhnt/ /buh-NEV-uh-lunt/  
 __benign__ _adj_ /bih-NYNE/ Benign means “not causing harm or injury.” In medicine, it refers to tumors that are not cancerous. _The email seemed benign, but it was discovered to be from a hacker._ _The tumor was benign._  
-__benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
+__benignant__ _adj_ :two: /bih/buh-NIG-nuhnt/ __1__ Kind and gracious. Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._ __2__ Beneficial. __3__ Not harmful.  
 __benison__ _n_  
 __Bennifer__ _n_ Portmanteau of Ben Affleck and Jennifer Lopez.  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
@@ -1510,6 +1511,7 @@ __betrothal__ _n_
 __betrothed__ _adj_ :five: Engaged to be married.  
 __betterment__  
 __bettors__  
+__betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
 __bevel<sup>2</sup>__ _v_ :two::hammer:  
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
@@ -1537,7 +1539,8 @@ __bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collect
 __bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
-__biff__ _v tr_  
+__biff<sup>1</sup>__ _n_  
+__biff<sup>2</sup>__ _v tr_  
 __Big A__ _n_ Big Apple, nickname for New York City.  
 __Big Apple__  
 __big brother__  
@@ -1577,7 +1580,7 @@ __billet__ _v_ :six: (billeted, billeting) :mega: Provide housing for (military 
 __billet-doux__ _n_ /bill-ee-DOO/ A love letter. _While helping her grandmother pack, Abbie came across a billet-doux from her grandfather that was written when the two were teenagers._  
 __billet<sup>1</sup>__ _n_  
 __billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
-__billfold__ _n_  
+__billfold__ _n_ :two: A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
 __billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _n_ :two::hammer: _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -1598,6 +1601,7 @@ __biopic__
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
 __bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I’m going to be your fuckin’ bird dog._  
+__bird of prey__ _n_  
 __bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.  
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birdie__ _n_  
@@ -1644,7 +1648,7 @@ __blackbirder__
 __blackboard__ _n_  
 __blacked out__ _v_  
 __blackening__  
-__blackface__  
+__blackface__ _n_ :two::hammer:  
 __blackguard<sup>1</sup>__ _n_ __1a__ A rude or unscrupulous person __b__ A person who uses foul or abusive language.  
 __blackguard<sup>2</sup>__ _v tr_ To talk about or address in abusive terms.  
 __blackhead__ _n_ :five::hammer: (blackheads)  
@@ -1652,15 +1656,16 @@ __blackjack<sup>1</sup>__ _n_
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
-__blackmail__ _n_  
+__blackmail__ _n_ :two::hammer:  
 __blackout curtains__  
 __blackout__ _n_ :four::hammer: _Blackout dates apply_ _Blackout curtain._ _Blackout periods may apply._  
 __blackpool__  
+__blacktop__ _n_ __1__ A bituminous paving substance, as asphalt. __2__ A road covered with blacktop.  
 __blah story__  
 __blanched__ _v_  
 __bland__ _adj_ :eight: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
-__blandishment__ _n_ :three: (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. _Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._  
+__blandishment__ _n_ :four: /BLAN-dish-munt/ (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments._Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._ _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
@@ -1671,7 +1676,7 @@ __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or
 __blatant__ _adj_ :three::hammer:  
 __blatantly__  
 __blather__ _v intr_ :three: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
-__blatherskite__ _n_  
+__blatherskite__ _n_ :two::hammer:  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
 __blazing__  
@@ -1715,14 +1720,17 @@ __blitheness__
 __blither__  
 __blithering__  
 __blithesome__ _adj_  
+__blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
 __Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
 __blitz<sup>1</sup>__ _n_ :six: [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz. __3__ _informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _v tr_ :three: (blitzed, blitzing) To attack, destroy, conquer, etc.  
 __blizzard__ _n_ :three::hammer: _It burned in the blizzard of 1925._  
 __bloat__ _n_ A group of hippos.  
+__bloaviate__ _v intr_  
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letter__ _n_ __1__ A plain capital letter written or printed unjoined to a following or preceding letter. Block letters (known as printscript, manuscript, print writing or ball and stick in academics) are a sans-serif (or “gothic”) style of writing Latin script in which the letters are individual glyphs, with no joining. _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
+__blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood-expander__  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
@@ -1778,7 +1786,7 @@ __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: (1) use a blunt (“dull”) knife to cut your tomatoes; (2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or (3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
 __bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
-__blurb__ _n_ :two::hammer: (blurbs) _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
+__blurb__ _n_ :three: A brief testimonial or excerpt of a review, as on a book jacket. _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster<sup>1</sup>__ _v_ :two::hammer: _The bitter blustering of the wind._  
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
@@ -1793,8 +1801,8 @@ __boardwalk__ _n_ :two::hammer: _Boot heels clap on the boardwalk._
 __boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
 __boatswain__  
-__bob<sup>1</sup>__ _v tr_ :seven::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
-__bob<sup>2</sup>__ _v intr_ __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
+__bob<sup>1</sup>__ _v tr_ :eight::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
+__bob<sup>2</sup>__ _v intr_ :two: __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
 __bobber__ _n_ :two::hammer:  
 __bobbled__ _v_ _The flowers bobbled and swayed._  
 __bobby pin__  
@@ -1821,6 +1829,7 @@ __boil__ _n_ :three: __2__ A painful, circumscribed pus-filled inflammation of t
 __boiler room__ _n_  
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
+__boilerplate code__ _n_  
 __boilerplate__ _n_ :five::hammer:  
 __boilers__  
 __boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
@@ -1849,7 +1858,7 @@ __bombogenesis__
 __bombshell__ _n_  
 __bombsights__  
 __bon ton__  
-__bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
+__bon vivant__ _n_ :two: /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink. A person who lives luxuriously and enjoys good food and drink.  
 __bona fide__ _adj_ :nine::m: /ˈboʊ nəˌfaɪd, ˈbɒn ə; ˈboʊ nəˈfaɪ di/ (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bona fides__ _n_ /boh-nuh-FYE-deez/  
 __bonanza__ _n_ :four::hammer: _Banana bonanza._  
@@ -1867,9 +1876,9 @@ __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ _n_ :mega: /bō′nəs/  
-__boo<sup>1</sup>__ _v_ :two::hammer: (booed) :es: abuchear  
+¡__boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
-__booby trap__ _n_  
+__booby trap__ _n_ :two::hammer:  
 __booby-trapped 105’s__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
@@ -1894,11 +1903,13 @@ __bookrunner__
 __bookshop__ _n_ :three: A bookstore.  
 __bookstall__ _n_ :two::hammer:  
 __bookworm__ _n_ :two: Someone who enjoys reading books and spends a lot of time doing it.  
+__boolean__ _n_ :mega:  
 __boom and bust__  
 __boom box__  
 __boom__ _n_ :four::hammer: _Cargo booms._ _Log boom._  
 __boomer chains__  
 __boomerang effect__  
+__boomtown__ _n_  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
 __boondoggle__ _n_ :five: __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
@@ -1920,8 +1931,9 @@ __bootstrap__ _v_ :two: __1__ To promote and develop by use of one’s own initi
 __booty__ _n_ _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
-__bop<sup>1</sup>__ _v tr_ :three: To hit or strike.  
-__bop<sup>2</sup>__ _n_ A blow; a punch.  
+__bop<sup>1</sup>__ _n_ A blow; a punch.  
+__bop<sup>2</sup>__ _v tr_ :four: To hit or strike.  
+__bop<sup>3</sup>__ _v intr_ :dart: _slang_ To move, go, or proceed. _I just bopped down to Boston for an action-packed 24 hours!_  
 __borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  

@@ -1,28 +1,3 @@
-__bench__ _v_  
-__benignant__ _adj_ /bih/buh-NIG-nuhnt/ __1__ Kind and gracious. __2__ Beneficial. __3__ Not harmful.  
-__betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
-__biff__ _n_  
-__billfold__ _n_ A pocket-size case for holding papers and paper money. _Syn_ wallet, notecase, pocketbook  
-__bird of prey__ _n_  
-__blackface__ _n_  
-__blackmail__  
-__blacktop__ _n_ __1__ A bituminous paving substance, as asphalt. __2__ A road covered with blacktop.  
-__blandishment__ _n_ /BLAN-dish-munt/ A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments. _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._  
-__blatherskite__ _n_  
-__blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
-__bloaviate__ _v intr_  
-__blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
-__blurb__ _n_ A brief testimonial or excerpt of a review, as on a book jacket.  
-__bob__ _v_  
-__boilerplate code__ _n_  
-__bon vivant__ _n_ /bahn-vee-VAHNT/ A sociable person who has cultivated and refined tastes especially with respect to food and drink.  
-__boo__ _v_  
-__booby trap__ _n_  
-__boolean__ _n_ :mega:  
-__boomtown__ _n_  
-__bop<sup>1</sup>__ _n_ A blow; a punch.  
-__bop<sup>2</sup>__ _v tr_ To hit or strike.  
-__bop<sup>3</sup>__ _v intr_ :dart: _slang_ To move, go, or proceed. _I just bopped down to Boston for an action-packed 24 hours!_  
 __bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
