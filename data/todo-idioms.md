@@ -1,3 +1,9 @@
+__balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
+__bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
+__demur at (something)__ To dispute or contest something.  
+__flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and doesn’t answer the question at all._  
+__folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
+__go at it hammer and tongs__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __gold rush__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
@@ -27,8 +33,14 @@ __gunk__
 __gut factor__  
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
 __halfway decent__  
+__Hallmark moment__  
+__hand (something) to (someone) on a plate__ To give or relinquish something to someone very easily, without them having to work very hard to get or achieve it. _The team’s defense has been atrocious today, handing a victory to their opponents on a plate._  
+__hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
+__handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
 __hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
+__hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt. _Don’t just stare at me with that hangdog look. You’ve already made a mess of things, so now you have to deal with it!_  
+__hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US. _Political correctness has become so authoritarian these days that saying anything with even the slightest derogatory implication is seen as a hanging offense!_  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
 __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I happened by a quaint new craft store the other day._  
 __hard done-by__  
@@ -53,7 +65,10 @@ __keep it up__ :dart:
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep pace__  
 __kick (someone or something) to the curb__  
+__Kodak moment__  
 __lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
+__make capital (out) of (something)__ To use something to one’s advantage or profit.  
+__monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
 __of all things__  
 __OG__  
 __on a tear__  
@@ -79,6 +94,7 @@ __play dumb__ To pretend that one has no or little knowledge (of something); to 
 __play second fiddle__  
 __point taken__  
 __poon__  
+__pull a U-ie__  
 __quite something__  
 __rack up__  
 __reel off__  
