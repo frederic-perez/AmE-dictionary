@@ -1525,17 +1525,22 @@ __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturd
 __GI Joe__  
 __gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother’s Thanksgiving meal._  
 __give (one) a call__ To call one on a phone or via another calling platform. _Let me give her a call and see what she thinks about all this._  
+__give (one) a pass__  
+__give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
 __give (one) some slack__ To be lenient with one; to give one a break. _Give me some slack, Mom. I studied hard for that test, but it’s just not my best subject._  
 __give (one) the cold shoulder__  
+__give (one) the creeps__  
 __give (someone) a call__ _Give me a call._  
 __give (someone) a piece of (one’s) mind__ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
+__give (someone) the business__  
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
 __give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
 __give and take__ :two::hammer: _Love don’t come easy. It’s a game of give and take._  
 __give in__ :two::hammer: _Give in to our fears._  
 __give it a shot__  
+__give notice__  
 __give or take__ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ To speak angrily to someone because they have done something wrong.  
 __give someone an inch__  
@@ -1548,13 +1553,16 @@ __glad tidings__ Favorable, beneficial, or happy news. Usually used with the ver
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __gloss over (something)__  
+__glower at (someone or something)__  
 __go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
-__go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
+__go (one’s) (own) way__ :two: To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
 __go a long way__ :dart::eight: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go after (someone or something)__  
+__go all out__  
 __go along__  
 __go apeshit__  
-__go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor.  
+__go astray__ :dart:  
+__go at (something)__ :two: To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
 __go at it hammer and tongs__ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go back to square one__ To start from the beginning.  
 __go ballistic__ :two::hammer:  
@@ -1562,6 +1570,7 @@ __go berserk__
 __go commando__  
 __go down in/make history__  
 __go downhill__ :two::hammer:  
+__go far__  
 __go figure__ :seven: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
 __go for a run__  
 __go for a spin (to some place)__ To go for a brief, leisurely drive (to some place). _Hey Noah, fancy going for a spin to the grocery store with me?_ _Jenny just got a new car for her birthday, so I think we’re going to go for a spin after school._  
@@ -1570,6 +1579,7 @@ __go for the jugular__ _Go straight for the jugular._
 __go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go granular__ To examine something in detail.  
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__go Greek__  
 __go halfsies__ _slang_ To share something, especially the cost of something, in equal proportion between two people. _You wanna go halfsies on the bill?_ _I don’t feel like cooking tonight, let’s go halfsies on a pizza instead._  
 __go hand in hand__  
 __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
@@ -1599,23 +1609,26 @@ __go stir-crazy__ :two: To become acutely anxious, restless, irritable, irration
 __go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
 __go the distance__ :dart::five: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go the extra mile__  
-__go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
+__go the way of the dinosaur(s)__ :two: To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
 __go through the roof__  
 __go to bed with the chickens__ To go to bed very early.  
-__go to Canossa__ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
-__go to great lengths (to do something)__ :three::hammer:  
+__go to Canossa__ :two: To become or make oneself humble; to do a penance or seek absolution for some wrong.  
+__go to great lengths (to do something)__ :four::hammer:  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to shit__  
+__go to show__ To prove, demonstrate, or indicate that something is true. Used especially in the phrase “just goes to show.” _Their success just goes to show that you can’t underestimate the power of good marketing._  
 __go to the mat for (someone or something)__ To give someone or something one’s full support; to fight for someone or something until the very end. _We firmly believe that she is in the right on this matter, and we’re ready to go to the mat for her in court if necessary._ _I’m not going to the mat for her._  
-__go to the mattresses__ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
+__go to the mat__ [:scroll: This expression refers to a wrestler who fights fiercely and is willing to risk a fall.] If someone goes to the mat, they fight very fiercely about something. _Erickson said he will go to the mat to save parks in the city._  
+__go to the mattresses__ :two: To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders. _While the political party has shown some flexibility over other contentious issues, it looks as though they’re ready to go to the mattresses over this one._  
 __go to wrack and ruin__ _cliché_ To fall into severe or total decay, degradation, or ruination, as from disuse or lack of upkeep. (“Wrack,” a now-archaic word meaning wreckage or destruction, is also often spelled “rack.”) _It greatly pains me that my grandfather’s estate has been left to go to wrack and ruin. If only we’d been able to afford for someone to look after it all these years._  
 __go toe by toe__  
-__go under the hammer__ :two: To be put up for or sold at auction.  
+__go under the hammer__ :three: To be put up for or sold at auction. _The bankers family estate had to go under the hammer to cover some of his mounting debt._  
 __go vacant__ _Her eyes went vacant again._  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go wrong__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
+__go-to girl__  
 __God forbid__  
 __God is in the detail(s)__ :two: _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
 __God’s green earth__ The entire planet; anywhere and everywhere.  

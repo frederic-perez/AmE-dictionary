@@ -1,23 +1,3 @@
-__give (one) a pass__  
-__give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
-__give (one) the creeps__  
-__give (someone) the business__  
-__give notice__  
-__glower at (someone or something)__  
-__go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
-__go all out__  
-__go astray__ :dart:  
-__go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
-__go far__  
-__go Greek__  
-__go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
-__go to Canossa__  
-__go to great lengths (to do something)__  
-__go to show__ To prove, demonstrate, or indicate that something is true. Used especially in the phrase “just goes to show.” _Their success just goes to show that you can’t underestimate the power of good marketing._  
-__go to the mat__ [:scroll: This expression refers to a wrestler who fights fiercely and is willing to risk a fall.] If someone goes to the mat, they fight very fiercely about something. _Erickson said he will go to the mat to save parks in the city._  
-__go to the mattresses__ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders. _While the political party has shown some flexibility over other contentious issues, it looks as though they’re ready to go to the mattresses over this one._  
-__go under the hammer__ To be put up for or sold at auction. _The bankers family estate had to go under the hammer to cover some of his mounting debt._  
-__go-to girl__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __gold rush__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
