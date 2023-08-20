@@ -1,3 +1,11 @@
+__acquiesce__ _v intr_ _Lucas was initially skeptical of the proposal, but acquiesced._  
+__agency__ _n_ :two::hammer:  
+__ambidextrous__  
+__apnea__ _n_ :mega: _Sleep apnea._  
+__articulated__ _adj_  
+__ascendancy__  
+__blooper__  
+__bombastic__  
 __bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
 __boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bowdlerize__  
@@ -35,15 +43,19 @@ __coddle__ _v tr_
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __commodify__ _v tr_  
 __commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
+__compound__  
 __comprise__ _v_ /kum-PRYZE/  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
+__contrived__  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conversant__  
 __convey__ _v tr_  
+__convoluted__ _adj_  
 __coo__ _v_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __cravat__ _n_  
+__crisp__  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
@@ -52,7 +64,9 @@ __dauntless__ _adj_ /DAWNT-lus/
 __dawdle__ _v_ :dart:  
 __debonair__ _adj_ /deb-uh-NAIR/  
 __debunk__ _v_ To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose  
+__deconstruct__ _v_  
 __deem__ _v_  
+__deep__ _adj_ _Ralph has a deep Batman collection._  
 __deep-routed__  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __demystify__ _v tr_  
@@ -61,12 +75,15 @@ __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.
 __dill__ _n_ :es: eneldo  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __disavow__ _v_ /dis-uh-VOW/  
+__discerning__ _adj_  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
+__disservice__ _n_  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
 __dither__ _v intr_ To be nervously irresolute in acting or doing.  
 __doctor__ _v tr_ __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._  
 __doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
+__dodgeball__ _n_  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
 __doodad__ _n_ _informal_ Something, especially a small device or part, whose name is unknown or forgotten.  
@@ -74,9 +91,12 @@ __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by oth
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __dovetail__ _v_  
 __downtime__ _n_  
+__downtrodden__ _adj_  
 __dragon__ _n_ :mega:  
+__drudgery__ _n_ :dart:  
 __encomium__ _n_ /en-KOH-mee-um/  
 __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
+__endure__  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __ensued__ _v_  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
@@ -158,6 +178,8 @@ __gooseberry__ _n_ :es: grosella espinosa
 __gospel__ _n_ /GOS-puhl/  
 __gossamer__ _n_ __2__ Any thin, light fabric, esp. one used for veils.  
 __gourmand__ _n_ A lover of good food. _Syn_ trencherman, glutton  
+__grandiose__ _adj_  
+__granular__ _adj_  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
 __graver__ _n_ A tool used by an engraver. _Syn_ pointel  
 __greeble__  
@@ -213,6 +235,7 @@ __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them 
 __incarcerate__ _v_ /in-KAHR-suh-rayt/  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
+__indoctrinate__  
 __indomitable__ _adj_ /in-DAH-muh-tuh-bul/ Indomitable is a formal word used to describe something that is impossible to defeat or discourage.  
 __indulge__  
 __inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
@@ -227,6 +250,7 @@ __integer__ _n_ :mega:
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
 __interpolate__ _v_ /in-TER-puh-layt/  
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
+__intonation__ _n_  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
 __jet ventilation__ _n_  
@@ -264,14 +288,17 @@ __litany__
 __litentiously__  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
+__livid__ _adj_  
 __locution__ _n_  
 __long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a long-drawn-out story._  
 __loquacious__ _adj_ /loh-KWAY-shus/  
+__lore__ _n_  
 __lovesick__ _adj_  
 __lowlight__  
 __Luddite__ _n_  
 __lunch break__ _n_ :dart: (lunchbreak)  
 __luster__  
+__Lyme disease__ _n_ (Lyme arthritis)  
 __mac and cheese__ _n_  
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
@@ -280,6 +307,7 @@ __malaise__ _n_ /muh-LAYZ/ Malaise refers to a slight or general feeling of not 
 __malapropism__  
 __malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
 __malleable__  
+__mammal__ _n_ :mega:  
 __manage__ _v_ :mega:  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
@@ -310,6 +338,7 @@ __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
 __miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
+__misfit__ _n_ :pencil2:  
 __misguide__ _v_  
 __misnomer__ _n_  
 __missal__ _n_  
@@ -326,6 +355,7 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__nab__ _v_  
 __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __nondescript__ _adj_ /non-di-SKRIPT/  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
@@ -346,8 +376,10 @@ __outperform__ _v tr_
 __outright__ _adj, adv_  
 __outsell__ _v tr_  
 __outset__ _n_  
+__outshine__ _v_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
+__overly__  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -356,12 +388,14 @@ __paganism__ _n_
 __palliative care__ _n_  
 __panacea__ _n_  
 __parapraxis__ _n_  
+__parasympathetic__  
 __parcel__ _v tr_  
 __pariah__  
 __parlance__ _n_  
 __parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
+__parry__ _v_  
 __peeps__ _n pl_ _slang_ Associates; friends. People.  
 __peewee__ _n_  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
@@ -371,6 +405,7 @@ __persona__ _n_
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
+__picayune__ _adj, n_  
 __picky__  
 __pinecone__ _n_  
 __pinwheel__ _n_  
@@ -418,7 +453,7 @@ __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltere
 __rampant__ _adj_  
 __rasp__ _n_  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
-__ravenous__ _adj_  
+__ravenous__ _adj_ :two::hammer:  
 __raver__ _n_  
 __ravishing__  
 __raw bar__  
@@ -429,7 +464,7 @@ __ready__ _adj_ __4__ Prompt in apprehending or reacting: _a ready intelligence;
 __realistic__  
 __realm__ _n_  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
-__rebuke__ _v_  
+__rebuke__ _v_ :two::hammer:  
 __recalcitrant__ _adj_  
 __red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
@@ -438,10 +473,12 @@ __redress__
 __redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
 __reef__ _n_  
 __reenactment__ _n_  
+__relent__ _v intr_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
 __resonate__ _v_  
 __responsibility__ _n_  
 __reticent__ _adj_ /RET-uh-sunt/  
+__retina__ _n_ :mega:  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
@@ -461,6 +498,7 @@ __roundworm__ _n_
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __rummy__ _n_  
 __rung__ _n_  
+__runoff__ _n_  
 __ruse__ _n_  
 __safeguard__ _n_  
 __salacious__  
@@ -478,6 +516,7 @@ __sandbox__ _n_
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
 __sashay__ _v intr_  
+__satire__  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
 __schadenfreude__  
@@ -499,10 +538,12 @@ __shuck<sup>1</sup>__ _n_
 __shuck<sup>2</sup>__ _v tr_  
 __shudder__ _v intr_  
 __simile__ _n_  
+__sitting__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __skullduggery__ _n_  
 __slink__ _v_  
+__slog__ _n_  
 __sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
 __sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
 __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.  
@@ -510,8 +551,10 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
+__snappy__ _adj_ _Snappy answers._  
 __snicker__ _v intr_  
 __soft hat__ _n_ :camera:  
+__soft-pedal__ _v tr_  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -526,6 +569,8 @@ __speak up__
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
 __spoon__ _v_  
 __squander__ _v tr_  
+__staggering__ _adj_  
+__stance__ _n_  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
@@ -545,13 +590,17 @@ __sunshower__ _n_ A localized rain shower in which rain falls while the sun is s
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__surreptitiously__  
 __surrey__ _n_  
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __swell__ _adj_  
 __tamarind__  
+__tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
+__tantalizing__  
+__tarnish__  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
@@ -560,6 +609,7 @@ __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By usin
 __temporal landmark__ _n_  
 __tenement__  
 __tenet__ _n_  
+__tenets__ _n_  
 __tenterhook__ _n_  
 __tenure-track__  
 __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
@@ -569,6 +619,8 @@ __terrazzo__
 __terrific__ _adj_ _The traffic is terrific._  
 __testament__ _n_  
 __thwart__ _v_ :three::hammer: /THWORT/  
+__tickling__ _adj_ _Tickling laughter._  
+__tidbits__  
 __time-saver__ _n_  
 __tomfoolery__ _n_  
 __tongs__ _n pl_ :es: tenazas  
@@ -582,6 +634,7 @@ __tradeoff__ _n_ :pencil2:
 __travesty__ _n_ /TRAV-uh-stee/  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
+__tryptophan__ _n_ :mega: (tryptophane)  
 __tussle__ _v intr_  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __unheeded__  
@@ -590,6 +643,7 @@ __unison__ _n_
 __unkempt__ _adj_  
 __unmissable__  
 __unpack__  
+__utterance__  
 __vacationer__ _n_  
 __vacuous__  
 __vacuum__ _n_ __4__ A vacuum cleaner.  
@@ -602,3 +656,7 @@ __valence__ _n_
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
+__vicinity__ _n_  
+__wheelhouse__  
+__wholesome__  
+__workload__ _n_  
