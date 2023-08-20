@@ -4,6 +4,7 @@ __ambidextrous__
 __apnea__ _n_ :mega: _Sleep apnea._  
 __articulated__ _adj_  
 __ascendancy__  
+__balmy__ _adj_ /BAH-mee/  
 __blooper__  
 __bombastic__  
 __bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
@@ -28,6 +29,7 @@ __bunkum__ _n_ /ˈbʌŋkəm/ (buncombe) Empty talk; nonsense. __2__ _chiefly US_
 __bunting__ _n_  
 __burlap__ _n_  
 __chalet__ _n_ :mega:  
+__chasten__ _v_ /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained.  
 __chime__ _v_ _Everybody chimes into a discussion._  
 __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
 __chirk<sup>2</sup>__ _v tr_ To make a shrill noise.  
@@ -59,6 +61,7 @@ __crisp__
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
+__cupidity__ _n_ Excessive desire, especially for wealth; covetousness or avarice.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __dauntless__ _adj_ /DAWNT-lus/  
 __dawdle__ _v_ :dart:  
@@ -72,11 +75,13 @@ __defamatory__ _adj_ Injurious to someone’s name or reputation.
 __demystify__ _v tr_  
 __desiccant__ _n_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
+__dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut  
 __dill__ _n_ :es: eneldo  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __disavow__ _v_ /dis-uh-VOW/  
 __discerning__ _adj_  
 __dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
+__dissenter__ _n_ A person who dissents from some established policy. _Syn_ objector, dissident, protester, contestant  
 __disservice__ _n_  
 __dissever__ _v_  
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
@@ -132,6 +137,7 @@ __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts a
 __family member__ _n_  
 __fare__ _v intr_  
 __farouche__ _adj_  
+__fartlek__ _n_  
 __fastidious__  
 __fatality__ _n_  
 __fav__ _n_  
@@ -243,6 +249,7 @@ __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as
 __infighting__ _n_  
 __infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
 __infuriating__ _adj_  
+__inkling__ _n_ /INK-ling/ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something.  
 __instrumental__ _adj_  
 __insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __intangible__  
@@ -365,6 +372,7 @@ __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _S
 __Old Crow__ _n_  
 __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
+__ooftish__ _n_ /OOF-tish/ Money or cash.  
 __op-ed__ _n_  
 __optíonal__ _adj_ :mega:  
 __orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
@@ -441,12 +449,15 @@ __pry__ _v_
 __pseudopseudohypoparathyroidism__  
 __Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
 __pulpit__ _n_  
+__punctilious__ _adj_ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
+__punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
 __purport<sup>1</sup>__ _v tr_ :astonished:  
 __purport<sup>2</sup>__ _n_  
 __purview__ _n_  
 __quiddity__ _n_  
 __quirk__ _n_  
+__racketeer__ _n_  
 __raillery__ _n_  
 __rambler__ _n_  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
@@ -466,6 +477,7 @@ __realm__ _n_
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_ :two::hammer:  
 __recalcitrant__ _adj_  
+__recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
 __red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
@@ -542,6 +554,7 @@ __sitting__ _n_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __skullduggery__ _n_  
+__slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
 __slink__ _v_  
 __slog__ _n_  
 __sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
@@ -601,6 +614,7 @@ __tandem__ _n_
 __tangible__ _adj_  
 __tantalizing__  
 __tarnish__  
+__telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
@@ -657,6 +671,7 @@ __valet__ _n_
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
 __vicinity__ _n_  
+__volatile__ _adj_ /VAH-luh-tul/  
 __wheelhouse__  
 __wholesome__  
 __workload__ _n_  
