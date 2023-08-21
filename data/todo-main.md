@@ -1,4 +1,5 @@
 __acquiesce__ _v intr_ _Lucas was initially skeptical of the proposal, but acquiesced._  
+__ad nauseam__  
 __agency__ _n_ :two::hammer:  
 __ambidextrous__  
 __apnea__ _n_ :mega: _Sleep apnea._  
@@ -43,8 +44,10 @@ __clique__
 __clobber__ _v tr_  
 __coddle__ _v tr_  
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
+__cohort study__ _n_ A type of research project in which participants sharing a common feature (the cohort) are studied over a long period of time.  
 __commodify__ _v tr_  
 __commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
+__compound interest__  
 __compound__  
 __comprise__ _v_ /kum-PRYZE/  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
@@ -60,6 +63,7 @@ __cravat__ _n_
 __crisp__  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
+__cue__ _v tr_  
 __culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
 __cupidity__ _n_ Excessive desire, especially for wealth; covetousness or avarice.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
@@ -161,6 +165,7 @@ __formidable__ _adj_ :astonished:
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
 __forthright__ _adj, adv_  
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
+__frazzle__ _v_  
 __fret__ _v_ :dart:  
 __frisson__ _n_  
 __frog fry__ _n_ Frog hopper.  
@@ -172,7 +177,7 @@ __ganache__ _n_
 __gangrene__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
-__gerrymander__ _v_ /JAIR-ee-man-der/  
+__gerrymander__ _v_ :two::hammer: /JAIR-ee-man-der/  
 __ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
 __giraffe__ _n_  
 __gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
@@ -184,6 +189,7 @@ __gooseberry__ _n_ :es: grosella espinosa
 __gospel__ _n_ /GOS-puhl/  
 __gossamer__ _n_ __2__ Any thin, light fabric, esp. one used for veils.  
 __gourmand__ _n_ A lover of good food. _Syn_ trencherman, glutton  
+__graffiti__ _n_  
 __grandiose__ _adj_  
 __granular__ _adj_  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
@@ -238,6 +244,7 @@ __illegal__ _adj, n_ :mega:
 __illustrious__ _adj_ /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected.  
 __impending__  
 __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
+__in-house__ _adj, adv_ :pencil2:  
 __incarcerate__ _v_ /in-KAHR-suh-rayt/  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
@@ -352,6 +359,7 @@ __missal__ _n_
 __misspell__ _v_ :pencil2:  
 __mitigate__ _v_ /MIT-uh-gayt/  
 __mixtape__ _n_  
+__mole__ _n_ :es: topo  
 __mondegreen__ _n_  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
@@ -367,6 +375,7 @@ __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the polic
 __nondescript__ _adj_ /non-di-SKRIPT/  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __nutmeg__ _n_ :es: nuez moscada  
+__nutso__ _adj_ /ˈnʌtsəʊ/ _informal chiefly US_ Insane.  
 __obstinate__ _adj_ /AHB-stuh-nut/  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __Old Crow__ _n_  
@@ -479,6 +488,8 @@ __rebuke__ _v_ :two::hammer:
 __recalcitrant__ _adj_  
 __recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
 __red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
+__redcon<sup>1</sup>__ _n_  
+__redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
 __redress__  
@@ -543,6 +554,7 @@ __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
 __settee__ _n_  
+__shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __shanghai__ _v_  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shortlist__ _n, v_  
@@ -596,6 +608,7 @@ __stillborn__ _adj_
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stopgap__ _n_  
 __stovepipe hat__ _n_  
+__straitjacket__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
 __streamer__ _n_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
@@ -614,6 +627,7 @@ __tandem__ _n_
 __tangible__ _adj_  
 __tantalizing__  
 __tarnish__  
+__teeny__ _adj_ Tiny.  
 __telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
@@ -672,6 +686,7 @@ __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, esta
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
 __vicinity__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
+__wellbeing__ _n_ :pencil2:  
 __wheelhouse__  
 __wholesome__  
 __workload__ _n_  
