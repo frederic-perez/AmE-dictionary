@@ -1,28 +1,3 @@
-__acquiesce__ _v intr_ _Lucas was initially skeptical of the proposal, but acquiesced._  
-__ad nauseam__  
-__agency__ _n_ :two::hammer:  
-__ambidextrous__  
-__apnea__ _n_ :mega: _Sleep apnea._  
-__articulated__ _adj_  
-__ascendancy__  
-__balmy__ _adj_ /BAH-mee/  
-__blooper__  
-__bombastic__  
-__bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
-__boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
-__bowdlerize__  
-__boycott__ _n_ /BOY-kaht/  
-__brain death__ _n_ _We’re witnessing the brain death of Twitter._  
-__brain fog__ _n_  
-__brainwash__ _n_  
-__brasserie__ _n_ /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
-__bravado__  
-__breadwinner__ _n_ :pencil2:  
-__breakout__ _adj_  
-__breastwork__ _n_  
-__broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
-__brouhaha__ _n_  
-__browbeat__ _v tr_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __building block__  
 __bully__ _n_  

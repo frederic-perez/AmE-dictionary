@@ -154,7 +154,7 @@ __acolyte__ _n_ :eight: __1__ Any attendant, assistant, or follower. _To his aco
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
-__acquiesce__ _v intr_ :seven: /ak-wee-ESS/ /ak-wee-es/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with _in_ or _to_. To agree to something or to accept something, although you do not want to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._  
+__acquiesce__ _v intr_ :nine: /ak-wee-ESS/ /ak-wee-es/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with _in_ or _to_. To agree to something or to accept something, although you do not want to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._ _Lucas was initially skeptical of the proposal, but acquiesced._  
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
@@ -181,7 +181,7 @@ __acute__ _adj_
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
-__ad nauseam__ _adv_ :three: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
+__ad nauseam__ _adv_ :four: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ :two::mega: Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
@@ -304,7 +304,7 @@ __age<sup>2</sup>__ _v_
 __ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
 __agemate__ _n_  
-__agency__ _n_ :four::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
+__agency__ _n_ :six::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
@@ -473,6 +473,7 @@ __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love
 __Amber alert__ _n_  
 __ambiance__ _n_ :two::hammer: _Relaxing ambiance._  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
+__ambidextrous__  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
 __ambiguous__ _adj_ :two::hammer: /am-big-yoo-uhs/  
 __ambisinister__ _adj_ Clumsy or unskillful with both hands.  
@@ -671,7 +672,7 @@ __apiary__ _n_ :two: A place where bees and beehives are kept, especially a plac
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
-__apnea__ _n_ :two: Temporary cessation of breathing.  
+__apnea__ _n_ :three::mega: Temporary cessation of breathing. _Sleep apnea._  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
@@ -818,7 +819,7 @@ __artful__
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :five: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
 __articulate<sup>2</sup>__ _v_ :eight::hammer: (articulated)  
-__articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
+__articulated__ _adj_ :two::hammer: _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
@@ -834,7 +835,7 @@ __as if__ _conj_ :two::hammer:
 __as of today__  
 __asana__ _n_ :two: A posture or manner of sitting (as in the practice of Yoga).  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
-__ascendancy__ _n_ _Walt is in ascendancy in his criminal enterprise._  
+__ascendancy__ _n_ :two::hammer: _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ _n_ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :three::hammer:  
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
@@ -1173,7 +1174,7 @@ __ballpark<sup>2</sup>__ _adj_ :two::hammer:
 __ballyhoo<sup>1</sup>__ _n_  
 __ballyhoo<sup>2</sup>__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
-__balmy__ _adj_ :three::hammer: _The air was sweet and balmy._ _A balmy day._  
+__balmy__ _adj_ :four::hammer: /BAH-mee/ _The air was sweet and balmy._ _A balmy day._  
 __baloney__ _n_ :five::pencil2::mega: /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement. Nonsense, such as foolish, deceptive, or pretentious talk.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balsa__ _n_  
@@ -1738,7 +1739,7 @@ __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right
 __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog posts published into a book.  
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
-__blooper__ _n informal_ :three::dart: A clumsy mistake, especially one made in public; a faux pas.  
+__blooper__ _n informal_ :four::dart: A clumsy mistake, especially one made in public; a faux pas.  
 __blot__ _n_ :two::hammer:  
 __blotch__ _n_ __1__ A large, irregular spot or blot; stain. __2__ A discolored spot on the skin; blemish. _Black blotches on the skin from internal bleeding._  
 __blotched__ _v_  
@@ -1851,7 +1852,7 @@ __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bol
 __bomb cyclone__  
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :eight: /BAHM-bast/ __1__ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
-__bombastic__ _adj_ :three: To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
+__bombastic__ _adj_ :four: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _v intr_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
 __bombing__ _v_  
 __bombogenesis__  
@@ -1876,7 +1877,7 @@ __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ _n_ :mega: /bō′nəs/  
-¡__boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
+__boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_ :two::hammer:  
 __booby-trapped 105’s__  
@@ -1944,6 +1945,7 @@ __boreal__ _adj_ /BOH-ree-uhl/ [:scroll: From Boreas, the god of the north wind 
 __boredom__ _n_ :two::hammer:  
 __borne__ _v_ :five::hammer:  
 __borough__ _n_ :two::hammer::mute:[borou~~gh~~]  
+__bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
 __bosom__ _n_ :two::hammer:  
 __bossdom__ _n_  
 __bossom__ _n_  
@@ -1977,11 +1979,12 @@ __bounty__ _n_ :five: [:scroll: From the Latin _bonitās_, meaning “goodness.�
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bout__ _n_ _Martial arts bout._  
+__boutonniere__ _n_ A flower or small bunch of flowers worn in a buttonhole.  
 __bovarism__ _n_  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota’s luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
-__bowdlerize__ _v_ :three: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district’s banned books list._  
+__bowdlerize__ _v_ :four: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district’s banned books list._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _“he had a bowel movement.”_  
 __bowie knife__ _n_ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
@@ -1992,7 +1995,7 @@ __bowsprit__ _n_
 __box score__  
 __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
-__boxwood__ _n_ /ˈbɒksˌwʊd/  
+__boxwood__ _n_ :two::hammer: /ˈbɒksˌwʊd/ /BOY-kaht/  
 __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
@@ -2007,12 +2010,15 @@ __bradypnea__ _n_ Abnormally slow breathing.
 __bradyseism__ _n_ :two::hammer:  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
+__brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain drain__  
+__brain fog__ _n_  
 __brainchild__ _n_ :five::hammer:  
 __brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
 __brainpower__ _n_  
-__brainwash__ _v_  
+__brainwash<sup>1</sup>__ _v tr_  
+__brainwash<sup>2</sup>__ _n_  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
 __braised__ _adj_ :two: (Cookery) Cooked by braising. _Braised Cornish hen._ _Braised lamb steak._  
@@ -2027,13 +2033,13 @@ __branzino__
 __brash<sup>1</sup>__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brash<sup>2</sup>__ _n_ A mass of loose fragments, as of ice.  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
-__brasserie__ _n_  
+__brasserie__ _n_ :two: /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
 __brassiere__ _n_  
 __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._  
 __brattice__ _n_  
 __bratty__  
 __bratwurst__ _n_  
-__bravado__ _n_ :six: /bruh-VAH-doh/ If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” Bravado refers to confident or brave talk or behavior that is intended to impress other people. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._ _Her stories of her exploits during the “olden days” are always told with enough bravado to invite some suspicion that they’re embellished a bit._  
+__bravado__ _n_ :seven: /bruh-VAH-doh/ If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” Bravado refers to confident or brave talk or behavior that is intended to impress other people. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._ _Her stories of her exploits during the “olden days” are always told with enough bravado to invite some suspicion that they’re embellished a bit._  
 __brave__ _v_ :two::hammer:  
 __bravura__  
 __brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
@@ -2049,6 +2055,7 @@ __bread and butter__
 __breadcrumb__ _n_  
 __breadcrumbing__ _n_ _slang_ When the “crush” has no intentions of taking things further, but they like the attention. So they flirt here or there, send dm/texts just to keep the person interested, knowing damn well they’re staying single.  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
+__breadwinner__ _n_ :pencil2:  
 __break (one’s) neck__  
 __break character__ _v intr_ To fail to act as a certain character; to be or act out of character.  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
@@ -2072,6 +2079,7 @@ __breakup__ _n_ :three: The termination or disintegration of a relationship (bet
 __breakwater__ _n_ :three::hammer: :es: rompeolas  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+__breastwork__ _n_  
 __breather__ _n_ :four::hammer:  
 __breathing room__  
 __breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
@@ -2122,6 +2130,7 @@ __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) 
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
+__broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broaden__ _v_  
@@ -2159,9 +2168,9 @@ __broomstick__ _n_
 __broth__  
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __Brothers Grimm__ _n_  
-__brouhaha__ _n_ :four: /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
+__brouhaha__ _n_ :five: /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
-__browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
+__browbeat__ _v tr_ :two: Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
 __browbeaten__ _adj_  
 __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
 __Brownie__ _n_ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
@@ -16873,7 +16882,7 @@ __sturgeon__ _n_ :three::hammer: :es: esturión
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
 __stylesetter__  
-__stymie<sup>1</sup>__ _v tr_ :nine::m: /STY-mee/ (stymieing, stymied) To obstruct, thwart, stump, etc. To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
+__stymie<sup>1</sup>__ _v tr_ :nine::m: /STY-mee/ (stymieing, stymied) To obstruct, thwart, stump, etc. To present an obstacle to (somebody or something); to thwart; stand in the way of. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __stymie<sup>2</sup>__ _n_ :two: A hindrance.  
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
