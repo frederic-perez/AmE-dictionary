@@ -152,32 +152,6 @@ __ganache__ _n_
 __gangrene__ _n_  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
-__gerrymander__ _v_ :two::hammer: /JAIR-ee-man-der/  
-__ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
-__giraffe__ _n_  
-__gist__ _n_ /JIST/ Gist, which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said—in other words, its essence. _I didn’t catch every word, but I heard enough to get the gist of the conversation._  
-__glaring__ _adj_  
-__gloomy__ _adj_  
-__golem__ _n_  
-__goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
-__gooseberry__ _n_ :es: grosella espinosa  
-__gospel__ _n_ /GOS-puhl/  
-__gossamer__ _n_ __2__ Any thin, light fabric, esp. one used for veils.  
-__gourmand__ _n_ A lover of good food. _Syn_ trencherman, glutton  
-__graffiti__ _n_  
-__grandiose__ _adj_  
-__granular__ _adj_  
-__gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
-__graver__ _n_ A tool used by an engraver. _Syn_ pointel  
-__greeble__  
-__gripping__ _adj_  
-__groundbreaking__ _adj_  
-__grunt__ _n_ __1__ A deep guttural sound.  
-__guardrail__ _n_  
-__guffaw__ _v_  
-__guidepost__ _n_ A rule or principle that provides guidance to appropriate behavior. _Syn_ rule of thumb, guideline  
-__gumption__ _n_ /GUMP-shun/  
-__guy__ _n_  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hag__ _n_  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
