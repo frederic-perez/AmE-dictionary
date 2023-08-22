@@ -1,18 +1,28 @@
+__battlements__ _n_  
+__bedevil__ _v tr_  
+__bloodlusting__  
+__blossom__ _n_  
+__bristle__ _v_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __building block__  
 __bully__ _n_  
+__bumper__  
 __bunkum__ _n_ /ˈbʌŋkəm/ (buncombe) Empty talk; nonsense. __2__ _chiefly US_ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunting__ _n_  
 __burlap__ _n_  
+__burrow__ _v_  
+__bustle__ _n_ _She still wore a bustle._  
 __chalet__ _n_ :mega:  
 __chasten__ _v_ /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained.  
 __chime__ _v_ _Everybody chimes into a discussion._  
+__chinchilla__ _n_  
 __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
 __chirk<sup>2</sup>__ _v tr_ To make a shrill noise.  
 __chirk<sup>3</sup>__ _adj_ Lively; cheerful.  
 __chit chat__  
 __chowder__ _n_  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
+__circa__  
 __clairvoyant__ _adj_ Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
 __clammy__ _adj_  
 __clique__  
@@ -20,11 +30,15 @@ __clobber__ _v tr_
 __coddle__ _v tr_  
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __cohort study__ _n_ A type of research project in which participants sharing a common feature (the cohort) are studied over a long period of time.  
+__commensurate__ _adj_  
 __commodify__ _v tr_  
 __commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
+__complicitious__  
 __compound interest__  
 __compound__  
 __comprise__ _v_ /kum-PRYZE/  
+__conforming__ _adj_  
+__construed__ _v_  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __contrived__  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
@@ -46,6 +60,7 @@ __dauntless__ _adj_ /DAWNT-lus/
 __dawdle__ _v_ :dart:  
 __debonair__ _adj_ /deb-uh-NAIR/  
 __debunk__ _v_ To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose  
+__decision__ _n_ :mega:  
 __deconstruct__ _v_  
 __deem__ _v_  
 __deep__ _adj_ _Ralph has a deep Batman collection._  
@@ -56,6 +71,7 @@ __desiccant__ _n_
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut  
 __dill__ _n_ :es: eneldo  
+__disaffected__ _adj_  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __disavow__ _v_ /dis-uh-VOW/  
 __discerning__ _adj_  
@@ -146,12 +162,17 @@ __frisson__ _n_
 __frog fry__ _n_ Frog hopper.  
 __froufrou__  
 __fudge__ _n_  
+__fumble__ _v_ _I fumbled for two years._  
 __fungible__ _adj_ /FUN-juh-bul/  
 __fuss__ _v_  
 __ganache__ _n_  
 __gangrene__ _n_  
+__gargantuan__  
 __gauge__ _v tr_  
 __gemini__ _n_ :mega:  
+__grit__ _n_  
+__grove__ _n_  
+__grubby__  
 __hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
 __hag__ _n_  
 __Hail Mary__ _n_ _Syn_ Ave Maria  
@@ -319,9 +340,12 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__mumps__ _n_ (disease)  
 __nab__ _v_  
+__nit__ _n_  
 __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __nondescript__ _adj_ /non-di-SKRIPT/  
+__nooses__ _n_ _Barbed nooses._  
 __nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __nutmeg__ _n_ :es: nuez moscada  
 __nutso__ _adj_ /ˈnʌtsəʊ/ _informal chiefly US_ Insane.  
@@ -345,7 +369,7 @@ __outset__ _n_
 __outshine__ _v_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
-__overly__  
+__overly__ _adv_ :two::hammer:  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -371,8 +395,10 @@ __persona__ _n_
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
+__phlox__ _n_ :three::hammer:  
 __picayune__ _adj, n_  
 __picky__  
+__pilfer__ _v_  
 __pinecone__ _n_  
 __pinwheel__ _n_  
 __pitfall__ _n_  
@@ -394,6 +420,8 @@ __preen__ _v_ /PREEN/
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
 __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
+__pricked__ _v_ _Pricked by a needle._  
+__prim__ _adj_ _Prim respect._  
 __procurement__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
@@ -494,9 +522,11 @@ __savor__ _v_ _Savor the moment._
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
+__scrawl__ _v_  
 __seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
+__seize__ _v_ _Students with the growth mindset seized the chance._  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
 __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.  
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
@@ -504,6 +534,7 @@ __sesquicentennial__ _adj_
 __sesquipedalian__ _adj, n_  
 __settee__ _n_  
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
+__sham__ _n_  
 __shanghai__ _v_  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shortlist__ _n, v_  
@@ -544,6 +575,7 @@ __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a w
 __spoon__ _v_  
 __squander__ _v tr_  
 __staggering__ _adj_  
+__stamina__  
 __stance__ _n_  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
@@ -555,6 +587,7 @@ __stepping stone__
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __stillborn__ _adj_  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
+__stoop__ _n_  
 __stopgap__ _n_  
 __stovepipe hat__ _n_  
 __straitjacket__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
@@ -599,6 +632,7 @@ __thwart__ _v_ :three::hammer: /THWORT/
 __tickling__ _adj_ _Tickling laughter._  
 __tidbits__  
 __time-saver__ _n_  
+__toil__ _v_  
 __tomfoolery__ _n_  
 __tongs__ _n pl_ :es: tenazas  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
@@ -635,7 +669,10 @@ __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, esta
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
 __vicinity__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
+__wattle__ _n_  
+__waver__ _v_  
 __wellbeing__ _n_ :pencil2:  
 __wheelhouse__  
 __wholesome__  
+__wield__ _v_  
 __workload__ _n_  
