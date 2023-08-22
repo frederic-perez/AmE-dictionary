@@ -209,3 +209,40 @@ __wino__ _slang_ An alcoholic, especially one who chronically or habitually drin
 __yea or nay__  
 __you name it__  
 __you saved the day__  
+__abandon oneself__ (?)  
+__before I knew it__  
+__bells and whistles__  
+__break free__  
+__call on someone__ (?)  
+__call someone out__  
+__chuck__ _v_ (?)  
+__core values__ (?)  
+__do the work__ (?)  
+__doormat person__ (?)  
+__down under__  
+__for the long haul__ (?)  
+__freak out__  
+__give and take__  
+__happy camper__ (?)  
+__have the last laugh__ (?)  
+__in denial__  
+__keep tabs on something__  
+__lifer__  
+__not a competition__ (?)  
+__on one's radar__  
+__out of habit__  
+__out of spite__ (?)  
+__over the long haul__ (?)  
+__prove someone wrong__ (?)  
+__pump (one) up__ (?)  
+__shame on you__ (?)  
+__smack one's lips__ (?)  
+__the ticks and warts of pride__ (?)  
+__tipping point__  
+__touché__ (?)  
+__Trojan horse__  
+__uncharted territory__ (?)  
+__unpack__  
+__whack__ (?)  
+__what's in store?__ (?)  
+__yappy dog__ (?)  
