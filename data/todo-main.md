@@ -245,31 +245,6 @@ __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports j
 __juvenilize__  
 __kerf__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
-__Klondike__ _n_ :two: A form of solitaire card game.  
-__kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
-__knickers__ _n_ __2__ A US variant of knickerbockers.  
-__kowtow__ _v_  
-__lackadaisical__ _adj_ /lak-uh-DAY-zih-kul/ Something or someone described as lackadaisical is lacking in life, spirit, or zest. _His teachers did not approve of his lackadaisical approach to homework._  
-__laconic__  
-__laden__ _adj_ /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
-__lambent__ _adj_ /LAM-bunt/ When used literally, lambent can mean “softly bright or radiant” or “flickering.” _Lambent_ is also often used to describe speech, writing, music, and even wine, that has a light, appealing quality.  
-__landfill__ _n_  
-__leaner__ _adj_ _AI might make tech companies leaner._  
-__legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.  
-__legerdemain__ _n_  
-__lemon grass__ _n_  
-__level up__  
-__leverage__ _v_  
-__liaison__ _n_ :pencil2:  
-__libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
-__life raft__ _n_  
-__lighthearted__ _adj_  
-__lilt__ _v_  
-__liminal__ _adj_  
-__lionhearted__  
-__Listerine__ _n_  
-__litany__  
-__litentiously__  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  

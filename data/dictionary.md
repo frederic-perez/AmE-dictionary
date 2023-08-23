@@ -9491,6 +9491,8 @@ __kiva__ _n_ _A Native American kiva._
 __kiwi__  
 __klazomania__ _n_  
 __kleptocracy__ _n_ :three: /ˌklɛpˈtɒkrəsɪ/ (cleptocracy) A government characterized by rampant greed and corruption.  
+__Klondike__ _n_ :two: A form of solitaire card game.  
+__kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._  
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
@@ -9507,6 +9509,7 @@ __kneecap__ _v_ :three::hammer: (kneecapping)
 __knell__ _n_ :three::hammer:  
 __knick-knack__ _n_  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
+__knickers__ _n_ __2__ A US variant of knickerbockers.  
 __knife__ _n, v_ :mute:[~~k~~nife]  
 __knight__ _n_ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
@@ -9549,7 +9552,7 @@ __Kool-Aid__
 __Kosher salt__  
 __kosher<sup>1</sup>__ _n_ _informal_  
 __kosher<sup>2</sup>__ _adj_ :three: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. _Is it kosher to wear jeans in the office?_ __b__ Genuine; authentic.  
-__kowtow__ _v_ :six::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
+__kowtow__ _v_ :seven::astonished::camera: [:scroll: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”).] __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __kreplach__ _n pl_ A small pocket of noodle dough filled with ground meat or cheese, usu. boiled and served in soup.  
 __krinkled__  
@@ -9581,10 +9584,10 @@ __laceration__ _n_
 __lachrymator__ _n_ A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds. _Syn_ teargas _When the demonstration turned violent, the police used a potent lachrymator to disperse the mob._  
 __lachrymose__ _adj_ :three::pencil2: /LAK-ruh-mohss/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
-__lackadaisical__ _adj_ :six::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._  
+__lackadaisical__ _adj_ :seven::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. Something or someone described as lackadaisical is lacking in life, spirit, or zest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._ _His teachers did not approve of his lackadaisical approach to homework._  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
-__laconic__ _adj_ :five: /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._ _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
+__laconic__ _adj_ :six: /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._ _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ :two: /luh-KOO-nuh/ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
@@ -9592,7 +9595,7 @@ __lacustrine__ _adj_
 __lacy__ _adj_ :three: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
 __laddie__ _n_ :two: _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
-__laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
+__laden__ _adj_ :five: /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._ _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
 __ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
 __lading__ _n_ _Checking bills of lading._  
 __Lady Liberty__ _n_ :two::hammer:  
@@ -9619,7 +9622,7 @@ __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent 
 __lam__ _v_  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v tr_ _informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
-__lambent__ _adj_ :two::hammer:  
+__lambent__ _adj_ :three: /LAM-bunt/ When used literally, lambent can mean “softly bright or radiant” or “flickering.” _Lambent_ is also often used to describe speech, writing, music, and even wine, that has a light, appealing quality.  
 __lambo__ _n_ A Lamborghini car.  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
@@ -9638,7 +9641,7 @@ __lancet__ _n_
 __lancing irons__  
 __land__ _v_ _Thanksgiving this year lands on November 25._  
 __landfall__ _n_ :three::hammer:  
-__landfill__ _n_ :three::hammer:  
+__landfill__ _n_ :four::hammer:  
 __landform__ _n_ One of the features that make up the earth’s surface, such as a plain, mountain, or valley.  
 __landlady__ _n_  
 __landline__ _n_ (phone)  
@@ -9760,6 +9763,7 @@ __lean on__ _v_ :two::hammer:
 __lean protein__  
 __lean<sup>1</sup>__ _adj_ :four::hammer: _He is lean fast._ _Lean food._ _A lean face._  
 __lean<sup>2</sup>__ _v_ :two::hammer: _Lean onto that idea._  
+__leaner__ _adj_ _AI might make tech companies leaner._  
 __leap day__  
 __leap of faith__  
 __leap year__  
@@ -9790,9 +9794,10 @@ __leeway__ _n_ :nine::m: /ˈliːˌweɪ/ Leeway is a term used to describe the am
 __lefty buckets__  
 __leg warmer__ _n_  
 __legal tack__  
+__legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.  
 __legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
-__legerdemain__ _n_ :six: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
+__legerdemain__ _n_ :seven: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
@@ -9806,6 +9811,7 @@ __leisurely<sup>2</sup>__ _adv_ :three::hammer: _He took his coat, leisurely put
 __leitmotif__ _n_ :three::hammer: (leitmotiv)  
 __lemme__ _contraction_ _Lemme see._  
 __lemming__ _n_ :two: /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
+__lemon grass__ _n_  
 __lemon wedge__ _n_ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
 __lemongrass__ _n_ :three::hammer:  
@@ -9843,13 +9849,13 @@ __lettered__ _adj_ Highly educated; having extensive information or understandin
 __letterman__ _n_  
 __levain__ _n_  
 __levee__  
-__level up__ _v_ :two::hammer:  
+__level up__ _v_ :three::hammer:  
 __level__ _v_ :two::hammer: (leveled)  
 __levelheaded__ _adj_ :three: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever<sup>1</sup>__ _n_  
 __lever<sup>2</sup>__ _v tr_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _v tr_ :eight: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
+__leverage<sup>2</sup>__ _v tr_ :nine: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
@@ -9859,9 +9865,10 @@ __lewd__ _adj_ :three::hammer:
 __lexical__ _adj_  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :seven::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
+__liaison__ _n_ :eight::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
 __libation__ _n_ :nine::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
+__libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __liberalization__  
 __liberating__ _adj_ /ˈlɪbəreɪtɪŋ/ Providing freedom from restraint; freeing.  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
@@ -9872,6 +9879,7 @@ __librocubicularist__ _n_ A person who reads in bed.
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
 __licentious__ _adj_ :two::hammer:  
+__licentiously__  
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -9887,7 +9895,7 @@ __liegeman__ _n_ A feudal vassal or subject. _Syn_ feudatory, liege, vassal _The
 __lier__ _n_ A person who lies down.  
 __life buoy__  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
-__life raft__ _n_ A raft to use if a ship must be abandoned in an emergency.  
+__life raft__ _n_ :two: A raft to use if a ship must be abandoned in an emergency.  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
 __lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._  
@@ -9910,7 +9918,7 @@ __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revela
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
 __lightheadedness__ _n_  
-__lighthearted__ _adj_ :four: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ glad, lightsome, blithe  
+__lighthearted__ _adj_ :five: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ glad, lightsome, blithe  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
@@ -9926,7 +9934,8 @@ __lilac__ _n_ :three::hammer:
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
 __lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?_  
-__lilt__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a soft Southern lilt that put me at ease._  
+__lilt<sup>1</sup>__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a soft Southern lilt that put me at ease._  
+__lilt<sup>2</sup>__ _v_  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
@@ -9934,7 +9943,7 @@ __limbic system__ _n_
 __limbic__ _adj_ _Limbic system._  
 __limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :five::hammer:  
-__liminal__ _adj_ __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
+__liminal__ _adj_ :two: __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
 __limitless__  
 __limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
 __limo__  
@@ -9962,7 +9971,7 @@ __lining__ _n_ :two::hammer: _My stomach lining._
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
 __lintel__ _n_ :three::hammer: _Stone lintels._ :es: dintel  
-__lionhearted__ _adj_  
+__lionhearted__ _adj_ :two::hammer:  
 __lionize__ _v_ :two: To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
@@ -9983,6 +9992,7 @@ __list<sup>1</sup>__ _n_ __3__ An inclination to one side, as of a ship; a tilt.
 __list<sup>2</sup>__ _v_ :astonished: (Nautical Terms) (esp of ships) To lean over or cause to lean over to one side. _The ship was listing in the water._  
 __listen__ _v_ :mute:[lis~~t~~en]  
 __listening session__  
+__Listerine__ _n_  
 __listicle__ _n_ :two: /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :five::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._ _Lodging listings._  
 __listless__ _adj_ :two::hammer:  
