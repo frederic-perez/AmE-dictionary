@@ -2,6 +2,7 @@ __(good) heavens__
 __(stuck) in a rut__  
 __a fine line__  
 __a hot-button issue__  
+__abandon (oneself) to__ :dart:  
 __across the pond__  
 __all over the place__  
 __any way you slice it__  
@@ -10,17 +11,27 @@ __back and forth__
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
 __be off the wall__  
 __be woke__  
+__before I knew it__  
+__bells and whistles__  
 __bend over backward(s)__  
+__break free__  
 __bullshitter__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
+__call (one) on (something)__  
+__call someone out__  
 __call to action__  
 __cannon fodder__  
 __carve out__  
 __check off__ :dart::two::hammer:  
 __check out__  
+__chuck__  
+__core values__  
 __cut (one’s) teeth__  
 __demur at (something)__ To dispute or contest something.  
+__do the work__  
 __done and done__ :dart:  
+__doormat__  
+__down under__  
 __downer__  
 __drop the ball__  
 __fall from grace__  
@@ -31,9 +42,12 @@ __flop__ :two: __1__ A failure. _The play was a flop. The entire audience left d
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __for better or (for) worse__  
 __for hours on end__  
+__for the long haul__  
 __foul play__  
+__freak out__  
 __game changer__  
 __get ahead of (oneself)__  
+__give and take__  
 __go at it hammer and tongs__  
 __go figure__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
@@ -75,9 +89,11 @@ __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt
 __hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US. _Political correctness has become so authoritarian these days that saying anything with even the slightest derogatory implication is seen as a hanging offense!_  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
 __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I happened by a quaint new craft store the other day._  
+__happy camper__  
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__have the last laugh__  
 __help (one) out__  
 __here we go__  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
@@ -88,6 +104,7 @@ __hold on__
 __hoo-ha__  
 __hophead__  
 __in (high) hopes of (something)__  
+__in denial__  
 __in the hot seat__  
 __in the zone__  
 __it (always) pays to (do something)__  
@@ -105,16 +122,20 @@ __keep it up__ :dart:
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep pace__  
 __keep tab(s) (on someone or something)__  
+__keep tabs on something__  
 __kick (someone or something) to the curb__  
 __Kodak moment__  
 __lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
+__lifer__  
 __lo and behold__ :astonished::two::hammer:  
 __make capital (out) of (something)__ To use something to one’s advantage or profit.  
 __mill about__  
 __monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
 __nail in the coffin__  
+__not a competition__  
 __of all things__  
 __OG__  
+__on (one’s) radar (screen)__  
 __on (one’s) toes__  
 __on a tear__  
 __on that note__  
@@ -129,9 +150,11 @@ __one-hit wonder__ A musician or band that only has one successful song during t
 __other than (something)__  
 __ouch__ :dart:  
 __out of character__  
+__out of spite__  
 __out of the wood(s)__  
 __out of whack__  
 __outsmart (oneself)__  
+__over the long haul__  
 __pan out__  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
@@ -142,6 +165,7 @@ __play second fiddle__
 __point taken__  
 __poon__  
 __pull a U-ie__  
+__pump someone up (for something)__  
 __put (one’s) head down__  
 __put to the test__  
 __quite something__  
@@ -155,6 +179,7 @@ __roll out__
 __save (something) for a rainy day__  
 __save face__  
 __seize the opportunity (to do something)__  
+__shame on (one)__  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
 __shit bricks__ To become extremely worried or frightened.  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
@@ -162,6 +187,7 @@ __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability
 __simp__  
 __slam (someone or something)__  
 __sleight of hand__  
+__smack (one’s) lips__ :two::hammer:  
 __smarty-pants__  
 __snafu__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
@@ -188,18 +214,25 @@ __thrash out__ :dart: To engage in a thorough discussion in order to determine a
 __thumbs up__  
 __tick off__  
 __tight-lipped__ Secretive; not revealing information.  
+__tipping point__  
 __to (one’s) name__ In one’s possession; owned by one. _Without a penny to his name._  
 __to the fore__  
 __touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
+__touché__  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __trick__ _v_  
+__Trojan horse__  
 __turn of phrase__  
+__uncharted territory__  
 __under (one’s) belt__  
 __under one’s belt__  
 __under the guise of (something)__  
+__unpack__  
 __walk the line__  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __watered-down__  
+__whack__  
+__what’s in store__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
@@ -209,40 +242,3 @@ __wino__ _slang_ An alcoholic, especially one who chronically or habitually drin
 __yea or nay__  
 __you name it__  
 __you saved the day__  
-__abandon oneself__ (?)  
-__before I knew it__  
-__bells and whistles__  
-__break free__  
-__call on someone__ (?)  
-__call someone out__  
-__chuck__ _v_ (?)  
-__core values__ (?)  
-__do the work__ (?)  
-__doormat person__ (?)  
-__down under__  
-__for the long haul__ (?)  
-__freak out__  
-__give and take__  
-__happy camper__ (?)  
-__have the last laugh__ (?)  
-__in denial__  
-__keep tabs on something__  
-__lifer__  
-__not a competition__ (?)  
-__on one's radar__  
-__out of habit__  
-__out of spite__ (?)  
-__over the long haul__ (?)  
-__prove someone wrong__ (?)  
-__pump (one) up__ (?)  
-__shame on you__ (?)  
-__smack one's lips__ (?)  
-__the ticks and warts of pride__ (?)  
-__tipping point__  
-__touché__ (?)  
-__Trojan horse__  
-__uncharted territory__ (?)  
-__unpack__  
-__whack__ (?)  
-__what's in store?__ (?)  
-__yappy dog__ (?)  
