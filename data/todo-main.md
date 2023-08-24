@@ -318,30 +318,6 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __mumps__ _n_ (disease)  
 __nab__ _v_  
 __nit__ _n_  
-__non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
-__nondescript__ _adj_ /non-di-SKRIPT/  
-__nooses__ _n_ _Barbed nooses._  
-__nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
-__nutmeg__ _n_ :es: nuez moscada  
-__nutso__ _adj_ /ˈnʌtsəʊ/ _informal chiefly US_ Insane.  
-__obstinate__ _adj_ /AHB-stuh-nut/  
-__obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
-__Old Crow__ _n_  
-__olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
-__omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
-__ooftish__ _n_ /OOF-tish/ Money or cash.  
-__op-ed__ _n_  
-__optíonal__ _adj_ :mega:  
-__orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
-__ornamental__ _adj, n_  
-__ostopenia__  
-__outcome__ _n_ :mega:  
-__outlandish__ _adj_ /out-LAN-dish/ _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.  
-__outperform__ _v tr_  
-__outright__ _adj, adv_  
-__outsell__ _v tr_  
-__outset__ _n_  
-__outshine__ _v_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __overly__ _adv_ :two::hammer:  

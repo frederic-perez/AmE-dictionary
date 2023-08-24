@@ -11455,6 +11455,7 @@ __non-committal__
 __non-communicable disease__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
+__non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-perishables__  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
 __nonce__ _n_ :two: The present or particular occasion. _Syn_ time being _Her tendency to discover a touch of sadness had for the nonce disappeared._  
@@ -11463,7 +11464,7 @@ __nonchalant__ _adj_ :nine: /nahn-shuh-LAHNT/ Behaving calmly and not seeming in
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
-__nondescript__ _adj_ :four::hammer:  
+__nondescript__ _adj_ :five::hammer: /non-di-SKRIPT/  
 __nonesuch__ _n_ (nonsuch)  
 __nonetheless__ _adv_ Despite that; however; nevertheless.  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
@@ -11486,7 +11487,7 @@ __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, hapha
 __nookie__  
 __nooner__ _n_ _slang_ A brief midday sexual encounter.  
 __noontime__ _n_ _It was noontime, time for lunch._  
-__noose<sup>1</sup>__ _n_ :six::hammer: (nooses)  
+__noose<sup>1</sup>__ _n_ :seven::hammer: (nooses) _Barbed nooses._  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ _n_ _US informal_ Northern California.  
 __Nordic jumps__ _n_  
@@ -11546,6 +11547,7 @@ __nubile__ _adj_
 __nuclear family__ _n_  
 __nucleotide__ _n_  
 __nudge__ _v_  
+__nudnik__ _n_ /NOOD-nik (the “OO” is as in “good”)/ Nudnik refers to a person who is a bore or nuisance.  
 __nudum pactum__ _n_ /ˈnjuːdʊm ˈpæktʊm/ (Law) An agreement made without consideration and void unless made under seal.  
 __nugatory__ _adj_ :two: /NOO-guh-tor-ee/ __1__ Of little or no importance; trifling: _The nation’s interests in such a remote region were nugatory._ __2__ Unavailing, futile, or invalid: _Efforts to remedy the situation proved to be nugatory._ _The law was unenforced and thus rendered nugatory._  
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
@@ -11575,9 +11577,10 @@ __nurture__ _v_ :five::hammer: /NER-cher/ (nurtured, nurturing) _Dallas Stars fl
 __nut case__  
 __nut__ _n_ _slang_ A crazy or strange person.  
 __nutation__ _n_ :two: __1__ The act or an instance of nodding the head.  
-__nutmeg__ _n_ :two::hammer: :es: nuez moscada  
+__nutmeg__ _n_ :three::hammer: :es: nuez moscada  
 __nutriment__ _n_ A source of nourishment; food. _Syn_ sustenance, victuals, aliment, nourishment, nutrition _The animals’ habitat was destroyed in the storm, and they wandered the ravaged plains searching for nutriment._  
 __nutrition label__ _n_  
+__nutso__ _adj_ /ˈnʌtsəʊ/ _informal chiefly US_ Insane.  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
@@ -11619,7 +11622,7 @@ __obscene__ _adj_ :mute:[obs~~c~~ene]
 __obscure__ _v_  
 __obsequious__ _adj_ :four: Characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating.  
 __obsidian__  
-__obstinate__  
+__obstinate__ _adj_ :two::hammer: /AHB-stuh-nut/  
 __obstreperous__ _adj_ :six: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
 __obstreperousness__  
 __obtrude<sup>1</sup>__ _v tr_ :four: /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc. To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
@@ -11628,7 +11631,7 @@ __obtrusive__ _adj_
 __obtuse__ _adj_ /ahb-TOOSS/  
 __obtuseness__  
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
-__obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
+__obviate__ _v tr_ :two::astonished: [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To anticipate and dispose of effectively;; to render unnecessary; to remove, avoid, or prevent. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
 __occasion__ _n_ :seven::mega::pencil2: /əˈkeɪʒən/ An event that occurs at a critical time. _It was needed only on special occasions._  
 __occasional__ _adj_ :pencil2:  
@@ -11707,6 +11710,7 @@ __okay<sup>2</sup>__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, wh
 __okra gumbo__  
 __okra__ _n_ :two::hammer:  
 __Oktoberfest__ _n_  
+__Old Crow__ _n_  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the “Dominion of Virginia.”  
 __Old Glory__ _n_ The flag of the United States.  
 __old hat__  
@@ -11726,6 +11730,7 @@ __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “lit
 __Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
 __olio__  
 __ollie__ _n_  
+__olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __Omaha__ _n_ :mega:  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelet__ _n_ :two::hammer::mega: (omelette)  
@@ -11734,6 +11739,7 @@ __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, fr
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
+__omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __omnibox__ _n_ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as “how many cups are in 2 liters?”_  
 __omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
 __omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
@@ -11789,10 +11795,11 @@ __onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibilit
 __onyx__  
 __Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid when at rest and like a solid when pressure is applied.  
 __oofs__  
+__ooftish__ _n_ /OOF-tish/ Money or cash.  
 __oompah__ _n_ :three: A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._ _The house oompah band._  
 __oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
-__op-ed__ _n, adj_ :seven::mega: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
+__op-ed__ _n, adj_ :eight::mega: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __opalesce__ _v intr_ To exhibit a milky iridescence.  
 __open house__ _n_ :three::hammer: _Educational open house._  
 __open loop__  
@@ -11825,6 +11832,7 @@ __opt__ _v_
 __optic flow__ _n_  
 __opticks__ _n_ _Obsolete form of optics._  
 __optio__ _n_  
+__optíonal__ _adj_ :mega:  
 __optogenetic__ _adj_  
 __optometry__ _n_  
 __opulent__ _adj_ :two::hammer:  
@@ -11848,10 +11856,11 @@ __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral
 __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
 __Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/  
 __organization__ _n_ :mega:  
+__orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
 __originally__ _adv_ :dart:  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__ _n_ :two::hammer:  
-__ornamental__ _adj_  
+__ornamental__ _adj, n_ :two::hammer:  
 __ornate__ _adj_ :nine::m::hammer: /ɔrˈneɪt/ _The ornate front entrance._  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
@@ -11876,6 +11885,7 @@ __ostensible__ _adj_ /ah-STEN-suh-bul/ Seeming or said to be true or real but ve
 __ostentatious__ _adj_ :three: /ah-stun-TAY-shus/ /os-ten-tey-shuhs, -tuhn-/ Characterized by or given to pretentious or conspicuous show in an attempt to impress others.  
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
+__ostopenia__  
 __ostracism__ _n_  
 __ostracize__ _v_ :eight::pencil2: /AH-struh-syze/ (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
@@ -11906,7 +11916,7 @@ __outbreak__ _n_ :eight::astonished: (outbreaks) __1__ A sudden increase: _an ou
 __outburst__ _n_ :four::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
-__outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
+__outcome__ _n_ :three::hammer::mega: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
 __outcrop__ _n_ :four::hammer:  
 __outcropping__ _n_ :three::hammer:  
 __outcry__ _n_ :nine: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
@@ -11929,7 +11939,7 @@ __outgunned__ _v_ :two::hammer:
 __outhouse__  
 __outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody’s homosexuality against their will.  
 __outlander__ _n_ :two: A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
-__outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva’s outlandish attire._ _An outlandish claim._  
+__outlandish__ _adj_ :nine::m: /out-LAN-dish/ Looking or sounding bizarre or unfamiliar. _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards. _Silva’s outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlaw__ _n_  
 __outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
@@ -11942,7 +11952,7 @@ __outnumber__ _v_
 __outpace__ _v_ :four::hammer: (outpacing) _Airbus outpaces Boeing yet again._  
 __outpatient clinic__ _n_  
 __outpatient__ _n_ :three::hammer:  
-__outperform__ _v_ :four::hammer:  
+__outperform__ _v tr_ :five::hammer:  
 __outplay__ _v_ :two::hammer: (outplayed)  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__ _n_ :three::hammer:  
@@ -11955,11 +11965,12 @@ __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper;
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outriggers__  
-__outright<sup>1</sup>__ _adv_ :two::hammer:  
-__outright<sup>2</sup>__ _adj_ :two::hammer:  
+__outright<sup>1</sup>__ _adv_ :three::hammer:  
+__outright<sup>2</sup>__ _adj_ :three::hammer:  
 __outrun__ _v_  
-__outset__ _n_ :seven::hammer: _The outset of his campaign._ _Designed at the outset._  
-__outshine__ _v_ :three: To be much better than someone or something else.  
+__outsell__ _v tr_  
+__outset__ _n_ :eight::hammer: _The outset of his campaign._ _Designed at the outset._  
+__outshine__ _v_ :four: To be much better than someone or something else.  
 __outshit__ _v_  
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
 __outsize<sup>1</sup>__ _adj_ :two::hammer: _An outsize risk._  
