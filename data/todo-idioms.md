@@ -3,13 +3,16 @@ __(stuck) in a rut__
 __a fine line__  
 __a hot-button issue__  
 __abandon (oneself) to__ :dart:  
+__about to (do something)__  
 __across the pond__  
 __all over the place__  
 __any way you slice it__  
+__at (long) last__  
 __at the end of the day__  
 __back and forth__  
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
 __be off the wall__  
+__be stoked__  
 __be woke__  
 __before I knew it__  
 __bells and whistles__  
@@ -25,7 +28,9 @@ __carve out__
 __check off__ :dart::two::hammer:  
 __check out__  
 __chuck__  
+__compel (someone) to (do something)__ To force someone to do something; to drive someone to so something. _You can’t compel me to do that._ _She compelled herself to try, even though she was ill._  
 __core values__  
+__creep on (someone or something)__  
 __cut (one’s) teeth__  
 __demur at (something)__ To dispute or contest something.  
 __do the work__  
@@ -35,10 +40,12 @@ __down under__
 __downer__  
 __drop the ball__  
 __fall from grace__  
+__fine-tune__  
 __first and foremost__  
 __flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and doesn’t answer the question at all._  
 __flat out__  
 __flop__ :two: __1__ A failure. _The play was a flop. The entire audience left during the second act._  
+__fly by__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __for better or (for) worse__  
 __for hours on end__  
@@ -47,9 +54,11 @@ __foul play__
 __freak out__  
 __game changer__  
 __get ahead of (oneself)__  
+__gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __give and take__  
 __go at it hammer and tongs__  
 __go figure__  
+__go-to guy__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __gold rush__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
@@ -71,12 +80,14 @@ __grasp in the dark__
 __grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
 __grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
 __grind (someone’s) gears__ To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
+__grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
 __guilt complex__ A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __gulp down__  
 __gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
 __gunk__  
 __gut factor__  
+__gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
 __halfway decent__  
 __Hallmark moment__  
@@ -94,6 +105,7 @@ __hard done-by__
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __have the last laugh__  
+__hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __help (one) out__  
 __here we go__  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
@@ -125,13 +137,18 @@ __keep tab(s) (on someone or something)__
 __keep tabs on something__  
 __kick (someone or something) to the curb__  
 __Kodak moment__  
+__latch onto (someone or something)__  
 __lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __lifer__  
 __lo and behold__ :astonished::two::hammer:  
+__make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
 __make capital (out) of (something)__ To use something to one’s advantage or profit.  
 __mill about__  
 __monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
+__mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
+__mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
 __nail in the coffin__  
+__no biggie__  
 __not a competition__  
 __of all things__  
 __OG__  
@@ -143,6 +160,7 @@ __on the block__
 __on the cusp__  
 __on the fence__  
 __on the lookout__  
+__on the prowl__  
 __on the rocks__ __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._  
 __on track__ Progressing or developing as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __one and done__  
@@ -162,8 +180,10 @@ __pick up__
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ :two: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __play second fiddle__  
+__plow ahead__  
 __point taken__  
 __poon__  
+__pound out__ :dart:  
 __pull a U-ie__  
 __pump someone up (for something)__  
 __put (one’s) head down__  
@@ -176,26 +196,32 @@ __reinvent the wheel__
 __riding high__  
 __rock the boat__  
 __roll out__  
+__run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __save (something) for a rainy day__  
 __save face__  
 __seize the opportunity (to do something)__  
 __shame on (one)__  
+__shed (some) light on (something)__  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
 __shit bricks__ To become extremely worried or frightened.  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
+__side hustle__  
 __simp__  
 __slam (someone or something)__  
 __sleight of hand__  
 __smack (one’s) lips__ :two::hammer:  
-__smarty-pants__  
+__smarty-pants__ :two::hammer:  
 __snafu__  
+__sneak peek__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __so much for someone or something__  
 __so much so__ To such an extent or great degree (that).  
 __spaced (out)__  
 __spill the beans__  
+__spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __stand to reason__  
+__sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __sure thing__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
@@ -208,6 +234,7 @@ __test the waters__
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
 __the likes of (someone or something)__  
+__the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
 __the usual suspects__ :two: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
