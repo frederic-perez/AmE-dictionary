@@ -1,3 +1,7 @@
+__achieve__ _v_ :mega:  
+__agency__ _n_ _We must use our agency._  
+__apnea__ _n_  
+__battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
 __bedevil__ _v tr_  
 __bloodlusting__  
@@ -50,6 +54,8 @@ __corollary__ _n_ /KOR-uh-lair-ee/
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __cravat__ _n_  
 __crisp__  
+__crook__  
+__crucible__ _n_  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __cue__ _v tr_  
@@ -66,10 +72,13 @@ __deem__ _v_
 __deep__ _adj_ _Ralph has a deep Batman collection._  
 __deep-routed__  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
+__defect__ _v_  
 __demystify__ _v tr_  
 __desiccant__ _n_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut  
+__digital__ _adj_ :mega: /ˈdɪdʒɪtəl/  
+__digoxin__ _n_  
 __dill__ _n_ :es: eneldo  
 __disaffected__ _adj_  
 __disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
@@ -113,6 +122,7 @@ __eradicate__ _v tr_
 __ermine__ _n_  
 __erupt__ _v_  
 __escape velocity__ _n_  
+__escrow__ _n_ _Escrow accounts._  
 __etch__ _v_  
 __ethos__ _n_  
 __etiology__  
@@ -245,15 +255,18 @@ __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports j
 __juvenilize__  
 __kerf__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__knickers__ _n_ :camera:  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
+__lockstep__ _v_ :two::hammer:  
 __locution__ _n_  
 __long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a long-drawn-out story._  
 __loquacious__ _adj_ /loh-KWAY-shus/  
 __lore__ _n_  
 __lovesick__ _adj_  
 __lowlight__  
+__luck__ _v intr_ To gain success or something desirable by chance: _lucked into a good apartment._  
 __Luddite__ _n_  
 __lunch break__ _n_ :dart: (lunchbreak)  
 __luster__  
@@ -262,6 +275,7 @@ __mac and cheese__ _n_
 __macedoine__ _n_  
 __MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
 __Mad Libs__ _n_  
+__madrigal__ _n_  
 __malaise__ _n_ /muh-LAYZ/ Malaise refers to a slight or general feeling of not being healthy or happy.  
 __malapropism__  
 __malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
@@ -281,6 +295,7 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __maypole__ _n_ :camera:  
 __meddlesome__ _adj_  
 __meet-cute__ _n_ /MEET-kyoot/  
+__megaphone__ _n_ :mega:  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __menage__ _n_ A domestic establishment. _Syn_ household  
@@ -317,7 +332,10 @@ __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __mumps__ _n_ (disease)  
 __nab__ _v_  
+__net__ _v_ (netted)  
 __nit__ _n_  
+__notch__  
+__outlay__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __overly__ _adv_ :two::hammer:  
@@ -341,14 +359,18 @@ __peeps__ _n pl_ _slang_ Associates; friends. People.
 __peewee__ _n_  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __perficient__ _adj_ /puhr-FISH-uhnt/ Accomplishing or achieving desired results; effective.  
+__periwinkle__  
+__perpetrator__ _n_  
 __perquisite__ _n_ /PER-kwuh-zut/  
 __persona__ _n_  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
+__phenotype__ _n_  
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
 __phlox__ _n_ :three::hammer:  
 __picayune__ _adj, n_  
 __picky__  
+__piggybacker__ _n_  
 __pilfer__ _v_  
 __pinecone__ _n_  
 __pinwheel__ _n_  
@@ -405,6 +427,7 @@ __ravenous__ _adj_ :two::hammer:
 __raver__ _n_  
 __ravishing__  
 __raw bar__  
+__reactant__  
 __readily__ _adv_ /ˈrɛdɪlɪ/  
 __readiness__ _n_ /ˈrɛd i nɪs/  
 __readout__  
@@ -425,6 +448,7 @@ __redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” 
 __reef__ _n_  
 __reenactment__ _n_  
 __relent__ _v intr_  
+__remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
 __resonate__ _v_  
 __responsibility__ _n_  
@@ -443,6 +467,7 @@ __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.
 __ribbon candy__  
 __ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __rigmarole__ _n_  
+__risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
 __roadblock__ _n_  
 __rollout__ _n_  
 __roundworm__ _n_  
@@ -474,6 +499,7 @@ __schadenfreude__
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scrawl__ _v_  
+__scrutiny__ _n_  
 __seep__ _v_ (seeped)  
 __seersuckers__ _n_  
 __seesaw__  
@@ -487,12 +513,15 @@ __settee__ _n_
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __sham__ _n_  
 __shanghai__ _v_  
+__shash window__ _n_  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
+__short__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __shortlist__ _n, v_  
 __shuck<sup>1</sup>__ _n_  
 __shuck<sup>2</sup>__ _v tr_  
 __shudder__ _v intr_  
 __simile__ _n_  
+__Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
@@ -509,6 +538,7 @@ __smoke__ _v_ _It was cold and our breath smoked._
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __snappy__ _adj_ _Snappy answers._  
 __snicker__ _v intr_  
+__sobering__ _adj_  
 __soft hat__ _n_ :camera:  
 __soft-pedal__ _v tr_  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
@@ -533,6 +563,7 @@ __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
 __stenos__  
+__stenotic__ _adj_ _Stenotic burden._  
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
@@ -543,8 +574,9 @@ __stopgap__ _n_
 __stovepipe hat__ _n_  
 __straitjacket__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
 __streamer__ _n_  
+__streamlined__ _adj_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
-__subclinical__ _adj_ Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
+__subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
@@ -605,6 +637,7 @@ __unison__ _n_
 __unkempt__ _adj_  
 __unmissable__  
 __unpack__  
+__upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
 __utterance__  
 __vacationer__ _n_  
 __vacuous__  
@@ -614,6 +647,7 @@ __vagus nerve__ _n_ :m:
 __vainglory__ _n_ Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
+__valedictory__ _n_  
 __valence__ _n_  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
