@@ -10,13 +10,16 @@ __any way you slice it__
 __at (long) last__  
 __at the end of the day__  
 __back and forth__  
+__back to basics__  
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
+__be here to stay__ _Digital health is here to stay._  
 __be off the wall__  
 __be stoked__  
 __be woke__  
 __before I knew it__  
 __bells and whistles__  
 __bend over backward(s)__  
+__big if__ Something that is both important and uncertain. _Syn_ a fundamental question  
 __break free__  
 __bullshitter__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
@@ -28,9 +31,11 @@ __carve out__
 __check off__ :dart::two::hammer:  
 __check out__  
 __chuck__  
+__cinch__  
 __compel (someone) to (do something)__ To force someone to do something; to drive someone to so something. _You can’t compel me to do that._ _She compelled herself to try, even though she was ill._  
 __core values__  
 __creep on (someone or something)__  
+__crowd out__  
 __cut (one’s) teeth__  
 __demur at (something)__ To dispute or contest something.  
 __do the work__  
@@ -52,6 +57,7 @@ __for hours on end__
 __for the long haul__  
 __foul play__  
 __freak out__  
+__from A to Z__  
 __game changer__  
 __get ahead of (oneself)__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
@@ -117,6 +123,7 @@ __hoo-ha__
 __hophead__  
 __in (high) hopes of (something)__  
 __in denial__  
+__in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in the hot seat__  
 __in the zone__  
 __it (always) pays to (do something)__  
@@ -140,6 +147,7 @@ __Kodak moment__
 __latch onto (someone or something)__  
 __lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __lifer__  
+__like greased lightning__ Extremely fast.  
 __lo and behold__ :astonished::two::hammer:  
 __make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
 __make capital (out) of (something)__ To use something to one’s advantage or profit.  
@@ -159,15 +167,18 @@ __on that note__
 __on the block__  
 __on the cusp__  
 __on the fence__  
+__on the flip side__  
 __on the lookout__  
 __on the prowl__  
 __on the rocks__ __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._  
+__on the spot__  
 __on track__ Progressing or developing as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __one and done__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
-__other than (something)__  
+__other than (something)__ :two::hammer: (other than that)  
 __ouch__ :dart:  
 __out of character__  
+__out of one’s hair__  
 __out of spite__  
 __out of the wood(s)__  
 __out of whack__  
@@ -181,16 +192,18 @@ __play catch-up__ To try to reach the same level of understanding, accomplishmen
 __play dumb__ :two: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __play second fiddle__  
 __plow ahead__  
-__point taken__  
+__point taken__ :two::hammer:  
 __poon__  
 __pound out__ :dart:  
 __pull a U-ie__  
 __pump someone up (for something)__  
 __put (one’s) head down__  
 __put to the test__  
+__put up a fight__  
 __quite something__  
 __rabbit hole__  
 __rack up__  
+__red flag__  
 __reel off__  
 __reinvent the wheel__  
 __riding high__  
@@ -199,6 +212,7 @@ __roll out__
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __save (something) for a rainy day__  
 __save face__  
+__saved by the bell__  
 __seize the opportunity (to do something)__  
 __shame on (one)__  
 __shed (some) light on (something)__  
@@ -220,7 +234,7 @@ __so much so__ To such an extent or great degree (that).
 __spaced (out)__  
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
-__stand to reason__  
+__stand to reason__ :two::hammer:  
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __sure thing__  
