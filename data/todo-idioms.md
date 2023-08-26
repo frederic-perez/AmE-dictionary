@@ -1,6 +1,7 @@
 __(good) heavens__  
 __(stuck) in a rut__  
 __a fine line__  
+__a hard pill to swallow__  
 __a hot-button issue__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
@@ -12,6 +13,7 @@ __at the end of the day__
 __back and forth__  
 __back to basics__  
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
+__be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something). _The seaside town was hard hit by storms this year._ _After the recession, all of our investments were hard hit._  
 __be here to stay__ _Digital health is here to stay._  
 __be off the wall__  
 __be stoked__  
@@ -32,6 +34,7 @@ __check off__ :dart::two::hammer:
 __check out__  
 __chuck__  
 __cinch__  
+__cold feet__  
 __compel (someone) to (do something)__ To force someone to do something; to drive someone to so something. _You can’t compel me to do that._ _She compelled herself to try, even though she was ill._  
 __core values__  
 __creep on (someone or something)__  
@@ -45,6 +48,7 @@ __down under__
 __downer__  
 __drop the ball__  
 __fall from grace__  
+__find (something) out the hard way__  
 __fine-tune__  
 __first and foremost__  
 __flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and doesn’t answer the question at all._  
@@ -68,6 +72,7 @@ __go-to guy__
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __gold rush__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
+__golden handcuffs__ /GOL-den hand-kuhfs/ A situation that is undesirable, unenjoyable, or unfulfilling but that provides enough financial security as to make one unwilling or unable to leave. Lucrative incentives (financial benefits) given to an employee under certain conditions to discourage them from leaving.  
 __good for you__  
 __good for you!__ A complimentary expression of encouragement for something that someone has done or received.  
 __good going__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good going, Frank, now we’re going to have to rebuild this entire model from scratch._  
@@ -101,6 +106,7 @@ __hand (something) to (someone) on a plate__ To give or relinquish something to 
 __hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
+__hang out__ __1__ To spend time in a place habitually. _Is this where you guys hang out all the time?_ __2__ To spend time aimlessly; to waste time. _Bill: What are you doing this afternoon? Tom: Oh, I’ll just hang out._ _Kids hang out too much these days._  
 __hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt. _Don’t just stare at me with that hangdog look. You’ve already made a mess of things, so now you have to deal with it!_  
 __hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US. _Political correctness has become so authoritarian these days that saying anything with even the slightest derogatory implication is seen as a hanging offense!_  
@@ -109,7 +115,10 @@ __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I ha
 __happy camper__  
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
+__hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
+__harp on the same string__  
 __have the last laugh__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __help (one) out__  
@@ -151,12 +160,14 @@ __like greased lightning__ Extremely fast.
 __lo and behold__ :astonished::two::hammer:  
 __make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
 __make capital (out) of (something)__ To use something to one’s advantage or profit.  
+__make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
 __mill about__  
 __monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
 __mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
 __mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
 __nail in the coffin__  
 __no biggie__  
+__no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
 __not a competition__  
 __of all things__  
 __OG__  
@@ -184,6 +195,7 @@ __out of the wood(s)__
 __out of whack__  
 __outsmart (oneself)__  
 __over the long haul__  
+__palsy-walsy__  
 __pan out__  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
@@ -203,6 +215,7 @@ __put up a fight__
 __quite something__  
 __rabbit hole__  
 __rack up__  
+__ram into (someone or something)__  
 __red flag__  
 __reel off__  
 __reinvent the wheel__  
@@ -221,7 +234,7 @@ __shit bricks__ To become extremely worried or frightened.
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __side hustle__  
-__simp__  
+__simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __slam (someone or something)__  
 __sleight of hand__  
 __smack (one’s) lips__ :two::hammer:  
@@ -247,6 +260,7 @@ __tap into__
 __test the waters__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
+__the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the likes of (someone or something)__  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
@@ -269,6 +283,7 @@ __under (one’s) belt__
 __under one’s belt__  
 __under the guise of (something)__  
 __unpack__  
+__vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __walk the line__  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __watered-down__  
