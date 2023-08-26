@@ -177,32 +177,6 @@ __forthright__ _adj, adv_
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __frazzle__ _v_  
 __fret__ _v_ :dart:  
-__frisson__ _n_ :two: /free-SOHN (the second vowel is pronounced nasally)/ Frisson refers to a brief moment of emotional excitement.  
-__frog fry__ _n_ Frog hopper.  
-__froufrou__  
-__fudge__ _n_  
-__fumble__ _v_ _I fumbled for two years._  
-__fungible__ _adj_ /FUN-juh-bul/  
-__fuss__ _v_  
-__fussy__ _adj_ :dart:  
-__ganache__ _n_  
-__gangrene__ _n_  
-__gargantuan__  
-__gauge__ _v tr_  
-__gemini__ _n_ :mega:  
-__grit__ _n_  
-__grove__ _n_  
-__grubby__  
-__hackles__ _n_ /HAK-ulz/ Hackles are hairs along the neck and back of an animal (especially a dog) that are capable of being raised to a stiff, upright position (as when a dog is frightened or angry). The plural noun hackles is often used figuratively with raise or rise to describe a person’s response to something that causes anger or annoyance; thus, hackles can also mean “temper” or “dander” (as in “don’t get your temper/dander up”). _A number of the issues discussed in the political debate raised some hackles among members of the opposing party._  
-__hag__ _n_  
-__Hail Mary__ _n_ _Syn_ Ave Maria  
-__hairline__ _n_  
-__hamstring<sup>1</sup>__ _n_ [:scroll: From ham (the back of the knee) + string (tendon)]  
-__hamstring<sup>2</sup>__ _v tr_  
-__happenstance__  
-__hardy__ _adj_  
-__Harry__ _n_ :mega:  
-__hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
