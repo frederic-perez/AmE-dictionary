@@ -30,30 +30,6 @@ __call someone out__
 __call to action__  
 __cannon fodder__  
 __carve out__  
-__check off__ :dart::two::hammer:  
-__check out__  
-__chuck__  
-__cinch__  
-__cold feet__  
-__compel (someone) to (do something)__ To force someone to do something; to drive someone to so something. _You can’t compel me to do that._ _She compelled herself to try, even though she was ill._  
-__core values__  
-__creep on (someone or something)__  
-__crowd out__  
-__cut (one’s) teeth__  
-__demur at (something)__ To dispute or contest something.  
-__do the work__  
-__done and done__ :dart:  
-__doormat__  
-__down under__  
-__downer__  
-__drop the ball__  
-__fall from grace__  
-__find (something) out the hard way__  
-__fine-tune__  
-__first and foremost__  
-__flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and doesn’t answer the question at all._  
-__flat out__  
-__flop__ :two: __1__ A failure. _The play was a flop. The entire audience left during the second act._  
 __fly by__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __for better or (for) worse__  
