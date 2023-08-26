@@ -3,7 +3,8 @@ __agency__ _n_ _We must use our agency._
 __apnea__ _n_  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
-__bedevil__ _v tr_  
+__bedevil__ _v tr_ :two::hammer:  
+__befuddled__ _adj_ Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
 __bloodlusting__  
 __blossom__ _n_  
 __bristle__ _v_  
@@ -18,6 +19,8 @@ __burrow__ _v_
 __bustle__ _n_ _She still wore a bustle._  
 __chalet__ _n_ :mega:  
 __chasten__ _v_ /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained.  
+__cheeseparing<sup>1</sup>__ _n_ /CHEEZ-pair-ing/ __1__ The act of saving by using extremely frugal measures. __2__ Something of little value.  
+__cheeseparing<sup>2</sup>__ _adj_ __1__ Meanly economical. __2__ Insignificant; spare; thin.  
 __chime__ _v_ _Everybody chimes into a discussion._  
 __chinchilla__ _n_  
 __chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
@@ -37,6 +40,7 @@ __cohort study__ _n_ A type of research project in which participants sharing a 
 __commensurate__ _adj_  
 __commodify__ _v tr_  
 __commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
+__compendium__ _n_ A list or collection of various items. _Syn_ collection  
 __complicitious__  
 __compound interest__  
 __compound__  
@@ -103,6 +107,9 @@ __downtime__ _n_
 __downtrodden__ _adj_  
 __dragon__ _n_ :mega:  
 __drudgery__ _n_ :dart:  
+__duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
+__edification__ _n_ Intellectual, moral, or spiritual improvement _Syn_ enlightenment  
+__empirical__ _adj_ /im-PEER-uh-kul/  
 __encomium__ _n_ /en-KOH-mee-um/  
 __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
 __endure__  
@@ -113,6 +120,7 @@ __enthuse__ _v_
 __enthused__ _adj_  
 __entrain__ _v tr_  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
+__ephemera__ _n_ /i-FEM-uhr-uh/  
 __epicure__ _n_ A person devoted to refined sensuous enjoyment (especially good food and drink). _Syn_ gastronome, bon vivant, foodie, gourmet  
 __epiphany__  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
@@ -159,6 +167,7 @@ __finicky__ _adj_
 __firefly__ _n_ :es: luciérnaga  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __flit__ _n_  
+__floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __flywheel__ _n_  
 __forfeit__ _v tr_  
@@ -168,13 +177,14 @@ __forthright__ _adj, adv_
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __frazzle__ _v_  
 __fret__ _v_ :dart:  
-__frisson__ _n_  
+__frisson__ _n_ :two: /free-SOHN (the second vowel is pronounced nasally)/ Frisson refers to a brief moment of emotional excitement.  
 __frog fry__ _n_ Frog hopper.  
 __froufrou__  
 __fudge__ _n_  
 __fumble__ _v_ _I fumbled for two years._  
 __fungible__ _adj_ /FUN-juh-bul/  
 __fuss__ _v_  
+__fussy__ _adj_ :dart:  
 __ganache__ _n_  
 __gangrene__ _n_  
 __gargantuan__  
@@ -227,6 +237,7 @@ __importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them 
 __in-house__ _adj, adv_ :pencil2:  
 __incarcerate__ _v_ /in-KAHR-suh-rayt/  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
+__indefatigable__ _adj_ Incapable or seemingly incapable of being fatigued. _Syn_ tireless, unflagging, unwearying  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indoctrinate__  
 __indomitable__ _adj_ /in-DAH-muh-tuh-bul/ Indomitable is a formal word used to describe something that is impossible to defeat or discourage.  
@@ -256,6 +267,9 @@ __juvenilize__
 __kerf__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __knickers__ _n_ :camera:  
+__lackluster__ _adj_ /LAK-luss-ter/  
+__listless__ _adj_  
+__littoral__ _adj, n_  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
@@ -311,7 +325,7 @@ __microcosm__ _n_ /MY-kruh-kah-zum/
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
-__miserly__ _adj_ :astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
+__miserly__ _adj_ :two::astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
 __misfit__ _n_ :pencil2:  
 __misguide__ _v_  
 __misnomer__ _n_  
@@ -415,6 +429,7 @@ __purport<sup>1</sup>__ _v tr_ :astonished:
 __purport<sup>2</sup>__ _n_  
 __purview__ _n_  
 __quiddity__ _n_  
+__quiescent__ _adj_ /kwy-ESS-unt/  
 __quirk__ _n_  
 __racketeer__ _n_  
 __raillery__ _n_  
@@ -525,6 +540,7 @@ __Sistine Chapel__ _n_ (etymology?)
 __sitting__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
+__skinflint__ _n_ A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skullduggery__ _n_  
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
 __slink__ _v_  
@@ -577,6 +593,7 @@ __streamer__ _n_
 __streamlined__ _adj_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
+__suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
