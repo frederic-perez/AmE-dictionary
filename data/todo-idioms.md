@@ -119,28 +119,6 @@ __in remission__ Of a disease, fully or partially ceasing to cause symptoms.
 __in the hot seat__  
 __in the zone__  
 __it (always) pays to (do something)__  
-__it goes without saying__ :two::hammer:  
-__it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
-__ivory tower__  
-__jack someone up__ _It jacks me up._  
-__jacked chad__  
-__jailbreak__  
-__jam-packed__  
-__jump in__  
-__keep (someone or something) in check__  
-__keep in mind__  
-__keep it real__  
-__keep it up__ :dart:  
-__keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
-__keep pace__  
-__keep tab(s) (on someone or something)__  
-__keep tabs on something__  
-__kick (someone or something) to the curb__  
-__kiss up__ _slang_ :dart: To habitually offer flattery in the hope of gaining favor; to behave sycophantically. _Stop kissing up just to try to get an A. Just study like everyone else._ _Kiss up tp the bosses._  
-__Kodak moment__  
-__lash out__  
-__latch onto (someone or something)__  
-__lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __lifer__  
 __like greased lightning__ Extremely fast.  
 __lo and behold__ :astonished::two::hammer:  
