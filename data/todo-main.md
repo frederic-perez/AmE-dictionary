@@ -5,32 +5,6 @@ __attorney__
 __barrel__ _v intr_ _informal_ To move or progress rapidly.  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
-__bedevil__ _v tr_ :two::hammer:  
-__befuddled__ _adj_ Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
-__bloodlusting__  
-__blossom__ _n_  
-__brand__ _v tr_ _They feel branded by a rejection._  
-__bristle__ _v_  
-__bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
-__building block__  
-__bully__ _n_  
-__bumper__  
-__bunkum__ _n_ /ˈbʌŋkəm/ (buncombe) Empty talk; nonsense. __2__ _chiefly US_ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
-__bunting__ _n_  
-__burlap__ _n_  
-__burrow__ _v_  
-__bustle__ _n_ _She still wore a bustle._  
-__carnage__ _n_  
-__chalet__ _n_ :mega:  
-__chasten__ _v_ /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained.  
-__cheeseparing<sup>1</sup>__ _n_ /CHEEZ-pair-ing/ __1__ The act of saving by using extremely frugal measures. __2__ Something of little value.  
-__cheeseparing<sup>2</sup>__ _adj_ __1__ Meanly economical. __2__ Insignificant; spare; thin.  
-__chime__ _v_ _Everybody chimes into a discussion._  
-__chinchilla__ _n_  
-__chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
-__chirk<sup>2</sup>__ _v tr_ To make a shrill noise.  
-__chirk<sup>3</sup>__ _adj_ Lively; cheerful.  
-__chit chat__  
 __chowder__ _n_  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __circa__  

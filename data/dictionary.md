@@ -1346,7 +1346,7 @@ __becquerels__
 __bedaub__ _v_ To smear all over with something thick, sticky, or dirty. _Syn_ besmear _The hunter bedaubed himself with mud as a form of camouflage._  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
-__bedevil__ _v_ :six: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
+__bedevil__ _v_ :eight: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedlam__ _n_ :six: A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
 __Bedouin__  
@@ -1386,7 +1386,7 @@ __before you know it__
 __beforehand__ _adj, adv_ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
-__befuddled__ _adj_  
+__befuddled__ _adj_ :two: Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
 __beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
@@ -1734,12 +1734,14 @@ __blood count__ _n_ :es: hemograma
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood-expander__  
+__bloodlusting__  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
 __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
 __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog posts published into a book.  
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
 __blooper__ _n informal_ :four::dart: A clumsy mistake, especially one made in public; a faux pas.  
+__blossom__ _n_  
 __blot__ _n_ :two::hammer:  
 __blotch__ _n_ __1__ A large, irregular spot or blot; stain. __2__ A discolored spot on the skin; blemish. _Black blotches on the skin from internal bleeding._  
 __blotched__ _v_  
@@ -2025,6 +2027,7 @@ __braised__ _adj_ :two: (Cookery) Cooked by braising. _Braised Cornish hen._ _Br
 __bramble__ _n_ :seven::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
+__brand__ _v tr_ _They feel branded by a rejection._  
 __brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
 __brander__  
 __branding iron__ _n_ :camera:  
@@ -2122,7 +2125,7 @@ __brisker__
 __brisket__ _n_ :five::hammer: _BBQ beef brisket._  
 __briskly__ _adv_ :two::hammer: _Briskly walking._  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
-__bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__bristle<sup>2</sup>__ _v_ :seven::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __Bristolian__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you’re a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
@@ -2218,6 +2221,7 @@ __buckskin__ _n_ :two::hammer: (buckskins)
 __bucktooth__ _n_ /ˈbʌkˌtuːθ/  
 __buckwheat__ _n_  
 __buckwheats__  
+__bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __bud__ _v_  
 __budding__  
 __buddy up__  
@@ -2248,6 +2252,7 @@ __build a future__ _phr_ :es: labrarse un futuro
 __build up__  
 __build__ _n, v_ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
+__building block__  
 __building__ _n_ _A state building._  
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbar__ _adj_ Of, relating to, or characteristic of a bulb, especially of the medulla oblongata: _bulbar poliomyelitis._  
@@ -2270,7 +2275,7 @@ __bullion__ _n_ :two::hammer:
 __bullpen__ _n_  
 __bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __bullwhip__  
-__bully__  
+__bully__ _n_ :two::hammer:  
 __bulrush__ _n_ A tall strong water plant. :es: junco  
 __bulwark__ _n_ :nine::m: /ˈbʊl wərk, -wɔrk, ˈbʌl-/ __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
@@ -2286,8 +2291,8 @@ __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experie
 __bump__ _n_ _A bump free flight._  
 __bumper boat__ _n_ :two::hammer:  
 __bumper cars__ _n_ :two::hammer:  
-__bumper__  
-__bumpers__ _n_ _The bumpers of vehicles._  
+__bumper<sup>1</sup>__ _adj_  
+__bumper<sup>2</sup>__ _n_ :two::hammer: _The bumpers of vehicles._  
 __bumpkin__  
 __bumps in the road__  
 __bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
@@ -2312,11 +2317,11 @@ __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ 
 __bunker oil__  
 __bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
 __bunkmates__  
-__bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
+__bunkum__ _n_ /ˈbʌŋkəm/ :three: (buncombe) __1__ Empty talk; nonsense. __2__ _chiefly US_ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunny__ _n_ __2__ _Professions_ A night-club hostess whose costume includes a rabbit-like tail and ears. _Syn_ bunny girl _Hugh Hefner and his bunnies._  
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
-__bunting__ _n_ :two::hammer: __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
+__bunting__ _n_ :three::hammer: __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
 __Bunyanesque__ _adj_  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
@@ -2335,7 +2340,7 @@ __burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). 
 __burgundy__ _n_ :three: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
 __burial__ _n_  
 __burkini__  
-__burlap__ _n_ :four::hammer: _A burlap bag._  
+__burlap__ _n_ :five::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __Burmese__ _adj, n_  
 __burn-in__ _n_ _A burn-in procedure of 24 hours._  
@@ -2353,7 +2358,7 @@ __burr__ _n_
 __burrhead__ _n_  
 __burrito__ _n_ :mega:  
 __burrow<sup>1</sup>__ _n_ :five::hammer:  
-__burrow<sup>2</sup>__ _v_ :three::hammer:  
+__burrow<sup>2</sup>__ _v_ :four::hammer:  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
 __burst<sup>1</sup>__ _n_ _Quick bursts of positive emotions._  
@@ -2373,7 +2378,7 @@ __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I c
 __busticate__ _v_ _informal US_ To break.  
 __bustiers__ _n_  
 __bustle<sup>1</sup>__ _v_  
-__bustle<sup>2</sup>__ _n_ :five::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
+__bustle<sup>2</sup>__ _n_ :six::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
@@ -2673,7 +2678,7 @@ __caribou__
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
-__carnage__ _n_ :three::hammer:  
+__carnage__ _n_ :four::hammer:  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie__ _n_ _Carnie man._  
 __carnival__  
@@ -2873,7 +2878,7 @@ __chain letter__ _n_
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
 __chaise__  
-__chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
+__chalet__ _n_ :two:::hammer::mega: _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_ :four: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard. _Check the chalkboard for daily specials._ _Chalkboards did not require much upkeep._  
 __chalkstone__ _n_ A deposit of urates around a joint or in the external ear; diagnostic of advanced or chronic gout. _Syn_ tophus _Once the doctor saw the chalkstone, he knew his patient was suffering from gout._  
@@ -2936,7 +2941,7 @@ __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or st
 __chase__ _v_ :two: __3__ To decorate (metal) by engraving or embossing. _The infant received six bowls, gilded and chased._ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__ _n_ :two::hammer:  
-__chasten__ _v_ Censure severely.  
+__chasten__ _v_ :two: /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained. Censure severely.  
 __chastened__ _adj_ :two: Subdued; humbled.  
 __chastening__ _n_ A rebuke for making a mistake.  
 __chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
@@ -2974,6 +2979,8 @@ __cheese__ _adj_
 __cheese-eater__  
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
+__cheeseparing<sup>1</sup>__ _n_ /CHEEZ-pair-ing/ __1__ The act of saving by using extremely frugal measures. __2__ Something of little value.  
+__cheeseparing<sup>2</sup>__ _adj_ __1__ Meanly economical. __2__ Insignificant; spare; thin.  
 __cheesy__ _adj_ :four::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
@@ -3019,13 +3026,14 @@ __childbirth__
 __childhood__ _n_  
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :four::hammer:  
-__chime__ _v_ :two::hammer: (chiming)  
+__chime__ _v_ :three::hammer: _Everybody chimes into a discussion._  
 __chimera__ _n_ (chimeras) :two::hammer:  
 __chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
 __chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __China virus__ _n_  
 __china__ _n_ _Delicate, translucent china._  
+__chinchilla__ _n_  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap  
 __chip apart__  
@@ -3043,12 +3051,16 @@ __chippy<sup>1</sup>__ _adj_
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiral__ _adj_ _Chiral molecules._  
 __Chirish__ _n_ A person living in Chicago with primarily Irish ancestry. _A Chirish-style breakfast._  
+__chirk<sup>1</sup>__ _v tr_ /chuhrk/ To cheer.  
+__chirk<sup>2</sup>__ _v tr_ To make a shrill noise.  
+__chirk<sup>3</sup>__ _adj_ Lively; cheerful.  
 __chiropody__ _n_  
 __chiropractor__ _n_  
 __chirp away__ _v_  
 __chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chisel__ _n_  
 __chiseled__  
+__chit chat__  
 __chit__ _n_  
 __chit-chat<sup>1</sup>__ _n_ :two: (chit chat) An informal conversation about things that are not important.  
 __chit-chat<sup>2</sup>__ _v_  
