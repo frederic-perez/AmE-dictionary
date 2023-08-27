@@ -1,12 +1,15 @@
 __achieve__ _v_ :mega:  
 __agency__ _n_ _We must use our agency._  
 __apnea__ _n_  
+__attorney__  
+__barrel__ _v intr_ _informal_ To move or progress rapidly.  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
 __bedevil__ _v tr_ :two::hammer:  
 __befuddled__ _adj_ Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
 __bloodlusting__  
 __blossom__ _n_  
+__brand__ _v tr_ _They feel branded by a rejection._  
 __bristle__ _v_  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __building block__  
@@ -17,6 +20,7 @@ __bunting__ _n_
 __burlap__ _n_  
 __burrow__ _v_  
 __bustle__ _n_ _She still wore a bustle._  
+__carnage__ _n_  
 __chalet__ _n_ :mega:  
 __chasten__ _v_ /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained.  
 __cheeseparing<sup>1</sup>__ _n_ /CHEEZ-pair-ing/ __1__ The act of saving by using extremely frugal measures. __2__ Something of little value.  
@@ -45,6 +49,7 @@ __complicitious__
 __compound interest__  
 __compound__  
 __comprise__ _v_ /kum-PRYZE/  
+__comptroller__ _n_  
 __conforming__ _adj_  
 __construed__ _v_  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
@@ -55,6 +60,7 @@ __convey__ _v tr_
 __convoluted__ _adj_  
 __coo__ _v_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
+__counselor__  
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __cravat__ _n_  
 __crisp__  
@@ -75,8 +81,10 @@ __deconstruct__ _v_
 __deem__ _v_  
 __deep__ _adj_ _Ralph has a deep Batman collection._  
 __deep-routed__  
+__deep-seated__ _adj_ _Deep-seated flaws._  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __defect__ _v_  
+__demeaning__  
 __demystify__ _v tr_  
 __desiccant__ _n_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
@@ -144,6 +152,7 @@ __exodus__ _n_ /EK-suh-duhs/ A large scale departure or emigration.
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
 __extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
+__extolled__ _v_  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
@@ -170,6 +179,7 @@ __flit__ _n_
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __flywheel__ _n_  
+__foist__ _v_  
 __forfeit__ _v tr_  
 __formidable__ _adj_ :astonished:  
 __forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
@@ -177,6 +187,8 @@ __forthright__ _adj, adv_
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __frazzle__ _v_  
 __fret__ _v_ :dart:  
+__Greenwich Village__ _n_  
+__groupthink__  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
@@ -196,11 +208,12 @@ __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ 
 __highlight__ _n_ :es: punto culminante  
 __histrionic__  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
+__hobnobbing__ _v_  
 __holistic__ _adj_  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
 __hoot__ _v_  
-__hubris__ _n_  
+__hubris__ _n_ :two::hammer:  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __hustle__ _v_  
 __hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
@@ -220,6 +233,7 @@ __inebriety__ _n_ A temporary state resulting from excessive consumption of alco
 __infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infighting__ _n_  
 __infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
+__informed decision__ _n_  
 __infuriating__ _adj_  
 __inkling__ _n_ /INK-ling/ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something.  
 __instrumental__ _adj_  
@@ -242,6 +256,7 @@ __kerf__ _n_
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __knickers__ _n_ :camera:  
 __lackluster__ _adj_ /LAK-luss-ter/  
+__lawyer__  
 __listless__ _adj_  
 __littoral__ _adj, n_  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
@@ -273,6 +288,7 @@ __manage__ _v_ :mega:
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
+__marshal__ _v_  
 __mashup__ _n_  
 __mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
 __matrix__ _n_ :mega:  
@@ -308,6 +324,7 @@ __misspell__ _v_ :pencil2:
 __mitigate__ _v_ /MIT-uh-gayt/  
 __mixtape__ _n_  
 __mole__ _n_ :es: topo  
+__momentous__ _adj_  
 __mondegreen__ _n_  
 __money__ _n_ :mega: /ˈmʌnɪ/  
 __mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
@@ -317,6 +334,7 @@ __moodiness__ _n_
 __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little practical value, hence not worth considering.  
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
+__morale__ _n_  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __mumps__ _n_ (disease)  
 __nab__ _v_  
@@ -487,6 +505,7 @@ __savor__ _v_ _Savor the moment._
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
+__scramble__ _v_ _They scrambled for personal power._  
 __scrawl__ _v_  
 __scrutiny__ _n_  
 __seep__ _v_ (seeped)  
@@ -526,6 +545,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
+__smugness__  
 __snappy__ _adj_ _Snappy answers._  
 __snicker__ _v intr_  
 __sobering__ _adj_  
@@ -565,6 +585,7 @@ __stovepipe hat__ _n_
 __straitjacket__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
 __streamer__ _n_  
 __streamlined__ _adj_  
+__strewn__ _v_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
 __suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
@@ -572,11 +593,13 @@ __sunshower__ _n_ A localized rain shower in which rain falls while the sun is s
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__surmount__ _v_ _Surmount obstacles._  
 __surreptitiously__  
 __surrey__ _n_  
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __swell__ _adj_  
+__tacky__ _adj_ _Tacky birthday present._  
 __tamarind__  
 __tamper__ _v_  
 __tandem__ _n_  
@@ -643,7 +666,9 @@ __valence__ _n_
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
+__verdict__  
 __vicinity__ _n_  
+__vignette__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
 __wattle__ _n_  
 __waver__ _v_  
@@ -651,4 +676,5 @@ __wellbeing__ _n_ :pencil2:
 __wheelhouse__  
 __wholesome__  
 __wield__ _v_  
+__withholding__  
 __workload__ _n_  
