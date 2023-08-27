@@ -1,4 +1,5 @@
 __(good) heavens__  
+__(someone’s or something’s) days are numbered__  
 __(stuck) in a rut__  
 __a fine line__  
 __a hard pill to swallow__  
@@ -22,7 +23,9 @@ __before I knew it__
 __bells and whistles__  
 __bend over backward(s)__  
 __big if__ Something that is both important and uncertain. _Syn_ a fundamental question  
+__bored to tears__ Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __break free__  
+__bulletproof__  
 __bullshitter__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __call (one) on (something)__  
@@ -30,6 +33,7 @@ __call someone out__
 __call to action__  
 __cannon fodder__  
 __carve out__  
+__face the music__  
 __fly by__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __for better or (for) worse__  
@@ -43,6 +47,7 @@ __get ahead of (oneself)__
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __give and take__  
 __go at it hammer and tongs__  
+__go berserk__  
 __go figure__  
 __go-to guy__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
@@ -88,6 +93,7 @@ __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt
 __hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US. _Political correctness has become so authoritarian these days that saying anything with even the slightest derogatory implication is seen as a hanging offense!_  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
 __happen by__ To appear, arrive, pass, or come upon casually or by chance. _I happened by a quaint new craft store the other day._  
+__happily ever after__  
 __happy camper__  
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
@@ -96,6 +102,7 @@ __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is ha
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
 __harp on the same string__  
 __have the last laugh__  
+__head over heels__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __help (one) out__  
 __here we go__  
@@ -120,6 +127,7 @@ __jacked chad__
 __jailbreak__  
 __jam-packed__  
 __jump in__  
+__keep (someone or something) in check__  
 __keep in mind__  
 __keep it real__  
 __keep it up__ :dart:  
@@ -128,7 +136,9 @@ __keep pace__
 __keep tab(s) (on someone or something)__  
 __keep tabs on something__  
 __kick (someone or something) to the curb__  
+__kiss up__ _slang_ :dart: To habitually offer flattery in the hope of gaining favor; to behave sycophantically. _Stop kissing up just to try to get an A. Just study like everyone else._ _Kiss up tp the bosses._  
 __Kodak moment__  
+__lash out__  
 __latch onto (someone or something)__  
 __lay the groundwork (for something)__ :dart: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __lifer__  
@@ -137,11 +147,14 @@ __lo and behold__ :astonished::two::hammer:
 __make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
 __make capital (out) of (something)__ To use something to one’s advantage or profit.  
 __make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
+__mete out__ __1__ To distribute or dispense something. A noun or pronoun can be used between “mete” and “out.” _It is the Supreme Court’s job to mete out justice in a situation like this._ __2__ To measure something out. _She meted the solution out carefully into a row of test tubes._ _She meted out the cookies to each of them._  
 __mill about__  
 __monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
 __mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
 __mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
+__movers and shakers__ :dart: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
 __nail in the coffin__  
+__nitty-gritty__  
 __no biggie__  
 __no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
 __not a competition__  
@@ -176,6 +189,8 @@ __pan out__
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pick up__  
+__pick-and-shovel work__  
+__play (the) devil’s advocate__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ :two: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __play second fiddle__  
@@ -212,6 +227,7 @@ __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability
 __side hustle__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __slam (someone or something)__  
+__slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __sleight of hand__  
 __smack (one’s) lips__ :two::hammer:  
 __smarty-pants__ :two::hammer:  
@@ -224,11 +240,15 @@ __spaced (out)__
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __stand to reason__ :two::hammer:  
+__stand up__ _The trauma of being stood up at her wedding._  
+__steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __sure thing__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
+__swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
 __tag along__  
+__take (someone or something) for granted__  
 __take aside__  
 __take back__  
 __take names__  
@@ -253,6 +273,7 @@ __touché__
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __trick__ _v_  
 __Trojan horse__  
+__turf war__  
 __turn of phrase__  
 __uncharted territory__  
 __under (one’s) belt__  
