@@ -2483,7 +2483,7 @@ __living hell__ _Your life will be living hell._
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __living proof__ :two::hammer:  
 __living the dream__ :two: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
-__lo and behold__ :four::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
+__lo and behold__ :astonished::six::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
@@ -2560,6 +2560,7 @@ __make (one’s) bones__
 __make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make (one’s) mouth water__  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
+__make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
 __make (oneself) useful__ To do something that is actively helpful or of assistance to others. _You know, instead of just sitting there watching TV, you could make yourself useful and take out the garbage._  
 __make (perfect) sense__ _It makes perfect sense._  
@@ -2588,6 +2589,7 @@ __make an impression__
 __make as though__ To behave as if; to pretend or make it appear that. _Samantha’s been making as though she’s writing the next great American novel, but it’s just some trashy thriller._  
 __make bank__ To make a gratuitous amount of money, in preferably a short period of time. _He’s making bank._  
 __make believe__ _The land of Make Believe [possibly a NJ park]._  
+__make capital (out) of (something)__ To use something to one’s advantage or profit.  
 __make faces (at someone)__ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
 __make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
@@ -2601,6 +2603,7 @@ __make matters worse__ To make an already bad, unpleasant, or difficult situatio
 __make mincemeat (out) of (someone or something)__ To decisively and severely punish or defeat someone. _If he doesn’t stop teasing me, I’m going to make mincemeat of him._ _You better practice for Sunday’s match, or your opponent will make mincemeat out of you._  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
 __make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
+__make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
 __make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
 __make or break__ :three::hammer:  
 __make sense (out) of (something)__ To interpret something in a way that one can understand or that reveals some purpose, reason, etc. _It will be a long time before we can begin to make sense of this tragedy._  
@@ -2650,12 +2653,13 @@ __mess of pottage__ Something of little, trivial, or no value but which appears 
 __mess with (someone or something)__ :two::hammer:  
 __messed up__  
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
+__mete out__ __1__ To distribute or dispense something. A noun or pronoun can be used between “mete” and “out.” _It is the Supreme Court’s job to mete out justice in a situation like this._ __2__ To measure something out. _She meted the solution out carefully into a row of test tubes._ _She meted out the cookies to each of them._  
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
 __Mickey (Finn)__ :two::hammer: _A mickeyed beer._  
 __middle ground__ :three: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __mike drop__  
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
-__mill about__ :two: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
+__mill about__ :three: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __milquetoast__  
 __mince (one’s) words__  
 __mind (one’s) manners__ To be well behaved and act appropriately. _Make sure you mind your manners while you are with your Aunt Josephine. I don’t want to hear about you giving her any trouble while I’m away!_  
@@ -2684,6 +2688,7 @@ __money laundering__ :two: The act of engaging in transactions designed to obscu
 __money pit__ :three: A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
 __money talks__ Rich people can get what they want.  
 __monkey off one’s back__ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
+__monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __mop-top__  
 __moral compass__ :three: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics. _Our country’s moral compass has surely gone awry in recent times, as our priorities seem now to favor the wealthy accumulating more wealth at the expense of any other concern._  
@@ -2696,6 +2701,8 @@ __morning person__
 __most of the time__ _Most of the time I do my breakfast._  
 __mother hen__ _n_ A person who fusses over others in an overprotective manner.  
 __mother lode__  
+__mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
+__mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
 __mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  
 __mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or description, especially as makes one’s mouth salivate. _I can’t wait to eat—those steaks you’re cooking smell mouth-watering!_  
 __move heaven and earth__ To do everything that one can to make something happen.  
@@ -2704,6 +2711,7 @@ __move the goal posts__
 __move the needle__ :three::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
+__movers and shakers__ :dart: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
 __much ado about nothing__  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
@@ -2715,7 +2723,7 @@ __mushhead__ _slang_ A foolish, idiotic person; someone lacking basic intelligen
 __my hands are tied__ You are not free to behave in the way that you would like for some reason.  
 __my lucky star__  
 __my spidey-sense is tingling__  
-__nail in (someone’s or something’s) coffin__  
+__nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
 __name names__ :two::hammer: _I will not go naming names here._  
 __narrow down__ :two: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
@@ -2745,8 +2753,11 @@ __nine to fivers__
 __nip (something) in the bud__ :three: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
 __nip in the bud__  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
+__nitty-gritty__  
 __nix__  
 __no big deal__ :two::hammer: _No big deal, but it looked sloppy._  
+__no biggie__  
+__no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__ :two::hammer:  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
@@ -2775,6 +2786,7 @@ __nod off__ :dart:
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
 __not (one’s) first rodeo__ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
 __not a big deal__ It is often used to indicate that a problem or situation is minor and does not require excessive concern or attention. The phrase can also be used to minimize the impact of a negative event or to reassure someone that everything is fine. It can also be used to express nonchalance or indifference to a situation or event.  
+__not a competition__  
 __not a moment too soon__ At the last possible moment before it is too late; just in the nick of time. _The police arrived not a moment too soon, and the would-be burglar was apprehended before anything could be stolen._  
 __not a peep from/out of (someone)__ Not a single word or sound from someone.  
 __not a problem__ :two: _informal_ __1__ Used to say that one is happy to do something. _“Thanks for your help.” “Not a problem.”_ __2__ Used to say that one is not bothered by something. _“I’m sorry for interrupting you.” “Not a problem.”_ __3__ Used to say that something can be done. _“I would like to pay with my credit card.” “Not a problem.”_  
@@ -2835,6 +2847,7 @@ __odd duck__ A rather unusual, strange, or peculiar person. _His new girlfriend 
 __oddly enough__ It is strange or remarkable (that). _I saw John this morning. Oddly enough, I was just thinking I hadn’t seen him for a long time._ :es: por extraño que parezca, curiosamente  
 __of a kind__ _You are two of a kind._  
 __of a lifetime__ Used to describe something extremely exceptional, important, or enjoyable that isn’t likely to occur again. _They offered me the chance of a lifetime to travel the world and write about my experiences abroad._ _She must first unravel an unsolved murder, or lose this opportunity of a lifetime._  
+__of all things__  
 __of late__ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __of no account__ :three: Of no or very little importance, significance, or worth. _Sure, his writing is OK, but he only published a few articles in some tiny magazine of no account._  
 __of one’s own accord__ Voluntarily.  
@@ -2848,6 +2861,7 @@ __off work__
 __off-kilter__ :five::hammer:  
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
 __offs and ends__ __1a__ Miscellaneous articles. __b__ Miscellaneous small matters (as of business) to be attended to. __2__ Miscellaneous remnants or leftovers odds and ends of food.  
+__OG__  
 __Oh, boy!__ :two: __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __oh, my__ :two::hammer: (oh my!)  
 __OK Corral__  
@@ -2858,6 +2872,8 @@ __old maid__ An old woman who has never been married or has never had a sexual r
 __old school thinking__  
 __on (one’s) own right__  
 __on (one’s) plate__  
+__on (one’s) radar (screen)__  
+__on (one’s) toes__  
 __on (one’s) watch__  
 __on (someone’s or something’s) dime__  
 __on (someone’s) behalf__ :two: For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
@@ -2869,7 +2885,7 @@ __on a high horse__ To act as if you are better than other people.
 __on a lark__ :two: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a mission__ _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
 __on a roll__ :three::hammer: _I’m on a roll._  
-__on a tear__ :two: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
+__on a tear__ :three: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
@@ -2898,12 +2914,14 @@ __on someone’s dime__ _I was living on my mother’s dime._
 __on steroids__ :four::mega: In a very large, enhanced, or exaggerated form.  
 __on tap__ :two: __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
 __on tenterhooks__ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
-__on that note__  
+__on that note__ :two::hammer:  
 __on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __on the back burner__ :two::hammer:  
+__on the block__  
 __on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __on the contrary__ :dart::three::hammer:  
+__on the cusp__  
 __on the defensive__ :two: Prepared to withstand or counter aggression or attack.  
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
 __on the face of it__ _That seems totally bizarre on the face of it._  

@@ -121,29 +121,6 @@ __in the zone__
 __it (always) pays to (do something)__  
 __lifer__  
 __like greased lightning__ Extremely fast.  
-__lo and behold__ :astonished::two::hammer:  
-__make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
-__make capital (out) of (something)__ To use something to one’s advantage or profit.  
-__make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
-__mete out__ __1__ To distribute or dispense something. A noun or pronoun can be used between “mete” and “out.” _It is the Supreme Court’s job to mete out justice in a situation like this._ __2__ To measure something out. _She meted the solution out carefully into a row of test tubes._ _She meted out the cookies to each of them._  
-__mill about__  
-__monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
-__mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
-__mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
-__movers and shakers__ :dart: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
-__nail in the coffin__  
-__nitty-gritty__  
-__no biggie__  
-__no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
-__not a competition__  
-__of all things__  
-__OG__  
-__on (one’s) radar (screen)__  
-__on (one’s) toes__  
-__on a tear__  
-__on that note__  
-__on the block__  
-__on the cusp__  
 __on the fence__  
 __on the flip side__  
 __on the lookout__  
