@@ -8540,7 +8540,7 @@ __hubbub__ _n_ :seven::hammer:
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
-__hubris__ _n_ :nine: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
+__hubris__ _n_ :dart::nine::m: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
 __huckster__ _n_ :five: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :six: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
@@ -8553,6 +8553,7 @@ __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my co
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
+__humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
 __humbug<sup>1</sup>__ _n_ :two: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
 __humbug<sup>2</sup>__ _v tr_ To deceive or trick.  
@@ -8603,7 +8604,7 @@ __hushed__ _adj_ _A hushed hotel lounge._
 __husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
-__hustle__ _v_ :four::mute:[hus~~t~~le]:hammer:  
+__hustle__ _v_ :five::mute:[hus~~t~~le]:hammer:  
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
@@ -8612,6 +8613,7 @@ __Hydra__
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hydrology__  
 __hydrometeors__ _n_  
+__hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
 __hydroponic__ _adj_  
 __hydroponics__ _n_ A technique of growing plants (without soil) in water containing dissolved nutrients. _Syn_ aquiculture, tank farming  
 __hyetal__ _adj_ Of or relating to rain or rainy regions.  
@@ -8698,10 +8700,11 @@ __ill__
 __ill-fated__ _adj_ :two::hammer:  
 __illation__  
 __illaudable__  
+__illegal__ _adj, n_ :mega:  
 __Illini__ _n_ :three::hammer:  
 __illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
-__illustrious__ _adj_ :seven::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
+__illustrious__ _adj_ :eight::hammer::pencil2: /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected. _An illustrious career._ _The illustrious Count of Savoy._  
 __imagination__ _n_ :mega:  
 __imagine__ _v_  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
@@ -8760,7 +8763,7 @@ __implacable__ _adj_ /im-PLAK-uh-bul/ Not capable of being appeased, significant
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __implode__ _v_  
-__importune__ _v_ Beg persistently and urgently. _Syn_ insist  
+__importune__ _v_ :two: /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests. Beg persistently and urgently. _Syn_ insist  
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
 __imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
 __impound<sup>1</sup>__ _n_ _The impound yard._  
@@ -8789,7 +8792,7 @@ __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.
 __in the long run__  
 __in__ _prep_ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _adj_ :dart: _He will conduct an in-depth review._  
-__in-house__ _adj_ :four::hammer: _In-house experts._ _An in-house system._  
+__in-house__ _adj, adv_ :five::pencil2::hammer: _In-house experts._ _An in-house system._  
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
 __in-tray__ _n_ _What’s in the in-tray of NHS England’s new chief executive?_  
 __in-your-face__ _adj_ _An in-your-face farewell._  
@@ -8811,7 +8814,7 @@ __inbound<sup>1</sup>__ _adj_ :four::hammer: _Inbound trip._ _Inbounds pass._
 __inbound<sup>2</sup>__ _adv_  
 __inbound<sup>3</sup>__ _v_  
 __inbox__ _n_ :mega:  
-__incarcerate__ _v_ :two::hammer: (incarcerated)  
+__incarcerate__ _v_ :three::hammer: /in-KAHR-suh-rayt/  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _v tr_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
 __incarnation__ _n_ :four::hammer:  
@@ -8825,6 +8828,7 @@ __inception__ _n_ :three::hammer:
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
 __inch__ _v_ :four::hammer: (inching) _They’ll just inch their way down the field._  
+__inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __inchoate__ _adj_ :three: /in-KOH-ut/ Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
 __inchworm__ _n_  
 __incident<sup>1</sup>__ _n_  
@@ -8858,7 +8862,7 @@ __incumbent<sup>2</sup>__ _n_ :six: Currently holding a specified office. _An in
 __incunabula__ _n pl_  
 __incur__ _v_ :three::hammer:  
 __indecorous__ _adj_  
-__indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
+__indefatigable__ _adj_ :seven::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired. _Syn_ tireless, unflagging, unwearying  
 __indefinite__  
 __indelible__ _adj_ :eight::pencil2: Impossible to remove, erase, or wash away; permanent. _Syn_ permanent, lasting, enduring, ineradicable, ineffaceable, inexpungible, inextirpable _Before I left for camp, my mother wrote my name inside all of my clothes with indelible ink._ _An indelible mark._  
 __indenture__ _v_  
@@ -8867,6 +8871,7 @@ __index card__ _n_
 __Indian paintbrush__ _n_  
 __indict__ _v_ :seven::hammer: (indicted :mega:)  
 __indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
+__indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indigenous__ _adj_ _Indigenous people._  
 __indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
 __indiscreet__  
@@ -8875,19 +8880,21 @@ __indispensable__
 __indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indissoluble__ _adj_ Not dissoluble; esp. incapable of being annulled, undone, or broken. _Syn_ permanent  
 __indite__ _v tr_ :two: /ɪnˈdaɪt/ __1__ _archaic_ To write. __2__ _obsolete_ To dictate.  
-__indoctrinate__ _v_ :two: /in-DAHK-truh-nayt/ To teach (someone) to fully accept the ideas, opinions, and beliefs of a particular group and to not consider other ideas, opinions, and beliefs. _The goal of the professor is to teach politics, rather than to indoctrinate students with a narrow set of political beliefs._  
+__indoctrinate__ _v_ :three: /in-DAHK-truh-nayt/ To teach (someone) to fully accept the ideas, opinions, and beliefs of a particular group and to not consider other ideas, opinions, and beliefs. _The goal of the professor is to teach politics, rather than to indoctrinate students with a narrow set of political beliefs._  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
-__indomitable__ _adj_ :six: Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
+__indomitable__ _adj_ :seven: /in-DAH-muh-tuh-bul/ Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
 __indubitably__ _adv_ Without doubt; certainly.  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
 __inductee__ _n_ :two: Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
 __induction__ _n_ :five::hammer: _Induction hall._ __3__ _logic_ __a__ The process of deriving general principles from particular facts or instances. __b__ A conclusion reached by this process.  
+__indulge__  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
 __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __inebriated__ _adj_  
+__inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
 __ineffable__ _adj_ :seven: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __ineffectual__  
 __inefficacious__ _adj_  
@@ -8914,6 +8921,7 @@ __infamous__ _adj_ :nine::m: __1__ Causing or deserving a bad reputation; shocki
 __infamy__ _n_ :two::hammer:  
 __infant__ _n_  
 __infantile__ _adj_ _This infantile stress response should end._  
+__infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
 __infare__ _n_  
 __infeasible__ _adj_ :two::hammer: _Syn_ unfeasible  
 __infectious__ _adj_ _Infectious smile._  
@@ -8921,7 +8929,7 @@ __infectivity__ _n_
 __inferno__ _n_ _All kinds of Indian infernos._  
 __infibulation__ _n_ _The Moslem practice of infibulation involved attaching a padlock to the labia._  
 __infidel__ _n_ :two::hammer:  
-__infighting__ _n_ :two::hammer:  
+__infighting__ _n_ :three::hammer:  
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
@@ -8934,12 +8942,15 @@ __inflection point__ _n_ A moment of dramatic change, especially in the developm
 __influence-peddling__ _n_ :three::hammer:  
 __influencer__ _n_ :mega:  
 __influenza__ _n_ :two: _Syn_ flu, grippe  
+__infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
 __infomania__ _n_ A condition of reduced concentration caused by continually responding to e-mail, text-messaging, etc.  
 __infomercial__ _n_  
 __informant__ _n_  
+__informed decision__ _n_  
 __infotainment__ _n_ :three::hammer: _Infotainment system._  
 __infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
 __infrasound__ _n_ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
+__infuriating__ _adj_  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
 __inglenook__  
@@ -8962,7 +8973,7 @@ __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or 
 __injury time__  
 __injury-marred__ _adj_ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
-__inkling__ _n_ :eight: __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
+__inkling__ _n_ :nine: /INK-ling/ __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something. A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
 __inland<sup>1</sup>__ _adj_ :two::hammer:  
 __inland<sup>2</sup>__ _adv_  
 __inland<sup>3</sup>__ _n_  
@@ -9016,7 +9027,8 @@ __instigator__ _n_
 __instill__ _v_ :nine::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
-__instrumental__ _adj_ :two::hammer: _He has been instrumental in a number of European research projects._  
+__instrumental__ _adj_ :three::hammer: _He has been instrumental in a number of European research projects._  
+__insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __insular__ _adj_ _His small, insular group of loyalists._  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __insulation__ _n_ :four::hammer:  
@@ -9024,7 +9036,7 @@ __insure__ _v_ :two::hammer:
 __insurmountable__ _adj_ :two::hammer: _Alabama built an insurmountable 21-3 halftime lead._ _An insurmountable problem._  
 __insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
 __intaglio__ _n_ A figure or design carved into or beneath the surface of hard metal or stone. _Syn_ diaglyph _The intaglio was so incredibly detailed that it almost looked like a photograph._  
-__intangible__  
+__intangible__ _adj, n_ :two::hammer:  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  

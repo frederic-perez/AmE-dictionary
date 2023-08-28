@@ -187,32 +187,6 @@ __holistic__ _adj_
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
 __hoot__ _v_  
-__hubris__ _n_ :two::hammer:  
-__humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
-__hustle__ _v_  
-__hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
-__illegal__ _adj, n_ :mega:  
-__illustrious__ _adj_ /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected.  
-__impending__  
-__importune__ _v_ /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests.  
-__in-house__ _adj, adv_ :pencil2:  
-__incarcerate__ _v_ /in-KAHR-suh-rayt/  
-__inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
-__indefatigable__ _adj_ Incapable or seemingly incapable of being fatigued. _Syn_ tireless, unflagging, unwearying  
-__indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
-__indoctrinate__  
-__indomitable__ _adj_ /in-DAH-muh-tuh-bul/ Indomitable is a formal word used to describe something that is impossible to defeat or discourage.  
-__indulge__  
-__inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
-__infantilize__ _v_ /in-FAN-tuh-lyze/ To infantilize someone is to treat them as though they are an infant—in other words, to treat them as helpless, immature, or as one who lacks adult agency.  
-__infighting__ _n_  
-__infodemic__ _n_ /in-fuh/foh-DEM-ik/ A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.  
-__informed decision__ _n_  
-__infuriating__ _adj_  
-__inkling__ _n_ /INK-ling/ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something.  
-__instrumental__ _adj_  
-__insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
-__intangible__  
 __integer__ _n_ :mega:  
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
 __interpolate__ _v_ /in-TER-puh-layt/  
