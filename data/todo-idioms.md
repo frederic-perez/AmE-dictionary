@@ -124,27 +124,6 @@ __in the hot seat__
 __in the zone__  
 __it (always) pays to (do something)__  
 __jock__  
-__lash out__ :two::hammer:  
-__lifer__  
-__like greased lightning__ Extremely fast.  
-__lip service__  
-__muckamuck__  
-__on the fence__  
-__on the flip side__  
-__on the lookout__  
-__on the prowl__  
-__on the rocks__ __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._  
-__on the spot__  
-__on track__ Progressing or developing as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
-__one and done__  
-__one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
-__oomph__  
-__other than (something)__ :two::hammer: (other than that)  
-__ouch__ :dart:  
-__out of character__  
-__out of one’s hair__  
-__out of spite__  
-__out of the wood(s)__  
 __out of whack__  
 __outsmart (oneself)__  
 __over the long haul__  

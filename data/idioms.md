@@ -2364,7 +2364,7 @@ __lap dog__ :dart: __1__ Literally, a dog that is small enough and temperamental
 __lap of the gods__ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
 __larger than life__ :three::hammer:  
 __larger-than-life__  
-__lash out__ :three::hammer:  
+__lash out__ :five::hammer:  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last but certainly not least__  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something.  
@@ -2442,6 +2442,7 @@ __letdown__ :two: Something that is disappointing, usually because it did not me
 __letters after (one’s) name__ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level up__  
 __lie ahead of (someone or something)__  
+__lifer__  
 __lift a finger__ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
 __light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
@@ -2454,6 +2455,7 @@ __like a chicken with the pip__ In low spirits; in a weak or sickened state or m
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like crazy__  
 __like death warmed up__ :two: In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”) _You look like death warmed up, I think you should see a doctor!_  
+__like greased lightning__ Extremely fast.  
 __like no other__  
 __like pulling teeth__  
 __like rats abandoning a sinking ship__ With great haste and having only personal wellbeing in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
@@ -2467,6 +2469,7 @@ __line in the sand__ A figurative boundary that someone or some group refuses to
 __line of work__  
 __lingua franca__ Any language used to bridge the gap between people who do not speak the same language. _English is the lingua franca in many foreign tourist destinations._  
 __lion’s share__ :two: The greatest or best part.  
+__lip service__  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
 __live and kicking__ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
@@ -2714,6 +2717,7 @@ __mover and shaker__ :two: A person who wields power and influence; _“a shaker
 __movers and shakers__ :dart: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
 __much ado about nothing__  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
+__muckamuck__  
 __muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mull over__ :two::dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
@@ -2926,9 +2930,9 @@ __on the defensive__ :two: Prepared to withstand or counter aggression or attack
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
 __on the face of it__ _That seems totally bizarre on the face of it._  
 __on the fast track__ On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
-__on the fence__ Unable to make a decision.  
+__on the fence__ :two: Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
-__on the flip side__ :two::hammer:  
+__on the flip side__ :three::hammer:  
 __on the fly__  
 __on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
 __on the go__  
@@ -2938,15 +2942,17 @@ __on the hush-hush__ In a state of secrecy or minimal public knowledge; being kn
 __on the lam__ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the line__ _Everything was on the line._  
-__on the lookout__ :two::hammer:  
+__on the lookout__ :three::hammer:  
 __on the nose__  
+__on the prowl__  
 __on the right side of history__  
 __on the rise__  
 __on the road__ __2__ (on the road to) On the way to, following a course that will end in. _We could see Mary was on the road to recovery._  
-__on the rocks__ _Your marriage is on the rocks._  
+__on the rocks__ :two: __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._ _Your marriage is on the rocks._  
 __on the same page__ To agree on something.  
 __on the sidelines__ :two: If you are _on the sidelines_ in a situation, you watch it happening but are not directly involved and cannot influence it. _France no longer wants to be left on the sidelines when critical decisions are taken._  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
+__on the spot__  
 __on the spur of the moment__  
 __on the tip of your tongue__ About to be said or almost remembered.  
 __on the upswing__ :two: Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
@@ -2954,13 +2960,14 @@ __on the verge of__ :two::hammer:
 __on the whole__ :three: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
 __on thin ice__ :four: In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
-__on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
+__on track__ :dart::two: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_ _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __On your mark(s), get set, go!__  
 __on your toes__ Ready to deal with anything that might happen: _We were all on our toes, waiting for the game to begin._  
 __once a snipe, always a snipe__  
 __once and for all__ :five: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. FAs a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
 __once in a blue moom__ Very rarely.  
 __one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
+__one and done__  
 __one and only__  
 __one card shy of a (full) deck__ A pejorative phrase meaning not very intelligent or of questionable mental capacity. This expression can appear in many different forms and variations (e.g., “a few sandwiches short of a picnic,” “one brick short of a load,” etc.). _He says he’s going to start a business selling bees as pets—I think he may be one card shy of a full deck._ _The new manager is nice enough, but he’s one card shy of a deck, if you ask me._  
 __one for the (record) books__ :two::hammer: (one for the book)  
@@ -2969,6 +2976,7 @@ __one of a kind__
 __one side__ Move aside! Get out of the way! (Short for “move to one side.”) _One side, little man! I’m in a rush, and you’re getting in my way!_  
 __one too many__ _We drank one too many._  
 __one way or another__ :three::hammer: _If I fail then it will cost me my head one way or another._  
+__one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
@@ -2977,30 +2985,34 @@ __one-trick pony__ _n_ A person or thing considered as being limited to only one
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __one’s other half__ :two::hammer:  
 __oodles__ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
+__oomph__  
 __open (one’s) big mouth__ To say something that is meant to be a secret; to say something in an indiscreet, noisy, or boorish manner. _Why did you have to open your big mouth about my crush on Tommy? Why couldn’t you just keep it between us?_  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ :two: To create a situation that will cause a lot of problems.  
 __open letter__ A letter addressed to a specific, usually prominent person and published for anyone to read. It is often done as an act of protest. _If you’re so unhappy with our mayor, why don’t you write an open letter?_  
 __open mike__  
 __open sesame__  
-__other than (something)__ :four: Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._ _Other than that, blah blah blah._  
+__other than (something)__ :six: (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._ _Other than that, blah blah blah._  
 __otherwise known as__ Used to indicate a different name that people know or that a person uses. _France’s King Louis XIV, otherwise known as the Sun King._  
 __otherworldly__  
+__ouch__ :dart:  
 __out (of) the (starting) gate__ :two: At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._ _Once these auditors from the IRS are out of our hair, we can get back to business as usual._  
 __out of (one’s) shell__ Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state. _Samantha was quite a quiet girl growing up, but she really started coming out of her shell in college._ _Jack is actually a very funny, engaging guy once he’s out of his shell._  
-__out of character__  
+__out of character__ :two::hammer:  
 __out of date__  
 __out of harm’s way__  
 __out of house and home__ Evicted; no longer having a place to live. _If my wife loses her job like so many of her co-workers, we’ll be out of house and home for sure._  
 __out of kilter__ :two: _Out of kilter with the times._  
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of nowhere__  
+__out of one’s hair__  
 __out of pocket__ :three::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sight, out of mind__  
+__out of spite__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the blue__  
-__out of the wood(s)__ No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
+__out of the wood(s)__ :two: No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
 __out of thin air__ :two: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ Extremely good.  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
