@@ -10080,11 +10080,13 @@ __lockout__ _n_ A management action resisting employee’s demands; employees ar
 __locks > alcohol ignition locks__  
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
-__lockstep__ _n_ :two::hammer:  
+__lockstep<sup>1</sup>__ _n_ :three::hammer:  
+__lockstep<sup>2</sup>__ _adj_  
 __locomote__ _v_ To move from one place to another. _Syn_ go, travel _Unlike most other fish, seahorses maintain an upright position when they locomote._  
 __locomotive__ _n_  
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :five::hammer: (locusts)  
+__locution__ _n_  
 __lode__ _n_ :two::hammer:  
 __lodestar__ _n_ (loadstar) __1__ A star, such as Polaris, that is used as a point of navigational reference. __2__ A principle, interest, or person that serves as a guide. _The new arts district became a lodestar for the city’s bright future._  
 __lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
@@ -10116,6 +10118,7 @@ __loner__ _n_ Someone who likes being alone.
 __long haul__ _n_ _She’s in for the long haul._  
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
+__long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a long-drawn-out story._  
 __long-haul__ _adj_ _Researchers examined a small group of long-haul COVID-19 patients._  
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
@@ -10155,7 +10158,7 @@ __lop off__ _v_ _The bastard started lopping off the prisoners’ heads._
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
-__loquacious__ _adj_ :two::astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
+__loquacious__ _adj_ :three::astonished: /loh-KWAY-shus/ Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __loquat__ _n_  
 __lordship__ _n_ :es: señoría  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. _Crazy folk lore._ :es: saber popular  
@@ -10181,6 +10184,7 @@ __love bombing__ _n_ /luhv __bom__-ing/ The practice of showing a person excessi
 __love-in__  
 __lovebird__ _n_ __2__ (lovebirds) _informal_ A couple who are openly affectionate or demonstrative with each other, especially in public.  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
+__lovesick__ _adj_  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __Low Countries__ _n_ :three::hammer:  
 __Low Mass__ _n_ A Mass of simple ceremony that was recited rather than sung by the priest. No longer in official use. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
@@ -10196,7 +10200,7 @@ __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United Sta
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__ _n_ _slang_ :four: __1__ A contemptible person. A criminal or disreputable person. _That guy is a lowlife, always hitting on the waitresses and causing trouble._ __2__ The class of such people considered collectively. _As a private investigator, I’m well-acquainted with our city’s lowlife._  
-__lowlights__  
+__lowlight__ _n_ :two::hammer:  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ :two: Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
@@ -10204,12 +10208,13 @@ __lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed cl
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
+__luck__ _v intr_ To gain success or something desirable by chance: _lucked into a good apartment._  
 __lucky charm__  
 __lucky day__ _n_ A day when something good happens to someone. _This is your lucky day—there’s one ticket left._  
 __lucrative__ _adj_ :two: /ˈluːkrətɪv/ Producing a profit; profitable; remunerative: _a lucrative income; a lucrative marketing strategy._  
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
-__Luddite__ _n_ _slang_ :two: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
+__Luddite__ _n_ _slang_ :four: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ /LOO-di-kruhs/ So absurd as to provoke laughter. Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
@@ -10232,7 +10237,7 @@ __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chu
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
 __lunatic__ _adj_  
-__lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
+__lunch break__ _n_ :dart::two::hammer: (lunchbreak) _The plaza is a favorite spot for workers 0n their lunch break._  
 __lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
 __lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, cold meats, deli meats) Precooked or cured meats that are sliced and served cold or hot. They are typically served in sandwiches or on a tray. They can be purchased pre-sliced, usually in vacuum packs, or they can be sliced to order. :es: embutidos  
 __lunch room__ _n_  
@@ -10255,7 +10260,7 @@ __lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
 __lust__  
-__luster<sup>1</sup>__ _n_  
+__luster<sup>1</sup>__ _n_ :two::hammer:  
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
 __lustrous__ _adj_ :two::hammer:  
@@ -10268,13 +10273,14 @@ __luxurious__ _adj_ _Luxurious furs._
 __lycanthropy__ _n_ /lye-KAN-thruh-pee/ Lycanthropy refers to the power or ability to take the shape and characteristics of a wolf through witchcraft or magic. It can also mean “a delusion that one has become a wolf.” _The 1941 film _The Wolf Man_ starred Lon Chaney, Jr., as a man cursed with lycanthropy._  
 __lyceum__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12. _Syn_ secondary school, Gymnasium, lycee, middle school  
 __lye water__  
+__Lyme disease__ _n_ (Lyme arthritis)  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lymphoma__ _n_  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lyrical__ _adj_ /LEER-ih-kul/ Something described as lyrical has an artistically beautiful or expressive quality, often one that is reminiscent of song.  
 __lysimeter__  
-__mac and cheese__ _n_ :two: Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
+__mac and cheese__ _n_ :three: Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
 __macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
@@ -10282,8 +10288,9 @@ __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almond
 __macaw__ _n_ :es: guacamayo  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
+__macedoine__ _n_  
 __macerate__ _v_ To make soft, usually by steeping in liquid, and cause to disintegrate as a result. _Syn_ soften _The stale bread was left to macerate in a bowl of milk for a few hours._  
-__MacGyver__ _v tr_ _slang_ To make, form, or repair (something) with what is conveniently on hand.  
+__MacGyver__ _v tr_ _slang_ :two: /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand. To make, form, or repair (something) with what is conveniently on hand.  
 __Mach number__ _n_ :pencil2:  
 __Machiavellian__ _adj_ :pencil2:  
 __machinate__ _v_  
@@ -10296,6 +10303,7 @@ __mackinaw__
 __macrocosm__ _n_ The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
 __macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
 __macule__ _n_ :two: (macula) A discolored spot or area on the skin that is not elevated above the surface and is characteristic of certain conditions, such as smallpox, purpura, or roseola.  
+__Mad Libs__ _n_  
 __Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
 __madcap__  
 __Madchester__ _n_ Manchester, UK.  
@@ -10306,7 +10314,7 @@ __madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something 
 __madman__ _n_ :two: A man who is insane, esp one who behaves violently; lunatic.  
 __madness__ _n_ :two::mega::hammer: /ˈmæd nɪs/ _This is madness._  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
-__madrigal__ _n_  
+__madrigal__ _n_ :two::hammer:  
 __madrigalist__ _n_  
 __madrigals__ _n_ :pencil2:  
 __maelstrom__ _n_ :eight: __1__ 1. A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
@@ -10356,12 +10364,13 @@ __makeup__ _n_ :two: __2__ An event that is substituted for a previously cancell
 __maki__ _n_ :two::hammer: [:scroll: from Japanese, literally: roll]  
 __maladaptive__ _adj_ :four: Showing faulty adaptation. _The Tetris Effect need not be maladaptive._  
 __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
-__malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
-__malapropism__ _n_ :four::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
+__malaise__ _n_ :six: /muh-LAYZ/ Malaise refers to a slight or general feeling of not being healthy or happy. __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
+__malapropism__ _n_ :five::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malcontent<sup>1</sup>__ _n_ :two: /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied. _There is not mat space for malcontents or dissenters._  
 __malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
 __maledicent__ _adj_ /ˌmælɪˈdaɪsənt/ Slanderous or reproachful.  
+__malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
@@ -10375,7 +10384,7 @@ __malignancy__ _n_ (malignancies)
 __malinger__ _v intr_ /məˈlɪŋɡə/ To pretend or exaggerate illness, esp to avoid work.  
 __malingerer__ _n_  
 __mallards__ _n_ :two::hammer:  
-__malleable__ _adj_ :four: /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._ _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
+__malleable__ _adj_ :five: /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._ _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallet__ _n_  
 __mallow__ _n_ :pencil2:  
 __mallrats__  
@@ -10386,6 +10395,7 @@ __malted__ _n_ A milkshake made with malt powder.
 __mamaguy<sup>1</sup>__ _v tr_ [:scroll: From Spanish mamar gallo (to suckle a rooster). It has its origins in cock-fighting, apparently referring to a rooster who is gently sucking at his opponent instead of pecking him with force.] To deceive or tease, either in jest or by deceitful flattery.  
 __mamaguy<sup>2</sup>__ _n_ An instance of such deception or flattery.  
 __mamasan__  
+__mammal__ _n_ :mega:  
 __mammalian<sup>1</sup>__ _n_ /məˈmeɪ li ən, -ˈmeɪl yən/ An animal of the class Mammalia; mammal.  
 __mammalian<sup>2</sup>__ _adj_ Belonging or pertaining to the class Mammalia; characteristic of mammals.  
 __mammonism__ _n_ The greedy pursuit of riches.  
@@ -10396,6 +10406,7 @@ __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman su
 __man<sup>1</sup>__ _n_  
 __man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
+__manage__ _v_ :mega:  
 __manatee__ _n_ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __manavelins__ _n pl_ _slang_ Odds and ends of food. _Syn_ leftovers  
 __Mancunian__ _adj, n_  

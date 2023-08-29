@@ -216,29 +216,6 @@ __littoral__ _adj, n_
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
-__lockstep__ _v_ :two::hammer:  
-__locution__ _n_  
-__long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a long-drawn-out story._  
-__loquacious__ _adj_ /loh-KWAY-shus/  
-__lore__ _n_  
-__lovesick__ _adj_  
-__lowlight__  
-__luck__ _v intr_ To gain success or something desirable by chance: _lucked into a good apartment._  
-__Luddite__ _n_  
-__lunch break__ _n_ :dart: (lunchbreak)  
-__luster__  
-__Lyme disease__ _n_ (Lyme arthritis)  
-__mac and cheese__ _n_  
-__macedoine__ _n_  
-__MacGyver__ _v_ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.  
-__Mad Libs__ _n_  
-__madrigal__ _n_  
-__malaise__ _n_ /muh-LAYZ/ Malaise refers to a slight or general feeling of not being healthy or happy.  
-__malapropism__  
-__malediction__ _n_ The calling down of a curse. _Syn_ imprecation _They muttered maledictions and curses, but we ignored them._  
-__malleable__  
-__mammal__ _n_ :mega:  
-__manage__ _v_ :mega:  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
