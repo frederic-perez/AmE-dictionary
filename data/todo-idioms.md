@@ -14,9 +14,11 @@ __at (long) last__
 __at the end of the day__  
 __back and forth__  
 __back to basics__  
+__bad press__ :two::hammer:  
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
 __be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something). _The seaside town was hard hit by storms this year._ _After the recession, all of our investments were hard hit._  
 __be here to stay__ _Digital health is here to stay._  
+__be in the dark (about someone or something)__ _We are in the dark._  
 __be off the wall__  
 __be stoked__  
 __be woke__  
@@ -27,6 +29,7 @@ __big if__ Something that is both important and uncertain. _Syn_ a fundamental q
 __bomb__ __2__ _v_ To fail spectacularly or to a great degree. _I bombed on the exam._  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __break free__  
+__bucket list__ _Bucket list items._  
 __bulletproof__  
 __bullshitter__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
@@ -36,6 +39,8 @@ __call someone out__
 __call to action__  
 __cannon fodder__  
 __carve out__  
+__deep pockets__  
+__every so often__  
 __face the music__  
 __fall short__  
 __fly by__  
@@ -44,16 +49,22 @@ __for better or (for) worse__
 __for hours on end__  
 __for the long haul__  
 __foul play__  
+__fraught with anxiety__  
+__fraught with danger__  
 __freak out__  
 __from A to Z__  
+__full of (oneself)__  
 __game changer__  
 __get ahead of (oneself)__  
+__get lucky__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
-__give and take__  
+__give and take__ :two::hammer:  
 __go at it hammer and tongs__  
 __go berserk__  
 __go figure__  
 __go-to guy__  
+__gobble up__  
+__God bless you__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
 __gold rush__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
@@ -114,16 +125,24 @@ __high seas__ The open waters of an ocean or sea that are outside the jurisdicti
 __hit (someone or something) hard__  
 __hit home__  
 __hold (someone, something, or an animal) back (from someone or something)__  
+__hold on tight__  
 __hold on__  
 __hoo-ha__  
 __hophead__  
+__how come__  
 __in (high) hopes of (something)__  
+__in (one’s) own right__ _He is becoming a star in his own right._  
 __in denial__  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in the hot seat__  
 __in the zone__  
 __it (always) pays to (do something)__  
 __jock__  
+__lighten (one’s) wallet__  
+__mixed bag__  
+__nah__  
+__night and day__  
+__no big deal__ :dart:  
 __out of whack__  
 __outsmart (oneself)__  
 __over the long haul__  
@@ -150,9 +169,11 @@ __put someone or something down__
 __put to the test__  
 __put up a fight__  
 __put up with (someone or something)__  
+__quid pro quo__  
 __quite something__  
 __rabbit hole__  
 __rack up__  
+__rah-rah__  
 __ram into (someone or something)__  
 __red flag__  
 __reel off__  
@@ -165,6 +186,7 @@ __save (something) for a rainy day__
 __save face__  
 __saved by the bell__  
 __scatterbrain__  
+__secret weapon__  
 __seize the opportunity (to do something)__  
 __shame on (one)__  
 __shed (some) light on (something)__  
@@ -176,7 +198,8 @@ __side hustle__
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __slam (someone or something)__  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
-__sleight of hand__  
+__sleight of hand__ :two::hammer:  
+__slow food__  
 __smack (one’s) lips__ :two::hammer:  
 __smarty-pants__ :two::hammer:  
 __snafu__  
@@ -187,10 +210,13 @@ __so much so__ To such an extent or great degree (that).
 __spaced (out)__  
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
+__spit out__ _All models spit out photos of real people and copyrighted images._  
+__spruce up__ :dart:  
 __stand to reason__ :two::hammer:  
 __stand up__ _The trauma of being stood up at her wedding._  
 __stay put__ To not move or leave; to remain in same location or position.  
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
+__step in__  
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __sure thing__  
@@ -201,8 +227,9 @@ __take (someone or something) for granted__
 __take aside__  
 __take back__  
 __take names__  
-__tap into__  
+__tap into__ :two: _We can all tap into our innate brilliance._  
 __test the waters__  
+__the (hand)writing is on the wall__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
@@ -220,9 +247,11 @@ __to (one’s) name__ In one’s possession; owned by one. _Without a penny to h
 __to the fore__  
 __touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touché__  
+__trash talk__ _I won’t trash talk._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __trick__ _v_  
 __Trojan horse__  
+__trot out__  
 __turf war__  
 __turn of phrase__  
 __uncharted territory__  
