@@ -1,6 +1,7 @@
 __(good) heavens__  
 __(someone’s or something’s) days are numbered__  
 __(stuck) in a rut__  
+__a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a fine line__  
 __a hard pill to swallow__  
 __a hot-button issue__  
@@ -23,17 +24,20 @@ __before I knew it__
 __bells and whistles__  
 __bend over backward(s)__  
 __big if__ Something that is both important and uncertain. _Syn_ a fundamental question  
+__bomb__ __2__ _v_ To fail spectacularly or to a great degree. _I bombed on the exam._  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __break free__  
 __bulletproof__  
 __bullshitter__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
+__call (one) names__  
 __call (one) on (something)__  
 __call someone out__  
 __call to action__  
 __cannon fodder__  
 __carve out__  
 __face the music__  
+__fall short__  
 __fly by__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __for better or (for) worse__  
@@ -119,8 +123,12 @@ __in remission__ Of a disease, fully or partially ceasing to cause symptoms.
 __in the hot seat__  
 __in the zone__  
 __it (always) pays to (do something)__  
+__jock__  
+__lash out__ :two::hammer:  
 __lifer__  
 __like greased lightning__ Extremely fast.  
+__lip service__  
+__muckamuck__  
 __on the fence__  
 __on the flip side__  
 __on the lookout__  
@@ -130,6 +138,7 @@ __on the spot__
 __on track__ Progressing or developing as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __one and done__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
+__oomph__  
 __other than (something)__ :two::hammer: (other than that)  
 __ouch__ :dart:  
 __out of character__  
@@ -143,6 +152,7 @@ __palsy-walsy__
 __pan out__  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
+__pick on (someone or something)__  
 __pick up__  
 __pick-and-shovel work__  
 __play (the) devil’s advocate__  
@@ -151,13 +161,16 @@ __play dumb__ :two: To pretend that one has no or little knowledge (of something
 __play second fiddle__  
 __plow ahead__  
 __point taken__ :two::hammer:  
+__pooh-pooh__  
 __poon__  
 __pound out__ :dart:  
 __pull a U-ie__  
 __pump someone up (for something)__  
 __put (one’s) head down__  
+__put someone or something down__  
 __put to the test__  
 __put up a fight__  
+__put up with (someone or something)__  
 __quite something__  
 __rabbit hole__  
 __rack up__  
@@ -172,6 +185,7 @@ __run a bath__ To fill a bathtub with water before bathing. _After this crazy we
 __save (something) for a rainy day__  
 __save face__  
 __saved by the bell__  
+__scatterbrain__  
 __seize the opportunity (to do something)__  
 __shame on (one)__  
 __shed (some) light on (something)__  
@@ -196,6 +210,7 @@ __spill the beans__
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __stand to reason__ :two::hammer:  
 __stand up__ _The trauma of being stood up at her wedding._  
+__stay put__ To not move or leave; to remain in same location or position.  
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
@@ -216,6 +231,7 @@ __the likes of (someone or something)__
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
 __the usual suspects__ :two: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
+__thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __thumbs up__  
 __tick off__  
@@ -235,6 +251,7 @@ __under (one’s) belt__
 __under one’s belt__  
 __under the guise of (something)__  
 __unpack__  
+__usher in__  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __walk the line__  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
@@ -247,6 +264,8 @@ __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who
 __whoopsie-daisy__  
 __win over__  
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
+__wish (one) well__  
+__wishful thinking__ :es: espejismo, ilusión  
 __yea or nay__  
 __you name it__  
 __you saved the day__  
