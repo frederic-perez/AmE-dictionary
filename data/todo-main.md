@@ -1,5 +1,7 @@
 __achieve__ _v_ :mega:  
 __agency__ _n_ _We must use our agency._  
+__air__ _v_  
+__Alaska__ _n_ :mega: /əˈlæs kə/  
 __apnea__ _n_  
 __attorney__  
 __barrel__ _v intr_ _informal_ To move or progress rapidly.  
@@ -149,10 +151,12 @@ __filching__ _v_ _Filching felines._
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
+__flat__ _adv_  
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __flywheel__ _n_  
+__foible__ _n_  
 __foist__ _v_  
 __forfeit__ _v tr_  
 __formidable__ _adj_ :astonished:  
@@ -161,11 +165,13 @@ __forthright__ _adj, adv_
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __frazzle__ _v_  
 __fret__ _v_ :dart:  
+__gargantuan__ _adj_ _Gargantuan ego._  
 __Greenwich Village__ _n_  
 __groupthink__  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
+__heartfelt__ _adj_  
 __hearty__ _adj_  
 __heat pump__ _n_  
 __hector__ _v_ _TikTok keeps hectoring us._  
@@ -236,7 +242,7 @@ __manage__ _v_ :mega:
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
-__marshal__ _v_  
+__marshal__ _v_ :two::hammer:  
 __mashup__ _n_  
 __mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
 __matrix__ _n_ :mega:  
@@ -263,6 +269,7 @@ __microcosm__ _n_ /MY-kruh-kah-zum/
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
+__mire__ _v_ _He was mired in his fixed mindset._  
 __miserly__ _adj_ :two::astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
 __misfit__ _n_ :pencil2:  
 __misguide__ _v_  
@@ -343,12 +350,14 @@ __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole
 __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
 __pool table__  
 __pool__ _v_  
-__preen__ _v_ /PREEN/  
+__pout__ _v_  
+__preen__ _v_ :two::hammer: /PREEN/  
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
 __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __pricked__ _v_ _Pricked by a needle._  
 __prim__ _adj_ _Prim respect._  
+__prime__ _v_  
 __procurement__ _n_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
@@ -428,9 +437,10 @@ __rollout__ _n_
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __rummy__ _n_  
+__run-in__ _n_ __1__ A quarrel or argument.  
 __rung__ _n_  
 __runoff__ _n_  
-__ruse__ _n_  
+__ruse__ _n_ :two::mega::hammer: /ruz/  
 __safeguard__ _n_  
 __salacious__  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
@@ -499,6 +509,7 @@ __snicker__ _v intr_
 __sobering__ _adj_  
 __soft hat__ _n_ :camera:  
 __soft-pedal__ _v tr_  
+__sole__ _n_ Lean flesh of any of several flatfish.  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -511,6 +522,7 @@ __spate__ _n_
 __spaz__  
 __speak up__  
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
+__spite__ _n_  
 __spoon__ _v_  
 __squander__ _v tr_  
 __staggering__ _adj_  
@@ -525,6 +537,7 @@ __stenotic__ _adj_ _Stenotic burden._
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
+__stifle__ _v_ :two::hammer: /ˈstaɪfəl/  
 __stillborn__ _adj_  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stoop__ _n_  
@@ -548,6 +561,7 @@ __surrogate__ _n_
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __swell__ _adj_  
 __tacky__ _adj_ _Tacky birthday present._  
+__tagalong__ _n_  
 __tamarind__  
 __tamper__ _v_  
 __tandem__ _n_  
@@ -587,6 +601,7 @@ __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance,
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
+__trappings__ _n pl_  
 __travesty__ _n_ /TRAV-uh-stee/  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
@@ -626,3 +641,4 @@ __wholesome__
 __wield__ _v_  
 __withholding__  
 __workload__ _n_  
+__writ__ _n_  
