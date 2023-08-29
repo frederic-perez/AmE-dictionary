@@ -1,12 +1,21 @@
 __achieve__ _v_ :mega:  
+__achoo__  
 __agency__ _n_ _We must use our agency._  
 __air__ _v_  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
+__allay__ _v_  
+__aplomb__ _n_ :dart:  
 __apnea__ _n_  
+__aquanaut__  
 __attorney__  
+__barbed__ _adj_ _Barbed humor._  
 __barrel__ _v intr_ _informal_ To move or progress rapidly.  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
+__bilk__ _n_ _The land of bilk and money._  
+__boilerplate__  
+__bumbling__ _v_  
+__chortle__ _v_  
 __chowder__ _n_  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __circa__  
@@ -18,6 +27,7 @@ __coddle__ _v tr_
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __cohort study__ _n_ A type of research project in which participants sharing a common feature (the cohort) are studied over a long period of time.  
 __commensurate__ _adj_  
+__commiserate__ _v_  
 __commodify__ _v tr_  
 __commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
 __compendium__ _n_ A list or collection of various items. _Syn_ collection  
@@ -33,7 +43,7 @@ __contrived__
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conversant__  
 __convey__ _v tr_  
-__convoluted__ _adj_  
+__convoluted__ _adj_ :two::hammer:  
 __coo__ _v_  
 __corollary__ _n_ /KOR-uh-lair-ee/  
 __counselor__  
@@ -48,6 +58,7 @@ __cue__ _v tr_
 __culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
 __cupidity__ _n_ Excessive desire, especially for wealth; covetousness or avarice.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
+__dart__ _v_  
 __dauntless__ _adj_ /DAWNT-lus/  
 __dawdle__ _v_ :dart:  
 __debonair__ _adj_ /deb-uh-NAIR/  
@@ -63,6 +74,7 @@ __defect__ _v_
 __demeaning__  
 __demystify__ _v tr_  
 __desiccant__ _n_  
+__devious__ _adj_  
 __Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut  
 __digital__ _adj_ :mega: /ˈdɪdʒɪtəl/  
@@ -106,6 +118,7 @@ __entrain__ _v tr_
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __ephemera__ _n_ /i-FEM-uhr-uh/  
 __epicure__ _n_ A person devoted to refined sensuous enjoyment (especially good food and drink). _Syn_ gastronome, bon vivant, foodie, gourmet  
+__epidural__ _n_  
 __epiphany__  
 __eponymous__ _adj_ /ih-PAH-nuh-mus/  
 __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
@@ -121,6 +134,7 @@ __etiology__
 __etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __evince__ _v_ /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly.  
+__ework__ _n_ Refers to the practice of working from home or remotely using a computer connected to the network of one’s employer.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
@@ -140,6 +154,7 @@ __fastidious__
 __fatality__ _n_  
 __fav__ _n_  
 __favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favorable), the god of the west wind in Roman mythology. His Greek equivalent is Zephyr.] __1__ Relating to the west wind. __2__ Mild; gentle; benign.  
+__faze__ _v_  
 __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __felon__  
@@ -155,6 +170,7 @@ __flat__ _adv_
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
+__flounder__  
 __flywheel__ _n_  
 __foible__ _n_  
 __foist__ _v_  
@@ -170,6 +186,7 @@ __Greenwich Village__ _n_
 __groupthink__  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
+__hay fever__  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
 __heartfelt__ _adj_  
 __hearty__ _adj_  
@@ -193,6 +210,7 @@ __holistic__ _adj_
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
 __hoot__ _v_  
+__hush__ _n_  
 __integer__ _n_ :mega:  
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
 __interpolate__ _v_ /in-TER-puh-layt/  
@@ -210,12 +228,14 @@ __kerf__ _n_
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __knickers__ _n_ :camera:  
 __lackluster__ _adj_ /LAK-luss-ter/  
+__landmark__ _adj_ _A landmark study._  
 __lawyer__  
 __listless__ _adj_  
 __littoral__ _adj, n_  
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
+__lowly__ _adj_ _He was a lowly graduate student._  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
@@ -234,6 +254,7 @@ __megaphone__ _n_ :mega:
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __menage__ _n_ A domestic establishment. _Syn_ household  
+__mercury__ _n_ :mega:  
 __meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
 __meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
 __Mesoamerica__ _n_  
@@ -268,6 +289,7 @@ __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argum
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morale__ _n_  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__mullet__ _n_  
 __mumps__ _n_ (disease)  
 __nab__ _v_  
 __net__ _v_ (netted)  
@@ -283,7 +305,10 @@ __overview__ _n_ A general review or summary of something.
 __pad__ _v intr_ __1__ To go about on foot. __2__To move or walk about almost inaudibly. _The cat was padding through the grass._  
 __paganism__ _n_  
 __palliative care__ _n_  
+__palliative__ _adj_ :pencil2:  
+__pamper__ _v_  
 __panacea__ _n_  
+__Pandora__ _n_ :mega:  
 __parapraxis__ _n_  
 __parasympathetic__  
 __parcel__ _v tr_  
@@ -297,6 +322,7 @@ __peeps__ _n pl_ _slang_ Associates; friends. People.
 __peewee__ _n_  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __perficient__ _adj_ /puhr-FISH-uhnt/ Accomplishing or achieving desired results; effective.  
+__peripatetic__  
 __periwinkle__  
 __perpetrator__ _n_  
 __perquisite__ _n_ /PER-kwuh-zut/  
@@ -310,6 +336,7 @@ __picayune__ _adj, n_
 __picky__  
 __piggybacker__ _n_  
 __pilfer__ _v_  
+__pilfered__  
 __pinecone__ _n_  
 __pinwheel__ _n_  
 __pitfall__ _n_  
@@ -354,6 +381,7 @@ __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew 
 __purport<sup>1</sup>__ _v tr_ :astonished:  
 __purport<sup>2</sup>__ _n_  
 __purview__ _n_  
+__querulous__ _adj_  
 __quiddity__ _n_  
 __quiescent__ _adj_ /kwy-ESS-unt/  
 __quirk__ _n_  
@@ -408,6 +436,7 @@ __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.
 __ribbon candy__  
 __ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __rigmarole__ _n_  
+__ripe__  
 __risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
 __roadblock__ _n_  
 __rollout__ _n_  
@@ -454,6 +483,7 @@ __sesquicentennial__ _adj_
 __sesquipedalian__ _adj, n_  
 __settee__ _n_  
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
+__shady__  
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
@@ -473,6 +503,7 @@ __skullduggery__ _n_
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
 __slink__ _v_  
 __slog__ _n_  
+__slothful__ _adj_  
 __sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
 __sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
 __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.  
@@ -498,6 +529,7 @@ __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not excl
 __spate__ _n_  
 __spaz__  
 __speak up__  
+__spectate__ _v intr_  
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
 __spite__ _n_  
 __spoon__ _v_  
@@ -514,6 +546,7 @@ __stenotic__ _adj_ _Stenotic burden._
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
+__sternutation__  
 __stifle__ _v_ :two::hammer: /ˈstaɪfəl/  
 __stillborn__ _adj_  
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
@@ -539,6 +572,7 @@ __survivalist__ _n_ /səˈvaɪvəlɪst/
 __swell__ _adj_  
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
+__Takeshi__ _n_ :mega:  
 __tamarind__  
 __tamper__ _v_  
 __tandem__ _n_  
@@ -610,6 +644,7 @@ __verdict__
 __vicinity__ _n_  
 __vignette__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
+__warrant__ _v_  
 __wattle__ _n_  
 __waver__ _v_  
 __wellbeing__ _n_ :pencil2:  
@@ -619,3 +654,4 @@ __wield__ _v_
 __withholding__  
 __workload__ _n_  
 __writ__ _n_  
+__yo-yo__ _n_  
