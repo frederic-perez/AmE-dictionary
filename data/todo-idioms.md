@@ -1,3 +1,4 @@
+__(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(someone’s or something’s) days are numbered__  
 __(stuck) in a rut__  
@@ -16,8 +17,12 @@ __at the end of the day__
 __back and forth__  
 __back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back to basics__  
+__bad boy__  
+__bang for (one’)/the buck__ A lot of value for little cost.  
+__between a rock and a hard place__  
 __carve out__  
 __chances are__  
+__churn out__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
 __en route__  
@@ -47,6 +52,7 @@ __go berserk__
 __go figure__  
 __go out the window__ To be forgotten, disregarded, or lost.  
 __go-to guy__  
+__gobble down__  
 __gobble up__  
 __God bless you__  
 __God’s green earth__ The entire planet; anywhere and everywhere.  
@@ -128,8 +134,11 @@ __jock__
 __lavish (someone or something) with (something)__  
 __lighten (one’s) wallet__  
 __lip service__  
+__lowball__  
 __make a fuss__  
+__mess around__  
 __mixed bag__  
+__move the needle__  
 __nah__  
 __night and day__  
 __no big deal__ :dart:  
@@ -140,6 +149,7 @@ __palsy-walsy__
 __pan out__  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
+__pick (one’s) brain(s)__  
 __pick on (someone or something)__  
 __pick up__  
 __pick-and-shovel work__  
@@ -171,9 +181,11 @@ __reduce (one) to tears__
 __reel off__  
 __reinvent the wheel__  
 __riding high__  
+__ring a bell__  
 __rock the boat__  
 __roll out__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
+__run down__  
 __save (something) for a rainy day__  
 __save face__  
 __saved by the bell__  
@@ -206,7 +218,9 @@ __spaced (out)__
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
+__spot on__  
 __spruce up__ :dart:  
+__spunky__  
 __stand to reason__ :two::hammer:  
 __stand up__ _The trauma of being stood up at her wedding._  
 __stay put__ To not move or leave; to remain in same location or position.  
@@ -255,6 +269,7 @@ __under one’s belt__
 __under the guise of (something)__  
 __unpack__  
 __usher in__  
+__vac__  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __walk the line__  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
