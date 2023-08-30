@@ -368,7 +368,7 @@ __backslider__ One who reverts or relapses into bad habits, unethical or immoral
 __backwater__  
 __bad blood__ :two::hammer:  
 __bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
-__bad press__ Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
+__bad press__ :three: Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __badass__ :three::hammer:  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
@@ -377,6 +377,7 @@ __bag of tricks__ All the clever methods by which someone achieves something.
 __bag__ :three: __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _World’s Strongest Man bags new job._  
 __balancing act__  
 __bald-faced lie__ A blatantly obvious or impudent untruth, one in which the liar does not attempt to disguise their mendacity. _Our son tells us nothing but bald-faced lies when we ask him where he goes at night._  
+__balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
 __ball and chain__ A wife.  
 __ball hog__ _sports_ A player who monopolizes the ball without including teammates in an attempt to score, move the ball, or maintain possession. Usually used for basketball and football (soccer). _Boy, you’re being a real ball hog today! Why don’t you pass it to one of your teammates for a change?_  
 __ball is in your court__ It is up to you to make the next decision or step.  
@@ -436,11 +437,11 @@ __be full of shit__
 __be full of yourself__ To think that you are very important in a way that annoys other people.  
 __be given no quarter__ To be offered no mercy, concession, or indulgence. _This match determines if we’re heading to the finals of the tournament, so make sure they are given no quarter!_  
 __be glad to see the back of__ Be happy when a person leaves.  
-__be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
+__be hard hit (by something)__ :two: To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something). _The seaside town was hard hit by storms this year._ _After the recession, all of our investments were hard hit._  
 __be hard on (one)__  
 __be hard pressed__  
 __be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
-__be here to stay__ :two: (is here to stay) To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
+__be here to stay__ :three: (is here to stay) To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual. _Digital health is here to stay._  
 __be hoist by (one’s) own petard__  
 __be honor-bound to do (something)__ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
@@ -450,6 +451,7 @@ __be in for a surprise__ To be guaranteed to receive or experience an unexpected
 __be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in over (one’s) head__ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be in pursuit__ Following or chasing someone or something. _The burglar got away, but I called the police, and now they’re in pursuit._  
+__be in the dark (about someone or something)__ _We are in the dark._  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be kept in the dark (about something)__ :two: To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
 __be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
@@ -473,6 +475,7 @@ __be not in Kansas anymore__ To no longer be in a place that one knows or where 
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be not short of a penny (or two)__ To be exceptionally wealthy; to have no concerns regarding money. _A: “I just heard Sarah just lost her job!” B: “Well, her husband’s family isn’t short of a penny, so I think they’ll be just fine.”_  
 __be off the rails__  
+__be off the wall__  
 __be on (one’s) best behavior__ To be very polite or exercise exceptionally good manners. Primarily heard in US. _Now, you kids must be on your best behavior for your Auntie this weekend!_  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
@@ -500,7 +503,7 @@ __be sold on (something)__ To be confident in or convinced about something’s v
 __be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
-__be stoked__ _slang_ To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
+__be stoked__ _slang_ :two: To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
 __be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
 __be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
 __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
@@ -509,6 +512,7 @@ __be two/three etc years someone’s junior__ :three: To be younger than someone
 __be two/three etc years someone’s senior__ To be two/three etc years older than someone. _Her husband is fifteen years her senior._  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
+__be woke__  
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __bear hug__ :two::hammer:  
@@ -530,6 +534,7 @@ __become second nature (to one)__
 __beef up__ :three: To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
 __been there, done that__ :two::hammer:  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
+__before I knew it__  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__  
 __beg the question__ :six::hammer: _All of this begs the question of Gallego’s own voting record._  
@@ -544,9 +549,9 @@ __behind the times__ Old-fashioned.
 __belie__ _v_  
 __bell the cat__ To perform a daring act.  
 __bellies__ _n_ Pork bellies; pork belly futures. (Securities markets. Often with the.) _Buy the bellies and sell the beans._  
-__bells and whistles__  
+__bells and whistles__ :two::hammer:  
 __belly up__ :two: __3__ Drunk. _Do you remember last night at the bar at all? You were really belly up!_  
-__bend over backwards__ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
+__bend over backward(s)__ :two: To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
@@ -560,6 +565,7 @@ __big break__ :two: A fortuitous moment, opportunity, or turn of events of great
 __big cheese__ An influential person.  
 __big deal__  
 __big fish__  
+__big if__ Something that is both important and uncertain. _Syn_ a fundamental question  
 __big name__  
 __big spender__ :two: Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __big time__ :two::hammer:  
@@ -608,6 +614,7 @@ __boil (something) down to (something)__ To reduce or simplify (something) to th
 __boil down__  
 __boiling frog__  
 __bomb out__  
+__bomb__ __2__ _v_ To fail spectacularly or to a great degree. _I bombed on the exam._  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
 __bonehead__  
@@ -617,7 +624,7 @@ __booby prize__ :astonished: A mock prize given to the worst player or performer
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __boom__  
 __bop__ _v_  
-__bored to tears__ :two: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
+__bored to tears__ :three: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
 __born to the purple__ Born in the purple. _Both were born to the purple._  
 __borrowed time__ :two::hammer: _I’m living on borrowed time._ _We might be on borrowed time._  
@@ -645,7 +652,7 @@ __breach of etiquette__ A violation of established social norms or expectations,
 __break a leg__ _interj_ :four: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
 __break a sweat__  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
-__break free__ __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
+__break free__ :two: __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
 __break into__  
 __break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
@@ -681,7 +688,7 @@ __brood over__ :two: To worry anxiously or be despondent about something or some
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
 __buck the trend__  
-__bucket list__ :two::hammer: _That’s one of my bucket list items._  
+__bucket list__ :three::hammer: _That’s one of my bucket list items._  
 __buckle up__ :five::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
@@ -690,10 +697,13 @@ __build bridges__
 __build up__  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
 __bull in a china shop__ :two: A clumsy person.  
+__bulletproof__  
+__bullshitter__  
 __bully pulpit__  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __bump someone or something up__  
+__bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __burn the candle at both ends__ :two: To work very hard and stay up very late at night. (One end of the candle is work done in the daylight, and the other end is work done at night.) _No wonder Mary is ill. She has been burning the candle at both ends for a long time._ _You’ll wear out if you keep burning the candle at both ends._  
 __burn the midnight oil__ :three: To work late into the night.  
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
@@ -736,6 +746,8 @@ __by the same token__ :three: In the same way.
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ :three: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __call (all) the shots__ :two::hammer:  
+__call (one) names__  
+__call (one) on (something)__  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
 __call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
 __call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
@@ -747,10 +759,10 @@ __call on (someone or something)__ _He called on me._
 __call out__ :four::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
 __call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
-__call someone out__ :three: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
+__call someone out__ :four: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
 __call something out__  
 __call the shots__ :two::hammer:  
-__call to action__ :three::hammer:  
+__call to action__ :four::hammer:  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
@@ -765,7 +777,7 @@ __canary in a/the coal mine__ :three: Something or someone who, due to sensitivi
 __cancel out__  
 __candle in the wind__ :two: Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cannibalize__ _v_  
-__cannon fodder__ Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
+__cannon fodder__ :two: Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
 __cap__  
 __capitalize on (something)__ To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  

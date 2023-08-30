@@ -16,30 +16,6 @@ __at the end of the day__
 __back and forth__  
 __back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back to basics__  
-__bad press__ :two::hammer:  
-__balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
-__be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something). _The seaside town was hard hit by storms this year._ _After the recession, all of our investments were hard hit._  
-__be here to stay__ _Digital health is here to stay._  
-__be in the dark (about someone or something)__ _We are in the dark._  
-__be off the wall__  
-__be stoked__  
-__be woke__  
-__before I knew it__  
-__bells and whistles__  
-__bend over backward(s)__  
-__big if__ Something that is both important and uncertain. _Syn_ a fundamental question  
-__bomb__ __2__ _v_ To fail spectacularly or to a great degree. _I bombed on the exam._  
-__bored to tears__ Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
-__break free__  
-__bucket list__ _Bucket list items._  
-__bulletproof__  
-__bullshitter__  
-__bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
-__call (one) names__  
-__call (one) on (something)__  
-__call someone out__  
-__call to action__  
-__cannon fodder__  
 __carve out__  
 __chances are__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
