@@ -2,7 +2,7 @@ __aah__ Used to express pleasure, satisfaction, surprise, or great joy.
 __aha__ Used to express surprise, pleasure, or triumph.  
 __ahem__ :dart: Used to attract attention or to express doubt or warning.  
 __ahoy__ Used to hail a ship or to attract attention.  
-__alas__ :two::hammer:  
+__alas__ :three::mega::hammer: /əˈlæs, əˈlɑs/  
 __aw__ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
@@ -24,7 +24,7 @@ __ew__ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in
 __fiddlesticks__ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
 __fucking A__ _taboo_ _slang_ :two::hammer:  
 __gah__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
-__gee__ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
+__gee__ _informal_ :two: A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
 __giddy up__ :two: (giddyup) Said to make a horse start moving or go faster. Used to command a horse to go ahead or go at a faster pace. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __golly__ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __Good golly[, Miss Molly!]__ _informal_ An exclamation of surprise. Popularized by Little Richard’s 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
@@ -42,6 +42,7 @@ __holy guacamole__ An exclamation said when surprised, used when in shock or dis
 __holy moley__ An exclamation of surprise, shock, or astonishment.  
 __Holy Moses__ :two: Used as an exclamation of surprise or amazement.  
 __hosanna__ _n_  
+__huh__  
 __humph__ /hʌmf/ An exclamation of annoyance, dissatisfaction, scepticism, etc.  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeepers__  
@@ -50,6 +51,7 @@ __kaboom__
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __meh__ :two: Used to express indifference, apathy, or boredom.  
 __my ass__ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
+__nah__  
 __namaste__ Used especially among Hindus to express a polite or respectful greeting or farewell.  
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ :two::hammer: _You went oh for two._  

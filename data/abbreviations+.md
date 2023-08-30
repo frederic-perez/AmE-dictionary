@@ -56,6 +56,7 @@ __ELIA5__ Explain Like I Am 5.
 __EMT__ :two: Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
+__EOL__  
 __ESP__ Extrasensory perception. _ESP powers._  
 __ETA__ Estimated time of arrival. _I believe we have an ETA of six days._  
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
@@ -90,7 +91,7 @@ __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, 
 __intl__ :four: (int’l) International.  
 __IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __IP__ Intelectual property.  
-__IRL__ In real life.  
+__IRL__ :two: In real life.  
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ISV__ Independent software vendor.  
 __IUD__  
@@ -139,7 +140,7 @@ __obo__ :two: Or best offer.
 __OCD__ :two::hammer:  
 __OD__ _v_  
 __OEM__ :three::hammer: _OEMs._  
-__OG__ __1__ (Military) Officer of the guard. __2__ Original gangster.  
+__OG__ :two: __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __OICU812__ _gramo_ Oh, I See You Ate One, Too  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __OS__ Operating system.  
@@ -152,6 +153,7 @@ __PCP__ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_
 __PCR__ Polymerase chain reaction.  
 __PDA__ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
 __PE__ Physical education. _There were a lot of students in there ready for a PE class._  
+__PIP__ Performance improvement plan.  
 __PM__ :two: Particulate matter. Small particles in the air, containing a variety of components.  
 __PMI__ Private medical insurance.  
 __PMS__ :two: Premenstrual syndrome.  
@@ -166,6 +168,7 @@ __ppl__ _informal_ People.
 __pppn__ _abbr_ Per person per night.  
 __PR__ _The PR version of my life._  
 __PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
+__pt__ Patient.  
 __PTO__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
 __PVC__ Polyvinyl Chloride.  

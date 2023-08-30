@@ -8,13 +8,17 @@ __aplomb__ _n_ :dart:
 __apnea__ _n_  
 __aquanaut__  
 __attorney__  
+__attuned__  
+__backfire__ _v_  
 __barbed__ _adj_ _Barbed humor._  
 __barrel__ _v intr_ _informal_ To move or progress rapidly.  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
+__bemoan__ _v_ _Esquith bemoans the lowering of standards._  
 __bilk__ _n_ _The land of bilk and money._  
 __boilerplate__  
 __bumbling__ _v_  
+__caveat__ _n_ :two::hammer:  
 __chortle__ _v_  
 __chowder__ _n_  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
@@ -23,7 +27,8 @@ __clairvoyant__ _adj_ Having the supposed power to see objects or events that ca
 __clammy__ _adj_  
 __clique__  
 __clobber__ _v tr_  
-__coddle__ _v tr_  
+__coast__ _v intr_ :two: __2__ To act or move aimlessly or with little effort: _coasted for a few weeks before applying for a job._ _If the players were coasting during practice, he turned out the lights and left._  
+__coddle__ _v tr_ :two::hammer:  
 __cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
 __cohort study__ _n_ A type of research project in which participants sharing a common feature (the cohort) are studied over a long period of time.  
 __commensurate__ _adj_  
@@ -104,6 +109,7 @@ __downtrodden__ _adj_
 __dragon__ _n_ :mega:  
 __drudgery__ _n_ :dart:  
 __duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
+__ecstatic__  
 __edification__ _n_ Intellectual, moral, or spiritual improvement _Syn_ enlightenment  
 __empirical__ _adj_ /im-PEER-uh-kul/  
 __encomium__ _n_ /en-KOH-mee-um/  
@@ -221,10 +227,12 @@ __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feeli
 __jet ventilation__ _n_  
 __Jody__ _n_  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
+__judgment__ _n_ :pencil2:  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kerf__ _n_  
+__kiddie__ _n_ _A kiddie soccer game,_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __knickers__ _n_ :camera:  
 __lackluster__ _adj_ /LAK-luss-ter/  
@@ -236,6 +244,7 @@ __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shor
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
 __lowly__ _adj_ _He was a lowly graduate student._  
+__Machiavelli__  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
@@ -295,6 +304,7 @@ __nab__ _v_
 __net__ _v_ (netted)  
 __nit__ _n_  
 __notch__  
+__outgrow__ _v_  
 __outlay__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
@@ -318,6 +328,7 @@ __parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parry__ _v_  
+__pea-brain__ _n informal_ A foolish or unintelligent person.  
 __peeps__ _n pl_ _slang_ Associates; friends. People.  
 __peewee__ _n_  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
@@ -420,7 +431,7 @@ __relent__ _v intr_
 __remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
 __resonate__ _v_  
-__responsibility__ _n_  
+__responsibility__ _n_ :two::hammer:  
 __reticent__ _adj_ /RET-uh-sunt/  
 __retina__ _n_ :mega:  
 __revenge__ _n_  
@@ -445,6 +456,7 @@ __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.
 __rummy__ _n_  
 __run-in__ _n_ __1__ A quarrel or argument.  
 __rung__ _n_  
+__running account__ _n_ Current account.  
 __runoff__ _n_  
 __ruse__ _n_ :two::mega::hammer: /ruz/  
 __safeguard__ _n_  
@@ -501,6 +513,7 @@ __skin__ _v tr_ _He skinned his knee and started to cry._
 __skinflint__ _n_ A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skullduggery__ _n_  
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
+__slight__ _adj_ _A slight reason._  
 __slink__ _v_  
 __slog__ _n_  
 __slothful__ _adj_  
@@ -556,7 +569,9 @@ __stovepipe hat__ _n_
 __straitjacket__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
 __streamer__ _n_  
 __streamlined__ _adj_  
+__stretch__ _v_  
 __strewn__ _v_  
+__stringer__ _n_  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
 __suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
@@ -570,6 +585,7 @@ __surrey__ _n_
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __swell__ _adj_  
+__syllabicate__ _v_  
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
 __Takeshi__ _n_ :mega:  
@@ -584,7 +600,7 @@ __telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _S
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
-__temper__ _v_ (tempered)  
+__temper__ _v_ :two::hammer: (tempered)  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
 __temporal landmark__ _n_  
 __tenement__  
@@ -619,6 +635,7 @@ __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tussle__ _v intr_  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
+__undercurrent__ _n_ :astonished: :es: trasfondo  
 __unheeded__  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
@@ -643,6 +660,7 @@ __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ gro
 __verdict__  
 __vicinity__ _n_  
 __vignette__ _n_  
+__vise__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
 __warrant__ _v_  
 __wattle__ _n_  
@@ -651,7 +669,9 @@ __wellbeing__ _n_ :pencil2:
 __wheelhouse__  
 __wholesome__  
 __wield__ _v_  
+__willful__  
 __withholding__  
 __workload__ _n_  
 __writ__ _n_  
+__wrung__ _v_ _They have wrung their hands._  
 __yo-yo__ _n_  

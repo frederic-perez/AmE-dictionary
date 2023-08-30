@@ -4,6 +4,7 @@ __(stuck) in a rut__
 __a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a fine line__  
 __a hard pill to swallow__  
+__a hell of a someone or something__  
 __a hot-button issue__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
@@ -13,6 +14,7 @@ __any way you slice it__
 __at (long) last__  
 __at the end of the day__  
 __back and forth__  
+__back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back to basics__  
 __bad press__ :two::hammer:  
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
@@ -39,7 +41,10 @@ __call someone out__
 __call to action__  
 __cannon fodder__  
 __carve out__  
+__chances are__  
+__day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
+__en route__  
 __every so often__  
 __face the music__  
 __fall short__  
@@ -59,9 +64,12 @@ __get ahead of (oneself)__
 __get lucky__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __give and take__ :two::hammer:  
+__give up on (someone or something)__ _I am not going to give up on you. I am not going to let you give up on yourself._  
+__glass over__ _Glassed-over eyes._  
 __go at it hammer and tongs__  
 __go berserk__  
 __go figure__  
+__go out the window__ To be forgotten, disregarded, or lost.  
 __go-to guy__  
 __gobble up__  
 __God bless you__  
@@ -115,14 +123,17 @@ __hard knocks__ The real and practical experiences of life, especially those inv
 __hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
+__harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
 __have the last laugh__  
 __head over heels__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__heaven on earth__  
 __help (one) out__  
 __here we go__  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
+__hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit home__  
 __hold (someone, something, or an animal) back (from someone or something)__  
 __hold on tight__  
@@ -138,7 +149,10 @@ __in the hot seat__
 __in the zone__  
 __it (always) pays to (do something)__  
 __jock__  
+__lavish (someone or something) with (something)__  
 __lighten (one’s) wallet__  
+__lip service__  
+__make a fuss__  
 __mixed bag__  
 __nah__  
 __night and day__  
@@ -153,6 +167,7 @@ __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 mi
 __pick on (someone or something)__  
 __pick up__  
 __pick-and-shovel work__  
+__pipe up__  
 __play (the) devil’s advocate__  
 __play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play dumb__ :two: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
@@ -176,6 +191,7 @@ __rack up__
 __rah-rah__  
 __ram into (someone or something)__  
 __red flag__  
+__reduce (one) to tears__  
 __reel off__  
 __reinvent the wheel__  
 __riding high__  
@@ -196,6 +212,7 @@ __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has cre
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __side hustle__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
+__single out__  
 __slam (someone or something)__  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __sleight of hand__ :two::hammer:  
@@ -204,9 +221,11 @@ __smack (one’s) lips__ :two::hammer:
 __smarty-pants__ :two::hammer:  
 __snafu__  
 __sneak peek__  
+__sniff out__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __so much for someone or something__  
 __so much so__ To such an extent or great degree (that).  
+__so-and-so__  
 __spaced (out)__  
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
