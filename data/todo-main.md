@@ -18,30 +18,6 @@ __bemoan__ _v_ _Esquith bemoans the lowering of standards._
 __bilk__ _n_ _The land of bilk and money._  
 __boilerplate__  
 __bumbling__ _v_  
-__caveat__ _n_ :two::hammer:  
-__chortle__ _v_  
-__chowder__ _n_  
-__cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
-__circa__  
-__clairvoyant__ _adj_ Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
-__clammy__ _adj_  
-__clique__  
-__clobber__ _v tr_  
-__coast__ _v intr_ :two: __2__ To act or move aimlessly or with little effort: _coasted for a few weeks before applying for a job._ _If the players were coasting during practice, he turned out the lights and left._  
-__coddle__ _v tr_ :two::hammer:  
-__cogent__ _adj_ /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.”  
-__cohort study__ _n_ A type of research project in which participants sharing a common feature (the cohort) are studied over a long period of time.  
-__commensurate__ _adj_  
-__commiserate__ _v_  
-__commodify__ _v tr_  
-__commodious__ _adj_ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
-__compendium__ _n_ A list or collection of various items. _Syn_ collection  
-__complicitious__  
-__compound interest__  
-__compound__  
-__comprise__ _v_ /kum-PRYZE/  
-__comptroller__ _n_  
-__conforming__ _adj_  
 __construed__ _v_  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __contrived__  

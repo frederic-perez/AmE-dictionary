@@ -2822,7 +2822,7 @@ __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one s
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
-__caveat__ _n_ :two::hammer:  
+__caveat__ _n_ :four::hammer:  
 __cavity__ _n_ :es: caries  
 __cavort__ _v_ :six::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
@@ -3090,12 +3090,12 @@ __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting
 __chord__ _n, v_ :mute:[c~~h~~ord]  
 __choreography__ _n_ :mute:[c~~h~~oreography]  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
-__chortle<sup>2</sup>__ _v_ :six: (chortled, chortles) To utter a chortle or express with a chortle.  
+__chortle<sup>2</sup>__ _v_ :seven: (chortled, chortles) To utter a chortle or express with a chortle.  
 __chorus__ _n, v_ :mute:[c~~h~~orus] /ˈkɔr əs, ˈkoʊr-/  
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
-__chowder__ _n_ /ˈtʃaʊ dər/ A thick soup of clams, fish, or vegetables, usu. with potatoes, milk, and various seasonings.  
+__chowder__ _n_ :two: /ˈtʃaʊ dər/ A thick soup of clams, fish, or vegetables, usu. with potatoes, milk, and various seasonings.  
 __chrism__ _n_ A consecrated mixture of oil and balsam, used for anointing in church sacraments such as baptism and confirmation. _Syn_ holy oil, sacramental oil  
 __christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
 __Christendom__ _n_  
@@ -3142,6 +3142,7 @@ __cigarette stub__ _n_ Another name for a cigarette butt.
 __cigarillo__ _n_ :pencil2::camera::two::hammer:  
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
 __cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._  
+__cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __Cincy__ _n_ _informal_ Clipping of Cincinnati.  
 __cinder__ _n_ :two: A fragment of incombustible matter left after a wood or coal or charcoal fire. _Syn_ clinker  
 __cinder-block town__  
@@ -3154,7 +3155,7 @@ __cinnamon roll__
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __ciphertext__ _n_ A message which has been transformed by a cipher so that it can be read only by those privy to the secrets of the cipher.  
-__circa__  
+__circa__ _prep_ :two::hammer:  
 __circadian__ _adj_ :three::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
@@ -3185,14 +3186,14 @@ __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. 
 __claim__ _v_ _The White Sox claimed the 2005 title._  
 __claimant__ _n_ :two::hammer: :es: demandante  
 __clairvoyance__ _n_ :two: Apparent power to perceive things that are not present to the senses. _Syn_ ESP, extrasensory perception, second sight _The police officer doubted my clairvoyance until I was able to lead him to the missing woman’s remains._  
-__clairvoyant__  
+__clairvoyant__ _adj_ :two: Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
 __clam up__ _v_  
 __clam__ _n_ __1__ _slang_ A dollar. _Most smartwatches run around 300 clams._ __2__ :es: almeja  
 __clamant__ _adj_ :two: __1__ Clamorous; loud. __2__ Compelling or pressing; urgent.  
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
 __clamming__ _adj_ _His clamming forehead._  
-__clammy__ _adj_ :five::hammer: _His skin was clammy._  
+__clammy__ _adj_ :six::hammer: _His skin was clammy._  
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -3275,12 +3276,12 @@ __clip-clop__ _n_ _The sound made by a horse’s hooves._
 __clipped grass__  
 __clippers__ _n_ :two::hammer:  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
-__clique__ _n_ :seven: (cliques) A narrow exclusive circle or group of persons (friends or associates), esp. one held together by common interests, views, or purposes. :es: camarilla  
+__clique__ _n_ :eight: (cliques) A narrow exclusive circle or group of persons (friends or associates), esp. one held together by common interests, views, or purposes. :es: camarilla  
 __cloackroom__  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :three::hammer: :es: guardaropa  
-__clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
+__clobber__ _v tr_ :four::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __cloche__ _n_ A low transparent cover put over young plants to protect them from cold.  
 __clock in__ _v_  
 __clock out__ _v_  
@@ -3341,7 +3342,7 @@ __coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, e
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
 __coalesce__ _v_ :pencil2::nine: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__ To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
-__coast__ _v_ :two::hammer:  
+__coast__ _v intr_ :four: __2__ To act or move aimlessly or with little effort: _coasted for a few weeks before applying for a job._ _If the players were coasting during practice, he turned out the lights and left._  
 __coasteering__ _n_  
 __coaster brakes__  
 __coastline__  
@@ -3370,7 +3371,7 @@ __cocoon<sup>1</sup>__ _n_
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __cod__ _n_ :es: bacalao  
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
-__coddle__ _v_ :six: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__coddle__ _v tr_ :eight: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
@@ -3393,7 +3394,7 @@ __cog railroad__
 __cog railway__  
 __cog__ _n_ :eight: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
-__cogent__ _adj_ :five: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
+__cogent__ _adj_ :six: /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.” Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ :two: /KOJ-i/uh-tayt/ To think, reflect, meditate, etc. To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
 __cognizant__ _adj_ :three: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
@@ -3402,7 +3403,7 @@ __cognoscente__ _n_ :two: A person with superior, usually specialized knowledge 
 __cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
-__cohort study__ _n_ :three: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
+__cohort study__ _n_ :four: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __cohort__ _n_  
 __coif__ _n_ :es: cofia _Strange coif._  
 __coiffed__ _adj_  
@@ -3503,11 +3504,11 @@ __commencement__ _n_ _The high school commencement ceremony._
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :six: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__ _adj_ :five: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
+__commensurate__ _adj_ :six: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :seven::hammer: /kəˈmɪzəˌreɪt/  
+__commiserate__ _v_ :eight::hammer: /kəˈmɪzəˌreɪt/  
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __commissioned__ _adj_  
@@ -3516,7 +3517,8 @@ __commitment__ _n_ /kəˈmɪt mənt/
 __committal__ _n_ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
 __commode__  
-__commodious__ _adj_ :two::hammer: /kuh-MOH-dee-us/  
+__commodify__ _v tr_  
+__commodious__ _adj_ :three: /kuh-MOH-dee-us/ Spacious; roomy. _Syn_ roomy, large, ample, spacious, expansive, capacious  
 __commoditization__  
 __commodity hardware__  
 __commodity__ _n_ :two::hammer: _Communication on a commodity cluster._  
@@ -3542,6 +3544,7 @@ __compatriot__
 __compel__ _v_ :six::hammer:  
 __compelling__ _adj_ :seven: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
+__compendium__ _n_ A list or collection of various items. _Syn_ collection  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
 __complacent__ _adj_ :four: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
@@ -3550,6 +3553,7 @@ __complex__ _adj, n, v_ :mega:
 __compliance__ _n_ :four::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
+__complicitious__  
 __complimentary__ _adj_ :nine::pencil2: __1__ Expressing, using, or resembling a compliment: _a concert that received complimentary reviews._ __2__ :dart: Given as a courtesy at no charge: _complimentary copies of the new book._ _Complimentary rooms._ _Complimentary popcorn._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
 __complot__ _n_ :mega:  
 __comply__ _v_ :two::hammer:  
@@ -3557,14 +3561,15 @@ __composite__ _adj_ :two::mega::hammer: _Composite decking._
 __compost__ _v_  
 __composting__ _n_ The activity or practice of converting garden and kitchen waste to compost. _There’s a brown bin for organic waste, which goes for composting._  
 __composure__  
-__compound<sup>1</sup>__ _n_ :three: __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
+__compound interest__  
+__compound<sup>1</sup>__ _n_ :four: __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
 __compound<sup>2</sup>__ _v_ :four::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
-__comprise__ _v_ :two::hammer:  
+__comprise__ _v_ :two::hammer: /kum-PRYZE/  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
-__comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
+__comptroller__ _n_ :four: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _adj_ :nine::m: /kəmˈpʌlsərɪ/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compunction__ _n_ :two::hammer:  
@@ -3640,6 +3645,7 @@ __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ infern
 __conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conform__ _v_  
+__conforming__ _adj_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
 __confounding__ _adj_ :two::hammer: _Confounding factors._  
