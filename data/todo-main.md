@@ -1,5 +1,6 @@
 __achieve__ _v_ :mega:  
 __achoo__  
+__afoot__  
 __agency__ _n_ _We must use our agency._  
 __air__ _v_  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
@@ -9,15 +10,31 @@ __apnea__ _n_
 __aquanaut__  
 __attorney__  
 __attuned__  
+__avuncular__ _adj_  
 __backfire__ _v_  
+__balk__ _v_  
+__Bar Mitzvah__  
 __barbed__ _adj_ _Barbed humor._  
 __barrel__ _v intr_ _informal_ To move or progress rapidly.  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
 __bemoan__ _v_ _Esquith bemoans the lowering of standards._  
+__besotted__  
+__bicker__ _v_  
 __bilk__ _n_ _The land of bilk and money._  
+__bland__ _adj_  
+__bleary-eyed__ _adj_  
+__blightscape__ _n_ (i?)  
 __boilerplate__  
+__boulevardier__ _n_  
+__boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
+__braying__ _v_  
 __bumbling__ _v_  
+__Candy Land__ _n_ (game?)  
+__cave__ _v_ (i?)  
+__Chutes and Ladders__ _n_  
+__cog__ _n_ _A bland cog in the wheel._  
+__commiserate__  
 __construed__ _v_  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __contrived__  
@@ -32,7 +49,7 @@ __courtship__ _n_ _Syn_ courting, wooing, suit
 __cravat__ _n_  
 __crisp__  
 __crook__  
-__crucible__ _n_  
+__crucible__ _n_ :two::hammer:  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __cue__ _v tr_  
@@ -51,8 +68,11 @@ __deep__ _adj_ _Ralph has a deep Batman collection._
 __deep-routed__  
 __deep-seated__ _adj_ _Deep-seated flaws._  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
+__defang__ _v_  
 __defect__ _v_  
-__demeaning__  
+__deign__  
+__demeaning__ _adj_ :two::hammer: _This job is demeaning._  
+__demur__ _v_  
 __demystify__ _v tr_  
 __desiccant__ _n_  
 __devious__ _adj_  
@@ -87,6 +107,8 @@ __drudgery__ _n_ :dart:
 __duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
 __ecstatic__  
 __edification__ _n_ Intellectual, moral, or spiritual improvement _Syn_ enlightenment  
+__embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
+__emote__ _adj_  
 __empirical__ _adj_ /im-PEER-uh-kul/  
 __encomium__ _n_ /en-KOH-mee-um/  
 __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
@@ -119,7 +141,9 @@ __evince__ _v_ /ih-VINSS/ Evince is a formal word that means “to display clear
 __ework__ _n_ Refers to the practice of working from home or remotely using a computer connected to the network of one’s employer.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
+__exacting__ _adj_ :dart: _An exacting editor._  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
+__exercise bike__ _n_ :dart: _Syn_ exercise cycle, exercycle  
 __exodus__ _n_ /EK-suh-duhs/ A large scale departure or emigration.  
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
@@ -143,11 +167,13 @@ __felon__
 __fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __fiasco__  
 __fictive__ _adj_  
+__fiefdoms__ _n_  
 __filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
 __firefly__ _n_ :es: luciérnaga  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
+__flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
 __flat__ _adv_  
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
@@ -166,9 +192,12 @@ __fret__ _v_ :dart:
 __gargantuan__ _adj_ _Gargantuan ego._  
 __Greenwich Village__ _n_  
 __groupthink__  
+__gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
+__haphazard__ _adj_  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hay fever__  
+__heady__ _adj_  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
 __heartfelt__ _adj_  
 __hearty__ _adj_  
@@ -185,6 +214,7 @@ __hex<sup>2</sup>__ _v tr_ __1__ To put a hex on. __2__ To bring or wish bad luc
 __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
 __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
 __highlight__ _n_ :es: punto culminante  
+__hirsute__ _adj_  
 __histrionic__  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __hobnobbing__ _v_  
@@ -199,6 +229,7 @@ __interpolate__ _v_ /in-TER-puh-layt/
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __intonation__ _n_  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
+__iron maiden__ _n_ Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
 __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
 __jet ventilation__ _n_  
 __Jody__ _n_  
@@ -208,6 +239,7 @@ __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and 
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kerf__ _n_  
+__kibble__ _n_  
 __kiddie__ _n_ _A kiddie soccer game,_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __knickers__ _n_ :camera:  
@@ -220,6 +252,7 @@ __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shor
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
 __lowly__ _adj_ _He was a lowly graduate student._  
+__mac and cheese__  
 __Machiavelli__  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
@@ -229,9 +262,11 @@ __mashup__ _n_
 __mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
 __matrix__ _n_ :mega:  
 __matter-of-fact__ _adj_  
+__matter-of-factly__ _adv_ :two::hammer:  
 __maudlin__ _adj_ /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
+__mawkish__ _adj_  
 __maypole__ _n_ :camera:  
 __meddlesome__ _adj_  
 __meet-cute__ _n_ /MEET-kyoot/  
@@ -278,8 +313,10 @@ __mullet__ _n_
 __mumps__ _n_ (disease)  
 __nab__ _v_  
 __net__ _v_ (netted)  
+__ninja stars__  
 __nit__ _n_  
 __notch__  
+__nunchucks__  
 __outgrow__ _v_  
 __outlay__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
@@ -320,12 +357,15 @@ __philanderer__ _n_
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
 __phlox__ _n_ :three::hammer:  
 __picayune__ _adj, n_  
+__pickax__ _n_ (pickaxe)  
 __picky__  
 __piggybacker__ _n_  
 __pilfer__ _v_  
 __pilfered__  
 __pinecone__ _n_  
+__pinscher__ _n_ Any of three breeds of dogs whose ears and tail are usually cropped.  
 __pinwheel__ _n_  
+__pique__ _n_  
 __pitfall__ _n_  
 __plaintive__ _adj_ /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
 __planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
@@ -360,6 +400,7 @@ __prudery__ _n_
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
+__puffery__ _n_ :dart:  
 __Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
 __pulpit__ _n_  
 __punctilious__ _adj_ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous  
@@ -378,6 +419,7 @@ __rambler__ _n_
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
 __rasp__ _n_  
+__rationalize__ _v_ :dart:  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravenous__ _adj_ :two::hammer:  
 __raver__ _n_  
@@ -406,6 +448,7 @@ __reenactment__ _n_
 __relent__ _v intr_  
 __remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
+__repudiation__ _n_  
 __resonate__ _v_  
 __responsibility__ _n_ :two::hammer:  
 __reticent__ _adj_ /RET-uh-sunt/  
@@ -476,6 +519,7 @@ __sham__ _n_
 __shanghai__ _v_  
 __shash window__ _n_  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
+__shirk__ _v_ :dart: _He shirked the tasks._  
 __short__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __shortlist__ _n, v_  
 __shuck<sup>1</sup>__ _n_  
@@ -520,12 +564,16 @@ __spaz__
 __speak up__  
 __spectate__ _v intr_  
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
+__spiel__ _n_  
 __spite__ _n_  
 __spoon__ _v_  
 __squander__ _v tr_  
+__squat__ _adj_  
+__squawk__ _v_  
 __staggering__ _adj_  
 __stamina__  
 __stance__ _n_  
+__stately__ _adj_  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
@@ -560,6 +608,8 @@ __surreptitiously__
 __surrey__ _n_  
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
+__swami__ _n_  
+__swashbuckle__ _v_  
 __swell__ _adj_  
 __syllabicate__ _v_  
 __tacky__ _adj_ _Tacky birthday present._  
@@ -590,6 +640,7 @@ __terraform__ _v_
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  
 __testament__ _n_  
+__thrust__ _v_  
 __thwart__ _v_ :three::hammer: /THWORT/  
 __tickling__ _adj_ _Tickling laughter._  
 __tidbits__  
@@ -608,8 +659,10 @@ __trappings__ _n pl_
 __travesty__ _n_ /TRAV-uh-stee/  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
+__triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tussle__ _v intr_  
+__twat__  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __undercurrent__ _n_ :astonished: :es: trasfondo  
 __unheeded__  
@@ -648,6 +701,7 @@ __wield__ _v_
 __willful__  
 __withholding__  
 __workload__ _n_  
+__wrench__ _v_ _Pulling the plug was wrenching._  
 __writ__ _n_  
 __wrung__ _v_ _They have wrung their hands._  
 __yo-yo__ _n_  
