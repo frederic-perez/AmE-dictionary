@@ -13,18 +13,23 @@ __across the pond__
 __all over the place__  
 __any way you slice it__  
 __at (long) last__  
+__at first blush__ Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
 __at the end of the day__  
 __back and forth__  
 __back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back to basics__  
 __bad boy__  
 __bang for (one’)/the buck__ A lot of value for little cost.  
+__be at (one’s) wit’s end__  
 __between a rock and a hard place__  
+__bona fide__  
 __carve out__  
+__case closed__  
 __chances are__  
 __churn out__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
+__dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __en route__  
 __every so often__  
 __face the music__  
@@ -43,13 +48,16 @@ __full of (oneself)__
 __game changer__  
 __get ahead of (oneself)__  
 __get lucky__  
+__get the hang of (something)__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __give and take__ :two::hammer:  
 __give up on (someone or something)__ _I am not going to give up on you. I am not going to let you give up on yourself._  
 __glass over__ _Glassed-over eyes._  
 __go at it hammer and tongs__  
 __go berserk__  
+__go cold turkey__  
 __go figure__  
+__go out of the window__ _Once at ABC, though, any attempts at balance went directly out the window._  
 __go out the window__ To be forgotten, disregarded, or lost.  
 __go-to guy__  
 __gobble down__  
@@ -135,13 +143,17 @@ __lavish (someone or something) with (something)__
 __lighten (one’s) wallet__  
 __lip service__  
 __lowball__  
+__lump in (one’s) throat__  
 __make a fuss__  
 __mess around__  
 __mixed bag__  
 __move the needle__  
+__mug__ _Getting your mug on TV._  
 __nah__  
+__nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __night and day__  
 __no big deal__ :dart:  
+__on the make__  
 __out of whack__  
 __outsmart (oneself)__  
 __over the long haul__  
@@ -151,7 +163,8 @@ __pave the way (for someone or something)__
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__  
-__pick up__  
+__pick up after (someone or oneself)__  
+__pick up__ :two::hammer: _Mindset change is not about picking up a few tricks._  
 __pick-and-shovel work__  
 __pipe up__  
 __play (the) devil’s advocate__  
@@ -185,7 +198,9 @@ __ring a bell__
 __rock the boat__  
 __roll out__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
+__run amok__  
 __run down__  
+__run-of-the-mill__  
 __save (something) for a rainy day__  
 __save face__  
 __saved by the bell__  
@@ -214,6 +229,7 @@ __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty wai
 __so much for someone or something__  
 __so much so__ To such an extent or great degree (that).  
 __so-and-so__  
+__soldier on__ To continue doing something with determination or resolve, despite difficulties or an unlikely chance of succeeding.  
 __spaced (out)__  
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
@@ -236,6 +252,7 @@ __take (someone or something) for granted__
 __take aside__  
 __take back__  
 __take names__  
+__talk the talk__  
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __test the waters__  
 __the (hand)writing is on the wall__  
@@ -245,6 +262,7 @@ __the happy day__ A wedding, or marriage in general. _So now that all your sibli
 __the likes of (someone or something)__  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
+__the powers that be__  
 __the usual suspects__ :two: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
@@ -268,15 +286,19 @@ __under (one’s) belt__
 __under one’s belt__  
 __under the guise of (something)__  
 __unpack__  
+__up for grabs__  
 __usher in__  
 __vac__  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
+__vie for (something)__ :two::hammer:  
 __walk the line__  
+__walk the walk__ :dart:  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __watered-down__  
 __whack__  
 __what’s in store__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
+__wherever you go, there you are__  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
 __whoopsie-daisy__  
