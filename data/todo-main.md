@@ -19,9 +19,11 @@ __barrel__ _v intr_ _informal_ To move or progress rapidly.
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
 __bemoan__ _v_ _Esquith bemoans the lowering of standards._  
+__bereavement__ _n_  
 __besotted__  
 __bicker__ _v_  
 __bilk__ _n_ _The land of bilk and money._  
+__bird strike__ _n_ A a collision of an aircraft with a bird.  
 __bland__ _adj_  
 __bleary-eyed__ _adj_  
 __blightscape__ _n_ (i?)  
@@ -31,6 +33,7 @@ __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What
 __braying__ _v_  
 __bumbling__ _v_  
 __Candy Land__ _n_ (game?)  
+__catnip__ _n_ :es: hierba gatera  
 __cave__ _v_ (i?)  
 __Chutes and Ladders__ _n_  
 __cog__ _n_ _A bland cog in the wheel._  
@@ -52,7 +55,7 @@ __crook__
 __crucible__ _n_ :two::hammer:  
 __crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
 __crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
-__cue__ _v tr_  
+__cue__ _v tr_ :two::hammer:  
 __culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
 __cupidity__ _n_ Excessive desire, especially for wealth; covetousness or avarice.  
 __damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
@@ -193,13 +196,14 @@ __gargantuan__ _adj_ _Gargantuan ego._
 __Greenwich Village__ _n_  
 __groupthink__  
 __gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
+__handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hay fever__  
 __heady__ _adj_  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
-__heartfelt__ _adj_  
+__heartfelt__ _adj_ :two: Deeply or sincerely felt; earnest.  
 __hearty__ _adj_  
 __heat pump__ _n_  
 __hector__ _v_ _TikTok keeps hectoring us._  
@@ -317,9 +321,13 @@ __ninja stars__
 __nit__ _n_  
 __notch__  
 __nunchucks__  
+__once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
+__outage__ _n_  
 __outgrow__ _v_  
 __outlay__  
+__outstrip__ _v tr_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
+__overhaul__ _n_  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __overly__ _adv_ :two::hammer:  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
@@ -493,6 +501,7 @@ __sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval o
 __sandbox__ _n_  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
+__sap__ _v tr_  
 __sashay__ _v intr_  
 __satire__  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
@@ -543,6 +552,7 @@ __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
+__smokejumper__ _n_ A firefighter who parachutes to forest fires inaccessible to ground crews.  
 __smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __smugness__  
 __snappy__ _adj_ _Snappy answers._  
@@ -552,6 +562,7 @@ __soft hat__ _n_ :camera:
 __soft-pedal__ _v tr_  
 __sole__ _n_ Lean flesh of any of several flatfish.  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
+__soon enough__ _adv_ _Syn_ in time  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
@@ -570,6 +581,7 @@ __spoon__ _v_
 __squander__ _v tr_  
 __squat__ _adj_  
 __squawk__ _v_  
+__squinch__ _v tr_ To squeeze, twist, or draw together: _squinched her eyes shut._  
 __staggering__ _adj_  
 __stamina__  
 __stance__ _n_  
@@ -621,6 +633,7 @@ __tandem__ _n_
 __tangible__ _adj_  
 __tantalizing__  
 __tarnish__  
+__team effort__ _n_ Something done by a group of people.  
 __teeny__ _adj_ Tiny.  
 __telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
 __telethon__ _n_  
@@ -642,6 +655,7 @@ __terrific__ _adj_ _The traffic is terrific._
 __testament__ _n_  
 __thrust__ _v_  
 __thwart__ _v_ :three::hammer: /THWORT/  
+__tickle__ _v_  
 __tickling__ _adj_ _Tickling laughter._  
 __tidbits__  
 __time-saver__ _n_  
@@ -655,11 +669,13 @@ __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance,
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
+__train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __trappings__ _n pl_  
 __travesty__ _n_ /TRAV-uh-stee/  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
+__trite__ _adj_  
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tussle__ _v intr_  
 __twat__  
@@ -700,8 +716,10 @@ __wholesome__
 __wield__ _v_  
 __willful__  
 __withholding__  
+__woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
 __workload__ _n_  
 __wrench__ _v_ _Pulling the plug was wrenching._  
+__wriggle__ _v_  
 __writ__ _n_  
 __wrung__ _v_ _They have wrung their hands._  
 __yo-yo__ _n_  
