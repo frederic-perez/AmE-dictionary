@@ -3778,10 +3778,10 @@ __conveyor belt__ _n_ A continuous, moving belt that transports materials or pac
 __conviction__ _n_  
 __convivial__ _adj_ :six: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._ _Convivial atmosphere._  
 __convoke__ _v_ To call together to a meeting.  
-__convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
+__convoluted__ _adj_ :dart::three: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
 __conwise__  
-__coo__ _v_ :seven: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._ _Cooing for the beautiful damsel is encouraged._  
+__coo__ _v_ :eight: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._ _Cooing for the beautiful damsel is encouraged._  
 __cooing__ _n_  
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
@@ -3856,6 +3856,7 @@ __cornerstone__ _n_ :three::pencil2::hammer:
 __cornstarch__  
 __cornucopia__ _n_ :two::hammer: /kor-nuh-KOH-pee-uh/ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :six::hammer:  
+__corollary__ _n_ /KOR-uh-lair-ee/  
 __coromandel__  
 __coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
 __coronary<sup>1</sup>__ _adj_ :mega: /ˈkɒrənəri $ ˈkɔːrəneri, ˈkɑː-/  
@@ -3908,7 +3909,7 @@ __coulee__
 __coulrophobia__ _n_ Fear of clowns.  
 __councilor__ _n_ :two::hammer: (councillor)  
 __counsel__ _n_ :two::hammer:  
-__counselor__ _n_  
+__counselor__ _n_ :two::hammer:  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count__ _n_ :five: __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._ _He entered guilty pleas to two manslaughter counts._  
 __countenance<sup>1</sup>__ _n_ :eight: /KOWN-tun-unss/ Countenance is a formal word that is most often used to refer to a person’s facial expression, or to the face generally, especially as an indication of mood, emotion, or character. _Her cheerful countenance quickly put the lost visitors at ease._ _His countenance was pale and sunken._  
@@ -3933,6 +3934,7 @@ __course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gra
 __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
 __courteous__ _adj_ _Remember it is courtesous to tip your driver for their service._  
+__courtship__ _n_ _Syn_ courting, wooing, suit  
 __courtyard__ _n_ :three::hammer: :es: patio  
 __covenant__ _n_ :seven: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
@@ -4010,6 +4012,7 @@ __crass__ _adj_ :five: So crude and unrefined as to be lacking in discrimination
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
 __cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
+__cravat__ _n_  
 __crave__ _v_  
 __craven<sup>1</sup>__ _adj_ :two::hammer: _A craven political figure._  
 __craven<sup>2</sup>__ _n_  
@@ -4063,7 +4066,7 @@ __cringingly__
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__ _adv_  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp<sup>1</sup>__ _adj_ :six::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
+__crisp<sup>1</sup>__ _adj_ :seven::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
 __crisp<sup>2</sup>__ _v_  
 __crisp<sup>3</sup>__ _n_  
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
@@ -4090,7 +4093,7 @@ __cronies__ _n_ :four::hammer: _Military cronies._
 __Cronuts__ _n_ _trademark_  
 __crony__ _n_ :four: A close friend or companion.  
 __cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
-__crook__ _n_ :five::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
+__crook__ _n_ :six::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
 __crop__ _n_ _He had a riding crop in one hand._  
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
@@ -4125,7 +4128,7 @@ __crowdsourcing__ _n_
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucial__  
-__crucible__ _n_ :eight: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
+__crucible__ _n_ :nine::m: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
 __crucifix__ _n_ :two::hammer:  
 __crucifixion__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
@@ -4149,7 +4152,8 @@ __crumple<sup>2</sup>__ _n_
 __crunch<sup>1</sup>__ _n_ :two::hammer: (crunches)  
 __crunch<sup>2</sup>__ _v_ _Shi Shi and Bai Yun play, nap, explore and crunch bamboo._  
 __crunchtime__  
-__crusade__ _n_  
+__crusade<sup>1</sup>__ _n_ :two: /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
+__crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
 __crusader__  
 __crush<sup>1</sup>__ _v_ _I was crushed._  
 __crush<sup>2</sup>__ _n_ :two: __4__ _informal_ __a__ A usually temporary infatuation: _had a crush on her friend’s cousin._ __b__ One who is the object of such an infatuation.  
@@ -4180,7 +4184,7 @@ __cudgel__ _n_ :six: /ˈkʌdʒəl/ (cudgels) A short heavy stick. _Syn_ bastinad
 __cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
 __cue<sup>1</sup>__ _n_ :two::hammer: _The cue signals your new behaviors._ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
-__cue<sup>2</sup>__ _v_ :four::hammer: _How do I cue this behavior?_  
+__cue<sup>2</sup>__ _v tr_ :six::hammer: _How do I cue this behavior?_  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -4193,6 +4197,7 @@ __cul-de-sac__ _n_ :two::hammer:
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull<sup>1</sup>__ _v_ :five::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __cull<sup>2</sup>__ _n_ _Meeting culls are also popular._  
+__culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
 __culminate__ _v_ /ˈkʌlmɪˌneɪt/ /ˈkʌl məˌneɪt/ /KUL-muh-nayt/  
 __culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
 __culpable__ _adj_ :astonished:  
@@ -4207,7 +4212,7 @@ __cumulonimbus__ _n_ _Syn_ thunderstorm
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
-__cupidity__ _n_ :three::astonished::hammer:  
+__cupidity__ _n_ :four::astonished: Excessive desire, especially for wealth; covetousness or avarice.  
 __cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
 __cupping__ _n_ :pencil2:  
@@ -4315,7 +4320,7 @@ __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]
 __damnation__ _n_ :two::hammer:  
 __damnification__ _n_  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
-__damning__ _adj_ :four::astonished: Causing incrimination: _damning evidence._ _A damning independent inquiry._ _A damning veredict._  
+__damning__ _adj_ :five::astonished: (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake. Causing incrimination: _damning evidence._ _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
 __damper__ _n_  
@@ -4344,7 +4349,7 @@ __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._
 __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
-__dart__ _v_ :three::hammer: (darting)  
+__dart__ _v_ :four::hammer: (darting)  
 __Daruma doll__ _n_ :dart::camera: A hollow, round, Japanese traditional doll modeled after Bodhidharma, the founder of the Zen tradition of Buddhism.  
 __DASH diet__ _n_ :dart: The DASH diet (Dietary Approaches to Stop Hypertension) is a dietary pattern promoted by the U.S.-based National Heart, Lung, and Blood Institute (part of the National Institutes of Health (NIH), an agency of the United States Department of Health and Human Services) to prevent and control hypertension.  
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
@@ -4363,10 +4368,11 @@ __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center 
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunt__ _n_  
 __daunting__ _adj_ :six: Seeming difficult to deal with in prospect; intimidating.  
+__dauntless__ _adj_ /DAWNT-lus/  
 __Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direct heir to the throne.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __davit__ _n_ :two::hammer:  
-__dawdled__ _v_  
+__dawdle__ _v_ :dart::two::hammer:  
 __dawn__ _v_  
 __day and age__  
 __day job__  
@@ -4413,7 +4419,7 @@ __debatable__
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ _n_ :four::hammer:  
 __debilitating__ _adj_ /dih-BILL-uh-tay-ting/ Causing serious impairment of strength or ability to function. _The flu can be debilitating for several days._  
-__debonair__ _adj_  
+__debonair__ _adj_ :two::hammer: /deb-uh-NAIR/  
 __debonnaire__ _adj_  
 __debouch__ _v_ :two: __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debrief__ _v_  
@@ -4421,7 +4427,7 @@ __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early f
 __debris__  
 __debt__ _n_ :four::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
-__debunk__ _v_ :four: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. _The article thoroughly debunks the notion that life exists on Mars._  
+__debunk__ _v_ :five: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose _The article thoroughly debunks the notion that life exists on Mars._  
 __deburr__ _v_  
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
@@ -4441,6 +4447,7 @@ __decidophobia__ _n_
 __deciduous__ _adj_ :two::hammer:  
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
+__decision__ _n_ :mega:  
 __deck railing__  
 __deck<sup>1</sup>__ _n informal_ :four: The ground or floor. _An enticing outdoor deck._ _An elevated deck with with mountain views._ __2c__ The roadway of a bridge or an elevated freeway.  
 __deck<sup>2</sup>__ _v_ :four::hammer: :es: adornar, engalanar _Those are just a few of the things that deck the halls of the raunchy comedy._  
@@ -4456,7 +4463,7 @@ __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommis
 __decommits__  
 __decompensation__ _n_ __1__ _Medicine_ The inability of a bodily organ or system, especially the circulatory system, to maintain adequate physiological function in the presence of disease.  
 __decongestant__ _n_ :three::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
-__deconstruct__ _v_  
+__deconstruct__ _v_ :two::hammer:  
 __décor__ _n_  
 __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
 __decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
@@ -4475,14 +4482,17 @@ __deduct__ _v_ :two::hammer: /dɪˈdʌkt/ (deducted) _If they fall from the bala
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
-__deem__ _v_  
+__deem__ _v_ :two::hammer:  
 __deep cut__ _n_ :five: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep dish pizza__  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
+__deep__ _adj_ _Ralph has a deep Batman collection._  
 __deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
+__deep-routed__  
+__deep-seated__ _adj_ _Deep-seated flaws._  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deep<sup>1</sup>__ _adj_ :two::hammer: _Deep discounted prices._ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
 __deep<sup>2</sup>__ _n_ __9__ Large in quantity or size; big: _deep cuts in the budget._ _Deep breakfast._  

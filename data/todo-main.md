@@ -44,32 +44,6 @@ __contrived__
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conversant__  
 __convey__ _v tr_  
-__convoluted__ _adj_ :two::hammer:  
-__coo__ _v_  
-__corollary__ _n_ /KOR-uh-lair-ee/  
-__counselor__  
-__courtship__ _n_ _Syn_ courting, wooing, suit  
-__cravat__ _n_  
-__crisp__  
-__crook__  
-__crucible__ _n_ :two::hammer:  
-__crusade<sup>1</sup>__ _n_ /kroo-SAYD/ [:scroll: A blend of Spanish cruzada + French croisade, both ultimately from Latin crux (cross)] A zealous effort for an idea or cause.  
-__crusade<sup>2</sup>__ _v intr_ To engage in a zealous effort.  
-__cue__ _v tr_ :two::hammer:  
-__culminant__ _adj_ /KUHL-muh-nuhnt/ Being at or reaching the highest point.  
-__cupidity__ _n_ Excessive desire, especially for wealth; covetousness or avarice.  
-__damning__ _adj_ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
-__dart__ _v_  
-__dauntless__ _adj_ /DAWNT-lus/  
-__dawdle__ _v_ :dart:  
-__debonair__ _adj_ /deb-uh-NAIR/  
-__debunk__ _v_ To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose  
-__decision__ _n_ :mega:  
-__deconstruct__ _v_  
-__deem__ _v_  
-__deep__ _adj_ _Ralph has a deep Batman collection._  
-__deep-routed__  
-__deep-seated__ _adj_ _Deep-seated flaws._  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __defang__ _v_  
 __defect__ _v_  
