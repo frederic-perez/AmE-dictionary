@@ -7,6 +7,7 @@ __a fine line__
 __a hard pill to swallow__  
 __a hell of a someone or something__  
 __a hot-button issue__  
+__a sounding board__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
 __across the pond__  
@@ -18,22 +19,32 @@ __at the end of the day__
 __back and forth__  
 __back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back to basics__  
+__backpedal__  
 __bad boy__  
 __bang for (one’)/the buck__ A lot of value for little cost.  
 __be at (one’s) wit’s end__  
 __between a rock and a hard place__  
+__blindside__  
 __bona fide__  
 __carve out__  
 __case closed__  
 __chances are__  
 __churn out__  
+__clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
+__crazy town__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
+__dingy__  
+__do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __en route__  
 __every so often__  
 __face the music__  
+__fair enough__  
+__fall from grace__  
 __fall short__  
+__flake out__  
+__flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
 __fly by__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __for better or (for) worse__  
@@ -44,6 +55,7 @@ __fraught with anxiety__
 __fraught with danger__  
 __freak out__  
 __from A to Z__  
+__fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
 __full of (oneself)__  
 __game changer__  
 __get ahead of (oneself)__  
@@ -66,6 +78,7 @@ __guess again__ A rhetorical imperative indicating that the person being spoken 
 __guilt complex__ A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __gulp down__  
 __gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
+__gung ho__  
 __gunk__  
 __gut factor__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
@@ -91,6 +104,7 @@ __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is ha
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
 __harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
+__have skin in the game__  
 __have the last laugh__  
 __head over heels__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
@@ -106,6 +120,8 @@ __hold on tight__
 __hold on__  
 __hoo-ha__  
 __hophead__  
+__hoping agaínst hope__  
+__hot-button__ _Hot-button social issues._  
 __how come__  
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
@@ -129,10 +145,12 @@ __nah__
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __night and day__  
 __no big deal__ :dart:  
+__no-holds-barred__ _No-holds-barred debates._  
 __on the make__  
 __out of whack__  
 __outsmart (oneself)__  
 __over the long haul__  
+__overarching__ _adj_ (i?) _An overarching plan._  
 __palsy-walsy__  
 __pan out__  
 __pave the way (for someone or something)__  
@@ -151,7 +169,9 @@ __plow ahead__
 __point taken__ :two::hammer:  
 __pooh-pooh__  
 __poon__  
+__poppycock__ _old-fashioned_ Foolish, nonsensical prattle.  
 __pound out__ :dart:  
+__prattle on (about someone or something)__  
 __pull a U-ie__  
 __pump someone up (for something)__  
 __put (one’s) head down__  
@@ -189,6 +209,7 @@ __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibil
 __shit bricks__ To become extremely worried or frightened.  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
+__shtick__ _Sometimes he pushed his shtick a little too far._  
 __side hustle__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__  
@@ -207,6 +228,7 @@ __so much so__ To such an extent or great degree (that).
 __so-and-so__  
 __soldier on__ To continue doing something with determination or resolve, despite difficulties or an unlikely chance of succeeding.  
 __spaced (out)__  
+__speak in tongues__ :two: Speak in an unknown language during religious worship.  
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
@@ -224,10 +246,12 @@ __sure thing__
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
 __tag along__  
+__take (great) pains (to do something)__  
 __take (someone or something) for granted__  
 __take aside__  
 __take back__  
 __take names__  
+__talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the talk__  
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __test the waters__  
@@ -247,6 +271,7 @@ __tick off__
 __tight-lipped__ Secretive; not revealing information.  
 __tipping point__  
 __to (one’s) name__ In one’s possession; owned by one. _Without a penny to his name._  
+__to a T__  
 __to the fore__  
 __touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touché__  
@@ -261,6 +286,7 @@ __uncharted territory__
 __under (one’s) belt__  
 __under one’s belt__  
 __under the guise of (something)__  
+__under the hood__  
 __unpack__  
 __up for grabs__  
 __usher in__  
