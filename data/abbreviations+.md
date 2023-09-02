@@ -12,7 +12,7 @@ __ACK__ Acknowledge/Acknowledgement/Acknowledged.
 __ACL__ Anterior cruciate ligament.  
 __ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __ADD__ Attention deficit disorder.  
-__ADHD__ :two: Attention deficit hyperactivity disorder.  
+__ADHD__ :three: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BAE__ Beautiful and elegant.  
@@ -42,6 +42,7 @@ __D&D__ :three: Dungeons and Dragons.
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __DEA__  
 __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
+__DEFCON__ Defense readiness condition. _I went into DEFCON 1._  
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
 __DoS__ Denial of service. _We ended up DoS’ing our cafes._  
@@ -60,6 +61,7 @@ __EOL__
 __ESP__ Extrasensory perception. _ESP powers._  
 __ETA__ Estimated time of arrival. _I believe we have an ETA of six days._  
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
+__FCC__ Federal communications commission (USA) _I must abide by FCC decency standards._  
 __FDR__ Franklin Delano Roosevelt  
 __FFP__ Filtering face piece (a filtering half mask).  
 __FOMO__  
@@ -207,6 +209,7 @@ __T-storm__ Thunderstorm.
 __TBD__ To Be Determined/Defined/Decided/Done/Developed/Discussed...  
 __TBH__ To be honest.  
 __TFG__ Abbreviation of “The Former Guy.” The use of “The Former Guy” as a way of referring to Donald Trump was inspired by President Joe Biden dismissively referring to him as “the former guy” when pivoting away from questions about his predecessor during a February 2021 town hall.  
+__TFW__ That feeling when.  
 __TLA__ Three letter acronym. _Digital clinical safety (DCS—yes, another TLA) refers to the systems set up to prevent patients and staff from being harmed as a result of digital technologies used in healthcare._  
 __TM__ :three: Trascendental meditation.  
 __TMI__ Too much information.  

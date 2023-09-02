@@ -8,6 +8,8 @@ __allay__ _v_
 __aplomb__ _n_ :dart:  
 __apnea__ _n_  
 __aquanaut__  
+__assay__ _v_ /a-SAY/  
+__atavism__ _n_ A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
 __attorney__  
 __attuned__  
 __avuncular__ _adj_  
@@ -34,16 +36,20 @@ __braying__ _v_
 __bumbling__ _v_  
 __Candy Land__ _n_ (game?)  
 __catnip__ _n_ :es: hierba gatera  
+__caustic__ _adj_ /KAWSS-tik/  
 __cave__ _v_ (i?)  
 __Chutes and Ladders__ _n_  
 __cog__ _n_ _A bland cog in the wheel._  
 __commiserate__  
+__compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
+__congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
 __construed__ _v_  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __contrived__  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conversant__  
 __convey__ _v tr_  
+__copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __defang__ _v_  
 __defect__ _v_  
@@ -84,7 +90,10 @@ __drudgery__ _n_ :dart:
 __duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
 __ecstatic__  
 __edification__ _n_ Intellectual, moral, or spiritual improvement _Syn_ enlightenment  
+__egrote__ _v intr_ /EE-groht/ To feign sickness.  
+__embargo__ _n_ /im-BAHR-goh/  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
+__emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
 __emote__ _adj_  
 __empirical__ _adj_ /im-PEER-uh-kul/  
 __encomium__ _n_ /en-KOH-mee-um/  
@@ -180,6 +189,7 @@ __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; 
 __heartfelt__ _adj_ :two: Deeply or sincerely felt; earnest.  
 __hearty__ _adj_  
 __heat pump__ _n_  
+__heckle__ _v tr_  
 __hector__ _v_ _TikTok keeps hectoring us._  
 __heist__ _v_  
 __helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
@@ -220,6 +230,7 @@ __kerf__ _n_
 __kibble__ _n_  
 __kiddie__ _n_ _A kiddie soccer game,_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__klondike__ _n_  
 __knickers__ _n_ :camera:  
 __lackluster__ _adj_ /LAK-luss-ter/  
 __landmark__ _adj_ _A landmark study._  
@@ -235,6 +246,7 @@ __Machiavelli__
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
+__marque__ _n_ A model or brand of a manufactured product, especially an automobile. _Syn_ brand, trade name  
 __marshal__ _v_ :two::hammer:  
 __mashup__ _n_  
 __mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
@@ -289,6 +301,7 @@ __morale__ _n_
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __mullet__ _n_  
 __mumps__ _n_ (disease)  
+__myriad__ _n_ /MEER-ee-ud/  
 __nab__ _v_  
 __net__ _v_ (netted)  
 __ninja stars__  
@@ -307,6 +320,7 @@ __overly__ _adv_ :two::hammer:
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
+__oxymoron__ _n_ /ahk-sih-MOR-ahn/  
 __pad__ _v intr_ __1__ To go about on foot. __2__To move or walk about almost inaudibly. _The cat was padding through the grass._  
 __paganism__ _n_  
 __palliative care__ _n_  
@@ -349,6 +363,7 @@ __pinscher__ _n_ Any of three breeds of dogs whose ears and tail are usually cro
 __pinwheel__ _n_  
 __pique__ _n_  
 __pitfall__ _n_  
+__placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __plaintive__ _adj_ /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
 __planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
 __plank__ _n_ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
@@ -356,6 +371,7 @@ __play-off__ _n_ :pencil2:
 __plushy__ _adj_  
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
+__podsnappery__ _n_ (derogatory) Smug self-satisfaction and a lack of interest in the affairs of others. An attitude toward life marked by complacency and a refusal to recognize unpleasant facts.  
 __poise__ _v_ _Develop poise between body and mind._  
 __polish__ _v_ _I polish your writing._  
 __politicking__ _n_  
@@ -386,6 +402,7 @@ __puffery__ _n_ :dart:
 __Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
 __pulpit__ _n_  
 __punctilious__ _adj_ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous  
+__pundit__ _n_ /PUN-dit/  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
 __purport<sup>1</sup>__ _v tr_ :astonished:  
