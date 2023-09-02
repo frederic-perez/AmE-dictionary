@@ -1567,7 +1567,7 @@ __give (someone) the business__
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
 __give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
-__give and take__ :two::hammer: _Love don’t come easy. It’s a game of give and take._  
+__give and take__ :four::hammer: _Love don’t come easy. It’s a game of give and take._  
 __give in__ :two::hammer: _Give in to our fears._  
 __give it a shot__  
 __give notice__  
@@ -1578,9 +1578,10 @@ __give someone some lip__ _informal_ To speak rudely or disrespectfully to someo
 __give someone the creeps__ To make you feel frightened or nervous.  
 __give someone the finger__  
 __give something/it a shot__ :two::hammer:  
-__give up on (someone or something)__  
+__give up on (someone or something)__ :two::hammer: _I am not going to give up on you. I am not going to let you give up on yourself._  
 __glad tidings__ Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.”  
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
+__glass over__ _Glassed-over eyes._  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __gloss over (something)__  
 __glower at (someone or something)__  
@@ -1593,15 +1594,16 @@ __go along__
 __go apeshit__  
 __go astray__ :dart:  
 __go at (something)__ :two: To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
-__go at it hammer and tongs__ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
+__go at it hammer and tongs__ :two: To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go back to square one__ To start from the beginning.  
 __go ballistic__ :two::hammer:  
-__go berserk__  
+__go berserk__ :two::hammer:  
+__go cold turkey__  
 __go commando__  
 __go down in/make history__  
 __go downhill__ :two::hammer:  
 __go far__  
-__go figure__ :seven: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
+__go figure__ :eight: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
 __go for a run__  
 __go for a spin (to some place)__ To go for a brief, leisurely drive (to some place). _Hey Noah, fancy going for a spin to the grocery store with me?_ _Jenny just got a new car for her birthday, so I think we’re going to go for a spin after school._  
 __go for broke__ :dart: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._  
@@ -1622,6 +1624,7 @@ __go off the rails__
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go one on one__  
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
+__go out the window__ :two: To be forgotten, disregarded, or lost. _Once at ABC, though, any attempts at balance went directly out the window._  
 __go out with a bang__ :two: To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
 __go out with the boys__ :two: To go and socialize somewhere with a group of exclusively male friends. _I love my girlfriend and all, but sometimes, I just need to go out with the boys!_  
 __go out with the girls__ To go and socialize somewhere with a group of exclusively female friends.  
@@ -1659,16 +1662,21 @@ __go without saying__ _It goes without saying: thinking in more effective ways a
 __go wrong__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
 __go-to girl__  
+__go-to guy__  
+__gobble down__  
+__gobble up__  
+__God bless you__  
 __God forbid__  
 __God is in the detail(s)__ :two: _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
-__God’s green earth__ The entire planet; anywhere and everywhere.  
+__God’s green earth__ :two: The entire planet; anywhere and everywhere.  
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
-__gold rush__ :two::hammer: _VCs scramble to cash in on AI gold rush._  
+__gold rush__ :three::hammer: _VCs scramble to cash in on AI gold rush._  
 __golden boy__  
 __golden child__  
+__golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
 __golden goose__ :four: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
-__golden handcuffs__  
+__golden handcuffs__ :two: /GOL-den hand-kuhfs/ A situation that is undesirable, unenjoyable, or unfulfilling but that provides enough financial security as to make one unwilling or unable to leave. Lucrative incentives (financial benefits) given to an employee under certain conditions to discourage them from leaving.  
 __golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ The years following one’s retirement (generally after the age of 65).  
 __golf widow__ A woman whose husband frequently absents himself from home so as to go and play golf.  
@@ -1678,18 +1686,19 @@ __good call__ :dart::three: A good decision or idea. The phrase does not have to
 __good enough for jazz__ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
 __good enough to eat__ To have an extremely beautiful or aesthetically pleasing appearance.  
 __good for nothing__ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
-__good for you__ A complimentary expression of encouragement for something that someone has done or received.  
+__good for you(!)__ :three: A complimentary expression of encouragement for something that someone has done or received.  
 __good for__ __4__ Equivalent in value; also, valid for. _These coupons are good for a 20 percent discount._ _He was good for many murders._  
 __good God!__ An oath expressing surprise, shock, frustration, anger, or annoyance.  
-__good going__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
-__good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
-__good job__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__good going__ :two: _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good going, Frank, now we’re going to have to rebuild this entire model from scratch._  
+__good graces__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good graces” or some variation thereof. _John’s been in my good graces ever since he helped get me out of debt._  
+__good gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Good gracious, look at the time! How is it nearly midnight already?_  
+__good job__ :two: _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good Lord__  
 __good old__ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don’t need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ :two: A sign, either real or imagined, of good fortune or a propitious outcome. _I saw a dove on my windowsill this morning; I’d say it’s a good omen for the rest of my day._  
 __good riddance__ :three: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
-__good-natured__ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
+__good-natured__ :three: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  

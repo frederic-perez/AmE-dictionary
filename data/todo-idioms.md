@@ -50,30 +50,6 @@ __get ahead of (oneself)__
 __get lucky__  
 __get the hang of (something)__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
-__give and take__ :two::hammer:  
-__give up on (someone or something)__ _I am not going to give up on you. I am not going to let you give up on yourself._  
-__glass over__ _Glassed-over eyes._  
-__go at it hammer and tongs__  
-__go berserk__  
-__go cold turkey__  
-__go figure__  
-__go out of the window__ _Once at ABC, though, any attempts at balance went directly out the window._  
-__go out the window__ To be forgotten, disregarded, or lost.  
-__go-to guy__  
-__gobble down__  
-__gobble up__  
-__God bless you__  
-__God’s green earth__ The entire planet; anywhere and everywhere.  
-__gold rush__  
-__golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
-__golden handcuffs__ /GOL-den hand-kuhfs/ A situation that is undesirable, unenjoyable, or unfulfilling but that provides enough financial security as to make one unwilling or unable to leave. Lucrative incentives (financial benefits) given to an employee under certain conditions to discourage them from leaving.  
-__good for you__  
-__good for you!__ A complimentary expression of encouragement for something that someone has done or received.  
-__good going__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good going, Frank, now we’re going to have to rebuild this entire model from scratch._  
-__good graces__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good graces” or some variation thereof. _John’s been in my good graces ever since he helped get me out of debt._  
-__good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Good gracious, look at the time! How is it nearly midnight already?_  
-__good job__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
-__good-natured__ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
