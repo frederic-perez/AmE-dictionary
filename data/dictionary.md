@@ -4579,6 +4579,7 @@ __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudic
 __demagogy__  
 __démarche__ _n_ :two: /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
+__demeaning__ _adj_ :two::hammer: _This job is demeaning._  
 __demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
 __demo__ _v_ Short for demonstrate. _Google demoed its AI-powered search engine._  
@@ -4589,11 +4590,11 @@ __demonstration__ _n_
 __demonstrators__  
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __demosaicing__ _adj_ (de-mosaicing, demosaicking)  
-__demur__ _v_ (demurred) :four::hammer: (demurred)  
+__demur__ _v_ (demurred) :five::hammer: (demurred)  
 __demure__ _adj_ :four: Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
 __demurral__ _n_  
-__demystify__ _v tr_ :two::hammer:  
+__demystify__ _v tr_ :three::hammer:  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dendrites__ _n_ :two::hammer:  
 __dendritic__  
@@ -4655,6 +4656,7 @@ __desensitize__ _v_
 __Deseret__ _n_ An area proposed by the Mormons in 1849 as an independent state or a state of the Union. Deseret would have included much of the southwest United States, with a capital at Salt Lake City. Congress refused to recognize the provisional state and created the Utah Territory in 1850. _Desered alphabet._  
 __desert__ _v_ _Bob’s father deserted him and his mother when Bob was a baby._  
 __deserted__ _adj_ _Most of the desks were deserted._  
+__desiccant__ _n_  
 __desiccate__ _v_ :three::pencil2: __1__ To dry up or become dried up. __2__ To preserve (a food) by drying. _Syn_ dehydrate __3__ To drain of emotional or intellectual vitality.  
 __desideratum__ _n_ Something desired as a necessity.  
 __design__ _n, v_ :mute:[desi~~g~~n]  
@@ -4703,7 +4705,7 @@ __devil-may-care style__
 __deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
 __devilment__ _n_  
 __deviltry__  
-__devious__ _adj_  
+__devious__ _adj_ :two::hammer:  
 __devoid__ _adj_ :two::hammer:  
 __devoir__ _n_ :two::hammer:  
 __devolution__ _n_  
@@ -4714,6 +4716,7 @@ __devotee__ _n_ _Burning Man devotees._
 __devout__ _adj_ :two::hammer:  
 __dewlaps__ _n_ :two::hammer:  
 __deworm__ _v tr_ To cure (an animal) of worms; worm.  
+__Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
 __dexterous__ _adj_  
 __diablerie__ _n_  
 __diabolical__ _adj_  
@@ -4742,6 +4745,7 @@ __die-hard__ _adj, n_ Person who resists change.
 __die-off__ _n_  
 __diecast__  
 __diehard__ _adj_ :two::hammer: _A diehard fan._  
+__dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut  
 __differ__ _v_ :three::mega::hammer:  
 __different animal__ _n_ Something different.  
 __diffidence__ _n_ :two: The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._ _He spoke with a certain diffidence._  
@@ -4750,7 +4754,9 @@ __dig<sup>1</sup>__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs 
 __dig<sup>2</sup>__ _v_ _We dug into the research._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip.  
+__digital__ _adj_ :mega: /ˈdɪdʒɪtəl/  
 __diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.  
+__digoxin__ _n_  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__ _n_ :two::hammer:  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
@@ -4761,7 +4767,7 @@ __dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _T
 __dilemma__  
 __dilettante__ _n_ A dabbler in an art or a field of knowledge. _Syn_ sciolist _He claimed to be serious about his paintings, but he was at heart a mere dilettante._  
 __diligent__ _adj_ :two::dart: Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
-__dill__ _n_ :two::hammer: _A dill pickle._  
+__dill__ _n_ :three::hammer: _A dill pickle._ :es: eneldo  
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one’s feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
 __diluent__ _n_ An inert substance used to dilute. _Syn_ dilutant _The artist thinned the paint to a pale yellow using a diluent and a bit of white._  
@@ -4823,20 +4829,21 @@ __dis<sup>1</sup>__ _n_ :two::hammer:
 __dis<sup>2</sup>__ _v tr_ _informal_ :five::hammer:  
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
-__disaffected__ _adj_ :three::hammer:  
+__disaffected__ _adj_ :four::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disapprobation__ _n_ /dis-ap-ruh-BAY-shun/  
 __disapprove__ _v_  
 __disarray__ _n_ :five: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disassociate__ _v_ A less common word for _dissociate_.  
+__disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
 __disastrous__ _adj_ :two::hammer:  
-__disavow__ _v_ :three: (disavowed) __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
+__disavow__ _v_ :four: /dis-uh-VOW/ __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)  
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
-__discerning__ _adj_ :dart::two::hammer: _Downtown Boulder has everything a discerning diner could ask for and more._ _A discerning traveler._  
+__discerning__ _adj_ :dart::three::hammer: _Downtown Boulder has everything a discerning diner could ask for and more._ _A discerning traveler._  
 __discerp__ _v tr_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
@@ -4949,13 +4956,14 @@ __dissatisfied__ _adj_ :three::pencil2: Feeling or exhibiting a lack of contentm
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dissed__ _v_ _Rubio had dissed the Bible._  
-__dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
+__dissemble__ _v_ :six::astonished: /dih-SEM-bul/ (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.” _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_ :two::pencil2::hammer:  
 __dissension__ _n_ :four::dart::hammer:  
 __dissent__ _n_ :four::hammer:  
-__dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or dissenters._  
-__disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
+__dissenter__ _n_ :three: A person who dissents from some established policy. _Syn_ objector, dissident, protester, contestant _There is not mat space for malcontents or dissenters._  
+__disservice<sup>1</sup>__ _n_ :six::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
+__dissever__ _v_  
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_ :two::hammer:  
 __dissimilarly__  
@@ -4970,6 +4978,7 @@ __dissonance__ _n_ :two::hammer: _Cognitive dissonance._
 __dissuade__ _v_ :pencil2::five::hammer: (dissuaded)  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
+__distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
 __distinct__ _adj_ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
 __distinctly__ _adv_ :two::hammer:  
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
@@ -4980,8 +4989,8 @@ __distrust<sup>2</sup>__ _v_
 __disused__  
 __ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
-__dither__ _n_ :mega: A state of indecisive agitation.  
-__dithered__ _v_  
+__dither<sup>1</sup>__ _n_ :mega: A state of indecisive agitation.  
+__dither<sup>2</sup>__ _v intr_ :two: To be nervously irresolute in acting or doing.  
 __ditsy__ _adj_ _Ditsy nanny._  
 __ditty bags__ _n_  
 __ditty__ _n_ :four: A short simple song (or the words of a poem intended to be sung).  
@@ -5019,11 +5028,13 @@ __docent__ _n_ :five: (docents)__2__ A knowledgeable guide, esp. one who conduct
 __docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
-__doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
+__doctor__ _v tr_ :five: __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._ _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
+__doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
 __doctrinaire__ _adj_ /dahk-truh-NAIR/  
 __docuseries__ _n_ A documentary that is telecast in a series of programs.  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
+__dodgeball__ _n_  
 __dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :four::dart: /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. Dishonest or unreliable. Marked by skill in deception. _They try to protect members from dodgy sites._  
@@ -5066,6 +5077,7 @@ __dole__ _n_
 __dolirometer__  
 __dollhouse__  
 __dollop__ _n_ :seven::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _A dollop of caviar._ _An extra dollop of drama._  
+__dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __dolphin kick__ _n_  
 __dolt__ _n_ :two: A stupid person; a dunce.  
 __dome__ _n_  

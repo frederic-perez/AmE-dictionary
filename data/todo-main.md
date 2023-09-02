@@ -54,30 +54,6 @@ __defamatory__ _adj_ Injurious to someone’s name or reputation.
 __defang__ _v_  
 __defect__ _v_  
 __deign__  
-__demeaning__ _adj_ :two::hammer: _This job is demeaning._  
-__demur__ _v_  
-__demystify__ _v tr_  
-__desiccant__ _n_  
-__devious__ _adj_  
-__Dexedrine__ _n_ /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
-__dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut  
-__digital__ _adj_ :mega: /ˈdɪdʒɪtəl/  
-__digoxin__ _n_  
-__dill__ _n_ :es: eneldo  
-__disaffected__ _adj_  
-__disaster relief__ _n_ Money to help rebuild an area after a disaster. _The state is asking for federal disaster relief._  
-__disavow__ _v_ /dis-uh-VOW/  
-__discerning__ _adj_  
-__dissemble__ _v_ /dih-SEM-bul/ Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.”  
-__dissenter__ _n_ A person who dissents from some established policy. _Syn_ objector, dissident, protester, contestant  
-__disservice__ _n_  
-__dissever__ _v_  
-__distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
-__dither__ _v intr_ To be nervously irresolute in acting or doing.  
-__doctor__ _v tr_ __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._  
-__doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
-__dodgeball__ _n_  
-__dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __don__ _n_ __3__ The leader of an organized-crime family.  
 __doodad__ _n_ _informal_ Something, especially a small device or part, whose name is unknown or forgotten.  
 __doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
