@@ -158,32 +158,6 @@ __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 mi
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__  
 __pick up after (someone or oneself)__  
-__pick up__ :two::hammer: _Mindset change is not about picking up a few tricks._  
-__pick-and-shovel work__  
-__pipe up__  
-__play (the) devil’s advocate__  
-__play catch-up__ To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
-__play dumb__ :two: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
-__play second fiddle__  
-__plow ahead__  
-__point taken__ :two::hammer:  
-__pooh-pooh__  
-__poon__  
-__poppycock__ _old-fashioned_ Foolish, nonsensical prattle.  
-__pound out__ :dart:  
-__prattle on (about someone or something)__  
-__pull a U-ie__  
-__pump someone up (for something)__  
-__put (one’s) head down__  
-__put someone or something down__  
-__put to the test__  
-__put up a fight__  
-__put up with (someone or something)__  
-__quid pro quo__  
-__quite something__  
-__rabbit hole__  
-__rack up__  
-__rah-rah__  
 __ram into (someone or something)__  
 __red flag__  
 __reduce (one) to tears__  
