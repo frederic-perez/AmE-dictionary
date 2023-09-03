@@ -4066,7 +4066,7 @@ __cringingly__
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__ _adv_  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp<sup>1</sup>__ _adj_ :seven::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
+__crisp<sup>1</sup>__ _adj_ :nine::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._ _A crisp young guy._  
 __crisp<sup>2</sup>__ _v_  
 __crisp<sup>3</sup>__ _n_  
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
@@ -4501,10 +4501,12 @@ __deeply__
 __deer__ _adj_ _A deer survey._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
 __defamation__ _n_ :dart::two::pencil2: /ˌdɛf əˈmeɪ ʃən/ Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
+__defamatory__ _adj_ Injurious to someone’s name or reputation.  
+__defang__ _v_  
 __defanging__ _n_  
 __default<sup>1</sup>__ _n_  
 __default<sup>2</sup>__ _v_ :six::hammer: _The Solar Energy company defaulted._  
-__defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
+__defect__ _v_ :nine: To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :nine::m: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
@@ -4539,7 +4541,7 @@ __defuse__ _v_ :seven::hammer: (defuses, defusing)
 __deglutition__ _n_ The act or process of swallowing.  
 __dehumanize__ _v tr_ :two::hammer:  
 __dehydration__  
-__deign__ _v_ :three::hammer: (deigned)  
+__deign__ _v_ :four::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
 __deist__ _adj_  
 __deity__ _n_ :mega:  
@@ -4961,7 +4963,7 @@ __disseminate__ _v_ :two::pencil2::hammer:
 __dissension__ _n_ :four::dart::hammer:  
 __dissent__ _n_ :four::hammer:  
 __dissenter__ _n_ :three: A person who dissents from some established policy. _Syn_ objector, dissident, protester, contestant _There is not mat space for malcontents or dissenters._  
-__disservice<sup>1</sup>__ _n_ :six::hammer::pencil2:  
+__disservice<sup>1</sup>__ _n_ :seven::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissever__ _v_  
 __dissident__ _n_ :two::hammer:  
@@ -5011,7 +5013,7 @@ __divide__ _n_ _There appears to be a divide between communications and electron
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
 __divisive__ _adj_ _He is more interested in spouting divisive sound bites._  
-__divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
+__divot__ _n_ :four: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divulge__ _v_ /dɪˈvʌldʒ, daɪ-/  
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
@@ -5085,7 +5087,8 @@ __domestic__ _adj_
 __domicile__  
 __dominatrix__ _n_  
 __domino effect__ _n_ A cumulative effect produced when one event sets off a chain of similar events. _The domino effect of increasing the speed limit in one of several contiguous states._  
-__don__ _v_ Put on (an item of clothing).  
+__don<sup>1</sup>__ _n_ __3__ The leader of an organized-crime family.  
+__don<sup>2</sup>__ _v_ Put on (an item of clothing).  
 __don’t tell me it’s raining__  
 __donburi__ _n_  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
@@ -5095,7 +5098,7 @@ __donned__ _v_ _They donned masks._
 __donnybrook__ _n_ [:scroll: After _Donnybrook Fair_, an annual event until 1855 near Dublin.] A melee; a free-for-all. _Syn_ brawl  
 __donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
 __doo-dah__  
-__doodad__ _n_ _informal_ :two: Something, especially a small device or part, whose name is unknown or forgotten.  
+__doodad__ _n informal_ :three: Something, especially a small device or part, whose name is unknown or forgotten.  
 __doodle__ _v_ _Good thinking can happen while doodling about it on a paper tablecloth._  
 __doofer__ _n informal_  
 __dookie-wookie__  
@@ -5105,11 +5108,11 @@ __door-to-door dash__
 __doorbuster__ _n_ :four: (door-buster) A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
 __doorman building__ _n_  
-__doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatment by others.  
+__doormat__ _n slang_ :three: Someone who meekly submits to domination, mistreatment, or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
 __doorpost__  
 __doorsill__ _n_  
 __doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
-__doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
+__doozy__ _n informal_ :six: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._  
 __dopamine__ _n_ :three::mega::hammer:  
 __dope<sup>1</sup>__ _n_ :three::hammer: __3__ _Informal_ A stupid person; a dolt. _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
@@ -5159,7 +5162,7 @@ __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbi
 __dove tail__ _v_  
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
-__dovetail__ _v_ :six::hammer:  
+__dovetail__ _v_ :seven::hammer:  
 __dowager__  
 __dowdy__ _adj_ :two::hammer:  
 __down pat__ _adj_ Understood perfectly. _Sun_ mastered _Cy already had the presentation down pat._  
@@ -5189,8 +5192,8 @@ __downsize__ _v_
 __downslope__ _n_  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
-__downtime__ _n_ :five::hammer:  
-__downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
+__downtime__ _n_ :six::hammer:  
+__downtrodden__ _adj_ :eight::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_ :three::hammer: (downturns)  
 __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
 __downward__ _adj, adv_ _A downward spiral._  
@@ -5212,7 +5215,7 @@ __drag<sup>1</sup>__ _v_ (dragging)
 __drag<sup>2</sup>__ _n_  
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
-__dragon__ _n_ :mega:  
+__dragon__ _n_ :two::mega::hammer:  
 __dragon’s blood__ _n_ A dark red resinous substance derived from various trees and used in photoengraving.  
 __dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.  
 __drain board__ _n_ :three::hammer: (drainboard)  
@@ -5258,7 +5261,7 @@ __drenches__ _v_
 __dress rehearsal__  
 __dress shoes__  
 __dress up__ _v_  
-__dressage__ _n_  
+__dressage__ _n_ :two: __2__ The art or method of training a horse in obedience and in precision of movement. _Like a Chihuahua doing dressage._  
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
 __dressing__ _n_ :two::hammer: _It’s going to take longer to get to that turkey and dressing._  
@@ -5312,7 +5315,7 @@ __drub__ _v_ :two::hammer:
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
-__drudgery__ _n_ :seven::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
+__drudgery__ _n_ :eight::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drug user__ _n_ :two: A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
@@ -5356,7 +5359,7 @@ __dud<sup>2</sup>__ _v_
 __dude ranch__ _n_ :two: A vacation resort offering activities (such as horseback riding) typical of western ranches.  
 __dude__ _n_ Man, guy, friend.  
 __dudettes__  
-__dudgeon__ _n_  
+__dudgeon__ _n_ :two::hammer:  
 __due diligence__ _n_ :eight: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due<sup>1</sup>__ _adj_  
 __due<sup>2</sup>__ _n_  
@@ -5396,6 +5399,7 @@ __dupe__ _n_ _A dupe of a president._
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplex__ _n_ :two::hammer: (duplexes)  
 __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
+__duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
 __durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
@@ -5493,7 +5497,7 @@ __eclipse__ _n_ /ɪˈklɪps/
 __ecliptic__ _n_  
 __ecology__ _n_  
 __ecosystem__ _n_  
-__ecstatic__ _adj_  
+__ecstatic__ _adj_ :two::hammer:  
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
 __ecumenical__ _adj_ :three: Of worldwide scope or applicability. _Syn_ universal _The movement against violence is intended to be an ecumenical one, applicable to all nations._  
@@ -5508,6 +5512,7 @@ __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
 __edict__ _n_ :two::hammer:  
+__edification__ _n_ Intellectual, moral, or spiritual improvement. _Syn_ enlightenment  
 __edify__ _v_ :two::hammer: /ED-uh-fye/  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
@@ -5547,6 +5552,7 @@ __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something 
 __egress<sup>1</sup>__ _n_ :three::hammer:  
 __egress<sup>2</sup>__ _v intr_ To go out; emerge.  
 __egret__ _n_ :six: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
+__egrote__ _v intr_ /EE-groht/ To feign sickness.  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ _n_ :two::mute:[ei~~gh~~t]:hammer:  
@@ -5585,7 +5591,7 @@ __elevator control box__
 __elevator operator__ _n_ :camera:  
 __elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
 __eleven__ _n_ :two::hammer::mega:  
-__elfin__ _adj_  
+__elfin__ _adj_ :two::hammer:  
 __elicit__ _v_ :eight: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
@@ -5609,7 +5615,7 @@ __emancipate__ _v_ :two: Free from slavery or servitude.
 __emancipation__ _n_ :two: /ih-man-suh-PAY-shun/ Emancipation is the act of freeing someone from the restraint, control, or power of another. It is especially used for the act of freeing someone from slavery. _Jomo Kenyatta played a key role in the emancipation of Kenya from European rule in the 1960s and became the first president of the newly independent nation._  
 __emasculated__ _adj_ (of a male animal) Having the testicles removed.  
 __embankment__  
-__embargo__ _n_  
+__embargo__ _n_ :two::hammer: /im-BAHR-goh/  
 __embark__ _v_ :two::hammer: _They embark on a motorcade._  
 __embarrass__ _v_ :two::pencil2: /im-BAIR-us/ To cause to experience a state of self-conscious distress. _No one wants to embarrass themselves with spinach stuck in their teeth during a work luncheon—but it happens._  
 __embattle__ _v_ :four::hammer: (embattled)  

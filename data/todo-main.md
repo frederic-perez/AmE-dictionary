@@ -59,31 +59,6 @@ __convey__ _v tr_
 __cookout__ _n_  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
-__crisp__ _adj_ :two::hammer: _A crisp young guy._  
-__crucible__ _n_  
-__defamatory__ _adj_ Injurious to someone’s name or reputation.  
-__defang__ _v_  
-__defect__ _v_  
-__deign__  
-__disservice__ _n_  
-__divot__  
-__don__ _n_ __3__ The leader of an organized-crime family.  
-__doodad__ _n_ _informal_ Something, especially a small device or part, whose name is unknown or forgotten.  
-__doormat__ _n_ Someone who meekly submits to mistreatment or humiliation by others. _Jim had been a doormat his whole life until he went to that motivational speaker five years ago. Now, he’s one of the most respected men in the business._  
-__doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
-__dovetail__ _v_  
-__downtime__ _n_  
-__downtrodden__ _adj_  
-__dragon__ _n_ :mega:  
-__dressage__ _n_ __2__ The art or method of training a horse in obedience and in precision of movement. _Like a Chihuahua doing dressage._  
-__drudgery__ _n_ :dart:  
-__dudgeon__  
-__duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
-__ecstatic__  
-__edification__ _n_ Intellectual, moral, or spiritual improvement _Syn_ enlightenment  
-__egrote__ _v intr_ /EE-groht/ To feign sickness.  
-__elfin__  
-__embargo__ _n_ /im-BAHR-goh/  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
 __emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
 __emote__ _adj_  
