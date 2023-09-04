@@ -3,6 +3,7 @@ __(good) heavens__
 __(someone’s or something’s) days are numbered__  
 __(stuck) in a rut__  
 __a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
+__a far cry from (something)__  
 __a fine line__  
 __a hard pill to swallow__  
 __a hell of a someone or something__  
@@ -11,32 +12,47 @@ __a sounding board__
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
 __across the pond__  
+__ahead of the curve__  
 __all over the place__  
 __any way you slice it__  
+__as it happens__ :two::hammer:  
 __at (long) last__  
 __at first blush__ Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
+__at heart__ _I’m a country girl at heart._  
+__at one’s wit’s end__  
 __at the end of the day__  
 __back and forth__  
+__back at square one__ :dart:  
 __back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back to basics__  
 __backpedal__  
 __bad boy__  
 __bang for (one’)/the buck__ A lot of value for little cost.  
+__basket case__  
 __be at (one’s) wit’s end__  
+__be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
+__been there, done that__  
 __between a rock and a hard place__  
+__biggie__  
 __blindside__  
+__blow one’s top at someone__  
 __bona fide__  
+__bush league__ _It was a bush league fuck-up._  
 __carve out__  
-__case closed__  
+__case closed__ :two::hammer:  
+__catch wind__  
+__chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another.  
 __chances are__  
 __churn out__  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
 __crazy town__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
+__deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
 __dingy__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
+__drag (one’s) feet__  
 __en route__  
 __every so often__  
 __face the music__  
@@ -62,6 +78,7 @@ __get ahead of (oneself)__
 __get lucky__  
 __get the hang of (something)__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
+__give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
@@ -101,6 +118,8 @@ __hard done-by__
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__hard-nosed__ Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
+__hark back__ _Harking back to the past._  
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
 __harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
@@ -125,39 +144,59 @@ __hot-button__ _Hot-button social issues._
 __how come__  
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
+__in deep trouble__  
 __in denial__  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in the hot seat__  
 __in the zone__  
 __it (always) pays to (do something)__  
+__it is what it is__ :two: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable.  
 __jock__  
+__jump up and down__  
 __lavish (someone or something) with (something)__  
 __lighten (one’s) wallet__  
 __lip service__  
+__lo and behold__  
 __lowball__  
+__lucky loser__ A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
 __lump in (one’s) throat__  
 __make a fuss__  
+__make inroads (in/into something)__  
 __mess around__  
+__mince no words__ To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
 __mixed bag__  
+__mother__ _This mother really works._  
 __move the needle__  
 __mug__ _Getting your mug on TV._  
 __nah__  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
+__nice guy__  
 __night and day__  
 __no big deal__ :dart:  
+__no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged.  
 __no-holds-barred__ _No-holds-barred debates._  
+__note to self__  
+__oddly enough__  
+__on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the make__  
 __out of whack__  
+__out of whole cloth__ :astonished:  
+__out-and-out__  
 __outsmart (oneself)__  
 __over the long haul__  
 __overarching__ _adj_ (i?) _An overarching plan._  
+__packed to the gills__ :two::hammer:  
 __palsy-walsy__  
 __pan out__  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__  
+__pick someone up__ _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__  
+__play the field__  
+__put through the ringer__  
+__quick buck__  
 __ram into (someone or something)__  
 __red flag__  
 __reduce (one) to tears__  
@@ -165,18 +204,23 @@ __reel off__
 __reinvent the wheel__  
 __riding high__  
 __ring a bell__  
+__ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
 __rock the boat__  
 __roll out__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __run amok__  
 __run down__  
+__run thin__  
 __run-of-the-mill__  
 __save (something) for a rainy day__  
 __save face__  
 __saved by the bell__  
 __scatterbrain__  
+__schmaltz__  
+__schmuck__  
 __secret weapon__  
 __seize the opportunity (to do something)__  
+__sexual tension__  
 __shame on (one)__  
 __shed (some) light on (something)__  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
@@ -188,6 +232,7 @@ __side hustle__
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__  
 __slam (someone or something)__  
+__slap on the wrist__  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __sleight of hand__ :two::hammer:  
 __slow food__  
@@ -209,6 +254,7 @@ __spit out__ _All models spit out photos of real people and copyrighted images._
 __spot on__  
 __spruce up__ :dart:  
 __spunky__  
+__stand out like a sore thumb__ To be very noticeable in usually a bad way.  
 __stand to reason__ :two::hammer:  
 __stand up__ _The trauma of being stood up at her wedding._  
 __stay put__ To not move or leave; to remain in same location or position.  
@@ -224,12 +270,15 @@ __take (great) pains (to do something)__
 __take (someone or something) for granted__  
 __take aside__  
 __take back__  
+__take charge__  
 __take names__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the talk__  
+__tall story__  
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __test the waters__  
 __the (hand)writing is on the wall__  
+__the frosting on the cake__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
@@ -238,11 +287,15 @@ __the next big thing__ A future trend. _Designers will discuss the next big thin
 __the nitty-gritty__  
 __the powers that be__  
 __the usual suspects__ :two: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
+__then again__  
+__thete you go__  
 __thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
+__through the grapevine__  
 __thumbs up__  
 __tick off__  
 __tight-lipped__ Secretive; not revealing information.  
+__time and (time) again__  
 __tipping point__  
 __to (one’s) name__ In one’s possession; owned by one. _Without a penny to his name._  
 __to a T__  
@@ -254,7 +307,9 @@ __tread lightly__ _Companies that use AI in hiring need to tread lightly._
 __trick__ _v_  
 __Trojan horse__  
 __trot out__  
+__trump card__ _It was time for me to play my trump card._  
 __turf war__  
+__turkey__ __3__ _n_ _slang_ Stupid person.  
 __turn of phrase__  
 __uncharted territory__  
 __under (one’s) belt__  
@@ -283,5 +338,5 @@ __wino__ _slang_ An alcoholic, especially one who chronically or habitually drin
 __wish (one) well__  
 __wishful thinking__ :es: espejismo, ilusión  
 __yea or nay__  
-__you name it__  
+__you name it__ :two::hammer:  
 __you saved the day__  
