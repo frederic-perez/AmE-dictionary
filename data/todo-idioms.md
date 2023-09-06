@@ -1,5 +1,6 @@
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
+__(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
 __(stuck) in a rut__  
 __a bad penny__  
@@ -15,7 +16,9 @@ __about to (do something)__
 __across the pond__  
 __ahead of the curve__  
 __all over the place__  
+__angle for (something)__  
 __any way you slice it__  
+__as ever__ _As ever, he was right._  
 __as it happens__ :two::hammer:  
 __as much__ Almost the same: _I thought as much._ _She said as much._  
 __at (long) last__  
@@ -34,6 +37,7 @@ __bang for (one’)/the buck__ A lot of value for little cost.
 __basket case__  
 __be at (one’s) wit’s end__  
 __be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
+__beat about the bush__  
 __been there, done that__  
 __between a rock and a hard place__  
 __biggie__  
@@ -41,6 +45,9 @@ __blindside__
 __blow one’s top at someone__  
 __bona fide__  
 __bush league__ _It was a bush league fuck-up._  
+__bust up__ _He had a way of saying things that busted us up._  
+__by all means__  
+__can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
 __carve out__  
 __case closed__ :two::hammer:  
 __catch wind__  
@@ -49,7 +56,9 @@ __chalk and cheese__ A phrase used to emphasize that two people or things are ve
 __chances are__  
 __churn out__  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
+__confide in (one)__  
 __crazy town__  
+__cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
@@ -80,11 +89,16 @@ __from A to Z__
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
 __full of (oneself)__  
 __game changer__  
+__get a toehold__  
 __get ahead of (oneself)__  
 __get lucky__  
 __get the hang of (something)__  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
+__give it a go__  
 __give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
+__go balls-out__ _I resolved to go balls-out on this retreat._  
+__go places__  
+__goes without saying__  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
@@ -124,7 +138,7 @@ __hard done-by__
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
 __hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
-__hard-nosed__ Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
+__hard-nosed__ :two: Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
 __hark back__ _Harking back to the past._  
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
 __harp on (something)__ _Harping on intelligence._  
@@ -134,12 +148,14 @@ __have the last laugh__
 __head over heels__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __heaven on earth__  
+__helluva__  
 __help (one) out__  
 __here we go__  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
 __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit home__  
+__hold (one’s) breath__  
 __hold (someone, something, or an animal) back (from someone or something)__  
 __hold on tight__  
 __hold on__  
@@ -149,12 +165,14 @@ __hophead__
 __hoping agaínst hope__  
 __hot-button__ _Hot-button social issues._  
 __how come__  
+__if you know what I mean__  
 __if you will__  
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __in deep trouble__  
 __in denial__  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
+__in the hope of__  
 __in the hot seat__  
 __in the middle of nowhere__  
 __in the zone__  
@@ -162,6 +180,8 @@ __it (always) pays to (do something)__
 __it is what it is__ :two: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable.  
 __jock__  
 __jump up and down__  
+__knocked (one) sideways__  
+__lash about__ _Lads lashing about._  
 __lavish (someone or something) with (something)__  
 __lighten (one’s) wallet__  
 __lip service__  
@@ -176,10 +196,12 @@ __make inroads (in/into something)__
 __mess around__  
 __mince no words__ To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
 __mixed bag__  
+__more than meets the eye__  
 __mother__ _This mother really works._  
 __move the needle__  
 __mug__ _Getting your mug on TV._  
 __nah__  
+__name names__  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
@@ -190,8 +212,11 @@ __no-holds-barred__ _No-holds-barred debates._
 __note to self__  
 __oddly enough__  
 __off-the-cuff__ :dart:  
+__on (one’s) own volition__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the make__  
+__one-on-one__  
+__open to question__  
 __out of whack__  
 __out of whole cloth__ :astonished:  
 __out-and-out__  
@@ -208,9 +233,11 @@ __pick (one’s) brain(s)__
 __pick on (someone or something)__  
 __pick someone up__ _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__  
+__picture postcard__  
 __play (someone) like a fiddle__ (play (someone) like a piano) _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __play it safe__  
 __play the field__  
+__plead ignorance__ _It was best for me to plead ignorance._  
 __put (one) off (something)__  
 __put through the ringer__  
 __put two and two together__  
@@ -281,6 +308,7 @@ __stand up__ _The trauma of being stood up at her wedding._
 __stay put__ To not move or leave; to remain in same location or position.  
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __step in__  
+__step on it__  
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __sure thing__  
@@ -299,11 +327,13 @@ __tall story__
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __test the waters__  
 __the (hand)writing is on the wall__  
+__the die was cast__ (the dice were cast)  
 __the frosting on the cake__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the likes of (someone or something)__  
+__the lion’s share__  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
 __the powers that be__  
@@ -321,8 +351,10 @@ __time and (time) again__
 __tipping point__  
 __to (one’s) name__ In one’s possession; owned by one. _Without a penny to his name._  
 __to a T__  
+__to his name__  
 __to the fore__  
 __to the hilt__ As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
+__tongue in cheek__  
 __touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touché__  
 __trash talk__ _I won’t trash talk._  
