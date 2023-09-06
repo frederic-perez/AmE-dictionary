@@ -6,6 +6,7 @@ __alas__ :three::mega::hammer: /əˈlæs, əˈlɑs/
 __aw__ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __aye yi yi__  
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
+__bejesus__ (bejeezus) Used to express exasperation, annoyance, or surprise.  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __blech__ _slang_ An imitation of the sound of gagging, used to express disgust or disdain. _Blech! Look at all those maggots!_  
 __boo<sup>2</sup>__  
@@ -62,7 +63,7 @@ __oh__ :two::hammer: _You went oh for two._
 __oof__  
 __oops__  
 __ouch__  
-__oy__ Used especially to express irritation, dismay, sorrow, or self-pity.  
+__oy__ :two: Used especially to express irritation, dismay, sorrow, or self-pity. _Oy. Way to ruin a great talk._  
 __pfft__ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
 __poof__ :three: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
