@@ -2,8 +2,9 @@ __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_
 __(good) heavens__  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
-__(stuck) in a rut__  
+__(stuck) in a rut__ :two::hammer:  
 __a bad penny__  
+__a balancing act__  
 __a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a far cry from (something)__  
 __a fine line__  
@@ -14,8 +15,10 @@ __a sounding board__
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
 __across the pond__  
+__Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ahead of the curve__  
 __all over the place__  
+__all shapes and sizes__ :three: Many varieties. _These plants come in all shapes and sizes, so I’m sure you’ll find one that fits in your little apartment._  
 __all shook up__  
 __angle for (something)__  
 __any way you slice it__  
@@ -37,11 +40,14 @@ __bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I
 __ball of wax__ _slang_ An unspecified set of items or circumstances: _went shopping, had dinner, saw a play—the whole ball of wax._ _This, it struck me, was the whole ball of wax._  
 __bang for (one’)/the buck__ A lot of value for little cost.  
 __basket case__  
+__be all and end all__ (be-all and end-all) The quintessential or all-important element.  
 __be at (one’s) wit’s end__  
+__be at a crossroads__  
 __be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __beat about the bush__  
 __been there, done that__  
+__before you know it__  
 __between a rock and a hard place__  
 __biggie__  
 __blindside__  
@@ -49,9 +55,11 @@ __blow one’s top at someone__
 __bona fide__  
 __bush league__ _It was a bush league fuck-up._  
 __bust up__ _He had a way of saying things that busted us up._  
+__butt-kicker__  
 __by all means__  
 __can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
+__capitalize on (something)__ :dart:  
 __career cushioning__ Career cushioning is an informal term for the practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
 __carve out__  
 __case closed__ :two::hammer:  
@@ -70,6 +78,7 @@ __deep pockets__
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
 __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dingy__  
+__do a U-turn__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __drag (one’s) feet__  
@@ -88,6 +97,7 @@ __fly by__
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __fool with (someone or something)__  
 __for better or (for) worse__  
+__for good reason__  
 __for hours on end__  
 __for the long haul__  
 __foul play__  
@@ -164,10 +174,12 @@ __have a fling (with someone)__ To have a brief, noncommittal sexual relationshi
 __have a go (at someone or something)__  
 __have a good day__ _cliché_ An expression of farewell. _Sounds great, Bob. I’ll talk to you tomorrow. Have a good day!_  
 __have a handle on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a handle on the material, as you’ll be tested on it next week._  
+__have a hard time with (someone or something)__  
 __have enough on (one’s) plate__  
 __have skin in the game__  
 __have the last laugh__  
 __head over heels__  
+__head-to-toe__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __heaven on earth__  
 __helluva__  
@@ -205,6 +217,7 @@ __jack-off__ :two::hammer: _Harry made the jack-off sign._
 __jock__  
 __jump up and down__  
 __K-car__  
+__kicker__  
 __knocked (one) sideways__  
 __lash about__ _Lads lashing about._  
 __lash out__  
@@ -215,6 +228,7 @@ __lo and behold__
 __lock horns__  
 __lost on (one)__ Unappreciated or not understood, as of an idea.  
 __lowball__  
+__lowdown__ __2__ _n_ The truth, facts, or most pertinent information about someone or something.  
 __lucky loser__ A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
 __lump in (one’s) throat__  
 __make a fuss__  
@@ -223,6 +237,7 @@ __mark my word(s)__
 __mess around__  
 __mince no words__ To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
 __mixed bag__  
+__mom-and-pop__  
 __more than meets the eye__  
 __mother__ _This mother really works._  
 __move the needle__  
@@ -243,6 +258,7 @@ __oddly enough__
 __off-the-cuff__ :dart:  
 __on (one’s) own volition__  
 __on a lark__  
+__on fire__ __3__ Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._  
 __on fleek__ _slang_ A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_  
 __on steroids__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
@@ -268,6 +284,7 @@ __pick (one’s) brain(s)__
 __pick on (someone or something)__  
 __pick someone up__ _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__  
+__pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
 __picture postcard__  
 __pipe dream__  
 __piss and vinegar__  
@@ -292,6 +309,7 @@ __ring a bell__
 __ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
 __rock the boat__  
 __roll out__  
+__round something out__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __run amok__  
 __run down__  
@@ -334,10 +352,12 @@ __so much so__ To such an extent or great degree (that).
 __so-and-so__  
 __soldier of fortune__  
 __soldier on__ To continue doing something with determination or resolve, despite difficulties or an unlikely chance of succeeding.  
+__sound the alarm__  
 __spaced (out)__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
 __spill the beans__  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
+__spin up__  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
 __spot on__  
 __spruce up__ :dart:  
@@ -349,11 +369,12 @@ __stay put__ To not move or leave; to remain in same location or position.
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __step in__  
 __step on it__  
+__stick out like a sore thumb__ (stick out a mile) Be very prominent or conspicuous.  
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __sure thing__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
-__swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
+__swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
 __tag along__  
 __take (great) pains (to do something)__  
 __take (someone or something) for granted__  
@@ -366,6 +387,7 @@ __talk the talk__
 __tall story__  
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __test the waters__  
+__thang__ A facetious or slang form of _thing._  
 __the (hand)writing is on the wall__  
 __the die was cast__ (the dice were cast)  
 __the frosting on the cake__  
@@ -378,7 +400,7 @@ __the next big thing__ A future trend. _Designers will discuss the next big thin
 __the nitty-gritty__  
 __the powers that be__  
 __the sky is the limit__  
-__the usual suspects__ :two: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
+__the usual suspects__ :three: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
 __then again__  
 __thete you go__  
 __thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
@@ -431,6 +453,8 @@ __wherever you go, there you are__
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
 __whoopsie-daisy__  
+__wild goose chase__  
+__wild__  
 __win over__  
 __window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
