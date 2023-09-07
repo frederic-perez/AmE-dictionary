@@ -25,11 +25,13 @@ __avuncular__ _adj_
 __backfire__ _v_  
 __badinage__  
 __balk__ _v_  
+__Balkanize__ _v tr_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
 __Bar Mitzvah__ _n_ :three::hammer:  
 __barbed__ _adj_ _Barbed humor._  
 __barrel__ _v intr_ _informal_ To move or progress rapidly.  
+__barstool__ _n_  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlements__ _n_  
 __bearing__ _n_ _His casual bearing._  
@@ -49,9 +51,11 @@ __bird strike__ _n_ A a collision of an aircraft with a bird.
 __bland__ _adj_  
 __bleary-eyed__ _adj_  
 __bloc__ _n_  
+__blood thinner__ _n_ A drug used to inhibit blood clotting.  
 __blubbering__ _v_ :two::hammer:  
+__bluff__ _v_  
 __bodhi tree__  
-__boilerplate__  
+__boilerplate__ _n_ :two::hammer:  
 __boomtown__ _n_ A town experiencing an economic or a population boom.  
 __borak__ _n_ Rubbish; nonsense.  
 __borscht belt__  
@@ -201,7 +205,7 @@ __flat__ _adv_
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
-__flounder__  
+__flounder__ _v_ :two::hammer:  
 __flybys__ _n_  
 __flywheel__ _n_  
 __foible__ _n_ :two::hammer:  
@@ -240,6 +244,7 @@ __gruesome__
 __gunbelt__  
 __gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
 __hackneyed__ _adj_  
+__hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_ :two::hammer:  
 __hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. Also called _hash brown potatoes._  
@@ -283,6 +288,7 @@ __humdrum__
 __hurriedly__  
 __hush__ _n_ :two::hammer:  
 __hypochondriac__  
+__impel__ _v tr_  
 __impermanence__ _n_ The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
 __inanely__ _adv_  
@@ -327,6 +333,7 @@ __landmark__ _adj_ _A landmark study._
 __lawyer__  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
 __light-headed__ _adj_  
+__lightbulb moment__ _n informal_ A moment of sudden inspiration, revelation, or recognition.  
 __lilt__ _n_  
 __listless__ _adj_  
 __listlessly__  
@@ -411,6 +418,7 @@ __muscatel__
 __muttering__ _v_  
 __myriad__ _n_ /MEER-ee-ud/  
 __nab__ _v_  
+__napping__ _adj_ Not prepared or vigilant. _The blow caught him napping._  
 __nary__  
 __nattering__  
 __necktie__ _n_ :es: corbata  
@@ -513,6 +521,8 @@ __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce
 __pool table__  
 __pool__ _v_  
 __porky__  
+__posit<sup>1</sup>__ _v tr_  
+__posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __potter__ _v_  
 __pout__ _v_  
 __preen__ _v_ :two::hammer: /PREEN/  
@@ -718,7 +728,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smithy__ _n_ _A working smithy._  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smokejumper__ _n_ A firefighter who parachutes to forest fires inaccessible to ground crews.  
-__smorgasbord__ _n_ __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
+__smorgasbord__ _n_ :two: __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
 __snap__ _n_  
@@ -760,6 +770,7 @@ __stamina__
 __stance__ _n_  
 __stately__ _adj_ :two::hammer: _A stately building._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
+__stationary bicycle__  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
@@ -787,6 +798,7 @@ __stringer__ _n_
 __strummy__  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
+__subvocalize__  
 __succubus__ _n_  
 __suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
 __summonses__  
