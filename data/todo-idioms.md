@@ -16,6 +16,7 @@ __about to (do something)__
 __across the pond__  
 __ahead of the curve__  
 __all over the place__  
+__all shook up__  
 __angle for (something)__  
 __any way you slice it__  
 __as ever__ _As ever, he was right._  
@@ -47,6 +48,7 @@ __bona fide__
 __bush league__ _It was a bush league fuck-up._  
 __bust up__ _He had a way of saying things that busted us up._  
 __by all means__  
+__can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
 __carve out__  
 __case closed__ :two::hammer:  
@@ -54,6 +56,7 @@ __catch wind__
 __cautionary tale__  
 __chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another.  
 __chances are__  
+__chi-chi__  
 __churn out__  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
 __confide in (one)__  
@@ -62,10 +65,12 @@ __cut it__ _I feel like a rookie who’s been called up to the big leagues and j
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
+__dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dingy__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __drag (one’s) feet__  
+__dressed to the nines__  
 __en route__  
 __every so often__  
 __face the music__  
@@ -88,6 +93,7 @@ __freak out__
 __from A to Z__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
 __full of (oneself)__  
+__fun and games__  
 __game changer__  
 __get a toehold__  
 __get ahead of (oneself)__  
@@ -98,6 +104,7 @@ __give it a go__
 __give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
 __go places__  
+__gobble down__  
 __goes without saying__  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
@@ -126,6 +133,7 @@ __hand (something) to (someone) on a plate__ To give or relinquish something to 
 __hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
+__hang on to your hat__ Get ready for what’s coming or about to happen!  
 __hang out__ __1__ To spend time in a place habitually. _Is this where you guys hang out all the time?_ __2__ To spend time aimlessly; to waste time. _Bill: What are you doing this afternoon? Tom: Oh, I’ll just hang out._ _Kids hang out too much these days._  
 __hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt. _Don’t just stare at me with that hangdog look. You’ve already made a mess of things, so now you have to deal with it!_  
@@ -178,10 +186,13 @@ __in the middle of nowhere__
 __in the zone__  
 __it (always) pays to (do something)__  
 __it is what it is__ :two: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable.  
+__jack-off__ :two::hammer: _Harry made the jack-off sign._  
 __jock__  
 __jump up and down__  
+__K-car__  
 __knocked (one) sideways__  
 __lash about__ _Lads lashing about._  
+__lash out__  
 __lavish (someone or something) with (something)__  
 __lighten (one’s) wallet__  
 __lip service__  
@@ -193,6 +204,7 @@ __lucky loser__ A sports competitor (player or team) who loses a match in a knoc
 __lump in (one’s) throat__  
 __make a fuss__  
 __make inroads (in/into something)__  
+__mark my word(s)__  
 __mess around__  
 __mince no words__ To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
 __mixed bag__  
@@ -200,8 +212,9 @@ __more than meets the eye__
 __mother__ _This mother really works._  
 __move the needle__  
 __mug__ _Getting your mug on TV._  
+__my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
-__name names__  
+__name names__ :two::hammer:  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
@@ -210,13 +223,19 @@ __no big deal__ :dart:
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged.  
 __no-holds-barred__ _No-holds-barred debates._  
 __note to self__  
+__oater__  
 __oddly enough__  
 __off-the-cuff__ :dart:  
 __on (one’s) own volition__  
+__on a lark__  
+__on steroids__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the make__  
+__on the ropes__  
+__on the shelf__  
 __one-on-one__  
 __open to question__  
+__out of (one’s) gourd__  
 __out of whack__  
 __out of whole cloth__ :astonished:  
 __out-and-out__  
@@ -234,11 +253,14 @@ __pick on (someone or something)__
 __pick someone up__ _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__  
 __picture postcard__  
+__pipe dream__  
+__piss and vinegar__  
 __play (someone) like a fiddle__ (play (someone) like a piano) _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __play it safe__  
 __play the field__  
 __plead ignorance__ _It was best for me to plead ignorance._  
 __put (one) off (something)__  
+__put the skids to__  
 __put through the ringer__  
 __put two and two together__  
 __quick buck__  
@@ -271,6 +293,7 @@ __shame on (one)__
 __shed (some) light on (something)__  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
 __shit bricks__ To become extremely worried or frightened.  
+__shit-heel__ (shitheel)  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __shtick__ _Sometimes he pushed his shtick a little too far._  
