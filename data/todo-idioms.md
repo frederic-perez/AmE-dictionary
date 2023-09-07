@@ -33,11 +33,13 @@ __back out (of something)__ _If he’d had an honorable way to back out of the j
 __back to basics__  
 __backpedal__  
 __bad boy__  
+__bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I don’t have any plans tonight—just staying home with bae._  
 __ball of wax__ _slang_ An unspecified set of items or circumstances: _went shopping, had dinner, saw a play—the whole ball of wax._ _This, it struck me, was the whole ball of wax._  
 __bang for (one’)/the buck__ A lot of value for little cost.  
 __basket case__  
 __be at (one’s) wit’s end__  
 __be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
+__be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __beat about the bush__  
 __been there, done that__  
 __between a rock and a hard place__  
@@ -50,6 +52,7 @@ __bust up__ _He had a way of saying things that busted us up._
 __by all means__  
 __can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
+__career cushioning__ Career cushioning is an informal term for the practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
 __carve out__  
 __case closed__ :two::hammer:  
 __catch wind__  
@@ -77,6 +80,7 @@ __face the music__
 __fair enough__  
 __fall from grace__  
 __fall short__  
+__fam__  
 __flake out__  
 __flesh out__  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
@@ -151,6 +155,16 @@ __hark back__ _Harking back to the past._
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
 __harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
+__hash slinger__  
+__have a (good/solid/sound/etc.) grasp of/on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a solid grasp of the material, as you’ll be tested on it next week._  
+__have a crush on (someone)__  
+__have a fable for (something)__ To have a strong or particular preference, affinity, or weakness for something. _I always had a fable for animals growing up, so I knew that I wanted to be a veterinarian someday._  
+__have a few__ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
+__have a fling (with someone)__ To have a brief, noncommittal sexual relationship (with someone). _The professor lost her job for having a fling with one of her students._  
+__have a go (at someone or something)__  
+__have a good day__ _cliché_ An expression of farewell. _Sounds great, Bob. I’ll talk to you tomorrow. Have a good day!_  
+__have a handle on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a handle on the material, as you’ll be tested on it next week._  
+__have enough on (one’s) plate__  
 __have skin in the game__  
 __have the last laugh__  
 __head over heels__  
@@ -173,6 +187,7 @@ __hophead__
 __hoping agaínst hope__  
 __hot-button__ _Hot-button social issues._  
 __how come__  
+__humblebrag__  
 __if you know what I mean__  
 __if you will__  
 __in (high) hopes of (something)__  
@@ -228,6 +243,7 @@ __oddly enough__
 __off-the-cuff__ :dart:  
 __on (one’s) own volition__  
 __on a lark__  
+__on fleek__ _slang_ A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_  
 __on steroids__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the make__  
@@ -265,6 +281,7 @@ __put through the ringer__
 __put two and two together__  
 __quick buck__  
 __quid pro quo__  
+__quite quitting__  
 __ram into (someone or something)__  
 __red flag__  
 __reduce (one) to tears__  
@@ -377,7 +394,9 @@ __to a T__
 __to his name__  
 __to the fore__  
 __to the hilt__ As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
+__Tom Swifty__  
 __tongue in cheek__  
+__toss (one’s) hat in(to) the ring__  
 __touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touché__  
 __trash talk__ _I won’t trash talk._  
