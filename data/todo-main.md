@@ -5,12 +5,13 @@ __achoo__
 __acolyte__ _n_  
 __aflutter__  
 __afoot__  
-__agency__ _n_ _We must use our agency._  
+__agency__ _n_ :two::hammer: _We must use our agency._  
 __air__ _v_  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __allay__ _v_  
 __aloof__ _adj_ :two::hammer: _Commanders with an aloof demeanor._  
 __annuity__ _n_  
+__ante__ _n_ _Burt amps up the ante._  
 __aplomb__ _n_ :dart:  
 __apnea__ _n_  
 __apprehension__  
@@ -48,6 +49,7 @@ __bird strike__ _n_ A a collision of an aircraft with a bird.
 __bland__ _adj_  
 __bleary-eyed__ _adj_  
 __bloc__ _n_  
+__blubbering__ _v_ :two::hammer:  
 __bodhi tree__  
 __boilerplate__  
 __boomtown__ _n_ A town experiencing an economic or a population boom.  
@@ -66,18 +68,21 @@ __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it makin
 __Candy Land__ _n_ (game?)  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
+__carport__ _n_ :two::hammer:  
 __catnip__ _n_ :es: hierba gatera  
 __catwalk__ _n_  
 __caustic__ _adj_ /KAWSS-tik/  
 __cave__ _v_  
+__chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
 __chagrin__  
 __chestnut__ _n_ _He uttered memorable chestnuts._  
 __china clay__  
+__chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
 __Chutes and Ladders__ _n_  
 __clatter__ _n_  
-__cloying__  
-__cloyíng__  
+__cloying__ _adj_ :three::hammer:  
 __cog__ _n_ _A bland cog in the wheel._  
+__coiffed__ _v_  
 __color scheme__ _n_ A particular combination of colors. _They chose an unusual color scheme for the living room._  
 __commiserate__  
 __communal__ _adj_ _The communal bathroom is down the hall._  
@@ -105,12 +110,14 @@ __debonnaire__ _adj_
 __decommission__ _v_  
 __deed__ _n_ :two::hammer: _The deed was set in motion._  
 __deep-six__ _v_ _Bonuses were being deep-sixed._  
+__deliverance__  
 __deluge__ _n_  
 __despondency__ _n_  
 __destitute__ _adj_  
 __dharma__ _n_  
 __didgeridoo__ _n_  
 __diffidence__  
+__dour__  
 __easy chair__  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
@@ -161,6 +168,7 @@ __expat__
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
 __extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
 __extolled__ _v_  
+__extricate__ _v_  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
@@ -216,6 +224,7 @@ __frisson__ _n_ _A frisson of excitement._
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __garbled__  
 __gargantuan__ _adj_ _Gargantuan ego._  
+__gazelle__ _n_  
 __genial__ _adj_  
 __giddy__ _adj_  
 __giggle__ _v_  
@@ -242,6 +251,7 @@ __hay fever__
 __heady__ _adj_  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
 __heartfelt__ _adj_ :two: Deeply or sincerely felt; earnest.  
+__heartthrob__  
 __hearty__ _adj_  
 __heat pump__ _n_  
 __heckle__ _v tr_  
@@ -281,12 +291,14 @@ __inkling__
 __inpatient__  
 __inquest__  
 __insouciance__ _n_  
+__insouciant__  
 __integer__ _n_ :mega:  
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
 __interpolate__ _v_ /in-TER-puh-layt/  
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __intonation__ _n_  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
+__irksome__  
 __iron maiden__ _n_ Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
 __jamboree__  
 __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
@@ -395,6 +407,7 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __mullet__ _n_  
 __mulligans__  
 __mumps__ _n_ (disease)  
+__muscatel__  
 __muttering__ _v_  
 __myriad__ _n_ /MEER-ee-ud/  
 __nab__ _v_  
@@ -409,6 +422,7 @@ __nit__ _n_
 __nonplussed__  
 __nosedive<sup>1</sup>__ _n_  
 __nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._  
+__noshed__ _v_  
 __notch__  
 __notwithstanding__ _adv, conj, prep_ :three::hammer:  
 __nunchucks__  
@@ -541,6 +555,7 @@ __qualm__ _n_
 __querulous__ _adj_  
 __quiddity__ _n_  
 __quiescent__ _adj_ /kwy-ESS-unt/  
+__quiff__ _n_  
 __quirk__ _n_  
 __racketeer__ _n_  
 __raillery__ _n_  
@@ -548,6 +563,7 @@ __rambler__ _n_
 __rambunctious__  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
+__ransack__ _v_  
 __rasp__ _n_  
 __rationalize__ _v_ :dart:  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
@@ -605,6 +621,7 @@ __risk stratification__ _n_ A formal estimate of the probability of a person’s
 __roadblock__ _n_  
 __rollout__ _n_  
 __roped__ _v_  
+__roundhouse__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __ruefully__  
@@ -662,6 +679,7 @@ __shady__
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
+__shear__ _v_ :two::hammer: (shorn)  
 __shed__ _v_ _The lawyers shed their vests and loosened their neckties._  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shirk__ _v_ :dart: _He shirked the tasks._  
@@ -685,11 +703,13 @@ __skittering__
 __skittish__  
 __skullduggery__ _n_  
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
+__sled__ _n_ :two::hammer:  
 __sleepaway__  
 __slight__ _adj_ _A slight reason._  
 __slink__ _v_  
 __slog__ _n_  
 __slothful__ _adj_  
+__sluice__ _v_  
 __sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
 __sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
 __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.  
@@ -712,6 +732,7 @@ __sole__ _n_ Lean flesh of any of several flatfish.
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __soon enough__ _adv_ :two: Without being tardy. _Syn_ in time  
 __sotto voce__  
+__souse__  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
@@ -766,7 +787,9 @@ __stringer__ _n_
 __strummy__  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
+__succubus__ _n_  
 __suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
+__summonses__  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
@@ -779,6 +802,7 @@ __survivalist__ _n_ /səˈvaɪvəlɪst/
 __swami__ _n_ :two::hammer:  
 __swashbuckle__ _v_  
 __swell__ _adj_  
+__swoon__ _v_  
 __syllabicate__ _v_  
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
@@ -843,6 +867,7 @@ __trite__ _adj_
 __troika__  
 __trudge__ _v_  
 __tryptophan__ _n_ :mega: (tryptophane)  
+__tureen__ _n_ :es: sopera _Soup tureens._  
 __turnkey__  
 __tussle__ _v intr_  
 __twat__  
@@ -880,9 +905,11 @@ __valence__ _n_
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
+__vaunted__ _adj_ Praised more than deserved.  
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __verdict__  
 __vicinity__ _n_  
+__vicissitude__ _n_ :pencil2:  
 __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
 __vignette__ _n_  
 __vise__ _n_  
@@ -914,3 +941,4 @@ __writ__ _n_
 __wrung__ _v_ _They have wrung their hands._  
 __yammering__  
 __yo-yo__ _n_  
+__yowl__ _v_  
