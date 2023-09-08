@@ -106,6 +106,7 @@ __lbs.__ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs.
 __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
+__LLM__ _Computers_ Large language model: a type of machine learning algorithm trained on extremely large data sets of existing language and designed to generate new, naturalistic responses to prompts.  
 __LZ__ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __MAC__  
 __MC__  

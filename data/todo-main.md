@@ -1,5 +1,6 @@
 __abet__ _v_  
 __ablutions__  
+__abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
 __acerbic__  
 __achieve__ _v_ :mega:  
 __achoo__  
@@ -12,6 +13,7 @@ __air__ _v_
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __allay__ _v_  
 __aloof__ _adj_ :two::hammer: _Commanders with an aloof demeanor._  
+__ambiguous__ _adj_ /am-BIG-yuh-wus/  
 __annuity__ _n_  
 __ante__ _n_ _Burt amps up the ante._  
 __aplomb__ _n_ :dart:  
@@ -99,6 +101,7 @@ __color scheme__ _n_ A particular combination of colors. _They chose an unusual 
 __commiserate__  
 __communal__ _adj_ _The communal bathroom is down the hall._  
 __compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
+__complaisance__ _n_ A disposition or tendency to yield to the will of others. _Syn_ deference, compliancy, obligingness, compliance  
 __compulsive__ _adj_ _Compulsive thoughts._  
 __conflated__  
 __confound__ _v_  
@@ -107,6 +110,7 @@ __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous thi
 __construed__ _v_  
 __contain__ _v_ _He could barely contain his saliva._  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
+__contraption__ _n_ A device that is very useful for a particular job. _Syn_ gizmo, appliance, contrivance, gadget, widget, gismo, convenience  
 __contrive__ _v_  
 __contrived__  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
@@ -132,14 +136,17 @@ __deluge__ _n_
 __despondency__ _n_  
 __destitute__ _adj_  
 __dharma__ _n_  
+__diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
 __didgeridoo__ _n_  
 __diffidence__  
 __discombobulated__  
+__disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
 __doppelganger__ _n_  
 __dour__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
+__effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
 __egress__  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
@@ -245,9 +252,11 @@ __free-range__ _adj_ _There, free-range chickens were given right-of-way in the 
 __fret__ _v_ :dart:  
 __fright__ _n_ _You gave me quite a fright, sonny!_  
 __frisson__ _n_ _A frisson of excitement._  
+__funambulism__ _n_ /fyoo-NAM-byuh-liz-uhm/  
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __garbled__  
 __gargantuan__ _adj_ _Gargantuan ego._  
+__gauntlet__ _n_ /GAWNT-lut/  
 __gazelle__ _n_  
 __genial__ _adj_  
 __giddy__ _adj_  
@@ -265,6 +274,7 @@ __gruesome__
 __gunbelt__  
 __gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
 __hackneyed__ _adj_  
+__hallucinate__ _v_ _Computers, Digital Technology_ (of a machine learning program) To produce false information contrary to the intent of the user and present it as if true and factual.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_ :two::hammer:  
@@ -308,6 +318,7 @@ __hoot__ _v_
 __huckster__ _n_  
 __humdrum__  
 __hurriedly__  
+__husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __hush__ _n_ :two::hammer:  
 __hypochondriac__  
 __impel__ _v tr_  
@@ -410,6 +421,7 @@ __microcosm__ _n_ /MY-kruh-kah-zum/
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
+__militate__ _v intr_ MIL-i-tayt/ To exert a strong influence, either for or against something.  
 __minnow__  
 __mire__ _v_ _He was mired in his fixed mindset._  
 __mirthless__  
@@ -435,6 +447,7 @@ __moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little 
 __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morale__ _n_  
+__morass__ _n_  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __mull__ _v_ :two::hammer:  
 __mullet__ _n_  
@@ -523,6 +536,7 @@ __phlox__ _n_ :three::hammer:
 __picayune__ _adj, n_  
 __pickax__ _n_ (pickaxe)  
 __picky__  
+__pig Latin__  
 __piggybacker__ _n_  
 __pilfer__ _v_  
 __pilfered__  
@@ -571,6 +585,7 @@ __procurement__ _n_
 __profile__ _v_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
+__pronation__ _n_ /pro-NAY-shuhn/  
 __prophylaxis__ _n_  
 __proponent__ _n_  
 __prosty__  
@@ -630,6 +645,7 @@ __redcon<sup>1</sup>__ _n_
 __redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
+__redound__ _v_ /rih-DOWND/  
 __redress__  
 __redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
 __reef__ _n_  
@@ -950,6 +966,7 @@ __unpack__
 __unrepentant__  
 __unseemly__  
 __unspoken__ _adj_  
+__upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
