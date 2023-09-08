@@ -1,8 +1,10 @@
+__abet__ _v_  
 __ablutions__  
 __acerbic__  
 __achieve__ _v_ :mega:  
 __achoo__  
 __acolyte__ _n_  
+__affect__ _v_ _He tried to affect nonchalance._  
 __aflutter__  
 __afoot__  
 __agency__ _n_ :two::hammer: _We must use our agency._  
@@ -40,7 +42,8 @@ __befall__ _v_
 __belatedly__  
 __bellowing__ _v_  
 __bemoan__ _v_ _Esquith bemoans the lowering of standards._  
-__bereavement__ _n_ :two::hammer:  
+__bequeathed__ _v_  
+__bereavement__ _n_ :three::hammer:  
 __Berlitz__ _n_ A brand of language skills learning. During the teaching of the language all instruction is done in the target language.  
 __besotted__  
 __bicker__ _v_  
@@ -49,6 +52,7 @@ __bigfoot__ _v_ To apply one’s authority to as a Bigfoot: _bigfooting his name
 __bilk__ _n_ _The land of bilk and money._  
 __bird strike__ _n_ A a collision of an aircraft with a bird.  
 __bland__ _adj_  
+__blandishment__ _n_ _Sundry blandishments._  
 __bleary-eyed__ _adj_  
 __bloc__ _n_  
 __blood thinner__ _n_ A drug used to inhibit blood clotting.  
@@ -64,11 +68,15 @@ __bounce castle__ _n_
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __braying__ _v_  
 __brio__ _n_  
+__broach__ _v_  
 __brood__ _v_  
 __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
 __bumbling__ _v_  
+__burnish__ _v_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
+__cagey__  
+__cajole__ _v_  
 __Candy Land__ _n_ (game?)  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
@@ -93,6 +101,7 @@ __communal__ _adj_ _The communal bathroom is down the hall._
 __compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
 __compulsive__ _adj_ _Compulsive thoughts._  
 __conflated__  
+__confound__ _v_  
 __confounded__ _adj_ :two::hammer:  
 __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
 __construed__ _v_  
@@ -110,10 +119,14 @@ __creep__
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
 __crook__  
+__cuckolded__  
+__cure-all__ _n_  
+__customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
 __debonnaire__ _adj_  
 __decommission__ _v_  
 __deed__ _n_ :two::hammer: _The deed was set in motion._  
 __deep-six__ _v_ _Bonuses were being deep-sixed._  
+__defuse__ _v_  
 __deliverance__  
 __deluge__ _n_  
 __despondency__ _n_  
@@ -121,8 +134,13 @@ __destitute__ _adj_
 __dharma__ _n_  
 __didgeridoo__ _n_  
 __diffidence__  
+__discombobulated__  
+__doppelganger__ _n_  
 __dour__  
+__earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
 __easy chair__  
+__ebb__ _v_ _My confidence was ebbing._  
+__egress__  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
 __emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
@@ -136,7 +154,7 @@ __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; 
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
-__enthuse__ _v_  
+__enthuse__ _v_ :two::hammer:  
 __enthused__ _adj_  
 __entrain__ _v tr_  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
@@ -206,9 +224,10 @@ __flit__ _n_
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __flounder__ _v_ :two::hammer:  
+__flustered__ _adj_ :dart: In a state of confusion or agitation.  
 __flybys__ _n_  
 __flywheel__ _n_  
-__foible__ _n_ :two::hammer:  
+__foible__ _n_ :three::hammer:  
 __foist__ _v_  
 __folderol__  
 __footbullets__  
@@ -224,6 +243,7 @@ __fractious__
 __frazzle__ _v_  
 __free-range__ _adj_ _There, free-range chickens were given right-of-way in the streets._  
 __fret__ _v_ :dart:  
+__fright__ _n_ _You gave me quite a fright, sonny!_  
 __frisson__ _n_ _A frisson of excitement._  
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __garbled__  
@@ -235,6 +255,7 @@ __giggle__ _v_
 __gimcrackery__  
 __glint__  
 __gossamer__  
+__grate__ _v_ _Grating voice._  
 __great-uncle__  
 __Greenwich Village__ _n_  
 __groupthink__  
@@ -267,6 +288,7 @@ __heliskiing__ _n_
 __helter-skelter__  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__heretofore__  
 __hex<sup>1</sup>__ _n_ :dart: __1__ An evil spell; a curse. __2__ One that brings bad luck.  
 __hex<sup>2</sup>__ _v tr_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
@@ -292,11 +314,12 @@ __impel__ _v tr_
 __impermanence__ _n_ The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
 __inanely__ _adv_  
+__infirm__ _adj_  
 __injunction__ _n_ :two::hammer:  
 __inkling__  
 __inpatient__  
 __inquest__  
-__insouciance__ _n_  
+__insouciance__ _n_ :two::hammer:  
 __insouciant__  
 __integer__ _n_ :mega:  
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
@@ -314,6 +337,7 @@ __Jewfro__ _n_ A curly, bushy hairstyle worn by some Ashkenazi Jews.
 __jibed__ _v_  
 __Jody__ _n_  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
+__jostle__ _v_  
 __judgment__ _n_ :pencil2:  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
@@ -386,6 +410,7 @@ __microcosm__ _n_ /MY-kruh-kah-zum/
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
+__minnow__  
 __mire__ _v_ _He was mired in his fixed mindset._  
 __mirthless__  
 __miserly__ _adj_ :two::astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
@@ -411,6 +436,7 @@ __moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argum
 __moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __morale__ _n_  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__mull__ _v_ :two::hammer:  
 __mullet__ _n_  
 __mulligans__  
 __mumps__ _n_ (disease)  
@@ -427,6 +453,7 @@ __net__ _v_ (netted)
 __neuroses__ _n pl_ :two::hammer:  
 __ninja stars__  
 __nit__ _n_  
+__nonanswer__ _n_  
 __nonplussed__  
 __nosedive<sup>1</sup>__ _n_  
 __nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._  
@@ -434,7 +461,10 @@ __noshed__ _v_
 __notch__  
 __notwithstanding__ _adv, conj, prep_ :three::hammer:  
 __nunchucks__  
+__oafish__  
 __oblige__ _v_  
+__obliged__ _adj_ :two::hammer: _He happily obliged._ _I’d be obliged to you if you could arrange that._  
+__obligingly__  
 __off-the-cuff__  
 __once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
 __opprobrium__  
@@ -444,8 +474,10 @@ __outlay__
 __outstrip__ _v tr_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overhaul__ _n_  
+__overlain__ _v_  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __overly__ _adv_ :two::hammer:  
+__overrun__ _v_  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -521,6 +553,7 @@ __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce
 __pool table__  
 __pool__ _v_  
 __porky__  
+__portend__ _v_  
 __posit<sup>1</sup>__ _v tr_  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __potter__ _v_  
@@ -626,14 +659,17 @@ __ribbon candy__
 __ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __rife__ _adj_  
 __rigmarole__ _n_  
+__riled__ _v_  
 __ripe__  
 __risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
 __roadblock__ _n_  
+__roll-up__ _n_ :two: A cigarette that someone makes for themself, using tobacco and cigarette papers.  
 __rollout__ _n_  
 __roped__ _v_  
 __roundhouse__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
+__rueful__  
 __ruefully__  
 __rummy__ _n_  
 __run-in__ _n_ __1__ A quarrel or argument.  
@@ -788,6 +824,7 @@ __stoop__ _n_
 __stopgap__ _n_  
 __stovepipe hat__ _n_  
 __stow__ _v_  
+__stowed__ _v_  
 __straitjacket<sup>1</sup>__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
 __straitjacket<sup>2</sup>__ _v tr_ _They were straitjacketed by despair._  
 __streamer__ _n_  
@@ -798,20 +835,25 @@ __stringer__ _n_
 __strummy__  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
+__subdued__ _adj_ _Subdued voices._  
 __subvocalize__  
 __succubus__ _n_  
 __suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
 __summonses__  
+__sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__surmise__ _n_  
 __surmount__ _v_ _Surmount obstacles._  
 __surreptitiously__  
 __surrey__ _n_  
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
+__susurous__ _adj_ _The susurous swash of the sea._  
 __swami__ _n_ :two::hammer:  
+__swash__ _n_ _The susurous swash of the sea._  
 __swashbuckle__ _v_  
 __swell__ _adj_  
 __swoon__ _v_  
@@ -826,10 +868,12 @@ __tandem__ _n_
 __tangible__ _adj_  
 __tantalizing__  
 __tarnish__  
+__taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
 __team effort__ _n_ Something done by a group of people.  
 __teeny__ _adj_ Tiny.  
 __telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
 __telethon__ _n_  
+__telltale__  
 __telly__ _n_ :dart:  
 __temerity__ _n_ /tuh-MAIR-uh-tee/  
 __temper__ _v_ :two::hammer: (tempered)  
@@ -846,6 +890,7 @@ __terra cotta__ _n_ :pencil2:
 __terraform__ _v_  
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  
+__test-driven__  
 __testament__ _n_  
 __that much__ _adv_ To a certain degree.  
 __thicket__  
@@ -859,6 +904,7 @@ __tidbits__
 __time-saver__ _n_  
 __toil__ _v_  
 __tomfoolery__ _n_  
+__tommyrot__ _n informal_ Utter foolishness; nonsense.  
 __tongs__ _n pl_ :es: tenazas  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
@@ -871,12 +917,16 @@ __tradeoff__ _n_ :pencil2:
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __trappings__ _n pl_ :two::hammer:  
 __travesty__ _n_ /TRAV-uh-stee/  
+__trawl__ _v_  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __trickle__ _v_  
+__trilby__ _n_ :two::hammer:  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
 __trite__ _adj_  
 __troika__  
+__troubleshooter__ _n_  
+__truculent__ _adj_  
 __trudge__ _v_  
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tureen__ _n_ :es: sopera _Soup tureens._  
@@ -902,6 +952,7 @@ __unseemly__
 __unspoken__ _adj_  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
 __uproar__ _n_  
+__upside__ _n_ _The gig did have some upsides._  
 __utterance__  
 __vacantly__  
 __vacationer__ _n_  
@@ -942,6 +993,7 @@ __wild card__
 __willful__  
 __withholding__  
 __withstand__ _v_  
+__womenfolk__  
 __wont__ _n_  
 __woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
