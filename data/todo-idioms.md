@@ -9,10 +9,12 @@ __a breeze__ Something that is especially easy, effortless, or trifling to accom
 __a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a far cry from (something)__  
 __a fine line__  
+__a fool’s errand__  
 __a hard pill to swallow__  
 __a hell of a someone or something__  
 __a hot-button issue__  
 __a piece of cake__  
+__a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a sounding board__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
@@ -28,17 +30,22 @@ __be at a crossroads__
 __be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __beat about the bush__  
+__beauty sleep__ Sleep that helps one to look refreshed and attractive. Usually said humorously.  
 __been there, done that__  
 __before you know it__  
 __between a rock and a hard place__  
+__beyond measure__  
 __biggie__  
+__bite the hand that feeds (you)__  
 __blindside__  
 __blow one’s top at someone__  
 __bona fide__  
 __bush league__ _It was a bush league fuck-up._  
 __bust up__ _He had a way of saying things that busted us up._  
+__busy oneself with someone or something__  
 __butt-kicker__  
 __by all means__  
+__by and by__  
 __by no means__ Not in any way; not at all; absolutely not.  
 __can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
@@ -50,20 +57,30 @@ __catch wind__
 __cautionary tale__  
 __chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another.  
 __chances are__  
+__chapter and verse__  
 __chi-chi__  
 __churn out__  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
+__clincher__ The final element; the straw that broke the camel’s back.  
 __clock in__ _Today’s piece clocks in at 728 words._  
+__comfort eating__  
 __confide in (one)__  
+__couch potato__  
 __crazy town__  
 __cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
+__cut ties__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
+__devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
 __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dingy__  
+__dish out__  
 __do a U-turn__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
+__dog eat dog__  
+__dolled up to the nines__  
+__doormat__  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double-edged sword__ Something that can be both beneficial and problematic.  
 __drag (one’s) feet__  
@@ -80,6 +97,7 @@ __flake out__
 __flesh out__  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
 __fly by__  
+__fly in the face of someone or something__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __fool with (someone or something)__  
 __for better or (for) worse__  
@@ -98,12 +116,16 @@ __game changer__
 __get a toehold__  
 __get ahead of (oneself)__  
 __get lucky__  
+__get the better of (someone or something)__  
 __get the hang of (something)__  
+__get to someone__ _Don’t let her get to you._  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __gin up__ _He didn’t gin up the courage to tell her._  
 __give it a go__  
 __give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
+__go ape__  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
+__go berserk__  
 __go places__  
 __gobble down__  
 __goes without saying__  
@@ -173,16 +195,20 @@ __heaven on earth__
 __helluva__  
 __help (one) out__  
 __here we go__  
+__here’s to (someone or something)__  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
 __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit home__  
 __hold (one’s) breath__  
+__hold (one’s) tongue__  
 __hold (someone, something, or an animal) back (from someone or something)__  
+__hold a grudge__  
 __hold on tight__  
 __hold on__  
 __hold someone back__  
 __hoo-ha__  
+__hop on the bandwagon__  
 __hope for the best__  
 __hophead__  
 __hoping agaínst hope__  
@@ -193,6 +219,7 @@ __if you know what I mean__
 __if you will__  
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
+__ín a jiffy__ Immediately or very quickly; at once.  
 __in deep trouble__  
 __in denial__  
 __in donkey’s years__ _I haven’t thought about it in donkey’s years._  
@@ -207,9 +234,11 @@ __jack-off__ :two::hammer: _Harry made the jack-off sign._
 __jock__  
 __jump to conclusions__ To make decisions or form opinions before one has all the pertinent facts.  
 __jump up and down__  
+__just out of curiosity__ A phrase used to express a sense of interest or a desire to know something without any particular reason or purpose.  
 __K-car__  
 __kicker__  
 __knocked (one) sideways__  
+__land on one’s feet__  
 __lash about__ _Lads lashing about._  
 __lash out__  
 __lavish (someone or something) with (something)__  
@@ -218,6 +247,7 @@ __lighten (one’s) wallet__
 __lip service__  
 __lo and behold__  
 __lock horns__  
+__loom large__ To seem imminent and cause worry or unease.  
 __lost on (one)__ Unappreciated or not understood, as of an idea.  
 __lowball__  
 __lowdown__ __2__ _n_ The truth, facts, or most pertinent information about someone or something.  
@@ -233,6 +263,7 @@ __mom-and-pop__
 __more than meets the eye__  
 __mother__ _This mother really works._  
 __move the needle__  
+__Mr. Right__  
 __mug__ _Getting your mug on TV._  
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
@@ -242,10 +273,15 @@ __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervous
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __night and day__  
+__nip (something) in the bud__ :two::hammer:  
 __no big deal__ :dart:  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged.  
 __no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-barred relationship._  
+__not (one’s) first rodeo__  
+__not enough room to swing a cat__ :two: Very little or no space; very cramped quarters or proximity. _Many families are forced to live in tiny apartments with not enough room to swing a cat._  
 __not go amiss__  
+__not know (one) from Adam__  
+__not to say__  
 __note to self__  
 __oater__  
 __oddly enough__  
@@ -255,11 +291,13 @@ __on a lark__
 __on fire__ __3__ Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._  
 __on fleek__ _slang_ A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_  
 __on steroids__  
+__on the bleeding edge__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the grapevine__  
 __on the make__  
 __on the ropes__  
 __on the shelf__  
+__once and for all__  
 __one-on-one__  
 __open to question__  
 __out and about__ :two::hammer:  
@@ -278,7 +316,7 @@ __pave the way (for someone or something)__
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __perk up__  
 __pick (one’s) brain(s)__  
-__pick on (someone or something)__  
+__pick on (someone or something)__ :two::hammer:  
 __pick someone up__ _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__  
 __pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
@@ -291,6 +329,7 @@ __play dumb__
 __play it safe__  
 __play the field__  
 __plead ignorance__ _It was best for me to plead ignorance._  
+__prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
 __push up the daisies__  
 __put (one) off (something)__  
 __put the skids to__  
@@ -325,12 +364,13 @@ __schmaltz__
 __schmuck__  
 __secret weapon__  
 __seize the opportunity (to do something)__  
-__set eyes on (someone or something)__  
+__set eyes on (someone or something)__ :two::hammer:  
 __sexual tension__  
 __shame on (one)__  
 __shed (some) light on (something)__  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
 __shit bricks__ To become extremely worried or frightened.  
+__shit creek__  
 __shit-heel__ (shitheel)  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
@@ -339,6 +379,7 @@ __side hustle__
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__  
 __sit tight__ To wait patiently without taking any immediate action.  
+__skeletons in the cupboard__  
 __slam (someone or something)__  
 __slap on the wrist__  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
@@ -346,6 +387,7 @@ __sleight of hand__ :two::hammer:
 __slow food__  
 __smack (one’s) lips__ :two::hammer:  
 __smarty-pants__ :two::hammer:  
+__smell a rat__  
 __snafu__  
 __sneak peek__  
 __sniff out__  
@@ -355,6 +397,7 @@ __so much so__ To such an extent or great degree (that).
 __so-and-so__  
 __soldier of fortune__  
 __soldier on__ :two: To continue doing something with determination or resolve, despite difficulties or an unlikely chance of succeeding.  
+__sooner rather than later__ :dart:  
 __sound the alarm__  
 __spaced (out)__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
@@ -377,6 +420,7 @@ __stick out like a sore thumb__ (stick out a mile) Be very prominent or conspicu
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _Stone cold sober._  
+__suffice it to say__  
 __sure thing__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
@@ -387,6 +431,7 @@ __take aside__
 __take back__  
 __take charge__  
 __take names__  
+__take no prisoners__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the talk__  
 __tall story__  
@@ -457,6 +502,7 @@ __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so was
 __water under the bridge__ :dart: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
 __wear thin__ _My patience was wearing thin._  
+__weave (something) into (something) else__  
 __whack__  
 __what’s in store__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
@@ -471,6 +517,7 @@ __window dressing__ __2__ By extension, something that makes a person or thing l
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
 __wish (one) well__  
 __wishful thinking__ :es: espejismo, ilusión  
+__wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __yea or nay__  
 __you name it__ :two::hammer:  
