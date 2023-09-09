@@ -21,29 +21,6 @@ __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually 
 __ahead of the curve__  
 __all in all__ :two: Overall; mostly. This phrase is typically used when one is considering all aspects of something together. _Sure, it rained on our vacation, but all in all we had a great time._  
 __all over the place__  
-__all shapes and sizes__ :three: Many varieties. _These plants come in all shapes and sizes, so I’m sure you’ll find one that fits in your little apartment._  
-__all shook up__  
-__amount to__  
-__angle for (something)__  
-__any way you slice it__  
-__as ever__ _As ever, he was right._  
-__as it happens__ :two::hammer:  
-__as much__ Almost the same: _I thought as much._ _She said as much._  
-__at (long) last__  
-__at first blush__ Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
-__at heart__ _I’m a country girl at heart._  
-__at one’s wit’s end__  
-__at the end of the day__  
-__back and forth__  
-__back at square one__ :dart:  
-__back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
-__back to basics__  
-__backpedal__  
-__bad boy__  
-__bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I don’t have any plans tonight—just staying home with bae._  
-__ball of fire__  
-__ball of wax__ _slang_ An unspecified set of items or circumstances: _went shopping, had dinner, saw a play—the whole ball of wax._ _This, it struck me, was the whole ball of wax._  
-__bang for (one’)/the buck__ A lot of value for little cost.  
 __basket case__  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
 __be at (one’s) wit’s end__  

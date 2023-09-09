@@ -243,6 +243,8 @@ __all over the map__
 __all over the place<sup>1</sup>__ _adj_ :two: Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ :two: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
+__all shapes and sizes__ :three: Many varieties. _These plants come in all shapes and sizes, so I’m sure you’ll find one that fits in your little apartment._  
+__all shook up__  
 __all sizzle and no steak__ :two: Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted. _Everyone is in a panic over the supposed water shortages, but personally I think the whole thing is all sizzle and no steak._  
 __all that jazz__ :four: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
@@ -257,7 +259,7 @@ __amateur hour__ :two: A result, activity, task, or situation characterized by u
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ :two: To result in no tangible or appreciable difference.  
 __amount to something__  
-__amount to__ :five::hammer:  
+__amount to__ :six::hammer:  
 __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
 __an accident waiting to happen__  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
@@ -269,8 +271,10 @@ __an iron fist__
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __and all__  
+__angle for (something)__  
 __anonymous tip__ :two: Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
+__any way you slice it__  
 __anyone’s guess__ Something that no one knows for sure.  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
 __anything goes__ :three::hammer:  
@@ -292,13 +296,15 @@ __artsy__
 __as a duck takes to water__ _cliché_ Easily and naturally. _She took to singing just as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as blind as a bat__ Unable to see well.  
 __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
+__as ever__ _As ever, he was right._  
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
 __as good as it gets__ :five: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._ _Customer service is as good as it gets._  
 __as if to say__  
-__as it happens,__ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as it happens,__ :five: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
+__as much__ Almost the same: _I thought as much._ _She said as much._  
 __as of late__ :two::hammer:  
 __as of now__ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
@@ -309,6 +315,7 @@ __as yet__ :two: At this time; yet. Up to the present time; up to now. _No one h
 __as you please__  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
 __ask for trouble__  
+__at (long) last__  
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
@@ -321,7 +328,8 @@ __at any cost__ Regardless of the cost involved. _He wanted to save her life at 
 __at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
 __at every turn__ __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
-__at heart__ :two::hammer: _Most people are crooks at heart._  
+__at first blush__ Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
+__at heart__ :three::hammer: _Most people are crooks at heart._ _I’m a country girl at heart._  
 __at its best__ :two: Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._ _An excellent tribute to nature at its best._  
 __at its worst__  
 __at large__  
@@ -330,14 +338,14 @@ __at odds__ :seven: (be at odds) In disagreement; in conflict. _The overhaul hav
 __at once__ :two::hammer:  
 __at one button__ _The Prince did not value a knight at one button._  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
-__at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
+__at one’s wit’s end__ :two: At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
 __at peace__  
 __at someone’s disposal__  
 __at stake__  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of (one’s) tether__ Completely worn out, exasperated, or exhausted; having no more patience, endurance, or energy left. _Joshua has been throwing a tantrum all afternoon, and with all the other things I have to get done, I’m simply at the end of my tether!_  
-__at the end of the day__ :two::hammer:  
+__at the end of the day__ :three::hammer:  
 __at the expense of (someone or something)__  
 __at the forefront (of something)__ _In the clinical community, we need to be at the forefront._  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
@@ -354,25 +362,30 @@ __aye aye, sir__ _Aye aye, Captain._
 __B-Team__  
 __baby boomer__  
 __baby step__ :two::hammer:  
+__back and forth__  
+__back at square one__ :dart:  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back on the horse__  
+__back out (of something)__ _If he’d had an honorable way to back out of the job, he would have._  
 __back out__  
 __back to back__  
-__back to basics__  
+__back to basics__ :two::hammer:  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __back-of-the-envelope ideas__ Rough ideas.  
-__backpedal__ :two: To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
+__backpedal__ :three: To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
 __backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
 __backwater__  
 __bad blood__ :two::hammer:  
+__bad boy__  
 __bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
 __bad press__ :three: Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __badass__ :three::hammer:  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
+__bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I don’t have any plans tonight—just staying home with bae._  
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __bag__ :three: __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _World’s Strongest Man bags new job._  
 __balancing act__  
@@ -381,14 +394,15 @@ __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. 
 __ball and chain__ A wife.  
 __ball hog__ _sports_ A player who monopolizes the ball without including teammates in an attempt to score, move the ball, or maintain possession. Usually used for basketball and football (soccer). _Boy, you’re being a real ball hog today! Why don’t you pass it to one of your teammates for a change?_  
 __ball is in your court__ It is up to you to make the next decision or step.  
+__ball of fire__  
+__ball of wax__ _slang_ An unspecified set of items or circumstances: _went shopping, had dinner, saw a play—the whole ball of wax._ _This, it struck me, was the whole ball of wax._  
 __ball-buster__  
 __ballpark figure__ :two: A rough numerical estimate.  
 __ballyhoo__ _v_  
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
 __Band E__  
-__bang for one’s buck__ _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
-__bang for the buck__  
+__bang for (one’)/the buck__ :two: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
 __bank on something__  
 __bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
 __banker’s hours__ A limited work schedule (as banks were once known for having short work days and being closed on holidays and weekends). _You won’t be able to reach her on a Saturday—she keeps banker’s hours._  
