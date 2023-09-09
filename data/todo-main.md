@@ -5,6 +5,7 @@ __acerbic__
 __achieve__ _v_ :mega:  
 __achoo__  
 __acolyte__ _n_  
+__addle__ _v_  
 __affect__ _v_ _He tried to affect nonchalance._  
 __aflutter__  
 __afoot__  
@@ -30,6 +31,7 @@ __backfire__ _v_
 __badinage__  
 __balk__ _v_  
 __Balkanize__ _v tr_  
+__bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
 __bluff__ _v_  
@@ -49,10 +51,12 @@ __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chi
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
 __bumbling__ _v_  
 __burnish__ _v_  
+__busyness__  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __cagey__  
 __cajole__ _v_  
 __Candy Land__ _n_ (game?)  
+__cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
 __carport__ _n_ :two::hammer:  
@@ -76,10 +80,12 @@ __communal__ _adj_ _The communal bathroom is down the hall._
 __compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
 __complaisance__ _n_ A disposition or tendency to yield to the will of others. _Syn_ deference, compliancy, obligingness, compliance  
 __compulsive__ _adj_ _Compulsive thoughts._  
+__conceit__ _n_  
 __conflated__  
 __confound__ _v_  
-__confounded__ _adj_ :two::hammer:  
+__confounded__ _adj_ :three::hammer:  
 __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
+__connive__ _v_  
 __construed__ _v_  
 __contain__ _v_ _He could barely contain his saliva._  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
@@ -99,6 +105,7 @@ __crook__
 __cuckolded__  
 __cure-all__ _n_  
 __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
+__dalliances__ _n_  
 __debonnaire__ _adj_  
 __decommission__ _v_  
 __deed__ _n_ :two::hammer: _The deed was set in motion._  
@@ -112,10 +119,14 @@ __dharma__ _n_
 __diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
 __didgeridoo__ _n_  
 __diffidence__  
+__din__ _n_  
+__dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
 __discombobulated__  
 __disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
 __doppelganger__ _n_  
 __dour__  
+__downright__ _adj_ _Downright ridiculous._  
+__earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
@@ -171,6 +182,7 @@ __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its 
 __extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
 __extolled__ _v_  
 __extricate__ _v_  
+__exude__ _v_  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
@@ -189,7 +201,8 @@ __felon__
 __fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __feverish__ _adj_ _Feverish fantasies._  
 __fiasco__  
-__fib__ _v_ (fibbed)  
+__fib<sup>1</sup>__ _n_  
+__fib<sup>2</sup>__ _v intr_ (fibbed)  
 __fictive__ _adj_  
 __fiefdoms__ _n_  
 __filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
@@ -225,6 +238,7 @@ __free-range__ _adj_ _There, free-range chickens were given right-of-way in the 
 __fret__ _v_ :dart:  
 __fright__ _n_ _You gave me quite a fright, sonny!_  
 __frisson__ _n_ _A frisson of excitement._  
+__frumpy__ _adj_  
 __funambulism__ _n_ /fyoo-NAM-byuh-liz-uhm/  
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __garbled__  
@@ -235,7 +249,9 @@ __genial__ _adj_
 __giddy__ _adj_  
 __giggle__ _v_  
 __gimcrackery__  
+__git__ _n_ :three::hammer: _What a lying git that Carl had been._ _The poor deluded git._  
 __glint__  
+__gold dust__ _n_ __2__ A valuable or rare thing: _tickets for this match are gold dust._  
 __gossamer__  
 __grate__ _v_ _Grating voice._  
 __great-uncle__  
@@ -250,13 +266,15 @@ __hackneyed__ _adj_
 __hallucinate__ _v_ _Computers, Digital Technology_ (of a machine learning program) To produce false information contrary to the intent of the user and present it as if true and factual.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
-__haphazard__ _adj_ :two::hammer:  
+__haphazard__ _adj_ :three::hammer:  
+__hapless__  
 __hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. Also called _hash brown potatoes._  
 __hasty__  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._ _He hatched a scheme._  
 __haunted killer__ _n_ (game)  
 __haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
 __hay fever__  
+__hazel__ _adj_ _Gorgeous hazel eyes._  
 __heady__ _adj_  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
 __heartfelt__ _adj_ :two: Deeply or sincerely felt; earnest.  
@@ -294,11 +312,13 @@ __hurriedly__
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __hush__ _n_ :two::hammer:  
 __hypochondriac__  
+__ignoramus__ _n_ :two::hammer: An ignorant person.  
 __impel__ _v tr_  
 __impermanence__ _n_ The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
 __inanely__ _adv_  
 __infirm__ _adj_  
+__injuction__ _n_  
 __injunction__ _n_ :two::hammer:  
 __inkling__  
 __inpatient__  
@@ -332,6 +352,7 @@ __kibitz__ _v intr_ _Everyone’s kibitzing happily._
 __kiddie__ _n_ _A kiddie soccer game,_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __klondike__ _n_  
+__knackered__ _adj_  
 __knickers__ _n_ :camera:  
 __kookier__  
 __Labor Day__  
@@ -339,6 +360,7 @@ __lackluster__ _adj_ /LAK-luss-ter/
 __lampoon__ _v tr_ :dart:  
 __landmark__ _adj_ _A landmark study._  
 __lawyer__  
+__leaderboard__ _n_  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
 __light-headed__ _adj_  
 __lightbulb moment__ _n informal_ A moment of sudden inspiration, revelation, or recognition.  
@@ -359,6 +381,7 @@ __Machiavelli__
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
+__marginalia__ _n pl_ Notes in the margin or margins of a book.  
 __marque__ _n_ A model or brand of a manufactured product, especially an automobile. _Syn_ brand, trade name  
 __marshal__ _v_ :two::hammer:  
 __mashup__ _n_  
@@ -369,6 +392,7 @@ __matter-of-factly__ _adv_ :two::hammer:
 __maudlin__ _adj_ :two: /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
+__mauve__ _n_  
 __mawkish__ _adj_  
 __maypole__ _n_ :camera:  
 __measly__ _adj_ __1__ _informal_ Meagre in quality or quantity. _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
@@ -389,6 +413,7 @@ __mess around__
 __messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
 __mewl__ _v tr_ To cry or whimper as an infant or young child: _the infant, mewling and puking in the nurse’s arms._  
+__mezzanine__ _n_  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -437,6 +462,7 @@ __necktie__ _n_ :es: corbata
 __needle__ _v tr_  
 __net__ _v_ (netted)  
 __neuroses__ _n pl_ :two::hammer:  
+__nightcap__  
 __ninja stars__  
 __nit__ _n_  
 __nonanswer__ _n_  
@@ -446,6 +472,7 @@ __nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._
 __noshed__ _v_  
 __notch__  
 __notwithstanding__ _adv, conj, prep_ :three::hammer:  
+__nullify__ _v_  
 __nunchucks__  
 __oafish__  
 __oblige__ _v_  
@@ -488,14 +515,14 @@ __parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parry__ _v_  
-__parsnips__  
+__parsnip__ _n_ :three::hammer: :es: chirivía  
 __pea-brain__ _n informal_ A foolish or unintelligent person.  
 __peeps__ _n pl_ _slang_ Associates; friends. People.  
 __peewee__ _n_  
 __Pentecostal__  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __perficient__ _adj_ /puhr-FISH-uhnt/ Accomplishing or achieving desired results; effective.  
-__peripatetic__  
+__peripatetic__ _adj, n_ :two::hammer:  
 __periwinkle__  
 __perpetrator__ _n_  
 __perquisite__ _n_ /PER-kwuh-zut/  
@@ -556,6 +583,7 @@ __prime__ _v_
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
+__profligate__  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
 __pronation__ _n_ /pro-NAY-shuhn/  
@@ -588,12 +616,14 @@ __quiddity__ _n_
 __quiescent__ _adj_ /kwy-ESS-unt/  
 __quiff__ _n_  
 __quirk__ _n_  
+__racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_  
 __raillery__ _n_  
 __rambler__ _n_  
 __rambunctious__  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
+__ramrod__  
 __ransack__ _v_  
 __rasp__ _n_  
 __rationalize__ _v_ :dart:  
@@ -624,7 +654,8 @@ __redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” 
 __reef__ _n_  
 __reenact__ _v_  
 __reenactment__ _n_  
-__refrain__ _n_  
+__refrain<sup>1</sup>__ _v intr_ _Lorna refrained from comment._  
+__refrain<sup>2</sup>__ _n_  
 __relent__ _v intr_  
 __remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
@@ -658,12 +689,13 @@ __roped__ _v_
 __roundhouse__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
+__ruction__ _n_ A riotous disturbance; a noisy quarrel.  
 __rueful__  
 __ruefully__  
 __rummy__ _n_  
 __run-in__ _n_ __1__ A quarrel or argument.  
 __runabout__ _n, v_  
-__rung__ _n_  
+__rung__ _n_ :two::hammer: _The rung of the ladder._  
 __running account__ _n_ Current account.  
 __runoff__ _n_  
 __ruse__ _n_ :two::mega::hammer: /ruz/  
@@ -672,6 +704,7 @@ __salacious__ _adj_ :two:hammer:
 __salient__ _adj_ _A salient example._  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
+__salutary__ _adj_ _Salutary effects._  
 __salvo__ _n_ /SAL-voh/  
 __samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
@@ -686,6 +719,7 @@ __sangria__ _n_
 __sap__ _v tr_  
 __sartorial__ _adj_  
 __sashay__ _v intr_  
+__satays__ _n_  
 __satire__  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
@@ -751,6 +785,7 @@ __sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.
 __smarmy__ _adj_  
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smithy__ _n_ _A working smithy._  
+__smitten__  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smokejumper__ _n_ A firefighter who parachutes to forest fires inaccessible to ground crews.  
 __smorgasbord__ _n_ :two: __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
@@ -787,7 +822,7 @@ __squall__ _n_ _It’s just a passing squall._
 __squander__ _v tr_  
 __squat__ _adj_  
 __squawk__ _v_  
-__squelch__ _v_  
+__squelch__ _v_ :two::hammer:  
 __squinch__ _v tr_ To squeeze, twist, or draw together: _squinched her eyes shut._  
 __staggering__ _adj_  
 __staid__ _n_  
@@ -842,6 +877,7 @@ __surrogate__ _n_
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __swami__ _n_ :two::hammer:  
+__swarm__ _v tr_  
 __swash__ _n_ _The susurous swash of the sea._  
 __swashbuckle__ _v_  
 __swell__ _adj_  
@@ -890,6 +926,7 @@ __thwart__ _v_ :three::hammer: /THWORT/
 __tickle__ _v_  
 __tickling__ _adj_ _Tickling laughter._  
 __tidbits__  
+__tidy__ _v_ _She tidied her desk._  
 __time-saver__ _n_  
 __toil__ _v_  
 __tomfoolery__ _n_  
@@ -898,6 +935,7 @@ __tongs__ _n pl_ :es: tenazas
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
+__topiary__ _n_  
 __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance, quality, or favor; outstanding.  
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __toy__ _v_  
@@ -928,7 +966,7 @@ __uncheesy__ _adj_
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
 __underpin__ _v tr_  
-__unduly__  
+__unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
 __unfurl__ _v_  
 __unheeded__  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
@@ -941,6 +979,7 @@ __unseemly__
 __unspoken__ _adj_  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
+__upheaval__ _n_  
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
 __utterance__  
@@ -967,6 +1006,7 @@ __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re
 __vignette__ _n_  
 __vise__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
+__wanly__  
 __wanton__  
 __warrant__ _v_  
 __wattle__ _n_  
