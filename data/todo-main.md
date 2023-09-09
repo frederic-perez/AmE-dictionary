@@ -32,33 +32,6 @@ __balk__ _v_
 __Balkanize__ _v tr_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
-__Bar Mitzvah__ _n_ :three::hammer:  
-__barbed__ _adj_ _Barbed humor._  
-__barrel__ _v intr_ _informal_ To move or progress rapidly.  
-__barstool__ _n_  
-__battleground__ _n_ _AI models are battlegrounds._  
-__battlements__ _n_  
-__bearing__ _n_ _His casual bearing._  
-__bedazzled__  
-__befall__ _v_  
-__belatedly__  
-__bellowing__ _v_  
-__bemoan__ _v_ _Esquith bemoans the lowering of standards._  
-__bequeathed__ _v_  
-__bereavement__ _n_ :three::hammer:  
-__Berlitz__ _n_ A brand of language skills learning. During the teaching of the language all instruction is done in the target language.  
-__besotted__  
-__bicker__ _v_  
-__bickering__  
-__bigfoot__ _v_ To apply one’s authority to as a Bigfoot: _bigfooting his name onto an article he didn’t write._  
-__bilk__ _n_ _The land of bilk and money._  
-__bird strike__ _n_ A a collision of an aircraft with a bird.  
-__bland__ _adj_  
-__blandishment__ _n_ _Sundry blandishments._  
-__bleary-eyed__ _adj_  
-__bloc__ _n_  
-__blood thinner__ _n_ A drug used to inhibit blood clotting.  
-__blubbering__ _v_ :two::hammer:  
 __bluff__ _v_  
 __bodhi tree__  
 __boilerplate__ _n_ :two::hammer:  
