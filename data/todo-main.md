@@ -71,12 +71,14 @@ __catnip__ _n_ :es: hierba gatera
 __catwalk__ _n_  
 __caustic__ _adj_ /KAWSS-tik/  
 __cave__ _v_  
+__celebutante__  
 __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
 __chagrin__  
 __cheapskate__ _n_  
 __chestnut__ _n_ _He uttered memorable chestnuts._  
 __china clay__  
 __chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
+__chump__  
 __Chutes and Ladders__ _n_  
 __clatter__ _n_  
 __cloying__ _adj_ :three::hammer:  
@@ -138,8 +140,10 @@ __din__ _n_
 __dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
 __discombobulated__  
 __disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
+__doozy__  
 __doppelganger__ _n_  
 __dour__  
+__down payment__  
 __downright__ _adj_ _Downright ridiculous._  
 __drill__ _n_  
 __earnest__  
@@ -267,6 +271,7 @@ __garbled__
 __gargantuan__ _adj_ _Gargantuan ego._  
 __gauntlet__ _n_ /GAWNT-lut/  
 __gazelle__ _n_  
+__gelded__ _v_  
 __genial__ _adj_  
 __giant salamander__ _n_  
 __giddy__ _adj_  
@@ -289,6 +294,7 @@ __grueling__ _adj_
 __gruesome__  
 __gulp__ _v_  
 __gulped__ _v_  
+__gumption__ _n_  
 __gunbelt__  
 __gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
 __hackneyed__ _adj_ :two::hammer:  
@@ -344,13 +350,13 @@ __hush__ _n_ :two::hammer:
 __hypochondriac__  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
 __impel__ _v tr_  
-__impermanence__ _n_ The property of not existing for indefinitely long durations. _Syn_ impermanency  
+__impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
 __inanely__ _adv_  
 __infirm__ _adj_  
 __injuction__ _n_  
 __injunction__ _n_ :two::hammer:  
-__inkling__  
+__inkling__ _n_ :two::hammer:  
 __inpatient__  
 __inquest__  
 __insouciance__ _n_ :two::hammer:  
@@ -403,6 +409,7 @@ __lifeblood__
 __light-headed__ _adj_  
 __lightbulb moment__ _n informal_ A moment of sudden inspiration, revelation, or recognition.  
 __lilt__ _n_  
+__lippy__ _adj_ __1__ Speaking or responding in a rude or disrespectful way.  
 __listless__ _adj_  
 __listlessly__  
 __lit__ _n_ __3__ _informal_ Literature, especially as an academic subject: _enjoyed my course in French lit._  
@@ -440,6 +447,7 @@ __meet-cute__ _n_ /MEET-kyoot/
 __megalomanic__  
 __megaphone__ _n_ :mega:  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
+__mellow__  
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __meltdown__  
 __menage__ _n_ A domestic establishment. _Syn_ household  
@@ -498,15 +506,17 @@ __myriad__ _n_ /MEER-ee-ud/
 __nab__ _v_  
 __napping__ _adj_ Not prepared or vigilant. _The blow caught him napping._  
 __nary__  
-__nattering__  
+__natter__ _v intr_ :dart::two: To talk idly and at length; chatter or gossip.  
 __necktie__ _n_ :es: corbata  
 __needle__ _v tr_  
 __net__ _v_ (netted)  
 __neuroses__ _n pl_ :two::hammer:  
 __nightcap__  
+__nihilism__ _n_  
 __ninja stars__  
 __nit__ _n_  
 __nonanswer__ _n_  
+__noncommittal__ _adj_ Refusing commitment to a particular opinion or course of action; not revealing what one feels or thinks.  
 __nonplussed__  
 __nosedive<sup>1</sup>__ _n_  
 __nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._  
@@ -521,7 +531,7 @@ __obliged__ _adj_ :two::hammer: _He happily obliged._ _I’d be obliged to you i
 __obligingly__  
 __obsequiously__  
 __off-the-cuff__  
-__offhand__ _adj_  
+__offhand__ _adj_ :two::hammer:  
 __once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
 __oomph__  
 __opprobrium__  
@@ -529,6 +539,7 @@ __organized crime__
 __outage__ _n_  
 __outgrow__ _v_  
 __outlay__  
+__outpouring__ _n_  
 __outstrip__ _v tr_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overhaul__ _n_  
@@ -577,6 +588,7 @@ __perpetrator__ _n_
 __perquisite__ _n_ /PER-kwuh-zut/  
 __persona__ _n_  
 __perusal__  
+__petard__  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
 __phenotype__ _n_  
 __philanderer__ _n_  
@@ -783,6 +795,7 @@ __sartorial__ _adj_
 __sashay__ _v intr_  
 __satays__ _n_  
 __satire__  
+__sauntering__ _v_  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
 __schadenfreude__  
@@ -821,6 +834,7 @@ __shoo away__
 __shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
 __short__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __shortlist__ _n, v_  
+__shovel__ _v_  
 __shuck<sup>1</sup>__ _n_  
 __shuck<sup>2</sup>__ _v tr_  
 __shucking__  
@@ -837,6 +851,7 @@ __skin__ _v tr_ _He skinned his knee and started to cry._
 __skinflint__ _n_ A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skittering__  
 __skittish__ _adj_ :two::hammer:  
+__skulking__ _v_  
 __skullduggery__ _n_  
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
 __sled__ _n_ :two::hammer:  
@@ -845,6 +860,7 @@ __slight__ _adj_ _A slight reason._
 __slink__ _v_  
 __slog__ _n_  
 __slothful__ _adj_  
+__sludge__  
 __sluice__ _v_  
 __sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
 __sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
@@ -927,6 +943,7 @@ __streamlined__ _adj_
 __stretch__ _v_  
 __strewn__ _v_  
 __stringer__ _n_  
+__strive__ _v_ _The Buddha never said it was un-kosher to strive._  
 __strummy__  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
@@ -943,7 +960,7 @@ __super-duper__
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __surmise__ _n_  
 __surmount__ _v_ _Surmount obstacles._  
-__surreptitiously__  
+__surreptitiously__ _adv_ :two::hammer:  
 __surrey__ _n_  
 __surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
@@ -1047,10 +1064,11 @@ __unheeded__
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
 __unkempt__ _adj_  
+__unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
 __unmissable__  
 __unpack__  
 __unrepentant__  
-__unseemly__  
+__unseemly__ _adj, adv_ :two::hammer:  
 __unspoken__ _adj_  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  

@@ -22,7 +22,7 @@ __eh?__ _Impressive, eh?_
 __encore<sup>3</sup>__ Used to demand an additional performance.  
 __er__ :three::dart: Used to express hesitation or uncertainty. _It does look, er, distinctive._ _“The well-being of your child os of paramount concern,” he wrote in his lecture, er, letter._  
 __eureka__ [:scroll: Greek heurēka, _I have found (it)_]  
-__ew__ :two: _informal_ (eww) Expression of disgust, aversion, or nausea. _Ew! There’s a fly in my soup._  
+__ew__ :three: _informal_ (eww) Expression of disgust, aversion, or nausea. _Ew! There’s a fly in my soup._  
 __fiddlesticks__ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
 __fucking A__ _taboo_ _slang_ :two::hammer:  
 __gah__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
