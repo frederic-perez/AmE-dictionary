@@ -17,6 +17,7 @@ __a hot-button issue__
 __a piece of cake__  
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a sounding board__  
+__A-team__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
 __across the pond__  
@@ -36,6 +37,7 @@ __beat about the bush__
 __beauty sleep__ Sleep that helps one to look refreshed and attractive. Usually said humorously.  
 __been there, done that__  
 __before you know it__  
+__bench-warmer__  
 __between a rock and a hard place__  
 __beyond measure__  
 __biggie__  
@@ -45,10 +47,12 @@ __blood, sweat, and tears__ A huge or maximum amount of effort, dedication, and 
 __blow one’s top at someone__  
 __bona fide__  
 __broad (brush) strokes__  
+__buckle down__ _Buckle down and work harder._  
 __build up__  
 __bush league__ _It was a bush league fuck-up._  
 __bust up__ _He had a way of saying things that busted us up._  
 __busy oneself with someone or something__  
+__but still__  
 __butt-kicker__  
 __by all means__  
 __by and by__  
@@ -71,10 +75,12 @@ __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve 
 __clincher__ :two: The final element; the straw that broke the camel’s back.  
 __clock in__ _Today’s piece clocks in at 728 words._  
 __come across something__  
+__come as no surprise__ To be completely unsurprising.  
 __comfort eating__  
 __confide in (one)__  
 __corny__  
 __couch potato__  
+__crash__ __3__ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _I went home to crash for a few hours, and when I woke up, the story had gone viral._  
 __crazy town__  
 __cut (one’s) teeth__  
 __cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
@@ -104,6 +110,7 @@ __fair enough__
 __fall from grace__  
 __fall short__  
 __fam__  
+__fan the breeze__  
 __first dibs__ _It is something we want first dibs on._  
 __flake out__  
 __flesh out__  
@@ -139,6 +146,7 @@ __gin up__ _He didn’t gin up the courage to tell her._
 __give (someone) a lift__  
 __give it a go__  
 __give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
+__gnash one’s teeth over something__ _Why expend so much energy gnashing my teeth over work?_  
 __go ape__  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
 __go berserk__  
@@ -245,11 +253,13 @@ __if you will__
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
+__in broad (brush) strokes__  
 __in deep trouble__  
 __in denial__  
 __in donkey’s years__ _I haven’t thought about it in donkey’s years._  
 __in high dudgeon__  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
+__in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the hope of__  
 __in the hot seat__  
 __in the middle of nowhere__  
@@ -364,6 +374,7 @@ __play it safe__
 __play the field__  
 __plead ignorance__ _It was best for me to plead ignorance._  
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
+__pro bono__  
 __push up the daisies__  
 __put (one) off (something)__  
 __put on a clinic__  
@@ -377,6 +388,7 @@ __quite quitting__
 __rack up__  
 __ram into (someone or something)__  
 __red flag__  
+__redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
 __reduce (one) to tears__  
 __reel off__  
 __reinvent the wheel__  
@@ -429,8 +441,10 @@ __slam (someone or something)__
 __slap on the wrist__  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __sleight of hand__ :two::hammer:  
+__slip up__  
 __slip-up__  
 __slow food__  
+__slush fund__ An ancillary or reserve fund that has been accumulated or set aside for undesignated or unspecified purposes, especially those that are or are viewed as being illicit, corrupt, or morally questionable.  
 __smack (one’s) lips__ :two::hammer:  
 __smarty-pants__ :two::hammer:  
 __smell a rat__  
@@ -468,10 +482,12 @@ __stick out like a sore thumb__ (stick out a mile) Be very prominent or conspicu
 __sticks and stones__  
 __stomach__ :two: To tolerate someone or something. (Usually negative.)  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _Stone cold sober._  
+__strong-arm__  
 __suffice it to say__ :two::hammer:  
 __sure thing__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
+__tack__ _n_ _I decided to take a different tack._  
 __tag along__  
 __take (great) pains (to do something)__  
 __take (someone or something) for granted__  
@@ -574,6 +590,7 @@ __wish (one) well__
 __wishful thinking__ :es: espejismo, ilusión  
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
+__wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yea or nay__  
 __you name it__ :two::hammer:  
 __you saved the day__  
