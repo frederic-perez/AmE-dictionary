@@ -52,6 +52,7 @@ __DWI__
 __Dx__ (DX) __1__ Diagnosis. _Dx: viral pneumonia._ _DX codes._ __2__ Diagnostic. _Dx tests._  
 __e.g.__ Exempli Gratia.  
 __econ__ _The econ professor._  
+__EEG__ Electroencephalogram.  
 __EKG__  
 __ELIA5__ Explain Like I Am 5.  
 __EMT__ :two: Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
