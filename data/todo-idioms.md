@@ -23,8 +23,10 @@ __about to (do something)__
 __across the pond__  
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ahead of the curve__  
+__all along__ The entire time.  
 __all in all__ :two: Overall; mostly. This phrase is typically used when one is considering all aspects of something together. _Sure, it rained on our vacation, but all in all we had a great time._  
 __all over the place__  
+__at first blush__  
 __basket case__  
 __bat an eye__  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
@@ -39,7 +41,7 @@ __been there, done that__
 __before you know it__  
 __bench-warmer__  
 __between a rock and a hard place__  
-__beyond measure__  
+__beyond measure__ :three::hammer:  
 __biggie__  
 __bite the hand that feeds (you)__  
 __blindside__  
@@ -85,12 +87,13 @@ __crazy town__
 __cut (one’s) teeth__  
 __cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
 __cut ties__  
-__dawn (up)on (one)__  
+__dawn (up)on (one)__ :two::hammer:  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deathaversary__  
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
 __devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
+__dig in (one’) heels__  
 __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dingy__  
 __dish out__  
@@ -121,10 +124,12 @@ __folderol__ Nonsense or foolishness. _His explanation is total folderol and doe
 __fool with (someone or something)__  
 __for all intends and purposes__ :two::hammer:  
 __for better or (for) worse__  
+__for days on end__ For a long time, specifically many days.  
 __for good reason__  
 __for hours on end__  
 __for the long haul__  
 __for the most part__  
+__for the umpteenth time__  
 __foul play__  
 __fraught with anxiety__  
 __fraught with danger__  
@@ -134,6 +139,7 @@ __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruit
 __full of (oneself)__  
 __fun and games__  
 __game changer__  
+__game-changer__  
 __get a toehold__  
 __get ahead of (oneself)__  
 __get bogged down__ To become burdened or impeded (by something). (A bog is an area of wet, muddy land that is difficult to walk through.)  
@@ -216,6 +222,7 @@ __have a hard time with (someone or something)__
 __have enough on (one’s) plate__  
 __have skin in the game__  
 __have the last laugh__  
+__hazarded__ _v_  
 __head over heels__  
 __head start__  
 __head-to-toe__  
@@ -253,6 +260,7 @@ __if you will__
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
+__in any event__  
 __in broad (brush) strokes__  
 __in deep trouble__  
 __in denial__  
@@ -284,7 +292,7 @@ __least said, soonest mended__
 __lighten (one’s) wallet__  
 __lip service__  
 __litmus test__  
-__lo and behold__  
+__lo and behold__ :two::hammer:  
 __lock horns__  
 __loom large__ To seem imminent and cause worry or unease.  
 __lost on (one)__ Unappreciated or not understood, as of an idea.  
@@ -294,9 +302,11 @@ __lucky loser__ A sports competitor (player or team) who loses a match in a knoc
 __lump in (one’s) throat__  
 __make a fuss__  
 __make inroads (in/into something)__  
+__marching orders__  
 __mark my word(s)__  
 __mess around__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
+__mind you__  
 __mixed bag__  
 __mom-and-pop__  
 __more than meets the eye__  
@@ -353,6 +363,7 @@ __outsmart (oneself)__
 __over the long haul__  
 __overarching__ _adj_ (i?) _An overarching plan._  
 __packed to the gills__ :two::hammer:  
+__palooka__  
 __palsy-walsy__  
 __pan out__  
 __pave the way (for someone or something)__  
@@ -382,6 +393,7 @@ __put out fires__
 __put the skids to__  
 __put through the ringer__  
 __put two and two together__  
+__put up with something__  
 __quick buck__  
 __quid pro quo__  
 __quite quitting__  
@@ -392,6 +404,7 @@ __redeye__ An overnight flight that arrives at its destination very early in the
 __reduce (one) to tears__  
 __reel off__  
 __reinvent the wheel__  
+__reminiscent of (someone or something)__  
 __riddled with__ _The guy had been riddled with bullets right there._  
 __riding high__  
 __ring a bell__  
@@ -419,6 +432,7 @@ __schmuck__
 __second best__  
 __secret weapon__  
 __seize the opportunity (to do something)__  
+__separate wheat from chaff__  
 __set eyes on (someone or something)__ :two::hammer:  
 __sexual tension__  
 __shame on (one)__  
@@ -590,8 +604,10 @@ __wish (one) well__
 __wishful thinking__ :es: espejismo, ilusión  
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
+__work (one’s) tail off__  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yea or nay__  
+__yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
 __you name it__ :two::hammer:  
 __you saved the day__  
 __you scratch my back, I scratch yours__  
