@@ -1,5 +1,6 @@
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
+__(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
 __(stuck) in a rut__ :two::hammer:  
@@ -24,7 +25,7 @@ __across the pond__
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ahead of the curve__  
 __all along__ The entire time.  
-__all in all__ :two: Overall; mostly. This phrase is typically used when one is considering all aspects of something together. _Sure, it rained on our vacation, but all in all we had a great time._  
+__all in all__ :three: Overall; mostly. This phrase is typically used when one is considering all aspects of something together. _Sure, it rained on our vacation, but all in all we had a great time._  
 __all over the place__  
 __at first blush__  
 __basket case__  
@@ -32,9 +33,11 @@ __bat an eye__
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
 __be at (one’s) wit’s end__  
 __be at a crossroads__  
+__be at a loss__  
 __be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
 __be in a spin__  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
+__be partial to (someone or something)__  
 __beat about the bush__  
 __beauty sleep__ Sleep that helps one to look refreshed and attractive. Usually said humorously.  
 __been there, done that__  
@@ -59,6 +62,7 @@ __butt-kicker__
 __by all means__  
 __by and by__  
 __by no means__ Not in any way; not at all; absolutely not.  
+__can do without (something)__  
 __can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
 __capitalize on (something)__ :dart:  
@@ -90,6 +94,7 @@ __cut ties__
 __dawn (up)on (one)__ :two::hammer:  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deathaversary__  
+__deep dive__  
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
 __devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
@@ -124,7 +129,7 @@ __folderol__ Nonsense or foolishness. _His explanation is total folderol and doe
 __fool with (someone or something)__  
 __for all intends and purposes__ :two::hammer:  
 __for better or (for) worse__  
-__for days on end__ For a long time, specifically many days.  
+__for days on end__ :two: (for hours on end) For a long time, specifically many days.  
 __for good reason__  
 __for hours on end__  
 __for the long haul__  
@@ -136,6 +141,7 @@ __fraught with danger__
 __freak out__  
 __from A to Z__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
+__full blast__ (At) the maximum level.  
 __full of (oneself)__  
 __fun and games__  
 __game changer__  
@@ -156,6 +162,7 @@ __gnash one’s teeth over something__ _Why expend so much energy gnashing my te
 __go ape__  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
 __go berserk__  
+__go hand in hand__  
 __go places__  
 __go to hell and back__  
 __gobble down__  
@@ -261,6 +268,7 @@ __in (high) hopes of (something)__
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
 __in any event__  
+__in black and white__  
 __in broad (brush) strokes__  
 __in deep trouble__  
 __in denial__  
@@ -270,6 +278,8 @@ __in remission__ Of a disease, fully or partially ceasing to cause symptoms.
 __in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the hope of__  
 __in the hot seat__  
+__in the least__  
+__in the long run__  
 __in the middle of nowhere__  
 __in the zone__  
 __in training__  
@@ -290,7 +300,7 @@ __lash out__
 __lavish (someone or something) with (something)__  
 __least said, soonest mended__  
 __lighten (one’s) wallet__  
-__lip service__  
+__lip service__ :two::hammer:  
 __litmus test__  
 __lo and behold__ :two::hammer:  
 __lock horns__  
@@ -307,7 +317,7 @@ __mark my word(s)__
 __mess around__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
 __mind you__  
-__mixed bag__  
+__mixed bag__ :two::hammer:  
 __mom-and-pop__  
 __more than meets the eye__  
 __mother__ _This mother really works._  
@@ -368,6 +378,7 @@ __palsy-walsy__
 __pan out__  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
+__pay out__ _It pays out in the long run._  
 __perk up__  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__ :two::hammer:  
@@ -388,6 +399,7 @@ __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller
 __pro bono__  
 __push up the daisies__  
 __put (one) off (something)__  
+__put an end to (something)__  
 __put on a clinic__  
 __put out fires__  
 __put the skids to__  
@@ -467,6 +479,7 @@ __sneak peek__
 __sniff out__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __so much for someone or something__  
+__so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
 __so-and-so__  
 __soldier of fortune__  
@@ -516,6 +529,8 @@ __talk the talk__
 __tall story__  
 __tall tale__  
 __tap into__ :two: _We can all tap into our innate brilliance._  
+__tear away__  
+__tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __test the waters__  
 __thang__ A facetious or slang form of _thing._  
 __that been said__  
@@ -598,6 +613,7 @@ __wild goose chase__
 __wild__  
 __win over__  
 __window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
+__wing it__ To do or attempt something with little preparation in advance; to improvise.  
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
 __wise guy__ __2__ A mobster.  
 __wish (one) well__  
