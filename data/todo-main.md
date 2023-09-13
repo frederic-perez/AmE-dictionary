@@ -11,6 +11,8 @@ __addle__ _v_
 __affect__ _v_ _He tried to affect nonchalance._  
 __aflutter__  
 __afoot__  
+__aftereffect__ _n_  
+__afterimage__ _n_  
 __agency__ _n_ :two::hammer: _We must use our agency._  
 __air__ _v_  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
@@ -21,13 +23,16 @@ __aloof__ _adj_ :two::hammer: _Commanders with an aloof demeanor._
 __ambiguous__ _adj_ /am-BIG-yuh-wus/  
 __amusia__  
 __annuity__ _n_  
+__anoxia__  
 __ante__ _n_ _Burt amps up the ante._  
 __anthurium__ _n_  
+__aphasia__  
 __aplomb__ _n_ :dart:  
 __apnea__ _n_  
 __apprehension__  
 __apprentice__ _n_  
 __aquanaut__  
+__Aramaic__  
 __arena__ _n_  
 __ashen__ _adj_ _I was met with ashen faces and utter silence._  
 __assay__ _v_ /a-SAY/  
@@ -42,6 +47,7 @@ __Balkanize__ _v tr_
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
+__bidding__ _n_  
 __bikini__ _n_  
 __birdsong__  
 __bluff__ _v_  
@@ -68,6 +74,7 @@ __busyness__
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __cagey__  
 __cajole__ _v_  
+__call upon__  
 __campground__  
 __Candy Land__ _n_ (game?)  
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
@@ -104,6 +111,7 @@ __compulsive__ _adj_ _Compulsive thoughts._
 __conceit__ _n_  
 __concomitant__ _adj_  
 __conflated__  
+__conflation__  
 __confound__ _v_  
 __confounded__ _adj_ :three::hammer:  
 __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
@@ -132,6 +140,7 @@ __cure-all__ _n_
 __cushy__ _adj_ _Cushy job._  
 __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
 __dalliances__ _n_  
+__darting__ _v_  
 __daunting__ _adj_  
 __debonnaire__ _adj_  
 __decommission__ _v_  
@@ -146,6 +155,7 @@ __dharma__ _n_
 __diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
 __didgeridoo__ _n_  
 __diffidence__  
+__diffidently__  
 __din__ _n_  
 __dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
 __discombobulated__  
@@ -160,6 +170,8 @@ __downright__ _adj_ _Downright ridiculous._
 __drill__ _n_  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
+__earwig__  
+__earworm__  
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
 __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
@@ -217,6 +229,7 @@ __extolled__ _v_
 __extricate__ _v_  
 __exude__ _v_  
 __fabricate__ _v_  
+__facetious__  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
@@ -263,6 +276,7 @@ __footbullets__
 __footloose__ _adj_  
 __footwork__ _n_  
 __for__ _prep_ _Tom set the meeting with Joe for May 23 at a hotel in NYC._  
+__forebear__  
 __forfeit__ _v tr_  
 __formidable__ _adj_ :astonished:  
 __forsake__ _v_  
@@ -297,6 +311,7 @@ __gnats__ _n_
 __gold dust__ _n_ __2__ A valuable or rare thing: _tickets for this match are gold dust._  
 __gossamer__  
 __goy__ _n_ A person who is not Jewish.  
+__grand mal__ _n_ :three: Severe epilepsy. _Occasional grand mal seizures._ _Her seizures were of grand mal type._ _At 14, I had a grand mal of unknown origin._  
 __grate__ _v_ _Grating voice._  
 __great-uncle__  
 __Greenwich Village__ _n_  
@@ -371,6 +386,8 @@ __impel__ _v tr_
 __impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
 __inanely__ _adv_  
+__ineffability__  
+__ineffable__  
 __infirm__ _adj_  
 __injuction__ _n_  
 __injunction__ _n_ :two::hammer:  
@@ -426,7 +443,8 @@ __liaison__ _n_ _He was the Strike Force liaison on Abscam._
 __lifeblood__  
 __light-headed__ _adj_  
 __lightbulb moment__ _n informal_ A moment of sudden inspiration, revelation, or recognition.  
-__lilt__ _n_  
+__lilt__ _n_ :two::hammer: :es: ritmo  
+__lip-smacking__ _adj_ (of food or drink) Tasty displaying or expressing enjoyment or pleasure, esp at the taste of food or drink.  
 __lippy__ _adj_ __1__ Speaking or responding in a rude or disrespectful way.  
 __listless__ _adj_  
 __listlessly__  
@@ -459,6 +477,7 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __mauve__ _n_  
 __mawkish__ _adj_  
 __maypole__ _n_ :camera:  
+__mazurka__ _n_  
 __measly__ _adj_ __1__ _informal_ Meagre in quality or quantity. _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
 __mecca__ _n_ _Sedona was a mecca for spiritual tourists._  
 __meddlesome__ _adj_  
@@ -470,6 +489,7 @@ __mellow__
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __meltdown__  
 __menage__ _n_ A domestic establishment. _Syn_ household  
+__menorah__ _n_  
 __mensch__  
 __mercury__ _n_ :mega:  
 __meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
@@ -539,6 +559,7 @@ __nightcap__
 __nihilism__ _n_  
 __ninja stars__  
 __nit__ _n_  
+__noetic__ _adj_  
 __nonanswer__ _n_  
 __noncommittal__ _adj_ Refusing commitment to a particular opinion or course of action; not revealing what one feels or thinks.  
 __nonplussed__  
@@ -635,7 +656,7 @@ __pique<sup>1</sup>__ _n_
 __pique<sup>2</sup>__ _v_  
 __pitfall__ _n_  
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
-__plaintive__ _adj_ /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
+__plaintive__ _adj_ :two: /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
 __planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
 __plank__ _n_ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
 __plaster__ _v_  
@@ -662,6 +683,7 @@ __porky__
 __portend__ _v_  
 __posit<sup>1</sup>__ _v tr_  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
+__postulate__ _v_  
 __potter__ _v_  
 __pounce__ _v_  
 __pout__ _v_  
@@ -758,6 +780,7 @@ __refrain<sup>1</sup>__ _v intr_ _Lorna refrained from comment._
 __refrain<sup>2</sup>__ _n_  
 __regency__ _n_  
 __relent__ _v intr_  
+__remembrance__  
 __remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
 __repudiation__ _n_  
@@ -892,6 +915,7 @@ __sled__ _n_ :two::hammer:
 __sleepaway__  
 __slight__ _adj_ _A slight reason._  
 __slink__ _v_  
+__slip__ _n_ __4__ A small piece of paper, especially a small form, document, or receipt: _a deposit slip._ _Hand out detention slips for using AI?_  
 __slog__ _n_  
 __slothful__ _adj_  
 __sludge__  
@@ -978,6 +1002,7 @@ __stretch__ _v_
 __strewn__ _v_  
 __stringer__ _n_  
 __strive__ _v_ _The Buddha never said it was un-kosher to strive._  
+__strummed__  
 __strummy__  
 __sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
 __subbasement__ _n_  
@@ -1060,6 +1085,7 @@ __tidbits__
 __tidy__ _v_ _She tidied her desk._  
 __time-saver__ _n_  
 __toil__ _v_  
+__toll__ _n_ _Exact a toll._  
 __tomfoolery__ _n_  
 __tommyrot__ _n informal_ Utter foolishness; nonsense.  
 __tongs__ _n pl_ :es: tenazas  
@@ -1073,6 +1099,7 @@ __toy__ _v_
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
+__transience__  
 __trappings__ _n pl_ :two::hammer:  
 __travesty__ _n_ /TRAV-uh-stee/  
 __trawl__ _v_  
@@ -1094,6 +1121,7 @@ __tussle__ _v intr_
 __twat__  
 __umbrage__  
 __unassuming__ _adj_ :two::hammer:  
+__unbidden__ _adj_ :three: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
 __uncheesy__ _adj_  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
