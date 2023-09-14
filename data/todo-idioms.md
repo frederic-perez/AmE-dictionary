@@ -25,33 +25,6 @@ __across the pond__
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ahead of the curve__  
 __all along__ The entire time.  
-__all in all__ :three: Overall; mostly. This phrase is typically used when one is considering all aspects of something together. _Sure, it rained on our vacation, but all in all we had a great time._  
-__all over the place__  
-__at first blush__  
-__basket case__  
-__bat an eye__  
-__be all and end all__ (be-all and end-all) The quintessential or all-important element.  
-__be at (one’s) wit’s end__  
-__be at a crossroads__  
-__be at a loss__  
-__be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
-__be in a spin__  
-__be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
-__be partial to (someone or something)__  
-__beat about the bush__  
-__beauty sleep__ Sleep that helps one to look refreshed and attractive. Usually said humorously.  
-__been there, done that__  
-__before you know it__  
-__bench-warmer__  
-__between a rock and a hard place__  
-__beyond measure__ :three::hammer:  
-__biggie__  
-__bite the hand that feeds (you)__  
-__blindside__  
-__blood, sweat, and tears__ A huge or maximum amount of effort, dedication, and hard work. _I poured my blood, sweat, and tears into this company, and I refuse to let you destroy it!_  
-__blow one’s top at someone__  
-__bona fide__  
-__broad (brush) strokes__  
 __buckle down__ _Buckle down and work harder._  
 __build up__  
 __bush league__ _It was a bush league fuck-up._  
