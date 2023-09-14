@@ -2,6 +2,7 @@ __abet__ _v_
 __ablutions__  
 __abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
 __abscond__ _v_  
+__abstain__ _v_ /ub-STAYN/  
 __acerbic__  
 __achieve__ _v_ :mega:  
 __achoo__  
@@ -22,6 +23,7 @@ __allegedly__
 __aloof__ _adj_ :two::hammer: _Commanders with an aloof demeanor._  
 __ambiguous__ _adj_ /am-BIG-yuh-wus/  
 __amusia__  
+__anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
 __annuity__ _n_  
 __anoxia__  
 __ante__ _n_ _Burt amps up the ante._  
@@ -47,9 +49,11 @@ __Balkanize__ _v tr_
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
+__bellwether__ _n_ /BEL-WEH-ther/  
 __bidding__ _n_  
 __bikini__ _n_  
 __birdsong__  
+__black tie__ _n_ (vs _white tie_)  
 __bluff__ _v_  
 __bodhi tree__  
 __boilerplate__ _n_ :two::hammer:  
@@ -90,6 +94,7 @@ __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._
 __chagrin__  
 __cheapskate__ _n_  
 __chestnut__ _n_ _He uttered memorable chestnuts._  
+__chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
 __china clay__  
 __chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
 __chump__  
@@ -110,6 +115,7 @@ __complimentary__ _adj_ _Complimentary hotel rooms._
 __compulsive__ _adj_ _Compulsive thoughts._  
 __conceit__ _n_  
 __concomitant__ _adj_  
+__concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
 __conflated__  
 __conflation__  
 __confound__ _v_  
@@ -138,6 +144,7 @@ __crook__
 __cuckolded__  
 __cure-all__ _n_  
 __cushy__ _adj_ _Cushy job._  
+__cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
 __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
 __dalliances__ _n_  
 __darting__ _v_  
@@ -204,6 +211,7 @@ __equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings.
 __equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __eradicate__ _v tr_  
 __ermine__ _n_  
+__erratum__ _n_ An error in printing or writing, especially such an error noted in a list of corrections and bound into a book. _Syn_ misprint, typo, literal error  
 __erupt__ _v_  
 __escape velocity__ _n_  
 __escrow__ _n_ :two::hammer: _Escrow accounts._ _Money to be held in escrow._  
@@ -225,6 +233,7 @@ __exodus__ _n_ /EK-suh-duhs/ A large scale departure or emigration.
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
 __extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
+__extol__ _v tr_  
 __extolled__ _v_  
 __extricate__ _v_  
 __exude__ _v_  
@@ -232,6 +241,7 @@ __fabricate__ _v_
 __facetious__  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
+__fallible__ _adj_ /FAL-uh-bul/  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
 __fare__ _v intr_  
@@ -389,8 +399,7 @@ __inanely__ _adv_
 __ineffability__  
 __ineffable__  
 __infirm__ _adj_  
-__injuction__ _n_  
-__injunction__ _n_ :two::hammer:  
+__injunction__ _n_ :four::hammer: /in-JUNK-shun/  
 __inkling__ _n_ :two::hammer:  
 __inpatient__  
 __inquest__  
@@ -421,6 +430,7 @@ __judgment__ _n_ :pencil2:
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
+__kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __kerf__ _n_  
 __kibble__ _n_  
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
@@ -583,6 +593,7 @@ __once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; ext
 __oomph__  
 __opprobrium__  
 __organized crime__  
+__orotund__ _adj_ /OR-uh-tund/  
 __outage__ _n_  
 __outgrow__ _v_  
 __outlay__  
@@ -623,6 +634,7 @@ __parry__ _v_
 __parsimony__  
 __parsnip__ _n_ :three::hammer: :es: chirivía  
 __pea-brain__ _n informal_ A foolish or unintelligent person.  
+__pedicab__ _n_  
 __peeps__ _n pl_ _slang_ Associates; friends. People.  
 __peewee__ _n_  
 __Pentecostal__  
@@ -986,6 +998,7 @@ __stepping stone__
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __sternutation__  
 __Stetson__  
+__subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
@@ -1153,6 +1166,7 @@ __wheelhouse__
 __wherewithal__  
 __whiplash__ _n_ :two::hammer: _Economic whiplash._  
 __whirred__ _v_ _The videotapes whirred._  
+__white tie__ _n_ (vs _black tie_)  
 __wholesome__  
 __whoop__ _v_  
 __wield__ _v_  
