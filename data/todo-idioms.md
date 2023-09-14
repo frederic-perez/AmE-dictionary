@@ -6,7 +6,7 @@ __(someone’s or something’s) days are numbered__
 __(stuck) in a rut__ :two::hammer:  
 __a bad penny__  
 __a balancing act__  
-__a breeze__ Something that is especially easy, effortless, or trifling to accomplish or complete.  
+__a breeze__ :two: Something that is especially easy, effortless, or trifling to accomplish or complete.  
 __a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a double take__  
 __a far cry from (something)__  
@@ -25,6 +25,7 @@ __across the pond__
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ahead of the curve__  
 __all along__ The entire time.  
+__blaze a trail__  
 __buckle down__ _Buckle down and work harder._  
 __build up__  
 __bush league__ _It was a bush league fuck-up._  
@@ -93,6 +94,7 @@ __fall short__
 __fam__  
 __fan the breeze__  
 __first dibs__ _It is something we want first dibs on._  
+__first hand__ Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
 __flake out__  
 __flesh out__  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
@@ -112,6 +114,7 @@ __foul play__
 __fraught with anxiety__  
 __fraught with danger__  
 __freak out__  
+__friend with benefits__  
 __from A to Z__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
 __full blast__ (At) the maximum level.  
@@ -119,6 +122,7 @@ __full of (oneself)__
 __fun and games__  
 __game changer__  
 __game-changer__  
+__get (one’s) act together__  
 __get a toehold__  
 __get ahead of (oneself)__  
 __get bogged down__ To become burdened or impeded (by something). (A bog is an area of wet, muddy land that is difficult to walk through.)  
@@ -137,6 +141,7 @@ __go balls-out__ _I resolved to go balls-out on this retreat._
 __go berserk__  
 __go hand in hand__  
 __go places__  
+__go to great lengths (to do something)__  
 __go to hell and back__  
 __gobble down__  
 __goes without saying__  
@@ -189,6 +194,7 @@ __harp away at (someone or something)__ :dart: To complain about or dwell upon s
 __harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
 __hash slinger__  
+__have (got) (someone’s) back__  
 __have a (good/solid/sound/etc.) grasp of/on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a solid grasp of the material, as you’ll be tested on it next week._  
 __have a ball__  
 __have a crush on (someone)__  
@@ -235,6 +241,7 @@ __hoping agaínst hope__
 __hot-button__ _Hot-button social issues._  
 __how come__  
 __humblebrag__  
+__I feel you__  
 __if you know what I mean__  
 __if you will__  
 __in (high) hopes of (something)__  
@@ -267,6 +274,7 @@ __K-car__
 __kicker__  
 __klutz__  
 __knocked (one) sideways__  
+__land a job__ To find a job and be hired.  
 __land on one’s feet__  
 __lash about__ _Lads lashing about._  
 __lash out__  
@@ -301,6 +309,7 @@ __my ass!__ Used to indicate that what has just been said is nonsense.
 __nah__  
 __name names__ :two::hammer:  
 __neck of the woods__  
+__nerd out__  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
@@ -373,6 +382,7 @@ __pro bono__
 __push up the daisies__  
 __put (one) off (something)__  
 __put an end to (something)__  
+__put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
 __put on a clinic__  
 __put out fires__  
 __put the skids to__  
@@ -384,6 +394,7 @@ __quid pro quo__
 __quite quitting__  
 __rack up__  
 __ram into (someone or something)__  
+__reach out__  
 __red flag__  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
 __reduce (one) to tears__  
@@ -395,6 +406,7 @@ __riding high__
 __ring a bell__  
 __ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
 __rip off__  
+__road to nowhere__  
 __rock the boat__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
@@ -492,6 +504,7 @@ __tag along__
 __take (great) pains (to do something)__  
 __take (someone or something) for granted__  
 __take a stab at (something)__  
+__take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
 __take charge__  
@@ -591,6 +604,7 @@ __wino__ _slang_ An alcoholic, especially one who chronically or habitually drin
 __wise guy__ __2__ A mobster.  
 __wish (one) well__  
 __wishful thinking__ :es: espejismo, ilusión  
+__with great (something) comes great (something else)__  
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __work (one’s) tail off__  
