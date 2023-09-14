@@ -986,34 +986,6 @@ __stepping stone__
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
 __sternutation__  
 __Stetson__  
-__stifle__ _v tr_ :four::hammer: /ˈstaɪfəl/  
-__stillborn__ _adj_  
-__stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
-__stoop__ _n_  
-__stopgap__ _n_  
-__stovepipe hat__ _n_  
-__stow__ _v_  
-__stowed__ _v_  
-__straitjacket<sup>1</sup>__ _n_ /ˈstreɪtˌdʒækɪt/ (straightjacket)  
-__straitjacket<sup>2</sup>__ _v tr_ _They were straitjacketed by despair._  
-__streamer__ _n_  
-__streamlined__ _adj_  
-__stretch__ _v_  
-__strewn__ _v_  
-__stringer__ _n_  
-__strive__ _v_ _The Buddha never said it was un-kosher to strive._  
-__strummed__  
-__strummy__  
-__sub rosa__ _adv_ Privately. This Latin phrase (meaning “under the rose”) refers to the ancient use of the rose as a symbol of secrecy. _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
-__subbasement__ _n_  
-__subclinical__ _adj_ :two: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
-__subculture__ _n_  
-__subdued__ _adj_ _Subdued voices._  
-__suburban__  
-__subvocalize__  
-__succubus__ _n_  
-__suffrage__ _n_ /SUF-rij/ The right to vote in an election.  
-__summonses__  
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
