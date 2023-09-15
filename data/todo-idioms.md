@@ -7,6 +7,7 @@ __(stuck) in a rut__ :two::hammer:
 __a bad penny__  
 __a balancing act__  
 __a breeze__ :two: Something that is especially easy, effortless, or trifling to accomplish or complete.  
+__a cross to bear__  
 __a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a double take__  
 __a far cry from (something)__  
@@ -22,9 +23,12 @@ __A-team__
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
 __across the pond__  
+__again and again__ _The same groundhog festival is gearing up again and again._  
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ahead of the curve__  
 __all along__ The entire time.  
+__as it happens__  
+__be hard put__  
 __blaze a trail__  
 __buckle down__ _Buckle down and work harder._  
 __build up__  
@@ -60,6 +64,7 @@ __comfort eating__
 __confide in (one)__  
 __corny__  
 __couch potato__  
+__cough up__  
 __crash__ __3__ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _I went home to crash for a few hours, and when I woke up, the story had gone viral._  
 __crazy town__  
 __cut (one’s) teeth__  
@@ -84,6 +89,7 @@ __doormat__
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double-edged sword__ Something that can be both beneficial and problematic.  
 __drag (one’s) feet__  
+__draw upon__  
 __dressed to the nines__  
 __en route__  
 __every so often__  
@@ -108,12 +114,13 @@ __for days on end__ :two: (for hours on end) For a long time, specifically many 
 __for good reason__  
 __for hours on end__  
 __for the long haul__  
-__for the most part__  
+__for the most part__ :two::hammer:  
 __for the umpteenth time__  
 __foul play__  
 __fraught with anxiety__  
 __fraught with danger__  
 __freak out__  
+__free-wheeling__  
 __friend with benefits__  
 __from A to Z__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
@@ -122,6 +129,7 @@ __full of (oneself)__
 __fun and games__  
 __game changer__  
 __game-changer__  
+__gear up__ _The same groundhog festival is gearing up again and again._  
 __get (one’s) act together__  
 __get a toehold__  
 __get ahead of (oneself)__  
@@ -129,6 +137,7 @@ __get bogged down__ To become burdened or impeded (by something). (A bog is an a
 __get lucky__  
 __get the better of (someone or something)__  
 __get the hang of (something)__  
+__get to grips with (someone or something)__  
 __get to someone__ _Don’t let her get to you._  
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __gin up__ _He didn’t gin up the courage to tell her._  
@@ -186,6 +195,7 @@ __happily ever after__
 __happy camper__  
 __hard done-by__  
 __hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
+__hard of hearing__  
 __hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __hard-nosed__ :two: Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
@@ -343,7 +353,8 @@ __on the make__
 __on the ropes__  
 __on the shelf__  
 __once and for all__  
-__one-on-one__  
+__one on one__  
+__one-on-one__ :two::hammer:  
 __open to question__  
 __out and about__ :two::hammer:  
 __out of (one’s) gourd__  
@@ -389,6 +400,7 @@ __put the skids to__
 __put through the ringer__  
 __put two and two together__  
 __put up with something__  
+__put upon__  
 __quick buck__  
 __quid pro quo__  
 __quite quitting__  
@@ -411,6 +423,7 @@ __rock the boat__
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __round something out__  
+__rule out__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __run amok__  
@@ -463,6 +476,7 @@ __snafu__
 __sneak peek__  
 __sniff out__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
+__so much for (someone or something)__  
 __so much for someone or something__  
 __so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
@@ -501,7 +515,7 @@ __sus__ _adj_ _slang_ Suspicious, suspect.
 __swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
 __tack__ _n_ _I decided to take a different tack._  
 __tag along__  
-__take (great) pains (to do something)__  
+__take (great) pains (to do something)__ :two::hammer:  
 __take (someone or something) for granted__  
 __take a stab at (something)__  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
@@ -531,6 +545,7 @@ __the likes of (someone or something)__
 __the lion’s share__  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
+__the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
 __the usual suspects__ :three: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
@@ -583,6 +598,7 @@ __vie for (something)__ :two::hammer:
 __wait for it__  
 __walk the line__  
 __walk the walk__ :dart:  
+__want out__ _When it became hard you wanted out._  
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __water under the bridge__ :dart: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
