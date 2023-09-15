@@ -2,6 +2,7 @@ __abet__ _v_
 __ablutions__  
 __abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
 __abscond__ _v_  
+__absolute pitch__ _n_ (perfect pitch?)  
 __abstain__ _v_ /ub-STAYN/  
 __acerbic__  
 __achieve__ _v_ :mega:  
@@ -49,7 +50,9 @@ __Balkanize__ _v tr_
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
+__bar__ _n_ _A few bars of music._  
 __bellwether__ _n_ /BEL-WEH-ther/  
+__beseech__  
 __bidding__ _n_  
 __bikini__ _n_  
 __birdsong__  
@@ -97,8 +100,11 @@ __chestnut__ _n_ _He uttered memorable chestnuts._
 __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
 __china clay__  
 __chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
+__chorea__ _n_  
 __chump__  
 __Chutes and Ladders__ _n_  
+__clang__ _v_ _Bells clanging._  
+__clangor__ _n, v_  
 __clatter__ _n_  
 __cloying__ _adj_ :three::hammer:  
 __co-opt__ _v_  
@@ -107,6 +113,7 @@ __cog__ _n_ _A bland cog in the wheel._
 __coiffed__ _v_  
 __colicky__ _adj_  
 __color scheme__ _n_ A particular combination of colors. _They chose an unusual color scheme for the living room._  
+__coloratura__ _n_  
 __commiserate__  
 __communal__ _adj_ _The communal bathroom is down the hall._  
 __compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
@@ -116,7 +123,7 @@ __compulsive__ _adj_ _Compulsive thoughts._
 __conceit__ _n_  
 __concomitant__ _adj_  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
-__conflated__  
+__conflate__ _v_ :two::hammer:  
 __conflation__  
 __confound__ _v_  
 __confounded__ _adj_ :three::hammer:  
@@ -175,6 +182,7 @@ __dour__
 __down payment__  
 __downright__ _adj_ _Downright ridiculous._  
 __drill__ _n_  
+__drown out__  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
 __earwig__  
@@ -319,6 +327,7 @@ __git__ _n_ :three::hammer: _What a lying git that Carl had been._ _The poor del
 __glint__  
 __gnats__ _n_  
 __gold dust__ _n_ __2__ A valuable or rare thing: _tickets for this match are gold dust._  
+__gorged__ _v_  
 __gossamer__  
 __goy__ _n_ A person who is not Jewish.  
 __grand mal__ _n_ :three: Severe epilepsy. _Occasional grand mal seizures._ _Her seizures were of grand mal type._ _At 14, I had a grand mal of unknown origin._  
@@ -383,6 +392,7 @@ __hollering__ _v_
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
 __hoot__ _v_  
+__hooting__ _v_ _Cats hooting._  
 __HOV lane__ _n_ An expressway lane restricted to vehicles with at least a set minimum of occupants, usually two.  
 __huckster__ _n_  
 __humanist__  
@@ -414,9 +424,11 @@ __intonation__ _n_
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __irksome__  
 __iron maiden__ _n_ Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
+__ironist__  
 __jaded__ _adj_  
 __jamboree__  
 __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
+__jaunty__  
 __jeery__  
 __jet ventilation__ _n_  
 __jetty__ _n_  
@@ -435,7 +447,9 @@ __kerf__ _n_
 __kibble__ _n_  
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
 __kiddie__ _n_ _A kiddie soccer game,_  
+__kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__kinship__  
 __klondike__ _n_  
 __knackered__ _adj_  
 __knickers__ _n_ :camera:  
@@ -454,6 +468,7 @@ __lifeblood__
 __light-headed__ _adj_  
 __lightbulb moment__ _n informal_ A moment of sudden inspiration, revelation, or recognition.  
 __lilt__ _n_ :two::hammer: :es: ritmo  
+__lilting__ _adj_  
 __lip-smacking__ _adj_ (of food or drink) Tasty displaying or expressing enjoyment or pleasure, esp at the taste of food or drink.  
 __lippy__ _adj_ __1__ Speaking or responding in a rude or disrespectful way.  
 __listless__ _adj_  
@@ -467,6 +482,7 @@ __lowball__ _v_ _To decide whether to lowball or highball an offer._
 __lowly__ _adj_ _He was a lowly graduate student._  
 __ludicrous__ _adj_  
 __lurch__ _v_  
+__Lyme disease__ _n_  
 __mac and cheese__  
 __Machiavelli__  
 __malignant__ _adj_  
@@ -488,6 +504,7 @@ __mauve__ _n_
 __mawkish__ _adj_  
 __maypole__ _n_ :camera:  
 __mazurka__ _n_  
+__mealtime__ _n_ :dart:  
 __measly__ _adj_ __1__ _informal_ Meagre in quality or quantity. _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
 __mecca__ _n_ _Sedona was a mecca for spiritual tourists._  
 __meddlesome__ _adj_  
@@ -547,11 +564,12 @@ __mop-up__ _n_
 __morale__ _n_  
 __morass__ _n_  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
 __mull__ _v_ :two::hammer:  
 __mullet__ _n_  
 __mulligans__  
-__mumps__ _n_ (disease)  
+__mumps__ _n_ :two::hammer: :es: paperas  
 __muscatel__  
 __muttering__ _v_  
 __muzzled__ _v_  
@@ -633,6 +651,7 @@ __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His 
 __parry__ _v_  
 __parsimony__  
 __parsnip__ _n_ :three::hammer: :es: chirivía  
+__patron__ _n_  
 __pea-brain__ _n informal_ A foolish or unintelligent person.  
 __pedicab__ _n_  
 __peeps__ _n pl_ _slang_ Associates; friends. People.  
@@ -667,6 +686,7 @@ __pinwheel__ _n_
 __pique<sup>1</sup>__ _n_  
 __pique<sup>2</sup>__ _v_  
 __pitfall__ _n_  
+__pizzicato__  
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __plaintive__ _adj_ :two: /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
 __planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
@@ -701,6 +721,7 @@ __pounce__ _v_
 __pout__ _v_  
 __powerwash__ _v_  
 __prattled__ _v_  
+__preempt__ _v_  
 __preen__ _v_ :two::hammer: /PREEN/  
 __preposterousness__  
 __prescient__ _adj_  
@@ -724,6 +745,7 @@ __prudery__ _n_
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
+__psychotic__  
 __psyops__ _n_ (Military) Short for psychological operations. Military operations aimed at influencing the enemy state of mind through noncombative means, such as distribution of leaflets.  
 __pudgy__  
 __puffery__ _n_ :dart:  
@@ -741,6 +763,7 @@ __purportedly__
 __purview__ _n_  
 __pushover__ _n_ :dart::two::hammer:  
 __qualm__ _n_  
+__quaver__ _n_  
 __querulous__ _adj_  
 __quiddity__ _n_  
 __quiescent__ _adj_ /kwy-ESS-unt/  
@@ -748,6 +771,7 @@ __quiff__ _n_
 __quirk__ _n_  
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_  
+__ragged__ _adj_ _I feel quite ragged from lack of sleep._  
 __raillery__ _n_  
 __rambler__ _n_  
 __rambunctious__  
@@ -775,6 +799,8 @@ __rear__ _v_ _Free-range deer have been reared for some 30 years._
 __rebuke__ _v_ :two::hammer:  
 __recalcitrant__ _adj_  
 __recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
+__recruitment__ _n_ :dart: An abnormal and often unpleasant loudness of certain voices or noises.  
+__recumbent__ _adj_  
 __Red Brigade__  
 __red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
 __red-faced__  
@@ -832,6 +858,7 @@ __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.
 __ruction__ _n_ A riotous disturbance; a noisy quarrel.  
 __rueful__  
 __ruefully__  
+__rumble__ _n_  
 __rummy__ _n_  
 __run-in__ _n_ __1__ A quarrel or argument.  
 __runabout__ _n, v_  
@@ -866,6 +893,7 @@ __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt
 __savor__ _v_ _Savor the moment._  
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
+__schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scraggly__ _adj_ _A scraggly beard._  
 __scramble__ _v_ _They scrambled for personal power._  
@@ -887,6 +915,7 @@ __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
+__sesshin__ _n_  
 __settee__ _n_  
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __shady__  
@@ -963,6 +992,7 @@ __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball p
 __souvenir__ _n_ _Souvenir items._  
 __sow__ _n_  
 __spangle__ _n_ _Syn_ glitter, sequin  
+__spangled__ _adj_ Covered with small shiny objects. _The Star-Spangled Banner._  
 __Spanglish__ _n_ Spanish characterized by numerous borrowings from English.  
 __Spanish fly__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
@@ -987,6 +1017,7 @@ __stance__ _n_
 __stately__ _adj_ :two::hammer: _A stately building._  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stationary bicycle__  
+__steal__ _v_ _He sometimes “heard” classical music “stealing across the water.”_  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
@@ -1092,6 +1123,7 @@ __trellis__ _n_
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __trickle__ _v_  
 __trilby__ _n_ :two::hammer:  
+__trill__ _n_ _Melodic trill._  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
 __trite__ _adj_  
 __troika__  
@@ -1176,6 +1208,7 @@ __wimpy__
 __withholding__  
 __withstand__ _v_  
 __womenfolk__  
+__wondrously__  
 __wont__ _n_  
 __woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
