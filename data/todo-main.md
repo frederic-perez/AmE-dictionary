@@ -16,6 +16,7 @@ __afoot__
 __aftereffect__ _n_  
 __afterimage__ _n_  
 __agency__ _n_ :two::hammer: _We must use our agency._  
+__agonist__ _n_  
 __air__ _v_  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __all caps__  
@@ -71,6 +72,7 @@ __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What
 __braying__ _v_  
 __brio__ _n_  
 __broach__ _v_  
+__broadcast__ _v_ (broadcasted)  
 __brood__ _v_  
 __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
@@ -96,6 +98,7 @@ __celebutante__
 __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
 __chagrin__  
 __cheapskate__ _n_  
+__chemistry__ _n_ __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
 __chestnut__ _n_ _He uttered memorable chestnuts._  
 __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
 __china clay__  
@@ -138,6 +141,7 @@ __contraption__ _n_ A device that is very useful for a particular job. _Syn_ giz
 __contrive__ _v_  
 __contrived__  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
+__convene__ _v_  
 __conversant__  
 __convey__ _v tr_  
 __cookout__ _n_  
@@ -162,7 +166,7 @@ __deed__ _n_ :two::hammer: _The deed was set in motion._
 __deep-six__ _v_ _Bonuses were being deep-sixed._  
 __defuse__ _v_  
 __deliverance__  
-__deluge__ _n_  
+__deluge__ _n_ :two::hammer:  
 __despondency__ _n_  
 __destitute__ _adj_  
 __dharma__ _n_  
@@ -170,6 +174,7 @@ __diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)
 __didgeridoo__ _n_  
 __diffidence__  
 __diffidently__  
+__diluvian__ _adj_  
 __din__ _n_  
 __dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
 __discombobulated__  
@@ -245,6 +250,7 @@ __extol__ _v tr_
 __extolled__ _v_  
 __extricate__ _v_  
 __exude__ _v_  
+__eye of round__ _n_ A cut of meat taken from the rear leg muscles. A cheap cut of tough lean meat, considered one of the worst cuts; suitable for making ground meat.  
 __fabricate__ _v_  
 __facetious__  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
@@ -350,6 +356,7 @@ __hand-crafted__ _adj_
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_ :three::hammer:  
 __hapless__  
+__hard-won__ _adj_ Acquired through effort or in spite of problems.  
 __hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. Also called _hash brown potatoes._  
 __hasty__  
 __hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._ _He hatched a scheme._  
@@ -362,7 +369,7 @@ __headdress__
 __headspace__  
 __heady__ _adj_ :two::hammer: _Heady game._  
 __heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
-__heartfelt__ _adj_ :two: Deeply or sincerely felt; earnest.  
+__heartfelt__ _adj_ :three: Deeply or sincerely felt; earnest.  
 __heartthrob__  
 __hearty__ _adj_  
 __heat pump__ _n_  
@@ -421,6 +428,7 @@ __interpolate__ _v_ /in-TER-puh-layt/
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __intervention__ _n_ __2c__ A planned, often unannounced meeting with a person with a serious personal problem, such as addiction, in order to persuade the person to seek treatment.  
 __intonation__ _n_  
+__intracavitary__ _adj_ /ˌɪntrəˈkævɪtərɪ/  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __irksome__  
 __iron maiden__ _n_ Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
@@ -530,6 +538,7 @@ __mezzanine__ _n_
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
+__midwife__ _n_  
 __migraine__ _n_  
 __mildewed__ _adj_ :es: mohoso  
 __militate__ _v intr_ MIL-i-tayt/ To exert a strong influence, either for or against something.  
@@ -615,6 +624,7 @@ __orotund__ _adj_ /OR-uh-tund/
 __outage__ _n_  
 __outgrow__ _v_  
 __outlay__  
+__outpace__ _v tr_  
 __outpouring__ _n_  
 __outstrip__ _v tr_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
@@ -680,6 +690,7 @@ __pig Latin__
 __piggybacker__ _n_  
 __pilfer__ _v_  
 __pilfered__  
+__pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
 __pinecone__ _n_  
 __pinscher__ _n_ Any of three breeds of dogs whose ears and tail are usually cropped.  
 __pinwheel__ _n_  
@@ -702,7 +713,7 @@ __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -
 __poacher__ _n_ _Tracking rhino poachers in Nepal._  
 __podsnappery__ _n_ (derogatory) Smug self-satisfaction and a lack of interest in the affairs of others. An attitude toward life marked by complacency and a refusal to recognize unpleasant facts.  
 __pogroms__ _n_  
-__poignant__  
+__poignant__ _adj_ :two::hammer:  
 __pointless__  
 __poise__ _v_ _Develop poise between body and mind._  
 __polish__ _v_ _I polish your writing._  
@@ -737,6 +748,7 @@ __profligate__
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
 __pronation__ _n_ /pro-NAY-shuhn/  
+__proneness__ _n_ Being disposed to do something.  
 __prophylaxis__ _n_  
 __proponent__ _n_  
 __prosty__  
@@ -769,6 +781,7 @@ __quiddity__ _n_
 __quiescent__ _adj_ /kwy-ESS-unt/  
 __quiff__ _n_  
 __quirk__ _n_  
+__quirky__ _adj_  
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_  
 __ragged__ _adj_ _I feel quite ragged from lack of sleep._  
@@ -786,6 +799,7 @@ __rationalize__ _v_ :dart:
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravenous__ _adj_ :two::hammer:  
 __raver__ _n_  
+__ravish__ _v_  
 __ravishing__  
 __raw bar__  
 __reactant__  
@@ -909,6 +923,7 @@ __seesaw__
 __seething__ _adj_  
 __seize__ _v_ _Students with the growth mindset seized the chance._  
 __senility__ _n_  
+__sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
 __Sermon on the Mount__  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
 __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.  
@@ -1100,11 +1115,12 @@ __tickling__ _adj_ _Tickling laughter._
 __tidbits__  
 __tidy__ _v_ _She tidied her desk._  
 __time-saver__ _n_  
-__toil__ _v_  
+__toil__ _v tr_ :two::hammer:  
 __toll__ _n_ _Exact a toll._  
 __tomfoolery__ _n_  
 __tommyrot__ _n informal_ Utter foolishness; nonsense.  
 __tongs__ _n pl_ :es: tenazas  
+__toots__ _n slang_ Babe; sweetie.  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __top-notch__  
@@ -1121,7 +1137,7 @@ __travesty__ _n_ /TRAV-uh-stee/
 __trawl__ _v_  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
-__trickle__ _v_  
+__trickle__ _v_ :two::hammer:  
 __trilby__ _n_ :two::hammer:  
 __trill__ _n_ _Melodic trill._  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
@@ -1132,10 +1148,12 @@ __truculent__ _adj_
 __trudge__ _v_  
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tureen__ _n_ :es: sopera _Soup tureens._  
+__turmeric__ _n_ :es: cúrcuma  
 __turnkey__  
 __turpitude__  
 __tussle__ _v intr_  
 __twat__  
+__tycoon__ _n_  
 __umbrage__  
 __unassuming__ _adj_ :two::hammer:  
 __unbidden__ _adj_ :three: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
@@ -1150,6 +1168,7 @@ __unheeded__
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
 __unkempt__ _adj_  
+__unknome__ _n_ A tongue-in-cheek neologism (after ge-nome) for the plethora of genes lacking functional information.  
 __unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
 __unmissable__  
 __unpack__  
@@ -1193,6 +1212,7 @@ __warrant__ _v_
 __wattle__ _n_  
 __waver__ _v_  
 __weasel__ _v_  
+__weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
 __wheelhouse__  
 __wherewithal__  
@@ -1223,3 +1243,4 @@ __wrung__ _v_ _They have wrung their hands._
 __yammering__  
 __yo-yo__ _n_  
 __yowl__ _v_  
+__zip pouch__ _n_ (zipper pouch)  
