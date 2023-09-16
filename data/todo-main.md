@@ -416,33 +416,6 @@ __inanely__ _adv_
 __ineffability__  
 __ineffable__  
 __infirm__ _adj_  
-__injunction__ _n_ :four::hammer: /in-JUNK-shun/  
-__inkling__ _n_ :two::hammer:  
-__inpatient__  
-__inquest__  
-__insouciance__ _n_ :two::hammer:  
-__insouciant__  
-__integer__ _n_ :mega:  
-__interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
-__interpolate__ _v_ /in-TER-puh-layt/  
-__interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
-__intervention__ _n_ __2c__ A planned, often unannounced meeting with a person with a serious personal problem, such as addiction, in order to persuade the person to seek treatment.  
-__intonation__ _n_  
-__intracavitary__ _adj_ /ˌɪntrəˈkævɪtərɪ/  
-__ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
-__irksome__  
-__iron maiden__ _n_ Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
-__ironist__  
-__jaded__ _adj_  
-__jamboree__  
-__jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
-__jaunty__  
-__jeery__  
-__jet ventilation__ _n_  
-__jetty__ _n_  
-__Jewfro__ _n_ A curly, bushy hairstyle worn by some Ashkenazi Jews.  
-__jibed__ _v_  
-__Jody__ _n_  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
 __jowly__ _adj_ Having heavy or sagging jowls. _The jowly lawyer._  

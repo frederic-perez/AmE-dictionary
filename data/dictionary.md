@@ -9011,11 +9011,11 @@ __inimical__ _adj_ :five: __1__ Being adverse often by reason of hostility or ma
 __inimitable__ _adj_  
 __iniquity__ _n_ :six: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality _The sons of iniquity._ __2__ A grossly immoral act; a sin.  
 __initiative__  
-__injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
+__injunction__ _n_ :nine::m: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ /in-JUNK-shun/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _adj_ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
-__inkling__ _n_ :nine: /INK-ling/ __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something. A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
+__inkling__ _n_ :nine::m: /INK-ling/ __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something. A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
 __inland<sup>1</sup>__ _adj_ :two::hammer:  
 __inland<sup>2</sup>__ _adv_  
 __inland<sup>3</sup>__ _n_  
@@ -9032,8 +9032,8 @@ __inoculation__ _n_
 __inordinate__ _adj_ :seven::hammer: _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
 __inordinately__ _adv_ :four::hammer: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
-__inpatient__ _n_ :three: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
-__inquest__ _n_ :two::hammer:  
+__inpatient__ _n_ :four: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
+__inquest__ _n_ :three::hammer:  
 __inquiry__ _n_  
 __inquisitive__ _adj_  
 __inquisitiveness__  
@@ -9056,7 +9056,8 @@ __insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ 
 __insolent__ _adj_  
 __insolvency__  
 __insomniac__ _n_  
-__insouciant__ _adj_ Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
+__insouciance__ _n_ :two::hammer:  
+__insouciant__ _adj_ :two: Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
 __insourcing__ _n_  
 __inspirit__ _v tr_ To instill courage or life into.  
 __inspissate__ _v_ To undergo thickening or cause to thicken, as by boiling or evaporation. _Syn_ condense, thicken _The recipe then instructed the cook to inspissate the sauce by adding flour._  
@@ -9079,7 +9080,7 @@ __insurmountable__ _adj_ :two::hammer: _Alabama built an insurmountable 21-3 hal
 __insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
 __intaglio__ _n_ A figure or design carved into or beneath the surface of hard metal or stone. _Syn_ diaglyph _The intaglio was so incredibly detailed that it almost looked like a photograph._  
 __intangible__ _adj, n_ :two::hammer:  
-__integer__ _n_ :mega: /ˈɪntɪʤɚ/  
+__integer__ _n_ :two::hammer::mega: /ˈɪntɪʤɚ/  
 __integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
@@ -9093,6 +9094,7 @@ __interdicting__
 __interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/  
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
+__interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
 __interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
 __interlope__ _v intr_ /in-tuhr-LOHP, IN-tuhr-lohp/ [:scroll: Probably a back-formation from interloper, from Latin inter- (between) + Dutch lopen (to run), which also gave us landloper and landlubber] To intrude or interfere.  
 __interloper__ _n_ :five::hammer: /in-ter-LOH-per/ /ˈɪntəˌləʊpə/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
@@ -9108,20 +9110,23 @@ __international friendly__
 __internecine__ _adj_  
 __internment__ _n_  
 __internship__  
-__interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
+__interpolate__ _v_ :two::astonished: /in-TER-puh-layt/ To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interpretive__ _adj_ :three::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._ _A one-mile interpretive trail._  
 __interpunct__ _n_  
 __interrelate__ _v_ :two::astonished::hammer:  
+__interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__ _v_ :four::hammer: (intertwined)  
 __intervene__ _v_ :five::hammer:  
-__intervention__ _n_ :three::hammer:  
+__intervention__ _n_ :four: __2c__ A planned, often unannounced meeting with a person with a serious personal problem, such as addiction, in order to persuade the person to seek treatment.  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
 __intimation__ _n_ Making known indirectly.  
 __intolerable__ _adj_  
+__intonation__ _n_  
 __intoxicate__ _v_ /in-TAHK-suh-kayt/ Intoxicate means “to excite or stupefy by or as if by alcohol or drugs.” It can also mean “to poison.” _The little bit of beer they drank was not enough to intoxicate them._ _The stunning spectacle of this Las Vegas show is sure to intoxicate spectators._  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
+__intracavitary__ _adj_ /ˌɪntrəˈkævɪtərɪ/  
 __intramural__  
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
 __intransigent__ _adj_ :two: /in-TRAN-suh-junt/ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
@@ -9158,6 +9163,7 @@ __involute<sup>3</sup>__ _v intr_ /in-vuh-LOOT/ __1__ To curl up. __2__ To retur
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __iodine__ _n_ :es: yodo  
 __iota__ _n_ :two::mega: A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
+__ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __ipso facto__ _adv_  
 __irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -9169,12 +9175,14 @@ __iridology__ _n_ The study of the iris of the eye, especially as associated wit
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irk__ _v_ _What irks you?_  
-__irksome__  
+__irksome__ _adj_ :two::hammer:  
+__iron maiden__ _n_ :dart::camera: Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
 __iron<sup>1</sup>__ _n_ :two::mega::dart: _(golf)_  
 __iron<sup>2</sup>__ _v_ :mega: (ironing)  
 __ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._  
+__ironist__  
 __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical endurance.  
 __irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
 __irrefutable__ _adj_ _Irrefutable evidence._  
@@ -9229,7 +9237,7 @@ __Jacob’s ladder__ _n_
 __Jacquerie__ _n_  
 __Jacques__ _n_ :four::hammer: _The onslaught of the Jacques._  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
-__jaded__ _adj_ :six: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them. _A jaded traveler._  
+__jaded__ _adj_ :seven: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them. _A jaded traveler._  
 __Jag__ _n_ _informal_ A Jaguar car: often understood as a symbol of affluence.  
 __jagged__ _adj_ :two::hammer:  
 __jagging__  
@@ -9243,7 +9251,7 @@ __jam__ _v_ :two::hammer:
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
 __jamb__ _n_ :two::hammer: _(building)_ _Window jamb._  
 __jambalaya__ _n_ :two::hammer:  
-__jamboree__ _n_ :five::hammer: /ˌdʒæm bəˈri/ _A campfire jamboree._  
+__jamboree__ _n_ :six::hammer: /ˌdʒæm bəˈri/ _A campfire jamboree._  
 __jammies__ _n_ :two::hammer:  
 __jampacked__ _v_  
 __jams__ _n_  
@@ -9264,6 +9272,7 @@ __jarring__ _adj_ :eight: Surprising, or slightly shocking.
 __jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, opaque quartz, typically in dull shades of red, yellow, and brown. :es: jaspe  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
+__jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
 __jaunt__ _n_ :eight::hammer:  
 __jaunty__ _adj_ :nine::m: /JAWN-tee/ /JON/JAHN-tee/ __1__ Stylish. __2__ Lively; self-confident. Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __javelin__ _n_ :mega:  
@@ -9277,6 +9286,7 @@ __jazzy__
 __jeans__ _n pl_ (plurale tantum)  
 __jeer<sup>1</sup>__ _n_ A scoffing or taunting remark or shout.  
 __jeer<sup>2</sup>__ _v_ :five::hammer: (jeered, jeering)  
+__jeery__  
 __Jehova’s Witness__  
 __jejune__ _adj_ :three: /jih-JOON/ A formal word often used as a synonym of _juvenile_ to describe things (such as behaviors, attitudes, etc.) that are immature, childish, or simplistic. It can also mean “uninteresting” or “boring.” Not interesting; dull. _Syn_ insipid _A jejune novel._  
 __jell__ _v_ _The plans didn’t jell._  
@@ -9299,20 +9309,22 @@ __jest__
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jet blast deflector__  
 __jet blast__  
+__jet ventilation__ _n_  
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
 __jetliners__  
 __jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jettison__ _v_ :eight: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
-__jetty<sup>1</sup>__ _n_ :two::hammer:  
+__jetty<sup>1</sup>__ _n_ :three::hammer:  
 __jetty<sup>2</sup>__ _adj_  
 __jeu d’esprit__ _n_ A work of light playfulness or wit, especially in literature.  
 __jewelry__ _n_ (jewellery)  
 __Jewess__  
+__Jewfro__ _n_ A curly, bushy hairstyle worn by some Ashkenazi Jews.  
 __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
 __Jewry__  
 __jib__ _n_ :two::hammer: _I hoisted the jibs._  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
-__jibe<sup>2</sup>__ _v_ :six: (jibes) To be in accord; agree. _Syn_ correspond, match _I expected to find some discrepancies in the books, but your figures jibe with mine._ _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
+__jibe<sup>2</sup>__ _v_ :seven: To be in accord; agree. _Syn_ correspond, match _I expected to find some discrepancies in the books, but your figures jibe with mine._ _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
@@ -9344,6 +9356,7 @@ __jocose__ _adj_ Given to joking; merry. _Syn_ jesting, jocular, joking _Larry, 
 __jocular__  
 __jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
 __jodhpurs__ _n pl_ :three: Riding pants of sturdy cloth, traditionally wide-hipped and tightly fitted from knee to ankle. :es: pantalones de montar  
+__Jody__ _n_  
 __jody__ _n_ _He often complained about his wife’s jody._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __John Doe__  
