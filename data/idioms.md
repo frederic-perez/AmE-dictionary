@@ -1739,21 +1739,23 @@ __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exa
 __goody two-shoes__ _informal_  
 __goof up__ :two::hammer:  
 __goof__  
+__goon__ _n_ :three::hammer:  
 __got them covered__  
 __grab a bite__  
 __grab and go__  
 __grace period__ _The doctor had already moved on to their next appointment because they have a five-minute grace period._  
-__grand poobah__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
+__grand poobah__ :two: The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). _I think it sounds like a great idea, but you’ll have to ask the grand poobah first._  
 __grand scheme__ :two: The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.” _I know you’re worried about getting a bad grade on this test, but you’re such a great student that I doubt it will matter in the grand scheme of things._  
+__grand total__ The final amount after adding several different numbers or sums. _After everything was accounted for, the cost of remodeling the kitchen came to a grand total of $4,500._  
 __grande dame__ _n_  
-__grapple with (someone or something)__ :two::hammer: _Telehealth companies grapple with regulatory uncertainty._  
+__grapple with (someone or something)__ :three::hammer: _Telehealth companies grapple with regulatory uncertainty._  
 __grasp at straws__ To make a desperate attempt to salvage a bad situation.  
-__grasp in the dark__ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
+__grasp in the dark__ :two: To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grasp the nettle__ _BrE_  
 __grasp__  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
-__grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
+__grease payment__ :two: A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
 __greasy spoon__ A small restaurant or diner, especially one that serves fried foods. _Every time I go on a road trip, I make it a point to stop at a greasy spoon for at least one of my meals._ _Specialties at this greasy spoon include scones resembling fry bread with honey butter._  
 __great (_or_ much) cry and little wool__ [:scroll: This expression comes from the idea of shearing pigs, where the result could be expected to be _great cry and little wool._] A great deal of fuss, noise, fanfare, or protestation over something of little or no substance, importance, or relevance. _My opponent has been making outlandish claims about my track record so as to foment distrust in the public, but I assure you, he is offering great cry and little wool._  
 __great balls of fire__ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
@@ -1765,36 +1767,46 @@ __green with envy__ :two: Very jealous of another person. _My daughter loves bei
 __greener pastures__ :two: A better or more exciting job or place.  
 __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
 __grifter__ Someone who swindles other people. _Mom, don’t be a fool and give this guy more money when he hasn’t done a single part of this job right so far. He’s a total grifter!_  
-__grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something).  
-__grind (someone’s) gears__ To greatly or specifically irritate or annoy someone.  
+__grill (someone) (about something)__ :two: To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
+__grind (someone’s) gears__ :two: To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
+__grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
 __gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
 __groom (someone) for (something)__  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __ground-breaking__  
 __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
-__guilt complex__ A very strong and persistent feeling of guilt regarding something or some event.  
-__guilty pleasure__ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
-__gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
+__guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
+__guilt complex__ :two: A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
+__guilty pleasure__ :three: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
+__gulp down__  
+__gun it__ :two: To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
+__gung ho__  
+__gunk__  
 __gush over (someone or something)__  
 __gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
 __gut bomb__ Any greasy, filling junk food.  
+__gut factor__  
 __gut feeling__ An intuition, an instinctive feeling about something.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
-__gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings.  
+__gut-wrenching__ :two: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so.  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
 __H-E-double-hockey-sticks__ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __haha__ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as “ha ha” or “ha-ha.” Greater degrees of laughter or humor can be represented by more instances of “ha.”  
 __Hail Mary__ :two: __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
-__hair-splitting__  
+__hair-splitting__ :two::hammer:  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __half-ass__ :dart::three: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
-__halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
+__half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
+__halfway decent__:two: Somewhat good, useful, or enjoyable, but not very; passable.  
+__Hallmark moment__  
+__hand (something) to (someone) on a plate__ To give or relinquish something to someone very easily, without them having to work very hard to get or achieve it. _The team’s defense has been atrocious today, handing a victory to their opponents on a plate._  
 __hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
 __hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
 __hand out__  
+__hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
 __hands down__ :eight: Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._ _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
