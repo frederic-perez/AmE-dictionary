@@ -46,6 +46,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Kathy Griffin](https://www.youtube.com/results?gl=US&search_query=Kathy+Griffin) » [kathygriffin.com](https://kathygriffin.com)
+- [Kevin Hart](https://www.youtube.com/results?gl=US&search_query=Kevin+Hart)
 - [Kevin Smith](https://www.youtube.com/results?gl=US&search_query=Kevin+Smith)
 - [Kristen Schaal](https://www.youtube.com/results?gl=US&search_query=Kristen+Schaal)
 - [Margaret Cho](https://www.youtube.com/results?gl=US&search_query=Margaret+Cho)
