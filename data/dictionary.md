@@ -3327,7 +3327,7 @@ __clout<sup>2</sup>__ _v_
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __clowder__ _n_ /ˈklɑʊdə/ A collective term for a group of cats.  
 __cloy__ _v_ :two::hammer:  
-__cloying__ _adj_ :six: /KLOY-ing/ Excessively sweet or sentimental. :es: empalagoso _She is cordial without being cloying._ _She finds most romantic comedies cloying and predictable._  
+__cloying__ _adj_ :nine: /KLOY-ing/ Excessively sweet or sentimental. :es: empalagoso _She is cordial without being cloying._ _She finds most romantic comedies cloying and predictable._  
 __Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
 __clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
@@ -3343,7 +3343,7 @@ __clutch<sup>1</sup>__ _n_ :five::hammer: _It fosters a clutch of promising inno
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
-__co-opted__ _v_  
+__co-opt__ _v_ :two::hammer: (co-opted)  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
 __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
@@ -3397,11 +3397,11 @@ __coffee mill__ _n_ _Syn_ coffee grinder
 __coffee pot__ _n_  
 __coffee-table book__  
 __coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
-__coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
+__coffer__ _n_ :eight: __1__ A strongbox. __2a__ (often _coffers_) Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas __b__ A treasury: _stole money from the union coffers._  
 __coffice__ _n_ _informal_ A coffee shop used as if it is one’s office. _The coffee shop down this street is my coffice for 3 hours every day._  
 __cog railroad__  
 __cog railway__  
-__cog__ _n_ :eight: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
+__cog__ _n_ :nine: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ _A bland cog in the wheel._ :es: diente de rueda  
 __cogency__  
 __cogent__ _adj_ :six: /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.” Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ :two: /KOJ-i/uh-tayt/ To think, reflect, meditate, etc. To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
@@ -3415,7 +3415,7 @@ __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized 
 __cohort study__ _n_ :four: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __cohort__ _n_  
 __coif__ _n_ :es: cofia _Strange coif._  
-__coiffed__ _adj_  
+__coiffed__ _adj_ :two: _literary_ Styled: _her hair was perfectly coiffed._ :es: peinado  
 __coiffure<sup>1</sup>__ _n_ A hairstyle.  
 __coiffure<sup>2</sup>__ _v tr_ To arrange or dress (hair).  
 __coil__ _v_ :two::hammer:  
@@ -3436,7 +3436,7 @@ __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleopter
 __coleslaw__ _n_ :five::hammer:  
 __Colgate__ _n_ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
-__colicky__ _adj_ Relating to or suffering from colic.  
+__colicky__ _adj_ :two: Relating to or suffering from colic.  
 __collage__ _v_  
 __collapse__ _v_ :pencil2:  
 __collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
@@ -3464,9 +3464,10 @@ __colon__ _n_ :mega:
 __colonel__ _n_ :two::mega::hammer:  
 __colonnade__  
 __colophon__ _n_  
-__color scheme__  
+__color scheme__ _n_ :two: A particular combination of colors. _They chose an unusual color scheme for the living room._  
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
+__coloratura__ _n_  
 __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
@@ -3517,7 +3518,7 @@ __commensurate__ _adj_ :six: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job pos
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :eight::hammer: /kəˈmɪzəˌreɪt/  
+__commiserate__ _v_ :nine::hammer: /kəˈmɪzəˌreɪt/  
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __commissioned__ _adj_  
@@ -3537,6 +3538,7 @@ __commoner__ _n_ __1__ A member of the commonalty; a person without a title of n
 __commonplace__ _adj, n_  
 __commonwealth__ _n_ :three: __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
 __commotion__ _n_  
+__communal__ _adj_ _The communal bathroom is down the hall._  
 __commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
 __communicant__ _n_ _Even the Eucharist might be withheld unless the communicant produced an offering which made a mockery of the ritual._  
 __communion wafers__  
@@ -3550,6 +3552,7 @@ __company__ _n_ _Joe-Jim, Bobo and company are back._
 __compartmentalize__ _v_ :four::hammer:  
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
+__compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
 __compel__ _v_ :six::hammer:  
 __compelling__ _adj_ :seven: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
@@ -3557,13 +3560,14 @@ __compendium__ _n_ A list or collection of various items. _Syn_ collection
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
 __complacent__ _adj_ :four: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
+__complaisance__ _n_ A disposition or tendency to yield to the will of others. _Syn_ deference, compliancy, obligingness, compliance  
 __completion__ _n_  
 __complex__ _adj, n, v_ :mega:  
 __compliance__ _n_ :four::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
 __complicitious__  
-__complimentary__ _adj_ :nine::pencil2: __1__ Expressing, using, or resembling a compliment: _a concert that received complimentary reviews._ __2__ :dart: Given as a courtesy at no charge: _complimentary copies of the new book._ _Complimentary rooms._ _Complimentary popcorn._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
+__complimentary__ _adj_ :nine::m::pencil2: __1__ Expressing, using, or resembling a compliment: _a concert that received complimentary reviews._ __2__ :dart: Given as a courtesy at no charge: _complimentary copies of the new book._ _Complimentary hotel rooms._ _Complimentary popcorn._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
 __complot__ _n_ :mega:  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
@@ -3579,6 +3583,7 @@ __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensibl
 __comprise__ _v_ :two::hammer: /kum-PRYZE/  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :four: Variant of controller, used _esp_ as a title of any of various financial executives.  
+__compulsive__ _adj_ _Compulsive thoughts._  
 __compulsory school__  
 __compulsory__ _adj_ :nine::m: /kəmˈpʌlsərɪ/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compunction__ _n_ :two::hammer:  
@@ -3596,7 +3601,7 @@ __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption
 __Concacaf__  
 __concatenate__ _v_ /kahn-KAT-uh-nayt/  
 __concede__ _v_ _A total of 44 goals scored and 48 conceded last year._  
-__conceit<sup>1</sup>__ _n_ :dart::three: A favorable and especially unduly high opinion of one’s own abilities or worth. _Syn_ amour-propre, vanity _She was convinced that she was worthy of marrying royalty, but her vanity and conceit only made her less attractive to the prince._  
+__conceit<sup>1</sup>__ _n_ :dart::four: A favorable and especially unduly high opinion of one’s own abilities or worth. _Syn_ amour-propre, vanity _She was convinced that she was worthy of marrying royalty, but her vanity and conceit only made her less attractive to the prince._  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
@@ -3617,8 +3622,9 @@ __concise__
 __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant__ _adj_ :seven::hammer:  
+__concomitant__ _adj_ :eight::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
+__concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
 __concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
@@ -3651,12 +3657,14 @@ __confide__ _v_ :five::hammer: (confided)
 __confidence__  
 __config__ _n_ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
-__conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
+__conflate__ _v_ :four: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
+__conflation__  
 __confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conform__ _v_  
 __conforming__ _adj_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
+__confounded__ _adj_ :three::hammer:  
 __confounding__ _adj_ :two::hammer: _Confounding factors._  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
@@ -3665,6 +3673,7 @@ __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
+__congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
 __congest__ _v_  
 __congested__ _adj_ __3__ (of the nose) Blocked with mucus.  
 __congestion__ _n_ _The congestion during peak hours._  
@@ -3680,10 +3689,11 @@ __conjure__ _v_ :three::hammer: _Syn_ beg
 __conk__ _v_ (conked) _Something conked me._  
 __conman__  
 __conn__ _v_ :two: To direct the steering or course of (a vessel). _To conn the ship._ _Conning the board was a strain._  
+__connect__ _n_ _First of all, I want to thank my connect._  
 __Connecticut__ _n_ :pencil2:  
 __connective tissue__ _n_  
 __connivance__ _n_ :four: Agreement on a secret plot.  
-__connive__ _v_ :six::hammer: (connived, conniving)  
+__connive__ _v_ :seven::hammer: (connived, conniving)  
 __connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
 __connotation__ _n_ :two: Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
@@ -3699,6 +3709,7 @@ __consecrate__ _v_ :two::hammer: _The current church building was consecrated in
 __consecutive__ _adj_ :two::hammer:  
 __consensual__  
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
+__consequential__  
 __consequently__  
 __conservancies__  
 __conservatory__ _n_ :seven: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. _A tropical conservatory._ :es: invernadero  

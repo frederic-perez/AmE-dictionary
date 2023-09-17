@@ -109,32 +109,6 @@ __Chutes and Ladders__ _n_
 __clang__ _v_ _Bells clanging._  
 __clangor__ _n, v_  
 __clatter__ _n_  
-__cloying__ _adj_ :three::hammer:  
-__co-opt__ _v_  
-__coffer__ _n_  
-__cog__ _n_ _A bland cog in the wheel._  
-__coiffed__ _v_  
-__colicky__ _adj_  
-__color scheme__ _n_ A particular combination of colors. _They chose an unusual color scheme for the living room._  
-__coloratura__ _n_  
-__commiserate__  
-__communal__ _adj_ _The communal bathroom is down the hall._  
-__compeer__ _n_ person who is of equal standing with another in a group. _Syn_ equal, peer, match  
-__complaisance__ _n_ A disposition or tendency to yield to the will of others. _Syn_ deference, compliancy, obligingness, compliance  
-__complimentary__ _adj_ _Complimentary hotel rooms._  
-__compulsive__ _adj_ _Compulsive thoughts._  
-__conceit__ _n_  
-__concomitant__ _adj_  
-__concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
-__conflate__ _v_ :two::hammer:  
-__conflation__  
-__confound__ _v_  
-__confounded__ _adj_ :three::hammer:  
-__congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
-__connect__ _n_ _First of all, I want to thank my connect._  
-__connive__ _v_  
-__consequential__  
-__construed__ _v_  
 __contain__ _v_ _He could barely contain his saliva._  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __contraption__ _n_ A device that is very useful for a particular job. _Syn_ gizmo, appliance, contrivance, gadget, widget, gismo, convenience  
