@@ -2269,7 +2269,7 @@ __it ain’t over till/until the fat lady sings__ The final outcome cannot be as
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
-__it is what it is__ :two: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
+__it is what it is__ :five: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
 __it takes a village__ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
@@ -2280,6 +2280,7 @@ __it’s all good__ A phrase used to express general approval, unconcern, or dis
 __it’s one of those things__  
 __ivory tower__ :two: An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
 __jack someone up__ _It jacks me up._  
+__jack-off__ :two::hammer: _Harry made the jack-off sign._  
 __jacked chad__  
 __jailbreak__  
 __jam-packed__ :three::hammer: (jampacked)  
@@ -2294,6 +2295,7 @@ __jet-setter__ A wealthy individual who travels globally, especially by private 
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
 __Job’s comforter__ Someone who makes a person feel worse about a situation when trying to offer sympathy. A reference to the Biblical story of Job, who showed great faith amid difficult circumstances. _Larry is a real Job’s comforter. I know he was just trying to offer comforting words, but he made Maggie feel worse about her financial situation._  
+__jock__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __Johnnie-come-lately__ _n_ :three: (Johnny-come-lately) Someone new to a situation or status. _We were a Johnny-came-lately._  
 __Johnny One-Note__ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
@@ -2314,15 +2316,19 @@ __jump on (someone or something)__ _Amazon is jumping on the generative AI hype 
 __jump ship__ To leave a job or activity.  
 __jump the gun__ :two::dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._ _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
 __jump through hoops__ To do a lot of difficult things before you are allowed to have or do something you want.  
+__jump to conclusions__ To make decisions or form opinions before one has all the pertinent facts.  
+__jump up and down__  
 __jump-start__  
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
 __junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just another day at the office__  
 __just because__ _informal_ :three: For no specific or meaningful reason.  
+__just out of curiosity__ A phrase used to express a sense of interest or a desire to know something without any particular reason or purpose.  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just the same (to one)__  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
+__K-car__  
 __kangaroo court__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
 __keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
@@ -2377,6 +2383,7 @@ __kick the can down the road__ Especially in politics, to postpone or defer a de
 __kick the crap out of (someone)__  
 __kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick the/(one’s) door down__  
+__kicker__  
 __kid around__  
 __kid in a candy store__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
@@ -2391,6 +2398,7 @@ __kiss of death__ An action, event, or association that causes inevitable ruin o
 __kiss up__ _slang_ :dart: To habitually offer flattery in the hope of gaining favor; to behave sycophantically. _Stop kissing up just to try to get an A. Just study like everyone else._ _Kiss up tp the bosses._  
 __kith and kin__ _old-fashioned_ Friends and relatives.  
 __kludgy__ :dart:  
+__klutz__  
 __knee jerk reaction__ A quick and automatic response.  
 __knick-knack__ Any miscellaneous trinket or toy, especially one that is delicate or dainty.  
 __knock (one’s) head against a/the wall__ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
@@ -2401,6 +2409,7 @@ __knock on wood__
 __knock out__ __7__ :dart: _slang_ To produce or complete something, usually with the main motivation of simply getting it done. _If we can knock out a few more of these reports before the weekend, we’ll be in good shape for next week._ _It’s your time to drop into flow and knock out your biggest task._  
 __knock the socks off (someone or something)__ :two::hammer:  
 __knock-off__  
+__knocked (one) sideways__  
 __knocked out of the park__  
 __knocked up__ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ :dart: To be dying, to be close to death.  
@@ -2424,14 +2433,16 @@ __labor under the illusion of/that__ To live, operate, or function with the unyi
 __Lady Luck__ :three: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
 __lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __laid-back__ _adj_ :nine::m: [:sound: laid-back] __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
+__land a job__ To find a job and be hired.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
-__land on (one’s) feet__ :two: To gracefully survive a bad situation.  
+__land on (one’s) feet__ :three: To gracefully survive a bad situation.  
 __land-poor__ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
 __lap dog__ :dart: __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_ :es: perro faldero  
 __lap of the gods__ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
 __larger than life__ :three::hammer:  
 __larger-than-life__  
-__lash out__ :five::hammer:  
+__lash about__ _Lads lashing about._  
+__lash out__ :six::hammer:  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last but certainly not least__  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something.  
@@ -2452,6 +2463,7 @@ __laugh off__ :two::hammer:
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
 __laundry list__  
+__lavish (someone or something) with (something)__  
 __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
 __lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something.  
@@ -2470,6 +2482,7 @@ __leap to (someone’s) mind__ To suddenly or immediately materialize in someone
 __leaps and bounds__ :dart::three: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._ _Communication and control technologies are advancing in leaps and bounds._  
 __learn (something) the hard way__  
 __learn the ropes__ :three::hammer:  
+__least said, soonest mended__  
 __leather-lunged__ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
 __leave (one’s) mark__  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
@@ -2514,6 +2527,7 @@ __lift a finger__ To help with something. Often used in the negative to indicate
 __lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
 __light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
 __lightbulb moment__  
+__lighten (one’s) wallet__  
 __lightning in a bottle__ An incredibly difficult, unlikely, and/or elusive achievement or period of success. (Usually used with “catch” or “capture.”) Primarily heard in US. _The rookie team, such underdogs in this championship, are trying to capture lightning in a bottle by upsetting the number one seed._  
 __lightning quick__ Incredibly fast; too quick to keep up with. Hyphenated if used before a noun. _Did you see that martial arts expert? His kicks were lightning quick!_ _My brother has a lightning-quick wit._  
 __like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
@@ -2536,9 +2550,10 @@ __line in the sand__ A figurative boundary that someone or some group refuses to
 __line of work__  
 __lingua franca__ Any language used to bridge the gap between people who do not speak the same language. _English is the lingua franca in many foreign tourist destinations._  
 __lion’s share__ :two: The greatest or best part.  
-__lip service__  
+__lip service__ :three::hammer:  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
+__litmus test__  
 __live and kicking__ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
 __live in an/(one’s) ivory tower__ To reside or exist in a place or among a social circle that is characterized by effete academic intelligence and thus is out of touch with or aloof from the realities of life. _I don’t put much weight in the advice of a bunch of economists living in their ivory towers who’ve never worked a real job in their lives._  
 __live large__ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
@@ -2553,11 +2568,11 @@ __living hell__ _Your life will be living hell._
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __living proof__ :two::hammer:  
 __living the dream__ :two: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
-__lo and behold__ :astonished::six::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
+__lo and behold__ :astonished::eight::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
-__lock horns with, to__  
+__lock horns with, to__ :two::hammer:  
 __lock lips (with someone)__ To kiss (someone) passionately and at length. _I’l never forget locking lips with my wife for the very first time._  
 __lock, stock, and barrel__ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
@@ -2582,7 +2597,7 @@ __look on the sunny side (of life/things)__ To view one’s life, situation, or 
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __look up to (one)__ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
 __looking up__ Appearing as if improvement will begin or continue into the future. _Now that businesses have started returning, the country’s economy is finally looking up._  
-__loom large__ :two: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
+__loom large__ :three: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __loose cannon__ :two::hammer:  
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins. _My wife and I put our loose change in a big jar at the end of the day._  
 __loose ends__ :two::hammer:  
@@ -2608,6 +2623,7 @@ __lost cause__
 __lost for words__ (at a loss for words)  
 __lost in the shuffle__  
 __lost in translation__ :two: Of a word or words, having lost or lacking the full subtlety of meaning or significance when translated from the original language to another, especially when done literally. (Usually formulated as “be/get lost in translation.”) _My friend tried explaining a few French idioms to me, but I’m afraid they were lost in translation._ _Evidence for preventing covid-19 is lost in translation._  
+__lost on (one)__ Unappreciated or not understood, as of an idea.  
 __lost on me__ _It is not lost on me._  
 __loud and clear__  
 __love (someone) to the moon (and back)__  
@@ -2615,11 +2631,14 @@ __love handles__ _slang_ An accumulation of fat around one’s midsection. _I ne
 __lovebirds__  
 __low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
 __low-hanging fruit__ :three::dart: The most easily achieved of a set of tasks or goals.  
+__lowball__  
+__lowdown__ __2__ _n_ The truth, facts, or most pertinent information about someone or something.  
 __lower the bar__ To lower the standards of quality that are expected of or required for something.  
 __lubrication payment__ A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __luck in__ To be very lucky or fortunate; to experience particularly good luck. (A nonstandard variant of “luck out.”) _I really lucked in with my graduate school program. I have the most amazing group of professors and peers!_  
 __lucky break__ A very fortunate or beneficial chance or happenstance.  
 __lucky devil__ Someone who has just experienced particularly good fortune, generally of whom the speaker is envious to some degree. _You just won an all-expenses-paid trip to the Bahamas? You lucky devil!_  
+__lucky loser__ A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
 __lump in (one’s) throat__  
 __lust for life__ :two: Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
 __lust for power__ Intense, insatiable desire to attain power and control. _My brother’s lust for power in our company has created some deep and bitter divisions between him and the rest of the family._  

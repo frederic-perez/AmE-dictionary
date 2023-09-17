@@ -250,32 +250,6 @@ __in the middle of nowhere__
 __in the zone__  
 __in training__  
 __it (always) pays to (do something)__  
-__it is what it is__ :three: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable.  
-__jack-off__ :two::hammer: _Harry made the jack-off sign._  
-__jock__  
-__jump to conclusions__ To make decisions or form opinions before one has all the pertinent facts.  
-__jump up and down__  
-__just out of curiosity__ A phrase used to express a sense of interest or a desire to know something without any particular reason or purpose.  
-__K-car__  
-__kicker__  
-__klutz__  
-__knocked (one) sideways__  
-__land a job__ To find a job and be hired.  
-__land on one’s feet__  
-__lash about__ _Lads lashing about._  
-__lash out__  
-__lavish (someone or something) with (something)__  
-__least said, soonest mended__  
-__lighten (one’s) wallet__  
-__lip service__ :two::hammer:  
-__litmus test__  
-__lo and behold__ :two::hammer:  
-__lock horns__  
-__loom large__ To seem imminent and cause worry or unease.  
-__lost on (one)__ Unappreciated or not understood, as of an idea.  
-__lowball__  
-__lowdown__ __2__ _n_ The truth, facts, or most pertinent information about someone or something.  
-__lucky loser__ A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
 __lump in (one’s) throat__  
 __make a fuss__  
 __make inroads (in/into something)__  
