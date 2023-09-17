@@ -22,6 +22,7 @@ __a sounding board__
 __A-team__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
+__above and beyond__ :dart:  
 __across the pond__  
 __again and again__ _The same groundhog festival is gearing up again and again._  
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
@@ -29,6 +30,8 @@ __ahead of the curve__
 __all along__ The entire time.  
 __as it happens__  
 __be hard put__  
+__be on a mission__  
+__behind closed doors__  
 __blaze a trail__  
 __buckle down__ _Buckle down and work harder._  
 __build up__  
@@ -37,6 +40,7 @@ __bust up__ _He had a way of saying things that busted us up._
 __busy oneself with someone or something__  
 __but still__  
 __butt-kicker__  
+__by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by all means__  
 __by and by__  
 __by no means__ Not in any way; not at all; absolutely not.  
@@ -82,6 +86,7 @@ __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both
 __dingy__  
 __dish out__  
 __do a U-turn__  
+__do or die__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dog eat dog__  
 __dolled up to the nines__  
@@ -127,8 +132,10 @@ __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruit
 __full blast__ (At) the maximum level.  
 __full of (oneself)__  
 __fun and games__  
+__funky__  
 __game changer__  
 __game-changer__  
+__gangbusters__ __1__ Successful. _Oh, presenting the case to the students was gangbusters—they got totally engrossed in trying to the solve the mystery._ __2__ A wild, busy, and successful event. (See also _like gangbusters_.) _Our party was truly gangbusters, for sure._  
 __gear up__ _The same groundhog festival is gearing up again and again._  
 __get (one’s) act together__  
 __get a toehold__  
@@ -199,6 +206,7 @@ __head over heels__
 __head start__  
 __head-to-toe__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__heart of gold__  
 __heaven on earth__  
 __helluva__  
 __help (one) out__  
@@ -215,6 +223,7 @@ __hold (one’s) nose__
 __hold (one’s) tongue__  
 __hold (someone, something, or an animal) back (from someone or something)__  
 __hold a grudge__  
+__hold back__  
 __hold court__  
 __hold on tight__  
 __hold on__  
@@ -241,6 +250,7 @@ __in denial__
 __in donkey’s years__ _I haven’t thought about it in donkey’s years._  
 __in high dudgeon__  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
+__in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
 __in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the hope of__  
 __in the hot seat__  
@@ -250,6 +260,10 @@ __in the middle of nowhere__
 __in the zone__  
 __in training__  
 __it (always) pays to (do something)__  
+__it factor__  
+__it is what it is__  
+__keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
+__like gangbusters__  
 __lump in (one’s) throat__  
 __make a fuss__  
 __make inroads (in/into something)__  
@@ -260,6 +274,7 @@ __mince no words__ :two: To speak in a very direct and honest way without worryi
 __mind you__  
 __mixed bag__ :two::hammer:  
 __mom-and-pop__  
+__more so__  
 __more than meets the eye__  
 __mother__ _This mother really works._  
 __move the needle__  
@@ -271,6 +286,7 @@ __name names__ :two::hammer:
 __neck of the woods__  
 __nerd out__  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
+__next to nothing__ Almost nothing; a very small amount.  
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __night and day__  
@@ -285,6 +301,7 @@ __not go amiss__
 __not know (one) from Adam__  
 __not to say__  
 __note to self__  
+__nothing short of__ At or near the same level of; equivalent to; exemplary of. _Her latest book is nothing short of a masterpiece._  
 __oater__  
 __oddly enough__  
 __off the clock__  
@@ -453,6 +470,7 @@ __staying power__
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __step in__  
 __step on it__  
+__stew__  
 __stick in (one’s) craw__ To rankle or irritate one. _It really sticks in my craw that he would lie and take all the credit for my idea!_ _This enlightenment thing really stuck in my craw._  
 __stick out like a sore thumb__ (stick out a mile) Be very prominent or conspicuous.  
 __sticks and stones__  
@@ -461,6 +479,7 @@ __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a 
 __strong-arm__  
 __suffice it to say__ :two::hammer:  
 __sure thing__  
+__surefire__ Certain to work, be effective, or have a particular outcome; foolproof. The term is sometimes hyphenated, and it is always used before a noun. _Coming in to work drunk is a surefire way to get yourself fired, Tom._ _You need some surefire strategies to get your toddler to take medicine._  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
 __swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
 __tack__ _n_ _I decided to take a different tack._  
@@ -478,12 +497,14 @@ __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments
 __talk the talk__  
 __tall story__  
 __tall tale__  
+__tap (one) into (something)__  
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __tear away__  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __test the waters__  
 __thang__ A facetious or slang form of _thing._  
 __that been said__  
+__that’s a wrap__ :dart: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __the (hand)writing is on the wall__  
 __the die was cast__ (the dice were cast)  
 __the frosting on the cake__  
@@ -503,6 +524,7 @@ __the writing on the wall__
 __then again__  
 __there and then__  
 __thete you go__  
+__this side of__  
 __thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
 __thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __through the grapevine__  
@@ -575,6 +597,7 @@ __wolf down__
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __work (one’s) tail off__  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
+__yada yada yada__  
 __yea or nay__  
 __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
 __you name it__ :two::hammer:  
