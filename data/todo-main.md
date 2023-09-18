@@ -1,3 +1,4 @@
+__abate__ _v_  
 __abet__ _v_  
 __ablutions__  
 __abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
@@ -10,6 +11,7 @@ __achoo__
 __acolyte__ _n_  
 __ad nauseam__  
 __addle__ _v_  
+__admittedly__  
 __affect__ _v_ _He tried to affect nonchalance._  
 __aflutter__  
 __afoot__  
@@ -24,7 +26,7 @@ __allay__ _v_
 __allegedly__  
 __aloof__ _adj_ :two::hammer: _Commanders with an aloof demeanor._  
 __ambiguous__ _adj_ /am-BIG-yuh-wus/  
-__amusia__  
+__amusia__ _n_ :two::hammer: _Cochlear amusia._  
 __anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
 __annuity__ _n_  
 __anoxia__  
@@ -38,11 +40,13 @@ __apprentice__ _n_
 __aquanaut__  
 __Aramaic__  
 __arena__ _n_  
+__arpeggio__  
 __ashen__ _adj_ _I was met with ashen faces and utter silence._  
 __assay__ _v_ /a-SAY/  
 __atavism__ _n_ A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
 __attorney__  
-__attuned__  
+__attune__ _v tr_ :two::hammer:  
+__audacious__  
 __avuncular__ _adj_  
 __backfire__ _v_  
 __badinage__  
@@ -52,6 +56,8 @@ __bamboozle__ _v_
 __bane__ _n_ _They’re the bane of my life._  
 __banter__  
 __bar__ _n_ _A few bars of music._  
+__bard__  
+__bardic__  
 __bellwether__ _n_ /BEL-WEH-ther/  
 __beseech__  
 __bidding__ _n_  
@@ -109,12 +115,16 @@ __Chutes and Ladders__ _n_
 __clang__ _v_ _Bells clanging._  
 __clangor__ _n, v_  
 __clatter__ _n_  
+__color blind__  
+__conceit__  
+__concomitant__ _v_  
 __contain__ _v_ _He could barely contain his saliva._  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __contraption__ _n_ A device that is very useful for a particular job. _Syn_ gizmo, appliance, contrivance, gadget, widget, gismo, convenience  
 __contrive__ _v_  
 __contrived__  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
+__convalesce__ _v_  
 __convene__ _v_  
 __conversant__  
 __convey__ _v tr_  
@@ -160,6 +170,7 @@ __doppelganger__ _n_
 __dour__  
 __down payment__  
 __downright__ _adj_ _Downright ridiculous._  
+__drab__ _adj_  
 __drill__ _n_  
 __drown out__  
 __earnest__  
@@ -168,8 +179,10 @@ __earwig__
 __earworm__  
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
+__efferent__  
 __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
 __egress__  
+__eidetic__  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
 __emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
@@ -183,7 +196,7 @@ __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; 
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
-__enthuse__ _v_ :two::hammer:  
+__enthuse__ _v_ :three::hammer:  
 __enthused__ _adj_  
 __entrain__ _v tr_  
 __entreaty__  
@@ -206,6 +219,7 @@ __etch__ _v_ :two::hammer: _The hedgerow was sharply etched._
 __ethos__ _n_  
 __etiology__  
 __etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
+__eugenics__  
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __evict__ _v_  
 __evince__ _v_ /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly.  
@@ -381,6 +395,7 @@ __humdrum__
 __hurriedly__  
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __hush__ _n_ :two::hammer:  
+__hydrocephalus__  
 __hypochondriac__  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
 __impel__ _v tr_  
@@ -390,6 +405,7 @@ __inanely__ _adv_
 __ineffability__  
 __ineffable__  
 __infirm__ _adj_  
+__ingenuity__ _n_ :dart::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
 __jowly__ _adj_ Having heavy or sagging jowls. _The jowly lawyer._  
@@ -398,13 +414,14 @@ __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and 
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
+__keenly__  
 __kerf__ _n_  
 __kibble__ _n_  
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
 __kiddie__ _n_ _A kiddie soccer game,_  
 __kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
-__kinship__  
+__kinship__ _n_ :two::hammer:  
 __klondike__ _n_  
 __knackered__ _adj_  
 __knickers__ _n_ :camera:  
@@ -433,6 +450,7 @@ __littoral__ _adj, n_
 __littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
 __livid__ _adj_  
+__loath__  
 __lowball__ _v_ _To decide whether to lowball or highball an offer._  
 __lowly__ _adj_ _He was a lowly graduate student._  
 __ludicrous__ _adj_  
@@ -440,11 +458,13 @@ __lurch__ _v_
 __Lyme disease__ _n_  
 __mac and cheese__  
 __Machiavelli__  
+__major key__  
 __malignant__ _adj_  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_  
 __marginalia__ _n pl_ Notes in the margin or margins of a book.  
+__maroon__ _n_  
 __marque__ _n_ A model or brand of a manufactured product, especially an automobile. _Syn_ brand, trade name  
 __marshal__ _v_ :two::hammer:  
 __mashup__ _n_  
@@ -490,6 +510,8 @@ __migraine__ _n_
 __mildewed__ _adj_ :es: mohoso  
 __militate__ _v intr_ MIL-i-tayt/ To exert a strong influence, either for or against something.  
 __minnow__  
+__minor key__  
+__minstrel__  
 __mire__ _v_ _He was mired in his fixed mindset._  
 __mirthless__  
 __misapprehension__  
@@ -504,6 +526,7 @@ __misspell__ _v_ :pencil2:
 __misstep__ _n_  
 __mitigate__ _v_ /MIT-uh-gayt/  
 __mixtape__ _n_  
+__moiré pattern__  
 __mole__ _n_ :es: topo  
 __momentous__ _adj_ :two::hammer:  
 __mondegreen__ _n_  
@@ -576,6 +599,7 @@ __outpouring__ _n_
 __outstrip__ _v tr_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overhaul__ _n_  
+__overjoyed__ _adj_  
 __overlain__ _v_  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __overly__ _adv_ :two::hammer:  
@@ -626,6 +650,7 @@ __persona__ _n_
 __perusal__  
 __petard__  
 __petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
+__petrous__  
 __phenotype__ _n_  
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
@@ -681,6 +706,8 @@ __powerwash__ _v_
 __prattled__ _v_  
 __preempt__ _v_  
 __preen__ _v_ :two::hammer: /PREEN/  
+__preordained__  
+__preposterous__  
 __preposterousness__  
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
@@ -699,6 +726,7 @@ __proneness__ _n_ Being disposed to do something.
 __prophylaxis__ _n_  
 __proponent__ _n_  
 __prosty__  
+__Protean__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -710,6 +738,7 @@ __pudgy__
 __puffery__ _n_ :dart:  
 __Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
 __pulpit__ _n_  
+__pun__ _v_ _He developed a savantlike speed of calculation and punning._  
 __punchy__  
 __punctilious__ _adj_ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous  
 __pundit__ _n_ /PUN-dit/  
@@ -721,6 +750,7 @@ __purported__
 __purportedly__  
 __purview__ _n_  
 __pushover__ _n_ :dart::two::hammer:  
+__quale__ _n_ (qualia _n pl_)  
 __qualm__ _n_  
 __quaver__ _n_  
 __querulous__ _adj_  
@@ -788,6 +818,7 @@ __responsibility__ _n_ :two::hammer:
 __reticent__ _adj_ /RET-uh-sunt/  
 __retina__ _n_ :mega:  
 __retinue__ _n_  
+__retrograde__  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
@@ -812,6 +843,7 @@ __rollout__ _n_
 __rom-com__ _n_ A comedic narrative, especially a film, centered on a romantic storyline.  
 __roped__ _v_  
 __Rotarian__  
+__rote__ _n_ __1__ A memorizing process using routine or repetition, often without full attention or comprehension: _learn by rote._ _A prodigious rote memory._  
 __round robin__  
 __roundhouse__ _n_  
 __roundworm__ _n_  
@@ -827,6 +859,7 @@ __rung__ _n_ :two::hammer: _The rung of the ladder._
 __running account__ _n_ Current account.  
 __runoff__ _n_  
 __ruse__ _n_ :two::mega::hammer: /ruz/  
+__russet__  
 __safeguard__ _n_  
 __salacious__ _adj_ :two:hammer:  
 __salient__ _adj_ _A salient example._  
@@ -888,6 +921,7 @@ __shear__ _v_ :two::hammer: (shorn)
 __shed__ _v_ _The lawyers shed their vests and loosened their neckties._  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shift__ _v_ _It’s all about confronting obvious-but-often-overlooked truths until something in you shifts._  
+__shimmer__ _v_  
 __shirk__ _v_ :dart: _He shirked the tasks._  
 __shoo away__  
 __shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
@@ -903,6 +937,7 @@ __sibilant__ _adj_ _Every _s_ is sibilant._
 __side-splitting__ _adj_  
 __simile__ _n_  
 __simpatico__  
+__simulacrum__  
 __single-handedly__  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
@@ -919,6 +954,7 @@ __sleepaway__
 __slight__ _adj_ _A slight reason._  
 __slink__ _v_  
 __slip__ _n_ __4__ A small piece of paper, especially a small form, document, or receipt: _a deposit slip._ _Hand out detention slips for using AI?_  
+__sliver__  
 __slog__ _n_  
 __slothful__ _adj_  
 __sludge__  
@@ -958,6 +994,7 @@ __spangled__ _adj_ Covered with small shiny objects. _The Star-Spangled Banner._
 __Spanglish__ _n_ Spanish characterized by numerous borrowings from English.  
 __Spanish fly__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
+__spastic__  
 __spate__ _n_  
 __spaz__  
 __speak up__  
@@ -989,6 +1026,7 @@ __stentorian__
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
+__stereophony__  
 __sternutation__  
 __Stetson__  
 __subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
@@ -1013,7 +1051,8 @@ __sway__ _n_
 __swell__ _adj_  
 __swoon__ _v_  
 __syllabicate__ _v_  
-__synesthesia__  
+__synesthesia__ _n_ :two::hammer:  
+__synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
 __Takeshi__ _n_ :mega:  
@@ -1022,7 +1061,7 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
-__tantalizing__  
+__tantalizing__ _adj_ :two::hammer:  
 __tarnish__  
 __tart__ _adj_ __1__ (of a flavour, food, etc) Sour, acid, or astringent. __2__ Cutting, sharp, or caustic: _a tart remark._ _A tart comment._  
 __taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
@@ -1051,6 +1090,7 @@ __test-driven__
 __testament__ _n_  
 __testy__ _adj_  
 __that much__ _adv_ To a certain degree.  
+__thence__ _adv_  
 __thicket__  
 __thrash__ _v_  
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
@@ -1084,9 +1124,9 @@ __travesty__ _n_ /TRAV-uh-stee/
 __trawl__ _v_  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
-__trickle__ _v_ :two::hammer:  
+__trickle__ _v_ :three::hammer:  
 __trilby__ _n_ :two::hammer:  
-__trill__ _n_ _Melodic trill._  
+__trill__ _n_ :two::hammer: _Melodic trill._  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
 __trite__ _adj_  
 __troika__  
@@ -1094,6 +1134,7 @@ __troubleshooter__ _n_
 __truculent__ _adj_  
 __trudge__ _v_  
 __tryptophan__ _n_ :mega: (tryptophane)  
+__tuning fork__  
 __tureen__ _n_ :es: sopera _Soup tureens._  
 __turmeric__ _n_ :es: cúrcuma  
 __turnkey__  
@@ -1161,6 +1202,7 @@ __waver__ _v_
 __weasel__ _v_  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
+__welter__ _n_ _A welter of objects._  
 __wheelhouse__  
 __wherewithal__  
 __whiplash__ _n_ :two::hammer: _Economic whiplash._  
@@ -1172,6 +1214,7 @@ __wield__ _v_
 __wild card__  
 __willful__  
 __wimpy__  
+__windowsill__ _n_ :two::hammer:  
 __withholding__  
 __withstand__ _v_  
 __womenfolk__  
