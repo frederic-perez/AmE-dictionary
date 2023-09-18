@@ -29,8 +29,12 @@ __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually 
 __ahead of the curve__  
 __all along__ The entire time.  
 __as it happens__  
+__at length__  
+__at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
+__be hard put to (do something)__ To be struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard put to find a better guy than Bill._  
 __be hard put__  
 __be on a mission__  
+__be on course__ :dart: __1__ Literally, to be moving in the correct direction or toward the intended destination. _Could you check the map? I want to be sure we’re still on course._ __2__ By extension, to continue making progress according to the intended or ideal plan. _If sales remain strong, we’ll be on course to have our most successful year to date!_  
 __behind closed doors__  
 __blaze a trail__  
 __buckle down__ _Buckle down and work harder._  
@@ -74,6 +78,7 @@ __crazy town__
 __cut (one’s) teeth__  
 __cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
 __cut ties__  
+__damn it__  
 __dawn (up)on (one)__ :two::hammer:  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deathaversary__  
@@ -86,6 +91,7 @@ __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both
 __dingy__  
 __dish out__  
 __do a U-turn__  
+__do nicely__  
 __do or die__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dog eat dog__  
@@ -115,9 +121,8 @@ __folderol__ Nonsense or foolishness. _His explanation is total folderol and doe
 __fool with (someone or something)__  
 __for all intends and purposes__ :two::hammer:  
 __for better or (for) worse__  
-__for days on end__ :two: (for hours on end) For a long time, specifically many days.  
+__for days on end__ :four: (for hours on end, for years on end) For a long time, specifically many days.  
 __for good reason__  
-__for hours on end__  
 __for the long haul__  
 __for the most part__ :two::hammer:  
 __for the umpteenth time__  
@@ -165,6 +170,7 @@ __gonzo__ _Gonzo journalism._
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
+__guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
 __hang on to your hat__ Get ready for what’s coming or about to happen!  
@@ -242,6 +248,7 @@ __if you will__
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
+__in a million years__  
 __in any event__  
 __in black and white__  
 __in broad (brush) strokes__  
@@ -292,6 +299,7 @@ __nickle-and-dime__ _A nickle-and-dime con man._
 __night and day__  
 __nip (something) in the bud__ :two::hammer:  
 __no big deal__ :dart:  
+__no doubt__  
 __no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged.  
 __no sweat__ :dart:  
 __no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-barred relationship._  
@@ -304,6 +312,7 @@ __note to self__
 __nothing short of__ At or near the same level of; equivalent to; exemplary of. _Her latest book is nothing short of a masterpiece._  
 __oater__  
 __oddly enough__  
+__of the sort__  
 __off the clock__  
 __off-the-cuff__ :dart:  
 __old soul__ One who has a deeper understanding or appreciation of things than would be expected of their age.  
@@ -359,6 +368,8 @@ __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller
 __pro bono__  
 __push up the daisies__  
 __put (one) off (something)__  
+__put (someone or something) to bed__  
+__put a spoke in (one’s) wheel__  
 __put an end to (something)__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
 __put on a clinic__  
@@ -493,6 +504,7 @@ __take back__
 __take charge__  
 __take names__  
 __take no prisoners__  
+__take on__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the talk__  
 __tall story__  
@@ -520,6 +532,7 @@ __the old gray mare ain’t what she used to be__
 __the powers that be__  
 __the sky is the limit__  
 __the usual suspects__ :three: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
+__the word is out__ The phrase “the word is out” means that a piece of news or information has become known, especially if it was previously a secret or if it is expected to bring about changes.  
 __the writing on the wall__  
 __then again__  
 __there and then__  
@@ -565,6 +578,7 @@ __up and running__
 __up for grabs__  
 __usher in__  
 __vac__  
+__verse (someone or oneself) in (something)__  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __vie for (something)__ :two::hammer:  
 __wait for it__  
