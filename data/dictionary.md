@@ -5782,8 +5782,8 @@ __entail<sup>1</sup>__ _v_ :nine::m: /ɪnˈteɪl/ __1__ To have, impose, or requ
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
-__enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
-__enthused__ _adj_ :two: Having been filled with enthusiasm.  
+__enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._ :es: entusiasmar; entusiasmarse  
+__enthused__ _adj_ :three: Having been filled with enthusiasm. :es: entusiasmado  
 __enthusiasm__  
 __enthusiastic__ _adj_ :mega:  
 __entice__ _v_ :two::hammer: (enticing)  
@@ -5792,15 +5792,17 @@ __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We 
 __entitled__ _adj_ :two::hammer:  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ _n_ :two::hammer: :es: séquito  
-__entrain__ _v_  
+__entrain__ _v tr_ :two::hammer:  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
 __entrant__ _n_ :three::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
 __entreat__ _v_ _Syn_ beg, plead  
+__entreaty__  
 __entrée__  
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :nine: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._ __2__ Established firmly and securely. _The entrenched power of the nobility._  
 __entrenchment__  
+__entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __entrepreneur__ _n_ :pencil2:  
 __entrust__  
 __entryway__ _n_ _An entryway aquarium._  
@@ -5817,17 +5819,18 @@ __eolian__ _adj_ :two: /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of t
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __epee__  
 __epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its pronunciation easier.  
-__ephemera__  
+__ephemera__ _n_ :two::hammer: /i-FEM-uhr-uh/  
 __ephemeral<sup>1</sup>__ _adj_ :six: /ɪˈfɛmərəl/ /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; short-lived; transitory. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
-__epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
+__epicure__ _n_ :two: A person devoted to refined sensuous enjoyment (especially good food and drink). One with sensitive and discriminating tastes especially in food or wine. _Syn_ gastronome, bon vivant, foodie, gourmet  
 __epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epicurean<sup>2</sup>__ _n_ /ɛpɪkjʊˈriːən/  
 __epidemic__ _n_ Notice: _n_!  
+__epidural__ _n_  
 __epigram__ _n_  
-__epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
+__epigraph__ _n_ :two: An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
-__epiphany__ _n_ :five::hammer::mega:  
+__epiphany__ _n_ :six::hammer::mega:  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
@@ -5835,7 +5838,7 @@ __epithet__ _n_ :nine: /EP-uh-thet/ (epithets) __1__ A characterizing word or ph
 __epitome__ _n_ :nine::m::mega: /ih-PIT-uh-mee/ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
-__eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
+__eponymous__ _adj_ :nine: /ih-PAH-nuh-mus/ (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __epoxy__ _n_ [:scroll: Epoxy literally translates to “near-acid.”]  
 __Epsom salts__ _n_ Hydrated magnesium sulfate that is taken orally to treat heartburn and constipation and injected to prevent seizures. _Syn_ bitter salts  
 __equaled__ _v_  
@@ -5854,19 +5857,21 @@ __equipment__ _n_ _The equipment was out of date._
 __equipped__ _adj_ :two::hammer:  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__ _n_ :three::hammer:  
-__equivocal__ _adj_ _Syn_ ambiguous, confusing  
+__equivocal__ _adj_ :two: /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. _Syn_ ambiguous, confusing __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
+__equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __equivocation__ _n_  
-__eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
+__eradicate__ _v tr_ :two: __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
-__ermine__ _n_  
+__ermine__ _n_ :two::hammer:  
 __Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
+__erratum__ _n_ An error in printing or writing, especially such an error noted in a list of corrections and bound into a book. _Syn_ misprint, typo, literal error  
 __ersatz__ _adj_ :five: /AIR-sahts/ __1__ Being a usually inferior imitation or substitute; artificial. Ersatz describes a usually artificial and inferior substitute or imitation. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ _Her snootier peers never forgave her for attending the gala in an ersatz mink coat._ __2__ Not genuine; fake.  
 __erstwhile__ _adj_ :seven::hammer:  
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
-__erupt__ _v_ :two::hammer: (erupted)  
+__erupt__ _v_ :three::hammer: (erupted)  
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __erythro-__ _prefix_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
@@ -5874,11 +5879,12 @@ __escalate__ _v_ :three: To increase, enlarge, or intensify. _Syn_ intensify, st
 __escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :three: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
+__escape velocity__ _n_  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :three: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
-__escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__escrow__ _n_ :six: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __esculent__ _adj_ Suitable for eating; edible.  
 __escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
@@ -5908,18 +5914,20 @@ __estrangement__
 __estuary__ _n_ :three::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
-__etch__ _v_ :seven::hammer: (etched, etching) _A profile identifying each peak is etched in a huge relief along the sidewalk._  
+__etch__ _v_ :nine::hammer: (etched, etching) _A profile identifying each peak is etched in a huge relief along the sidewalk._ _The hedgerow was sharply etched._  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
 __ethereal__ _adj_  
 __ethereality__ _n_  
 __ethos__ _n_ :nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
-__etiquette__  
+__etiology__  
+__etiquette__ _n_ :two: /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :two::astonished: Study of the sources and development of words. Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __euchre__ _n_  
 __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
+__eugenics__  
 __eulogy__ _n_ :five::hammer:  
 __eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (well, good) + noos (mind, spirit). Eunoia is the shortest word in English with all five vowels.] __1__ A feeling of goodwill. __2__ A state of good mental health.  
 __eunuch__ _n_  
@@ -5931,6 +5939,7 @@ __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movement
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
 __Euskara__ _n_ :astonished: The Basque language.  
+__euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __evacuee__  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
 __evanescent__ _adj_ :two: /ev-uh-NESS-unt/ Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
@@ -5947,11 +5956,12 @@ __evict<sup>2</sup>__ _v tr_ :nine::m: (evicted) To force out or expel, especial
 __eviction__ _n_ :three::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evildoer__ _n_  
-__evince__ _v_ :six: To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._ _To evince an interest in politics._ _She didn’t evince surprise._  
+__evince__ _v_ :seven: /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly. To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._ _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
 __ewer__ _n_ :two::hammer:  
 __ewes__ _n_  
+__ework__ _n_ Refers to the practice of working from home or remotely using a computer connected to the network of one’s employer.  
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __ex__ _n_  

@@ -196,34 +196,6 @@ __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; 
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
-__enthuse__ _v_ :three::hammer:  
-__enthused__ _adj_  
-__entrain__ _v tr_  
-__entreaty__  
-__entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
-__ephemera__ _n_ /i-FEM-uhr-uh/  
-__epicure__ _n_ A person devoted to refined sensuous enjoyment (especially good food and drink). _Syn_ gastronome, bon vivant, foodie, gourmet  
-__epidural__ _n_  
-__epigraph__  
-__epiphany__  
-__eponymous__ _adj_ /ih-PAH-nuh-mus/  
-__equivocal__ _adj_ /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
-__equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
-__eradicate__ _v tr_  
-__ermine__ _n_  
-__erratum__ _n_ An error in printing or writing, especially such an error noted in a list of corrections and bound into a book. _Syn_ misprint, typo, literal error  
-__erupt__ _v_  
-__escape velocity__ _n_  
-__escrow__ _n_ :two::hammer: _Escrow accounts._ _Money to be held in escrow._  
-__etch__ _v_ :two::hammer: _The hedgerow was sharply etched._  
-__ethos__ _n_  
-__etiology__  
-__etiquette__ _n_ /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
-__eugenics__  
-__euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
-__evict__ _v_  
-__evince__ _v_ /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly.  
-__ework__ _n_ Refers to the practice of working from home or remotely using a computer connected to the network of one’s employer.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
 __exacting__ _adj_ :dart: _An exacting editor._  
