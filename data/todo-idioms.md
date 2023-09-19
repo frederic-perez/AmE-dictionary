@@ -473,31 +473,6 @@ __spot on__
 __spruce up__ :dart:  
 __spunky__  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
-__stand to reason__ :three::hammer:  
-__stand up__ _The trauma of being stood up at her wedding._  
-__start the ball rolling__  
-__stay put__ To not move or leave; to remain in same location or position.  
-__staying power__  
-__steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
-__step in__  
-__step on it__  
-__stew__  
-__stick in (one’s) craw__ To rankle or irritate one. _It really sticks in my craw that he would lie and take all the credit for my idea!_ _This enlightenment thing really stuck in my craw._  
-__stick out like a sore thumb__ (stick out a mile) Be very prominent or conspicuous.  
-__sticks and stones__  
-__stomach__ :two: To tolerate someone or something. (Usually negative.)  
-__stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _Stone cold sober._  
-__strong-arm__  
-__suffice it to say__ :two::hammer:  
-__sure thing__  
-__surefire__ Certain to work, be effective, or have a particular outcome; foolproof. The term is sometimes hyphenated, and it is always used before a noun. _Coming in to work drunk is a surefire way to get yourself fired, Tom._ _You need some surefire strategies to get your toddler to take medicine._  
-__sus__ _adj_ _slang_ Suspicious, suspect.  
-__swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
-__tack__ _n_ _I decided to take a different tack._  
-__tag along__  
-__take (great) pains (to do something)__ :two::hammer:  
-__take (someone or something) for granted__  
-__take a stab at (something)__  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
