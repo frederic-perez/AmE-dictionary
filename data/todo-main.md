@@ -258,31 +258,6 @@ __flounder__ _v_ :two::hammer:
 __flustered__ _adj_ :dart: In a state of confusion or agitation.  
 __flybys__ _n_  
 __flywheel__ _n_  
-__foible__ _n_ :three::hammer:  
-__foist__ _v_  
-__folderol__  
-__footbullets__  
-__footloose__ _adj_  
-__footwork__ _n_  
-__for__ _prep_ _Tom set the meeting with Joe for May 23 at a hotel in NYC._  
-__forebear__  
-__forfeit__ _v tr_  
-__formidable__ _adj_ :astonished:  
-__forsake__ _v_  
-__forte__ _n_ /FOR-tay/ Forte refers to something that a person does well, or in other words, a person’s strong point.  
-__forthright__ _adj, adv_  
-__forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
-__fractious__  
-__frazzle__ _v_  
-__free-range__ _adj_ _There, free-range chickens were given right-of-way in the streets._  
-__fret__ _v_ :dart:  
-__fretted__  
-__fright__ _n_ _You gave me quite a fright, sonny!_  
-__frisson__ _n_ _A frisson of excitement._  
-__frumpy__ _adj_  
-__full-blown__ _adj_  
-__funambulism__ _n_ /fyoo-NAM-byuh-liz-uhm/  
-__gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __garbled__  
 __gargantuan__ _adj_ _Gargantuan ego._  
 __gauntlet__ _n_ /GAWNT-lut/  
