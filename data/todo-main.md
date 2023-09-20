@@ -101,6 +101,7 @@ __catwalk__ _n_
 __caustic__ _adj_ /KAWSS-tik/  
 __cave__ _v_  
 __celebutante__  
+__cerulean__ _adj_ /suh-ROO-lee-uhn/ Sky blue.  
 __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
 __chagrin__  
 __cheapskate__ _n_  
@@ -111,6 +112,7 @@ __china clay__
 __chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
 __chorea__ _n_  
 __chump__  
+__churlish__ _adj_ /CHUR-lish/ Churlish is a formal word that means “irritable and rude.”  
 __Chutes and Ladders__ _n_  
 __clang__ _v_ _Bells clanging._  
 __clangor__ _n, v_  
@@ -132,6 +134,7 @@ __cookout__ _n_
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
+__credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __creep__  
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
@@ -151,6 +154,7 @@ __deep-six__ _v_ _Bonuses were being deep-sixed._
 __defuse__ _v_  
 __deliverance__  
 __deluge__ _n_ :two::hammer:  
+__demure__ _adj_ /dih-MYOOR/  
 __despondency__ _n_  
 __destitute__ _adj_  
 __dharma__ _n_  
@@ -196,6 +200,7 @@ __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; 
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
+__epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
 __exacting__ _adj_ :dart: _An exacting editor._  
@@ -316,6 +321,7 @@ __hand-crafted__ _adj_
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_ :three::hammer:  
 __hapless__  
+__harbinger__ _n_ /HAHR-bun-jer/  
 __hard-won__ _adj_ Acquired through effort or in spite of problems.  
 __hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. Also called _hash brown potatoes._  
 __hasty__  
@@ -358,6 +364,7 @@ __holler__ _v_
 __hollering__ _v_  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
+__honky-tonk__ _n_ A cheap, noisy bar or dance hall. _Syn_ barrelhouse  
 __hoot__ _v_  
 __hooting__ _v_ _Cats hooting._  
 __HOV lane__ _n_ An expressway lane restricted to vehicles with at least a set minimum of occupants, usually two.  
@@ -378,6 +385,7 @@ __ineffability__
 __ineffable__  
 __infirm__ _adj_  
 __ingenuity__ _n_ :dart::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
+__irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
 __jowly__ _adj_ Having heavy or sagging jowls. _The jowly lawyer._  
@@ -430,6 +438,7 @@ __lurch__ _v_
 __Lyme disease__ _n_  
 __mac and cheese__  
 __Machiavelli__  
+__magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
 __major key__  
 __malignant__ _adj_  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
@@ -459,6 +468,7 @@ __meet-cute__ _n_ /MEET-kyoot/
 __megalomanic__  
 __megaphone__ _n_ :mega:  
 __melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
+__mellifluous__ _adj_ /muh-LIFF-luh-wus/  
 __mellow__  
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __meltdown__  
@@ -664,6 +674,7 @@ __polish__ _v_ _I polish your writing._
 __politicking__ _n_  
 __polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
 __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
+__pontificate__ _v_ /pahn-TIF-uh-kayt/ To pontificate is to speak or express an opinion about something in a pompous or dogmatic way.  
 __pool table__  
 __pool__ _v_  
 __porky__  
@@ -733,6 +744,7 @@ __quirk__ _n_
 __quirky__ _adj_  
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_  
+__ragamuffin__ _n_ A shabbily clothed, dirty child. _Syn_ tatterdemalion  
 __ragged__ _adj_ _I feel quite ragged from lack of sleep._  
 __raillery__ _n_  
 __rambler__ _n_  
@@ -820,6 +832,7 @@ __round robin__
 __roundhouse__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
+__rubricate__ _v tr_ /ROO-bri-kayt/ [:scroll: From Latin rubricare (to color red), from rubrica (rubric, red earth)] __1__ To color or mark with red. __2__ To highlight or decorate. __3__ To provide with a rubric (a guide, rule, commentary, etc.).  
 __ruction__ _n_ A riotous disturbance; a noisy quarrel.  
 __rueful__  
 __ruefully__  
@@ -1058,6 +1071,7 @@ __terra cotta__ _n_ :pencil2:
 __terraform__ _v_  
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  
+__terse__ _adj_ Brief and to the point; effectively concise. _Syn_ laconic, curt, crisp  
 __test-driven__  
 __testament__ _n_  
 __testy__ _adj_  
@@ -1205,4 +1219,5 @@ __wrung__ _v_ _They have wrung their hands._
 __yammering__  
 __yo-yo__ _n_  
 __yowl__ _v_  
+__zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
 __zip pouch__ _n_ (zipper pouch)  
