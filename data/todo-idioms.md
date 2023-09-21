@@ -193,6 +193,7 @@ __harp away at (someone or something)__ :dart: To complain about or dwell upon s
 __harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
 __hash slinger__  
+__have (a) skeleton(s) in (one’s)/the closet__  
 __have (got) (someone’s) back__  
 __have a (good/solid/sound/etc.) grasp of/on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a solid grasp of the material, as you’ll be tested on it next week._  
 __have a ball__  
@@ -202,9 +203,21 @@ __have a few__ To have multiple alcoholic drinks, especially to the point of bec
 __have a fling (with someone)__ To have a brief, noncommittal sexual relationship (with someone). _The professor lost her job for having a fling with one of her students._  
 __have a go (at someone or something)__  
 __have a good day__ _cliché_ An expression of farewell. _Sounds great, Bob. I’ll talk to you tomorrow. Have a good day!_  
+__have a good name (somewhere or in something)__ To have a respected reputation (in something or some place). _Our family has always had a good name in this town due to the philanthropy of my great-great-grandfather._  
 __have a handle on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a handle on the material, as you’ll be tested on it next week._  
+__have a hankering for (something)__  
 __have a hard time with (someone or something)__  
+__have a look-see__ :dart: To have a very quick look or brief examination. _A: “Is there any more of that cake left in the fridge?” B: “I’ll go have a look-see!”_  
+__have a mountain to climb__ To have an extremely difficult, seemingly impossible task at hand. _After losing Ohio to his opponent, the president now has a mountain to climb if he wants to hold on to his job._  
+__have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
+__have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
+__have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
+__have a thing for (something)__ To have a very keen or particular interest in something; to really like or enjoy something. _I know they’re stupid, but I’ve always had a thing for cheesy horror movies._  
+__have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve. _I’ve got a few tricks up my sleeve if he decides to pursue legal action against me._  
+__have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
+__have a/the right to (something)__  
 __have enough on (one’s) plate__  
+__have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have skin in the game__  
 __have the last laugh__  
 __hazarded__ _v_  
@@ -387,6 +400,7 @@ __ram into (someone or something)__
 __reach out__  
 __red flag__  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
+__redound on (someone or something)__  
 __reduce (one) to tears__  
 __reel off__  
 __reinvent the wheel__  
@@ -499,6 +513,7 @@ __the gray dollar__ The economic purchasing power of elderly people as a group. 
 __the Greek calends__  
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the icing on the cake__  
+__the ick__ _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to.  
 __the likes of (someone or something)__  
 __the lion’s share__  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
