@@ -12,7 +12,8 @@ __acolyte__ _n_
 __ad nauseam__  
 __addle__ _v_  
 __admittedly__  
-__affect__ _v_ _He tried to affect nonchalance._  
+__affect<sup>1</sup>__ _n_  
+__affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._  
 __aflutter__  
 __afoot__  
 __aftereffect__ _n_  
@@ -83,6 +84,7 @@ __brood__ _v_
 __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
 __bumbling__ _v_  
+__bunion__ _n_ /ˈbʌnjən/ :es: juanete  
 __burnish__ _v_  
 __burnoose__ _n_ :astonished:  
 __busyness__  
@@ -151,7 +153,7 @@ __debonnaire__ _adj_
 __decommission__ _v_  
 __deed__ _n_ :two::hammer: _The deed was set in motion._  
 __deep-six__ _v_ _Bonuses were being deep-sixed._  
-__defuse__ _v_  
+__defuse__ _v_ :two::hammer:  
 __deliverance__  
 __deluge__ _n_ :two::hammer:  
 __demure__ _adj_ /dih-MYOOR/  
@@ -166,6 +168,7 @@ __diluvian__ _adj_
 __din__ _n_  
 __dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
 __discombobulated__  
+__disempower__ _v tr_  
 __disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
 __don__ _n_  
 __doozy__  
@@ -200,6 +203,7 @@ __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; 
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
+__epilogue__ _n_ :mega: (epilog)  
 __epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
@@ -255,9 +259,11 @@ __flit__ _n_
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __flounder__ _v_ :two::hammer:  
+__flowerpot__ _n_  
 __flustered__ _adj_ :dart: In a state of confusion or agitation.  
 __flybys__ _n_  
 __flywheel__ _n_  
+__fuel__ _v_  
 __garbled__  
 __gargantuan__ _adj_ _Gargantuan ego._  
 __gauntlet__ _n_ /GAWNT-lut/  
@@ -332,6 +338,7 @@ __highlight__ _n_ :es: punto culminante
 __hirsute__ _adj_  
 __histrionic__  
 __hitherto__  
+__hoagie__ _n_ /ˈhəʊɡɪ/ (hoagy) A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __hobnobbing__ _v_  
 __holistic__ _adj_  
@@ -360,6 +367,7 @@ __ineffability__
 __ineffable__  
 __infirm__ _adj_  
 __ingenuity__ _n_ :dart::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
+__ingratiate__ _v tr_  
 __irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
@@ -377,6 +385,7 @@ __kiddie__ _n_ _A kiddie soccer game,_
 __kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __kinship__ _n_ :two::hammer:  
+__kiosk__ _n_ /ˈki ɒsk, kiˈɒsk/  
 __klondike__ _n_  
 __knackered__ _adj_  
 __knickers__ _n_ :camera:  
@@ -387,6 +396,7 @@ __lackluster__ _adj_ /LAK-luss-ter/
 __lampoon__ _v tr_ :dart:  
 __landmark__ _adj_ _A landmark study._  
 __lard__ _v_  
+__latitude__ _n_ _It gives more latitude._  
 __lawyer__  
 __leaderboard__ _n_  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
@@ -410,7 +420,7 @@ __lowball__ _v_ _To decide whether to lowball or highball an offer._
 __lowly__ _adj_ _He was a lowly graduate student._  
 __ludicrous__ _adj_  
 __lurch__ _v_  
-__Lyme disease__ _n_  
+__Lyme disease__ _n_ :two::hammer:  
 __mac and cheese__  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
@@ -432,6 +442,7 @@ __maudlin__ _adj_ :two: /MAUD-lin/ Maudlin describes someone or something that e
 __Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __mauve__ _n_  
+__maven__ _n_ A person who has special knowledge or experience; an expert.  
 __mawkish__ _adj_  
 __maypole__ _n_ :camera:  
 __mazurka__ _n_  
@@ -555,7 +566,8 @@ __outpace__ _v tr_
 __outpouring__ _n_  
 __outstrip__ _v tr_  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
-__overhaul__ _n_  
+__overhaul<sup>1</sup>__ _n_  
+__overhaul<sup>2</sup>__ _v_  
 __overjoyed__ _adj_  
 __overlain__ _v_  
 __overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
@@ -754,6 +766,7 @@ __recumbent__ _adj_
 __Red Brigade__  
 __red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
 __red-faced__  
+__REDCON__ _n_ In the U.S. military, the term _REDCON_ is short for Readiness Condition and is used to refer to a unit’s readiness to respond to and engage in combat operations.  
 __redcon<sup>1</sup>__ _n_  
 __redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
@@ -845,6 +858,7 @@ __satire__
 __sauntering__ _v_  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
+__scenario__ _n_ :mega: /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizophrenic__ _adj, n_  
@@ -889,6 +903,7 @@ __short__ _v_ _Every year, Americans short the IRS nearly half a trillion dollar
 __shortlist__ _n, v_  
 __shovel__ _v_  
 __shrift__  
+__shriveled__ _adj_  
 __shuck<sup>1</sup>__ _n_  
 __shuck<sup>2</sup>__ _v tr_  
 __shucking__  
@@ -989,6 +1004,8 @@ __stepwise__ _adj_ _An optimal stepwise upgrade strategy._
 __stereophony__  
 __sternutation__  
 __Stetson__  
+__stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
+__stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
@@ -1114,6 +1131,7 @@ __underpinnings__ _n_ :two::hammer:
 __unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
 __unfurl__ _v_  
 __unheeded__  
+__unhook__ _v tr_  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
 __unkempt__ _adj_  
@@ -1126,6 +1144,7 @@ __unseemly__ _adj, adv_ :two::hammer:
 __unspoken__ _adj_  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
+__upend__ _v_  
 __upheaval__ _n_  
 __upright bass__ _n_  
 __uproar__ _n_  
@@ -1141,7 +1160,7 @@ __vainglory__ _n_ Boastful, unwarranted pride in one’s accomplishments or qual
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
-__valence__ _n_  
+__valence__ _n_ :two::hammer:  
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
