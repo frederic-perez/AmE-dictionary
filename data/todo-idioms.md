@@ -48,6 +48,7 @@ __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think 
 __by all means__  
 __by and by__  
 __by no means__ Not in any way; not at all; absolutely not.  
+__call on (someone or something)__  
 __can do without (something)__  
 __can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
@@ -195,6 +196,7 @@ __harp on the same string__
 __hash slinger__  
 __have (a) skeleton(s) in (one’s)/the closet__  
 __have (got) (someone’s) back__  
+__have (something) in store (for one)__ To have something awaiting (one) or prepared (for one). _The future has plenty in store—try not to worry about it too much._ _If you think ChatGPT is awesome, wait til you see what the coming wave of AI has in store for you._  
 __have a (good/solid/sound/etc.) grasp of/on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a solid grasp of the material, as you’ll be tested on it next week._  
 __have a ball__  
 __have a crush on (someone)__  
@@ -283,6 +285,7 @@ __it (always) pays to (do something)__
 __it factor__  
 __it is what it is__  
 __keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
+__left to (one’s) own devices__ Left unsupervised or uncontrolled; allowed to do as one pleases.  
 __like gangbusters__  
 __lump in (one’s) throat__  
 __make a fuss__  
@@ -325,6 +328,7 @@ __note to self__
 __nothing short of__ At or near the same level of; equivalent to; exemplary of. _Her latest book is nothing short of a masterpiece._  
 __oater__  
 __oddly enough__  
+__of (one’s) own accord__ Voluntarily; of one’s own free will. _Police are hoping that the person of interest surrenders of his own accord._  
 __of the sort__  
 __off the clock__  
 __off-the-cuff__ :dart:  
@@ -361,6 +365,7 @@ __pan out__
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pay out__ _It pays out in the long run._  
+__peace out__ To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
 __perk up__  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__ :two::hammer:  
@@ -405,6 +410,7 @@ __reduce (one) to tears__
 __reel off__  
 __reinvent the wheel__  
 __reminiscent of (someone or something)__  
+__rest easy__ :dart: To stop worrying about something. To not worry about something. _I can rest easy knowing that he will be in charge._ _OpenAI isn’t resting easy: the company is reportedly working hard to beat Google to multimodal features in its models._  
 __riddled with__ _The guy had been riddled with bullets right there._  
 __riding high__  
 __ring a bell__  
@@ -414,6 +420,7 @@ __road to nowhere__
 __rock the boat__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
+__round and round__ (around and around)  
 __round something out__  
 __rule out__  
 __rumor mill__  
@@ -436,6 +443,7 @@ __secret weapon__
 __seize the opportunity (to do something)__  
 __separate wheat from chaff__  
 __set eyes on (someone or something)__ :two::hammer:  
+__set the record straight__ To make the true facts of something clear, especially when they have been previously mistaken, misunderstood, or misrepresented. _There have been a lot of crazy rumors flying around for the last few days, so I’d like to set the record straight once and for all._  
 __sexual tension__  
 __shame on (one)__  
 __shed (some) light on (something)__  
@@ -465,6 +473,7 @@ __smack (one’s) lips__ :two::hammer:
 __smarty-pants__ :two::hammer:  
 __smell a rat__  
 __snafu__  
+__snag__ __4__ _v tr_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
 __sneak peek__  
 __sniff out__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
@@ -487,6 +496,8 @@ __spot on__
 __spruce up__ :dart:  
 __spunky__  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
+__steppingstone__  
+__take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
@@ -495,6 +506,7 @@ __take names__
 __take no prisoners__  
 __take on__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
+__talk the hind leg(s) off a horse__ To talk endlessly and exhaustingly. _I love my Aunt Lily, but she’d talk the hind legs off a horse if you let her!_  
 __talk the talk__  
 __tall story__  
 __tall tale__  
@@ -505,6 +517,7 @@ __tell tales__ To share secrets, often knowing that doing so will cause problems
 __test the waters__  
 __thang__ A facetious or slang form of _thing._  
 __that been said__  
+__that’s a given__  
 __that’s a wrap__ :dart: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __the (hand)writing is on the wall__  
 __the die was cast__ (the dice were cast)  
@@ -581,6 +594,7 @@ __watered-down__
 __wear thin__ _My patience was wearing thin._  
 __weave (something) into (something) else__  
 __whack__  
+__what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what’s in store__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __wherever you go, there you are__  
