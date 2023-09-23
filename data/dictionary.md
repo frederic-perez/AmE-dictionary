@@ -446,7 +446,7 @@ __aloft__ _adv_ :seven::hammer: _Dwyane Wade raised three fingers aloft._ _Simpl
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :four::hammer:  
-__aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Aloof demeanor._  
+__aloof<sup>1</sup>__ _adj_ :nine: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Commanders with an aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :four::hammer:  
@@ -475,7 +475,7 @@ __ambiance__ _n_ :two::hammer: _Relaxing ambiance._
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambidextrous__  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
-__ambiguous__ _adj_ :two::hammer: /am-big-yoo-uhs/  
+__ambiguous__ _adj_ :three::hammer: /am-big-yoo-uhs/ /am-BIG-yuh-wus/  
 __ambisinister__ _adj_ Clumsy or unskillful with both hands.  
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
@@ -485,7 +485,7 @@ __ambivert__ _adj_ A person who is intermediate between an extrovert and an intr
 __amble__ _v_ :seven::hammer: (ambled, ambling) _Giraffes amble along the savannah._  
 __ambulate__ _v_ :two: To walk from place to place; move about.  
 __ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulation._  
-__ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
+__ambulatory__ _adj, n_ :two::hammer: _Hakan Erdem, 12, wasn’t ambulatory._ _Ambulatory abilities._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :three::hammer: /uh-MEE-lee-uh-rayt/  
 __amen__  
@@ -524,9 +524,11 @@ __amplification__ _n_ __2__ Material added to a statement, story, etc, in order 
 __amply__  
 __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
 __amusement park__ _n_ :three::hammer:  
+__amusia__ _n_ :three::hammer: _Cochlear amusia._  
 __amygdala__ _n_  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
+__anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anal bleaching__ _n_  
 __analemma__ _n_  
@@ -596,7 +598,7 @@ __annihilation__ _n_ :two::pencil2::mega:
 __anniversary__ _adj, n_ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annual__ _n_ __2__ _Botany_ A plant that completes its entire life cycle in a single growing season.  
-__annuity__ _n_ :four::hammer: (annuities)  
+__annuity__ _n_ :five::hammer: (annuities)  
 __annum__ _n_  
 __annus horribilis__ _n_  
 __anodized__ _v_ :two::hammer:  
@@ -606,6 +608,7 @@ __anomic__
 __anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym when posting messages on the board._  
 __Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
 __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, originally worn in polar regions, but now worn for any outdoor activity.  
+__anoxia__  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ _n, v_ :mute:[ans~~w~~er]  
@@ -613,7 +616,7 @@ __ant hill__ _n_
 __antacid__ _n_ :pencil2:  
 __antagonize__ _v_  
 __antanaclasis__ _n_ :two::hammer:  
-__ante__ _n_ :six::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
+__ante__ _n_ :seven::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._ _Burt amps up the ante._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
 __antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
@@ -628,6 +631,7 @@ __anthropic__ _adj_
 __anthropogenic__  
 __anthropomorphic__ _adj_ /an-thruh-puh-MOR-fik/  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
+__anthurium__ _n_  
 __anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
 __anti-humor__  
 __anti-Semitism__  
@@ -664,6 +668,7 @@ __apathetic__ _adj_ :three::hammer:
 __ape__ _v_ :two::hammer: (aped)  
 __Apennines__ _n pl_ :pencil2:  
 __apex__ _n_ The highest point. _Syn_ acme, vertex, peak  
+__aphasia__ _n_ :two::hammer:  
 __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned. A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
@@ -671,8 +676,8 @@ __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess o
 __apiary__ _n_ :two: A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
-__aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
-__apnea__ _n_ :three::mega: Temporary cessation of breathing. _Sleep apnea._  
+__aplomb__ _n_ :dart::seven: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
+__apnea__ _n_ :four::mega: Temporary cessation of breathing. _Sleep apnea._  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
@@ -718,9 +723,9 @@ __appraisingly__
 __appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_  
-__apprehension__ _n_ :four::pencil2::hammer:  
+__apprehension__ _n_ :five::pencil2::hammer:  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
-__apprentice<sup>1</sup>__ _n_ :two::hammer:  
+__apprentice<sup>1</sup>__ _n_ :three::hammer:  
 __apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
@@ -733,7 +738,7 @@ __apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/ /ap-ruh-POH/ Apropos means “w
 __apse__ _n_ :es: ápside  
 __apt__  
 __aptly__ _adj_ :two::hammer:  
-__aquanaut__ _n_  
+__aquanaut__ _n_ :two::hammer:  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
 __aqueduct__ _n_ :three::hammer:  
@@ -742,6 +747,7 @@ __aquifer__ _n_ :two::hammer:
 __aquiline__ _adj_  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
+__Aramaic__  
 __Arapahoe__ _n_ :two::hammer:  
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
@@ -776,7 +782,7 @@ __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy b
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
 __arduous__ _adj_ :two: Very difficult.  
-__arena__ _n_ _In the professional and personal arenas._  
+__arena__ _n_ :two::hammer: _In the professional and personal arenas._  
 __Argentina__ _n_ _Syn_ the Argentine  
 __Argentine__ _n_ _The pope is an Argentine._  
 __argonaut__  
@@ -799,6 +805,7 @@ __arms race__
 __armscye__ _n_  
 __arose__ _v_ :two::hammer:  
 __arousal__  
+__arpeggio__  
 __arpents__ _n_ :two::hammer:  
 __arraignment__ _n_  
 __arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
@@ -848,7 +855,7 @@ __aseptic__ _adj_ Free of or using methods to keep free of pathological microorg
 __asexual__ _adj_  
 __ash borer__ _n_ _Emerald ash borers._  
 __Ash Wednesday__ _n_ [:scroll: Religious observers of Lent place ash, typically in the shape of a cross, on their forehead as a sign of penitence and a reminder of mortality]  
-__ashen__ _adj_ :three::hammer::pencil2: _His face turned ashen._ _Tired-looking executives looked at me ashen-faced._  
+__ashen__ _adj_ :four::hammer::pencil2: _His face turned ashen._ _Tired-looking executives looked at me ashen-faced._ _I was met with ashen faces and utter silence._  
 __ashen-faced__  
 __ashlar__ _n_ :es: sillar  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
@@ -862,6 +869,7 @@ __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” 
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
 __aspen__ _n_ :four::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
+__Asperger’s syndrome__ _n_  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
@@ -871,7 +879,8 @@ __aspirin__ _n_ :mega:
 __assail__ _v_ :three: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ _n_ :two::hammer:  
-__assay__ _n_  
+__assay<sup>1</sup>__ _n_  
+__assay<sup>2</sup>__ _v_ /a-SAY/  
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
@@ -917,7 +926,7 @@ __at the earliest__
 __at the very least__  
 __at-risk__ _adj_  
 __ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
-__atavism__ _n_  
+__atavism__ _n_ :two: A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atelier__ _n_  
 __atheist__ _adj_  
@@ -956,12 +965,13 @@ __attire__ _n_ :five::hammer: _Casual attire is requested._
 __attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
 __Attn__  
 __Attorney General__ _n_ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
+__attorney__  
 __attract__ _v_  
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _v tr, v intr_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
 __attrition__ _n_ :nine: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
-__attune__ _v tr_  
+__attune__ _v tr_ :three::hammer:  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
@@ -971,7 +981,7 @@ __au shops__
 __auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
-__audacious__ _adj_ :two::hammer: _In size it was the most audacious._  
+__audacious__ _adj_ :three::hammer: _In size it was the most audacious._  
 __audacity__ _n_ :three: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
@@ -1029,7 +1039,7 @@ __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s reg
 __avoidance__ _n_  
 __avow__ _v_ :two::hammer: (avowed)  
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
-__avuncular__ _adj_ :six: /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful. _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
+__avuncular__ _adj_ :seven: /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful. _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
 __await__ _v_ _Our staff awaits your arrival._  
 __awakening__ _n_  
 __awareness__ _n_  

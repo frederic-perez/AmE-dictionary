@@ -27,32 +27,6 @@ __Alaska__ _n_ :mega: /əˈlæs kə/
 __all caps__  
 __allay__ _v_  
 __allegedly__  
-__aloof__ _adj_ :three::hammer: _Commanders with an aloof demeanor._  
-__ambiguous__ _adj_ /am-BIG-yuh-wus/  
-__ambulatory__ _adj_ _Àmbulatory abilities._  
-__amusia__ _n_ :three::hammer: _Cochlear amusia._  
-__anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
-__annuity__ _n_  
-__anoxia__  
-__ante__ _n_ _Burt amps up the ante._  
-__anthurium__ _n_  
-__aphasia__ _n_ :two::hammer:  
-__aplomb__ _n_ :dart:  
-__apnea__ _n_  
-__apprehension__  
-__apprentice__ _n_  
-__aquanaut__  
-__Aramaic__  
-__arena__ _n_  
-__arpeggio__  
-__ashen__ _adj_ _I was met with ashen faces and utter silence._  
-__Asperger’s syndrome__ _n_  
-__assay__ _v_ /a-SAY/  
-__atavism__ _n_ A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
-__attorney__  
-__attune__ _v tr_ :two::hammer:  
-__audacious__  
-__avuncular__ _adj_  
 __backfire__ _v_  
 __badinage__  
 __balk__ _v_  
