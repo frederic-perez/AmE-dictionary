@@ -534,32 +534,6 @@ __the nitty-gritty__
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
-__the usual suspects__ :three: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._  
-__the word is out__ The phrase “the word is out” means that a piece of news or information has become known, especially if it was previously a secret or if it is expected to bring about changes.  
-__the writing on the wall__  
-__then again__  
-__there and then__  
-__thete you go__  
-__this side of__  
-__thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
-__thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
-__through the grapevine__  
-__thumbs up__  
-__tick off__  
-__ticker__ _n_  
-__tight-lipped__ Secretive; not revealing information.  
-__time and (time) again__  
-__tipping point__  
-__to (one’s) name__ In one’s possession; owned by one. _Without a penny to his name._  
-__to a T__  
-__to his name__  
-__to the fore__  
-__to the hilt__ As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
-__Tom Swifty__  
-__tongue in cheek__  
-__toss (one’s) hat in(to) the ring__  
-__touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
-__touché__  
 __trash talk__ _I won’t trash talk._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __treasure trove__  

@@ -3998,21 +3998,22 @@ __the terrible twos__ A developmental stage of children, generally at or around 
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
 __the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
-__the usual suspects__ _Side vegetables contain all the usual suspects._  
+__the usual suspects__ :four: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._ _Side vegetables contain all the usual suspects._  
 __the very thing__ Exactly what is most ideal, desired, or useful in a particular moment or situation. _I’m telling you, when you’re hungover, a big basket of French fries is the very thing!_ _I have the very thing to wear with a dress that color._ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
 __the whole nine yards__  
 __the whole shebang__ :two::hammer:  
 __the Wild West__  
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
-__the writing on the wall__  
+__the word is out__ The phrase “the word is out” means that a piece of news or information has become known, especially if it was previously a secret or if it is expected to bring about changes.  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
 __then again__ :nine::m: [:sound: then again] From another standpoint; on the other hand; on second thought; from a different, conflicting, or contradictory point of view. An opposite possibility. _I need a vacation. Then again, so do my coworkers._ _Then again, you might not remember it._  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
+__there and then__  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
-__there you go__  
+__there you go__ :two::hammer:  
 __there you have it__ Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
 __there’s no other way around (it)__ There is no solution to avoid a particular outcome. _If you want to get good at English, you have to memorize a lot of idioms. There’s no way around it._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
@@ -4027,10 +4028,13 @@ __third wheel__ The “third wheel” refers to the person who is the outsider w
 __third world__  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this is no picnic__  
+__this side of__  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
+__thou__ _n_ /θɑʊ/ One thousand. _I managed to get a couple of thou from the bank, but I need a little more than that._  
+__thrash out__ :dart: To engage in a thorough discussion in order to determine a solution to a problem. A noun or pronoun can be used between “thrash” and “out.” _We had to stay an extra two hours thrashing this issue out._  
 __through and through__ :six: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
-__through the grapevine__ :two: Through or via an informal means of communication or information, especially gossip. _I heard through the grapevine that John is planning to propose to Samantha next week!_  
+__through the grapevine__ :three: Through or via an informal means of communication or information, especially gossip. _I heard through the grapevine that John is planning to propose to Samantha next week!_  
 __through the roof__  
 __through thick and thin__ Through good times and bad times.  
 __throw (one) a curveball__  
@@ -4050,9 +4054,10 @@ __throwback__ A throwback is a sudden reminder of the past, usually in the form 
 __throwdown gun__ An unregistered gun placed as evidence to suggest that a shooting by police was done in self-defense. _Something about the sergeant’s description of the shooting seems off. I’m starting to have suspicions that the gun recovered at the scene was really a throwdown gun._  
 __thug live__ (often ironic) [:scroll: Popularized by American rapper Tupac Shakur (1971–1996) in 1993. ] A resilient attitude in the face of racism and injustice. A life in which one has to go through many struggles, like that of poor gangstas. _I didn’t choose the thug life. It chose me._  
 __thumb (one’s) nose at (someone or something)__ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
-__thumbs up__ _We have a thumbs up!_  
+__thumbs up__ :two::hammer: _We have a thumbs up!_  
+__tick off__  
 __tick someone off__  
-__ticker__ __1__ _n_ A heart. _His ticker finally gave out._ __2__ _n_ A watch. _My ticker stopped. The battery must be dead._  
+__ticker__ :two: __1__ _n_ A heart. _His ticker finally gave out._ __2__ _n_ A watch. _My ticker stopped. The battery must be dead._  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __tide someone over (until something)__ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tie (one) down__ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
@@ -4060,21 +4065,20 @@ __tie the can__ _It ain’t every day that you tie the can to a Congressman._
 __tie the knot__ :two::hammer:  
 __tiger team__  
 __tight as a drum__ Taut or close-fitting; also, watertight.  
+__tight-lipped__ Secretive; not revealing information.  
 __tighten the purse strings__ To become less liberal with or more controlling of one’ expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tighten your belt__ To spend less money.  
 __til you drop__  
-__time and (time) again__ :five::dart: Repeatedly; on multiple occasions. _Why do you continue to trust John when he has lied to you time and again?_  
-__time and again__ :two: Again and again; repeatedly.  
-__time and time again__ :dart::two::hammer:  
+__time and (time) again__ :nine::m::dart: Repeatedly; on multiple occasions. Again and again; repeatedly. _Why do you continue to trust John when he has lied to you time and again?_  
 __time capsule__  
 __time flies__ :two::hammer: _Time flies when you’re having fun._  
 __tip (one’s) hat__  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
-__tipping point__  
+__tipping point__ :two::hammer:  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) heart’s desire__ :two: As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
-__to (one’s) name__ _Bernie died with $1.09 to his name._  
-__to a T__ Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
+__to (one’s) name__ :two: In one’s possession; owned by one. _Without a penny to his name._ _Bernie died with $1.09 to his name._  
+__to a T__ :two: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be in a better place__  
 __to be on a mission__  
@@ -4085,6 +4089,7 @@ __to boot__ :two::hammer: _Delectable game-focused menu to boot._
 __to date__ :three: Until now. _To date, no winners have attended._  
 __to have someone pegged__ _Ed had him pegged as a skinflint._  
 __to hell and back__ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
+__to his name__  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to make a long story short__ To skip boring, extraneous, or unnecessary details; to get to the point. _Anyway, to make a long story short, I got expelled for writing graffiti on the bathroom stalls._  
 __to name (but) a few__ :two::hammer:  
@@ -4094,14 +4099,16 @@ __to see red__ Very angry.
 __to some extent__ :two::hammer:  
 __to that end__ :four::hammer: (to that end,)  
 __to the core__ _Charming to the core._  
+__to the fore__  
 __to the fullest__  
-__to the hilt__  
+__to the hilt__ :two: As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
 __to this day__ :eight: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __toe-to-toe__  
 __together__  
-__Tom Swifty__  
+__Tom Swifty__ :two::hammer:  
+__tongue in cheek__  
 __tongue-in-cheek__  
 __tooth and nail__  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
@@ -4109,13 +4116,16 @@ __top off__ _L.A. is topping off pools, watering lawns, washing cars._
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __topsy-turvy__ _Welcome back to another topsy-turvy day in AI._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
+__toss (one’s) hat in(to) the ring__  
 __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __toss and turn__ Sleep badly.  
 __toss out__ _v_ _One student tossed out expletives._  
 __touch base (with someone)__ :four: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
+__touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touch wood__  
+__touché__  
 __tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __tough love__ :three: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
 __tour de force__ :four::hammer:  
@@ -4368,7 +4378,7 @@ __wrap my head around something__
 __wreak havoc__ :three: (wreaked havoc) To cause a lot of problems.  
 __write (one’s) own ticket__ :two::hammer:  
 __write someone or something off__  
-__writing on the wall, the__ :two: An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
+__writing on the wall, the__ :four: An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __x, y, and z__ _n_ A figure of speech used when making a hypothetical argument or example. _Well, I could say, “God doesn’t exist because of X, Y and Z.”_  
 __X’s and O’s__ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one’s team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x’s and o’s, but the team’s execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x’s and o’s of the budget._ __3__ Kisses and hugs.  
