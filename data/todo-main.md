@@ -27,6 +27,7 @@ __Alaska__ _n_ :mega: /əˈlæs kə/
 __all caps__  
 __allay__ _v_  
 __allegedly__  
+__arpeggio__ _n_  
 __backfire__ _v_  
 __badinage__  
 __balk__ _v_  
@@ -43,6 +44,7 @@ __bellwether__ _n_ /BEL-WEH-ther/
 __beseech__  
 __bidding__ _n_  
 __bikini__ _n_  
+__bilious__ _adj_  
 __birdsong__  
 __black tie__ _n_ (vs _white tie_)  
 __bluff__ _v_  
@@ -56,6 +58,7 @@ __borscht belt__
 __boulevardier__ _n_  
 __bounce castle__ _n_  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
+__bracken__ _n_  
 __braying__ _v_  
 __brio__ _n_  
 __broach__ _v_  
@@ -264,6 +267,7 @@ __flywheel__ _n_
 __forcible__  
 __fuel__ _v_  
 __futile__  
+__gabardine__ _n_  
 __garbled__  
 __gargantuan__ _adj_ _Gargantuan ego._  
 __gauntlet__ _n_ /GAWNT-lut/  
@@ -370,6 +374,7 @@ __ineffability__
 __ineffable__  
 __infirm__ _adj_  
 __ingenuity__ _n_ :dart::two::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
+__inglenook__ _n_ A nook or corner beside an open fireplace. _Syn_ chimney corner  
 __ingratiate__ _v tr_  
 __irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
 __jabbering__ _v_  
@@ -467,11 +472,13 @@ __mellow__
 __melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __meltdown__  
 __menage__ _n_ A domestic establishment. _Syn_ household  
+__menagerie__ _n_ :astonished:  
 __menorah__ _n_  
 __mensch__  
 __mercury__ _n_ :mega:  
 __meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
 __meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
+__mesmerize__ _v_ /MEZ-muh-ryze/  
 __Mesoamerica__ _n_  
 __mess around__  
 __messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
@@ -559,6 +566,7 @@ __oblige__ _v_
 __obliged__ _adj_ :two::hammer: _He happily obliged._ _I’d be obliged to you if you could arrange that._  
 __obligingly__  
 __obsequiously__  
+__odium__ _n_ Strong dislike, contempt, or aversion. _Syn_ abhorrence, detestation, execration, loathing, abomination  
 __off-putting__ _adj_  
 __off-the-cuff__  
 __offhand__ _adj_ :two::hammer:  
@@ -678,6 +686,7 @@ __pool table__
 __pool__ _v_  
 __porky__  
 __portend__ _v_  
+__portentous__ _adj_  
 __posit<sup>1</sup>__ _v tr_  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __postulate__ _v_  
@@ -710,6 +719,7 @@ __proponent__ _n_
 __prosody__ _n_ :two::hammer:  
 __prosty__  
 __Protean__  
+__provender__ _n_  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudery__ _n_  
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -733,6 +743,7 @@ __purported__
 __purportedly__  
 __purview__ _n_  
 __pushover__ _n_ :dart::two::hammer:  
+__quagmire__ _n_  
 __quale__ _n_ (qualia _n pl_)  
 __qualm__ _n_  
 __quaver__ _n_  
@@ -793,6 +804,7 @@ __reenactment__ _n_
 __refrain<sup>1</sup>__ _v intr_ _Lorna refrained from comment._  
 __refrain<sup>2</sup>__ _n_  
 __regency__ _n_  
+__regimen__ _n_ /REJ-uh-mun/ _Regimen_ refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy.  
 __relent__ _v intr_  
 __remembrance__  
 __remission__ _n_  
@@ -938,7 +950,7 @@ __skinflint__ _n_ A selfish person who is unwilling to give or spend. _Syn_ scro
 __skittering__  
 __skittish__ _adj_ :two::hammer:  
 __skulking__ _v_  
-__skullduggery__ _n_  
+__skullduggery__ _n_ :two::hammer:  
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
 __sled__ _n_ :two::hammer:  
 __sleepaway__  
@@ -1050,6 +1062,7 @@ __swoon__ _v_
 __syllabicate__ _v_  
 __synesthesia__ _n_ :two::hammer:  
 __synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
+__tableau__ _n_ :astonished:  
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
 __Takeshi__ _n_ :mega:  
@@ -1074,6 +1087,7 @@ __temper__ _v_ :two::hammer: (tempered)
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
 __temporal landmark__ _n_  
 __tenderized__  
+__tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
 __tenement__  
 __tenet__ _n_  
 __tenets__ _n_  
