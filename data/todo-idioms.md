@@ -18,7 +18,7 @@ __a hell of a someone or something__
 __a hot-button issue__  
 __a necessary evil__  
 __a piece of cake__  
-__a slew of (something)__ A very large number or amount of something; a lot of something.  
+__a slew of (something)__ :two: A very large number or amount of something; a lot of something. _YouTube unveiled a slew of AI tools for creators._  
 __a sounding board__  
 __a thou__  
 __A-team__  
@@ -48,6 +48,7 @@ __bop__ _v_ :two::hammer: (bopped)
 __buckle down__ _Buckle down and work harder._  
 __build up__  
 __bum pump__ Buttpump.  
+__burning question__ An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
 __bush league__ _It was a bush league fuck-up._  
 __bust up__ _He had a way of saying things that busted us up._  
 __busy oneself with someone or something__  
@@ -73,6 +74,8 @@ __chances are__
 __chapter and verse__  
 __chi-chi__  
 __chime in__  
+__chin up__  
+__chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
 __chunk__ :dart: __1__ _v intr_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _v intr_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
 __churn out__  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
@@ -82,6 +85,7 @@ __cocktease__
 __come across something__  
 __come as no surprise__ To be completely unsurprising.  
 __comfort eating__  
+__competitive edge__ Some aspect, factor, or strategy that gives a person, team, company, etc., an advantage over others.  
 __confide in (one)__  
 __cornhole__  
 __corny__  
@@ -120,6 +124,7 @@ __drag (one’s) feet__
 __draw upon__  
 __dressed to the nines__  
 __dyke__  
+__eat it up__  
 __en route__  
 __every so often__  
 __face the music__ :two::hammer:  
@@ -131,8 +136,10 @@ __fall short__
 __fam__  
 __fan the breeze__  
 __fend off__ __2__ To try to prevent something. A noun or pronoun can be used between “fend” and “off.” _Getting a flu shot will help__hold you to fend off future illness._  
+__fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._  
 __first dibs__ _It is something we want first dibs on._  
 __first hand__ Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
+__fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
 __flake out__  
 __flesh out__  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
@@ -159,6 +166,7 @@ __full blast__ (At) the maximum level.
 __full of (oneself)__  
 __fun and games__  
 __funky__  
+__furball__ __1__ An animal, usually a pet. _I can’t wait to get home—I hate to be away from my furballs for long!_  
 __gaga__  
 __game changer__  
 __game-changer__  
@@ -197,6 +205,7 @@ __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immed
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
 __goofball__  
+__grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
 __grasshopper__ _slang_ Someone who frequently smokes marijuana.  
 __guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
@@ -319,6 +328,7 @@ __it factor__
 __it is what it is__  
 __jazzy__  
 __keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
+__kickback__  
 __kosher__  
 __laff__ _v_ :two: (laffed) An obsolete or dialectal spelling of laugh.  
 __lash out__  
@@ -327,9 +337,11 @@ __like gangbusters__
 __lump in (one’s) throat__  
 __make a fuss__  
 __make inroads (in/into something)__  
+__make the cut__  
 __marching orders__  
 __mark my word(s)__  
 __Mary Jane__ _slang_ Marijuana.  
+__maven__ One who is, is believed to be, or believes oneself to be an expert in some area, field, or topic. _Anyone proclaiming to be a maven when it comes to dating or hooking up is just looking to take your money._  
 __merch__  
 __mess around__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
@@ -348,7 +360,7 @@ __nah__
 __name names__ :two::hammer:  
 __nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
 __neck of the woods__  
-__nerd out__  
+__nerd out__ :two::hammer:  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __next to nothing__ Almost nothing; a very small amount.  
 __nice guy__  
@@ -411,6 +423,7 @@ __pave the way (for someone or something)__
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pay out__ _It pays out in the long run._  
 __peace out__ :two: To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
+__perfect storm__  
 __perk up__  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__ :two::hammer:  
@@ -421,6 +434,7 @@ __picture postcard__
 __pin-drop silence__  
 __pipe dream__  
 __piss and vinegar__  
+__pit stop__ __2__ A pause in a journey (usually by car) to urinate, eat, rest, and/or refuel. (From the name of a service stop in automobile racing.) _I think we’ll pull in at the next rest area. I need a pit stop._  
 __play (one’s) cards close to (one’s) chest__  
 __play (someone) like a fiddle__ (play (someone) like a piano) _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __play dumb__  
@@ -459,6 +473,7 @@ __redound on (someone or something)__
 __reduce (one) to tears__  
 __reel off__  
 __reinvent the wheel__  
+__relinquish something over someone__  
 __reminiscent of (someone or something)__  
 __rest easy__ :dart: To stop worrying about something. To not worry about something. _I can rest easy knowing that he will be in charge._ _OpenAI isn’t resting easy: the company is reportedly working hard to beat Google to multimodal features in its models._  
 __riddled with__ _The guy had been riddled with bullets right there._  
@@ -553,6 +568,7 @@ __spot on__
 __spruce up__ :dart:  
 __spunky__  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
+__step back__ __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
 __steppingstone__  
 __strange bedfellows__  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
@@ -594,6 +610,7 @@ __the old gray mare ain’t what she used to be__
 __the powers that be__  
 __the sky is the limit__  
 __Tinseltown__  
+__TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __trash talk__ _I won’t trash talk._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
@@ -606,6 +623,7 @@ __turf war__
 __turkey__ __3__ _n_ _slang_ Stupid person.  
 __turn a deaf ear (to someone or something)__  
 __turn of phrase__  
+__two-way street__  
 __uncharted territory__  
 __under (one’s) belt__  
 __under one’s belt__  
@@ -655,7 +673,7 @@ __word of mouth__ Spoken communication: _News of their success spread by word of
 __work (one’s) tail off__  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
-__yea or nay__  
+__yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
 __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
 __you name it__ :two::hammer:  
 __you saved the day__  
