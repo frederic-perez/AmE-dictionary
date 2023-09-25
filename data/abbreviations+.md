@@ -45,6 +45,7 @@ __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to wa
 __DEFCON__ Defense readiness condition. _I went into DEFCON 1._  
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
+__DNF__ Did not finish.  
 __DoS__ Denial of service. _We ended up DoS’ing our cafes._  
 __DOY__ Day of year.  
 __DSLR__  

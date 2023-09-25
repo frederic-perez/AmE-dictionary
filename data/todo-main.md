@@ -49,6 +49,7 @@ __bevy__ _n_
 __bidding__ _n_  
 __bikini__ _n_  
 __bilious__ _adj_  
+__bilk__ _v_ :dart:  
 __birdsong__  
 __black tie__ _n_ (vs _white tie_)  
 __bluff__ _v_  
@@ -72,6 +73,7 @@ __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chi
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
 __bumbling__ _v_  
 __bunion__ _n_ /ˈbʌnjən/ :es: juanete  
+__burglarize__ _v_  
 __burnish__ _v_  
 __burnoose__ _n_ :astonished:  
 __busyness__  
@@ -113,6 +115,7 @@ __color blind__
 __conceit__  
 __concomitant__ _v_  
 __confabulation__ _n_  
+__confounding__ _adj_ That confounds or contradicts or confuses _Syn_ contradictory  
 __conjoined__ _adj_ _Conjoined meanings._  
 __contain__ _v_ _He could barely contain his saliva._  
 __contempt sentence__ _n_ A _contempt sentence_ refers to the punishment imposed on an individual found guilty of contempt of court. Contempt of court is the act of showing disrespect or disobedience towards the authority or dignity of a court, such as by disobeying an order or obstructing the administration of justice.  
@@ -150,6 +153,7 @@ __decamp__
 __decommission__ _v_  
 __deed__ _n_ :two::hammer: _The deed was set in motion._  
 __deep-six__ _v_ _Bonuses were being deep-sixed._  
+__defray__ _v tr_  
 __defuse__ _v_ :two::hammer:  
 __deliverance__  
 __deluge__ _n_ :two::hammer:  
@@ -176,6 +180,7 @@ __doozy__
 __dopey__  
 __doppelganger__ _n_  
 __dour__  
+__dowager__ _n_  
 __down payment__  
 __downplay__ _v tr_  
 __downright__ _adj_ _Downright ridiculous._  
@@ -224,10 +229,11 @@ __exercise bike__ _n_ :dart: _Syn_ exercise cycle, exercycle
 __exodus__ _n_ /EK-suh-duhs/ A large scale departure or emigration.  
 __expat__  
 __expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
+__extant__ _adj_  
 __extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
 __extol__ _v tr_  
 __extolled__ _v_  
-__extricate__ _v_  
+__extricate__ _v tr_ :two::hammer:  
 __exude__ _v_  
 __eye of round__ _n_ A cut of meat taken from the rear leg muscles. A cheap cut of tough lean meat, considered one of the worst cuts; suitable for making ground meat.  
 __fabricate__ _v_  
@@ -313,8 +319,7 @@ __grueling__ _adj_
 __gruesome__  
 __guffaw__ _v intr_  
 __guile__ _n_ _She did not seem like a cheater; she seemed totally lacking in guile._  
-__gulp__ _v_  
-__gulped__ _v_  
+__gulp__ _v_ :three::hammer: (gulped)  
 __gumption__ _n_  
 __gunbelt__  
 __gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
@@ -431,6 +436,7 @@ __leaderboard__ _n_
 __legato__ _n_  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
+__libel__ _n, v_ :two::hammer:  
 __lifeblood__  
 __lifeline__  
 __light-headed__ _adj_  
@@ -455,7 +461,7 @@ __ludicrous__ _adj_
 __luminary__  
 __lurch__ _v_  
 __Lyme disease__ _n_ :three::hammer:  
-__mac and cheese__  
+__mac and cheese__ _n_ :two::hammer:  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
 __major key__  
@@ -557,6 +563,7 @@ __mumps__ _n_ :three::hammer: :es: paperas
 __muscatel__  
 __muse__ _v_  
 __muttering__ _v_  
+__muumuu__ _n_ A long loose dress that hangs free from the shoulders. A woman’s loose unbelted dress.  
 __muzzled__ _v_  
 __myriad__ _n_ /MEER-ee-ud/  
 __nab__ _v_  
@@ -609,6 +616,7 @@ __outsmart__ _v tr_
 __outstrip__ _v tr_  
 __outvouch__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
+__overcut__  
 __overhaul<sup>1</sup>__ _n_  
 __overhaul<sup>2</sup>__ _v_  
 __overjoyed__ _adj_  
@@ -715,6 +723,7 @@ __pool__ _v_
 __porky__  
 __portend__ _v_  
 __portentous__ _adj_  
+__posit__ _v_ :two::hammer:  
 __posit<sup>1</sup>__ _v tr_  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __postulate__ _v_  
@@ -891,7 +900,7 @@ __russet__
 __safeguard__ _n_  
 __salacious__ _adj_ :two:hammer:  
 __salacities__ _n_  
-__salient__ _adj_ _A salient example._  
+__salient__ _adj_ :two::hammer: _A salient example._  
 __sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
 __saludatory__  
 __salutary__ _adj_ _Salutary effects._  
@@ -1017,6 +1026,7 @@ __soft hat__ _n_ :camera:
 __soft-pedal__ _v tr_  
 __sojourn__  
 __sole__ _n_ Lean flesh of any of several flatfish.  
+__soliloquy__  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __soon enough__ _adv_ :two: Without being tardy. _Syn_ in time  
 __sororal__ _adj_  
@@ -1041,6 +1051,7 @@ __spiel__ _n_ :two::hammer:
 __spite__ _n_  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious; vindictive. :es: rencoroso  
 __spoon__ _v_  
+__spritz__ _v_ _He spritzed me with a mouthful of martini._  
 __spurt__ _n_ _A huge spurt of activity._  
 __squall__ _n_ :two::hammer: _It’s just a passing squall._  
 __squander__ _v tr_  
@@ -1112,6 +1123,7 @@ __tantalizing__ _adj_ :two::hammer:
 __tarnish__  
 __tart__ _adj_ __1__ (of a flavour, food, etc) Sour, acid, or astringent. __2__ Cutting, sharp, or caustic: _a tart remark._ _A tart comment._  
 __tase__ _v_  
+__tattle__ _v_ :dart:  
 __taunt__ _v_  
 __taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
 __team effort__ _n_ Something done by a group of people.  
@@ -1201,9 +1213,11 @@ __unbidden__ _adj_ :three: Not invited, asked, or requested; unasked: _unbidden 
 __uncheesy__ _adj_  
 __unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
+__undercut__  
 __underpin__ _v tr_  
 __underpinnings__ _n_ :two::hammer:  
 __unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
+__unerring__ _adj_  
 __unfurl__ _v_  
 __unheeded__  
 __unhook__ _v tr_  
@@ -1225,6 +1239,8 @@ __upright bass__ _n_
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
 __utterance__  
+__va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
+__va-va-voom<sup>2</sup>__ _adj informal_ Strikingly sexy, voluptuous, or appealing.  
 __vacantly__  
 __vacationer__ _n_  
 __vacuous__  
@@ -1273,6 +1289,7 @@ __wild card__
 __willful__  
 __wimpy__  
 __windowsill__ _n_ :two::hammer:  
+__winsome__  
 __withholding__  
 __withstand__ _v_  
 __woke__ _adj_  
