@@ -20,6 +20,7 @@ __a necessary evil__
 __a piece of cake__  
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a sounding board__  
+__a thou__  
 __A-team__  
 __abandon (oneself) to__ :dart:  
 __about to (do something)__  
@@ -43,7 +44,7 @@ __be on course__ :dart: __1__ Literally, to be moving in the correct direction o
 __behind closed doors__  
 __bend the rules__ To allow something to be done which is technically against the rules or not normally accepted.  
 __blaze a trail__  
-__bop__ _v_  
+__bop__ _v_ :two::hammer: (bopped)  
 __buckle down__ _Buckle down and work harder._  
 __build up__  
 __bum pump__ Buttpump.  
@@ -77,6 +78,7 @@ __churn out__
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
 __clincher__ :two: The final element; the straw that broke the camel’s back.  
 __clock in__ _Today’s piece clocks in at 728 words._  
+__cocktease__  
 __come across something__  
 __come as no surprise__ To be completely unsurprising.  
 __comfort eating__  
@@ -102,6 +104,7 @@ __devil take the hind most__ Each person must work independently toward their ow
 __dig in (one’) heels__  
 __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dingy__  
+__dipshit__  
 __dish out__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do a U-turn__  
@@ -116,6 +119,7 @@ __double-edged sword__ Something that can be both beneficial and problematic.
 __drag (one’s) feet__  
 __draw upon__  
 __dressed to the nines__  
+__dyke__  
 __en route__  
 __every so often__  
 __face the music__ :two::hammer:  
@@ -155,9 +159,11 @@ __full blast__ (At) the maximum level.
 __full of (oneself)__  
 __fun and games__  
 __funky__  
+__gaga__  
 __game changer__  
 __game-changer__  
 __gangbusters__ __1__ Successful. _Oh, presenting the case to the students was gangbusters—they got totally engrossed in trying to the solve the mystery._ __2__ A wild, busy, and successful event. (See also _like gangbusters_.) _Our party was truly gangbusters, for sure._  
+__gargle__ __1__ _v slang_ To drink alcohol. _We gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
 __gear up__ _The same groundhog festival is gearing up again and again._  
 __get (one’s) act together__  
 __get a toehold__  
@@ -184,11 +190,14 @@ __go to great lengths (to do something)__
 __go to hell and back__  
 __gobble down__  
 __goes without saying__  
+__gone jacket__ _A gone jacket._  
 __gonzo__ _Gonzo journalism._  
+__goo-goo eyes__ A visibly smitten or enamored facial expression, as of one who is romantically interested in someone else. _Well, if you keep staring at her with goo-goo eyes, she’ll know you like her sooner than later!_  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
 __goofball__  
+__grasshopper__ _slang_ Someone who frequently smokes marijuana.  
 __guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
@@ -252,6 +261,7 @@ __helluva__
 __help (one) out__  
 __here we go__  
 __here’s to (someone or something)__  
+__high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful or rowdy activity, often involving mischievous pranks. _All sorts of high jinks go on at summer camp after “lights out.”_  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
 __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
@@ -275,8 +285,9 @@ __hope for the best__
 __hophead__  
 __hoping agaínst hope__  
 __hot-button__ _Hot-button social issues._  
+__hotfoot__ :dart: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
 __how come__  
-__hubby__  
+__hubby__ :seven: _A shortening and alteration of “husband.”_  
 __humblebrag__  
 __I feel you__  
 __if you know what I mean__  
@@ -318,6 +329,7 @@ __make a fuss__
 __make inroads (in/into something)__  
 __marching orders__  
 __mark my word(s)__  
+__Mary Jane__ _slang_ Marijuana.  
 __merch__  
 __mess around__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
@@ -329,10 +341,12 @@ __more than meets the eye__
 __mother__ _This mother really works._  
 __move the needle__  
 __Mr. Right__  
+__mud shark__ _US black_ A white man or woman who prefers black partners.  
 __mug__ _Getting your mug on TV._  
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
 __name names__ :two::hammer:  
+__nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
 __neck of the woods__  
 __nerd out__  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
@@ -396,7 +410,7 @@ __pan out__
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pay out__ _It pays out in the long run._  
-__peace out__ To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
+__peace out__ :two: To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
 __perk up__  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__ :two::hammer:  
@@ -404,6 +418,7 @@ __pick someone up__ _I learned about picking ourselves up when we fall._
 __pick up after (someone or oneself)__  
 __pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
 __picture postcard__  
+__pin-drop silence__  
 __pipe dream__  
 __piss and vinegar__  
 __play (one’s) cards close to (one’s) chest__  
@@ -413,6 +428,7 @@ __play it cool__
 __play it safe__  
 __play the field__  
 __plead ignorance__ _It was best for me to plead ignorance._  
+__prattle on (about someone or something)__ To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
 __pro bono__  
 __punk__ _n_  
@@ -435,6 +451,7 @@ __quid pro quo__
 __quite quitting__  
 __rack up__  
 __ram into (someone or something)__  
+__rat out__  
 __reach out__  
 __red flag__  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
@@ -479,6 +496,7 @@ __seize the opportunity (to do something)__
 __separate wheat from chaff__  
 __set eyes on (someone or something)__ :two::hammer:  
 __set the record straight__ To make the true facts of something clear, especially when they have been previously mistaken, misunderstood, or misrepresented. _There have been a lot of crazy rumors flying around for the last few days, so I’d like to set the record straight once and for all._  
+__sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
 __sexual tension__  
 __shakedown__ _A shifty shakedown artist._  
 __shame on (one)__  
@@ -536,6 +554,8 @@ __spruce up__ :dart:
 __spunky__  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
 __steppingstone__  
+__strange bedfellows__  
+__switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
@@ -625,6 +645,7 @@ __win over__
 __window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
 __wing it__ To do or attempt something with little preparation in advance; to improvise.  
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
+__wire__  
 __wise guy__ __2__ A mobster.  
 __wish (one) well__  
 __wishful thinking__ :es: espejismo, ilusión  

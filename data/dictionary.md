@@ -8616,7 +8616,6 @@ __howl__ _v_ :two::hammer:
 __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
 __hubbub__ _n_ :seven::hammer:  
-__hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
 __hubris__ _n_ :dart::nine::m: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
