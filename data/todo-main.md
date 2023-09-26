@@ -299,32 +299,6 @@ __giddy__ _adj_
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
 __gimcrackery__  
-__git__ _n_ :three::hammer: _What a lying git that Carl had been._ _The poor deluded git._  
-__glib__ _adj_ _Murphy was glib, but careful._  
-__glint__  
-__gnats__ _n_  
-__gold dust__ _n_ __2__ A valuable or rare thing: _tickets for this match are gold dust._  
-__gorged__ _v_  
-__gossamer__  
-__goy__ _n_ A person who is not Jewish.  
-__grand mal__ _n_ :three: Severe epilepsy. _Occasional grand mal seizures._ _Her seizures were of grand mal type._ _At 14, I had a grand mal of unknown origin._  
-__grate__ _v_ _Grating voice._  
-__great-uncle__  
-__Greenwich Village__ _n_  
-__gripe__ _n_  
-__groundswell__  
-__groupthink__  
-__grudgingly__ _adv_  
-__grueling__ _adj_  
-__gruesome__  
-__guffaw__ _v intr_  
-__guile__ _n_ _She did not seem like a cheater; she seemed totally lacking in guile._  
-__gulp__ _v_ :three::hammer: (gulped)  
-__gumption__ _n_  
-__gunbelt__  
-__gusto__ _n_ __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
-__hackneyed__ _adj_ :two::hammer:  
-__hallucinate__ _v_ _Computers, Digital Technology_ (of a machine learning program) To produce false information contrary to the intent of the user and present it as if true and factual.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_ :three::hammer:  
