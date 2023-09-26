@@ -149,32 +149,6 @@ __folderol__ Nonsense or foolishness. _His explanation is total folderol and doe
 __fool with (someone or something)__  
 __for all intends and purposes__ :two::hammer:  
 __for better or (for) worse__  
-__for days on end__ :four: (for hours on end, for years on end) For a long time, specifically many days.  
-__for good reason__  
-__for the long haul__  
-__for the most part__ :two::hammer:  
-__for the umpteenth time__  
-__foul play__  
-__fraught with anxiety__  
-__fraught with danger__  
-__freak out__  
-__free-wheeling__  
-__friend with benefits__  
-__from A to Z__  
-__fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
-__full blast__ (At) the maximum level.  
-__full of (oneself)__  
-__fun and games__  
-__funky__  
-__furball__ __1__ An animal, usually a pet. _I can’t wait to get home—I hate to be away from my furballs for long!_  
-__gaga__  
-__game changer__  
-__game-changer__  
-__gangbusters__ __1__ Successful. _Oh, presenting the case to the students was gangbusters—they got totally engrossed in trying to the solve the mystery._ __2__ A wild, busy, and successful event. (See also _like gangbusters_.) _Our party was truly gangbusters, for sure._  
-__gargle__ __1__ _v slang_ To drink alcohol. _We gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
-__gear up__ _The same groundhog festival is gearing up again and again._  
-__get (one’s) act together__  
-__get a toehold__  
 __get ahead of (oneself)__  
 __get bogged down__ To become burdened or impeded (by something). (A bog is an area of wet, muddy land that is difficult to walk through.)  
 __get lucky__  
