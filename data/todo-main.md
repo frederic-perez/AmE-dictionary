@@ -29,7 +29,11 @@ __all caps__
 __allay__ _v_  
 __allegedly__  
 __allot__ _v tr_ (alloted)  
+__anaesthetic__  
+__antelope__ _n_ :pencil2:  
 __arpeggio__ _n_  
+__Asperger’s syndrome__  
+__assiduously__ _adv_ :pencil2: With care and persistence.  
 __backfire__ _v_  
 __backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
 __badinage__  
@@ -43,6 +47,7 @@ __bard__
 __bardic__  
 __baton__ _n_ :es: batuta  
 __belie__ _v_  
+__belied__ _v_  
 __bellwether__ _n_ /BEL-WEH-ther/  
 __beseech__  
 __bevy__ _n_  
@@ -60,6 +65,7 @@ __boorish__
 __bootstrapping__ _n_  
 __borak__ _n_ Rubbish; nonsense.  
 __borscht belt__  
+__Botox__ _n_  
 __boulevardier__ _n_  
 __bounce castle__ _n_  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
@@ -83,12 +89,15 @@ __cagey__
 __cajole__ _v_  
 __call upon__  
 __campground__  
+__can-opener__  
 __Candy Land__ _n_ (game?)  
 __cantillation__  
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
 __carport__ _n_ :two::hammer:  
+__carryover__ _adj_  
+__cathartic__ _adj_  
 __catnip__ _n_ :es: hierba gatera  
 __catwalk__ _n_  
 __caustic__ _adj_ /KAWSS-tik/  
@@ -110,8 +119,11 @@ __Chutes and Ladders__ _n_
 __clang__ _v_ _Bells clanging._  
 __clanging__  
 __clangor__ _n, v_  
+__clarks__ _n_  
 __clatter__ _n_  
+__cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __color blind__  
+__companion__ _v tr_  
 __conceit__  
 __concomitant__ _v_  
 __confabulation__ _n_  
@@ -138,16 +150,19 @@ __creep__
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
 __crook__  
+__crumple__  
 __crumpled__ _adj_ _A crumpled newspaper copy._  
 __cuckolded__  
 __cure-all__ _n_  
 __cushy__ _adj_ _Cushy job._  
 __cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
 __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
+__cyst__  
 __dalliances__ _n_  
 __darting__ _v_  
 __daunting__ _adj_  
 __davening__  
+__deadened__  
 __debonnaire__ _adj_  
 __decamp__  
 __decommission__ _v_  
@@ -159,7 +174,7 @@ __deliverance__
 __deluge__ _n_ :two::hammer:  
 __demure__ _adj_ /dih-MYOOR/  
 __despondency__ _n_  
-__destitute__ _adj_  
+__destitute__ _adj_ :two::hammer: _I am utterly destitute of an ear._  
 __dharma__ _n_  
 __diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
 __didgeridoo__ _n_  
@@ -173,6 +188,8 @@ __discombobulated__
 __disembed__ _v tr_ :astonished: To remove (something) from what it is embedded in.  
 __disempower__ _v tr_  
 __disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
+__dissatisfied__  
+__dissociation__ _n_  
 __divining__ _n_  
 __don__ _n_  
 __doodlebug__ _n_  
@@ -184,6 +201,7 @@ __dowager__ _n_
 __down payment__  
 __downplay__ _v tr_  
 __downright__ _adj_ _Downright ridiculous._  
+__doze__ _n_  
 __drab__ _adj_  
 __drawl__ _n_ The way of speech of someone who drawls.  
 __drill__ _n_  
@@ -200,6 +218,7 @@ __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, im
 __egress__  
 __Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
 __eidetic__  
+__elastin__ _n_  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
@@ -222,6 +241,7 @@ __epilogue__ _n_ :mega: (epilog)
 __epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
+__exacerbate__ _v_  
 __exacting__ _adj_ :dart: _An exacting editor._  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __excise__ _v_  
@@ -243,6 +263,7 @@ __factotum__
 __fallible__ _adj_ /FAL-uh-bul/  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __family member__ _n_  
+__faradization__ _n_  
 __fare__ _v intr_  
 __farouche__ _adj_  
 __fartlek__ _n_  
@@ -272,6 +293,7 @@ __firefly__ _n_ :es: luciérnaga
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __fitfully__ _adv_ _He slept fitfully on the king-sized bed._  
 __flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
+__flapping__ _n_ _Syn_ fluttering, flap, flutter  
 __flat__ _adv_  
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
@@ -299,6 +321,7 @@ __giddy__ _adj_
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
 __gimcrackery__  
+__Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __haphazard__ _adj_ :three::hammer:  
@@ -340,6 +363,7 @@ __hirsute__ _adj_
 __histrionic__  
 __hitherto__  
 __hoagie__ _n_ /ˈhəʊɡɪ/ (hoagy) A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
+__hobbled__ _v_  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
 __hobnobbing__ _v_  
 __hold__ _v_ __3d__ To have in store: _Let’s see what the future holds._  
@@ -358,10 +382,12 @@ __humdrum__
 __hurriedly__  
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __hush__ _n_ :two::hammer:  
-__hydrocephalus__  
+__hydrocephalus__ _n_ :two::hammer:  
 __hypochondriac__  
+__ibex__ _n_  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
 __imagery__ _n_ :mega: /ˈɪm ɪdʒ ri, -ɪ dʒə ri/  
+__impeccable__ _adj_  
 __impel__ _v tr_  
 __impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
@@ -370,12 +396,16 @@ __indefatigable__ _adj_
 __ineffability__  
 __ineffable__  
 __infirm__ _adj_  
+__ingenious__  
 __ingenuity__ _n_ :dart::two::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
 __inglenook__ _n_ A nook or corner beside an open fireplace. _Syn_ chimney corner  
 __ingratiate__ _v tr_  
+__interlard__ _v_  
 __irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
+__irrepressible__  
 __jabbering__ _v_  
 __jig__ _n_ _An Irish jig was being played._  
+__jokey__  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
 __jowly__ _adj_ Having heavy or sagging jowls. _The jowly lawyer._  
@@ -508,7 +538,7 @@ __misguide__ _v_
 __misnomer__ _n_  
 __missal__ _n_  
 __misspell__ _v_ :pencil2:  
-__misstep__ _n_  
+__misstep__ _n_ :two::pencil2::hammer:  
 __mitigate__ _v_ /MIT-uh-gayt/  
 __mixtape__ _n_  
 __moiré pattern__  
@@ -547,8 +577,9 @@ __natter__ _v intr_ :dart::two: To talk idly and at length; chatter or gossip.
 __necktie__ _n_ :es: corbata  
 __needle__ _v tr_  
 __net__ _v_ (netted)  
-__neuroses__ _n pl_ :two::hammer:  
+__neuroses__ _n pl_ :three::hammer:  
 __news flash__ _n_ An urgent or immediate item of news, especially an announcement that interrupts regular media programming.  
+__newt__ _n_  
 __nightcap__  
 __nihilism__ _n_  
 __ninja stars__  
@@ -574,6 +605,7 @@ __odium__ _n_ Strong dislike, contempt, or aversion. _Syn_ abhorrence, detestati
 __off-putting__ _adj_  
 __off-the-cuff__  
 __offhand__ _adj_ :two::hammer:  
+__ominous__ _adj_ _Ominous music._  
 __once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
 __oomph__  
 __operatic__  
@@ -612,7 +644,7 @@ __pamper__ _v_
 __panacea__ _n_ :two::hammer:  
 __pander__ _v_ :two::hammer:  
 __Pandora__ _n_ :mega:  
-__panoply__  
+__panoply__ _n_ :two::hammer:  
 __paragon__  
 __paramour__  
 __parapraxis__ _n_  
@@ -676,6 +708,7 @@ __play-off__ _n_ :pencil2:
 __plinking__  
 __plodded__  
 __plonked__ _v_  
+__plundered__ _v_  
 __plushy__ _adj_  
 __Pluto__ _n_  
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
@@ -736,6 +769,7 @@ __prudery__ _n_
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
+__psychopath__  
 __psychotic__  
 __psyops__ _n_ (Military) Short for psychological operations. Military operations aimed at influencing the enemy state of mind through noncombative means, such as distribution of leaflets.  
 __pudgy__  
@@ -779,6 +813,7 @@ __rant__ _n, v_ :dart:
 __rash__ _adj_ _Rash decisions._  
 __rasp__ _n_  
 __rationalize__ _v_ :dart:  
+__ravages__ _n_  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravenous__ _adj_ :two::hammer:  
 __raver__ _n_  
@@ -970,7 +1005,8 @@ __skullduggery__ _n_ :two::hammer:
 __slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
 __sled__ _n_ :two::hammer:  
 __sleepaway__  
-__slight__ _adj_ _A slight reason._  
+__slight<sup>1</sup>__ _adj_ _A slight reason._  
+__slight<sup>2</sup>__ _n_  
 __slink__ _v_  
 __slip__ _n_ __4__ A small piece of paper, especially a small form, document, or receipt: _a deposit slip._ _Hand out detention slips for using AI?_  
 __sliver__  
@@ -996,6 +1032,7 @@ __snappy__ _adj_ _Snappy answers._
 __snicker__ _v intr_  
 __soapbox__ _n_  
 __sobering__ _adj_  
+__sociopath__  
 __soft hat__ _n_ :camera:  
 __soft-pedal__ _v tr_  
 __sojourn__  
@@ -1005,6 +1042,7 @@ __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._
 __soon enough__ _adv_ :two: Without being tardy. _Syn_ in time  
 __sororal__ _adj_  
 __sotto voce__  
+__sought-after__  
 __sound__ _adj_ _Sound advice._  
 __souse__  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
@@ -1033,6 +1071,7 @@ __squat__ _adj_
 __squawk__ _v_  
 __squelch__ _v_ :two::hammer:  
 __squinch__ _v tr_ To squeeze, twist, or draw together: _squinched her eyes shut._  
+__squirm__ _v_  
 __staggering__ _adj_  
 __staid__ _n_  
 __stakeholder__  
@@ -1058,7 +1097,10 @@ __sternutation__
 __Stetson__  
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
+__strayed__ _v_ _His thoughts strayed._  
+__strummíng__ _v_ _She was strumming her guitar._  
 __stump__ _n_ :es: muñón  
+__subsumed__ _v_  
 __subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
@@ -1081,6 +1123,7 @@ __swashbuckle__ _v_
 __sway__ _n_  
 __swell__ _adj_  
 __swoon__ _v_  
+__swooning__ _v_  
 __syllabicate__ _v_  
 __synesthesia__ _n_ :two::hammer:  
 __synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
@@ -1093,7 +1136,7 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
-__tantalizing__ _adj_ :two::hammer:  
+__tantalizing__ _adj_ :three::hammer:  
 __tarnish__  
 __tart__ _adj_ __1__ (of a flavour, food, etc) Sour, acid, or astringent. __2__ Cutting, sharp, or caustic: _a tart remark._ _A tart comment._  
 __tase__ _v_  
@@ -1101,6 +1144,7 @@ __tattle__ _v_ :dart:
 __taunt__ _v_  
 __taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
 __team effort__ _n_ Something done by a group of people.  
+__teeming__ _v_  
 __teeny__ _adj_ Tiny.  
 __telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
 __telethon__ _n_  
@@ -1153,6 +1197,8 @@ __top-notch__
 __topiary__ _n_  
 __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance, quality, or favor; outstanding.  
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
+__torpíd__ _adj_  
+__torticollis__ _n_  
 __toy__ _v_  
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
@@ -1161,9 +1207,11 @@ __transience__
 __trappings__ _n pl_ :two::hammer:  
 __travesty__ _n_ /TRAV-uh-stee/  
 __trawl__ _v_  
+__treasure trove__  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __trickle__ _v_ :three::hammer:  
+__trifle__  
 __trilby__ _n_ :two::hammer:  
 __trill__ _n_ :two::hammer: _Melodic trill._  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
@@ -1179,6 +1227,7 @@ __turmeric__ _n_ :es: cúrcuma
 __turnkey__  
 __turpitude__  
 __tussle__ _v intr_  
+__twaddle__  
 __twat__  
 __tycoon__ _n_  
 __umbrage__  
@@ -1205,6 +1254,7 @@ __unpack__
 __unrepentant__  
 __unseemly__ _adj, adv_ :two::hammer:  
 __unspoken__ _adj_  
+__unstintingly__  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
 __upend__ _v_  
@@ -1215,6 +1265,7 @@ __upside__ _n_ _The gig did have some upsides._
 __utterance__  
 __va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
 __va-va-voom<sup>2</sup>__ _adj informal_ Strikingly sexy, voluptuous, or appealing.  
+__vacant__ _adj_  
 __vacantly__  
 __vacationer__ _n_  
 __vacuous__  
@@ -1245,6 +1296,7 @@ __warrant__ _v_
 __washstand__ _n_  
 __wattle__ _n_  
 __waver__ _v_  
+__waxing__ _v_  
 __weasel__ _v_  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
@@ -1261,6 +1313,7 @@ __whopping__ _adj_
 __wield__ _v_  
 __wild card__  
 __willful__  
+__Williams syndrome__ _n_  
 __wimpy__  
 __windowsill__ _n_ :two::hammer:  
 __winsome__  
@@ -1271,6 +1324,7 @@ __womenfolk__
 __wondrously__  
 __wont__ _n_  
 __woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
+__woodwind player__  
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
 __workaday__ _adj_  
 __workload__ _n_  
