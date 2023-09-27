@@ -26,13 +26,15 @@ __abandon (oneself) to__ :dart:
 __about to (do something)__  
 __above and beyond__ :dart:  
 __across the pond__  
-__again and again__ _The same groundhog festival is gearing up again and again._  
+__again and again__ :two::hammer: _The same groundhog festival is gearing up again and again._  
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __ages__ _informal_ A very long or extended period of time. _Hi, Mary! It’s been ages since we last saw each other!_  
 __ahead of the curve__  
 __all along__ The entire time.  
+__as if (one’s) life depends on it__  
 __as it happens__  
 __at every turn__  
+__at lengh__  
 __at length__  
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __backbiting__ :dart: The act of saying malicious, nasty, or catty things about someone. _Don’t let her backbiting deter you—she complains about everyone and everything all the time._  
@@ -41,6 +43,7 @@ __be hard put to (do something)__ To be struggling to do or accomplish something
 __be hard put__  
 __be on a mission__  
 __be on course__ :dart: __1__ Literally, to be moving in the correct direction or toward the intended destination. _Could you check the map? I want to be sure we’re still on course._ __2__ By extension, to continue making progress according to the intended or ideal plan. _If sales remain strong, we’ll be on course to have our most successful year to date!_  
+__beg to differ__ :two: To politely disagree with someone else.  
 __behind closed doors__  
 __bend the rules__ To allow something to be done which is technically against the rules or not normally accepted.  
 __blaze a trail__  
@@ -57,6 +60,8 @@ __butt-kicker__
 __by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by all means__  
 __by and by__  
+__by any means__  
+__by his own admission__ “By his own admission” refers to a situation where an individual acknowledges or confesses to something themselves, without being prompted or coerced by others. In other words, it means that the person is taking responsibility for their actions or statements without any external influence.  
 __by no means__ Not in any way; not at all; absolutely not.  
 __call on (someone or something)__  
 __can do without (something)__  
@@ -107,6 +112,7 @@ __deus ex machina__
 __devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
 __dig in (one’) heels__  
 __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
+__dig in(to) (something)__  
 __dingy__  
 __dipshit__  
 __dish out__  
@@ -147,6 +153,7 @@ __fly by__
 __fly in the face of someone or something__  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __fool with (someone or something)__  
+__for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable.  
 __for all intends and purposes__ :two::hammer:  
 __for better or (for) worse__  
 __get ahead of (oneself)__  
@@ -181,6 +188,7 @@ __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exa
 __goofball__  
 __grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
 __grasshopper__ _slang_ Someone who frequently smokes marijuana.  
+__grínd one’s teeth__  
 __guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
@@ -255,6 +263,7 @@ __hold (one’s) breath__
 __hold (one’s) nose__  
 __hold (one’s) tongue__  
 __hold (someone, something, or an animal) back (from someone or something)__  
+__hold (something) in abeyance__  
 __hold a grudge__ :two: (hold grudges) To harbor persistent and continual resentment or ill feelings toward someone, especially for some slight or wrongdoing they have committed in the past. _Johnny has been holding a grudge against me since we were 12 because I embarrassed him in front of a girl he liked._  
 __hold back__  
 __hold court__  
@@ -264,6 +273,7 @@ __hold someone back__
 __Hollyweird__ The term _Hollyweird_ is a play on words, combining the names _Hollywood_ and _weird_, and is often used to describe the American film industry in a negative or satirical manner.  
 __hoo-ha__  
 __hop on the bandwagon__  
+__hope against (all) hope__ (hoping against hope)  
 __hope for the best__  
 __hophead__  
 __hoping agaínst hope__  
@@ -306,8 +316,10 @@ __kickback__
 __kosher__  
 __laff__ _v_ :two: (laffed) An obsolete or dialectal spelling of laugh.  
 __lash out__  
-__left to (one’s) own devices__ Left unsupervised or uncontrolled; allowed to do as one pleases.  
+__left to (one’s) own devices__ :two: Left unsupervised or uncontrolled; allowed to do as one pleases.  
 __like gangbusters__  
+__lo and behold__  
+__lot of give-and-take__  
 __lump in (one’s) throat__  
 __make a fuss__  
 __make inroads (in/into something)__  
@@ -323,8 +335,10 @@ __mind you__
 __mixed bag__ :two::hammer:  
 __mom-and-pop__  
 __more so__  
+__more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
 __more than meets the eye__  
 __mother__ _This mother really works._  
+__move (one) to tears__  
 __move the needle__  
 __Mr. Right__  
 __mud shark__ _US black_ A white man or woman who prefers black partners.  
@@ -363,12 +377,14 @@ __off-the-cuff__ :dart:
 __old soul__ One who has a deeper understanding or appreciation of things than would be expected of their age.  
 __on (one’s) own volition__  
 __on a lark__  
+__on a lighter note__ Used as a means of segueing to some topic of discussion that is less serious or more positive.  
 __on fire__ __3__ Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._  
 __on fleek__ _slang_ A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_  
 __on good terms__  
 __on steroids__  
 __on the bleeding edge__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
+__on the fast track__ On an accelerated path to success or achievement.  
 __on the grapevine__  
 __on the make__  
 __on the nose__ __1__ Precisely accurate; exactly right. _Her predictions about the company’s collapse were right on the nose._  
@@ -418,6 +434,7 @@ __play the field__
 __plead ignorance__ _It was best for me to plead ignorance._  
 __prattle on (about someone or something)__ To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
+__prise open__  
 __pro bono__  
 __punk__ _n_  
 __push up the daisies__  
@@ -468,6 +485,7 @@ __run amok__
 __run down__  
 __run for (one’s) money__  
 __run thin__  
+__run wild__  
 __run-of-the-mill__  
 __same here__ It’s the same with me; I agree; me too. _A: “I don’t want to lose you because of that.” B: “Same here.”_  
 __save (something) for a rainy day__  
@@ -504,6 +522,7 @@ __side hustle__
 __silly me__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__  
+__sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. “Shiva” comes from the Hebrew word שבעה (šib’â), meaning “seven.” _For a week, we sat shivah for her._  
 __sit tight__ To wait patiently without taking any immediate action.  
 __skeletons in the cupboard__  
 __slam (someone or something)__  
@@ -545,6 +564,7 @@ __stand out like a sore thumb__ To be very noticeable in usually a bad way.
 __step back__ __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
 __steppingstone__  
 __strange bedfellows__  
+__swan song__  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
