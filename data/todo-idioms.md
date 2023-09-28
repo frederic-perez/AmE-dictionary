@@ -3,34 +3,6 @@ __(good) heavens__
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
-__(stuck) in a rut__ :two::hammer:  
-__a bad penny__  
-__a balancing act__  
-__a breeze__ :two: Something that is especially easy, effortless, or trifling to accomplish or complete.  
-__a cross to bear__  
-__a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
-__a double take__  
-__a far cry from (something)__  
-__a fine line__  
-__a fool’s errand__  
-__a hard pill to swallow__  
-__a hell of a someone or something__  
-__a hot-button issue__  
-__a necessary evil__  
-__a piece of cake__  
-__a slew of (something)__ :two: A very large number or amount of something; a lot of something. _YouTube unveiled a slew of AI tools for creators._  
-__a sounding board__  
-__a thou__  
-__A-team__  
-__abandon (oneself) to__ :dart:  
-__about to (do something)__  
-__above and beyond__ :dart:  
-__across the pond__  
-__again and again__ :two::hammer: _The same groundhog festival is gearing up again and again._  
-__Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
-__ages__ _informal_ A very long or extended period of time. _Hi, Mary! It’s been ages since we last saw each other!_  
-__ahead of the curve__  
-__all along__ The entire time.  
 __as if (one’s) life depends on it__  
 __as it happens__  
 __at every turn__  

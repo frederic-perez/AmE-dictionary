@@ -51,7 +51,7 @@ __(someone) is endgame__ _slang_ In fandom, the idea that a particular romantic 
 __(something) as a service__  
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(still) going strong__ Continuing to be healthy, successful, or function properly. _Smartphones are designed to become obsolete, but my old flip phone from 2004 is still going strong._  
-__(stuck) in a rut__ Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
+__(stuck) in a rut__ :three: Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __(T)sup?__ _interrog_ /ˈ(t)səp/ What’s up?; What is happening?; What have you been doing? _Hi! Tsup?_  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) man/woman of the hour__ :two: A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
@@ -67,9 +67,9 @@ __800-pound gorilla__ :three: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, ei
 __a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasant, dishonorable, or unwanted tends to appear (or reappear), especially at inopportune times. __2__ Things that are done improperly eventually cause problems.  
-__a bad penny__ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
+__a bad penny__ :two: A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
 __a badge of honor__  
-__a balancing act__ A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
+__a balancing act__ :two: A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
 __a bird’s eye view__  
 __a bit beyond (one’s) ken__ :two::dart: Advanced beyond one’s ability to understand or make sense of the subject matter or task at hand. _The stuff they’re teaching in this advanced math class is a bit beyond my ken._  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome. _This street looks a bit dicey—I think we should walk another way home._  
@@ -79,23 +79,27 @@ __a bit out of it__:two: Feeling somewhat disoriented, phased, or out of touch w
 __a blessing in disguise__ :two: An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
 __a breath of fresh air__  
+__a breeze__ :two: Something that is especially easy, effortless, or trifling to accomplish or complete.  
 __a brick short of a load__  
 __a bridge too far__ _cliché_ An act or plan whose ambition overreaches its capability, resulting in or potentially leading to difficulty or failure. Taken from the 1974 book _A Bridge Too Far_ by Cornelius Ryan, which details the Allies’ disastrous attempts to capture German-controlled bridges in the Netherlands during World War II. _The multi-million-dollar purchase of the small startup proved a bridge too far for the social media company, as the added revenue couldn’t make up for the cost in the end._  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a change is as good as a rest__ A change in one’s work can be as beneficial and revitalizing as taking a break. Primarily heard in US. _I’m hoping that starting on this new career path will help me to find joy in my work again—after all, a change is as good as a rest._  
+__a cross to bear__  
 __a cry for help__  
-__a cut above the rest__ Better in quality than most others. _This new restaurant is a cut above the rest._  
+__a cut above the rest__ :two: Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a cut below__ Of lower quality than or inferior to someone or something else, especially that of the expected norm. _This waiter is really a cut below what I would expect from this restaurant._  
 __a different ball game__  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a disaster waiting to happen__  
+__a double take__  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
 __a falling out__ :two: A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
-__a far cry from (something)__ :two::hammer: [:sound: far cry from]  
+__a far cry from (something)__ :three::hammer: [:sound: far cry from]  
 __a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
-__a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
+__a fine line__ :two: A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
 __a fine state of affairs__ :two: A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm. _Well, this is a fine state of affairs we’re in now. The client doesn’t like the job we’ve done, and they want it fixed in less than a week._  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
+__a fool’s errand__  
 __a fool’s game__  
 __a free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient. _Allow me to give you a free bit of advice, my friend: don’t say something you’ll end up regretting later._  
 __a front-row seat__  
@@ -109,13 +113,15 @@ __a good voice to beg bacon__ Used to mock someone’s voice as being strange, u
 __a great deal__  
 __a great many__ :two: A very large number of (people, things, etc.). _A great many people have joined the protest to voice their concerns over increased taxes._  
 __a ground ball with eyes__  
-__a hard pill to swallow__ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
+__a hard pill to swallow__ :two: Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
 __a head start (on something)__  
 __a heartbeat away__ :four::hammer: _Located a heartbeat away from the Buzz of Broadway._  
+__a hell of a someone or something__  
 __a hell of a time__ A hell of a time is an expression used to describe a difficult or unpleasant task or situation. It can also be used to describe something that is very good or bad, depending on the context.  
 __a hill of beans__ Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ A continuous period of great success, luck, or fortune; a winning streak.  
 __a hot mess__  
+__a hot-button issue__  
 __a joy to behold__ :two: A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a juggling act__ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
 __a kernel of truth__ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
@@ -149,25 +155,28 @@ __a modest proposal__ An extreme, unorthodox, and often provocative or distastef
 __a morning person__ Someone who is more active and alert in the early hours of the morning than later in the day; an early riser. _I tried dating a morning person once, but since I like to sleep in late, it didn’t really work out._  
 __a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _My dad is pretty relaxed about most things, but he can be a bit of a mother hen when it comes to who I hang out with._  
 __a motor mouth__ A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
+__a necessary evil__  
 __a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations. _I never knew how much I would miss being able to have a night out once we had kids._  
 __a numbers game__  
 __a people person__ :two: Someone who is particularly gregarious, affable, or outgoing; someone with great interpersonal communication skills. _The new manager is a real people person, there’s no doubting that; I just hope his management skills are up to snuff as well._  
-__a piece of cake__  
+__a piece of cake__ :two::hammer:  
 __a pipe dream__  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ :two: A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a shot in the arm__  
-__a slew of (something)__ A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._  
+__a slew of (something)__ :three: A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._ _YouTube unveiled a slew of AI tools for creators._  
 __a sly dog__ :two: Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
 __a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
 __a sobering thought__ :two: A thought or idea which is dispiriting, depressing, or traumatic.  
 __a sore loser__ :dart: Someone who complains, becomes upset, or otherwise reacts very negatively when they fail or lose at something competitive. _Don’t be such a sore loser, Jim. I know you pride yourself on your racquetball skills, but I beat you fair and square._  
+__a sounding board__  
 __a spring in (one’s) step__ __1__ A happy, confident, and enthusiastic mood or manner, as indicated by the carefree way one walks. _Joe’s been walking with a spring in his step ever since he found out he was getting a promotion._ __2__ An increased amount of energy or alertness. _Add an extra shot of espresso to my latte. I need something that will put a spring in my step!_  
 __a stab at (someone or something)__  
 __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
 __a stone’s throw__ :two: A very short distance. _The shore house is a stone’s throw from the ocean!_ _Just a stone’s throw from Wrigley Field._  
+__a thou__  
 __a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
 __a walk in the park__  
 __a wee dram__ A small amount of liquor, often whisky. Primarily heard in Scotland. _How about a wee dram of whisky for the road?_  
@@ -178,8 +187,11 @@ __a wild goose never laid a tame egg__ :two: _proverb_ Something will not be spo
 __a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually in the negative.) _I couldn’t get a wink of sleep because of the noise._  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __a-ha moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind. _We’d been working on the problem at the lab for weeks, but the aha moment came to me when I was out gardening!_  
+__A-team__  
+__abandon (oneself) to__ :dart:  
 __abide by__ :three: To conform to; comply with: _abide by the rules._  
-__above and beyond__ :dart::six: Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
+__about to (do something)__  
+__above and beyond__ :dart::seven: Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
 __above board__ :two::hammer:  
 __above the salt__ :two: Of or in a position of high standing, rank, regard, or repute. The term is derived from the social hierarchy of nobility in medieval times, in which salt, a precious commodity then, was set in the middle of the dining table. Those of high noble rank were seated “above the salt,” that is, closer to the lord and lady of the house, while those in lower social standing were seated “below” it. _Even though my boss is above the salt, he still makes a point of mingling with everyone in the company._  
 __absence makes the heart grow fonder__ _proverb_ A separation causes one to feel even more positive about the absent person or thing. _Ever since Carla’s boyfriend moved away, she can’t stop thinking about him. Absence makes the heart grow fonder._  
@@ -196,6 +208,7 @@ __ace in the hole__ :two::hammer:
 __Achilles’ heel__  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
 __across the board__ :two::hammer:  
+__across the pond__  
 __act of Congress__ :two: That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._ _Trying to get my doctor on the phone is like an act of Congress!_  
 __actuary__ _n_ A statistician who computes insurance risks and premiums.  
 __Adam’s ale__ _slang_ Water.  
@@ -211,12 +224,15 @@ __affable personality__ A personality that is friendly, approachable, sociable, 
 __affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
 __affirmative action__  
 __after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
+__again and again__ :two::hammer: _The same groundhog festival is gearing up again and again._  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
+__Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
+__ages__ _informal_ A very long or extended period of time. _Hi, Mary! It’s been ages since we last saw each other!_  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
-__ahead of the curve__ :seven::hammer:  
+__ahead of the curve__ :eight::hammer:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
@@ -227,6 +243,7 @@ __alarm bell__ A sudden warning or intimation of danger, risk, or ill fortune. (
 __alive and kicking__  
 __all (one’s) eggs in one basket__  
 __all aboard__ :two::hammer:  
+__all along__ The entire time.  
 __all around__  
 __all bark and no bite__ :two: Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
 __all downhill from here__  
