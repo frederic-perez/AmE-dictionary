@@ -324,32 +324,6 @@ __gimcrackery__
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
-__haphazard__ _adj_ :three::hammer:  
-__hapless__  
-__harbinger__ _n_ /HAHR-bun-jer/  
-__hard-won__ _adj_ Acquired through effort or in spite of problems.  
-__hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. Also called _hash brown potatoes._  
-__hasty__  
-__hatch__ _v tr_ __3__ To devise or originate, especially in secret: _hatch an assassination plot._ _He hatched a scheme._  
-__hatchery__  
-__haunted killer__ _n_ (game)  
-__haversack__ _n_ A bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
-__hay fever__  
-__hazel__ _adj_ _Gorgeous hazel eyes._  
-__headdress__  
-__headspace__  
-__heady__ _adj_ :two::hammer: _Heady game._  
-__heart-whole__ _adj_ /HART-hohl/ __1__ Unattached: not in love. __2__ Sincere; wholehearted.  
-__heartfelt__ _adj_ :three: Deeply or sincerely felt; earnest.  
-__heartthrob__  
-__hearty__ _adj_  
-__heat pump__ _n_  
-__heckle__ _v tr_  
-__hector__ _v_ :two::hammer: _TikTok keeps hectoring us._  
-__heist__ _v_  
-__helicon__ _n_ A tuba that coils over the shoulder of the musician. _Syn_ bombardon  
-__heliskiing__ _n_  
-__helter-skelter__  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __heretofore__  
