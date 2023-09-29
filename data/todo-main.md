@@ -32,8 +32,10 @@ __allot__ _v tr_ (alloted)
 __anaesthetic__  
 __antelope__ _n_ :pencil2:  
 __arpeggio__ _n_  
+__arraign__ _v tr_  
 __Asperger’s syndrome__  
 __assiduously__ _adv_ :pencil2: With care and persistence.  
+__avert__ _v tr_  
 __backfire__ _v_  
 __backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
 __badinage__  
@@ -108,6 +110,7 @@ __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._
 __chagrin__  
 __cheapskate__ _n_  
 __chemistry__ _n_ __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
+__cherry picker__ _n_  
 __chestnut__ _n_ _He uttered memorable chestnuts._  
 __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
 __china clay__  
@@ -123,10 +126,12 @@ __clarks__ _n_
 __clatter__ _n_  
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __color blind__  
+__commensurate__ _adj_  
 __companion__ _v tr_  
 __conceit__  
 __concomitant__ _v_  
 __confabulation__ _n_  
+__conflate__ _v tr_  
 __confounding__ _adj_ That confounds or contradicts or confuses _Syn_ contradictory  
 __conjoined__ _adj_ _Conjoined meanings._  
 __contain__ _v_ _He could barely contain his saliva._  
@@ -175,6 +180,7 @@ __deluge__ _n_ :two::hammer:
 __demure__ _adj_ /dih-MYOOR/  
 __despondency__ _n_  
 __destitute__ _adj_ :two::hammer: _I am utterly destitute of an ear._  
+__deviled egg__ _n_  
 __dharma__ _n_  
 __diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
 __didgeridoo__ _n_  
@@ -197,6 +203,7 @@ __doozy__
 __dopey__  
 __doppelganger__ _n_  
 __dour__  
+__dovetail__ _v_  
 __dowager__ _n_  
 __down payment__  
 __downplay__ _v tr_  
@@ -214,6 +221,7 @@ __earworm__
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
 __efferent__  
+__efficacy__ _n_ /ˈɛf ɪ kə si/  
 __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
 __egress__  
 __Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
@@ -239,6 +247,7 @@ __entrain__
 __entrainment__ _n_  
 __epilogue__ _n_ :mega: (epilog)  
 __epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
+__escrow__ _n, v_  
 __ex libris__  
 __ex-con__ _n_ _informal_ A former prisoner.  
 __exacerbate__ _v_  
@@ -322,6 +331,7 @@ __giggle<sup>1</sup>__ _n_
 __giggle<sup>2</sup>__ _v_  
 __gimcrackery__  
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
+__grisly__ _adj_  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
@@ -361,6 +371,7 @@ __hypochondriac__
 __ibex__ _n_  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
 __imagery__ _n_ :mega: /ˈɪm ɪdʒ ri, -ɪ dʒə ri/  
+__impasse__ _n_  
 __impeccable__ _adj_  
 __impel__ _v tr_  
 __impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
@@ -394,6 +405,7 @@ __kerf__ _n_
 __kibble__ _n_  
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
 __kiddie__ _n_ _A kiddie soccer game,_  
+__kiddo__  
 __kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __kinship__ _n_ :two::hammer:  
@@ -408,13 +420,15 @@ __lackluster__ _adj_ /LAK-luss-ter/
 __lampoon__ _v tr_ :dart:  
 __landmark__ _adj_ _A landmark study._  
 __lard__ _v_  
+__last-minute__ _adj_  
 __latitude__ _n_ _It gives more latitude._  
 __lawyer__  
 __leaderboard__ _n_  
 __legato__ _n_  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
-__libel__ _n, v_ :two::hammer:  
+__libel<sup>1</sup>__ _n_ :three::hammer: :es: calumnia, difamación  
+__libel<sup>2</sup>__ _v_ :es: difamar  
 __lifeblood__  
 __lifeline__  
 __light-headed__ _adj_  
@@ -656,6 +670,7 @@ __phenotype__ _n_
 __philanderer__ _n_  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
 __phlox__ _n_ :three::hammer:  
+__phobia__ _n_ /ˈfəʊbɪə/  
 __picayune__ _adj, n_  
 __pickax__ _n_ (pickaxe)  
 __picky__  
@@ -770,6 +785,7 @@ __querulous__ _adj_
 __quiddity__ _n_  
 __quiescent__ _adj_ /kwy-ESS-unt/  
 __quiff__ _n_  
+__quintessential__ _adj_ _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
 __quirk__ _n_  
 __quirky__ _adj_  
 __racket__ _n_ __1__ A loud distressing noise.  
@@ -869,7 +885,7 @@ __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.
 __rubricate__ _v tr_ /ROO-bri-kayt/ [:scroll: From Latin rubricare (to color red), from rubrica (rubric, red earth)] __1__ To color or mark with red. __2__ To highlight or decorate. __3__ To provide with a rubric (a guide, rule, commentary, etc.).  
 __ruction__ _n_ A riotous disturbance; a noisy quarrel.  
 __rueful__  
-__ruefully__  
+__ruefully__ _adv_ :two::hammer:  
 __rumble__ _n_  
 __rummy__ _n_  
 __run-in__ _n_ __1__ A quarrel or argument.  
@@ -1071,6 +1087,8 @@ __sternutation__
 __Stetson__  
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
+__stillbirth__ _n_  
+__strain__ _n_  
 __strayed__ _v_ _His thoughts strayed._  
 __strummíng__ _v_ _She was strumming her guitar._  
 __stump__ _n_ :es: muñón  
@@ -1173,6 +1191,7 @@ __tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance,
 __tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
 __torpíd__ _adj_  
 __torticollis__ _n_  
+__town crier__ _n_  
 __toy__ _v_  
 __traboule__ _n_  
 __tradeoff__ _n_ :pencil2:  
