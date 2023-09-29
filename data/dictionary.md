@@ -10003,7 +10003,8 @@ __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is usef
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :eight::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
 __libation__ _n_ :nine::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
-__libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
+__libel<sup>1</sup>__ _n_ :nine::hammer: _Libel laws._ :es: calumnia, difamación  
+__libel<sup>2</sup>__ _v_ :es: difamar  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __liberalization__  
 __liberating__ _adj_ /ˈlɪbəreɪtɪŋ/ Providing freedom from restraint; freeing.  
@@ -10032,9 +10033,9 @@ __lier__ _n_ A person who lies down.
 __life buoy__  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
 __life raft__ _n_ :two: A raft to use if a ship must be abandoned in an emergency.  
-__lifeblood__ _n_ :four: The blood, as being necessary to life.  
+__lifeblood__ _n_ :five: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
-__lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._  
+__lifeline__ _n_ :three::hammer: _China has long been North Korea’s lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _n informal_ :astonished: A prisoner sentenced to life imprisonment. _Craighead is a lifer at Baker Hughes._  
 __lifesaver__ _n_  
@@ -10049,8 +10050,8 @@ __light rail__ _n_ :four::hammer:
 __light switch__ _n_  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ _adj, n, v_ :mute:[li~~gh~~t]  
-__light-headed__ _adj_ :two: (lightheaded) Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._ _I feel light-headed from lack of sleep._  
-__lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
+__light-headed__ _adj_ :three: (lightheaded) Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._ _I feel light-headed from lack of sleep._  
+__lightbulb moment__ _n informal_ :three: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
 __lightheadedness__ _n_  
@@ -10070,13 +10071,15 @@ __lilac__ _n_ :three::hammer:
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
 __lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?_  
-__lilt<sup>1</sup>__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a soft Southern lilt that put me at ease._  
+__lilt<sup>1</sup>__ _n_ :four::hammer: _He talked with the Jamaican lilt._ _She spoke with a soft Southern lilt that put me at ease._ :es: ritmo  
 __lilt<sup>2</sup>__ _v_  
+__lilting__ _adj_  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
 __limbic system__ _n_  
 __limbic__ _adj_ _Limbic system._  
+__limelight__  
 __limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :five::hammer:  
 __liminal__ _adj_ :two: __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
@@ -10111,10 +10114,11 @@ __lionhearted__ _adj_ :two::hammer:
 __lionize__ _v_ :two: To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
+__lip-smacking__ _adj_ (of food or drink) Tasty displaying or expressing enjoyment or pleasure, esp at the taste of food or drink.  
 __lip-worshiper__ _n_  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
 __lipped__ _v_  
-__lippy__ _adj_  
+__lippy__ _adj_ :two: __1__ Speaking or responding in a rude or disrespectful way.  
 __lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
 __liquefaction__ _n_  
 __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._  
@@ -10131,9 +10135,11 @@ __listening session__
 __Listerine__ _n_  
 __listicle__ _n_ :two: /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :five::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._ _Lodging listings._  
-__listless__ _adj_ :two::hammer:  
+__listless__ _adj_ :three::hammer:  
+__listlessly__  
 __listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __lit crit__ _n_ _informal_ Literary criticism.  
+__lit__ _n_ __3__ _informal_ Literature, especially as an academic subject: _enjoyed my course in French lit._  
 __litany__ _n_ :nine::m::mega: /LIT-uh-nee/ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate<sup>1</sup>__ _adj_  
@@ -10147,13 +10153,15 @@ __litmus test__ _n_
 __litter__ _n_ :three::camera::pencil2: __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
+__littoral<sup>1</sup>__ _adj_ :two: /LIT-uhr-uhl/ Relating to or situated at the shore.  
+__littoral<sup>2</sup>__ _n_ :two: A shore, especially the area between high tide and low tide levels.  
 __live wire__  
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
 __livery__ _n_ :three::astonished: (liveries) __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
 __livestock__ _n_  
-__livid__ _adj_ :two::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
+__livid__ _adj_ :three::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
 __living room__ _n_  
 __living space__  
@@ -10169,7 +10177,7 @@ __loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.
 __loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers on the job._  
 __loan__ _n_ :two::hammer: (loans)  
 __loanword__ _n_ :three: A word taken from another language and at least partly naturalized.  
-__loath__ _adj_ Very unwilling to do something.  
+__loath__ _adj_ :two: Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
 __lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wall._  
 __lobbyist__ _n_  
@@ -10300,15 +10308,16 @@ __low-key__ _adj_ :six::hammer: (low key) _A low-key peddler._
 __low-res__ _adj_ _informal_ Low-resolution.  
 __low-slung__ _adj_ _Low-slung school._  
 __low-tech__ _adj_ _I’m a low-tech type._  
+__lowball__ _v_ _To decide whether to lowball or highball an offer._  
 __lowbrow<sup>1</sup>__ _n_ :two: One having uncultivated tastes.  
 __lowbrow<sup>2</sup>__ _adj_ Uncultivated; vulgar.  
-__lowdown__ _n_ _slang_ :seven: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
+__lowdown__ _n_ _slang_ :dart::eight: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
 __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__ _n_ _slang_ :four: __1__ A contemptible person. A criminal or disreputable person. _That guy is a lowlife, always hitting on the waitresses and causing trouble._ __2__ The class of such people considered collectively. _As a private investigator, I’m well-acquainted with our city’s lowlife._  
 __lowlight__ _n_ :two::hammer:  
-__lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
+__lowly__ _adj_ :four::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._ _He was a lowly graduate student._  
 __lozenge__ _n_ :two: Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
 __lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
@@ -10336,7 +10345,7 @@ __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out 
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :five::hammer:  
 __luminaria__ _n_ :two: A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
-__luminary__ _n_ :six: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._ _Hollywood luminaries._  
+__luminary__ _n_ :seven: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._ _Hollywood luminaries._  
 __lummox__ _n informal_ A clumsy or stupid person.  
 __lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
@@ -10356,7 +10365,7 @@ __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amp
 __lupine<sup>1</sup>__ _n_ :two: (lupin) :es: altramuz  
 __lupine<sup>2</sup>__ _adj_ __1__ Characteristic of or resembling a wolf. __2__ Rapacious; ravenous.  
 __lupus__  
-__lurch<sup>1</sup>__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
+__lurch<sup>1</sup>__ _v_ :nine::m: (lurched, lurching) __1__ Walk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
 __lurch<sup>2</sup>__ _n_  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
@@ -10380,14 +10389,14 @@ __luxurious__ _adj_ _Luxurious furs._
 __lycanthropy__ _n_ /lye-KAN-thruh-pee/ Lycanthropy refers to the power or ability to take the shape and characteristics of a wolf through witchcraft or magic. It can also mean “a delusion that one has become a wolf.” _The 1941 film _The Wolf Man_ starred Lon Chaney, Jr., as a man cursed with lycanthropy._  
 __lyceum__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12. _Syn_ secondary school, Gymnasium, lycee, middle school  
 __lye water__  
-__Lyme disease__ _n_ (Lyme arthritis)  
+__Lyme disease__ _n_ :four::hammer: (Lyme arthritis)  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lymphoma__ _n_  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lyrical__ _adj_ /LEER-ih-kul/ Something described as lyrical has an artistically beautiful or expressive quality, often one that is reminiscent of song.  
 __lysimeter__  
-__mac and cheese__ _n_ :three: Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
+__mac and cheese__ _n_ :five: Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
 __macadamize__ _v_ To pave by compacting broken stone, often with asphalt or tar.  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  

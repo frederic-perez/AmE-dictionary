@@ -427,33 +427,6 @@ __leaderboard__ _n_
 __legato__ _n_  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
-__libel<sup>1</sup>__ _n_ :three::hammer: :es: calumnia, difamación  
-__libel<sup>2</sup>__ _v_ :es: difamar  
-__lifeblood__  
-__lifeline__  
-__light-headed__ _adj_  
-__lightbulb moment__ _n informal_ A moment of sudden inspiration, revelation, or recognition.  
-__lilt__ _n_ :two::hammer: :es: ritmo  
-__lilting__ _adj_  
-__limelight__  
-__lip-smacking__ _adj_ (of food or drink) Tasty displaying or expressing enjoyment or pleasure, esp at the taste of food or drink.  
-__lippy__ _adj_ __1__ Speaking or responding in a rude or disrespectful way.  
-__listless__ _adj_  
-__listlessly__  
-__lit__ _n_ __3__ _informal_ Literature, especially as an academic subject: _enjoyed my course in French lit._  
-__littoral__ _adj, n_  
-__littoral<sup>1</sup>__ _adj_ /LIT-uhr-uhl/ Relating to or situated at the shore.  
-__littoral<sup>2</sup>__ _n_ A shore, especially the area between high tide and low tide levels.  
-__livid__ _adj_  
-__loath__  
-__lowball__ _v_ _To decide whether to lowball or highball an offer._  
-__lowdown__  
-__lowly__ _adj_ _He was a lowly graduate student._  
-__ludicrous__ _adj_  
-__luminary__  
-__lurch__ _v_  
-__Lyme disease__ _n_ :three::hammer:  
-__mac and cheese__ _n_ :two::hammer:  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
 __major key__  
