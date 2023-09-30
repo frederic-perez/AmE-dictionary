@@ -232,7 +232,7 @@ __age-old__ Very old or established; related to a time long before one would be 
 __ages__ _informal_ A very long or extended period of time. _Hi, Mary! It’s been ages since we last saw each other!_  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
-__ahead of the curve__ :eight::hammer:  
+__ahead of the curve__ :eight: __1__ Better than average. _I’m not sure how I did on that exam, but I think I’ll end up ahead of the curve._ __2__ At the forefront of or leading in something, such as a developing situation, field of study or business, social development, etc. _The new professor is way ahead of the curve with his research into genetics._  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
@@ -580,9 +580,9 @@ __before I knew it__
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__ :two::hammer:  
 __beg the question__ :six::hammer: _All of this begs the question of Gallego’s own voting record._  
-__beg to differ__ :dart::two: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
+__beg to differ__ :dart::four: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
 __behind bars__  
-__behind closed doors__ :dart::three: In secret, privately.  
+__behind closed doors__ :dart::four: In secret, privately.  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
@@ -595,6 +595,7 @@ __bells and whistles__ :two::hammer:
 __belly up__ :two: __3__ Drunk. _Do you remember last night at the bar at all? You were really belly up!_  
 __bench-warmer__  
 __bend over backward(s)__ :two: To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
+__bend the rules__ To allow something to be done which is technically against the rules or not normally accepted.  
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
@@ -632,6 +633,7 @@ __black magic__
 __black sheep__  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blank canvas__  
+__blaze a trail__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blind date__ A date between two people who have not previously met. _Blind dates are terrifying because you don’t know what the person will be like, but that’s also part of the excitement._  
 __blindside__  
@@ -673,7 +675,7 @@ __boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Do
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __boom__  
-__bop__ _v_  
+__bop__ _v_ :three::hammer: (bopped)  
 __bored to tears__ :three: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
 __born to the purple__ Born in the purple. _Both were born to the purple._  
@@ -740,17 +742,19 @@ __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powe
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
 __buck the trend__  
 __bucket list__ :three::hammer: _That’s one of my bucket list items._  
+__buckle down__ _Buckle down and work harder._  
 __buckle up__ :five::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __build bridges__  
-__build up__  
+__build up__ :two::hammer:  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
 __bull in a china shop__ :two: A clumsy person.  
 __bulletproof__  
 __bullshitter__  
 __bully pulpit__  
+__bum pump__ Buttpump.  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __bump someone or something up__  
@@ -761,20 +765,25 @@ __burn up the road__ To travel very fast. Often used to describe driving. _Have 
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
 __burner account__ A social media account that one uses to post anonymously and avoid having their posts (usually ones that are inappropriate somehow) traced to them. _The 76ers GM resigned after being linked to burner accounts on Twitter that shared private information about several players._  
 __burning desire__  
+__burning question__ An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
 __burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
 __burst (one’s) bubble__  
 __burst at the seams__ :two::hammer:  
 __burst through (something)__  
 __bury (one’s) head in the sand__  
-__bush league__ _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._  
+__bush league__ :two: _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._ _It was a bush league fuck-up._  
 __bust out__ _She clearly has something busting out._  
+__bust up__ _He had a way of saying things that busted us up._  
 __bust__ __6__ _v_ _slang_ To catch or apprehend someone for doing something illegal, illicit, or not allowed. _The police finally busted the guy who had stolen all that money._ _Police have busted an international criminal password marketplace._  
 __buster__ __1__ :dart: A generic term of address for a male. _Listen buster, if you keep starting trouble like this, the police are going to arrest you sooner than later._ __2__ _slang_ A pejorative term for someone regarded as falsely or overly confident and aggressive. _That kid’s a buster, he’s no threat to us._  
 __busy little beaver__ A very busy, assiduous, or hardworking person. Taken from the phrase “busy as a beaver,” referring to beavers’ reputation for being extremely industrious. _Between working two part-time jobs, volunteering on the weekends, and looking after his brother, Sam’s been a busy little beaver this summer._  
+__busy oneself with someone or something__  
 __but for (someone)__ Except for someone; if not for someone. _But for the support of my friends, I never would have survived that difficult time._  
 __but for (something)__ Except for something; if not for something. _That major home repair would have sent me into debt but for my emergency fund._  
+__but still__  
 __butch__ (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
 __butt heads__ __1__ Literally, to knock heads together, as of rams or sheep. _The two male rams fiercely butted heads to establish dominance among the group._ __2__ By extension, to completely disagree or get into a heated confrontation with someone. _Jonathan and Cynthia always butt heads over politics when they’re together._ _I got kicked out of the bar when I started butting heads with that guy._ _Sullivan butted heads with Standards and Practices._  
+__butt-kicker__  
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
 __butterfingers__ A person who frequently drops things, clumsy person.  
 __butterflies in the stomach__  
@@ -782,12 +791,16 @@ __butthead__
 __button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __buy the farm__ To die.  
 __buzz__ :two::hammer: _Buzzed the fuzz._  
-__by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
+__by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by all means__  
+__by and by__  
 __by and large__  
 __by any chance__ :dart::two: Used as a polite emphasis to a request or question. Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_ _Would you by any chance happen to know where the subway is from here?_  
+__by any means__  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
-__by no means__ Not in any way; not at all; absolutely not.  
+__by his own admission__ “By his own admission” refers to a situation where an individual acknowledges or confesses to something themselves, without being prompted or coerced by others. In other words, it means that the person is taking responsibility for their actions or statements without any external influence.  
+__by no means__ :two: Not in any way; not at all; absolutely not.  
 __by the balls__  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__  
@@ -806,7 +819,7 @@ __call down__ __5__ To invoke or request divine intervention. A noun or pronoun 
 __call it a day__ :two::hammer: _If there are no further points, then let’s call it a day._  
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
-__call on (someone or something)__ _He called on me._  
+__call on (someone or something)__ :two::hammer: _He called on me._  
 __call out__ :four::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
 __call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
@@ -818,11 +831,14 @@ __call up__ _He called up a text from his brother, who asked how the run went._
 __call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
+__can do without (something)__  
+__can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
 __can of worms__  
 __can’t be bothered__ :dart::two: Unwilling or disinclined to make the effort necessary to do or accomplish something. (Used in the present and past tenses almost interchangeably.) _I can’t be bothered to clean all those dishes after dinner, so I’ll just leave them in the sink until the morning._  
 __can’t even__ _slang_ Cannot handle (something). A phrase used (usually comically) when one cannot articulate their strong feelings (often of frustration) about something or someone. _I can’t even with this show! How many awesome characters are they going to kill off?_  
 __can’t get a break__  
 __can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
+__can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
 __can’t thank you enough__  
 __canary in a/the coal mine__ :three: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. Refers to the former practice of taking caged canaries into coal mines. The birds would die if methane gas became present and thereby alert miners to the danger. _Wildlife in disaster movies assumes the role of the canary in the coal mine, fleeing the scene when catastrophe is imminent._ _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __cancel out__  
@@ -831,9 +847,10 @@ __cannibalize__ _v_
 __cannon fodder__ :two: Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
 __cap__  
-__capitalize on (something)__ To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
+__capitalize on (something)__ :dart::two: To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
 __Captain Obvious__ :two: A person who makes a statement or statements of such obvious meaning or implication as to be entirely redundant, superfluous, or unnecessary. _Pauline: “The President has said that lower-class families are bearing the brunt of the recession worse than anyone else.” Johnny: “Thank you, Captain Obvious!”_  
 __cards are stacked against someone__ Luck is against someone.  
+__career cushioning__ Career cushioning is an informal term for the practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carp at (one)__ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __carrot and stick__ :two: (carrots and sticks) Reward and punishment.  

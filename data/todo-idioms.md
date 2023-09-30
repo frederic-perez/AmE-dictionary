@@ -15,32 +15,6 @@ __be hard put to (do something)__ To be struggling to do or accomplish something
 __be hard put__  
 __be on a mission__  
 __be on course__ :dart: __1__ Literally, to be moving in the correct direction or toward the intended destination. _Could you check the map? I want to be sure we’re still on course._ __2__ By extension, to continue making progress according to the intended or ideal plan. _If sales remain strong, we’ll be on course to have our most successful year to date!_  
-__beg to differ__ :two: To politely disagree with someone else.  
-__behind closed doors__  
-__bend the rules__ To allow something to be done which is technically against the rules or not normally accepted.  
-__blaze a trail__  
-__bop__ _v_ :two::hammer: (bopped)  
-__buckle down__ _Buckle down and work harder._  
-__build up__  
-__bum pump__ Buttpump.  
-__burning question__ An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
-__bush league__ _It was a bush league fuck-up._  
-__bust up__ _He had a way of saying things that busted us up._  
-__busy oneself with someone or something__  
-__but still__  
-__butt-kicker__  
-__by a mile__ By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
-__by all means__  
-__by and by__  
-__by any means__  
-__by his own admission__ “By his own admission” refers to a situation where an individual acknowledges or confesses to something themselves, without being prompted or coerced by others. In other words, it means that the person is taking responsibility for their actions or statements without any external influence.  
-__by no means__ Not in any way; not at all; absolutely not.  
-__call on (someone or something)__  
-__can do without (something)__  
-__can it!__ (imperative) Stop talking or making noise; be quiet; shut up.  
-__can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
-__capitalize on (something)__ :dart:  
-__career cushioning__ Career cushioning is an informal term for the practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
 __carve out__  
 __case closed__ :two::hammer:  
 __catch (one’s) breath__  
