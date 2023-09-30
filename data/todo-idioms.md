@@ -3,18 +3,25 @@ __(good) heavens__
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
+__ahead of oneself__ :two: Idiomatic expression that refers to being overly confident or optimistic about future events or outcomes, often without considering the potential obstacles or challenges that may arise.  
 __as if (one’s) life depends on it__  
 __as it happens__  
 __at every turn__  
 __at lengh__  
 __at length__  
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
+__AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
 __backbiting__ :dart: The act of saying malicious, nasty, or catty things about someone. _Don’t let her backbiting deter you—she complains about everyone and everything all the time._  
 __backup plan__ A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
 __be hard put to (do something)__ To be struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard put to find a better guy than Bill._  
 __be hard put__  
+__be here to stay__ To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual. _A lot of people see the ubiquity of the Internet as the death of face-to-face communication, but at this point it is very much here to stay._  
 __be on a mission__  
 __be on course__ :dart: __1__ Literally, to be moving in the correct direction or toward the intended destination. _Could you check the map? I want to be sure we’re still on course._ __2__ By extension, to continue making progress according to the intended or ideal plan. _If sales remain strong, we’ll be on course to have our most successful year to date!_  
+__bite the hand that feeds (you)__ To scorn or poorly treat those on whom you depend or derive benefit.  
+__but really__ “But really” is a colloquial phrase commonly used in informal speech and writing. It is often employed to emphasize a point or to express sincerity after a previous statement.  
+__by and large__  
+__by popular demand__ Due to a lot of requests or interest (in something).  
 __carve out__  
 __case closed__ :two::hammer:  
 __catch (one’s) breath__  
@@ -68,6 +75,7 @@ __do nicely__
 __do or die__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dog eat dog__  
+__doggone it__  
 __dolled up to the nines__  
 __doormat__  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
@@ -88,6 +96,7 @@ __fall short__
 __fam__  
 __fan the breeze__  
 __fend off__ __2__ To try to prevent something. A noun or pronoun can be used between “fend” and “off.” _Getting a flu shot will help__hold you to fend off future illness._  
+__figure out__  
 __fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._  
 __first dibs__ _It is something we want first dibs on._  
 __first hand__ Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
@@ -105,6 +114,7 @@ __for better or (for) worse__
 __get ahead of (oneself)__  
 __get bogged down__ To become burdened or impeded (by something). (A bog is an area of wet, muddy land that is difficult to walk through.)  
 __get lucky__  
+__get one’s thinking__  
 __get the better of (someone or something)__  
 __get the hang of (something)__  
 __get to grips with (someone or something)__  
@@ -243,6 +253,8 @@ __in denial__
 __in donkey’s years__ _I haven’t thought about it in donkey’s years._  
 __in due time__ Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
 __in high dudgeon__  
+__in itself__ Without the consideration of anything else. (A shortening of the full phrase “in and of itself.”)  
+__in place__ __2__ _adj_ Ready to be put into action. _I think everything is in place for us to begin the acquisition deal._  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
 __in the doldrums__ _The casino’s profits were in the doldrums._  
@@ -263,7 +275,9 @@ __kosher__
 __laff__ _v_ :two: (laffed) An obsolete or dialectal spelling of laugh.  
 __lash out__  
 __left to (one’s) own devices__ :two: Left unsupervised or uncontrolled; allowed to do as one pleases.  
+__like a broken record__  
 __like gangbusters__  
+__live under a rock__ To be oblivious to or ignorant of something that is very widely known, often related to pop culture.  
 __lo and behold__  
 __lot of give-and-take__  
 __lump in (one’s) throat__  
@@ -337,7 +351,9 @@ __on the nose__ __1__ Precisely accurate; exactly right. _Her predictions about 
 __on the ropes__  
 __on the shelf__  
 __once and for all__  
+__one and done__  
 __one on one__  
+__one way or another__  
 __one-on-one__ :two::hammer:  
 __oodles__ :dart: _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __open to question__  
@@ -355,6 +371,7 @@ __packed to the gills__ :two::hammer:
 __palooka__  
 __palsy-walsy__  
 __pan out__  
+__part ways (with one)__ To separate or depart (from one); to stop associating (with one).  
 __pave the way (for someone or something)__  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pay out__ _It pays out in the long run._  
@@ -436,6 +453,7 @@ __run-of-the-mill__
 __same here__ It’s the same with me; I agree; me too. _A: “I don’t want to lose you because of that.” B: “Same here.”_  
 __save (something) for a rainy day__  
 __save face__  
+__save the day__  
 __saved by the bell__  
 __scads__ :two: _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _Scads of scotch._  
 __scatterbrain__  
@@ -507,9 +525,11 @@ __spot on__
 __spruce up__ :dart:  
 __spunky__  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
+__stand tall__ To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __step back__ __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
 __steppingstone__  
 __strange bedfellows__  
+__strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __swan song__  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
@@ -549,6 +569,7 @@ __the nitty-gritty__
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
+__think highly of (someone or something)__  
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
@@ -571,6 +592,7 @@ __under the guise of (something)__
 __under the hood__  
 __unpack__  
 __until kingdom come__ For a very long, indefinite amount of time; forever.  
+__until next time__  
 __up and running__  
 __up for grabs__  
 __usher in__  
@@ -610,6 +632,7 @@ __wishful thinking__ :es: espejismo, ilusión
 __with great (something) comes great (something else)__  
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
+__word on the street__  
 __work (one’s) tail off__  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
