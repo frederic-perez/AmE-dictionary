@@ -524,33 +524,6 @@ __mound__ _v_ _He was mounding butter pats on his fourth hard roll._
 __mull__ _v_ :two::hammer:  
 __mullet__ _n_  
 __mulligans__  
-__mumps__ _n_ :three::hammer: :es: paperas  
-__muscatel__  
-__muse__ _v_  
-__muttering__ _v_  
-__muumuu__ _n_ A long loose dress that hangs free from the shoulders. A woman’s loose unbelted dress.  
-__muzzled__ _v_  
-__myriad__ _n_ /MEER-ee-ud/  
-__nab__ _v_  
-__napping__ _adj_ Not prepared or vigilant. _The blow caught him napping._  
-__nary__  
-__natter__ _v intr_ :dart::two: To talk idly and at length; chatter or gossip.  
-__necktie__ _n_ :es: corbata  
-__needle__ _v tr_  
-__net__ _v_ (netted)  
-__neuroses__ _n pl_ :three::hammer:  
-__news flash__ _n_ An urgent or immediate item of news, especially an announcement that interrupts regular media programming.  
-__newt__ _n_  
-__nightcap__  
-__nihilism__ _n_  
-__ninja stars__  
-__nit__ _n_  
-__noetic__ _adj_  
-__nonanswer__ _n_  
-__noncommittal__ _adj_ Refusing commitment to a particular opinion or course of action; not revealing what one feels or thinks.  
-__nonplussed__  
-__nosedive<sup>1</sup>__ _n_  
-__nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._  
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  

@@ -11270,7 +11270,7 @@ __mum__ _adj_ Silent. _So far, the White House has been mum._
 __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or partially closing the mouth. _Sam has a tendency to mumble._ __2__ To chew food slowly or ineffectively, as if with the gums.  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __mumbo jumbo__ _n_  
-__mumps__  
+__mumps__ _n_ :four::hammer: :es: paperas  
 __mumpsimus__ _n_  
 __munch__ _v_ :seven:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
@@ -11289,10 +11289,11 @@ __muriatic__
 __murk__ _n_  
 __murky__ _adj_  
 __murse__ _n_ A man’s purse.  
+__muscatel__  
 __muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, “little mouse.”  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
-__muse<sup>2</sup>__ _v_ :six: /MYOOZ/ To muse about something is to think about it carefully and thoroughly. The word can also mean “to become absorbed in thought,” or “to think or say something in a thoughtful way.” _The conversation meandered, as the cousins mused about what had changed and what had remained the same since the last family reunion._ _He mused on his Facebook page about killing his wife._  
+__muse<sup>2</sup>__ _v_ :seven: /MYOOZ/ To muse about something is to think about it carefully and thoroughly. The word can also mean “to become absorbed in thought,” or “to think or say something in a thoughtful way.” _The conversation meandered, as the cousins mused about what had changed and what had remained the same since the last family reunion._ _He mused on his Facebook page about killing his wife._  
 __muselet__ _n_ The wire that holds a champagne cork in place.  
 __museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
@@ -11321,8 +11322,11 @@ __muster__ _v_ :four: (Military) An assembly of military personnel for duty, ins
 __musty__  
 __mutism__ _n_  
 __mutt__ _n_ :five::hammer:  
+__mutter__ _n, v_  
 __muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunder became audible._  
-__muzzle__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
+__muumuu__ _n_ A long loose dress that hangs free from the shoulders. A woman’s loose unbelted dress.  
+__muzzle<sup>1</sup>__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
+__muzzle<sup>2</sup>__ _v_  
 __Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
 __myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
@@ -11335,7 +11339,8 @@ __myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a pers
 __myopia__ _n_ :pencil2::three::hammer: _Syn_ nearsightedness, shortsightedness  
 __myopic__ _adj_ :two::hammer: /mye-OH-pik/ _The corrective eye surgery has been approved for myopic patients._  
 __myositis__ _n_  
-__myriad__ _adj_ :six: Very many.  
+__myriad<sup>1</sup>__ _adj_ :six: Very many.  
+__myriad<sup>2</sup>__ _n_ /MEER-ee-ud/  
 __myrrh__ _n_ :two::pencil2::hammer: :es: mirra  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
@@ -11353,7 +11358,7 @@ __mythological__
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :four::hammer:  
 __naan bread__ _n_  
-__nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
+__nab__ _v_ :seven::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
 __nadir__ _n_ :four: /NAY-deer/ __1__ An extreme state of adversity; the lowest or worst point of anything. _Syn_ low-water mark, rock bottom _The nadir of French fortunes._ _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._ __2__ When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.  
 __naevus__ _n_ (nevus)  
@@ -11378,6 +11383,7 @@ __nana__ _n_ :two::hammer: _Her nana._
 __Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._  
 __nape__ _n_  
 __naphthalene__ _n_ (naphthaline, naphthalin)  
+__napping__ _adj_ Not prepared or vigilant. _The blow caught him napping._  
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __narcissism__ _n_ :two::hammer:  
@@ -11392,7 +11398,7 @@ __narrowcast<sup>1</sup>__ _v_
 __narrowcast<sup>2</sup>__ _n_  
 __narrowly__ _adv_ _I narrowly escaped execution._  
 __narwal__ _n_  
-__nary__ _adj_ :two::hammer: _Nary a chance of rain throughout the tournament._  
+__nary__ _adj_ :three::hammer: _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
 __nascent__ _adj_ :six: /NASS-unt/ Coming or having recently come into existence. Coming into existence; emerging. _Syn_ beginning _The nascent republic had to formulate its laws while continuing its war for independence._ _The nascent market._ _The actress is now focusing on her nascent singing career._  
@@ -11405,7 +11411,7 @@ __native language__ _n_
 __native__ _n_  
 __nativism__ _n_ :two::hammer:  
 __nativity__ _n_ :two::hammer: /nuh-TIV-uh-tee/  
-__natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
+__natter__ _v intr_ :dart::four: (nattering) Talk socially without exchanging too much information. To talk idly and at length; chatter or gossip. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
@@ -11432,13 +11438,14 @@ __necessary evil__
 __necessary__ _adj_ /ˈne-sə-ˌser-ē/ :two::mega:pencil2:  
 __necessitate__ _v_  
 __necklace__ _n_ :two::hammer:  
-__necktie__ _n_  
+__necktie__ _n_ :two::hammer: :es: corbata  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
 __necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
 __necromancy__  
 __necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
 __nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
 __neediness__ _n_ The state of being needy; poverty.  
+__needle__ _v tr_  
 __needlepoint<sup>1</sup>__ _n_ _A needlepoint enthusiast._  
 __needlepoint<sup>2</sup>__ _adj_ _The hand needlepoint Christmas Stockings made for her family._  
 __needless to say,__  
@@ -11480,6 +11487,7 @@ __nesting doll__ _n_
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest. _The tumbler was nestled next to the bottle._  
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __nestlings__ _n_  
+__net__ _v_ (netted)  
 __nether__ _adj_ :two::hammer:  
 __netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
@@ -11491,6 +11499,7 @@ __neural tube__ _n_
 __neurobics__ _n_  
 __neuroblastoma__  
 __neuropeptide__ _n_  
+__neuroses__ _n pl_ :three::hammer:  
 __neurotypical__ _adj, n_  
 __neutered__  
 __neutrinos__ _n_  
@@ -11505,6 +11514,7 @@ __newcomer__ _n_ One who has only recently arrived.
 __newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
 __newly__ _adv_ :two::hammer: _The newly elected leader of the Senate Democrats._  
 __newlywed__ _n_  
+__news flash__ _n_ An urgent or immediate item of news, especially an announcement that interrupts regular media programming.  
 __news media outlets__  
 __news outlet__  
 __news__ _n_ :mega:  
@@ -11515,7 +11525,7 @@ __newspaper rack__
 __newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and online at onlinestore.usatoday.com._  
 __newsworthy__ _adj_ :two: Of sufficient interest to warrant press coverage.  
 __newsy__  
-__newts__ _n_ _A pond teeming with frogs and newts._  
+__newt__ _n_ :two::hammer: _A pond teeming with frogs and newts._  
 __nexus__ _n_  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble on__  
@@ -11542,7 +11552,7 @@ __nigh<sup>3</sup>__ _prep_ Not far from; near.
 __night sweats__ _n_ (nocturnal hyperhidrosis)  
 __night<sup>1</sup>__ _n_ :mute:[ni~~gh~~t]  
 __night<sup>2</sup>__ _adj_ :mute:[ni~~gh~~t]  
-__nightcap__ _n_ :six::hammer: (nightcaps) _Whiskey nightcaps._ _A romantic nightcap._  
+__nightcap__ _n_ :seven::hammer: (nightcaps) _Whiskey nightcaps._ _A romantic nightcap._  
 __nightie__ _n_ :two: A woman’s nightgown.  
 __nightingale__ _n_ :three: [:scroll: Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
 __nightmarish__ _adj_ :three::hammer:  
@@ -11551,17 +11561,19 @@ __nightspot__ _n_ :two: An informal word for nightclub.
 __nightstand__ _n_  
 __nighttime__ _n_ :pencil2:  
 __nigiri__ _n_  
+__nihilism__ _n_  
 __nihilist__ _n_ :two::hammer:  
 __nihilistic__  
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimiety__ _n_ :two::astonished: Superfluity; excess. _Syn_ excess, surplus, surplusage  
 __nimrod__ _n_ :two: __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
+__ninja stars__  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :six::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
 __niqab__ _v_  
-__nit__ _n_ The egg of certain parasitic insects, especially a head louse. _Hair filled with nits._  
+__nit__ _n_ :two: The egg of certain parasitic insects, especially a head louse. _Hair filled with nits._  
 __nit-picking<sup>1</sup>__ _n_ A concern with insignificant details, esp with the intention of finding fault.  
 __nit-picking<sup>2</sup>__ _adj_ Showing such a concern; fussy.  
 __nitch<sup>1</sup>__ _n_ /nich/ A notch or a small cut.  
@@ -11594,7 +11606,7 @@ __nocent__ _adj_ Having a tendency to cause harm.
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
 __nod__ _n_  
 __noddies__ _n_  
-__noetic__ _adj_ Of, relating to, originating in, or apprehended by the intellect.  
+__noetic__ _adj_ :two: Of, relating to, originating in, or apprehended by the intellect.  
 __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
 __noir__ _adj_ _A noir novel._  
 __noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
@@ -11613,13 +11625,14 @@ __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-den
 __non-existent__ _adj_  
 __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-perishables__  
+__nonanswer__ _n_  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
 __nonce__ _n_ :two: The present or particular occasion. _Syn_ time being _Her tendency to discover a touch of sadness had for the nonce disappeared._  
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :nine: /nahn-shuh-LAHNT/ Behaving calmly and not seeming interested in anything or worried about anything. Having an air of easy unconcern or indifference. _The most experienced public speakers are able to address audiences with a nonchalant ease._  
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
-__noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
+__noncommittal__ _adj_ :five: Refusing commitment to a particular opinion or course of action; not revealing what one feels or thinks. Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
 __nondescript__ _adj_ :five::hammer: /non-di-SKRIPT/  
 __nonesuch__ _n_ (nonsuch)  
 __nonetheless__ _adv_ Despite that; however; nevertheless.  
@@ -11632,7 +11645,7 @@ __nonpartisan__ _adj_
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
 __nonplus<sup>1</sup>__ _v_ :three: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffl1, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplus<sup>2</sup>__ _n_  
-__nonplussed__ _adj_ :three::pencil2::hammer: _His celebrations have nonplussed commentators._  
+__nonplussed__ _adj_ :four::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
@@ -11660,6 +11673,8 @@ __nose-thumbing__ _n_ :camera: The placing of thumb to nose in derision or conte
 __nose-to-nose__ _adj_  
 __nosebag__ _n_ A canvas bag that is used to feed an animal (such as a horse). _Syn_ feedbag _The stableboy replaced the horse’s nosebag, which had torn in two places._  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
+__nosedive<sup>1</sup>__ _n_  
+__nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._  
 __nosh<sup>1</sup>__ _v intr_ _informal_ :four: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _v tr_ To snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
