@@ -538,32 +538,6 @@ __nepotism__ _n_ /NEP-uh-tiz-um/
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
-__notwithstanding__ _adv, conj, prep_ :three::hammer:  
-__nullify__ _v_  
-__nunchucks__  
-__oafish__  
-__oblige__ _v_  
-__obliged__ _adj_ :two::hammer: _He happily obliged._ _I’d be obliged to you if you could arrange that._  
-__obligingly__  
-__obsequiously__  
-__odium__ _n_ Strong dislike, contempt, or aversion. _Syn_ abhorrence, detestation, execration, loathing, abomination  
-__off-putting__ _adj_  
-__off-the-cuff__  
-__offhand__ _adj_ :two::hammer:  
-__ominous__ _adj_ _Ominous music._  
-__once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
-__oomph__  
-__operatic__  
-__opprobrium__  
-__orb__ _v_  
-__organized crime__  
-__orotund__ _adj_ /OR-uh-tund/  
-__outage__ _n_  
-__outgrow__ _v_  
-__outlay__  
-__outpace__ _v tr_  
-__outpouring__ _n_  
-__outsmart__ _v tr_  
 __outstrip__ _v tr_  
 __outvouch__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  

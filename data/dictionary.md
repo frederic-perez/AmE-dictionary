@@ -11694,7 +11694,7 @@ __noticeboard__ _n_
 __notorious__ _adj_ :two: /noh-TOR-ee-us/ Notorious describes people and things that are famously known, especially for something unfavorable. _They live in a region that’s notorious for its severe winters._  
 __notoriously__ _adv_ :two::hammer:  
 __Notre Dame__ _n_ Our Lady (the Virgin Mary).  
-__notwithstanding__ _adv, conj, prep_ :eight::hammer:  
+__notwithstanding__ _adv, conj, prep_ :nine::m::hammer:  
 __nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
 __noun__ _n_  
 __nouny__ _adj_  
@@ -11724,7 +11724,7 @@ __nugatory__ _adj_ :two: /NOO-guh-tor-ee/ __1__ Of little or no importance; trif
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
-__nullify__ _v_ :five: (nullified) Declare invalid. _Syn_ annul, invalidate, void, quash, avoid _He used his broad executive powers to nullify decisions by local government._  
+__nullify__ _v_ :six: (nullified) Declare invalid. _Syn_ annul, invalidate, void, quash, avoid _He used his broad executive powers to nullify decisions by local government._  
 __numb<sup>1</sup>__ _adj_ :four::mute:[num~~b~~]:hammer:  
 __numb<sup>2</sup>__ _v_  
 __number<sup>1</sup>__ _n_ __6__ An indefinite quantity of units or individuals. _A number of people complained._ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
@@ -11736,7 +11736,7 @@ __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers
 __numinous__ _adj_ _The tourists were overcome by the numinous atmosphere of the catacombs._  
 __numismatist__ _n_ A collector and student of money (and coins in particular). _Syn_ coin collector  
 __nummary__ _adj_ Of or relating to coins.  
-__nunchucks__  
+__nunchucks__ _n_ :two::hammer:  
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v tr_ :three::hammer:  
 __nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing._  
@@ -11758,7 +11758,7 @@ __nuzzled__ _v_
 __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
 __Nymphean__ _adj_ _Nymphean theater._  
 __oaf__ _n_ :four: (oafs) __1__ A stupid person. _Syn_ boob __2__ A big clumsy slow-witted person. _Syn_ goon, lout  
-__oafish__ _adj_ :two::hammer:  
+__oafish__ _adj_ :three::hammer:  
 __Oakley__ _n_ A complimentary ticket or pass. Also known as an Annie Oakley. After the sharpshooter Annie Oakley (1860-1926) who was renowned for her skill, from association of the punched ticket with one of her bullet-riddled targets.  
 __oar__ _n_ :three::hammer: (oars)  
 __oases__ _n_  
@@ -11782,6 +11782,8 @@ __oblate__ _n_
 __oblation__ _n_  
 __obligation__  
 __oblige__ _v_ :nine::m: /uh-BLYJE/ (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. To force or require someone to do something. _Syn_ compel _The law obliges the government to make this information public._ _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. To do a favor for someone. _Syn_ indulge, gratify _They needed help organizing the event, and I was happy to oblige._ _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I’ll be much obliged._ __4__ To do something as a favor, or as though it is a favor.  
+__obliged__ _adj_ :two::hammer: _He happily obliged._ _I’d be obliged to you if you could arrange that._  
+__obligingly__  
 __obliterate__ _v_ :two::hammer: /uh-BLIT-uh-rayt/  
 __obliteration__ _n_  
 __oblivion__ _n_ :three: /uh-BLIV-ee-un/ Oblivion can refer to the state of something that is not remembered, used, or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.  
@@ -11792,6 +11794,7 @@ __obnubilate__ _v_
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
 __obsequious__ _adj_ :four: Characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating.  
+__obsequiously__  
 __obsidian__  
 __obstinate__ _adj_ :two::hammer: /AHB-stuh-nut/  
 __obstreperous__ _adj_ :six: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
@@ -11829,7 +11832,7 @@ __oddsmakers__
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
 __odeum__ _n_  
 __odious__ _adj_ :three: /OH-dee-us/ Arousing or meriting strong dislike, aversion, or intense displeasure. _Syn_ abominable, detestable, execrable _Pray do not talk of that odious man._  
-__odium__ _n_  
+__odium__ _n_ :two: Strong dislike, contempt, or aversion. _Syn_ abhorrence, detestation, execration, loathing, abomination  
 __odometer__ _n_ :two::hammer:  
 __odontalgia__ _n_ /oh-don-TAL-juh -jee-uh/ [:scroll::astonished: From Greek odont- (tooth) + -algia (pain).] Toothache.  
 __odyssey__ _n_ :pencil2:  
@@ -11844,10 +11847,10 @@ __off-guard__ _adj_ Not prepared or vigilant.
 __off-hand__ _adv_  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
 __off-price stores__  
-__off-putting__ _adj_ :two::hammer:  
+__off-putting__ _adj_ :three::hammer:  
 __off-street__ _adj_ Located away from a street. _Off-street parking._  
 __off-the-clock__ _adv_ Overtime without extra compensation. _She often has to work off-the-clock._  
-__off-the-cuff__ _adj_ :two::hammer: _It was just an off-the-cuff remark._  
+__off-the-cuff__ _adj_ :three::hammer: _It was just an off-the-cuff remark._  
 __off-the-shelf__ _adj_ :three::hammer:  
 __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._  
 __off<sup>2</sup>__ _adj_  
@@ -11855,6 +11858,7 @@ __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
 __offal__ _n_ :two: __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_ _slang_ :five: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
+__offhand__ _adj_ :two::hammer:  
 __offhandedly__ _adj_  
 __officer__ _n_ :two::hammer:  
 __officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tends to offer unwanted advice in a way that annoys the advice recipients. It is a synonym of meddlesome. _After the boss told his workers what to do, his officious assistant stepped in to micromanage._  
@@ -11907,7 +11911,7 @@ __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, 
 __omelet__ _n_ :two::hammer::mega: (omelette)  
 __omen__ _n_ :six::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
-__ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
+__ominous__ _adj_ :nine::m: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
@@ -11942,6 +11946,7 @@ __onboard<sup>3</sup>__ _prep_
 __onboard<sup>4</sup>__ _v_  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
 __once in a while__  
+__once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
 __once-over__  
 __oncoming__ _adj_ _The oncoming winter’s patterns._  
 __one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
@@ -11968,7 +11973,7 @@ __Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid wh
 __oofs__  
 __ooftish__ _n_ /OOF-tish/ Money or cash.  
 __oompah__ _n_ :three: A rhythmic sound made by a tuba or other brass instrument. _Oompah bands._ _The house oompah band._  
-__oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
+__oomph__ _n_ :four: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :eight::mega: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __opalesce__ _v intr_ To exhibit a milky iridescence.  
@@ -11982,6 +11987,7 @@ __open-label trial__ _n_
 __open-wheel car__ _n_ :three::camera::hammer:  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __opening hours__  
+__operatic__  
 __operating system__  
 __operetta__ _n_ :pencil2:  
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
@@ -11996,7 +12002,7 @@ __opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/
 __opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
 __opprobrious__ _adj_ Expressing contemptuous reproach; bringing disgrace. _Syn_ abusive, scornful, shameful, ignominious _His opprobrious conduct during an assembly earned him a series of Saturday detentions._  
-__opprobrium__ _n_ :two: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
+__opprobrium__ _n_ :three: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opt__ _v_  
@@ -12009,7 +12015,8 @@ __optometry__ _n_
 __opulent__ _adj_ :two::hammer:  
 __oracular__ _adj_ /aw-RAK-yuh-ler/  
 __Orange Julius__  
-__orb__ _n_ :two::hammer:  
+__orb<sup>1</sup>__ _n_ :two::hammer:  
+__orb<sup>2</sup>__ _v_  
 __orbiting__ _n_ _slang_ When someone who won’t speak to you otherwise still watches every snap on your story/IG and/or likes your posts. Usually someone who has ghosted you, but not always. Basically they’re lingering in your life despite refusing to be an active part in it in any other capacity.  
 __orchestrate__ _v_ :two::hammer:  
 __orchestration__ _n_  
@@ -12027,6 +12034,7 @@ __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral
 __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
 __Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/  
 __organization__ _n_ :mega:  
+__organized crime__  
 __orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
 __originally__ _adv_ :dart:  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
@@ -12038,6 +12046,7 @@ __ornery__ _adj_ :three::hammer:
 __orofacial__ _adj_ Relating to the mouth and face.  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ :two: /o-ROG-ruh-fee/ [:dart: From Latin oro- (mountain) + -graphy (writing, study)] The study of the physical geography of mountains and mountain ranges.  
+__orotund__ _adj_ /OR-uh-tund/  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orphic__ _adj_ Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding. _Syn_ occult, mysterious, mystical, secret _The orphic symbols on the tome could only be deciphered by the blind wizard._  
@@ -12079,7 +12088,7 @@ __out of the blue__
 __out of the woods__  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
 __out-of-the-box__  
-__outage__ _n_ :three::hammer: _Power outages._  
+__outage__ _n_ :four::hammer: _Power outages._  
 __outback__  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
@@ -12104,7 +12113,7 @@ __outfly__ _v_ :two: To fly better or faster than someone or something.
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__ _adj_ :two::hammer:  
-__outgrow__ _v_ :two: To grow bigger than or too big for something.  
+__outgrow__ _v_ :three: To grow bigger than or too big for something.  
 __outgrowth__ _n_ :two::hammer:  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
@@ -12113,14 +12122,14 @@ __outlander__ _n_ :two: A person from a foreign country; a foreigner. _Syn_ alie
 __outlandish__ _adj_ :nine::m: /out-LAN-dish/ Looking or sounding bizarre or unfamiliar. _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards. _Silva’s outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlaw__ _n_  
-__outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
+__outlay__ _n_ :three: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
 __outline<sup>1</sup>__ _n_  
 __outline<sup>2</sup>__ _v tr_  
 __outlook__ _n_ :six::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
-__outpace__ _v_ :four::hammer: (outpacing) _Airbus outpaces Boeing yet again._  
+__outpace__ _v tr_ :five::hammer: (outpacing) _Airbus outpaces Boeing yet again._  
 __outpatient clinic__ _n_  
 __outpatient__ _n_ :three::hammer:  
 __outperform__ _v tr_ :five::hammer:  
@@ -12128,6 +12137,7 @@ __outplay__ _v_ :two::hammer: (outplayed)
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__ _n_ :three::hammer:  
 __outpour__ _v_ :two::hammer: (outpouring)  
+__outpouring__ _n_  
 __outrace__ _v_ _Her expenditures continued to outrace his gifts._  
 __outrage<sup>1</sup>__ _n_ /ˈaʊt reɪdʒ/  
 __outrage<sup>2</sup>__ _v_  
@@ -12146,7 +12156,7 @@ __outshit__ _v_
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
 __outsize<sup>1</sup>__ _adj_ :two::hammer: _An outsize risk._  
 __outsize<sup>2</sup>__ _n_  
-__outsmart__ _v_ :three::hammer:  
+__outsmart__ _v tr_ :four::hammer:  
 __outsole__ _n_ The outer sole of a shoe or boot.  
 __outsourcing__  
 __outspend__ _v_  
