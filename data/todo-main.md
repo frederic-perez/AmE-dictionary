@@ -33,6 +33,7 @@ __amaranth__ _n_ __2__ An imaginary flower that never fades.
 __anaesthetic__  
 __annulus__ _n_ A toroidal shape. _Syn_ doughnut, anchor ring, halo, ring  
 __antelope__ _n_ :pencil2:  
+__apoplectic__ _adj_  
 __arpeggio__ _n_  
 __arraign__ _v tr_  
 __Asperger’s syndrome__  
@@ -41,6 +42,7 @@ __avert__ _v tr_
 __backfire__ _v_  
 __backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
 __badinage__  
+__balefully__  
 __balk__ _v_  
 __Balkanize__ _v tr_  
 __bamboozle__ _v_  
@@ -50,6 +52,7 @@ __bar__ _n_ _A few bars of music._
 __bard__  
 __bardic__  
 __baton__ _n_ :es: batuta  
+__behest__ _n_ :two::hammer:  
 __belie__ _v_  
 __belied__ _v_  
 __bellwether__ _n_ /BEL-WEH-ther/  
@@ -57,10 +60,13 @@ __beseech__
 __bevy__ _n_  
 __bidding__ _n_  
 __bikini__ _n_  
+__bikinied__ _adj_  
 __bilious__ _adj_  
 __bilk__ _v_ :dart:  
 __birdsong__  
+__Black Dahlia__  
 __black tie__ _n_ (vs _white tie_)  
+__blight__ _n_ _Mobile home parks have long been associated with crime and blight._  
 __bluff__ _v_  
 __bodhi tree__  
 __boilerplate__ _n_ :two::hammer:  
@@ -72,6 +78,7 @@ __borscht belt__
 __Botox__ _n_  
 __boulevardier__ _n_  
 __bounce castle__ _n_  
+__bounty hunter__  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __bracken__ _n_  
 __braying__ _v_  
@@ -106,7 +113,8 @@ __catnip__ _n_ :es: hierba gatera
 __catwalk__ _n_  
 __caustic__ _adj_ /KAWSS-tik/  
 __cave__ _v_  
-__celebutante__  
+__cavort__ _v intr_  
+__celebutante__ _n_ A celebrity who is well known in fashionable society; a blend of celebrity and debutante.  
 __cerulean__ _adj_ /suh-ROO-lee-uhn/ Sky blue.  
 __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
 __chagrin__  
@@ -151,6 +159,7 @@ __convene__ _v_
 __conversant__  
 __convey__ _v tr_  
 __cookout__ _n_  
+__cooze__ _n_  
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
@@ -160,6 +169,7 @@ __creep__
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
 __crook__  
+__cross talk__ _n_ Interference heard on a telephone or radio because of unintentional coupling to another communication channel.  
 __crumple__  
 __crumpled__ _adj_ _A crumpled newspaper copy._  
 __cuckolded__  
@@ -173,6 +183,7 @@ __darting__ _v_
 __daunting__ _adj_  
 __davening__  
 __deadened__  
+__debonair__  
 __debonnaire__ _adj_  
 __decamp__  
 __decommission__ _v_  
@@ -183,6 +194,7 @@ __defuse__ _v_ :two::hammer:
 __deliverance__  
 __deluge__ _n_ :two::hammer:  
 __demure__ _adj_ /dih-MYOOR/  
+__denizen__ _n_ /ˈdɛnɪzən/  
 __despondency__ _n_  
 __destitute__ _adj_ :two::hammer: _I am utterly destitute of an ear._  
 __deviled egg__ _n_  
@@ -245,7 +257,7 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
-__ensconce__ _v_  
+__ensconce__ _v_ :two::hammer:  
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
@@ -298,6 +310,7 @@ __feverish__ _adj_ _Feverish fantasies._
 __fiasco__  
 __fib<sup>1</sup>__ _n_  
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
+__fictitious__  
 __fictive__ _adj_  
 __fiefdoms__ _n_  
 __filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
@@ -306,11 +319,13 @@ __finicky__ _adj_
 __fire hose__ _n_  
 __firebrand__  
 __firefly__ _n_ :es: luciérnaga  
+__fishwife__ _n_ __2__ fA person, traditionally a woman, who persistently nags or criticizes. _Syn_ fury, harpy, scold, shrew, termagant, virago, vixen  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __fitfully__ _adv_ _He slept fitfully on the king-sized bed._  
 __flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
 __flapping__ _n_ _Syn_ fluttering, flap, flutter  
 __flat__ _adv_  
+__fling__ _n_ __4__ A brief, casual sexual or romantic relationship.  
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
@@ -320,9 +335,14 @@ __flustered__ _adj_ :dart: In a state of confusion or agitation.
 __flybys__ _n_  
 __flywheel__ _n_  
 __fob__ _n_ :dart: _A key fob._  
+__foldout__ _n_ An oversize page that is folded in to a book or magazine.  
 __for__ _prep_ _A meeting of the four offices was called for June in Washington._  
 __forcible__  
+__frazzle__ _v_  
+__frisson__ _n_ A French word meaning a shiver, used to mean a thrill or sensation of excitement or fear.  
 __fuel__ _v_  
+__fulsome__ _adj_  
+__furlough__  
 __futile__ _adj_ :two::hammer::mega: /ˈfyut l, ˈfyu taɪl/  
 __gabardine__ _n_  
 __garbled__  
@@ -332,16 +352,19 @@ __gauntlet__ _n_ /GAWNT-lut/
 __gazelle__ _n_  
 __gelded__ _v_  
 __genial__ _adj_  
+__gestalt__ _n_  
 __giant salamander__ _n_  
 __giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
 __gimcrackery__  
+__gobble__ _v_ _Do you savor or gobble?_  
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
+__hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1400s.  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __heretofore__  
@@ -436,7 +459,9 @@ __legato__ _n_
 __lentigo__ _n_ A small, flat, pigmented spot on the skin. _Syn_ freckle  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
+__limerence__ _n_ /ˈlɪmɪrəns/ A state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one’s feelings reciprocated, etc.  
 __lionize__ _v_ /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance.  
+__lissome__ _adj_  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
 __major key__  
@@ -479,6 +504,7 @@ __menagerie__ _n_ :astonished:
 __menorah__ _n_  
 __mensch__  
 __mercury__ _n_ :mega:  
+__merriment__  
 __meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
 __meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
 __mesmerize__ _v_ /MEZ-muh-ryze/  
@@ -538,6 +564,8 @@ __nepotism__ _n_ /NEP-uh-tiz-um/
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
+__outgrow__  
+__outlandish__  
 __outstrip__ _v tr_  
 __outvouch__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
@@ -572,6 +600,7 @@ __parasympathetic__
 __parcel__ _v tr_  
 __pariah__  
 __parlance__ _n_  
+__parlay__  
 __parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
 __parochial__ _adj_ :two: Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
@@ -605,6 +634,7 @@ __phlox__ _n_ :three::hammer:
 __phobia__ _n_ /ˈfəʊbɪə/  
 __picayune__ _adj, n_  
 __pickax__ _n_ (pickaxe)  
+__picket line__ _n_  
 __picky__  
 __pig Latin__  
 __piggybacker__ _n_  
@@ -627,7 +657,7 @@ __plank__ _n_ __4__ Planks are exercises for strengthening your stomach and back
 __plaster__ _v_  
 __play-off__ _n_ :pencil2:  
 __plinking__  
-__plodded__  
+__plod__ _v_ :two::hammer:  
 __plonked__ _v_  
 __plundered__ _v_  
 __plushy__ _adj_  
@@ -654,6 +684,7 @@ __portentous__ _adj_
 __posit__ _v_ :two::hammer:  
 __posit<sup>1</sup>__ _v tr_  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
+__post-war groove__  
 __postulate__ _v_  
 __potter__ _v_  
 __pounce__ _v_  
@@ -668,10 +699,11 @@ __preposterousness__
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
 __presentiment__ _n_ A sense that something is about to occur; a premonition. _Syn_ boding, foreboding, premonition  
-__priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
+__priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __pricked__ _v_ _Pricked by a needle._  
 __prim__ _adj_ _Prim respect._  
 __prime__ _v_ :two::hammer:  
+__prissy__ _adj_ :astonished:  
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
@@ -710,9 +742,12 @@ __purported__
 __purportedly__  
 __purview__ _n_  
 __pushover__ _n_ :dart::two::hammer:  
+__pyrrhic__  
+__quaff__ _v_ _We quaffed Old Crow._  
 __quagmire__ _n_  
 __quale__ _n_ (qualia _n pl_)  
 __qualm__ _n_  
+__quash__ _v tr_ :two::hammer:  
 __quaver__ _n_  
 __querulous__ _adj_  
 __quiddity__ _n_  
@@ -781,6 +816,7 @@ __relent__ _v intr_
 __remembrance__  
 __remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
+__reprieve__ _v_  
 __repudiation__ _n_  
 __resonate__ _v_  
 __responsibility__ _n_ :two::hammer:  
@@ -898,6 +934,7 @@ __shed__ _v_ _The lawyers shed their vests and loosened their neckties._
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shift__ _v_ _It’s all about confronting obvious-but-often-overlooked truths until something in you shifts._  
 __shimmer__ _v_  
+__shimmy__ _v_ (shimmiesl)  
 __shirk__ _v_ :dart: _He shirked the tasks._  
 __shoo away__  
 __shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
@@ -912,6 +949,7 @@ __shucking__
 __shudder__ _v intr_  
 __sibilant__ _adj_ _Every _s_ is sibilant._  
 __side-splitting__ _adj_  
+__signet ring__ _n_  
 __simile__ _n_  
 __simpatico__  
 __simulacrum__  
@@ -1003,6 +1041,7 @@ __squirm__ _v_
 __staggering__ _adj_  
 __staid__ _n_  
 __stakeholder__  
+__stale__ _adj_  
 __stamina__  
 __stamping__  
 __stance__ _n_  
@@ -1035,6 +1074,7 @@ __subterfuge__ _n_ Something intended to misrepresent the true nature of an acti
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
+__Suntory__ _n_  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __surmise<sup>1</sup>__ _n_  
@@ -1151,7 +1191,7 @@ __trite__ _adj_
 __troika__  
 __troubleshooter__ _n_  
 __truculent__ _adj_  
-__trudge__ _v_  
+__trudge__ _v_ :two::hammer:  
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tuning fork__  
 __tureen__ _n_ :es: sopera _Soup tureens._  
@@ -1214,8 +1254,10 @@ __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, esta
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
 __vaunted__ _adj_ Praised more than deserved.  
 __veneer__  
+__ventilatory threshold__ _n_ The point of the workout where it becomes difficult to carry on a conversation.  
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __verdict__  
+__verismo__  
 __vicinity__ _n_  
 __vicissitude__ _n_ :pencil2:  
 __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
@@ -1251,7 +1293,7 @@ __windowsill__ _n_ :two::hammer:
 __winsome__  
 __withholding__  
 __withstand__ _v_  
-__woke__ _adj_  
+__woke__ _adj_ :two: _slang_ Aware of the injustice of the social system in which one lives.  
 __womenfolk__  
 __wondrously__  
 __wont__ _n_  
