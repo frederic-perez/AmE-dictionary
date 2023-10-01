@@ -29,7 +29,9 @@ __all caps__
 __allay__ _v_  
 __allegedly__  
 __allot__ _v tr_ (alloted)  
+__amaranth__ _n_ __2__ An imaginary flower that never fades.  
 __anaesthetic__  
+__annulus__ _n_ A toroidal shape. _Syn_ doughnut, anchor ring, halo, ring  
 __antelope__ _n_ :pencil2:  
 __arpeggio__ _n_  
 __arraign__ _v tr_  
@@ -116,6 +118,7 @@ __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of
 __china clay__  
 __chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
 __chorea__ _n_  
+__christen__ _v tr_ :mega: /KRI-suhn/ /ˈkrɪsən/ __1__ To name someone or something. __2__ To use something for the first time. __3__ To initiate a person, especially a child, into the Christian church, by baptizing and giving a name.  
 __chump__  
 __churlish__ _adj_ /CHUR-lish/ Churlish is a formal word that means “irritable and rude.”  
 __Chutes and Ladders__ _n_  
@@ -124,10 +127,12 @@ __clanging__
 __clangor__ _n, v_  
 __clarks__ _n_  
 __clatter__ _n_  
+__coax__ _v_ /KOHKS/ /kəʊks/ /kōks/  
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __color blind__  
 __commensurate__ _adj_  
 __companion__ _v tr_  
+__compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __conceit__  
 __concomitant__ _v_  
 __confabulation__ _n_  
@@ -220,6 +225,7 @@ __earwig__
 __earworm__  
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
+__echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary speech and writing as a synonym of authentic, genuine, and true.  
 __efferent__  
 __efficacy__ _n_ /ˈɛf ɪ kə si/  
 __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
@@ -285,6 +291,7 @@ __faze__ _v_
 __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __felon__  
+__fervid__ _adj_ /FER-vid/ _Fervid_ is a somewhat formal word describing people or things that express, or are expressive of, strong feelings.  
 __festinate__ _v_  
 __fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __feverish__ _adj_ _Feverish fantasies._  
@@ -332,6 +339,7 @@ __giggle<sup>2</sup>__ _v_
 __gimcrackery__  
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __grisly__ _adj_  
+__grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
@@ -425,8 +433,10 @@ __latitude__ _n_ _It gives more latitude._
 __lawyer__  
 __leaderboard__ _n_  
 __legato__ _n_  
+__lentigo__ _n_ A small, flat, pigmented spot on the skin. _Syn_ freckle  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
+__lionize__ _v_ /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance.  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
 __major key__  
@@ -524,6 +534,7 @@ __mound__ _v_ _He was mounding butter pats on his fourth hard roll._
 __mull__ _v_ :two::hammer:  
 __mullet__ _n_  
 __mulligans__  
+__nepotism__ _n_ /NEP-uh-tiz-um/  
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
@@ -574,6 +585,7 @@ __pageant__
 __palaver__ _n_  
 __palliative care__ _n_  
 __palliative__ _adj_ :pencil2:  
+__palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
 __panacea__ _n_ :two::hammer:  
 __pander__ _v_ :two::hammer:  
@@ -681,6 +693,7 @@ __preposterous__
 __preposterousness__  
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
+__presentiment__ _n_ A sense that something is about to occur; a premonition. _Syn_ boding, foreboding, premonition  
 __priapic__ _adj_ __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __pricked__ _v_ _Pricked by a needle._  
 __prim__ _adj_ _Prim respect._  
@@ -730,10 +743,12 @@ __quaver__ _n_
 __querulous__ _adj_  
 __quiddity__ _n_  
 __quiescent__ _adj_ /kwy-ESS-unt/  
+__quietude__ _n_ A state of peace and quiet. _Syn_ tranquility, quietness  
 __quiff__ _n_  
 __quintessential__ _adj_ _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
 __quirk__ _n_  
 __quirky__ _adj_  
+__quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_  
 __ragamuffin__ _n_ A shabbily clothed, dirty child. _Syn_ tatterdemalion  
@@ -785,6 +800,7 @@ __reenact__ _v_
 __reenactment__ _n_  
 __refrain<sup>1</sup>__ _v intr_ _Lorna refrained from comment._  
 __refrain<sup>2</sup>__ _n_  
+__regalia__ _n_ Magnificent attire; finery. _Syn_ raiment, array  
 __regency__ _n_  
 __regimen__ _n_ /REJ-uh-mun/ _Regimen_ refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy.  
 __relent__ _v intr_  
@@ -841,7 +857,7 @@ __running account__ _n_ Current account.
 __runoff__ _n_  
 __Runyonesque__ _adj_ _Runyonesque chitchat._  
 __ruse__ _n_ :two::mega::hammer: /ruz/  
-__russet__  
+__russet__ _adj_ :two: Moderate to strong brown.  
 __safeguard__ _n_  
 __salacious__ _adj_ :two:hammer:  
 __salacities__ _n_  
@@ -969,10 +985,12 @@ __snicker__ _v intr_
 __soapbox__ _n_  
 __sobering__ _adj_  
 __sociopath__  
+__Sodom__ _n_ /SAHD/SOD-uhm/ (sodom) A place considered to be full of wickedness and sin.  
 __soft hat__ _n_ :camera:  
 __soft-pedal__ _v tr_  
 __sojourn__  
 __sole__ _n_ Lean flesh of any of several flatfish.  
+__solecism__ _n_ A socially awkward or tactless act. _Syn_ faux pas, gaffe, slip, gaucherie  
 __soliloquy__  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __soon enough__ _adv_ :two: Without being tardy. _Syn_ in time  
@@ -1140,6 +1158,7 @@ __torticollis__ _n_
 __town crier__ _n_  
 __toy__ _v_  
 __traboule__ _n_  
+__tractable__ _adj_ Easily managed or controlled; governable. _Syn_ manipulable  
 __tradeoff__ _n_ :pencil2:  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
