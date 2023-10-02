@@ -606,32 +606,6 @@ __parochial__ _adj_ :two: Narrowly restricted in scope or outlook. _Syn_ insular
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parry__ _v_  
 __parsimony__  
-__parsnip__ _n_ :three::hammer: :es: chirivía  
-__patron__ _n_ :three::hammer: /ˈpeɪtrən/ :es: cliente; patrocinador; mecenas  
-__pea-brain__ _n informal_ A foolish or unintelligent person.  
-__pedicab__ _n_  
-__peeps__ _n pl_ _slang_ Associates; friends. People.  
-__peewee__ _n_  
-__Pentecostal__  
-__penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
-__pepper-spray__  
-__perficient__ _adj_ /puhr-FISH-uhnt/ Accomplishing or achieving desired results; effective.  
-__peripatetic__ _adj, n_ :two::hammer:  
-__periwinkle__  
-__perk__ _v_ _The scam perked on a back burner._  
-__perpetrator__ _n_  
-__perquisite__ _n_ /PER-kwuh-zut/  
-__persona__ _n_  
-__perusal__  
-__petard__  
-__petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
-__petrous__  
-__phantasmagoric__  
-__phenotype__ _n_  
-__philanderer__ _n_  
-__philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
-__phlox__ _n_ :three::hammer:  
-__phobia__ _n_ /ˈfəʊbɪə/  
 __picayune__ _adj, n_  
 __pickax__ _n_ (pickaxe)  
 __picket line__ _n_  

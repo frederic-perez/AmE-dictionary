@@ -12456,7 +12456,7 @@ __parsec__ _n_ [:scroll: C20: from parallax + second]
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
 __parsley__ _n_ :two::hammer: :es: perejil  
-__parsnip__  
+__parsnip__ _n_ :four::hammer: :es: chirivía  
 __parson__ _n_ __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
 __parsonage__ _n_ :two::pencil2::hammer:  
 __part company__ _v_  
@@ -12524,7 +12524,7 @@ __patois__ _n_
 __patrician__ _adj_ _A patrician class._  
 __patrolman__ _n_ A policeman who patrols a given region. _Syn_ flatfoot  
 __patron saint__ _n_ A saint regarded as the special guardian of a person, group, trade, country, etc. _Santa Claus is associated with Saint Nicholas, who is the patron saint of children._  
-__patron__ _n_ :nine::m: __1__ A person, esp a man, who sponsors or aids artists, charities, etc; protector or benefactor. _China, North Korea’s patron._ _He became a patron of the greatest contemporary chronicler._ __2__ A customer of a shop, hotel, etc, esp a regular one. _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._ _Patrons who eat before 6 p.m._  
+__patron__ _n_ :nine::m: /ˈpeɪtrən/ __1__ A person, esp a man, who sponsors or aids artists, charities, etc; protector or benefactor. _China, North Korea’s patron._ _He became a patron of the greatest contemporary chronicler._ :es: patrocinador, mecenas __2__ A customer of a shop, hotel, etc, esp a regular one. _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._ _Patrons who eat before 6 p.m._ :es: cliente  
 __patronage__  
 __patronize__ _v_ :four::hammer:  
 __patronizing__ _adj_ :two::hammer:  
@@ -12556,6 +12556,7 @@ __payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payo
 __payout__ _n_  
 __paysleys__ _n_  
 __paywall__ _n_ :five: /PAY-wal/ (paywalls) A system of restricting access to online content or services, making them accessible only upon payment. A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
+__pea-brain__ _n informal_ A foolish or unintelligent person.  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
 __peach<sup>1</sup>__ _n_  
 __peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
@@ -12593,7 +12594,7 @@ __pedestal__ _n_
 __pedestrian__ _adj_ :dart::six: (pedestrians) Lacking in vitality, imagination, or distinction. _Syn_ prosaic _His style is so pedestrian that the book is really boring._  
 __pedestrianized__ _v_  
 __pedi__  
-__pedicab__ _n_ A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
+__pedicab__ _n_ :two: A small three-wheeled vehicle having a seat, pedals, and handlebars for the operator and a usually hooded cab for passengers. _A human-pedaled pedicab._  
 __pediculous__ _adj_ Infested with lice.  
 __pedigree__  
 __pediment__ _n_  
@@ -12605,14 +12606,14 @@ __peel off__ _v_ _After chatting with the vets, we peel off and head out to expl
 __peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __peep__ _n_ :three::hammer: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
 __peephole__  
-__peeps__ _n pl_ _slang_ :two: Associates; friends.  
+__peeps__ _n pl_ _slang_ :three: Associates; friends. People.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peered__ _adj_  
 __peerless__ _adj_ :two::hammer: _Peerless scenic beauty._  
 __peeved__ _v_  
 __peevishly__ _adv_ :two::hammer:  
-__peewee__ _n_  
+__peewee__ _n_ :two::hammer:  
 __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
 __peignoir__ _n_ A woman’s loose-fitting dressing gown. _Syn_ neglige, wrapper, housecoat  
 __pelagic__ _adj_ :two: /puh-LAJ-ik/ [:scroll: From Latin pelagicus (of the sea), from Greek pelagos (sea)] Relating to or living in the open ocean, far from land. Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
@@ -12656,6 +12657,8 @@ __pensively__
 __penstemon__ _n_  
 __pensum__ _n_ A task given, especially as a punishment.  
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
+__Pentecostal__  
+__penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __penurious__ _adj_ :two: Unwilling to spend money. _Syn_ stingy, parsimonious _When solicited for a donation, the penurious man began to extend a nickel, but, thinking twice, withdrew it._  
 __people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
 __peoples__ _n pl_ :four: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
@@ -12665,6 +12668,7 @@ __pep<sup>2</sup>__ _v_ (pepping)
 __Pepe the Frog__ _n_ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
 __pepper__ _v_ :eight: (peppered, peppering) __1__ (Cookery) To season with pepper. __2__ To sprinkle liberally; dot: _his prose was peppered with alliteration._ __3__ To pelt with small missiles or gunfire. _Five bullet holes peppered the side of one rental town-house._ __4__ To beset repeatedly, as with questions or requests. _Ivy peppered him with questions._  
+__pepper-spray__  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __peptalked__ _v_  
@@ -12686,6 +12690,7 @@ __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two 
 __perf__ _n_ __1__ Perfect. __2__ Perforated. __3__ Performance.  
 __perfect__ _v_  
 __perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
+__perficient__ _adj_ /puhr-FISH-uhnt/ Accomplishing or achieving desired results; effective.  
 __perfidious__ _adj_ :two::hammer:  
 __perfidy__ _n_ :three: Deliberate breach of faith; calculated violation of trust. _Syn_ treachery, betrayal, treason _Discovering that he had sold her confidences to the tabloids, she was outraged at his perfidy._  
 __performance__ _n_ _It denigrates your performance considerably._  
@@ -12703,9 +12708,9 @@ __periodontal__ _adj_ _Periodontal health._
 __periodontist__ _n_  
 __perioperative__ _adj_ Relating to, occurring in, or being the period around the time of a surgical operation, _Perioperative morbidity._  
 __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
-__peripatetic<sup>1</sup>__ _adj_ Walking about or from place to place; traveling on foot.  
+__peripatetic<sup>1</sup>__ _adj_ :two: Walking about or from place to place; traveling on foot.  
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
-__peripatetic<sup>2</sup>__ _n_ One who walks from place to place; an itinerant.  
+__peripatetic<sup>2</sup>__ _n_ :two: One who walks from place to place; an itinerant.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
@@ -12713,8 +12718,9 @@ __peristalsis__ _n_ The wavelike muscular contractions of the digestive tract or
 __peristaltic__ _adj_  
 __peristyle__  
 __peritonitis__ _n_  
-__periwinkle__ _n_ :three::hammer: (periwinkles)  
+__periwinkle__ _n_ :four::hammer: (periwinkles)  
 __perjury__ _n_ :three: Criminal offense of making false statements under oath. _Syn_ bearing false witness, lying under oath  
+__perk__ _v_ _The scam perked on a back burner._  
 __Perkins booth__ _n_  
 __perks__  
 __perky__ _adj_ _You should be perky until last call._  
@@ -12726,14 +12732,14 @@ __pernicious__ _adj_ :eight: /per-nish-uhs/ __1__ Having a harmful effect or inf
 __peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
-__perpetrator__ _n_ :two::hammer:  
+__perpetrator__ _n_ :three::hammer:  
 __perpetual__  
 __perpetuity__ _n_ /per-puh-TOO-uh-tee/ A state of continuing forever or for a very long time. _The property will be passed on from generation to generation in perpetuity._  
-__perquisite__ _n_ :two: A payment or profit received in addition to a regular wage or salary, especially a benefit expected as one’s due. _Syn_ fringe benefit, perk  
+__perquisite__ _n_ :three: /PER-kwuh-zut/ A payment or profit received in addition to a regular wage or salary, especially a benefit expected as one’s due. _Syn_ fringe benefit, perk  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
 __persnickety__ _adj_ :dart::two::hammer:  
-__persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
+__persona__ _n_ :three: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
 __personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
 __personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
 __personify__ _v_  
@@ -12745,7 +12751,7 @@ __pertinacious__ _adj_
 __pertinent__ _adj_ :three::hammer: _The meeting was full of pertinent information._  
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __pertussis__  
-__perusal__ _n_ :two::hammer:  
+__perusal__ _n_ :three::hammer:  
 __peruse__ _v_ :five::mega::hammer: (perused)  
 __Peruvian__  
 __pervasive__ _adj_ :four::hammer:  
@@ -12758,6 +12764,7 @@ __pet name__ _n_
 __pet peeve__ _n_  
 __pet<sup>1</sup>__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
 __pet<sup>2</sup>__ _v_ :two::hammer: _Petting the farm animals._  
+__petard__  
 __peter out__ _v_ :two::hammer:  
 __petit jury__ _n_ (petty jury)  
 __petite__  
@@ -12766,6 +12773,8 @@ __petrichor__ _n_ :three::hammer:
 __petroglyph__ _n_ _Ancient Indian petroglyph._  
 __petrolatum__ _n_ A semi-solid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication. _Syn_ mineral jelly, petroleum jelly _While her friends bought expensive designer lip balms, she stuck with her grandmother’s remedy, a big jar of petrolatum._  
 __petroleum jelly__ _n_ :two: A soft substance got from petroleum, used eg in ointments. :es: vaselina  
+__petrolhead__ _n informal_ /ˈpɛtrəlˌhɛd/ A person who is excessively interested in or is devoted to travelling by car.  
+__petrous__  
 __petted__  
 __petticoat__  
 __pettifog__ _v_  
@@ -12780,7 +12789,7 @@ __pew__ _n_ _Church pews._
 __pewter__ _n_ :four::hammer:  
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ _n_ :three: A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
-__phantasmagoric__ _adj_  
+__phantasmagoric__ _adj_ :two::hammer:  
 __Pharaoh__  
 __pharmaceutical__ _adj_ :two::dart::mega: /ˌfɑr məˈsu tɪ kəl/ /fär′mə-so͞o′tĭ-kəl/  
 __pharmacophores__ _n_  
@@ -12788,14 +12797,15 @@ __phase out__
 __phenom__ _n_ :four: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
-__phenotype__ _n_  
+__phenotype__ _n_ :two::hammer:  
 __phials__ _n_ _Several glass phials of dirty white meth crystals._  
-__philanderer__  
+__philanderer__ _n_ :two::hammer:  
 __philandering__  
 __philanthropy__ _n_  
 __philippic__ _n_ A verbal denunciation characterized by harsh, often insulting language; a tirade. _Syn_ tirade, broadside _Ferrars looked exceedingly angry, and drawing herself up more stiffly than ever, pronounced in retort a bitter philippic._  
 __Philippine__ _adj_ Of or pertaining to the Philippines or their inhabitants. _The Philippine archipelago._  
 __philistine__ _n_ A smug, ignorant, especially middle-class person who is regarded as being indifferent or antagonistic to artistic and cultural values. _Syn_ anti-intellectual _He may have an advanced degree in mathematics, but the man is a total philistine when it comes to the arts._  
+__philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
 __Philly__ _n_ :four: Philadelphia. _The small-time Philly boxer Rocky Balboa._  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
@@ -12806,6 +12816,8 @@ __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, u
 __phlegm__ _n_ :five::hammer:  
 __phlegmatic__ _adj_ Having or suggesting a calm, sluggish temperament; unemotional. _Syn_ indifferent, cold, heavy, dull, stoical, bovine, apathetic, frigid, lymphatic, listless, impassive, stolid, unfeeling, undemonstrative  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
+__phlox__ _n_ :three::hammer:  
+__phobia__ _n_ /ˈfəʊbɪə/  
 __phoenix__ _n_  
 __phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
 __phonotaxis__ _n_ _Cricket phonotaxis._  
