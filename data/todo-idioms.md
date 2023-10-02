@@ -12,32 +12,6 @@ __at length__
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __awash__ _adj_ Drunk.  
 __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
-__B and E__ :three::hammer:  
-__backbiting__ :dart: The act of saying malicious, nasty, or catty things about someone. _Don’t let her backbiting deter you—she complains about everyone and everything all the time._  
-__backup plan__ A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
-__be hard put to (do something)__ To be struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard put to find a better guy than Bill._  
-__be hard put__  
-__be here to stay__ To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual. _A lot of people see the ubiquity of the Internet as the death of face-to-face communication, but at this point it is very much here to stay._  
-__be on a mission__  
-__be on a roll__  
-__be on course__ :dart: __1__ Literally, to be moving in the correct direction or toward the intended destination. _Could you check the map? I want to be sure we’re still on course._ __2__ By extension, to continue making progress according to the intended or ideal plan. _If sales remain strong, we’ll be on course to have our most successful year to date!_  
-__belt__ _n slang_ A serving of liquor. _Gimme a belt of whiskey, Tom._ _Four belts of Old Crow._  
-__bite the hand that feeds (you)__ To scorn or poorly treat those on whom you depend or derive benefit.  
-__break a sweat__ Use a lot of physical effort: _He hardly needed to break sweat to reach the final._  
-__break the news__ To reveal information, often that which is bad or upsetting. _Who is going to break the news of her husband’s accident?_  
-__but really__ “But really” is a colloquial phrase commonly used in informal speech and writing. It is often employed to emphasize a point or to express sincerity after a previous statement.  
-__by and large__  
-__by popular demand__ Due to a lot of requests or interest (in something).  
-__carve out__  
-__case closed__ :two::hammer:  
-__catch (one’s) breath__  
-__catch wind__  
-__cautionary tale__  
-__chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another.  
-__chances are__  
-__chapter and verse__  
-__chi-chi__  
-__chime in__  
 __chin up__  
 __chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
 __chunk__ :dart: __1__ _v intr_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _v intr_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
