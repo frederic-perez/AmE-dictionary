@@ -57,13 +57,13 @@ def valid_use_of_underscores(entry):
 
 def valid_use_of_parentheses_or_brackets(entry):
     """Returns False when finding a wrong number of parentheses or brackets"""
-    num_open_char = len(re.findall('\(', entry))
-    num_close_char = len(re.findall('\)', entry))
+    num_open_char = len(re.findall('\\(', entry))
+    num_close_char = len(re.findall('\\)', entry))
     if num_open_char != num_close_char:
         return False
 
-    num_open_char = len(re.findall('\[', entry))
-    num_close_char = len(re.findall('\]', entry))
+    num_open_char = len(re.findall('\\[', entry))
+    num_close_char = len(re.findall('\\]', entry))
     if num_open_char != num_close_char:
         return False
 
