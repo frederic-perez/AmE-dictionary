@@ -937,32 +937,6 @@ __ski jump__ _n_
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skittering__  
-__skittish__ _adj_ :three::hammer:  
-__skulking__ _v_  
-__skullduggery__ _n_ :two::hammer:  
-__slake__ _v_ /SLAYK/ Slake is a verb meaning “to satisfy or quench.” It can also mean “to hydrate.”  
-__sled__ _n_ :two::hammer:  
-__sleepaway__  
-__slight<sup>1</sup>__ _adj_ _A slight reason._  
-__slight<sup>2</sup>__ _n_  
-__slink__ _v_  
-__slip__ _n_ __4__ A small piece of paper, especially a small form, document, or receipt: _a deposit slip._ _Hand out detention slips for using AI?_  
-__sliver__  
-__slog__ _n_  
-__slothful__ _adj_  
-__sludge__  
-__sluice__ _v_  
-__sluice<sup>1</sup>__ _n_ /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
-__sluice<sup>2</sup>__ _v tr_ __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
-__sluice<sup>3</sup>__ _v intr_ To flow, as if from or through a sluice.  
-__smarmy__ _adj_  
-__smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
-__smithy__ _n_ _A working smithy._  
-__smitten__  
-__smoke__ _v_ _It was cold and our breath smoked._  
-__smokejumper__ _n_ A firefighter who parachutes to forest fires inaccessible to ground crews.  
-__smolder__ _v intr_ :two::hammer:  
-__smorgasbord__ _n_ :two: __1__ A buffet meal featuring a varied number of dishes. __2__ A varied collection.  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
 __snap__ _n_  
