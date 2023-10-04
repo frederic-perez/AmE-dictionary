@@ -2906,23 +2906,24 @@ __nice one__ _informal_ An expression of praise for having done something well. 
 __night and day__  
 __nincompoop__ _n_ A silly, foolish, or stupid person.  
 __nine to fivers__  
-__nip (something) in the bud__ :three: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
+__nip (something) in the bud__ :six: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
 __nip in the bud__  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __nitty-gritty__  
 __nix__  
-__no big deal__ :two::hammer: _No big deal, but it looked sloppy._  
+__no big deal__ :dart::three::hammer: _No big deal, but it looked sloppy._  
 __no biggie__  
 __no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__ :two::hammer:  
+__no doubt__  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__ :two::hammer:  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no kidding__  
 __no less than__ :dart:  
 __no longer__  
-__no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
+__no matter how you slice it__ :two: Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
@@ -2931,16 +2932,17 @@ __no pressure__ Said ironically to emphasize that what is being discussed carrie
 __no small thing__  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no spring chicken__ :two: No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
-__no strings attached__ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
-__no sweat__  
+__no strings attached__ :four: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
+__no sweat__ :dart::two::hammer:  
 __no way__  
 __no way, José__  
 __no worries__ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
 __no-brainer__ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
+__no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-barred relationship._  
 __no-no__  
 __nod off__ :dart:  
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
-__not (one’s) first rodeo__ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
+__not (one’s) first rodeo__ :three: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
 __not a big deal__ It is often used to indicate that a problem or situation is minor and does not require excessive concern or attention. The phrase can also be used to minimize the impact of a negative event or to reassure someone that everything is fine. It can also be used to express nonchalance or indifference to a situation or event.  
 __not a competition__  
 __not a moment too soon__ At the last possible moment before it is too late; just in the nick of time. _The police arrived not a moment too soon, and the would-be burglar was apprehended before anything could be stolen._  
@@ -2952,9 +2954,11 @@ __not be lost on (someone)__ To have a significant or noticeable impact or effec
 __not by any means__ Not in any way; not at all; absolutely not.  
 __not cut it__ If you say that _someone cannot cut it_ or _does not cut it_, you mean that they are not talented or ambitious enough to succeed in a particular job. _We’re in a real mess now Johnny’s gone. Lorenzo’s been doing the vocals, but he just can’t cut it._ _It’s a very tough work environment. If you don’t cut it then you’re out._  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
+__not enough room to swing a cat__ :two: Very little or no space; very cramped quarters or proximity. _Many families are forced to live in tiny apartments with not enough room to swing a cat._  
 __not even close__  
 __not get a wink of sleep__ To not get any sleep. _Our newborn son is rather colicky, so my wife and I haven’t gotten a wink of sleep the last few nights._  
 __not get anywhere__ To make no progress at all; to be stuck or at an impasse. _Look, we’ve been discussing this issue all day and we haven’t gotten anywhere. Let’s take a break and start again tomorrow._  
+__not go amiss__  
 __not have a cent to your name__ If someone doesn’t have a penny to their name or doesn’t have a cent to their name, they are poor. _He never had a penny to his name while he was with me._  
 __not have a hope in hell (of doing something)__ To not have any chance at all of doing or achieving something.  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
@@ -2965,7 +2969,7 @@ __not in a million years__ Not at any point; under absolutely no circumstances. 
 __not in a month of Sundays__ Not at any point; under absolutely no circumstances. _Not in a month of Sundays did I think that I would actually win the lottery!_  
 __not know (any) better__  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
-__not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
+__not know (someone) from Adam__ :two: Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __not miss a beat__  
 __not miss a thing__  
 __not on my watch__ :two: That will not happen while I am in charge or on the lookout.  
@@ -2975,15 +2979,16 @@ __not the sharpest tool in the box__
 __not the sharpest tool in the shed__  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
 __not to mention__ :three::hammer:  
+__not to say__  
 __not utter a word__ To be completely silent; to remain discreet (about something); to not tell anyone (about something). _All the while our father was shouting at us, my sister and I didn’t utter a word._  
 __not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
 __notch up__  
-__note to self__ :two::hammer:  
+__note to self__ :three::hammer:  
 __noted for (something)__ Having an established reputation or degree of fame because of something. _Professor Jenkins is noted for her groundbreaking work in gene therapy for cancer treatment._  
 __nothing but__ _I’m nothing but tired._  
 __nothing less than (something)__ (Having) an extreme quality, trait, or characteristic demonstrated in absolute terms. _The instructor demands nothing less than perfection from her pupils._  
 __nothing more, nothing less__  
-__nothing short of__ :two::hammer:  
+__nothing short of__ :three: At or near the same level of; equivalent to; exemplary of. _Her latest book is nothing short of a masterpiece._  
 __nothing to sneeze at__ Not something that should be ignored, dismissed, or treated with disdain; something that is not inconsequential. _She never really had a chance of winning, but the amount of votes she managed to muster is truly nothing to sneeze at._  
 __nothing ventured, nothing gained__ _proverb_  
 __nothing wrong with that__  
@@ -2997,24 +3002,28 @@ __nut out__ __1__ _slang_ To discover, through careful consideration, deliberati
 __nuts and bolts__ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __nuts__ __3__ _adj_ Crazy; manic or eccentric; out of one’s mind. _Trying to figure out what’s wrong with this computer is driving me nuts!_  
 __oat opera__ A film or theatrical production about the American West (i.e., a western), especially one that is clichéd or formulaic. _My grandfather and I had a tradition of watching old oat operas every Sunday on TV._  
+__oater__  
 __objection hearsay__  
 __OD__ _v_  
 __odd duck__ A rather unusual, strange, or peculiar person. _His new girlfriend is nice enough, but she’s a bit of an odd duck, don’t you think?_  
-__oddly enough__ It is strange or remarkable (that). _I saw John this morning. Oddly enough, I was just thinking I hadn’t seen him for a long time._ :es: por extraño que parezca, curiosamente  
+__oddly enough__ :two: It is strange or remarkable (that). _I saw John this morning. Oddly enough, I was just thinking I hadn’t seen him for a long time._ :es: por extraño que parezca, curiosamente  
+__of (one’s) own accord__ Voluntarily; of one’s own free will. _Police are hoping that the person of interest surrenders of his own accord._  
 __of a kind__ _You are two of a kind._  
 __of a lifetime__ Used to describe something extremely exceptional, important, or enjoyable that isn’t likely to occur again. _They offered me the chance of a lifetime to travel the world and write about my experiences abroad._ _She must first unravel an unsolved murder, or lose this opportunity of a lifetime._  
 __of all things__  
 __of late__ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __of no account__ :three: Of no or very little importance, significance, or worth. _Sure, his writing is OK, but he only published a few articles in some tiny magazine of no account._  
 __of one’s own accord__ Voluntarily.  
+__of the sort__  
 __off the charts__  
-__off the clock__  
+__off the clock__ :two::hammer:  
 __off the hook__ :three::hammer: _I let you off the hook._  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
 __off to the races__ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off to the side__  
 __off work__  
 __off-kilter__ :five::hammer:  
+__off-the-cuff__ :dart:  
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
 __offs and ends__ __1a__ Miscellaneous articles. __b__ Miscellaneous small matters (as of business) to be attended to. __2__ Miscellaneous remnants or leftovers odds and ends of food.  
 __OG__  
@@ -3026,7 +3035,9 @@ __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready t
 __old as the hills__ Someone who is very old.  
 __old maid__ An old woman who has never been married or has never had a sexual relationship.  
 __old school thinking__  
+__old soul__ One who has a deeper understanding or appreciation of things than would be expected of their age.  
 __on (one’s) own right__  
+__on (one’s) own volition__  
 __on (one’s) plate__  
 __on (one’s) radar (screen)__  
 __on (one’s) toes__  
@@ -3038,7 +3049,8 @@ __on a daily basis__ Every day. _They work with the team on a daily basis._
 __on a different note__  
 __on a dime__  
 __on a high horse__ To act as if you are better than other people.  
-__on a lark__ :two: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
+__on a lark__ :three: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
+__on a lighter note__ Used as a means of segueing to some topic of discussion that is less serious or more positive.  
 __on a mission__ _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
 __on a roll__ :three::hammer: _I’m on a roll._  
 __on a tear__ :three: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
@@ -3050,8 +3062,8 @@ __on demand__ _Requested on demand._
 __on edge__ :four: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on end__  
 __on every level__ _That was a bad idea on every level._  
-__on fire__ :two: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
-__on fleek__ _slang_ :two: A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_ _That outfit is totally on fleek—I love it._  
+__on fire__ :three: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
+__on fleek__ _slang_ :three: A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_ _That outfit is totally on fleek—I love it._  
 __on foot__ _I work to work on foot._  
 __on in years__ Advanced in age; old or becoming old. _I might be a little bit on in years, but I’m no fool when it comes to technology!_  
 __on leave__ :two: In the midst of an official extended absence from one’s work, school, etc. _Jane just had a baby, so she’s on leave._ _I’ve been on leave for the past few weeks as my illness has gotten worse._  

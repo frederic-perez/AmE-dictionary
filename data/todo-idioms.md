@@ -310,32 +310,6 @@ __next to nothing__ Almost nothing; a very small amount.
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __night and day__  
-__nip (something) in the bud__ :three::hammer:  
-__no big deal__ :dart:  
-__no doubt__  
-__no matter how you slice it__ Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged.  
-__no strings attached__  
-__no sweat__ :dart:  
-__no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-barred relationship._  
-__not (one’s) first rodeo__  
-__not enough room to swing a cat__ :two: Very little or no space; very cramped quarters or proximity. _Many families are forced to live in tiny apartments with not enough room to swing a cat._  
-__not go amiss__  
-__not know (one) from Adam__  
-__not to say__  
-__note to self__  
-__nothing short of__ At or near the same level of; equivalent to; exemplary of. _Her latest book is nothing short of a masterpiece._  
-__oater__  
-__oddly enough__  
-__of (one’s) own accord__ Voluntarily; of one’s own free will. _Police are hoping that the person of interest surrenders of his own accord._  
-__of the sort__  
-__off the clock__  
-__off-the-cuff__ :dart:  
-__old soul__ One who has a deeper understanding or appreciation of things than would be expected of their age.  
-__on (one’s) own volition__  
-__on a lark__  
-__on a lighter note__ Used as a means of segueing to some topic of discussion that is less serious or more positive.  
-__on fire__ __3__ Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._  
-__on fleek__ _slang_ A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_  
 __on good terms__  
 __on steroids__  
 __on the bleeding edge__  
