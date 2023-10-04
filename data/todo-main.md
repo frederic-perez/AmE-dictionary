@@ -1054,33 +1054,6 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
-__tantalizing__ _adj_ :three::hammer:  
-__tarnish__  
-__tart__ _adj_ __1__ (of a flavour, food, etc) Sour, acid, or astringent. __2__ Cutting, sharp, or caustic: _a tart remark._ _A tart comment._  
-__tase__ _v_  
-__tattle__ _v_ :dart:  
-__taunt__ _v_  
-__taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
-__team effort__ _n_ Something done by a group of people.  
-__teeming__ _v_  
-__teeny__ _adj_ Tiny.  
-__telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
-__telethon__ _n_  
-__telltale__  
-__telly__ _n_ :dart:  
-__temerity__ _n_ /tuh-MAIR-uh-tee/  
-__temper__ _v_ :two::hammer: (tempered)  
-__templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
-__temporal landmark__ _n_  
-__tenderized__  
-__tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
-__tenement__  
-__tenet__ _n_  
-__tenets__ _n_  
-__tenterhook__ _n_  
-__tenure-track__  
-__tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
-__terra cotta__ _n_ :pencil2:  
 __terraform__ _v_  
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  

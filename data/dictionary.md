@@ -12707,10 +12707,10 @@ __periodical cicada__ _n_ Seventeen-year locust.
 __periodontal__ _adj_ _Periodontal health._  
 __periodontist__ _n_  
 __perioperative__ _adj_ Relating to, occurring in, or being the period around the time of a surgical operation, _Perioperative morbidity._  
-__Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
 __peripatetic<sup>1</sup>__ _adj_ :two: Walking about or from place to place; traveling on foot.  
-__Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
+__Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
 __peripatetic<sup>2</sup>__ _n_ :two: One who walks from place to place; an itinerant.  
+__Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
@@ -17545,7 +17545,7 @@ __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the s
 __tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
 __tanning__ _n_  
 __tantalize__ _v_ :three::hammer: _A plethora of delectable options tantalize your taste buds._  
-__tantalizing__ _adj_ :eight::hammer: _The revelations are a tantalizing indication of how much we still have to learn._ _A tantalizing question._  
+__tantalizing__ _adj_ :nine::m: __1__ Arousing desire or expectation for something unattainable or mockingly out of reach. _The revelations are a tantalizing indication of how much we still have to learn._ __2__ Very pleasantly inviting: _a tantalizing aroma._ _A tantalizing question._ _Syn_ tempting  
 __tantamount__ _adj_ :dart::eight: /TAN-tuh-mount/ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tanzanite__  
 __tap into__  
@@ -17567,19 +17567,20 @@ __tariff__ _n_ :six::hammer: (tariffs)
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
 __tarnation__ _n_ :two: A euphemism for damnation.  
-__tarnish__ _v_ :nine::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarnish__ _v_ :nine::m::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpaulin__ _n_ :dart::four: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
-__tart__ _adj_ :five::hammer: _She’d bitten into something overly tart._  
+__tart__ _adj_ :six: __1__ (of a flavour, food, etc) Sour, acid, or astringent. _She’d bitten into something overly tart._ __2__ Cutting, sharp, or caustic: _a tart remark._ _A tart comment._  
 __tartan__ _n_ :five::hammer: _Tartan trousers._ _Tartan upholstery._ _Trinket and tartan shops._  
 __tartar__ _n_  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
+__tase__ _v_  
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
 __task__ _v_ :five::hammer: (tasked) _They have been tasked._  
 __Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
@@ -17596,12 +17597,12 @@ __tattered__ _adj_ _The famous_ Tattered Cover Bookstore.
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattle<sup>1</sup>__ _n_  
-__tattle<sup>2</sup>__ _v_ :two::hammer: (tattling)  
+__tattle<sup>2</sup>__ _v_ :dart::three::hammer: (tattling)  
 __tattletale<sup>1</sup>__ _adj_  
 __tattletale<sup>2</sup>__ _n_ :two::hammer:  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
-__taunt<sup>2</sup>__ _v_ :eight::hammer: (taunted, taunting)  
+__taunt<sup>2</sup>__ _v_ :nine::hammer: (taunted, taunting)  
 __taupe__  
 __Taurus__ _n_ :mega:  
 __taut__ _adj_  
@@ -17620,6 +17621,7 @@ __tax levy__
 __taxa__  
 __taxative__ _adj_ (Economics) Of, relating to, or involving taxation.  
 __taxi medallion__ _n_ A taxi medallion, also known as a CPNC (Certificate of Public Necessity and Convenience), is a transferable permit in the United States allowing a taxicab driver to operate. Several major cities in the US use these in their taxi licensing systems, including New York City, Boston, Cambridge, Chicago, Philadelphia, and San Francisco.  
+__taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
 __taxi__ _n_ (_n pl_ taxis, or taxies)  
 __taxidermy__ _n_  
 __taxonomy__ _n_  
@@ -17628,6 +17630,7 @@ __Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for pro
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __teakwood__ _n_ :pencil2: Teak.  
+__team effort__ _n_ Something done by a group of people.  
 __team player__  
 __team up__ _v_  
 __teammate__ _n_ :pencil2:  
@@ -17643,8 +17646,9 @@ __tedium__ _n_ :two::hammer: _The bitter tedium of his daily life._
 __tee up__ _v_  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
-__teem__ _v_ :four: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._ _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
+__teem__ _v_ :five: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._ _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
 __teeming__ _adj_ :six::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teeny__ _adj_ Tiny.  
 __teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeter-totter__ _n_ _Upper Northern & Western US_ A plaything consisting of a board balanced on a fulcrum; the board is ridden up and down by children at either end. _Syn_ dandle board, seesaw, teeter, teeterboard, teetertotter, tilting board  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
@@ -17655,6 +17659,7 @@ __teetotaling__ _n_
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
+__telamon__ _n_ /ˈtɛləmən/ A figure of a man used as a supporting pillar. _Syn_ atlas  
 __telangiectasia__ _n_  
 __telco__  
 __telebiometric__ _adj_  
@@ -17663,19 +17668,21 @@ __telegenic__ _adj_ :two::hammer: /tel-uh-JEN-ik/
 __telekinesis__ _n_ :mega:  
 __teleological__ _adj_ /tel-ee-uh-LAH-jih-kul/ Teleological (and its less common variant _teleologic_) is a philosophical term meaning “exhibiting or relating to purpose or design especially in nature.” _Their teleological theory on the origin of human beings was heavily challenged._  
 __teleology__  
+__telethon__ _n_  
 __televangelist__ _n_  
 __televised__  
 __telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
-__telltale<sup>1</sup>__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
+__telltale<sup>1</sup>__ _n_ :five: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
 __telltale<sup>2</sup>__ _adj_ _I exhibit the telltale symptoms of the workaholic’s curse._  
 __tellurian<sup>1</sup>__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the earth.  
 __telluric__ _adj_  
-__temerity__ _n_ :two: Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
+__telly__ _n_ :dart:  
+__temerity__ _n_ :three: /tuh-MAIR-uh-tee/ Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper__ _v_ :seven::hammer: (tempered)  
+__temper__ _v_ :nine::hammer: (tempered)  
 __tempera__ _n_  
 __temperament__  
 __temperance__  
@@ -17684,6 +17691,8 @@ __tempered__ _adj_
 __tempering__ _adj_ _A tempering experience_  
 __tempestuous__ _adj_ :three: /tem-PESS-chuh-wus/ Of, relating to, or resembling a tempest. _Syn_ turbulent, stormy _Because the player’s relationship with his manager had grown more tempestuous over the course of the season, the decision to trade him benefited everyone._  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
+__templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
+__temporal landmark__ _n_  
 __temporizer__ _n_ /TEM-puh-ry-zuhr/ :astonished: One who delays, waiting for a favorable time, or to avoid making a decision.  
 __Tempranillo__  
 __tenable__ _adj_  
@@ -17692,30 +17701,34 @@ __tenacity__ _n_
 __tenant__ _n_ :two::hammer: (tenants)  
 __tench__ _n_  
 __tender__ _n_ _The company won the tender._  
-__tenderize__ _v_ To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
+__tenderize__ _v_ :two: To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
 __tendrils__ _n_  
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
-__tenement__ _n_ __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
-__tenet__ _n_ :seven::hammer: (tenets) :es: principio  
+__tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
+__tenement__ _n_ :two: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
+__tenet__ _n_ :nine::hammer: (tenets) :es: principio  
 __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
 __tense__ _adj_ :two::hammer:  
 __tensile__ _adj_ _Tensile cable._  
 __tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
 __tentative__  
+__tenterhook__ _n_  
 __tenterhooks__  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
 __tenure__ _n_ :three::hammer:  
-__tenure-track__ _adj_  
+__tenure-track__ _adj_ :two::hammer:  
 __tenured__  
 __tepid__ _adj_ :six::hammer:  
 __tequila poppers__  
 __tergiversate__ _v_ :two: __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
+__tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
 __teriyaki__ _n_  
 __termagant__ _n_ :two: A quarrelsome, scolding woman. _Syn_ shrew _His aunt was such a termagant that he dreaded her annual visit._  
 __terpsichorean<sup>1</sup>__ _adj_ Of or relating to dancing.  
 __terpsichorean<sup>2</sup>__ _n_ A dancer.  
+__terra cotta__ _n_ :pencil2:  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
