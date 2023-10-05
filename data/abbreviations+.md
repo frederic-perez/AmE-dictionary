@@ -79,6 +79,7 @@ __GPGPU__ General purpose graphics processing unit.
 __GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
+__h/t__ Hat tip.  
 __HDL-C__ High-density-lipoprotein cholesterol.  
 __HIV__  
 __HMS__ Her (or His) Majesty’s Ship.  

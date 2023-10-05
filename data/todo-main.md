@@ -47,7 +47,7 @@ __balk__ _v_
 __Balkanize__ _v tr_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
-__banter__  
+__banter__ _v_ :two::hammer:  
 __bar__ _n_ _A few bars of music._  
 __bard__  
 __bardic__  
@@ -130,6 +130,7 @@ __christen__ _v tr_ :mega: /KRI-suhn/ /ˈkrɪsən/ __1__ To name someone or some
 __chump__  
 __churlish__ _adj_ /CHUR-lish/ Churlish is a formal word that means “irritable and rude.”  
 __Chutes and Ladders__ _n_  
+__chutzpah__ _n_  
 __clang__ _v_ _Bells clanging._  
 __clanging__  
 __clangor__ _n, v_  
@@ -177,6 +178,7 @@ __cure-all__ _n_
 __cushy__ _adj_ _Cushy job._  
 __cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
 __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
+__cutting-edge__ _adj_  
 __cyst__  
 __dalliances__ _n_  
 __darting__ _v_  
@@ -186,6 +188,7 @@ __deadened__
 __debonair__  
 __debonnaire__ _adj_  
 __decamp__  
+__deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
 __deed__ _n_ :two::hammer: _The deed was set in motion._  
 __deep-six__ _v_ _Bonuses were being deep-sixed._  
@@ -198,6 +201,7 @@ __denizen__ _n_ /ˈdɛnɪzən/
 __despondency__ _n_  
 __destitute__ _adj_ :two::hammer: _I am utterly destitute of an ear._  
 __deviled egg__ _n_  
+__Dexedrine__ _n_ :two::hammer:  
 __dharma__ _n_  
 __diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
 __didgeridoo__ _n_  
@@ -211,11 +215,13 @@ __discombobulated__
 __disembed__ _v tr_ :astonished: To remove (something) from what it is embedded in.  
 __disempower__ _v tr_  
 __disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
+__disquiet__ _adj, n, v_  
 __dissatisfied__  
 __dissociation__ _n_  
 __divining__ _n_  
 __don__ _n_  
 __doodlebug__ _n_  
+__doorbell__ _n_  
 __doozy__  
 __dopey__  
 __doppelganger__ _n_  
@@ -257,7 +263,7 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
-__ensconce__ _v_ :two::hammer:  
+__ensconce__ _v_ :three::hammer:  
 __ensued__ _v_  
 __ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
@@ -362,6 +368,7 @@ __gobble__ _v_ _Do you savor or gobble?_
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
+__hamper__ _v tr_  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1400s.  
@@ -398,6 +405,7 @@ __hurriedly__
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __hush__ _n_ :two::hammer:  
 __hydrocephalus__ _n_ :two::hammer:  
+__hygge__  
 __hypochondriac__  
 __ibex__ _n_  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
@@ -408,6 +416,7 @@ __impel__ _v tr_
 __impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __importantly__ _adv_  
 __inanely__ _adv_  
+__incumbent__  
 __indefatigable__ _adj_  
 __ineffability__  
 __ineffable__  
@@ -420,6 +429,7 @@ __interlard__ _v_
 __irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
 __irrepressible__  
 __jabbering__ _v_  
+__jibberish__  
 __jig__ _n_ _An Irish jig was being played._  
 __jokey__  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
@@ -462,6 +472,7 @@ __liaison__ _n_ _He was the Strike Force liaison on Abscam._
 __limerence__ _n_ /ˈlɪmɪrəns/ A state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one’s feelings reciprocated, etc.  
 __lionize__ _v_ /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance.  
 __lissome__ _adj_  
+__MacGyver__ _n_ :mega: /məˈɡaɪvər/ /muh-GUY-vur/  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
 __major key__  
@@ -484,6 +495,7 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __mauve__ _n_  
 __maven__ _n_ A person who has special knowledge or experience; an expert.  
 __mawkish__ _adj_  
+__maximalist__ _n_ One who advocates extremist views or radical action to secure a social or political goal.  
 __maypole__ _n_ :camera:  
 __mazurka__ _n_  
 __mealtime__ _n_ :dart:  
@@ -561,9 +573,11 @@ __mull__ _v_ :two::hammer:
 __mullet__ _n_  
 __mulligans__  
 __nepotism__ _n_ /NEP-uh-tiz-um/  
+__newsroom__ _n_  
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
+__on-the-go__ _adj_  
 __outgrow__  
 __outlandish__  
 __outstrip__ _v tr_  
@@ -623,6 +637,7 @@ __pinwheel__ _n_
 __pique<sup>1</sup>__ _n_  
 __pique<sup>2</sup>__ _v_  
 __pitfall__ _n_  
+__pithy__ _adj_ __1__ Precisely meaningful; forceful and brief: _a pithy comment._  
 __pizzicato__  
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __plaintive__ _adj_ :two: /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
@@ -681,7 +696,7 @@ __prissy__ _adj_ :astonished:
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
-__profligate__  
+__profligate__ _adj_ :two::hammer:  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prom__  
 __pronation__ _n_ /pro-NAY-shuhn/  
@@ -777,7 +792,7 @@ __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
 __redound__ _v_ /rih-DOWND/ :two::hammer:  
 __redress__  
-__redux__ _adj_ /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
+__redux__ _adj_ :two: /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
 __reef__ _n_  
 __reenact__ _v_  
 __reenactment__ _n_  
@@ -943,7 +958,7 @@ __snap__ _n_
 __snappy__ _adj_ _Snappy answers._  
 __snicker__ _v intr_  
 __soapbox__ _n_  
-__sobering__ _adj_  
+__sobering__ _adj_ :two::hammer:  
 __sociopath__  
 __Sodom__ _n_ /SAHD/SOD-uhm/ (sodom) A place considered to be full of wickedness and sin.  
 __soft hat__ _n_ :camera:  
@@ -1043,6 +1058,7 @@ __swell__ _adj_
 __swoon__ _v_  
 __swooning__ _v_  
 __syllabicate__ _v_  
+__syllabus__ _n_ :astonished: __1__ An outline or a summary of the main points of a text, lecture, or course of study.  
 __synesthesia__ _n_ :two::hammer:  
 __synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
 __tableau__ _n_ :astonished:  
@@ -1054,6 +1070,7 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
+__ten-year__ _adj_ _A ten-year prison sentence._  
 __terraform__ _v_  
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  
@@ -1123,6 +1140,7 @@ __tussle__ _v intr_
 __twaddle__  
 __twat__  
 __tycoon__ _n_  
+__UB minefield__ _n_  
 __umbrage__  
 __unassuming__ _adj_ :two::hammer:  
 __unbidden__ _adj_ :three: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
@@ -1197,7 +1215,8 @@ __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. _
 __wellbeing__ _n_ :pencil2:  
 __welter__ _n_ _A welter of objects._  
 __wheelhouse__  
-__wherewithal__  
+__wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
+__wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __whip up__  
 __whiplash__ _n_ :two::hammer: _Economic whiplash._  
 __whirred__ _v_ _The videotapes whirred._  
