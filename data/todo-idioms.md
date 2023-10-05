@@ -12,7 +12,8 @@ __at length__
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __awash__ _adj_ Drunk.  
 __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
-__chin up__  
+__breathe new life__  
+__chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
 __chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
 __chunk__ :dart: __1__ _v intr_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _v intr_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
 __churn out__  
@@ -35,6 +36,7 @@ __crazy town__
 __cut (one’s) teeth__  
 __cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
 __cut ties__  
+__cut to the chase__  
 __damn it__  
 __dawn (up)on (one)__ :two::hammer:  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
@@ -47,6 +49,7 @@ __devil take the hind most__ Each person must work independently toward their ow
 __dig in (one’) heels__  
 __dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dig in(to) (something)__  
+__dime__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value.  
 __dingy__  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
@@ -77,7 +80,7 @@ __factor in__
 __fair enough__  
 __fall from grace__  
 __fall on one’s face__  
-__fall short__  
+__fall short__ :two::hammer:  
 __fam__  
 __fan the breeze__  
 __fend off__ __2__ To try to prevent something. A noun or pronoun can be used between “fend” and “off.” _Getting a flu shot will help__hold you to fend off future illness._  
@@ -97,6 +100,7 @@ __fool with (someone or something)__
 __for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable.  
 __for all intends and purposes__ :two::hammer:  
 __for better or (for) worse__  
+__for the life of me__  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
 __gas__ _v_ :two::hammer: _We’re here to gas on the show._  
 __get ahead of (oneself)__  
@@ -121,6 +125,7 @@ __go places__
 __go south__  
 __go to great lengths (to do something)__  
 __go to hell and back__  
+__go-to__  
 __gobble down__  
 __goes without saying__  
 __gone jacket__ _A gone jacket._  
@@ -159,6 +164,7 @@ __harp away at (someone or something)__ :dart: To complain about or dwell upon s
 __harp on (something)__ _Harping on intelligence._  
 __harp on the same string__  
 __hash slinger__  
+__hats and bats__ _n_ _(US police)_ Equipped with helmets and nightsticks.  
 __have (a) skeleton(s) in (one’s)/the closet__  
 __have (got) (someone’s) back__  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one). _The future has plenty in store—try not to worry about it too much._ _If you think ChatGPT is awesome, wait til you see what the coming wave of AI has in store for you._  
@@ -189,6 +195,7 @@ __have skin in the game__
 __have someone pegged__  
 __have the last laugh__  
 __hazarded__ _v_  
+__he who hesitates is lost__  
 __head over heels__  
 __head start__  
 __head-to-toe__  
@@ -229,6 +236,7 @@ __hot-button__ _Hot-button social issues._
 __hotfoot__ :dart: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
 __how come__  
 __hubby__ :seven: _A shortening and alteration of “husband.”_  
+__hullabaloo__ :two::hammer:  
 __humblebrag__  
 __I feel you__  
 __I hear you__  
@@ -261,14 +269,18 @@ __in training__
 __it (always) pays to (do something)__  
 __it factor__  
 __it is what it is__  
+__jacked to the gills__  
 __jazzy__  
 __jill__ (gill, Gillian) A young woman. _A jailbait jill._  
+__K-car__  
 __keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
 __kickback__  
 __kosher__  
-__laff__ _v_ :two: (laffed) An obsolete or dialectal spelling of laugh.  
+__laff__ _v_ :three: (laffed) An obsolete or dialectal spelling of laugh.  
 __lash out__  
+__left an_v_ d right__  
 __left to (one’s) own devices__ :two: Left unsupervised or uncontrolled; allowed to do as one pleases.  
+__lift the curtain (on something)__ __2__ To make (something) publicly known; to reveal or disclose the details or truth (about something). _LinkedIn finally lifted the curtain on a number of AI features it’s been cooking behind the scenes._  
 __like a broken record__  
 __like gangbusters__  
 __live under a rock__ To be oblivious to or ignorant of something that is very widely known, often related to pop culture.  
@@ -279,6 +291,7 @@ __lump in (one’s) throat__
 __make a fuss__  
 __make inroads (in/into something)__  
 __make the cut__  
+__make the rounds__  
 __marching orders__  
 __mark my word(s)__  
 __Mary Jane__ _slang_ Marijuana.  
@@ -310,11 +323,13 @@ __next to nothing__ Almost nothing; a very small amount.
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __night and day__  
+__on and on__ _The list goes on and on._  
 __on good terms__  
 __on steroids__  
 __on the bleeding edge__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the fast track__ On an accelerated path to success or achievement.  
+__on the go__  
 __on the grapevine__  
 __on the make__  
 __on the nose__ __1__ Precisely accurate; exactly right. _Her predictions about the company’s collapse were right on the nose._  
@@ -406,7 +421,7 @@ __reminiscent of (someone or something)__
 __rest easy__ :dart: To stop worrying about something. To not worry about something. _I can rest easy knowing that he will be in charge._ _OpenAI isn’t resting easy: the company is reportedly working hard to beat Google to multimodal features in its models._  
 __riddled with__ _The guy had been riddled with bullets right there._  
 __riding high__  
-__ring a bell__  
+__ring a bell__ :two::hammer: _Does that ring a bell with you?_  
 __ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
 __rip off__  
 __ripped to the tits__ _adj_ (ripped off one’s ass, ripped to the nuts, ripped to the gills) Very intoxicated by drink, drugs or a combination.  
@@ -416,6 +431,7 @@ __roll out__
 __roly-poly__ _A roly-poly hustler._  
 __round and round__ (around and around)  
 __round something out__  
+__roundhouse__  
 __rule out__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
@@ -517,6 +533,7 @@ __take charge__
 __take names__  
 __take no prisoners__  
 __take on__  
+__taken by a mug__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the hind leg(s) off a horse__ To talk endlessly and exhaustingly. _I love my Aunt Lily, but she’d talk the hind legs off a horse if you let her!_  
 __talk the talk__  
@@ -543,12 +560,14 @@ __the icing on the cake__
 __the ick__ _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to.  
 __the likes of (someone or something)__  
 __the lion’s share__  
+__the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the nitty-gritty__  
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
 __think highly of (someone or something)__  
+__throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __too hot to handle__  
@@ -624,3 +643,4 @@ __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or
 __you name it__ :two::hammer:  
 __you saved the day__  
 __you scratch my back, I scratch yours__  
+__yuk__ __4__ _slang_ An expression or exclamation of extreme disgust, aversion, or contempt. (A variant of “yuck.”)  
