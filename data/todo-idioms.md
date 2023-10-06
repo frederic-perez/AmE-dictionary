@@ -276,32 +276,6 @@ __K-car__
 __keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
 __kickback__  
 __kosher__  
-__laff__ _v_ :three: (laffed) An obsolete or dialectal spelling of laugh.  
-__lash out__  
-__left an_v_ d right__  
-__left to (one’s) own devices__ :two: Left unsupervised or uncontrolled; allowed to do as one pleases.  
-__lift the curtain (on something)__ __2__ To make (something) publicly known; to reveal or disclose the details or truth (about something). _LinkedIn finally lifted the curtain on a number of AI features it’s been cooking behind the scenes._  
-__like a broken record__  
-__like gangbusters__  
-__live under a rock__ To be oblivious to or ignorant of something that is very widely known, often related to pop culture.  
-__lo and behold__  
-__lot of give-and-take__  
-__lox__ :two: __1__ A fool. __2__ In creative terms, something nonsensical, second-rate. _A crime lox._  
-__lump in (one’s) throat__  
-__make a fuss__  
-__make inroads (in/into something)__  
-__make the cut__  
-__make the rounds__  
-__marching orders__  
-__mark my word(s)__  
-__Mary Jane__ _slang_ Marijuana.  
-__maven__ One who is, is believed to be, or believes oneself to be an expert in some area, field, or topic. _Anyone proclaiming to be a maven when it comes to dating or hooking up is just looking to take your money._  
-__merch__  
-__mess around__  
-__mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
-__mind you__  
-__mixed bag__ :two::hammer:  
-__mom-and-pop__  
 __more so__  
 __more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
 __more than meets the eye__  
