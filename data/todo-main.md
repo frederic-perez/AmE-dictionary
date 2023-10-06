@@ -263,32 +263,6 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
-__ensconce__ _v_ :three::hammer:  
-__ensued__ _v_  
-__ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
-__enthrall__ _v_ /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_  
-__entrain__  
-__entrainment__ _n_  
-__epilogue__ _n_ :mega: (epilog)  
-__epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
-__escrow__ _n, v_  
-__ex libris__  
-__ex-con__ _n_ _informal_ A former prisoner.  
-__exacerbate__ _v_  
-__exacting__ _adj_ :dart: _An exacting editor._  
-__exchequer__ _n_ /ɪksˈtʃɛkə/  
-__excise__ _v_  
-__exercise bike__ _n_ :dart: _Syn_ exercise cycle, exercycle  
-__exodus__ _n_ /EK-suh-duhs/ A large scale departure or emigration.  
-__expat__  
-__expedite__ _v_ :dart: /EK-spuh-dyte/ To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _To expedite the processing of your request, please include your account number on all documents._  
-__extant__ _adj_  
-__extirpate__ _v_ To destroy totally. _Syn_ eradicate, exterminate, uproot  
-__extol__ _v tr_  
-__extolled__ _v_  
-__extricate__ _v tr_ :two::hammer:  
-__exude__ _v_  
-__eye of round__ _n_ A cut of meat taken from the rear leg muscles. A cheap cut of tough lean meat, considered one of the worst cuts; suitable for making ground meat.  
 __fabricate__ _v_  
 __facetious__  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  

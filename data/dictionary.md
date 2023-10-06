@@ -5779,18 +5779,19 @@ __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enc
 __enrich__ _v tr_  
 __enrichment__ _n_  
 __enrol__ _v_  
-__ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
+__ensconce__ _v_ :seven: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshrined__  
 __ensign__ _n_ :three::hammer: _Everyone saluted as the national ensign was raised on the fantail._  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
-__ensue__ _v_ :seven::hammer: (ensued, ensuing) _Complications ensue._  
+__ensue__ _v_ :eight::hammer: (ensued, ensuing) _Complications ensue._  
+__ensuing__ _adj_ _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __entail<sup>1</sup>__ _v_ :nine::m: /ɪnˈteɪl/ __1__ To have, impose, or require as a necessary accompaniment or consequence: _The investment entailed a high risk._  
 __entail<sup>2</sup>__ _n_  
-__enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
+__enthrall__ _v_ :six: (enthralled, enthralling) /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_ To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._ :es: entusiasmar; entusiasmarse  
 __enthused__ _adj_ :three: Having been filled with enthusiasm. :es: entusiasmado  
@@ -5802,7 +5803,8 @@ __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We 
 __entitled__ _adj_ :two::hammer:  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ _n_ :two::hammer: :es: séquito  
-__entrain__ _v tr_ :two::hammer:  
+__entrain__ _v tr_ :three::hammer:  
+__entrainment__ _n_  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
 __entrant__ _n_ :three::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
@@ -5840,6 +5842,7 @@ __epidural__ _n_
 __epigram__ _n_  
 __epigraph__ _n_ :two: An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
+__epilogue__ _n_ :mega: (epilog)  
 __epiphany__ _n_ :six::hammer::mega:  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
@@ -5847,6 +5850,7 @@ __epistolary__ _adj_ Relating to the writing of letters.
 __epithet__ _n_ :nine: /EP-uh-thet/ (epithets) __1__ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ An epithet is a nickname or descriptive term used to refer to someone. _You need to listen to me and not Clueless Kevin over there._ _Walmart removed the racial epithet from the headline._ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
 __epitome__ _n_ :nine::m::mega: /ih-PIT-uh-mee/ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
+__epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
 __eponymous__ _adj_ :nine: /ih-PAH-nuh-mus/ (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __epoxy__ _n_ [:scroll: Epoxy literally translates to “near-acid.”]  
@@ -5894,7 +5898,8 @@ __escapism__ _n_ :three::mega: The tendency to escape from daily reality or rout
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :three: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
-__escrow__ _n_ :six: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__escrow<sup>1</sup>__ _n_ :seven: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__escrow<sup>2</sup>__ _v_  
 __esculent__ _adj_ Suitable for eating; edible.  
 __escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
@@ -5973,10 +5978,12 @@ __ewer__ _n_ :two::hammer:
 __ewes__ _n_  
 __ework__ _n_ Refers to the practice of working from home or remotely using a computer connected to the network of one’s employer.  
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
-__ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
+__ex libris__ _n_ :two: (bookplate) A label identifying the owner of a book in which it is pasted.  
 __ex__ _n_  
+__ex-con__ _n_ _informal_ A former prisoner.  
 __exacerbate__ _v_ :nine::m: /ig-ZASS-er-bayt/ (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v tr_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
+__exacting__ _adj_ :dart: _An exacting editor._  
 __exaction__ _n_  
 __exaggerate__  
 __exaggeration__ _n_ :pencil2:  
@@ -5988,6 +5995,8 @@ __exceed__ _v_
 __exceedingly__  
 __excelsior__  
 __excess__ _adj_ :six::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
+__exchequer__ _n_ /ɪksˈtʃɛkə/  
+__excise__ _v_  
 __excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
 __excommunicate__ _v_  
@@ -6010,6 +6019,7 @@ __exemplary__ _adj_ :three::hammer: _Less-than-exemplary antifouling efforts._
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
+__exercise bike__ _n_ :dart: _Syn_ exercise cycle, exercycle  
 __exert__ _v_ :nine::m: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :nine::m: /ɪgˈzɜr ʃən/ __1__ Vigorous action or effort. __2__ An effort: _a great exertion to help others._ __3__ Exercise, as of power or faculties. __4__ An instance of this. _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
@@ -6025,18 +6035,18 @@ __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To gi
 __exhortation__ _n_  
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
-__exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
+__exodus__ _n_ :three: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure. A large scale departure or emigration.  
 __exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
-__expat__ _n_ :two::hammer: _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
+__expat__ _n_ :seven: _Chiefly British_ An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
 __expectedly__ _adv_ _Commercially available tools (expectedly) lack support for flexible optical networks at the moment._  
 __expediency__ _n_ :two::hammer:  
 __expedient__  
-__expedite__ _v_ :dart::nine::m: (expedited, expediting) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedite__ _v_ :dart::nine::m: /EK-spuh-dyte/ To speed up the progress of or execute quickly. To expedite something is to speed up its process or progress. Expedite can also mean “to carry out promptly.” _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._ _To expedite the processing of your request, please include your account number on all documents._  
 __expedited shipping__ _n_ (vs _regular shipping_) Expedited shipping is a fast delivery or shipping freight option that promises faster than usual shipping speeds compared to standard shipping options.  
 __expeditious__ _adj_ /ek-spuh-DISH-usv/ Expeditious is a formal word that is used to describe someone acting in a quick and efficient way, or something done in such a manner. _Known for their expeditious service, the restaurant staff had the family’s order ready in less than no time._  
 __expeditiously__  
@@ -6060,31 +6070,31 @@ __expound__ _v_
 __expropriate__ _v_ To take (a property) for public use.  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
-__extant__ _adj_  
+__extant__ _adj_ :two::hammer:  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __extensive__ _adj_ _Extensive discussions._  
 __extensively__ _adv_ _She’s been working extensively._  
 __extent__ _n_  
 __extenuate__ _v_ :astonished:  
-__extirpate__ _v_ /EK-ster-payt/ _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
-__extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
-__extoll__ _v_ :seven::hammer: (extolled, extolling)  
+__extirpate__ _v_ :two: /EK-ster-payt/ To destroy totally. _Syn_ eradicate, exterminate, uproot _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
+__extol__ _v tr_ :nine::m: (extol, extolled, extolling) To praise highly; exalt. _But he extols running as what helps him stay clean._  
 __extort__ _v_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__  
 __extravaganza__ _n_ :four::hammer:  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
-__extricate__ _v_ :nine::m: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
+__extricate__ _v tr_ :nine::m: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
-__exude__ _v_ :three::hammer:  
+__exude__ _v_ :four::hammer:  
 __exult__ _v intr_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
 __Eye of Providence__ _n_ (all-seeing eye of God)  
+__eye of round__ _n_ A cut of meat taken from the rear leg muscles. A cheap cut of tough lean meat, considered one of the worst cuts; suitable for making ground meat.  
 __eye patch__  
 __eye raiser__  
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
