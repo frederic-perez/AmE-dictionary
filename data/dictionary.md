@@ -17914,12 +17914,12 @@ __Thursday__ _n_ :mega: /’θøzdi, -deI/
 __thusly__  
 __thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)  
 __thwack<sup>2</sup>__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at being unable to fix it, Dad thwacked the engine, and it started right up._  
-__thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
+__thwart__ _v_ :nine::m::pencil2: /THWORT/ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :six::hammer::mega::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :five: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman’s hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _The papal tiara._ :es: diadema  
 __tic-tac-toe__ _n_  
 __tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._  
-__tic<sup>2</sup>__ _v_  
+__tic<sup>2</sup>__ _v_ :two::hammer: (ticcing)  
 __tick prevention__  
 __tick<sup>1</sup>__ _n_ Any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals. :es: garrapata  
 __tick<sup>2</sup>__ _v_ _Prices ticked up 0.2%._  
@@ -17928,15 +17928,17 @@ __ticker__ _n_ :two: __1a__ _slang_ A person’s heart. __b__ A watch. __2__ A p
 __ticket taker__ _n_ Someone who is paid to admit only those who have purchased tickets.  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __ticket__ _n_ __5__ (Government, Politics & Diplomacy) chiefly US and NZ the group of candidates nominated by one party in an election; slate. _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
-__tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
+__tickle__ _v_ :six::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
-__tickling__ _n_ :two::dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
+__tickling<sup>1</sup>__ _n_ :two::dart: The act of touching, stroking, or poking a person, part of the body, etc, so as to produce pleasure, laughter, or a twitching sensation. :es: cosquillas  
+__tickling<sup>2</sup>__ _adj_ _Tickling laughter._  
 __ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
-__tidbit__ _n_ /ˈtɪdˌbɪt/ :nine::hammer::pencil2::dart: (tidbits) _He fed the cat tidbits._  
+__tidbit__ _n_ :nine::m::hammer::pencil2::dart: /ˈtɪdˌbɪt/ _He fed the cat tidbits._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
-__tidy__ _adj_ _A tidy plan._  
+__tidy<sup>1</sup>__ _adj_ _A tidy plan._  
+__tidy<sup>2</sup>__ _v_ _She tidied her desk._  
 __tie-dye__  
 __tie-in__ _n_ _The story “Dr. Cyclops” was an early movie tie-in._  
 __tie-up__ _n_  
@@ -17970,6 +17972,7 @@ __time frame__
 __time line__ _n_ (timeline) _Can it be done in that time line?_  
 __time-consuming__ _adj_  
 __time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample. _SSFP cine sequences provide high resolution, time-resolved images._  
+__time-saver__ _n_  
 __time-stamp__ _v_ _These events are time-stamped._  
 __timeless<sup>1</sup>__ _adj_ :two: /TYME-luss/ Not restricted to a particular time or date. _Syn_ eternal, ageless _Proverbs are statements of timeless wisdom._  
 __timeless<sup>2</sup>__ _adv_  
@@ -18075,7 +18078,7 @@ __toeing__ _v_
 __toffee__  
 __tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
 __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
-__toil<sup>2</sup>__ _v_ :six::hammer: (toiled) _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
+__toil<sup>2</sup>__ _v tr_ :eight::hammer: (toiled) _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
 __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.  
 __toilet stool__  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
@@ -18084,7 +18087,7 @@ __Tokyoites__
 __tolerant__  
 __tolerate__ _v_  
 __toll-free__  
-__toll<sup>1</sup>__ _n_ :five::hammer: _Emotional toll._ _Toll road._  
+__toll<sup>1</sup>__ _n_ :six::hammer: _Emotional toll._ _Toll road._ _Exact a toll._  
 __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
 __Tom and Jerry__ _n_ A hot drink consisting of rum or another liquor, a beaten egg, milk or water, sugar, and spices.  
 __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
@@ -18096,11 +18099,12 @@ __tombstone__ _n_
 __tomcat<sup>1</sup>__ _n_ :two: /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
 __tomcat<sup>2</sup>__ _v intr_ To pursue women promiscuously.  
 __tome__ _n_ :two: /TOHM/ A large heavy book, usually about a serious subject. A tome is a large or scholarly book. _The book is a literary tome set during the French Revolution._  
-__tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
-__tommyrot__ _n_ Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
+__tomfoolery__ _n_ :three: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
+__tommyrot__ _n informal_ :two: Utter foolishness; nonsense. Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
 __ton__ _n_ _A metric ton._  
 __tone-deaf__ _adj_ :three::hammer:  
 __tong__  
+__tongs__ _n pl_ :es: tenazas  
 __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue twister__ _n_ __1__ A word or group of words difficult to articulate rapidly, usually because of a succession of similar consonantal sounds, as in _Shall she sell seashells?_ __2__ Something difficult to pronounce.  
 __tongue__ _n_ :mute:[tong~~u~~e]  
@@ -18127,6 +18131,7 @@ __toothless__ _adj_ _Some consider most of those laws toothless._
 __toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer is that English is weird. The long answer is that compound words generally use the singular form of a word to represent the whole, including those involving body parts: _hairbrush_, _footstool_, _armchair_, _bookcase_, etc.  
 __toothsome__ _adj_ :five: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __toothy smile__  
+__toots__ _n slang_ Babe; sweetie.  
 __tootsie__ _n_ _slang_ :three: /ˈtʊtsɪ/ Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top billing__ _n_ The advertisement of a star’s name at the top of a theatrical poster.  
@@ -18137,16 +18142,19 @@ __top hat__ _n_
 __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
 __top__ _v_ _The investment soon topped a billion dollars._  
 __top-dog__  
-__top-flight__  
+__top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
+__top-flight__ _adj_ :two::hammer: _Top-flight restaurant._  
+__top-notch__  
 __top-of-mind__  
 __topiary<sup>1</sup>__ _adj_ :two::hammer: _Topiary figures adorned the gardens._  
-__topiary<sup>2</sup>__ _n_ :three::hammer: _Topiary garden._  
+__topiary<sup>2</sup>__ _n_ :four::hammer: _Topiary garden._  
 __topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
 __topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
 __toppings__ _n_  
 __topple__ _v_ :four::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._ _Men-at-arms on ladders climbed to the very brink of the walls to be toppled back._  
-__tops__ _adv_ :dart: At a maximum; at most: _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted._  
+__tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance, quality, or favor; outstanding.  
+__tops<sup>2</sup>__ _adv_ :dart::two: At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
 __topsy-turvy<sup>3</sup>__ _n_ A topsy-turvy state.  
@@ -18159,10 +18167,11 @@ __torment__ _v_
 __tormentor__ _n_ :two::hammer:  
 __torn__ _v_ :three: Past participle of tear. _You feel so torn about what to do._  
 __torpedo__ _v_  
-__torpid__ _adj_ :two: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
+__torpid__ _adj_ :three: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :three: Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
+__torticollis__ _n_  
 __tortuous__ _adj_ /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
 __toss__ _v_ :three::hammer: (tossing)  
@@ -18203,19 +18212,22 @@ __toward__ _prep_ :five::mega::hammer:
 __towel__ _n_ :mega:  
 __tower__ _v_ _Towering over our heads._  
 __towheaded__ _adj_  
+__town crier__ _n_  
 __town hall__ _n_  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
 __towpath__  
 __toy dog__ _n_ Any of several breeds of very small dogs kept purely as pets.  
-__toy__ _v_ :two::hammer: (toying)  
+__toy__ _v_ :three::hammer: (toying)  
 __Toyota__ _n_ :mega: A city of south-central Honshu, Japan, east-southeast of Nagoya. It is an industrial center.  
 __tpngue-in-cheek__  
+__traboule__ _n_  
 __trace element__ _n_ __1__ A chemical element present in tiny amounts: _trace elements in ground water._ _This elixir packs a nutritional punch with antioxidants, trace elements, enzymes, and energy-promoting superfoods._ __2__ A chemical element required in minute quantities by an organism to maintain proper physical functioning.  
 __traceability__ _n_  
 __traci meet__ _n_ :two::hammer:  
 __track__ _n_ :camera:  
 __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
+__tractable__ _adj_ Easily managed or controlled; governable. _Syn_ manipulable  
 __tractography__ _n_  
 __tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)  
 __tractor__ _n_  
@@ -18223,6 +18235,7 @@ __trade paperback__
 __trade__ _n_  
 __trade-off__ _n_ :five::hammer: (tradeoff, trade-offs) _She has to make trade-offs._  
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
+__tradeoff__ _n_ :pencil2:  
 __trading card__ _n_ A card with a picture or design printed on it, often one of a set collected and traded by children.  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  

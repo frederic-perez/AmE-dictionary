@@ -1059,33 +1059,6 @@ __thrash__ _v_
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
-__thwart__ _v_ :three::hammer: /THWORT/  
-__ticcing__  
-__tickle__ _v_  
-__tickling__ _adj_ _Tickling laughter._  
-__tidbit__ _n_  
-__tidbits__  
-__tidy__ _v_ _She tidied her desk._  
-__time-saver__ _n_  
-__toil__ _v tr_ :two::hammer:  
-__toll__ _n_ _Exact a toll._  
-__tomfoolery__ _n_  
-__tommyrot__ _n informal_ Utter foolishness; nonsense.  
-__tongs__ _n pl_ :es: tenazas  
-__toots__ _n slang_ Babe; sweetie.  
-__top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
-__top-flight__ _adj_ _Top-flight restaurant._  
-__top-notch__  
-__topiary__ _n_  
-__tops<sup>1</sup>__ _adj_ Ranked among the highest, as in ability, performance, quality, or favor; outstanding.  
-__tops<sup>2</sup>__ _adv_ At a maximum; at most: _It’ll take an hour, tops._ _I’ll give you $25 for that, tops._  
-__torpíd__ _adj_  
-__torticollis__ _n_  
-__town crier__ _n_  
-__toy__ _v_  
-__traboule__ _n_  
-__tractable__ _adj_ Easily managed or controlled; governable. _Syn_ manipulable  
-__tradeoff__ _n_ :pencil2:  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
 __trappings__ _n pl_ :two::hammer:  
