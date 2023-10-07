@@ -946,11 +946,13 @@ __child’s play__
 __chillax__ _slang_ Calm down and relax. _You can dance to your favorite tune, chillax, or have friends over._  
 __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing,” often shortened colloquially to “chillaxin’.” _We’re just chillaxin’ and watching some TV, if you want to join us._  
 __chime in__ :three::hammer:  
+__chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
 __chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
 __chip away__ :dart::eight: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ :dart: To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip in__  
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
+__chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
 __choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
 __chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
 __chopped liver__  
@@ -960,7 +962,8 @@ __chug__ _v_ [for one person] To drink something, usually beer, quickly and in l
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
-__churn out__ :three::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
+__chunk__ :dart: __1__ _v intr_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _v intr_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
+__churn out__ :four::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __churn something up__  
 __cinch__  
 __cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0). _I feel like a bit of a cipher in such a large company._  
@@ -971,9 +974,12 @@ __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a ven
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
+__clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
 __clear the air__ :dart::two::hammer:  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
+__clincher__ :two: The final element; the straw that broke the camel’s back.  
+__clock in__ _Today’s piece clocks in at 728 words._  
 __close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
 __close call__ _n_ :three::hammer:  
 __close in__  
@@ -990,6 +996,7 @@ __coast along__ :two: To proceed with little effort. _Because the route was most
 __cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
 __cock of the walk__ [:scroll: In animal husbandry, an enclosed yard or a pen is known as a walk. A rooster who rules a roost is, literally, a cock of the walk.] A person who behaves in an arrogant and domineering manner in a group. _The deputy manager was cock of the walk until the new manager arrived. He loved acting cock of the walk and ordering everyone about._  
 __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
+__cocktease__  
 __code of silence__ :two: The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor. _There are parts of the city where the code of silence is so strong that police don’t even bother questioning the residents there._  
 __cold call__  
 __cold feet__ :four::hammer:  
@@ -999,9 +1006,11 @@ __collect (one’s) wits__ :two: To try to calm oneself and think clearly and ra
 __collect dust__ :two: To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._ _Why do you want another video game console? You already have three collecting dust under the television!_  
 __come (a)round__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
+__come across something__  
 __come across__ :four::hammer:  
 __come again?__ :two::hammer:  
 __come and go__  
+__come as no surprise__ :two: To be completely unsurprising. _Considering how much they had been fighting lately, their break-up came as no surprise._  
 __come by__  
 __come clean__ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
 __come close to blows__ :two: To nearly devolve into a physical fight. _Shopping on Black Friday can be so frenetic and crazy that many customers come close to blows with one another!_  
@@ -1025,6 +1034,7 @@ __come to terms__ :two: Come to terms (about someone or something), and come to 
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
 __come-one-come-all__  
+__comfort eating__  
 __comfort food__ :two: Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
 __coming-of-age__ :four: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __commy__ (Commy; commies) Pinko.  
@@ -1032,8 +1042,9 @@ __compare (someone or something) to (someone or something)__ _A city park whose 
 __compare apples to oranges__ To compare two unlike things or people. _Stop comparing apples to oranges—those two companies you’re talking about are completely different._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __compel (someone) to (do something)__ To force someone to do something; to drive someone to so something. _You can’t compel me to do that._ _She compelled herself to try, even though she was ill._  
-__competitive edge__  
+__competitive edge__ :two: Some aspect, factor, or strategy that gives a person, team, company, etc., an advantage over others.  
 __concrete jungle__ :two: An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
+__confide in (one)__  
 __connect the dots__  
 __connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :three: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
@@ -1051,10 +1062,14 @@ __cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wif
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
 __core values__  
+__cornhole__  
+__corny__  
 __corporate ladder__ :two::hammer:  
 __cost an arm and a leg__ To be extremely expensive.  
 __cost the earth__ To be exorbitant or burdensome in expense.  
 __cottage industry__  
+__couch potato__  
+__cough up__  
 __count someone in (for something)__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
@@ -1069,11 +1084,13 @@ __crack someone up__ :three: To make someone laugh very hard; to make someone br
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
 __cram in__  
 __crank up__  
+__crap out__ __4__ _rude slang_ To die. _I felt so sick when I had food poisoning that I thought I was going to crap out._  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
 __crash course (in something)__ :four: A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
-__crash__ __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._  
+__crash__ :two: __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._ _I went home to crash for a few hours, and when I woke up, the story had gone viral._  
 __crasher__  
+__crazy town__  
 __creature of habit__ :two: One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
 __cred__ A shortening of “credibility,” referring to one’s ability to be accepted or deemed legitimate in a particular situation or group. _A scrawny geek like me has no cred with the jocks._  
 __creep on (someone or something)__  
@@ -1113,7 +1130,7 @@ __curse a blue streak__ To use profane language with great rapidity and intensit
 __curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
 __cushy job__ :two: A job that is easy, stress-free, and/or very well paid. _Since I got this cushy job managing a toy store, I’ve gotten to sit around playing with toys all day._  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
-__cut (one’s) teeth__  
+__cut (one’s) teeth__ :two::hammer:  
 __cut (one) some slack__ :two::hammer:  
 __cut (someone or something) short__  
 __cut and dried__ _You seem to think this is cut and dried._  
@@ -1125,18 +1142,19 @@ __cut from the same cloth__ :four: To be very similar.
 __cut from whole cloth__ :two: Entirely fictional or utterly false; completely fabricated and not based on reality at all. A reference to tailors who would falsely advertise garments being made “out of whole cloth,” when, in reality, they were pieced together from different cuts. _To be honest, I don’t believe a word he says—it sounds like it’s cut from whole cloth to me._  
 __cut it close__ :two: To do or complete something very near to its limit, especially of time. _We’ll be cutting it close, but we should get there just before the movie starts._  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
-__cut it__  
+__cut it__ :two::hammer: _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut out__ _Cutting out the negative influences._  
 __cut someone or something off (short)__  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
 __cut the line__  
 __cut the spin__  
-__cut ties with (someone)__ :four::hammer: _I was cutting ties without even knowing._  
-__cut to the chase__ :two::hammer:  
+__cut ties with (someone)__ :five::hammer: _I was cutting ties without even knowing._  
+__cut to the chase__ :three::hammer:  
 __cutting edge__ _Cutting edge fashion._  
 __dabble in (something)__  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
+__damn it__  
 __damn the torpedoes__ :two: To press on with a task or current course of action regardless of apparent risks or dangers. _I don’t care that it might bankrupt the company! Damn the torpedoes and get it done already!_  
 __dance the night away__ :four: To dance the entire evening. _We danced the night away._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
@@ -1146,6 +1164,7 @@ __dark joke__
 __dark side__ A deeply negative, troubled, or antagonistic aspect of someone or something that is usually kept concealed. _Jonathan’s mom is always sweet to me and our friends, but apparently she has a bit of a dark side when we’re not around._  
 __darkest hour__  
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
+__dawn (up)on (one)__ :two::hammer:  
 __day and age__  
 __day in and day out__ :seven: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in, day out__ :three: For an indefinite number of successive days. _Syn_ time after time  

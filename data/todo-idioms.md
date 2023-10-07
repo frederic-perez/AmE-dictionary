@@ -13,32 +13,6 @@ __at pains__ Striving. Used to describe someone who is putting forth effort towa
 __awash__ _adj_ Drunk.  
 __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
 __breathe new life__  
-__chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
-__chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
-__chunk__ :dart: __1__ _v intr_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _v intr_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
-__churn out__  
-__clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
-__clincher__ :two: The final element; the straw that broke the camel’s back.  
-__clock in__ _Today’s piece clocks in at 728 words._  
-__cocktease__  
-__come across something__  
-__come as no surprise__ :two: To be completely unsurprising. _Considering how much they had been fighting lately, their break-up came as no surprise._  
-__comfort eating__  
-__competitive edge__ Some aspect, factor, or strategy that gives a person, team, company, etc., an advantage over others.  
-__confide in (one)__  
-__cornhole__  
-__corny__  
-__couch potato__  
-__cough up__  
-__crap out__ __4__ _rude slang_ To die. _I felt so sick when I had food poisoning that I thought I was going to crap out._  
-__crash__ __3__ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _I went home to crash for a few hours, and when I woke up, the story had gone viral._  
-__crazy town__  
-__cut (one’s) teeth__  
-__cut it__ _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
-__cut ties__  
-__cut to the chase__  
-__damn it__  
-__dawn (up)on (one)__ :two::hammer:  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deathaversary__  
 __deep dive__ :two::hammer:  
