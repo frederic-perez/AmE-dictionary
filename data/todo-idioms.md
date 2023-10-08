@@ -1,3 +1,4 @@
+__(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all seriousness.  
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
@@ -12,7 +13,11 @@ __at length__
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __awash__ _adj_ Drunk.  
 __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
+__bang for (one’s)/the buck__  
 __breathe new life__  
+__brick by brick__ Steadily and continuously in a step-by-step manner, especially the creation or destruction of something. Likened to erecting (or demolishing) a house or other building one brick at a time. _We built this business from nothing, brick by brick, until we had the largest retail chain in the city._  
+__case in point__  
+__connect the dots__  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __deathaversary__  
 __deep dive__ :two::hammer:  
@@ -30,6 +35,7 @@ __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a doo
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
 __dish out__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
+__do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a U-turn__  
 __do nicely__  
 __do or die__  
@@ -63,6 +69,7 @@ __fire up__ __1__ To cause someone to feel more passionate or excited about some
 __first dibs__ _It is something we want first dibs on._  
 __first hand__ Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
 __first off__ :dart:  
+__fizzle out__  
 __fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
 __flake out__  
 __flesh out__  
@@ -141,6 +148,7 @@ __hash slinger__
 __hats and bats__ _n_ _(US police)_ Equipped with helmets and nightsticks.  
 __have (a) skeleton(s) in (one’s)/the closet__  
 __have (got) (someone’s) back__  
+__have (someone’s) blood on (one’s) head__ To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one). _The future has plenty in store—try not to worry about it too much._ _If you think ChatGPT is awesome, wait til you see what the coming wave of AI has in store for you._  
 __have a (good/solid/sound/etc.) grasp of/on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a solid grasp of the material, as you’ll be tested on it next week._  
 __have a ball__  
@@ -154,6 +162,7 @@ __have a good name (somewhere or in something)__ To have a respected reputation 
 __have a handle on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a handle on the material, as you’ll be tested on it next week._  
 __have a hankering for (something)__  
 __have a hard time with (someone or something)__  
+__have a heart of gold__  
 __have a look-see__ :dart: To have a very quick look or brief examination. _A: “Is there any more of that cake left in the fridge?” B: “I’ll go have a look-see!”_  
 __have a mountain to climb__ To have an extremely difficult, seemingly impossible task at hand. _After losing Ohio to his opponent, the president now has a mountain to climb if he wants to hold on to his job._  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
@@ -173,6 +182,7 @@ __he who hesitates is lost__
 __head over heels__  
 __head start__  
 __head-to-toe__  
+__heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __heart of gold__  
 __heaven on earth__  
@@ -206,6 +216,7 @@ __hope against (all) hope__ (hoping against hope)
 __hope for the best__  
 __hophead__  
 __hoping agaínst hope__  
+__hot take__ An opinion or analysis published, broadcast, or otherwise issued very soon after the topic in question has occurred or become timely, often produced without much research and with the primary intention of being provocative in order to generate attention. _Twitter is a gold mine for garbage hot takes._ _Last Friday, we gave a hot take: the iPhone is not the future._  
 __hot-button__ _Hot-button social issues._  
 __hotfoot__ :dart: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
 __how come__  
@@ -214,12 +225,14 @@ __hullabaloo__ :two::hammer:
 __humblebrag__  
 __I feel you__  
 __I hear you__  
+__I(’ll) give you that__ I concede that what you just said is true or likely.  
 __if you know what I mean__  
 __if you will__  
 __in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
 __in a million years__  
+__in all seriousness__ :dart: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in any event__  
 __in black and white__  
 __in broad (brush) strokes__  
@@ -243,13 +256,16 @@ __in training__
 __it (always) pays to (do something)__  
 __it factor__  
 __it is what it is__  
+__jack up__ _Amazon reportedly used a secret algorithm to jack up prices._  
 __jacked to the gills__  
 __jazzy__  
 __jill__ (gill, Gillian) A young woman. _A jailbait jill._  
 __K-car__  
 __keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
 __kickback__  
+__knock (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really knocked it out of the park!_  
 __kosher__  
+__mark my word(s)__  
 __more so__  
 __more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
 __more than meets the eye__  
@@ -271,6 +287,7 @@ __next to nothing__ Almost nothing; a very small amount.
 __nice guy__  
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __night and day__  
+__no cigar__  
 __on and on__ _The list goes on and on._  
 __on good terms__  
 __on steroids__  
@@ -326,6 +343,7 @@ __piss and vinegar__
 __pit stop__ __2__ A pause in a journey (usually by car) to urinate, eat, rest, and/or refuel. (From the name of a service stop in automobile racing.) _I think we’ll pull in at the next rest area. I need a pit stop._  
 __play (one’s) cards close to (one’s) chest__  
 __play (someone) like a fiddle__ (play (someone) like a piano) _In the ensuing months, Weinberg played Rosenberg like a piano._  
+__play catch-up__  
 __play dumb__  
 __play it cool__  
 __play it safe__  
@@ -383,7 +401,7 @@ __roundhouse__
 __rule out__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
-__run amok__  
+__run amok__ :two::hammer:  
 __run down__  
 __run for (one’s) money__  
 __run thin__  
@@ -464,10 +482,13 @@ __spit out__ _All models spit out photos of real people and copyrighted images._
 __spot on__  
 __spruce up__ :dart:  
 __spunky__  
+__square off__ To fight, argue, or begin a conflict or competition. _The two fighters will be squaring off tomorrow at 9 PM._  
+__stack (something) against (someone or something)__ _When Lorenzo was born, the odds were already stacked against him._  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
 __stand tall__ To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __step back__ __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
 __steppingstone__  
+__stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __strange bedfellows__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __sure enough__  
@@ -491,6 +512,7 @@ __tap (one) into (something)__
 __tap into__ :two: _We can all tap into our innate brilliance._  
 __tattle on__ :two: _v_ To inform that someone has misbehaved: _my brother tattled on me for spilling the glue._  
 __tear away__  
+__tech neck__ A condition characterized by pain and stiffness in the neck, shoulders, and upper back due to prolonged use of digital devices. The sagging skin and neck wrinkles resulting from constantly bending downward to look at a smartphone, which can also cause headaches and neck, shoulder and back pain.  
 __teem with (someone or something)__  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __test the waters__  
@@ -501,6 +523,7 @@ __that’s a wrap__ :dart: Used to indicate that something is finished or conclu
 __the (hand)writing is on the wall__  
 __the die was cast__ (the dice were cast)  
 __the frosting on the cake__  
+__the grand scheme of things__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
@@ -514,6 +537,7 @@ __the nitty-gritty__
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
+__think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
 __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __Tinseltown__  
@@ -543,6 +567,7 @@ __until kingdom come__ For a very long, indefinite amount of time; forever.
 __until next time__  
 __up and running__  
 __up for grabs__  
+__ups and downs__ Positive and negative events or experiences, considered collectively.  
 __usher in__  
 __vac__  
 __verse (someone or oneself) in (something)__  
@@ -577,7 +602,7 @@ __wino__ _slang_ An alcoholic, especially one who chronically or habitually drin
 __wire__  
 __wise guy__ __2__ A mobster.  
 __wish (one) well__  
-__wishful thinking__ :es: espejismo, ilusión  
+__wishful thinking__ :two::hammer: :es: espejismo, ilusión  
 __with great (something) comes great (something else)__  
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
