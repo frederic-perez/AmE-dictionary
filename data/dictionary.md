@@ -304,7 +304,7 @@ __age<sup>2</sup>__ _v_
 __ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
 __agemate__ _n_  
-__agency__ _n_ :six::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
+__agency__ _n_ :nine::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._ _We must use our agency._  
 __agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
@@ -321,7 +321,7 @@ __agitprop__ _n_ Political propaganda (especially communist propaganda) communic
 __agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
-__agonist__ _n_ __3__ One involved in a struggle or competition.  
+__agonist__ _n_ :two: __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
@@ -353,6 +353,7 @@ __air cast__ _n_ :two::hammer::camera:
 __air nozzle__ _n_ _(mechanical engineering)_ In an automotive engine, a device for supplying air to the air-injection reactor. _Try adjusting your air nozzles to full force._  
 __air pocket__ _n_  
 __air vent__  
+__air__ _v_  
 __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airborne__ _adj_ :two::hammer: _An airborne radar._ _Airborne and shipborne measured platforms._  
 __airburst__ _n_  
@@ -374,8 +375,9 @@ __Al-Anon__
 __alabaster__  
 __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
+__Alaska__ _n_ :mega: /əˈlæs kə/  
 __Alaskan__  
-__albatross__ _n_ :pencil2::three::mega::hammer:  
+__albatross__ _n_ :pencil2::four::mega::hammer: /ˈæl bəˌtrɔs, -ˌtrɒs/  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
 __alcove__ _n_ :two::hammer: _Historic alcoves._ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
@@ -395,6 +397,7 @@ __alighted__ _v_ :two::hammer:
 __align__ _v_ :mute:[ali~~g~~n]  
 __alike__  
 __aliquot__ _adj, n_ /ˈælɪˌkwɒt/  
+__all caps__  
 __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
 __all righty__  
@@ -408,11 +411,11 @@ __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holdi
 __all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __all-time__ _adj_ _That’s one of my favorite all-time experiments._  
-__allay__ _v tr_ :five::hammer: (allayed)  
+__allay__ _v tr_ :six::hammer: (allayed)  
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/  
-__allegedly__ _adv_ :two: /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
+__allegedly__ _adv_ :three: /əˈlɛdʒɪdlɪ/ Reportedly; supposedly: _payments allegedly made to a former colleague._  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
 __alleviate__ _v_ :two::hammer: /uh-LEE-vee-ayt/  
@@ -423,7 +426,7 @@ __alliterate__ _v_ To use two or more words having the same initial sound, as in
 __alliteration__ _n_ :two: Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
-__allot__ _v_  
+__allot__ _v tr_ :two::hammer: (alloted)  
 __allotment__ _n_ :two::hammer:  
 __allotriophagy__ _n_ /uh-lah-tree-AH-fuh-jee/ [:scroll: From Greek allotrio- (foreign) -phagy (eating)] An abnormal desire to eat things not usually eaten, such as chalk or clay. _Sun_ pica  
 __allotted__  
@@ -468,6 +471,7 @@ __alum__ _n informal_ :four: An alumna or alumnus. _A Vanderbilt alum._
 __aluminum__ _n_ :four::pencil2::hammer:  
 __alumni__ _n pl_ :two::hammer:  
 __amalgam__  
+__amaranth__ _n_ __2__ An imaginary flower that never fades.  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
 __Amber alert__ _n_  
@@ -530,6 +534,7 @@ __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, ro
 __anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
 __anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
+__anaesthetic__  
 __anal bleaching__ _n_  
 __analemma__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
@@ -599,6 +604,7 @@ __anniversary__ _adj, n_ :pencil2::mega:
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annual__ _n_ __2__ _Botany_ A plant that completes its entire life cycle in a single growing season.  
 __annuity__ _n_ :five::hammer: (annuities)  
+__annulus__ _n_ A toroidal shape. _Syn_ doughnut, anchor ring, halo, ring  
 __annum__ _n_  
 __annus horribilis__ _n_  
 __anodized__ _v_ :two::hammer:  
@@ -623,6 +629,7 @@ __antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forer
 __antedate<sup>1</sup>__ _n_  
 __antedate<sup>2</sup>__ _v_ _It long antedated the plague years._  
 __antediluvian__ _adj_  
+__antelope__ _n_ :pencil2:  
 __antenatal__  
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
@@ -684,7 +691,7 @@ __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from a
 __apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apologue__ _n_ A moral fable, especially one having animals or inanimate objects as characters. _Syn_ allegory, parable, fable  
-__apoplectic__  
+__apoplectic__ _adj_ :two::hammer:  
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __apoptosis__ _n_  
 __aposematic__ _adj_  
@@ -805,8 +812,9 @@ __arms race__
 __armscye__ _n_  
 __arose__ _v_ :two::hammer:  
 __arousal__  
-__arpeggio__  
+__arpeggio__ _n_ :two::hammer:  
 __arpents__ _n_ :two::hammer:  
+__arraign__ _v tr_  
 __arraignment__ _n_  
 __arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
 __arrangement__ _n_  
@@ -869,7 +877,7 @@ __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” 
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
 __aspen__ _n_ :four::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
-__Asperger’s syndrome__ _n_  
+__Asperger’s syndrome__ _n_ :two::hammer:  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
@@ -889,7 +897,7 @@ __assessment__ _n_ :pencil2:
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduous__ _adj_ :two: /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
-__assiduously__ _adv_ :pencil2::two::hammer:  
+__assiduously__ _adv_ :pencil2::three: With care and persistence.  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
 __assist__ _n_ _Green had 14 rebounds and nine assists._  
@@ -1029,7 +1037,7 @@ __average citizens__
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
-__avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
+__avert__ _v tr_ :six::hammer: (averted) _Tom made a show of averting his eyes._  
 __aviary__ _n_ :four: A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
 __avid__ _adj_ :five::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
@@ -1096,7 +1104,7 @@ __backcountry__ _n_ :five::hammer: _Utah ski resorts offering backcountry advent
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__ _n_  
-__backfire__ _v_  
+__backfire__ _v_ :two::hammer:  
 __backhanded__ _adj_  
 __backhander__ _n_ /ˈbækˌhændə/  
 __backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
@@ -1106,6 +1114,7 @@ __backlash<sup>2</sup>__ _v_
 __backlit__  
 __backlog<sup>1</sup>__ _n_ :eight: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
 __backlog<sup>2</sup>__ _v_ (backlogged)  
+__backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
 __backpacking__ _n_  
 __backpedal__ _v intr_ :three::hammer: _He backpedaled quickly._  
 __backseater__ _n_  
@@ -1127,13 +1136,13 @@ __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __
 __baddie__ _n_ _It’s just what Bond fans want in a baddie._  
 __bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :three::hammer: _Felix was thrown when his horse shied a a badger._  
-__badinage__ _n_ :two::hammer:  
+__badinage__ _n_ :three::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She wants him so badly!_  
 __Baedeker__ _n_ /BAY-de-kuhr/ [:scroll: After the German publisher Karl Baedeker (1801-1859) who founded a company that published travel guidebooks.] A guidebook.  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._ _Syn_ dumbfound, flummox, mystify, nonplus, perplex, puzzle, amaze, stupefy, gravel, vex, pose, stick, beat, get  
-__baffled__ _adj_ :three: /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
+__baffled__ _adj_ :four: /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _adj_ :two: /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
@@ -1161,12 +1170,12 @@ __balderdash__
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
 __baleful__ _adj_ :two::hammer: _Syn_ threating, menacing  
+__balefully__  
 __baler__ _n_ An agricultural machine for making bales of hay, etc. _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
 __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
-__balkanize__ _v_ /BAWL-kuh-nyze/  
-__balked__ _v_  
+__Balkanize__ _v tr_ :two::hammer: /BAWL-kuh-nyze/  
 __ball bearings__ _n_ :two::hammer:  
 __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  

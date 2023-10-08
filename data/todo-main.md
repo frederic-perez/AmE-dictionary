@@ -21,32 +21,6 @@ __aflutter__
 __afoot__  
 __aftereffect__ _n_  
 __afterimage__ _n_  
-__agency__ _n_ :three::hammer: _We must use our agency._  
-__agonist__ _n_  
-__air__ _v_  
-__Alaska__ _n_ :mega: /əˈlæs kə/  
-__albatross__ _n_ :mega: /ˈæl bəˌtrɔs, -ˌtrɒs/  
-__all caps__  
-__allay__ _v_  
-__allegedly__  
-__allot__ _v tr_ (alloted)  
-__amaranth__ _n_ __2__ An imaginary flower that never fades.  
-__anaesthetic__  
-__annulus__ _n_ A toroidal shape. _Syn_ doughnut, anchor ring, halo, ring  
-__antelope__ _n_ :pencil2:  
-__apoplectic__ _adj_  
-__arpeggio__ _n_  
-__arraign__ _v tr_  
-__Asperger’s syndrome__  
-__assiduously__ _adv_ :pencil2: With care and persistence.  
-__avert__ _v tr_  
-__backfire__ _v_  
-__backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
-__badinage__  
-__baffled__ _adj_ Lacking in understanding. _Police are baffled by the murder._  
-__balefully__  
-__balk__ _v_  
-__Balkanize__ _v tr_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
 __banter__ _v_ :two::hammer:  
