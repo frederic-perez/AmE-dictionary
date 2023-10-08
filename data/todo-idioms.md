@@ -4,32 +4,6 @@ __(good) heavens__
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
-__ahead of oneself__ :two: Idiomatic expression that refers to being overly confident or optimistic about future events or outcomes, often without considering the potential obstacles or challenges that may arise.  
-__as if (one’s) life depends on it__  
-__as it happens__  
-__at every turn__  
-__at lengh__  
-__at length__  
-__at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
-__awash__ _adj_ Drunk.  
-__AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
-__bang for (one’s)/the buck__  
-__breathe new life__  
-__brick by brick__ Steadily and continuously in a step-by-step manner, especially the creation or destruction of something. Likened to erecting (or demolishing) a house or other building one brick at a time. _We built this business from nothing, brick by brick, until we had the largest retail chain in the city._  
-__case in point__  
-__connect the dots__  
-__day one__ _She established on Day One an atmosphere of genuine affection and concern._  
-__deathaversary__  
-__deep dive__ :two::hammer:  
-__deep pockets__  
-__deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
-__deus ex machina__  
-__devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
-__dig in (one’) heels__  
-__dig in one’s heels__ To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
-__dig in(to) (something)__  
-__dime__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value.  
-__dingy__  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  

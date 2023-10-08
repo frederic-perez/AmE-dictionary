@@ -232,6 +232,7 @@ __age-old__ Very old or established; related to a time long before one would be 
 __ages__ _informal_ A very long or extended period of time. _Hi, Mary! It’s been ages since we last saw each other!_  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
+__ahead of oneself__ :two: Idiomatic expression that refers to being overly confident or optimistic about future events or outcomes, often without considering the potential obstacles or challenges that may arise.  
 __ahead of the curve__ :eight: __1__ Better than average. _I’m not sure how I did on that exam, but I think I’ll end up ahead of the curve._ __2__ At the forefront of or leading in something, such as a developing situation, field of study or business, social development, etc. _The new professor is way ahead of the curve with his research into genetics._  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
@@ -318,8 +319,9 @@ __as ever__ _As ever, he was right._
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
 __as good as it gets__ :five: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._ _Customer service is as good as it gets._  
+__as if (one’s) life depends on it__  
 __as if to say__  
-__as it happens,__ :five: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as it happens,__ :six: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as much__ Almost the same: _I thought as much._ _She said as much._  
@@ -345,18 +347,19 @@ __at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
-__at every turn__ __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
+__at every turn__ :two: __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
 __at first blush__ :two: Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
 __at heart__ :three::hammer: _Most people are crooks at heart._ _I’m a country girl at heart._  
 __at its best__ :two: Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._ _An excellent tribute to nature at its best._  
 __at its worst__  
 __at large__  
-__at length__ :two::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
+__at length__ :four::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
 __at odds__ :seven: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._ _They are at odds over the best way to lead the committee._  
 __at once__ :two::hammer:  
 __at one button__ _The Prince did not value a knight at one button._  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
 __at one’s wit’s end__ :two: At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
+__at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __at peace__  
 __at someone’s disposal__  
 __at stake__  
@@ -375,7 +378,9 @@ __at top speed__ As fast as something or someone can go. _Once Tom caught the ba
 __at your leisure__  
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
+__awash__ _adj_ Drunk.  
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
+__AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
 __aye aye, sir__ _Aye aye, Captain._  
 __B and E__ :three::hammer:  
 __B-Team__  
@@ -423,7 +428,7 @@ __ballyhoo__ _v_
 __bamboozle__ :dart: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
 __Band E__  
-__bang for (one’)/the buck__ :two: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
+__bang for (one’s)/the buck__ :three: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
 __bank on something__  
 __bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
 __banker’s hours__ A limited work schedule (as banks were once known for having short work days and being closed on holidays and weekends). _You won’t be able to reach her on a Saturday—she keeps banker’s hours._  
@@ -725,7 +730,8 @@ __break your back__ :two: To work extremely hard.
 __break your duck__ To do something for the first time.  
 __breaking point__ :three: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
-__brick by brick__  
+__breathe new life__  
+__brick by brick__ :two: Steadily and continuously in a step-by-step manner, especially the creation or destruction of something. Likened to erecting (or demolishing) a house or other building one brick at a time. _We built this business from nothing, brick by brick, until we had the largest retail chain in the city._  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __bridge the gap__ :two::hammer:  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
@@ -872,7 +878,7 @@ __carry the ball__ :two: To be in charge.
 __carry the day__ To win, to be successful.  
 __carve out__ :three::hammer:  
 __case closed__ :two::hammer:  
-__case in point__ :four: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__case in point__ :five: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
@@ -1045,7 +1051,7 @@ __compel (someone) to (do something)__ To force someone to do something; to driv
 __competitive edge__ :two: Some aspect, factor, or strategy that gives a person, team, company, etc., an advantage over others.  
 __concrete jungle__ :two: An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
 __confide in (one)__  
-__connect the dots__  
+__connect the dots__ :two::hammer:  
 __connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :three: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
@@ -1169,6 +1175,7 @@ __day and age__
 __day in and day out__ :seven: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in, day out__ :three: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
+__day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __day or night__ :two: At any point in time; 24 hours a day. _You know you can always talk to me about your problems. Call me day or night, it doesn’t matter._  
 __day tripper__ _You are funny, sitting there like a day tripper._  
 __day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
@@ -1190,8 +1197,11 @@ __dead set against something__ To be completely against something.
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ :eight::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__deathaversary__  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
-__deep dive__ :four: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
+__deep dive__ :six: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
+__deep pockets__  
+__deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
 __deepfake__ :two::hammer:  
 __defuse (something)__  
 __deliver on__ _v_ :dart: To do something one has promised or is expected to do: _The contractor delivered on his promises to get the work done by Friday._ _Caregiving robots don’t always deliver on their promises._  
@@ -1199,9 +1209,10 @@ __demur at (something)__ To dispute or contest something.
 __deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
 __desperate times call for desperate measures__ :two: _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
-__deus ex machina__ :two::hammer: _Leaders under fire often wait for some deus ex machina._  
+__deus ex machina__ :four::hammer: _Leaders under fire often wait for some deus ex machina._  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
+__devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
 __dial in__ __6__ :dart: To perform a role or duty in a halfhearted, disinterested, and unprofessional manner. A noun or pronoun can be used between “dial” and “in,” especially in the form “dial it in.” _You can tell the actor is dialing it in—I’m sure he got a good paycheck for the voiceover, but you’d think he could try a little bit harder._  
 __dial up__ :two: To telephone someone or something: _I dialed up my dentist and made an appointment. Would you dial your sister up and ask her what time she’s coming over?_  
 __dicey__  
@@ -1209,10 +1220,13 @@ __dick around__
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig deep__  
-__dig in(to) (something)__  
+__dig in (one’) heels__ :two: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
+__dig in(to) (something)__ :two::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
+__dime__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value.  
 __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __Ding, ding, ding, we have a winner!__ :two: _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
+__dingy__  
 __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
 __dirtbag__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
