@@ -16,11 +16,12 @@ __admittedly__
 __affect<sup>1</sup>__ _n_  
 __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._  
 __afford__ _v_  
+__aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
 __afoot__  
 __aftereffect__ _n_  
 __afterimage__ _n_  
-__agency__ _n_ :two::hammer: _We must use our agency._  
+__agency__ _n_ :three::hammer: _We must use our agency._  
 __agonist__ _n_  
 __air__ _v_  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
@@ -42,6 +43,7 @@ __avert__ _v tr_
 __backfire__ _v_  
 __backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
 __badinage__  
+__baffled__ _adj_ Lacking in understanding. _Police are baffled by the murder._  
 __balefully__  
 __balk__ _v_  
 __Balkanize__ _v tr_  
@@ -56,6 +58,8 @@ __behest__ _n_ :two::hammer:
 __belie__ _v_  
 __belied__ _v_  
 __bellwether__ _n_ /BEL-WEH-ther/  
+__bemused__  
+__berserk__  
 __beseech__  
 __bevy__ _n_  
 __bidding__ _n_  
@@ -102,6 +106,7 @@ __call upon__
 __campground__  
 __can-opener__  
 __Candy Land__ _n_ (game?)  
+__candy stripper__ _n_  
 __cantillation__  
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __caper__ _v_ _The singers caper around the stage._  
@@ -118,6 +123,7 @@ __celebutante__ _n_ A celebrity who is well known in fashionable society; a blen
 __cerulean__ _adj_ /suh-ROO-lee-uhn/ Sky blue.  
 __chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
 __chagrin__  
+__charcuterie__ _n_  
 __cheapskate__ _n_  
 __chemistry__ _n_ __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
 __cherry picker__ _n_  
@@ -145,6 +151,7 @@ __compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remors
 __conceit__  
 __concomitant__ _v_  
 __confabulation__ _n_  
+__confection__ _n_ /kun-FEK-shun/  
 __conflate__ _v tr_  
 __confounding__ _adj_ That confounds or contradicts or confuses _Syn_ contradictory  
 __conjoined__ _adj_ _Conjoined meanings._  
@@ -196,6 +203,7 @@ __defray__ _v tr_
 __defuse__ _v_ :two::hammer:  
 __deliverance__  
 __deluge__ _n_ :two::hammer:  
+__demarcate__ _v_ /dih-MAHR-kayt/ To demarcate something is to fix or define its limits or edges.  
 __demure__ _adj_ /dih-MYOOR/  
 __denizen__ _n_ /ˈdɛnɪzən/  
 __despondency__ _n_  
@@ -211,10 +219,11 @@ __diluvian__ _adj_
 __din__ _n_  
 __dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
 __dirge__ _n_ :es: canto fúnebre  
-__discombobulated__  
+__discombobulated__ _adj_ :two::hammer:  
 __disembed__ _v tr_ :astonished: To remove (something) from what it is embedded in.  
 __disempower__ _v tr_  
 __disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
+__disobligation__  
 __disquiet__ _adj, n, v_  
 __dissatisfied__  
 __dissociation__ _n_  
@@ -264,7 +273,7 @@ __endure__
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __fabricate__ _v_  
-__facetious__  
+__facetious__ _adj_ :two::hammer:  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __factotum__  
 __fallible__ _adj_ /FAL-uh-bul/  
@@ -279,7 +288,7 @@ __fatality__ _n_
 __fav__ _n_  
 __favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favorable), the god of the west wind in Roman mythology. His Greek equivalent is Zephyr.] __1__ Relating to the west wind. __2__ Mild; gentle; benign.  
 __fawn__  
-__faze__ _v_  
+__faze__ _v tr_ :two: /FAYZ/ To faze someone is to disturb their composure. _Syn_ disconcert, daunt  
 __feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __felon__  
@@ -288,6 +297,7 @@ __festinate__ _v_
 __fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __feverish__ _adj_ _Feverish fantasies._  
 __fiasco__  
+__fiat__ _n_ A legally binding command or decision entered on the court record (as if issued by a court or judge). _Syn_ decree, edict, rescript, order  
 __fib<sup>1</sup>__ _n_  
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
 __fictitious__  
@@ -329,6 +339,7 @@ __garbled__
 __gargantuan__ _adj_ _Gargantuan ego._  
 __gash__ _n_ _There was a huge gash in the front tire of the limousine._  
 __gauntlet__ _n_ /GAWNT-lut/  
+__gazebo__ _n_ A freestanding, roofed, usually open-sided structure providing a shady resting place. _Syn_ summerhouse  
 __gazelle__ _n_  
 __gelded__ _v_  
 __genial__ _adj_  
@@ -342,6 +353,7 @@ __gobble__ _v_ _Do you savor or gobble?_
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
+__hammerlock__  
 __hamper__ _v tr_  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
@@ -355,6 +367,7 @@ __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.
 __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
 __highball__ _v_ _To decide whether to lowball or highball an offer._  
 __highlight__ _n_ :es: punto culminante  
+__hinder__ _v_  
 __hirsute__ _adj_  
 __histrionic__  
 __hitherto__  
@@ -371,6 +384,7 @@ __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or 
 __honky-tonk__ _n_ A cheap, noisy bar or dance hall. _Syn_ barrelhouse  
 __hoot__ _v_  
 __hooting__ _v_ _Cats hooting._  
+__horripilation__ _n_  
 __HOV lane__ _n_ An expressway lane restricted to vehicles with at least a set minimum of occupants, usually two.  
 __huckster__ _n_  
 __humanist__  
@@ -403,6 +417,7 @@ __interlard__ _v_
 __irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
 __irrepressible__  
 __jabbering__ _v_  
+__jalopy__ _n_ An old, dilapidated motor vehicle, especially an automobile. _Syn_ heap, bus  
 __jibberish__  
 __jig__ _n_ _An Irish jig was being played._  
 __jokey__  
@@ -497,6 +512,7 @@ __mesmerize__ _v_ /MEZ-muh-ryze/
 __Mesoamerica__ _n_  
 __mess around__  
 __messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
+__mettle__ _n_  
 __mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
 __mewl__ _v tr_ To cry or whimper as an infant or young child: _the infant, mewling and puking in the nurse’s arms._  
 __mezzanine__ _n_  
@@ -643,7 +659,7 @@ __pool table__
 __pool__ _v_  
 __porky__  
 __portend__ _v_  
-__portentous__ _adj_  
+__portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
 __posit__ _v_ :two::hammer:  
 __posit<sup>1</sup>__ _v tr_  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
@@ -686,6 +702,7 @@ __prudery__ _n_
 __pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
 __pry__ _v_  
 __pseudopseudohypoparathyroidism__  
+__psycho__ _adj_ Mentally deranged; crazy.  
 __psychopath__  
 __psychotic__  
 __psyops__ _n_ (Military) Short for psychological operations. Military operations aimed at influencing the enemy state of mind through noncombative means, such as distribution of leaflets.  
@@ -857,6 +874,7 @@ __satire__
 __sauntering__ _v_  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
+__scattergood__ _n_ /SKAT-uhr-good/ One who spends wastefully.  
 __scenario__ _n_ :mega: /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
@@ -965,6 +983,7 @@ __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a w
 __spiel__ _n_ :two::hammer:  
 __spite__ _n_  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious; vindictive. :es: rencoroso  
+__splenetic__ _adj_ /splih-NET-ik/ Splenetic is a formal word that typically describes expressions of sharp annoyance and anger.  
 __spoon__ _v_  
 __spritz__ _v_ _He spritzed me with a mouthful of martini._  
 __spurt__ _n_ _A huge spurt of activity._  
@@ -999,6 +1018,7 @@ __stepwise__ _adj_ _An optimal stepwise upgrade strategy._
 __stereophony__  
 __sternutation__  
 __Stetson__  
+__stickup__ _n slang_ A robbery, especially at gunpoint.  
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
@@ -1014,6 +1034,7 @@ __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in 
 __Suntory__ _n_  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__superintendent__ _n_  
 __surmise<sup>1</sup>__ _n_  
 __surmise<sup>2</sup>__ _v_  
 __surmount__ _v_ _Surmount obstacles._  
@@ -1036,6 +1057,7 @@ __syllabus__ _n_ :astonished: __1__ An outline or a summary of the main points o
 __synesthesia__ _n_ :two::hammer:  
 __synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
 __tableau__ _n_ :astonished:  
+__tachypnoea__  
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
 __Takeshi__ _n_ :mega:  
@@ -1081,7 +1103,8 @@ __tryptophan__ _n_ :mega: (tryptophane)
 __tuning fork__  
 __tureen__ _n_ :es: sopera _Soup tureens._  
 __turmeric__ _n_ :es: cúrcuma  
-__turnkey__  
+__turnkey<sup>1</sup>__ _n_ :two: /TUHRN-kee/ One in charge of the keys in a prison; jailer.  
+__turnkey<sup>2</sup>__ _adj_ Relating to a product or service that is supplied ready for immediate use.  
 __turpitude__  
 __tussle__ _v intr_  
 __twaddle__  
@@ -1125,6 +1148,7 @@ __va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciti
 __va-va-voom<sup>2</sup>__ _adj informal_ Strikingly sexy, voluptuous, or appealing.  
 __vacant__ _adj_  
 __vacantly__  
+__vacate__  
 __vacationer__ _n_  
 __vacuous__  
 __vacuum__ _n_ __4__ A vacuum cleaner.  
@@ -1144,6 +1168,7 @@ __ventilatory threshold__ _n_ The point of the workout where it becomes difficul
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __verdict__  
 __verismo__  
+__vesicle__ _n_ A small sac or cyst, especially one containing fluid. _Syn_ cyst  
 __vicinity__ _n_  
 __vicissitude__ _n_ :pencil2:  
 __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
