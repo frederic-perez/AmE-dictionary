@@ -29,32 +29,6 @@ __dyke__
 __eat it up__  
 __en route__  
 __every so often__  
-__face the music__ :two::hammer:  
-__factor in__  
-__fair enough__  
-__fall from grace__  
-__fall on one’s face__  
-__fall short__ :two::hammer:  
-__fam__  
-__fan the breeze__  
-__fend off__ __2__ To try to prevent something. A noun or pronoun can be used between “fend” and “off.” _Getting a flu shot will help__hold you to fend off future illness._  
-__figure out__  
-__fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._  
-__first dibs__ _It is something we want first dibs on._  
-__first hand__ Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
-__first off__ :dart:  
-__fizzle out__  
-__fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
-__flake out__  
-__flesh out__  
-__flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
-__fly by__  
-__fly in the face of someone or something__  
-__folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
-__fool with (someone or something)__  
-__for (one’s) (own) good__ For one’s benefit, even though it may not be enjoyable or desirable.  
-__for all intends and purposes__ :two::hammer:  
-__for better or (for) worse__  
 __for the life of me__  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
 __gas__ _v_ :two::hammer: _We’re here to gas on the show._  
