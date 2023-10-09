@@ -18357,19 +18357,18 @@ __trick pad__
 __trickery__ _n_ The practice or use of tricks; deception by stratagem.  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
-__trickle__ _n_ _A trickle of sweat._  
-__trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
+__trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._ _A trickle of sweat._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
-__trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
+__trickle<sup>2</sup>__ _v_ :nine::hammer: _The money trickled in._  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
 __trifecta__ _n_ :six::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
-__trifle<sup>1</sup>__ _n_ :two::hammer:  
+__trifle<sup>1</sup>__ _n_ :three::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
-__trilby__ _n_ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
-__trill__ _n_ :six::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_  
+__trilby__ _n_ :three: A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
+__trill__ _n_ :eight::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_ _Melodic trill._  
 __trillion__ _n_ _There are trillions of microbes living in and on our bodies—and we might be able to modify them to help us treat diseases._  
 __trilobite__ _n_ :two::mega::hammer:  
 __trim__ _n_ :four::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._ _The built-in microwave can be built into cabinetry with a trim kit._ _Metallic trim._  
@@ -18384,6 +18383,7 @@ __triple__
 __triple-check__ _v_  
 __tripledemic__ _n_  
 __triplex__ _adj_ _A triplex penthouse._  
+__triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
 __trippy__ _adj_ :two::hammer: /ˈtrɪpɪ/ _It’s trippy and dark._ :es: flipante  
 __triptych__  
@@ -18399,6 +18399,7 @@ __troche__ _n_ /TROH-kee/ A small tablet or lozenge, typically round and sweeten
 __trodden down__ _v_  
 __trodden__ _v_ :two::hammer:  
 __troglodyte__ _n_ :two::hammer:  
+__troika__  
 __Trojan__ _n_ :astonished: After Troy, an ancient city in modern-day Turkey. From the reputation of Trojans in defending their city. The computing sense is from Trojan horse. __1__ A person from Troy. __2__ One who exhibits great stamina, energy, and hard work. __3__ A merry fellow. __4__ In computing, a piece of malware that appears harmless, but causes damage.  
 __troll<sup>1</sup>__ _v_ :two::hammer: _Kim may see these dual transitions as an opening to troll world powers._  
 __troll<sup>2</sup>__ _n_ _He’s a gifted hacker and vicious troll._  
@@ -18416,7 +18417,7 @@ __trot out__
 __trot__  
 __trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
 __troubleshoot__ _v_ :three::hammer:  
-__troubleshooter__ _n_ :two::hammer:  
+__troubleshooter__ _n_ :three::hammer:  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trousseau__ _n_ :two: The clothes, linen, etc, collected by a bride for her marriage. :es: ajuar  
@@ -18429,9 +18430,9 @@ __troy__
 __truant__ _n_ :two: Someone who shirks duty. _Syn_ nonattender, no-show _As the two truants rolled up the avenue ... the sense of duties neglected added zest to their holiday._  
 __truck__ _v_ _They will not truck with terrorists._  
 __truckle__ _v_  
-__truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
+__truculent__ _adj_ :six::astonished: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m: (trudged, trudging) To walk in a laborious, heavy-footed way; plod. Walk heavily and firmly, as when weary, or through mud. _Mules plodded in a circle around a grindstone._ _Syn_ footslog, plod, slog, tramp, pad  
-__trudge<sup>1</sup>__ _v_  
+__trudge<sup>1</sup>__ _v_ :three::hammer:  
 __trudge<sup>2</sup>__ _n_  
 __true to form__  
 __truffle__ _n_ :four::hammer: :es: trufa  
@@ -18456,6 +18457,7 @@ __truth or dare__ _n_ A game where players take it in turn to perform a dare set
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and annoying, straining one’s patience and goodwill to the limit. Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
+__tryptophan__ _n_ :mega: (tryptophane)  
 __tryst__ _n_ :two: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
@@ -18491,17 +18493,19 @@ __tune-up__ _n_ _Overnight tune-ups and repairs._
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunic__ _n_ :two::hammer: __1__ A coat worn as part of a military or other uniform.  
+__tuning fork__  
 __tunnel vision__ _n_ :two::hammer:  
 __tuple__ _n_ :mega:  
 __tuppence__  
 __turbid__ _adj_  
 __turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
 __turducken__ _n_ :three: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
+__tureen__ _n_ :es: sopera _Soup tureens._  
 __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
 __Turkey day__  
 __turkey drumstick__ _n_  
 __turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
-__turmeric__ _n_ :two::hammer:  
+__turmeric__ _n_ :three::hammer: :es: cúrcuma  
 __turmoil__  
 __turn a profit__  
 __turn on__ _phr v_  
@@ -18514,7 +18518,8 @@ __turndown service__ _n_ The practice of staff entering a guest’s room and “
 __turndown__ _n_ The act of refusing an offer.  
 __turnip greens__  
 __turnip__ _n_ :five::hammer: [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
-__turnkey__ _adj_ :five::hammer: _Turnkey property._ _Turnkey solutions._  
+__turnkey<sup>1</sup>__ _n_ :two: /TUHRN-kee/ One in charge of the keys in a prison; jailer.  
+__turnkey<sup>2</sup>__ _adj_ :six: Relating to a product or service that is supplied ready for immediate use. _Turnkey property._ _Turnkey solutions._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :five: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
@@ -18525,7 +18530,7 @@ __turnstile__ _n_ :two::hammer:
 __turntable__ _n_ :two::hammer:  
 __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
-__turpitude__ _n_ :three: /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” Behavior that is dishonest or immoral. A corrupt or depraved or degenerate act or practice. _Syn_ depravity _Seeing the various turpitudes of modern society shook her faith in humanity._ _Crimes such as theft and perjury may involve moral turpitude._  
+__turpitude__ _n_ :four: /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” Behavior that is dishonest or immoral. A corrupt or depraved or degenerate act or practice. _Syn_ depravity _Seeing the various turpitudes of modern society shook her faith in humanity._ _Crimes such as theft and perjury may involve moral turpitude._  
 __turquoise__ _n_ :two::pencil2: TUHR-koiz/kwoiz/ [:scroll: Named after Turkey. The gemstone was called turquoise because either it was discovered in Turkey or transported to Europe via Turkey.] __1__ A blue, bluish-green, or greenish-gray semi-precious stone. __2__ A bluish-green color.  
 __turret__ _n_ :six::hammer:  
 __turtledove__ _n_ :es: tórtola  
@@ -18533,7 +18538,7 @@ __tush__ _n_ A canine tooth, especially of a horse.
 __tushie__ _n_ :two::hammer:  
 __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
-__tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuffle.  
+__tussle<sup>2</sup>__ _v intr_ :six: (tussled, tussling) To struggle roughly; scuffle.  
 __tussling__ _v_  
 __tut__ _v_ (tutted)  
 __tut-tutting__  
@@ -18542,12 +18547,12 @@ __tutelary__ _adj_ Providing protective supervision; watching over or safeguardi
 __tutor__ _n_  
 __tutu__  
 __tux__ _n informal_ A tuxedo.  
-__twaddle__ _v_ :two: Speak (about unimportant matters) rapidly and incessantly. _Syn_ blabber, palaver, piffle, prate, prattle, tattle, gabble, gibber, clack, maunder, chatter  
+__twaddle__ _v_ :three: Speak (about unimportant matters) rapidly and incessantly. _Syn_ blabber, palaver, piffle, prate, prattle, tattle, gabble, gibber, clack, maunder, chatter  
 __twang<sup>1</sup>__ _n_ :two::hammer:  
 __twang<sup>2</sup>__ _v_ :two::hammer:  
 __twanger__ _n_  
 __twangy__  
-__twat__ _n_ :two::hammer:  
+__twat__ _n_ :three::hammer:  
 __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
 __tweak<sup>1</sup>__ _n_ :four (tweaks) __2__ A small adjustment: _made a few tweaks to the sound system._  
 __tweak<sup>2</<sup>__ _v tr_ :four: __2__ To adjust; fine-tune: _tweaked her computer setup._ _Tweak your workout routine._  
@@ -18581,7 +18586,7 @@ __two-fold__ _adj_
 __two-time__ _v_ _informal_ :three: (two-timing, two-time someone) To deceive (someone, esp a lover) by carrying on a relationship with another.  
 __two-timer__ _n_  
 __twofer__ _n_ _informal_ :three::hammer:  
-__tycoon__ _n_ :five::hammer: [:scroll: Tycoon is an English variation of the Japanese word _taikun_, which comes from Chinese words meaning “great prince.”]  
+__tycoon__ _n_ :six::hammer: [:scroll: Tycoon is an English variation of the Japanese word _taikun_, which comes from Chinese words meaning “great prince.”]  
 __tying__ _v_ :pencil2:  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __type-A personalities__  
@@ -18593,6 +18598,7 @@ __tyrant__ _n_ :three::hammer:
 __tyro__ _n_ :two: (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
+__UB minefield__ _n_  
 __uber__ _adj_ :two::hammer:  
 __ubiquitous__ _adj_ :five::pencil2: /yoo-bik-wi-tuhs/ Being or seeming to be everywhere at the same time. Existing or being everywhere, especially at the same time; omnipresent. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
@@ -18607,7 +18613,7 @@ __ululate__ _v_ :two: Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
-__umbrage__ _n_ :four: /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._ _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
+__umbrage__ _n_ :five: /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._ _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
 __umbrella__ _n_ _Under his umbrella._  
 __umpteen__ _adj, n_ :two::hammer:  
 __umpteenth__ _adj_ :three::dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
@@ -18623,14 +18629,15 @@ __unanimous__
 __unapologetic__ _adj_ :nine::m: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ _adj_ :two::hammer:  
-__unassuming__ _adj_ :five::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unassuming__ _adj_ :seven::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unavenged__ _adj_  
-__unbidden__ _adj_  
+__unbidden__ _adj_ :four: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
 __unbundling__ _n_  
 __unburdened__  
+__uncheesy__ _adj_  
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
 __Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
 __unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
@@ -18643,7 +18650,7 @@ __uncouth__ _adj_ :seven: /un-KOOTH/ Uncouth means “behaving in a rude way” 
 __uncrating__  
 __uncross__ _v tr_ _Uncross our arms._  
 __unction__ _n_  
-__unctuous__ _adj_ :five::dart: /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
+__unctuous__ _adj_ :six::dart: /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __undaunted__  
 __undemosaick__ _v_ _Undemosaicked pixels._  

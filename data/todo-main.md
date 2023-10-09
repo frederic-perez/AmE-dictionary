@@ -1063,33 +1063,6 @@ __trawl__ _v_
 __treasure trove__  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
-__trickle__ _v_ :three::hammer:  
-__trifle__  
-__trilby__ _n_ :two::hammer:  
-__trill__ _n_ :two::hammer: _Melodic trill._  
-__triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
-__trite__ _adj_  
-__troika__  
-__troubleshooter__ _n_  
-__truculent__ _adj_  
-__trudge__ _v_ :two::hammer:  
-__tryptophan__ _n_ :mega: (tryptophane)  
-__tuning fork__  
-__tureen__ _n_ :es: sopera _Soup tureens._  
-__turmeric__ _n_ :es: cúrcuma  
-__turnkey<sup>1</sup>__ _n_ :two: /TUHRN-kee/ One in charge of the keys in a prison; jailer.  
-__turnkey<sup>2</sup>__ _adj_ Relating to a product or service that is supplied ready for immediate use.  
-__turpitude__  
-__tussle__ _v intr_  
-__twaddle__  
-__twat__  
-__tycoon__ _n_  
-__UB minefield__ _n_  
-__umbrage__  
-__unassuming__ _adj_ :two::hammer:  
-__unbidden__ _adj_ :three: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
-__uncheesy__ _adj_  
-__unctuous__ _adj_ Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
 __undercut__  
 __underpin__ _v tr_  
