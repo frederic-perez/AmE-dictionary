@@ -1231,12 +1231,13 @@ __banshee__ _n_ :two::hammer: _The cry of the banshee._
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
 __banter<sup>1</sup>__ _n_ :seven::hammer:  
-__banter<sup>2</sup>__ _v_  
+__banter<sup>2</sup>__ _v_ :three::hammer:  
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
 __Bar Mitzvah__ _n_ :three::hammer:  
 __bar top__  
-__bar__ _prep_ _Chiefly British_ Except for; excluding: _This was your best performance, bar none._ _Every King and Queen of England (bar two) has been crowned here since William the Conqueror in 1066._  
+__bar<sup>1</sup>__ _n_ _A few bars of music._  
+__bar<sup>2</sup>__ _prep_ _Chiefly British_ Except for; excluding: _This was your best performance, bar none._ _Every King and Queen of England (bar two) has been crowned here since William the Conqueror in 1066._  
 __barbaric__ _adj_ :mega:  
 __barbecue<sup>1</sup>__ _n_ :two::hammer: (barbeque) _Barbecue sauce._  
 __barbecue<sup>2</sup>__ _v_ (barbecueing)  
@@ -1244,7 +1245,9 @@ __barbed__ _adj_ :two: __1__ Unkind and criticizing. _He was a targed for Jack�
 __barbells__  
 __Barbershop music__ _n_ Barbershop vocal harmony, as codified during the barbershop revival era (1930s–present), is a style of a cappella close harmony, or unaccompanied vocal music, characterized by consonant four-part chords for every melody note in a primarily homorhythmic texture.  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
+__bard__  
 __barded__ _v_  
+__bardic__  
 __bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
@@ -1314,7 +1317,7 @@ __bathhouse__ _n_ :two::hammer: _Also RV campground with bath-house._
 __bathwater__ _n_ Water in which a person bathes. _Let’s not throw out the baby with the bathwater._  
 __bathymetry__ _n_ :two: The measurement of the depth of bodies of water.  
 __batik__ _n_  
-__baton__ _n_ :two::hammer:  
+__baton__ _n_ :three::hammer: :es: batuta  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
 __batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._  
@@ -1418,7 +1421,7 @@ __beguile__ _v_ :nine: /bih-GHYLE/ __1__ To deceive by guile or charm: _beguiled
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behavioral intervention__  
 __behemoth__ _n_ :eight: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
-__behest__ _n_ :seven::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
+__behest__ _n_ :nine::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
@@ -1456,7 +1459,7 @@ __bellow<sup>2</sup>__ _v_ :seven::hammer: (bellowed)
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
-__bellwether__ _n_ :three::hammer:  
+__bellwether__ _n_ :four::hammer: /BEL-WEH-ther/  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly laugh__ _n_  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
@@ -1473,7 +1476,7 @@ __belvedere__ _n_ :five::hammer: [:scroll: From Italian, beautiful view] _Towers
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something. _Esquith bemoans the lowering of standards._  
 __bemuse__ _v tr_ :three: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
-__bemused__ _adj_ :two: Preoccupied; lost in thought.  
+__bemused__ _adj_ :three: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench<sup>1</sup>__ _n_ _Snow will dust the benches and valleys._  
 __bench<sup>2</sup>__ _v_  
@@ -1504,11 +1507,11 @@ __beret__ _n_ :two::hammer::mute:[bere~~t~~]
 __berg__ _n_ :two::hammer:  
 __Berlitz__ _n_ A brand of language skills learning. During the teaching of the language all instruction is done in the target language.  
 __berm__ _n_ :two::hammer:  
-__berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :nine: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth<sup>1</sup>__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
 __berth<sup>2</sup>__ _v_  
-__beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__beseech__ _v_ :eight: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :nine::m: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
@@ -1560,7 +1563,7 @@ __bid farewell__
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn’t bid him farewell._  
 __bid<sup>2</sup>__ _n_ :seven::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
 __bidding war__  
-__bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collector was held behind closed doors in the Chatelet._  
+__bidding__ _n_ :three::hammer: _The bidding for the lucrative post of tax-collector was held behind closed doors in the Chatelet._  
 __bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
@@ -1593,12 +1596,14 @@ __bike__ _v intr_ To ride a bike.
 __bikeshed<sup>1</sup>__ _n_  
 __bikeshed<sup>2</sup>__ _v_  
 __bikeshedding__ _n_ :dart:  
+__bikini__ _n_  
+__bikinied__ _adj_  
 __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
 __bildungsroman__ _n_ /BIL-doonks-roh-mahn/ A novel whose principal subject is the moral, psychological, and intellectual development of a usually youthful main character.  
 __bilge__ _n_  
-__bilious__ _adj_ :two: /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered,” “irritable,” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
+__bilious__ _adj_ :three: /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered,” “irritable,” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
 __bilk<sup>1</sup>__ _v_ _Durham was guilty of bilking._  
-__bilk<sup>2</sup>__ _n_ :two: __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
+__bilk<sup>2</sup>__ _n_ :dart::three: __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
@@ -1635,6 +1640,7 @@ __birdie__ _n_
 __birding__ _n_  
 __birds of the same feather__  
 __birdseed__ _n_ Seeds that you give to birds as food.  
+__birdsong__  
 __Birkenstock__ _n_  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
@@ -1659,6 +1665,7 @@ __biz__ _n_ :two::hammer: _Hot biz model._
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black belt__ _n_  
 __Black Belt__ _n_ :two: Strip of rolling prairie land extending across central Alabama and Mississippi with fertile black clayey soil formerly notable for the production of cotton.  
+__Black Dahlia__  
 __Black Death__ _n_ :two: A form of bubonic plague pandemic in Europe and Asia during the 14th century, when it killed over 50 million people.  
 __Black Friday__ _n_ [:scroll: “The origin of Black Friday in this sense is not known for certain. The day was allegedly so named either in reference to traffic congestion in central cities on the day after Thanksgiving or to the supposed fact that retailers’ accounts shifted from red to black with the beginning of the shopping season.”] The Friday immediately following Thanksgiving Day that is considered by retailers to mark the beginning of the holiday shopping season.  
 __black gold__  
@@ -1669,6 +1676,7 @@ __black out__ _phr v_ :three::hammer: (blacked out)
 __black powder__  
 __black smoke__  
 __black swan__ _n_ /BLAK swan/ [:scroll: From the former belief that all swans were white until black swans were discovered in Australia in 1697.] __1__ An unpredictable occurrence that has major consequences. __2__ Something extremely rare.  
+__black tie__ _n_ (vs _white tie_)  
 __black-eyed peas__  
 __blackball__ _v_ Expel from a community or group. _Syn_ banish, cast out, ostracize, shun, ban _They must not know about my sordid past, because if they did, they would immediately blackball me._  
 __blackbirder__  
@@ -1724,7 +1732,7 @@ __bleep__ _v_ _We’ll bleep your name out._
 __blemish__ _n_ :six::hammer: (blemishes)  
 __blemished__ _v_  
 __blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of tea._ _I go to a coffee bar with bagels and blends of the day._  
-__blight<sup>1</sup>__ _n_ :three::hammer:  
+__blight<sup>1</sup>__ _n_ :four::hammer: _Mobile home parks have long been associated with crime and blight._  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
 __blimp__ _n_ :three: __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. A nonrigid, buoyant airship. _Syn_ sausage balloon, sausage _Balloons, blimps, and aircraft._ _A World War II blimp hangar._  
 __blin__ _n_ (blinis)  
@@ -1809,7 +1817,7 @@ __bluegill__
 __bluegrass__  
 __bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
 __blueprint__ _n_ :eight: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
-__bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
+__bluff<sup>1</sup>__ _v_ :four::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :four::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has.  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
@@ -1844,6 +1852,7 @@ __bod__ _n_ :two::hammer:
 __bodacious__  
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
+__bodhi tree__  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __body odor__ _n_  
 __bodywork__ _n_ _A certified therapist of massage and bodywork._  
@@ -1861,7 +1870,7 @@ __boiler room__ _n_
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
 __boilerplate code__ _n_  
-__boilerplate__ _n_ :five::hammer:  
+__boilerplate__ _n_ :seven::hammer:  
 __boilers__  
 __boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
 __boisterous__ _adj_ :two::hammer:  
@@ -1940,13 +1949,13 @@ __boom box__
 __boom__ _n_ :four::hammer: _Cargo booms._ _Log boom._  
 __boomer chains__  
 __boomerang effect__  
-__boomtown__ _n_  
+__boomtown__ _n_ :two: A town experiencing an economic or a population boom.  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
 __boondoggle__ _n_ :five: __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
 __boonies__  
 __boor__ _n_ _Sometimes you can really be a boor._  
-__boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
+__boorish__ _adj_ :five: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
 __boorishness__ _n_ :two::hammer:  
 __booster shot__ _n_ An additional dose of an immunizing agent, such as a vaccine or toxoid, given at a time after the initial dose to sustain the immune response elicited by the previous dose of the same agent. _Syn_ booster dose  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  

@@ -23,33 +23,6 @@ __aftereffect__ _n_
 __afterimage__ _n_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
-__banter__ _v_ :two::hammer:  
-__bar__ _n_ _A few bars of music._  
-__bard__  
-__bardic__  
-__baton__ _n_ :es: batuta  
-__behest__ _n_ :two::hammer:  
-__belie__ _v_  
-__belied__ _v_  
-__bellwether__ _n_ /BEL-WEH-ther/  
-__bemused__  
-__berserk__  
-__beseech__  
-__bevy__ _n_  
-__bidding__ _n_  
-__bikini__ _n_  
-__bikinied__ _adj_  
-__bilious__ _adj_  
-__bilk__ _v_ :dart:  
-__birdsong__  
-__Black Dahlia__  
-__black tie__ _n_ (vs _white tie_)  
-__blight__ _n_ _Mobile home parks have long been associated with crime and blight._  
-__bluff__ _v_  
-__bodhi tree__  
-__boilerplate__ _n_ :two::hammer:  
-__boomtown__ _n_ A town experiencing an economic or a population boom.  
-__boorish__  
 __bootstrapping__ _n_  
 __borak__ _n_ Rubbish; nonsense.  
 __borscht belt__  
