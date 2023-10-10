@@ -31,32 +31,6 @@ __en route__
 __every so often__  
 __for the life of me__  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
-__gas__ _v_ :two::hammer: _We’re here to gas on the show._  
-__get ahead of (oneself)__  
-__get bogged down__ To become burdened or impeded (by something). (A bog is an area of wet, muddy land that is difficult to walk through.)  
-__get lucky__  
-__get one’s thinking__  
-__get the better of (someone or something)__  
-__get the hang of (something)__  
-__get to grips with (someone or something)__  
-__get to someone__ _Don’t let her get to you._  
-__gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
-__gin up__ _He didn’t gin up the courage to tell her._  
-__give (someone) a lift__  
-__give it a go__  
-__give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
-__gnash one’s teeth over something__ _Why expend so much energy gnashing my teeth over work?_  
-__go ape__  
-__go balls-out__ _I resolved to go balls-out on this retreat._  
-__go berserk__  
-__go hand in hand__  
-__go places__  
-__go south__  
-__go to great lengths (to do something)__  
-__go to hell and back__  
-__go-to__  
-__gobble down__  
-__goes without saying__  
 __gone jacket__ _A gone jacket._  
 __gonzo__ _Gonzo journalism._  
 __goo-goo eyes__ A visibly smitten or enamored facial expression, as of one who is romantically interested in someone else. _Well, if you keep staring at her with goo-goo eyes, she’ll know you like her sooner than later!_  
