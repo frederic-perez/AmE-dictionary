@@ -61,32 +61,6 @@ __hard knocks__ The real and practical experiences of life, especially those inv
 __hard of hearing__  
 __hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
-__hard-nosed__ :two: Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
-__hark back__ _Harking back to the past._  
-__harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
-__harp on (something)__ _Harping on intelligence._  
-__harp on the same string__  
-__hash slinger__  
-__hats and bats__ _n_ _(US police)_ Equipped with helmets and nightsticks.  
-__have (a) skeleton(s) in (one’s)/the closet__  
-__have (got) (someone’s) back__  
-__have (someone’s) blood on (one’s) head__ To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
-__have (something) in store (for one)__ To have something awaiting (one) or prepared (for one). _The future has plenty in store—try not to worry about it too much._ _If you think ChatGPT is awesome, wait til you see what the coming wave of AI has in store for you._  
-__have a (good/solid/sound/etc.) grasp of/on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a solid grasp of the material, as you’ll be tested on it next week._  
-__have a ball__  
-__have a crush on (someone)__  
-__have a fable for (something)__ To have a strong or particular preference, affinity, or weakness for something. _I always had a fable for animals growing up, so I knew that I wanted to be a veterinarian someday._  
-__have a few__ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
-__have a fling (with someone)__ To have a brief, noncommittal sexual relationship (with someone). _The professor lost her job for having a fling with one of her students._  
-__have a go (at someone or something)__  
-__have a good day__ _cliché_ An expression of farewell. _Sounds great, Bob. I’ll talk to you tomorrow. Have a good day!_  
-__have a good name (somewhere or in something)__ To have a respected reputation (in something or some place). _Our family has always had a good name in this town due to the philanthropy of my great-great-grandfather._  
-__have a handle on (something)__ To have a firm, clear understanding or determination of something. _I hope everyone has a handle on the material, as you’ll be tested on it next week._  
-__have a hankering for (something)__  
-__have a hard time with (someone or something)__  
-__have a heart of gold__  
-__have a look-see__ :dart: To have a very quick look or brief examination. _A: “Is there any more of that cake left in the fridge?” B: “I’ll go have a look-see!”_  
-__have a mountain to climb__ To have an extremely difficult, seemingly impossible task at hand. _After losing Ohio to his opponent, the president now has a mountain to climb if he wants to hold on to his job._  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
