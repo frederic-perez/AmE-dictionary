@@ -2731,6 +2731,7 @@ __carpal tunnel syndrome__ _n_
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
 __carpool__ _v_ :four::hammer:  
+__carport__ _n_ :two::hammer:  
 __carrefour__ _n_ A junction where one street or road crosses another. _Syn_ crossroad, crossway, intersection, crossing _When his jalopy broke down right in the middle of a busy carrefour, he swore he would invest in a more reliable car._  
 __carrel__  
 __carrier pilot__ _n_  
@@ -2739,7 +2740,7 @@ __carry a torch__
 __carry the cross__  
 __carry-on bag__  
 __carryout__ _n_ :three: Takeout. _Carryout available._ _A Chinese carryout._ _It focuses on delivery and carryout._  
-__carryover__ _n_ _A carryover vehicle._  
+__carryover__ _n_ :two::hammer: _A carryover vehicle._  
 __carsick__ _adj_ Suffering from motion sickness caused by travel in a motor vehicle.  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
@@ -2834,13 +2835,13 @@ __caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat
 __caterwauling__ _adj_ :two::hammer: _Caterwauling choristers._  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__ _n_ :four::hammer:  
-__cathartic__  
+__cathartic__ _adj_ :two::hammer:  
 __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
 __catnap__  
-__catnip__ _n_ :four: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
+__catnip__ _n_ :five: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint :es: hierba gatera  
 __catskills__  
 __cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
-__catwalk__ _n_ :three::hammer:  
+__catwalk__ _n_ :four::hammer:  
 __catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2__ A fashion model. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
@@ -2852,16 +2853,17 @@ __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that a
 __caulking__ _n_ :two: A usually impermeable substance used for filling seams, as between planks of a boat. Also called caulking compound.  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :seven::hammer:  
+__caustic__ _adj_ /KAWSS-tik/  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
-__cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
+__cave__ _v_ :six: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
 __caveat__ _n_ :four::hammer:  
 __cavity__ _n_ :es: caries  
-__cavort__ _v_ :six::hammer: (cavorted, cavorting) _Animals cavorting._  
+__cavort__ _v intr_ :seven::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
@@ -2870,6 +2872,7 @@ __ceasefire__ _n_ :three::hammer:
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
+__celebutante__ _n_ A celebrity who is well known in fashionable society; a blend of celebrity and debutante.  
 __celeriac__ _n_  
 __celerity__ _n_ /suh-LAIR-uh-tee/ Celerity is a formal word that means “swiftness of motion or action.” _When the developers’ intentions became clear, the community came together with celerity to preserve the town’s beloved wetlands for future generations._  
 __celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
@@ -2895,7 +2898,7 @@ __cerebral palsy__
 __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
-__cerulean<sup>1</sup>__ _adj_ :four: /suh-ROO-lee-un/ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
+__cerulean<sup>1</sup>__ _adj_ :five: /suh-ROO-lee-un/ /suh-ROO-lee-uhn/ Sky blue. Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
 __cerulean<sup>2</sup>__ _n_ :two: A light shade of blue.  
 __cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
 __cesarean<sup>1</sup>__ _adj_  
@@ -2905,12 +2908,12 @@ __Cessna__
 __cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
 __cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
 __chads__ _n_  
-__chafe<sup>1</sup>__ _v_ :nine: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
+__chafe<sup>1</sup>__ _v_ :nine::m: (chafes, chafed, chafing) __4__ To cause friction; rub. If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._ _Chafing dishes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
 __chaff__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._ _To the chef’s chagrin, the sauce was too sweet._  
-__chagrin<sup>2</sup>__ _v_ :four: (chagrined) Cause to feel shame; hurt the pride of.  
+__chagrin<sup>2</sup>__ _v_ :five: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain letter__ _n_  
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
@@ -2956,7 +2959,7 @@ __char__ _v_ (charred)
 __character actor__  
 __character__ _n_ :mute:[c~~h~~aracter]  
 __charade__ _n_ :four::hammer:  
-__charcuterie__ _n_ :two::pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
+__charcuterie__ _n_ :three::pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
 __chard__  
 __charge__ _v_ Accuse formally.  
 __chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._  
@@ -2994,7 +2997,7 @@ __chauffeured__ _adj_ :three: Driven by a chauffeur.
 __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
 __cheapen__ _v_  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
-__cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
+__cheapskate__ _n_ _informal_ :three::dart: Someone who does not like to spend money.  
 __cheat__ _n_  
 __check in__ _v_  
 __check something out__  
@@ -3020,7 +3023,7 @@ __cheeseparing<sup>1</sup>__ _n_ /CHEEZ-pair-ing/ __1__ The act of saving by usi
 __cheeseparing<sup>2</sup>__ _adj_ __1__ Meanly economical. __2__ Insignificant; spare; thin.  
 __cheesy__ _adj_ :four::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
-__chemistry__ _n_ :mute:[c~~h~~emistry]  
+__chemistry__ _n_ :two::mute:[c~~h~~emistry] __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
 __chemoinformatics__  
 __chemtrail__ _n_ :camera:  
 __chenier__  
@@ -3028,9 +3031,10 @@ __chenille throws__
 __cherimoya__ _n_ (chirimoya)  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
+__cherry picker__ _n_  
 __cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
 __cherubic__ _adj_ /chuh-ROO-bik/ Having a sweet, innocent appearance.  
-__chestnut__ _n_ :four::mute:[ches~~t~~nut]:hammer:  
+__chestnut__ _n_ :five::mute:[ches~~t~~nut]:hammer: _He uttered memorable chestnuts._  
 __chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
 __chevron__ _n_  
 __chewed up__  
@@ -3061,6 +3065,7 @@ __child rearing__ _n_ The process of taking care of and raising children. _Her h
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
 __childhood__ _n_  
+__chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :four::hammer:  
 __chime__ _v_ :three::hammer: _Everybody chimes into a discussion._  
@@ -3068,6 +3073,7 @@ __chimera__ _n_ (chimeras) :two::hammer:
 __chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
 __chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
+__china clay__  
 __China virus__ _n_  
 __china__ _n_ _Delicate, translucent china._  
 __chinchilla__ _n_  
@@ -3083,7 +3089,7 @@ __chip<sup>2</sup>__ _v tr_ :three::hammer: (chipped)
 __chip<sup>3</sup>__ _v intr_ :four: (chipped) __1__ To become broken off into small pieces. _The blue paint was chipping._ _This cup is chipped._  
 __chipped__ _adj_ :two: Damaged by having a small piece broken off. _Chipped around the edges._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
-__chipper__ _adj_ :five: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
+__chipper__ _adj_ :dart::six: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. In lively spirits; cheerful. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
 __chippy<sup>1</sup>__ _adj_  
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiral__ _adj_ _Chiral molecules._  
@@ -3125,6 +3131,7 @@ __chophouse__ _n_ :three: A restaurant that specializes in serving steaks and ch
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ _n, v_ :mute:[c~~h~~ord]  
+__chorea__ _n_  
 __choreography__ _n_ :mute:[c~~h~~oreography]  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
 __chortle<sup>2</sup>__ _v_ :seven: (chortled, chortles) To utter a chortle or express with a chortle.  
@@ -3134,7 +3141,7 @@ __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_
 __chow down__ _v_ _informal_ To eat heartily.  
 __chowder__ _n_ :two: /ˈtʃaʊ dər/ A thick soup of clams, fish, or vegetables, usu. with potatoes, milk, and various seasonings.  
 __chrism__ _n_ A consecrated mixture of oil and balsam, used for anointing in church sacraments such as baptism and confirmation. _Syn_ holy oil, sacramental oil  
-__christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
+__christen__ _v tr_ :two::mega: /KRI-suhn/ /ˈkrɪsən/ __1__ To name someone or something. _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._ __2__ To use something for the first time. __3__ To initiate a person, especially a child, into the Christian church, by baptizing and giving a name.  
 __Christendom__ _n_  
 __christening__ _n_  
 __Christian__ _adj, n_ :mute:[C~~h~~ristian]  
@@ -3158,11 +3165,10 @@ __Chugging beers__
 __chukar__ _n_  
 __chum__ _n_ :five: (chums) __1__ An intimate friend or companion. _Two college chums._ _We’re old school chums._ __2__ Bait usually consisting of oily fish ground up and scattered on the water. _Fish chum._  
 __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
-__chump__ _n_ A stupid person, especially a dupe; sucker.  
-__chumps__ _n_  
+__chump__ _n_ :three: A stupid person, especially a dupe; sucker.  
 __chunk__ _n_ _Nine chunks of cheese._  
 __churl__ _n_ :three: __1__ A rude, boorish person. _Syn_ boor, barbarian _He is a drunken, brawling, perilous churl, as you may find to your cost._ __2__ A miserly person. __3__ A peasant.  
-__churlish__ _adj_  
+__churlish__ _adj_ :two: /CHUR-lish/ Churlish is a formal word that means “irritable and rude.”  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn<sup>1</sup>__ _n_ :four: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider. _They need to avoid subscriber churns._  
@@ -3170,8 +3176,9 @@ __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach ch
 __churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
 __chute__ _n_ :two: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
+__Chutes and Ladders__ _n_  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
-__chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
+__chutzpah__ _n_ :two: (chutzpa) Shameless boldness; brazen nerve; gall.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
 __Ciceronian__ _adj_  
 __cigar__ _n_ :mega:  

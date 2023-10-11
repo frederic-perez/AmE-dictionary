@@ -58,32 +58,6 @@ __cantillation__
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
-__carport__ _n_ :two::hammer:  
-__carryover__ _adj_  
-__cathartic__ _adj_  
-__catnip__ _n_ :es: hierba gatera  
-__catwalk__ _n_  
-__caustic__ _adj_ /KAWSS-tik/  
-__cave__ _v_  
-__cavort__ _v intr_  
-__celebutante__ _n_ A celebrity who is well known in fashionable society; a blend of celebrity and debutante.  
-__cerulean__ _adj_ /suh-ROO-lee-uhn/ Sky blue.  
-__chafe__ _v intr_ __4__ To cause friction; rub. _Chafing dishes._  
-__chagrin__  
-__charcuterie__ _n_  
-__cheapskate__ _n_  
-__chemistry__ _n_ __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
-__cherry picker__ _n_  
-__chestnut__ _n_ _He uttered memorable chestnuts._  
-__chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
-__china clay__  
-__chipper__ _adj_ :dart::two: In lively spirits; cheerful.  
-__chorea__ _n_  
-__christen__ _v tr_ :mega: /KRI-suhn/ /ˈkrɪsən/ __1__ To name someone or something. __2__ To use something for the first time. __3__ To initiate a person, especially a child, into the Christian church, by baptizing and giving a name.  
-__chump__  
-__churlish__ _adj_ /CHUR-lish/ Churlish is a formal word that means “irritable and rude.”  
-__Chutes and Ladders__ _n_  
-__chutzpah__ _n_  
 __clang__ _v_ _Bells clanging._  
 __clanging__  
 __clangor__ _n, v_  
