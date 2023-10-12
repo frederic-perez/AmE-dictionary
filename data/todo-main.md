@@ -118,32 +118,6 @@ __debonnaire__ _adj_
 __decamp__  
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
-__deed__ _n_ :two::hammer: _The deed was set in motion._  
-__deep-six__ _v_ _Bonuses were being deep-sixed._  
-__defray__ _v tr_  
-__defuse__ _v_ :two::hammer:  
-__deliverance__  
-__deluge__ _n_ :two::hammer:  
-__demarcate__ _v_ /dih-MAHR-kayt/ To demarcate something is to fix or define its limits or edges.  
-__demure__ _adj_ /dih-MYOOR/  
-__denizen__ _n_ /ˈdɛnɪzən/  
-__despondency__ _n_  
-__destitute__ _adj_ :two::hammer: _I am utterly destitute of an ear._  
-__deviled egg__ _n_  
-__Dexedrine__ _n_ :two::hammer:  
-__dharma__ _n_  
-__diaeresis__ _n_ /dy-ER-uh-sis/ (dieresis)  
-__didgeridoo__ _n_  
-__diffidence__ _n_ :two::hammer:  
-__diffidently__  
-__diluvian__ _adj_  
-__din__ _n_  
-__dip__ _n_ __12__ A hollow or depression. _She stumbled over a dip in the pavement._  
-__dirge__ _n_ :es: canto fúnebre  
-__discombobulated__ _adj_ :two::hammer:  
-__disembed__ _v tr_ :astonished: To remove (something) from what it is embedded in.  
-__disempower__ _v tr_  
-__disingenuous__ _adj_ /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
 __disobligation__  
 __disquiet__ _adj, n, v_  
 __dissatisfied__  
