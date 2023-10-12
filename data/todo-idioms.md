@@ -99,32 +99,6 @@ __hold (one’s) nose__
 __hold (one’s) tongue__  
 __hold (someone, something, or an animal) back (from someone or something)__  
 __hold (something) in abeyance__  
-__hold a grudge__ :two: (hold grudges) To harbor persistent and continual resentment or ill feelings toward someone, especially for some slight or wrongdoing they have committed in the past. _Johnny has been holding a grudge against me since we were 12 because I embarrassed him in front of a girl he liked._  
-__hold back__  
-__hold court__  
-__hold on tight__  
-__hold on__  
-__hold someone back__  
-__Hollyweird__ The term _Hollyweird_ is a play on words, combining the names _Hollywood_ and _weird_, and is often used to describe the American film industry in a negative or satirical manner.  
-__hoo-ha__  
-__hop on the bandwagon__  
-__hope against (all) hope__ (hoping against hope)  
-__hope for the best__  
-__hophead__  
-__hoping agaínst hope__  
-__hot take__ An opinion or analysis published, broadcast, or otherwise issued very soon after the topic in question has occurred or become timely, often produced without much research and with the primary intention of being provocative in order to generate attention. _Twitter is a gold mine for garbage hot takes._ _Last Friday, we gave a hot take: the iPhone is not the future._  
-__hot-button__ _Hot-button social issues._  
-__hotfoot__ :dart: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
-__how come__  
-__hubby__ :seven: _A shortening and alteration of “husband.”_  
-__hullabaloo__ :two::hammer:  
-__humblebrag__  
-__I feel you__  
-__I hear you__  
-__I(’ll) give you that__ I concede that what you just said is true or likely.  
-__if you know what I mean__  
-__if you will__  
-__in (high) hopes of (something)__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
 __in a million years__  
