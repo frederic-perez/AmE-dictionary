@@ -2,14 +2,26 @@ __(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all 
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
+__(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering.  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
+__all ears__  
+__amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
+__bleeding heart__  
+__bop__  
+__break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
+__C-note__  
+__call someone names__  
+__crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
+__culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
 __dish out__  
+__do (one’s) part__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
+__do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
 __do a U-turn__  
 __do nicely__  
 __do or die__  
@@ -21,16 +33,22 @@ __doormat__
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double down__  
 __double-edged sword__ Something that can be both beneficial and problematic.  
+__drag (one’s) ass__  
 __drag (one’s) feet__  
 __draw upon__  
 __dressed to the nines__  
+__drop out__  
 __drop the ball__  
 __dyke__  
 __eat it up__  
 __en route__  
 __every so often__  
+__flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __for the life of me__  
+__front and center__  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
+__gelt__ /gɛlt/ _n slang_ Money.  
+__get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
 __gone jacket__ _A gone jacket._  
 __gonzo__ _Gonzo journalism._  
 __goo-goo eyes__ A visibly smitten or enamored facial expression, as of one who is romantically interested in someone else. _Well, if you keep staring at her with goo-goo eyes, she’ll know you like her sooner than later!_  
@@ -45,6 +63,7 @@ __grínd one’s teeth__
 __grouse__ To complain or gripe.  
 __grovel__ To interact with someone in an overtly agreeable or deferential manner. _Well, if your mother’s mad at me, I guess I’m going to have to grovel—we want this family dinner to be pleasant, after all._  
 __guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
+__hamster wheel__ _These changes will get you off this hamster wheel._  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
 __hang on to your hat__ Get ready for what’s coming or about to happen!  
@@ -77,6 +96,7 @@ __hazarded__ _v_
 __he who hesitates is lost__  
 __head over heels__  
 __head start__  
+__head up__  
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
@@ -121,6 +141,7 @@ __in the hot seat__
 __in the least__  
 __in the long run__ :two: Over a relatively long or extended length of time in the future.  
 __in the middle of nowhere__  
+__in the short run__ Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
 __in the zone__  
 __in training__  
 __it (always) pays to (do something)__  
@@ -132,10 +153,14 @@ __jazzy__
 __jill__ (gill, Gillian) A young woman. _A jailbait jill._  
 __K-car__  
 __keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
+__kibosh__ __1__ _n_ A stop to or a check on something. Used almost exclusively in the phrase “put the kibosh on (something).” _The boss finally put the kibosh on our two-hour lunch meetings._ __2__ _v_ To put a stop to something or check it in some way. _You’d better kibosh that nonsense before it gets you in trouble._  
 __kickback__  
 __knock (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really knocked it out of the park!_  
 __kosher__  
+__laser focus__ Concentrate one’s attention and effort on a specific task or goal with intense and precise focus, much like a laser beam targets and illuminates a specific point.  
+__lo and behold__  
 __mark my word(s)__  
+__miss out__ To lose the chance or opportunity to do or experience something. _Because I was so sick last week, I missed out on the chance to see my sister while she was in town._  
 __more so__  
 __more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
 __more than meets the eye__  
@@ -149,8 +174,10 @@ __my ass!__ Used to indicate that what has just been said is nonsense.
 __nah__  
 __name names__ :two::hammer:  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
+__navigate__  
 __nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
 __neck of the woods__  
+__needless to say__  
 __nerd out__ :two::hammer:  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __next to nothing__ Almost nothing; a very small amount.  
@@ -158,6 +185,7 @@ __nice guy__
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __night and day__  
 __no cigar__  
+__nosh__  
 __on and on__ _The list goes on and on._  
 __on good terms__  
 __on steroids__  
@@ -180,6 +208,7 @@ __open to question__
 __out and about__ :two::hammer:  
 __out of (one’s) gourd__  
 __out of the blue__ _Tragedy came out of the blue._  
+__out of the frying pan (and) into the fire__ From a bad, stressful, or dangerous situation into one that is even worse.  
 __out of whack__  
 __out of whole cloth__ :astonished:  
 __out-and-out__  
@@ -220,7 +249,10 @@ __play it safe__
 __play the field__  
 __plead ignorance__ _It was best for me to plead ignorance._  
 __pop__ _I took four quick pops of Old Crown._  
+__pot luck__ (potluck)  
 __prattle on (about someone or something)__ To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
+__pressure cooker__ _Too many of us feel like we’re living inside a pressure cooker._  
+__price to pay__  
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
 __prise open__  
 __pro bono__  
@@ -233,9 +265,11 @@ __put an end to (something)__
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
 __put on a clinic__  
 __put out fires__  
+__put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._  
 __put the skids to__  
 __put through the ringer__  
 __put two and two together__  
+__put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. _I don’t know how you put up with John—he’s such a loudmouth!_  
 __put up with something__  
 __put upon__  
 __putzo__  
@@ -268,6 +302,8 @@ __roly-poly__ _A roly-poly hustler._
 __round and round__ (around and around)  
 __round something out__  
 __roundhouse__  
+__rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
+__rub someone wrong__  
 __rule out__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
@@ -288,6 +324,7 @@ __scatterbrain__ :two: Someone who is very forgetful, unfocused, or disorganized
 __schlock__ _He was running a schlock operation._  
 __schmaltz__  
 __schmuck__  
+__schnook__  
 __second best__  
 __second nature__  
 __secret weapon__  
@@ -300,6 +337,7 @@ __sexual tension__
 __shakedown__ _A shifty shakedown artist._  
 __shame on (one)__  
 __shed (some) light on (something)__  
+__shell out__  
 __shift gears__ To quickly or abruptly change what one is doing or discussing.  
 __shifty__ _A shifty shakedown artist._  
 __shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
@@ -313,7 +351,7 @@ __shtick__ _Sometimes he pushed his shtick a little too far._
 __side hustle__  
 __silly me__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
-__single out__  
+__single out__ :two::hammer:  
 __sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. “Shiva” comes from the Hebrew word שבעה (šib’â), meaning “seven.” _For a week, we sat shivah for her._  
 __sit tight__ To wait patiently without taking any immediate action.  
 __skeletons in the cupboard__  
@@ -334,8 +372,7 @@ __sneak peek__
 __sniff out__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __snout trout__ A smell similar to fish left on the end of your nose after going down on your female partner. _Marilyn was a snout trout._  
-__so much for (someone or something)__  
-__so much for someone or something__  
+__so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
 __so-and-so__  
@@ -361,6 +398,7 @@ __steppingstone__
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __strange bedfellows__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
+__sugarcoat (something)__  
 __sure enough__  
 __swan song__  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
@@ -372,6 +410,8 @@ __take charge__
 __take names__  
 __take no prisoners__  
 __take on__  
+__take steps to (do something)__  
+__take the podium__  
 __taken by a mug__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the hind leg(s) off a horse__ To talk endlessly and exhaustingly. _I love my Aunt Lily, but she’d talk the hind legs off a horse if you let her!_  
@@ -407,6 +447,7 @@ __the nitty-gritty__
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
+__then again__  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
 __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
@@ -417,7 +458,8 @@ __too many irons in the fire__ :dart: An excessive number of simultaneous activi
 __trash talk__ _I won’t trash talk._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __treasure trove__  
-__trick__ _v_  
+__trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
+__trick<sup>2</sup>__ _v_  
 __Trojan horse__  
 __trot out__  
 __trump card__ _It was time for me to play my trump card._  
@@ -467,7 +509,7 @@ __wild ride__
 __wild__  
 __win over__  
 __window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
-__wing it__ To do or attempt something with little preparation in advance; to improvise.  
+__wing it__ :two: To do or attempt something with little preparation in advance; to improvise.  
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
 __wire__  
 __wise guy__ __2__ A mobster.  
