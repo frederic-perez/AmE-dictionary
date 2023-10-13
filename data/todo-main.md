@@ -1,3 +1,5 @@
+__-sville__  
+__-ville__  
 __abate__ _v_  
 __abet__ _v_  
 __ablutions__  
@@ -10,6 +12,7 @@ __acerbic__
 __achieve__ _v_ :mega:  
 __achoo__  
 __acolyte__ _n_  
+__actuary__ _n_  
 __ad nauseam__  
 __addle__ _v_  
 __admittedly__  
@@ -21,8 +24,13 @@ __aflutter__
 __afoot__  
 __aftereffect__ _n_  
 __afterimage__ _n_  
+__amygdala__ _n_  
+__apparatchik__ _n_  
+__audacious__ _adj_ :dart:  
+__audacity__ _n_ :dart:  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
+__bolster__ _v_  
 __bootstrapping__ _n_  
 __borak__ _n_ Rubbish; nonsense.  
 __borscht belt__  
@@ -115,9 +123,12 @@ __davening__
 __deadened__  
 __debonair__  
 __debonnaire__ _adj_  
+__decal__ _n_ /ˈdi kæl, dɪˈkæl/ __1__ A picture or design transferred by decalcomania. __2__ A decorative sticker. :es: pegatina  
 __decamp__  
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
+__deterrent__ _adj, n_  
+__disengage__  
 __disobligation__  
 __disquiet__ _adj, n, v_  
 __dissatisfied__  
@@ -167,6 +178,8 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__eviction__ _n_  
+__extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __fabricate__ _v_  
 __facetious__ _adj_ :two::hammer:  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
@@ -180,6 +193,7 @@ __farouche__ _adj_
 __fartlek__ _n_  
 __fastidious__  
 __fatality__ _n_  
+__fatigue__ _n_ :mega:  
 __fav__ _n_  
 __favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favorable), the god of the west wind in Roman mythology. His Greek equivalent is Zephyr.] __1__ Relating to the west wind. __2__ Mild; gentle; benign.  
 __fawn__  
@@ -238,7 +252,7 @@ __gazebo__ _n_ A freestanding, roofed, usually open-sided structure providing a 
 __gazelle__ _n_  
 __gelded__ _v_  
 __genial__ _adj_  
-__gestalt__ _n_  
+__gestalt__ _n_ :two::hammer:  
 __giant salamander__ _n_  
 __giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_  
@@ -256,6 +270,7 @@ __hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __heretofore__  
+__hex sign__ _n_ _She made the hex sign._  
 __hex<sup>1</sup>__ _n_ :dart: __1__ An evil spell; a curse. __2__ One that brings bad luck.  
 __hex<sup>2</sup>__ _v tr_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
@@ -300,6 +315,7 @@ __impermanence__ _n_ :two: The property of not existing for indefinitely long du
 __importantly__ _adv_  
 __inanely__ _adv_  
 __incumbent__  
+__incurious__ _adj_ __1__ Lacking interest in one’s surroundings or worldly affairs. __2__ Without emotion or interest.  
 __indefatigable__ _adj_  
 __ineffability__  
 __ineffable__  
@@ -322,12 +338,14 @@ __jowly__ _adj_ Having heavy or sagging jowls. _The jowly lawyer._
 __judgment__ _n_ :pencil2:  
 __jumbled__ _adj_ _Jumbled events._  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
+__jumpsuit__ _n_ /ˈdʒʌmpˌsut/  
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __keenly__  
 __kerf__ _n_  
 __kibble__ _n_  
+__kibbutz__ _n_  
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
 __kiddie__ _n_ _A kiddie soccer game,_  
 __kiddo__  
@@ -457,8 +475,9 @@ __mound__ _v_ _He was mounding butter pats on his fourth hard roll._
 __mull__ _v_ :two::hammer:  
 __mullet__ _n_  
 __mulligans__  
+__mutiny__  
 __nepotism__ _n_ /NEP-uh-tiz-um/  
-__newsroom__ _n_  
+__newsroom__ _n_ :two::hammer:  
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
@@ -469,6 +488,7 @@ __outstrip__ _v tr_
 __outvouch__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overcut__  
+__overhaul__ _v_  
 __overhaul<sup>1</sup>__ _n_  
 __overhaul<sup>2</sup>__ _v_  
 __overjoyed__ _adj_  
@@ -505,6 +525,8 @@ __parochial__ _adj_ :two: Narrowly restricted in scope or outlook. _Syn_ insular
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parry__ _v_  
 __parsimony__  
+__pathos__  
+__peeps__ _n pl_ /piːps/ Associates; friends.  
 __picayune__ _adj, n_  
 __pickax__ _n_ (pickaxe)  
 __picket line__ _n_  
@@ -695,6 +717,7 @@ __reprieve__ _v_
 __repudiation__ _n_  
 __resonate__ _v_  
 __responsibility__ _n_ :two::hammer:  
+__retaliation__ _n_ :mega:  
 __reticent__ _adj_ /RET-uh-sunt/  
 __retina__ _n_ :mega:  
 __retinue__ _n_  
@@ -839,6 +862,7 @@ __ski jump__ _n_
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skittering__  
+__sky-high__ _adj, adv_  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
 __snap__ _n_  
@@ -961,6 +985,7 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
+__telling__ _adj, n_ _That response was very telling._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __terraform__ _v_  
 __terrazzo__  
@@ -976,6 +1001,7 @@ __thrash__ _v_
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
+__tonsil__ _n_  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
 __trappings__ _n pl_ :two::hammer:  
@@ -1041,6 +1067,7 @@ __vicinity__ _n_
 __vicissitude__ _n_ :pencil2:  
 __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
 __vignette__ _n_  
+__vindicate__  
 __vise__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
 __wanly__  
