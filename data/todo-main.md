@@ -181,32 +181,6 @@ __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; 
 __eviction__ _n_  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __fabricate__ _v_  
-__facetious__ _adj_ :two::hammer:  
-__facilitate__ _v_ /fuh-SIL-uh-tayt/  
-__factotum__  
-__fallible__ _adj_ /FAL-uh-bul/  
-__falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
-__family member__ _n_  
-__faradization__ _n_  
-__fare__ _v intr_  
-__farouche__ _adj_  
-__fartlek__ _n_  
-__fastidious__  
-__fatality__ _n_  
-__fatigue__ _n_ :mega:  
-__fav__ _n_  
-__favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favorable), the god of the west wind in Roman mythology. His Greek equivalent is Zephyr.] __1__ Relating to the west wind. __2__ Mild; gentle; benign.  
-__fawn__  
-__faze__ _v tr_ :two: /FAYZ/ To faze someone is to disturb their composure. _Syn_ disconcert, daunt  
-__feckless__ _adj_ Generally incompetent and ineffectual. _Syn_ inept  
-__feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
-__felon__  
-__fervid__ _adj_ /FER-vid/ _Fervid_ is a somewhat formal word describing people or things that express, or are expressive of, strong feelings.  
-__festinate__ _v_  
-__fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
-__feverish__ _adj_ _Feverish fantasies._  
-__fiasco__  
-__fiat__ _n_ A legally binding command or decision entered on the court record (as if issued by a court or judge). _Syn_ decree, edict, rescript, order  
 __fib<sup>1</sup>__ _n_  
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
 __fictitious__  

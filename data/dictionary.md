@@ -6160,9 +6160,10 @@ __face value__ _n_ :three::hammer:
 __face__ _v_ _The problems faced by the network operators._  
 __face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __facelift__ _n_ :two::hammer: (face-lift)  
-__facetious__ _adj_ :eight::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous. Playfully jocular; humorous. _Syn_ bantering, tongue-in-cheek _I was only being facetious._ _She was quite gullible and could never tell when his remarks were facetious or when he was being serious._  
+__facetious__ _adj_ :nine::m::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous. Playfully jocular; humorous. _Syn_ bantering, tongue-in-cheek _I was only being facetious._ _She was quite gullible and could never tell when his remarks were facetious or when he was being serious._  
 __facetiousness__  
 __facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
+__facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
 __facsimile<sup>1</sup>__ _n_ :five: /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._ _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
@@ -6173,7 +6174,7 @@ __faction__ _n_
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
 __factoid__ _n_ :five: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
-__factotum__ _n_ :two: /fak-TOH-tum/ A factotum is a person who has many diverse activities or responsibilities, and especially one whose work involves a wide variety of tasks. A general assistant, engaged to do all varieties of work. _After graduating from college, Natalia worked for several years as an office factotum._  
+__factotum__ _n_ :three: /fak-TOH-tum/ A factotum is a person who has many diverse activities or responsibilities, and especially one whose work involves a wide variety of tasks. A general assistant, engaged to do all varieties of work. _After graduating from college, Natalia worked for several years as an office factotum._  
 __factual__  
 __faculty__ _n_ :three::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
@@ -6205,7 +6206,7 @@ __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his cl
 __fallacy__ _n_ :six::hammer: _The lump of coding fallacy._  
 __fallback<sup>1</sup>__ _n_  
 __fallback<sup>2</sup>__ _adj_ (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
-__fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
+__fallible__ _adj_ :five::mega::hammer: /FAL-uh-bul/ _Managers are as fallible as the rest of us._  
 __falling star__ _n_ A meteor; shooting star.  
 __falloff__  
 __Fallon, NV__ _n_  
@@ -6214,6 +6215,7 @@ __fallow ground__
 __fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
 __false flag operation__ _n_ An act committed with the intent of disguising the actual source of responsibility and pinning blame on another party.  
 __false friend__  
+__falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __falsetto__  
 __falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
 __falter__ _v_  
@@ -6221,6 +6223,7 @@ __faltered__ _v_
 __fame__ _v_  
 __famed__ _adj_ :two: Something that’s famed is very well-known, or famous. _Your dad’s famed brownies are the highlight of every bake sale in town._  
 __familiar__ _adj_ :two::hammer: _I’m not familiar with it._ _No, I’m not familiar._  
+__family member__ _n_  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _n_ :two::hammer: _It could be feasst or famine._  
 __famish__ _v_  
@@ -6254,18 +6257,20 @@ __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _
 __Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_  
+__faradization__ _n_  
 __farce__ _n_ :four::hammer: /FAHRSS/ _The award-winning actor has a talent for farce._  
 __fare<sup>1</sup>__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ _The second missile fared slightly better than the first._ _It’s still unclear how well GPT-4 will fare in a domain like health care._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
 __faro__ _n_ _A farol dealer._  
-__farouche__ _adj_ :two::hammer:  
+__farouche__ _adj_ :three::hammer:  
 __farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __farther__ _adv_ :two::hammer:  
 __farthing__  
+__fartlek__ _n_ A training technique, used esp. among runners, consisting of bursts of intense effort loosely alternating with less strenuous exertion.  
 __fascia__ _n_ :two::hammer: _The car dashboard fascias._  
 __fascinate__ _v_ :mute:[fas~~c~~inate]  
 __fashionista__ _n_  
@@ -6279,20 +6284,21 @@ __fast-track<sup>1</sup>__ _adj_ :three: Denoting the quickest or most direct ro
 __fast-track<sup>2</sup>__ _v tr_ :four: To speed up the progress of (a project or person).  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__ _adj_ :seven: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
+__fastidious__ _adj_ :eight::astonished: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
 __fastidiously__ _adv_ :es: meticulosamente _I was fastidiously watching the clock._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
 __fat rolls__ _n_ :camera: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fatal__ _adj_  
+__fatality__ _n_  
 __Father Time__  
 __fatherland__ _n_ :astonished:  
 __fathom<sup>1</sup>__ _v_ :five::hammer:  
 __fathom<sup>2</sup>__ _n_ (fathoms)  
 __fathometer__ _n_ :astonished: Depth finder for determining depth of water or a submerged object by means of ultrasound waves.  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
-__fatigue__ _n_ :two::hammer::mega:  
+__fatigue__ _n_ :three::hammer::mega:  
 __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
@@ -6308,16 +6314,18 @@ __Faustian__ _adj_ :two: Surrendering one’s integrity for something, such as p
 __faux pas__ _n_ :two: A social blunder.  
 __faux__ _adj_ Artificial; fake: _faux pearls._ _Three faux tombstones._  
 __faux-pas__  
+__fav__ _n_  
 __fava beans__  
 __fave<sup>1</sup>__ _n_  
 __fave<sup>2</sup>__ _v_ _informal_ :two::hammer:  
+__favonian__ _adj_ /fuh-VOH-nee-uhn/ [:scroll: After Favonius (literally, favorable), the god of the west wind in Roman mythology. His Greek equivalent is Zephyr.] __1__ Relating to the west wind. __2__ Mild; gentle; benign.  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
 __favored__ _adj_ Preferred above all others and treated with partiality. _Syn_ best-loved, pet, preferred, favorite _My sister is clearly the favored child—she has a later curfew and gets away with things I never could!_  
 __favoritism__ _n_  
-__fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
-__fawn<sup>2</sup>__ _v_ :four: /FAWN/ (fawning) __1__ To fawn over someone is to court their favor by groveling or by flattering the person. Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish _Still new to celebrity, the musician seemed a bit baffled by those fawning over her during her recent visit to her hometown._ __2__ Fawn is also sometimes used of dogs to mean “to show affection.” _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._  
+__fawn<sup>1</sup>__ _n_ :five: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
+__fawn<sup>2</sup>__ _v_ :five: /FAWN/ (fawning) __1__ To fawn over someone is to court their favor by groveling or by flattering the person. Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish _Still new to celebrity, the musician seemed a bit baffled by those fawning over her during her recent visit to her hometown._ __2__ Fawn is also sometimes used of dogs to mean “to show affection.” _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._  
 __fawningly__  
-__faze__ _v_ :six::hammer: (fazed)  
+__faze__ _v tr_ :eight: /FAYZ/ To faze someone is to disturb their composure. _Syn_ disconcert, daunt  
 __fealty__ _n_ :three::hammer: :es: lealtad (feudal)  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearless__ _adj_  
@@ -6333,7 +6341,7 @@ __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
-__feckless__ _adj_ :six: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
+__feckless__ _adj_ :seven: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _Syn_ inept _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
 __fecklessness__  
 __Federal lands__ _n_  
 __federate__ _v_ :two::hammer: (federating)  
@@ -6342,6 +6350,7 @@ __feel out__
 __feign__ _v_ :four::mute:[fei~~g~~n] /FAYN/ To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
 __feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, pork, and beef, typically served with rice and orange slices.  
 __feint__  
+__feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
 __felicitous__ _adj_ /fɪˈlɪsɪtəs/  
@@ -6384,30 +6393,33 @@ __ferryboat__ _n_
 __fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
 __fertile__ _adj_ :mega:  
 __fervent__  
+__fervid__ _adj_ /FER-vid/ _Fervid_ is a somewhat formal word describing people or things that express, or are expressive of, strong feelings.  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
 __fester<sup>2</sup>__ _v tr_ :nine: /FESS-ter/ (festered, festering) __1__ To form pus; generate purulent matter; suppurate: _a festering wound._ _Without treatment, the wound began to fester._ __2__ To cause ulceration, as a foreign body in the flesh. :es: ulcerarse __3__ To putrefy or rot. __4__ To rankle, as resentment or bitterness: _The desire for revenge festered in her heart._ _VA’s challenges will only fester if they are kept shrouded in secrecy._ __5__ To become worse as time passes. _The resentment between the knights festered and lead to a battle._  
 __fester<sup>3</sup>__ _v intr_ To cause to rankle: _envy festering the spirit._  
 __festering__ _adj_ :two::hammer:  
-__festinate__ _v_ To hurry, hasten.  
+__festinate__ _v_ :two: To hurry, hasten.  
 __festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
 __festoon<sup>2</sup>__ _v_ :nine::m: /fess-TOON/ (festooned) __1__ To hang or form festoons round (a room, etc.). To hang decorative chains or strips on. _The students festooned the gymnasium with streamers and bunting for the dance._ __2__ To cover (something) profusely and gaily with decorations. To cover or decorate (something) with many small objects, pieces of paper, etc. _Tiny wildflowers festooned the meadow._ _His podium was festooned with a sign._  
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
 __feted__ _v_ :five::hammer:  
+__fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, mephitis  
 __fetter__ _n_ __1__ A chain or shackle for the feet. __2__ Something that confines or restrains someone in some way. _John keeps his smartphone with him when he goes hiking, but Linda leaves hers at home, preferring to free herself temporarily of the fetters of technology._  
 __fettered__ _v_  
 __fetus__ _n_  
 __feud<sup>1</sup>__ _n_ :four::hammer:  
 __feud<sup>2</sup>__ _v_  
 __feuded__  
-__feverish__  
+__feverish__ _adj_ :two::hammer: _Feverish fantasies._  
 __fewer__ _adj_ (_vs_ less)  
 __fey__ _adj_ :two::hammer:  
 __fez__ _n_  
 __fiancé__ _n_ A man who is engaged to be married.  
 __fiancée__ _n_ A woman who is engaged to be married.  
-__fiasco__ _n_ :two::hammer:  
+__fiasco__ _n_ :three::hammer:  
+__fiat__ _n_ A legally binding command or decision entered on the court record (as if issued by a court or judge). _Syn_ decree, edict, rescript, order  
 __fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
 __fib<sup>2</sup>__ _v intr_ :three: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
