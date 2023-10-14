@@ -2381,11 +2381,12 @@ __in the know__ :four::hammer:
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
+__in the long run__ :two: Over a relatively long or extended length of time in the future.  
 __in the long term__  
 __in the loop__ :two::hammer:  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
 __in the making__ :two::hammer:  
-__in the middle of nowhere__ :two: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
+__in the middle of nowhere__ :three: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
 __in the midst of (something)__ :two::hammer:  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
@@ -2395,6 +2396,7 @@ __in the pipeline__ :dart: In progress or about to be started or implemented. _D
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
 __in the public eye__  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
+__in the short run__ Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __in the thick of it/(something)__ :nine::m: [:sound: in the thick of it] Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the thick of things__ Very busy; in the middle of or preoccupied with something or several things. _Sorry I couldn’t make it to your birthday lunch on Wednesday—I’m afraid I’m really in the thick of things at the moment._  
@@ -2404,9 +2406,11 @@ __in the wake of (something)__ __1__ In the aftermath of something, often as a c
 __in the wild__ In naturally occurring conditions or environments.  
 __in the wind__  
 __in the works__ :two: In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
+__in the zone__  
 __in their own right__  
 __in this day and age__ :two::hammer:  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
+__in training__  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in your birthday suit__ Naked.  
 __in your face__ :two::hammer:  
@@ -2423,11 +2427,13 @@ __iron out__ :four: To ease, solve, or remove minor difficulties, troubles, or p
 __ironclad__  
 __Is the glass half empty or half full?__  
 __isn’t that funny?__  
+__it (always) pays to (do something)__  
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
+__it factor__  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
-__it is what it is__ :five: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
+__it is what it is__ :dart::six: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
 __it takes a village__ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
@@ -2438,8 +2444,10 @@ __it’s all good__ A phrase used to express general approval, unconcern, or dis
 __it’s one of those things__  
 __ivory tower__ :two: An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
 __jack someone up__ _It jacks me up._  
+__jack up__ _Amazon reportedly used a secret algorithm to jack up prices._  
 __jack-off__ :two::hammer: _Harry made the jack-off sign._  
 __jacked chad__  
+__jacked to the gills__  
 __jailbreak__  
 __jam-packed__ :three::hammer: (jampacked)  
 __Jane Doe__ An unidentified woman.  
@@ -2448,10 +2456,12 @@ __jaw away__ :dart: To talk incessantly and/or at great length. _Whenever I meet
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
 __jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __jazzed__  
+__jazzy__  
 __Jekyll and Hyde__  
 __jet-setter__ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
+__jill__ (gill, Gillian) A young woman. _A jailbait jill._  
 __Job’s comforter__ Someone who makes a person feel worse about a situation when trying to offer sympathy. A reference to the Biblical story of Job, who showed great faith amid difficult circumstances. _Larry is a real Job’s comforter. I know he was just trying to offer comforting words, but he made Maggie feel worse about her financial situation._  
 __jock__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
@@ -2486,7 +2496,7 @@ __just out of curiosity__ A phrase used to express a sense of interest or a desi
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just the same (to one)__  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
-__K-car__  
+__K-car__ :two::hammer:  
 __kangaroo court__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
 __keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
@@ -2512,7 +2522,7 @@ __keep in mind__
 __keep in step with the times__ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it real__  
 __keep it under wraps__ Keep it a secret.  
-__keep it up__ :dart:  
+__keep it up__ :dart::three: To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
 __keep mum__ To remain silent; to not say anything (e.g., about a secret).  
 __keep on trucking__ An exhortation to continue with one’s life. _Watch the sun come up, then keep on truckin’ into the next day._  
 __keep one’s countenance__ Maintain one’s composure, especially by refraining from laughter. To preserve a calm appearance, hiding one’s emotions. _For my part I decided that for once in my life it was wisest to keep my countenance._  
@@ -2531,6 +2541,7 @@ __keep your head above water__ To just be able to manage when you have financial
 __keep your shirt on__  
 __key into (something)__  
 __keyed up__ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
+__kibosh__ __1__ _n_ A stop to or a check on something. Used almost exclusively in the phrase “put the kibosh on (something).” _The boss finally put the kibosh on our two-hour lunch meetings._ __2__ _v_ To put a stop to something or check it in some way. _You’d better kibosh that nonsense before it gets you in trouble._  
 __kick (someone or something) to the curb__ :three: To discard, abandon, or dismiss someone or something that has become redundant, obsolete, useless, or unwanted. _I can’t believe that after 20 years of hard work the company would just kick me to the curb like that!_ _I think it’s about time we kick this old computer to the curb._  
 __kick ass__ :four::dart: __1__ _v_ _rude slang_ To defeat someone or something decisively. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _We weren’t prepared for that game, and the other team kicked our asses._ __2__ _v_ _rude slang_ To physically attack one; to beat one up. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _I’ll kick your ass if I ever see you talking to my girlfriend again._ __3__ _v_ _rude slang_ To be very effective or successful. _This new strategy is really kicking ass and keeping the groundhogs away from my vegetable garden!_ __4__ _v_ _rude slang_ To be excellent or exceptional. _That move kicked ass! All movies should be like that!_ __5__ _v_ _rude slang_ To motivate one or shock one out of complacency. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _The professor’s speech today kind of kicked my ass and made me realize I need to start applying myself._ __6__ _n_ _rude slang_ Excellent or exceptional; awesome. In this usage, the phrase is hyphenated or spelled as one word. _That was a pretty kick-ass roller coaster._ __7__ _v_ _vulgar slang_ To take forceful or harsh measures to achieve an objective.  
 __kick back__  
@@ -2541,6 +2552,7 @@ __kick the can down the road__ Especially in politics, to postpone or defer a de
 __kick the crap out of (someone)__  
 __kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick the/(one’s) door down__  
+__kickback__  
 __kicker__  
 __kid around__  
 __kid in a candy store__  
@@ -2561,6 +2573,7 @@ __knee jerk reaction__ A quick and automatic response.
 __knick-knack__ Any miscellaneous trinket or toy, especially one that is delicate or dainty.  
 __knock (one’s) head against a/the wall__ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __knock (someone) over with a feather__ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
+__knock (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really knocked it out of the park!_  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__ :two: To stop doing whatever one is doing. Often used as an imperative. _Knock it off, you two! I don’t want to see any more fighting._  
 __knock on wood__  
@@ -2584,6 +2597,7 @@ __know-nothing__ A completely ignorant, uninformed, or unknowledgeable person.
 __knuckle sandwich__ A punch in the face.  
 __knuckle-dragger__ A stupid, oafish person, especially a large man. An allusion to an ape. Often spelled without a hyphen. _My sister has started dating some knuckle-dragger she met down at the gym, much to my parents’ chagrin._  
 __Kodak moment__  
+__kosher__  
 __kvetch__ :dart::two::hammer: /kvɛtʃ/ (quetch /kʍɛtʃ/)  
 __l’esprit de l’escalier__ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
@@ -2600,6 +2614,7 @@ __lap dog__ :dart: __1__ Literally, a dog that is small enough and temperamental
 __lap of the gods__ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
 __larger than life__ :three::hammer:  
 __larger-than-life__  
+__laser focus__ Concentrate one’s attention and effort on a specific task or goal with intense and precise focus, much like a laser beam targets and illuminates a specific point.  
 __lash about__ _Lads lashing about._  
 __lash out__ :seven::hammer:  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
@@ -2732,7 +2747,7 @@ __living hell__ _Your life will be living hell._
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __living proof__ :two::hammer:  
 __living the dream__ :two: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
-__lo and behold__ :astonished::nine::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
+__lo and behold__ :astonished::nine::m::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
@@ -2882,7 +2897,7 @@ __march to (the beat of) a different drum__ To do something, act, or behave in a
 __marching orders__  
 __Marie Celeste__ A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. _We came upon a house in the woods, empty as the Marie Celeste, but left otherwise untouched._  
 __marinate__  
-__mark my word(s)__ :two::hammer:  
+__mark my word(s)__ :three::hammer:  
 __mark__ _n_ :two: A dupe; a victim selected for a theft or a swindle.  
 __marry (someone) for (his or her) money__ To marry someone solely or primarily to have access to their personal wealth. _Given the extreme age difference between them, a lot of people speculated that she was simply marrying Donald for his money._  
 __marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself. _A: “I hear that the local fishmonger’s daughter is betrothed to a rich foreign lawyer!” B: “My word, she’s certainly marrying above her station, isn’t she?”_  
@@ -2927,7 +2942,7 @@ __mind (one’s) manners__ To be well behaved and act appropriately. _Make sure 
 __mind you__  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
 __miss a beat__ _Without missing a beat._  
-__miss out__  
+__miss out__ :dart::three: To lose the chance or opportunity to do or experience something. _Because I was so sick last week, I missed out on the chance to see my sister while she was in town._  
 __Miss Right__ The perfect or most suitable woman to be in a relationship with or to marry. _If you’re waiting for Miss Right to just appear in your life, you’re never going to find someone you’ll be happy with. You have to get out there and give people a chance!_  
 __miss the boat__  
 __miss the cut__ In golf, to fail to match or better the score necessary to remain in the final two rounds of a four-round tournament, thus resulting in elimination.  
@@ -2958,12 +2973,14 @@ __moral compass__ :three: That which serves or guides a person’s knowledge, se
 __more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always have a great time when Katie’s around—she’s more fun than a barrel of monkeys!_  
 __more often than not__ :four: Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
-__more so__ :two: To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
-__more than meets the eye__  
+__more so__ :three: To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
+__more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
+__more than meets the eye__ :two::hammer:  
 __morning person__  
 __most of the time__ _Most of the time I do my breakfast._  
 __mother hen__ _n_ A person who fusses over others in an overprotective manner.  
 __mother lode__  
+__mother__ _This mother really works._  
 __mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
 __mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
 __mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  

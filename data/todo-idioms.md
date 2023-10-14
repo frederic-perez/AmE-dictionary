@@ -139,32 +139,6 @@ __in the doldrums__ _The casino’s profits were in the doldrums._
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
-__in the long run__ :two: Over a relatively long or extended length of time in the future.  
-__in the middle of nowhere__  
-__in the short run__ Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
-__in the zone__  
-__in training__  
-__it (always) pays to (do something)__  
-__it factor__  
-__it is what it is__  
-__jack up__ _Amazon reportedly used a secret algorithm to jack up prices._  
-__jacked to the gills__  
-__jazzy__  
-__jill__ (gill, Gillian) A young woman. _A jailbait jill._  
-__K-car__  
-__keep it up__ keep it up__ To continue doing something in the same manner or to the same level of proficiency. _You’re doing a great job so far, James! Keep it up!_  
-__kibosh__ __1__ _n_ A stop to or a check on something. Used almost exclusively in the phrase “put the kibosh on (something).” _The boss finally put the kibosh on our two-hour lunch meetings._ __2__ _v_ To put a stop to something or check it in some way. _You’d better kibosh that nonsense before it gets you in trouble._  
-__kickback__  
-__knock (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really knocked it out of the park!_  
-__kosher__  
-__laser focus__ Concentrate one’s attention and effort on a specific task or goal with intense and precise focus, much like a laser beam targets and illuminates a specific point.  
-__lo and behold__  
-__mark my word(s)__  
-__miss out__ To lose the chance or opportunity to do or experience something. _Because I was so sick last week, I missed out on the chance to see my sister while she was in town._  
-__more so__  
-__more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
-__more than meets the eye__  
-__mother__ _This mother really works._  
 __move (one) to tears__  
 __move the needle__  
 __Mr. Right__  
