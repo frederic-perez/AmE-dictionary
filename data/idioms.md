@@ -3006,16 +3006,22 @@ __my lucky star__
 __my spidey-sense is tingling__  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
-__name names__ :two::hammer: _I will not go naming names here._  
+__name names__ :four::hammer: _I will not go naming names here._  
 __narrow down__ :two: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
 __narrow escape__ :two::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  
 __narrow the gap__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
+__natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
+__navigate__  
+__nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
+__neck of the woods__  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
 __need-to-know__  
-__needless to say__ Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__needless to say__ :two: Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
+__nerd out__ :two::hammer:  
+__nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __nervy__ :astonished: Daring or fearless; courageous. Primarily heard in US. _You’ve got to be pretty nervy to jump out of a plane and trust a little backpack to save your life._  
 __never a rose without a/the prick__ _proverb_ There is rarely a good or positive thing, event, or circumstance that is not accompanied by something negative or unpleasant (i.e., just as a rose has thorns). _A: “I can’t believe the amount of taxes I have to pay on my lottery winnings!” B: “Never a rose without the prick, eh?”_  
 __new blood__  
@@ -3023,12 +3029,14 @@ __new car smell__ The scent associated with the inside of a brand new vehicle, c
 __new kid on the block__ Someone who is new in a place or organization.  
 __new normal__ A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
 __next in line__  
+__next to nothing__ Almost nothing; a very small amount.  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
-__nice guy__ A teenaged or adult male who is dependably friendly and compassionate, to the point of being seen as too boring, unchallenging, or uninspiring to be romantically involved with. _I’m tired of just being the nice guy that no girl wants to date. I want to be seen as edgy, dangerous even—someone no girl can resist!_  
+__nice guy__ :two: A teenaged or adult male who is dependably friendly and compassionate, to the point of being seen as too boring, unchallenging, or uninspiring to be romantically involved with. _I’m tired of just being the nice guy that no girl wants to date. I want to be seen as edgy, dangerous even—someone no girl can resist!_  
 __nice one__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Nice one, Frank, now we’re going to have to rebuild this entire model from scratch._  
-__night and day__  
+__nickle-and-dime__ _A nickle-and-dime con man._  
+__night and day__ :two::hammer:  
 __nincompoop__ _n_ A silly, foolish, or stupid person.  
 __nine to fivers__  
 __nip (something) in the bud__ :six: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
@@ -3039,6 +3047,7 @@ __nix__
 __no big deal__ :dart::three::hammer: _No big deal, but it looked sloppy._  
 __no biggie__  
 __no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
+__no cigar__  
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__ :two::hammer:  
 __no doubt__  
@@ -3067,6 +3076,7 @@ __no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-
 __no-no__  
 __nod off__ :dart:  
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
+__nosh__  
 __not (one’s) first rodeo__ :three: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
 __not a big deal__ It is often used to indicate that a problem or situation is minor and does not require excessive concern or attention. The phrase can also be used to minimize the impact of a negative event or to reassure someone that everything is fine. It can also be used to express nonchalance or indifference to a situation or event.  
 __not a competition__  
@@ -3180,6 +3190,7 @@ __on a mission__ _On a mission to close the skills gap by unlocking work-based l
 __on a roll__ :three::hammer: _I’m on a roll._  
 __on a tear__ :three: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
+__on and on__ _The list goes on and on._  
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
@@ -3190,6 +3201,7 @@ __on every level__ _That was a bad idea on every level._
 __on fire__ :three: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
 __on fleek__ _slang_ :three: A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_ _That outfit is totally on fleek—I love it._  
 __on foot__ _I work to work on foot._  
+__on good terms__  
 __on in years__ Advanced in age; old or becoming old. _I might be a little bit on in years, but I’m no fool when it comes to technology!_  
 __on leave__ :two: In the midst of an official extended absence from one’s work, school, etc. _Jane just had a baby, so she’s on leave._ _I’ve been on leave for the past few weeks as my illness has gotten worse._  
 __on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
@@ -3204,13 +3216,15 @@ __on point__ __1__ Focused on or related to the crux or essence of a particular 
 __on short notice__ :two::hammer:  
 __on solid ground__  
 __on someone’s dime__ _I was living on my mother’s dime._  
-__on steroids__ :four::mega: In a very large, enhanced, or exaggerated form.  
+__on steroids__ :five::mega: In a very large, enhanced, or exaggerated form.  
 __on tap__ :two: __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
 __on tenterhooks__ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
 __on that note__ :two::hammer:  
 __on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __on the back burner__ :two::hammer:  
+__on the bleeding edge__  
 __on the block__  
+__on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __on the contrary__ :dart::three::hammer:  
@@ -3218,27 +3232,30 @@ __on the cusp__
 __on the defensive__ :two: Prepared to withstand or counter aggression or attack.  
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
 __on the face of it__ _That seems totally bizarre on the face of it._  
-__on the fast track__ On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
+__on the fast track__ :two: On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
 __on the fence__ :two: Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :three::hammer:  
 __on the fly__  
 __on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
-__on the go__  
-__on the grapevine__ :two::hammer: _Al must have heard something on the grapevine._  
+__on the go__ :two::hammer:  
+__on the grapevine__ :three::hammer: _Al must have heard something on the grapevine._  
 __on the gravy train__ In a state, position, or job where one makes an excessive amount of money without expending much or any effort. _I’ll be on the gravy train once I get paid from the settlement of the lawsuit!_  
 __on the hush-hush__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _I need to tell you some important news, but you have to keep it on the hush-hush, OK?_  
 __on the lam__ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the line__ _Everything was on the line._  
 __on the lookout__ :three::hammer:  
-__on the nose__  
+__on the make__  
+__on the nose__ :two: __1__ Precisely accurate; exactly right. _Her predictions about the company’s collapse were right on the nose._  
 __on the prowl__  
 __on the right side of history__  
 __on the rise__  
 __on the road__ __2__ (on the road to) On the way to, following a course that will end in. _We could see Mary was on the road to recovery._  
 __on the rocks__ :two: __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._ _Your marriage is on the rocks._  
+__on the ropes__  
 __on the same page__ To agree on something.  
+__on the shelf__  
 __on the sidelines__ :two: If you are _on the sidelines_ in a situation, you watch it happening but are not directly involved and cannot influence it. _France no longer wants to be left on the sidelines when critical decisions are taken._  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
 __on the spot__  

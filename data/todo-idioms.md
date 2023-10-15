@@ -146,32 +146,6 @@ __mud shark__ _US black_ A white man or woman who prefers black partners.
 __mug__ _Getting your mug on TV._  
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
-__name names__ :two::hammer:  
-__natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
-__navigate__  
-__nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
-__neck of the woods__  
-__needless to say__  
-__nerd out__ :two::hammer:  
-__nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
-__next to nothing__ Almost nothing; a very small amount.  
-__nice guy__  
-__nickle-and-dime__ _A nickle-and-dime con man._  
-__night and day__  
-__no cigar__  
-__nosh__  
-__on and on__ _The list goes on and on._  
-__on good terms__  
-__on steroids__  
-__on the bleeding edge__  
-__on the button__ Exactly right; in exactly the right place; at exactly the right time.  
-__on the fast track__ On an accelerated path to success or achievement.  
-__on the go__  
-__on the grapevine__  
-__on the make__  
-__on the nose__ __1__ Precisely accurate; exactly right. _Her predictions about the company’s collapse were right on the nose._  
-__on the ropes__  
-__on the shelf__  
 __once and for all__  
 __one and done__  
 __one on one__  
