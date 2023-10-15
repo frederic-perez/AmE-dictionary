@@ -202,32 +202,6 @@ __fling__ _n_ __4__ A brief, casual sexual or romantic relationship.
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
-__flounder__ _v_ :two::hammer:  
-__flowerpot__ _n_  
-__flustered__ _adj_ :dart: In a state of confusion or agitation.  
-__flybys__ _n_  
-__flywheel__ _n_  
-__fob__ _n_ :dart: _A key fob._  
-__foldout__ _n_ An oversize page that is folded in to a book or magazine.  
-__for__ _prep_ _A meeting of the four offices was called for June in Washington._  
-__forcible__  
-__frazzle__ _v_  
-__frisson__ _n_ A French word meaning a shiver, used to mean a thrill or sensation of excitement or fear.  
-__fuel__ _v_  
-__fulsome__ _adj_  
-__furlough__  
-__futile__ _adj_ :two::hammer::mega: /ˈfyut l, ˈfyu taɪl/  
-__gabardine__ _n_  
-__garbled__  
-__gargantuan__ _adj_ _Gargantuan ego._  
-__gash__ _n_ _There was a huge gash in the front tire of the limousine._  
-__gauntlet__ _n_ /GAWNT-lut/  
-__gazebo__ _n_ A freestanding, roofed, usually open-sided structure providing a shady resting place. _Syn_ summerhouse  
-__gazelle__ _n_  
-__gelded__ _v_  
-__genial__ _adj_  
-__gestalt__ _n_ :two::hammer:  
-__giant salamander__ _n_  
 __giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
