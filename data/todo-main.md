@@ -12,6 +12,7 @@ __acerbic__
 __achieve__ _v_ :mega:  
 __achoo__  
 __acolyte__ _n_  
+__acronym__ _n_ /AK-ruh-nim/  
 __actuary__ _n_  
 __ad nauseam__  
 __addle__ _v_  
@@ -25,11 +26,14 @@ __afoot__
 __aftereffect__ _n_  
 __afterimage__ _n_  
 __amygdala__ _n_  
+__appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
 __apparatchik__ _n_  
+__atelier__ _n_ A studio especially for an artist or designer. _Syn_ artist’s workroom  
 __audacious__ _adj_ :dart:  
 __audacity__ _n_ :dart:  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
+__berserk__ _adj_ /ber-SERK/  
 __bolster__ _v_  
 __bootstrapping__ _n_  
 __borak__ _n_ Rubbish; nonsense.  
@@ -75,6 +79,7 @@ __coax__ _v_ /KOHKS/ /kəʊks/ /kōks/
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __color blind__  
 __commensurate__ _adj_  
+__commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victuals, provender  
 __companion__ _v tr_  
 __compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __conceit__  
@@ -151,6 +156,7 @@ __drab__ _adj_
 __drawl__ _n_ The way of speech of someone who drawls.  
 __drill__ _n_  
 __drown out__  
+__dungaree__ _n_ A sturdy, often blue denim fabric. _Syn_ jean, denim  
 __dynamo__ _n_ :astonished: __2__ An extremely energetic and forceful person: _a vice president who was the real dynamo of the corporation._  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
@@ -202,6 +208,8 @@ __fling__ _n_ __4__ A brief, casual sexual or romantic relationship.
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
+__foliage__ _n_ :mega: /FOH-lee-ij/ /ˈfoʊ li ɪdʒ/ Foliage refers to the leaves of a plant or of many plants.  
+__fungible__  
 __giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
@@ -210,6 +218,8 @@ __gobble__ _v_ _Do you savor or gobble?_
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
+__gullible__ _adj_ /GULL-uh-bul/  
+__hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
 __hamper__ _v tr_  
 __hand-crafted__ _adj_  
@@ -226,7 +236,7 @@ __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ 
 __highball__ _v_ _To decide whether to lowball or highball an offer._  
 __highlight__ _n_ :es: punto culminante  
 __hinder__ _v_  
-__hirsute__ _adj_  
+__hirsute__ _adj_ :two::hammer: /HER-soot/  
 __histrionic__  
 __hitherto__  
 __hoagie__ _n_ /ˈhəʊɡɪ/ (hoagy) A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
@@ -263,6 +273,7 @@ __impermanence__ _n_ :two: The property of not existing for indefinitely long du
 __importantly__ _adv_  
 __inanely__ _adv_  
 __incumbent__  
+__incunabula__  
 __incurious__ _adj_ __1__ Lacking interest in one’s surroundings or worldly affairs. __2__ Without emotion or interest.  
 __indefatigable__ _adj_  
 __ineffability__  
@@ -287,6 +298,7 @@ __judgment__ _n_ :pencil2:
 __jumbled__ _adj_ _Jumbled events._  
 __jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __jumpsuit__ _n_ /ˈdʒʌmpˌsut/  
+__juncture__ _n_ /JUNK-cher/  
 __junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
 __juvenilize__  
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
@@ -307,6 +319,7 @@ __knickers__ _n_ :camera:
 __kookier__  
 __Labor Day__  
 __laced__  
+__lackey__ _n_ A servile follower. _Syn_ toady, crawler, sycophant  
 __lackluster__ _adj_ /LAK-luss-ter/  
 __lampoon__ _v tr_ :dart:  
 __landmark__ _adj_ _A landmark study._  
@@ -429,6 +442,7 @@ __newsroom__ _n_ :two::hammer:
 __noshed__ _v_  
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
+__obtain__ _v_ /ub-TAYN/ /əbˈteɪn/  
 __on-the-go__ _adj_  
 __outgrow__  
 __outlandish__  
@@ -740,12 +754,14 @@ __satire__
 __sauntering__ _v_  
 __saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savor__ _v_ _Savor the moment._  
+__scarlett letter__ _n_  
 __scattergood__ _n_ /SKAT-uhr-good/ One who spends wastefully.  
 __scenario__ _n_ :mega: /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
 __schadenfreude__  
 __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
+__scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
 __scraggly__ _adj_ _A scraggly beard._  
 __scramble__ _v_ _They scrambled for personal power._  
 __scrawl__ _v_  
@@ -816,6 +832,7 @@ __smugness__
 __snap__ _n_  
 __snappy__ _adj_ _Snappy answers._  
 __snicker__ _v intr_  
+__snob__ _n_ One who has an offensive air of superiority in matters of knowledge or taste.  
 __soapbox__ _n_  
 __sobering__ _adj_ :two::hammer:  
 __sociopath__  
@@ -901,6 +918,7 @@ __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in 
 __Suntory__ _n_  
 __super-duper__  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
+__supercilious__ _adj_ Coolly and patronizingly haughty.  
 __superintendent__ _n_  
 __surmise<sup>1</sup>__ _n_  
 __surmise<sup>2</sup>__ _v_  
@@ -986,6 +1004,7 @@ __upright bass__ _n_
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
 __utterance__  
+__uvula__ _n_ /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat.  
 __va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
 __va-va-voom<sup>2</sup>__ _adj informal_ Strikingly sexy, voluptuous, or appealing.  
 __vacant__ _adj_  
@@ -1018,6 +1037,7 @@ __vignette__ _n_
 __vindicate__  
 __vise__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
+__voracity__ _n_ /vuh-RASS-uh-tee/  
 __wanly__  
 __wanton__  
 __warrant__ _v_  
@@ -1029,6 +1049,7 @@ __weasel__ _v_
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
 __welter__ _n_ _A welter of objects._  
+__wharfage__ _n_ _Syn_ pier, dock  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
