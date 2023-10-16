@@ -48,6 +48,7 @@ __for the life of me__
 __front and center__  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
 __gelt__ /gɛlt/ _n slang_ Money.  
+__get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
 __get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
 __gone jacket__ _A gone jacket._  
 __gonzo__ _Gonzo journalism._  
@@ -80,6 +81,12 @@ __hard knocks__ The real and practical experiences of life, especially those inv
 __hard of hearing__  
 __hard on the eyes__ Unattractive; ugly.  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
+__have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
+__have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
+__have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
+__have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
+__have (something) on__ To be busy or engaged with something; to have plans to do something at a particular point in time. _I’’’ve got a few things on at the moment, but business has been pretty slow overall._  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
@@ -89,8 +96,21 @@ __have a voice (in something)__ To have an active and participatory role in maki
 __have a/the right to (something)__  
 __have enough on (one’s) plate__  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
+__have had (one’s) chips__ To fail or be defeated; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
+__have it easy__ To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
+__have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance. _I had to have it out with my roommate because he never does his share of cleaning in the house._ _Tom and his boyfriend are always having it out._  
+__have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
+__have nothing to do__ To have no tasks or actions that one must complete or undertake; to have nothing with which to occupy one’s time.  
+__have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc. _You must have rocks in your head if you think the bank will approve you for another loan._  
+__have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
 __have skin in the game__  
 __have someone pegged__  
+__have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity had the better of me._  
+__have the courage of (one’s) convictions__ To have the confidence to act or behave in accordance with one’s beliefs or ideologies, especially in the face of resistance, criticism, or persecution. _The governor was presented with a bribe to help the corporation avoid regulation, but she had the courage of her conviction to refuse such an offer._  
+__have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something. _Though it’s radically advanced from my last computer, I’m starting to have the feel of this newer model._  
+__have the goods on (someone)__ To have scandalous, incriminating, or otherwise damaging evidence or information about someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._  
+__have the guts (to do something)__ To have enough courage, conviction, or resolve (to do something). _You’re always talking about quitting your job, but I don’t think you have the guts._  
+__have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_  
 __have the last laugh__  
 __hazarded__ _v_  
 __he who hesitates is lost__  
