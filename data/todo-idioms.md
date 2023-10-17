@@ -170,32 +170,6 @@ __once and for all__
 __one and done__  
 __one on one__  
 __one way or another__  
-__one-on-one__ :two::hammer:  
-__oodles__ :dart: _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
-__open to question__  
-__out and about__ :two::hammer:  
-__out of (one’s) gourd__  
-__out of the blue__ _Tragedy came out of the blue._  
-__out of the frying pan (and) into the fire__ From a bad, stressful, or dangerous situation into one that is even worse.  
-__out of whack__  
-__out of whole cloth__ :astonished:  
-__out-and-out__  
-__outsmart (oneself)__  
-__over the long haul__  
-__overarching__ _adj_ (i?) _An overarching plan._  
-__oy__ :two: A popular internet slang term used to express excitement, enthusiasm, or confirmation.  
-__pachuco__  
-__packed to the gills__ :two::hammer:  
-__pad__ _n_ _I’m at my pad._  
-__palooka__  
-__palsy-walsy__  
-__pan out__  
-__part ways (with one)__ To separate or depart (from one); to stop associating (with one).  
-__pave the way (for someone or something)__  
-__pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
-__pay out__ _It pays out in the long run._  
-__peace out__ :two: To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
-__perfect storm__  
 __perk up__  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__ :two::hammer:  
