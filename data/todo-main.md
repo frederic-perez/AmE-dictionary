@@ -236,32 +236,6 @@ __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ 
 __highball__ _v_ _To decide whether to lowball or highball an offer._  
 __highlight__ _n_ :es: punto culminante  
 __hinder__ _v_  
-__hirsute__ _adj_ :two::hammer: /HER-soot/  
-__histrionic__  
-__hitherto__  
-__hoagie__ _n_ /ˈhəʊɡɪ/ (hoagy) A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
-__hobbled__ _v_  
-__hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
-__hobnobbing__ _v_  
-__hold__ _v_ __3d__ To have in store: _Let’s see what the future holds._  
-__holistic__ _adj_  
-__holler__ _v_  
-__hollering__ _v_  
-__Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
-__homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
-__honky-tonk__ _n_ A cheap, noisy bar or dance hall. _Syn_ barrelhouse  
-__hoot__ _v_  
-__hooting__ _v_ _Cats hooting._  
-__horripilation__ _n_  
-__HOV lane__ _n_ An expressway lane restricted to vehicles with at least a set minimum of occupants, usually two.  
-__huckster__ _n_  
-__humanist__  
-__humdrum__  
-__hurriedly__  
-__husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
-__hush__ _n_ :two::hammer:  
-__hydrocephalus__ _n_ :two::hammer:  
-__hygge__  
 __hypochondriac__  
 __ibex__ _n_  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
