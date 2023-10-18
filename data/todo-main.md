@@ -31,10 +31,12 @@ __apparatchik__ _n_
 __atelier__ _n_ A studio especially for an artist or designer. _Syn_ artist’s workroom  
 __audacious__ _adj_ :dart:  
 __audacity__ _n_ :dart:  
+__backlog__ _n_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
 __berserk__ _adj_ /ber-SERK/  
 __bolster__ _v_  
+__booby trap__ _n_  
 __bootstrapping__ _n_  
 __borak__ _n_ Rubbish; nonsense.  
 __borscht belt__  
@@ -43,11 +45,13 @@ __boulevardier__ _n_
 __bounce castle__ _n_  
 __bounty hunter__  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
+__brace__ _n_ _To define Python dictionaries, we use braces._  
 __bracken__ _n_  
 __braying__ _v_  
 __brio__ _n_  
 __broach__ _v_  
 __broadcast__ _v_ (broadcasted)  
+__broker__ _n_  
 __brood__ _v_  
 __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
@@ -57,6 +61,7 @@ __burglarize__ _v_
 __burnish__ _v_  
 __burnoose__ _n_ :astonished:  
 __busyness__  
+__butterscotch__ _n_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __cad__ _n_  
 __cagey__  
@@ -83,6 +88,7 @@ __commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victu
 __companion__ _v tr_  
 __compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __conceit__  
+__concise__ _adj_ /kənˈsaɪs/  
 __concomitant__ _v_  
 __confabulation__ _n_  
 __confection__ _n_ /kun-FEK-shun/  
@@ -135,6 +141,8 @@ __decommission__ _v_
 __deterrent__ _adj, n_  
 __disengage__  
 __disobligation__  
+__dispel__ _v_  
+__disprove__ _v tr_ To prove to be false, invalid, or in error; refute.  
 __disquiet__ _adj, n, v_  
 __dissatisfied__  
 __dissociation__ _n_  
@@ -184,7 +192,9 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
 __eviction__ _n_  
+__expunge__ _v tr_  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __fabricate__ _v_  
 __fib<sup>1</sup>__ _n_  
@@ -236,6 +246,7 @@ __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ 
 __highball__ _v_ _To decide whether to lowball or highball an offer._  
 __highlight__ _n_ :es: punto culminante  
 __hinder__ _v_  
+__hyphen__ _n_  
 __hypochondriac__  
 __ibex__ _n_  
 __ignoramus__ _n_ :two::hammer: An ignorant person.  
@@ -283,6 +294,7 @@ __kibbutz__ _n_
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
 __kiddie__ _n_ _A kiddie soccer game,_  
 __kiddo__  
+__killing field__ _n_  
 __kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __kinship__ _n_ :two::hammer:  
@@ -303,12 +315,15 @@ __latitude__ _n_ _It gives more latitude._
 __lawyer__  
 __leaderboard__ _n_  
 __legato__ _n_  
+__legionnaire__ _n_  
 __lentigo__ _n_ A small, flat, pigmented spot on the skin. _Syn_ freckle  
 __letdown__ _n_ _Alas, that dinner was a letdown._  
 __liaison__ _n_ _He was the Strike Force liaison on Abscam._  
 __limerence__ _n_ /ˈlɪmɪrəns/ A state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one’s feelings reciprocated, etc.  
 __lionize__ _v_ /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance.  
 __lissome__ _adj_  
+__lopsided__ _adj_ __3__ Characterized by the domination of one competitor over another: _a lopsided victory._  
+__lowdown__ _n_ The real and unadorned facts: _Give me the lowdown on the situation._  
 __MacGyver__ _n_ :mega: /məˈɡaɪvər/ /muh-GUY-vur/  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
@@ -316,7 +331,7 @@ __major key__
 __malignant__ _adj_  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
-__manslaughter__ _n_  
+__manslaughter__ _n_ :two::hammer:  
 __marginalia__ _n pl_ Notes in the margin or margins of a book.  
 __maroon__ _n_  
 __marque__ _n_ A model or brand of a manufactured product, especially an automobile. _Syn_ brand, trade name  
@@ -420,6 +435,8 @@ __obtain__ _v_ /ub-TAYN/ /əbˈteɪn/
 __on-the-go__ _adj_  
 __outgrow__  
 __outlandish__  
+__outright__ _adv_  
+__outrun__ _v_  
 __outstrip__ _v tr_  
 __outvouch__  
 __overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
@@ -526,7 +543,7 @@ __prattled__ _v_
 __preempt__ _v_  
 __preen__ _v_ :two::hammer: /PREEN/  
 __preordained__  
-__preposterous__  
+__preposterous__ _adj_ :two::hammer:  
 __preposterousness__  
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
@@ -624,6 +641,7 @@ __rear__ _v_ _Free-range deer have been reared for some 30 years._
 __rebuke__ _v_ :two::hammer:  
 __recalcitrant__ _adj_  
 __recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
+__recap__ _v_  
 __recruitment__ _n_ :dart: An abnormal and often unpleasant loudness of certain voices or noises.  
 __recumbent__ _adj_  
 __Red Brigade__  
@@ -741,6 +759,7 @@ __scramble__ _v_ _They scrambled for personal power._
 __scrawl__ _v_  
 __scrawny__  
 __scrim__ _n_  
+__scrimmage__ _n_  
 __scrutiny__ _n_  
 __seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
 __seance__ _n_ :es: sesión de esperitismo  
@@ -757,6 +776,7 @@ __Sermon on the Mount__
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
 __serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.  
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
+__serpiginous__ _adj_ :astonished:  
 __sesquicentennial__ _adj_  
 __sesquipedalian__ _adj, n_  
 __sesshin__ _n_  
@@ -886,6 +906,7 @@ __strummíng__ _v_ _She was strumming her guitar._
 __stump__ _n_ :es: muñón  
 __subsumed__ _v_  
 __subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
+__subvert__ _v tr_  
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
@@ -894,6 +915,7 @@ __super-duper__
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __supercilious__ _adj_ Coolly and patronizingly haughty.  
 __superintendent__ _n_  
+__superset__ _n_  
 __surmise<sup>1</sup>__ _n_  
 __surmise<sup>2</sup>__ _v_  
 __surmount__ _v_ _Surmount obstacles._  
@@ -941,6 +963,8 @@ __thrash__ _v_
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
+__ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
+__ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
 __tonsil__ _n_  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
@@ -961,6 +985,7 @@ __unheeded__
 __unhook__ _v tr_  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
+__universe__ _n_ :pencil2:  
 __unkempt__ _adj_  
 __unknome__ _n_ A tongue-in-cheek neologism (after ge-nome) for the plethora of genes lacking functional information.  
 __unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
@@ -1019,6 +1044,7 @@ __washstand__ _n_
 __wattle__ _n_  
 __waver__ _v_  
 __waxing__ _v_  
+__weaponize__  
 __weasel__ _v_  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
