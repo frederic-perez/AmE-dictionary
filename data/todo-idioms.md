@@ -5,15 +5,24 @@ __(one’s) for the asking__ _Suddenly music was everywhere for the asking._
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering.  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
+__a different kettle of fish__  
+__a kind of (something)__ A replacement or alternative to (the real thing).  
 __all ears__  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
+__an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
+__bbg__  
+__be on (one’s) soapbox__  
 __bleeding heart__  
 __bop__  
 __break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
+__bundle up__  
 __C-note__  
 __call someone names__  
+__chances are__  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
+__curve ball__  
+__cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
@@ -46,10 +55,15 @@ __every so often__
 __flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __for the life of me__  
 __front and center__  
+__gag order__ A court order prohibiting those involved in a case from public reporting of or commentary on its details. _Unfortunately, due to a gag order, we can’t provide any new information to the press about the trial until it is finished._  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
 __gelt__ /gɛlt/ _n slang_ Money.  
 __get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
+__get ahead of oneself__  
+__get done__  
 __get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
+__go into a nosedive__  
+__go the distance__  
 __gone jacket__ _A gone jacket._  
 __gonzo__ _Gonzo journalism._  
 __goo-goo eyes__ A visibly smitten or enamored facial expression, as of one who is romantically interested in someone else. _Well, if you keep staring at her with goo-goo eyes, she’ll know you like her sooner than later!_  
@@ -108,6 +122,7 @@ __have someone pegged__
 __have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity had the better of me._  
 __have the courage of (one’s) convictions__ To have the confidence to act or behave in accordance with one’s beliefs or ideologies, especially in the face of resistance, criticism, or persecution. _The governor was presented with a bribe to help the corporation avoid regulation, but she had the courage of her conviction to refuse such an offer._  
 __have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something. _Though it’s radically advanced from my last computer, I’m starting to have the feel of this newer model._  
+__have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __have the goods on (someone)__ To have scandalous, incriminating, or otherwise damaging evidence or information about someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._  
 __have the guts (to do something)__ To have enough courage, conviction, or resolve (to do something). _You’re always talking about quitting your job, but I don’t think you have the guts._  
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_  
@@ -134,16 +149,18 @@ __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans 
 __hit home__  
 __hit the bull’s-eye__  
 __hit the lotto__  
-__hold (one’s) breath__  
+__hold (one’s) breath__ :two::hammer:  
 __hold (one’s) nose__  
 __hold (one’s) tongue__  
 __hold (someone, something, or an animal) back (from someone or something)__  
 __hold (something) in abeyance__  
+__hot take__  
 __in (one’s) own right__ _He is becoming a star in his own right._  
 __ín a jiffy__ Immediately or very quickly; at once.  
 __in a million years__  
 __in all seriousness__ :dart: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in any event__  
+__in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in black and white__  
 __in broad (brush) strokes__  
 __in deep trouble__  
@@ -159,6 +176,10 @@ __in the doldrums__ _The casino’s profits were in the doldrums._
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
+__jump in line__  
+__living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
+__messed up__ _informal_  
+__mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __move (one) to tears__  
 __move the needle__  
 __Mr. Right__  
@@ -166,16 +187,24 @@ __mud shark__ _US black_ A white man or woman who prefers black partners.
 __mug__ _Getting your mug on TV._  
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
+__nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
+__off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
+__on a roll__  
+__on probation__  
+__on the brink of (something)__  
 __once and for all__  
 __one and done__  
 __one on one__  
 __one way or another__  
+__outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
 __perk up__  
+__phooey__  
 __pick (one’s) brain(s)__  
 __pick on (someone or something)__ :two::hammer:  
 __pick someone up__ _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__  
 __pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
+__picture perfect__ Exactly as desired in every detail. Often hyphenated. _My goodness, what a party. Everything was picture perfect._  
 __picture postcard__  
 __pin-drop silence__  
 __pinko (commie)__  
@@ -198,6 +227,7 @@ __price to pay__
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
 __prise open__  
 __pro bono__  
+__pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
 __push up the daisies__  
 __put (one) off (something)__  
@@ -216,13 +246,16 @@ __put up with something__
 __put upon__  
 __putzo__  
 __quick buck__  
+__quick-and-dirty__ :two: _mod._ Rapidly and carelessly done.  
 __quid pro quo__  
 __quite quitting__  
 __rack up__  
 __ram into (someone or something)__  
 __rat out__  
+__raze (something) to the ground__ To completely demolish or destroy something until it is nothing but rubble on the ground. _We’ve decided to raze this rickety old building to the ground._  
 __reach out__  
 __red flag__  
+__red pill__  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
 __redound on (someone or something)__  
 __reduce (one) to tears__  
@@ -290,6 +323,7 @@ __shithead__
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __shtick__ _Sometimes he pushed his shtick a little too far._  
+__shy away (from someone or something)__  
 __side hustle__  
 __silly me__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
@@ -324,6 +358,7 @@ __sooner rather than later__ :dart:
 __sound the alarm__  
 __spaced (out)__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
+__speak volumes__ To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spill the beans__ :two::hammer:  
 __spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spin up__  
@@ -337,6 +372,7 @@ __stand out like a sore thumb__ To be very noticeable in usually a bad way.
 __stand tall__ To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __step back__ __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
 __steppingstone__  
+__stick with (someone or something)__  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __strange bedfellows__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
@@ -381,6 +417,7 @@ __the Greek calends__
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the icing on the cake__  
 __the ick__ _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to.  
+__the ins and outs__ The particular details and nuances of a situation, task, etc.  
 __the likes of (someone or something)__  
 __the lion’s share__  
 __the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
@@ -395,8 +432,10 @@ __think highly of (someone or something)__
 __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
+__to a T__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
+__tough talk__  
 __trash talk__ _I won’t trash talk._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __treasure trove__  
@@ -413,9 +452,11 @@ __two-way street__
 __uncharted territory__  
 __Uncle Sambo/Sammy/Samuel/Samwell__ Uncle Sam.  
 __under (one’s) belt__  
+__under (one’s) watch__ A situation where someone is responsible for overseeing or supervising a particular task, project, or group of people. It implies that the person in question has the duty of ensuring that everything runs smoothly and according to plan.  
 __under one’s belt__  
 __under the guise of (something)__  
 __under the hood__  
+__under the sun__  
 __unpack__  
 __until kingdom come__ For a very long, indefinite amount of time; forever.  
 __until next time__  
@@ -462,6 +503,7 @@ __wolf down__
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __word on the street__  
 __work (one’s) tail off__  
+__wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
 __yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
