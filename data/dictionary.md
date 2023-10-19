@@ -8852,6 +8852,7 @@ __IgNobel prize__ _n_
 __ignoble__ _adj_ :two::hammer:  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
+__ignoramus__ _n_ :two::hammer: An ignorant person.  
 __iguanodon__ _n_  
 __IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
 __ilk__ _n_ :four: Type or kind: _can’t trust people of that ilk._  
@@ -8864,6 +8865,7 @@ __Illini__ _n_ :three::hammer:
 __illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
 __illustrious__ _adj_ :eight::hammer::pencil2: /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected. _An illustrious career._ _The illustrious Count of Savoy._  
+__imagery__ _n_ :mega: /ˈɪm ɪdʒ ri, -ɪ dʒə ri/  
 __imagination__ _n_ :mega:  
 __imagine__ _v_  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
@@ -8894,22 +8896,23 @@ __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mot
 __impaneled__ _v_  
 __impart__ _v_  
 __impartible__  
-__impasse__ _n_ :six::pencil2: Deadlock or stalemate. _At impasse._  
+__impasse__ _n_ :seven::pencil2: Deadlock or stalemate. _At impasse._  
 __impassioned__ _adj_ :three: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _an impassioned plea for justice._  
 __impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ _n_ :two::hammer:  
-__impeccable__ _adj_ :seven::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
+__impeccable__ _adj_ :eight::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
 __impediment__ _n_ :two::hammer:  
 __impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede or encumber.  
-__impel__ _v_ :two: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
+__impel__ _v tr_ :three: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__ _adj_ :three: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
+__impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
@@ -8922,6 +8925,7 @@ __implacable__ _adj_ /im-PLAK-uh-bul/ Not capable of being appeased, significant
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __implode__ _v_  
+__importantly__ _adv_  
 __importune__ _v_ :two: /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests. Beg persistently and urgently. _Syn_ insist  
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
 __imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
@@ -8960,7 +8964,7 @@ __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentiona
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ :two: That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __inane__ _adj_ :nine::m::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Asking inane questions._ _Syn_ asinine, fatuous, vacuous, mindless  
-__inanely__ _adv_  
+__inanely__ _adv_ :two::hammer:  
 __inanition__ _n_  
 __inanity__ _n_ :two: Total lack of meaning or ideas. _Syn_ mindlessness, pointlessness, senselessness, vacuity _My classmates’ inanity forced me to seek intelligent conversation elsewhere._  
 __inappropriate__ _adj_ _What the heck is that? Inappropriate toys!_  
@@ -9017,11 +9021,12 @@ __incubus__
 __inculcate__ _v_ :two: To teach and impress by frequent repetitions or admonitions.  
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It’s incumbent upon us to provide clear definitions of what these things mean._  
-__incumbent<sup>2</sup>__ _n_ :six: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
-__incunabula__ _n pl_  
+__incumbent<sup>2</sup>__ _n_ :seven: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__incunabula__ _n pl_ :two::hammer:  
 __incur__ _v_ :three::hammer:  
+__incurious__ _adj_ __1__ Lacking interest in one’s surroundings or worldly affairs. __2__ Without emotion or interest.  
 __indecorous__ _adj_  
-__indefatigable__ _adj_ :seven::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired. _Syn_ tireless, unflagging, unwearying  
+__indefatigable__ _adj_ :eight::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired. _Syn_ tireless, unflagging, unwearying  
 __indefinite__  
 __indelible__ _adj_ :eight::pencil2: Impossible to remove, erase, or wash away; permanent. _Syn_ permanent, lasting, enduring, ineradicable, ineffaceable, inexpungible, inextirpable _Before I left for camp, my mother wrote my name inside all of my clothes with indelible ink._ _An indelible mark._  
 __indenture__ _v_  
@@ -9054,7 +9059,8 @@ __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.
 __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __inebriated__ _adj_  
 __inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
-__ineffable__ _adj_ :seven: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
+__ineffability__  
+__ineffable__ _adj_ :eight: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __ineffectual__  
 __inefficacious__ _adj_  
 __ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
@@ -9092,7 +9098,7 @@ __infighting__ _n_ :three::hammer:
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
-__infirm__ _adj_ :three: __1__ Weak in body or mind, especially from old age or disease. _Syn_ debile, sapless, weakly, decrepit, feeble, rickety, weak __2__ Not strong or stable; shaky: _an infirm foundation._  
+__infirm__ _adj_ :four: __1__ Weak in body or mind, especially from old age or disease. _Syn_ debile, sapless, weakly, decrepit, feeble, rickety, weak __2__ Not strong or stable; shaky: _an infirm foundation._  
 __infirmity__ _n_ :two::astonished: Bad health or a particular illness.  
 __inflammable__ _adj_ /in-FLAM-uh-bul/  
 __inflatable<sup>1</sup>__ _adj_ :two::hammer: _Inflatable kayak._  
@@ -9111,13 +9117,15 @@ __infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolab
 __infrasound__ _n_ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
 __infuriating__ _adj_  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
+__ingenious__  
+__ingenuity__ _n_ :dart::two::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
 __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
-__inglenook__  
+__inglenook__ _n_ :two: A nook or corner beside an open fireplace. _Syn_ chimney corner  
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrain__ _v_ :three: To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :five::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ :two: An ungrateful person. A person who shows no gratitude. _Syn_ thankless wretch, ungrateful person  
-__ingratiate__ _v_ :four: /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
+__ingratiate__ _v tr_ :five: /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
 __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
@@ -9212,6 +9220,7 @@ __interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
+__interlard__ _v_  
 __interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
 __interlope__ _v intr_ /in-tuhr-LOHP, IN-tuhr-lohp/ [:scroll: Probably a back-formation from interloper, from Latin inter- (between) + Dutch lopen (to run), which also gave us landloper and landlubber] To intrude or interfere.  
 __interloper__ _n_ :five::hammer: /in-ter-LOH-per/ /ˈɪntəˌləʊpə/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
@@ -9291,7 +9300,7 @@ __irenic__ _adj_ Inclined or disposed to peace; not quarrelsome or unruly. _Syn_
 __iridology__ _n_ The study of the iris of the eye, especially as associated with disease.  
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
-__irk__ _v_ _What irks you?_  
+__irk__ _v_ :two: To be irritating, wearisome, or vexing to. _What irks you?_ _Syn_ gall  
 __irksome__ _adj_ :two::hammer:  
 __iron maiden__ _n_ :dart::camera: Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
 __iron out__ _v_ :two::hammer:  
@@ -9304,6 +9313,7 @@ __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical end
 __irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
+__irrepressible__  
 __irrespective__ _adj_  
 __irrigate__ _v_ :dart:  
 __irritating__ _adj_ _Syn_ annoying, tiresome  
@@ -9334,7 +9344,7 @@ __ivy__ _n_ :six::hammer: :es: hiedra
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :seven: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection, especially of a vaccine: _Have you gotten your flu jab yet?_ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
 __jab<sup>2</sup>__ _v_ :nine::m: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
-__jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
+__jabber__ _v_ :five: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
 __jack cheeses__  
@@ -9362,7 +9372,7 @@ __jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wi
 __jailbait__ _n_ _slang_ A girl who is younger than the legal age of consent for sexual activity.  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
-__jalopy__ _n informal_ A dilapidated old vehicle or aircraft. Old car.  
+__jalopy__ _n informal_ :two: A dilapidated old vehicle or aircraft. Old car. _Syn_ heap, bus  
 __jam up__ _v_  
 __jam__ _v_ :two::hammer:  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
@@ -9440,8 +9450,10 @@ __Jewfro__ _n_ A curly, bushy hairstyle worn by some Ashkenazi Jews.
 __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
 __Jewry__  
 __jib__ _n_ :two::hammer: _I hoisted the jibs._  
+__jibberish__  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
 __jibe<sup>2</sup>__ _v_ :seven: To be in accord; agree. _Syn_ correspond, match _I expected to find some discrepancies in the books, but your figures jibe with mine._ _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
+__jig__ _n_ _An Irish jig was being played._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  

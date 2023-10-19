@@ -249,32 +249,6 @@ __hinder__ _v_
 __hyphen__ _n_  
 __hypochondriac__  
 __ibex__ _n_  
-__ignoramus__ _n_ :two::hammer: An ignorant person.  
-__imagery__ _n_ :mega: /ˈɪm ɪdʒ ri, -ɪ dʒə ri/  
-__impasse__ _n_  
-__impeccable__ _adj_  
-__impel__ _v tr_  
-__impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
-__importantly__ _adv_  
-__inanely__ _adv_  
-__incumbent__  
-__incunabula__  
-__incurious__ _adj_ __1__ Lacking interest in one’s surroundings or worldly affairs. __2__ Without emotion or interest.  
-__indefatigable__ _adj_  
-__ineffability__  
-__ineffable__  
-__infirm__ _adj_  
-__ingenious__  
-__ingenuity__ _n_ :dart::two::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
-__inglenook__ _n_ A nook or corner beside an open fireplace. _Syn_ chimney corner  
-__ingratiate__ _v tr_  
-__interlard__ _v_  
-__irk__ _v_ To be irritating, wearisome, or vexing to. _Syn_ gall  
-__irrepressible__  
-__jabbering__ _v_  
-__jalopy__ _n_ An old, dilapidated motor vehicle, especially an automobile. _Syn_ heap, bus  
-__jibberish__  
-__jig__ _n_ _An Irish jig was being played._  
 __jokey__  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
