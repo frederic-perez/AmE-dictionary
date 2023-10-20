@@ -9681,10 +9681,10 @@ __kink<sup>1</sup>__ _n_ :six: (kinks) __1__ A sharp twist or bend in a wire, ro
 __kink<sup>2</sup>__ _v_ :two: (kinked) To form or cause to form a kink or kinks. _Kinked catheters._  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __kinsfolk__ _n pl_ One’s family or relatives.  
-__kinship__ _n_ :two::hammer:  
+__kinship__ _n_ :four::hammer:  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
-__kiosk__ _n_ :camera::three::hammer: _Automated Passport Control kiosks._ _Target’s in-store registry kiosks._ _Information kiosks._  
+__kiosk__ _n_ :camera::four::hammer: /ˈki ɒsk, kiˈɒsk/ _Automated Passport Control kiosks._ _Target’s in-store registry kiosks._ _Information kiosks._  
 __kip__ _n_ __5__ (kĭp-up) A maneuver in gymnastics, martial arts, and similar sports in which a person moves from lying on the back directly to a standing position by thrusting the legs upward and pushing off with hands placed palms-down near the ears.  
 __kipper__ _n_  
 __kirtle__ _n_ :five::hammer: (kirtles)  
@@ -9704,13 +9704,13 @@ __kiva__ _n_ _A Native American kiva._
 __kiwi__  
 __klazomania__ _n_  
 __kleptocracy__ _n_ :three: /ˌklɛpˈtɒkrəsɪ/ (cleptocracy) A government characterized by rampant greed and corruption.  
-__Klondike__ _n_ :two: A form of solitaire card game.  
+__Klondike__ _n_ :three: A form of solitaire card game.  
 __kludge__ _n_ :dart: A computer system or program that is made or written very quickly and not very well. _Andy knocked out a hasty kludge to circumvent the glitch until a more robust solution could be developed._  
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._  
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
 __knackered<sup>1</sup>__ _v_  
-__knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.  
+__knackered<sup>2</sup>__ _adj_ :five: _BrE_ _slang_ Very tired; exhausted.  
 __knave__ _n_  
 __knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king’s court is a hotbed of intrigue and malicious knavery._  
 __knavish__ _adj_ :two::hammer:  
@@ -9722,7 +9722,7 @@ __kneecap__ _v_ :three::hammer: (kneecapping)
 __knell__ _n_ :three::hammer:  
 __knick-knack__ _n_  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
-__knickers__ _n_ __2__ A US variant of knickerbockers.  
+__knickers__ _n_ :two::camera: __2__ A US variant of knickerbockers.  
 __knife__ _n, v_ :mute:[~~k~~nife]  
 __knight__ _n_ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
@@ -9760,6 +9760,7 @@ __koinobori__ _n_ [:scroll: In Japanese, _carp streamer_]
 __koinonia__  
 __kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
+__kookier__  
 __kooky__ _adj_ _slang_ :five: Crazy, mentally unbalanced. Characteristic of a kook; strange or crazy.  
 __Kool-Aid__  
 __Kosher salt__  
@@ -9786,20 +9787,21 @@ __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
 __labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  
+__Labor Day__  
 __Labrador__  
 __labrum__  
 __labyrinthine__ _adj_  
 __lace up__ _v_ _Adam laced up his Nikes._  
 __lace<sup>1</sup>__ _n_ :two::hammer: _Delicate lace._  
-__lace<sup>2</sup>__ _v_ :dart::four::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._ _I have laced a few punters._ _The brick streets are laced with sculptures._  
+__lace<sup>2</sup>__ _v_ :dart::five::hammer: _She gave us coffee laced with brandy._ _Coffee heavy laced with rum._ _I have laced a few punters._ _The brick streets are laced with sculptures._  
 __lacerate__ _v_  
 __laceration__ _n_  
 __lachrymator__ _n_ A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds. _Syn_ teargas _When the demonstration turned violent, the police used a potent lachrymator to disperse the mob._  
 __lachrymose__ _adj_ :three::pencil2: /LAK-ruh-mohss/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :seven::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. Something or someone described as lackadaisical is lacking in life, spirit, or zest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._ _His teachers did not approve of his lackadaisical approach to homework._  
-__lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
-__lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
+__lackey__ _n_ :four: A servile follower. _Syn_ toady, crawler, sycophant _A political lackey._  
+__lackluster__ _adj_ :nine::m: /LAK-luss-ter/ Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __laconic__ _adj_ :six: /luh-KAH-nik/ Someone described as laconic uses few words in speech or writing. The word often also implies brevity to the point of seeming rude, indifferent, or mysterious. Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._ _Her bubbly and loquacious personality was a humorous yet complementary contrast to her girlfriend’s more laconic demeanor._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
@@ -9844,7 +9846,7 @@ __laminate__ _v_ :two::hammer: :es: plastificar
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lamp shade__ _n_  
 __lampoon<sup>1</sup>__ _n_ :three::hammer: _All get a solid lampooning._  
-__lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
+__lampoon<sup>2</sup>__ _v tr_ :dart::six: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lamppost__ _n_ :two: A post supporting a street lamp.  
 __lamprey__ _n_  
 __lance__ _v_ :two::astonished::hammer: (lanced)  
@@ -9861,7 +9863,7 @@ __landline__ _n_ (phone)
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landlord__ _n_  
 __landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
-__landmark__ _adj_ _A landmark case in 1983._  
+__landmark__ _adj_ :two::hammer: _A landmark case in 1983._ _A landmark study._  
 __landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
 __languid__ _adj_ :two: /LANG-gwid/ Languid means “showing or having very little strength, energy, or activity.” It is generally used in formal and literary contexts. Lacking energy or vitality; weak. _Syn_ lackadaisical, languorous _He gave a languid wave of the hand to signify his indifference._ _The trial proceeded at a languid pace as each attorney called up a whole roster of witnesses to testify._  
@@ -9889,6 +9891,7 @@ __lapse<sup>2</sup>__ _n_
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
 __larceny__ _n_ :eight: Theft of personal property. :es: hurto  
+__lard__ _v_  
 __larder__ _n_ :five::hammer:  
 __largely__ _adv_ :four: To a large extent; mostly.  
 __larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
@@ -9910,6 +9913,7 @@ __last > next to last__
 __last__ _n_ :astonished: __2__ A form (as of metal or plastic) which is shaped like the human foot and over which a shoe is shaped or repaired.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _adj_ _He scored the last-gasp winner._  
+__last-minute__ _adj_  
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
@@ -9927,7 +9931,7 @@ __Latinas__
 __Latino__ _n, adj_ :pencil2: _In Los Angeles half of the city’s residents are Latino._  
 __Latinos__ _n_  
 __Latinx__ _adj, n_ :two: One who identifies as Latin American; a Spanish-speaking person of the Americas. The term is gender-neutral and is an alternative to “Latino” and “Latina.” _As a Latinx, I’m very conscious of the issues that affect immigrants._  
-__latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
+__latitude__ _n_ :dart::three::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._ _It gives more latitude._  
 __latrine__ _n_  
 __latte__ _n_ A caffe latte.  
 __laud<sup>1</sup>__ _v_ :four: /lɔːd/ (lauded, lauding) To give praise to; glorify.  
@@ -9955,6 +9959,7 @@ __lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.
 __lawless__ _adj_  
 __lawmaker__ _n_ :six::hammer: (lawmakers)  
 __lawsuit__  
+__lawyer__  
 __lax__ _adj_ :two::hammer: (not LAX)  
 __lay the table__  
 __lay__ _adj_ :two: __1__ Of, relating to, or involving the laity: _a lay preacher._ __2__ Not of or belonging to a particular profession; nonprofessional: _a lay opinion as to the seriousness of the disease._  
@@ -9968,6 +9973,7 @@ __laziness__ _n_ :pencil2:
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
 __leaden__ _adj_ :two::hammer: _Days of rain and leaden cold._  
+__leaderboard__ _n_  
 __leadoff__ _n_ :two::hammer:  
 __leaf mold__  
 __leafy__  
@@ -10010,10 +10016,12 @@ __legal tack__
 __legalese__ _n_ A style that uses the abstruse technical vocabulary of the law.  
 __legate__ _n_ An official emissary, especially an official representative of the pope. _Syn_ official emissary _Cardinal Giovanni Battista Caprara was the legate of Pope Pius VII in France._  
 __legation__ _n_ /li-GAY-shuhn/ __1__ A diplomatic mission ranking below an embassy. __2__ The premises of such a mission. __3__ The diplomat and staff of such a mission.  
+__legato__ _n_  
 __legerdemain__ _n_ :seven: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
+__legionnaire__ _n_  
 __legit__ _adj_ _informal_ _slang_ :eight: Legitimate.  
 __legwork__ _n_ :two::hammer:  
 __lei__ _n_ :three: /lay, LAY-ee/ [:scroll: From Hawaiian lei.] (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. A garland, typically made of flowers, or leaves, shells, nuts, feathers, etc. _Scented leis._  
@@ -10040,6 +10048,7 @@ __lens__ _n_ _Lens design._
 __lenses__ _n pl_  
 __Lent__ _n_ :three::hammer: :es: cuaresma  
 __lentic__ _adj_ /LEN-tik/ [:scroll: From Latin lentus (slow, calm), which also gave us relent, lentamente (slowly, used in music direction), and lentitude (slowness).] Relating to or living in still waters (such as lakes, ponds, or swamps).  
+__lentigo__ _n_ A small, flat, pigmented spot on the skin. _Syn_ freckle  
 __lentil__ _n_ (lentils) :es: lentejas  
 __leonine__ _adj_ /LEE-uh-nyne/ Of, relating to, or resembling a lion. _She spent hours in the bathroom trying to detangle her leonine tresses._  
 __leper__  
@@ -10053,7 +10062,7 @@ __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something unde
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let on__ _phr v_  
 __let your hair down__  
-__letdown__ _n_ :two: Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._ _It is a bit of a letdown._  
+__letdown__ _n_ :three: Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._ _It is a bit of a letdown._  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
 __lethologica__ _n_ The temporary inability to remember a word, name, or intended action.  
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
@@ -10078,7 +10087,7 @@ __lewd__ _adj_ :three::hammer:
 __lexical__ _adj_  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :eight::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
+__liaison__ _n_ :nine::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ _He was the Strike Force liaison on Abscam._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
 __libation__ _n_ :nine::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel<sup>1</sup>__ _n_ :nine::hammer: _Libel laws._ :es: calumnia, difamación  
 __libel<sup>2</sup>__ _v_ :es: difamar  
@@ -10157,6 +10166,7 @@ __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber
 __limbic system__ _n_  
 __limbic__ _adj_ _Limbic system._  
 __limelight__  
+__limerence__ _n_ /ˈlɪmɪrəns/ A state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one’s feelings reciprocated, etc.  
 __limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :five::hammer:  
 __liminal__ _adj_ :two: __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
@@ -10188,7 +10198,7 @@ __links__ _n_ :two: __1__ A golf course. _The links course._
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
 __lintel__ _n_ :three::hammer: _Stone lintels._ :es: dintel  
 __lionhearted__ _adj_ :two::hammer:  
-__lionize__ _v_ :two: To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
+__lionize__ _v_ :three: /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance. To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lip-smacking__ _adj_ (of food or drink) Tasty displaying or expressing enjoyment or pleasure, esp at the taste of food or drink.  
@@ -10202,7 +10212,7 @@ __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._
 __liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
-__lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
+__lissome__ _adj_ :two: Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __list<sup>1</sup>__ _n_ __3__ An inclination to one side, as of a ship; a tilt. _She carried a starboard list of about five degrees._  
@@ -10349,7 +10359,7 @@ __looting__ _n_ /ˈluːtɪŋ/ Stealing from shops or houses during a war or riot
 __lop off__ _v_ _The bastard started lopping off the prisoners’ heads._  
 __lope__ _v_  
 __loped__ _v_  
-__lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
+__lopsided__ _adj_ :six: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __loquacious__ _adj_ :three::astonished: /loh-KWAY-shus/ Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __loquat__ _n_  
 __lordship__ _n_ :es: señoría  
@@ -10388,7 +10398,7 @@ __low-tech__ _adj_ _I’m a low-tech type._
 __lowball__ _v_ _To decide whether to lowball or highball an offer._  
 __lowbrow<sup>1</sup>__ _n_ :two: One having uncultivated tastes.  
 __lowbrow<sup>2</sup>__ _adj_ Uncultivated; vulgar.  
-__lowdown__ _n_ _slang_ :dart::eight: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
+__lowdown__ _n slang_ :dart::nine: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
 __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  

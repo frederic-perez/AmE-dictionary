@@ -271,33 +271,6 @@ __kiddo__
 __killing field__ _n_  
 __kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
-__kinship__ _n_ :two::hammer:  
-__kiosk__ _n_ /ˈki ɒsk, kiˈɒsk/  
-__klondike__ _n_  
-__knackered__ _adj_  
-__knickers__ _n_ :camera:  
-__kookier__  
-__Labor Day__  
-__laced__  
-__lackey__ _n_ A servile follower. _Syn_ toady, crawler, sycophant  
-__lackluster__ _adj_ /LAK-luss-ter/  
-__lampoon__ _v tr_ :dart:  
-__landmark__ _adj_ _A landmark study._  
-__lard__ _v_  
-__last-minute__ _adj_  
-__latitude__ _n_ _It gives more latitude._  
-__lawyer__  
-__leaderboard__ _n_  
-__legato__ _n_  
-__legionnaire__ _n_  
-__lentigo__ _n_ A small, flat, pigmented spot on the skin. _Syn_ freckle  
-__letdown__ _n_ _Alas, that dinner was a letdown._  
-__liaison__ _n_ _He was the Strike Force liaison on Abscam._  
-__limerence__ _n_ /ˈlɪmɪrəns/ A state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one’s feelings reciprocated, etc.  
-__lionize__ _v_ /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance.  
-__lissome__ _adj_  
-__lopsided__ _adj_ __3__ Characterized by the domination of one competitor over another: _a lopsided victory._  
-__lowdown__ _n_ The real and unadorned facts: _Give me the lowdown on the situation._  
 __MacGyver__ _n_ :mega: /məˈɡaɪvər/ /muh-GUY-vur/  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
