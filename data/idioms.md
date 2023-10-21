@@ -2149,14 +2149,16 @@ __Hobson’s choice__ A choice between what is available and nothing; a lack of 
 __hog (something)__ :two: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
 __hold (down) the fort__  
-__hold (one’s) breath__  
+__hold (one’s) breath__ :three::hammer:  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one’s) nerve__ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
-__hold (one’s) nose__  
+__hold (one’s) nose__ :two::hammer:  
+__hold (one’s) tongue__  
 __hold (one’s) water__ To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
-__hold (someone, something, or an animal) back (from someone or something)__ :two: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
+__hold (someone, something, or an animal) back (from someone or something)__ :three: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
 __hold (someone) accountable (for someone)__ :three: To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
+__hold (something) in abeyance__  
 __hold (something) in store (for one)__  
 __hold a candle to__  
 __hold a candle__  
@@ -2211,7 +2213,7 @@ __horseshit__
 __hot air__ Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._  
 __hot desking__ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
 __hot potato__ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
-__hot take__ An opinion or analysis published, broadcast, or otherwise issued very soon after the topic in question has occurred or become timely, often produced without much research and with the primary intention of being provocative in order to generate attention. _Twitter is a gold mine for garbage hot takes._ _Last Friday, we gave a hot take: the iPhone is not the future._  
+__hot take__ :two: An opinion or analysis published, broadcast, or otherwise issued very soon after the topic in question has occurred or become timely, often produced without much research and with the primary intention of being provocative in order to generate attention. _Twitter is a gold mine for garbage hot takes._ _Last Friday, we gave a hot take: the iPhone is not the future._  
 __hot tip__ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
 __hot-button__ _Hot-button social issues._  
@@ -2274,7 +2276,7 @@ __in (one’s) book__
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __in (one’s) dotage__ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
-__in (one’s) own right__ :three: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._  
+__in (one’s) own right__ :four: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._ _He is becoming a star in his own right._  
 __in (one’s) tracks__  
 __in (or out of) someone’s hair__ _informal_ :two: [:scroll: This expression alludes to entangling one’s hair.]Annoying (or ceasing to annoy) or bothering someone. _He built the shop to get his hobby out of his wife’s hair._ _Yogi Bear is always in the Ranger’s hair._  
 __in (someone’s) view__ In someone’s opinion.  
@@ -2288,7 +2290,9 @@ __in a flutter__ In a nervous, confused, or agitated state.
 __in a heartbeat__  
 __in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
 __in a jam__ In a troublesome situation.  
+__ín a jiffy__ Immediately or very quickly; at once.  
 __in a measure__ To a certain degree or extent; somewhat.  
+__in a million years__  
 __in a rut__  
 __in a similar vein__  
 __in a sorry state__ In a pitiful or abject condition.  
@@ -2296,25 +2300,29 @@ __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e
 __in abeyance__ :two: A phrase used to describe something as pending or suspended. _How long do you think they will hold the decision in abeyance? I’m eager to know what they think._ _The bishops held the proceedings against Wyclif in abeyance._ _You capture the inventory into containers that hold items in abeyance._  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness.  
 __in all likelihood__  
-__in all seriousness__ In one’s sincere opinion; without any disingenuousness.  
+__in all seriousness__ :dart::two: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in all__ :two::hammer: _I need five sailors in all._  
 __in and of itself__ :two: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._  
-__in any event__ :four: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
+__in any event__ :five: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
 __in any way, shape, or form__  
 __in awe (of someone or something)__  
-__in bits and pieces__ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
+__in bits and pieces__ :two: In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
+__in black and white__  
+__in broad (brush) strokes__  
 __in broad daylight__ Out in the open during the daytime, when anyone can see what’s happening. _The gangland feud is getting so bad that people are being shot in broad daylight._ _A sniper who prays on victims in broad daylight._  
 __in bulk__  
 __in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in check__ Under control; contained or restrained. _Keep those emotions in check._  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
+__in deep trouble__  
 __in deep water__ To be in a difficult situation.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
-__in denial__  
+__in denial__ :two::hammer:  
+__in donkey’s years__ _I haven’t thought about it in donkey’s years._  
 __in donkeys__ :two: In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
-__in due time__  
+__in due time__ :two: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
 __in excess of__ :six: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._ _The retail giant predicts earnings for the past year in excess of $4 million._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
@@ -2323,12 +2331,14 @@ __in front of (one’s) very eyes__ Right in plain sight or while one is watchin
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
 __in full swing__ :three::hammer: _The conference was in full swing when I arrived._  
 __in full__  
+__in high dudgeon__  
 __in hindsight__  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ :two: In trouble, and likely to be reprimanded.  
 __in its entirety__  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in its/their own right__ :three: Because of its own special qualities and not because of a connection with something else. _Though it’s based on a best-selling novel, the movie is great in its own right._  
+__in itself__ Without the consideration of anything else. (A shortening of the full phrase “in and of itself.”)  
 __in jest__ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman’s terms__ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
@@ -2343,15 +2353,17 @@ __in over (one’s) head__ Too deeply involved in or with a difficult situation,
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
 __in perfect harmony__  
-__in place__ :two::hammer:  
+__in place__ :three: __2__ _adj_ Ready to be put into action. _I think everything is in place for us to begin the acquisition deal._  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ Currently being discussed or under consideration. _I just don’t see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in regard to (someone or something)__  
+__in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in round numbers__  
 __in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
 __in short order__ :four: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
 __in so many words__  
+__in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
 __in spades__ :two::dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._ _Cultural savvy. Portland’s got it in spades._  
 __in spite of__  
@@ -2366,6 +2378,7 @@ __in the blink of an eye__
 __in the circumstances__ Due to the conditions or particular situation; such as the case is.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ :three: _slang_ In trouble with someone due to one’s misdeeds or blunders.  
+__in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the event of (something)__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the event that__ If it should happen or be the case that.  
 __in the eye of (something)__ At, in, or amidst the central or focal point of something.  

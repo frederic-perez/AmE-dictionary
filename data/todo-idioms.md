@@ -149,30 +149,6 @@ __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans 
 __hit home__  
 __hit the bull’s-eye__  
 __hit the lotto__  
-__hold (one’s) breath__ :two::hammer:  
-__hold (one’s) nose__  
-__hold (one’s) tongue__  
-__hold (someone, something, or an animal) back (from someone or something)__  
-__hold (something) in abeyance__  
-__hot take__  
-__in (one’s) own right__ _He is becoming a star in his own right._  
-__ín a jiffy__ Immediately or very quickly; at once.  
-__in a million years__  
-__in all seriousness__ :dart: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
-__in any event__  
-__in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
-__in black and white__  
-__in broad (brush) strokes__  
-__in deep trouble__  
-__in denial__  
-__in donkey’s years__ _I haven’t thought about it in donkey’s years._  
-__in due time__ Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
-__in high dudgeon__  
-__in itself__ Without the consideration of anything else. (A shortening of the full phrase “in and of itself.”)  
-__in place__ __2__ _adj_ Ready to be put into action. _I think everything is in place for us to begin the acquisition deal._  
-__in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
-__in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
-__in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
