@@ -10650,6 +10650,7 @@ __mano a mano<sup>2</sup>__ _adj_ :two: Being or suggestive of a face-to-face en
 __mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _n_ :two::hammer: _A medieval manor house._  
+__manslaughter__ _n_ :two::hammer:  
 __manta__ _n_  
 __mantel piece__ _n_ :three::hammer:  
 __mantel__ _n_ :six::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
@@ -10677,7 +10678,7 @@ __mardy__ _adj_
 __mare__ _n_  
 __margarine__ _n_  
 __margherita__ _n_  
-__marginalia__ _n pl_ /mahr-juh-NAY-lee-uh/ Marginalia is a plural noun that refers to notes or other marks written in the margins of a text, and to nonessential matters or items. _The students loved flipping through their literature textbooks to find the marginalia left behind by former students._  
+__marginalia__ _n pl_ :two: /mahr-juh-NAY-lee-uh/ Marginalia is a plural noun that refers to notes or other marks written in the margins of a text, and to nonessential matters or items. Notes in the margin or margins of a book. _The students loved flipping through their literature textbooks to find the marginalia left behind by former students._  
 __Mariel felons__  
 __marijuana__  
 __marinades__  
@@ -10694,14 +10695,16 @@ __marks__ _n_ _The prime minister has won high marks for his even-handed helmsma
 __marksman__ _n_  
 __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov’t-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
-__maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
+__maroon<sup>1</sup>__ _n_  
+__maroon<sup>2</sup>__ _v_ :two::hammer: _He felt marooned by the silence._  
 __marplot__ _n_ /MAHR-plot/ [:scroll: After Marplot, the titular character in the 1709 play _The Busy Body by Susannah Centlivre_ (1669-1723). Marplot means well and tries to help only to get in the way of others and foul things up.] A meddlesome person who spoils a plan by interference.  
+__marque__ _n_ A model or brand of a manufactured product, especially an automobile. _Syn_ brand, trade name  
 __marquee__ _n_ :nine::m: /mɑːˈkiː/ __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
 __marquetry__ _n_ :astonished: _Marketry doors._ :es: marquetería  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
-__marshal<sup>2</sup>__ _v_ :eight: (marshals, marshalled, marshalling) __1__ To bring people or things together and organize them so that they can be used in an effective way. _The community will marshal its resources to help undocumented immigrants._ __2__ To organize information or ideas, especially in order to make an argument. _His ability to marshal facts._  
+__marshal<sup>2</sup>__ _v_ :nine::m: __1__ To bring people or things together and organize them so that they can be used in an effective way. _The community will marshal its resources to help undocumented immigrants._ __2__ To organize information or ideas, especially in order to make an argument. _His ability to marshal facts._  
 __marshland__ _n_ :two::hammer:  
 __marshmallow__ _n_ :three::four: Althaea officinalis. The word “marshmallow” comes from the mallow plant species, an herb which grows in marshes and other damp areas. _Toasting marshmallows._  
 __marshy__  
@@ -10721,7 +10724,7 @@ __mash-up__ _n_ Something created by combining elements from two or more sources
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :three: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._ _Used mash goes to feed a local farmer’s pigs._  
 __mashed potatoes__  
-__mashup__ _n_ :two::hammer: _A fantastic mashup of illuminated characters._  
+__mashup__ _n_ :three::hammer: _A fantastic mashup of illuminated characters._  
 __masjid__ _n_ A Muslim place of worship. _Syn_ mosque _Though her friends prayed there often, this was her first visit to the masjid._  
 __mason__ _n_ :astonished:  
 __masonry__  
@@ -10740,6 +10743,7 @@ __masterpiece__ _n_ :two::hammer:
 __masthead__ _n_  
 __mastodon__ _n_ :two::hammer: :es: mastodonte  
 __mastoiditis__ _n_  
+__mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
 __matchmaking service__  
 __matchmaking__ _n_ :two: Mediation in order to bring about a marriage between others.  
 __matchstick__ _n_ :two::hammer:  
@@ -10753,34 +10757,39 @@ __matinee__ _n_ :five::hammer: (matinees) _The matinees were killing him._
 __matins__ _n_ _Matins were chanted._  
 __matriarch__ _n_ :two::hammer:  
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
+__matrix__ _n_ :mega:  
 __matron__ _n_ :two::hammer: _A jailhouse matron._  
 __matsuri__  
 __matt__  
 __matte__  
-__Matter of fact,__  
-__matter-of-factly__  
+__matter-of-fact__ _adj_ :two::hammer:  
+__matter-of-factly__ _adv_ :three::hammer:  
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
 __maturity__ _n_ (maturities) _List of maturities._  
-__maudlin__ _adj_ :six: Foolishly tearful or sentimental, as when drunk. Effusively or tearfully sentimental. _Syn_ bathetic, mawkish, schmaltzy, mushy _When the farewells were in danger of becoming maudlin, he judged that it was time to leave._  
+__maudlin__ _adj_ :eight: /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way. Foolishly tearful or sentimental, as when drunk. Effusively or tearfully sentimental. _Syn_ bathetic, mawkish, schmaltzy, mushy _When the farewells were in danger of becoming maudlin, he judged that it was time to leave._  
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
-__Maundy Thursday__  
-__maven__ _n_ :three::hammer:  
+__Maundy Thursday__ _n_ :two: (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
+__maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
+__mauve__ _n_  
+__maven__ _n_ :four: A person who has special knowledge or experience; an expert.  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
 __maw__ _n_ :four::hammer:  
-__mawkish__ _adj_ :three: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
+__mawkish__ _adj_ :four: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
 __maxes__ _v_  
 __maxim__ _n_ :es: máxima  
+__maximalist__ _n_ One who advocates extremist views or radical action to secure a social or political goal.  
 __Mayan<sup>1</sup>__ _adj_ :mega:  
 __Mayan<sup>2</sup>__ _n_ :mega:  
 __mayhem__ _n_ :eight: /ˈmeɪ hɛm, ˈmeɪ əm/ Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayo__ _n_ _informal_ :two: /ˈmeɪ oʊ/ Mayonnaise.  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
-__maypole__ _n_ _Maypole and morris dancers._  
+__maypole__ _n_ :two::camera::hammer: _Maypole and morris dancers._  
 __maze__ _n_ _Sundance Cinemas will offer more than a maze of screens._  
+__mazurka__ _n_  
 __mbira__ _n_ _Syn_ kalimba, thumb piano  
 __McDonald’s__ _n_ :mega: [mic...]  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
@@ -10789,25 +10798,26 @@ __mea culpa__
 __mead__ _n_ :two::hammer:  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
+__mealtime__ _n_ :dart:  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander<sup>1</sup>__ _n_  
 __meander<sup>2</sup>__ _v_ :five: /mee-AN-der/ __1__ To wander aimlessly or casually. _The couple spent the afternoon meandering around the seaside town._ __2__ To follow a winding or intricate course. _The stream meanders through the canyon._  
 __meaningful__  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
-__measles__ _n_ :five::pencil2::hammer: :es: sarampión  
-__measly__ _adj_ __2__ _slang_ Contemptibly small; meager: _gave the waiter a measly tip._ _All that abuse for a measly $20?_  
+__measles__ _n_ :six::pencil2::hammer: :es: sarampión  
+__measly__ _adj_ :two: __2__ _informal_ Meagre in quality or quantity. Contemptibly small; meager: _gave the waiter a measly tip._ _All that abuse for a measly $20?_ _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
 __meat and potatoes__  
 __meat at the bone__  
 __meat grinder__  
 __meat missile__ _n_ _slang_  
 __meatless__ _adj_ _Meatless Fridays._  
-__mecca__ _n_ :six: /mĕk′ə/ :three: (Mecca) _(sometimes not capital)_ __1a__ A place that is regarded as the center of an activity or interest. A place that attracts many visitors. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
+__mecca__ _n_ :nine::m: /mĕk′ə/ (Mecca) _(sometimes not capital)_ __1a__ A place that is regarded as the center of an activity or interest. A place that attracts many visitors. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __mechanical pencil__  
 __med__ _adj_ _informal_ Medical: _med schools; med students._  
 __medal__ _v_  
 __medallions__ _n_  
-__meddlesome__ _adj_  
+__meddlesome__ _adj_ :two:hammer:  
 __meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  

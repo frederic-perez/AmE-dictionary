@@ -278,30 +278,6 @@ __major key__
 __malignant__ _adj_  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
-__manslaughter__ _n_ :two::hammer:  
-__marginalia__ _n pl_ Notes in the margin or margins of a book.  
-__maroon__ _n_  
-__marque__ _n_ A model or brand of a manufactured product, especially an automobile. _Syn_ brand, trade name  
-__marshal__ _v_ :two::hammer:  
-__mashup__ _n_  
-__mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
-__matrix__ _n_ :mega:  
-__matter-of-fact__ _adj_  
-__matter-of-factly__ _adv_ :two::hammer:  
-__maudlin__ _adj_ :two: /MAUD-lin/ Maudlin describes someone or something that expresses sadness or sentimentality in an exaggerated way.  
-__Maundy Thursday__ _n_ (Holy Thursday, Sheer Thursday) A Christian holy day that commemorates events known as the Washing of the Feet and the Last Supper.  
-__maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
-__mauve__ _n_  
-__maven__ _n_ A person who has special knowledge or experience; an expert.  
-__mawkish__ _adj_  
-__maximalist__ _n_ One who advocates extremist views or radical action to secure a social or political goal.  
-__maypole__ _n_ :camera:  
-__mazurka__ _n_  
-__mealtime__ _n_ :dart:  
-__measles__  
-__measly__ _adj_ __1__ _informal_ Meagre in quality or quantity. _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
-__mecca__ _n_ _Sedona was a mecca for spiritual tourists._  
-__meddlesome__ _adj_  
 __meet-cute__ _n_ /MEET-kyoot/  
 __megalomanic__  
 __megaphone__ _n_ :mega:  
