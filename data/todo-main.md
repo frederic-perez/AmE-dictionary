@@ -47,6 +47,7 @@ __bounty hunter__
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __brace__ _n_ _To define Python dictionaries, we use braces._  
 __bracken__ _n_  
+__brainiac__ _n_  
 __braying__ _v_  
 __brio__ _n_  
 __broach__ _v_  
@@ -55,6 +56,7 @@ __broker__ _n_
 __brood__ _v_  
 __Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
 __Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
+__budding__ _adj_ In an early, usu. promising stage of development: _a budding artist._ _A budding author._  
 __bumbling__ _v_  
 __bunion__ _n_ /ˈbʌnjən/ :es: juanete  
 __burglarize__ _v_  
@@ -75,6 +77,7 @@ __cantillation__
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
+__cautionary tale__ _n_  
 __clang__ _v_ _Bells clanging._  
 __clanging__  
 __clangor__ _n, v_  
@@ -82,10 +85,12 @@ __clarks__ _n_
 __clatter__ _n_  
 __coax__ _v_ /KOHKS/ /kəʊks/ /kōks/  
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
+__code of conduct__  
 __color blind__  
 __commensurate__ _adj_  
 __commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victuals, provender  
 __companion__ _v tr_  
+__compound__ _v_  
 __compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __conceit__  
 __concise__ _adj_ /kənˈsaɪs/  
@@ -106,6 +111,7 @@ __convalesce__ _v_
 __convene__ _v_  
 __conversant__  
 __convey__ _v tr_  
+__convoy__ _n_ :mega: /ˈkɒn vɔɪ; v. also kənˈvɔɪ/  
 __cookout__ _n_  
 __cooze__ _n_  
 __cop out__  
@@ -129,6 +135,7 @@ __cutting-edge__ _adj_
 __cyst__  
 __dalliances__ _n_  
 __darting__ _v_  
+__data scrubbing__ _n_ _Syn_ data cleansing, data cleaning  
 __daunting__ _adj_  
 __davening__  
 __deadened__  
@@ -192,6 +199,7 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__envision__ _v tr_  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
 __eviction__ _n_  
 __expunge__ _v tr_  
@@ -235,6 +243,7 @@ __hamper__ _v tr_
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1400s.  
+__hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. _Syn_ brown potatoes  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __heretofore__  
@@ -271,6 +280,7 @@ __kiddo__
 __killing field__ _n_  
 __kindling__ _n_  
 __kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__levity__ _n_ __1__ Humor, merriment, or a lack of seriousness, especially when inappropriate: _a subject that should not be treated with levity._  
 __MacGyver__ _n_ :mega: /məˈɡaɪvər/ /muh-GUY-vur/  
 __Machiavelli__  
 __magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
@@ -278,6 +288,7 @@ __major key__
 __malignant__ _adj_  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
+__medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __meet-cute__ _n_ /MEET-kyoot/  
 __megalomanic__  
 __megaphone__ _n_ :mega:  
@@ -328,6 +339,7 @@ __noshed__ _v_
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch__  
 __obtain__ _v_ /ub-TAYN/ /əbˈteɪn/  
+__October surprise__ _n_ A major event, occurring shortly before a presidential election, which influences the result.  
 __on-the-go__ _adj_  
 __outgrow__  
 __outlandish__  
@@ -361,6 +373,7 @@ __panacea__ _n_ :two::hammer:
 __pander__ _v_ :two::hammer:  
 __Pandora__ _n_ :mega:  
 __panoply__ _n_ :two::hammer:  
+__papule__ _n_  
 __paragon__  
 __paramour__  
 __parapraxis__ _n_  
@@ -435,11 +448,12 @@ __potter__ _v_
 __pounce__ _v_  
 __pout__ _v_  
 __powerwash__ _v_  
+__pratfall effect__  
 __prattled__ _v_  
 __preempt__ _v_  
 __preen__ _v_ :two::hammer: /PREEN/  
 __preordained__  
-__preposterous__ _adj_ :two::hammer:  
+__preposterous__ _adj_ :three::hammer:  
 __preposterousness__  
 __prescient__ _adj_  
 __presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
@@ -567,6 +581,7 @@ __reprieve__ _v_
 __repudiation__ _n_  
 __resonate__ _v_  
 __responsibility__ _n_ :two::hammer:  
+__restrained__ _adj_ /rɪˈstreɪnd/  
 __retaliation__ _n_ :mega:  
 __reticent__ _adj_ /RET-uh-sunt/  
 __retina__ _n_ :mega:  
@@ -843,6 +858,7 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
+__taunt__  
 __telling__ _adj, n_ _That response was very telling._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __terraform__ _v_  
@@ -891,9 +907,10 @@ __unrepentant__
 __unseemly__ _adj, adv_ :two::hammer:  
 __unspoken__ _adj_  
 __unstintingly__  
+__untapped__ _adj_  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
-__upend__ _v_  
+__upend__ _v_ :two::hammer:  
 __upheaval__ _n_  
 __upright bass__ _n_  
 __uproar__ _n_  
@@ -936,6 +953,7 @@ __voracity__ _n_ /vuh-RASS-uh-tee/
 __wanly__  
 __wanton__  
 __warrant__ _v_  
+__wartime__ _n_ :pencil2:  
 __washstand__ _n_  
 __wattle__ _n_  
 __waver__ _v_  
