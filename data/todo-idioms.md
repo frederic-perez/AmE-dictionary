@@ -12,6 +12,7 @@ __amirite__ A comical way of writing “am I right,” an interjection used to f
 __an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
 __bbg__  
 __be on (one’s) soapbox__  
+__bits and pieces__  
 __bleeding heart__  
 __bop__  
 __break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
@@ -19,6 +20,7 @@ __bundle up__
 __C-note__  
 __call someone names__  
 __chances are__  
+__connect the dots__  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __curve ball__  
@@ -49,9 +51,11 @@ __dressed to the nines__
 __drop out__  
 __drop the ball__  
 __dyke__  
+__easy peasy__  
 __eat it up__  
 __en route__  
 __every so often__  
+__face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
 __flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __for the life of me__  
 __front and center__  
@@ -62,6 +66,7 @@ __get (one’s) ears lowered__ To get a haircut, especially to a length that rev
 __get ahead of oneself__  
 __get done__  
 __get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
+__go between__ One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
 __go into a nosedive__  
 __go the distance__  
 __gone jacket__ _A gone jacket._  
@@ -153,6 +158,7 @@ __in the hope of__
 __in the hot seat__  
 __in the least__  
 __jump in line__  
+__leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __messed up__ _informal_  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
@@ -164,6 +170,7 @@ __mug__ _Getting your mug on TV._
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
+__of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
 __on probation__  
@@ -171,12 +178,14 @@ __on the brink of (something)__
 __once and for all__  
 __one and done__  
 __one on one__  
+__one step at a time__  
 __one way or another__  
 __outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
 __perk up__  
 __phooey__  
 __pick (one’s) brain(s)__  
 __pro bono__  
+__promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
 __push up the daisies__  
@@ -214,7 +223,7 @@ __reinvent the wheel__
 __relinquish something over someone__  
 __reminiscent of (someone or something)__  
 __rest easy__ :dart: To stop worrying about something. To not worry about something. _I can rest easy knowing that he will be in charge._ _OpenAI isn’t resting easy: the company is reportedly working hard to beat Google to multimodal features in its models._  
-__riddled with__ _The guy had been riddled with bullets right there._  
+__riddled with__ :two::hammer: _CNET published AI-generated articles riddled with errors._ _The guy had been riddled with bullets right there._  
 __riding high__  
 __ring a bell__ :two::hammer: _Does that ring a bell with you?_  
 __ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
@@ -230,6 +239,7 @@ __roundhouse__
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
 __rule out__  
+__rumor has it (that)__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __run amok__ :two::hammer:  
@@ -276,6 +286,7 @@ __shtick__ _Sometimes he pushed his shtick a little too far._
 __shy away (from someone or something)__  
 __side hustle__  
 __silly me__  
+__silver bullet__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__ :two::hammer:  
 __sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. “Shiva” comes from the Hebrew word שבעה (šib’â), meaning “seven.” _For a week, we sat shivah for her._  
@@ -308,9 +319,9 @@ __sooner rather than later__ :dart:
 __sound the alarm__  
 __spaced (out)__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
-__speak volumes__ To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
+__speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spill the beans__ :two::hammer:  
-__spill the tea__ _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
+__spill the tea__ :two: _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spin up__  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
 __spot on__  
@@ -326,15 +337,18 @@ __stick with (someone or something)__
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __strange bedfellows__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
+__sugar talk__ Sugar talk refers to a type of language or communication that is overly flattering, ingratiating, or excessively polite, often with the intention of manipulating or deceiving others.  
 __sugarcoat (something)__  
 __sure enough__  
 __swan song__  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
+__take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
 __take charge__  
+__take fright__ To become very frightened or startled (by something). Often followed by “at (something).”  
 __take names__  
 __take no prisoners__  
 __take on__  
@@ -360,6 +374,7 @@ __that’s a given__
 __that’s a wrap__ :dart: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __the (hand)writing is on the wall__  
 __the die was cast__ (the dice were cast)  
+__the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
 __the frosting on the cake__  
 __the grand scheme of things__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
@@ -379,10 +394,12 @@ __the sky is the limit__
 __then again__  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
+__throw in the towel__ To give up on some endeavor; to quit or abandon something; to admit defeat or failure.  
 __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __to a T__  
+__tone deaf__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __tough talk__  
@@ -453,6 +470,7 @@ __wolf down__
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __word on the street__  
 __work (one’s) tail off__  
+__wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
