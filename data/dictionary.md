@@ -11090,11 +11090,13 @@ __miser__ _n_ :three::hammer: :es: avaro
 __miserable__ _adj_ _We are miserable._  
 __miserably__ _adv_ _Failed miserably._  
 __misericord__ _n_ :astonished: __1__ Compassion, pity, or mercy. __2__ Something to provide support to a standing person. __3__ A place where rules are relaxed. __4__ A dagger used to deliver the death stroke to a seriously wounded person.  
-__miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
+__miserly__ _adj_ :three::astonished: /ˈmaɪzə(r)li/ Unwilling to spend any money. Of, relating to, or characteristic of a miser; avaricious or penurious.  
 __misfire__ _v intr_ :three::hammer: /ˌmɪsˈfaɪə/ (misfiring) _One misfire in the 2000s._  
-__misfit__ _n_ :three::hammer: (misfits)  
+__misfirings__ _adj_  
+__misfit__ _n_ :four::pencil2::hammer: (misfits)  
 __misfortune__ _n_  
-__misgiving__ _n_ :eight: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
+__misgiving__ _n_ :nine: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
+__misguide__ _v_  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
@@ -11112,13 +11114,13 @@ __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._
 __mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
 __miss__ _n_ _A memory cache miss._  
-__missals__ _n_  
+__missal__ _n_ :two::hammer:  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
-__misspell__ _v_ :two: To spell incorrectly.  
+__misspell__ _v_ :three::pencil2: To spell incorrectly.  
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
-__misstep__ _n_ :three::pencil2::hammer:  
+__misstep__ _n_ :five::pencil2::hammer:  
 __missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
@@ -11129,7 +11131,7 @@ __mistruth__ _n_ :two::hammer: (mistruths)
 __misuse<sup>1</sup>__ _n_ _He had no history of alcohol misuse._  
 __misuse<sup>2</sup>__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __miter__ _n_  
-__mitigate__ _v_ :three::hammer:  
+__mitigate__ _v_ /MIT-uh-gayt/ :four::hammer:  
 __mitt__ _n_  
 __Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
@@ -11138,6 +11140,7 @@ __mix-up__ _n_ :two::hammer:
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
 __mixologist__ _n_ :two::hammer:  
 __mixology__ _n_  
+__mixtape__ _n_  
 __mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
 __mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
@@ -11158,6 +11161,7 @@ __mogrify__ _v_
 __mogul__ _n_ :seven: __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
+__moiré pattern__  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mojo__ _n_ :three::hammer:  
 __molasses__ _n_ :seven::hammer: :es: melaza _Pomegranate molasses._  
@@ -11166,7 +11170,7 @@ __molding__ _n_ :two::hammer: _Mahogany moldings._
 __moldy__ _adj_ :two::hammer:  
 __mole grip__ _n_ :camera: Locking pliers.  
 __mole wrench__ _n_ :camera: Locking pliers.  
-__mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
+__mole__ _n_ :three: __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency. :es: topo  
 __molehill__  
 __molest__ _v_  
 __moll__ _n_ _Mingle with mobsters and molls._  
@@ -11180,29 +11184,32 @@ __molt<sup>1</sup>__ _v_
 __molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, like other birds, regularly shed their feathers (molt)._  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
-__momentous__ _adj_ :four: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
+__momentous__ _adj_ :dart::six: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
 __momentously__ _adv_ In a momentous way.  
 __momentum__ _n_ :two::hammer: _I’ve lost a lot of momentum._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __monad__  
 __Monday__ _n_ :mega: /’möndi, -deI/  
-__mondegreen__ _n_ :three::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
+__mondegreen__ _n_ :four::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money on the hoof__  
-__money__ _n_ :mega:  
+__money__ _n_ :two::mega::hammer: /ˈmʌnɪ/  
 __moneyed__  
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __moniker__ _n informal_ :four::hammer:  
 __monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
+__monkey mind__  
 __monkey suit__  
 __monkey wrench__ _n_ :two: __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
 __monkeypox__ _n_  
 __monogramming__  
 __monolith__ _n_  
 __monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
-__mononym__ _n_ :two::hammer:  
+__mononym__ _n_ :three: /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
+__mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __monophobia__ _n_ An abnormal fear of being alone.  
+__Monopoly Deal__ _n_  
 __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
 __monopsony__ _n_  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
@@ -11214,6 +11221,7 @@ __montero__ _n_ A hunter’s cap with side flaps.
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
 __mood__ _n_ :two::hammer: _Mood story._  
+__moodiness__ _n_  
 __moody__ _adj_ :four::hammer:  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __moon roof__  
@@ -11227,17 +11235,18 @@ __Moor__ _n_
 __moor__ _n_ :four::hammer: _Heather-filled moors._  
 __mooring__ _n_ :two::hammer:  
 __Moorish__ _adj_ _Moorish architecture._  
-__moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
-__moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
-__moot<sup>3</sup>__ _n_  
+__moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. Open to discussion: debatable. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. Of little practical value, hence not worth considering. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot<sup>2</sup>__ _n_ :two: __1__ An assembly or court. __2__ A discussion or argument.  
+__moot<sup>3</sup>__ _v tr_ :six: __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __mop top hair__  
+__mop-up__ _n_  
 __mope__ _v_ :pencil2::two::hammer:  
 __moped__ _n_  
 __moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
 __moral__  
-__morale__ _n_ :four::hammer: _The sunken morale left by defeats._  
-__morass__ _n_ :five: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._  
+__morale__ _n_ :five::hammer: _The sunken morale left by defeats._  
+__morass__ _n_ :six: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._  
 __moratorium__ _n_ :two::hammer:  
 __moray eel__ _n_  
 __morbid__ _adj_  

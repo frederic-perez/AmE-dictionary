@@ -315,33 +315,6 @@ __minstrel__
 __mire__ _v_ _He was mired in his fixed mindset._  
 __mirthless__  
 __misapprehension__  
-__miserly__ _adj_ :two::astonished: Of, relating to, or characteristic of a miser; avaricious or penurious.  
-__misfirings__ _adj_  
-__misfit__ _n_ :pencil2:  
-__misgivings__  
-__misguide__ _v_  
-__misnomer__ _n_  
-__missal__ _n_  
-__misspell__ _v_ :pencil2:  
-__misstep__ _n_ :two::pencil2::hammer:  
-__mitigate__ _v_ /MIT-uh-gayt/  
-__mixtape__ _n_  
-__moiré pattern__  
-__mole__ _n_ :es: topo  
-__momentous__ _adj_ :two::hammer:  
-__mondegreen__ _n_  
-__money__ _n_ :mega: /ˈmʌnɪ/  
-__monkey mind__  
-__mononym__ _n_ /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be known only by one name, usually the first name.  
-__mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
-__Monopoly Deal__ _n_  
-__moodiness__ _n_  
-__moot<sup>1</sup>__ _adj_ __1__ Open to discussion: debatable. __2__ Of little practical value, hence not worth considering.  
-__moot<sup>2</sup>__ _n_ __1__ An assembly or court. __2__ A discussion or argument.  
-__moot<sup>3</sup>__ _v tr_ __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
-__mop-up__ _n_  
-__morale__ _n_  
-__morass__ _n_  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
