@@ -176,32 +176,6 @@ __outdo (oneself)__ To outperform or outclass one’s previous actions or effort
 __perk up__  
 __phooey__  
 __pick (one’s) brain(s)__  
-__pick on (someone or something)__ :two::hammer:  
-__pick someone up__ _I learned about picking ourselves up when we fall._  
-__pick up after (someone or oneself)__  
-__pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
-__picture perfect__ Exactly as desired in every detail. Often hyphenated. _My goodness, what a party. Everything was picture perfect._  
-__picture postcard__  
-__pin-drop silence__  
-__pinko (commie)__  
-__pipe dream__  
-__piss and vinegar__  
-__pit stop__ __2__ A pause in a journey (usually by car) to urinate, eat, rest, and/or refuel. (From the name of a service stop in automobile racing.) _I think we’ll pull in at the next rest area. I need a pit stop._  
-__play (one’s) cards close to (one’s) chest__  
-__play (someone) like a fiddle__ (play (someone) like a piano) _In the ensuing months, Weinberg played Rosenberg like a piano._  
-__play catch-up__  
-__play dumb__  
-__play it cool__  
-__play it safe__  
-__play the field__  
-__plead ignorance__ _It was best for me to plead ignorance._  
-__pop__ _I took four quick pops of Old Crown._  
-__pot luck__ (potluck)  
-__prattle on (about someone or something)__ To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
-__pressure cooker__ _Too many of us feel like we’re living inside a pressure cooker._  
-__price to pay__  
-__prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
-__prise open__  
 __pro bono__  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
