@@ -205,32 +205,6 @@ __put up with something__
 __put upon__  
 __putzo__  
 __quick buck__  
-__quick-and-dirty__ :two: _mod._ Rapidly and carelessly done.  
-__quid pro quo__  
-__quite quitting__  
-__rack up__  
-__ram into (someone or something)__  
-__rat out__  
-__raze (something) to the ground__ To completely demolish or destroy something until it is nothing but rubble on the ground. _We’ve decided to raze this rickety old building to the ground._  
-__reach out__  
-__red flag__  
-__red pill__  
-__redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
-__redound on (someone or something)__  
-__reduce (one) to tears__  
-__reel off__  
-__reinvent the wheel__  
-__relinquish something over someone__  
-__reminiscent of (someone or something)__  
-__rest easy__ :dart: To stop worrying about something. To not worry about something. _I can rest easy knowing that he will be in charge._ _OpenAI isn’t resting easy: the company is reportedly working hard to beat Google to multimodal features in its models._  
-__riddled with__ :two::hammer: _CNET published AI-generated articles riddled with errors._ _The guy had been riddled with bullets right there._  
-__riding high__  
-__ring a bell__ :two::hammer: _Does that ring a bell with you?_  
-__ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
-__rip off__  
-__ripped to the tits__ _adj_ (ripped off one’s ass, ripped to the nuts, ripped to the gills) Very intoxicated by drink, drugs or a combination.  
-__road to nowhere__  
-__rock the boat__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __round and round__ (around and around)  
