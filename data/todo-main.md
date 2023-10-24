@@ -329,34 +329,6 @@ __misapprehension__
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
-__mull__ _v_ :two::hammer:  
-__mullet__ _n_  
-__mulligans__  
-__mutiny__  
-__nepotism__ _n_ /NEP-uh-tiz-um/  
-__newsroom__ _n_ :two::hammer:  
-__noshed__ _v_  
-__notate__ _v_ _He had never tried to write or notate music before._  
-__notch__  
-__obtain__ _v_ /ub-TAYN/ /əbˈteɪn/  
-__October surprise__ _n_ A major event, occurring shortly before a presidential election, which influences the result.  
-__on-the-go__ _adj_  
-__outgrow__  
-__outlandish__  
-__outright__ _adv_  
-__outrun__ _v_  
-__outstrip__ _v tr_  
-__outvouch__  
-__overblown__ _adj_ Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
-__overcut__  
-__overhaul__ _v_  
-__overhaul<sup>1</sup>__ _n_  
-__overhaul<sup>2</sup>__ _v_  
-__overjoyed__ _adj_  
-__overlain__ _v_  
-__overlook__ _v_ To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
-__overly__ _adv_ :two::hammer:  
-__overrun__ _v_  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  

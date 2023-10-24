@@ -11358,12 +11358,12 @@ __mulching__ _v_
 __mulct__ _v_ :pencil2: __1__ To punish by a fine. __2a__ To defraud especially of money. _Syn_ swindle __b__ To obtain by fraud, duress, or theft.  
 __mule deer__  
 __muleskinner__ _n_  
-__mull<sup>1</sup>__ _v tr_ :nine::m: (mulled, mulling) __1__ To think about extensively; ponder. To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. To heat and spice (wine, for example). _His mug of mulled cider._  
+__mull<sup>1</sup>__ _v tr_ :nine::m: __1__ To think about extensively; ponder. To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. To heat and spice (wine, for example). _His mug of mulled cider._  
 __mull<sup>2</sup>__ _v intr_ :nine::m: To ruminate; ponder: _mull over a plan._  
 __mullah__ _n_  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
-__mullet__ _n_ :five: /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. Freshwater or coastal food fishes a spindle-shaped body; found worldwide. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
-__mulligan__ _n_  
+__mullet__ _n_ :six: /ˈmʌlɪt/ __1__ Any marine or freshwater spiny-finned fish of the family Mugilidae. Freshwater or coastal food fishes a spindle-shaped body; found worldwide. :es: salmonete __2__ A hairstyle formed by cutting the hair short on the top and sides of the head and allowing it to grow longer in back.  
+__mulligan__ _n_ :two::hammer:  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicast__  
 __multicopter__ _n_ _Syn_ multirotor  
@@ -11426,6 +11426,7 @@ __mustachioed__
 __mustard__ _n_ :mega:  
 __muster__ _v_ :four: (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._ To assemble or gather: _mustering for inspection._ Gather or bring together. _Syn_ rally, summon _Mustering all her strength, she pulled hard on the oars._  
 __musty__  
+__mutiny__  
 __mutism__ _n_  
 __mutt__ _n_ :five::hammer:  
 __mutter__ _n, v_  
@@ -11577,7 +11578,7 @@ __neorealist__
 __neoteric__  
 __Nepalese__ _adj_  
 __nepenthe__ _n_ Something that induces forgetfulness of sorrow or eases pain.  
-__nepotism__ _n_ :six: [:scroll: The term nepotism comes from the Latin root for nephew Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.]  
+__nepotism__ _n_ :seven::hammer: /NEP-uh-tiz-um/ [:scroll: The term nepotism comes from the Latin root for nephew Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.]  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __nerve agent__  
@@ -11628,6 +11629,7 @@ __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc.
 __newsbreak__ _n_  
 __newscast__ _n_ A radio or television broadcast of the news.  
 __newspaper rack__  
+__newsroom__ _n_ :two::hammer:  
 __newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and online at onlinestore.usatoday.com._  
 __newsworthy__ _adj_ :two: Of sufficient interest to warrant press coverage.  
 __newsy__  
@@ -11784,6 +11786,7 @@ __nosedive<sup>2</sup>__ _v intr_ _My confidence has been nose diving._
 __nosh<sup>1</sup>__ _v intr_ _informal_ :four: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _v tr_ To snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
+__noshed__ _v_  
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__ _n_ :two::hammer:  
@@ -11791,8 +11794,9 @@ __nostrum__ _n_ :four:astonished: __1__ A medicine of secret composition recomme
 __nosy__ _adj_ _slang_ :six: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
 __not-for-profit__ _adj_  
-__notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
-__notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
+__notate__ _v_ _He had never tried to write or notate music before._  
+__notch<sup>1</sup>__ _n_ :two: __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
+__notch<sup>2</sup>__ _v_ :nine::m: __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __note__ _n_ _On a much more serious note..._  
 __noteworthy__  
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
@@ -11905,6 +11909,7 @@ __obsidian__
 __obstinate__ _adj_ :two::hammer: /AHB-stuh-nut/  
 __obstreperous__ _adj_ :six: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
 __obstreperousness__  
+__obtain__ _v_ /ub-TAYN/ /əbˈteɪn/  
 __obtrude<sup>1</sup>__ _v tr_ :four: /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc. To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obtrude<sup>2</sup>__ _v intr_ To thrust forward or to intrude.  
 __obtrusive__ _adj_  
@@ -11924,6 +11929,7 @@ __occurr__ _v intr_ :pencil2:
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ochre__ _n_ (ocher)  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
+__October surprise__ _n_ A major event, occurring shortly before a presidential election, which influences the result.  
 __October__ _n_ [:scroll: Like its neighboring months September, November, and December, the month of October kept its numerical name, even after Julius Caesar expanded the calendar year from 10 months to 12.]  
 __octogenarians__  
 __octopi__ _n pl_ A plural of octopus.  
@@ -12042,6 +12048,7 @@ __on the run__
 __on the verge__  
 __on three__ _phr_ _On three: One, two, three!_  
 __on-site__ _adj_ :two::hammer:  
+__on-the-go__ _adj_  
 __on<sup>1</sup>__ _prep_ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn’t care._ _It’s on the Internet._ _A military base on the island of Okinawa._ _The plans are described on its website._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _The shooting happened late on a Saturday night._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _Others would get on line for loans._  
 __on<sup>2</sup>__ _adv_  
 __on<sup>3</sup>__ _adj_  
@@ -12219,7 +12226,7 @@ __outfly__ _v_ :two: To fly better or faster than someone or something.
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__ _adj_ :two::hammer:  
-__outgrow__ _v_ :three: To grow bigger than or too big for something.  
+__outgrow__ _v_ :four: To grow bigger than or too big for something.  
 __outgrowth__ _n_ :two::hammer:  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
@@ -12252,9 +12259,9 @@ __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper;
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outriggers__  
-__outright<sup>1</sup>__ _adv_ :three::hammer:  
+__outright<sup>1</sup>__ _adv_ :four::hammer:  
 __outright<sup>2</sup>__ _adj_ :three::hammer:  
-__outrun__ _v_  
+__outrun__ _v_ :two::hammer:  
 __outsell__ _v tr_  
 __outset__ _n_ :eight::hammer: _The outset of his campaign._ _Designed at the outset._  
 __outshine__ _v_ :four: To be much better than someone or something else.  
@@ -12268,10 +12275,11 @@ __outsourcing__
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::m::pencil2: Frank in stating one’s opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstanding__ _adj_  
-__outstripped__ _v_  
+__outstrip__ _v tr_ :two::hammer: (outstripped)  
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form “out of.” _Straight outta Tahoe._  
 __outtakes__ _n_  
 __outthink__ _v_  
+__outvouch__  
 __outwear__ _n_  
 __outwit__ _v_ (outwitted)  
 __outwork__ _v_  
@@ -12286,25 +12294,28 @@ __overall__ _adj, adv_ :two::hammer:
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overarching__ _adj_ :seven::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
-__overblown__  
+__overblown__ _adj_ :two: Made to seem greater or more impressive than something really is. _Syn_ exaggerated  
 __overbook__ _v_  
 __overcast__ _adj_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
 __overcomplicate__ _v tr_  
+__overcut__  
 __overdo__ _v_ :three::hammer: _Do not overdo caffeine._  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _adj_ _A resurgence in social homes is long overdue._  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overflight__  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
-__overhaul<sup>1</sup>__ _v tr_ :dart::two::hammer:  
-__overhaul<sup>2</sup>__ _n_ :two::hammer:  
+__overhaul<sup>1</sup>__ _v tr_ :dart::three::hammer:  
+__overhaul<sup>2</sup>__ _n_ :three::hammer:  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
+__overjoyed__ _adj_  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
 __overlay<sup>1</sup>__ _v tr_ _Overlay relevant metadata on the cellphone’s screen._  
 __overlay<sup>2</sup>__ _n_  
-__overlook__ _v_ :two::hammer:  
+__overlie__ _v_ (overlain)  
+__overlook__ _v_ :three: To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
 __overlord__ _n_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
 __overnight<sup>1</sup>__ _adj_ :two::hammer:  
@@ -12315,6 +12326,7 @@ __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is 
 __overreach__ _v_  
 __overreact__ _v_ :pencil2:  
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
+__overrun__ _v_  
 __overseas__  
 __oversee__ _v_ :six::hammer: _Oversee compliance._  
 __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
