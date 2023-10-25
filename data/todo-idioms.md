@@ -1,16 +1,20 @@
 __(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all seriousness.  
+__(be) careful what you wish for(, (because) you just might get it)__ A warning that something that one desires might prove to problematic or undesirable were it to happen or come true.  
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
+__(I) hope not__  
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering.  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
 __a different kettle of fish__  
 __a kind of (something)__ A replacement or alternative to (the real thing).  
+__a lifeline__ :dart: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
 __all ears__  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
 __bbg__  
+__be here to stay__  
 __be on (one’s) soapbox__  
 __bits and pieces__  
 __bleeding heart__  
@@ -19,8 +23,11 @@ __break the bank__ To be very expensive. The phrase is often used in the negativ
 __bundle up__  
 __C-note__  
 __call someone names__  
+__canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __chances are__  
+__cherry on top__  
 __connect the dots__  
+__crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __curve ball__  
@@ -28,7 +35,7 @@ __cut the cord__ Cease to rely on someone or something influential or supportive
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
-__dish out__  
+__dish out__ :four::hammer:  
 __do (one’s) part__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
@@ -39,6 +46,8 @@ __do or die__
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dog eat dog__  
 __doggone it__  
+__dole out__  
+__doll up__  
 __dolled up to the nines__  
 __doormat__  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
@@ -46,6 +55,7 @@ __double down__
 __double-edged sword__ Something that can be both beneficial and problematic.  
 __drag (one’s) ass__  
 __drag (one’s) feet__  
+__drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
 __draw upon__  
 __dressed to the nines__  
 __drop out__  
@@ -154,6 +164,8 @@ __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans 
 __hit home__  
 __hit the bull’s-eye__  
 __hit the lotto__  
+__in a lifetime__  
+__in a similar vein__  
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
@@ -173,6 +185,7 @@ __nose to the grindstone__ :dart: A phrase said of one who is working hard or di
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
+__on a side note__  
 __on probation__  
 __on the brink of (something)__  
 __once and for all__  
@@ -180,10 +193,12 @@ __one and done__
 __one on one__  
 __one step at a time__  
 __one way or another__  
+__open the floodgates__  
 __outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
 __perk up__  
 __phooey__  
 __pick (one’s) brain(s)__  
+__play down__  
 __pro bono__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
@@ -205,6 +220,8 @@ __put up with something__
 __put upon__  
 __putzo__  
 __quick buck__  
+__rank and file__  
+__rat race__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __round and round__ (around and around)  
@@ -236,11 +253,13 @@ __schmuck__
 __schnook__  
 __second best__  
 __second nature__  
+__secret sauce__  
 __secret weapon__  
 __seize the opportunity (to do something)__  
 __separate wheat from chaff__  
 __set eyes on (someone or something)__ :two::hammer:  
 __set the record straight__ To make the true facts of something clear, especially when they have been previously mistaken, misunderstood, or misrepresented. _There have been a lot of crazy rumors flying around for the last few days, so I’d like to set the record straight once and for all._  
+__sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
 __sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
 __sexual tension__  
 __shakedown__ _A shifty shakedown artist._  
