@@ -26,14 +26,17 @@ __afoot__
 __aftereffect__ _n_  
 __afterimage__ _n_  
 __amygdala__ _n_  
+__apanthropy__ _n_ /ap-UHN-thruh-pee/ A desire to be away from people; a love of solitude.  
 __appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
 __apparatchik__ _n_  
+__applesauce__ _n_ /AP-uhl-saws/ Nonsense; lies.  
 __atelier__ _n_ A studio especially for an artist or designer. _Syn_ artist’s workroom  
 __audacious__ _adj_ :dart:  
 __audacity__ _n_ :dart:  
 __backlog__ _n_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
+__beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
 __bolster__ _v_  
 __booby trap__ _n_  
@@ -127,6 +130,7 @@ __cross talk__ _n_ Interference heard on a telephone or radio because of uninten
 __crumple__  
 __crumpled__ _adj_ _A crumpled newspaper copy._  
 __cuckolded__  
+__cupidity__ _n_ Excessive desire, especially for wealth. _Syn_ covetousness, avarice  
 __cure-all__ _n_  
 __cushy__ _adj_ _Cushy job._  
 __cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
@@ -145,6 +149,7 @@ __decal__ _n_ /ˈdi kæl, dɪˈkæl/ __1__ A picture or design transferred by de
 __decamp__  
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
+__deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __disengage__  
 __disobligation__  
@@ -154,6 +159,7 @@ __disquiet__ _adj, n, v_
 __dissatisfied__  
 __dissociation__ _n_  
 __divining__ _n_  
+__docket__ _n_ :dart: A list of things to be done. _Syn_ agenda, schedule  
 __don__ _n_  
 __doodlebug__ _n_  
 __doorbell__ _n_  
@@ -171,6 +177,7 @@ __drab__ _adj_
 __drawl__ _n_ The way of speech of someone who drawls.  
 __drill__ _n_  
 __drown out__  
+__dubious__ _adj_ /DOO-bee-us/  
 __dungaree__ _n_ A sturdy, often blue denim fabric. _Syn_ jean, denim  
 __dynamo__ _n_ :astonished: __2__ An extremely energetic and forceful person: _a vice president who was the real dynamo of the corporation._  
 __earnest__  
@@ -209,6 +216,7 @@ __fib<sup>1</sup>__ _n_
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
 __fictitious__  
 __fictive__ _adj_  
+__fiddlestick__ _n_  
 __fiefdoms__ _n_  
 __filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __filching__ _v_ _Filching felines._  
@@ -228,6 +236,7 @@ __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cab
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __foliage__ _n_ :mega: /FOH-lee-ij/ /ˈfoʊ li ɪdʒ/ Foliage refers to the leaves of a plant or of many plants.  
 __fungible__  
+__gag order__ _n_  
 __giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
@@ -236,6 +245,7 @@ __gobble__ _v_ _Do you savor or gobble?_
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
+__grubstake__  
 __gullible__ _adj_ /GULL-uh-bul/  
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
@@ -258,6 +268,8 @@ __hinder__ _v_
 __hyphen__ _n_  
 __hypochondriac__  
 __ibex__ _n_  
+__inculcate__ _v_ /in-KUL-kayt/  
+__interlard__ _v tr_  
 __jokey__  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
@@ -272,7 +284,7 @@ __juvenilize__
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __keenly__  
 __kerf__ _n_  
-__kibble__ _n_  
+__kibble__ _n_ :two::hammer:  
 __kibbutz__ _n_  
 __kibitz__ _v intr_ _Everyone’s kibitzing happily._  
 __kiddie__ _n_ _A kiddie soccer game,_  
@@ -326,9 +338,11 @@ __minstrel__
 __mire__ _v_ _He was mired in his fixed mindset._  
 __mirthless__  
 __misapprehension__  
+__mollycoddle__ _v_ /MAH-lee-kah-dul/ When you mollycoddle someone, you are treating that person with an excessive or absurd degree of indulgence or attention.  
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
+__nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -435,6 +449,7 @@ __pricked__ _v_ _Pricked by a needle._
 __prim__ _adj_ _Prim respect._  
 __prime__ _v_ :two::hammer:  
 __prissy__ _adj_ :astonished:  
+__pro tem__ _adj, adv_  
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
@@ -474,6 +489,7 @@ __purported__
 __purportedly__  
 __purview__ _n_  
 __pushover__ _n_ :dart::two::hammer:  
+__pyrexia__ _n_ Fever. _Syn_ febricity, febrility, feverishness  
 __pyrrhic__  
 __quaff__ _v_ _We quaffed Old Crow._  
 __quagmire__ _n_  
@@ -486,6 +502,7 @@ __quiddity__ _n_
 __quiescent__ _adj_ /kwy-ESS-unt/  
 __quietude__ _n_ A state of peace and quiet. _Syn_ tranquility, quietness  
 __quiff__ _n_  
+__quintessence__ _n_ /kwin-TESS-unss/  
 __quintessential__ _adj_ _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
 __quirk__ _n_  
 __quirky__ _adj_  
@@ -542,6 +559,7 @@ __reenact__ _v_
 __reenactment__ _n_  
 __refrain<sup>1</sup>__ _v intr_ _Lorna refrained from comment._  
 __refrain<sup>2</sup>__ _n_  
+__regale__ _v_ /rih-GAIL/ Regale is a somewhat formal word that means “to entertain or amuse by telling stories, describing experiences, etc.” It is often followed by _with_. _He regaled his party guests with stories of his adventures abroad._  
 __regalia__ _n_ Magnificent attire; finery. _Syn_ raiment, array  
 __regency__ _n_  
 __regimen__ _n_ /REJ-uh-mun/ _Regimen_ refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy.  
@@ -704,6 +722,7 @@ __skin__ _v tr_ _He skinned his knee and started to cry._
 __skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skittering__  
 __sky-high__ _adj, adv_  
+__smack__ _n_ __10__ A resounding or loud kiss.  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
 __snap__ _n_  
@@ -748,6 +767,7 @@ __splenetic__ _adj_ /splih-NET-ik/ Splenetic is a formal word that typically des
 __spoon__ _v_  
 __spritz__ _v_ _He spritzed me with a mouthful of martini._  
 __spurt__ _n_ _A huge spurt of activity._  
+__squalid__ _adj_ Dirty and wretched, as from poverty or lack of care. _Syn_ flyblown, sordid  
 __squall__ _n_ :two::hammer: _It’s just a passing squall._  
 __squander__ _v tr_  
 __squat__ _adj_  
@@ -831,6 +851,7 @@ __tamper__ _v_
 __tandem__ _n_  
 __tangible__ _adj_  
 __taunt__  
+__televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __terraform__ _v_  
@@ -845,6 +866,7 @@ __thence__ _adv_
 __thicket__  
 __thrash__ _v_  
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
+__threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
@@ -913,6 +935,7 @@ __ventilatory threshold__ _n_ The point of the workout where it becomes difficul
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __verdict__  
 __verismo__  
+__verruca__ _n_ A firm abnormal elevated blemish on the skin; caused by a virus. _Syn_ wart  
 __vesicle__ _n_ A small sac or cyst, especially one containing fluid. _Syn_ cyst  
 __vicinity__ _n_  
 __vicissitude__ _n_ :pencil2:  
