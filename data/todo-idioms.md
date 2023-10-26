@@ -11,8 +11,10 @@ __a different kettle of fish__
 __a kind of (something)__ A replacement or alternative to (the real thing).  
 __a lifeline__ :dart: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
 __all ears__  
+__all-out__ Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
+__another nail in the coffin__  
 __bbg__  
 __be here to stay__  
 __be on (one’s) soapbox__  
@@ -26,12 +28,14 @@ __call someone names__
 __canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __chances are__  
 __cherry on top__  
+__chime in__  
 __connect the dots__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __curve ball__  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
+__dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
@@ -50,6 +54,7 @@ __dole out__
 __doll up__  
 __dolled up to the nines__  
 __doormat__  
+__dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double down__  
 __double-edged sword__ Something that can be both beneficial and problematic.  
@@ -66,10 +71,13 @@ __eat it up__
 __en route__  
 __every so often__  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
+__fall short__ To fail to meet or reach some goal, standard, expectation, etc.  
 __flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __for the life of me__  
 __front and center__  
+__funny bone__ (crazy bone) A spot near the elbow bone that is very sensitive to the touch. _Ouch, I hit my funny bone._ _Effie bumped her crazy bone and made a horrendous face._  
 __gag order__ A court order prohibiting those involved in a case from public reporting of or commentary on its details. _Unfortunately, due to a gag order, we can’t provide any new information to the press about the trial until it is finished._  
+__game over__ __2__ By extension, a phrase used to describe a situation that has failed or is likely to fail. _When she finds out you cheated on her, it’ll be game over, dude._  
 __gargle__ _I lit a cigarette and gargled Old Crow._  
 __gelt__ /gɛlt/ _n slang_ Money.  
 __get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
@@ -92,6 +100,7 @@ __grasshopper__ _slang_ Someone who frequently smokes marijuana.
 __grínd one’s teeth__  
 __grouse__ To complain or gripe.  
 __grovel__ To interact with someone in an overtly agreeable or deferential manner. _Well, if your mother’s mad at me, I guess I’m going to have to grovel—we want this family dinner to be pleasant, after all._  
+__grunt work__ Work that is menial and often tedious.  
 __guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __hamster wheel__ _These changes will get you off this hamster wheel._  
 __handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
@@ -163,15 +172,19 @@ __hit (someone or something) hard__
 __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit home__  
 __hit the bull’s-eye__  
+__hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the lotto__  
 __in a lifetime__  
 __in a similar vein__  
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
+__in the short/medium/long term__ During a short/medium/long period of time in the future.  
 __jump in line__  
 __leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
+__light at the end of the tunnel__  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
+__make (one’s)/the rounds__  
 __messed up__ _informal_  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __move (one) to tears__  
@@ -198,6 +211,8 @@ __outdo (oneself)__ To outperform or outclass one’s previous actions or effort
 __perk up__  
 __phooey__  
 __pick (one’s) brain(s)__  
+__pipe down__ To become quiet and calm; to stop being loud or boisterous. Often said as a command.  
+__pipe up__ To make oneself heard; to interrupt or interject.  
 __play down__  
 __pro bono__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
@@ -220,8 +235,10 @@ __put up with something__
 __put upon__  
 __putzo__  
 __quick buck__  
+__radio silence__  
 __rank and file__  
 __rat race__  
+__red line__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __round and round__ (around and around)  
@@ -333,8 +350,10 @@ __strike off__ __1__ To depart for or begin traveling to (some place). _Make sur
 __sugar talk__ Sugar talk refers to a type of language or communication that is overly flattering, ingratiating, or excessively polite, often with the intention of manipulating or deceiving others.  
 __sugarcoat (something)__  
 __sure enough__  
+__surprise, surprise__  
 __swan song__  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
+__take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
@@ -366,12 +385,15 @@ __that been said__
 __that’s a given__  
 __that’s a wrap__ :dart: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __the (hand)writing is on the wall__  
+__the devil is in the detail(s)__  
 __the die was cast__ (the dice were cast)  
 __the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
+__the final nail in the coffin__  
 __the frosting on the cake__  
 __the grand scheme of things__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the Greek calends__  
+__the green-eyed monster__ Jealousy. The phrase comes from the Shakespeare play _Othello._ _My daughter often succumbs to the green-eyed monster when she sees the toys that her friends have._  
 __the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the icing on the cake__  
 __the ick__ _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to.  
@@ -387,6 +409,7 @@ __the sky is the limit__
 __then again__  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
+__this is not a competition__ :two: A phrase used to convey the idea that a particular situation or activity should not be approached with a competitive mindset. It suggests that the focus should not be on outperforming others or striving to be better than them, but rather on cooperation, collaboration, and personal growth.  
 __throw in the towel__ To give up on some endeavor; to quit or abandon something; to admit defeat or failure.  
 __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __Tinseltown__  
@@ -439,11 +462,13 @@ __watered-down__
 __wazoo__  
 __wear thin__ _My patience was wearing thin._  
 __weave (something) into (something) else__  
+__weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what’s in store__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __wherever you go, there you are__  
+__whip out__  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
 __whoopsie-daisy__  
@@ -458,6 +483,7 @@ __wire__
 __wise guy__ __2__ A mobster.  
 __wish (one) well__  
 __wishful thinking__ :two::hammer: :es: espejismo, ilusión  
+__witch hunt__ An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
 __with great (something) comes great (something else)__  
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
