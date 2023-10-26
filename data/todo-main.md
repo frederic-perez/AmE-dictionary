@@ -34,8 +34,10 @@ __atelier__ _n_ A studio especially for an artist or designer. _Syn_ artist’s 
 __audacious__ _adj_ :dart:  
 __audacity__ _n_ :dart:  
 __backlog__ _n_  
+__backstory__ _n_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
+__befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
 __bolster__ _v_  
@@ -81,6 +83,7 @@ __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates 
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
 __cautionary tale__ _n_  
+__chiaroscuro__ _n_  
 __clang__ _v_ _Bells clanging._  
 __clanging__  
 __clangor__ _n, v_  
@@ -90,6 +93,7 @@ __coax__ _v_ /KOHKS/ /kəʊks/ /kōks/
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __code of conduct__  
 __color blind__  
+__coma__ _n_ :mega:  
 __commensurate__ _adj_  
 __commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victuals, provender  
 __companion__ _v tr_  
@@ -135,6 +139,7 @@ __cure-all__ _n_
 __cushy__ _adj_ _Cushy job._  
 __cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
 __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
+__cutthroat__ _n_ __2__ An unprincipled, ruthless person.  
 __cutting-edge__ _adj_  
 __cyst__  
 __dalliances__ _n_  
@@ -180,6 +185,7 @@ __drown out__
 __dubious__ _adj_ /DOO-bee-us/  
 __dungaree__ _n_ A sturdy, often blue denim fabric. _Syn_ jean, denim  
 __dynamo__ _n_ :astonished: __2__ An extremely energetic and forceful person: _a vice president who was the real dynamo of the corporation._  
+__eager__ _adj_  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
 __earwig__  
@@ -235,6 +241,7 @@ __flit__ _n_
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __foliage__ _n_ :mega: /FOH-lee-ij/ /ˈfoʊ li ɪdʒ/ Foliage refers to the leaves of a plant or of many plants.  
+__footage__ _n_ :mega: /ˈfʊt ɪdʒ/  
 __fungible__  
 __gag order__ _n_  
 __giddy__ _adj_  
@@ -269,6 +276,8 @@ __hyphen__ _n_
 __hypochondriac__  
 __ibex__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
+__indomitable__ _adj_ :mega: /ɪnˈdɒm ɪ tə bəl/  
+__ineffable__  
 __interlard__ _v tr_  
 __jokey__  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
@@ -300,6 +309,7 @@ __major key__
 __malignant__ _adj_  
 __Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
+__maw__ _n_  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __meet-cute__ _n_ /MEET-kyoot/  
 __megalomanic__  
@@ -342,6 +352,7 @@ __mollycoddle__ _v_ /MAH-lee-kah-dul/ When you mollycoddle someone, you are trea
 __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
+__mouthful__ _n_ __3__ A long word, name, or phrase that is difficult to pronounce.  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
@@ -373,6 +384,7 @@ __parochial__ _adj_ :two: Narrowly restricted in scope or outlook. _Syn_ insular
 __paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __parry__ _v_  
 __parsimony__  
+__paterfamilias__ _n_ :astonished: The male head of a household or family, usu. the father.  
 __pathos__  
 __peeps__ _n pl_ /piːps/ Associates; friends.  
 __picayune__ _adj, n_  
@@ -431,7 +443,7 @@ __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to pro
 __post-war groove__  
 __postulate__ _v_  
 __potter__ _v_  
-__pounce__ _v_  
+__pounce__ _v_ :two::hammer:  
 __pout__ _v_  
 __powerwash__ _v_  
 __pratfall effect__  
@@ -598,6 +610,7 @@ __risk stratification__ _n_ A formal estimate of the probability of a person’s
 __roadblock__ _n_  
 __rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
 __roll-up__ _n_ :two: A cigarette that someone makes for themself, using tobacco and cigarette papers.  
+__Rolley Hole__ _n_ A traditional game played with marbles that originated in the Appalachian region of the United States. It is also known by various other names such as Rolley Hole Marbles, Rolley Hole Knuckle Dabber, and Rolley Hole Board.  
 __rollout__ _n_  
 __rom-com__ _n_ A comedic narrative, especially a film, centered on a romantic storyline.  
 __roped__ _v_  
@@ -655,6 +668,7 @@ __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Her
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
+__scores__ _n pl_ A large number or amount.  
 __scraggly__ _adj_ _A scraggly beard._  
 __scramble__ _v_ _They scrambled for personal power._  
 __scrawl__ _v_  
@@ -722,6 +736,7 @@ __skin__ _v tr_ _He skinned his knee and started to cry._
 __skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skittering__  
 __sky-high__ _adj, adv_  
+__sleepover__ _n_  
 __smack__ _n_ __10__ A resounding or loud kiss.  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
@@ -784,6 +799,7 @@ __stamping__
 __stance__ _n_  
 __standoffish__  
 __stately__ _adj_ :two::hammer: _A stately building._  
+__Staten Island__ _n_ :m: /ˈstæt n ˈaɪlənd/  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
 __stationary bicycle__  
 __steal__ _v_ _He sometimes “heard” classical music “stealing across the water.”_  
@@ -806,6 +822,7 @@ __stillbirth__ _n_
 __strain__ _n_  
 __strayed__ _v_ _His thoughts strayed._  
 __strummíng__ _v_ _She was strumming her guitar._  
+__stub__ _v tr_ /stʌb/ __2__ To strike (one’s toe or foot) against something accidentally.  
 __stump__ _n_ :es: muñón  
 __subsumed__ _v_  
 __subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
@@ -853,6 +870,7 @@ __tangible__ _adj_
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
+__telltale__ _adj_ _Telltale signs._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __terraform__ _v_  
 __terrazzo__  
@@ -985,6 +1003,7 @@ __wont__ _n_
 __woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
 __woodwind player__  
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
+__wordsmith__ _n_  
 __workaday__ _adj_  
 __workload__ _n_  
 __worthwhile__  
