@@ -9635,9 +9635,9 @@ __keysmash<sup>2</sup>__ _v_
 __keystone__ _n_ :es: piedra angular  
 __keystroke__ _n_ :two::hammer: (keystrokes)  
 __khakis__ _n_ :three::hammer:  
-__kibble__ _n_  
-__kibbutz__  
-__kibitz__ _v_  
+__kibble__ _n_ :three::hammer:  
+__kibbutz__ _n_ :two::hammer:  
+__kibitz__ _v intr_ :two::hammer: _Everyone’s kibitzing happily._  
 __kick board__ _n_ (swimming) :camera:  
 __kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _slang_ To die.  
 __kick sand in the air__  
@@ -9651,7 +9651,8 @@ __kicks__ _n_ Pleasures, thrills.
 __kid around__ _phr v_ To have fun by acting in a silly way.  
 __kid<sup>1</sup>__ _n_ :two::astonished: __1a__ A young goat. _Roasted kid._ __b__ One of the young of certain similar animals. __3__ _Informal_ __a__ A child. __b__ A young person. _I was a Nintendo kid._  
 __kid<sup>2</sup>__ _v_  
-__kiddo__ _n_ :three::hammer: _Bring the kiddos._  
+__kiddie__ _n_ _A kiddie soccer game,_  
+__kiddo__ _n_ :four::hammer: _Bring the kiddos._  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
 __kike__ _n_ _Offensive slang_ Used as a disparaging term for a Jew. _Kike names._  
 __kiki__  
@@ -9661,7 +9662,7 @@ __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer application__ _n_ (killer app) A highly innovative, very powerful, or extremely useful computer application; esp one sufficiently important as to justify purchase of the equipment or software.  
 __killer bees__  
-__killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
+__killing field__ _n_ :three: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
 __killjoy__ _n_ :two: One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kiln__ _n_ :two: A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kin__  
@@ -9669,15 +9670,14 @@ __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduc
 __kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
 __kinderpunsch__ _n_  
 __kindle__ _v_ _To kindle a fire._  
-__kindling__ _n_ :two: Material for starting a fire, such as dry wood, straw, etc.  
+__kindling__ _n_ :three: Material for starting a fire, such as dry wood, straw, etc.  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
-__kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._  
-__kink__ _n_ :five::hammer (kinks) _I was getting the kinks out._ _Let them work out the kinks._  
-__kink<sup>1</sup>__ _n_ :six: (kinks) __1__ A sharp twist or bend in a wire, rope, hair, etc, esp one caused when it is pulled tight. __6__ _US_ A clever or unusual idea.  
+__kingpin__ _n_ :two: /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._ __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__kink<sup>1</sup>__ _n_ :nine::m: (kinks) __1__ A sharp twist or bend in a wire, rope, hair, etc, esp one caused when it is pulled tight. _I was getting the kinks out._ __6__ _US_ A clever or unusual idea. _Let them work out the kinks._  
 __kink<sup>2</sup>__ _v_ :two: (kinked) To form or cause to form a kink or kinks. _Kinked catheters._  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __kinsfolk__ _n pl_ One’s family or relatives.  
@@ -10080,7 +10080,7 @@ __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no lever
 __leverage<sup>2</sup>__ _v tr_ :nine: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
+__levity__ _n_ :dart::four: __1__ Humor, merriment, or a lack of seriousness, especially when inappropriate: _a subject that should not be treated with levity._ _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :six::hammer: (levying) _The levy of taxes on clerical income._  
 __levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
@@ -10493,8 +10493,9 @@ __Mace<sup>1</sup>__ _n_ _A can of Mace._
 __Mace<sup>2</sup>__ _v_  
 __macedoine__ _n_  
 __macerate__ _v_ To make soft, usually by steeping in liquid, and cause to disintegrate as a result. _Syn_ soften _The stale bread was left to macerate in a bowl of milk for a few hours._  
-__MacGyver__ _v tr_ _slang_ :two: /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand. To make, form, or repair (something) with what is conveniently on hand.  
+__MacGyver__ _v tr_ _slang_ :three::mega: /məˈɡaɪvər/ /muh-GUY-vur/ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand. To make, form, or repair (something) with what is conveniently on hand.  
 __Mach number__ _n_ :pencil2:  
+__Machiavelli__  
 __Machiavellian__ _adj_ :pencil2:  
 __machinate__ _v_  
 __machination__ _n_  
@@ -10526,7 +10527,7 @@ __maggot__ _n_ :dart::camera::three::hammer: (maggots)
 __Magic Marker__  
 __magical thinking__ _n_  
 __Magna Carta__  
-__magnanimous__ _adj_ :three: /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge. _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
+__magnanimous__ _adj_ :four: /mag-NAN-uh-mus/ Magnanimous is a formal word that means “having or showing a generous and kind nature.” Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge. _Syn_ greathearted _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._  
 __magniloquent__ _adj_ /mag-NIL-uh-kwunt/ Magniloquent describes language that is intended to sound very impressive and important, or a person who uses such language.  
 __magnolia__ _n_ [:scroll: New Latin Magnolia, genus name, after Pierre Magnol (1638-1715), French botanist]  
 __magnum opus__ _n_ :two: __1__ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._ __2__ The greatest single work of an artist, writer, or composer.  
@@ -10551,6 +10552,7 @@ __mainstream__
 __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
 __majestic__ _adj_  
 __majolica__ _n_ :three::hammer: _A beautiful majolica pavement._  
+__major key__  
 __major-domo__ _n_ (majordomo)  
 __major<sup>1</sup>__ _adj_ _Major concerns._  
 __major<sup>2</sup>__ _v_  
@@ -10584,6 +10586,7 @@ __malice__ _n_ :two: __1__ Feeling a need to see others suffer. _Syn_ spite __2_
 __malign<sup>1</sup>__ _v_ (maligned)  
 __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
 __malignancy__ _n_ (malignancies)  
+__malignant__ _adj_  
 __malinger__ _v intr_ /məˈlɪŋɡə/ To pretend or exaggerate illness, esp to avoid work.  
 __malingerer__ _n_  
 __mallards__ _n_ :two::hammer:  
@@ -10618,7 +10621,7 @@ __Mandan man__
 __mandarin__ _n_ (fruit)  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
-__Mandela effect__ _n_ A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
+__Mandela effect__ _n_ :two: The phenomenon of a large number of persons independently sharing the same false memory. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
 __mandrake__ _n_ :es: mandrágora  
 __Mandy__ _n_ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion’s mane._  
@@ -10650,6 +10653,7 @@ __mano a mano<sup>2</sup>__ _adj_ :two: Being or suggestive of a face-to-face en
 __mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _n_ :two::hammer: _A medieval manor house._  
+__manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_ :two::hammer:  
 __manta__ _n_  
 __mantel piece__ _n_ :three::hammer:  
@@ -10774,7 +10778,7 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __mauve__ _n_  
 __maven__ _n_ :four: A person who has special knowledge or experience; an expert.  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
-__maw__ _n_ :four::hammer:  
+__maw__ _n_ :five::hammer:  
 __mawkish__ _adj_ :four: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
@@ -10825,6 +10829,7 @@ __medial__ _adj_ Relating to, situated in, or extending toward the middle; media
 __medic__ _n informal_ :two: A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __medical school syndrome__ _n_  
+__medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __mediocre__  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
 __medlar__ _n_ :es: níspero  
@@ -10838,10 +10843,12 @@ __meekness__ _n_ :three::hammer:
 __meerkats__ _n_  
 __meet up__  
 __meet__ _n_ :four::hammer: _I started going to international meets._  
+__meet-cute__ _n_ /MEET-kyoot/  
 __meetup__ _n_ (meet-up) A word for “meeting.” _Our monthly meetup._  
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
 __megalomaniac__ _n_ :three: Someone who enjoys power over other people and always wants more of it.  
-__megalomanic__ _adj_ Suffering from megalomania.  
+__megalomanic__ _adj_ :two: Suffering from megalomania.  
+__megaphone__ _n_ :mega:  
 __megastore__ _n_ :mega:  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __megrim__ _n_ A severe recurring vascular headache; occurs more frequently in women than men. _Syn_ hemicrania, migraine, sick headache _Her megrims were severe, and she often had to miss work because of the terrible pain._  
@@ -10850,16 +10857,18 @@ __meiosis__ _n_ As a rhetorical device, meiosis means using euphemism to minimiz
 __melancholia__ _n_ /mel-un-KOH-lee-uh/  
 __melancholy<sup>1</sup>__ _n_  
 __melancholy<sup>2</sup>__ _adj_ :three::astonished::hammer: _A melancholy man._  
-__mélange__ _n_  
+__melange__ _n_ :two: (mélange) A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __meld<sup>1</sup>__ _v_ :two: /MELD/ __1__ To blend or merge. To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._ __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
 __melee__ _n_  
-__mellifluous__ _adj_ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
+__mellifluous__ _adj_ :two: /muh-LIFF-luh-wus/ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
+__mellow__  
 __mellow<sup>1</sup>__ _adj_ :four::hammer: _Mellow flavor._ _A mellow vibe._  
 __mellow<sup>2</sup>__ _v_ :four: To make or become mellow; soften; mature.  
+__melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
 __melodrama__ _n_  
 __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
-__meltdown__ _n_ :six: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
+__meltdown__ _n_ :seven: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :four::hammer: (mementos, mementoes) _Removing mementos from a national park is illegal._  

@@ -293,32 +293,6 @@ __juvenilize__
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __keenly__  
 __kerf__ _n_  
-__kibble__ _n_ :two::hammer:  
-__kibbutz__ _n_  
-__kibitz__ _v intr_ _Everyone’s kibitzing happily._  
-__kiddie__ _n_ _A kiddie soccer game,_  
-__kiddo__  
-__killing field__ _n_  
-__kindling__ _n_  
-__kingpin__ _n_ /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
-__levity__ _n_ __1__ Humor, merriment, or a lack of seriousness, especially when inappropriate: _a subject that should not be treated with levity._  
-__MacGyver__ _n_ :mega: /məˈɡaɪvər/ /muh-GUY-vur/  
-__Machiavelli__  
-__magnanimous__ _adj_ Courageously noble in mind and heart. _Syn_ greathearted  
-__major key__  
-__malignant__ _adj_  
-__Mandela effect__ _n_ The phenomenon of a large number of persons independently sharing the same false memory.  
-__manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
-__maw__ _n_  
-__medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
-__meet-cute__ _n_ /MEET-kyoot/  
-__megalomanic__  
-__megaphone__ _n_ :mega:  
-__melange__ _n_ A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
-__mellifluous__ _adj_ /muh-LIFF-luh-wus/  
-__mellow__  
-__melodica__ _n_ /mɪˈlɒdɪkə/ Awind instrument with a small keyboard and a mouthpiece.  
-__meltdown__  
 __menage__ _n_ A domestic establishment. _Syn_ household  
 __menagerie__ _n_ :astonished:  
 __menorah__ _n_  
