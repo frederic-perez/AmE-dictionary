@@ -239,32 +239,6 @@ __rule out__
 __rumor has it (that)__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
-__run amok__ :two::hammer:  
-__run down__  
-__run for (one’s) money__  
-__run thin__  
-__run wild__  
-__run-of-the-mill__  
-__same here__ It’s the same with me; I agree; me too. _A: “I don’t want to lose you because of that.” B: “Same here.”_  
-__sapphic__ _adj_ A code-word to describe female homosexuality.  
-__save (something) for a rainy day__  
-__save face__  
-__save the day__  
-__saved by the bell__  
-__scads__ :two: _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _Scads of scotch._  
-__scatterbrain__ :two: Someone who is very forgetful, unfocused, or disorganized. _Sorry for forgetting about your recital. I’ve been such a scatterbrain, lately!_  
-__schlock__ _He was running a schlock operation._  
-__schmaltz__  
-__schmuck__  
-__schnook__  
-__second best__  
-__second nature__  
-__secret sauce__  
-__secret weapon__  
-__seize the opportunity (to do something)__  
-__separate wheat from chaff__  
-__set eyes on (someone or something)__ :two::hammer:  
-__set the record straight__ To make the true facts of something clear, especially when they have been previously mistaken, misunderstood, or misrepresented. _There have been a lot of crazy rumors flying around for the last few days, so I’d like to set the record straight once and for all._  
 __sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
 __sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
 __sexual tension__  
