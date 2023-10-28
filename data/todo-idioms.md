@@ -81,32 +81,6 @@ __en route__
 __every so often__  
 __eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
-__fall short__ :two: To fail to meet or reach some goal, standard, expectation, etc.  
-__flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
-__for days on end__  
-__for the life of me__  
-__front and center__  
-__funny bone__ (crazy bone) A spot near the elbow bone that is very sensitive to the touch. _Ouch, I hit my funny bone._ _Effie bumped her crazy bone and made a horrendous face._  
-__gag order__ A court order prohibiting those involved in a case from public reporting of or commentary on its details. _Unfortunately, due to a gag order, we can’t provide any new information to the press about the trial until it is finished._  
-__game over__ __2__ By extension, a phrase used to describe a situation that has failed or is likely to fail. _When she finds out you cheated on her, it’ll be game over, dude._  
-__gargle__ _I lit a cigarette and gargled Old Crow._  
-__gelt__ /gɛlt/ _n slang_ Money.  
-__get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
-__get ahead of oneself__  
-__get done__  
-__get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
-__give or take__  
-__go between__ One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
-__go into a nosedive__  
-__go the distance__  
-__gone jacket__ _A gone jacket._  
-__gonzo__ _Gonzo journalism._  
-__goo-goo eyes__ A visibly smitten or enamored facial expression, as of one who is romantically interested in someone else. _Well, if you keep staring at her with goo-goo eyes, she’ll know you like her sooner than later!_  
-__goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
-__goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
-__goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
-__goofball__  
-__goon__  
 __grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
 __grasshopper__ _slang_ Someone who frequently smokes marijuana.  
 __grínd one’s teeth__  

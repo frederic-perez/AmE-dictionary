@@ -1401,7 +1401,7 @@ __fall off the wagon__ :two::hammer:
 __fall on one’s face__  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short of__  
-__fall short__ :nine::m: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ To fail to meet or reach some goal, standard, expectation, etc. _The company usually makes very high-quality devices, but their latest model falls quite short, unfortunately._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
+__fall short__ :nine::m: __1__ To fail to meet or reach some goal, standard, expectation, etc. To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ To fail to meet or reach some goal, standard, expectation, etc. _The company usually makes very high-quality devices, but their latest model falls quite short, unfortunately._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
 __fall through the cracks__ :two::hammer:  
 __fall through__ :dart: To not be completed or come to fruition; to fail due to some outside circumstances. _Oh, we’re not going away next week after all—our vacation plans fell through._  
 __fall wide of the mark__ _Ted Lasso’s British dialog falls wide of the mark._  
@@ -1484,6 +1484,7 @@ __flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and
 __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __flat out__  
 __flat-earther__  
+__flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __flesh out__ :two::hammer:  
 __flick off__ :dart: _He flicked off the light._  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
@@ -1519,7 +1520,7 @@ __for all intends and purposes__ :three::hammer:
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for better or (for) worse__ :seven::hammer:  
 __for crying out loud__ :four: A expression of frustration or surprise.  
-__for days on end__ :four: (for hours on end, for years on end) For a long time, specifically many days.  
+__for days on end__ :five: (for hours on end, for years on end) For a long time, specifically many days.  
 __for good reason__  
 __for good__ :three::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
 __for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
@@ -1533,6 +1534,7 @@ __for that matter__ :two::hammer:
 __for the ages__ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the birds__  
+__for the life of me__  
 __for the long haul__  
 __for the most part__ :four::hammer:  
 __for the ride__ For pleasure or interest, rather than any serious purpose. _Women are now the primary force behind an explosion in new cocktail concoctions, and men are simply going along for the ride, say bartenders and liquor marketing executives._  
@@ -1576,7 +1578,7 @@ __from the get-go__
 __from the ground up__ :two: [:scroll: This expression alludes to the construction of a house, which begins with the foundation.] From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ _Written from the ground up._  
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __from time to time__  
-__front and center__ :six::hammer:  
+__front and center__ :seven::hammer:  
 __frost the cake__  
 __fruit loop__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _Tolle might be a fruitcake._  
@@ -1592,30 +1594,34 @@ __full package__
 __full stop__ :three::hammer:  
 __fun and games__  
 __funky__ :two::hammer: _With that mix, things get funky._  
+__funny bone__ (crazy bone) A spot near the elbow bone that is very sensitive to the touch. _Ouch, I hit my funny bone._ _Effie bumped her crazy bone and made a horrendous face._  
 __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
 __funny feeling__ :two: An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances. _I have a funny feeling that this meeting isn’t going to end in our favor._  
 __furball__ __1__ An animal, usually a pet. _I can’t wait to get home—I hate to be away from my furballs for long!_  
 __gag me with a spoon__ An expression of disgust or annoyance.  
+__gag order__ A court order prohibiting those involved in a case from public reporting of or commentary on its details. _Unfortunately, due to a gag order, we can’t provide any new information to the press about the trial until it is finished._  
 __gaga__  
 __game changer__ :three::hammer:  
 __game of chicken__  
+__game over__ __2__ By extension, a phrase used to describe a situation that has failed or is likely to fail. _When she finds out you cheated on her, it’ll be game over, dude._  
 __game plan__ :two::hammer:  
 __game-changer__ :five::hammer:  
 __gangbusters__ __1__ Successful. _Oh, presenting the case to the students was gangbusters—they got totally engrossed in trying to the solve the mystery._ __2__ A wild, busy, and successful event. (See also _like gangbusters_.) _Our party was truly gangbusters, for sure._  
 __garbage in, garbage out__  
-__gargle__ __1__ _v slang_ To drink alcohol. _We gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
+__gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
 __gas__ _v_ :two::hammer: _We’re here to gas on the show._  
 __gaslight__ :nine: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __gear up__ _The same groundhog festival is gearing up again and again._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
+__gelt__ /gɛlt/ _n slang_ Money.  
 __gender fluid__ Not strictly identifying as one distinct gender, perhaps identifying as a different gender at different times, or identifying as more than one gender at once. _My sex is male, but I’m gender fluid, and I feel more feminine than masculine some days._  
 __generally speaking__ Used to say that a statement describes a general feeling or opinion relating to or affecting all the people or things in a group. _Generally speaking, people like her as a leader._  
 __gentleman’s agreement__ :two: A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved. _Though my father left me his entire estate in his will, I made a gentleman’s agreement with my brother to share the wealth equally between us._  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
 __get (one’s) act together__ :two::hammer:  
 __get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
-__get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears.  
+__get (one’s) ears lowered__ :two: To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
 __get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __get (one’s) shit together__ :two::hammer:  
@@ -1632,7 +1638,7 @@ __get a hold on/of (oneself)__
 __get a jump on (someone or something)__  
 __get a kick out of (someone or something)__ :eight: To get a sense of enjoyment, amusement, or excitement from someone or something. _Even as an adult, I still get a kick out of building sandcastles at the beach._ _You’ll get a kick out of this!_  
 __get a toehold__  
-__get ahead of (oneself)__ :three: To plan or become overly excited for a possible future event.  
+__get ahead of (oneself)__ :four: To plan or become overly excited for a possible future event.  
 __get along with__ To have a good relationship with someone.  
 __get around it__ _There is just no getting around it._  
 __get around to__ :dart: (get round to) Find the time or occasion for, as in _Dean never gets around to cleaning up the garage._ _Dreams and goals I might get around to at some time._  
@@ -1641,6 +1647,7 @@ __get back on one’s word__ To break one’s promise.
 __get bogged down__ To become burdened or impeded (by something). (A bog is an area of wet, muddy land that is difficult to walk through.)  
 __get bombed__ _slang_ To get very drunk. _After the long week I had, all I want to do is go to the bar and get bombed._  
 __get by__  
+__get done__  
 __get down to (doing) something__ _Get down to business._  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get going__  
@@ -1650,6 +1657,7 @@ __get in touch (with one)__ To initiate or establish contact or communication wi
 __get in your face__ _We might get in your face but we can also charm you out of your socks._  
 __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get in(to) hot water__ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
+__get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
 __get it off my chest__  
 __get knocked out cold__ To be rendered unconscious, as by a physical blow, medication, or other means. _I had a shot at a championship boxing title, but I got knocked out cold in the semi-finals._ _I hope I don’t get knocked out cold by this painkiller the doctor gave me._  
 __get lucky__  
@@ -1728,7 +1736,7 @@ __give in__ :two::hammer: _Give in to our fears._
 __give it a go__  
 __give it a shot__  
 __give notice__  
-__give or take__ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
+__give or take__ :two: Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ To speak angrily to someone because they have done something wrong.  
 __give someone an inch__  
 __give someone some lip__ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
@@ -1759,6 +1767,7 @@ __go back to square one__ To start from the beginning.
 __go ballistic__ :two::hammer:  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
 __go berserk__ :three::hammer:  
+__go between__ One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
 __go cold turkey__  
 __go commando__  
 __go down in/make history__  
@@ -1777,6 +1786,7 @@ __go halfsies__ _slang_ To share something, especially the cost of something, in
 __go hand in hand__ :two::hammer:  
 __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
 __go head to head__  
+__go into a nosedive__  
 __go into the weeds__ :dart: To become totally immersed in or preoccupied with the minute details or complexities (of something). _Before we go into the weeds, let’s give a brief overview for any of our listeners who aren’t familiar with the issue._  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go off in a huff__ :two: To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
@@ -1801,7 +1811,7 @@ __go south__ :nine: __1__ To escape; to vanish or disappear. _Everyone in the ga
 __go steady (with someone)__ To date someone exclusively. _Don’t ask Jill out—she’s already going steady with Bobby._ _Are those two really going steady?_  
 __go stir-crazy__ :two: To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison. _The doctor said I need to remain in bed as much as possible, but I’ll go stir-crazy if I can’t get out of the house at least once a day!_  
 __go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
-__go the distance__ :dart::five: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
+__go the distance__ :dart::six: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go the extra mile__  
 __go the way of the dinosaur(s)__ :two: To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
@@ -1845,6 +1855,9 @@ __golden ticket__ A person, thing, quality, ability, or accomplishment that prov
 __golden years__ The years following one’s retirement (generally after the age of 65).  
 __golf widow__ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __gomer__  
+__gone jacket__ _A gone jacket._  
+__gonzo__ _Gonzo journalism._  
+__goo-goo eyes__ A visibly smitten or enamored facial expression, as of one who is romantically interested in someone else. _Well, if you keep staring at her with goo-goo eyes, she’ll know you like her sooner than later!_  
 __good books__ :two: Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof.  
 __good call__ :dart::three: A good decision or idea. The phrase does not have to be preceded by an article. _Hey, good call—I think the blue tie will bring out my eyes more, just like you said._ _Ordering this dish was definitely a good call—it’s delicious!_  
 __good enough for jazz__ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
@@ -1863,13 +1876,15 @@ __good omen__ :two: A sign, either real or imagined, of good fortune or a propit
 __good riddance__ :three: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
 __good-natured__ :three: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
-__goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
+__goodbye, cruel world__ :two: _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
+__goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
-__goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
+__goodness me__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness me, look at the time! How is it nearly midnight already?_  
 __goody two-shoes__ _informal_  
 __goof up__ :two::hammer:  
 __goof__  
-__goon__ _n_ :three::hammer:  
+__goofball__  
+__goon__ _n_ :four::hammer:  
 __got them covered__  
 __grab a bite__  
 __grab and go__  
