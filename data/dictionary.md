@@ -13158,14 +13158,15 @@ __plague<sup>2</sup__ _v_
 __plaid__ _n_ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plaint__ _n_ A cry of sorrow and grief. _Syn_ lament, lamentation, wail _The plaints of the bereaved widow and her young children haunt me in my sleep._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
-__plaintive__ _adj_ :five: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
+__plaintive__ _adj_ :seven: /PLAYN-tiv/ Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
 __plaintively__ _adv_ :three:  
 __plaiting__ _n_ _Tshanyi earns money plaiting hair._  
 __plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B into action._  
 __Plan B__ _n_ A brand name of levonorgestrel, an emergency contraception drug.  
+__planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
 __plane tree__ _n_ :two: Any of several trees of the genus _Platanus_, having ball-shaped fruit clusters and, usually, outer bark that flakes off in patches. _It was a place full of plane trees._  
 __plangent__  
-__plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
+__plank__ _n_ :three::hammer: _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
 __plankton__ _n_  
 __plano__ _adj_ Having a flat surface. A corrective lens with a power of zero is called a _plano lens_. These lenses are used when one or both eyes do not require correction of a refractive error. Some people with good natural eyesight like to wear eyeglasses as a style accessory, or want to change the appearance of their eyes using novelty contact lenses. _Plano sunglasses._  
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
@@ -13176,7 +13177,7 @@ __plaque__ _n_ _Plaque in arteries._
 __plashed__ _v_  
 __plasmapheresis__ _n_  
 __plaster<sup>1</sup>__ _n_ :two: (plasters) __4__ (Chiefly British) An adhesive bandage. _Salves, poultices, and plasters._  
-__plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
+__plaster<sup>2</sup>__ _v_ :four::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
 __plat__ _v tr_ (platted)  
@@ -13202,6 +13203,7 @@ __play it safe__ _v_ :five::hammer: (play safe) _They choose to play it safe._
 __play second fiddle__  
 __play short__  
 __play tricks on someone__  
+__play-off__ _n_ :pencil2:  
 __playbook__ _n_ :six::hammer: _The industry’s playbook._  
 __playful__ _adj_ _A playful aside._  
 __playmaker__ _n_ :two: A player who leads the offense for a team (as in basketball or hockey).  
@@ -13235,9 +13237,10 @@ __plies__ _v_
 __plight<sup>1</sup>__ _n_ :seven: __1__ An unfortunate situation. __2__ A pledge. __3__ A fold, wrinkle, braid, etc. Also called plait or pleat.  
 __plight<sup>2</sup>__ _v_ __1__ To become engaged to marry. __2__ To promise. __3__ To fold, wrinkle, braid, etc.  
 __plinian__ _adj_  
+__plinking__  
 __plinth__ _n_ :four::hammer: (plinths)  
-__plod__ _v_ :eight: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
-__plonk__ _v_ (plonked)  
+__plod__ _v_ :nine::m: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
+__plonk__ _v_ :two::hammer: (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :nine: (plopping, plopped, plops) __3__ Fall or cause to fall with a plop. To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._ _The stone plopped into the pond._ _He plopped his hat on._  
 __plot<sup>1/sup>__ _n_ :three::hammer: _A plot of dirt._ _In the same plot of sand._ _Vegetable plot._  
@@ -13261,7 +13264,7 @@ __plummet__ _v_ :seven::hammer: (plummeted, plummeting)
 __plump<sup>1</sup>__ _adj_ _Plump and juicy hotdogs._  
 __plump<sup>2</sup>__ _v_  
 __plums__ _n_ :three::hammer:  
-__plunder__ _v_ :seven::hammer: (plundered)  
+__plunder__ _v_ :eight::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
 __plunked__ _v_  
@@ -13269,7 +13272,10 @@ __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is 
 __plus__ _adj, conj, n_  
 __plush<sup>1</sup>__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plush<sup>2</sup>__ _n_ _A plush booth in the bar._  
+__plushy__ _adj_  
+__Pluto__ _n_  
 __plutocracy__ _n_ Government by the wealthy.  
+__plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
 __ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. _Little shops where craftmen still ply their wares._ __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._ _Yatchs ply between the islands._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
@@ -13278,7 +13284,7 @@ __pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of a
 __po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
-__poacher__ _n_ :five: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
+__poacher__ _n_ :six: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._ _Tracking rhino poachers in Nepal._  
 __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
@@ -13295,20 +13301,21 @@ __podge__ _n informal_ A short chubby person.
 __podiatrist__ _n_  
 __podjo__  
 __podna__ _n_ :two: _slang_ Podna is a very close, or just a friend of yours.  
+__podsnappery__ _n_ (derogatory) Smug self-satisfaction and a lack of interest in the affairs of others. An attitude toward life marked by complacency and a refusal to recognize unpleasant facts.  
 __Podunk town__  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __pogonip__ _n_ A dense winter fog containing ice particles. _Syn_ ice fog  
-__pogrom__ _n_ :dart::six: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
+__pogrom__ _n_ :dart::seven: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
 __poignance__ _n_  
-__poignant__ _adj_ :four: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
+__poignant__ _adj_ :six: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ _n_ :pencil2:  
 __point guard__ _n_  
 __Point is,__  
 __point-and-shoot camera__  
 __point-blank__  
 __pointed questions__  
-__pointless__ _adj_ :three::hammer:  
-__poise__  
+__pointless__ _adj_ :four::hammer:  
+__poise__ _n_ :two::hammer: _Develop poise between body and mind._  
 __poison ivy__ _n_ :es: hiedra venenosa  
 __poke__ _v_  
 __poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
@@ -13330,13 +13337,15 @@ __policymaker__ _n_ :two::hammer: (policy maker)
 __policymaking__ _adj, n_  
 __polio__ _n_  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
-__polish<sup>1</sup>__ _v_  
+__polish<sup>1</sup>__ _v_ :two::hammer: _I polish your writing._  
 __polish<sup>2</sup>__ _n_  
 __polish<sup>3</sup>__ _adj_  
 __politburo__  
+__politicking__ _n_  
 __politico__ _n_ A politician.  
 __poll watcher__ _n_ A person assigned (as by a political party or candidate) to observe activities at a polling place to guard against illegal voting, fraudulent counting of ballots, and other violations of election laws.  
 __pollen__ _n_ :four::astonished::hammer:  
+__polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
 __pollster__ _n_  
 __pollutant__ _n_ :two::hammer:  
 __Pollyanna__ _n_ [:scroll: from the child heroine created by Eleanor Porter (1868–1920), U.S. writer] A person regarded as being foolishly or blindly optimistic.  
@@ -13346,8 +13355,10 @@ __poltroon__ _n_ An abject coward. _Syn_ craven, recreant
 __polyadic__  
 __polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
 __polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
-__polymath__ _n_ :six::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
+__polymath__ _n_ :seven::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
 __polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
+__polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
+__polypus__  
 __polystyrene__  
 __pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
 __pomegranate__ _n_ :three::hammer: /ˈpɒməgrænɪt/ (pomegranates)  
@@ -13360,6 +13371,7 @@ __ponderosa pine__
 __ponderous__ _adj_ :eight::hammer: _He shouldered his ponderous bundle._  
 __pong__ _n_  
 __pontiff__  
+__pontificate__ _v_ /pahn-TIF-uh-kayt/ To pontificate is to speak or express an opinion about something in a pompous or dogmatic way.  
 __pontoon boat__ _n_ :two::hammer: _Pedal a pontoon boat._  
 __pontoon__ _n_ :five::hammer: (pontoons) _The building floated on pontoons._  
 __pony up__ _phr v_ _slang_ :two: To pay (money owed or due).  
@@ -13372,8 +13384,9 @@ __poofy__ _adj_ :pencil2:
 __pooh-bah__ _n_ :dart::two: [:scroll: After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
 __pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  
 __pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
+__pool table__  
 __pool<sup>1</sup>__ _n_ :two::hammer: _Heated pool._  
-__pool<sup>2</sup>__ _v_  
+__pool<sup>2</sup>__ _v_ :two::hammer:  
 __poor-boy__ _n_ _Poor-boy sandwich._  
 __poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __poorly<sup>2</sup>__ _adj_  

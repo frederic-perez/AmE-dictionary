@@ -354,33 +354,6 @@ __pitfall__ _n_
 __pithy__ _adj_ __1__ Precisely meaningful; forceful and brief: _a pithy comment._  
 __pizzicato__  
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
-__plaintive__ _adj_ :two: /PLAYN-tiv/ Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering.  
-__planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
-__plank__ _n_ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
-__plaster__ _v_  
-__play-off__ _n_ :pencil2:  
-__plinking__  
-__plod__ _v_ :two::hammer:  
-__plonked__ _v_  
-__plundered__ _v_  
-__plushy__ _adj_  
-__Pluto__ _n_  
-__plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
-__poacher__ _n_ _Tracking rhino poachers in Nepal._  
-__podsnappery__ _n_ (derogatory) Smug self-satisfaction and a lack of interest in the affairs of others. An attitude toward life marked by complacency and a refusal to recognize unpleasant facts.  
-__pogroms__ _n_  
-__poignant__ _adj_ :two::hammer:  
-__pointless__  
-__poise__ _v_ _Develop poise between body and mind._  
-__polish__ _v_ _I polish your writing._  
-__politicking__ _n_  
-__polliwog__ _n_ A larval frog or toad. _Syn_ tadpole  
-__polymath__  
-__polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
-__polypus__  
-__pontificate__ _v_ /pahn-TIF-uh-kayt/ To pontificate is to speak or express an opinion about something in a pompous or dogmatic way.  
-__pool table__  
-__pool__ _v_  
 __porky__  
 __portend__ _v_  
 __portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
