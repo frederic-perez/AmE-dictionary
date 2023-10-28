@@ -10,25 +10,33 @@ __(someone’s or something’s) days are numbered__
 __a different kettle of fish__  
 __a kind of (something)__ A replacement or alternative to (the real thing).  
 __a lifeline__ :dart: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
+__a shooting spree__ A series of firearm attacks on multiple people committed consecutively or in a relatively short period of time, usually by a single person.  
 __all ears__  
 __all-out__ Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
+__and so forth__ And or along with other such similar things; and all the rest; and so on; et cetera. _I like outdoor activities like running, hiking, cycling, and so forth._  
 __another nail in the coffin__  
+__at the end of the day__  
 __bbg__  
 __be here to stay__  
+__be left to (one’s) own devices__  
+__be no stranger to (something)__ To be thoroughly experienced in or knowledgeable about something or someone. _Don’t worry, I’m no stranger to spicy food._  
 __be on (one’s) soapbox__  
 __bits and pieces__  
 __bleeding heart__  
 __bop__  
+__bounce back__ :dart: __2__ Of a person, to recover from a setback. _The doctors expect her to bounce back and make a full recovery._  
 __break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __bundle up__  
 __C-note__  
 __call someone names__  
 __canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
+__case in point__ An example that demonstrates a point being made as truthful or correct.  
 __chances are__  
 __cherry on top__  
 __chime in__  
+__come to an end__  
 __connect the dots__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
@@ -47,6 +55,7 @@ __do (oneself) a favor__ To do something that helps or betters oneself. _Do your
 __do a U-turn__  
 __do nicely__  
 __do or die__  
+__do the rounds__  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dog eat dog__  
 __doggone it__  
@@ -70,9 +79,11 @@ __easy peasy__
 __eat it up__  
 __en route__  
 __every so often__  
+__eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
-__fall short__ To fail to meet or reach some goal, standard, expectation, etc.  
+__fall short__ :two: To fail to meet or reach some goal, standard, expectation, etc.  
 __flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
+__for days on end__  
 __for the life of me__  
 __front and center__  
 __funny bone__ (crazy bone) A spot near the elbow bone that is very sensitive to the touch. _Ouch, I hit my funny bone._ _Effie bumped her crazy bone and made a horrendous face._  
@@ -84,6 +95,7 @@ __get (one’s) ears lowered__ To get a haircut, especially to a length that rev
 __get ahead of oneself__  
 __get done__  
 __get into (someone or something)__ __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
+__give or take__  
 __go between__ One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
 __go into a nosedive__  
 __go the distance__  
@@ -195,12 +207,14 @@ __mug__ _Getting your mug on TV._
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
+__not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
 __on a side note__  
 __on probation__  
 __on the brink of (something)__  
+__on the run__  
 __once and for all__  
 __one and done__  
 __one on one__  
@@ -225,6 +239,7 @@ __put a spoke in (one’s) wheel__
 __put an end to (something)__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
 __put on a clinic__  
+__put on the brakes__ To slow down, impede, or stop one’s activity or progress.  
 __put out fires__  
 __put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._  
 __put the skids to__  
@@ -322,10 +337,11 @@ __snout trout__ A smell similar to fish left on the end of your nose after going
 __so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
-__so-and-so__  
+__so-and-so__ :two::hammer:  
 __soldier of fortune__  
 __soldier on__ :two: To continue doing something with determination or resolve, despite difficulties or an unlikely chance of succeeding.  
 __sooner rather than later__ :dart:  
+__soul searching__  
 __sound the alarm__  
 __spaced (out)__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
@@ -335,6 +351,7 @@ __spill the tea__ :two: _slang_ To share or reveal gossip. “Tea” is a slang 
 __spin up__  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
 __spot on__  
+__spread the word__  
 __spruce up__ :dart:  
 __spunky__  
 __square off__ To fight, argue, or begin a conflict or competition. _The two fighters will be squaring off tomorrow at 9 PM._  
@@ -356,6 +373,7 @@ __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, vari
 __take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
+__take (something) with a grain of salt__  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
@@ -385,6 +403,7 @@ __that been said__
 __that’s a given__  
 __that’s a wrap__ :dart: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __the (hand)writing is on the wall__  
+__the (hand)writing on the wall__ :dart:  
 __the devil is in the detail(s)__  
 __the die was cast__ (the dice were cast)  
 __the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
