@@ -12462,12 +12462,13 @@ __pamphlet__ _n_
 __pampling__  
 __pan out__ _v_ :four::hammer:  
 __pan__ _v_ :two::hammer: _Obama pans republicans._ _Try your hand at milking a cow, panning for gold or spinning wool._  
-__panacea__ _n_ :five: /pan-uh-SEE-uh/ (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _Syn_ cure-all _The new program should help with the city’s housing crisis, but it’s no panacea._  
+__panacea__ _n_ :seven: /pan-uh-SEE-uh/ (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _Syn_ cure-all _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__ _n_ :nine::m: /puh-NAHSH/ [:scroll: Originally, the word referred to an ornamental tuft or plume of feathers, and especially one affixed to a helmet.] The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. When we say that someone has panache, we are saying that they have energy, spirit, and style. Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._ _Ever the showman, he not only caught the ball, he made a diving catch and caught it with panache._ _With great panache._ __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pancetta__ _n_ Italian bacon that has been cured in salt and spices and then air-dried.  
-__pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
+__pander__ _v_ :nine::m: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_ :two: /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
+__Pandora__ _n_ :mega:  
 __panelist__ _n_  
 __pang__ _n_ :five::hammer: (pangs) _A pang of loneliness._  
 __Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
@@ -12479,7 +12480,7 @@ __panjandrum__ _n_ An important or influential (and often overbearing) person. _
 __panko__ _n_  
 __panna cotta__ _n_  
 __panned out__  
-__panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
+__panoply__ _n_ :five: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panorama__ _n_ :two: An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
 __pansexual__  
 __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
@@ -12508,8 +12509,7 @@ __papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, 
 __papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false; illusory. __2__ Made of papier-mache.  
 __pappy__  
 __paprika__ _n_  
-__papule__ _n_  
-__papules__ _n pl_ Firm bumps on the skin.  
+__papules__ _n pl_ :three: Firm bumps on the skin.  
 __parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on moral attitude, a standard of conduct, or a religious principle. _The priest opened his homily by relating the parable of the Good Samaritan from the Gospel of Luke._  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
@@ -12520,7 +12520,7 @@ __paradoxical__ _adj_ :three::hammer:
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
-__paragon__ _n_ :seven: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
+__paragon__ _n_ :eight: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __parakeet__ _n_ :mega: :es: periquito  
 __parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
 __Paralympic Games__  
@@ -12528,7 +12528,7 @@ __paralysis__ _n_ :two::hammer::mega: /pəˈræl ə sɪs/
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __parameter__ _n_ :mega:  
 __paramount__ _adj_ :three::hammer: _The reliability of the weather station is paramount._ _It is of paramount importance._  
-__paramour__ _n_  
+__paramour__ _n_ :two::hammer:  
 __paranoid__ _adj_  
 __parapet wall__ _n_ That part of a wall which is entirely above the roof.  
 __parapet__ _n_ :two::hammer:  
@@ -12536,14 +12536,16 @@ __paraph__ _n_ A flourish made after or below a signature, originally to prevent
 __paraphernalia__ _n_ :six::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
+__parapraxis__ _n_  
 __paraprosdokian__  
 __parasailing__  
 __paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
 __parasternal__ _adj_ Adjacent to the sternum.  
+__parasympathetic__  
 __paratransit__ _adj_ _Paratransit services._  
 __paratrooper__ _n_  
 __parcel<sup>1</sup>__ _n_ :nine::m: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ _Open up that parcel of books._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
-__parcel<sup>2</sup>__ _v_ :two::hammer:  
+__parcel<sup>2</sup>__ _v tr_ :three::hammer:  
 __parched__ _adj_ :six: /pärcht/ __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ _Quench your parched throat with a long tall cool Yard of Beer._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
 __parchment paper__ _n_ :camera:  
@@ -12554,7 +12556,7 @@ __pare__ _v_ :three::hammer: (pares, pared)
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
 __paresthesia__ _n_  
-__pariah__ _n_ :six: A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
+__pariah__ _n_ :seven: A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
 __parietal__ _adj_ _The parietal portion of the skull._  
 __paring knife__ _n_  
 __paring__ _n_ :two: Something, such as a skin or peel, that has been pared off. _Syn_ shaving, sliver _We do not mourn over the parings of our nails nor the cut locks of our hair, though they were once part of ourselves._  
@@ -12562,26 +12564,27 @@ __parishioner__ _n_ :two::hammer:
 __parity__ _n_ :astonished: __1__ The condition of having given birth. __2__ The number of children borne by one woman.  
 __parkade__ _n_ _Canadian_ A building used as a car park.  
 __parkour__  
-__parlance__ _n_  
-__parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
+__parlance__ _n_ :two::hammer:  
+__parlay__ _v_ :six: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
 __parley<sup>1</sup__ _n_ :five::hammer: _A peace parley._  
 __parley<sup>2</sup__ _v_ :two::hammer: _The Prince’s chief knights came under safe-conduct to parley in person._  
 __parliament__ _n_ :pencil2::two::hammer:  
-__parlor__  
-__parochial__ _adj_ :four::hammer:  
+__parlor__ _n_ :two: __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
+__parochial__ _adj_ :six: Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __parody__ _n_ Parody is an imitation of something with the intent to poke fun at it. Example: If Edgar Allen Poe had written this speech, it might have opened with “Here we are, weak and weary, gathered on a Monday dreary.”  
 __parolee__ _n_  
+__paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
 __paroxysm__ _n_ :four: A sudden uncontrollable attack. _Syn_ convulsion, fit  
 __paroxysmal__ _adj_ :two: Sudden and uncontrolled.  
 __parried__ _v_  
 __parrot nose pliers__ _n_ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
-__parry__ _v_ :dart::five: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer. To deflect, evade, or avoid. _Syn_ hedge, sidestep, skirt, circumvent, dodge, elude, duck _He parried every inquiry so successfully that soon he was the one asking the questions._ _We didn’t have to parry questions._  
+__parry__ _v_ :dart::six: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer. To deflect, evade, or avoid. _Syn_ hedge, sidestep, skirt, circumvent, dodge, elude, duck _He parried every inquiry so successfully that soon he was the one asking the questions._ _We didn’t have to parry questions._  
 __parse__ _v_  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
-__parsimony__ _n_ :three::hammer:  
+__parsimony__ _n_ :four::hammer:  
 __parsley__ _n_ :two::hammer: :es: perejil  
 __parsnip__ _n_ :four::hammer: :es: chirivía  
 __parson__ _n_ __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
@@ -12633,6 +12636,7 @@ __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.
 __pate__ _n_ :five::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._ _His bald pate._  
 __patent leather__ _n_ :two::astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
 __patently__ _adv_ :two: Obviously. _Patently absurd._ _This is patently false._  
+__paterfamilias__ _n_ :astonished: The male head of a household or family, usu. the father.  
 __paternoster__ _n_ _Beads for telling paternosters._  
 __pathcasting__  
 __pathetic__  
@@ -12641,7 +12645,7 @@ __pathogenic__
 __pathogens__ _n_  
 __pathography__ _n_  
 __pathologist__ _n_  
-__pathos__ _n_ :eight: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._ _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ _n_ :nine: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._ _Ms. Merkel is known to be allergic to pathos and big words._  
 __patient discharge__ _n_ The formal ending of inpatient care.  
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patina__ _n_ /puh-TEE-nuh/  
@@ -12733,7 +12737,7 @@ __peel off__ _v_ _After chatting with the vets, we peel off and head out to expl
 __peeling tires__ _n_ Peeling tires is the process of removing the super slippery surface from the treads of new and used tires.  
 __peep__ _n_ :three::hammer: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
 __peephole__  
-__peeps__ _n pl_ _slang_ :three: Associates; friends. People.  
+__peeps__ _n pl_ _slang_ :four: /piːps/ Associates; friends. People.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peered__ _adj_  
@@ -12964,8 +12968,8 @@ __piano bar__
 __piano wire__  
 __pic__ _n_ _slang_ __1__ A photograph. __2__ A movie.  
 __pica__ _n_ A psychiatric disorder characterized by the compulsive eating of nonfood substances, such as soil, clay, ice, or hair. _Syn_ allotriophagy  
-__picayune<sup>1</sup>__ _adj_ :two: Of little value or importance; paltry. _Syn_ fiddling, footling, niggling, piddling, piffling, trivial, petty, lilliputian, little _Giving a police officer a free meal may be against the law, but it seems to be a picayune infraction._  
-__picayune<sup>2</sup>__ _n_ :two::hammer:  
+__picayune<sup>1</sup>__ _adj_ :three: Of little value or importance; paltry. _Syn_ fiddling, footling, niggling, piddling, piffling, trivial, petty, lilliputian, little _Giving a police officer a free meal may be against the law, but it seems to be a picayune infraction._  
+__picayune<sup>2</sup>__ _n_ :three::hammer:  
 __Piccadilly Circus__ _n_ /pik-uh-dil-ee SUHR-kuhs/ A place that is very busy, crowded, or noisy.  
 __pick a fight__  
 __pick and roll__  
@@ -12976,9 +12980,10 @@ __pick-me-up__ _n_ __1__ Something, as a drink or snack, taken to restore one’
 __pick-six__ _n_ _Football_  
 __pick-up game__ _n_ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren’t any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up__ _n_ __6__ _informal_ A casual acquaintance, usually one made with sexual intentions. _The restaurant was little more than a pick-up joint._  
-__pickaxe__ _n_  
+__pickax__ _n_ :two::hammer: (pickaxe)  
 __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
 __picket fence__ _n_ :two::hammer:  
+__picket line__ _n_  
 __picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
 __pickets__ _n_  
 __pickleball__ _n_ :three: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
@@ -12986,7 +12991,7 @@ __picklock__ _v_
 __picknicking__ _v_  
 __pickoff__ _n_ __1__ _Baseball_ A play in which a runner is caught off base and is put out by a quick throw, as from the pitcher or catcher. _A pickoff throw to first base._  
 __pickup__ _adj_ :two::hammer: _A pickup team._  
-__picky__ _adj_ :four::hammer:  
+__picky__ _adj_ :five::hammer:  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pico de gallo__ _n_ :two::hammer:  
 __pictogram__  
@@ -13005,6 +13010,7 @@ __pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the g
 __pietist__  
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
+__pig Latin__  
 __pigboat__ _n_  
 __pigeonhole<sup>1</sup>__ _n_ /PIJ-uhn-hohl/ __1__ A hole or recess for a pigeon to nest or rest. __2__ One of a series of small compartments for filing papers, etc. __3__ A stereotypical category, not reflecting the complexities.  
 __pigeonhole<sup>2</sup>__ _v tr_ :two: /PIJ-uhn-hohl/ __1__ To place in, or as if, in a pigeonhole. __2__ To lay aside for future consideration. __3__ To stereotype, to put into a preconceived, rigid category.  
@@ -13012,6 +13018,7 @@ __piggish__
 __piggy bank__ _n_ A child’s coin bank (often shaped like a pig).  
 __piggy-back__  
 __piggyback__ _v_ :three: /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
+__piggybacker__ _n_  
 __pigheaded__ _adj_ Obstinate.  
 __pignole__ _n_ :astonished::mega; Pine nuts.  
 __pigs in a blanket__ _n_ (food) :camera:  

@@ -340,33 +340,6 @@ __palliative care__ _n_
 __palliative__ _adj_ :pencil2:  
 __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
-__panacea__ _n_ :two::hammer:  
-__pander__ _v_ :two::hammer:  
-__Pandora__ _n_ :mega:  
-__panoply__ _n_ :two::hammer:  
-__papule__ _n_  
-__paragon__  
-__paramour__  
-__parapraxis__ _n_  
-__parasympathetic__  
-__parcel__ _v tr_  
-__pariah__  
-__parlance__ _n_  
-__parlay__  
-__parlor__ _n_ __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
-__parochial__ _adj_ :two: Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
-__paronomasia__ _n_ A humorous play on words. _Syn_ pun, punning, wordplay _His attempts at comedy usually flopped, especially when he recited his favorite paronomasia, “I do it for the pun of it.”_  
-__parry__ _v_  
-__parsimony__  
-__paterfamilias__ _n_ :astonished: The male head of a household or family, usu. the father.  
-__pathos__  
-__peeps__ _n pl_ /piːps/ Associates; friends.  
-__picayune__ _adj, n_  
-__pickax__ _n_ (pickaxe)  
-__picket line__ _n_  
-__picky__  
-__pig Latin__  
-__piggybacker__ _n_  
 __pilfer__ _v_  
 __pilfered__  
 __pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
