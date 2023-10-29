@@ -9026,6 +9026,7 @@ __incunabula__ _n pl_ :two::hammer:
 __incur__ _v_ :three::hammer:  
 __incurious__ _adj_ __1__ Lacking interest in one’s surroundings or worldly affairs. __2__ Without emotion or interest.  
 __indecorous__ _adj_  
+__indeed__ _adv_ :two::hammer: _Thank you very much indeed._  
 __indefatigable__ _adj_ :eight::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired. _Syn_ tireless, unflagging, unwearying  
 __indefinite__  
 __indelible__ _adj_ :eight::pencil2: Impossible to remove, erase, or wash away; permanent. _Syn_ permanent, lasting, enduring, ineradicable, ineffaceable, inexpungible, inextirpable _Before I left for camp, my mother wrote my name inside all of my clothes with indelible ink._ _An indelible mark._  
@@ -9047,7 +9048,7 @@ __indite__ _v tr_ :two: /ɪnˈdaɪt/ __1__ _archaic_ To write. __2__ _obsolete_ 
 __indoctrinate__ _v_ :three: /in-DAHK-truh-nayt/ To teach (someone) to fully accept the ideas, opinions, and beliefs of a particular group and to not consider other ideas, opinions, and beliefs. _The goal of the professor is to teach politics, rather than to indoctrinate students with a narrow set of political beliefs._  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
-__indomitable__ _adj_ :seven: /in-DAH-muh-tuh-bul/ Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
+__indomitable__ _adj_ :eight::mega: /ɪnˈdɒm ɪ tə bəl/ /in-DAH-muh-tuh-bul/ Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
 __indubitably__ _adv_ Without doubt; certainly.  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
@@ -9060,7 +9061,7 @@ __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ be
 __inebriated__ _adj_  
 __inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
 __ineffability__  
-__ineffable__ _adj_ :eight: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
+__ineffable__ _adj_ :nine: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __ineffectual__  
 __inefficacious__ _adj_  
 __ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
@@ -9159,7 +9160,7 @@ __inordinately__ _adv_ :four::hammer: _He was inordinately proud of the Roman le
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpatient__ _n_ :four: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :three::hammer:  
-__inquiry__ _n_  
+__inquiry__ _n_ :two::hammer: (enquiry)  
 __inquisitive__ _adj_  
 __inquisitiveness__  
 __inroad__ _n_  
@@ -9220,7 +9221,7 @@ __interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlanguage__ _n_ A common language used by speakers of different languages. _Syn_ lingua franca, koine  
-__interlard__ _v_  
+__interlard__ _v tr_ :two::hammer:  
 __interlocutor__ _n_ /in-ter-LAH-kyuh-ter/ Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”  
 __interlope__ _v intr_ /in-tuhr-LOHP, IN-tuhr-lohp/ [:scroll: Probably a back-formation from interloper, from Latin inter- (between) + Dutch lopen (to run), which also gave us landloper and landlubber] To intrude or interfere.  
 __interloper__ _n_ :five::hammer: /in-ter-LOH-per/ /ˈɪntəˌləʊpə/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
@@ -9422,6 +9423,7 @@ __jelly doughnuts__
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
+__Jellystone Park__ _n_ A fictional national park and the main setting of the Yogi Bear franchise.  
 __Jenga__ _n_ (trademark) [:scroll: From the Swahili verb -jenga (“to construct, to build”)] __1__ A game where players take turns to remove wooden blocks from a stack formed brickwise, the loser being the player whose actions cause the tower to fall. __2__ (figuratively) Any activity that involves great precision with a risk of great failure.  
 __jeopardize__ _v_ :three: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
 __jeopardy__ _n_ :two: (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
@@ -9497,6 +9499,7 @@ __jointly__
 __joist__ _n_ :two::hammer:  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
+__jokey__  
 __jollification__ _n_ :two: Festivity; revelry.  
 __jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
@@ -9506,10 +9509,10 @@ __jolt<sup>2</sup>__ _v_ _The chair jolts._
 __Jones<sup>1</sup>__ _n_ __1__ One’s neighbors or social equals. Typically used in the phrase: _keeping up with the Joneses._ __2__ An addiction or craving, especially for drugs.  
 __Jones<sup>2</sup>__ _v intr_ To have an intense longing.  
 __jonesing__ _v_ :two::hammer:  
-__jongleur__ _n_ An itinerant medieval entertainer proficient in juggling, acrobatics, music, and recitation.  
+__jongleur__ _n_ :two: An itinerant medieval entertainer proficient in juggling, acrobatics, music, and recitation. A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
-__jostle__ _v_ :nine::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
+__jostle__ _v_ :nine::m::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
 __journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
 __joust<sup>1</sup>__ _n_ :two: A combat on horseback between two knights with lances especially as part of a tournament. _The rules of heraldry and jousting._  
 __joust<sup>2</sup>__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
@@ -9518,12 +9521,12 @@ __jousting__ _adj_ _Jousting egos._
 __jovial__ _adj_ :three::hammer: /JOH-vee-ul/  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
-__jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
+__jowly__ _adj_ :three: (of a person) Having fat cheeks which hang down towards the jaw. Having heavy or sagging jowls. _The jowly lawyer._  
 __joyride__ _n_ :two::hammer:  
 __jubilate__ _v_ :dart: /JOO-buh-layt/ Jubilate means “to feel joy or great delight.” It is an old-fashioned synonym of _rejoice_ that still brings a smile to those who encounter it. _Supporters of the mayoral candidate jubilated when his victory was officially announced._  
 __jubilation__ _n_  
 __jubilee__ _n_ :three: [:scroll: Comes from Hebrew yobhel, “ram’s horn,” which was used as a trumpet to proclaim the jubilee, a year of emancipation and restoration (every 50 years).] __2__ A special anniversary, esp. a 25th or 50th one. __5__ (in the Roman Catholic Church) __a__ (Also called jubilee year) An appointed year or other period, ordinarily every 25 years, in which a plenary indulgence is granted upon repentance and the performance of certain acts. __b__ the plenary indulgence granted.  
-__judgment__ _n_ :three::pencil2::hammer: _Legal judgments._  
+__judgment__ _n_ :four::pencil2::hammer: _Legal judgments._  
 __judgmental__ _adj_ :pencil2:  
 __judicious__ _adj_ _Judicious improvements._  
 __judo__ _n_ [:scroll: A Japanes discipline whose name is based on Chinese words that translate to “soft way.”]  
@@ -9541,9 +9544,11 @@ __julienne<sup>2</sup>__ _adj_ Cut into long thin strips: _julienne potatoes._
 __julienne<sup>3</sup>__ _v tr_ :astonished: To cut (food) into long thin strips.  
 __Juliette balcony__  
 __jumble__ _n_ :seven: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._ _This new world is a jumble for her._  
+__jumbled__ _adj_ _Jumbled events._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
 __jumbotron__ _n_  
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
+__jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
 __jump shot__ _n_  
 __jump start__ _n_ _His friends gave him a jump start._  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
@@ -9552,10 +9557,10 @@ __jumpers__
 __jumping jacks__  
 __jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak battery by means of jumper cables to another car. _My battery was dead so I had to get a jumpstart from my neighbor._  
 __jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery is dead) by connecting it to another car’s battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
-__jumpsuit__ _n_ :two::hammer:  
+__jumpsuit__ _n_ :three::hammer: /ˈdʒʌmpˌsut/  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _n_ :two::hammer: _At 1st junction turn R & head to E to Hapton on Burnley Road._ _Conjunction junctions._  
-__juncture__ _n_ :six: A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
+__juncture__ _n_ :seven: /JUNK-cher/ A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
 __Juneteenth__ _n_ :four: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
 __juniper berries__  
@@ -9565,7 +9570,7 @@ __junk<sup>1</sup>__ _n_ _The “don’t touch my junk” uproar over intrusive 
 __junk<sup>2</sup>__ _v_ :two::hammer: (junked) _Google is junking the app Google+._  
 __junker__  
 __junket__ _n_ /JUNK-ut/ :five: __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._ _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
-__junkie__ _n_ _He was a news junkie._  
+__junkie__ _n_ :two: __2__ One who has an insatiable interest or devotion: _a sports junkie._ _He was a news junkie._  
 __junkyard__ _n_  
 __Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
 __junta__ _n_ :three::hammer:  
@@ -9581,6 +9586,7 @@ __jut out__ _v_ :five::hammer: _Pipes jutting out of the windows._ _The steel sh
 __jut__ _v_ :five::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __juvenile<sup>2</sup>__ _n_ :three::hammer: _Starship Soldier was a juvenile written by Heinlein._  
+__juvenilize__  
 __juxtapose__ _v_ /JUK-stuh-pohz/ To place (different things) side by side (as to compare them or contrast them or to create an interesting effect). _The committee juxtaposed the proposals for the new student center, trying to determine which would better meet the needs of the university._  
 __juxtaposition__ _n_  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
@@ -9592,6 +9598,7 @@ __kabuki__ _n_ :three::hammer:
 __kachina__ _n_  
 __kaffeeklatsch__ _n_  
 __Kafkaesque__ _adj_  
+__kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __kale__ _n_ :six::hammer:  
 __kamikaze__ _n_ :mega:  
 __kangaroo word__ _n_ :three::hammer:  
@@ -9608,6 +9615,7 @@ __kazoo__ _n_
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to “bold and brave” and while the spelling is now really different, the sounds are similar. Variations of keen as being “bold” and “strong” show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of “sharp” — relating to “an edge or blade.” Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
+__keenly__  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don’t keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep__ _n_ :es: torreón  
@@ -9622,6 +9630,7 @@ __Kendall__ _n_ /ˈkɛndəl/
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
 __kerchief__ _n_  
+__kerf__ _n_  
 __kerfuffle__ _n informal_ :three: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __kersey__ _n_  
 __keseboy__  
@@ -9846,7 +9855,7 @@ __laminate__ _v_ :two::hammer: :es: plastificar
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lamp shade__ _n_  
 __lampoon<sup>1</sup>__ _n_ :three::hammer: _All get a solid lampooning._  
-__lampoon<sup>2</sup>__ _v tr_ :dart::six: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
+__lampoon<sup>2</sup>__ _v tr_ :dart::seven: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lamppost__ _n_ :two: A post supporting a street lamp.  
 __lamprey__ _n_  
 __lance__ _v_ :two::astonished::hammer: (lanced)  
@@ -10880,7 +10889,8 @@ __memorabilia__
 __memorable__  
 __memorandum__ _n_ :two::hammer:  
 __memorial__ _n_ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
-__menagerie__ _n_ :six: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
+__menage__ _n_ A domestic establishment. _Syn_ household  
+__menagerie__ _n_ :astonished::seven: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
 __menageries__ _n_ _Lions were kept in the menageries._  
 __menarche__ _n_ :two: The initial onset of menstruation, usually occurring between the ages of 10 and 15.  
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
@@ -10892,9 +10902,10 @@ __menial<sup>2</sup>__ _n_
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
 __Mennonite__  
 __menology__  
-__menorah__ _n_ _Judaism_ __1__ A nine-branched candelabrum used in celebrating Hanukkah. _At sundown on the first night of Hanukkah, Aaron’s father helped him light the first candle on the menorah._ __2__ (often Menorah) A ceremonial seven-branched candelabrum of the Jewish. Temple symbolizing the seven days of the Creation.  
+__menorah__ _n_ :two: _Judaism_ __1__ A nine-branched candelabrum used in celebrating Hanukkah. _At sundown on the first night of Hanukkah, Aaron’s father helped him light the first candle on the menorah._ __2__ (often Menorah) A ceremonial seven-branched candelabrum of the Jewish. Temple symbolizing the seven days of the Creation.  
 __menorrhagia__ _n_ Abnormally heavy or extended menstrual flow.  
 __mens room__ _n_  
+__mensch__  
 __mental memo__ _n_ :camera:  
 __mentees__  
 __Mephistopheles__ _n_ (Mephisto)  
@@ -10908,7 +10919,7 @@ __merchant<sup>1</sup>__ _n_ :two::hammer: _The merchants listed are easy to fin
 __merchant<sup>2</sup>__ _adj_ _A heavily laden merchant ship._  
 __mercurial__ _adj_ :five: /mer-KYUR-ee-ul/ Liable to sudden unpredictable change. Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._ _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
-__mercury__ _n_ /mûr′kyə-rē/  
+__mercury__ _n_ :two::mega::hammer: /mûr′kyə-rē/  
 __mere__ _adj_ :six::hammer: _From mere $200._ _The mere possibility of a contract._ _A mere 2% of the cost._  
 __merely__  
 __meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
@@ -10920,19 +10931,22 @@ __merit__ _n_ :two::hammer:
 __meritorious__ _adj_ /mair-uh-TOR-ee-us/ Deserving of honor or esteem. _At the gathering, the company’s president expressed his gratitude to employees for their meritorious service._  
 __mermaid__ _n_  
 __merman__ _n_  
-__merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
+__merriment__ _n_ :four: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
 __mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
 __mesh strainer__  
+__meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
+__meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
 __Mesmer__ _n_ Austrian physician who tried to treat diseases with a form of hypnotism. (1734-1815)  
+__mesmerize__ _v_ /MEZ-muh-ryze/  
 __meso__ _prefix_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
-__Mesoamerica__ _n_ Another name for Central America.  
+__Mesoamerica__ _n_ :two: Another name for Central America.  
 __mesosphere__  
 __mesquite__ _n_ :two::hammer: _Tender mesquite-grilled steaks._  
 __mess up__ _phr v_  
 __mess__ _n_ :two::astonished:: __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
 __mess-up__ _n_ Something muddled; something that has gone wrong.  
-__messiah__ _n_ :mute:[messia~~h~~]  
+__messiah__ _n_ :two::mute:[messia~~h~~] /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
 __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._  
 __messtin__ _n_  
 __met__ _n_ _Business needs met._  
@@ -10964,9 +10978,10 @@ __metro<sup>1</sup>__ _n_ A subway system.
 __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
 __mettle__ _n_ :nine::m::dart: __1__ Courage; spirit. The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._ __2__ Inherent character.  
-__mettlesome__ _adj_ /MET-ul-sum/ Full of vigor and strength of spirit or temperament. _The rider was experienced and had no trouble handling the mettlesome horse._  
+__mettlesome__ _adj_ :two: /MET-ul-sum/ Full of vigor and strength of spirit or temperament. Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky _The rider was experienced and had no trouble handling the mettlesome horse._  
+__mewl__ _v tr_ To cry or whimper as an infant or young child: _the infant, mewling and puking in the nurse’s arms._  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
-__mezzanine__ _n_ :three::hammer:  
+__mezzanine__ _n_ :four::hammer:  
 __miasma__ _n_ :seven::hammer: _An opaque miasma._  
 __michelada__ _n_  
 __mick__ _n_ :three::hammer:  

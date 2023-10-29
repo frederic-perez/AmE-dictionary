@@ -285,43 +285,6 @@ __hyphen__ _n_
 __hypochondriac__  
 __ibex__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
-__indeed__ _adv_ :two::hammer: _Thank you very much indeed._  
-__indomitable__ _adj_ :mega: /ɪnˈdɒm ɪ tə bəl/  
-__ineffable__  
-__inquiry__ _n_ (enquiry)  
-__interlard__ _v tr_  
-__Jellystone Park__ _n_ A fictional national park and the main setting of the Yogi Bear franchise.  
-__jokey__  
-__jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
-__jostle__ _v_  
-__jowly__ _adj_ Having heavy or sagging jowls. _The jowly lawyer._  
-__judgment__ _n_ :pencil2:  
-__jumbled__ _adj_ _Jumbled events._  
-__jump ball__ _n_ /JUHMP bawl/ __1__ A basketball tossed into the air above and between two opposing players by the referee in putting the ball into play. __2__ A contest too close to call. _The early votes are still a jump ball._ __3__ An undecided situation or one with no preference. _It was a jump ball as to whether I walked out._  
-__jumpsuit__ _n_ /ˈdʒʌmpˌsut/  
-__juncture__ _n_ /JUNK-cher/  
-__junkie__ _n_ __2__ One who has an insatiable interest or devotion: _a sports junkie._  
-__juvenilize__  
-__kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
-__keenly__  
-__kerf__ _n_  
-__lampoon__  
-__menage__ _n_ A domestic establishment. _Syn_ household  
-__menagerie__ _n_ :astonished:  
-__menorah__ _n_  
-__mensch__  
-__mercury__ _n_ :mega:  
-__merriment__  
-__meshugaas__ _n_ _slang_ Crazy or senseless activity or behavior; craziness.  
-__meshuggener__ _n_ (Yiddish) A crazy fool. _Syn_ meshuggeneh  
-__mesmerize__ _v_ /MEZ-muh-ryze/  
-__Mesoamerica__ _n_  
-__mess around__  
-__messiah__ _n_ /muh-SAH-uh/ A savior, liberator, or leader of a group or a cause.  
-__mettle__ _n_  
-__mettlesome__ _adj_ Full of mettle; spirited and plucky. _Syn_ spirited, game, gritty, spunky  
-__mewl__ _v tr_ To cry or whimper as an infant or young child: _the infant, mewling and puking in the nurse’s arms._  
-__mezzanine__ _n_  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
