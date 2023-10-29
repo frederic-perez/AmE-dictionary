@@ -33,13 +33,17 @@ __applesauce__ _n_ /AP-uhl-saws/ Nonsense; lies.
 __atelier__ _n_ A studio especially for an artist or designer. _Syn_ artist’s workroom  
 __audacious__ _adj_ :dart:  
 __audacity__ _n_ :dart:  
+__avert__ _v_  
 __backlog__ _n_  
 __backstory__ _n_  
 __bamboozle__ _v_  
 __bane__ _n_ _They’re the bane of my life._  
+__barrage__ _n_  
+__beforehand__ _adj, adv_  
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
+__bloodshed__ _n_ /ˈblʌdˌʃɛd/  
 __bolster__ _v_  
 __booby trap__ _n_  
 __bootstrapping__ _n_  
@@ -49,6 +53,7 @@ __Botox__ _n_
 __boulevardier__ _n_  
 __bounce castle__ _n_  
 __bounty hunter__  
+__bowling alley__ _n_  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __brace__ _n_ _To define Python dictionaries, we use braces._  
 __bracken__ _n_  
@@ -83,6 +88,7 @@ __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates 
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
 __cautionary tale__ _n_  
+__ceasefire__ _n_  
 __chiaroscuro__ _n_  
 __clang__ _v_ _Bells clanging._  
 __clanging__  
@@ -214,6 +220,7 @@ __engender__ _v_
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __envision__ _v tr_  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
+__ethos__ _n_  
 __eviction__ _n_  
 __expunge__ _v tr_  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
@@ -250,6 +257,7 @@ __giggle<sup>2</sup>__ _v_
 __gimcrackery__  
 __gobble__ _v_ _Do you savor or gobble?_  
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
+__grimoire__ _n_ /ɡriːmˈwɑː/  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __grubstake__  
@@ -272,13 +280,17 @@ __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ 
 __highball__ _v_ _To decide whether to lowball or highball an offer._  
 __highlight__ _n_ :es: punto culminante  
 __hinder__ _v_  
+__hostage__ _n_ :mega: /ˈhɒs tɪdʒ/  
 __hyphen__ _n_  
 __hypochondriac__  
 __ibex__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
+__indeed__ _adv_ :two::hammer: _Thank you very much indeed._  
 __indomitable__ _adj_ :mega: /ɪnˈdɒm ɪ tə bəl/  
 __ineffable__  
+__inquiry__ _n_ (enquiry)  
 __interlard__ _v tr_  
+__Jellystone Park__ _n_ A fictional national park and the main setting of the Yogi Bear franchise.  
 __jokey__  
 __jongleur__ _n_ A wandering minstrel, poet, or entertainer in medieval England and France. _Syn_ folk singer, minstrel, poet-singer, troubadour  
 __jostle__ _v_  
@@ -293,6 +305,7 @@ __juvenilize__
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __keenly__  
 __kerf__ _n_  
+__lampoon__  
 __menage__ _n_ A domestic establishment. _Syn_ household  
 __menagerie__ _n_ :astonished:  
 __menorah__ _n_  
@@ -327,7 +340,9 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
 __mouthful__ _n_ __3__ A long word, name, or phrase that is difficult to pronounce.  
+__non-binding__ _adj_ That does not bind the participants.  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
+__o’clock__ _adv_ Short for _of the clock._  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -368,6 +383,7 @@ __pout__ _v_
 __powerwash__ _v_  
 __pratfall effect__  
 __prattled__ _v_  
+__predator__ _n_ /ˈprɛd ə tər, -ˌtɔr/  
 __preempt__ _v_  
 __preen__ _v_ :two::hammer: /PREEN/  
 __preordained__  
@@ -439,6 +455,7 @@ __quintessential__ _adj_ _Syn_ ultimate, essential, typical, fundamental, defini
 __quirk__ _n_  
 __quirky__ _adj_  
 __quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
+__Rabelaisian__ _adj_  
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_  
 __ragamuffin__ _n_ A shabbily clothed, dirty child. _Syn_ tatterdemalion  
@@ -496,6 +513,7 @@ __regalia__ _n_ Magnificent attire; finery. _Syn_ raiment, array
 __regency__ _n_  
 __regimen__ _n_ /REJ-uh-mun/ _Regimen_ refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy.  
 __relent__ _v intr_  
+__relinquish__  
 __remembrance__  
 __remission__ _n_  
 __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
@@ -623,6 +641,7 @@ __shanghai__ _v_
 __shash window__ _n_  
 __shear__ _v_ :two::hammer: (shorn)  
 __shed__ _v_ _The lawyers shed their vests and loosened their neckties._  
+__shelling__ _n_ /ˈʃɛlɪŋ/ The act of bombing a place with artillery shells.  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shift__ _v_ _It’s all about confronting obvious-but-often-overlooked truths until something in you shifts._  
 __shimmer__ _v_  
@@ -651,6 +670,7 @@ __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._
 __singsong<sup>2</sup>__ _n_  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
+__Six-Day War__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
@@ -777,6 +797,7 @@ __syllabicate__ _v_
 __syllabus__ _n_ :astonished: __1__ An outline or a summary of the main points of a text, lecture, or course of study.  
 __synesthesia__ _n_ :two::hammer:  
 __synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
+__table__ _v_ :astonished:  
 __tableau__ _n_ :astonished:  
 __tachypnoea__  
 __tacky__ _adj_ _Tacky birthday present._  
@@ -818,6 +839,7 @@ __trawl__ _v_
 __treasure trove__  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
+__unbox__ _n_  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
 __undercut__  
 __underpin__ _v tr_  
