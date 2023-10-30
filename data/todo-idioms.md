@@ -17,7 +17,10 @@ __amirite__ A comical way of writing “am I right,” an interjection used to f
 __an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
 __and so forth__ And or along with other such similar things; and all the rest; and so on; et cetera. _I like outdoor activities like running, hiking, cycling, and so forth._  
 __another nail in the coffin__  
+__at (long) last__ Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
+__at stake__  
 __at the end of the day__  
+__bank on__ To rely on a future occurrence (even though it might not happen). _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
 __bbg__  
 __be here to stay__  
 __be left to (one’s) own devices__  
@@ -70,6 +73,7 @@ __double-edged sword__ Something that can be both beneficial and problematic.
 __drag (one’s) ass__  
 __drag (one’s) feet__  
 __drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
+__draw a line__  
 __draw upon__  
 __dressed to the nines__  
 __drop out__  
@@ -81,6 +85,9 @@ __en route__
 __every so often__  
 __eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
+__flat-footed__ __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
+__go out of (one’s) way (to do something)__  
+__go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
 __grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
 __grasshopper__ _slang_ Someone who frequently smokes marijuana.  
 __grínd one’s teeth__  
@@ -135,6 +142,7 @@ __have the feel of (something)__ To have a general sense of how to do or use som
 __have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __have the goods on (someone)__ To have scandalous, incriminating, or otherwise damaging evidence or information about someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._  
 __have the guts (to do something)__ To have enough courage, conviction, or resolve (to do something). _You’re always talking about quitting your job, but I don’t think you have the guts._  
+__have the hang of (something)__  
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_  
 __have the last laugh__  
 __hazarded__ _v_  
@@ -162,15 +170,24 @@ __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when 
 __hit the lotto__  
 __in a lifetime__  
 __in a similar vein__  
+__in harm’s way__  
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
+__it remains to be seen__ Something is not yet clear, certain, or known.  
 __jump in line__  
+__keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
+__late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
+__lay out__ :dart: __3__ To detail or explain something explicitly, such as a plan or concept. A noun or pronoun can be used between “lay” and “out.” _When he began laying out his campaign strategy, we all realized that he actually had a shot at winning._  
 __leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __light at the end of the tunnel__  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __make (one’s)/the rounds__  
+__make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
+__make no mistake__  
+__mea culpa__  
+__mess around__  
 __messed up__ _informal_  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __move (one) to tears__  
@@ -180,6 +197,8 @@ __mud shark__ _US black_ A white man or woman who prefers black partners.
 __mug__ _Getting your mug on TV._  
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
+__never say never__ Do not say that something is impossible, that it will never happen, or that you will never do it, because anything is possible. The term first appeared in Charles Dickens’ novel _The Pickwick Papers._ _A: “I’ll never be good enough to make the team.” B: “Never say never. Just keep practicing and see what happens.”_  
+__no biggie__ (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __of late__  
@@ -225,6 +244,7 @@ __put upon__
 __putzo__  
 __quick buck__  
 __radio silence__  
+__ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
 __rat race__  
 __red line__  
@@ -235,7 +255,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
-__rule out__  
+__rule out__ :two::hammer:  
 __rumor has it (that)__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
@@ -293,11 +313,13 @@ __soul searching__
 __sound the alarm__  
 __spaced (out)__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
-__speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
+__speak volumes__ :three: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spill the beans__ :two::hammer:  
 __spill the tea__ :two: _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
+__spin (one’) wheels__  
 __spin up__  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
+__sports equinox__  
 __spot on__  
 __spread the word__  
 __spruce up__ :dart:  
@@ -365,6 +387,7 @@ __the happy day__ A wedding, or marriage in general. _So now that all your sibli
 __the icing on the cake__  
 __the ick__ _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to.  
 __the ins and outs__ The particular details and nuances of a situation, task, etc.  
+__the joke’s on (one)__  
 __the likes of (someone or something)__  
 __the lion’s share__  
 __the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
@@ -416,6 +439,7 @@ __ups and downs__ Positive and negative events or experiences, considered collec
 __usher in__  
 __vac__  
 __verse (someone or oneself) in (something)__  
+__very much so__  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __vie for (something)__ :two::hammer:  
 __wait and see__ To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
