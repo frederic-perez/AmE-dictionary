@@ -13439,6 +13439,7 @@ __portal__
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _v tr_ :nine::hammer: /por-TEND/ (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
+__portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
 __porter__ _n_  
 __porterhouse__ _n_ :six::hammer: :es: bistec de filete _Its tender dry-aged porterhouse is unmatched._  
 __porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
@@ -13452,11 +13453,13 @@ __portrayal__ _n_ :two::mega::hammer:
 __Portuguese__ _adj, n_  
 __pose__ _v_ :two::hammer: _That’s the question I pose to you._  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
-__posit__ _v_ :four::hammer::pencil2: (posited) _BYU has posited themselves well._  
+__posit<sup>1</sup>__ _v tr_ :seven::hammer::pencil2: (posited) _BYU has posited themselves well._  
+__posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :four::hammer: :es: zarigüeya  
 __post hoc__ _adj, adv, n_ :two::hammer:  
+__post-war groove__  
 __postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ _n_ :two::hammer:  
@@ -13469,7 +13472,7 @@ __postmark<sup>2</sup>__ _v_
 __postmortem__ _n_  
 __postponement__ _n_  
 __postscript__ _n_  
-__postulate__ _v_ :two: /PAHSS-chuh-layt/ (postulate) To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
+__postulate__ _v_ :three: /PAHSS-chuh-layt/ (postulate) To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
 __posturing__  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunker__ _n_ :two::hammer: (golf) A small, circular but deep bunker with steep faces. _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
@@ -13491,7 +13494,7 @@ __potion__ _n_
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __potshot__ _n_  
 __potsticker__ _n_  
-__pottering__ _v_ _She is pottering around the house._  
+__potter__ _v_ :two::hammer: _She is pottering around the house._  
 __potty training__ _n informal_ :two: Toilet training.  
 __potty__ _n_ __1__ A small pot for use as a toilet by an infant or young child. __2__ A bathroom or toilet.  
 __potty-train__ _v_  
@@ -13501,7 +13504,7 @@ __poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fa
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
 __poultry__ _n_  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
-__pounce__ _v_ :six::hammer: (pounced) _We can train our brains to let in the messages that allow us to spot and pounce on more opportunities at work and at play._  
+__pounce__ _v_ :eight::hammer: (pounced) _We can train our brains to let in the messages that allow us to spot and pounce on more opportunities at work and at play._  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pour-over coffee__ _n_  
 __pout__ _v_ :nine::m: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: _The child’s lips pouted._ _You better not cry, you better not pout._  
@@ -13524,6 +13527,7 @@ __powerhouse__ _n_ :three::dart: A highly energetic and indefatigable person.
 __powerlessness__  
 __powermark__ _n_  
 __powermongers__ _n_  
+__powerwash__ _v_  
 __powwows__ _n_  
 __pox__  
 __practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
@@ -13536,8 +13540,9 @@ __pram__ _n_ :three::hammer:
 __prance__ _v_ :eight: (pranced, prancing) __1__ To walk with a lofty proud gait, often in an attempt to impress others. _Syn_ strut, swagger, tittup, sashay, cock, ruffle _On the floor exercise, Wieber prances, tumbles and smiles._ __2__ Spring forward on the hind legs. _The horse pranced._ _Prancing reindeer._ __3__ Cause (a horse) to bound spring forward. __4__ Ride a horse such that it springs and bounds forward.  
 __prat__ _n_ _British_ A stupid or foolish person. _He could be such a prat at times._  
 __prate__ _v_ To talk idly and at length; chatter. _Syn_ blabber, palaver, piffle, prattle _I know the age better than you do, though you will prate about it so tediously._  
+__pratfall effect__  
 __prattle<sup>1</sup>__ _n_  
-__prattle<sup>2</sup>__ _v_ :four: To talk or chatter idly or meaninglessly; babble or prate. _Syn_ blabber, piffle, gabble, prate _The group of tourists on the plane wouldn’t stop talking, and I fell asleep listening to them prattle._  
+__prattle<sup>2</sup>__ _v_ :five: To talk or chatter idly or meaninglessly; babble or prate. _Syn_ blabber, piffle, gabble, prate _The group of tourists on the plane wouldn’t stop talking, and I fell asleep listening to them prattle._  
 __prayer beads__ _n_ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
 __prayer wheel__  
@@ -13559,15 +13564,15 @@ __preclude__ _v_
 __precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
 __predate__ _v_ :six::hammer: (predated) _The building predated the revolution._ _Those commandments predate the Bible._ _This standard predates the emergence of smartphones._  
-__predator__ _n_ :two::hammer:  
+__predator__ _n_ :three::mega::hammer: /ˈprɛd ə tər, -ˌtɔr/  
 __prediabetes__  
 __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __preeminent__ _adj_ :five::hammer:  
-__preempt__ _v_  
+__preempt__ _v_ :two::hammer:  
 __preemption__ _n_ :two::hammer:  
 __preemptive__  
-__preen__ _v_ :nine::m: (preened, preening) __1a__ To smooth or clean (feathers) with the beak or bill. __b__ To trim or clean (fur) with the tongue, as cats do. __2__ To dress or groom (oneself) with elaborate care; primp. __3__ :dart: (usually foll by _on_) To pride or congratulate (oneself). To take pride or satisfaction in (oneself); gloat.  
+__preen__ _v_ :nine::m: /PREEN/ __1a__ To smooth or clean (feathers) with the beak or bill. __b__ To trim or clean (fur) with the tongue, as cats do. __2__ To dress or groom (oneself) with elaborate care; primp. __3__ :dart: (usually foll by _on_) To pride or congratulate (oneself). To take pride or satisfaction in (oneself); gloat.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
@@ -13579,6 +13584,7 @@ __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-ligh
 __premortem__  
 __prenup__ _n_ _informal_ :two: A prenuptial agreement.  
 __preoccupation__  
+__preordained__  
 __prep schools__  
 __Prep__  
 __prep<sup>1</sup>__ _adj_  
@@ -13588,6 +13594,7 @@ __preponderate__ _v_
 __prepone__ _v_ To bring forward to an earlier time.  
 __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Pre- means before. Post- means after. To use both prefixes together, ...would be preposterous._ _Syn_ foolish  
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
+__preposterousness__  
 __preppers__  
 __preprandial__ _adj_ _Preprandial drinkers._  
 __prepsters__  
@@ -13604,7 +13611,8 @@ __prescribe__ _v_ :two::hammer:
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
 __presentation__ _n_ :mega:  
-__presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one’s job.  
+__presenteeism__ _n_ :two: /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive. The practice of reporting to work despite illness or the inability to focus productively on one’s job.  
+__presentiment__ _n_ A sense that something is about to occur; a premonition. _Syn_ boding, foreboding, premonition  
 __presently__ _adv_ /PREZ-uhnt-lee/ __1__ In a short while: soon. _She will arrive presently._ __2__ _Usage Problem_ At the present time: now. _He is presently staying with us._  
 __preserve__ _n_ __3__ An area maintained for the protection of wildlife or natural resources. _A comedy about gorillas in a preserve._  
 __preserves__ _n pl_ :two: Fruit cooked with sugar to protect against decay or fermentation. _A jar of fig preserves._  
@@ -13638,12 +13646,13 @@ __prevention is better than cure__ _prov_ It is better to try to keep a bad thin
 __preventive__ _adj_ _Preventive and corrective maintenance._  
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
+__priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __price point__ _n_ _The best in price point._  
 __price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick__ _v_  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
-__prick<sup>1</sup>__ _v_ :six::hammer: (pricked, pricking) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
+__prick<sup>1</sup>__ _v_ :seven::hammer: (pricked, pricking) _Pricked by a needle._ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
 __prickle__ _n_ :two: __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
 __prickled__ _v_ _Rob’s skin prickled._  
@@ -13655,11 +13664,13 @@ __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._
 __pride<sup>2</sup>__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
 __priestess__ _n_ :two::hammer: (priestesses)  
 __priesthood__ _n_  
+__prim__ _adj_ _Prim respect._  
 __prima facie__  
 __primacy__ _n_  
 __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
 __primary school__ _n_ A school for young children; usually the first 6 or 8 grades.  
 __Prime Minister__  
+__prime__ _v_ :two::hammer:  
 __prime-age__  
 __prime<sup>1</sup>__ _adj_ :five::hammer: _Their master bedroom has a prime view of the green wall._ _Prime steaks._ _Prime examples of his work still exist._  
 __prime<sup>2</sup>__ _n_ :two::hammer:  
@@ -13680,7 +13691,7 @@ __prioritize__ _v_ :two::hammer:
 __prise<sup>1</sup>__ _n_  
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  
-__prissy__ _adj_ :four::hammer: _A prissy mustache._  
+__prissy__ _adj_ :five::astonished::hammer: _A prissy mustache._  
 __pristine__ _adj_ :two::hammer: _They were in pristine condition._  
 __privacy lock__  
 __private dancer__ _n_ A dancer who performs a striptease.  
@@ -13696,7 +13707,8 @@ __prize<sup>3</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was priz
 __prizefight__ _n_  
 __prizefighter__ _n_ :three::hammer:  
 __pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a defendant is unable to pay for his own defence. _Pro bono consultant._ _Some pro bono work._  
-__pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate’s president pro tem._  
+__pro tem<sup>1</sup>__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate’s president pro tem._  
+__pro tem<sup>2</sup>__ _adj_  
 __pro<sup>1</sup>__ _n_ __1__ An argument or consideration in favor of something: _weighing the pros and cons._ _The pro column, not the con column._ __2__ One who supports a proposal or takes the affirmative side in a debate.  
 __pro<sup>2</sup>__ _adj_ __1__ Affirmative; supporting: _a pro vote._ __2__ Professional: _pro football._  
 __probate__ _adj_ _Probate records._  

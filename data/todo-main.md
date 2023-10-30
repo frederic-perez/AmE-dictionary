@@ -334,33 +334,6 @@ __pizzicato__
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __porky__  
 __portend__ _v_  
-__portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
-__posit__ _v_ :two::hammer:  
-__posit<sup>1</sup>__ _v tr_  
-__posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
-__post-war groove__  
-__postulate__ _v_  
-__potter__ _v_  
-__pounce__ _v_ :two::hammer:  
-__pout__ _v_  
-__powerwash__ _v_  
-__pratfall effect__  
-__prattled__ _v_  
-__predator__ _n_ /ˈprɛd ə tər, -ˌtɔr/  
-__preempt__ _v_  
-__preen__ _v_ :two::hammer: /PREEN/  
-__preordained__  
-__preposterous__ _adj_ :three::hammer:  
-__preposterousness__  
-__prescient__ _adj_  
-__presenteeism__ _n_ /prez-uhn-TEE-iz-uhm/ The practice of being present at work when it’s unnecessary or counterproductive.  
-__presentiment__ _n_ A sense that something is about to occur; a premonition. _Syn_ boding, foreboding, premonition  
-__priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
-__pricked__ _v_ _Pricked by a needle._  
-__prim__ _adj_ _Prim respect._  
-__prime__ _v_ :two::hammer:  
-__prissy__ _adj_ :astonished:  
-__pro tem__ _adj, adv_  
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
