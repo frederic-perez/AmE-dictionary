@@ -337,33 +337,6 @@ __portend__ _v_
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
-__profligate__ _adj_ :two::hammer:  
-__prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
-__prom__  
-__pronation__ _n_ /pro-NAY-shuhn/  
-__proneness__ _n_ Being disposed to do something.  
-__prophylaxis__ _n_  
-__proponent__ _n_  
-__prosody__ _n_ :two::hammer:  
-__prosty__  
-__Protean__  
-__provender__ _n_  
-__prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
-__prudery__ _n_  
-__pruritus__ _n_ An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
-__pry__ _v_  
-__pseudopseudohypoparathyroidism__  
-__psycho__ _adj_ Mentally deranged; crazy.  
-__psychopath__  
-__psychotic__  
-__psyops__ _n_ (Military) Short for psychological operations. Military operations aimed at influencing the enemy state of mind through noncombative means, such as distribution of leaflets.  
-__pudgy__  
-__puffery__ _n_ :dart:  
-__Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
-__pulpit__ _n_  
-__pun__ _v_ _He developed a savantlike speed of calculation and punning._  
-__punchy__  
-__punctilious__ _adj_ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous  
 __pundit__ _n_ /PUN-dit/  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  

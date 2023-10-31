@@ -13746,7 +13746,7 @@ __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply
 __profiteering__  
 __profligacy<sup>1</sup>__ _adj_  
 __profligacy<sup>2</sup>__ _n_ :three: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
-__profligate<sup>1</sup>__ _adj_ :five: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
+__profligate<sup>1</sup>__ _adj_ :seven: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profound__ _adj_ :mega:  
 __profoundly__  
@@ -13762,10 +13762,11 @@ __prolapse<sup>2</sup>__ _n_
 __prolegomenon__ _n_ :two: A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
-__prolix__ _adj_ :three: Using too many words and therefore boring.  
+__prolix__ _adj_ :four: Using too many words and therefore boring. Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prolixity__ _n_ :two: Excessive wordiness in speech or writing; longwindedness.  
 __prolog__ _n_ :two::hammer:  
 __prolong__ _v_  
+__prom__  
 __promenade__ _n_ :four::hammer: _Public promenades._  
 __Promethean__ _adj_ Creative; boldly original.  
 __prominence__  
@@ -13779,9 +13780,11 @@ __prompt<sup>2</sup>__ _v tr_ :three::hammer: (prompting)
 __prompt<sup>3</sup>__ _n_  
 __promptly__ _adv_ :dart: _The importance of detecting diabetes promptly._  
 __promulgate__ _v_ To make known (a decree, for example) by public declaration; announce officially. _Syn_ exclaim, proclaim  
+__pronation__ _n_ /pro-NAY-shuhn/  
 __prone<sup>1</sup>__ _adj_ :es: propenso  
 __prone<sup>2</sup>__ _n_  
 __prone<sup>3</sup>__ _v_  
+__proneness__ _n_ Being disposed to do something.  
 __prong__ _n_ :four::hammer: (prongs) _A barbed prong._ _A two-prong whatnot._  
 __pronged__  
 __pronounce__ _v_ _Prevnar 13® is pronounced “Prev-nar 13.”_  
@@ -13795,10 +13798,10 @@ __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have p
 __property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
 __prophecy__ _n_ :pencil2: _A self-fulfilling prophesy._  
 __prophesy__ _v_ (prophesied)  
-__prophylaxis__ _n_  
+__prophylaxis__ _n_ :two::hammer:  
 __propinquity__ _n_ The property of being close together. _Syn_ proximity _She loved Emma Jane, but it was a friendship born of propinquity and circumstance, not of true affinity._  
 __propitiate__ _v_ :pencil2::two::hammer: /proh-PISH-ee-ayt/  
-__proponent__  
+__proponent__ _n_ :two::hammer:  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
 __propriety__  
@@ -13808,6 +13811,7 @@ __prosaic__ _adj_ :two: /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginativ
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
 __proselytism__ _n_ :astonished:  
 __proselytize__ _v_ :six::pencil2::dart: /PRAH-suh-luh-tyze/ Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
+__prosody__ _n_ :two::hammer:  
 __prosopopoeia__ _n_ :two: (prosopopeia) __1__ Personification, as of inanimate things. Representing an abstract quality or idea as a person or creature personification. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
 __prospect__ _n_ (sports)  
 __prospective__ _adj_ :three::hammer: _Prospective clients._  
@@ -13817,7 +13821,8 @@ __prosthetic__ _adj_
 __prostrate<sup>1</sup>__ _adj_  
 __prostrate<sup>2</sup>__ _v_  
 __prostration__ _n_ __2__ Total exhaustion or weakness; collapse.  
-__protean__ _adj_ :four::hammer:  
+__prosty__  
+__protean__ _adj_ :five::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
@@ -13828,7 +13833,7 @@ __protracted__ _adj_ :two: Extended or lengthened in time; prolonged: _a protrac
 __prove<sup>1</sup>__ _v tr_  
 __prove<sup>2</sup>__ _v intr_ To be shown to be such; turn out: a theory that proved impractical in practice; _a schedule that proved to be too demanding._ _His first story proved immensely popular._  
 __provenance__  
-__provender__ _n_ :two::hammer:  
+__provender__ _n_ :three::hammer:  
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
 __providence__ _n_ :four: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
 __provider__ _n_ :two::hammer: _Mental health providers._  
@@ -13838,12 +13843,14 @@ __prowess__ _n_ :nine::m: /ˈpraʊ ɪs/ Prowess means exceptional skill or abili
 __prowled__ _v_  
 __proximate__ _adj_ /PRAHK-suh-mut/  
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
-__prude__ _n_ :three::hammer:  
+__prude__ _n_ :four: /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudent__ _adj_ :two::hammer:  
 __prudently__ _adv_  
+__prudery__ _n_  
 __prudishness__ _n_  
 __prurient__ _adj_ :three::hammer:  
-__pruritus__ _n_ :two: Severe itching, often of undamaged skin.  
+__pruritus__ _n_ :three: Severe itching, often of undamaged skin. An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
+__pry__ _v_  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
 __pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a lever. _He pries your buttocks apart._ _To pry the crack open wider and wider._ __2__ To obtain with effort or difficulty: _pried a confession out of the suspect._  
 __psalm<sup>1</sup>__ _n_ :two::mute:[psa~~l~~m, ~~p~~salm] /sahm/ A sacred poem or song.  
@@ -13851,6 +13858,7 @@ __psalm<sup>2</sup>__ _v intr_ :two::mute:[psa~~l~~m, ~~p~~salm] To sing a poem 
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
 __pseudo__ _adj_ :two::mute:[~~p~~seudo] /ˈsu doʊ/ Made-up; false, pretended, or not genuine. Almost always hyphenated before the word it modifies. _All he writes is this pretentious, pseudo-intellectual junk._ _Pseudo-listening._  
 __pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
+__pseudopseudohypoparathyroidism__  
 __psych__ _v_  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
 __psyched__ _v_  
@@ -13858,10 +13866,14 @@ __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]
 __psychic reading__ _n_  
 __psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
 __psychic<sup>2</sup>__ _adj_ :mute:[~~p~~sychic]  
+__psycho__ _adj_ Mentally deranged; crazy.  
 __psychobabble__ _n_ /SY-ko-bab-uhl/ Language laden with jargon from psychotherapy or psychiatry, used without concern for accuracy.  
 __psychology__ _n_ :mute:[~~p~~sychology]  
+__psychopath__  
 __psychopathic__  
+__psychotic__  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
+__psyops__ _n_ (Military) Short for psychological operations. Military operations aimed at influencing the enemy state of mind through noncombative means, such as distribution of leaflets.  
 __pterodactyl__ _n_ :mute:[~~p~~terodactyl]  
 __puberty blockers__ _n_ _(medicine)_  
 __pubes__ _n_  
@@ -13874,13 +13886,14 @@ __pucker__ _v_ :six: (puckered) (especially with reference to a person’s face)
 __pud__ _n_ :five::hammer:  
 __pudenda__ _n_  
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
-__pudgy__ _adj_ :three::hammer: _A pudgy boy._  
+__pudgy__ _adj_ :four::hammer: _A pudgy boy._  
 __puds__ _n_  
 __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
 __puffer__ _n_  
+__puffery__ _n_ :dart:  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
 __pug-nosed__ _adj_ _Pug-nosed face._  
@@ -13890,6 +13903,7 @@ __pugnacity__
 __pugs__  
 __pukka__ _adj_ _British informal_ _Turnley recreated upon the praairie a perfectly pukka England._  
 __pulchritude__ _n_ Physical comeliness.  
+__Pulitzer Prize__ _n_ Any of several awards established by Joseph Pulitzer and conferred annually for accomplishment in various fields of American journalism, literature, and music.  
 __pull away__ _phr v_ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull strings__  
@@ -13904,7 +13918,7 @@ __pullulate__ _v intr_ :two: __1__ To germinate; sprout. __2__ To breed or incre
 __pulmonaria__ _n_  
 __pulmonary embolism__ _n_ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulp__ _n_ _The pulps were running out of steam._  
-__pulpit__ _n_ :three::hammer:  
+__pulpit__ _n_ :four::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :six::hammer: (pummeled)  
@@ -13913,14 +13927,15 @@ __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._
 __pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
 __pumpkin spice__ _n_  
 __pun<sup>1</sup>__ _n_ :five: A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other. :es: juego de palabras  
-__pun<sup>2</sup>__ _v_  
+__pun<sup>2</sup>__ _v_ :two::hammer: _He developed a savantlike speed of calculation and punning._  
 __punch list__ _n_  
 __punch out__ _v_ :two::hammer: (eject a flying pilot)  
 __punch<sup>1</sup>__ _n_ :two: A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base. :es: ponche  
 __punch<sup>2</sup>__ _v_ :three::hammer: _I’m going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _n_ _The firm was a regular punching bag._  
 __punchline__ _n_ :pencil2:  
-__punctilious__ _adj_ :dart::two: /pʌŋkˈtɪlɪəs/ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
+__punchy__  
+__punctilious__ _adj_ :dart::three: /pʌŋkˈtɪlɪəs/ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
 __punctuate__  
 __puncture__ _n_ :two::hammer: _Transeptal puncture._  
 __punctured__ _v_ _Punctured his tire._  
