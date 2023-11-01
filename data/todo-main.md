@@ -345,33 +345,6 @@ __purport<sup>2</sup>__ _n_
 __purported__  
 __purportedly__  
 __purview__ _n_  
-__pushover__ _n_ :dart::two::hammer:  
-__pyrexia__ _n_ Fever. _Syn_ febricity, febrility, feverishness  
-__pyrrhic__  
-__quaff__ _v_ _We quaffed Old Crow._  
-__quagmire__ _n_  
-__quale__ _n_ (qualia _n pl_)  
-__qualm__ _n_  
-__quash__ _v tr_ :two::hammer:  
-__quaver__ _n_  
-__querulous__ _adj_  
-__quiddity__ _n_  
-__quiescent__ _adj_ /kwy-ESS-unt/  
-__quietude__ _n_ A state of peace and quiet. _Syn_ tranquility, quietness  
-__quiff__ _n_  
-__quintessence__ _n_ /kwin-TESS-unss/  
-__quintessential__ _adj_ _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
-__quirk__ _n_  
-__quirky__ _adj_  
-__quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
-__Rabelaisian__ _adj_  
-__racket__ _n_ __1__ A loud distressing noise.  
-__racketeer__ _n_  
-__ragamuffin__ _n_ A shabbily clothed, dirty child. _Syn_ tatterdemalion  
-__ragged__ _adj_ _I feel quite ragged from lack of sleep._  
-__raillery__ _n_  
-__rambler__ _n_  
-__rambunctious__  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
 __ramrod__  

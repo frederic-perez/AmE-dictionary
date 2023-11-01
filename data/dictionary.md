@@ -13985,7 +13985,7 @@ __push puppet__ _n_ :camera:
 __push<sup>2</sup>__ _n_  
 __pushback__ _n_ :three::hammer:  
 __pushcart__ _n_ _A pushcart vendor._  
-__pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
+__pushover__ _n_ :dart::nine: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy__ _adj_ :three::hammer: _I guess I was a little pushy._ _Pushy sales._  
 __pusillanimous__ _adj_ :two: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
@@ -14016,12 +14016,13 @@ __pyogenic__ _adj_ :pencil2: Producing pus.
 __pyranometer__ _n_ :four::hammer:  
 __pyre__ _n_ :two::hammer: (pyres) _It burned like a funeral Viking pyre._  
 __Pyrenees__ _n_ :pencil2:  
+__pyrexia__ _n_ Fever. _Syn_ febricity, febrility, feverishness  
 __pyrheliometer__ _n_ :two::hammer:  
 __pyrite__ _n_ :two: /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder. _Syn_ heartburn _Even after he swore off spicy foods, his pyrosis kept him up at night._  
-__pyrrhic__ _adj_ :four::pencil2: (of a victory) Won at too great a cost to have been worthwhile for the victor.  
+__pyrrhic__ _adj_ :five::pencil2: (of a victory) Won at too great a cost to have been worthwhile for the victor.  
 __Pyrrhonism__ _n_ /PIR-uh-niz-uhm/ [:scroll: After Pyrrho, a Greek philosopher, c. 360-270 BCE.] Extreme or absolute skepticism.  
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
@@ -14032,10 +14033,10 @@ __quack__ _n_ :seven: __2__ An untrained person who pretends to be a physician a
 __quadragenarian__ _adj, n_  
 __quadrennial__  
 __quadroons__  
-__quaff__ _v_ :four: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
+__quaff__ _v_ :five: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._ _We quaffed Old Crow._  
 __quaffable__  
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
-__quagmire__ _n_ :six: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ :dart: An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
+__quagmire__ _n_ :seven: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ :dart: An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :five::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ :six: To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
 __quaint__ _adj_ :nine::m: /kweɪnt/ __1__ Pleasingly or strikingly old-fashioned or unusual. _Quaint village/bridges/cottage/streets/town/village._ _Quaint neighborhood shops._ _Quaint residential area._ _Quaint Victorian buildings._ __2__ Unfamiliar or different in character or appearance; odd. _A quaint sense of duty._  
@@ -14043,8 +14044,9 @@ __quaintly__ _adv_ :two::hammer:
 __quake__ _v_ :two::hammer: _The trains emerge from a sea of quaking aspens._  
 __Quaker__  
 __quakes__ _v_  
+__quale__ _n_ (qualia _n pl_)  
 __qualify__ _v_ :two::hammer:  
-__qualm__ _n_ :nine::m: /KWAHM/ /kwam, kwom/ (qualms) __1__ An uneasy feeling about the rightness of a course of action. An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda __2__ A sudden feeling of sickness, faintness, or nausea. :es: náusea, mareo  
+__qualm__ _n_ :nine::m: /KWAHM/ /kwam, kwom/ __1__ An uneasy feeling about the rightness of a course of action. An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda __2__ A sudden feeling of sickness, faintness, or nausea. :es: náusea, mareo  
 __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._ _The situation was awkward, but nothing like the quandary they had found themselves in when their car had broken down on a deserted road._  
 __quantifiable__  
 __quarantine__ _n_ :mega:  
@@ -14056,9 +14058,9 @@ __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._
 __quarter<sup>1</sup>__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
 __quarter<sup>2</sup>__ _v_ (quartered)  
 __quarterdeck__ _n_  
-__quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
-__quavered__  
-__quavering__  
+__quash__ _v tr_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
+__quaver<sup>1</sup>__ _v_ :two::hammer:  
+__quaver<sup>2</sup>__ _n_  
 __quay__ _n_  
 __queasiness__ _n_ _There was queasiness among many residents._  
 __queasy__ _adj_ :seven: Causing or suffering from nausea: _feeling queasy after a meal._  
@@ -14069,7 +14071,7 @@ __queer<sup>3</sup>__ _v_
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench<sup>1</sup>__ _n_ :two::hammer:  
 __quench<sup>2</sup>__ _v_ :five: (quenches, quenched) To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
-__querulous__ _adj_ :dart::seven: /ˈkwɛr ə ləs, ˈkwɛr yə-/ Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
+__querulous__ _adj_ :dart::eight: /ˈkwɛr ə ləs, ˈkwɛr yə-/ Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
 __query<sup>1</sup>__ _n_ :mega::two::hammer: _The quest of the Holy Grail._  
 __query<sup>2</sup>__ _v_ :mega:  
 __questioner__ _n_  
@@ -14087,11 +14089,12 @@ __quicksand__ _n_ :two::hammer: _I’ve just signed a quicksand employment contr
 __quicksilver__  
 __quid pro quo__ _n_ :five::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
-__quiddity__ _n_ :two: /ˈkwɪdɪtɪ/ /KWID-uh-tee/ Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone’s behavior. _He portrayed the character’s quirks and quiddities with tender playfulness._  
+__quiddity__ _n_ :three: /ˈkwɪdɪtɪ/ /KWID-uh-tee/ Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone’s behavior. _He portrayed the character’s quirks and quiddities with tender playfulness._  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
 __quiescence__ _n_ A state of quiet (but possibly temporary) inaction. _Syn_ dormancy _The volcano erupted after centuries of quiescence._  
-__quiescent__ _adj_ :four: __1__ Quiet, still, or inactive.  
-__quiff__ _n_ A woman regarded as promiscuous.  
+__quiescent__ _adj_ :five: /kwy-ESS-unt/ __1__ Quiet, still, or inactive.  
+__quietude__ _n_ A state of peace and quiet. _Syn_ tranquility, quietness  
+__quiff__ _n_ :two: A woman regarded as promiscuous.  
 __quill__ _n_  
 __quilling__ _n_ /kwĭl′ĭng/ The art or craft of making decorative designs out of thin strips of rolled paper.  
 __quilt__  
@@ -14104,10 +14107,12 @@ __quinine__ _n_ :mega:
 __quinoa__ _n_ :two::hammer:  
 __quinquennial__  
 __quinsy__  
-__quintessential__ _adj_ :seven::hammer:  
+__quintessence__ _n_ /kwin-TESS-unss/  
+__quintessential__ _adj_ :eight::hammer: _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
 __quip__ _n, v_ :seven: (quipped, quippy) /KWIP/ A clever remark or a witty or funny observation or response. A clever or witty remark or comment. _They traded quips over a beer._ _Rapid-fire quips._ :es: pulla  
 __quire__ _n_ (Not to be confused with _choir_)  
-__quirk__ _n_ :nine: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._ _A gleeful roast of Utah’s cultural quirks._  
+__quirk__ _n_ :nine::m: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._ _A gleeful roast of Utah’s cultural quirks._  
+__quirky__ _adj_  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
 __quitessential__ _adj_  
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
@@ -14116,6 +14121,7 @@ __quiver__ _v_ :seven::hammer: (quivering)
 __quixotic__ _adj_ :two: Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. _Her actions may seem quixotic, but they also speak to her courage and passion._  
 __quiz__ _n_ :three: (_n pl_ quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading. _Take the quiz!_  
 __quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
+__quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
 __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quotidian__ _adj_  
@@ -14123,6 +14129,7 @@ __Quran__
 __R-rated__ _adj_ (of a motion picture) suitable for those under 17 years of age only when accompanied by an adult.  
 __rabble__ _n_ :seven: /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._ _They were once considered rabble-rousers._  
 __rabble-rouser__  
+__Rabelaisian__ _adj_  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
 __raccoon__ _n_ :pencil2:  
 __raccooned__ _v_  
@@ -14132,9 +14139,9 @@ __racinos__
 __rack up__ _v_ :six::hammer: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
 __rack<sup>1</sup>__ _n_  
 __rack<sup>2</sup>__ _v_ :three: (racked) __1__ (also _wrack_) To cause great physical or mental suffering to: _Pain racked his entire body._ _Syn_ afflict __2__ To torture by means of the rack. _She woke up racked with anxiety and fear that this was the final blow._ __3__ To place (billiard balls, for example) in a rack.  
-__racket<sup>1</sup>__ _n_ :seven: __1__ A loud distressing noise. _He heard the trains making their racket._ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood. _Extortion rackets._  
+__racket<sup>1</sup>__ _n_ :eight: __1__ A loud distressing noise. _He heard the trains making their racket._ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood. _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
-__racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
+__racketeer<sup>1</sup>__ _n_ :four: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeer<sup>2</sup>__ _v_  
 __racketeering__ _n_ :two: Engaging in a racket.  
 __raconteur__ _n_ :two: One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
@@ -14158,11 +14165,12 @@ __raffle<sup>1</sup>__ _n_ :four::hammer:
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
 __rafting__ _n_ _River rafting._  
-__ragamuffin__ _n_ A shabbily clothed, dirty child.  
+__ragamuffin__ _n_ :two: A shabbily clothed, dirty child. _Syn_ tatterdemalion  
 __ragbag__ _n_ :two: A motley assortment of things.  
 __rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __rage<sup>1</sup>__ _n_ :two::hammer:  
 __rage<sup>2</sup>__ _v_ :two::hammer: (raged)  
+__ragged__ _adj_ _I feel quite ragged from lack of sleep._  
 __raging__ _adj_ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker’s dream._  
 __ragtag__ _adj_ :four::hammer: _A ragtag group._ _It was a ragtag formation._  
@@ -14172,6 +14180,7 @@ __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended t
 __rail car__  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v intr_ :five: To express objections or criticisms in bitter, harsh, or abusive language. _Syn_ scold _He is railing against Medicaid._  
+__raillery__ _n_  
 __raiment__ _n_ :three::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _n_ _football_  
@@ -14191,10 +14200,10 @@ __ram<sup>1</sup>__ _v_ :eight::hammer: (rammed, ramming) _JFK’s PT boat was r
 __ram<sup>2</sup>__ _n_  
 __Ramadan__ _n_ __1__ (Islam) The ninth month of the Muslim year, lasting 30 days, during which strict fasting is observed from sunrise to sunset. __2__ (Islam) The fast itself.  
 __ramble__ _v_ :dart::four: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
-__rambler__ _n_ :three::hammer: (ramblers)  
+__rambler__ _n_ :four::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambly__ _adv_  
-__rambunctious__ _adj_ :five: _informal_ Boisterous; unruly.  
+__rambunctious__ _adj_ :six: _informal_ Boisterous; unruly.  
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
