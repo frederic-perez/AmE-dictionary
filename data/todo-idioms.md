@@ -305,32 +305,6 @@ __snout trout__ A smell similar to fish left on the end of your nose after going
 __so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
-__so-and-so__ :two::hammer:  
-__soldier of fortune__  
-__soldier on__ :two: To continue doing something with determination or resolve, despite difficulties or an unlikely chance of succeeding.  
-__sooner rather than later__ :dart:  
-__soul searching__  
-__sound the alarm__  
-__spaced (out)__  
-__speak in tongues__ :two: Speak in an unknown language during religious worship.  
-__speak volumes__ :three: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
-__spill the beans__ :two::hammer:  
-__spill the tea__ :two: _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
-__spin (one’) wheels__  
-__spin up__  
-__spit out__ _All models spit out photos of real people and copyrighted images._  
-__sports equinox__  
-__spot on__  
-__spread the word__  
-__spruce up__ :dart:  
-__spunky__  
-__square off__ To fight, argue, or begin a conflict or competition. _The two fighters will be squaring off tomorrow at 9 PM._  
-__stack (something) against (someone or something)__ _When Lorenzo was born, the odds were already stacked against him._  
-__stand out like a sore thumb__ To be very noticeable in usually a bad way.  
-__stand tall__ To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
-__step back__ __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
-__steppingstone__  
-__stick with (someone or something)__  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __strange bedfellows__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
