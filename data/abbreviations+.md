@@ -74,6 +74,7 @@ __GA__ Gamblers Anonymous.
 __GDP__ Gross domestic product.  
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GMO__ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
+__GOAT__ Greatest of all time.  
 __GOP__  
 __GPA__ Grade point average.  
 __GPGPU__ General purpose graphics processing unit.  
@@ -174,7 +175,7 @@ __PPE__ :two: Personal protective equipment: clothing and equipment used to ensu
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __ppl__ _informal_ People.  
 __pppn__ _abbr_ Per person per night.  
-__PR__ _The PR version of my life._  
+__PR__ :two: Public relations. _The best-kept secret in PR._ _The PR version of my life._  
 __PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
 __pt__ Patient.  
 __PTO__ Parent Teacher Organization.  

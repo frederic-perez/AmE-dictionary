@@ -43,6 +43,7 @@ __beforehand__ _adj, adv_
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
+__blight__ _v_  
 __bloodshed__ _n_ /ˈblʌdˌʃɛd/  
 __bolster__ _v_  
 __booby trap__ _n_  
@@ -79,6 +80,7 @@ __cad__ _n_
 __cagey__  
 __cajole__ _v_  
 __call upon__  
+__call__ _n_ :two: __5__ Demand: _There isn’t much call for buggy whips today._  
 __campground__  
 __can-opener__  
 __Candy Land__ _n_ (game?)  
@@ -87,6 +89,7 @@ __cantillation__
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __caper__ _v_ _The singers caper around the stage._  
 __caroming__ _v_  
+__caution__ _v_  
 __cautionary tale__ _n_  
 __ceasefire__ _n_  
 __chiaroscuro__ _n_  
@@ -162,6 +165,7 @@ __deciduous__ _adj_ Shedding the leaves annually.
 __decommission__ _v_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
+__development__ _n_ _A key development._  
 __disengage__  
 __disobligation__  
 __dispel__ _v_  
@@ -224,6 +228,7 @@ __ethos__ _n_
 __eviction__ _n_  
 __expunge__ _v tr_  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
+__eye__ _v_ _Kyiv eyes global peace summit this year._  
 __fabricate__ _v_  
 __fib<sup>1</sup>__ _n_  
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
@@ -249,6 +254,7 @@ __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cab
 __flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
 __foliage__ _n_ :mega: /FOH-lee-ij/ /ˈfoʊ li ɪdʒ/ Foliage refers to the leaves of a plant or of many plants.  
 __footage__ _n_ :mega: /ˈfʊt ɪdʒ/  
+__forceps__ _n_  
 __fungible__  
 __gag order__ _n_  
 __giddy__ _adj_  
@@ -269,10 +275,12 @@ __hand-crafted__ _adj_
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1400s.  
 __hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. _Syn_ brown potatoes  
+__heinous__ _adj_  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __heretofore__  
 __hex sign__ _n_ _She made the hex sign._  
+__hex__ _n_ __1__ An evil spell; a curse. __2__ One that brings bad luck.  
 __hex<sup>1</sup>__ _n_ :dart: __1__ An evil spell; a curse. __2__ One that brings bad luck.  
 __hex<sup>2</sup>__ _v tr_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
@@ -281,10 +289,13 @@ __highball__ _v_ _To decide whether to lowball or highball an offer._
 __highlight__ _n_ :es: punto culminante  
 __hinder__ _v_  
 __hostage__ _n_ :mega: /ˈhɒs tɪdʒ/  
+__human shield__  
 __hyphen__ _n_  
 __hypochondriac__  
 __ibex__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
+__inquiry__  
+__kinda__  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -320,6 +331,7 @@ __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marke
 __pamper__ _v_  
 __pilfer__ _v_  
 __pilfered__  
+__pillowcase__ _n_  
 __pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
 __pinch-faced__ _adj_ The term _pinch-faced_ typically describes a person with a thin, pale, and sometimes unpleasant-looking face. _A pinch-faced balding man with a deep drawl._  
 __pincher__ _n_  
@@ -334,6 +346,7 @@ __pizzicato__
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __porky__  
 __portend__ _v_  
+__preposterous__  
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
@@ -345,6 +358,7 @@ __purport<sup>2</sup>__ _n_
 __purported__  
 __purportedly__  
 __purview__ _n_  
+__quell__ _v tr_  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
 __ramrod__  
@@ -430,6 +444,7 @@ __risk stratification__ _n_ A formal estimate of the probability of a person’s
 __roadblock__ _n_  
 __rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
 __roll-up__ _n_ :two: A cigarette that someone makes for themself, using tobacco and cigarette papers.  
+__rollercoaster__ _adj_ /ROH-luhr-koh-stuhr/  
 __Rolley Hole__ _n_ A traditional game played with marbles that originated in the Appalachian region of the United States. It is also known by various other names such as Rolley Hole Marbles, Rolley Hole Knuckle Dabber, and Rolley Hole Board.  
 __rollout__ _n_  
 __rom-com__ _n_ A comedic narrative, especially a film, centered on a romantic storyline.  
@@ -602,6 +617,7 @@ __spite__ _n_
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious; vindictive. :es: rencoroso  
 __splenetic__ _adj_ /splih-NET-ik/ Splenetic is a formal word that typically describes expressions of sharp annoyance and anger.  
 __spoon__ _v_  
+__spout__ _v_  
 __spritz__ _v_ _He spritzed me with a mouthful of martini._  
 __spurt__ _n_ _A huge spurt of activity._  
 __squalid__ _adj_ Dirty and wretched, as from poverty or lack of care. _Syn_ flyblown, sordid  
@@ -641,6 +657,7 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
+__stockpile__ _n_  
 __strain__ _n_  
 __strayed__ _v_ _His thoughts strayed._  
 __strummíng__ _v_ _She was strumming her guitar._  
@@ -685,6 +702,7 @@ __tachypnoea__
 __tacky__ _adj_ _Tacky birthday present._  
 __tagalong__ _n_  
 __Takeshi__ _n_ :mega:  
+__talking point__ _n_  
 __Tall Blacks__ _n pl_  
 __tamarind__  
 __tamper__ _v_  
@@ -695,6 +713,7 @@ __televise__ _v_ To broadcast or be broadcast by television.
 __telling__ _adj, n_ _That response was very telling._  
 __telltale__ _adj_ _Telltale signs._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
+__tentative__ _adj_  
 __terraform__ _v_  
 __terrazzo__  
 __terrific__ _adj_ _The traffic is terrific._  
@@ -727,6 +746,7 @@ __undercut__
 __underpin__ _v tr_  
 __underpinnings__ _n_ :two::hammer:  
 __unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
+__unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Not ambiguous; plain  
 __unerring__ _adj_  
 __unfurl__ _v_  
 __unheeded__  
@@ -787,6 +807,7 @@ __vindicate__
 __vise__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
 __voracity__ _n_ /vuh-RASS-uh-tee/  
+__walkout__ _n_ :two: __1__ A labor strike.  
 __wanly__  
 __wanton__  
 __warrant__ _v_  
