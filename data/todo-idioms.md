@@ -1,14 +1,17 @@
 __(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all seriousness.  
+__(as) happy as a clam__ Very joyful and contented.  
 __(be) careful what you wish for(, (because) you just might get it)__ A warning that something that one desires might prove to problematic or undesirable were it to happen or come true.  
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(I) hope not__  
+__(it’s) (a)bout time__  
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering.  
 __(someone’s or something’) days are numbered__  
 __(someone’s or something’s) days are numbered__  
 __a different kettle of fish__  
 __a kind of (something)__ A replacement or alternative to (the real thing).  
+__a laundry list__ A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._  
 __a lifeline__ :dart: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
 __a shooting spree__ A series of firearm attacks on multiple people committed consecutively or in a relatively short period of time, usually by a single person.  
 __all ears__  
@@ -21,6 +24,7 @@ __at (long) last__ Finally. Typically said after a long period. _My husband retu
 __at stake__  
 __at the end of the day__  
 __bank on__ To rely on a future occurrence (even though it might not happen). _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
+__bankroll__ _Remember, Microsoft bankrolls OpenAI, which basically means it just paid for their secret recipe and served it up themselves._  
 __bbg__  
 __be here to stay__  
 __be left to (one’s) own devices__  
@@ -31,14 +35,17 @@ __bleeding heart__
 __bop__  
 __bounce back__ :dart: __2__ Of a person, to recover from a setback. _The doctors expect her to bounce back and make a full recovery._  
 __break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
+__breeding ground__  
 __bundle up__  
 __C-note__  
+__call out__  
 __call someone names__  
 __canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __case in point__ An example that demonstrates a point being made as truthful or correct.  
 __chances are__  
 __cherry on top__  
 __chime in__  
+__close a/the deal__  
 __come to an end__  
 __connect the dots__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
@@ -46,6 +53,7 @@ __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m 
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __curve ball__  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
+__day in and day out__  
 __dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
@@ -70,6 +78,7 @@ __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A 
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double down__  
 __double-edged sword__ Something that can be both beneficial and problematic.  
+__down the toilet__  
 __drag (one’s) ass__  
 __drag (one’s) feet__  
 __drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
@@ -85,6 +94,7 @@ __en route__
 __every so often__  
 __eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
+__feast (up)on (something)__  
 __flat-footed__ __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
 __go out of (one’s) way (to do something)__  
 __go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
@@ -115,6 +125,7 @@ __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is ha
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
+__have (one’s) head in the clouds__ To be impractical, aloof, or fanciful, often to the point of being very unhelpful or counterproductive. _He has his head in the clouds while the rest of us are trying to figure out how to fix this!_  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
 __have (something) on__ To be busy or engaged with something; to have plans to do something at a particular point in time. _I’’’ve got a few things on at the moment, but business has been pretty slow overall._  
@@ -176,12 +187,14 @@ __in the hot seat__
 __in the least__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
+__jazz up__  
 __jump in line__  
 __keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
 __late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
 __lay out__ :dart: __3__ To detail or explain something explicitly, such as a plan or concept. A noun or pronoun can be used between “lay” and “out.” _When he began laying out his campaign strategy, we all realized that he actually had a shot at winning._  
 __leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __light at the end of the tunnel__  
+__lightning fast__ Incredibly fast; too quick to keep up with. _Hyphenated if used before a noun._  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __make (one’s)/the rounds__  
 __make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
@@ -192,6 +205,7 @@ __messed up__ _informal_
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __move (one) to tears__  
 __move the needle__  
+__movers and shakers__ People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime. Who are the movers and shakers around here?_  
 __Mr. Right__  
 __mud shark__ _US black_ A white man or woman who prefers black partners.  
 __mug__ _Getting your mug on TV._  
@@ -221,6 +235,7 @@ __pick (one’s) brain(s)__
 __pipe down__ To become quiet and calm; to stop being loud or boisterous. Often said as a command.  
 __pipe up__ To make oneself heard; to interrupt or interject.  
 __play down__  
+__powerhouse__ A person, group, organization, etc., that has a lot of power, force, or influence.  
 __pro bono__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
@@ -259,6 +274,7 @@ __rule out__ :two::hammer:
 __rumor has it (that)__  
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
+__schlepp__  
 __sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
 __sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
 __sexual tension__  
@@ -305,7 +321,10 @@ __snout trout__ A smell similar to fish left on the end of your nose after going
 __so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
+__stave off__  
+__steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
+__stop short__ To abruptly stop doing something.  
 __strange bedfellows__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __sugar talk__ Sugar talk refers to a type of language or communication that is overly flattering, ingratiating, or excessively polite, often with the intention of manipulating or deceiving others.  
@@ -370,6 +389,7 @@ __the nitty-gritty__
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the sky is the limit__  
+__the tip of the iceberg__  
 __then again__  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
@@ -382,6 +402,7 @@ __to a T__
 __tone deaf__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
+__toss out__  
 __tough talk__  
 __trash talk__ _I won’t trash talk._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
@@ -403,7 +424,7 @@ __under (one’s) watch__ A situation where someone is responsible for overseein
 __under one’s belt__  
 __under the guise of (something)__  
 __under the hood__  
-__under the sun__  
+__under the sun__ :two::hammer:  
 __unpack__  
 __until kingdom come__ For a very long, indefinite amount of time; forever.  
 __until next time__  
