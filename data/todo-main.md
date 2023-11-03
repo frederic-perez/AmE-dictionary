@@ -80,32 +80,6 @@ __cad__ _n_
 __cagey__  
 __cajole__ _v_  
 __call upon__  
-__call__ _n_ :two: __5__ Demand: _There isn’t much call for buggy whips today._  
-__campground__  
-__can-opener__  
-__Candy Land__ _n_ (game?)  
-__candy stripper__ _n_  
-__cantillation__  
-__cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
-__caper__ _v_ _The singers caper around the stage._  
-__caroming__ _v_  
-__caution__ _v_  
-__cautionary tale__ _n_  
-__ceasefire__ _n_  
-__chiaroscuro__ _n_  
-__clang__ _v_ _Bells clanging._  
-__clanging__  
-__clangor__ _n, v_  
-__clarks__ _n_  
-__clatter__ _n_  
-__coax__ _v_ /KOHKS/ /kəʊks/ /kōks/  
-__cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
-__code of conduct__  
-__color blind__  
-__coma__ _n_ :mega:  
-__commensurate__ _adj_  
-__commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victuals, provender  
-__companion__ _v tr_  
 __compound__ _v_  
 __compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __conceit__  

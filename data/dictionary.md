@@ -2564,7 +2564,7 @@ __call out<sup>1</sup>__ _n_ :two::hammer:
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call to action__  
-__call<sup>1</sup>__ _n_ :five::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._  
+__call<sup>1</sup>__ _n_ :seven::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ __5__ Demand: _There isn’t much call for buggy whips today._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _n_ :three: __1__ A recall of a recently sold product by the manufacturer to correct a defect. _Syn_ recall _The manufacturer was forced to issue a callback of the toy when it was declared a choking hazard._ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
 __calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
@@ -2599,7 +2599,7 @@ __campanile__ _n_ A bell tower, especially one near but not attached to a church
 __camper shell__  
 __camper van__ _n_ (camping van) A motor caravan.  
 __camper__ _n_ :five::camera::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
-__campground__ _n_ :three: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
+__campground__ _n_ :four: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
 __campier__ _adj_ _Campier presentations._  
 __campiest__ _adj_ _Birdcage was probably Nichol’s campiest comedy._  
@@ -2607,6 +2607,7 @@ __campiness__ _n_ _Showbiz campiness._
 __campsite__ _n_  
 __campy__ _adj_ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
+__can-opener__  
 __Canadian Mounties__ _n_  
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
@@ -2618,6 +2619,8 @@ __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)
 __candor__ _n_ :three: /KAN-der/ Unreserved, honest, or sincere expression. The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._ _During the interview, the comedian spoke with candor about the nervousness she feels every time she takes the stage._  
 __candy cane__ _n_ :two: (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __candy corn__ _n_  
+__Candy Land__ _n_ (game?)  
+__candy stripper__ _n_  
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
@@ -2647,8 +2650,10 @@ __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait o
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilever__ _v_ :four::hammer: (cantilevered)  
+__cantillation__  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __canyoned__ _adj_ _Canyoned city streets._  
+__cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __cap<sup>1</sup>__ _n informal_ :four::hammer: _NASA’s AEGIS has a four-megabyte cap of available RAM._ __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
@@ -2657,7 +2662,7 @@ __caparison<sup>1</sup>__ _n_
 __caparison<sup>2</sup>__ _v_ __1__ To outfit (a horse) with an ornamental covering. __2__ To dress (another) in rich clothing. _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper<sup>1</sup>__ _n_ :eight: __1__ A playful leap or hop. _Syn_ capriole _The child’s playfulness was amusing at first, but they soon grew tired of his capers._ __2__ A frivolous escapade or prank. __3__ _slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
-__caper<sup>2</sup>__ _v_  
+__caper<sup>2</sup>__ _v_ :two::hammer: _The singers caper around the stage._  
 __capers__ _n pl_  
 __capful__  
 __capitalize__ _v_  
@@ -2724,7 +2729,7 @@ __carol__ _v_ :two::hammer: (caroling) (vs Christmas carol) _Join others carolin
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
-__carouse__ _v_ :seven: /kuh-ROWZ/ (“OW” as in ‘cow’) (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. To drink alcohol, make noise, and have fun with other people. _Syn_ roister _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._ _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
+__carouse__ _v_ :eight: /kuh-ROWZ/ (“OW” as in ‘cow’) (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. To drink alcohol, make noise, and have fun with other people. _Syn_ roister _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._ _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
 __carousel__ _n_ :two::hammer:  
 __carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
 __carpal tunnel syndrome__ _n_  
@@ -2854,6 +2859,8 @@ __caulking__ _n_ :two: A usually impermeable substance used for filling seams, a
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :seven::hammer:  
 __caustic__ _adj_ /KAWSS-tik/  
+__caution__ _v_  
+__cautionary tale__ _n_  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
@@ -2868,7 +2875,7 @@ __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteri
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
-__ceasefire__ _n_ :three::hammer:  
+__ceasefire__ _n_ :four::hammer:  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
@@ -3038,6 +3045,7 @@ __chestnut__ _n_ :five::mute:[ches~~t~~nut]:hammer: _He uttered memorable chestn
 __chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
 __chevron__ _n_  
 __chewed up__  
+__chiaroscuro__ _n_  
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
 __Chicagoan__ _n_  
@@ -3243,8 +3251,9 @@ __clampdown__ _n_ :six::hammer: _An immigration clampdown._
 __clamped__ _v_  
 __clandestine__ _adj_ :two: /klænˈdɛstɪn/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
 __clang<sup>1</sup>__ _n_ :four::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._  
-__clang<sup>2</sup>__ _v_  
-__clanging__ _adj_ :astonished:  
+__clang<sup>2</sup>__ _v_ :two::hammer: _Bells clanging._  
+__clanging__ _adj_ :astonished::two::hammer:  
+__clangor__ _n, v_  
 __clank__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
@@ -3255,6 +3264,7 @@ __claret__
 __clarion call__ _n_ :five::hammer:  
 __clarion<sup>1</sup>__ _n_  
 __clarion<sup>2</sup>__ _adj_  
+__clarks__ _n_  
 __clasp<sup>1</sup>__ _n_  
 __clasp<sup>2</sup>__ _v_ _I clasped the chain around her neck._  
 __clasped__ _v_  
@@ -3263,7 +3273,7 @@ __class action__
 __classic__ _adj_  
 __classical__ _adj_  
 __classy__ _adj_ :two::hammer:  
-__clatter<sup>1</sup>__ _n_ :three::hammer: _The clatter of the Telex machines._  
+__clatter<sup>1</sup>__ _n_ :four::hammer: _The clatter of the Telex machines._  
 __clatter<sup>2</sup>__ _v_ (clattered)  
 __claw back__ _v_ :two::hammer:  
 __claw machine__ _n_ :two::camera: A claw crane game machine.  
@@ -3394,7 +3404,7 @@ __coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coats-of-arms__ _n pl_  
 __coattails__ _n_ :three::hammer: _I think we’re going to be riding his coattails a little bit._  
-__coaxing__ _v_  
+__coax__ _v_ :two::hammer: /KOHKS/ /kəʊks/ /kōks/  
 __cob__ _n_ :two::hammer: _Savor corn on the cob._  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble up__ _phr v_  
@@ -3413,9 +3423,11 @@ __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._
 __cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
+__cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __cod__ _n_ :es: bacalao  
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
 __coddle__ _v tr_ :eight: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__code of conduct__  
 __codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
@@ -3499,6 +3511,7 @@ __colon__ _n_ :mega:
 __colonel__ _n_ :two::mega::hammer:  
 __colonnade__  
 __colophon__ _n_  
+__color blind__  
 __color scheme__ _n_ :two: A particular combination of colors. _They chose an unusual color scheme for the living room._  
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
@@ -3510,7 +3523,7 @@ __colostomy bag__
 __colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :mute:[colum~~n~~]  
-__coma__ _n_ :three::hammer: _Medically induced coma._ _Schumacher out of coma._  
+__coma__ _n_ :four::mega::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
@@ -3549,11 +3562,12 @@ __commencement__ _n_ _The high school commencement ceremony._
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :six: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__ _adj_ :six: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
+__commensurate__ _adj_ :seven: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
 __commiserate__ _v_ :nine::hammer: /kəˈmɪzəˌreɪt/  
+__commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victuals, provender  
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __commissioned__ _adj_  
@@ -3583,6 +3597,7 @@ __comp__ _n_ (comps) __4__ A competition.
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __compadre__ _n_ /kum-PAH-dray/ A person’s close friend or buddy. _They are longtime compadres who have been through a lot together._  
+__companion__ _v tr_  
 __company__ _n_ _Joe-Jim, Bobo and company are back._  
 __compartmentalize__ _v_ :four::hammer:  
 __compassionate__ _adj_ :three::hammer:  
