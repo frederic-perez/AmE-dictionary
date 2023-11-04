@@ -95,34 +95,7 @@ __every so often__
 __eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
 __feast (up)on (something)__  
-__flat-footed__ :dart::two: __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
-__gaslight__  
-__go out of (one’s) way (to do something)__  
-__go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
-__grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
-__grasshopper__ _slang_ Someone who frequently smokes marijuana.  
-__grínd one’s teeth__  
-__grouse__ To complain or gripe.  
-__grovel__ To interact with someone in an overtly agreeable or deferential manner. _Well, if your mother’s mad at me, I guess I’m going to have to grovel—we want this family dinner to be pleasant, after all._  
-__grunt work__ Work that is menial and often tedious.  
-__guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
-__hamster wheel__ _These changes will get you off this hamster wheel._  
-__handwaving__ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
-__hang on (one’s) words__ To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
-__hang on to your hat__ Get ready for what’s coming or about to happen!  
-__hang out__ __1__ To spend time in a place habitually. _Is this where you guys hang out all the time?_ __2__ To spend time aimlessly; to waste time. _Bill: What are you doing this afternoon? Tom: Oh, I’ll just hang out._ _Kids hang out too much these days._  
-__hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
-__hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt. _Don’t just stare at me with that hangdog look. You’ve already made a mess of things, so now you have to deal with it!_  
-__hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US. _Political correctness has become so authoritarian these days that saying anything with even the slightest derogatory implication is seen as a hanging offense!_  
-__hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
-__happen by__ To appear, arrive, pass, or come upon casually or by chance. _I happened by a quaint new craft store the other day._  
-__happily ever after__  
-__happy camper__  
-__hard done-by__  
-__hard knocks__ The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_  
-__hard of hearing__  
-__hard on the eyes__ Unattractive; ugly.  
-__hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  

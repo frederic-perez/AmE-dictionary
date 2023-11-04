@@ -1484,6 +1484,7 @@ __flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and
 __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __flat out__  
 __flat-earther__  
+__flat-footed__ :dart::two: __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
 __flatline__ _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __flesh out__ :two::hammer:  
 __flick off__ :dart: _He flicked off the light._  
@@ -1610,7 +1611,7 @@ __gangbusters__ __1__ Successful. _Oh, presenting the case to the students was g
 __garbage in, garbage out__  
 __gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
 __gas__ _v_ :two::hammer: _We’re here to gas on the show._  
-__gaslight__ :nine: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gaslight__ :nine::m: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __gear up__ _The same groundhog festival is gearing up again and again._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
@@ -1794,6 +1795,7 @@ __go off the handle__ To become uncontrollably angry; to lose control of one’s
 __go off the rails__  
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go one on one__  
+__go out of (one’s) way (to do something)__  
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
 __go out the window__ :two: To be forgotten, disregarded, or lost. _Once at ABC, though, any attempts at balance went directly out the window._  
 __go out with a bang__ :two: To finish or cease doing something in a spectacular, great, or exciting manner. _He really went out with a bang, scoring a touchdown at the very last second of the game!_  
@@ -1818,7 +1820,7 @@ __go through a phase__ To experience or be in the midst of a temporary period of
 __go through the roof__  
 __go to bed with the chickens__ To go to bed very early.  
 __go to Canossa__ :two: To become or make oneself humble; to do a penance or seek absolution for some wrong.  
-__go to great lengths (to do something)__ :five::hammer:  
+__go to great lengths (to do something)__ :six: To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
 __go to hell and back__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to shit__  
@@ -1893,11 +1895,13 @@ __grand poobah__ :two: The most important or powerful person in a group, organiz
 __grand scheme__ :two: The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.” _I know you’re worried about getting a bad grade on this test, but you’re such a great student that I doubt it will matter in the grand scheme of things._  
 __grand total__ The final amount after adding several different numbers or sums. _After everything was accounted for, the cost of remodeling the kitchen came to a grand total of $4,500._  
 __grande dame__ _n_  
+__grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
 __grapple with (someone or something)__ :three::hammer: _Telehealth companies grapple with regulatory uncertainty._  
 __grasp at straws__ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ :two: To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grasp the nettle__ _BrE_  
 __grasp__  
+__grasshopper__ _slang_ Someone who frequently smokes marijuana.  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
 __grease payment__ :two: A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
@@ -1914,12 +1918,17 @@ __greenwash__ :two: __1__ _v_ To make illegally obtained money appear to have co
 __grifter__ Someone who swindles other people. _Mom, don’t be a fool and give this guy more money when he hasn’t done a single part of this job right so far. He’s a total grifter!_  
 __grill (someone) (about something)__ :two: To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
 __grind (someone’s) gears__ :two: To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
+__grínd one’s teeth__  
 __grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
 __gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
 __groom (someone) for (something)__  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __ground-breaking__  
+__grouse__ To complain or gripe.  
+__grovel__ To interact with someone in an overtly agreeable or deferential manner. _Well, if your mother’s mad at me, I guess I’m going to have to grovel—we want this family dinner to be pleasant, after all._  
+__grunt work__ Work that is menial and often tedious.  
 __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
+__guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
 __guilt complex__ :two: A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __guilty pleasure__ :three: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
@@ -1947,6 +1956,7 @@ __half-baked__
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
 __halfway decent__:two: Somewhat good, useful, or enjoyable, but not very; passable.  
 __Hallmark moment__  
+__hamster wheel__ _These changes will get you off this hamster wheel._  
 __hand (something) to (someone) on a plate__ To give or relinquish something to someone very easily, without them having to work very hard to get or achieve it. _The team’s defense has been atrocious today, handing a victory to their opponents on a plate._  
 __hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
 __hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
@@ -1954,19 +1964,29 @@ __hand out__
 __hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
 __hands down__ :eight: Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._ _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
-__handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
-__hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
+__handwaving__ _n_ :astonished::two: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
+__hang on (one’s) words__ :two: To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
+__hang on to your hat__ Get ready for what’s coming or about to happen!  
 __hang one’s head__ Express shame or contrition. For example, _No need to hang your head-you’ve done the best you can._  
+__hang out__ __1__ To spend time in a place habitually. _Is this where you guys hang out all the time?_ __2__ To spend time aimlessly; to waste time. _Bill: What are you doing this afternoon? Tom: Oh, I’ll just hang out._ _Kids hang out too much these days._  
+__hang paper__ To write a dishonored or bad check. _My ex-husband has been attempting to hang paper all over the state._  
 __hang someone out to dry__ To abandon someone who is in trouble.  
-__hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt.  
-__hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
+__hangdog look__ :two: A self-pitying expression of abjection, defeat, shame, or guilt. _Don’t just stare at me with that hangdog look. You’ve already made a mess of things, so now you have to deal with it!_  
+__hanging offense__ :two: A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US. _Political correctness has become so authoritarian these days that saying anything with even the slightest derogatory implication is seen as a hanging offense!_  
+__hanker for (something)__ To have a very strong, persistent desire or craving for something. _I’ve been hankering for sushi ever since I came back from Tokyo last month._  
+__happen by__ To appear, arrive, pass, or come upon casually or by chance. _I happened by a quaint new craft store the other day._  
+__happily ever after__  
 __Happily Ever After__ :two::hammer:  
 __happy as a clam__ Very happy.  
+__happy camper__  
+__hard done-by__  
 __hard facts__  
-__hard knocks__ :two: The real and practical experiences of life, especially those involving hardship or adversity. _The school of hard knocks._  
+__hard knocks__ :three: The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_ _The school of hard knocks._  
 __hard nut to crack__ A problem that is hard to solve or a person who is difficult to understand.  
-__hard on the eyes__ Unattractive; ugly.  
+__hard of hearing__  
+__hard on the eyes__ :two: Unattractive; ugly.  
 __hard pressed__ :three: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._ _You’ll be hard pressed to visit them._  
+__hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nosed__ :two: Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
 __hardliner__ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
