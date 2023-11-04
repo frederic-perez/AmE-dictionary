@@ -4,7 +4,7 @@ __(be) careful what you wish for(, (because) you just might get it)__ A warning 
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(I) hope not__  
-__(it’s) (a)bout time__  
+__(it’s) (a)bout time__ :two::hammer:  
 __(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering.  
 __(someone’s or something’) days are numbered__  
@@ -95,7 +95,8 @@ __every so often__
 __eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
 __feast (up)on (something)__  
-__flat-footed__ __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
+__flat-footed__ :dart::two: __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
+__gaslight__  
 __go out of (one’s) way (to do something)__  
 __go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
 __grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
@@ -185,6 +186,7 @@ __in harm’s way__
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
+__in the loop__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jazz up__  
@@ -197,6 +199,7 @@ __light at the end of the tunnel__
 __lightning fast__ Incredibly fast; too quick to keep up with. _Hyphenated if used before a noun._  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __make (one’s)/the rounds__  
+__make headway__ To make progress.  
 __make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
 __make no mistake__  
 __mea culpa__  
@@ -275,6 +278,7 @@ __rumor has it (that)__
 __rumor mill__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __schlepp__  
+__set (someone, something, or oneself) apart (from someone or something)__  
 __sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
 __sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
 __sexual tension__  
@@ -292,7 +296,7 @@ __shithead__
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __shtick__ _Sometimes he pushed his shtick a little too far._  
-__shy away (from someone or something)__  
+__shy away (from someone or something)__ :two::hammer:  
 __side hustle__  
 __silly me__  
 __silver bullet__  
@@ -326,6 +330,7 @@ __steal the show__ To become the main focus of attention or deliver the most cap
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __stop short__ To abruptly stop doing something.  
 __strange bedfellows__  
+__straw man__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __sugar talk__ Sugar talk refers to a type of language or communication that is overly flattering, ingratiating, or excessively polite, often with the intention of manipulating or deceiving others.  
 __sugarcoat (something)__  
@@ -399,6 +404,7 @@ __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another w
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __to a T__  
+__to name (but) a few__  
 __tone deaf__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
@@ -476,9 +482,11 @@ __word of mouth__ Spoken communication: _News of their success spread by word of
 __word on the street__  
 __work (one’s) tail off__  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
+__wrap up__ __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
 __wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
+__yada yada__ Boring or empty talk.  
 __yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
 __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
