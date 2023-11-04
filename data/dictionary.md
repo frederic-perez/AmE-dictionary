@@ -1733,7 +1733,7 @@ __blemish__ _n_ :six::hammer: (blemishes)
 __blemished__ _v_  
 __blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of tea._ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :four::hammer: _Mobile home parks have long been associated with crime and blight._  
-__blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
+__blight<sup>2</sup>__ _v_ :five::hammer: (blighted)  
 __blimp__ _n_ :three: __1__ (Aeronautics) A small nonrigid airship, esp one used for observation or as a barrage balloon. A nonrigid, buoyant airship. _Syn_ sausage balloon, sausage _Balloons, blimps, and aircraft._ _A World War II blimp hangar._  
 __blin__ _n_ (blinis)  
 __blind as a bat__  
@@ -1770,6 +1770,7 @@ __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that
 __blood thinner__ _n_ A drug used to inhibit blood clotting.  
 __blood-expander__  
 __bloodlusting__  
+__bloodshed__ _n_ /ˈblʌdˌʃɛd/  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
 __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
 __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog posts published into a book.  
@@ -1918,7 +1919,7 @@ __bonobo__
 __bonus__ _n_ :mega: /bō′nəs/  
 __boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
-__booby trap__ _n_ :two::hammer:  
+__booby trap__ _n_ :three::hammer:  
 __booby-trapped 105’s__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
@@ -1968,12 +1969,14 @@ __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; boo
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
 __bootstrap__ _v_ :two: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
+__bootstrapping__ _n_  
 __booty__ _n_ _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
 __bop<sup>1</sup>__ _n_ A blow; a punch.  
 __bop<sup>2</sup>__ _v tr_ :four: To hit or strike.  
 __bop<sup>3</sup>__ _v intr_ :dart: _slang_ To move, go, or proceed. _I just bopped down to Boston for an action-packed 24 hours!_  
+__borak__ _n_ Rubbish; nonsense.  
 __borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
@@ -1984,6 +1987,7 @@ __boreal__ _adj_ /BOH-ree-uhl/ [:scroll: From Boreas, the god of the north wind 
 __boredom__ _n_ :two::hammer:  
 __borne__ _v_ :five::hammer:  
 __borough__ _n_ :two::hammer::mute:[borou~~gh~~]  
+__borscht belt__  
 __bosh__ _n informal_ Empty or meaningless talk or opinions; nonsense. Pretentious or silly talk or writing.  
 __bosom__ _n_ :two::hammer:  
 __bossdom__ _n_  
@@ -1996,6 +2000,7 @@ __botch__ _v_ _McDonald’s is getting heat for its AI voicebots completely botc
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
 __bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
 __botnet__  
+__Botox__ _n_  
 __bottle fly__ _n_  
 __bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles.  
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
@@ -2009,11 +2014,14 @@ __bouillon cube__ _n_
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
 __Boulder__ _n_ :mega: /ˈboʊl dər/  
 __boule__ _n_ __2__ A round loaf of bread.  
+__boulevardier__ _n_  
+__bounce castle__ _n_  
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :five: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
+__bounty hunter__  
 __bounty__ _n_ :five: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
@@ -2029,19 +2037,21 @@ __bowie knife__ _n_ :two::hammer:
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
 __bowl__ _n_ :two: A large structure for open-air sports or entertainments.  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
-__bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
+__bowling alley__ _n_ :four: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __bowsprit__ _n_  
 __box score__  
 __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boxwood__ _n_ :two::hammer: /ˈbɒksˌwʊd/ /BOY-kaht/  
+__boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
-__brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
+__brace<sup>1</sup>__ _n_ _To define Python dictionaries, we use braces._  
+__brace<sup>2</sup>__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracing swim__  
-__bracken__ _n_ A cluster of ferns or shrubs.  
+__bracken__ _n_ :two: A cluster of ferns or shrubs.  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
 __brackish__ _adj_ :four: __1__ /BRACK-ish/ Brackish is typically used to mean “somewhat salty,” and most often describes water or bodies of water, such as rivers, lakes, and estuaries. Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ _The mangrove swamp is home to many species of plants and animals that thrive in brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
@@ -2053,7 +2063,7 @@ __brain death__ _n_ _We’re witnessing the brain death of Twitter._
 __brain drain__  
 __brain fog__ _n_  
 __brainchild__ _n_ :five::hammer:  
-__brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
+__brainiac__ _n_ :three: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
 __brainpower__ _n_  
 __brainwash<sup>1</sup>__ _v tr_  
@@ -2083,7 +2093,7 @@ __bravado__ _n_ :seven: /bruh-VAH-doh/ If you act with bravado, you are making a
 __brave__ _v_ :two::hammer:  
 __bravura__  
 __brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
-__bray__ _v_ :three::hammer: (brayed, braying) _Donkey’s braying._  
+__bray__ _v_ :four::hammer: (brayed, braying) _Donkey’s braying._  
 __brazen__ _adj_ :four: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ _adv_ :two::hammer:  
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
@@ -2155,6 +2165,7 @@ __brimful__
 __brindle__ _adj_ Having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats. _Syn_ brinded, brindled, tabby _A brindle cur._  
 __bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
 __briny__ _adj_  
+__brio__ _n_  
 __Brisbane__ _n_ :mega: /ˈbrɪz beɪn, -bən/  
 __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
 __brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
@@ -2169,10 +2180,11 @@ __Britons__
 __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
+__broach__ _v_ :nine: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
+__broadcast__ _v_ (broadcasted)  
 __broaden__ _v_  
 __broadloom__ _n_  
 __broadside__ _n_ /BRAWD-syde/ The word broadside most often refers to a very strong and harsh spoken or written attack, but it has other meanings as well, among them “an attack by a ship in which all the guns on one side of the ship are fired together.” _Although the freshman representative knew her decision was bound to be unpopular, she was taken aback by the broadside leveled at her by her hometown newspaper’s editorial page._  
@@ -2186,6 +2198,7 @@ __broiler__ _n_ _An infrared broiler._
 __broken accent__  
 __broken English__ _n_  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
+__broker__ _n_  
 __broker<sup>1</sup>__ _n_  
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
 __brokerage__ _n_  
@@ -2196,7 +2209,7 @@ __bronchus__ _n_ Either of two main branches of the trachea, leading directly to
 __bronco__ _n_ :camera:  
 __broncobusting__  
 __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._  
-__brood<sup>2</sup>__ _v_ :four::hammer: (brooded)  
+__brood<sup>2</sup>__ _v_ :five::hammer: (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :nine: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
@@ -2260,7 +2273,9 @@ __buckwheat__ _n_
 __buckwheats__  
 __bucolic__ _adj_ Of or characteristic of the countryside or its people; rustic. _Syn_ rustic, arcadian, pastoral  
 __bud__ _v_  
-__budding__  
+__Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
+__Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
+__budding__ _adj_ :two: In an early, usu. promising stage of development: _a budding artist._ _A budding author._  
 __buddy up__  
 __buddy__  
 __budge__ _v_ :three::hammer: (budged)  
@@ -2322,7 +2337,7 @@ __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, 
 __bumble<sup><1/sup>__ _v intr_ :nine::m: __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner. _Syn_ blunder __3__ To make a buzzing sound.  
 __bumble<sup>2</sup>__ _v tr_ :nine::m: __1__ To say (something) in a faltering manner. __2__ To bungle; botch: _bumble one’s lines in a play._  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
-__bumbling__ _adj_ :two: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
+__bumbling__ _adj_ :three: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
@@ -2347,7 +2362,7 @@ __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to fr
 __bungler__ _n_ :two: Someone who makes mistakes because of incompetence. _Upper-crust bunglers._  
 __bunglesome__ _adj_  
 __bungling__ _adj_ Spoil by incompetence.  
-__bunion__ _n_  
+__bunion__ _n_ :two::hammer: /ˈbʌnjən/ :es: juanete  
 __bunk bed__ _n_ (bunk beds) Either of a pair of narrow beds stacked one on top of the other.  
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend’s house._ __2__ To go to bed: _bunked down early._  

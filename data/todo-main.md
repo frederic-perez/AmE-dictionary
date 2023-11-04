@@ -43,33 +43,6 @@ __beforehand__ _adj, adv_
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
-__blight__ _v_ :two::hammer:  
-__bloodshed__ _n_ /ˈblʌdˌʃɛd/  
-__bolster__ _v_ :two::hammer:  
-__booby trap__ _n_  
-__bootstrapping__ _n_  
-__borak__ _n_ Rubbish; nonsense.  
-__borscht belt__  
-__Botox__ _n_  
-__boulevardier__ _n_  
-__bounce castle__ _n_  
-__bounty hunter__  
-__bowling alley__ _n_  
-__boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
-__brace__ _n_ _To define Python dictionaries, we use braces._  
-__bracken__ _n_  
-__brainiac__ _n_  
-__braying__ _v_  
-__brio__ _n_  
-__broach__ _v_  
-__broadcast__ _v_ (broadcasted)  
-__broker__ _n_  
-__brood__ _v_  
-__Buddha__ _n_ [:scroll: “the “laughing Buddha” is actually a medieval Chinese monk who somehow became conflated in the Western imagination with the historical Buddha, who only ate one meal a day and was most likely a bag of skin and bones.” — Dan Harris’s _10% Happier_]  
-__Buddhism__ _n_ [:scroll: The word _Buddhism_ was actually an invention of the nineteenth-century Western scholars who discovered and translated the original texts]  
-__budding__ _adj_ In an early, usu. promising stage of development: _a budding artist._ _A budding author._  
-__bumbling__ _v_  
-__bunion__ _n_ /ˈbʌnjən/ :es: juanete  
 __burglarize__ _v_  
 __burnish__ _v_  
 __burnoose__ _n_ :astonished:  
