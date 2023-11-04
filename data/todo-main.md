@@ -43,9 +43,9 @@ __beforehand__ _adj, adv_
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
-__blight__ _v_  
+__blight__ _v_ :two::hammer:  
 __bloodshed__ _n_ /ˈblʌdˌʃɛd/  
-__bolster__ _v_  
+__bolster__ _v_ :two::hammer:  
 __booby trap__ _n_  
 __bootstrapping__ _n_  
 __borak__ _n_ Rubbish; nonsense.  
@@ -79,7 +79,10 @@ __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it makin
 __cad__ _n_  
 __cagey__  
 __cajole__ _v_  
+__caldera__ _n_  
 __call upon__  
+__call__ _n_ :two: __5__ Demand: _There isn’t much call for buggy whips today._  
+__caution__ _v_  
 __compound__ _v_  
 __compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __conceit__  
@@ -87,7 +90,7 @@ __concise__ _adj_ /kənˈsaɪs/
 __concomitant__ _v_  
 __confabulation__ _n_  
 __confection__ _n_ /kun-FEK-shun/  
-__conflate__ _v tr_  
+__conflate__ _v tr_ :two::hammer:  
 __confounding__ _adj_ That confounds or contradicts or confuses _Syn_ contradictory  
 __conjoined__ _adj_ _Conjoined meanings._  
 __contain__ _v_ _He could barely contain his saliva._  
@@ -139,7 +142,7 @@ __deciduous__ _adj_ Shedding the leaves annually.
 __decommission__ _v_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
-__development__ _n_ _A key development._  
+__development__ _n_ :two::hammer: _A key development._  
 __disengage__  
 __disobligation__  
 __dispel__ _v_  
@@ -222,6 +225,7 @@ __fitfully__ _adv_ _He slept fitfully on the king-sized bed._
 __flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
 __flapping__ _n_ _Syn_ fluttering, flap, flutter  
 __flat__ _adv_  
+__flat-footed__ _adj_  
 __fling__ _n_ __4__ A brief, casual sexual or romantic relationship.  
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
@@ -266,10 +270,12 @@ __hostage__ _n_ :mega: /ˈhɒs tɪdʒ/
 __human shield__  
 __hyphen__ _n_  
 __hypochondriac__  
+__hypothyroidism__ _n_  
 __ibex__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
-__inquiry__  
-__kinda__  
+__inquiry__ _n_ :two::hammer:  
+__kinda__ _adv_ :two::hammer:  
+__lifeline__  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -291,6 +297,8 @@ __mouthful__ _n_ __3__ A long word, name, or phrase that is difficult to pronoun
 __non-binding__ _adj_ That does not bind the participants.  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __o’clock__ _adv_ Short for _of the clock._  
+__offset__ _v_  
+__out-of-pocket__  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -305,7 +313,7 @@ __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marke
 __pamper__ _v_  
 __pilfer__ _v_  
 __pilfered__  
-__pillowcase__ _n_  
+__pillowcase__ _n_ :two::hammer:  
 __pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
 __pinch-faced__ _adj_ The term _pinch-faced_ typically describes a person with a thin, pale, and sometimes unpleasant-looking face. _A pinch-faced balding man with a deep drawl._  
 __pincher__ _n_  
@@ -320,10 +328,11 @@ __pizzicato__
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __porky__  
 __portend__ _v_  
-__preposterous__  
+__preposterous__ _adj_ :two::hammer:  
 __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __procurement__ _n_  
 __profile__ _v_  
+__provost__  
 __pundit__ _n_ /PUN-dit/  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
@@ -332,7 +341,7 @@ __purport<sup>2</sup>__ _n_
 __purported__  
 __purportedly__  
 __purview__ _n_  
-__quell__ _v tr_  
+__quell__ _v tr_ :two::hammer:  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __rampant__ _adj_  
 __ramrod__  
@@ -396,6 +405,7 @@ __retaliation__ _n_ :mega:
 __reticent__ _adj_ /RET-uh-sunt/  
 __retina__ _n_ :mega:  
 __retinue__ _n_  
+__retract__ _v_  
 __retrograde__ _adj_ :two::hammer:  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
@@ -462,6 +472,7 @@ __sandbox__ _n_
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
 __sap__ _v tr_  
+__sarcopenia__  
 __sartorial__ _adj_  
 __sashay__ _v intr_  
 __satays__ _n_  
@@ -494,6 +505,7 @@ __seesaw__
 __seething__ _adj_  
 __seize__ _v_ _Students with the growth mindset seized the chance._  
 __senility__ _n_  
+__sepsis__ _n_  
 __sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
 __serial comma__ _n_ _Syn_ Oxford comma  
 __Sermon on the Mount__  
@@ -631,15 +643,17 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
-__stockpile__ _n_  
+__stockpile__ _n_ :two::hammer:  
 __strain__ _n_  
 __strayed__ _v_ _His thoughts strayed._  
 __strummíng__ _v_ _She was strumming her guitar._  
 __stub__ _v tr_ /stʌb/ __2__ To strike (one’s toe or foot) against something accidentally.  
 __stump__ _n_ :es: muñón  
+__subsidiary__ _n_  
 __subsumed__ _v_  
 __subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
 __subvert__ _v tr_  
+__summit__ _n_  
 __sundry__ _adj_ _Sundry blandishments._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
 __sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
@@ -745,6 +759,7 @@ __upheaval__ _n_
 __upright bass__ _n_  
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
+__uptick__  
 __utterance__  
 __uvula__ _n_ /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat.  
 __va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
@@ -781,7 +796,7 @@ __vindicate__
 __vise__ _n_  
 __volatile__ _adj_ /VAH-luh-tul/  
 __voracity__ _n_ /vuh-RASS-uh-tee/  
-__walkout__ _n_ :two: __1__ A labor strike.  
+__walkout__ _n_ :four: __1__ A labor strike.  
 __wanly__  
 __wanton__  
 __warrant__ _v_  
