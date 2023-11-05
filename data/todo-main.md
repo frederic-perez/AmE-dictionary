@@ -4,6 +4,7 @@ __abate__ _v_
 __abet__ _v_  
 __ablutions__  
 __abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
+__abrogate__ _v_ To abolish or annul by formal means; to repeal; put aside; cancel; revoke; rescind; nullify: _to abrogate a law._  
 __abscond__ _v_  
 __absolute pitch__ _n_ (perfect pitch?)  
 __abstain__ _v_ /ub-STAYN/  
@@ -27,6 +28,7 @@ __aftereffect__ _n_
 __afterimage__ _n_  
 __amygdala__ _n_  
 __apanthropy__ _n_ /ap-UHN-thruh-pee/ A desire to be away from people; a love of solitude.  
+__apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
 __apparatchik__ _n_  
 __applesauce__ _n_ /AP-uhl-saws/ Nonsense; lies.  
@@ -43,6 +45,8 @@ __beforehand__ _adj, adv_
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
 __berserk__ _adj_ /ber-SERK/  
+__bloodcurdling__ _adj_  
+__brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
 __burglarize__ _v_  
 __burnish__ _v_  
 __burnoose__ _n_ :astonished:  
@@ -50,10 +54,13 @@ __busyness__
 __butterscotch__ _n_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __cad__ _n_  
+__cadre__ _n_ /KAD-ray/  
 __cagey__  
 __cajole__ _v_  
 __caldera__ _n_  
 __call upon__  
+__castellated__ _adj_ Having turrets and battlements in the style of a castle. _Syn_ castled, crenellated, battlemented  
+__citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
@@ -75,6 +82,7 @@ __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That t
 __cutthroat__ _n_ __2__ An unprincipled, ruthless person.  
 __cutting-edge__ _adj_  
 __cyst__  
+__dab__ _n_  
 __dalliances__ _n_  
 __darting__ _v_  
 __data scrubbing__ _n_ _Syn_ data cleansing, data cleaning  
@@ -134,6 +142,7 @@ __egress__
 __Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
 __eidetic__  
 __elastin__ _n_  
+__eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
@@ -151,9 +160,12 @@ __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disl
 __ethos__ _n_  
 __eviction__ _n_  
 __expunge__ _v tr_  
+__extraneous__ _adj_ :dart: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __eye__ _v_ _Kyiv eyes global peace summit this year._  
 __fabricate__ _v_  
+__farrago__ _n_ A confused mixture; hodgepodge; medley.  
+__fatuous__ _adj_  
 __fib<sup>1</sup>__ _n_  
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
 __fictitious__  
@@ -221,8 +233,11 @@ __hypothyroidism__ _n_
 __ibex__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
 __inquiry__ _n_ :two::hammer:  
+__irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
 __kinda__ _adv_ :two::hammer:  
 __lifeline__  
+__luscious__  
+__maelstrom__ _n_ /MAIL-strum/  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -241,6 +256,7 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
 __mouthful__ _n_ __3__ A long word, name, or phrase that is difficult to pronounce.  
+__neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __non-binding__ _adj_ That does not bind the participants.  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __o’clock__ _adv_ Short for _of the clock._  
@@ -258,6 +274,7 @@ __palliative care__ _n_
 __palliative__ _adj_ :pencil2:  
 __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
+__pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __pilfer__ _v_  
 __pilfered__  
 __pillowcase__ _n_ :two::hammer:  
@@ -664,6 +681,7 @@ __thresher__ _n_ _A mental thresher for separating wheat from chaff._
 __threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
+__tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
 __tonsil__ _n_  
@@ -757,6 +775,7 @@ __weasel__ _v_
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
 __welter__ _n_ _A welter of objects._  
+__werewolf__ _n_ /WAIR-woolf/  
 __wharfage__ _n_ _Syn_ pier, dock  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
@@ -780,7 +799,9 @@ __withstand__ _v_
 __woke__ _adj_ :two: _slang_ Aware of the injustice of the social system in which one lives.  
 __womenfolk__  
 __wondrously__  
-__wont__ _n_  
+__wont<sup>1</sup>__ _adj_  
+__wont<sup>2</sup>__ _n_ :two::hammer:  
+__wont<sup>3</sup>__ _v_  
 __woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
 __woodwind player__  
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
