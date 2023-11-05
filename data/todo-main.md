@@ -54,32 +54,6 @@ __cagey__
 __cajole__ _v_  
 __caldera__ _n_  
 __call upon__  
-__call__ _n_ :two: __5__ Demand: _There isn’t much call for buggy whips today._  
-__caution__ _v_  
-__compound__ _v_  
-__compunction__ _n_ A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
-__conceit__  
-__concise__ _adj_ /kənˈsaɪs/  
-__concomitant__ _v_  
-__confabulation__ _n_  
-__confection__ _n_ /kun-FEK-shun/  
-__conflate__ _v tr_ :two::hammer:  
-__confounding__ _adj_ That confounds or contradicts or confuses _Syn_ contradictory  
-__conjoined__ _adj_ _Conjoined meanings._  
-__contain__ _v_ _He could barely contain his saliva._  
-__contempt sentence__ _n_ A _contempt sentence_ refers to the punishment imposed on an individual found guilty of contempt of court. Contempt of court is the act of showing disrespect or disobedience towards the authority or dignity of a court, such as by disobeying an order or obstructing the administration of justice.  
-__contiguous__ _adj_ /kun-TIG-yuh-wus/  
-__contraption__ _n_ A device that is very useful for a particular job. _Syn_ gizmo, appliance, contrivance, gadget, widget, gismo, convenience  
-__contrive__ _v_  
-__contrived__  
-__contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
-__convalesce__ _v_  
-__convene__ _v_  
-__conversant__  
-__convey__ _v tr_  
-__convoy__ _n_ :mega: /ˈkɒn vɔɪ; v. also kənˈvɔɪ/  
-__cookout__ _n_  
-__cooze__ _n_  
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  

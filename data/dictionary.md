@@ -2579,7 +2579,7 @@ __call out<sup>1</sup>__ _n_ :two::hammer:
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call to action__  
-__call<sup>1</sup>__ _n_ :seven::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ __5__ Demand: _There isn’t much call for buggy whips today._ _It was a very questionable call._  
+__call<sup>1</sup>__ _n_ :nine::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ __5__ Demand: _There isn’t much call for buggy whips today._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _n_ :three: __1__ A recall of a recently sold product by the manufacturer to correct a defect. _Syn_ recall _The manufacturer was forced to issue a callback of the toy when it was declared a choking hazard._ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
 __calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
@@ -2874,7 +2874,7 @@ __caulking__ _n_ :two: A usually impermeable substance used for filling seams, a
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :seven::hammer:  
 __caustic__ _adj_ /KAWSS-tik/  
-__caution__ _v_  
+__caution__ _v_ :two::hammer:  
 __cautionary tale__ _n_  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
@@ -3641,7 +3641,7 @@ __composting__ _n_ The activity or practice of converting garden and kitchen was
 __composure__  
 __compound interest__  
 __compound<sup>1</sup>__ _n_ :four: __1__ A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier. __2__ An enclosed area used for confining prisoners of war.  
-__compound<sup>2</sup>__ _v_ :four::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
+__compound<sup>2</sup>__ _v_ :five::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
@@ -3651,7 +3651,7 @@ __comptroller__ _n_ :four: Variant of controller, used _esp_ as a title of any o
 __compulsive__ _adj_ _Compulsive thoughts._  
 __compulsory school__  
 __compulsory__ _adj_ :nine::m: /kəmˈpʌlsərɪ/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
-__compunction__ _n_ :two::hammer:  
+__compunction__ _n_ :three: A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
 __compurgator__ _n_  
 __compute<sup>1</sup>__ _n_  
 __compute<sup>2</sup>__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
@@ -3666,7 +3666,7 @@ __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption
 __Concacaf__  
 __concatenate__ _v_ /kahn-KAT-uh-nayt/  
 __concede__ _v_ _A total of 44 goals scored and 48 conceded last year._  
-__conceit<sup>1</sup>__ _n_ :dart::four: A favorable and especially unduly high opinion of one’s own abilities or worth. _Syn_ amour-propre, vanity _She was convinced that she was worthy of marrying royalty, but her vanity and conceit only made her less attractive to the prince._  
+__conceit<sup>1</sup>__ _n_ :dart::five: A favorable and especially unduly high opinion of one’s own abilities or worth. _Syn_ amour-propre, vanity _She was convinced that she was worthy of marrying royalty, but her vanity and conceit only made her less attractive to the prince._  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
@@ -3683,11 +3683,11 @@ __concierge level__ _n_ :two::hammer:
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
 __conciliate__ _v_ /kun-SILL-ee-ayt/  
 __conciliatory__ _adj_  
-__concise__  
+__concise__ _adj_ :two::hammer: /kənˈsaɪs/  
 __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant__ _adj_ :eight::hammer:  
+__concomitant__ _adj_ :nine::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
 __concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
@@ -3707,7 +3707,8 @@ __conduct__ _n_ _Suspended two games for violating the league’s personal condu
 __conduit__ _n_ :seven::hammer::mega:  
 __coneys__  
 __confabulate__ _v intr_ :five: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
-__confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
+__confabulation__ _n_  
+__confection__ _n_ :four: /kun-FEK-shun/ __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
 __confectionery__ _n_ :two::hammer:  
 __confederacy__  
 __Confederate flag__  
@@ -3722,7 +3723,7 @@ __confide__ _v_ :five::hammer: (confided)
 __confidence__  
 __config__ _n_ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
-__conflate__ _v_ :four: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
+__conflate__ _v tr_ :six: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __conflation__  
 __confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conform__ _v_  
@@ -3730,7 +3731,7 @@ __conforming__ _adj_
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
 __confounded__ _adj_ :three::hammer:  
-__confounding__ _adj_ :two::hammer: _Confounding factors._  
+__confounding__ _adj_ :three: That confounds or contradicts or confuses _Syn_ contradictory _Confounding factors._  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
@@ -3747,7 +3748,7 @@ __conglomerates__
 __congrats__ _n pl_ :two::mega::hammer: _Congrats on your wedding._  
 __Congressmen__ _n_  
 __conjecture__ _v_ :two::hammer:  
-__conjoined__ _adj_ Consisting of two or more associated entities.  
+__conjoined__ _adj_ :two: Consisting of two or more associated entities. _Conjoined meanings._  
 __conjunction__  
 __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
@@ -3808,6 +3809,8 @@ __consumption__ _n_ __3a__ Tuberculosis. __b__ A progressive wasting away of the
 __contact__ _n_ __6__ A contact lens. _We wear contacts._  
 __contactless__  
 __contagion__  
+__contain__ _v_ _He could barely contain his saliva._  
+__contempt sentence__ _n_ A _contempt sentence_ refers to the punishment imposed on an individual found guilty of contempt of court. Contempt of court is the act of showing disrespect or disobedience towards the authority or dignity of a court, such as by disobeying an order or obstructing the administration of justice.  
 __contempt__ _n_ :three::hammer: _Contempt sentence._  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
@@ -3822,6 +3825,7 @@ __contested shot__ _n_ (vs uncontested shot)
 __contextual__  
 __contextualize__ _v_ :dart::four:  
 __contiguous > the contiguous U.S.__  
+__contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __continence__ _n_ :two::hammer:  
 __continental breakfast__  
 __contingency plan__ _n_ :two::hammer:  
@@ -3835,28 +3839,30 @@ __contractor__ _n_ :hammer::two:
 __contrafactum__ _n_ A composition that makes use of an existing piece of music with different lyrics.  
 __contrail__ _n_ (vapor trail) A visible condensation of water droplets or ice crystals from the atmosphere, occurring in the wake of an aircraft, rocket, or missile.  
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning “to adhere closely” and “to part or split.”  
-__contraption__ _n_ :two: /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
+__contraption__ _n_ :three: /kun-TRAP-shun/ A contraption is a usually mechanical or electronic device or gadget. A device that is very useful for a particular job. _Syn_ gizmo, appliance, contrivance, gadget, widget, gismo, convenience _The students worked as a team to create a Rube Goldberg contraption that can fill a pet food bowl at the press of a lever._  
 __contrarian__  
 __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
 __contretemps__ _n_ :three: /KAHN-truh-tahn/ The word contretemps refers to an inconvenient or embarrassing occurrence or situation. It can also refer to a dispute or argument. An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :eight: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
-__contrive__ _v_ :three::hammer: (contriving)  
-__contrived__ _adj_ :four: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
+__contrive__ _v_ :four::hammer: (contriving)  
+__contrived__ _adj_ :five: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
+__contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conundrum__ _n_ :three: /kəˈnʌndrəm/ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
-__convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
+__convalesce__ _v_ :four: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
 __convenience store__  
 __convenience__ _n_ _Visitor conveniences are easily accessible._  
 __conventioneer__ _n_  
+__conversant__  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
-__convey__ _v_ :three::hammer: (conveyed) _The traffic conveyed over connections._  
+__convey__ _v tr_ :four::hammer: (conveyed) _The traffic conveyed over connections._  
 __conveyance__ _n_  
 __conveyancing__ _n_ :two: The branch of legal practice dealing with the conveyance of property or real estate.  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
@@ -3865,13 +3871,14 @@ __convivial__ _adj_ :six: Fond of feasting, drinking, and good company; sociable
 __convoke__ _v_ To call together to a meeting.  
 __convoluted__ _adj_ :dart::three: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
+__convoy__ _n_ :mega: /ˈkɒn vɔɪ; v. also kənˈvɔɪ/  
 __conwise__  
 __coo__ _v_ :eight: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._ _Cooing for the beautiful damsel is encouraged._  
 __cooing__ _n_  
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
 __cookie__ _n_ [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”]  
-__cookout__ _n_ :three: A social gathering at which a meal is cooked and eaten outdoors.  
+__cookout__ _n_ :four: A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool your jets__  
@@ -3884,7 +3891,7 @@ __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels an
 __cooperage__  
 __coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
 __coos__ _v_  
-__cooze__ _n_ :two::hammer:  
+__cooze__ _n_ :three::hammer:  
 __cop out__ _v_ :seven: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
