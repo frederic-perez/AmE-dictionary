@@ -4,32 +4,6 @@ __(be) careful what you wish for(, (because) you just might get it)__ A warning 
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(I) hope not__  
-__(it’s) (a)bout time__ :two::hammer:  
-__(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
-__(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering.  
-__(someone’s or something’) days are numbered__  
-__(someone’s or something’s) days are numbered__  
-__a different kettle of fish__  
-__a kind of (something)__ A replacement or alternative to (the real thing).  
-__a laundry list__ A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._  
-__a lifeline__ :dart: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
-__a shooting spree__ A series of firearm attacks on multiple people committed consecutively or in a relatively short period of time, usually by a single person.  
-__all ears__  
-__all-out__ Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
-__amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
-__an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
-__and so forth__ And or along with other such similar things; and all the rest; and so on; et cetera. _I like outdoor activities like running, hiking, cycling, and so forth._  
-__another nail in the coffin__  
-__at (long) last__ Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
-__at stake__  
-__at the end of the day__  
-__bank on__ To rely on a future occurrence (even though it might not happen). _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
-__bankroll__ _Remember, Microsoft bankrolls OpenAI, which basically means it just paid for their secret recipe and served it up themselves._  
-__bbg__  
-__be here to stay__  
-__be left to (one’s) own devices__  
-__be no stranger to (something)__ To be thoroughly experienced in or knowledgeable about something or someone. _Don’t worry, I’m no stranger to spicy food._  
-__be on (one’s) soapbox__  
 __bits and pieces__  
 __bleeding heart__  
 __bop__  

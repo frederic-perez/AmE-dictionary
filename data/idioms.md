@@ -15,7 +15,7 @@ __(deep) in the weeds__ :dart::two::hammer:
 __(deep) into the weeds__ :two::hammer:  
 __(first) dibs (on something)__ _slang_ :dart: The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_  
 __(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
-__(it’s) (a)bout time__ :four: An expression used to emphasize that something should have occurred a long time ago. It is almost too late!; I’ve been waiting a long time! (Said with impatience.) _So you finally got here! It’s about time!_ _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
+__(it’s) (a)bout time__ :six: An expression used to emphasize that something should have occurred a long time ago. It is almost too late!; I’ve been waiting a long time! (Said with impatience.) _So you finally got here! It’s about time!_ _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened).  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(it’s/there’s) no use crying over spilt milk__ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
@@ -31,6 +31,7 @@ __(one’s) door is always open__ :dart: One is always available to be of guidan
 __(one’s) elevator doesn’t go all the way to the top__ A pejorative phrase meaning one is not very intelligent or of questionable mental capacity. _He says he’s going to start a business selling bees as pets. I’m starting to think his elevator doesn’t go all the way to the top._  
 __(one’s) final resting place__ The location where one’s body is interred after death.  
 __(one’s) finest hour__ The moment or time of one’s greatest success or achievement. _The team’s come-from-behind victory in the semi-finals proved to be their finest hour._  
+__(one’s) for the asking__ _Suddenly music was everywhere for the asking._  
 __(one’s) hackles rise__ :dart: One becomes greatly irritated, annoyed, or aggravated. _The disrespect he showed our professor during class made my hackles rise so badly that I had to go take a walk to calm down._  
 __(one’s) hands are full__ Someone is too busy or has too much going on to be able to do or become involved with anything else. _I really wish that I could babysit for you tonight, but I’m afraid my hands are full at the moment._  
 __(one’s) heart of hearts__  
@@ -42,9 +43,10 @@ __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhel
 __(one’s) other half__ One’s spouse, romantic partner, or boyfriend/girlfriend. _I’d love to come out to the bars with you after work, but I’d better check in with my other half to make sure we don’t have any plans for this evening._  
 __(one’s) secret weapon__  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
-__(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
+__(one) has a point (there)__ :two: One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
 __(only) time will tell__  
 __(right) from the off__ _He knew it from the off._  
+__(someone’s or something’s) days are numbered__ :two::hammer:  
 __(someone’s) native soil__ The country or geographical area in which someone was born or raised. _Though I’ve spent most of my adult life in London, it’s always nice to return to my native soil of Shanghai, if even for just a few days._  
 __(someone) (just) doesn’t know when to quit__ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(someone) is endgame__ _slang_ In fandom, the idea that a particular romantic couple (or potential romantic couple) is meant to be together (and, in the context of a fictional work, that one thinks should be in a relationship when the work ends). The term is usually used by fans who are very invested in the pairing. Often, a portmanteau of the characters’ names precedes the verb, which is singular (despite alluding to multiple people). _Although Jackson and April on _Grey’s Anatomy_ had a rocky relationship over the years, Japril is still endgame for many fans._ _Klaine was always endgame to me, so I’m not surprised they ended up together on Glee._  
@@ -89,6 +91,7 @@ __a cry for help__
 __a cut above the rest__ :two: Better in quality than most others. _This new restaurant is a cut above the rest._  
 __a cut below__ Of lower quality than or inferior to someone or something else, especially that of the expected norm. _This waiter is really a cut below what I would expect from this restaurant._  
 __a different ball game__  
+__a different kettle of fish__  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a disaster waiting to happen__  
 __a double take__  
@@ -127,14 +130,16 @@ __a juggling act__ A difficult and/or precarious situation in which several thin
 __a kernel of truth__ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
 __a kick in the face__  
 __a kick in the teeth__ A humiliating disappointment or setback. _Losing my job after my car broke down was a real kick in the teeth._  
+__a kind of (something)__ A replacement or alternative to (the real thing).  
 __a knee-slapper__ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
-__a laundry list of (something)__ :dart: A very lengthy, thorough list of items. _I have a laundry list of projects I need to get done before Friday._  
+__a laundry list of (something)__ :dart::two: A very lengthy, thorough list of items. A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._ _I have a laundry list of projects I need to get done before Friday._  
 __a lean patch__ :two: A period of failure, decline, or poor performance or results. _Almost every new business experiences a lean patch at some point or another._  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
 __a legend in (one’s) own mind__ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
 __a lick with the rough side of the tongue__ Severe criticism; a stern reprimand. _I thought my project was fine, but did you hear Ms. Miller’s critique? Boy, that was a lick with the rough side of the tongue!_  
 __a life of its own__ :two: The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
+__a lifeline__ :dart: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
 __a light bulb goes off in (one’s) head__ :dart: One is suddenly struck with an ingenious or inspired idea, insight, or revelation. In this expression, the phrasal verb “go off” means “turn on” or “become active.” _We spent hours trying to come up with a solution, when suddenly a light bulb went off in my head._  
 __a light-bulb moment__ An instance in which an ingenious idea or insight comes to one all of a sudden. _A light-bulb moment came to me as I was taking a bath the other day._  
 __a little from column A, a little from column B__ :two: Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
@@ -165,6 +170,7 @@ __a rolling stone gathers no moss__ People pay a price for being always on the m
 __a rough patch__ :two: A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a shooting spree__ A series of firearm attacks on multiple people committed consecutively or in a relatively short period of time, usually by a single person.  
 __a shot in the arm__  
 __a slew of (something)__ :three: A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._ _YouTube unveiled a slew of AI tools for creators._  
 __a sly dog__ :two: Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
@@ -248,7 +254,7 @@ __all along__ The entire time.
 __all around__  
 __all bark and no bite__ :two: Full of talk that is more threatening or impressive than that which one can or will actually do. _He always threatens to call the police if I don’t stay off his lawn, but he’s all bark and no bite._  
 __all downhill from here__  
-__all ears__ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
+__all ears__ :two: Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
 __All Hands Meeting__  
 __all hands__ __1__ A call for all members of a ship’s crew to come to the deck, usually in a time of crisis. (A “hand” is a member of a ship’s crew.) _We’re under attack! All hands on deck!_  
 __all hell broke loose__  
@@ -271,11 +277,12 @@ __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970
 __all things considered__ :two::hammer:  
 __all too often__ Too frequently. _We see this problem all too often._  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
+__all-out__ Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
 __all-you-can-eat__  
 __all’s well that ends well__ _prov_ A positive ending can overshadow any problems that may have preceded it. Although this phrase is the title of a Shakespeare play, it likely predates it. _Hey, we’re not fighting anymore, and that’s all that matters. All’s well that ends well._  
 __alter ego__  
 __amateur hour__ :two: A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
-__amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
+__amirite__ :two: A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ :two: To result in no tangible or appreciable difference.  
 __amount to something__  
 __amount to__ :six::hammer:  
@@ -287,11 +294,14 @@ __an eye for an eye, a tooth for a tooth__ _proverb_ :two: Compensation or retri
 __an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __an iron fist__  
+__an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __and all__  
+__and so forth__ And or along with other such similar things; and all the rest; and so on; et cetera. _I like outdoor activities like running, hiking, cycling, and so forth._  
 __angle for (something)__  
 __anonymous tip__ :two: Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
+__another nail in the coffin__  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
 __any way you slice it__  
 __anyone’s guess__ Something that no one knows for sure.  
@@ -335,7 +345,7 @@ __as yet__ :two: At this time; yet. Up to the present time; up to now. _No one h
 __as you please__  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
 __ask for trouble__  
-__at (long) last__  
+__at (long) last__ :two: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
@@ -362,11 +372,11 @@ __at one’s wit’s end__ :two: At the limits of one’s mental resources. _I�
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __at peace__  
 __at someone’s disposal__  
-__at stake__  
+__at stake__ :two::hammer:  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of (one’s) tether__ Completely worn out, exasperated, or exhausted; having no more patience, endurance, or energy left. _Joshua has been throwing a tantrum all afternoon, and with all the other things I have to get done, I’m simply at the end of my tether!_  
-__at the end of the day__ :three::hammer:  
+__at the end of the day__ :four::hammer:  
 __at the expense of (someone or something)__  
 __at the forefront (of something)__ _In the clinical community, we need to be at the forefront._  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
@@ -430,8 +440,9 @@ __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oi
 __Band E__  
 __bang for (one’s)/the buck__ :three: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
 __bank on something__  
-__bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
+__bank on__ :six: To rely on a future occurrence (even though it might not happen). Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._ _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
 __banker’s hours__ A limited work schedule (as banks were once known for having short work days and being closed on holidays and weekends). _You won’t be able to reach her on a Saturday—she keeps banker’s hours._  
+__bankroll__ _Remember, Microsoft bankrolls OpenAI, which basically means it just paid for their secret recipe and served it up themselves._  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ :two: To display an angry, violent, or threatening reaction to or against something or someone, as does a dog or wolf when threatened. _I will bare my teeth to anyone who tries to take away my land._  
 __bare metal__  
@@ -445,6 +456,7 @@ __bats in the belfry__
 __batten down the hatches__ To prepare for a challenging situation. While this originated as a nautical phrase, it is now used for any sort of imminent problem. _There’s a tornado coming—batten down the hatches!_  
 __batteries included__ _informal_ I a product usability (mostly in software) it states that the product comes together with all possible parts required for full usability. _A batteries include approach._  
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
+__bbg__ _slang_ An abbreviation for “baby girl,” a term of endearment typically used in text messages or online communication. Almost always written in lower case.  
 __be (all) set (to do something)__ To be ready or about to do something. _I was set to get in the shower when the phone rang._  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
@@ -489,7 +501,7 @@ __be hard pressed__
 __be hard put to (do something)__ To be struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard put to find a better guy than Bill._  
 __be hard put__  
 __be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
-__be here to stay__ :four: (is here to stay) To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual. _A lot of people see the ubiquity of the Internet as the death of face-to-face communication, but at this point it is very much here to stay._ _Digital health is here to stay._  
+__be here to stay__ :five: (is here to stay) To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual. _A lot of people see the ubiquity of the Internet as the death of face-to-face communication, but at this point it is very much here to stay._ _Digital health is here to stay._  
 __be hoist by (one’s) own petard__  
 __be honor-bound to do (something)__ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
@@ -509,7 +521,7 @@ __be left (out) in the cold__ To be ignored, forgotten, or excluded, as from a g
 __be left holding the bag__ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left in the lurch__ To be left or abandoned without assistance in a particularly awkward, difficult, or troublesome situation. (Sometimes written as “left in a lurch.”) _I’ll really be left in the lurch if the manager decides to quit before this project is finished._  
 __be left out in the cold__ :two: To be ignored, forgotten and neglected.  
-__be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
+__be left to (one’s) own devices__ :two: To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
 __be little love lost between (two people)__ Of two people, to dislike one another very much. _There’s little love lost between Sarah and my roommate, so it’ll be a little awkward now that Sarah and I are dating._  
@@ -520,6 +532,7 @@ __be more trouble than it’s worth__ To not be important, useful, or beneficial
 __be my guest__  
 __be no picnic__ _Looking after four children is no picnic._  
 __be no slouch__ To be very hardworking, enthusiastic, and/or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
+__be no stranger to (something)__ To be thoroughly experienced in or knowledgeable about something or someone. _Don’t worry, I’m no stranger to spicy food._  
 __be not in Kansas anymore__ To no longer be in a place that one knows or where one is comfortable; to be in a completely unfamiliar and/or discomfiting environment. A reference to The Wizard of Oz, in which Dorothy, upon arriving to Oz, says, _“Toto, I’ve a feeling we’re not in Kansas anymore.”_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be not short of a penny (or two)__ To be exceptionally wealthy; to have no concerns regarding money. _A: “I just heard Sarah just lost her job!” B: “Well, her husband’s family isn’t short of a penny, so I think they’ll be just fine.”_  
@@ -527,7 +540,7 @@ __be off the rails__
 __be off the wall__  
 __be on (one’s) best behavior__ To be very polite or exercise exceptionally good manners. Primarily heard in US. _Now, you kids must be on your best behavior for your Auntie this weekend!_  
 __be on (one’s) conscience__ :two: To be a persistent cause or source of guilt, such as an act of wrongdoing.  
-__be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
+__be on (one’s) soapbox__ :two: To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
 __be on (the) air__ To be broadcasting live, as on television or radio. _OK everyone, we’re on the air in five minutes!_  
 __be on a mission__  
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
