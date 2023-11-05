@@ -97,36 +97,6 @@ __deciduous__ _adj_ Shedding the leaves annually.
 __decommission__ _v_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
-__development__ _n_ :two::hammer: _A key development._  
-__disengage__  
-__disobligation__  
-__dispel__ _v_  
-__disprove__ _v tr_ To prove to be false, invalid, or in error; refute.  
-__disquiet__ _adj, n, v_  
-__dissatisfied__  
-__dissociation__ _n_  
-__divining__ _n_  
-__docket__ _n_ :dart: A list of things to be done. _Syn_ agenda, schedule  
-__don__ _n_  
-__doodlebug__ _n_  
-__doorbell__ _n_  
-__doozy__  
-__dopey__  
-__doppelganger__ _n_  
-__dour__  
-__dovetail__ _v_  
-__dowager__ _n_  
-__down payment__  
-__downplay__ _v tr_  
-__downright__ _adj_ _Downright ridiculous._  
-__doze__ _n_  
-__drab__ _adj_  
-__drawl__ _n_ The way of speech of someone who drawls.  
-__drill__ _n_  
-__drown out__  
-__dubious__ _adj_ /DOO-bee-us/  
-__dungaree__ _n_ A sturdy, often blue denim fabric. _Syn_ jean, denim  
-__dynamo__ _n_ :astonished: __2__ An extremely energetic and forceful person: _a vice president who was the real dynamo of the corporation._  
 __eager__ _adj_  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
