@@ -220,32 +220,6 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
-__rule out__ :two::hammer:  
-__rumor has it (that)__  
-__rumor mill__  
-__run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
-__schlepp__  
-__set (someone, something, or oneself) apart (from someone or something)__  
-__sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
-__sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
-__sexual tension__  
-__shakedown__ _A shifty shakedown artist._  
-__shame on (one)__  
-__shed (some) light on (something)__  
-__shell out__  
-__shift gears__ To quickly or abruptly change what one is doing or discussing.  
-__shifty__ _A shifty shakedown artist._  
-__shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
-__shit bricks__ To become extremely worried or frightened.  
-__shit creek__  
-__shit-heel__ (shitheel)  
-__shithead__  
-__shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
-__shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
-__shtick__ _Sometimes he pushed his shtick a little too far._  
-__shy away (from someone or something)__ :two::hammer:  
-__side hustle__  
-__silly me__  
 __silver bullet__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__ :two::hammer:  

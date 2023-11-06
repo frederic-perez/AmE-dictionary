@@ -3772,11 +3772,12 @@ __rubber stamp__
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __ruffle (one’s) feathers__  
 __rug rat__ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
-__rule out__ :two: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
+__rule out__ :four: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
 __rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
-__rumor has it (that)__ :three: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
-__rumor mill__ :four: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
+__rumor has it (that)__ :four: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
+__rumor mill__ :five: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
 __run (one’s) mouth (off)__  
+__run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __run a fever__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run afoul of (someone or something)__  
@@ -3829,6 +3830,7 @@ __scare the (living) daylights out of (one)__ To shock or frighten one very sudd
 __scare the shit out of someone__  
 __scarlet letter__ :two::hammer:  
 __scatterbrain__ :two: Someone who is very forgetful, unfocused, or disorganized. _Sorry for forgetting about your recital. I’ve been such a scatterbrain, lately!_  
+__schlepp__  
 __schlock__ _He was running a schlock operation._  
 __schmaltz__  
 __schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism, especially in art, music, or writing. Originally from Yiddish. _The film is pretty schmaltzy, to be sure, but it would take a heart of stone not to be moved by it all the same._  
@@ -3879,6 +3881,7 @@ __separate wheat from chaff__
 __serve time__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone or something) off__  
+__set (someone, something, or oneself) apart (from someone or something)__  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set (something) in cement__ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
 __set (something) out__  
@@ -3894,20 +3897,34 @@ __set the stage for something__ To make something likely to happen. _Family prob
 __set the table__  
 __seventh heaven__ :two::astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
 __seventh-inning stretch__ _baseball_ A tradition taking place in the middle (between the top and bottom) of the seventh inning during which the audience stands up to stretch and sing along to music, traditionally “Take Me Out to the Ball Game.”  
+__sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
+__sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
+__sexual tension__  
 __shake a leg__ :two::hammer:  
 __shake off__ Free oneself or get rid of something or someone, as in _I’ve had a hard time shaking off this cold_, or _She forged ahead, shaking off all the other runners._  
 __shake something off__  
 __shake up__ :three::hammer:  
+__shakedown__ _A shifty shakedown artist._  
 __shaken up__ Greatly startled, shocked, or upset. _I was very shaken up after the car accident. I couldn’t even speak properly to the police for about an hour._  
-__shame on (one)__ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
+__shame on (one)__ :two: An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
 __shank’s nag__ :dart: One’s legs and feet, used for walking; travel by foot. Also “shanks’ nag.” A reference to the shank—the lower leg between the knee and the ankle—and the use of ponies or horses for travel. _My bicycle fell apart three miles away from home, so I had to use shank’s nag to go the rest of the way._  
-__shed (some) light on (something)__ :two::hammer:  
+__shed (some) light on (something)__ :three::hammer:  
 __shed a tear__ To cry or weep, especially from grief; to grieve or mourn in general. _Everyone in the room was shedding tears by the end of the ceremony._  
+__shell out__  
+__shift gears__ To quickly or abruptly change what one is doing or discussing.  
+__shifty__ _A shifty shakedown artist._  
 __shine (one) on__  
 __shine (someone) on__ _Don’t shine me on._  
 __shine a/more/some light on something__ To examine something more closely or explain it so that it becomes clearer.  
 __shine someone__  
+__shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
+__shit bricks__ To become extremely worried or frightened.  
+__shit creek__  
+__shit-heel__ (shitheel)  
+__shithead__  
 __shitshow__  
+__shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
+__shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
 __shoot (oneself) in the foot__ To damage or impede one’s own plans, progress, or actions through foolish actions or words. _Companies have already shot themselves in the foot by relying on AI to execute tasks without supervision._  
 __shoot for the moon__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot for the stars__  
@@ -3931,20 +3948,23 @@ __show someone the door__ To dismiss someone from a job.
 __show up__  
 __shrinking violet__ Someone who is very shy and not assertive. _I am not exactly a shrinking violet, but I don’t have the guts to say what you said to her._  
 __shroom__  
+__shtick__ _Sometimes he pushed his shtick a little too far._  
 __shut (one’s) mouth__  
 __shut down__ :three::hammer: _San Antonio shut down Utah for its fourth straight road victory._  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
+__shy away (from someone or something)__ :two::hammer:  
 __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
 __sick and tired of (something)__  
 __sick as a dog__  
-__side hustle__ :five: Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
+__side hustle__ :six: Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
 __side track__  
 __sidle up (from someone or something)__ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
 __sidle up (to someone or something)__ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
 __sigh of relief__ A feeling or display of relief that something particularly stressful, unpleasant, or undesirable has been avoided or completed. _Everyone in class heaved a sigh of relief after that horrible midterm exam was over._  
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
+__silly me__  
 __silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
