@@ -4,6 +4,10 @@ __(be) careful what you wish for(, (because) you just might get it)__ A warning 
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(I) hope not__  
+__a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
+__across the board__ :two::hammer:  
+__bad blood__ Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
+__be on the same page__  
 __bits and pieces__  
 __bleeding heart__  
 __bop__  
@@ -15,28 +19,36 @@ __C-note__
 __call out__  
 __call someone names__  
 __canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
+__carrot and stick__ (carrot or stick)  
 __case in point__ An example that demonstrates a point being made as truthful or correct.  
+__catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
 __chances are__  
 __cherry on top__  
 __chime in__  
 __close a/the deal__  
+__clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __come to an end__  
 __connect the dots__  
+__crack the code__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
+__crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __curve ball__  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
 __day in and day out__  
+__days on end__  
 __dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
 __dish out__ :four::hammer:  
+__dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
 __do (one’s) part__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
+__do (someone or something) harm__  
 __do a U-turn__  
 __do nicely__  
 __do or die__  
@@ -61,6 +73,7 @@ __draw upon__
 __dressed to the nines__  
 __drop out__  
 __drop the ball__  
+__dust off__  
 __dyke__  
 __easy peasy__  
 __eat it up__  
@@ -68,8 +81,11 @@ __en route__
 __every so often__  
 __eye-opening__ Causing or resulting in a shocking or startling revelation.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
+__fear not__ Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __feast (up)on (something)__  
-
+__fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
+__go down the rabbit hole__  
+__greenwash__  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
@@ -130,6 +146,7 @@ __hit the lotto__
 __in a lifetime__  
 __in a similar vein__  
 __in harm’s way__  
+__in the cards__  
 __in the hope of__  
 __in the hot seat__  
 __in the least__  
@@ -139,14 +156,17 @@ __it remains to be seen__ Something is not yet clear, certain, or known.
 __jazz up__  
 __jump in line__  
 __keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
+__lag behind__  
 __late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
 __lay out__ :dart: __3__ To detail or explain something explicitly, such as a plan or concept. A noun or pronoun can be used between “lay” and “out.” _When he began laying out his campaign strategy, we all realized that he actually had a shot at winning._  
+__leaps and bounds__  
 __leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __light at the end of the tunnel__  
 __lightning fast__ Incredibly fast; too quick to keep up with. _Hyphenated if used before a noun._  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __make (one’s)/the rounds__  
 __make headway__ To make progress.  
+__make inroads (in/into something)__  
 __make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
 __make no mistake__  
 __mea culpa__  
@@ -162,13 +182,15 @@ __mug__ _Getting your mug on TV._
 __my ass!__ Used to indicate that what has just been said is nonsense.  
 __nah__  
 __never say never__ Do not say that something is impossible, that it will never happen, or that you will never do it, because anything is possible. The term first appeared in Charles Dickens’ novel _The Pickwick Papers._ _A: “I’ll never be good enough to make the team.” B: “Never say never. Just keep practicing and see what happens.”_  
+__next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
 __no biggie__ (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
-__on a side note__  
+__on a side note__ :two: Parenthetically or incidentally; by the way; in addition to but less important than what was just being discussed.  
+__on board__  
 __on probation__  
 __on the brink of (something)__  
 __on the run__  
@@ -181,11 +203,13 @@ __open the floodgates__
 __outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
 __perk up__  
 __phooey__  
+__phub__  
 __pick (one’s) brain(s)__  
 __pipe down__ To become quiet and calm; to stop being loud or boisterous. Often said as a command.  
 __pipe up__ To make oneself heard; to interrupt or interject.  
 __play down__  
 __powerhouse__ A person, group, organization, etc., that has a lot of power, force, or influence.  
+__presto__ _interjection_ A phrase said when doing or producing something very quickly or easily. Primarily heard in US. _All I need to do is reconfigure your IP address and... presto! Your connection is back to normal._  
 __pro bono__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
@@ -196,6 +220,7 @@ __put (someone or something) to bed__
 __put a spoke in (one’s) wheel__  
 __put an end to (something)__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
+__put food on the table__  
 __put on a clinic__  
 __put on the brakes__ To slow down, impede, or stop one’s activity or progress.  
 __put out fires__  
@@ -220,6 +245,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __single out__ :two::hammer:  
@@ -248,6 +274,7 @@ __so much so that__ To such an extent or large degree that.
 __so much so__ To such an extent or great degree (that).  
 __stave off__  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
+__step up__  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __stop short__ To abruptly stop doing something.  
 __strange bedfellows__  
@@ -270,6 +297,7 @@ __take charge__
 __take fright__ To become very frightened or startled (by something). Often followed by “at (something).”  
 __take names__  
 __take no prisoners__  
+__take notice (of someone or something)__  
 __take on__  
 __take steps to (do something)__  
 __take the podium__  
@@ -320,7 +348,7 @@ __then again__
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
 __this is not a competition__ :two: A phrase used to convey the idea that a particular situation or activity should not be approached with a competitive mindset. It suggests that the focus should not be on outperforming others or striving to be better than them, but rather on cooperation, collaboration, and personal growth.  
-__throw in the towel__ To give up on some endeavor; to quit or abandon something; to admit defeat or failure.  
+__throw in the towel__ :two: To give up on some endeavor; to quit or abandon something; to admit defeat or failure.  
 __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
@@ -403,7 +431,7 @@ __word of mouth__ Spoken communication: _News of their success spread by word of
 __word on the street__  
 __work (one’s) tail off__  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
-__wrap up__ __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
+__wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
 __wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
@@ -415,3 +443,4 @@ __you name it__ :two::hammer:
 __you saved the day__  
 __you scratch my back, I scratch yours__  
 __yuk__ __4__ _slang_ An expression or exclamation of extreme disgust, aversion, or contempt. (A variant of “yuck.”)  
+__zero sum game__  
