@@ -24,33 +24,6 @@ __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._
 __afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
-__afoot__ _adj, adv_ :two::hammer:  
-__aftereffect__ _n_  
-__afterimage__ _n_  
-__amygdala__ _n_  
-__apanthropy__ _n_ /ap-UHN-thruh-pee/ A desire to be away from people; a love of solitude.  
-__apiarist__ _n_ _Syn_ apiculturist, beekeeper  
-__appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
-__apparatchik__ _n_  
-__applesauce__ _n_ /AP-uhl-saws/ Nonsense; lies.  
-__atelier__ _n_ A studio especially for an artist or designer. _Syn_ artist’s workroom  
-__audacious__ _adj_ :dart:  
-__audacity__ _n_ :dart:  
-__avert__ _v_  
-__backlog__ _n_  
-__backstory__ _n_  
-__bamboozle__ _v_  
-__bane__ _n_ _They’re the bane of my life._  
-__barrage__ _n_  
-__beforehand__ _adj, adv_  
-__befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
-__beholden__ _adj_ /bih-HOHL-dun/ _She works for herself, and so is beholden to no one._  
-__berserk__ _adj_ /ber-SERK/  
-__bloodcurdling__ _adj_  
-__brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
-__burglarize__ _v_  
-__burnish__ _v_  
-__burnoose__ _n_ :astonished:  
 __busyness__  
 __butterscotch__ _n_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  

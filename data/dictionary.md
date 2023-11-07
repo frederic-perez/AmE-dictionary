@@ -278,7 +278,7 @@ __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usua
 __afield__ _adv_ :two::hammer: _A little farther afield._  
 __afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
-__afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
+__afoot__ _adj, adv_ :five: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :four: Mentioned previously.  
 __afoul__ _adj_ :two::hammer:  
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
@@ -287,9 +287,9 @@ __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an of
 __aft__ _adj, adv_ :nine: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _Syn_ abaft, astern _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
-__aftereffects__  
+__aftereffect__ _n_ :two::hammer: (aftereffects)  
 __afterglow__  
-__afterimage__ _n_ A visual image that persists after the visual stimulus causing it has ceased to act. _Syn_ photogene  
+__afterimage__ _n_ :two: A visual image that persists after the visual stimulus causing it has ceased to act. _Syn_ photogene  
 __aftermarket__  
 __aftermath__ _n_ :three: /AF-ter-math/ Aftermath refers to the period of time shortly following a destructive event, or to a negative consequence or result.  
 __afters__ _n informal_ :two: Dessert.  
@@ -529,7 +529,7 @@ __amply__
 __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
 __amusement park__ _n_ :three::hammer:  
 __amusia__ _n_ :three::hammer: _Cochlear amusia._  
-__amygdala__ _n_  
+__amygdala__ _n_ :two::hammer:  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
 __anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
@@ -668,6 +668,7 @@ __anybody’s guess__
 __anytime__  
 __apace__ _adv_ :two: With speed; quickly; swiftly. _Syn_ chop-chop, quickly, rapidly, speedily _Concussion concerns continue apace._  
 __apache__ _n_ :mega:  
+__apanthropy__ _n_ /ap-UHN-thruh-pee/ A desire to be away from people; a love of solitude.  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
 __apartment__ _n_  
@@ -680,6 +681,7 @@ __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or o
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
 __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
+__apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __apiary__ _n_ :two: A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
@@ -705,7 +707,8 @@ __apotheosis__ _n_ :two: /uh-pah-thee-OH-sis/ Exaltation to divine rank or statu
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :six: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :eight: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
-__apparatchiks__  
+__appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
+__apparatchik__ _n_ :two::hammer: (apparatchiks)  
 __apparatus__ _n_ :two::hammer: _Campaign apparatus._  
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
 __appeal<sup>2</sup>__ _n_ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
@@ -717,7 +720,7 @@ __appellate__ _adj_ :three::hammer:
 __appetizer__ _n_ :three::pencil2::hammer: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __apple-knocker__ _n_ /AP-uhl nok-uhr/ __1__ [:scroll: The phrase came from fruit harvesters using long sticks to dislodge the hanging crop.] A country bumpkin. One of the many terms that city slickers applied to less sophisticated rural dwellers (“rube,” “hayseed,” and “Gomer” are others). Someone who hails from a rural place and is regarded as unworldly. _Ugh, those apple-knockers move too slow for life here in the big city._ __2__ An ignorant or unsophisticated person. __3__ A baseball player, especially a batter. __4__ A fruit picker, farmer, or seller.  
-__applesauce__  
+__applesauce__ _n_ :two: /AP-uhl-saws/ Nonsense; lies.  
 __applied science__ _n_  
 __appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
 __appointed__ _adj_ :five: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
@@ -936,7 +939,7 @@ __at-risk__ _adj_
 __ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
 __atavism__ _n_ :two: A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
-__atelier__ _n_  
+__atelier__ _n_ :two: A studio especially for an artist or designer. _Syn_ artist’s workroom  
 __atheist__ _adj_  
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
@@ -989,8 +992,8 @@ __au shops__
 __auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
-__audacious__ _adj_ :three::hammer: _In size it was the most audacious._  
-__audacity__ _n_ :three: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__audacious__ _adj_ :dart::four::hammer: _In size it was the most audacious._  
+__audacity__ _n_ :dart::four: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
@@ -1037,7 +1040,7 @@ __average citizens__
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
-__avert__ _v tr_ :six::hammer: (averted) _Tom made a show of averting his eyes._  
+__avert__ _v tr_ :seven::hammer: (averted) _Tom made a show of averting his eyes._  
 __aviary__ _n_ :four: A large enclosure for holding birds in confinement. _Syn_ volary, bird sanctuary _We visited the aviary to see the exotic birds advertised in the brochure._  
 __avid__ _adj_ :five::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness _A devoted fan, he followed the tennis tournament with avidity._  
@@ -1112,7 +1115,7 @@ __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hin
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
-__backlog<sup>1</sup>__ _n_ :eight: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
+__backlog<sup>1</sup>__ _n_ :nine: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
 __backlog<sup>2</sup>__ _v_ (backlogged)  
 __backlot__ _n_ An area outside a film or television studio used for outdoor filming. _The RKO backlot._  
 __backpacking__ _n_  
@@ -1122,6 +1125,7 @@ __backslid__ _v_
 __backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
+__backstory__ _n_  
 __backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It’s amazing the amount of backup we see from even those most minor crashes._  
 __backwash__ _n_ __3__ A result of an event; an aftermath.  
@@ -1200,7 +1204,7 @@ __balsa__ _n_
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
 __balustrade__ _n_ :three: A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._ _The stone balustrade._  
 __balustrades__  
-__bamboozle__ _v_ :five: /bam-BOO-zul/ To deceive, trick, or confuse. To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._ _The legal advisor bluntly said to his client, “Don’t be bamboozled into saying ‘yes’ to something you don’t agree with.”_ _Inexperienced investors are often bamboozled by the volatility of the stock market._  
+__bamboozle__ _v_ :six: /bam-BOO-zul/ To deceive, trick, or confuse. To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._ _The legal advisor bluntly said to his client, “Don’t be bamboozled into saying ‘yes’ to something you don’t agree with.”_ _Inexperienced investors are often bamboozled by the volatility of the stock market._  
 __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
@@ -1211,7 +1215,7 @@ __bandurria__ _n_
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
-__bane__ _n_ :three::hammer:  
+__bane__ _n_ :four::hammer: _They’re the bane of my life._  
 __baneful__ _adj_ :two: Productive of destruction or woe; seriously harmful. Causing harm, ruin, or death; harmful. _Syn_ pernicious, pestilent, deadly _A baneful influence._ _A baneful effect upon morals._ _He instructed him in the poisonous qualities of arsenic, and furnished him with an ample supply of that baneful drug._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
@@ -1270,7 +1274,7 @@ __barnyard__ _n_ :two::pencil2: The area surrounding a barn, often enclosed by a
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
-__barrage<sup>1</sup>__ _n_ :six: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage<sup>1</sup>__ _n_ :seven: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barranca__ _n_ (barranco)  
 __barre__  
@@ -1409,8 +1413,9 @@ __befall__ _v_ :five: (befalls, befallen) Happen (to). _The unthinkable has befa
 __befit__ _v_ :two::hammer: (befits, befitting)  
 __befitting__  
 __before you know it__  
-__beforehand__ _adj, adv_ :dart: _The driver and the victim had exchanged words beforehand._  
+__beforehand__ _adj, adv_ :dart::two::hammer: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
+__befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
 __befuddled__ _adj_ :two: Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
 __beggar__ _n_ :two::hammer:  
@@ -1423,7 +1428,7 @@ __behavioral intervention__
 __behemoth__ _n_ :eight: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
 __behest__ _n_ :nine::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
-__beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
+__beholden__ _adj_ :nine::m: /bih-HOHL-dun/ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._ _She works for herself, and so is beholden to no one._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :nine: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
@@ -1507,7 +1512,7 @@ __beret__ _n_ :two::hammer::mute:[bere~~t~~]
 __berg__ _n_ :two::hammer:  
 __Berlitz__ _n_ A brand of language skills learning. During the teaching of the language all instruction is done in the target language.  
 __berm__ _n_ :two::hammer:  
-__berserk__ _adj_ :nine: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :nine::m: /ber-SERK/ (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth<sup>1</sup>__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
 __berth<sup>2</sup>__ _v_  
@@ -1769,6 +1774,7 @@ __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood thinner__ _n_ A drug used to inhibit blood clotting.  
 __blood-expander__  
+__bloodcurdling__ _adj_  
 __bloodlusting__  
 __bloodshed__ _n_ /ˈblʌdˌʃɛd/  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
@@ -2078,7 +2084,7 @@ __brand__ _v tr_ _They feel branded by a rejection._
 __brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
 __brander__  
 __branding iron__ _n_ :camera:  
-__brandish__ _v_ /BRAN-dish/  
+__brandish__ _v_ :two: /BRAN-dish/ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
 __branzino__  
 __brash<sup>1</sup>__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brash<sup>2</sup>__ _n_ A mass of loose fragments, as of ice.  
@@ -2388,6 +2394,7 @@ __bureaucracy__
 __burgeon__ _v intr_ :two::hammer:  
 __burgeoning__ _adj_ :nine::m: Rapidly developing or growing; flourishing.  
 __burgermeister__  
+__burglarize__ _v_  
 __burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
 __burgundy__ _n_ :three: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
 __burial__ _n_  
@@ -2400,8 +2407,8 @@ __burner phone__ _n_ A prepaid cell phone that is not bound to a contract with a
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
 __Burning Man__ _n_  
-__burnish__ _v_ :seven: To make smooth or glossy by or as if by rubbing; polish. _Syn_ furbish, buff, flush _Every afternoon, she would obsessively burnish the floors until the parlor gleamed like an ice rink._  
-__burnoose__ _n_  
+__burnish__ _v_ :eight: To make smooth or glossy by or as if by rubbing; polish. _Syn_ furbish, buff, flush _Every afternoon, she would obsessively burnish the floors until the parlor gleamed like an ice rink._  
+__burnoose__ _n_ :astonished::two::hammer:  
 __burp__ _v_ :three::hammer: (burped) _He burped loudly and said, “What? Better out than in!”_  
 __burpee__ _n_ :two: __1__ (Gymnastics) A squat thrust that starts and ends in a standing position.  
 __burqa__  
