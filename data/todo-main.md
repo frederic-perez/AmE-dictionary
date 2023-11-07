@@ -8,6 +8,7 @@ __abrogate__ _v_ To abolish or annul by formal means; to repeal; put aside; canc
 __abscond__ _v_  
 __absolute pitch__ _n_ (perfect pitch?)  
 __abstain__ _v_ /ub-STAYN/  
+__abuzz__ _adj_  
 __abyss__ _n_ (abyses)  
 __acerbic__  
 __achieve__ _v_ :mega:  
@@ -23,7 +24,7 @@ __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._
 __afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
-__afoot__  
+__afoot__ _adj, adv_ :two::hammer:  
 __aftereffect__ _n_  
 __afterimage__ _n_  
 __amygdala__ _n_  
@@ -60,7 +61,9 @@ __cajole__ _v_
 __caldera__ _n_  
 __call upon__  
 __castellated__ _adj_ Having turrets and battlements in the style of a castle. _Syn_ castled, crenellated, battlemented  
+__circadian__ _adj_  
 __citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
+__conducive__  
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
@@ -88,6 +91,7 @@ __darting__ _v_
 __data scrubbing__ _n_ _Syn_ data cleansing, data cleaning  
 __daunting__ _adj_  
 __davening__  
+__de novo__  
 __deadened__  
 __debonair__  
 __debonnaire__ _adj_  
@@ -97,6 +101,10 @@ __deciduous__ _adj_ Shedding the leaves annually.
 __decommission__ _v_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
+__dispel__ _v_  
+__dissatisfaction__ _n_  
+__duffle coat__  
+__dull__ _v_ _It dulls thinking._  
 __eager__ _adj_  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
@@ -120,6 +128,7 @@ __emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit
 __emollient__  
 __emote__ _adj_  
 __empirical__ _adj_ /im-PEER-uh-kul/  
+__encampment__ _n_  
 __encomium__ _n_ /en-KOH-mee-um/  
 __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
 __endure__  
@@ -134,8 +143,10 @@ __extraneous__ _adj_ :dart: /ek-STRAY-nee-us/ Something described as extraneous 
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __eye__ _v_ _Kyiv eyes global peace summit this year._  
 __fabricate__ _v_  
+__fare__ _v intr_  
 __farrago__ _n_ A confused mixture; hodgepodge; medley.  
 __fatuous__ _adj_  
+__ferrule__  
 __fib<sup>1</sup>__ _n_  
 __fib<sup>2</sup>__ _v intr_ (fibbed)  
 __fictitious__  
@@ -145,6 +156,7 @@ __fiefdoms__ _n_
 __filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __filching__ _v_ _Filching felines._  
 __finicky__ _adj_  
+__fintech__ _n_ Products and companies that employ newly developed digital and online technologies in the banking and financial services industries.  
 __fire hose__ _n_  
 __firebrand__  
 __firefly__ _n_ :es: luciérnaga  
@@ -201,13 +213,16 @@ __hyphen__ _n_
 __hypochondriac__  
 __hypothyroidism__ _n_  
 __ibex__ _n_  
+__impediment__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
 __inquiry__ _n_ :two::hammer:  
 __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
 __kinda__ _adv_ :two::hammer:  
+__lawfare__ _n_  
 __lifeline__  
 __luscious__  
 __maelstrom__ _n_ /MAIL-strum/  
+__marshal__ _v_  
 __miasma__ _n pl_  
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -226,11 +241,14 @@ __morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2
 __motif__ _n_  
 __mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
 __mouthful__ _n_ __3__ A long word, name, or phrase that is difficult to pronounce.  
+__mystify__ _v_ __1__ To confuse or bewilder. _Syn_ perplex _The rules are mystifying._  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __non-binding__ _adj_ That does not bind the participants.  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __o’clock__ _adv_ Short for _of the clock._  
 __offset__ _v_  
+__ogre__ _n_  
+__onus__ _n_  
 __out-of-pocket__  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
@@ -245,6 +263,7 @@ __palliative__ _adj_ :pencil2:
 __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
+__philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
 __pillowcase__ _n_ :two::hammer:  
@@ -260,6 +279,7 @@ __pitfall__ _n_
 __pithy__ _adj_ __1__ Precisely meaningful; forceful and brief: _a pithy comment._  
 __pizzicato__  
 __placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
+__plebs__ _n pl_  
 __porky__  
 __portend__ _v_  
 __preposterous__ _adj_ :two::hammer:  
@@ -267,6 +287,7 @@ __proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiti
 __procurement__ _n_  
 __profile__ _v_  
 __provost__  
+__pummel__ _v tr_  
 __pundit__ _n_ /PUN-dit/  
 __pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
@@ -274,9 +295,11 @@ __purport<sup>1</sup>__ _v tr_ :astonished:
 __purport<sup>2</sup>__ _n_  
 __purported__  
 __purportedly__  
+__purpose__ _n_ :mega:  
 __purview__ _n_  
 __quell__ _v tr_ :two::hammer:  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
+__rampage__ _n_  
 __rampant__ _adj_  
 __ramrod__  
 __ransack__ _v_  
@@ -373,6 +396,7 @@ __round robin__
 __roundhouse__ _n_  
 __roundworm__ _n_  
 __row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
+__rubble__ _n_ /ˈrʌbəl/  
 __rubricate__ _v tr_ /ROO-bri-kayt/ [:scroll: From Latin rubricare (to color red), from rubrica (rubric, red earth)] __1__ To color or mark with red. __2__ To highlight or decorate. __3__ To provide with a rubric (a guide, rule, commentary, etc.).  
 __ruction__ _n_ A riotous disturbance; a noisy quarrel.  
 __rueful__  
@@ -468,6 +492,7 @@ __shoo away__
 __shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
 __short__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __shortlist__ _n, v_  
+__shotgunner__ _n_  
 __shovel__ _v_ :two::hammer:  
 __shrift__  
 __shriveled__ _adj_  
@@ -495,6 +520,7 @@ __skittering__
 __sky-high__ _adj, adv_  
 __sleepover__ _n_  
 __smack__ _n_ __10__ A resounding or loud kiss.  
+__smog__ _n_  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
 __snap__ _n_  
@@ -556,6 +582,8 @@ __stamina__
 __stamping__  
 __stance__ _n_  
 __standoffish__  
+__standout<sup>1</sup>__ _n_ A person, performance, etc., that is clearly superior to others.  
+__standout<sup>2</sup>__ _adj_ Outstanding; superior.  
 __stately__ _adj_ :two::hammer: _A stately building._  
 __Staten Island__ _n_ :m: /ˈstæt n ˈaɪlənd/  
 __stateroom__ _n_ _73 spacious suites and staterooms._  
@@ -669,6 +697,7 @@ __undercut__
 __underpin__ _v tr_  
 __underpinnings__ _n_ :two::hammer:  
 __unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
+__unencumbered__ _adj_ /ˌʌnɪnˈkʌmbəd/ Not burdened, impeded, or hampered. _Unencumbered love._  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Not ambiguous; plain  
 __unerring__ _adj_  
 __unfurl__ _v_  
@@ -729,6 +758,7 @@ __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re
 __vignette__ _n_  
 __vindicate__  
 __vise__ _n_  
+__vocal__  
 __volatile__ _adj_ /VAH-luh-tul/  
 __voracity__ _n_ /vuh-RASS-uh-tee/  
 __walkout__ _n_ :four: __1__ A labor strike.  
@@ -754,6 +784,7 @@ __whip up__
 __whiplash__ _n_ :two::hammer: _Economic whiplash._  
 __whirred__ _v_ _The videotapes whirred._  
 __white tie__ _n_ (vs _black tie_)  
+__wholeheartedly__  
 __wholesome__  
 __whoop__ _v_  
 __whopping__ _adj_  
