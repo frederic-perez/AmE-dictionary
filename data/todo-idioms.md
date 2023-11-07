@@ -4,9 +4,13 @@ __(be) careful what you wish for(, (because) you just might get it)__ A warning 
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(I) hope not__  
+__(kill) the golden goose__  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
+__a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
+__a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
 __across the board__ :two::hammer:  
 __bad blood__ Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
+__be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
 __be on the same page__  
 __bits and pieces__  
 __bleeding heart__  
@@ -16,16 +20,20 @@ __break the bank__ To be very expensive. The phrase is often used in the negativ
 __breeding ground__  
 __bundle up__  
 __C-note__  
+__cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
 __call out__  
 __call someone names__  
 __canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __carrot and stick__ (carrot or stick)  
 __case in point__ An example that demonstrates a point being made as truthful or correct.  
 __catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
+__catch a snooze__ To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
+__chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
 __chances are__  
 __cherry on top__  
 __chime in__  
 __close a/the deal__  
+__cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __come to an end__  
 __connect the dots__  
@@ -84,7 +92,14 @@ __face up (to someone or something)__ :dart: To confront with courage someone or
 __fear not__ Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __feast (up)on (something)__  
 __fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
+__get this show on the road__ To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
+__glad tidings__ :dart: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __go down the rabbit hole__  
+__golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success. _My programming experience is going to be my golden ticket out of this one-horse town._  
+__golden touch__ The ability to earn a large amount of money or be very successful in any endeavor. From the Greek myth of King Midas, who was granted the ability to turn anything he touched into solid gold. _During the ’80s, he owned half of Las Vegas, but in recent years, he seems to have lost his golden touch._  
+__golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
+__good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
+__good enough for jazz__ :dart: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
 __greenwash__  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
@@ -101,6 +116,7 @@ __have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage t
 __have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a/the right to (something)__  
 __have enough on (one’s) plate__  
+__have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have had (one’s) chips__ To fail or be defeated; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
 __have it easy__ To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
@@ -120,6 +136,7 @@ __have the guts (to do something)__ To have enough courage, conviction, or resol
 __have the hang of (something)__  
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_  
 __have the last laugh__  
+__have the say__ To have the ultimate authority to command, control, or make a decision. _Your report looks good enough to me, but it’s the manager who has the say on whether it’s finished or not._  
 __hazarded__ _v_  
 __he who hesitates is lost__  
 __head over heels__  
@@ -136,6 +153,7 @@ __here we go__
 __here’s to (someone or something)__  
 __high horse__  
 __high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful or rowdy activity, often involving mischievous pranks. _All sorts of high jinks go on at summer camp after “lights out.”_  
+__high note__ The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
 __hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
@@ -184,6 +202,7 @@ __nah__
 __never say never__ Do not say that something is impossible, that it will never happen, or that you will never do it, because anything is possible. The term first appeared in Charles Dickens’ novel _The Pickwick Papers._ _A: “I’ll never be good enough to make the team.” B: “Never say never. Just keep practicing and see what happens.”_  
 __next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
 __no biggie__ (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
+__no good deed goes unpunished__  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __of late__  
@@ -245,6 +264,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
