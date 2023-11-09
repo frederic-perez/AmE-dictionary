@@ -13117,8 +13117,9 @@ __pillbox hat__ _n_ :two::hammer:
 __pillbox__ _n_ :two: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
 __pilloried__ _v_ :two::hammer:  
 __pillory__ _n_  
-__pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
+__pillowcase__ _n_ :three: (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
+__pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
 __pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
 __Piltdown man__ _n_ A hypothetical early modern human whose existence was inferred from bone fragments allegedly found at Piltdown, England, in 1912 but identified as a hoax in 1953.  
 __pimple__ _n_ :three::hammer: _Pop the pimples._  
@@ -13132,15 +13133,16 @@ __pinback__ _n_ :two::hammer:
 __pincer__ _n_ :two: __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __pinch > in a pinch__  
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
+__pinch-faced__ _adj_ The term _pinch-faced_ typically describes a person with a thin, pale, and sometimes unpleasant-looking face. _A pinch-faced balding man with a deep drawl._  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ :es: pellizco  
-__pincher__ _n_ :two::hammer:  
+__pincher__ _n_ :three::hammer:  
 __pincushion__  
 __pine (for)__ _v_  
 __pine nuts__  
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
-__pinecone__ _n_ The seed-producing cone of a pine tree.  
+__pinecone__ _n_ :two: The seed-producing cone of a pine tree.  
 __ping__ _v_ _Pinging with heat._  
 __pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
 __pinion<sup>1</sup>__ _n_ :two: /PIN-yuhn/ __1__ A feather or a wing, especially the terminal segment of a wing. __2__ A small cogwheel engaging with a larger wheel or a rack.  
@@ -13165,9 +13167,10 @@ __pinpoint<sup>2</sup>__ _n_ :two::hammer: _His face was covered with pinpoints 
 __pinpoint<sup>3</sup>__ _adj_  
 __pinpricks__ _n_  
 __pins and needles__ _n pl_ :es: hormigueo  
+__pinscher__ _n_ Any of three breeds of dogs whose ears and tail are usually cropped.  
 __pinstripes__ _n_  
-__pinwheel__ _v_  
-__pinwheeling__  
+__pinwheel<sup>1</sup>__ _n_  
+__pinwheel<sup>2</sup>__ _v intr_ :two: To revolve rapidly like a pinwheel.  
 __pions__ _n_  
 __pip__ _n_ __1__ A disease of birds, characterized by a thick mucous discharge that forms a crust in the mouth and throat. __2__ _slang_ A minor unspecified human ailment.  
 __pipe dream__ _n_ :dart::three::hammer:  
@@ -13179,7 +13182,7 @@ __piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges 
 __pippin__  
 __piquancy__  
 __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
-__pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
+__pique<sup>1</sup>__ _n_ :four: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::m::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :three: A canoe made from a hollowed tree trunk. _Syn_ dugout canoe, dugout  
 __pirouette<sup>1</sup>__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
@@ -13205,10 +13208,10 @@ __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling ba
 __pitched battle__ _n_ :two: __1__ An intense battle fought in close contact by troops arranged in a predetermined formation. _He feared to seek pitched battle._ __2__ A fiercely waged battle or struggle between opposing forces.  
 __pitched__ _adj_ :two::hammer: _A pitched battle._ :es: batalla campal  
 __pitchfork__  
-__pitfalls__ _n_ :two::hammer:  
+__pitfall__ _n_ :three::hammer: (pitfalls)  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer’s head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
-__pithy__ _adj_ :four: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
+__pithy__ _adj_ :five: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pitiful__ _adj_ :two::hammer:  
 __pitmaster__  
 __Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of fluid-stream movement and attached to a manometer, used to measure the total pressure of the fluid stream.  
@@ -13221,6 +13224,7 @@ __pivotal__ _adj_ :five: __2__ Of crucial importance.
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzeria__ _n_ :mega:  
+__pizzicato__  
 __pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull’s penis.  
 __PJs__  
 __pk__  
@@ -13228,6 +13232,7 @@ __placard__ _n_ :three::hammer::camera:
 __place__ _v_ :two: (placed) __8a__ To rank in an order or sequence: _I’d place him second best._ _Japan placed third behind Norway and Germany in the World Cup men’s ski jumping competition._ _Katherine Reutten placed fifth in the 1,000-meter final._ __b__ To estimate: _placed the distance at 100 feet._  
 __placebo__ _n_ :mega:  
 __placeholder__ _n_ :four::hammer:  
+__placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
 __placemat__ _n_ :two: (place mat, placemats) A mat serving as table linen for an individual place setting.  
 __placid__  
 __placket__  
@@ -13297,6 +13302,7 @@ __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee i
 __please__ _adv_ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
+__plebs__ _n pl_  
 __plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
 __pledge__ _n_ :three::hammer:  
 __plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abundance.  
@@ -13490,7 +13496,7 @@ __pork pie__ _n_
 __pork rind__ _n_ :two::dart::hammer: (pork rinds) :es: cortezas de cerdo  
 __porkpie hat__ _n_ :two: (pork pie hat, porkpie) A pork pie hat is one of several different styles of hat that have been popular since the mid-19th century, all of which bear superficial resemblance to a pork pie.  
 __porkpie__ _n_ :two: A hat having a low flat crown and a flexible, narrow brim. Also called _porkpie hat_.  
-__porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
+__porky__ _adj_ :two: _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
 __porpoise__ _n_ :two: A type of blunt-nosed sea animal of the dolphin family.  
 __porridge__  
@@ -13500,7 +13506,7 @@ __porta-potty__ _n_ :three: A toilet that is in a small plastic building that ca
 __portable building__ _n_ A portable, demountable or transportable building is a building designed and built to be movable rather than permanently located. :es: barracones  
 __portal__  
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
-__portend__ _v tr_ :nine::hammer: /por-TEND/ (portended) _...may portend a disruption._  
+__portend__ _v tr_ :nine::m::hammer: /por-TEND/ (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
 __portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
 __porter__ _n_  
@@ -13779,7 +13785,7 @@ __probation__ _n_ _A person has ben sentenced to probation._
 __probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proboscis__ _n_  
-__proceedings__ _n_ _The bishops held the proceedings against Wyclif in abeyance._  
+__proceedings__ _n_ :two::hammer: _The bishops held the proceedings against Wyclif in abeyance._ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __proceeds__ _n_ :nine: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ _Proceeds of refreshments to the British Red Cross._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
@@ -13790,6 +13796,7 @@ __proctor<sup>1</sup>__ _n_ :two: __1__ (Education) A member of the teaching sta
 __proctor<sup>2</sup>__ _v tr_ (Education) _US_ :four: To supervise (an examination). _I’m proctoring a DiRT exercise._  
 __procurator__ _n_ One authorized to manage the affairs of another; an agent. _Syn_ proxy, placeholder _The wealthy businessman’s procurator arrived at the auction to bid on his behalf._  
 __procure__ _v_ :four::hammer: (procuring)  
+__procurement__ _n_  
 __prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
 __prod<sup>2</sup>__ _n_ :es: _empujón_  
 __prodigal<sup>1</sup>__ _adj_ :three: Rashly or wastefully extravagant. _Syn_ profligate, spendthrift, extravagant _Her prodigal spending left her with a mountain of bills and an empty bank account._  
@@ -13803,6 +13810,7 @@ __professed__ _v_ :two::hammer:
 __proffer__ _v_ _formal_ :three: /PRAH-fer/ To present (something) for acceptance. _Several recommendations were proffered by the finance board on how to reduce the city’s debt without making drastic cuts in department budgets._ _I ignored the proffered hand._  
 __proficiency__  
 __proficient__  
+__profile__ _v_  
 __profit__ _v_ :astonished:  
 __profiteer<sup>1</sup>__ _n_  
 __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
@@ -13984,7 +13992,7 @@ __pulp__ _n_ _The pulps were running out of steam._
 __pulpit__ _n_ :four::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
-__pummel__ _v_ :six::hammer: (pummeled)  
+__pummel__ _v tr_ :seven::hammer: (pummeled)  
 __pump<sup>1</sup>__ _n_ :three: __5__ _informal_ The place where consumers purchase gasoline. Used with the: _gas prices rising at the pump._ _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
 __pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available for sale.  
@@ -14002,10 +14010,11 @@ __punctilious__ _adj_ :dart::three: /pʌŋkˈtɪlɪəs/ Strictly attentive to mi
 __punctuate__  
 __puncture__ _n_ :two::hammer: _Transeptal puncture._  
 __punctured__ _v_ _Punctured his tire._  
-__pundit__ _n_ :four::hammer:  
+__pundit__ _n_ /PUN-dit/ :four::hammer:  
 __punditocracy__ _n_ A group of powerful and influential political commentators.  
-__pungent__ _adj_ :two::hammer:  
+__pungent__ _adj_ :three: /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
 __pungi__  
+__punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
 __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
 __punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
 __punt<sup>1</sup>__ _n_ :three: __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole. __2__ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
@@ -14032,7 +14041,8 @@ __purloin__ _v_ :nine: To steal, often in a violation of trust. _Syn_ cabbage, f
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _n_ _A hint of purple._  
-__purport__ _v_ :nine::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
+__purport<sup>1</sup>__ _v tr_ :nine::m::astonished::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
+__purport<sup>2</sup>__ _n_  
 __purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
 __purr<sup>1</sup>__ _n_ __1__ The soft vibrant sound made by a cat. __2__ A sound similar to that made by a cat: the purr of an engine.  
 __purr<sup>2</sup>__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  

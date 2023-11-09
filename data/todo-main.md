@@ -212,34 +212,6 @@ __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in wh
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
-__pillowcase__ _n_ :two::hammer:  
-__pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
-__pinch-faced__ _adj_ The term _pinch-faced_ typically describes a person with a thin, pale, and sometimes unpleasant-looking face. _A pinch-faced balding man with a deep drawl._  
-__pincher__ _n_  
-__pinecone__ _n_  
-__pinscher__ _n_ Any of three breeds of dogs whose ears and tail are usually cropped.  
-__pinwheel__ _n_  
-__pique<sup>1</sup>__ _n_  
-__pique<sup>2</sup>__ _v_  
-__pitfall__ _n_  
-__pithy__ _adj_ __1__ Precisely meaningful; forceful and brief: _a pithy comment._  
-__pizzicato__  
-__placeman__ _n_ One who has a political appointment in the government. _Syn_ placeseeker  
-__plebs__ _n pl_  
-__porky__  
-__portend__ _v_  
-__preposterous__ _adj_ :two::hammer:  
-__proceedings__ _n_ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
-__procurement__ _n_  
-__profile__ _v_  
-__provost__  
-__pummel__ _v tr_  
-__pundit__ _n_ /PUN-dit/  
-__pungent__ _adj_ /PUN-junt/ Pungent typically describes things that have a strong, sharp taste or smell. It can also describe communication that has a strong effect on the mind because of being clever and direct.  
-__punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
-__purport<sup>1</sup>__ _v tr_ :astonished:  
-__purport<sup>2</sup>__ _n_  
-__purported__  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __purview__ _n_  
