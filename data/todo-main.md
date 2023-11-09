@@ -188,33 +188,6 @@ __hypothyroidism__ _n_
 __ibex__ _n_  
 __impediment__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
-__inquiry__ _n_ :two::hammer:  
-__irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
-__kinda__ _adv_ :two::hammer:  
-__lawfare__ _n_  
-__lifeline__  
-__luscious__  
-__maelstrom__ _n_ /MAIL-strum/  
-__marshal__ _v_  
-__miasma__ _n pl_  
-__microcosm__ _n_ /MY-kruh-kah-zum/  
-__midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
-__midwife__ _n_  
-__migraine__ _n_  
-__mildewed__ _adj_ :es: mohoso  
-__militate__ _v intr_ MIL-i-tayt/ To exert a strong influence, either for or against something.  
-__minnow__  
-__minor key__  
-__minstrel__  
-__mire__ _v_ _He was mired in his fixed mindset._  
-__mirthless__  
-__misapprehension__  
-__mollycoddle__ _v_ /MAH-lee-kah-dul/ When you mollycoddle someone, you are treating that person with an excessive or absurd degree of indulgence or attention.  
-__morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
-__motif__ _n_  
-__mound__ _v_ _He was mounding butter pats on his fourth hard roll._  
-__mouthful__ _n_ __3__ A long word, name, or phrase that is difficult to pronounce.  
-__mystify__ _v_ __1__ To confuse or bewilder. _Syn_ perplex _The rules are mystifying._  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __non-binding__ _adj_ That does not bind the participants.  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  

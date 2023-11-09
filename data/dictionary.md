@@ -9214,7 +9214,7 @@ __inordinately__ _adv_ :four::hammer: _He was inordinately proud of the Roman le
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpatient__ _n_ :four: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :three::hammer:  
-__inquiry__ _n_ :two::hammer: (enquiry)  
+__inquiry__ _n_ :four::hammer: (enquiry)  
 __inquisitive__ _adj_  
 __inquisitiveness__  
 __inroad__ _n_  
@@ -9346,7 +9346,7 @@ __iodine__ _n_ :es: yodo
 __iota__ _n_ :two::mega: A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
 __ipse dixit__ _n_ An unsupported assertion, usually by a person of standing; a dictum.  
 __ipso facto__ _adv_  
-__irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
+__irascible__ _adj_ :two: /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed. Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
 __irate<sup>2</sup>__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
@@ -9729,6 +9729,7 @@ __killing field__ _n_ :three: (usually plural) An area where many people have di
 __killjoy__ _n_ :two: One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kiln__ _n_ :two: A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kin__  
+__kinda__ _adv_ :two::hammer:  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
 __kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
 __kinderpunsch__ _n_  
@@ -10018,7 +10019,7 @@ __lavishly__ _adv_ :three::hammer:
 __law and order__  
 __law of the land__  
 __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._  
-__lawfare__ _n_ /LAW-fare/ The use of the legal system to overwhelm an opponent.  
+__lawfare__ _n_ :two: /LAW-fare/ The use of the legal system to overwhelm an opponent.  
 __lawless__ _adj_  
 __lawmaker__ _n_ :six::hammer: (lawmakers)  
 __lawsuit__  
@@ -10184,7 +10185,7 @@ __life preserver__ _n_ _Marty McFly’s life preserver._
 __life raft__ _n_ :two: A raft to use if a ship must be abandoned in an emergency.  
 __lifeblood__ _n_ :five: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
-__lifeline__ _n_ :three::hammer: _China has long been North Korea’s lifeline._  
+__lifeline__ _n_ :four::hammer: _China has long been North Korea’s lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _n informal_ :astonished: A prisoner sentenced to life imprisonment. _Craighead is a lifer at Baker Hughes._  
 __lifesaver__ _n_  
@@ -10521,7 +10522,7 @@ __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over th
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :six::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
-__luscious__ _adj_ :three: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
+__luscious__ _adj_ :four: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
 __lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy. __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
@@ -10584,7 +10585,7 @@ __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or colleg
 __madrigal__ _n_ :two::hammer:  
 __madrigalist__ _n_  
 __madrigals__ _n_ :pencil2:  
-__maelstrom__ _n_ :eight: __1__ 1. A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
+__maelstrom__ _n_ :nine: /MAIL-strum/ __1__ A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magazine__ _n_ _They were pledged to keep the castle’s magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
@@ -11036,18 +11037,20 @@ __mettlesome__ _adj_ :two: /MET-ul-sum/ Full of vigor and strength of spirit or 
 __mewl__ _v tr_ To cry or whimper as an infant or young child: _the infant, mewling and puking in the nurse’s arms._  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :four::hammer:  
-__miasma__ _n_ :seven::hammer: _An opaque miasma._  
+__miasma__ _n_ :eight::hammer: _An opaque miasma._  
 __michelada__ _n_  
 __mick__ _n_ :three::hammer:  
 __mickle__ _n_ A large number or amount or extent. _Syn_ hatful, lot, mint, muckle, peck, slew, spate, tidy sum, wad, stack, raft, pile, plenty, mass, batch, heap, deal, flock, pot, mess, sight _It was only when he found a mickle of old letters in the basement that he learned his grandmother had been a prolific and talented writer._  
 __micrify__ _v tr_ /MYK-ruh-fy/ [:scroll: From Greek micro- (small) + -ficare (to make)] To make small or insignificant.  
 __microbrew__ _n_ :four::hammer:  
+__microcosm__ _n_ /MY-kruh-kah-zum/  
 __microdermabrasion__ _n_  
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
 __midafternoon__  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
 __midday__ _n_ :four::pencil2: The middle of the day; noon. _Normalize midday naps._  
+__midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
 __middle finger__ _n_ __2__ An obscene gesture directed towards another as an insult.  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ :two: A school for students intermediate between elementary school and college; usually grades 9 to 12.  
@@ -11063,13 +11066,14 @@ __midst__ _n_ :two::hammer: _In the midst of this show._
 __midswing__  
 __midwatch__ _n_  
 __midway__  
-__midwife__ _n_ :three::pencil2: Nurse trained to assist women in childbirth.  
+__midwife__ _n_ :four::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __mifepristone__ _n_ /mɪf əˈprɪs toʊn/ An antigestational drug that prevents a fertilized egg from attaching to the uterine wall by blocking the action of progesterone.  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
 __miffed__ _adj_ :five: /mɪft/ Annoyed or upset. When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._ _The cat was miffed at being left alone._  
 __MiG__ _n_ [:scroll: From Mi(koyan) and G(urevich), names of designers] _MiG fighter._  
 __might__ _n_ :three::hammer::mute:[mi~~gh~~t] _China’s economic might._  
+__migraine__ _n_  
 __migrant__ _n_ :three::hammer: (migrants)  
 __mik__ _n_ _informal_ A microphone. _Behind our backs they called us the Spic and the Mik._  
 __Milanese armor__  
@@ -11077,7 +11081,7 @@ __milch__ _adj_ :two: Giving milk. _A milch cow._
 __mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
-__mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould.  
+__mildewed__ _adj_ :two: __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould. :es: mohoso  
 __mile high city__  
 __mile-a-minute<sup>1</sup>__ _n_ Any of several species of fast-growing plants, some of which are extremely invasive outside their native range and undesirable.  
 __mile-a-minute<sup>2</sup>__ _adj_ At the rate of one mile per minute, 60 miles per hour. _A mile-a-minute talker._  
@@ -11086,6 +11090,7 @@ __mile-marker__ _n_ (milemarker)
 __mileage__  
 __milieu__ _n_ /meel-YOO/ A milieu is the physical or social setting in which something occurs or develops. The word is synonymous with environment. _The quiet suburban neighborhood provides the perfect milieu for raising a family._  
 __military fiat__ _n_  
+__militate__ _v intr_ /MIL-i-tayt/ To exert a strong influence, either for or against something.  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
 __milium__ _n_ A small, white or yellowish cystlike mass just below the surface of the skin, caused by retention of the secretion of a sebaceous gland. _Syn_ whitehead _The soap promised to eradicate milia by thoroughly cleansing the skin and unclogging pores._  
@@ -11126,9 +11131,10 @@ __minimus__ _n_ The fifth digit; the little finger or little toe.
 __minion__ _n_ :three::hammer: (minions) _King Edward died deserted by the minions of power._  
 __miniver__ _n_  
 __minnie__ _n_ :three: /ˈmɪnɪ/ A mother.  
-__minnow__ _n_ :nine: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
+__minnow__ _n_ :nine::m: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
+__minor key__  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
-__minstrel__ _n_ :four: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
+__minstrel__ _n_ :five: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _n_ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
@@ -11140,12 +11146,14 @@ __mirabile dictu__ _phr_ /mɪˈræbɪleɪ ˈdɪktuː/ _(Literary & Literary Crit
 __mirage__ _n_ /mɪˈrɑʒ/  
 __Miranda rights__ _n_  
 __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
-__mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
+__mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ _He was mired in his fixed mindset._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :six: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
+__mirthless__  
 __misadventure__ _n_ :two: An instance of misfortune; a mishap.  
 __misanthrope__ _n_ /MISS-un-throhp/ Someone who hates people in general.  
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
+__misapprehension__  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
@@ -11256,7 +11264,7 @@ __mollify__ _v tr_ :nine::m: /MOL-uh-fy/ /MAH-luh-fye/ [:scroll: From Latin moll
 __molluscum contagiosum__ _n_  
 __mollusks__  
 __Molly Brown__ _n_  
-__mollycoddle<sup>1</sup>__ _v tr_ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] To be overprotective and indulgent toward. _Syn_ pamper  
+__mollycoddle<sup>1</sup>__ _v tr_ /MAH-lee-kah-dul/ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] When you mollycoddle someone, you are treating that person with an excessive or absurd degree of indulgence or attention. To be overprotective and indulgent toward. _Syn_ pamper  
 __mollycoddle<sup>2</sup>__ _n_ A person, especially a man or a boy, who is pampered and overprotected.  
 __molt<sup>1</sup>__ _v_  
 __molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, like other birds, regularly shed their feathers (molt)._  
@@ -11342,6 +11350,7 @@ __morning glory__
 __morosely__ _adv_ :two::hammer:  
 __morphetic__ _adj_ /mor-FET-ik/ [:scroll: After Morpheus, the god of dreams in Greek mythology. He was the son of Hypnos, the god of sleep. The name of the drug morphine is also derived after Morpheus.] Relating to sleep or dreams.  
 __morris__ _n_ An English folk dance in which a story is enacted by costumed dancers. _Maypole and morris dancers._  
+__morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :three::hammer: _Militants fired mortar rounds._  
@@ -11364,7 +11373,7 @@ __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, a
 __mother hen__  
 __Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
 __mother-of-pearl__ _n_ :es: nácar _Mother-of-pearl inlays._  
-__motif__ _n_ :two::hammer:  
+__motif__ _n_ :three::hammer:  
 __motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _n_ _Defense attorneys had filed motions._  
 __motley__ _adj_ :seven: If you’ve encountered the word motley, it’s most likely in the phrase “motley crew,” which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. Motley usually means “made up of many different people or things,” and often appears in the phrase “motley crew” or “motley mix.” It can also mean “variegated in color.” _Many of the jesters at the medieval festival were dressed in bright motley garb._ _Motley crew._ _A motley collection._  
@@ -11380,7 +11389,7 @@ __motorist__ _n_ :three: A person who drives or travels in a privately owned aut
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mould__ _n_  
-__mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
+__mound__ _v_ :two: __1__ (often foll by up) To gather into a mound; heap. __2__ To cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._ _He was mounding butter pats on his fourth hard roll._  
 __mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
@@ -11394,7 +11403,7 @@ __mousetrap__ _n_
 __mousy__ _adj_ _A mousy accountant._  
 __mouth__ _v_  
 __mouth-watering__  
-__mouthful__ _n_ A word or phrase that is very long or hard to pronounce.  
+__mouthful__ _n_ :two: __3__ A long word, name, or phrase that is difficult to pronounce. A word or phrase that is very long or hard to pronounce.  
 __mouthguard__  
 __mouthpiece__ _n_ _Jed had just been a mouthpiece._  
 __mouthwash__ _n_ :two::hammer: :es: colutorio  
@@ -11535,7 +11544,7 @@ __mysterious__ _adj_ :two::pencil2:
 __mystery shopper__ _n_ Someone hired by a company to pose as a customer in order to evaluate the quality of its service.  
 __mystery train__  
 __mystified__  
-__mystify__ _v_ _He was mystified._  
+__mystify__ _v_ :two: __1__ To confuse or bewilder. _Syn_ perplex _The rules are mystifying._ _He was mystified._  
 __mystique__ _n_ :pencil2:  
 __myth__ _n_  
 __mythical__ _adj_  
