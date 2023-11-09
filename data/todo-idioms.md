@@ -9,32 +9,6 @@ __(kill) the golden goose__
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
-__across the board__ :two::hammer:  
-__against nature__ Contrary to what is considered natural, moral, or proper for human life. _The horrible way they treat homeless people around here is a crime against nature._  
-__back down__  
-__bad blood__ Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
-__be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
-__be on the same page__  
-__bits and pieces__  
-__bleeding heart__  
-__bop__  
-__bounce back__ :dart: __2__ Of a person, to recover from a setback. _The doctors expect her to bounce back and make a full recovery._  
-__break the bank__ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
-__breeding ground__  
-__bundle up__  
-__C-note__  
-__cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
-__call out__  
-__call someone names__  
-__canary in a/the coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
-__carrot and stick__ (carrot or stick)  
-__case in point__ An example that demonstrates a point being made as truthful or correct.  
-__catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
-__catch a snooze__ To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
-__chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
-__chances are__  
-__cherry on top__  
-__chime in__  
 __close a/the deal__  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  

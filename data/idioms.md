@@ -213,7 +213,7 @@ __ace (something)__ To do exceptionally well in something, especially an exam or
 __ace in the hole__ :two::hammer:  
 __Achilles’ heel__  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
-__across the board__ :two::hammer:  
+__across the board__ :four::hammer:  
 __across the pond__  
 __act of Congress__ :two: That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._ _Trying to get my doctor on the phone is like an act of Congress!_  
 __actuary__ _n_ A statistician who computes insurance risks and premiums.  
@@ -231,6 +231,7 @@ __affinity for (someone or something)__ A passionate interest in or affection fo
 __affirmative action__  
 __after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
 __again and again__ :two::hammer: _The same groundhog festival is gearing up again and again._  
+__against nature__ Contrary to what is considered natural, moral, or proper for human life. _The horrible way they treat homeless people around here is a crime against nature._  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
 __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually refers to the heyday of the hippie and New Age movements in the 1960s and 1970s.  
@@ -399,6 +400,7 @@ __baby step__ :two::hammer:
 __back and forth__  
 __back at square one__ :dart:  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
+__back down__  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back on the horse__  
@@ -413,7 +415,7 @@ __backpedal__ :three: To quickly and often abruptly reverse or retreat from one�
 __backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
 __backup plan__ A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
 __backwater__  
-__bad blood__ :two::hammer:  
+__bad blood__ :three: Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
 __bad boy__  
 __bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
 __bad press__ :three: Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
@@ -512,6 +514,7 @@ __be in for a surprise__ To be guaranteed to receive or experience an unexpected
 __be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in over (one’s) head__ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be in pursuit__ Following or chasing someone or something. _The burglar got away, but I called the police, and now they’re in pursuit._  
+__be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
 __be in the dark (about someone or something)__ _We are in the dark._  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be kept in the dark (about something)__ :two: To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
@@ -549,7 +552,7 @@ __be on course__ :dart: __1__ Literally, to be moving in the correct direction o
 __be on edge__ :two::hammer:  
 __be on the fence (about something)__  
 __be on the lookout__ :two::hammer:  
-__be on the same page__  
+__be on the same page__ :two::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be on vacation__ _During January and February the trolleys are on vacation._  
 __be partial to (someone or something)__  
@@ -654,6 +657,7 @@ __bite off more than one can chew__ To attempt to take on a task that is too muc
 __bite the bullet__  
 __bite the dust__ :three::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._ _Bite the dust, asteroid!_  
 __bite the hand that feeds (you)__ :two: To scorn or poorly treat those on whom you depend or derive benefit.  
+__bits and pieces__  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black magic__  
@@ -661,6 +665,7 @@ __black sheep__
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blank canvas__  
 __blaze a trail__  
+__bleeding heart__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blind date__ A date between two people who have not previously met. _Blind dates are terrifying because you don’t know what the person will be like, but that’s also part of the excitement._  
 __blindside__  
@@ -702,7 +707,7 @@ __boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Do
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __boom__  
-__bop__ _v_ :three::hammer: (bopped)  
+__bop__ _v_ :four::hammer: (bopped)  
 __bored to tears__ :three: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
 __born to the purple__ Born in the purple. _Both were born to the purple._  
@@ -712,7 +717,7 @@ __bottle up__ :two::hammer: _Find a balance between bottling up feelings and ove
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
-__bounce back__ :two::hammer:  
+__bounce back__ :dart::three: __2__ Of a person, to recover from a setback. _The doctors expect her to bounce back and make a full recovery._  
 __bound to (be or do something)__ :two::hammer: _It’s bound to be an exciting game._  
 __bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __Box and Cox__ Two people who always miss each other and thus are never together. The phrase comes from the 19th-century story of the same name, in which two men named Box and Cox rent the same room at different times of day. _Since I’ve been on night work all week, Irene and I are like Box and Cox these days, constantly missing each other. I hope to actually spend time with her over the weekend!_  
@@ -736,7 +741,7 @@ __break into a smile__ To start smiling. _Even though she scolded me for disrupt
 __break into__  
 __break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
 __break new ground__ :two: To advance, innovate, or pioneer (something). _They’ve really broken new ground with their latest product—I’ve never seen anything like it._  
-__break the bank__ :two: To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
+__break the bank__ :three: To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __break the ice__ To make people who have not met before feel more relaxed with each other.  
 __break the news__ To reveal information, often that which is bad or upsetting. _Who is going to break the news of her husband’s accident?_  
 __break your back__ :two: To work extremely hard.  
@@ -744,6 +749,7 @@ __break your duck__ To do something for the first time.
 __breaking point__ :three: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
 __breathe new life__  
+__breeding ground__  
 __brick by brick__ :two: Steadily and continuously in a step-by-step manner, especially the creation or destruction of something. Likened to erecting (or demolishing) a house or other building one brick at a time. _We built this business from nothing, brick by brick, until we had the largest retail chain in the city._  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __bridge the gap__ :two::hammer:  
@@ -787,6 +793,7 @@ __bum pump__ Buttpump.
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __bump someone or something up__  
+__bundle up__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __burn the candle at both ends__ :two: To work very hard and stay up very late at night. (One end of the candle is work done in the daylight, and the other end is work done at night.) _No wonder Mary is ill. She has been burning the candle at both ends for a long time._ _You’ll wear out if you keep burning the candle at both ends._  
 __burn the midnight oil__ :three: To work late into the night.  
@@ -840,6 +847,8 @@ __by the numbers__ _The boxing sequences are by the numbers._
 __by the same token__ :three: In the same way.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ :three: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
+__C-note__  
+__cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
 __call (all) the shots__ :two::hammer:  
 __call (one) names__  
 __call (one) on (something)__  
@@ -851,8 +860,8 @@ __call it a day__ :two::hammer: _If there are no further points, then let’s ca
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
 __call on (someone or something)__ :two::hammer: _He called on me._  
-__call out__ :four::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
-__call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
+__call out__ :five::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
+__call someone names__ :three: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
 __call someone out__ :four: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
 __call something out__  
@@ -871,7 +880,7 @@ __can’t get a break__
 __can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
 __can’t hack it__ _slang_ Cannot complete or tolerate a task or situation. _I honestly do not know if I can hack this._  
 __can’t thank you enough__  
-__canary in a/the coal mine__ :three: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. Refers to the former practice of taking caged canaries into coal mines. The birds would die if methane gas became present and thereby alert miners to the danger. _Wildlife in disaster movies assumes the role of the canary in the coal mine, fleeing the scene when catastrophe is imminent._ _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
+__canary in a/the coal mine__ :four: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger. Refers to the former practice of taking caged canaries into coal mines. The birds would die if methane gas became present and thereby alert miners to the danger. _Wildlife in disaster movies assumes the role of the canary in the coal mine, fleeing the scene when catastrophe is imminent._ _Unaware that he had been given the test drug, John was used as a canary in the coal mine to see its effects on the human mind._  
 __cancel out__  
 __candle in the wind__ :two: Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cannibalize__ _v_  
@@ -884,14 +893,14 @@ __cards are stacked against someone__ Luck is against someone.
 __career cushioning__ Career cushioning is an informal term for the practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carp at (one)__ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
-__carrot and stick__ :two: (carrots and sticks) Reward and punishment.  
+__carrot and stick__ :three: (carrots and sticks, carrot or stick) Reward and punishment.  
 __carry (someone) off their feet__ To completely overwhelm someone with enthusiasm, ardor, or passion. _The strength of the senator’s oration carried the entire crowd off their feet._  
 __carry a torch for__  
 __carry the ball__ :two: To be in charge.  
 __carry the day__ To win, to be successful.  
 __carve out__ :three::hammer:  
 __case closed__ :two::hammer:  
-__case in point__ :five: A specific example of what one is talking about. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__case in point__ :six: A specific example of what one is talking about. An example that demonstrates a point being made as truthful or correct. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
@@ -913,7 +922,8 @@ __catch (on) fire__ To begin to burn, usually after being touched by an existing
 __catch (one’s) breath__ :two::hammer:  
 __catch (one’s) eye__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
-__catch a snooze__ To sleep or take a nap, especially of a short duration.  
+__catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
+__catch a snooze__ :two: To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
 __catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
 __catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
@@ -933,12 +943,12 @@ __caught unaware(s)__ To be surprised by someone or something. _The clerk was ca
 __caught with your pants down__ To be found in an embarrassing situation.  
 __cause a stir__ _ChatGPT is the latest artificial intelligence (AI) chatbot to cause a stir._  
 __cautionary tale__ :three::hammer:  
-__chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
+__chafe at the bit__ :two: To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
 __chain reaction__ /CHAYN ree-ak-shuhn/ A series of events wherein the outcome of each instance specifically influences or causes the next. The phrase comes from the occurrence of such reactions in chemistry and physics. _Deciding to take a course studying James Joyce in college set up a chain reaction that ultimately led me to move to Ireland._  
 __chalk and cheese__ :two: A phrase used to emphasize that two people or things are very different from one another. _Good luck getting those two to talk to each other—they’re like chalk and cheese._  
 __chalk it up__ To link something that has happened to a particular reason or circumstance. _Don’t get too down on yourselves after this loss, boys. Let’s just chalk it up to inexperience and move on._  
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
-__chances are__ :four: It seems likely (that something will happen or be the case). _Chances are that my parents are throwing me a surprise party. Why else would they change the subject every time I mention my birthday?_  
+__chances are__ :five: It seems likely (that something will happen or be the case). _Chances are that my parents are throwing me a surprise party. Why else would they change the subject every time I mention my birthday?_  
 __change of heart__  
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __chapter and verse__  
@@ -954,6 +964,7 @@ __check out__
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheesy__ _adj informal_ :four: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
+__cherry on top__  
 __chew on something__  
 __chew out__ _slang_ To scold or berate one harshly or angrily. A noun or pronoun can be used between “chew” and “out.” _The boss is totally going to chew us out if he hears that we lost that big client._  
 __chew the fat__ To chat or gossip.  
@@ -964,7 +975,7 @@ __chicken out__
 __child’s play__  
 __chillax__ _slang_ Calm down and relax. _You can dance to your favorite tune, chillax, or have friends over._  
 __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing,” often shortened colloquially to “chillaxin’.” _We’re just chillaxin’ and watching some TV, if you want to join us._  
-__chime in__ :three::hammer:  
+__chime in__ :four::hammer:  
 __chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
 __chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
 __chip away__ :dart::eight: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ :dart: To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
