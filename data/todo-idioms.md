@@ -4,11 +4,14 @@ __(be) careful what you wish for(, (because) you just might get it)__ A warning 
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
 __(good) heavens__  
 __(I) hope not__  
+__(I) told you (so)__  
 __(kill) the golden goose__  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
 __across the board__ :two::hammer:  
+__against nature__ Contrary to what is considered natural, moral, or proper for human life. _The horrible way they treat homeless people around here is a crime against nature._  
+__back down__  
 __bad blood__ Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
 __be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
 __be on the same page__  
@@ -38,6 +41,8 @@ __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the di
 __come to an end__  
 __connect the dots__  
 __crack the code__  
+__cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
+__cross someone__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
@@ -76,6 +81,7 @@ __down the toilet__
 __drag (one’s) ass__  
 __drag (one’s) feet__  
 __drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
+__draw (something) to (someone’s) attention__ To inform someone of something. _Oh, I’ll draw your misconduct to your supervisor’s attention, don’t you worry._ _Don’t forget to draw the leak to the landlord’s attention._  
 __draw a line__  
 __draw upon__  
 __dressed to the nines__  
@@ -145,6 +151,7 @@ __head up__
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__heart and soul__  
 __heart of gold__  
 __heaven on earth__  
 __helluva__  
@@ -169,11 +176,15 @@ __in the hope of__
 __in the hot seat__  
 __in the least__  
 __in the loop__  
+__in the making__  
+__in the midst__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
+__in the thick of it__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jazz up__  
 __jump in line__  
 __keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
+__keep the ball rolling__  
 __lag behind__  
 __late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
 __lay out__ :dart: __3__ To detail or explain something explicitly, such as a plan or concept. A noun or pronoun can be used between “lay” and “out.” _When he began laying out his campaign strategy, we all realized that he actually had a shot at winning._  
@@ -203,6 +214,7 @@ __never say never__ Do not say that something is impossible, that it will never 
 __next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
 __no biggie__ (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
 __no good deed goes unpunished__  
+__no probs__  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __of late__  
@@ -217,13 +229,16 @@ __once and for all__
 __one and done__  
 __one on one__  
 __one step at a time__  
+__one too many__  
 __one way or another__  
 __open the floodgates__  
 __outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
+__over the top__  
 __perk up__  
 __phooey__  
 __phub__  
 __pick (one’s) brain(s)__  
+__pick a fight__ To act aggressively or in a certain way toward someone in order to provoke them into a fight.  
 __pipe down__ To become quiet and calm; to stop being loud or boisterous. Often said as a command.  
 __pipe up__ To make oneself heard; to interrupt or interject.  
 __play down__  
@@ -247,6 +262,7 @@ __put the kibosh on (something)__ To impede, spoil, or prevent something from ha
 __put the skids to__  
 __put through the ringer__  
 __put two and two together__  
+__put up a fight__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. _I don’t know how you put up with John—he’s such a loudmouth!_  
 __put up with something__  
 __put upon__  
@@ -264,6 +280,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
@@ -292,6 +309,7 @@ __snout trout__ A smell similar to fish left on the end of your nose after going
 __so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ To such an extent or large degree that.  
 __so much so__ To such an extent or great degree (that).  
+__spick and span__ Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __stave off__  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __step up__  
@@ -305,11 +323,12 @@ __sugarcoat (something)__
 __sure enough__  
 __surprise, surprise__  
 __swan song__  
+__swim against the tide__ To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others.  
 __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
 __take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
-__take (something) with a grain of salt__  
+__take (something) with a grain of salt__ :two::hammer:  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
@@ -374,12 +393,14 @@ __Tinseltown__
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __to a T__  
 __to name (but) a few__  
+__to this day__  
 __tone deaf__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __toss out__  
 __tough talk__  
 __trash talk__ _I won’t trash talk._  
+__trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __treasure trove__  
 __trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
