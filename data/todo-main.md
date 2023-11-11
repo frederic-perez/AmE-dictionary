@@ -24,6 +24,11 @@ __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._
 __afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
+__articulate__ _v_  
+__backslash__ _n_  
+__banger__ _n_ __1__ A type of sausage. __2__ A powerful or impressive song. __3__ An old or dilapidated vehicle.  
+__burden of proof__ _n_  
+__burrow__ _n_  
 __busyness__  
 __butterscotch__ _n_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
@@ -36,7 +41,9 @@ __call upon__
 __castellated__ _adj_ Having turrets and battlements in the style of a castle. _Syn_ castled, crenellated, battlemented  
 __circadian__ _adj_  
 __citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
+__conclude__ _v_  
 __conducive__  
+__consequential__ _adj_  
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
@@ -72,6 +79,7 @@ __decal__ _n_ /ˈdi kæl, dɪˈkæl/ __1__ A picture or design transferred by de
 __decamp__  
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
+__deliverance__ _n_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __dispel__ _v_  
@@ -107,7 +115,9 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__enshrine__ _v tr_  
 __envision__ _v tr_  
+__escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
 __ethos__ _n_  
 __eviction__ _n_  
@@ -133,6 +143,7 @@ __fintech__ _n_ Products and companies that employ newly developed digital and o
 __fire hose__ _n_  
 __firebrand__  
 __firefly__ _n_ :es: luciérnaga  
+__firestorm__ _n_  
 __fishwife__ _n_ __2__ fA person, traditionally a woman, who persistently nags or criticizes. _Syn_ fury, harpy, scold, shrew, termagant, virago, vixen  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __fitfully__ _adv_ _He slept fitfully on the king-sized bed._  
@@ -140,6 +151,7 @@ __flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest
 __flapping__ _n_ _Syn_ fluttering, flap, flutter  
 __flat__ _adv_  
 __flat-footed__ _adj_  
+__flee__ _v_  
 __fling__ _n_ __4__ A brief, casual sexual or romantic relationship.  
 __flit__ _n_  
 __floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
@@ -160,6 +172,7 @@ __grisly__ _adj_
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __grubstake__  
 __gullible__ _adj_ /GULL-uh-bul/  
+__hacktivist__ _n_  
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
 __hamper__ _v tr_  
@@ -187,15 +200,23 @@ __hypochondriac__
 __hypothyroidism__ _n_  
 __ibex__ _n_  
 __impediment__ _n_  
+__inch__ _v_ _Inch closer._  
 __inculcate__ _v_ /in-KUL-kayt/  
+__landfill__ _n_  
+__misnomer__ _n_  
+__misspend__ _v tr_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __non-binding__ _adj_ That does not bind the participants.  
+__non-negotiable__ _adj_  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __o’clock__ _adv_ Short for _of the clock._  
+__off label__  
 __offset__ _v_  
 __ogre__ _n_  
 __onus__ _n_  
+__otitis__ _n_  
 __out-of-pocket__  
+__outage__ _n_  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -212,6 +233,7 @@ __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in wh
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
+__psychobabble__ _n_  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __purview__ _n_  
@@ -274,6 +296,7 @@ __reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnati
 __reprieve__ _v_  
 __repudiation__ _n_  
 __resonate__ _v_  
+__respite__ _n_  
 __responsibility__ _n_ :two::hammer:  
 __restrained__ _adj_ /rɪˈstreɪnd/  
 __retaliation__ _n_ :mega:  
@@ -498,7 +521,7 @@ __stakeholder__
 __stale__ _adj_  
 __stamina__  
 __stamping__  
-__stance__ _n_  
+__stance__ _n_ :two::hammer:  
 __standoffish__  
 __standout<sup>1</sup>__ _n_ A person, performance, etc., that is clearly superior to others.  
 __standout<sup>2</sup>__ _adj_ Outstanding; superior.  
@@ -601,6 +624,7 @@ __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbi
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
 __tonsil__ _n_  
+__tout__ _v_ :dart:  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
 __trappings__ _n pl_ :two::hammer:  
@@ -641,6 +665,7 @@ __upheaval__ _n_
 __upright bass__ _n_  
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
+__uptake__ _n_  
 __uptick__  
 __utterance__  
 __uvula__ _n_ /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat.  
@@ -733,6 +758,7 @@ __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went t
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
 __writ__ _n_  
+__write-up__ _n_  
 __wrung__ _v_ _They have wrung their hands._  
 __yammering__  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
