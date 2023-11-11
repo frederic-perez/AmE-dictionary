@@ -9,6 +9,10 @@ __(kill) the golden goose__
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
+__be square (with one)__  
+__between a rock and a hard place__  
+__break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
+__cat-and-mouse game__  
 __close a/the deal__  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
@@ -72,6 +76,7 @@ __face up (to someone or something)__ :dart: To confront with courage someone or
 __fear not__ Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __feast (up)on (something)__  
 __fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
+__fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed.  
 __get this show on the road__ To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
 __glad tidings__ :dart: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __go down the rabbit hole__  
@@ -80,6 +85,7 @@ __golden touch__ The ability to earn a large amount of money or be very successf
 __golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
 __good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
 __good enough for jazz__ :dart: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
+__goody-goody__  
 __greenwash__  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
@@ -148,6 +154,7 @@ __in harm’s way__
 __in the cards__  
 __in the hope of__  
 __in the hot seat__  
+__in the know__  
 __in the least__  
 __in the loop__  
 __in the making__  
@@ -166,6 +173,7 @@ __leaps and bounds__
 __leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __light at the end of the tunnel__  
 __lightning fast__ Incredibly fast; too quick to keep up with. _Hyphenated if used before a noun._  
+__living proof__ A person who serves as an example for why a particular statement or concept is true. _As a former slacker, I’m living proof that anyone can turn their life around with some hard work and dedication._  
 __living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __make (one’s)/the rounds__  
 __make headway__ To make progress.  
@@ -176,6 +184,7 @@ __mea culpa__
 __mess around__  
 __messed up__ _informal_  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
+__mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __move (one) to tears__  
 __move the needle__  
 __movers and shakers__ People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime. Who are the movers and shakers around here?_  
@@ -188,6 +197,7 @@ __never say never__ Do not say that something is impossible, that it will never 
 __next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
 __no biggie__ (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
 __no good deed goes unpunished__  
+__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._  
 __no probs__  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
@@ -208,6 +218,7 @@ __one way or another__
 __open the floodgates__  
 __outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
 __over the top__  
+__pay (for something) out of pocket__  
 __perk up__  
 __phooey__  
 __phub__  
@@ -218,6 +229,7 @@ __pipe up__ To make oneself heard; to interrupt or interject.
 __play down__  
 __powerhouse__ A person, group, organization, etc., that has a lot of power, force, or influence.  
 __presto__ _interjection_ A phrase said when doing or producing something very quickly or easily. Primarily heard in US. _All I need to do is reconfigure your IP address and... presto! Your connection is back to normal._  
+__prickling my gray matter__ Idiomatic expression that is often used to describe a feeling of intellectual stimulation or a challenge to one’s cognitive abilities.  
 __pro bono__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
@@ -246,6 +258,7 @@ __radio silence__
 __ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
 __rat race__  
+__ratchet up__  
 __red line__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
@@ -254,6 +267,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__screw up__  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
@@ -265,6 +279,7 @@ __sit tight__ To wait patiently without taking any immediate action.
 __skeletons in the cupboard__  
 __slam (someone or something)__  
 __slap on the wrist__  
+__slated for__ Scheduled or organized to happen or take place.  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __sleight of hand__ :two::hammer:  
 __slip up__  
@@ -303,6 +318,7 @@ __take (one’s) name in vain__ :dart: To speak about someone when they are not 
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take (something) with a grain of salt__ :two::hammer:  
+__take a deep dive__ A thorough and comprehensive exploration or investigation into a particular subject or topic.  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take aside__  
 __take back__  
@@ -313,6 +329,8 @@ __take no prisoners__
 __take notice (of someone or something)__  
 __take on__  
 __take steps to (do something)__  
+__take stock (of something)__ __2__ To make an appraisal, estimation, or assessment of something. _Moving forward, we’ll be holding biweekly meetings to take stock of our financial situation._  
+__take the heat__ To receive and endure intense criticism or scorn, especially for a perceived mistake or wrongdoing.  
 __take the podium__  
 __taken by a mug__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
@@ -355,6 +373,7 @@ __the next big thing__ A future trend. _Designers will discuss the next big thin
 __the nitty-gritty__  
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
+__the proof is in the pudding__ :dart: The final results of something are the only way to judge its quality or veracity.  
 __the sky is the limit__  
 __the tip of the iceberg__  
 __then again__  
@@ -409,6 +428,7 @@ __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere
 __vie for (something)__ :two::hammer:  
 __wait and see__ To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
 __wait for it__  
+__walk away from (someone or something)__  
 __walk the line__  
 __walk the walk__ :dart:  
 __want out__ _When it became hard you wanted out._  
@@ -421,6 +441,7 @@ __weave (something) into (something) else__
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
+__what it takes__ The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
 __what’s in store__  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __wherever you go, there you are__  
@@ -445,6 +466,7 @@ __wolf down__
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __word on the street__  
 __work (one’s) tail off__  
+__work one’s tail off__  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
 __wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
