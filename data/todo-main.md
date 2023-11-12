@@ -250,35 +250,6 @@ __redcon<sup>1</sup>__ _n_
 __redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
-__redound__ _v_ /rih-DOWND/ :two::hammer:  
-__redress__  
-__redux__ _adj_ :two: /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes.  
-__reef__ _n_  
-__reenact__ _v_  
-__reenactment__ _n_  
-__refrain<sup>1</sup>__ _v intr_ _Lorna refrained from comment._  
-__refrain<sup>2</sup>__ _n_  
-__regale__ _v_ /rih-GAIL/ Regale is a somewhat formal word that means “to entertain or amuse by telling stories, describing experiences, etc.” It is often followed by _with_. _He regaled his party guests with stories of his adventures abroad._  
-__regalia__ _n_ Magnificent attire; finery. _Syn_ raiment, array  
-__regency__ _n_  
-__regimen__ _n_ /REJ-uh-mun/ _Regimen_ refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy.  
-__relent__ _v intr_  
-__relinquish__  
-__remembrance__  
-__remission__ _n_  
-__reprehensible__ _adj_ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation.  
-__reprieve__ _v_  
-__repudiation__ _n_  
-__resonate__ _v_  
-__respite__ _n_  
-__responsibility__ _n_ :two::hammer:  
-__restrained__ _adj_ /rɪˈstreɪnd/  
-__retaliation__ _n_ :mega:  
-__reticent__ _adj_ /RET-uh-sunt/  
-__retina__ _n_ :mega:  
-__retinue__ _n_  
-__retract__ _v_  
-__retrograde__ _adj_ :two::hammer:  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
