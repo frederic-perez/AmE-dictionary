@@ -237,32 +237,6 @@ __psychobabble__ _n_
 __purportedly__  
 __purpose__ _n_ :mega:  
 __purview__ _n_  
-__quell__ _v tr_ :two::hammer:  
-__ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
-__rampage__ _n_  
-__rampant__ _adj_  
-__ramrod__  
-__ransack__ _v_  
-__rant__ _n, v_ :dart:  
-__rash__ _adj_ _Rash decisions._  
-__rasp__ _n_  
-__rationalize__ _v_ :dart:  
-__ravages__ _n_  
-__rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
-__ravenous__ _adj_ :two::hammer:  
-__raver__ _n_  
-__ravish__ _v_  
-__ravishing__  
-__raw bar__  
-__reactant__  
-__readily__ _adv_ /ˈrɛdɪlɪ/  
-__readiness__ _n_ /ˈrɛd i nɪs/  
-__readout__  
-__ready__ _adj_ __4__ Prompt in apprehending or reacting: _a ready intelligence; a ready response._  
-__realistic__  
-__realm__ _n_  
-__rear__ _v_ _Free-range deer have been reared for some 30 years._  
-__rebuke__ _v_ :two::hammer:  
 __recalcitrant__ _adj_  
 __recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
 __recap__ _v_  

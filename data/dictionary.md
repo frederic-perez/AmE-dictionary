@@ -14141,7 +14141,7 @@ __queen__ _n_ :astonished: __6__ A mature female cat, especially one kept for br
 __queer<sup>1</sup>__ _adj_  
 __queer<sup>2</sup>__ _n_  
 __queer<sup>3</sup>__ _v_  
-__quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
+__quell__ _v tr_ :nine::m: Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench<sup>1</sup>__ _n_ :two::hammer:  
 __quench<sup>2</sup>__ _v_ :five: (quenches, quenched) To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
 __querulous__ _adj_ :dart::eight: /ˈkwɛr ə ləs, ˈkwɛr yə-/ Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
@@ -14281,12 +14281,14 @@ __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramification__ _n_  
+__ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v intr_ :seven::hammer:  
-__rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
-__rampant__ _adj_ :four::hammer:  
+__rampage<sup>2</sup>__ _n_ :eight::hammer: (rampages)  
+__rampant__ _adj_ :five::hammer:  
 __rampantly__  
 __rampart__ _n_ :seven::hammer: (ramparts) _Ancient stone ramparts._  
+__ramrod__  
 __ramshackle__ _adj_ :three: /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
 __ranch hand__ _n_ A hired hand on a ranch. _In a denim western shirt and jeans he looks like a ranch hand._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
@@ -14304,10 +14306,11 @@ __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who
 __rank<sup>2</sup>__ _v_  
 __ranking__ _adj_ A ranking person has a high, or the highest, position in an organization or is one of the best at an activity. _The panel’s ranking Democrat, William Clay._ _He’s the ship’s ranking officer (=the one with the highest rank)._  
 __rankle__ _v_ :five: /RANK-ul/ (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_ _Rae Ann’s snooty attitude and rude behavior rankled the host, but he smiled to hide his irritation._  
-__ransack__ _v tr_ :seven: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
+__ransack__ _v tr_ :eight: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
 __ransomware__ _n_ :two: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
-__rant<sup>1</sup>__ _n_  
-__rant<sup>2</sup>__ _v_  
+__rant__ _n, v_ :dart:  
+__rant<sup>1</sup>__ _n_ :two::hammer:  
+__rant<sup>2</sup>__ _v_ :two::hammer:  
 __rap sheet__ _n_ _slang_ :three: A record kept by law-enforcement authorities of a person’s arrests and convictions.  
 __rap__ _n_ :two::hammer: _South has a bad rap._ _There was a sharp rap on the door._  
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
@@ -14332,11 +14335,12 @@ __raring__ _adj_ :two: Full of eagerness; enthusiastic. _Syn_ impatient _Standin
 __rascal__ _n_ :three: __1__ One that is playfully mischievous. __2__ An unscrupulous, dishonest person; a scoundrel.  
 __rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
 __rash<sup>1</sup>__ _n_ :nine::m: __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
-__rash<sup>2</sup>__ _adj_ :dart::five: /RASH/ Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
+__rash<sup>2</sup>__ _adj_ :dart::six: /RASH/ Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
 __Rashomon effect__ _n_ :two: The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident. _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashomon_ (based on Ryunosuke Akutagawa’s 1922 short story “In a Grove”) which showed a crime described by different people in different ways] Relating to differing accounts or subjective interpretations of an event.  
 __rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used of birds. Given to scratching the ground for food, as chickens. __2__ Adapted for scratching, as a bird’s foot.  
-__rasp__ _v_  
+__rasp<sup>1</sup>__ _n_  
+__rasp<sup>2</sup>__ _v_  
 __raspberry__ _n_ :two::mega::mute:[ras~~p~~berry]:hammer: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __raspy__  
 __rastafari__ _n_  
@@ -14354,7 +14358,7 @@ __rathskeller__ _n_ A restaurant or bar located below street level.
 __ratify__ _v_ (ratified)  
 __rating__ _n_ :two::hammer:  
 __rationale__ _n_ :two::dart: /rash-uh-NAL/ An explanation or reason for something said or done. _Senators who opposed the bill were questioned by media to uncover their rationale for voting against it._ _It has four main rationales._  
-__rationalize__ _v_ :two::hammer:  
+__rationalize__ _v_ :dart::three::hammer:  
 __ratlines__  
 __ratoon__ _n_  
 __rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
@@ -14371,17 +14375,19 @@ __raucous__ _adj_ :nine::m: /ˈrɔ kəs/ Making or constituting a disturbingly h
 __raunchiness__  
 __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :four::hammer:  
-__ravages__ _n_ _pl_ :two: __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
+__ravages__ _n_ _pl_ :three::hammer:  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
-__rave<sup>2</sup>__ _v_ :nine: (raved) If you rave about a book you just read, you’re telling people you think it’s great, or you’re giving it a rave review. Rave has two levels, one that implies you’re very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. _Readers raved about his stories._  
+__rave<sup>2</sup>__ _v_ :nine::m: (raved) If you rave about a book you just read, you’re telling people you think it’s great, or you’re giving it a rave review. Rave has two levels, one that implies you’re very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._ _Readers raved about his stories._  
 __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
 __raven__ _adj_ Black and shiny: _raven tresses._ _Raven hair._  
 __raven-haired__  
-__ravenous__ _adj_ :five: Extremely hungry.  
+__ravenous__ _adj_ :seven: Extremely hungry.  
+__raver__ _n_  
 __ravine__ _n_ :three::hammer:  
-__ravish__ _v_ (ravished) :two::hammer:  
+__ravish__ _v_ :three::hammer:  
 __ravisher__ _n_  
-__ravishing__ _adj_ :four: Extremely attractive; entrancing.  
+__ravishing__ _adj_ :five: Extremely attractive; entrancing.  
+__raw bar__  
 __raw dog__  
 __raw milk__ _n_ Unpasteurized milk. _Raw milk cheese—unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
@@ -14398,21 +14404,25 @@ __re__ _prep_ :two: In reference to; in the case of; concerning. _Call Zoe re he
 __reach for the sky__  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
 __reach out__ _v_ :nine::dart: __1__ To attempt to make contact with someone, especially in search of or to offer help, guidance, comfort, or support. _I’ve tried reaching out to her, but she doesn’t want to share her feelings with me._ _If you would like to request a refund, please reach out to customer service._ __2__ To broaden one’s social circle or experiences in life. _I kind of lost myself in my job for a few years, so I’m trying to reach out and meet some new people._  
+__reactant__  
 __reactive__ _adj_ :dart:  
 __read into something__  
-__readily__ _adv_ :seven::hammer:  
-__readiness__ _n_ _Our career readiness software program._  
+__readily__ _adv_ :eight::hammer: /ˈrɛdɪlɪ/  
+__readiness__ _n_ :two::hammer: /ˈrɛd i nɪs/ _Our career readiness software program._  
 __readings__ _n_  
-__readout__ _n_ :two::hammer:  
+__readout__ _n_ :three::hammer:  
 __ready cash__ _n_ :two: Funds for immediate use; cash. _They haven’t enough ready cash to pay the commission._  
 __ready room__  
-__ready__ _v tr_  
+__ready<sup>1</sup>__ _adj_ __4__ Prompt in apprehending or reacting: _a ready intelligence; a ready response._  
+__ready<sup>2</sup>__ _v tr_  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
 __realist__ _n_ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
+__realistic__  
 __reality check__ _n_ :two: An occasion or opportunity to consider a matter realistically or honestly.  
 __realization__ _n_ (something like _noticing_)  
+__realm__ _n_  
 __realtor__ _n_ :four::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
@@ -14420,7 +14430,7 @@ __reamer__ _n_
 __reap__ _v_ _Reaping the benefits._  
 __reapportion__ _v_  
 __reappraise__ _v_ To make a fresh appraisal or evaluation of.  
-__rear<sup>1</sup>__ _v tr_ :astonished: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
+__rear<sup>1</sup>__ _v tr_ :astonished::two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). _Free-range deer have been reared for some 30 years._ __3__ To build; erect.  
 __rear<sup>2</sup>__ _v intr_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __reasonable__  
 __reasoned__ _v_  
@@ -14430,7 +14440,7 @@ __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, 
 __rebellion__ _n_ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__ _v_ :nine::m: To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
-__rebuke__ _n_ :four::hammer:  
+__rebuke__ _n_ :six::hammer:  
 __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures representing syllables and words.  
 __rebut__ _v_  
 __rebuttal__ _n_  
