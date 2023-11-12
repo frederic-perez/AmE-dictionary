@@ -245,34 +245,6 @@ __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or 
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
-__simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
-__single out__ :two::hammer:  
-__sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. “Shiva” comes from the Hebrew word שבעה (šib’â), meaning “seven.” _For a week, we sat shivah for her._  
-__sit tight__ To wait patiently without taking any immediate action.  
-__skeletons in the cupboard__  
-__slam (someone or something)__  
-__slap on the wrist__  
-__slated for__ Scheduled or organized to happen or take place.  
-__slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
-__sleight of hand__ :two::hammer:  
-__slip up__  
-__slip-up__  
-__slow food__  
-__slush fund__ An ancillary or reserve fund that has been accumulated or set aside for undesignated or unspecified purposes, especially those that are or are viewed as being illicit, corrupt, or morally questionable.  
-__smack (one’s) lips__ :two::hammer:  
-__smarty-pants__ :two::hammer:  
-__smell a rat__  
-__snafu__  
-__snag__ __4__ _v tr_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
-__sneak peek__  
-__sniff out__  
-__snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
-__snout trout__ A smell similar to fish left on the end of your nose after going down on your female partner. _Marilyn was a snout trout._  
-__so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
-__so much so that__ To such an extent or large degree that.  
-__so much so__ To such an extent or great degree (that).  
-__spick and span__ Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
-__stave off__  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __step up__  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  

@@ -3995,9 +3995,10 @@ __silly me__
 __silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
+__simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __simply put__ :three::hammer:  
 __sing along__ :two::hammer:  
-__single out__  
+__single out__ :three::hammer:  
 __sink in__  
 __sit a spell__ To sit down, relax, and socialize for a while at one’s leisure. _This saloon is a great place to sit a spell and catch up with old friends._ _Well hey there, honey! Now you come in here and sit a spell, we haven’t seen you in a dog’s age!_  
 __sit back__  
@@ -4007,11 +4008,14 @@ __sit on it__ An exclamation of frustration directed at another person. Populari
 __sit on the fence__  
 __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
 __sit out__ To not participate or be involved in something, whether or not by one’s own volition. A noun or pronoun can be used between “sit” and “out.” _To be honest, I’m a little winded, so I think I’ll just sit this game out._  
+__sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. “Shiva” comes from the Hebrew word שבעה (šib’â), meaning “seven.” _For a week, we sat shivah for her._  
+__sit tight__ To wait patiently without taking any immediate action.  
 __sitting duck__  
 __sitting on the fence__  
 __sitting pretty__ :three: Living in comfort.  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __sixty-four-dollar question__  
+__skeletons in the cupboard__  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
 __skim through (something)__  
 __skinny-dipping__  
@@ -4019,46 +4023,60 @@ __skip a beat__ :two::hammer: _His heart skipped a beat._
 __skip town__  
 __skullduggery__ An act or instance of deceitful, duplicitous, or dishonorably trickery.  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
-__slam (someone or something)__  
+__slam (someone or something)__ :two::hammer:  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
-__slap (one) on the wrist__ To issue one with a very mild, inconsequential punishment or warning.  
+__slap (one) on the wrist__ :two: To issue one with a very mild, inconsequential punishment or warning.  
+__slated for__ Scheduled or organized to happen or take place.  
+__slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __slay__ To succeed at something in a particularly impressive or dominant way. _She’s definitely getting the promotion after she slayed that presentation for the CEO._ _I absolutely slayed the interview; at one point, I even laid flat out on the couch on live TV!_  
 __sleep in__  
 __sleep like a baby__ To experience a very deep and restful sleep; to sleep soundly. _I can’t believe you finished a triathlon! You’re going to sleep like a baby tonight._  
 __sleep on (something)__  
 __sleep the sleep of the dead__  
+__sleight of hand__ :two::hammer:  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __slimeball__ An offensive, detestable, or repellent person, especially one who does unscrupulous or immoral things. _My last boss was a total slimeball, making all sorts of shady deals to skim a bit of extra profit for herself._  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
+__slip up__ :two::hammer: (slip-up)  
 __slippery slope__  
 __slow burner__  
+__slow food__  
+__slush fund__ An ancillary or reserve fund that has been accumulated or set aside for undesignated or unspecified purposes, especially those that are or are viewed as being illicit, corrupt, or morally questionable.  
+__smack (one’s) lips__ :two::hammer:  
 __smack-dab__ Directly; exactly at a particular place. Usually used to emphasize a prepositional phrase of location, especially “in the middle.” _There I was, smack-dab in the middle of Taiwan with no money and no way to contact my family._ _The criminal turned the corner and ran smack-dab into a group of off-duty police officers._  
 __small hours__ (wee hours)  
 __smart as a whip__ Very intelligent or clever, as in _Little Brian is smart as a whip; he’s only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
-__smarty-pants__ :two::hammer:  
+__smarty-pants__ :four::hammer:  
 __smash hit__  
+__smell a rat__  
 __smell blood__  
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __smokescreen__ :pencil2:  
+__snafu__  
+__snag__ __4__ _v tr_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
 __snake oil__  
 __snap out of (something)__ To suddenly recover or be freed from some negative or undesirable condition, emotion, or situation. _Alex has been really gloomy lately. I hope he snaps out of it soon, because we’ll need him to present our project to the supervisor next week._  
 __snap__ _v_ To go crazy.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
-__sneak peek__ An early preview of something that has yet to be fully revealed or shown prominently.  
+__sneak peek__ :two: An early preview of something that has yet to be fully revealed or shown prominently.  
 __sneeze at__  
+__sniff out__  
 __snoothfest__ _Total snoozefest at Google’s event._  
 __snooty__ Haughtily condescending, dismissive, or snobbish. _I can’t believe that snooty waiter scoffed at you for ordering red wine with fish._  
 __snork__  
+__snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
+__snout trout__ A smell similar to fish left on the end of your nose after going down on your female partner. _Marilyn was a snout trout._  
 __snow in__ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between “snow” and “in.” _We were snowed in for several days, with only a small cupboard’s worth of food to subsist on._  
 __snow on the mountain__ Silver, grey, or white hair on one’s head, as due to aging. _Sure, there’s a bit of snow on the mountain, but I still lead as adventurous a life as I ever have!_  
 __snowflake__ _n_ _slang_  
 __snug as a bug__  
 __so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
-__so much so that__ :two: To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
-__so much so__ :three::hammer: _So much so that working with animals has become one of his passions._  
+__so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
+__so much so that__ :three: To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
+__so much so__ :four: To such an extent or great degree (that). _So much so that working with animals has become one of his passions._  
 __so to speak__ A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __so-and-so__ :dart::three: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __soak up__  
@@ -4093,6 +4111,7 @@ __speaking of which__
 __spell disaster__  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
 __spice up__  
+__spick and span__ Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __spiffy__  
 __spill out (of something)__  
 __spill the beans__ :four: To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
@@ -4139,6 +4158,7 @@ __stare down the barrel of a/(one’s) gun__ To have a gun pointed at oneself. (
 __start the ball rolling__ :two: (set the ball rolling) To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve started the ball rolling with driving lessons._  
 __starve out__ To deprive someone or something of food in order to force them to submit or surrender. A noun or pronoun can be used between “starve” and “out.” _The empire’s army began starving the rebel city out with a siege that lasted nearly eleven months._ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __status quo__  
+__stave off__  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __stay put__ :seven: To not move or leave; to remain in same location or position. To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._ _I want you kids to stay put while I go into the store, OK?_ _And you stayed put for all these years? I would have thought you’d find a different career by now._  
 __stay strong__  
