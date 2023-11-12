@@ -204,33 +204,6 @@ __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
-__on a side note__ :two: Parenthetically or incidentally; by the way; in addition to but less important than what was just being discussed.  
-__on board__  
-__on probation__  
-__on the brink of (something)__  
-__on the run__  
-__once and for all__  
-__one and done__  
-__one on one__  
-__one step at a time__  
-__one too many__  
-__one way or another__  
-__open the floodgates__  
-__outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
-__over the top__  
-__pay (for something) out of pocket__  
-__perk up__  
-__phooey__  
-__phub__  
-__pick (one’s) brain(s)__  
-__pick a fight__ To act aggressively or in a certain way toward someone in order to provoke them into a fight.  
-__pipe down__ To become quiet and calm; to stop being loud or boisterous. Often said as a command.  
-__pipe up__ To make oneself heard; to interrupt or interject.  
-__play down__  
-__powerhouse__ A person, group, organization, etc., that has a lot of power, force, or influence.  
-__presto__ _interjection_ A phrase said when doing or producing something very quickly or easily. Primarily heard in US. _All I need to do is reconfigure your IP address and... presto! Your connection is back to normal._  
-__prickling my gray matter__ Idiomatic expression that is often used to describe a feeling of intellectual stimulation or a challenge to one’s cognitive abilities.  
-__pro bono__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
@@ -374,6 +347,7 @@ __the nitty-gritty__
 __the old gray mare ain’t what she used to be__  
 __the powers that be__  
 __the proof is in the pudding__ :dart: The final results of something are the only way to judge its quality or veracity.  
+__the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
 __the sky is the limit__  
 __the tip of the iceberg__  
 __then again__  
