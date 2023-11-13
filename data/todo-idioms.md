@@ -9,9 +9,11 @@ __(kill) the golden goose__
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
+__barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be square (with one)__  
 __between a rock and a hard place__  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
+__carve out__ _New options help you carve out downtime between meetings._  
 __cat-and-mouse game__  
 __close a/the deal__  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
@@ -26,6 +28,7 @@ __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m 
 __crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __curve ball__  
+__cut (through) (the) red tape__ To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
 __day in and day out__  
 __days on end__  
@@ -76,8 +79,11 @@ __face up (to someone or something)__ :dart: To confront with courage someone or
 __fear not__ Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __feast (up)on (something)__  
 __fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
+__fluff (fləf)__ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v tr & intr_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed.  
+__fresh out (of something)__  
 __get this show on the road__ To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
+__give (one) a break__  
 __glad tidings__ :dart: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __go down the rabbit hole__  
 __golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success. _My programming experience is going to be my golden ticket out of this one-horse town._  
@@ -148,6 +154,9 @@ __hit home__
 __hit the bull’s-eye__  
 __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the lotto__  
+__hope for the best__ To be hopeful that a positive occurrence will happen. This can be an expression of hope or insight after something has gone awry or when circumstances seem bleak. _Now that our house is on the market, there’s not much we can do but hope for the best._  
+__human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
+__I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
 __in a lifetime__  
 __in a similar vein__  
 __in harm’s way__  
@@ -160,10 +169,11 @@ __in the loop__
 __in the making__  
 __in the midst__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
-__in the thick of it__  
+__in the thick of it__ :two::hammer:  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jazz up__  
 __jump in line__  
+__keep an eye on__  
 __keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
 __keep the ball rolling__  
 __lag behind__  
@@ -199,11 +209,16 @@ __no biggie__ (Something) not inconvenient or difficult at all; not at all troub
 __no good deed goes unpunished__  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._  
 __no probs__  
+__non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
+__not buy (something)__ To not accept or believe something as the truth. _My brother says that his latest scheme will make millions, but I’m not buying it._  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
+__nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
+__nothing but__  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
+__on the horizon__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
@@ -233,6 +248,7 @@ __rank and file__
 __rat race__  
 __ratchet up__  
 __red line__  
+__ripple effect__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __round and round__ (around and around)  
@@ -241,14 +257,20 @@ __roundhouse__
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
 __screw up__  
+__scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
+__show, don’t tell__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
+__slowly but surely__ At a slow or incremental pace but making steady, dependable progress.  
+__sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
+__stem the tide__ To stop something from continuing or worsening. _Once the people turn on you, you’ll have a hard time stemming the tide of rebellion._  
 __step up__  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
 __stop short__ To abruptly stop doing something.  
+__straight shooter__ An honest and trustworthy person who is straightforward in dealings with others. _Joe’s a straight shooter—if he says that Alice is taking money out of the cash register, then I believe him._  
 __strange bedfellows__  
 __straw man__  
 __strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
@@ -323,6 +345,7 @@ __the ravages of something__ The destructive effects of something. _The potentia
 __the sky is the limit__  
 __the tip of the iceberg__  
 __then again__  
+__thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
 __this is not a competition__ :two: A phrase used to convey the idea that a particular situation or activity should not be approached with a competitive mindset. It suggests that the focus should not be on outperforming others or striving to be better than them, but rather on cooperation, collaboration, and personal growth.  
@@ -336,6 +359,7 @@ __to this day__
 __tone deaf__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
+__toot (one’s) own horn__ To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
 __toss out__  
 __tough talk__  
 __trash talk__ _I won’t trash talk._  
