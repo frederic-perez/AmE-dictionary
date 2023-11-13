@@ -270,34 +270,6 @@ __ripe__
 __risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
 __roadblock__ _n_  
 __rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
-__roll-up__ _n_ :two: A cigarette that someone makes for themself, using tobacco and cigarette papers.  
-__rollercoaster__ _adj_ /ROH-luhr-koh-stuhr/  
-__Rolley Hole__ _n_ A traditional game played with marbles that originated in the Appalachian region of the United States. It is also known by various other names such as Rolley Hole Marbles, Rolley Hole Knuckle Dabber, and Rolley Hole Board.  
-__rollout__ _n_  
-__rom-com__ _n_ A comedic narrative, especially a film, centered on a romantic storyline.  
-__roped__ _v_  
-__Rotarian__  
-__rote__ _n_ __1__ A memorizing process using routine or repetition, often without full attention or comprehension: _learn by rote._ _A prodigious rote memory._  
-__round robin__  
-__roundhouse__ _n_  
-__roundworm__ _n_  
-__row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
-__rubble__ _n_ /ˈrʌbəl/  
-__rubricate__ _v tr_ /ROO-bri-kayt/ [:scroll: From Latin rubricare (to color red), from rubrica (rubric, red earth)] __1__ To color or mark with red. __2__ To highlight or decorate. __3__ To provide with a rubric (a guide, rule, commentary, etc.).  
-__ruction__ _n_ A riotous disturbance; a noisy quarrel.  
-__rueful__  
-__ruefully__ _adv_ :two::hammer:  
-__rumble__ _n_  
-__rummy__ _n_  
-__run-in__ _n_ __1__ A quarrel or argument.  
-__runabout__ _n, v_  
-__rung__ _n_ :two::hammer: _The rung of the ladder._  
-__running account__ _n_ Current account.  
-__runoff__ _n_  
-__Runyonesque__ _adj_ _Runyonesque chitchat._  
-__ruse__ _n_ :two::mega::hammer: /ruz/  
-__russet__ _adj_ :two: Moderate to strong brown.  
-__safeguard__ _n_  
 __salacious__ _adj_ :two:hammer:  
 __salacities__ _n_  
 __salient__ _adj_ :two::hammer: _A salient example._  

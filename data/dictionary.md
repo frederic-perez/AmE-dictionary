@@ -14962,20 +14962,23 @@ __roll call__ _n_ :three: The calling of a list of names, as of soldiers or stud
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
+__roll-up__ _n_ :two: A cigarette that someone makes for themself, using tobacco and cigarette papers.  
 __roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over my gym shorts._ _A deli where I buy a morning paper, roll and coffee._  
 __roll<sup>2</sup>__ _v_ :eight::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._ _Roll the video, please._ _You rolled 6, you go 6._ _They hadn’t rolled or pitched too much in the storm they hit just outside of San Francisco._  
 __rollaway bed__  
 __roller bag__  
 __roller derby__  
+__rollercoaster__ _adj_ /ROH-luhr-koh-stuhr/  
+__Rolley Hole__ _n_ A traditional game played with marbles that originated in the Appalachian region of the United States. It is also known by various other names such as Rolley Hole Marbles, Rolley Hole Knuckle Dabber, and Rolley Hole Board.  
 __rollicking__ _adj_ :three: Boisterously carefree, joyful, or high-spirited. _A rollicking adventure film._  
 __rolling back__ _v_  
 __rolling caisson__  
 __rolling hills__ _n_ :six::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
-__rollout__ _n_ :six::hammer: (rollouts) _Vaccine rollout._  
+__rollout__ _n_ :seven::hammer: (rollouts) _Vaccine rollout._  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
-__rom-com__  
+__rom-com__ _n_ :two: A comedic narrative, especially a film, centered on a romantic storyline.  
 __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
 __romance__ _n_ :astonished:  
 __romancer__  
@@ -15005,6 +15008,7 @@ __rootered__ _v_
 __rooting__ _v_ _She was rooting in the Dumpster._  
 __rope in__ _v_  
 __rope-a-dope__ _n_ :two::hammer:  
+__rope__ _v_  
 __ropes__ _n pl_ :two: Special or basic techniques or procedures. _He’s teaching her the ropes._ _They need to learn the ropes._  
 __ropy__ _adj_ :three::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosacea__ _n_  
@@ -15022,8 +15026,8 @@ __roster__ _n_ :three::hammer: _All the calls she gets from different guys, I’
 __rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
 __rosy__ _adj_ :seven::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_ :two::hammer: (rotted)  
-__Rotarian__ _n_ :two::hammer: (Rotarians)  
-__rote__ _n_  
+__Rotarian__ _n_ :three::hammer: (Rotarians)  
+__rote__ _n_ :two: __1__ A memorizing process using routine or repetition, often without full attention or comprehension: _learn by rote._ _A prodigious rote memory._  
 __roti__ _n_ (Cookery) (in India and the Caribbean) A type of unleavened bread. _A roti shop._  
 __Roto-Rooter__  
 __rotorcraft__  
@@ -15037,15 +15041,16 @@ __rough-cut__ _adj_ Lacking refinement or cultivation or taste.
 __roughly__ _adv_ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
 __round out__ _v_ :three::hammer: _Alluring martinis round out the experience._  
-__round robin__ _n_ :two::hammer: _The con game is one round robin._  
+__round robin__ _n_ :three::hammer: _The con game is one round robin._  
 __round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A round-trip ticket._  
 __round<sup>1</sup>__ _n_ __26__ (Firearms, Gunnery, Ordnance & Artillery) A single discharge by a number of guns or a single gun. __27__ (Firearms, Gunnery, Ordnance & Artillery) A bullet, blank cartridge, or other charge of ammunition. _He pumped another round._  
 __round<sup>2</sup>__ _v_  
 __roundabout__ _n_ :two::hammer: (Children’s attraction.)  
 __rounder__ _n_ /RAUN-duhr/ __3__ [:scroll: Apparently referring to one who makes rounds of bars or downs many rounds of drinks. From Latin rotundus (round), from rota (wheel).] A drunkard, idler, or self-indulgent person.  
-__roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._  
+__roundhouse__ _n_ :two::hammer: _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :three::dart::hammer: (roundups) _There were public roundups and massacres._ __3__ A summary: _a news roundup._ _Headline roundup._  
+__roundworm__ _n_  
 __rousing__ _adj_ :seven::hammer: _A rousing crowd._ _A rousing tale._ _A rousing dramatization._ _The magazine was a rousing success._  
 __roust__ _v tr_  
 __roustabout__ _n_ :three: A member of a ship’s crew who performs manual labor. _Syn_ deckhand _The roustabout Bohemian._  
@@ -15054,6 +15059,7 @@ __rout<sup>2</sup>__ _v_ :three: Defeat disastrously.
 __route__ _n_ :three::mega::hammer:  
 __roux__ _n_  
 __row house__ _n_  
+__row__ _n_ __1__ A noisy or quarrel or disturbance. __2__ A loud noise.  
 __rowan__ _n_ :astonished: (think Rowan Atkinson) __1__ The European mountain ash, _Sorbus aucuparia_, having pinnate leaves and clusters of bright red berries. __2__ The American mountain ash, _Sorbus americana_. __3__ The berry of either of these trees.  
 __rowdy__ _adj_ :nine: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._ _A rowdy guilty pleasure._  
 __rowhouse__ _n_  
@@ -15064,25 +15070,26 @@ __rub<sup>1</sup>__ _n_ :three::hammer: _By “evidence” I mean hard facts, as
 __rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
-__rubble__ _n_ :two::hammer:  
+__rubble__ _n_ :three::hammer: /ˈrʌbəl/  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __Rubenesque__ _adj_  
 __Rubicon__ _n_  
 __rubicund__ _adj_ :two: /ROO-bi-kuhnd/ Red or reddish. Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
 __ruble__ _n_ /ˈruːbəl/ :two: (rouble in BrE) The standard unit of money in Russia and Belarus. _A copper ruble coin._  
+__rubricate__ _v tr_ /ROO-bri-kayt/ [:scroll: From Latin rubricare (to color red), from rubrica (rubric, red earth)] __1__ To color or mark with red. __2__ To highlight or decorate. __3__ To provide with a rubric (a guide, rule, commentary, etc.).  
 __ruches__ _n_  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :six::hammer: _The comment caused a ruckus._  
-__ructions__ _n_  
+__ruction__ _n_ :two: A riotous disturbance; a noisy quarrel.  
 __rudder__ _n_ :four: __1__ A flat piece of wood, metal, etc. fixed to the back of a boat for steering. :es: timón _Dan is like a ship without a rudder._ __2__ A similar device on an aircraft.  
 __rudderless__  
 __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter’s day. _Until her skin was ruddy._  
 __rude__  
 __rudiment__ _n_  
 __rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
-__rueful__ _adj_ :five::dart::hammer: _He gave a rueful smile._  
-__ruefully__ _adv_ :eight::hammer: _Dan shook his head ruefully._  
+__rueful__ _adj_ :six::dart::hammer: _He gave a rueful smile._  
+__ruefully__ _adv_ :nine::m::hammer: _Dan shook his head ruefully._  
 __rufescent__ _adj_ :two: /ru-FES-uhnt/ [:scroll::astonished: From Latin rufus (red, reddish)] Reddish. Tinged with red.  
 __ruffian__ _n_ /ˈrʌf i ən, ˈrʌf yən/ A cruel and brutal fellow. _Syn_ bully, hooligan, roughneck _He had been a bully in grade school, so no one was surprised to hear that he is still considered a ruffian._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
@@ -15096,13 +15103,13 @@ __rule of law__ _n_ :four::hammer:
 __rule out__ _v_  
 __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
 __rum idea__  
-__rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
+__rumble<sup>1</sup>__ _n_ :three: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
 __rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._ _The cart rumbled and lurched._  
 __rumbling__ _n_ :two::hammer: (rumblings) _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
 __rummage__ _v_ :nine::m: /ˈrʌm ɪdʒ/ __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
-__rummy__ _n_ :two::hammer:  
+__rummy__ _n_ :three::hammer:  
 __rumor-monger__ _n_ :two::hammer:  
 __rump__ _n_ _The archers aimed for thw horses’ unarmored rumps._  
 __rumple__ _v_ _His clothes were rumpled._  
@@ -15113,13 +15120,15 @@ __run over__ _phr v_
 __run tests__ _phr_ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run the show__  
 __run-and-gun__ _adj_ Relating to or being a fast, freewheeling style of play in basketball that de-emphasizes set plays and defense. _A run-and-gun platform game._  
-__run-in__ _n_ :dart::three: (run-ins) __1__ A quarrel or argument. _A run-in with police._ _He had several run-ins with the law._  
+__run-in__ _n_ :dart::four: (run-ins) __1__ A quarrel or argument. _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
+__runabout__ _n, v_  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
 __rundown__ _n_ :four::hammer:  
-__rung__ _n informal_ :nine: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._  
+__rung__ _n informal_ :nine::m: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._ _The rung of the ladder._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
+__running account__ _n_ Current account.  
 __running shoes__ _n_  
 __running-of-the-mill husband__  
 __runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
@@ -15128,12 +15137,13 @@ __runs from (date) to (date)__ _phr_ _The 45-day review period runs from Novembe
 __runs me off__  
 __runt__  
 __runway__ _n_ :two::hammer:  
-__Runyonesque__ _adj_ :two::hammer: _A torrent of Runyonesque chitchat._  
+__Runyonesque__ _adj_ :three::hammer: _A torrent of Runyonesque chitchat._  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __rural area__ _n_ :mega: An area outside of cities and towns.  
-__ruse__ _n_ :eight: (ruses) An action intended to mislead, deceive, or trick; stratagem.  
+__ruse__ _n_ :nine::m::mega: /ruz/ An action intended to mislead, deceive, or trick; stratagem.  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
+__russet__ _adj_ :two: Moderate to strong brown.  
 __Russian salad__ _n_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
 __rusticate__ _v_  
@@ -15177,7 +15187,7 @@ __safe house__
 __safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __safe-conduct__ _n_ _The Prince’s chief knights came under safe-conduct to parley in person._  
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
-__safeguard<sup>1</sup>__ _n_ :two::hammer:  
+__safeguard<sup>1</sup>__ _n_ :three::hammer:  
 __safeguard<sup>2</sup>__ _v_ :three::hammer:  
 __safekeeping__ _n_ :two: The act of keeping safe or the state of being kept safe; protection. _The Cardinal put his treasure in safekeeping and fled to Avignon, never to return._  
 __safety net__  
