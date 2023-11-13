@@ -169,32 +169,6 @@ __in the loop__
 __in the making__  
 __in the midst__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
-__in the thick of it__ :two::hammer:  
-__it remains to be seen__ Something is not yet clear, certain, or known.  
-__jazz up__  
-__jump in line__  
-__keep an eye on__  
-__keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
-__keep the ball rolling__  
-__lag behind__  
-__late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
-__lay out__ :dart: __3__ To detail or explain something explicitly, such as a plan or concept. A noun or pronoun can be used between “lay” and “out.” _When he began laying out his campaign strategy, we all realized that he actually had a shot at winning._  
-__leaps and bounds__  
-__leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
-__light at the end of the tunnel__  
-__lightning fast__ Incredibly fast; too quick to keep up with. _Hyphenated if used before a noun._  
-__living proof__ A person who serves as an example for why a particular statement or concept is true. _As a former slacker, I’m living proof that anyone can turn their life around with some hard work and dedication._  
-__living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
-__make (one’s)/the rounds__  
-__make headway__ To make progress.  
-__make inroads (in/into something)__  
-__make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
-__make no mistake__  
-__mea culpa__  
-__mess around__  
-__messed up__ _informal_  
-__mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
-__mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __move (one) to tears__  
 __move the needle__  
 __movers and shakers__ People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime. Who are the movers and shakers around here?_  

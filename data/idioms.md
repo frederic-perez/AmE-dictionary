@@ -2506,7 +2506,7 @@ __it figures__ :three: It makes sense; it is as I expected or might have guessed
 __it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
 __it is what it is__ :dart::six: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
-__it remains to be seen__ Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
+__it remains to be seen__ :two: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
 __it takes a village__ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :three::hammer:  
@@ -2526,7 +2526,7 @@ __Jane Doe__ An unidentified woman.
 __jarring experience__ An experience that creates an acute sense of shock, confusion, or bewilderment. _That car accident was such a jarring experience, I don’t know if I’ll be able to sleep for days._  
 __jaw away__ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
-__jazz up__ To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
+__jazz up__ :two: To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __jazzed__  
 __jazzy__  
 __Jekyll and Hyde__  
@@ -2550,6 +2550,7 @@ __juggling act__
 __jump at the chance (to do something)__ To accept or seize with alacrity an opportunity (to do something).  
 __jump for joy__ To be very happy about something.  
 __jump in (one’s) skin__ To start or recoil, as from shock, surprise, or fear.  
+__jump in line__  
 __jump in__  
 __jump off__  
 __jump on (someone or something)__ _Amazon is jumping on the generative AI hype train._  
@@ -2585,6 +2586,8 @@ __keep a lid on (something)__ __1__ To keep the level of something from increasi
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
 __keep a tab on (someone or something)__  
 __keep above water__ :three::hammer: _This is keeping myself above water._  
+__keep an eye on__  
+__keep an eye open__ Watch for something carefully; be attentive to something. _I’m turning onto your street now, so keep an eye open._  
 __keep an eye out__  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
 __keep balls in the air__  
@@ -2604,7 +2607,7 @@ __keep out of sight__ To remain unseen, as by hiding or evasion.
 __keep pace__ :three::hammer:  
 __keep tab(s) (on someone or something)__ :nine::m: [:sound: keep taps on] (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
 __keep tabs__  
-__keep the ball rolling__  
+__keep the ball rolling__ :two::hammer:  
 __keep the lid on (something)__ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep the wheels turning__ :dart: To make something continue to happen or operate. _It’s people like him that keep the wheels of commerce turning._  
 __keep up with (someone or something)__ :three::hammer:  
@@ -2676,7 +2679,7 @@ __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)
 __labor under the illusion of/that__ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
 __Lady Luck__ :three: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
 __laff__ _v_ :three: (laffed) An obsolete or dialectal spelling of laugh.  
-__lag behind__ To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
+__lag behind__ :two: To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __laid-back__ _adj_ :nine::m: [:sound: laid-back] __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
 __land a job__ To find a job and be hired.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
@@ -2702,6 +2705,7 @@ __latch onto (someone or something)__
 __latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work.  
 __late bloomer__ _n_  
 __late model__ Especially regarding an automobile, of a relatively recent design or model.  
+__late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
 __lather, rinse, (and) repeat__ :two::dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought. _Lather. Rinse. Repeat._  
 __laugh in (one’s) sleeve__ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
 __laugh lines__  
@@ -2716,6 +2720,7 @@ __lay (something) at the feet of (someone)__ To make or hold someone, especially
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly. _Our hope is that this expedition will lay bare the secrets of the ancient king’s tomb._ _Influencers are laying bare the inner workings of the internet._  
 __lay down and die__ :dart: To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
 __lay off__  
+__lay out__ :dart: __3__ To detail or explain something explicitly, such as a plan or concept. A noun or pronoun can be used between “lay” and “out.” _When he began laying out his campaign strategy, we all realized that he actually had a shot at winning._  
 __lay the groundwork (for something)__ :dart::two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._ _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
@@ -2725,7 +2730,7 @@ __lean and mean__ :dart: Fit and ready for hard, efficient work. _Companies are 
 __lean on (someone or something)__  
 __leap of faith__  
 __leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
-__leaps and bounds__ :dart::three: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._ _Communication and control technologies are advancing in leaps and bounds._  
+__leaps and bounds__ :dart::four: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._ _Communication and control technologies are advancing in leaps and bounds._  
 __learn (something) the hard way__  
 __learn the ropes__ :three::hammer:  
 __least said, soonest mended__  
@@ -2733,6 +2738,7 @@ __leather-lunged__ (used before a noun) Having an extremely or inordinately loud
 __leave (one’s) mark__  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
+__leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __leave no stone unturned__ :two::hammer: _We are leaving no stone unturned._  
 __leave someone in its wake__ _The speedboat leaves all others in its wake._  
@@ -2773,9 +2779,11 @@ __lifer__
 __lift a finger__ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift the curtain (on something)__ __2__ To make (something) publicly known; to reveal or disclose the details or truth (about something). _LinkedIn finally lifted the curtain on a number of AI features it’s been cooking behind the scenes._  
 __lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
+__light at the end of the tunnel__  
 __light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
 __lightbulb moment__  
 __lighten (one’s) wallet__  
+__lightning fast__ Incredibly fast; too quick to keep up with. _Hyphenated if used before a noun._  
 __lightning in a bottle__ An incredibly difficult, unlikely, and/or elusive achievement or period of success. (Usually used with “catch” or “capture.”) Primarily heard in US. _The rookie team, such underdogs in this championship, are trying to capture lightning in a bottle by upsetting the number one seed._  
 __lightning quick__ Incredibly fast; too quick to keep up with. Hyphenated if used before a noun. _Did you see that martial arts expert? His kicks were lightning quick!_ _My brother has a lightning-quick wit._  
 __like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
@@ -2817,8 +2825,8 @@ __live up to (something)__ :two::hammer:
 __live up to__ _Classroom technology failed to live up to its promise._  
 __living hell__ _Your life will be living hell._  
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
-__living proof__ :two::hammer:  
-__living the dream__ :two: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
+__living proof__ :three: A person who serves as an example for why a particular statement or concept is true. _As a former slacker, I’m living proof that anyone can turn their life around with some hard work and dedication._  
+__living the dream__ :three: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
 __lo and behold__ :astonished::nine::m::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
@@ -2903,6 +2911,7 @@ __make (one’s) day__ To cause one to feel very happy; to be a very positive hi
 __make (one’s) mouth water__  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
 __make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
+__make (one’s)/the rounds__  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
 __make (oneself) useful__ To do something that is actively helpful or of assistance to others. _You know, instead of just sitting there watching TV, you could make yourself useful and take out the garbage._  
 __make (perfect) sense__ _It makes perfect sense._  
@@ -2938,14 +2947,16 @@ __make fast work of (someone or something)__ __1__ To deal with, finish, or disp
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make great strides__ :three::hammer:  
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
+__make headway__ To make progress.  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
-__make inroads (in/into something)__ :three::hammer: _At universities and research institutes, workstations made inroads._  
+__make inroads (in/into something)__ :four::hammer: _At universities and research institutes, workstations made inroads._  
 __make light of__ _Squires and servants made light of him._  
+__make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
 __make like a banana and split__ _humorous slang_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
 __make matters worse__ To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_  
 __make mincemeat (out) of (someone or something)__ To decisively and severely punish or defeat someone. _If he doesn’t stop teasing me, I’m going to make mincemeat of him._ _You better practice for Sunday’s match, or your opponent will make mincemeat out of you._  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
-__make no mistake__ What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
+__make no mistake__ :two: What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
 __make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
 __make or break__ :three::hammer:  
@@ -2980,6 +2991,7 @@ __match made in heaven__ :two: A very happy marriage or partnership. _When Kelly
 __maternity leave__  
 __maven__ One who is, is believed to be, or believes oneself to be an expert in some area, field, or topic. _Anyone proclaiming to be a maven when it comes to dating or hooking up is just looking to take your money._  
 __me three__ _humorous_ An expression of concurrence, agreement, or willingness to participate in addition to others. Said after someone has said “me too” (i.e., “me as well”), thus creating a pun of “too” and “two.” _Dan: “I’m going with you, Steve.” Greg: “Me too!” John: “Me three!”_  
+__mea culpa__  
 __mean the world to (one)__ :dart:  
 __meant to be__ :two::hammer: _It was meant to be made in heaven._  
 __measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election. _The senator has been criticized for measuring the drapes in the Oval Office with a month still to go before the votes will be tallied._  
@@ -2995,14 +3007,15 @@ __memory lane__ A set or series of memories of one’s past life, likened to a r
 __mental vacation__  
 __menty b__ A cutesy shortening of the much more serious phrase mental breakdown.  
 __merch__  
-__mess around__ :three::hammer:  
+__mess around__ :four::hammer:  
 __mess of pottage__ Something of little, trivial, or no value but which appears to be attractive or valuable on first reckoning. An allusion to Esau in Genesis 25:29–32, who sells to Jacob his birthright to his family’s estate for a bowl of lentil stew (pottage). _Only after the economic crash did it become fully clear what messes of pottage these sub-prime mortgages proved to be for first-time homeowners._  
 __mess with (someone or something)__ :two::hammer:  
-__messed up__  
+__messed up__ :two::hammer: _informal_  
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __mete out__ __1__ To distribute or dispense something. A noun or pronoun can be used between “mete” and “out.” _It is the Supreme Court’s job to mete out justice in a situation like this._ __2__ To measure something out. _She meted the solution out carefully into a row of test tubes._ _She meted out the cookies to each of them._  
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
 __Mickey (Finn)__ :two::hammer: _A mickeyed beer._  
+__mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __middle ground__ :three: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __mike drop__  
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
@@ -3030,6 +3043,7 @@ __mixed bag__ :five::hammer:
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed feelings__ :two::hammer:  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
+__mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __mom-and-pop__  
 __Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
 __Monday morning quarterback__  
