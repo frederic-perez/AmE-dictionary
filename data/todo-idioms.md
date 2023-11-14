@@ -9,16 +9,21 @@ __(kill) the golden goose__
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
+__allude to (something)__  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
+__be at odds (with)__ To be in conflict (with).  
 __be square (with one)__  
 __between a rock and a hard place__  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
+__by and large__  
+__call upon (someone or something)__  
 __carve out__ _New options help you carve out downtime between meetings._  
 __cat-and-mouse game__  
 __close a/the deal__  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __come to an end__  
+__come to grips with (someone or something)__  
 __connect the dots__  
 __crack the code__  
 __cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
@@ -33,6 +38,7 @@ __cut the cord__ Cease to rely on someone or something influential or supportive
 __day in and day out__  
 __days on end__  
 __dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
+__delve into (something)__ To study something thoroughly.  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
@@ -82,6 +88,7 @@ __fire up__ __1__ To cause someone to feel more passionate or excited about some
 __fluff (fləf)__ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v tr & intr_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed.  
 __fresh out (of something)__  
+__full stop__  
 __get this show on the road__ To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
 __give (one) a break__  
 __glad tidings__ :dart: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
@@ -163,12 +170,14 @@ __in harm’s way__
 __in the cards__  
 __in the hope of__  
 __in the hot seat__  
-__in the know__  
+__in the know__ :two::hammer:  
 __in the least__  
 __in the loop__  
-__in the making__  
+__in the making__ :two::hammer:  
 __in the midst__  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
+__it takes a village__  
+__mm-hmm__  
 __move (one) to tears__  
 __move the needle__  
 __movers and shakers__ People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime. Who are the movers and shakers around here?_  
@@ -193,12 +202,16 @@ __of late__
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
 __on the horizon__  
+__play with fire__  
+__plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
+__plea deal__ Plea bargain.  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
 __push up the daisies__  
 __put (one) off (something)__  
 __put (someone or something) to bed__  
+__put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put a spoke in (one’s) wheel__  
 __put an end to (something)__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
@@ -238,6 +251,7 @@ __show, don’t tell__
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
 __slowly but surely__ At a slow or incremental pace but making steady, dependable progress.  
+__smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __stem the tide__ To stop something from continuing or worsening. _Once the people turn on you, you’ll have a hard time stemming the tide of rebellion._  
@@ -258,6 +272,7 @@ __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, vari
 __take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
+__talk is cheap__ _prov_ It is very easy to talk about what one is going to do or what the correct course of action is, but it is much harder one actually puts those words into action. (Saying this in response to someone who promises you something implies that you do not believe that person will keep the promise.)  
 __teem with (someone or something)__  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __test the waters__  
@@ -290,6 +305,7 @@ __the old gray mare ain’t what she used to be__
 __the powers that be__  
 __the proof is in the pudding__ :dart: The final results of something are the only way to judge its quality or veracity.  
 __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
+__the rubber meets the road__ Someone’s or something’s efforts, resolve, or viability are put to the test; things become truly or meaningfully challenging. Used especially after the words “where” or “when.”  
 __the sky is the limit__  
 __the tip of the iceberg__  
 __then again__  
@@ -316,9 +332,10 @@ __tread lightly__ _Companies that use AI in hiring need to tread lightly._
 __treasure trove__  
 __trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
 __trick<sup>2</sup>__ _v_  
-__Trojan horse__  
+__Trojan horse__ :two::hammer:  
 __trot out__  
 __trump card__ _It was time for me to play my trump card._  
+__tug of war__  
 __turf war__  
 __turkey__ __3__ _n_ _slang_ Stupid person.  
 __turn a deaf ear (to someone or something)__  
