@@ -896,7 +896,7 @@ __assembly line__ _n_ :five::hammer:
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
 __assess__ _v tr_ :two::hammer: (assessed)  
-__assessment__ _n_ :pencil2:  
+__assessment__ _n_ :three::pencil2::hammer:  
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduous__ _adj_ :two: /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
@@ -1121,6 +1121,7 @@ __backlot__ _n_ An area outside a film or television studio used for outdoor fil
 __backpacking__ _n_  
 __backpedal__ _v intr_ :three::hammer: _He backpedaled quickly._  
 __backseater__ _n_  
+__backslash__ _n_  
 __backslid__ _v_  
 __backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
@@ -1219,7 +1220,7 @@ __bane__ _n_ :four::hammer: _They’re the bane of my life._
 __baneful__ _adj_ :two: Productive of destruction or woe; seriously harmful. Causing harm, ruin, or death; harmful. _Syn_ pernicious, pestilent, deadly _A baneful influence._ _A baneful effect upon morals._ _He instructed him in the poisonous qualities of arsenic, and furnished him with an ample supply of that baneful drug._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
-__banger__ _n_ __1__ _British slang_ A sausage. _Fish and chips, pies and bangers._  
+__banger__ _n_ :two: __1__ _British slang_ A sausage. _Fish and chips, pies and bangers._ A type of sausage. __2__ A powerful or impressive song. __3__ An old or dilapidated vehicle.  
 __bangle__ _n_  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banhammer__  
@@ -1767,7 +1768,7 @@ __blitz<sup>2</sup>__ _v tr_ :three: (blitzed, blitzing) To attack, destroy, con
 __blizzard__ _n_ :three::hammer: _It burned in the blizzard of 1925._  
 __bloat__ _n_ A group of hippos.  
 __bloaviate__ _v intr_  
-__bloc__ _n_ :seven::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
+__bloc__ _n_ :eight::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letter__ _n_ __1__ A plain capital letter written or printed unjoined to a following or preceding letter. Block letters (known as printscript, manuscript, print writing or ball and stick in academics) are a sans-serif (or “gothic”) style of writing Latin script in which the letters are individual glyphs, with no joining. _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
@@ -2388,6 +2389,7 @@ __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top
 __buoyed__  
 __burb__ _n informal_  
 __burble__ _v_ :three: (burbled) __1__ Flow in an irregular current with a bubbling noise. __2__ (intr; often foll by away or on) To talk quickly and excitedly. _They burbled politely with Jane._  
+__burden of proof__ _n_  
 __burden__ _n_  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
@@ -2416,7 +2418,7 @@ __burr haircut__
 __burr__ _n_  
 __burrhead__ _n_  
 __burrito__ _n_ :mega:  
-__burrow<sup>1</sup>__ _n_ :five::hammer:  
+__burrow<sup>1</sup>__ _n_ :six::hammer:  
 __burrow<sup>2</sup>__ _v_ :four::hammer:  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
@@ -2440,8 +2442,8 @@ __bustle<sup>1</sup>__ _v_
 __bustle<sup>2</sup>__ _n_ :six::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
-__busybody__ _n_ :two: A person who is too interested in the lives of others.  
-__busyness__ _n_  
+__busybody__ _n_ :three: A person who meddles or pries into the affairs of others. :es: entrometido  
+__busyness__ _n_ :two::hammer:  
 __but then again__ _adv_ Alternative form of _then again_.  
 __butcher paper__  
 __butcher__ _n_ _Lindsay makes championship haggis at her family butchers._  
@@ -2460,6 +2462,7 @@ __buttercups__
 __butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
 __buttermilk__ _n_ _Buttermilk pancakes._  
 __butternut__  
+__butterscotch__ _n_  
 __buttery__ _adj_ :dart: __3__ Marked by effusive and insincere flattery. Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ fulsome, oleaginous, smarmy, unctuous, soapy, oily “buttery praise”; “gave him a fulsome introduction”; “an oily sycophantic press agent”; “oleaginous hypocrisy”; “smarmy self-importance”; “the unctuous Uriah Heep”; “soapy compliments”  
 __butting head__  
 __butting__ _v_  
@@ -2487,6 +2490,7 @@ __buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__ _n_ :two::hammer:  
 __buzzword__  
+__buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __by all means,__  
 __by and by<sup>1</sup>__ _adv_ Presently or eventually.  
 __by and by<sup>2</sup>__ _n_ _US and Canadian_ A future time or occasion.  
@@ -2539,13 +2543,14 @@ __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ 
 __cacophony__ _n_ :four Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cactus__ _n_ :mega:  
+__cad__ _n_  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
 __cadence__ _n_ :four: /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
 __cadet__ _n_  
 __cadge__ _v_ :three: __1__ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._ __2__ To cadge is to plead or beg for something. _A hungry child might cadge an extra cookie from her dad while he’s baking._ _He cadged money and bribed guards._  
-__cadre__ _n_ :eight::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__cadre__ _n_ :nine::hammer: /KAD-ray/ _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before the usual time. Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
@@ -2553,7 +2558,7 @@ __caffè Americano__ _n_ (often just an Americano) A shot of espresso with two s
 __caffè macchiato__ _n_ The name macchiato comes from the Italian word _macchiare_, which means “to stain or spot.” So essentially, a caffè macchiato is a stained (or spotted) coffee.  
 __caffeine__ _n_ (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
 __caftan__ _n_ :four::hammer: (caftans)  
-__cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
+__cagey__ _adj_ :four: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
@@ -2568,6 +2573,7 @@ __calamari__ _n_ :astonished: Squid prepared as food. _Syn_ squid _Lisa ordered 
 __calamitous__ _adj_ :two::mega: Causing or involving calamity; disastrous. Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
 __calamity__ _n_ :two::mega::hammer:  
 __calcareous__ _adj_ Of, containing, or resembling calcium carbonate. _Syn_ chalky  
+__caldera__ _n_  
 __calendar girl__  
 __calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :three::mute:[ca~~l~~f] __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
@@ -2812,6 +2818,7 @@ __cast-iron__ _adj_ :two::hammer:
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castanet__ _n_ :two: (often _castanets_) A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
+__castellated__ _adj_ Having turrets and battlements in the style of a castle. _Syn_ castled, crenellated, battlemented  
 __castigate__ _v_ Censure severely. _Syn_ chasten, chastise, objurgate _ften he would look back on his day of toil, and castigate himself for failing to fulfill his true purpose of the day._  
 __castigation__ _n_  
 __castle__ _n, v_ :mute:[cas~~t~~le]  
@@ -3230,7 +3237,7 @@ __cipher<sup>1</sup>__ _n_ (cypher)
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __ciphertext__ _n_ A message which has been transformed by a cipher so that it can be read only by those privy to the secrets of the cipher.  
 __circa__ _prep_ :two::hammer:  
-__circadian__ _adj_ :three::hammer:  
+__circadian__ _adj_ :four::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
 __circuitous__ _adj_ Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
@@ -3250,6 +3257,7 @@ __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded 
 __cistern__ _n_ :three::hammer: _More than a hundred households depend on cisterns and wells._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __citizenry__  
+__citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
 __City__ _n_ :two: Short for City of London.  
 __cityscape__ _n_  
 __civil__ _adj_ _Some airlines still offer a civil amount of space, even in economy class._  
@@ -3692,6 +3700,7 @@ __conciliate__ _v_ /kun-SILL-ee-ayt/
 __conciliatory__ _adj_  
 __concise__ _adj_ :two::hammer: /kənˈsaɪs/  
 __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
+__conclude__ _v_  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :nine::hammer:  
@@ -3709,7 +3718,7 @@ __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of 
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
-__conducive__ _adj_ :seven::hammer: _The vehicle doesn’t seem conducive to passing._  
+__conducive__ _adj_ :eight::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :seven::hammer::mega:  
 __coneys__  
@@ -3750,6 +3759,7 @@ __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous thi
 __congest__ _v_  
 __congested__ _adj_ __3__ (of the nose) Blocked with mucus.  
 __congestion__ _n_ _The congestion during peak hours._  
+__congestive__ _adj_  
 __conglomerate__  
 __conglomerates__  
 __congrats__ _n pl_ :two::mega::hammer: _Congrats on your wedding._  
@@ -3782,7 +3792,7 @@ __consecrate__ _v_ :two::hammer: _The current church building was consecrated in
 __consecutive__ _adj_ :two::hammer:  
 __consensual__  
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
-__consequential__  
+__consequential__ _adj_ :two::hammer:  
 __consequently__  
 __conservancies__  
 __conservatory__ _n_ :seven: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. _A tropical conservatory._ :es: invernadero  
@@ -3854,7 +3864,7 @@ __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Fil
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :eight: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :four::hammer: (contriving)  
-__contrived__ _adj_ :five: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
+__contrived__ _adj_ :six: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
@@ -3899,10 +3909,10 @@ __cooperage__
 __coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
 __coos__ _v_  
 __cooze__ _n_ :three::hammer:  
-__cop out__ _v_ :seven: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop out__ _v_ :eight: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
-__copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
+__copacetic__ _adj informal_ :six: /koh-puh-SET-ik/ In excellent order. Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._ _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __cope<sup>1</sup>__ _n_ _A grey cope._  
 __cope<sup>2</sup>__ _v_ _Coping strategies._  
@@ -4035,6 +4045,7 @@ __coursework__
 __courteous__ _adj_ _Remember it is courtesous to tip your driver for their service._  
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __courtyard__ _n_ :three::hammer: :es: patio  
+__coven__ _n_ An assembly or community of witches who meet regularly.  
 __covenant__ _n_ :seven: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
@@ -15007,8 +15018,8 @@ __rooter__
 __rootered__ _v_  
 __rooting__ _v_ _She was rooting in the Dumpster._  
 __rope in__ _v_  
-__rope-a-dope__ _n_ :two::hammer:  
 __rope__ _v_  
+__rope-a-dope__ _n_ :two::hammer:  
 __ropes__ _n pl_ :two: Special or basic techniques or procedures. _He’s teaching her the ropes._ _They need to learn the ropes._  
 __ropy__ _adj_ :three::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosacea__ _n_  

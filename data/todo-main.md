@@ -25,33 +25,6 @@ __afford__ _v_
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
 __articulate__ _v_  
-__assessment__ _n_ :two::hammer:  
-__backslash__ _n_  
-__banger__ _n_ __1__ A type of sausage. __2__ A powerful or impressive song. __3__ An old or dilapidated vehicle.  
-__bloc__ _n_  
-__burden of proof__ _n_  
-__burrow__ _n_  
-__busybody__ _n_ A person who meddles or pries into the affairs of others. :es: entrometido  
-__busyness__  
-__butterscotch__ _n_  
-__buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
-__cad__ _n_  
-__cadre__ _n_ /KAD-ray/  
-__cagey__  
-__cajole__ _v_  
-__caldera__ _n_  
-__call upon__  
-__castellated__ _adj_ Having turrets and battlements in the style of a castle. _Syn_ castled, crenellated, battlemented  
-__circadian__ _adj_  
-__citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
-__conclude__ _v_  
-__conducive__  
-__congestive__ _adj_  
-__consequential__ _adj_  
-__contrived__ _adj_  
-__cop out__  
-__copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
-__coven__ _n_ An assembly or community of witches who meet regularly.  
 __cradling__ _v_  
 __credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __creep__  
