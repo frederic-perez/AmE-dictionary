@@ -25,10 +25,13 @@ __afford__ _v_
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
 __articulate__ _v_  
+__assessment__ _n_ :two::hammer:  
 __backslash__ _n_  
 __banger__ _n_ __1__ A type of sausage. __2__ A powerful or impressive song. __3__ An old or dilapidated vehicle.  
+__bloc__ _n_  
 __burden of proof__ _n_  
 __burrow__ _n_  
+__busybody__ _n_ A person who meddles or pries into the affairs of others. :es: entrometido  
 __busyness__  
 __butterscotch__ _n_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
@@ -43,7 +46,9 @@ __circadian__ _adj_
 __citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
 __conclude__ _v_  
 __conducive__  
+__congestive__ _adj_  
 __consequential__ _adj_  
+__contrived__ _adj_  
 __cop out__  
 __copacetic__ _adj_ /koh-puh-SET-ik/ Copacetic (less commonly spelled copasetic or copesetic) describes things that are very satisfactory. _Worry not: I assure you that everything’s copacetic._  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
@@ -80,6 +85,7 @@ __decamp__
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
 __deliverance__ _n_  
+__denervation__ _n_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __dispel__ _v_  
@@ -94,6 +100,7 @@ __earworm__
 __easy chair__  
 __ebb__ _v_ _My confidence was ebbing._  
 __echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary speech and writing as a synonym of authentic, genuine, and true.  
+__edutainment__ _n_  
 __efferent__  
 __efficacy__ _n_ /ˈɛf ɪ kə si/  
 __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
@@ -116,6 +123,7 @@ __endure__
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __enshrine__ _v tr_  
+__enthuse__ _v_  
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
@@ -143,12 +151,13 @@ __fintech__ _n_ Products and companies that employ newly developed digital and o
 __fire hose__ _n_  
 __firebrand__  
 __firefly__ _n_ :es: luciérnaga  
-__firestorm__ _n_  
+__firestorm__ _n_ :two: __2__ A vehemently intense and contagious response: _a firestorm of protest._  
 __fishwife__ _n_ __2__ fA person, traditionally a woman, who persistently nags or criticizes. _Syn_ fury, harpy, scold, shrew, termagant, virago, vixen  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __fitfully__ _adv_ _He slept fitfully on the king-sized bed._  
 __flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
 __flapping__ _n_ _Syn_ fluttering, flap, flutter  
+__flare__ _n_ __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala  
 __flat__ _adv_  
 __flat-footed__ _adj_  
 __flee__ _v_  
@@ -175,7 +184,7 @@ __gullible__ _adj_ /GULL-uh-bul/
 __hacktivist__ _n_  
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
-__hamper__ _v tr_  
+__hamper__ _v tr_ :two::hammer:  
 __hand-crafted__ _adj_  
 __handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1400s.  
@@ -202,7 +211,11 @@ __ibex__ _n_
 __impediment__ _n_  
 __inch__ _v_ _Inch closer._  
 __inculcate__ _v_ /in-KUL-kayt/  
+__kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
 __landfill__ _n_  
+__lenient__ _adj_  
+__list price__ _n_  
+__long-lasting__ _adj_  
 __misnomer__ _n_  
 __misspend__ _v tr_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
@@ -215,6 +228,7 @@ __offset__ _v_
 __ogre__ _n_  
 __onus__ _n_  
 __otitis__ _n_  
+__ottter__ _n_  
 __out-of-pocket__  
 __outage__ _n_  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
@@ -250,6 +264,8 @@ __redcon<sup>1</sup>__ _n_
 __redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
+__reshuffle<sup>1</sup>__ _v tr_  
+__reshuffle<sup>2</sup>__ _n_  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
@@ -262,6 +278,7 @@ __ribald<sup>2</sup>__ _n_ A ribald person.
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribbon candy__  
+__rickets__ _n_ A bone disease of children marked by bone demineralization and defective bone growth, caused usually by a deficiency of or an impaired metabolism of vitamin D. _Syn_ rachitis :es: raquitismo  
 __ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __rife__ _adj_  
 __rigmarole__ _n_  
@@ -270,6 +287,7 @@ __ripe__
 __risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
 __roadblock__ _n_  
 __rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
+__rundown__ _n_ :dart: __1__ A point-by-point summary.  
 __salacious__ _adj_ :two:hammer:  
 __salacities__ _n_  
 __salient__ _adj_ :two::hammer: _A salient example._  
@@ -312,6 +330,8 @@ __scrawny__
 __scrim__ _n_  
 __scrimmage__ _n_  
 __scrutiny__ _n_  
+__scurvy<sup>1</sup>__ _n_  
+__scurvy<sup>2</sup>__ _adj_ Contemptible; despicable.  
 __seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
 __seance__ _n_ :es: sesión de esperitismo  
 __secreted__ _v_ _He secreted himself in the hotel._  
@@ -360,6 +380,7 @@ __shucking__
 __shudder__ _v intr_  
 __sibilant__ _adj_ _Every _s_ is sibilant._  
 __side-splitting__ _adj_  
+__sideline__ _v tr_  
 __signet ring__ _n_  
 __simile__ _n_  
 __simpatico__  
@@ -377,8 +398,10 @@ __skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn
 __skittering__  
 __sky-high__ _adj, adv_  
 __sleepover__ _n_  
+__sliver__ _n_ _A thin sliver of magma._  
 __smack__ _n_ __10__ A resounding or loud kiss.  
 __smog__ _n_  
+__smorgasbord__ _n_  
 __smug__ _n_ _She looks impossibly smug to me._  
 __smugness__  
 __snap__ _n_  
@@ -388,6 +411,7 @@ __snob__ _n_ One who has an offensive air of superiority in matters of knowledge
 __soapbox__ _n_  
 __sobering__ _adj_ :two::hammer:  
 __sociopath__  
+__Socratic questioning__ _n_  
 __Sodom__ _n_ /SAHD/SOD-uhm/ (sodom) A place considered to be full of wickedness and sin.  
 __soft hat__ _n_ :camera:  
 __soft-pedal__ _v tr_  
@@ -466,6 +490,8 @@ __stillbirth__ _n_
 __stockpile__ _n_ :two::hammer:  
 __strain__ _n_  
 __strayed__ _v_ _His thoughts strayed._  
+__stroke__ _v tr_ __1__ To rub lightly with or as if with the hand or something held in the hand; caress. _The dog’s owner stroked its ears, which made the animal lean into the touch and relax._  
+__stroking__ _n_ A light touch with the hands.  
 __strummíng__ _v_ _She was strumming her guitar._  
 __stub__ _v tr_ /stʌb/ __2__ To strike (one’s toe or foot) against something accidentally.  
 __stump__ _n_ :es: muñón  
@@ -574,7 +600,7 @@ __unrepentant__
 __unseemly__ _adj, adv_ :two::hammer:  
 __unspoken__ _adj_  
 __unstintingly__  
-__untapped__ _adj_  
+__untapped__ _adj_ :two: __2__ Not utilized: _untapped resources._  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
 __upend__ _v_ :two::hammer:  
@@ -604,7 +630,9 @@ __valence__ _n_ :two::hammer:
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
+__vasospasm__ _n_  
 __vaunted__ _adj_ Praised more than deserved.  
+__veal__ _n_ :es: ternera  
 __veneer__  
 __ventilatory threshold__ _n_ The point of the workout where it becomes difficult to carry on a conversation.  
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
