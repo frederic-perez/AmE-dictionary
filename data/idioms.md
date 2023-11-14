@@ -4264,12 +4264,14 @@ __take (someone) under (one’s) wing__
 __take (something) into consideration__  
 __take (something) to heart__  
 __take (something) to the bank__  
+__take (something) with a grain of salt__ :two::hammer:  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
 __take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
 __take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
 __take a deep breath__ :three::hammer:  
+__take a deep dive__ A thorough and comprehensive exploration or investigation into a particular subject or topic.  
 __take a dive__  
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
 __take a haircut__ A reduction in value. To accept a loss on a return of a financial investment. _The new interest rate hike means that many investors will be forced to take a haircut on their largest assets in the coming fiscal year._  
@@ -4283,34 +4285,44 @@ __take a stab at (something)__
 __take a step back__  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
+__take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take action__  
 __take aim (at someone or something)__  
+__take aside__  
+__take back__  
 __take by storm__ _The dystopian drama that has taken the internet by storm._  
+__take charge__  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take for granted__  
+__take fright__ To become very frightened or startled (by something). Often followed by “at (something).”  
 __take heart__ :five::dart: To be confident or courageous.  
 __take ill__ To be or become sick or unwell. _I heard your sister has taken ill recently. I hope that it isn’t anything too serious?_  
 __take it away__ :two: _informal_ An invitation or instruction for someone to begin their performance. Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_ _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
 __take it away!__  
 __take it to the bank__  
-__take names__  
+__take names__ :two::hammer:  
 __take no notice of (something or someone)__ To not pay any attention to someone or something; to ignore or disregard someone or something. _Take no notice of those troublemakers, they’re only trying to provoke you._  
-__take no prisoners__ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
+__take no prisoners__ :two: To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
+__take notice (of someone or something)__  
 __take offense (at) (something)__ To be or feel insulted, offended, or humiliated by something.  
+__take on__  
 __take over__ :three: Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._ _Execs aren’t ready for AI to completely take over._  
 __take pains__  
 __take pride in someone or something__ :three::hammer:  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
-__take stock (of something)__  
+__take steps to (do something)__  
+__take stock (of something)__ :two: __2__ To make an appraisal, estimation, or assessment of something. _Moving forward, we’ll be holding biweekly meetings to take stock of our financial situation._  
 __take stock__  
 __take the brunt__  
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the edge off__  
 __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incriminate oneself, as in _He took the Fifth on so many of the prosecutor’s questions that we’re sure he’s guilty._  
 __take the gloves off__ _The gloves are coming off today._  
+__take the heat__ To receive and endure intense criticism or scorn, especially for a perceived mistake or wrongdoing.  
 __take the high road__ :four: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
 __take the hit__ (take the fall) To incur blame or censure, either willingly or unwillingly: _a senior official who took the fall for the failed intelligence operation._  
+__take the podium__  
 __take the reins__  
 __take the weight off (one’s) feet__ To lie or (especially) sit down, generally after being upright for a long period of time. _We’ve been walking all over town today, so I think we’re just going to head back to the hotel and take the weight off our feet for a while._  
 __take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
@@ -4319,31 +4331,39 @@ __take up__ :two: To begin doing something as a habit, hobby, pastime, or steady
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ To do something to help you forget about something else.  
 __taken aback__ :two::astonished: Startled, astonished, shocked, or disconcerted. _All of us were a bit taken aback to learn that John was moving to England next month._  
+__taken by a mug__  
 __taking it on your chin__  
 __talk a mile a minute__ To speak in a very quick or hurried manner; to talk very fast. _When the boss gets excited, she starts talking a mile a minute, and I can never follow everything she’s trying to say!_  
 __talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent manner; to sass. _If you don’t stop talking back like that, you’ll be going to bed with no dinner!_  
 __talk back__  
 __talk down to (one)__  
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
-__talk the talk__  
+__talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
+__talk the hind leg(s) off a horse__ To talk endlessly and exhaustingly. _I love my Aunt Lily, but she’d talk the hind legs off a horse if you let her!_  
+__talk the talk__ :two::hammer:  
 __talk to the hand__ A rude interjection meant to interrupt and dismiss what another person is saying. (Sometimes written or spoken in longer forms, such as, “talk to the hand, because the face isn’t listening,” or the like.) _All of us were aghast when Jonathan turned to the police officer and said, “Talk to the hand, ’cause the face ain’t interested!”_  
 __talk trash__  
 __talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __talking head__ :dart::two: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._ _Talking head videos._  
 __tall order__ :two::hammer:  
-__tall tale__ :three::hammer:  
+__tall story__  
+__tall tale__ :four::hammer:  
 __tan (one’s) hide__ To spank one. _Young lady, I will tan your hide if you disobey me again!_  
+__tap (one) into (something)__  
 __tap dancing__  
 __tap into (something)__ :nine::m: __1__ To make a strong or advantageous connection with. To establish a connection with (something), especially in order to take advantage. _Trying to tap into a new market._ _Tap into the dark side of the Force._ __2__ To access some large, abundant, or powerful resource. To gain access to some resource: _The building tapped into the city’s water supply._ _When he ran out of money, he decided to tap into his trust fund._ _The man was found guilty for illegally tapping into the city’s electrical grid without paying._  
-__tap into__ :nine::m: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It’s possible that a new loan wouldn’t have to be tapped into immediately._  
+__tap into__ :nine::m: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It’s possible that a new loan wouldn’t have to be tapped into immediately._ _We can all tap into our innate brilliance._  
 __tape into__  
 __tapped out__ Completely exhausted or depleted (of some resource). _A: “Do you want to place another bet?” B: “Nah, I’m tapped out.” Do we have any more ink cartridges? This one’s tapped out._  
+__tattle on__ :two: _v_ To inform that someone has misbehaved: _my brother tattled on me for spilling the glue._  
 __teaching to the test__ A colloquial term for any method of education where the curriculum is heavily focused on preparing students for a standardized test, for example, with international IELTS English proficiency language test for non-native speakers.  
 __tear (one’s) hair out__ :dart: To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
 __tear a strip off (someone)__ To scold, upbraid, or rebuke someone very severely, as for an error or wrongdoing. _The teacher really tore a strip off me for causing a disruption in class again._  
 __tear around__ _Her idea of taking a day off is tearing around a golf course._  
+__tear away__  
 __tear down__  
+__tech neck__ A condition characterized by pain and stiffness in the neck, shoulders, and upper back due to prolonged use of digital devices. The sagging skin and neck wrinkles resulting from constantly bending downward to look at a smartphone, which can also cause headaches and neck, shoulder and back pain.  
 __tee off__ _Tee off for St. Patrick’s Day._  
 __teem with (someone or something)__ :three: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __teensy-weensy__ Particularly small or tiny. _I’m not hungry myself, but I’d love to try just a teensy-weensy bite of your meal, if you don’t mind._  

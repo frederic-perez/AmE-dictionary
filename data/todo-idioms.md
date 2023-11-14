@@ -258,32 +258,6 @@ __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, vari
 __take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
-__take (something) with a grain of salt__ :two::hammer:  
-__take a deep dive__ A thorough and comprehensive exploration or investigation into a particular subject or topic.  
-__take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
-__take aside__  
-__take back__  
-__take charge__  
-__take fright__ To become very frightened or startled (by something). Often followed by “at (something).”  
-__take names__  
-__take no prisoners__  
-__take notice (of someone or something)__  
-__take on__  
-__take steps to (do something)__  
-__take stock (of something)__ __2__ To make an appraisal, estimation, or assessment of something. _Moving forward, we’ll be holding biweekly meetings to take stock of our financial situation._  
-__take the heat__ To receive and endure intense criticism or scorn, especially for a perceived mistake or wrongdoing.  
-__take the podium__  
-__taken by a mug__  
-__talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
-__talk the hind leg(s) off a horse__ To talk endlessly and exhaustingly. _I love my Aunt Lily, but she’d talk the hind legs off a horse if you let her!_  
-__talk the talk__  
-__tall story__  
-__tall tale__  
-__tap (one) into (something)__  
-__tap into__ :two: _We can all tap into our innate brilliance._  
-__tattle on__ :two: _v_ To inform that someone has misbehaved: _my brother tattled on me for spilling the glue._  
-__tear away__  
-__tech neck__ A condition characterized by pain and stiffness in the neck, shoulders, and upper back due to prolonged use of digital devices. The sagging skin and neck wrinkles resulting from constantly bending downward to look at a smartphone, which can also cause headaches and neck, shoulder and back pain.  
 __teem with (someone or something)__  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __test the waters__  
