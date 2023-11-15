@@ -24,7 +24,13 @@ __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._
 __afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
+__apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __articulate__ _v_  
+__bloodcurdling__ _adj_  
+__brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
+__bugbear__ _n_ /BUG-bair/  
+__cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
+__chimera__ _n_ /kye-MEER-uh/  
 __cradling__ _v_  
 __credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __creep__  
@@ -102,6 +108,7 @@ __escalation__
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
 __ethos__ _n_  
 __eviction__ _n_  
+__exigent__ _adj_ /EK-suh-junt/  
 __expunge__ _v tr_  
 __extraneous__ _adj_ :dart: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
@@ -143,13 +150,14 @@ __footage__ _n_ :mega: /ˈfʊt ɪdʒ/
 __forceps__ _n_  
 __fungible__  
 __gag order__ _n_  
+__gaunt__ _adj_ Thin and bony; angular. _Syn_ cadaverous, haggard, pinched, skeletal, wasted  
 __giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_  
 __giggle<sup>2</sup>__ _v_  
 __gimcrackery__  
 __gobble__ _v_ _Do you savor or gobble?_  
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
-__grimoire__ _n_ /ɡriːmˈwɑː/  
+__grimoire__ _n_ :two::hammer: /ɡriːmˈwɑː/  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __grubstake__  
@@ -184,13 +192,19 @@ __ibex__ _n_
 __impediment__ _n_  
 __inch__ _v_ _Inch closer._  
 __inculcate__ _v_ /in-KUL-kayt/  
+__irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
 __kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
 __landfill__ _n_  
 __lenient__ _adj_  
 __list price__ _n_  
 __long-lasting__ _adj_  
+__luscious__  
+__maelstrom__ _n_ /MAIL-strum/  
+__matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
+__mawkish__ _adj_  
 __misnomer__ _n_  
 __misspend__ _v tr_  
+__morass__ _n_ A book of magical knowledge, especially one containing spells.  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __non-binding__ _adj_ That does not bind the participants.  
 __non-negotiable__ _adj_  
@@ -237,6 +251,7 @@ __redcon<sup>1</sup>__ _n_
 __redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
+__refulgent__ _adj_ Shining radiantly; resplendent.  
 __reshuffle<sup>1</sup>__ _v tr_  
 __reshuffle<sup>2</sup>__ _n_  
 __revenge__ _n_  
@@ -316,6 +331,7 @@ __seize__ _v_ _Students with the growth mindset seized the chance._
 __senility__ _n_  
 __sepsis__ _n_  
 __sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
+__serenade__ _n_ /ser-uh-NAYD/  
 __serial comma__ _n_ _Syn_ Oxford comma  
 __Sermon on the Mount__  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
@@ -380,6 +396,7 @@ __smugness__
 __snap__ _n_  
 __snappy__ _adj_ _Snappy answers._  
 __snicker__ _v intr_  
+__snitch__ _v_  
 __snob__ _n_ One who has an offensive air of superiority in matters of knowledge or taste.  
 __soapbox__ _n_  
 __sobering__ _adj_ :two::hammer:  
@@ -603,6 +620,7 @@ __valence__ _n_ :two::hammer:
 __valet__ _n_  
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
+__valorous__ _adj_ /VAL-uh-russ/  
 __vasospasm__ _n_  
 __vaunted__ _adj_ Praised more than deserved.  
 __veal__ _n_ :es: ternera  
@@ -661,9 +679,9 @@ __withstand__ _v_
 __woke__ _adj_ :two: _slang_ Aware of the injustice of the social system in which one lives.  
 __womenfolk__  
 __wondrously__  
-__wont<sup>1</sup>__ _adj_  
-__wont<sup>2</sup>__ _n_ :two::hammer:  
-__wont<sup>3</sup>__ _v_  
+__wont<sup>1</sup>__ _adj_ :two::hammer:  
+__wont<sup>2</sup>__ _n_ :three::hammer:  
+__wont<sup>3</sup>__ _v_ :two::hammer:  
 __woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
 __woodwind player__  
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
