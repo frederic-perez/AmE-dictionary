@@ -131,33 +131,6 @@ __fintech__ _n_ Products and companies that employ newly developed digital and o
 __fire hose__ _n_  
 __firebrand__  
 __firefly__ _n_ :es: luciérnaga  
-__firestorm__ _n_ :two: __2__ A vehemently intense and contagious response: _a firestorm of protest._  
-__fishwife__ _n_ __2__ fA person, traditionally a woman, who persistently nags or criticizes. _Syn_ fury, harpy, scold, shrew, termagant, virago, vixen  
-__fission__ _n_ :pencil2: (_vs_ fusion)  
-__fitfully__ _adv_ _He slept fitfully on the king-sized bed._  
-__flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
-__flapping__ _n_ _Syn_ fluttering, flap, flutter  
-__flare__ _n_ __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala  
-__flat__ _adv_  
-__flat-footed__ _adj_  
-__flee__ _v_  
-__fling__ _n_ __4__ A brief, casual sexual or romantic relationship.  
-__flit__ _n_  
-__floorshow__ _n_ A series of entertainments presented in a nightclub. _Syn_ cabaret  
-__flop__ _n_ __3__ _informal_ An utter failure. _Tesla’s New York State solar-panel factory is a flop._  
-__foliage__ _n_ :mega: /FOH-lee-ij/ /ˈfoʊ li ɪdʒ/ Foliage refers to the leaves of a plant or of many plants.  
-__footage__ _n_ :mega: /ˈfʊt ɪdʒ/  
-__forceps__ _n_  
-__fungible__  
-__gag order__ _n_  
-__gaunt__ _adj_ Thin and bony; angular. _Syn_ cadaverous, haggard, pinched, skeletal, wasted  
-__giddy__ _adj_  
-__giggle<sup>1</sup>__ _n_  
-__giggle<sup>2</sup>__ _v_  
-__gimcrackery__  
-__gobble__ _v_ _Do you savor or gobble?_  
-__Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
-__grimoire__ _n_ :two::hammer: /ɡriːmˈwɑː/  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __grubstake__  
