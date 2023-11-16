@@ -9,16 +9,23 @@ __(kill) the golden goose__
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
+__a walk in the park__  
 __allude to (something)__  
+__as long as__  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
 __be square (with one)__  
 __between a rock and a hard place__  
+__boom__ _n_ __1__ _nautical_ A spar to which a sail is fastened to control its position relative to the wind.  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
+__break free__  
+__brood about (someone or something)__ To worry, fret, or obsess over someone or something.  
 __by and large__  
 __call upon (someone or something)__  
 __carve out__ _New options help you carve out downtime between meetings._  
+__case in point__  
 __cat-and-mouse game__  
+__catch (one’s) breath__  
 __close a/the deal__  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
@@ -35,6 +42,7 @@ __culture vulture__ An individual with a consuming or excessive interest in the 
 __curve ball__  
 __cut (through) (the) red tape__ To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
+__dangle (something) before (someone)__ To try to entice someone with something. _Dad dangled a few twenties before us, but we told him he’d have to pay more to get us to clean out the whole garage._  
 __day in and day out__  
 __days on end__  
 __dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
@@ -74,7 +82,7 @@ __draw upon__
 __dressed to the nines__  
 __drop out__  
 __drop the ball__  
-__dust off__  
+__dust off__ :two::hammer:  
 __dyke__  
 __easy peasy__  
 __eat it up__  
@@ -87,12 +95,17 @@ __feast (up)on (something)__
 __fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
 __fluff (fləf)__ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v tr & intr_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed.  
+__FOMO__ _slang_  
 __fresh out (of something)__  
+__fricking__  
+__frigging__  
 __full stop__  
+__garbage in, garbage out__  
 __get this show on the road__ To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
 __give (one) a break__  
 __glad tidings__ :dart: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __go down the rabbit hole__  
+__gold rush__ __2__ By extension, a situation in which many people or groups enter a market due to a sudden abundance of or surge in demand for something. _The sudden ubiquity of smartphones led to a gold rush for app developers._  
 __golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success. _My programming experience is going to be my golden ticket out of this one-horse town._  
 __golden touch__ The ability to earn a large amount of money or be very successful in any endeavor. From the Greek myth of King Midas, who was granted the ability to turn anything he touched into solid gold. _During the ’80s, he owned half of Las Vegas, but in recent years, he seems to have lost his golden touch._  
 __golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
@@ -100,6 +113,7 @@ __good books__ Favorable, kindly, or approving regard or treatment. Usually used
 __good enough for jazz__ :dart: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
 __goody-goody__  
 __greenwash__  
+__guardrail__ A safety feature or measure put in place to prevent something from going too far or becoming too extreme. _Senate looks to set guardrails for AI patient safety._  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
@@ -139,6 +153,7 @@ __have the say__ To have the ultimate authority to command, control, or make a d
 __hazarded__ _v_  
 __he who hesitates is lost__  
 __head over heels__  
+__head south__  
 __head start__  
 __head up__  
 __head-to-toe__  
@@ -161,6 +176,7 @@ __hit home__
 __hit the bull’s-eye__  
 __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the lotto__  
+__hold up__  
 __hope for the best__ To be hopeful that a positive occurrence will happen. This can be an expression of hope or insight after something has gone awry or when circumstances seem bleak. _Now that our house is on the market, there’s not much we can do but hope for the best._  
 __human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
 __I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
@@ -193,6 +209,7 @@ __no good deed goes unpunished__
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._  
 __no probs__  
 __non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
+__north of (some number)__ Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __not buy (something)__ To not accept or believe something as the truth. _My brother says that his latest scheme will make millions, but I’m not buying it._  
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
@@ -230,6 +247,7 @@ __put upon__
 __putzo__  
 __quick buck__  
 __radio silence__  
+__rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
 __ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
 __rat race__  
@@ -250,6 +268,7 @@ __shill__ __1__ _n_ Someone who promotes or endorses some product, service, even
 __show, don’t tell__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
+__sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
 __slowly but surely__ At a slow or incremental pace but making steady, dependable progress.  
 __smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
@@ -324,6 +343,7 @@ __tone deaf__
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __toot (one’s) own horn__ To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
+__toot__ __5__ _v_ _slang_ To emit a small, often audible fart. _Oops! Sorry for tooting!_ _My kids thought it was hilarious when I tooted in front of them._  
 __toss out__  
 __tough talk__  
 __trash talk__ _I won’t trash talk._  
@@ -400,8 +420,10 @@ __with great (something) comes great (something else)__
 __wolf down__  
 __word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
 __word on the street__  
+__work (one’s) butt off__ b work really hard (on or at something).  
 __work (one’s) tail off__  
 __work one’s tail off__  
+__work out__  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
 __wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
