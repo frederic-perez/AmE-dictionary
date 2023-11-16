@@ -1,5 +1,6 @@
 __-sville__  
 __-ville__  
+__360-degree feedback__ _n_  
 __abate__ _v_  
 __abet__ _v_  
 __ablutions__  
@@ -24,11 +25,16 @@ __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._
 __afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
+__allot__ _v_  
+__alot__ _v_  
 __apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __articulate__ _v_  
 __bloodcurdling__ _adj_  
+__brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
+__brand__ _v tr_  
 __brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
 __bugbear__ _n_ /BUG-bair/  
+__bursitis__ _n_  
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
 __chimera__ _n_ /kye-MEER-uh/  
 __cradling__ _v_  
@@ -71,6 +77,7 @@ __dispel__ _v_
 __dissatisfaction__ _n_  
 __duffle coat__  
 __dull__ _v_ _It dulls thinking._  
+__dysmorphia__ _n_ Any of various psychological disorders whose sufferers believe that their body is wrong or inadequate, such as anorexia, bulimia, and muscle dysmorphia.  
 __eager__ _adj_  
 __earnest__  
 __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
@@ -114,6 +121,7 @@ __extraneous__ _adj_ :dart: /ek-STRAY-nee-us/ Something described as extraneous 
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __eye__ _v_ _Kyiv eyes global peace summit this year._  
 __fabricate__ _v_  
+__far-flung__ _adj_  
 __fare__ _v intr_  
 __farrago__ _n_ A confused mixture; hodgepodge; medley.  
 __fatuous__ _adj_  
@@ -140,6 +148,8 @@ __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on th
 __hammerlock__  
 __inculcate__ _v_ /in-KUL-kayt/  
 __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
+__Japan__ _n_ :mega: /dʒəˈpæn/  
+__kelly green__ _n_  
 __kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
 __landfill__ _n_  
 __lenient__ _adj_  
@@ -149,10 +159,13 @@ __luscious__
 __maelstrom__ _n_ /MAIL-strum/  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
 __mawkish__ _adj_  
+__mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __misnomer__ _n_  
 __misspend__ _v tr_  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
+__navigate__ _v_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
+__nescience__ _n_  
 __non-binding__ _adj_ That does not bind the participants.  
 __non-negotiable__ _adj_  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
@@ -178,6 +191,7 @@ __palliative__ _adj_ :pencil2:
 __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
+__people pleaser__ _n_  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
@@ -289,6 +303,7 @@ __sesquicentennial__ _adj_
 __sesquipedalian__ _adj, n_  
 __sesshin__ _n_  
 __settee__ _n_  
+__Seul__ _n_ :mega:  
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __shady__  
 __sham__ _n_  
@@ -523,7 +538,7 @@ __unencumbered__ _adj_ /ˌʌnɪnˈkʌmbəd/ Not burdened, impeded, or hampered. 
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Not ambiguous; plain  
 __unerring__ _adj_  
 __unfurl__ _v_  
-__unheeded__  
+__unheeded__ _adj_ :dart::two: /ʌnˈhiːdɪd/ Noticed or heard but disregarded.  
 __unhook__ _v tr_  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __unison__ _n_  
@@ -540,6 +555,7 @@ __unstintingly__
 __untapped__ _adj_ :two: __2__ Not utilized: _untapped resources._  
 __upbraid__ _v_ /up-BRAYD/  
 __upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
+__upcoming__ _adj_ :dart: In the relatively near future. _Syn_ approaching, coming, forthcoming  
 __upend__ _v_ :two::hammer:  
 __upheaval__ _n_  
 __upright bass__ _n_  
@@ -578,6 +594,7 @@ __verdict__
 __verismo__  
 __verruca__ _n_ A firm abnormal elevated blemish on the skin; caused by a virus. _Syn_ wart  
 __vesicle__ _n_ A small sac or cyst, especially one containing fluid. _Syn_ cyst  
+__vet__ _v tr_ :astonished: __2__ To subject to thorough examination or evaluation: _vet a manuscript._  
 __vicinity__ _n_  
 __vicissitude__ _n_ :pencil2:  
 __victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
@@ -614,6 +631,7 @@ __wholeheartedly__
 __wholesome__  
 __whoop__ _v_  
 __whopping__ _adj_  
+__wicket__ _n_ /ˈwɪkɪt/ __5__ _(Cricket)_ Equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket.  
 __wield__ _v_  
 __wild card__  
 __willful__  
@@ -642,6 +660,7 @@ __wriggle__ _v_
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
 __writ__ _n_  
 __write-up__ _n_  
+__wrongdoing__ _n_  
 __wrung__ _v_ _They have wrung their hands._  
 __yammering__  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
