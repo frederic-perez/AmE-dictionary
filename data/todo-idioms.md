@@ -82,32 +82,6 @@ __draw upon__
 __dressed to the nines__  
 __drop out__  
 __drop the ball__  
-__dust off__ :two::hammer:  
-__dyke__  
-__easy peasy__  
-__eat it up__  
-__en route__  
-__every so often__  
-__eye-opening__ Causing or resulting in a shocking or startling revelation.  
-__face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
-__fear not__ Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
-__feast (up)on (something)__  
-__fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
-__fluff (fləf)__ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v tr & intr_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
-__fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed.  
-__FOMO__ _slang_  
-__fresh out (of something)__  
-__fricking__  
-__frigging__  
-__full stop__  
-__garbage in, garbage out__  
-__get this show on the road__ To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
-__give (one) a break__  
-__glad tidings__ :dart: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
-__go down the rabbit hole__  
-__gold rush__ __2__ By extension, a situation in which many people or groups enter a market due to a sudden abundance of or surge in demand for something. _The sudden ubiquity of smartphones led to a gold rush for app developers._  
-__golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success. _My programming experience is going to be my golden ticket out of this one-horse town._  
-__golden touch__ The ability to earn a large amount of money or be very successful in any endeavor. From the Greek myth of King Midas, who was granted the ability to turn anything he touched into solid gold. _During the ’80s, he owned half of Las Vegas, but in recent years, he seems to have lost his golden touch._  
 __golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
 __good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
 __good enough for jazz__ :dart: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  

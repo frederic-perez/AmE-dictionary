@@ -1348,17 +1348,19 @@ __dud__ :two::astonished: __1__ Something that does not work as intended, is ine
 __duke it out__ :two::hammer:  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
-__dust off__  
+__dust off__ :three::hammer:  
+__dyke__  
 __dynamic duo__  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early days__ :two: The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ :two: Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
-__easy peasy__ :two::hammer:  
+__easy peasy__ :three::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-breeze__ :dart:  
 __eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
+__eat it up__  
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __echo chamber__  
 __educated guess__  
@@ -1369,6 +1371,7 @@ __elevator pitch__ :two: A short sales presentation for a product/service/person
 __Elvis has left the building__ :four: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __Elysian Fields__  
 __empty nester__ _n_ :two: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
+__en route__  
 __end (something) on a high note__ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ :two::hammer:  
 __end of one’s rope__  
@@ -1392,7 +1395,7 @@ __every man for himself__ :dart:
 __every other__ :three: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ :two: Every individual person or item within a group, without exception. _This is going to be the hardest game we’ve played all year, so I need every single one of you giving it everything you’ve got!_  
-__every so often__ _adv_ :six: Sometimes; occasionally. _Every so often she visits her father._ _Josh does stop by the store every so often, but I haven’t seen him lately._  
+__every so often__ _adv_ :seven: Sometimes; occasionally. _Every so often she visits her father._ _Josh does stop by the store every so often, but I haven’t seen him lately._  
 __everyone can find fault, few can do better__  
 __everything humanly possible__ Everything that is in the range of human powers. _The rescuers did everything humanly possible to find the lost campers._ _The doctor tried everything humanly possible to save the patient._  
 __everything under the sun__  
@@ -1401,10 +1404,11 @@ __exert (oneself)__ To make a concerted effort to do something. Put oneself to s
 __explore every avenue__ :two: To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __extra pair of hands__ :two::dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._ _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :three: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
-__eye-opening__ :two: Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
+__eye-opening__ :three: Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
 __eye-to-eye__ _You can get eye-to-eye with a dolphin._  
 __F-ing__  
 __face the music__ :two::hammer:  
+__face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
 __face value__ :two::hammer:  
 __factor in__  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
@@ -1447,9 +1451,9 @@ __fast-track__ __2__ _v_ To expedite or speed up some process. _The government a
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __faux pass__  
-__fear not__  
+__fear not__ :two: Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __fear of missing out__  
-__feast (up)on (something)__ To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
+__feast (up)on (something)__ :two: To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
 __feather your own nest__ To use your position or your job to get a lot of money for yourself.  
 __feed (someone) to the wolves__ :two: To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
 __feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
@@ -1485,7 +1489,7 @@ __finger-licking good__ Very tasty.
 __fingers crossed__ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
 __finish off__  
 __fire hose__ :two: A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
-__fire up__ __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._  
+__fire up__ :two: __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
 __fire-breathing__ :two: (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
 __fired up__ Excited; enthusiastic. _How can you be so fired up at this time of the morning?_  
 __firing both barrels all the time__ _You know your father: firing both barrels all the time._  
@@ -1519,18 +1523,19 @@ __floored__ :four: __1__ Shocked or flabbergasted. _I was completely floored by 
 __flop__ :two: __1__ A failure. _The play was a flop. The entire audience left during the second act._  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
 __flotsam and jetsam__  
-__fluff__ :dart: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
+__fluff__ :dart::two: /fləf/ __1__ _n_ Nonsense; irrelevant stuff; hype. _Cut out the fluff and talk straight._ __2__ _v_ To make an error; to do something incorrectly. _Todd fluffs his lines in the same place every night._  
 __fly by__ :two::hammer:  
 __fly in the face of someone or something__  
 __fly in the ointment__ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ To lose self control, to get very angry.  
 __fly on the wall__ :three::hammer:  
-__fly under (the/someone’s) radar__ To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
+__fly under (the/someone’s) radar__ :two: To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
 __foam at the mouth__ :two: To be extraordinarily angry. _She was almost foaming at the mouth when she heard about the cost of the car repairs._  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __follow (someone or something) in stride__ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone’s footsteps__ To do the same thing as someone else did previously.  
 __follow suit__ :seven: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
+__FOMO__ _slang_  
 __fond of (someone or something)__ Having an affinity for someone or something. _I’m not too fond of Mike—he really annoys me sometimes._  
 __food baby__ :four: A large amount of food in one’s stomach from having just eaten a big meal, especially when it is protruding (and thus resembles the belly of one who is pregnant). _Don’t take any pictures right now, my stomach is huge! I totally have a food baby!_  
 __food coma__ :three::hammer:  
@@ -1589,12 +1594,14 @@ __free-wheeling__ :two: Lacking restraint; flamboyant and uncontrolled. _His fre
 __freebooter__ _n_ A person who pillages and plunders, especially a pirate.  
 __frenemy__  
 __fresh legs__ In sports, one or more substitute players who have not yet participated in a given game or match, thus having more energy than the players they are replacing. _Their offense is completely wearing out our defense—it’s time to get some fresh legs on the field!_  
+__fresh out (of something)__  
 __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __fresh-faced__ :two: Of or having an appearance of health, vitality, and/or youthfulness. _After a good night’s sleep, he woke up fresh-faced and feeling like a million bucks._  
 __Freudian slip__ :two: Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
+__fricking__  
 __friend with benefits__  
 __Friendsgiving__ :two: A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
-__frigging__ :dart::two: _rude slang_ (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
+__frigging__ :dart::three: _rude slang_ (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from a mile away__ :two: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from A to Z__  
 __from bad to worse__  
@@ -1616,7 +1623,7 @@ __full of beans__ :two: To have a lot of energy.
 __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
-__full stop__ :three::hammer:  
+__full stop__ :four::hammer:  
 __fun and games__  
 __funky__ :two::hammer: _With that mix, things get funky._  
 __funny bone__ (crazy bone) A spot near the elbow bone that is very sensitive to the touch. _Ouch, I hit my funny bone._ _Effie bumped her crazy bone and made a horrendous face._  
@@ -1632,7 +1639,7 @@ __game over__ __2__ By extension, a phrase used to describe a situation that has
 __game plan__ :two::hammer:  
 __game-changer__ :five::hammer:  
 __gangbusters__ __1__ Successful. _Oh, presenting the case to the students was gangbusters—they got totally engrossed in trying to the solve the mystery._ __2__ A wild, busy, and successful event. (See also _like gangbusters_.) _Our party was truly gangbusters, for sure._  
-__garbage in, garbage out__  
+__garbage in, garbage out__ :two::hammer:  
 __gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
 __gas__ _v_ :two::hammer: _We’re here to gas on the show._  
 __gaslight__ :nine::m: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
@@ -1718,7 +1725,7 @@ __get the hang of (something)__ :two::hammer:
 __get the knack of__ :three: To learn how to do something competently or well after a certain period of practice or development. _Wow, you’re really getting the knack of playing piano!_  
 __get the sniffles__ To catch a cold, usually a minor one. _My daughter seems to have gotten the sniffles from someone at daycare._  
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
-__get this show on the road__ To promptly begin or get something started.  
+__get this show on the road__ :two: To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
 __get through to (someone or something)__ To make someone understand what you are trying to say.  
 __get to grips with (someone or something)__  
 __get to grips__  
@@ -1742,6 +1749,7 @@ __GI Joe__
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother’s Thanksgiving meal._  
 __gin up__ _He didn’t gin up the courage to tell her._  
+__give (one) a break__  
 __give (one) a call__ To call one on a phone or via another calling platform. _Let me give her a call and see what she thinks about all this._  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
@@ -1770,7 +1778,7 @@ __give someone the finger__
 __give someone the shaft__ _slang_ To cheat or deceive someone; to mistreat someone.  
 __give something/it a shot__ :two::hammer:  
 __give up on (someone or something)__ :two::hammer: _I am not going to give up on you. I am not going to let you give up on yourself._  
-__glad tidings__ Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.”  
+__glad tidings__ :dart::two: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glass over__ _Glassed-over eyes._  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
@@ -1796,6 +1804,7 @@ __go between__ One who serves as a messenger between two people or groups. In th
 __go cold turkey__  
 __go commando__  
 __go down in/make history__  
+__go down the rabbit hole__  
 __go downhill__ :two::hammer:  
 __go far__  
 __go figure__ :eight: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
@@ -1871,13 +1880,14 @@ __God’s green earth__ :two: The entire planet; anywhere and everywhere.
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
 __goes without saying__  
-__gold rush__ :three::hammer: _VCs scramble to cash in on AI gold rush._  
+__gold rush__ :four: __2__ By extension, a situation in which many people or groups enter a market due to a sudden abundance of or surge in demand for something. _The sudden ubiquity of smartphones led to a gold rush for app developers._ _VCs scramble to cash in on AI gold rush._  
 __golden boy__  
 __golden child__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
 __golden goose__ :four: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
 __golden handcuffs__ :two: /GOL-den hand-kuhfs/ A situation that is undesirable, unenjoyable, or unfulfilling but that provides enough financial security as to make one unwilling or unable to leave. Lucrative incentives (financial benefits) given to an employee under certain conditions to discourage them from leaving.  
-__golden ticket__ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
+__golden ticket__ :two: A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success. _My programming experience is going to be my golden ticket out of this one-horse town._  
+__golden touch__ The ability to earn a large amount of money or be very successful in any endeavor. From the Greek myth of King Midas, who was granted the ability to turn anything he touched into solid gold. _During the ’80s, he owned half of Las Vegas, but in recent years, he seems to have lost his golden touch._  
 __golden years__ The years following one’s retirement (generally after the age of 65).  
 __golf widow__ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __gomer__  
