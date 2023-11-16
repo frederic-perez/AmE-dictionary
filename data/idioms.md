@@ -2459,17 +2459,17 @@ __in the heat of (something)__ During a time of extreme action, emotion, or agit
 __in the hope that__ With the expectation, intention, or desire that (something will happen).  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
-__in the know__ :four::hammer:  
+__in the know__ :six::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
-__in the least__ _Apparently you didn’t understand me in the least._  
+__in the least__ :two::hammer: _Apparently you didn’t understand me in the least._  
 __in the long run__ :two: Over a relatively long or extended length of time in the future.  
 __in the long term__  
-__in the loop__ :two::hammer:  
+__in the loop__ :three::hammer:  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
-__in the making__ :two::hammer:  
+__in the making__ :four::hammer:  
 __in the middle of nowhere__ :three: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
-__in the midst of (something)__ :two::hammer:  
+__in the midst of (something)__ :three::hammer:  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
@@ -2479,6 +2479,7 @@ __in the pocket of (someone)__ Under the direct control or influence of someone 
 __in the public eye__  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
 __in the short run__ Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
+__in the short/medium/long term__ During a short/medium/long period of time in the future.  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __in the thick of it/(something)__ :nine::m: [:sound: in the thick of it] Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the thick of things__ Very busy; in the middle of or preoccupied with something or several things. _Sorry I couldn’t make it to your birthday lunch on Wednesday—I’m afraid I’m really in the thick of things at the moment._  
@@ -2518,7 +2519,7 @@ __it is not a competition__
 __it is what it is__ :dart::six: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it remains to be seen__ :two: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
-__it takes a village__ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
+__it takes a village__ :three: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :three::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
@@ -3053,7 +3054,7 @@ __mixed bag__ :five::hammer:
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed feelings__ :two::hammer:  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
-__mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
+__mm-hmm__ :two: _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __mom-and-pop__  
 __Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
 __Monday morning quarterback__  
@@ -3081,25 +3082,31 @@ __mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low 
 __mouth-breather__ _n_ A stupid-acting person. _I always end up with a mouth-breather on a blind date._  
 __mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  
 __mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or description, especially as makes one’s mouth salivate. _I can’t wait to eat—those steaks you’re cooking smell mouth-watering!_  
+__move (one) to tears__  
 __move heaven and earth__ To do everything that one can to make something happen.  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
-__move the needle__ :three::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
+__move the needle__ :four::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
-__movers and shakers__ :dart: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
+__movers and shakers__ :dart::two: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
+__Mr. Right__  
 __much ado about nothing__  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muckamuck__  
+__mud shark__ _US black_ A white man or woman who prefers black partners.  
 __muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
+__mug__ _Getting your mug on TV._  
 __mull over__ :two::dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
 __muscle memory__  
 __mush (something) up__ To mash or crush something into a thick, soft pulp. _Make sure you mush up that banana before you give it to Katie—she’s still having trouble chewing solid food._  
 __mushhead__ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
+__my ass!__ Used to indicate that what has just been said is nonsense.  
 __my hands are tied__ You are not free to behave in the way that you would like for some reason.  
 __my lucky star__  
 __my spidey-sense is tingling__  
+__nah__  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
 __name names__ :four::hammer: _I will not go naming names here._  
@@ -3120,12 +3127,14 @@ __nerd out__ :two::hammer:
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __nervy__ :astonished: Daring or fearless; courageous. Primarily heard in US. _You’ve got to be pretty nervy to jump out of a plane and trust a little backpack to save your life._  
 __never a rose without a/the prick__ _proverb_ There is rarely a good or positive thing, event, or circumstance that is not accompanied by something negative or unpleasant (i.e., just as a rose has thorns). _A: “I can’t believe the amount of taxes I have to pay on my lottery winnings!” B: “Never a rose without the prick, eh?”_  
+__never say never__ Do not say that something is impossible, that it will never happen, or that you will never do it, because anything is possible. The term first appeared in Charles Dickens’ novel _The Pickwick Papers._ _A: “I’ll never be good enough to make the team.” B: “Never say never. Just keep practicing and see what happens.”_  
 __new blood__  
 __new car smell__ The scent associated with the inside of a brand new vehicle, caused by the plastics and other materials inside it. _Boy, I love that new car smell, don’t you?_  
 __new kid on the block__ Someone who is new in a place or organization.  
 __new normal__ A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
 __next in line__  
 __next to nothing__ Almost nothing; a very small amount.  
+__next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
 __NGL__ _slang_ An initialism of “not gonna (going to) lie,” used in text messages and online communications to indicate one’s honest opinion about something, especially when that opinion may be unpopular, unexpected, or unfavorable. _Ugh, I’ve been so bored this whole break! NGL, I’m kinda ready for school to start again._  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
@@ -3141,24 +3150,25 @@ __nitpicking__ An act or instance of pointing out or complaining about every fla
 __nitty-gritty__  
 __nix__  
 __no big deal__ :dart::three::hammer: _No big deal, but it looked sloppy._  
-__no biggie__  
+__no biggie__ :dart::two: (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
 __no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
 __no cigar__  
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__ :two::hammer:  
 __no doubt__  
-__no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
+__no good deed goes unpunished__ :three: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__ :two::hammer:  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no kidding__  
 __no less than__ :dart:  
 __no longer__  
 __no matter how you slice it__ :two: Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
-__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
+__no nonsense__ _adj_ :two: Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
 __no picnic__ _This is no picnic._  
 __no pressure__ Said ironically to emphasize that what is being discussed carries a large amount of importance or makes one feel that one must try very hard to succeed. _A: “I don’t want you to feel intimidated, but this employee review will have a huge bearing on whether or not you’re kept on at the end of the year.” B: “Wow, no pressure or anything!”_  
+__no probs__  
 __no small thing__  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no spring chicken__ :two: No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
@@ -3171,7 +3181,10 @@ __no-brainer__ A very easy or obvious choice, decision, or solution. (So easy or
 __no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-barred relationship._  
 __no-no__  
 __nod off__ :dart:  
+__non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
+__north of (some number)__ Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._  
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
+__nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __nosh__  
 __not (one’s) first rodeo__ :three: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
 __not a big deal__ It is often used to indicate that a problem or situation is minor and does not require excessive concern or attention. The phrase can also be used to minimize the impact of a negative event or to reassure someone that everything is fine. It can also be used to express nonchalance or indifference to a situation or event.  
@@ -3182,6 +3195,7 @@ __not a problem__ :two: _informal_ __1__ Used to say that one is happy to do som
 __not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that things ended this way, but I hope there aren’t any hard feelings._  
 __not as black as you are painted__ _informal_ If someone is not as black as they are painted, they are not as bad as people generally consider them to be. _“I’m really not as black as I’m painted,” he said pointedly._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I hope all our efforts to help your career have not been lost on you, John._  
+__not buy (something)__ To not accept or believe something as the truth. _My brother says that his latest scheme will make millions, but I’m not buying it._  
 __not by any means__ Not in any way; not at all; absolutely not.  
 __not cut it__ If you say that _someone cannot cut it_ or _does not cut it_, you mean that they are not talented or ambitious enough to succeed in a particular job. _We’re in a real mess now Johnny’s gone. Lorenzo’s been doing the vocals, but he just can’t cut it._ _It’s a very tough work environment. If you don’t cut it then you’re out._  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
@@ -3212,6 +3226,7 @@ __not to give a shit (about something)__ _rude_ _slang_ To not care in the sligh
 __not to mention__ :three::hammer:  
 __not to say__  
 __not utter a word__ To be completely silent; to remain discreet (about something); to not tell anyone (about something). _All the while our father was shouting at us, my sister and I didn’t utter a word._  
+__not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
 __notch up__  
 __note to self__ :three::hammer:  

@@ -160,33 +160,6 @@ __in harm’s way__
 __in the cards__  
 __in the hope of__  
 __in the hot seat__  
-__in the know__ :two::hammer:  
-__in the least__  
-__in the loop__  
-__in the making__ :two::hammer:  
-__in the midst__  
-__in the short/medium/long term__ During a short/medium/long period of time in the future.  
-__it takes a village__  
-__mm-hmm__  
-__move (one) to tears__  
-__move the needle__  
-__movers and shakers__ People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime. Who are the movers and shakers around here?_  
-__Mr. Right__  
-__mud shark__ _US black_ A white man or woman who prefers black partners.  
-__mug__ _Getting your mug on TV._  
-__my ass!__ Used to indicate that what has just been said is nonsense.  
-__nah__  
-__never say never__ Do not say that something is impossible, that it will never happen, or that you will never do it, because anything is possible. The term first appeared in Charles Dickens’ novel _The Pickwick Papers._ _A: “I’ll never be good enough to make the team.” B: “Never say never. Just keep practicing and see what happens.”_  
-__next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
-__no biggie__ (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
-__no good deed goes unpunished__  
-__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._  
-__no probs__  
-__non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
-__north of (some number)__ Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._  
-__nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
-__not buy (something)__ To not accept or believe something as the truth. _My brother says that his latest scheme will make millions, but I’m not buying it._  
-__not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
 __of late__  
