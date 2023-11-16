@@ -8068,12 +8068,13 @@ __hamlet__ _n_ :five::hammer:
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper<sup>1</sup>__ _n_ :three::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
-__hamper<sup>2</sup>__ _v_ :astonished::six::hammer: (hampered)  
+__hamper<sup>2</sup>__ _v tr_ :astonished::eight::hammer:  
 __Hamsa__ _n_  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
 __hamstring<sup>1</sup>__ _n_ :five::hammer: /ˈhæmˌstrɪŋ/ [:scroll: From ham (the back of the knee) + string (tendon)]  
 __hamstring<sup>2</sup>__ _v tr_ :three: __2__ To destroy or hinder the efficiency of; frustrate. _A safe pair of hands hamstrung by political will._  
 __hand blender__ _n_  
+__hand-crafted__ _adj_  
 __hand-pick__ _v_ :two::hammer:  
 __handcuff__ _v_ _It is handcuffed by lack of funds._  
 __handglider__  
@@ -8096,6 +8097,7 @@ __hands-on__ _adj_ :three::hammer: _A hands-on implementation strategy._ _A hand
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
 __handset__ _n_  
 __handsome__ _adj_ :mute:[han~~d~~some]  
+__handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
 __handspring__ _n_ An acrobatic feat in which one starts from a standing position and wheels the body forward or backward in a complete circle, landing first on the hands and then on the feet, without contact by the rest of the body.  
 __handstand__ _n_ An act or instance of supporting the body in a vertical position by balancing on the palms of the hands.  
 __handsy__ _adj_ Prone to touching other people with one’s hands, especially inappropriately.  
@@ -8108,7 +8110,7 @@ __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coa
 __hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :four: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
 __hangover__ _n_ _A new pill touted as the end of hangovers sold out less than 24 hours after it was released_ :es: resaca  
-__Hangul__ _n_ /häng′go͞ol/ The alphabetic system of writing used in Korea, invented in the 1400s.  
+__Hangul__ _n_ :two: /häng′go͞ol/ (hangul) The alphabetic system of writing used in Korea, invented in the 1400s.  
 __hank__ _n_ :four::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ _n_ :five: (hankerings) Craving.  
@@ -8185,7 +8187,7 @@ __harry__ _v_ :nine: (harried) __1__ To make a destructive raid on (enemy territ
 __harshest__  
 __harvest__ _v_ _Fish oil from harvested fish._  
 __has-been__ _n_ :two: One that is no longer famous, popular, successful, or useful.  
-__hash browns__ _n pl_ :three: Chopped cooked potatoes, fried until brown. Also called _hash brown potatoes._  
+__hash browns__ _n pl_ :four: Chopped cooked potatoes, fried until brown. _Syn_ brown potatoes, hash brown potatoes  
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
 __hashish__ _n_ :two::hammer: (hasheesh)  
@@ -8350,7 +8352,7 @@ __hegira__ _n_
 __heifer__ _n_ :two: A young cow that has not given birth to a calf.  
 __height__ _n_ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :five::hammer: _A heightened awareness of problems._  
-__heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
+__heinous__ _adj_ :six: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ _n_ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
@@ -8381,6 +8383,7 @@ __helter-skelter__ _adv_ :three: In headlong and disorderly haste. _Syn_ wildly,
 __hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hem<sup>2</sup>__ _v_  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
+__hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
 __hemicycle__ _n_  
 __hemidemisemiquaver__ _n_  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
@@ -8408,7 +8411,7 @@ __heresy__ _n_ :three::hammer:
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretical__  
-__heretofore__ _adv_ :two::hammer:  
+__heretofore__ _adv_ :three::hammer:  
 __heriot__ _n_  
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
@@ -8429,13 +8432,15 @@ __heterodox__ _adj_ /HET-uh-ruh-dahks/
 __heterogeneous__ _adj_  
 __hew__ _v_ :nine::m: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._ _A hand-hewn cave._  
 __hex key__ _n_ Allen key. _Hex key set._  
-__hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
-__hex<sup>2</sup>__ _v_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
+__hex sign__ _n_ _She made the hex sign._  
+__hex<sup>1</sup>__ _n_ :dart::three: __1__ An evil spell; a curse. _Looking for a hex-breaking sign._ __2__ One that brings bad luck.  
+__hex<sup>2</sup>__ _v tr_ :two: __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hey__  
 __heyday__ _n_ :nine: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
 __hiatus__ _n_ /hye-AY-tus/ __1__ A period of time when something, such as an activity or program, is suspended. _The band has been on hiatus for three years, but is returning to live performance this summer._ __2__ In biology, hiatus refers to a gap or passage in an anatomical part or organ. __3__ In linguistics, it denotes the occurrence of two vowel sounds without pause or intervening consonantal sound.  
 __hibachi__ _n_ :three::hammer: _Original hibachi cooking._  
+__hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
@@ -8462,15 +8467,18 @@ __high__ _adj, adv, n_ :mute:[hi~~gh~~]
 __high-and-mighty__ _adj_ Offensively self-assured or given to exercising usually unwarranted power. _Syn_ autocratic, bossy, peremptory, magisterial, dominating  
 __high-end__ _adj_  
 __high-fly__ _v_  
+__high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
 __high-rise<sup>1</sup>__ _adj_  
 __high-rise<sup>2</sup>__ _n_ :two::hammer: (high rise) _The building was a showy high-rise._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
-__highball__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
+__highball<sup>1</sup>__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
+__highball<sup>2</sup>__ _v_ _To decide whether to lowball or highball an offer._  
 __highfalutin__ _adj informal_ :three: /ˌhaɪfəˈluːtɪn/ (hifalutin; highfaluting) Pompous or pretentious.  
 __highlands__  
-__highlight__ _v_ :two::hammer:  
+__highlight<sup>1</sup>__ _n_ :es: punto culminante  
+__highlight<sup>2</sup>__ _v_ :two::hammer:  
 __highly__ _adv_ _I highly recommend it._  
 __hightail__ _v intr_ [:scroll: From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.] To move quickly, especially in retreat or in fleeing.  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
@@ -8485,7 +8493,7 @@ __hillbilly__ _n_ :two::hammer:
 __hillock__ _n_ :two: A small natural hill. _Syn_ knoll, mound, hammock  
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
-__hinder__ _v_ :three::hammer:  
+__hinder__ _v_ :four::hammer:  
 __hindsight__ _n_ :three: The opportunity to judge or understand past events using knowledge that you have gained since then. _Hindsight is not the best method of testing a design._  
 __hinge__ _v_  
 __hinky__ _adj_ :two::hammer: _Why this hinky feeling?_  
@@ -8700,7 +8708,7 @@ __hospice care__ _n_
 __hospice__  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
 __host__ _n_ :six::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A whole host of consequences._  
-__hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
+__hostage__ _n_ :two::mega::hammer: /ˈhɒs tɪdʒ/  
 __hostas__ _n_  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
@@ -8784,6 +8792,7 @@ __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my co
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
+__human shield__  
 __humanist__  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
@@ -8866,7 +8875,9 @@ __hyperopia__ _n_
 __hyperpnea__ _n_ Abnormally deep breathing.  
 __hypertensive__ _adj, n_ _To be hypertensive._  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
+__hyphen__ _n_  
 __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
+__hypochondriac__  
 __hypocorism__ _n_ :two: A pet name, esp one using a diminutive affix. A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_ _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__  
 __hypocrite__  
@@ -8879,6 +8890,7 @@ __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such
 __hypotensive__  
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
+__hypothyroidism__ _n_  
 __hysterectomy__ _n_ :two: Surgical removal of part or all of the uterus.  
 __hysteresis__ _n_  
 __hysteria__  
@@ -8886,6 +8898,7 @@ __hysteric__
 __hysterical__ _adj_ :three::hammer:  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __iatrogenic__ _adj_ :three: Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
+__ibex__ _n_  
 __Ibuprofen__  
 __ice cream cone__  
 __ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  
@@ -8982,7 +8995,7 @@ __impeccable__ _adj_ :eight::pencil2: __1__ Free from fault or blame. _Syn_ flaw
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
-__impediment__ _n_ :two::hammer:  
+__impediment__ _n_ :three::hammer:  
 __impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede or encumber.  
 __impel__ _v tr_ :three: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
@@ -9067,7 +9080,7 @@ __incentivize__ _v tr_ :three::hammer: /ɪnˈsɛn tɪˌvaɪz/
 __inception__ _n_ :three::hammer:  
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
-__inch__ _v_ :four::hammer: (inching) _They’ll just inch their way down the field._  
+__inch__ _v_ :five::hammer: (inching) _They’ll just inch their way down the field._ _Inch closer._  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __inchoate__ _adj_ :three: /in-KOH-ut/ Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
 __inchworm__ _n_  

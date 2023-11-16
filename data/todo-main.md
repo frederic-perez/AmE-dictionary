@@ -138,32 +138,6 @@ __gullible__ _adj_ /GULL-uh-bul/
 __hacktivist__ _n_  
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
-__hamper__ _v tr_ :two::hammer:  
-__hand-crafted__ _adj_  
-__handsomely__ _adv_ __2__ In a generously handsome manner. _India has responded handsomely by providing 3,000 men._  
-__hangul__ _n_ The alphabetic system of writing used in Korea, invented in the 1400s.  
-__hash browns__ _n pl_ Chopped cooked potatoes, fried until brown. _Syn_ brown potatoes  
-__heinous__ _adj_  
-__hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
-__herald__ _v tr_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
-__heretofore__  
-__hex sign__ _n_ _She made the hex sign._  
-__hex__ _n_ __1__ An evil spell; a curse. __2__ One that brings bad luck.  
-__hex<sup>1</sup>__ _n_ :dart: __1__ An evil spell; a curse. __2__ One that brings bad luck.  
-__hex<sup>2</sup>__ _v tr_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
-__hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
-__high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
-__highball__ _v_ _To decide whether to lowball or highball an offer._  
-__highlight__ _n_ :es: punto culminante  
-__hinder__ _v_  
-__hostage__ _n_ :mega: /ˈhɒs tɪdʒ/  
-__human shield__  
-__hyphen__ _n_  
-__hypochondriac__  
-__hypothyroidism__ _n_  
-__ibex__ _n_  
-__impediment__ _n_  
-__inch__ _v_ _Inch closer._  
 __inculcate__ _v_ /in-KUL-kayt/  
 __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
 __kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
