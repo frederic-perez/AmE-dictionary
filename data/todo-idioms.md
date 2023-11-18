@@ -18,31 +18,6 @@ __at a moment’s notice__ :dart: With little time to prepare; immediately and a
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
-__be on the lookout__ :two: To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
-__be square (with one)__  
-__between a rock and a hard place__  
-__boom__ _n_ __1__ _nautical_ A spar to which a sail is fastened to control its position relative to the wind.  
-__bread and butter__  
-__break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
-__break free__  
-__broken record__  
-__brood about (someone or something)__ To worry, fret, or obsess over someone or something.  
-__by and large__  
-__call upon (someone or something)__  
-__carve out__ _New options help you carve out downtime between meetings._  
-__case in point__  
-__cat-and-mouse game__  
-__catch (one’s) breath__  
-__close a/the deal__  
-__cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
-__clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
-__come to an end__  
-__come to grips with (someone or something)__  
-__come to the fore__  
-__connect the dots__  
-__crack the code__  
-__cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
-__cross someone__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  

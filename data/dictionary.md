@@ -1954,7 +1954,7 @@ __bookworm__ _n_ :two: Someone who enjoys reading books and spends a lot of time
 __boolean__ _n_ :mega:  
 __boom and bust__  
 __boom box__  
-__boom__ _n_ :four::hammer: _Cargo booms._ _Log boom._  
+__boom__ _n_ :six::hammer: _Cargo booms._ _Log boom._ __1__ _nautical_ A spar to which a sail is fastened to control its position relative to the wind.  
 __boomer chains__  
 __boomerang effect__  
 __boomtown__ _n_ :two: A town experiencing an economic or a population boom.  

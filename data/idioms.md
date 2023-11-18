@@ -551,7 +551,7 @@ __be on a roll__
 __be on course__ :dart: __1__ Literally, to be moving in the correct direction or toward the intended destination. _Could you check the map? I want to be sure we’re still on course._ __2__ By extension, to continue making progress according to the intended or ideal plan. _If sales remain strong, we’ll be on course to have our most successful year to date!_  
 __be on edge__ :two::hammer:  
 __be on the fence (about something)__  
-__be on the lookout__ :two::hammer:  
+__be on the lookout__ :four: To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
 __be on the same page__ :two::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be on vacation__ _During January and February the trolleys are on vacation._  
@@ -570,7 +570,7 @@ __be sitting pretty__ To be in an ideal living situation (typically because one 
 __be smashed to smithereens__ To be broken apart or otherwise destroyed into tiny, fragmentary pieces. _I wish I could still go visit our old family home, but it’s already been smashed to smithereens by the demolition crew._  
 __be sold on (something)__ To be confident in or convinced about something’s viability, veracity, etc., often to the point of being enthusiastically supportive of it. _I don’t know, this plan still sounds pretty risky to me—I’m not sold on it yet._  
 __be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
-__be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
+__be square (with one)__ :two: To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
 __be stoked__ _slang_ :two: To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
 __be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
@@ -632,7 +632,7 @@ __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is c
 __better (to be) safe than sorry__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __better the devil you know__  
-__between a rock and a hard place__  
+__between a rock and a hard place__ :two::hammer:  
 __between dog and wolf__ Between dusk and daylight. _What were you guys doing out between dog and wolf? You better not have been getting into trouble last night!_  
 __beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
 __beyond measure__ :three::hammer:  
@@ -706,7 +706,7 @@ __bonus points__
 __boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Don’t stress yourself._ __2__ A hurt; a cut; a bruise. _She has a little boo-boo on her knee._  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
-__boom__  
+__boom__ An exclamation used in conjunction with a decisive or impressive statement or action. _Boom! You can’t argue with that logic._  
 __bop__ _v_ :four::hammer: (bopped)  
 __bored to tears__ :three: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
@@ -733,10 +733,12 @@ __brainwave__ :two: A sudden idea or moment of inspiration; a brainstorm. _I had
 __brass monkeys__ Very cold weather.  
 __brazen it out__ To face a difficult, uncertain, or intimidating situation with brave or impudent self-confidence. _I’m terrified to give this presentation, but I just have to brazen it out and hope for the best._  
 __breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
+__bread and butter__  
 __break a leg__ _interj_ :four: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
 __break a sweat__ :two: Use a lot of physical effort: _He hardly needed to break sweat to reach the final._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
-__break free__ :two: __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
+__break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
+__break free__ :three: __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
 __break into__  
 __break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
@@ -770,8 +772,9 @@ __bring the house down__ :two: __1__ Literally, to raze or demolish a house so t
 __bring to an end__  
 __bristle with something__ _phr v_ :nine::m: [:sound: bristled with] (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __broad (brush) strokes__  
-__broken record__ :dart::three: A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly. _I feel like a broken record having to tell you this each day, but please clean your room!_  
+__broken record__ :dart::four: A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly. _I feel like a broken record having to tell you this each day, but please clean your room!_  
 __bromance__ _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
+__brood about (someone or something)__ To worry, fret, or obsess over someone or something.  
 __brood over__ :two: To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
@@ -832,7 +835,7 @@ __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I 
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means__  
 __by and by__  
-__by and large__ :two::hammer:  
+__by and large__ :three::hammer:  
 __by any chance__ :dart::two: Used as a polite emphasis to a request or question. Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_ _Would you by any chance happen to know where the subway is from here?_  
 __by any means__  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
@@ -868,7 +871,7 @@ __call something out__
 __call the shots__ :two::hammer:  
 __call to action__ :four::hammer:  
 __call up__ _He called up a text from his brother, who asked how the run went._  
-__call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
+__call upon (someone or something)__ :two::hammer: _It’s nice when they call upon you and you’re able to go out there and show them._  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
 __can do without (something)__  
@@ -898,9 +901,9 @@ __carry (someone) off their feet__ To completely overwhelm someone with enthusia
 __carry a torch for__  
 __carry the ball__ :two: To be in charge.  
 __carry the day__ To win, to be successful.  
-__carve out__ :three::hammer:  
+__carve out__ :four::hammer: _New options help you carve out downtime between meetings._  
 __case closed__ :two::hammer:  
-__case in point__ :six: A specific example of what one is talking about. An example that demonstrates a point being made as truthful or correct. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__case in point__ :seven: A specific example of what one is talking about. An example that demonstrates a point being made as truthful or correct. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
@@ -915,11 +918,11 @@ __cat and mouse__
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat__ __2__ _n_ _dated_ _slang_ A man. _A: “You ever hear of Tom Michelson?” B: “The cat who runs the Double Dice bar over on Santa Monica? Yeah, I’ve heard of him.”_  
-__cat-and-mouse game__  
+__cat-and-mouse game__ :two::hammer:  
 __cat’s pajamas__ Something or someone highly enjoyable, desirable, or impressive, especially in a fancy or elaborate way. _Tom’s new Cadillac is really the cat’s pajamas!_  
 __cat’s-paw__ A person who is used by another to achieve some end, especially in a duplicitous or cynical manner. Taken from a fable about a monkey who tricks a cat into using his a paw to retrieve chestnuts from a fire. The phrase is sometimes spelled without a hyphen. _I thought that Jake really loved me, but in the end, I was just a cat’s-paw so he could stir up jealousy in his ex-boyfriend._  
 __catch (on) fire__ To begin to burn, usually after being touched by an existing fire. _Hey, keep an eye on that pan, I don’t want our dinner to catch on fire._  
-__catch (one’s) breath__ :two::hammer:  
+__catch (one’s) breath__ :three::hammer:  
 __catch (one’s) eye__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
 __catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
@@ -1010,6 +1013,7 @@ __click with (one)__ __1__ To have a positive connection or friendly rapport wit
 __clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
 __clincher__ :two: The final element; the straw that broke the camel’s back.  
 __clock in__ _Today’s piece clocks in at 728 words._  
+__close a/the deal__  
 __close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
 __close call__ _n_ :three::hammer:  
 __close in__  
@@ -1018,9 +1022,10 @@ __close up shop__
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __closed-minded__ :dart:  
 __cloud nine__ :dart::two: A state of extreme happiness. Typically appears in the phrase “on cloud nine.” _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
-__cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
+__cloud of suspicion__ :two: A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __cloud the issue__ :two: To obfuscate or distract from the topic at hand by introducing irrelevant or misleading information. _Politicians are always clouding the issue during debates by pointing out their opponents’ history in other issues._  
 __clout list__ :two: A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process. _Even though he didn’t do well in school, his father’s connections to state senators and local politicians enabled him to be put on the university’s clout list, and he eventually gained admission._  
+__clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to once-salacious but now relatively common things, events, situations, etc. _Parents should try not to clutch the pearls every time their teenagers come out of their room dressed outrageously—it only makes them want to push the envelope even further._  
 __coast along__ :two: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._  
 __cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
@@ -1056,11 +1061,13 @@ __come to a close__ _The fifty-year reign of incessant warring was coming to a c
 __come to a halt__  
 __come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
+__come to an end__  
 __come to fruition__ :three: To successfully be brought into existence or to completion.  
-__come to grips with (someone or something)__  
+__come to grips with (someone or something)__ :two::hammer:  
 __come to grips__ :two::hammer:  
 __come to terms with (someone or something)__ :eight: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
+__come to the fore__  
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
 __come-one-come-all__  
@@ -1075,7 +1082,7 @@ __compel (someone) to (do something)__ To force someone to do something; to driv
 __competitive edge__ :two: Some aspect, factor, or strategy that gives a person, team, company, etc., an advantage over others.  
 __concrete jungle__ :two: An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
 __confide in (one)__  
-__connect the dots__ :two::hammer:  
+__connect the dots__ :three::hammer:  
 __connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :three: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
@@ -1111,7 +1118,9 @@ __crack down (on someone or something)__ :two: To put limits on someone or somet
 __crack down__ _France is cracking down on shady influencers._  
 __crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
+__crack the code__  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
+__cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
 __cram in__  
 __crank up__  
 __crap out__ __4__ _rude slang_ To die. _I felt so sick when I had food poisoning that I thought I was going to crap out._  
@@ -1132,6 +1141,7 @@ __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and 
 __cross my heart (and hope to die)__ A vow that one is being truthful. _Billy’s the one who broke the cookie jar—cross my heart and hope to die!_  
 __cross one’s mind__ _It never crossed my mind._  
 __cross paths__  
+__cross someone__  
 __cross swords__ :two: To fight or argue. _They had crossed swords many times._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
