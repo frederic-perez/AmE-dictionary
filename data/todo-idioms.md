@@ -5,20 +5,27 @@ __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_
 __(good) heavens__  
 __(I) hope not__  
 __(I) told you (so)__  
+__(it) takes one to know one__  
 __(kill) the golden goose__  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
 __a walk in the park__  
+__adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
 __allude to (something)__  
 __as long as__  
+__at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
+__bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
+__be on the lookout__ :two: To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
 __be square (with one)__  
 __between a rock and a hard place__  
 __boom__ _n_ __1__ _nautical_ A spar to which a sail is fastened to control its position relative to the wind.  
+__bread and butter__  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
 __break free__  
+__broken record__  
 __brood about (someone or something)__ To worry, fret, or obsess over someone or something.  
 __by and large__  
 __call upon (someone or something)__  
@@ -31,6 +38,7 @@ __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegal
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __come to an end__  
 __come to grips with (someone or something)__  
+__come to the fore__  
 __connect the dots__  
 __crack the code__  
 __cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
@@ -47,6 +55,7 @@ __day in and day out__
 __days on end__  
 __dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
 __delve into (something)__ To study something thoroughly.  
+__dig in (one’s) heels__ To cling stubbornly to one’s beliefs or wishes.  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
 __dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
@@ -156,16 +165,24 @@ __human touch__ __2__ The ability to treat other people with warmth and empathy.
 __I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
 __in a lifetime__  
 __in a similar vein__  
+__in and of itself__ By itself, without considering any other factors. _Reading is wonderful in and of itself._  
 __in harm’s way__  
 __in the cards__  
 __in the hope of__  
 __in the hot seat__  
+__keep (someone or something) in check__ To limit or restrain someone or something.  
+__lip service__ The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
+__microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
+__nerve-wracking__ Causing fear or anxiety.  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on a roll__  
+__on point__  
 __on the horizon__  
+__pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
+__peeps__  
 __play with fire__  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
@@ -208,6 +225,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__rumor mill__  
 __screw up__  
 __scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
@@ -215,6 +233,7 @@ __shill__ __1__ _n_ Someone who promotes or endorses some product, service, even
 __show, don’t tell__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
+__simply put__ In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
 __sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
 __slowly but surely__ At a slow or incremental pace but making steady, dependable progress.  
 __smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
@@ -240,6 +259,7 @@ __take (one’s) word for it__ To accept what one says without further verifying
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __talk is cheap__ _prov_ It is very easy to talk about what one is going to do or what the correct course of action is, but it is much harder one actually puts those words into action. (Saying this in response to someone who promises you something implies that you do not believe that person will keep the promise.)  
 __teem with (someone or something)__  
+__tell me about it__  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __test the waters__  
 __thang__ A facetious or slang form of _thing._  
@@ -271,8 +291,10 @@ __the old gray mare ain’t what she used to be__
 __the powers that be__  
 __the proof is in the pudding__ :dart: The final results of something are the only way to judge its quality or veracity.  
 __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
+__the right call__  
 __the rubber meets the road__ Someone’s or something’s efforts, resolve, or viability are put to the test; things become truly or meaningfully challenging. Used especially after the words “where” or “when.”  
 __the sky is the limit__  
+__the sky’s the limit__  
 __the tip of the iceberg__  
 __then again__  
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
@@ -284,9 +306,11 @@ __throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another w
 __Tinseltown__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __to a T__  
+__to death__ __1__ Literally, fatally. _The autopsy shows that the victim was stabbed to death._ __2__ To an excessive, extreme, or intolerable degree. _I feel like we’ve discussed this topic to death—let’s move on._  
 __to name (but) a few__  
 __to this day__  
 __tone deaf__  
+__tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __toot (one’s) own horn__ To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
@@ -350,6 +374,7 @@ __wherever you go, there you are__
 __whip out__  
 __whistleblower__  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
+__who’s who__ __2__ A gathering of the most famous, important, or influential individuals in a larger group, field, or profession. _The gala event is shaping up to be a who’s who of the film industry._  
 __whoopsie-daisy__  
 __wild goose chase__  
 __wild ride__  
