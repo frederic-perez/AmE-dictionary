@@ -15248,15 +15248,16 @@ __saint<sup>2</sup>__ _v tr_ (sainted) _The chef should be sainted._
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __sakura__  
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
-__salacious__ _adj_ :four::hammer: _Salacious music._  
+__salacious__ _adj_ :six::hammer: _Salacious music._  
+__salacities__ _n_  
 __salad spinner__ _n_  
 __salamander__ _n_  
 __salchow__ _n_ /săl′kou′/ [:scroll: After Ulrich Salchow (1877-1949), Swedish figure skater.] A move in figure skating in which the skater, while skating backwards, jumps from the back inside edge of one skate, completes a full rotation, and lands on the back outside edge of the other skate.  
 __sales force__  
 __salesperson__ _n_ :two::hammer:  
-__salient__ _adj_ :six: /SAIL-yunt/ Strikingly conspicuous. _Syn_ prominent, outstanding, striking, spectacular _That is a salient fact._  
+__salient__ _adj_ :eight: /SAIL-yunt/ Strikingly conspicuous. _Syn_ prominent, outstanding, striking, spectacular _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :eight: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
+__sallow__ _adj_ :nine: /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._ _She returned from her sick leave still looking a bit sallow._  
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
@@ -15266,20 +15267,28 @@ __saltines__ _n_
 __salty__  
 __salubrious__ _adj_ Conducive or favorable to health or well-being.  
 __saludatorian__ _n_ The student with the second highest academic rank in a class who delivers the salutatory at graduation exercises.  
-__salutary__  
+__saludatory__  
+__salutary__ _adj_ :two::hammer: _Salutary effects._  
 __salute<sup>1</sup>__ _n_  
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __salvage__ _adj_  
 __Salvation Army__ _n_ :two: A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __salve__ _n_ :five: (salves) __1__ _(Medicine)_ An ointment for wounds, sores, etc. _Karim’s skin needed the yellow salve._ _Salves, poultices, and plasters._ __2__ Anything that heals or soothes.  
-__salvo__ _n_ :six::hammer: (salvos) _A full salvo of torpedoes._ _Joe fired the first salvo._  
+__salvo__ _n_ :seven::hammer: /SAL-voh/ _A full salvo of torpedoes._ _Joe fired the first salvo._  
 __Sam Browne belt__  
+__samara__ _n_  
 __Samaritan__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
 __samey__ _adj_ /seɪmi/ If you describe a set of things as samey, you mean that they are all very similar, and it would be more interesting if they were different from each other. _He has written a batch of very samey tunes._  
 __samizdat__ _n_ A system of clandestine printing and distribution of dissident or banned literature. _Syn_ underground press  
+__sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __samosas__  
 __samovar__ _n_  
+__Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
+__samurai__ _n_ :mega:  
+__San Diegans__ _n_  
+__sanctimonious__  
+__sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
 __sanctuary<sup>1</sup>__ _n_  
 __sanctuary<sup>2</sup>__ _adj_ :two: Relating to or being a locality that provides limited cooperation to federal officials in the enforcement of immigration laws or policies. _Mayor Rahm Emanuel of Chicago has declared that it “will always be a sanctuary city.”_  
 __sand spits__  
@@ -15287,8 +15296,9 @@ __sand<sup>1</sup>__ _n_ _You got sand._
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
 __sandbag<sup>1</sup>__ _n_ :two::hammer: (sandbags)  
 __sandbag<sup>2</sup>__ _v_ /SAND-bag/ When used figuratively, sandbag usually means “to hit or stun as if with a sandbag,” “to criticize or treat unfairly” or “to hide one’s true abilities or purpose in order to deceive people, gain an advantage, etc.” _She felt sandbagged by some of the feedback in the writing workshop, but resolved to take what was useful and ignore the rest._ _He claimed he was playing badly because of an injury, but I think he was sandbagging us._  
+__sandbox__ _n_  
 __sandboy__ _n_ /SAND-boi/ __1__ A very happy person. __2__ One who deals in sand.  
-__sandcastle__ _n_ :pencil2:  
+__sandcastle__ _n_ :two::pencil2::hammer: _Have a sandcastle building competition._  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
 __sandpaper__ _n_  
 __sandpits__ _n_  
@@ -15297,6 +15307,7 @@ __sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]
 __sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
 __sandy__ _adj_ :two: __3__ Of the color of sand; light yellowish brown. _Sandy hair; sandy-haired._  
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
+__sangria__ _n_  
 __sanguine__ _adj_ :nine::m::astonished: /SANG-gwin/ /ˈsæŋ gwɪn/ __1__ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._ __2__ Of a healthy reddish color. _Syn_ rubicund, ruddy _He had a sanguine complexion that was matched by his cheerful outlook._  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _n_ _Sanitation systems._  
@@ -15315,21 +15326,23 @@ __sappy__ _adj_ _Sappy smile._
 __Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __Saratoga__ _n_  
 __sarcasm__ _n_ Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
+__sarcopenia__  
 __sarcophagi__ _n_  
 __sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sarsaparilla__ _n_  
-__sartorial__  
+__sartorial__ _adj_ :two::hammer:  
 __sash__ _n_ :five::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
-__sashay__ _v_ :six: /sa-SHAY/ (sashayed) To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot. To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house._  
+__sashay__ _v intr_ :seven: /sa-SHAY/ (sashayed) To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot. To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house._  
 __sashimi__ _n_ :two::hammer:  
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :three::hammer:  
+__satays__ _n_  
 __satchel__ _n_ :two::hammer:  
 __sate__ _v_ :two::hammer: (sated) _Sate your appetite._  
 __satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
-__satire__ _n_ Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
+__satire__ _n_ :two: Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
@@ -15345,7 +15358,7 @@ __saucy__
 __saudade__  
 __sauerkraut__ _n_  
 __sauna__ _n_ :mega: /ˈsɔːnə/  
-__saunter<sup>1</sup>__ _v_ :five: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
+__saunter<sup>1</sup>__ _v_ :six: (sauntered, sauntering) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __saunter<sup>2</sup>__ _n_  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
@@ -15357,9 +15370,10 @@ __savage__
 __savagery__  
 __savant__ _n_ /sa-VAHNT/  
 __save (one’s) face__  
+__saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
 __savior__  
 __savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
-__savor__ _v_ (savoring) _I was savoring the moment._  
+__savor__ _v_ :two::hammer: _I was savoring the moment._  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe, from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  

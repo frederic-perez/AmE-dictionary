@@ -237,32 +237,6 @@ __risk stratification__ _n_ A formal estimate of the probability of a person’s
 __roadblock__ _n_  
 __rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
 __rundown__ _n_ :dart: __1__ A point-by-point summary.  
-__salacious__ _adj_ :two:hammer:  
-__salacities__ _n_  
-__salient__ _adj_ :two::hammer: _A salient example._  
-__sallow__ _adj_ /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. _She returned from her sick leave still looking a bit sallow._  
-__saludatory__  
-__salutary__ _adj_ _Salutary effects._  
-__salvo__ _n_ /SAL-voh/  
-__samara__ _n_  
-__sammy__ _n_ _It is known for its killer grilled cheese sammies._  
-__Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
-__samurai__ _n_ :mega:  
-__San Diegans__ _n_  
-__sanctimonious__  
-__sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
-__sandbox__ _n_  
-__sandcastle__ _n_ _Have a sandcastle building competition._  
-__sangria__ _n_  
-__sap__ _v tr_  
-__sarcopenia__  
-__sartorial__ _adj_  
-__sashay__ _v intr_  
-__satays__ _n_  
-__satire__  
-__sauntering__ _v_  
-__saveloy__ _n_ A highly seasoned smoked pork sausage. :es: frankfurt  
-__savor__ _v_ _Savor the moment._  
 __scarlett letter__ _n_  
 __scattergood__ _n_ /SKAT-uhr-good/ One who spends wastefully.  
 __scenario__ _n_ :mega: /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
