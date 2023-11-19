@@ -1,4 +1,5 @@
 __(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all seriousness.  
+__(as) easy as pie__  
 __(as) happy as a clam__ Very joyful and contented.  
 __(be) careful what you wish for(, (because) you just might get it)__ A warning that something that one desires might prove to problematic or undesirable were it to happen or come true.  
 __(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
@@ -7,21 +8,30 @@ __(I) hope not__
 __(I) told you (so)__  
 __(it) takes one to know one__  
 __(kill) the golden goose__  
+__(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect. _Poor Mary, she isn’t half the person she used to be since that car accident._  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
 __a walk in the park__  
 __adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
 __allude to (something)__  
+__apples and oranges__  
 __as long as__  
 __at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
+__be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
+__big cheese__  
+__boom chicka wah wah__  
+__cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
+__catch a snooze__ To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
+__chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
+__cup of tea, one’s__ (not my cup of tea)  
 __curve ball__  
 __cut (through) (the) red tape__ To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
@@ -66,17 +76,20 @@ __draw upon__
 __dressed to the nines__  
 __drop out__  
 __drop the ball__  
+__go bananas__  
 __golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
 __good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
 __good enough for jazz__ :dart: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
 __goody-goody__  
 __greenwash__  
 __guardrail__ A safety feature or measure put in place to prevent something from going too far or becoming too extreme. _Senate looks to set guardrails for AI patient safety._  
+__guilty pleasure__  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
 __have (one’s) head in the clouds__ To be impractical, aloof, or fanciful, often to the point of being very unhelpful or counterproductive. _He has his head in the clouds while the rest of us are trying to figure out how to fix this!_  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
+__have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
 __have (something) on__ To be busy or engaged with something; to have plans to do something at a particular point in time. _I’’’ve got a few things on at the moment, but business has been pretty slow overall._  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
@@ -87,12 +100,14 @@ __have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage t
 __have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a/the right to (something)__  
 __have enough on (one’s) plate__  
+__have eyes bigger than (one’s) stomach__ To take more food than one is actually capable of eating. _I always have eyes bigger than my stomach when I go to all-you-can-eat buffets!_  
 __have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have had (one’s) chips__ To fail or be defeated; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
 __have it easy__ To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
 __have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance. _I had to have it out with my roommate because he never does his share of cleaning in the house._ _Tom and his boyfriend are always having it out._  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
+__have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it. _I have no time for people who belittle or harass others for their own enjoyment._  
 __have nothing to do__ To have no tasks or actions that one must complete or undertake; to have nothing with which to occupy one’s time.  
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc. _You must have rocks in your head if you think the bank will approve you for another loan._  
 __have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
@@ -108,6 +123,7 @@ __have the hang of (something)__
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_  
 __have the last laugh__  
 __have the say__ To have the ultimate authority to command, control, or make a decision. _Your report looks good enough to me, but it’s the manager who has the say on whether it’s finished or not._  
+__have the wind up__ To be very anxious, upset, or frightened. _They had the wind up after we threatened them with legal action._  
 __hazarded__ _v_  
 __he who hesitates is lost__  
 __head over heels__  
@@ -139,6 +155,7 @@ __hope for the best__ To be hopeful that a positive occurrence will happen. This
 __human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
 __I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
 __in a lifetime__  
+__in a nutshell__  
 __in a similar vein__  
 __in and of itself__ By itself, without considering any other factors. _Reading is wonderful in and of itself._  
 __in harm’s way__  
@@ -165,6 +182,7 @@ __promises, promises__ A sarcastic reply to a promise or assurance that one does
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
 __push up the daisies__  
+__pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
 __put (one) off (something)__  
 __put (someone or something) to bed__  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
@@ -213,6 +231,7 @@ __sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit d
 __slowly but surely__ At a slow or incremental pace but making steady, dependable progress.  
 __smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
+__spill the beans__  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __stem the tide__ To stop something from continuing or worsening. _Once the people turn on you, you’ll have a hard time stemming the tide of rebellion._  
 __step up__  
@@ -302,6 +321,7 @@ __vie for (something)__ :two::hammer:
 __wait and see__ To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
 __wait for it__  
 __walk away from (someone or something)__  
+__walk on eggshells__  
 __walk the line__  
 __walk the walk__ :dart:  
 __want out__ _When it became hard you wanted out._  
