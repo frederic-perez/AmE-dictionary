@@ -293,36 +293,6 @@ __sitting__ _n_
 __Six-Day War__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
-__skinflint__ _n_ :two: A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
-__skittering__  
-__sky-high__ _adj, adv_  
-__sleepover__ _n_  
-__sliver__ _n_ _A thin sliver of magma._  
-__smack__ _n_ __10__ A resounding or loud kiss.  
-__smog__ _n_  
-__smorgasbord__ _n_  
-__smug__ _n_ _She looks impossibly smug to me._  
-__smugness__  
-__snap__ _n_  
-__snappy__ _adj_ _Snappy answers._  
-__snicker__ _v intr_  
-__snitch__ _v_  
-__snob__ _n_ One who has an offensive air of superiority in matters of knowledge or taste.  
-__soapbox__ _n_  
-__sobering__ _adj_ :two::hammer:  
-__sociopath__  
-__Socratic questioning__ _n_  
-__Sodom__ _n_ /SAHD/SOD-uhm/ (sodom) A place considered to be full of wickedness and sin.  
-__soft hat__ _n_ :camera:  
-__soft-pedal__ _v tr_  
-__sojourn__  
-__sole__ _n_ Lean flesh of any of several flatfish.  
-__solecism__ _n_ A socially awkward or tactless act. _Syn_ faux pas, gaffe, slip, gaucherie  
-__soliloquy__  
-__solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
-__soon enough__ _adv_ :two: Without being tardy. _Syn_ in time  
-__sororal__ _adj_  
-__sotto voce__  
 __sought-after__  
 __sound__ _adj_ _Sound advice._  
 __souse__  

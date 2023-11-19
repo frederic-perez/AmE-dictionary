@@ -15986,11 +15986,11 @@ __shorn<sup>2</sup>__ _adj_ :four: Having the hair or wool cut or clipped off as
 __short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
 __short fuse__  
 __short hand__  
-__short<sup>1</sup>__ _n_  
-__short<sup><2/sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :four: Living or lasting only a short time; ephemeral.  
+__short<sup><2/sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
+__short<sup>1</sup>__ _n_  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _v tr_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :three::dart::hammer: (shortcomings) :es: defecto  
@@ -16238,7 +16238,7 @@ __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _Sh
 __skimpy__ _adj_ :four: Containing little excess. _Syn_ lean _When the car repairs maxed out my already skimpy budget, I knew my shopping days were over._  
 __skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
-__skinflint__ _n_ One who is very reluctant to spend money; a miser.  
+__skinflint__ _n_ :three: One who is very reluctant to spend money; a miser. A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skinner__ _n_ :dart::two: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ _n_ :two::hammer:  
@@ -16248,7 +16248,7 @@ __skirmish<sup>2</sup>__ _v_ :two::hammer:
 __skirmishers__ _n_  
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :five::hammer: _Skit theater._  
-__skitter__ _v_ :seven::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
+__skitter__ _v_ :eight::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
@@ -16261,6 +16261,7 @@ __skunk__ _n_ :two::hammer:
 __skunworks__  
 __sky diving__  
 __sky high__  
+__sky-high__ _adj, adv_  
 __skyjack__ _v_ To hijack (an aircraft).  
 __skylark<sup>1</sup>__ _n_ :es: alondra  
 __skylark<sup>2</sup>__ _v_ :two: To frolic; sport.  
@@ -16321,7 +16322,7 @@ __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners wh
 __sleepaway__  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleeper__ _n_ __2__ _Railways_ A railway sleeping car or compartment.  
-__sleepover__ _n_ :four::hammer:  
+__sleepover__ _n_ :five::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
 __sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
@@ -16374,7 +16375,7 @@ __slit<sup>1</sup>__ _n_ :three::hammer:
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
 __slither__ _v_ :five::hammer: _Slithering in mud._ _I have started slithering out of bed to deal with anxiety in the morning._  
 __slithering__ _adj_ :three::hammer:  
-__sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
+__sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._ _A thin sliver of magma._  
 __sliver<sup>2</sup>__ _v_ :six::hammer:  
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
@@ -16432,7 +16433,7 @@ __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can neve
 __slyly__ _adv_ :astonished: _She smiled slyly._  
 __smack-dab__  
 __smack<sup>1</sup>__ _v_ :four::hammer: _He smacked his lips._ _The bomb smacked into the destroyer._  
-__smack<sup>2</sup>__ _n_  
+__smack<sup>2</sup>__ _n_ :two::hammer: __10__ A resounding or loud kiss.  
 __smack<sup>3</sup>__ _adv_ :two::hammer: _Conveniently located right smack in the middle of your vacation plans._  
 __small fry__ _adj_ :two: (small-fry) Lacking importance.  
 __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
@@ -16476,7 +16477,7 @@ __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by s
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
-__smog__ _n_ :three::hammer:  
+__smog__ _n_ :four::hammer:  
 __smoke__ _v_ _It was cold and our breath smoked._  
 __smokejumper__ _n_ A firefighter who parachutes to forest fires inaccessible to ground crews.  
 __smoking jacket__ _n_  
@@ -16490,17 +16491,17 @@ __smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib
 __smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
-__smorgasbord__ _n_ :seven::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety. A varied collection.  
+__smorgasbord__ _n_ :eight::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety. A varied collection.  
 __smote__ _v_ :two::hammer: _Smote a horse with a whip._  
 __smother__ _v_ :four::hammer: (smothered, smothering) _Do not smother your true feelings._ _Smothering us._  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smouldering__ _adj_ :two::hammer:  
 __smudge<sup>1</sup>__ _v_ :two::hammer:  
 __smudge<sup>2</sup>__ _n_  
-__smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
+__smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._ _She looks impossibly smug to me._  
 __smuggling__ _v_  
 __smugly__ _adv_ :seven: In a self-satisfied manner. _To laugh smugly._  
-__smugness__  
+__smugness__ _n_ :two::hammer:  
 __smush__ _v tr_ /smʌʃ/ To smash or crush.  
 __smut__ _n_ _They want to report smut._  
 __snack__ _v_ :two::hammer:  
@@ -16511,13 +16512,12 @@ __snag<sup>1</sup>__ _n_ :six::hammer: (snags) :es: problema _A very telling sna
 __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snake charmer__ _n_ :astonished:  
 __snakebite__ _n_  
-__snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
-__snap<sup>2</sup>__ _v_ :three::hammer: _Snap at people._  
+__snap<sup>1</sup>__ _n_ :three::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
+__snap<sup>2</sup>__ _v_ :four::hammer: _Snap at people._  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
 __snapper__ _n_ _A red snapper._  
 __snappier__ _adj_ :two::hammer: _Everything will be snappier._  
-__snapping__  
-__snappy__ _adj_ :three::hammer:  
+__snappy__ _adj_ :four::hammer: _Snappy answers._  
 __snare drum__ _n_ :three::hammer: (snare drums) :es: tambor militar pequeño  
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
@@ -16535,7 +16535,7 @@ __sneaky__
 __sneer__ _v_  
 __Snellen chart__  
 __snick__ _v_  
-__snicker<sup>1</sup>__ _v_ :seven: (snickers, snickered, snickering) To laugh quietly and in a way that is not nice at something which is not supposed to be funny.  
+__snicker<sup>1</sup>__ _v intr_ :eight: (snickers, snickered, snickering) To laugh quietly and in a way that is not nice at something which is not supposed to be funny.  
 __snicker<sup>2</sup>__ _n_ :two: A partly stifled laugh. _The first question set off snickers on the audience._  
 __snide__ _adj_ :two::hammer:  
 __sniffed__ _v_ :two::hammer:  
@@ -16547,9 +16547,10 @@ __snipe__ _v_
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
 __snippy__  
 __snit__ _n_ _informal_ A state of agitation or irritation. _President Trump responded with a typical Twitter-snit._  
-__snitch__  
+__snitch<sup>1</sup>__ _n_  
+__snitch<sup>2</sup>__ _v_  
 __snivel__ _v_  
-__snob__ _n_  
+__snob__ _n_ :two: One who has an offensive air of superiority in matters of knowledge or taste.  
 __snollygoster__ _n_ :three: _slang US_ A politician who cares more for personal gain than serving the people. One, especially a politician, who is guided by personal advantage rather than by consistent, respectable principles.  
 __snoodlike__  
 __snooker__ _v tr_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
@@ -16606,11 +16607,11 @@ __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called 
 __so-so__ _adj_ :two::hammer: _The glass business was a so-so money maker._  
 __soap opera__  
 __soap-spuds__ _n_  
-__soapbox<sup>1</sup>__ _n_ :three::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
+__soapbox<sup>1</sup>__ _n_ :four::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soar__ _v_  
 __soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring fuel costs; the soaring spires of the cathedral._ _Soaring ceilings._  
-__sobering__ _adj_ :six: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
+__sobering__ _adj_ :eight: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :six: (soubriquet) An affectionate or humorous nickname. _Syn_ cognomen, moniker, nickname, soubriquet  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
@@ -16620,18 +16621,21 @@ __social hour__ _n_
 __social ladder__  
 __socialite__  
 __societal__  
-__sociopath__ _n_ :two: A psychopath or a person with antisocial personality disorder.  
+__sociopath__ _n_ :three: A psychopath or a person with antisocial personality disorder.  
+__Socratic questioning__ _n_  
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
 __sodbuster__ _n_ :two: _censorious_ _Western US_ A farmer, farm hand, or homesteader.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __sodding__ _adj_  
 __sodium amytal__  
+__Sodom__ _n_ /SAHD/SOD-uhm/ (sodom) A place considered to be full of wickedness and sin.  
 __sofa bed__ _n_ :two::hammer:  
 __soffit__  
+__soft hat__ _n_ :camera:  
 __soft serve__ _n_ :camera: Any of several soft, creamy frozen desserts, such as ice cream and frozen yogurt, dispensed from a machine at the point of sale.  
 __soft skills__ _n_  
-__soft-pedal__ _v_ _informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
+__soft-pedal__ _v tr_ _informal_ :three: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
 __soft-spoken__ _adj_ :three::hammer:  
 __softball__ _n_  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
@@ -16642,7 +16646,7 @@ __soignée__
 __soil__ _v_  
 __soiled__  
 __soiree__ _n_ An evening party or reception.  
-__sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
+__sojourn<sup>1</sup>__ _n_ :eight::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
 __sol__ _n_ __4__ A colloidal solution.  
 __solace__ _n_ :seven::mega: /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
@@ -16650,9 +16654,10 @@ __solacing__ _v_ _Solacing her with kisses._
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
 __soldier__ _v_ :two::hammer: (soldiers, soldiered)  
-__sole<sup>1</sup>__ _n_  
+__sole<sup>1</sup>__ _n_ :two: Lean flesh of any of several flatfish.  
 __sole<sup>2</sup>__ _v_  
 __sole<sup>3</sup>__ _adj_ _Its sole responsibility._  
+__solecism__ _n_ A socially awkward or tactless act. _Syn_ faux pas, gaffe, slip, gaucherie  
 __solely__ _adv_ :two::hammer:  
 __solemn__ _adj_ :mute:[solem~~n~~]  
 __solemnity__ _n_ A trait of dignified seriousness. _Syn_ staidness, sedateness  
@@ -16664,10 +16669,11 @@ __solicitude__ _n_ A feeling of excessive concern.
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
-__soliloquy__ _n_ :two::hammer:  
+__soliloquy__ _n_ :three::hammer:  
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :four::hammer:  
+__solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __solvent__ _n_  
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
 __somber__ _adj_ /ˈsɒm bər/  
@@ -16682,7 +16688,7 @@ __sonnet__ _n_
 __sonny__  
 __sonogram__  
 __Sonora cacti__ _n_ :camera:  
-__soon enough__ _adv_ :two::hammer:  
+__soon enough__ _adv_ :four: Without being tardy. _Syn_ in time  
 __sooner > sooner rather than later__  
 __soot__ _n_ :three::hammer:  
 __soothe__ _v_ (soothing)  
@@ -16700,6 +16706,7 @@ __sordid__ _adj_
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :four::hammer: _Sorely needed._  
 __sorghum__  
+__sororal__ _adj_  
 __sorority__ _n_ :four: /səˈrɒrɪtɪ/ [:scroll: C16: from Medieval Latin _sorōritās_, from Latin _soror_ sister] (Education) _chiefly US_ A social club or society for university women. _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrow__ _v_ (sorrowed)  
@@ -16710,7 +16717,7 @@ __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ri
 __sorta__ _adv_ Contraction of sort of. Sort of; rather: _I’m sorta nervous._ _I’m sorta tired—let’s go home._  
 __sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of Earthmen, that they were welcome to live._  
 __sot__ _n_ :two::hammer: _A surly sot._  
-__sotto voce__  
+__sotto voce__ _adj, adv_ :two::hammer:  
 __soubriquet__ _n_  
 __sought-after__ _adj_ :four: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul food__ _n_  
