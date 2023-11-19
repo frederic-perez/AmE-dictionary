@@ -305,32 +305,6 @@ __under (one’s) watch__ A situation where someone is responsible for overseein
 __under one’s belt__  
 __under the guise of (something)__  
 __under the hood__  
-__under the sun__ :two::hammer:  
-__unpack__  
-__until kingdom come__ For a very long, indefinite amount of time; forever.  
-__until next time__  
-__up and running__  
-__up for grabs__  
-__ups and downs__ Positive and negative events or experiences, considered collectively.  
-__usher in__  
-__vac__  
-__verse (someone or oneself) in (something)__  
-__very much so__  
-__vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
-__vie for (something)__ :two::hammer:  
-__wait and see__ To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
-__wait for it__  
-__walk away from (someone or something)__  
-__walk on eggshells__  
-__walk the line__  
-__walk the walk__ :dart:  
-__want out__ _When it became hard you wanted out._  
-__wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
-__water under the bridge__ :dart: _We’ll regard it as water under the bridge, shall we?_  
-__watered-down__  
-__wazoo__  
-__wear thin__ _My patience was wearing thin._  
-__weave (something) into (something) else__  
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
