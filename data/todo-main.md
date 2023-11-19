@@ -283,32 +283,6 @@ __shady__
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
-__shear__ _v_ :two::hammer: (shorn)  
-__shed__ _v_ _The lawyers shed their vests and loosened their neckties._  
-__shelling__ _n_ /ˈʃɛlɪŋ/ The act of bombing a place with artillery shells.  
-__shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
-__shift__ _v_ _It’s all about confronting obvious-but-often-overlooked truths until something in you shifts._  
-__shimmer__ _v_  
-__shimmy__ _v_ (shimmiesl)  
-__shirk__ _v_ :dart: _He shirked the tasks._  
-__shoo away__  
-__shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
-__short__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
-__shortlist__ _n, v_  
-__shotgunner__ _n_  
-__shovel__ _v_ :two::hammer:  
-__shrift__  
-__shriveled__ _adj_  
-__shuck<sup>1</sup>__ _n_  
-__shuck<sup>2</sup>__ _v tr_  
-__shucking__  
-__shudder__ _v intr_  
-__sibilant__ _adj_ _Every _s_ is sibilant._  
-__side-splitting__ _adj_  
-__sideline__ _v tr_  
-__signet ring__ _n_  
-__simile__ _n_  
-__simpatico__  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __single-handedly__  

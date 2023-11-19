@@ -15859,14 +15859,14 @@ __shaved__ _adj_ :two: __1__ Having the hair cut close to the skin. _A shaved he
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
 __sheaf__ _n_ :three::hammer: (sheaves) _A sheaf of photos._  
-__shear__ _v_ :two: To cut the wool off a sheep or other animal.  
+__shear__ _v_ :four: (shorn) To cut the wool off a sheep or other animal.  
 __sheared__ _adj_ _Sheared mink._  
 __shearing__ _n_ _Sheep shearing._  
 __shearling__ _n_ _Luxurious shearlings._  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
 __shebang__ _n_ :two::hammer: _The whole shebang._  
-__shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he’ll be fine._ __3__ Park (a vehicle) in a depot.  
+__shed__ _v_ :six: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ _The lawyers shed their vests and loosened their neckties._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he’ll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _n_ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
@@ -15894,10 +15894,11 @@ __shell<sup>1</sup>__ _n_ :three::hammer: _A shell corporation._ _Shell companie
 __shell<sup>2</sup>__ _v_ :two::hammer: _The Russians are shelling us._  
 __shellfish__ _n_ _Shellfish stewed, jerked._  
 __shelling out__  
-__shelling<sup>1</sup>__ _n_ :es: bombardeo  
+__shelling<sup>1</sup>__ _n_ :two: /ˈʃɛlɪŋ/ The act of bombing a place with artillery shells. :es: bombardeo  
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
+__shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shenanigans__ _n pl_ :six: /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._ _Pulling shenanigans._  
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
@@ -15907,7 +15908,7 @@ __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied.
 __shield__ _v_  
 __shiet__  
 __shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
-__shift__  
+__shift__ _v_ :two::hammer: _It’s all about confronting obvious-but-often-overlooked truths until something in you shifts._  
 __shifty__ _adj_ :five::astonished: /SHIF-tee/ __1__ Having, displaying, or suggestive of deceitful character; evasive or untrustworthy. __2__ Distinguished by frequent changes in direction: _shifty winds._ __3__ Able to accomplish what is needed; resourceful. _Jane was shifty and quick-witted._  
 __shifty-looking__ _adj_ _informal_ _censorious_ Having or of an untrustworthy, dubious, or deceptive appearance. _There are always a bunch of shifty-looking characters around this part of town at night, so let’s not linger!_  
 __shih tzu__ _n_ A toy dog breed developed in China.  
@@ -15915,9 +15916,9 @@ __shill__ _n_ (shills) _Government shills._
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
 __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
 __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
-__shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._  
+__shimmer__ _v_ :five::hammer: (shimmering) _Shimmering eyes._  
 __shimmering__ _adj_ :es: reluciente  
-__shimmy__ _v_ :four: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
+__shimmy__ _v_ :five: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
@@ -15932,7 +15933,7 @@ __shipping__ _n_ :astonished: __1a__ The business of transporting freight, esp b
 __shipshape__ _adj_ :two: Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
 __shipyard__ _n_ :two::hammer: :es: astillero  
 __shirk<sup>1</sup>__ _n_  
-__shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
+__shirk<sup>2</sup>__ _v_ :five::dart: (shirking) To avoid work or duty. _He shirked the tasks._  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
 __shirttail__ _n_  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
@@ -15962,6 +15963,7 @@ __shoestring<sup>2</sup>__ _adj_ :three: __1__ Long and slender: _shoestring pot
 __shoftlift__ _v_  
 __shogun__ _n_  
 __shogunate__ _n_ :three: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship _A local shogunate office._  
+__shoo away__  
 __shoo__ _v tr_ :seven::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
 __shoot out__ _n_ :two::hammer:  
@@ -15976,6 +15978,7 @@ __shootout__ _n_ :two: __1a__ A gun fight. __b__ A battle between military force
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
 __shoppe__ _n_ :two: Variant of shop.  
+__shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shoreline__ _n_ :two::hammer:  
 __shorn<sup>1</sup>__ _v_ A past participle of shear.  
@@ -15983,7 +15986,8 @@ __shorn<sup>2</sup>__ _adj_ :four: Having the hair or wool cut or clipped off as
 __short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
 __short fuse__  
 __short hand__  
-__short__ _n_  
+__short<sup>1</sup>__ _n_  
+__short<sup><2/sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :four: Living or lasting only a short time; ephemeral.  
@@ -15993,8 +15997,8 @@ __shortcoming__ _n_ :three::dart::hammer: (shortcomings) :es: defecto
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
 __shortfall__ _n_ :four::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
 __shorthand__ _n_ :two::hammer: :es: taquigrafía  
-__shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist’s biggest beasts._ _A women-only shortlist._  
-__shortlist<sup>2</sup>__ _v_ (shortlisted)  
+__shortlist<sup>1</sup>__ _n_ :eight::hammer: _We look at the shortlist’s biggest beasts._ _A women-only shortlist._  
+__shortlist<sup>2</sup>__ _v_ :two::hammer: (shortlisted)  
 __shortly before__ _adv_ _Shortly before Lee’s death, the homeless man walked of the St. David’s Medical Center against medical advice._  
 __shortly__ _adv_ :two::hammer: _Shortly before 8 a.m. Tuesday._  
 __shorts__ _n pl_ :two: (plurale tantum) _He typically wears shorts to work._  
@@ -16004,6 +16008,7 @@ __shot__ _n_
 __shotgun cottage__  
 __shotgun house__  
 __shotgun__  
+__shotgunner__ _n_  
 __shotput__ _n_  
 __shoulder<sup>1</sup>__ _n_ :two: __8__ The edge or border running on either side of a roadway. :camera: _The shoulders of the freeway will be wider._ _Even pulling onto shoulder causes huge jams._  
 __shoulder<sup>2</sup>__ _v_ :four::hammer:  
@@ -16012,7 +16017,7 @@ __shout-out > give a shout-out__
 __shove off__ _v_  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ :three: Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel _The armed guard shoved people aside to make way for the Duke._  
-__shovel__ _v_  
+__shovel__ _v_ :three::hammer:  
 __show jumping__ _n_ :es: concurso hípico  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
@@ -16038,7 +16043,7 @@ __shrewishly__
 __shriek__ _v_ (shrieked) :two::hammer:  
 __shrieking__ _adj, n_ :two::hammer: _Shrieking panic._  
 __shrieks__  
-__shrift__ _n_ :five::hammer:  
+__shrift__ _n_ :six::hammer:  
 __shrill__ _v_ :six::hammer: _Increasing shrill chorus._ _Crickets shrilled._  
 __shrilly__  
 __shrimp__  
@@ -16047,15 +16052,16 @@ __shrink__ _n_
 __shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
 __shrivel up__ _v_ :three::hammer:  
 __shrivel__ _v_ :nine: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
+__shriveled__ _adj_  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __Shrove Tuesday__ _n_ The day before Ash Wednesday.  
 __shrubbery__  
 __shrunken head__ _n_  
 __shtick__ _n_ :three: (also shtik) _slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
-__shuck__ _v_ :five::hammer: (shucked, shucking)  
-__shucking__ _v_ :two::hammer: _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
-__shudder__ _v_ :four::hammer: (shudders, shuddered)  
+__shuck<sup>1</sup>__ _n_  
+__shuck<sup>2</sup>__ _v tr_ :nine::hammer: (shucked, shucking) _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
+__shudder__ _v intr_ :five::hammer: (shudders, shuddered)  
 __shudderings__ _n_  
 __shuffle off__  
 __shuffle__ _v_ :three::hammer: (shuffling)  
@@ -16077,6 +16083,7 @@ __shylocking__
 __shyly__ _adv_ _(funny spelling)_  
 __shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
 __sibilance__ _n_ A hissing quality of sound, or the hissing sound itself. _I dozed in the hammock to the ocean’s gentle sibilance._  
+__sibilant__ _adj_ _Every _s_ is sibilant._  
 __sic__  
 __sicced__ _v_  
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
@@ -16086,14 +16093,14 @@ __sickle cell__
 __sickly__ _adj_ :es: enfermizo  
 __side effect__  
 __side of bacon__ _n_ Salted and cured abdominal wall of a side of pork. _Syn_ flitch  
-__side-splitting__ _adj_ _Side-splitting laughs._  
+__side-splitting__ _adj_ :two::hammer: _Side-splitting laughs._  
 __sidearm__  
 __sidebar__ _n_  
 __sideburns__ _n_  
 __sidecar shovelhead__  
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
-__sideline<sup>2</sup>__ _v_ :six: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
+__sideline<sup>2</sup>__ _v tr_ :seven: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sidestep__ _v_ :eight::hammer: (sidestepped)  
@@ -16123,7 +16130,7 @@ __signature<sup>1</sup>__ _n_ :two::hammer:
 __signature<sup>2</sup>__ _adj_ :seven: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _Signature dishes._ _A signature gift._ _That’s their signature meal._  
 __signcryption__ _n_ A public-key primitive that simultaneously performs the functions of both digital signature and encryption.  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
-__signet ring__ _n_ :three: a finger ring containing a small seal, one’s initial, or the like. A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
+__signet ring__ _n_ :four: A finger ring containing a small seal, one’s initial, or the like. A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
 __significant other__  
 __significant__ _adj_ :three::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._ _Time of day is significant._  
 __signify__ _v_ :two::hammer:  
@@ -16142,11 +16149,12 @@ __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
 __silverplate__ _v_  
 __silviculture__ _n_  
-__simile__ _n_ :two: A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
+__simile__ _n_ :three: A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
 __simony__ _n_ :eight: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
+__simpatico__  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
