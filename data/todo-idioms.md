@@ -275,34 +275,6 @@ __then again__
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
-__this is not a competition__ :two: A phrase used to convey the idea that a particular situation or activity should not be approached with a competitive mindset. It suggests that the focus should not be on outperforming others or striving to be better than them, but rather on cooperation, collaboration, and personal growth.  
-__throw in the towel__ :two: To give up on some endeavor; to quit or abandon something; to admit defeat or failure.  
-__throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
-__Tinseltown__  
-__TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
-__to a T__  
-__to death__ __1__ Literally, fatally. _The autopsy shows that the victim was stabbed to death._ __2__ To an excessive, extreme, or intolerable degree. _I feel like we’ve discussed this topic to death—let’s move on._  
-__to name (but) a few__  
-__to this day__  
-__tone deaf__  
-__tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
-__too hot to handle__  
-__too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
-__toot (one’s) own horn__ To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
-__toot__ __5__ _v_ _slang_ To emit a small, often audible fart. _Oops! Sorry for tooting!_ _My kids thought it was hilarious when I tooted in front of them._  
-__toss out__  
-__tough talk__  
-__trash talk__ _I won’t trash talk._  
-__trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._  
-__tread lightly__ _Companies that use AI in hiring need to tread lightly._  
-__treasure trove__  
-__trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
-__trick<sup>2</sup>__ _v_  
-__Trojan horse__ :two::hammer:  
-__trot out__  
-__trump card__ _It was time for me to play my trump card._  
-__tug of war__  
-__turf war__  
 __turkey__ __3__ _n_ _slang_ Stupid person.  
 __turn a deaf ear (to someone or something)__  
 __turn of phrase__  

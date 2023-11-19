@@ -4529,6 +4529,7 @@ __third wheel__ The “third wheel” refers to the person who is the outsider w
 __third world__  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this is no picnic__  
+__this is not a competition__ :two: A phrase used to convey the idea that a particular situation or activity should not be approached with a competitive mindset. It suggests that the focus should not be on outperforming others or striving to be better than them, but rather on cooperation, collaboration, and personal growth.  
 __this side of__  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
@@ -4545,7 +4546,7 @@ __throw a party__ :two::hammer:
 __throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
 __throw away__ To get rif of something that you no longer want.  
 __throw hands__  
-__throw in the towel__ :two::hammer: (throw in the sponge; toss in the sponge)  
+__throw in the towel__ :four: (throw in the sponge; toss in the sponge) To give up on some endeavor; to quit or abandon something; to admit defeat or failure.  
 __throw money at (someone or something)__  
 __throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
 __throw the towel__  
@@ -4553,6 +4554,7 @@ __throw up__ _I might throw up._
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated “TBT”) as an accompanying hashtag or caption. _I’m going to post my second grade class picture for throwback Thursday!_  
 __throwback__ A throwback is a sudden reminder of the past, usually in the form of something that evokes a strong emotional response. This could be a song from high school, an old photograph, a place from your childhood, or something else from your past. Throwbacks can be a great way to reconnect with memories and draw on nostalgia to create a sense of comfort and belonging.  
 __throwdown gun__ An unregistered gun placed as evidence to suggest that a shooting by police was done in self-defense. _Something about the sergeant’s description of the shooting seems off. I’m starting to have suspicions that the gun recovered at the scene was really a throwdown gun._  
+__throwdown__ :two: (throw-down) __4__ Usu. a weapon, devoid of (where another weapon has actually been used) to confuse the investigators; also used of other illegal items aimed at misdirection; also atrib. _Throwdown guns._ _I placed the throwdown piece in his right hand._  
 __thug live__ (often ironic) [:scroll: Popularized by American rapper Tupac Shakur (1971–1996) in 1993. ] A resilient attitude in the face of racism and injustice. A life in which one has to go through many struggles, like that of poor gangstas. _I didn’t choose the thug life. It chose me._  
 __thumb (one’s) nose at (someone or something)__ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
 __thumbs up__ :two::hammer: _We have a thumbs up!_  
@@ -4573,13 +4575,15 @@ __til you drop__
 __time and (time) again__ :nine::m::dart: Repeatedly; on multiple occasions. Again and again; repeatedly. _Why do you continue to trust John when he has lied to you time and again?_  
 __time capsule__  
 __time flies__ :two::hammer: _Time flies when you’re having fun._  
+__Tinseltown__  
 __tip (one’s) hat__  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tipping point__ :two::hammer:  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
+__TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __to (one’s) heart’s desire__ :two: As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ :two: In one’s possession; owned by one. _Without a penny to his name._ _Bernie died with $1.09 to his name._  
-__to a T__ :two: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
+__to a T__ :three: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be in a better place__  
 __to be on a mission__  
@@ -4588,12 +4592,13 @@ __to be on the spectrum__
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to date__ :three: Until now. _To date, no winners have attended._  
+__to death__ __1__ Literally, fatally. _The autopsy shows that the victim was stabbed to death._ __2__ To an excessive, extreme, or intolerable degree. _I feel like we’ve discussed this topic to death—let’s move on._  
 __to have someone pegged__ _Ed had him pegged as a skinflint._  
 __to hell and back__ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
 __to his name__  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to make a long story short__ To skip boring, extraneous, or unnecessary details; to get to the point. _Anyway, to make a long story short, I got expelled for writing graffiti on the bathroom stalls._  
-__to name (but) a few__ :two::hammer:  
+__to name (but) a few__ :three::hammer:  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to see red__ Very angry.  
@@ -4603,14 +4608,20 @@ __to the core__ _Charming to the core._
 __to the fore__  
 __to the fullest__  
 __to the hilt__ :two: As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
-__to this day__ :eight: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
+__to this day__ :nine: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __toe-to-toe__  
 __together__  
 __Tom Swifty__ :two::hammer:  
+__tone deaf__  
 __tongue in cheek__  
+__tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
 __tongue-in-cheek__  
+__too hot to handle__  
+__too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
+__toot (one’s) own horn__ To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
+__toot__ __5__ _v_ _slang_ To emit a small, often audible fart. _Oops! Sorry for tooting!_ _My kids thought it was hilarious when I tooted in front of them._  
 __tooth and nail__  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
@@ -4620,7 +4631,7 @@ __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no u
 __toss (one’s) hat in(to) the ring__  
 __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __toss and turn__ Sleep badly.  
-__toss out__ _v_ _One student tossed out expletives._  
+__toss out__ _v_ :two::hammer: _One student tossed out expletives._  
 __touch base (with someone)__ :four: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
@@ -4629,26 +4640,36 @@ __touch wood__
 __touché__  
 __tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __tough love__ :three: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
+__tough talk__  
 __tour de force__ :four::hammer:  
 __town-gown__ Relating to the two coexisting communities of a university town, i.e., the university (primarily the students) and the residents of the town where it is located, used especially in reference to tensions between the two. “Gown” is a reference to the traditional academic gown once worn by university students, now typically reserved for graduation ceremonies. _The periodic town-gown riots._  
 __trace back__  
 __train of thought__  
 __train wreck__  
+__trash talk__ _I won’t trash talk._  
+__trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread carefully__ :dart: To delicately handle or approach a situation in order not to upset or worsen the current circumstances, which may be precarious. _Tread carefully when you ask Mom whether she’s going to the party. She’s been acting weird about it._ _There are good reasons why Google should be tread carefully._  
+__tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __treasure hunt__  
+__treasure trove__  
+__trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
+__trick<sup>2</sup>__ _v_  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __trip__ _We were tripping on acid when we broke._  
+__Trojan horse__ :two::hammer:  
+__trot out__  
 __trouble is__ _Trouble is, that man is my last hope._  
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true enough__ _It was true enough._  
 __true story__  
 __true to form__ :two: Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
+__trump card__ _It was time for me to play my trump card._  
 __try out__ :two::hammer:  
-__tug of war__ A struggle for supremacy.  
-__turf war__  
+__tug of war__ :two: A struggle for supremacy.  
+__turf war__ :two::hammer:  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn (something) on its head__ :three::hammer:  
 __turn around__ To change something unsuccessful into something successful.  
