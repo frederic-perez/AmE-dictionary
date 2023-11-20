@@ -33,17 +33,24 @@ __apiarist__ _n_ _Syn_ apiculturist, beekeeper
 __articulate__ _v_  
 __assess__ _v tr_  
 __atopic__ _adj_  
+__befuddle__  
+__bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
 __bloodcurdling__ _adj_  
 __bootstrap__ _v_  
+__booty__ _n_  
 __brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
 __brand__ _v tr_  
 __brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
+__brawny__ _adj_ Strong and muscular. _Syn_ hefty, sinewy, muscular, powerful  
 __bugbear__ _n_ /BUG-bair/  
+__bumfuzzle__  
 __bursitis__ _n_  
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
 __chainsaw__ _n_  
 __chimera__ _n_ /kye-MEER-uh/  
+__colophon__ _n_ __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
 __cradling__ _v_  
+__crapula__  
 __credence__  
 __credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __creep__  
@@ -83,8 +90,11 @@ __denervation__ _n_
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
+__disabuse__ _v_ /diss-uh-BYOOZ/ To disabuse someone of something, such as a belief, is to show or convince them that the belief is incorrect.  
+__discombobulate__  
 __dispel__ _v_  
 __dissatisfaction__ _n_  
+__dongle__  
 __dread__ _v_  
 __duffle coat__  
 __dull__ _v_ _It dulls thinking._  
@@ -150,6 +160,8 @@ __fintech__ _n_ Products and companies that employ newly developed digital and o
 __fire hose__ _n_  
 __firebrand__  
 __firefly__ _n_ :es: luciérnaga  
+__flummox__ _v_  
+__gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __grubstake__  
@@ -158,13 +170,17 @@ __hacktivist__ _n_
 __haggle__ _v_  
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
+__hogwash__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
+__inordinate__ _adj_ /in-OR-dun-ut/  
 __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
 __Japan__ _n_ :mega: /dʒəˈpæn/  
 __kelly green__ _n_  
+__kerfuffle__  
 __kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
 __knit cap__ _n_ A soft, head-hugging cap usually without a specified front or back, barring those with designs or logos.  
 __lackluster__ _adj_  
+__laissez-faire__ _n_ /less-ay-FAIR/  
 __landfill__ _n_  
 __lenient__ _adj_  
 __list price__ _n_  
@@ -176,6 +192,7 @@ __mawkish__ _adj_
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __misnomer__ _n_  
 __misspend__ _v tr_  
+__monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
 __navigate__ _v_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
@@ -230,6 +247,7 @@ __refulgent__ _adj_ Shining radiantly; resplendent.
 __reinstate__ _v_  
 __reshuffle<sup>1</sup>__ _v tr_  
 __reshuffle<sup>2</sup>__ _n_  
+__retinue__ _v_  
 __revenge__ _n_  
 __Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
@@ -309,6 +327,7 @@ __sitting__ _n_
 __Six-Day War__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
+__snuggle__ _v_  
 __sought-after__  
 __sound__ _adj_ _Sound advice._  
 __souse__  
@@ -530,6 +549,7 @@ __ventilatory threshold__ _n_ The point of the workout where it becomes difficul
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __verdict__  
 __verismo__  
+__vermin__ _n_ __2__ An objectionable or obnoxious person, or such persons collectively.  
 __verruca__ _n_ A firm abnormal elevated blemish on the skin; caused by a virus. _Syn_ wart  
 __vesicle__ _n_ A small sac or cyst, especially one containing fluid. _Syn_ cyst  
 __vet__ _v tr_ :astonished: __2__ To subject to thorough examination or evaluation: _vet a manuscript._  
