@@ -25,19 +25,26 @@ __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._
 __afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
+__agency__ _n_  
 __allot__ _v_  
 __alot__ _v_  
+__amicably__ _adv_  
 __apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __articulate__ _v_  
+__assess__ _v tr_  
+__atopic__ _adj_  
 __bloodcurdling__ _adj_  
+__bootstrap__ _v_  
 __brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
 __brand__ _v tr_  
 __brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
 __bugbear__ _n_ /BUG-bair/  
 __bursitis__ _n_  
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
+__chainsaw__ _n_  
 __chimera__ _n_ /kye-MEER-uh/  
 __cradling__ _v_  
+__credence__  
 __credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __creep__  
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
@@ -69,12 +76,16 @@ __decal__ _n_ /ˈdi kæl, dɪˈkæl/ __1__ A picture or design transferred by de
 __decamp__  
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
+__defect__ _v intr_ __1__ 1. To disown allegiance to one’s country and take up residence in another: _a Soviet citizen who defected to Israel._ _He defected to Canada with the help of the CIA._  
 __deliverance__ _n_  
+__demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __denervation__ _n_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
+__diligent__ _adj_ Marked by persevering, painstaking effort.  
 __dispel__ _v_  
 __dissatisfaction__ _n_  
+__dread__ _v_  
 __duffle coat__  
 __dull__ _v_ _It dulls thinking._  
 __dysmorphia__ _n_ Any of various psychological disorders whose sufferers believe that their body is wrong or inadequate, such as anorexia, bulimia, and muscle dysmorphia.  
@@ -144,6 +155,7 @@ __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and i
 __grubstake__  
 __gullible__ _adj_ /GULL-uh-bul/  
 __hacktivist__ _n_  
+__haggle__ _v_  
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
 __inculcate__ _v_ /in-KUL-kayt/  
@@ -151,6 +163,8 @@ __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered 
 __Japan__ _n_ :mega: /dʒəˈpæn/  
 __kelly green__ _n_  
 __kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
+__knit cap__ _n_ A soft, head-hugging cap usually without a specified front or back, barring those with designs or logos.  
+__lackluster__ _adj_  
 __landfill__ _n_  
 __lenient__ _adj_  
 __list price__ _n_  
@@ -198,7 +212,7 @@ __pilfered__
 __psychobabble__ _n_  
 __purportedly__  
 __purpose__ _n_ :mega:  
-__purview__ _n_  
+__purview__ _n_ :two::hammer: /ˈpɜr vyu/  
 __recalcitrant__ _adj_  
 __recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
 __recap__ _v_  
@@ -213,6 +227,7 @@ __redcon<sup>2</sup>__ _v tr_ :five::hammer:
 __redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
 __refulgent__ _adj_ Shining radiantly; resplendent.  
+__reinstate__ _v_  
 __reshuffle<sup>1</sup>__ _v tr_  
 __reshuffle<sup>2</sup>__ _n_  
 __revenge__ _n_  
@@ -283,6 +298,7 @@ __shady__
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
+__silkworm__ _n_ :es: gusano de seda  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __single-handedly__  
@@ -412,6 +428,7 @@ __tamarind__
 __tamper__ _v_  
 __tandem__ _n_  
 __tangible__ _adj_  
+__tardy__ _adj_  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
@@ -436,8 +453,10 @@ __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was t
 __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
+__toll__  
 __tonsil__ _n_  
 __tout__ _v_ :dart:  
+__tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
 __trappings__ _n pl_ :two::hammer:  
@@ -449,6 +468,7 @@ __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand
 __unbox__ _n_  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
 __undercut__  
+__underdog__ _n_  
 __underpin__ _v tr_  
 __underpinnings__ _n_ :two::hammer:  
 __unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
@@ -557,6 +577,7 @@ __Williams syndrome__ _n_
 __wimpy__  
 __windowsill__ _n_ :two::hammer:  
 __winsome__  
+__withhold__ _v tr_ :pencil2:  
 __withholding__  
 __withstand__ _v_  
 __woke__ _adj_ :two: _slang_ Aware of the injustice of the social system in which one lives.  
