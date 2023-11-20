@@ -14088,6 +14088,7 @@ __purslane__ _n_ :four::hammer:
 __purulent__ _adj_  
 __purveyance__ _n_  
 __purveyor__ _n_ :eight::hammer: _Purveyors of unhelpfully vapid self help._  
+__purview__ _n_ :two::hammer: /ˈpɜr vyu/  
 __pus__ _n_ /pʌs/ :pencil2::three: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
@@ -14480,13 +14481,13 @@ __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
-__recalcitrant__ _adj_ :five: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
+__recalcitrant__ _adj_ :six: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_ :three::hammer:  
-__recant__ _v_ :five::hammer: (recanted) _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
+__recant__ _v_ :six: Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
-__recap<sup>2</sup>__ _v tr_ _informal_ :four: To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
+__recap<sup>2</sup>__ _v tr_ _informal_ :five: To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
 __recapitulate__ _v_ :two::hammer:  
 __recce__ _n_ :two::hammer:  
 __recede__ _v_  
@@ -14523,18 +14524,21 @@ __recoup__ _v_ :seven: To recoup is a kind of recovery: If you lost some money b
 __recourse__ _n_  
 __recreational__ _adj_ _Recreational marijuana vs medical marijuana._  
 __recreationally__ _adv_ _He plays tennis recreationally._  
+__recruitment__ _n_ :dart: An abnormal and often unpleasant loudness of certain voices or noises.  
 __rectify__ _v_ /REK-tuh-fye/  
 __rectitude__ _n_ :two: /REK-tuh-tood/ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
 __rector__  
-__recumbent__ _adj_ :two::hammer:  
+__recumbent__ _adj_ :three::hammer:  
 __recurse__ _v_ /ri-KUHRS/  
 __recuse__ _v_ :two: /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
+__Red Brigade__  
 __Red Cross__ _n_  
 __red eye__ _n_  
 __red flag__ _n_ :three: Something that irritates or demands immediate action. _Red flag day._ _That raised a red flag to us._  
 __red herring__  
 __red line__ _n_ _They’re crossing red lines._  
+__red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
 __red panda__  
 __red rice__ _n_  
 __red rover__ _n_  
@@ -14542,9 +14546,13 @@ __red snapper__ _n_
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
 __red-eye__ _n_ _Catch the red-eye._  
+__red-faced__  
 __red-hot__ _adj_ _A circlet of red-hot iron._  
 __red-letter day__  
 __redbones__ _n_  
+__REDCON__ _n_ In the U.S. military, the term _REDCON_ is short for Readiness Condition and is used to refer to a unit’s readiness to respond to and engage in combat operations.  
+__redcon<sup>1</sup>__ _n_  
+__redcon<sup>2</sup>__ _v tr_ :five::hammer:  
 __redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :three::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
 __redeemer__ _n_ :two::hammer:  
@@ -14554,9 +14562,9 @@ __redline__ _v_
 __redlining__ _n_  
 __redo__ _v_ :two::hammer:  
 __redolence__ _n_ A pleasingly sweet olfactory property. _Syn_ bouquet, fragrance _The moonlight and the redolence of flowers made the garden a romantic spot._  
-__redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
+__redolent__ _adj_ :eight: /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._ _His ceremony was redolent with tension._  
 __redos__  
-__redoubt__ _n_ :two::hammer: :es: reducto  
+__redoubt__ _n_ :astonished::three: A small, often temporary defensive fortification. _Syn_ sconce :es: reducto  
 __redoubtable__ _adj_ :five::astonished: That is to be feared; formidable. _Two redoubtable warriors._  
 __redoubted__ _adj_  
 __redound__ _v_ /rih-DOWND/ :two::hammer:  
@@ -14592,7 +14600,7 @@ __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:
 __refrain<sup>2</sup>__ _v intr_ :three::hammer: _Refraining from email was definitely a challenge._ _Lorna refrained from comment._  
 __refreshment__ _n_  
 __refugium__ _n_ :two::hammer:  
-__refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
+__refulgent__ _adj_ :two: Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __refunds__ _n_  
 __refurbish__ _v_ :eight::hammer: (refurbished)  
 __refurbishment__ _n_ :three::hammer:  
@@ -14625,7 +14633,7 @@ __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:
 __reiki__ _n_ /ˈreɪkɪ/  
 __reimagining__ _n_  
 __reindeer__ _n pl_ :three::hammer:  
-__reinstate__ _v_ :four::hammer:  
+__reinstate__ _v_ :five::hammer:  
 __reinstatement__ _n_  
 __reiterate__ _v_ :two::hammer: /riːˈɪtəˌreɪt/  
 __reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
@@ -14739,6 +14747,8 @@ __reservoir computing__ _n_
 __reset__ _v_ :three::mega::hammer:  
 __reset<sup>1</sup>__ _n_ :mega::two::hammer:  
 __reset<sup>2</sup>__ _v_ :mega::two::hammer:  
+__reshuffle<sup>1</sup>__ _v tr_  
+__reshuffle<sup>2</sup>__ _n_  
 __residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resign__ _v_ :mute:[resi~~g~~n]  
@@ -14792,7 +14802,7 @@ __reticent__ _adj_ :three::astonished: /RET-uh-sunt/ Inclined to keep one’s th
 __reticle__ _n_ A grid or pattern placed in the eyepiece of an optical instrument, used to establish scale or position. _Syn_ graticule, reticule  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
-__retinue__ _n_ :seven: (retinues) The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
+__retinue__ _n_ :eight: The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
 __retiree__ _n_ :four::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
@@ -14828,6 +14838,7 @@ __revel__ _v intr_ :nine::m: (revelled, revelling, reveling) __1__ To take great
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
 __revelry__ _n_ :six: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
+__revenge__ _n_  
 __reverberate__ _v_ Ring or echo with sound. _Syn_ resound, ring, echo _The explosion reverberated through the castle._  
 __revered__  
 __reversal of fortune__  
@@ -14842,6 +14853,7 @@ __Revolutionary War__
 __revolve__ _v_  
 __revue__ _n_ :five::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._ :es: revista, show  
 __reward__ _n_ :mega:  
+__Reynolds__ _n_ :mega:  
 __rezoning__  
 __rhabdomancy__  
 __rhapsodize__ _v_ :two::hammer:  

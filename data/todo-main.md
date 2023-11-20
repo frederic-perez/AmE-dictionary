@@ -229,27 +229,6 @@ __pilfered__
 __psychobabble__ _n_  
 __purportedly__  
 __purpose__ _n_ :mega:  
-__purview__ _n_ :two::hammer: /ˈpɜr vyu/  
-__recalcitrant__ _adj_  
-__recant__ _v_ Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile  
-__recap__ _v_  
-__recruitment__ _n_ :dart: An abnormal and often unpleasant loudness of certain voices or noises.  
-__recumbent__ _adj_  
-__Red Brigade__  
-__red meat__ _n_ :astonished: __2__ Language or discourse intended to stir the emotions of a given group, especially by appealing to or reinforcing partisan sentiments.  
-__red-faced__  
-__REDCON__ _n_ In the U.S. military, the term _REDCON_ is short for Readiness Condition and is used to refer to a unit’s readiness to respond to and engage in combat operations.  
-__redcon<sup>1</sup>__ _n_  
-__redcon<sup>2</sup>__ _v tr_ :five::hammer:  
-__redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
-__redoubt__ _n_ A small, often temporary defensive fortification. _Syn_ sconce  
-__refulgent__ _adj_ Shining radiantly; resplendent.  
-__reinstate__ _v_  
-__reshuffle<sup>1</sup>__ _v tr_  
-__reshuffle<sup>2</sup>__ _n_  
-__retinue__ _v_  
-__revenge__ _n_  
-__Reynolds__ _n_ :mega:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhinestone__ _n_ _Rhinestone glasses._  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
