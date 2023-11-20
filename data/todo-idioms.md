@@ -19,14 +19,20 @@ __apples and oranges__
 __as long as__  
 __at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
+__bamboozle__  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
 __be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
+__beer money__ A small amount of money that somebody earns or is allowed to spend, for example on beer. _Singing in bars keeps him in beer money._  
 __big cheese__  
+__bite (one’s) tongue__  
 __boom chicka wah wah__  
+__burning question__ :two: An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
+__by the same token__  
 __cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
 __catch a snooze__ To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
 __chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
+__clutch at straws__  
 __crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
 __crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
@@ -65,7 +71,7 @@ __doormat__
 __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double down__  
-__double-edged sword__ Something that can be both beneficial and problematic.  
+__double-edged sword__ :two: Something that can be both beneficial and problematic.  
 __down the toilet__  
 __drag (one’s) ass__  
 __drag (one’s) feet__  
@@ -76,6 +82,7 @@ __draw upon__
 __dressed to the nines__  
 __drop out__  
 __drop the ball__  
+__for the ages__  
 __go bananas__  
 __golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
 __good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
@@ -153,7 +160,9 @@ __hit the lotto__
 __hold up__  
 __hope for the best__ To be hopeful that a positive occurrence will happen. This can be an expression of hope or insight after something has gone awry or when circumstances seem bleak. _Now that our house is on the market, there’s not much we can do but hope for the best._  
 __human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
+__hustle and bustle__ Busy and frenetic activity or excitement.  
 __I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
+__if you like__  
 __in a lifetime__  
 __in a nutshell__  
 __in a similar vein__  
@@ -162,9 +171,11 @@ __in harm’s way__
 __in the cards__  
 __in the hope of__  
 __in the hot seat__  
+__it’s not you, it’s me__ _cliché_ You are not the reason our romantic relationship is ending, the problem is with me. Typically assumed to be a disingenuous, trite, or patronizing explanation for a romantic breakup, the phrase is often used sarcastically or humorously as a result. _A: “But I thought you were happy with me. I don’t want to end things!” B: “Oh, sweet Tom, it’s not you, it’s me! I’m just not emotionally ready for a committed relationship.”_  
 __keep (someone or something) in check__ To limit or restrain someone or something.  
 __lip service__ The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
+__more so__  
 __nerve-wracking__ Causing fear or anxiety.  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
@@ -173,6 +184,8 @@ __off (one’s) case__ No longer a source of constant pressure; not nagging one 
 __on a roll__  
 __on point__  
 __on the horizon__  
+__open season (on someone or something)__  
+__pave the way (for someone or something)__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
 __peeps__  
 __play with fire__  
@@ -193,6 +206,7 @@ __put food on the table__
 __put on a clinic__  
 __put on the brakes__ To slow down, impede, or stop one’s activity or progress.  
 __put out fires__  
+__put the brakes on (someone or something)__ To slow, impede, or stop someone’s or something’s progress or activities.  
 __put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._  
 __put the skids to__  
 __put through the ringer__  
@@ -213,6 +227,7 @@ __red line__
 __ripple effect__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
+__rosy__  
 __round and round__ (around and around)  
 __round something out__  
 __roundhouse__  
@@ -251,7 +266,9 @@ __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, vari
 __take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
+__take a beating__  
 __talk is cheap__ _prov_ It is very easy to talk about what one is going to do or what the correct course of action is, but it is much harder one actually puts those words into action. (Saying this in response to someone who promises you something implies that you do not believe that person will keep the promise.)  
+__TBD__ An initialism of “to be determined.” Used in reference to something that is scheduled to happen but whose details have not yet been established or finalized.  
 __teem with (someone or something)__  
 __tell me about it__  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
@@ -305,6 +322,8 @@ __under (one’s) watch__ A situation where someone is responsible for overseein
 __under one’s belt__  
 __under the guise of (something)__  
 __under the hood__  
+__walk in the park__  
+__walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
@@ -340,6 +359,7 @@ __work out__
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
 __wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
+__writ large__  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __yada yada yada__  
 __yada yada__ Boring or empty talk.  
