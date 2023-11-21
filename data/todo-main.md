@@ -324,36 +324,6 @@ __spaz__
 __speak up__  
 __spectate__ _v intr_  
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
-__spiel__ _n_ :two::hammer:  
-__spite__ _n_  
-__spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious; vindictive. :es: rencoroso  
-__splenetic__ _adj_ /splih-NET-ik/ Splenetic is a formal word that typically describes expressions of sharp annoyance and anger.  
-__spoon__ _v_  
-__spout__ _v_  
-__spritz__ _v_ _He spritzed me with a mouthful of martini._  
-__spurt__ _n_ _A huge spurt of activity._  
-__squalid__ _adj_ Dirty and wretched, as from poverty or lack of care. _Syn_ flyblown, sordid  
-__squall__ _n_ :two::hammer: _It’s just a passing squall._  
-__squander__ _v tr_  
-__squat__ _adj_  
-__squawk__ _v_  
-__squelch__ _v_ :two::hammer:  
-__squinch__ _v tr_ To squeeze, twist, or draw together: _squinched her eyes shut._  
-__squirm__ _v_  
-__staggering__ _adj_  
-__staid__ _n_  
-__stakeholder__  
-__stale__ _adj_  
-__stamina__  
-__stamping__  
-__stance__ _n_ :two::hammer:  
-__standoffish__  
-__standout<sup>1</sup>__ _n_ A person, performance, etc., that is clearly superior to others.  
-__standout<sup>2</sup>__ _adj_ Outstanding; superior.  
-__stately__ _adj_ :two::hammer: _A stately building._  
-__Staten Island__ _n_ :m: /ˈstæt n ˈaɪlənd/  
-__stateroom__ _n_ _73 spacious suites and staterooms._  
-__stationary bicycle__  
 __steal__ _v_ _He sometimes “heard” classical music “stealing across the water.”_  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
