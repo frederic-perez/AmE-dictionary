@@ -27,32 +27,6 @@ __beer money__ A small amount of money that somebody earns or is allowed to spen
 __big cheese__  
 __bite (one’s) tongue__  
 __boom chicka wah wah__  
-__burning question__ :two: An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
-__by the same token__  
-__cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
-__catch a snooze__ To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
-__chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
-__clutch at straws__  
-__crown jewel__ __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._  
-__crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
-__crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
-__culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
-__cup of tea, one’s__ (not my cup of tea)  
-__curve ball__  
-__cut (through) (the) red tape__ To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
-__cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
-__dangle (something) before (someone)__ To try to entice someone with something. _Dad dangled a few twenties before us, but we told him he’d have to pay more to get us to clean out the whole garage._  
-__day in and day out__  
-__days on end__  
-__dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
-__delve into (something)__ To study something thoroughly.  
-__dig in (one’s) heels__ To cling stubbornly to one’s beliefs or wishes.  
-__dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
-__dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
-__dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
-__dish out__ :four::hammer:  
-__dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
-__do (one’s) part__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  

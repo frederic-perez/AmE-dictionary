@@ -804,7 +804,7 @@ __burn up the road__ To travel very fast. Often used to describe driving. _Have 
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
 __burner account__ A social media account that one uses to post anonymously and avoid having their posts (usually ones that are inappropriate somehow) traced to them. _The 76ers GM resigned after being linked to burner accounts on Twitter that shared private information about several players._  
 __burning desire__  
-__burning question__ An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
+__burning question__ :three: An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
 __burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
 __burst (one’s) bubble__  
 __burst at the seams__ :two::hammer:  
@@ -847,11 +847,11 @@ __by the book__ :three: In a way that strictly adheres to the established rules 
 __by the bucketful__  
 __by the dozen(s)__ :dart::two: __2__ In large numbers. Despite the using the word “dozen,” the phrase is not limited to quantities of 12 and can be written in the plural (“dozens”). _If we institute new rules by the dozen, we’ll never be able to police them all at once._ _Users are uncovering affairs and betrayals by the dozen._  
 __by the numbers__ _The boxing sequences are by the numbers._  
-__by the same token__ :three: In the same way.  
+__by the same token__ :four: In the same way.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ :three: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __C-note__  
-__cake-eater__ __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
+__cake-eater__ :two: __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
 __call (all) the shots__ :two::hammer:  
 __call (one) names__  
 __call (one) on (something)__  
@@ -926,7 +926,7 @@ __catch (one’s) breath__ :three::hammer:
 __catch (one’s) eye__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
 __catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
-__catch a snooze__ :two: To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
+__catch a snooze__ :three: To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
 __catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
 __catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
@@ -946,7 +946,7 @@ __caught unaware(s)__ To be surprised by someone or something. _The clerk was ca
 __caught with your pants down__ To be found in an embarrassing situation.  
 __cause a stir__ _ChatGPT is the latest artificial intelligence (AI) chatbot to cause a stir._  
 __cautionary tale__ :three::hammer:  
-__chafe at the bit__ :two: To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
+__chafe at the bit__ :three: To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
 __chain reaction__ /CHAYN ree-ak-shuhn/ A series of events wherein the outcome of each instance specifically influences or causes the next. The phrase comes from the occurrence of such reactions in chemistry and physics. _Deciding to take a course studying James Joyce in college set up a chain reaction that ultimately led me to move to Ireland._  
 __chalk and cheese__ :two: A phrase used to emphasize that two people or things are very different from one another. _Good luck getting those two to talk to each other—they’re like chalk and cheese._  
 __chalk it up__ To link something that has happened to a particular reason or circumstance. _Don’t get too down on yourselves after this loss, boys. Let’s just chalk it up to inexperience and move on._  
@@ -1027,6 +1027,7 @@ __cloud the issue__ :two: To obfuscate or distract from the topic at hand by int
 __clout list__ :two: A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process. _Even though he didn’t do well in school, his father’s connections to state senators and local politicians enabled him to be put on the university’s clout list, and he eventually gained admission._  
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to once-salacious but now relatively common things, events, situations, etc. _Parents should try not to clutch the pearls every time their teenagers come out of their room dressed outrageously—it only makes them want to push the envelope even further._  
+__clutch at straws__  
 __coast along__ :two: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._  
 __cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
 __cock of the walk__ [:scroll: In animal husbandry, an enclosed yard or a pen is known as a walk. A rooster who rules a roost is, literally, a cock of the walk.] A person who behaves in an arrogant and domineering manner in a group. _The deputy manager was cock of the walk until the new manager arrived. He loved acting cock of the walk and ordering everyone about._  
@@ -1146,9 +1147,10 @@ __cross swords__ :two: To fight or argue. _They had crossed swords many times._
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crowd out__  
-__crown jewel__ :three::hammer: _A NYC crown jewel of museums._  
+__crown jewel__ :four: __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._ _A NYC crown jewel of museums._  
+__crummy__ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __crunchy-granola__  
-__crush it__ To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
+__crush it__ :two: To succeed at something in a particularly impressive way. Often used in the past tense. _Her presentation for the CEO went really well. She totally crushed it!_  
 __crushing blow__ :two: A major defeat or setback that is devastating to the goals of a person, group, or organization. _The team’s loss last Sunday was a crushing blow to their chances for a championship._  
 __crutch__ __1__ _n_ A car. (Streets.) _That’s one fine crutch you got here, Bud._ __2__ _n_ A device to hold a marijuana cigarette butt. _Here’s a crutch so you can finish your smoke._  
 __crux of the matter__ _She saw the crux of the matter in seconds._  
@@ -1160,7 +1162,9 @@ __cry over spilled milk__ :two: To be upset over something that cannot be fixed,
 __cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __crystal clear__  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
+__culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
 __cup of joe__  
+__cup of tea, one’s__ (not my cup of tea)  
 __curb appeal__ The external attractiveness of a building or property, such as can be viewed from the street (i.e., the curb). _We were suckered into buying the house because of its incredible curb appeal, but once we moved in, we realized just how run-down it was inside._  
 __curdle (one’s) blood__ To terrify someone. _That horror movie curdled my blood so badly that I spent the next week sleeping in my parents’ bedroom!_  
 __curl (one’s) hair__ To shock or terrify someone. _That horror movie sure curled my hair—I could not sleep for a week!_  
@@ -1168,11 +1172,13 @@ __curl (one’s) lip__ To sneer at something. _When I heard what was for dinner,
 __curse (someone or something) under (one’s) breath__ To say threatening, consternated, or disgruntled remarks (toward someone or something) in a very soft or indistinct voice, such that no one else can hear or understand them clearly. _Steven stormed off to his room, cursing his parents under his breath._  
 __curse a blue streak__ To use profane language with great rapidity and intensity. _My dad cursed a blue streak after he found out I’d put a dent in his car._  
 __curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
+__curve ball__  
 __cushy job__ :two: A job that is easy, stress-free, and/or very well paid. _Since I got this cushy job managing a toy store, I’ve gotten to sit around playing with toys all day._  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __cut (one’s) teeth__ :two::hammer:  
 __cut (one) some slack__ :two::hammer:  
 __cut (someone or something) short__  
+__cut (through) (the) red tape__ To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut and dry__  
 __cut back on (something)__ To reduce or decrease something. _My doctor told me that I need to cut back on eating fried foods in order to improve my cholesterol._  
@@ -1187,6 +1193,7 @@ __cut one’s eyes at someone or something__ :two: To glance at someone or somet
 __cut out__ _Cutting out the negative influences._  
 __cut someone or something off (short)__  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
+__cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
 __cut the line__  
 __cut the spin__  
 __cut ties with (someone)__ :five::hammer: _I was cutting ties without even knowing._  
@@ -1198,6 +1205,7 @@ __damn it__
 __damn the torpedoes__ :two: To press on with a task or current course of action regardless of apparent risks or dangers. _I don’t care that it might bankrupt the company! Damn the torpedoes and get it done already!_  
 __dance the night away__ :four: To dance the entire evening. _We danced the night away._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
+__dangle (something) before (someone)__ To try to entice someone with something. _Dad dangled a few twenties before us, but we told him he’d have to pay more to get us to clean out the whole garage._  
 __dark days__ :two: Times of extreme misfortune or difficulty. _The company struggled on through some dark days several years ago, but it has since established itself as a dominant force in the market._  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __dark joke__  
@@ -1206,7 +1214,7 @@ __darkest hour__
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
 __dawn (up)on (one)__ :two::hammer:  
 __day and age__  
-__day in and day out__ :seven: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
+__day in and day out__ :eight: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in, day out__ :three: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
@@ -1214,7 +1222,6 @@ __day or night__ :two: At any point in time; 24 hours a day. _You know you can a
 __day tripper__ _You are funny, sitting there like a day tripper._  
 __day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __days gone by__ _Read about the colorful characters of days gone by._  
-__days on end__  
 __days to come__  
 __de facto__  
 __dead asleep__ :two: In a deep, immovable sleep. _I was dead asleep after my 12-hour shift; I didn’t even hear the neighbor’s car alarm going off!_  
@@ -1228,6 +1235,7 @@ __dead on (one’s) feet__
 __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead on__  
 __dead set against something__ To be completely against something.  
+__dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum won’t wake him—he’s dead to the world._ __2__ Drunk. _Do you remember last night at the bar at all? You were dead to the world!_  
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ :eight::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
@@ -1239,6 +1247,7 @@ __deep-six (someone or something)__ [:scroll: A reference to the standard six-fo
 __deepfake__ :two::hammer:  
 __defuse (something)__  
 __deliver on__ _v_ :dart: To do something one has promised or is expected to do: _The contractor delivered on his promises to get the work done by Friday._ _Caregiving robots don’t always deliver on their promises._  
+__delve into (something)__ To study something thoroughly.  
 __demur at (something)__ To dispute or contest something.  
 __deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
@@ -1254,21 +1263,26 @@ __dick around__
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig deep__  
-__dig in (one’) heels__ :two: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
+__dig in (one’) heels__ :three: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dig in(to) (something)__ :two::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
 __dime__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value.  
 __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __Ding, ding, ding, we have a winner!__ :two: _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __dingy__  
+__dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
+__dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
+__dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
 __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
 __dirtbag__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
-__dish out__ :two::hammer: _Yoda will dish out the advice._  
+__dish out__ :six::hammer: _Yoda will dish out the advice._  
 __dish something out__  
 __diss__  
+__dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
 __dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
 __dive in__ :dart::three::hammer: _Let’s dive in together._  
+__do (one’s) part__  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
@@ -1560,7 +1574,7 @@ __for all intends and purposes__ :three::hammer:
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for better or (for) worse__ :seven::hammer:  
 __for crying out loud__ :four: A expression of frustration or surprise.  
-__for days on end__ :five: (for hours on end, for years on end) For a long time, specifically many days.  
+__for days on end__ :seven: (for hours on end, for years on end) For a long time, specifically many days.  
 __for good reason__  
 __for good__ :three::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
 __for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
