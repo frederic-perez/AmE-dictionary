@@ -12,21 +12,28 @@ __(not) half the person/man/woman (one) used to be__ Having a reduced, diminishe
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
+__a mixed picture__ A portrayal of a situation highlighting both positive and negative aspects of its nature or status.  
 __a walk in the park__  
 __adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
+__all in__ __3__ Putting all of one’s available resources into an effort: _The governor mounted a halfhearted campaign for the presidency but didn’t go all in._  
 __allude to (something)__  
+__and then some__ And even more; and more than has been mentioned.  
 __apples and oranges__  
 __as long as__  
 __at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bamboozle__  
+__bank on__  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
 __be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
 __beer money__ A small amount of money that somebody earns or is allowed to spend, for example on beer. _Singing in bars keeps him in beer money._  
+__beyond belief__ Inconceivable; outside of the realm of imagination, expectation, or anticipation. _I find it simply beyond belief the greed of all these big corporations._  
 __big cheese__  
 __bite (one’s) tongue__  
 __boom chicka wah wah__  
+__by and large__  
+__crash course__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
@@ -41,6 +48,8 @@ __doggone it__
 __dole out__  
 __doll up__  
 __dolled up to the nines__  
+__don’t mention it__  
+__done and dusted__ (mainly BRITISH)  
 __doormat__  
 __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
@@ -56,7 +65,12 @@ __draw upon__
 __dressed to the nines__  
 __drop out__  
 __drop the ball__  
+__emotional rollercoaster__ A situation or experience that is emotionally intense and unpredictable, with ups and downs that can be both thrilling and terrifying.  
+__for better or (for) worse__  
+__for good__  
 __for the ages__  
+__give (something) the thumbs up__  
+__give something a whirl__  
 __go bananas__  
 __golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
 __good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
@@ -65,6 +79,7 @@ __goody-goody__
 __greenwash__  
 __guardrail__ A safety feature or measure put in place to prevent something from going too far or becoming too extreme. _Senate looks to set guardrails for AI patient safety._  
 __guilty pleasure__  
+__hang in the balance__ To be perilously close to failing, depending on the outcome of something. _The court is just about to issue its verdict, and our company’s future is hanging in the balance._  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
@@ -126,7 +141,7 @@ __high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful
 __high note__ The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
-__hit a snag__ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
+__hit a snag__ :dart::two: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit home__  
 __hit the bull’s-eye__  
 __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
@@ -142,13 +157,18 @@ __in a nutshell__
 __in a similar vein__  
 __in and of itself__ By itself, without considering any other factors. _Reading is wonderful in and of itself._  
 __in harm’s way__  
+__in principle__ Generally, without regard to the specific details.  
 __in the cards__  
 __in the hope of__  
 __in the hot seat__  
+__in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
 __it’s not you, it’s me__ _cliché_ You are not the reason our romantic relationship is ending, the problem is with me. Typically assumed to be a disingenuous, trite, or patronizing explanation for a romantic breakup, the phrase is often used sarcastically or humorously as a result. _A: “But I thought you were happy with me. I don’t want to end things!” B: “Oh, sweet Tom, it’s not you, it’s me! I’m just not emotionally ready for a committed relationship.”_  
+__keep (one’s) eye(s) peeled (for someone or something)__ :two: To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._  
 __keep (someone or something) in check__ To limit or restrain someone or something.  
+__lie ahead of (someone or something)__  
 __lip service__ The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
+__mixed bag__ A diverse mixture or group.  
 __more so__  
 __nerve-wracking__ Causing fear or anxiety.  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
@@ -165,12 +185,14 @@ __peeps__
 __play with fire__  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
+__plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
 __push up the daisies__  
 __pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
 __put (one) off (something)__  
+__put (someone or something) out of business__  
 __put (someone or something) to bed__  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put a spoke in (one’s) wheel__  
@@ -201,6 +223,7 @@ __red line__
 __ripple effect__  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
+__root cause__ The most fundamental, central, or basic causal element of something.  
 __rosy__  
 __round and round__ (around and around)  
 __round something out__  
@@ -217,10 +240,10 @@ __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._
 __silver bullet__  
 __simply put__ In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
 __sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
-__slowly but surely__ At a slow or incremental pace but making steady, dependable progress.  
+__slowly but surely__ :two: At a slow or incremental pace but making steady, dependable progress.  
 __smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
-__spill the beans__  
+__spill the beans__ :two::hammer:  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __stem the tide__ To stop something from continuing or worsening. _Once the people turn on you, you’ll have a hard time stemming the tide of rebellion._  
 __step up__  
@@ -250,7 +273,7 @@ __test the waters__
 __thang__ A facetious or slang form of _thing._  
 __that been said__  
 __that’s a given__  
-__that’s a wrap__ :dart: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
+__that’s a wrap__ :dart::two: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __the (hand)writing is on the wall__  
 __the (hand)writing on the wall__ :dart:  
 __the devil is in the detail(s)__  
@@ -298,11 +321,13 @@ __under the guise of (something)__
 __under the hood__  
 __walk in the park__  
 __walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
+__washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usually hyphenated or spelled as one word. _He was a star player until he got busted for drugs and became a total washout._  
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what it takes__ The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
 __what’s in store__  
+__What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person. _Yes, I agree that health care is an important issue, but what’s that got to do with the price of tea in China? We’re discussing tax incentives for local businesses—not exactly a related topic!_  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __wherever you go, there you are__  
 __whip out__  
@@ -343,5 +368,6 @@ __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or
 __you name it__ :two::hammer:  
 __you saved the day__  
 __you scratch my back, I scratch yours__  
+__your/the last/final word (on/about something)__ your, etc. final decision or statement about something: ‘Will you take £900?’ ‘No, £1 000 and that’s my last word.’  
 __yuk__ __4__ _slang_ An expression or exclamation of extreme disgust, aversion, or contempt. (A variant of “yuck.”)  
 __zero sum game__  
