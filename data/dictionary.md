@@ -17289,7 +17289,7 @@ __stockfish__ _n_
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
-__stockpile<sup>1</sup>__ _n_ :four: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
+__stockpile<sup>1</sup>__ _n_ :six: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
 __stockpile<sup>2</sup>__ _v_ :three: To collect large amounts of things that may be needed.  
 __stocks__ _n_ __1__ A device consisting of a heavy timber frame with holes for confining the ankles and sometimes the wrists, formerly used for punishment. _They joined in bands to rescue a fellow peasant from the stocks._  
 __stodgiest__  
@@ -17390,7 +17390,7 @@ __strapping__ _adj_ Having a sturdy muscular physique; robust. _Two strapping so
 __stratovolcano__ _n_  
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __strawhat__ _adj_ Of or relating to summer dramatic performances.  
-__stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
+__stray<sup>1</sup>__ _v_ :nine: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam. _His thoughts strayed._  
 __stray<sup>2</sup>__ _adj_ :seven: __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ _Stray canines._ _Stray goats._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._ _A stray word._ _Stray steeples._ _Stray friends._  
 __stray<sup>3</sup>__ _n_  
 __streak__ _n_ :three::hammer: _A cold streak._ _A hot streak._  
@@ -17441,8 +17441,10 @@ __strobe light__ _n_ :two::hammer: _The Cubs packed up their fog machine and str
 __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __strobing__ _n_ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
 __stroganoff__  
-__stroke__ _n_ _Stroke of good fortune._  
+__stroke<sup>1</sup>__ _n_ _Stroke of good fortune._  
+__stroke<sup>2</sup>__ _v tr_ __1__ To rub lightly with or as if with the hand or something held in the hand; caress. _The dog’s owner stroked its ears, which made the animal lean into the touch and relax._  
 __stroker__ _n_ _Regular strokers sold their plunder._  
+__stroking__ _n_ A light touch with the hands.  
 __stroll__ _v_  
 __Strombolian__ _adj_  
 __strong accent__  
@@ -17451,13 +17453,14 @@ __strongman__
 __struck a nerve__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
 __strudel__ _n_ :three::hammer:  
-__strum__ _v_ :three::hammer: _He then strummed out a string of hits, including “Message in a Bottle.”_  
+__strum__ _v_ :four::hammer: _He then strummed out a string of hits, including “Message in a Bottle.”_ _She was strumming her guitar._  
 __strummy__  
 __strumpet__ _n_ _archaic_ A prostitute or promiscuous woman.  
 __strung out__  
 __strung__ _v_  
 __strut__ _v_ :five: (strutted) When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
-__stub__ _n_ :five::hammer: _The stubs of cold-withered grass._  
+__stub<sup>1</sup>__ _n_ :five::hammer: _The stubs of cold-withered grass._  
+__stub<sup>2</sup>__ _v tr_ /stʌb/ __2__ To strike (one’s toe or foot) against something accidentally.  
 __stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. _The sugarcane stubble._ _Smoke from a distant stubble fire._ __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving.  
 __stubborn__ _adj_  
 __stubby__ _adj_ :two::hammer: _Stubby fingers._  
@@ -17475,7 +17478,8 @@ __stuffing__
 __stuffy nose__ _n_ The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection). _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :five::hammer: _A stuffy routine meeting._  
 __stultify__ _v_ /STUL-tuh-fye/ To cause someone or something to become dull or ineffective. _With a government as stultified by bureaucracy as that one, even the simplest records request can take weeks._  
-__stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can’t answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That’s a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you’re stumping, stomping, and stamping around, you’re making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
+__stump<sup>1</sup>__ _n_ :es: muñón  
+__stump<sup>2</sup>__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can’t answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That’s a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you’re stumping, stomping, and stamping around, you’re making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
 __stun<sup>1</sup>__ _v_ (stunned)  
 __stun<sup>2</sup>__ _n_ _Stun zone._  
@@ -17527,13 +17531,13 @@ __subsequent__ _adj_ :seven: Following in time or order; succeeding. _The Justic
 __subsequently__ _adv_ :dart::five: Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
-__subsidiary__  
+__subsidiary__ _n_ :two::hammer:  
 __subsidy__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __substation__  
-__subsume__ _v tr_ :three::hammer:  
-__subterfuge__ _n_ :four: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
+__subsume__ _v tr_ :four::hammer:  
+__subterfuge__ _n_ :five: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
 __subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
@@ -17542,6 +17546,7 @@ __suburban__
 __suburbanites__ _n_  
 __suburbia__ _n_  
 __suburbs__  
+__subvert__ _v tr_  
 __subvocalize__  
 __success story__ _n_  
 __succinct__ _adj_ :five::pencil2::mega::hammer: _My advice is to get your posts succinct._  
@@ -17594,7 +17599,7 @@ __summary<sup>1</sup>__ _n_
 __summary<sup>2</sup>__ _adj_ :two::hammer: _Summary deaths._ _Summary killings._  
 __summations__ _n_ _Both sides made their summations._  
 __summertime__ _n_ :four::pencil2::hammer:  
-__summit__ _n_  
+__summit__ _n_ :two::hammer:  
 __summiteer__ _n_ :astonished: An official who takes part in a summit conference.  
 __summonses__ _n pl_ :two::hammer:  
 __sump pump__  
@@ -17613,29 +17618,34 @@ __sundered__ _v_
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
 __sundowner__ _n_ _Sundowner socials._  
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
-__sundry<sup>1</sup>__ _adj_ :three: Various; miscellaneous: _a purse containing sundry items._  
+__sundry<sup>1</sup>__ _adj_ :four: Various; miscellaneous: _a purse containing sundry items._ _Sundry blandishments._  
 __sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
 __sunken__  
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
+__sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
+__sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
 __suntan__ _n_  
+__Suntory__ _n_  
 __sunup__ _n_  
 __suped-up__ _adj_ Of a motor vehicle modified for higher performance, applied by extension to other items.  
-__super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
+__super-duper__ _adj_ :six: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
+__superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __superb__ _adj_  
 __superbly__  
 __supercalifragilisticexpialidocious__ _adj_ :two: Used as a nonsense word by children to express approval or to represent the longest word in English.  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercentenarian__  
-__supercilious__ _adj_ :five: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
+__supercilious__ _adj_ :six: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
 __superfluous__ _adj_ :mega:  
-__superintendent__ _n_ :four::hammer:  
+__superintendent__ _n_ :five::hammer:  
 __superlative__ _adj_ _Superlative works._  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
 __supermoon__ _n_ A full moon that occurs when the moon is at or near the perigee of its orbit around the earth, thus appearing larger in the sky than usual.  
 __supernumerary__  
 __superpooch__  
 __supersede__ _v tr_ :two::hammer: /ˌsu pərˈsid/  
+__superset__ _n_  
 __supersize__ _v_ :two::hammer:  
 __superstorm__ _n_ :two::hammer:  
 __supervise__ _v_  
@@ -17667,16 +17677,18 @@ __surge<sup>2</sup>__ _n_ :two::hammer:
 __suricate__ _n_  
 __surliness__  
 __surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
-__surmise__ _v_ :dart::nine::hammer: (surmised, surmising)  
-__surmount__ _v_ :three::hammer: (surmounted)  
+__surmise<sup>1</sup>__ _n_  
+__surmise<sup>2</sup>__ _v_ :dart::nine::m::hammer: (surmised, surmising)  
+__surmount__ _v_ :four::hammer: (surmounted) _Surmount obstacles._  
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
 __surpass__ _v_  
 __surplice__ _n_ :two: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
 __surreal__ _adj_  
 __surreptitious__  
-__surreptitiously__ _adv_ :four: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
-__surrogate__ _n_ :two::hammer:  
+__surreptitiously__ _adv_ :six: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
+__surrey__ _n_  
+__surrogate__ _n_ :three::hammer:  
 __surveyor__ _n_ :two::hammer:  
 __survival skills__ _n_  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  

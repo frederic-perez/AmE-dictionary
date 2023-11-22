@@ -341,34 +341,6 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
-__stockpile__ _n_ :two::hammer:  
-__strain__ _n_  
-__strayed__ _v_ _His thoughts strayed._  
-__stroke__ _v tr_ __1__ To rub lightly with or as if with the hand or something held in the hand; caress. _The dog’s owner stroked its ears, which made the animal lean into the touch and relax._  
-__stroking__ _n_ A light touch with the hands.  
-__strummíng__ _v_ _She was strumming her guitar._  
-__stub__ _v tr_ /stʌb/ __2__ To strike (one’s toe or foot) against something accidentally.  
-__stump__ _n_ :es: muñón  
-__subsidiary__ _n_  
-__subsumed__ _v_  
-__subterfuge__ _n_ Something intended to misrepresent the true nature of an activity. _Syn_ blind  
-__subvert__ _v tr_  
-__summit__ _n_  
-__sundry__ _adj_ _Sundry blandishments._  
-__sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
-__sunspot__ _n_ Any of the relatively cool dark spots appearing periodically in groups on the surface of the sun that are associated with strong magnetic fields. _Syn_ macula  
-__Suntory__ _n_  
-__super-duper__  
-__superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
-__supercilious__ _adj_ Coolly and patronizingly haughty.  
-__superintendent__ _n_  
-__superset__ _n_  
-__surmise<sup>1</sup>__ _n_  
-__surmise<sup>2</sup>__ _v_  
-__surmount__ _v_ _Surmount obstacles._  
-__surreptitiously__ _adv_ :two::hammer:  
-__surrey__ _n_  
-__surrogate__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __swami__ _n_ :two::hammer:  
