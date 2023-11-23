@@ -1581,7 +1581,7 @@ __for (one’s) (own) good__ :two: For one’s benefit, even though it may not b
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
 __for all intends and purposes__ :three::hammer:  
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
-__for better or (for) worse__ :eight::hammer:  
+__for better or (for) worse__ :eight: Under good or bad circumstances, with good or bad effect.  
 __for crying out loud__ :four: A expression of frustration or surprise.  
 __for days on end__ :seven: (for hours on end, for years on end) For a long time, specifically many days.  
 __for good reason__  
@@ -2233,20 +2233,23 @@ __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or appa
 __hit (one) when (one) is down__ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit a brick wall__ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
-__hit a snag__ :two::dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
+__hit a snag__ :dart::four: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit a wall__  
 __hit and miss__ :two::hammer: (hit or miss)  
 __hit bottom__ To reach the lowest or worst point. _Our profits have hit bottom._  
-__hit home__ :two: To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
+__hit home__ :three: To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit on (one)__ To show one’s romantic or sexual interest in one; to flirt with one. _Are you hitting on me? You’re a married man!_  
 __hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit or miss__ :two::hammer:  
 __hit the big time__ To become very famous or successful.  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
+__hit the bull’s-eye__  
+__hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
 __hit the gas__ :two: To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
 __hit the ground running__ :three::hammer:  
 __hit the jackpot__ :two::hammer:  
+__hit the lotto__  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
 __hit the sack__  
@@ -2284,6 +2287,7 @@ __hold someone back__
 __hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
 __hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
 __hold the reins__ To have or be in control, especially of a group, project, or situation.  
+__hold up__  
 __hold your horses__ :two: Slow down, wait.  
 __Hollyweird__ The term _Hollyweird_ is a play on words, combining the names _Hollywood_ and _weird_, and is often used to describe the American film industry in a negative or satirical manner.  
 __holy crickets__ An exclamation of surprise, shock, or astonishment.  
@@ -2312,7 +2316,7 @@ __hoover up__ _The data was collected by hoovering up content off the internet._
 __hoover__ :two: _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
 __hop on the bandwagon__  
 __hope against (all) hope__ :five: (hoping against hope) To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
-__hope for the best__  
+__hope for the best__ :two: To be hopeful that a positive occurrence will happen. This can be an expression of hope or insight after something has gone awry or when circumstances seem bleak. _Now that our house is on the market, there’s not much we can do but hope for the best._  
 __hophead__  
 __horse and rabbit stew__ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse around__  
@@ -2339,6 +2343,7 @@ __hubby__ :seven: _A shortening and alteration of “husband.”_
 __huff and puff__  
 __hulk out__  
 __hullabaloo__ :two::hammer:  
+__human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
 __humblebrag__  
 __Humpty Dumptyism__ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one’s own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll’s _Through the Looking-Glass_, who states, “When I use a word it means just what I choose it to mean.”  
 __hunker down__ :two: __1__ Literally, to squat. _The magician hunkered down to the eye level of the children._ __2__ To seek refuge in a particular place or area. _We hunkered down at home with some movies while the blizzard raged all weekend._ __3__ To work or begin to work on something in a determined matter. _I can’t believe I didn’t get an A on my project after I’d hunkered down all weekend to do it!_ __4__ To stubbornly maintain some belief. _It seems he’s hunkered down and will never see me as anything but the villain in his life._  
@@ -2346,9 +2351,10 @@ __hunky-dory__
 __hunt where the ducks are__ To pursue or look for one’s objectives, results, or goals in the place where one is most likely to find them.  
 __hush money__  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly.  
-__hustle and bustle__ Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
+__hustle and bustle__ :two: Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
 __hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
 __I can imagine__ :three::hammer:  
+__I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
 __I feel you__  
 __I feel you/that__ _slang_ I understand, agree with, or can relate to what you’re saying. _No, I feel you, that’s too much money to pay for a concert. I’m OK with skipping it._  
 __I hear you__ :six: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
@@ -2375,6 +2381,7 @@ __if only__ :two::hammer:
 __if the shoe fits, wear it__ If a description applies to you, then accept it.  
 __if you ask me__  
 __if you know what I mean__  
+__if you like__  
 __if you will__ :five: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __in (a) shambles__ :two::hammer:  
 __in (all) fairness (to one)__  
@@ -2399,10 +2406,12 @@ __in a heartbeat__
 __in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
 __in a jam__ In a troublesome situation.  
 __ín a jiffy__ Immediately or very quickly; at once.  
+__in a lifetime__  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a million years__  
+__in a nutshell__  
 __in a rut__  
-__in a similar vein__  
+__in a similar vein__ :two::hammer:  
 __in a sorry state__ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in abeyance__ :two: A phrase used to describe something as pending or suspended. _How long do you think they will hold the decision in abeyance? I’m eager to know what they think._ _The bishops held the proceedings against Wyclif in abeyance._ _You capture the inventory into containers that hold items in abeyance._  
@@ -2411,7 +2420,7 @@ __in all likelihood__
 __in all seriousness__ :dart::two: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in all__ :two::hammer: _I need five sailors in all._  
-__in and of itself__ :two: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._  
+__in and of itself__ :three: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
 __in any event__ :five: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
 __in any way, shape, or form__  
 __in awe (of someone or something)__  
@@ -2439,6 +2448,7 @@ __in front of (one’s) very eyes__ Right in plain sight or while one is watchin
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
 __in full swing__ :three::hammer: _The conference was in full swing when I arrived._  
 __in full__  
+__in harm’s way__  
 __in high dudgeon__  
 __in hindsight__  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
@@ -2463,6 +2473,7 @@ __in passing__ Casually or as an aside during a conversation. _Karen mentioned t
 __in perfect harmony__  
 __in place__ :three: __2__ _adj_ Ready to be put into action. _I think everything is in place for us to begin the acquisition deal._  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
+__in principle__ Generally, without regard to the specific details.  
 __in question__ Currently being discussed or under consideration. _I just don’t see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in regard to (someone or something)__  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
@@ -2483,6 +2494,7 @@ __in the (very) nick of time__ :two::hammer:
 __in the back__ In the back part of a building; in the back room of a building. _He’s not in the shop right now. I’ll see if he’s in the back._  
 __in the black__ :two: Not in debt, profitable.  
 __in the blink of an eye__  
+__in the cards__  
 __in the circumstances__ Due to the conditions or particular situation; such as the case is.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ :three: _slang_ In trouble with someone due to one’s misdeeds or blunders.  
@@ -2495,7 +2507,9 @@ __in the face of (something)__
 __in the guise of (something)__  
 __in the gutter__  
 __in the heat of (something)__ During a time of extreme action, emotion, or agitation. _Soldiers have to train themselves not to feel fear in the heat of battle._  
+__in the hope of__  
 __in the hope that__ With the expectation, intention, or desire that (something will happen).  
+__in the hot seat__  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
 __in the know__ :six::hammer:  
@@ -2530,6 +2544,7 @@ __in the wind__
 __in the works__ :two: In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
 __in the zone__  
 __in their own right__  
+__in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
 __in this day and age__ :two::hammer:  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in training__  
@@ -2563,6 +2578,7 @@ __it takes two to tango__ :three::hammer:
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
 __it’s all good__ A phrase used to express general approval, unconcern, or disinterest.  
+__it’s not you, it’s me__ _cliché_ You are not the reason our romantic relationship is ending, the problem is with me. Typically assumed to be a disingenuous, trite, or patronizing explanation for a romantic breakup, the phrase is often used sarcastically or humorously as a result. _A: “But I thought you were happy with me. I don’t want to end things!” B: “Oh, sweet Tom, it’s not you, it’s me! I’m just not emotionally ready for a committed relationship.”_  
 __it’s one of those things__  
 __ivory tower__ :two: An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
 __jack someone up__ _It jacks me up._  
@@ -2622,11 +2638,11 @@ __justice is served/done__ Proper punishment or fair treatment is given by the l
 __K-car__ :two::hammer:  
 __kangaroo court__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
-__keep (one’s) eye(s) peeled (for someone or something)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
+__keep (one’s) eye(s) peeled (for someone or something)__ :three: To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one’s)/an eye on (someone or something)__ :three: To watch someone or something carefully; to be attentive to someone or something. _Keep an eye on the Twitter._  
-__keep (someone or something) in check__ :three::hammer: _Devils keep Hawks’ high-flying offense in check._  
+__keep (someone or something) in check__ :four: To limit or restrain someone or something. _Devils keep Hawks’ high-flying offense in check._  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one’s end of the bargain up.”  
@@ -2824,7 +2840,7 @@ __let’s roll__ Let’s get out of here; let’s get moving. _That’s everythi
 __letdown__ :two: Something that is disappointing, usually because it did not meet one’s high expectations about it. _Not getting tickets to the game after my aunt promised them to us is a real letdown._  
 __letters after (one’s) name__ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level up__  
-__lie ahead of (someone or something)__  
+__lie ahead of (someone or something)__ :two::hammer:  
 __lifer__  
 __lift a finger__ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift the curtain (on something)__ __2__ To make (something) publicly known; to reveal or disclose the details or truth (about something). _LinkedIn finally lifted the curtain on a number of AI features it’s been cooking behind the scenes._  
@@ -2858,7 +2874,7 @@ __line in the sand__ A figurative boundary that someone or some group refuses to
 __line of work__  
 __lingua franca__ Any language used to bridge the gap between people who do not speak the same language. _English is the lingua franca in many foreign tourist destinations._  
 __lion’s share__ :two: The greatest or best part.  
-__lip service__ :three::hammer:  
+__lip service__ :four: The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
 __litmus test__  

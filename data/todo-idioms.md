@@ -115,32 +115,6 @@ __high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful
 __high note__ The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
-__hit a snag__ :dart::two: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
-__hit home__  
-__hit the bull’s-eye__  
-__hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
-__hit the lotto__  
-__hold up__  
-__hope for the best__ To be hopeful that a positive occurrence will happen. This can be an expression of hope or insight after something has gone awry or when circumstances seem bleak. _Now that our house is on the market, there’s not much we can do but hope for the best._  
-__human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
-__hustle and bustle__ Busy and frenetic activity or excitement.  
-__I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
-__if you like__  
-__in a lifetime__  
-__in a nutshell__  
-__in a similar vein__  
-__in and of itself__ By itself, without considering any other factors. _Reading is wonderful in and of itself._  
-__in harm’s way__  
-__in principle__ Generally, without regard to the specific details.  
-__in the cards__  
-__in the hope of__  
-__in the hot seat__  
-__in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
-__it’s not you, it’s me__ _cliché_ You are not the reason our romantic relationship is ending, the problem is with me. Typically assumed to be a disingenuous, trite, or patronizing explanation for a romantic breakup, the phrase is often used sarcastically or humorously as a result. _A: “But I thought you were happy with me. I don’t want to end things!” B: “Oh, sweet Tom, it’s not you, it’s me! I’m just not emotionally ready for a committed relationship.”_  
-__keep (one’s) eye(s) peeled (for someone or something)__ :two: To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._  
-__keep (someone or something) in check__ To limit or restrain someone or something.  
-__lie ahead of (someone or something)__  
-__lip service__ The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mixed bag__ A diverse mixture or group.  
 __more so__  
