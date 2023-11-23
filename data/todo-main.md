@@ -59,34 +59,6 @@ __creep__
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
 __crook__  
-__cross talk__ _n_ :two: Interference heard on a telephone or radio because of unintentional coupling to another communication channel.  
-__crumple__  
-__crumpled__ _adj_ _A crumpled newspaper copy._  
-__cuckolded__  
-__cupidity__ _n_ Excessive desire, especially for wealth. _Syn_ covetousness, avarice  
-__cure-all__ _n_  
-__cushy__ _adj_ _Cushy job._  
-__cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
-__customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
-__cutthroat__ _n_ __2__ An unprincipled, ruthless person.  
-__cutting-edge__ _adj_  
-__cyst__  
-__dab__ _n_  
-__dalliances__ _n_  
-__darting__ _v_  
-__data scrubbing__ _n_ _Syn_ data cleansing, data cleaning  
-__daunting__ _adj_  
-__davening__  
-__de novo__  
-__deadened__  
-__debonair__  
-__debonnaire__ _adj_  
-__decal__ _n_ /ˈdi kæl, dɪˈkæl/ __1__ A picture or design transferred by decalcomania. __2__ A decorative sticker. :es: pegatina  
-__decamp__  
-__deciduous__ _adj_ Shedding the leaves annually.  
-__decommission__ _v_  
-__defect__ _v intr_ __1__ 1. To disown allegiance to one’s country and take up residence in another: _a Soviet citizen who defected to Israel._ _He defected to Canada with the help of the CIA._  
-__deli__ _n informal_ A delicatessen.  
 __deliverance__ _n_  
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __denervation__ _n_  

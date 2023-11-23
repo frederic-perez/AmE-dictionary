@@ -4209,6 +4209,7 @@ __crop__ _n_ _He had a riding crop in one hand._
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
+__cross talk__ _n_ :two: Interference heard on a telephone or radio because of unintentional coupling to another communication channel.  
 __cross-compiler__ _n_  
 __cross-country<sup>1</sup>__ _adj_ :two::hammer:  
 __cross-country<sup>2</sup>__ _n_  
@@ -4257,8 +4258,9 @@ __crumble<sup>3</sup>__ _n_
 __crumbling__ _adj_ :two::hammer: _Crumbling sidewalk._ _A crumbling Germany at the start of the Third Reich._  
 __crummy__ _adj_ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
-__crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
+__crumple<sup>1</sup>__ _v_ :five::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
 __crumple<sup>2</sup>__ _n_  
+__crumpled__ _adj_ _A crumpled newspaper copy._  
 __crunch<sup>1</sup>__ _n_ :two::hammer: (crunches)  
 __crunch<sup>2</sup>__ _v_ _Shi Shi and Bai Yun play, nap, explore and crunch bamboo._  
 __crunchtime__  
@@ -4286,7 +4288,7 @@ __CSI effect__ _n_ The CSI effect most often refers to the belief that jurors ha
 __cubbyhole__ _n_ (cubby-hole) :two::hammer:  
 __cuckold<sup>1</sup>__ _n_ :three::hammer:  
 __cuckold<sup>2</sup>__ _v_ :three::hammer:  
-__cuckolded__ _adj_ :three::hammer:  
+__cuckolded__ _adj_ :four::hammer:  
 __cuckoldry__ _n_  
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
@@ -4322,7 +4324,7 @@ __cumulonimbus__ _n_ _Syn_ thunderstorm
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
-__cupidity__ _n_ :four::astonished: Excessive desire, especially for wealth; covetousness or avarice.  
+__cupidity__ _n_ :dart::five: Excessive desire, especially for wealth. _Syn_ covetousness, avarice  
 __cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
 __cupping__ _n_ :pencil2:  
@@ -4335,7 +4337,7 @@ __curd__ _n_
 __curdle__ _v_  
 __curdled__ _adj_ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
-__cure-all__ _n_  
+__cure-all__ _n_ :two::hammer:  
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __Curia__ _n_ :four: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
@@ -4356,14 +4358,16 @@ __curtained-off__ _adj_ Separated from the rest of a room or area by a curtain. 
 __curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
 __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
 __curving__ _adj_ Not straight; having or marked by a curve or smoothly rounded bend.  
-__cushy__ _n_ _A cushy modern life._  
+__cushy__ _adj_ :two::hammer: _Cushy job._ _A cushy modern life._  
 __cusp__ _n_ :four: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
+__cuspidor__ _n_ A receptacle for spit (usually in a public place). _Syn_ spittoon  
 __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
 __custard__ _n_ :two::hammer: :es: natillas, flan  
 __custodian__  
 __custody__ _n_ _Finally my house returned to my custody._  
 __custom__ _n_ /ˈkʌstəm/  
 __customary__ _adj_ /ˈkʌs təˌmɛr i/  
+__customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That teacher is a tough customer._ _He’s a sly customer._  
 __customs__ _n_ (at airport)  
 __cut me a little slack__  
 __cut shot__ _n_ A type of shot in several sports.  
@@ -4377,11 +4381,11 @@ __cutline__ _n_
 __cutoff<sup>1</sup>__ _adj_ __1__ Designating a limit or point of termination: _a cutoff date for applications._ _The investigation kept going for months beyond its original cutoff date._  
 __cutoff<sup>2</sup>__ _n_ (cutoffs) __1__ Pants, such as blue jeans, made into shorts by cutting off part of the legs. _Cutoff trousers._ __2__ A route shorter than the usual one. _Syn_ shortcut, crosscut _My father claimed he knew a great cutoff, but it turned out to be longer than our original route._  
 __cutter__ _n_ _A Coast Guard cutter._  
-__cutthroat<sup>1</sup>__ _n_  
+__cutthroat<sup>1</sup>__ _n_ :two: __2__ An unprincipled, ruthless person.  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin’ a rug__  
 __cutting edge__ _n_  
-__cutting-edge__ _adj_ :four::hammer: _Cutting-edge research._  
+__cutting-edge__ _adj_ :five::hammer: _Cutting-edge research._  
 __cuttlefish__ _n_ :two::hammer: _Cuttlefish bones._  
 __Cutty Sark__ _n_  
 __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
@@ -4392,12 +4396,12 @@ __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._
 __cynical__ _adj_ :three::pencil2: /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
 __cynophilist__ _n_ /sy-NOH-fi-list/ [:scroll: From From Greek kyon (dog) + -philia (love).] One who loves dogs.  
 __cypress__ _n_ :astonished:  
-__cyst__ _n_ :mega: _Ganglion cysts._  
+__cyst__ _n_ :two::hammer::mega: _Ganglion cysts._  
 __cytometer__  
 __cytometry__  
 __D-ring inset__  
 __dab<sup>1</sup>__ _v_ :nine: (dabs, dabbing) __1__ _v intr/tr_ To touch a surface gently several times with something such as a piece of cloth, in order to make it clean or dry. _Remove the stain by carefully dabbing it with a cloth._ _Marge dabbed at her eyes with a handkerchief._ _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._ _He took a handkerchief and dabbed his brow._ __2__ _v tr_ To quickly put small amounts of a substance on a surface._ Dab some lotion onto the affected area._  
-__dab<sup>2</sup>__ _n_ :four: A small amount.  
+__dab<sup>2</sup>__ _n_ :five: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabbler__ _n_ :two: An amateur who engages in an activity without serious intentions and who pretends to have knowledge. One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
 __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of the former Soviet Union. _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -4420,7 +4424,7 @@ __daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, peopl
 __dalai lama__ _n_ :mega:  
 __Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
 __dale__ _n_ _Secluded dales._  
-__dalliance__  
+__dalliance__ _n_ :two::hammer:  
 __dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
@@ -4459,7 +4463,7 @@ __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._
 __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
-__dart__ _v_ :four::hammer: (darting)  
+__dart__ _v_ :five::hammer: (darting)  
 __Daruma doll__ _n_ :dart::camera: A hollow, round, Japanese traditional doll modeled after Bodhidharma, the founder of the Zen tradition of Buddhism.  
 __DASH diet__ _n_ :dart: The DASH diet (Dietary Approaches to Stop Hypertension) is a dietary pattern promoted by the U.S.-based National Heart, Lung, and Blood Institute (part of the National Institutes of Health (NIH), an agency of the United States Department of Health and Human Services) to prevent and control hypertension.  
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
@@ -4467,6 +4471,7 @@ __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._
 __dashing__ _adj_ :two::hammer: _A dashing atmosphere._ _I think I look rather dashing._  
 __dastard__ _adj_  
 __data mining__ _n_  
+__data scrubbing__ _n_ _Syn_ data cleansing, data cleaning  
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ _n_ :two: The use of a datalogger  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -4477,9 +4482,10 @@ __dateline__
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunt__ _n_  
-__daunting__ _adj_ :six: Seeming difficult to deal with in prospect; intimidating.  
+__daunting__ _adj_ :seven: Seeming difficult to deal with in prospect; intimidating.  
 __dauntless__ _adj_ /DAWNT-lus/  
 __Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direct heir to the throne.  
+__daven__ _v intr_ To recite Jewish liturgical prayers.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __davit__ _n_ :two::hammer:  
 __dawdle__ _v_ :dart::two::hammer:  
@@ -4494,7 +4500,7 @@ __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the w
 __dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
-__de novo__ _adj, adv_ _Computer-based de novo design of drug-like molecules._  
+__de novo__ _adj, adv_ :two::hammer: _Computer-based de novo design of drug-like molecules._  
 __de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
 __deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  
@@ -4507,6 +4513,7 @@ __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly 
 __dead__ _adj_ :two::hammer: _Dead batteries._ _Dead serious._  
 __dead-end__ _v intr_ _I-84 dead-ends at Portland._  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
+__deadened__  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadlock__ _n_ /ˈdɛdˌlɒk/  
 __deadly__ _adv_ __1__ So as to suggest death. __2__ To an extreme: _deadly serious._  
@@ -4529,8 +4536,8 @@ __debatable__
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ _n_ :four::hammer:  
 __debilitating__ _adj_ /dih-BILL-uh-tay-ting/ Causing serious impairment of strength or ability to function. _The flu can be debilitating for several days._  
-__debonair__ _adj_ :two::hammer: /deb-uh-NAIR/  
-__debonnaire__ _adj_  
+__debonair__ _adj_ :three::hammer: /deb-uh-NAIR/  
+__debonnaire__ _adj_ :two::hammer:  
 __debouch__ _v_ :two: __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debrief__ _v_  
 __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
@@ -4544,9 +4551,9 @@ __debutante__
 __decadence__ _n_ :two: __1__ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation __2a__ Behavior that is considered immoral because it concentrates too much on pleasure. _A life of sexual decadence._ __b__ So much pleasure that it almost seems morally wrong. _Eating like that every night is pure decadence._ _Enjoy elegant decadence._  
 __decadent__ _adj_ :seven::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Renowned for decadent and unique signature items._ _Decadent glory._  
 __decaf__ _n_ Decaffeinated coffee.  
-__decal__ _n_ :five::hammer: _Look for our decal when making dining plans._  
+__decal__ _n_ :six: /ˈdi kæl, dɪˈkæl/ __1__ A picture or design transferred by decalcomania. __2__ A decorative sticker. _Look for our decal when making dining plans._ :es: pegatina  
 __decalcomania__ _n_ /de-kal-kuh-MAY-nee-uh/ __1__ The process of transferring a design from a specially prepared paper onto another surface. __2__ A decal: a design on a specially prepared paper made to be transferred onto another surface.  
-__decamped__ _v_  
+__decamp__ _v_ :two::hammer:  
 __decant__ _v_ :two::hammer:  
 __decanter__ _n_ :three: A vessel used for decanting, especially a decorative bottle used for serving wine. _Syn_ carafe _Sir Percival was sitting at the table with a decanter of wine before him._  
 __decathlon__  
@@ -4554,7 +4561,7 @@ __deceit__ _n_ :three::mega::hammer: /dɪˈsiːt/
 __decelerate__ _v_  
 __decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
 __decidophobia__ _n_  
-__deciduous__ _adj_ :two::hammer:  
+__deciduous__ _adj_ :three: Shedding the leaves annually.  
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __decision__ _n_ :mega:  
@@ -4569,7 +4576,7 @@ __decline__ _n_
 __declivity__ _n_ A downward slope or bend. _Syn_ fall, downslope, declension, declination, decline, descent  
 __declutter__ _v_  
 __decollete__ _adj_ Cut low at the neckline. _Syn_ low-cut, low-necked  
-__decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
+__decommission__ _v_ :four::hammer: (decommissioned, decommissioning) _Decommissioning process._  
 __decommits__  
 __decompensation__ _n_ __1__ _Medicine_ The inability of a bodily organ or system, especially the circulatory system, to maintain adequate physiological function in the presence of disease.  
 __decongestant__ _n_ :three::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
@@ -4616,7 +4623,7 @@ __defang__ _v_
 __defanging__ _n_  
 __default<sup>1</sup>__ _n_  
 __default<sup>2</sup>__ _v_ :six::hammer: _The Solar Energy company defaulted._  
-__defect__ _v_ :nine: To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
+__defect__ _v intr_ :nine::m: __1__ To disown allegiance to one’s country and take up residence in another: _a Soviet citizen who defected to Israel._ _He defected to Canada with the help of the CIA._ To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :nine::m: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
@@ -4664,7 +4671,7 @@ __delegacy__ _n_ A group of representatives or delegates.
 __delegatable__ _adj_ _Non-delegatable actions._  
 __delegate__ _v_ /DEL-uh-gayt/  
 __deleterious__ _adj_ :eight: /del-uh-TEER-ee-us/ Harmful often in a subtle or unexpected way. Having a harmful effect; injurious. Deleterious is a word used in formal speech and writing to describe something that is damaging or harmful, usually in a subtle or unexpected way. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._ _While the popular lawn care product is effective at eliminating weeds, it unfortunately is also deleterious to the wider environment._  
-__deli__ _n_ :two::hammer:  
+__deli__ _n informal_ :three: A delicatessen.  
 __deliberate__  
 __delicate__ _adj_ :two::hammer::mega:  
 __delight<sup>1</sup>__ _n_ :two::hammer:  
