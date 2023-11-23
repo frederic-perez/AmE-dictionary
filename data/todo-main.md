@@ -48,6 +48,8 @@ __bursitis__ _n_
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
 __chainsaw__ _n_  
 __chimera__ _n_ /kye-MEER-uh/  
+__circuitous__ _adj_  
+__colic__ _n_ :astonished: __2__ A condition of unknown cause seen in infants less than three months old, marked by periods of inconsolable crying lasting for hours at a time for at least three weeks.  
 __colophon__ _n_ __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
 __cradling__ _v_  
 __crapula__  
@@ -57,7 +59,7 @@ __creep__
 __crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
 __crook__  
-__cross talk__ _n_ Interference heard on a telephone or radio because of unintentional coupling to another communication channel.  
+__cross talk__ _n_ :two: Interference heard on a telephone or radio because of unintentional coupling to another communication channel.  
 __crumple__  
 __crumpled__ _adj_ _A crumpled newspaper copy._  
 __cuckolded__  
@@ -84,6 +86,7 @@ __decamp__
 __deciduous__ _adj_ Shedding the leaves annually.  
 __decommission__ _v_  
 __defect__ _v intr_ __1__ 1. To disown allegiance to one’s country and take up residence in another: _a Soviet citizen who defected to Israel._ _He defected to Canada with the help of the CIA._  
+__deli__ _n informal_ A delicatessen.  
 __deliverance__ _n_  
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __denervation__ _n_  
@@ -108,6 +111,7 @@ __easy chair__
 __ebb__ _v_ _My confidence was ebbing._  
 __echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary speech and writing as a synonym of authentic, genuine, and true.  
 __edutainment__ _n_  
+__effective altruism__  
 __efferent__  
 __efficacy__ _n_ /ˈɛf ɪ kə si/  
 __effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
@@ -134,7 +138,7 @@ __enthuse__ _v_
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
-__ethos__ _n_  
+__ethos__ _n_ :two::hammer:  
 __eviction__ _n_  
 __exigent__ _adj_ /EK-suh-junt/  
 __expunge__ _v tr_  
@@ -171,6 +175,7 @@ __haggle__ _v_
 __hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
 __hammerlock__  
 __hogwash__ _n_  
+__in-fighting__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
 __inordinate__ _adj_ /in-OR-dun-ut/  
 __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
@@ -182,6 +187,7 @@ __knit cap__ _n_ A soft, head-hugging cap usually without a specified front or b
 __lackluster__ _adj_  
 __laissez-faire__ _n_ /less-ay-FAIR/  
 __landfill__ _n_  
+__language barrier__ _n_ Barrier to communication resulting from speaking different languages.  
 __lenient__ _adj_  
 __list price__ _n_  
 __long-lasting__ _adj_  
@@ -189,12 +195,15 @@ __luscious__
 __maelstrom__ _n_ /MAIL-strum/  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
 __mawkish__ _adj_  
+__medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __misnomer__ _n_  
 __misspend__ _v tr_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
+__naught__ _n_  
 __navigate__ _v_  
+__Navy SEAL__ _n_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __nescience__ _n_  
 __non-binding__ _adj_ That does not bind the participants.  
@@ -205,6 +214,7 @@ __off label__
 __offset__ _v_  
 __ogre__ _n_  
 __onus__ _n_  
+__opportunistic__  
 __otitis__ _n_  
 __ottter__ _n_  
 __out-of-pocket__  
@@ -223,12 +233,15 @@ __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marke
 __pamper__ _v_  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __people pleaser__ _n_  
+__pester__ _v tr_  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
+__precipice__ _n_  
 __psychobabble__ _n_  
 __purportedly__  
 __purpose__ _n_ :mega:  
+__radio__ _v_ _He never even thought to radio for help._  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhinestone__ _n_ _Rhinestone glasses._  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
@@ -295,6 +308,7 @@ __shady__
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
+__shit-hole__  
 __silkworm__ _n_ :es: gusano de seda  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
@@ -307,6 +321,7 @@ __Six-Day War__ _n_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __snuggle__ _v_  
+__solopreneur__  
 __sought-after__  
 __sound__ _adj_ _Sound advice._  
 __souse__  
@@ -341,6 +356,8 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
+__strife__ _n_  
+__stuffing__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __swami__ _n_ :two::hammer:  
@@ -405,6 +422,7 @@ __trawl__ _v_
 __treasure trove__  
 __trellis__ _n_  
 __trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
+__trite__ _adj_  
 __unbox__ _n_  
 __undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
 __undercut__  
@@ -426,6 +444,7 @@ __unknome__ _n_ A tongue-in-cheek neologism (after ge-nome) for the plethora of 
 __unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
 __unmissable__  
 __unpack__  
+__unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
 __unseemly__ _adj, adv_ :two::hammer:  
 __unspoken__ _adj_  
@@ -440,7 +459,7 @@ __upright bass__ _n_
 __uproar__ _n_  
 __upside__ _n_ _The gig did have some upsides._  
 __uptake__ _n_  
-__uptick__  
+__uptick__ _n_ :two::hammer:  
 __utterance__  
 __uvula__ _n_ /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat.  
 __va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
