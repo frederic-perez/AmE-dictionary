@@ -54,32 +54,6 @@ __doormat__
 __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double down__  
-__double-edged sword__ :two: Something that can be both beneficial and problematic.  
-__down the toilet__  
-__drag (one’s) ass__  
-__drag (one’s) feet__  
-__drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
-__draw (something) to (someone’s) attention__ To inform someone of something. _Oh, I’ll draw your misconduct to your supervisor’s attention, don’t you worry._ _Don’t forget to draw the leak to the landlord’s attention._  
-__draw a line__  
-__draw upon__  
-__dressed to the nines__  
-__drop out__  
-__drop the ball__  
-__emotional rollercoaster__ A situation or experience that is emotionally intense and unpredictable, with ups and downs that can be both thrilling and terrifying.  
-__for better or (for) worse__  
-__for good__  
-__for the ages__  
-__give (something) the thumbs up__  
-__give something a whirl__  
-__go bananas__  
-__golden years__ The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
-__good books__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good books” or some variation thereof. _John’s been in my good books ever since he helped get me out of debt._  
-__good enough for jazz__ :dart: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
-__goody-goody__  
-__greenwash__  
-__guardrail__ A safety feature or measure put in place to prevent something from going too far or becoming too extreme. _Senate looks to set guardrails for AI patient safety._  
-__guilty pleasure__  
-__hang in the balance__ To be perilously close to failing, depending on the outcome of something. _The court is just about to issue its verdict, and our company’s future is hanging in the balance._  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
