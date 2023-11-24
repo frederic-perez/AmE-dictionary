@@ -188,31 +188,6 @@ __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._
 __silver bullet__  
 __simply put__ In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
 __sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
-__slowly but surely__ :two: At a slow or incremental pace but making steady, dependable progress.  
-__smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
-__sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
-__spill the beans__ :two::hammer:  
-__steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
-__stem the tide__ To stop something from continuing or worsening. _Once the people turn on you, you’ll have a hard time stemming the tide of rebellion._  
-__step up__  
-__stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
-__stop short__ To abruptly stop doing something.  
-__straight shooter__ An honest and trustworthy person who is straightforward in dealings with others. _Joe’s a straight shooter—if he says that Alice is taking money out of the cash register, then I believe him._  
-__strange bedfellows__  
-__straw man__  
-__strike off__ __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
-__sugar talk__ Sugar talk refers to a type of language or communication that is overly flattering, ingratiating, or excessively polite, often with the intention of manipulating or deceiving others.  
-__sugarcoat (something)__  
-__sure enough__  
-__surprise, surprise__  
-__swan song__  
-__swim against the tide__ To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others.  
-__switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I’ll distract the guards while you make a switcheroo with the fake diamond._  
-__take (one’s) name in vain__ :dart: To speak about someone when they are not present, as in a critical manner. The phrase comes from one of the Ten Commandments, which prohibits taking God’s name in vain. _Hey, I heard that! Don’t take my name in vain!_  
-__take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
-__take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
-__take a beating__  
-__talk is cheap__ _prov_ It is very easy to talk about what one is going to do or what the correct course of action is, but it is much harder one actually puts those words into action. (Saying this in response to someone who promises you something implies that you do not believe that person will keep the promise.)  
 __TBD__ An initialism of “to be determined.” Used in reference to something that is scheduled to happen but whose details have not yet been established or finalized.  
 __teem with (someone or something)__  
 __tell me about it__  
