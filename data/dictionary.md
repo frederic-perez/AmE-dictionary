@@ -6071,7 +6071,7 @@ __evergreen__ _adj_ :two: __2__ Perennially fresh or interesting; enduring.
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict<sup>1</sup>__ _n_ :es: desahucio  
 __evict<sup>2</sup>__ _v tr_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process. :es: desahuciar, desalojar  
-__eviction__ _n_ :three::hammer:  
+__eviction__ _n_ :four::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evildoer__ _n_  
 __evince__ _v_ :seven: /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly. To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._ _To evince an interest in politics._ _She didn’t evince surprise._  
@@ -6136,6 +6136,7 @@ __exhilarating__ _adj_ :nine::m: Causing strong feelings of excitement and happi
 __exhilaration__ _n_  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
+__exigent__ _adj_ /EK-suh-junt/  
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
 __exodus__ _n_ :three: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure. A large scale departure or emigration.  
@@ -6171,7 +6172,7 @@ __expostulate__ _v_ :three::hammer:
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
 __expropriate__ _v_ To take (a property) for public use.  
-__expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
+__expunge__ _v tr_ :three: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
 __extant__ _adj_ :two::hammer:  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
@@ -6184,8 +6185,9 @@ __extirpate__ _v_ :two: /EK-ster-payt/ To destroy totally. _Syn_ eradicate, exte
 __extol__ _v tr_ :nine::m: (extol, extolled, extolling) To praise highly; exalt. _But he extols running as what helps him stay clean._  
 __extort__ _v_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
-__extraneous__  
+__extraneous__ _adj_ :dart::two: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
 __extravaganza__ _n_ :four::hammer:  
+__extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
 __extricate__ _v tr_ :nine::m: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
@@ -6201,6 +6203,7 @@ __eye of round__ _n_ A cut of meat taken from the rear leg muscles. A cheap cut 
 __eye patch__  
 __eye raiser__  
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
+__eye__ _v_ _Kyiv eyes global peace summit this year._  
 __eye-popping__ _adj_ :three: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
 __eye-watering__ _adj_ :two: Painful or extremely unpleasant: _eye-watering electricity bills._  
 __eyeball<sup>1</sup>__ _n_ :two:  
@@ -6222,7 +6225,7 @@ __fab__ _adj_ :two: _slang_ A shortening of “fabulous,” meaning great or out
 __fabled__  
 __fabric softener__  
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
-__fabricate__ _v_ _Fabricated stories._  
+__fabricate__ _v_ :two: _Fabricated stories._  
 __fabricator__  
 __façade__ _n_ :five::mega::hammer: (facade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
 __face left__ _n_ (vs face right) _Two admirals did a left face and screwed everything up._  
@@ -6327,7 +6330,7 @@ __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability.
 __fanzine__ _n_ :two::mega::hammer:  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn’t as far-fetched as it sounds._  
 __Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
-__far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
+__far-flung__ _adj_ :seven::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_  
 __faradization__ _n_  
 __farce__ _n_ :four::hammer: /FAHRSS/ _The award-winning actor has a talent for farce._  
@@ -6338,7 +6341,7 @@ __farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_ :three::hammer:  
 __farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
-__farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
+__farrago__ _n_ :two: A confused mixture; hodgepodge; medley. A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __farther__ _adv_ :two::hammer:  
 __farthing__  
@@ -6375,7 +6378,7 @@ __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for fie
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
 __fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
-__fatuous__ _adj_ :three: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
+__fatuous__ _adj_ :four: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
 __fatwa__ _n_ :two: Religious edict.  
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
 __fault__ _v_  
@@ -6460,7 +6463,7 @@ __ferret<sup>1</sup>__ _n_ :five::hammer:
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
 __Ferris wheel__ _n_  
-__ferrule__ _n_ :two: (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
+__ferrule__ _n_ :three: (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
 __ferryboat__ _n_  
 __fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
 __fertile__ _adj_ :mega:  
@@ -6492,8 +6495,8 @@ __fiancé__ _n_ A man who is engaged to be married.
 __fiancée__ _n_ A woman who is engaged to be married.  
 __fiasco__ _n_ :three::hammer:  
 __fiat__ _n_ A legally binding command or decision entered on the court record (as if issued by a court or judge). _Syn_ decree, edict, rescript, order  
-__fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
-__fib<sup>2</sup>__ _v intr_ :three: (fibbed, fibbing) To tell a trivial and harmless lie.  
+__fib<sup>1</sup>__ _n_ :two: A trivial and harmless lie.  
+__fib<sup>2</sup>__ _v intr_ :four: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
 __fiber__  
 __fiberglass__  
@@ -6502,11 +6505,14 @@ __fibrillation__ _n_
 __fibromyalgia__ _n_ :dart::pencil2:  
 __fibroplasia__ _n_  
 __fickle__ _adj_ :two::hammer: _A fickle ally._  
+__fictitious__  
+__fictive__ _adj_  
 __ficus__ _n_ :mega:  
 __fiddle__ _v_ _Fiddling with a handheld device._  
 __fiddle-faddle__  
 __fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
+__fiddlestick__ _n_  
 __fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film medium while maintaining fidelity to the book._  
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
@@ -6514,7 +6520,7 @@ __fidgety__
 __fiduciary<sup>1</sup>__ _adj_ :two: /fuh-DOO-shee-air-ee/ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. Fiduciary is a formal word meaning “relating to or involving trust (such as the trust between a customer and a professional).” _The bank’s fiduciary obligations are clearly stated in the contract._ _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ _n_ :five: A piece of land held under the feudal system. :es: feudo _His personal fief._  
-__fiefdom__ _n_ :two::hammer:  
+__fiefdom__ _n_ :three::hammer:  
 __field day__  
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._ _The press office fielded numerous calls from the media._  
@@ -6539,7 +6545,7 @@ __figure<sup>1</sup>__ _n_ _5-figure price tag._
 __figure<sup>2</sup>__ _v_ _informal_ :two::hammer:  
 __figurehead__ _n_ :five::hammer:  
 __filbert__ _n_ :es: avellana  
-__filch__ _v_ :two: (filched) To steal secretly or casually.  
+__filch__ _v_ :four: To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __file a case__ _v_  
 __file suit__ _v_  
 __file<sup>1</sup>__ _n_  
@@ -6573,23 +6579,24 @@ __finger__ _v_
 __finger-licking__ _adj_ _Finger-licking barbecue._  
 __finger-waggers__  
 __fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
-__finicky__ _adj_ :four: /FIN-ih-kee/ Very particular in tastes or standards. _The young boy was a finicky eater, and his parents found it challenging to come up with ideas for healthy meals that he would enjoy._  
+__finicky__ _adj_ :five: /FIN-ih-kee/ Very particular in tastes or standards. _The young boy was a finicky eater, and his parents found it challenging to come up with ideas for healthy meals that he would enjoy._  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
-__fintech__  
+__fintech__ _n_ :two: Products and companies that employ newly developed digital and online technologies in the banking and financial services industries.  
 __fir__ _n_ :three:hammer: _Fir tree._ :es: abeto  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire engine__ _n_ (fire truck) _You can ride a train, pony or fire engine._  
+__fire hose__ _n_  
 __fire irons__  
 __fire retardant__  
 __fire sale__ _n_ :three::hammer:  
 __fire-and-brimstone__ _adj_ __1__ (of a sermon, preacher, etc) Zealous, esp in threatening eternal damnation. __2__ Portending future disaster. _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __fire-eater__ _n_ A belligerent grouch.  
 __fire-engine red__ _adj, n_  
-__firebrand__  
+__firebrand__ _n_ :two::hammer:  
 __firebrick__ _n_  
 __firebug__ _n_  
 __firedrake__ _n_ A fire-breathing dragon of Germanic mythology. _Syn_ dragon  
-__firefly__ _n_ (fireflies) :es: luciérnaga  
+__firefly__ _n_ :two::hammer: :es: luciérnaga  
 __firehosing__ _n_ A propaganda tactic that involves releasing a large amount of false information in a very short amount of time. Due to the resources often needed to pull off such an expansive disinformation strategy, the term firehosing is most often used to refer to the alleged actions of large organizations or governments.  
 __firehouse__ _n_ :two::hammer:  
 __fireman__ _n_ __3__ An enlisted man in the US Navy or Coast Guard engaged in the operation of engineering machinery.  

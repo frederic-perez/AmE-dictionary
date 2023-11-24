@@ -110,32 +110,6 @@ __enthuse__ _v_
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
-__ethos__ _n_ :two::hammer:  
-__eviction__ _n_  
-__exigent__ _adj_ /EK-suh-junt/  
-__expunge__ _v tr_  
-__extraneous__ _adj_ :dart: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
-__extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
-__eye__ _v_ _Kyiv eyes global peace summit this year._  
-__fabricate__ _v_  
-__far-flung__ _adj_  
-__fare__ _v intr_  
-__farrago__ _n_ A confused mixture; hodgepodge; medley.  
-__fatuous__ _adj_  
-__ferrule__  
-__fib<sup>1</sup>__ _n_  
-__fib<sup>2</sup>__ _v intr_ (fibbed)  
-__fictitious__  
-__fictive__ _adj_  
-__fiddlestick__ _n_  
-__fiefdoms__ _n_  
-__filch__ _v_ To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
-__filching__ _v_ _Filching felines._  
-__finicky__ _adj_  
-__fintech__ _n_ Products and companies that employ newly developed digital and online technologies in the banking and financial services industries.  
-__fire hose__ _n_  
-__firebrand__  
-__firefly__ _n_ :es: luciérnaga  
 __flummox__ _v_  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
 __grisly__ _adj_  
