@@ -10,6 +10,7 @@ __(it) takes one to know one__
 __(kill) the golden goose__  
 __(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect. _Poor Mary, she isn’t half the person she used to be since that car accident._  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
+__a breeze__ Something that is especially easy, effortless, or trifling to accomplish or complete.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
 __a mixed picture__ A portrayal of a situation highlighting both positive and negative aspects of its nature or status.  
@@ -32,10 +33,14 @@ __beyond belief__ Inconceivable; outside of the realm of imagination, expectatio
 __big cheese__  
 __bite (one’s) tongue__  
 __boom chicka wah wah__  
+__build a case__ To compile evidence that supports an argument or charges against someone or something.  
 __by and large__  
+__cause a stir__ To incite trouble or excitement.  
+__crack down (on someone or something)__  
 __crash course__  
+__cut it__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
-__do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
+__do (one) wrong__ :two: _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
 __do (someone or something) harm__  
 __do a U-turn__  
@@ -49,11 +54,14 @@ __dole out__
 __doll up__  
 __dolled up to the nines__  
 __don’t mention it__  
+__done and done__ Totally, unequivocally finished or finalized.  
 __done and dusted__ (mainly BRITISH)  
 __doormat__  
 __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
 __double down__  
+__fair game__ Legitimately or permissibly targeted for something, such as criticism, use, or discussion. _As the youngest sibling, I’m always fair game for mockery at family events._  
+__fall guy__ A scapegoat; someone who takes the “fall” (consequences) for someone else.  
 __have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
 __have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
@@ -115,10 +123,15 @@ __high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful
 __high note__ The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
+__keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
+__king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
+__loom large__ :dart: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mixed bag__ A diverse mixture or group.  
 __more so__  
+__neck and neck__  
 __nerve-wracking__ Causing fear or anxiety.  
+__no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
 __of late__  
@@ -127,6 +140,7 @@ __on a roll__
 __on point__  
 __on the horizon__  
 __open season (on someone or something)__  
+__pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
 __pave the way (for someone or something)__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
 __peeps__  
@@ -163,6 +177,7 @@ __putzo__
 __quick buck__  
 __radio silence__  
 __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
+__raise the stakes__  
 __ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
 __rat race__  
@@ -183,11 +198,15 @@ __screw up__
 __scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
+__shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
+__shoot on sight__ To immediately shoot (someone) one sees.  
 __show, don’t tell__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __silver bullet__  
 __simply put__ In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
 __sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
+__take a stand__  
+__take office__ To assume a position of political authority, especially one that is granted as the result of a public election.  
 __TBD__ An initialism of “to be determined.” Used in reference to something that is scheduled to happen but whose details have not yet been established or finalized.  
 __teem with (someone or something)__  
 __tell me about it__  
@@ -203,6 +222,7 @@ __the devil is in the detail(s)__
 __the die was cast__ (the dice were cast)  
 __the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
 __the final nail in the coffin__  
+__the floor__ The right or opportunity to speak in a group, especially at a formal event or gathering. _Let’s give someone else the floor for a bit, shall we? You’ve had plenty of time to give your opinion._  
 __the frosting on the cake__  
 __the grand scheme of things__  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
@@ -248,7 +268,7 @@ __washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usu
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
-__what it takes__ The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
+__what it takes__ :two: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
 __what’s in store__  
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person. _Yes, I agree that health care is an important issue, but what’s that got to do with the price of tea in China? We’re discussing tax incentives for local businesses—not exactly a related topic!_  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
