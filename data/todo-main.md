@@ -34,32 +34,6 @@ __apiarist__ _n_ _Syn_ apiculturist, beekeeper
 __articulate__ _v_  
 __assess__ _v tr_  
 __atopic__ _adj_  
-__befuddle__ _v tr_ :two::hammer:  
-__bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
-__bloodcurdling__ _adj_  
-__bootstrap__ _v_  
-__booty__ _n_  
-__brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
-__brand__ _v tr_  
-__brandish__ _v_ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
-__brawny__ _adj_ Strong and muscular. _Syn_ hefty, sinewy, muscular, powerful  
-__bugbear__ _n_ /BUG-bair/  
-__bumfuzzle__  
-__bursitis__ _n_  
-__calumny__ _n_ A false statement maliciously made to injure another’s reputation. _Syn_ aspersion, defamation, denigration, slander  
-__cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
-__chainsaw__ _n_  
-__chimera__ _n_ /kye-MEER-uh/  
-__circuitous__ _adj_  
-__colic__ _n_ :astonished: __2__ A condition of unknown cause seen in infants less than three months old, marked by periods of inconsolable crying lasting for hours at a time for at least three weeks.  
-__colophon__ _n_ __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
-__cradling__ _v_  
-__crapula__ _n_ :two: (obsolete or literary) Sickness or indisposition caused by excessive eating or drinking.  
-__crapulent__  
-__credence__  
-__credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
-__creep__  
-__crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crisp__ _adj_  
 __crook__  
 __deliverance__ _n_  

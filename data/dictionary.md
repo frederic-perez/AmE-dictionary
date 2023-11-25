@@ -1417,7 +1417,7 @@ __before you know it__
 __beforehand__ _adj, adv_ :dart::two::hammer: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
-__befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
+__befuddle__ _v tr_ :nine::m: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
 __befuddled__ _adj_ :two: Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
 __beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
@@ -1537,6 +1537,7 @@ __bestiary__ _n_ A book consisting of a collection of descriptions of real and f
 __bestow__ _v tr_ _formal_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
+__bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
 __betoken__ _v_  
 __betray__ _v_ :three::hammer: /bɪˈtreɪ/  
 __betrayal__ _n_ :two::hammer:  
@@ -1775,7 +1776,7 @@ __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood thinner__ _n_ A drug used to inhibit blood clotting.  
 __blood-expander__  
-__bloodcurdling__ _adj_  
+__bloodcurdling__ _adj_ :two::hammer:  
 __bloodlusting__  
 __bloodshed__ _n_ /ˈblʌdˌʃɛd/  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
@@ -1975,9 +1976,9 @@ __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
-__bootstrap__ _v_ :two: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
+__bootstrap__ _v_ :three: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __bootstrapping__ _n_  
-__booty__ _n_ _You can shake your booty at late-night hot spots._  
+__booty__ _n_ :two::hammer: _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
 __bop<sup>1</sup>__ _n_ A blow; a punch.  
@@ -2057,6 +2058,7 @@ __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace<sup>1</sup>__ _n_ _To define Python dictionaries, we use braces._  
 __brace<sup>2</sup>__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
+__brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
 __bracing swim__  
 __bracken__ _n_ :two: A cluster of ferns or shrubs.  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
@@ -2081,11 +2083,11 @@ __braised__ _adj_ :two: (Cookery) Cooked by braising. _Braised Cornish hen._ _Br
 __bramble__ _n_ :seven::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
-__brand__ _v tr_ _They feel branded by a rejection._  
+__brand__ _v tr_ :two::hammer: _They feel branded by a rejection._  
 __brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
 __brander__  
 __branding iron__ _n_ :camera:  
-__brandish__ _v_ :two: /BRAN-dish/ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
+__brandish__ _v_ :three: /BRAN-dish/ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
 __branzino__  
 __brash<sup>1</sup>__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brash<sup>2</sup>__ _n_ A mass of loose fragments, as of ice.  
@@ -2100,6 +2102,7 @@ __bravado__ _n_ :seven: /bruh-VAH-doh/ If you act with bravado, you are making a
 __brave__ _v_ :two::hammer:  
 __bravura__  
 __brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
+__brawny__ _adj_ Strong and muscular. _Syn_ hefty, sinewy, muscular, powerful  
 __bray__ _v_ :four::hammer: (brayed, braying) _Donkey’s braying._  
 __brazen__ _adj_ :four: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ _adv_ :two::hammer:  
@@ -2301,7 +2304,7 @@ __buffoonery__ _n_ Acting like a clown or buffoon. _Syn_ clowning, harlequinade,
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :nine: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
-__bugbear__ _n_ :three: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
+__bugbear__ _n_ :four: /BUG-bair/ __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __bugger__ _n_ :two::hammer: (buggers)  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugle<sup>1</sup>__ _n_ :three::hammer: _The echo of Chinese bugles._  
@@ -2345,7 +2348,7 @@ __bumble<sup><1/sup>__ _v intr_ :nine::m: __1__ To speak in a faltering or rambl
 __bumble<sup>2</sup>__ _v tr_ :nine::m: __1__ To say (something) in a faltering manner. __2__ To bungle; botch: _bumble one’s lines in a play._  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumbling__ _adj_ :three: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
-__bumfuzzle__ _v_ _(Chiefly Southern US)_  
+__bumfuzzle__ _v_ :two::hammer: _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
 __bumper boat__ _n_ :two::hammer:  
@@ -2422,6 +2425,7 @@ __burrow<sup>1</sup>__ _n_ :six::hammer:
 __burrow<sup>2</sup>__ _v_ :four::hammer:  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
+__bursitis__ _n_  
 __burst<sup>1</sup>__ _n_ _Quick bursts of positive emotions._  
 __burst<sup>2</sup>__ _v_ :two::hammer: (bursting)  
 __bus boy__ _n_ :three::hammer: (bus boys)  
@@ -2607,7 +2611,7 @@ __callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is us
 __calm__ _adj, n, v_ :two::hammer::mega :mute:[ca~~l~~m]  
 __caltrops__ _n_  
 __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
-__calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
+__calumny__ _n_ :two: __1__ A false statement maliciously made to injure another’s reputation. _Syn_ aspersion, defamation, denigration, slander __2__ The utterance of maliciously false statements; slander.  
 __calves__  
 __Calvinism__ _n_  
 __calypso__ _n_ (music)  
@@ -2913,6 +2917,7 @@ __celeriac__ _n_
 __celerity__ _n_ /suh-LAIR-uh-tee/ Celerity is a formal word that means “swiftness of motion or action.” _When the developers’ intentions became clear, the community came together with celerity to preserve the town’s beloved wetlands for future generations._  
 __celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __celibacy__ _n_  
+__cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
 __Celt__ _n_ (Kelt :mega: /kĕlt/)  
@@ -2953,6 +2958,7 @@ __chagrin<sup>2</sup>__ _v_ :five: (chagrined) Cause to feel shame; hurt the pri
 __chain letter__ _n_  
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
+__chainsaw__ _n_  
 __chaise__  
 __chalet__ _n_ :two:::hammer::mega: _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
@@ -3106,7 +3112,7 @@ __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :four::hammer:  
 __chime__ _v_ :three::hammer: _Everybody chimes into a discussion._  
-__chimera__ _n_ (chimeras) :two::hammer:  
+__chimera__ _n_ :three::hammer: /kye-MEER-uh/  
 __chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
 __chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
@@ -3240,7 +3246,7 @@ __circa__ _prep_ :two::hammer:
 __circadian__ _adj_ :four::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
-__circuitous__ _adj_ Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
+__circuitous__ _adj_ :two: Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
 __circuitry__ _n_  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
@@ -3512,7 +3518,7 @@ __cold-calling__ _n_ Calling potential new customers in the hope of selling stoc
 __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
 __coleslaw__ _n_ :five::hammer:  
 __Colgate__ _n_ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
-__colic__ _n_  
+__colic__ _n_ :astonished::two: __2__ A condition of unknown cause seen in infants less than three months old, marked by periods of inconsolable crying lasting for hours at a time for at least three weeks.  
 __colicky__ _adj_ :two: Relating to or suffering from colic.  
 __collage__ _v_  
 __collapse__ _v_ :pencil2:  
@@ -3540,7 +3546,7 @@ __colocation > data colocation__
 __colon__ _n_ :mega:  
 __colonel__ _n_ :two::mega::hammer:  
 __colonnade__  
-__colophon__ _n_  
+__colophon__ _n_ :two: __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
 __color blind__  
 __color scheme__ _n_ :two: A particular combination of colors. _They chose an unusual color scheme for the living room._  
 __color wheel__  
@@ -4093,7 +4099,7 @@ __cracklings__ _n_
 __crackpot__ _n_ :three: An eccentric person, especially one with bizarre ideas. _A reputation as a ridiculous crackpot._  
 __crackpot<sup>1</sup>__ _n_  
 __crackpot<sup>2</sup>__ _adj_  
-__cradle__ _v_ (cradling)  
+__cradle__ _v_ :two::hammer: (cradling)  
 __craft beer money__  
 __craft<sup>1</sup>__ _n_ :four::hammer: (crafts) _Craft sake._  
 __craft<sup>2</sup>__ _v tr_ :two::hammer:  
@@ -4113,7 +4119,8 @@ __crank<sup>1</sup>__ _n_ :six::hammer: __1__ A device for transmitting rotary m
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
-__crapulous__ _adj_ :four: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
+__crapula__ _n_ :two: (obsolete or literary) Sickness or indisposition caused by excessive eating or drinking.  
+__crapulous__ _adj_ :five: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash blossom__ _n_ An ambiguously worded news headline that can have a confusing or humorous interpretation. Crash blossom examples: Doctors Help Bee Sting Victims, Dead Man Remains Discovered by Police.  
 __crash course__  
 __crash__ _v tr_ :two: __3__ _informal_ To join or enter (a party, for example) without invitation.  
@@ -4139,14 +4146,14 @@ __creaky__ _adj_ _Creaky infrastructure._
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
 __crease<sup>2</sup>__ _v_ :three::hammer:  
 __cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
-__credence__ _n_ :seven::hammer:  
-__credenza__ _n_  
+__credence__ _n_ :eight::hammer:  
+__credenza__ _n_ :two: A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
 __credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
 __creek__ _n_ :four::hammer: _An older house on a creek._  
-__creep<sup>1</sup>__ _n_ :three::hammer: _The upward creep._  
-__creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
+__creep<sup>1</sup>__ _n_ :four::hammer: _The upward creep._  
+__creep<sup>2</sup>__ _v_ :three::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crenelated__ _adj_ :three::hammer: (crenellated) _Crenelated weir._ _Crenellated walls._  
 __creosote__  
 __crepe paper bells__  
@@ -4160,7 +4167,7 @@ __Crescent City__
 __crescent<sup>1</sup>__ _n_ :three::mute:[cres~~c~~ent]/ˈkrɛs ənt/:hammer:  
 __crescent<sup>2</sup>__ _adj_ :two::hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
-__crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
+__crestfallen__ _adj_ :seven: Dispirited and depressed; dejected.  
 __crevasse__ _n_  
 __crevice__ _n_ :five: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crew cut__ _n_ :three::hammer: _A tall crew cut._  
