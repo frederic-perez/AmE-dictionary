@@ -4,6 +4,7 @@ __360-degree feedback__ _n_
 __abate__ _v_  
 __abet__ _v_  
 __ablutions__  
+__abnegate__ _v tr_ /AB-nih-gayt/  
 __abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
 __abrogate__ _v_ To abolish or annul by formal means; to repeal; put aside; cancel; revoke; rescind; nullify: _to abrogate a law._  
 __abscond__ _v_  
@@ -33,7 +34,7 @@ __apiarist__ _n_ _Syn_ apiculturist, beekeeper
 __articulate__ _v_  
 __assess__ _v tr_  
 __atopic__ _adj_  
-__befuddle__  
+__befuddle__ _v tr_ :two::hammer:  
 __bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
 __bloodcurdling__ _adj_  
 __bootstrap__ _v_  
@@ -45,6 +46,7 @@ __brawny__ _adj_ Strong and muscular. _Syn_ hefty, sinewy, muscular, powerful
 __bugbear__ _n_ /BUG-bair/  
 __bumfuzzle__  
 __bursitis__ _n_  
+__calumny__ _n_ A false statement maliciously made to injure another’s reputation. _Syn_ aspersion, defamation, denigration, slander  
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
 __chainsaw__ _n_  
 __chimera__ _n_ /kye-MEER-uh/  
@@ -52,7 +54,8 @@ __circuitous__ _adj_
 __colic__ _n_ :astonished: __2__ A condition of unknown cause seen in infants less than three months old, marked by periods of inconsolable crying lasting for hours at a time for at least three weeks.  
 __colophon__ _n_ __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
 __cradling__ _v_  
-__crapula__  
+__crapula__ _n_ :two: (obsolete or literary) Sickness or indisposition caused by excessive eating or drinking.  
+__crapulent__  
 __credence__  
 __credenza__ _n_ A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
 __creep__  
@@ -110,8 +113,9 @@ __enthuse__ _v_
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
-__flummox__ _v_  
+__flummox__ _v_ :two::hammer:  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
+__geomancy__ _n_ Prophecy from the pattern made when a handful of earth is cast down or dots are drawn at random and connected with lines.  
 __grisly__ _adj_  
 __grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
 __grubstake__  
@@ -124,10 +128,11 @@ __hogwash__ _n_
 __in-fighting__ _n_  
 __inculcate__ _v_ /in-KUL-kayt/  
 __inordinate__ _adj_ /in-OR-dun-ut/  
+__intangible__ _adj_ __1__ Incapable of being perceived by the senses.  
 __irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
 __Japan__ _n_ :mega: /dʒəˈpæn/  
 __kelly green__ _n_  
-__kerfuffle__  
+__kerfuffle__ _n_  
 __kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
 __knit cap__ _n_ A soft, head-hugging cap usually without a specified front or back, barring those with designs or logos.  
 __lackluster__ _adj_  
@@ -139,6 +144,7 @@ __list price__ _n_
 __long-lasting__ _adj_  
 __luscious__  
 __maelstrom__ _n_ /MAIL-strum/  
+__marksmanship__ _n_ Skill in shooting.  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
 __mawkish__ _adj_  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
@@ -150,6 +156,7 @@ __morass__ _n_ A book of magical knowledge, especially one containing spells.
 __naught__ _n_  
 __navigate__ _v_  
 __Navy SEAL__ _n_  
+__necromancy__ _n_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __nescience__ _n_  
 __non-binding__ _adj_ That does not bind the participants.  
@@ -187,7 +194,9 @@ __precipice__ _n_
 __psychobabble__ _n_  
 __purportedly__  
 __purpose__ _n_ :mega:  
+__pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
+__retinue__ _v_  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhinestone__ _n_ _Rhinestone glasses._  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
