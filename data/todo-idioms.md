@@ -40,32 +40,6 @@ __crack down (on someone or something)__
 __crash course__  
 __cut it__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
-__do (one) wrong__ :two: _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
-__do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
-__do (someone or something) harm__  
-__do a U-turn__  
-__do nicely__  
-__do or die__  
-__do the rounds__  
-__do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
-__dog eat dog__  
-__doggone it__  
-__dole out__  
-__doll up__  
-__dolled up to the nines__  
-__don’t mention it__  
-__done and done__ Totally, unequivocally finished or finalized.  
-__done and dusted__ (mainly BRITISH)  
-__doormat__  
-__dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
-__dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  
-__double down__  
-__fair game__ Legitimately or permissibly targeted for something, such as criticism, use, or discussion. _As the youngest sibling, I’m always fair game for mockery at family events._  
-__fall guy__ A scapegoat; someone who takes the “fall” (consequences) for someone else.  
-__have (got) (someone’s) back__ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._  
-__have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
-__have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded. _You have to get a job and contribute to society. You can’t just have your hand out and expect the government to provide for you all the time!_  
-__have (one’s) head in the clouds__ To be impractical, aloof, or fanciful, often to the point of being very unhelpful or counterproductive. _He has his head in the clouds while the rest of us are trying to figure out how to fix this!_  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
 __have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
