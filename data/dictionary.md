@@ -8321,7 +8321,7 @@ __heartstring__ _n_ /HAHRT-string/ Heartstring is used, usually in the plural, t
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :six::hammer::pencil2: (heart-throb)  
 __heartworm__  
-__hearty<sup>1</sup>__ _adj_ :nine::m::astonished:hammer: _Hearty fare._ __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._ _Hearty portions._ _A hearty steakhouse menu._  
+__hearty<sup>1</sup>__ _adj_ :nine::m::astonished: __1__ Expressed warmly, exuberantly, and unrestrainedly: _a hearty welcome._ _Hearty fare._ __2__ Complete or thorough; unequivocal: _hearty support._ __3__ Vigorous; robust: _a hearty glow of health._ __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._ _Hearty portions._ _A hearty steakhouse menu._  
 __hearty<sup>2</sup>__ _n_  
 __heat > to catch a lot of heat__  
 __heat pump__ _n_  
@@ -8690,8 +8690,9 @@ __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_
 __hoopster__ _n_ A basketball player.  
 __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __Hoosiers__  
-__hoot<sup>1</sup>__ _v_ :nine::m::hammer: (hooted, hooting) _The driver of the car behind hooted again._ _Hooting and hollering is encouraged._ _Cats hooting._  
-__hoot<sup>2</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
+__hoot<sup>1</sup>__ _v intr_ :nine::m: __1__ To utter the characteristic cry of an owl. __2__ To make a loud raucous cry, especially of derision or contempt.  
+__hoot<sup>2/sup>__ _v tr_ :nine::m: __1__ To shout down or drive off with jeering cries: _hooted the speaker off the platform._ _The driver of the car behind hooted again._ _Hooting and hollering is encouraged._ _Cats hooting._ __2__ To express or convey by hooting: _hooted their disgust._  
+__hoot<sup>3</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
 __hootenanny__ _n_  
 __hoover<sup>1</sup>__ _n_ /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
 __hoover<sup>2</sup>__ _v tr_ __1__ _informal_ To clean, especially with a vacuum cleaner. __2__ _slang_ To consume entirely; devour. Often used with _up_ or _down_. To consume or acquire quickly, eagerly, or in large amounts.  
@@ -11948,7 +11949,9 @@ __noticeboard__ _n_
 __notorious__ _adj_ :two: /noh-TOR-ee-us/ Notorious describes people and things that are famously known, especially for something unfavorable. _They live in a region that’s notorious for its severe winters._  
 __notoriously__ _adv_ :two::hammer:  
 __Notre Dame__ _n_ Our Lady (the Virgin Mary).  
-__notwithstanding__ _adv, conj, prep_ :nine::m::hammer:  
+__notwithstanding<sup>1</sup>__ _prep_ :nine::m: In spite of: _The teams played on, notwithstanding the rain._  
+__notwithstanding<sup>2</sup>__ _adv_ :nine::m: All the same; nevertheless: _We proceeded, notwithstanding._  
+__notwithstanding<sup>3</sup>__ _conj_ :nine::m: In spite of the fact that; although.  
 __nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
 __noun__ _n_  
 __nouny__ _adj_  
@@ -12297,7 +12300,7 @@ __originally__ _adv_ :dart:
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__ _n_ :two::hammer:  
 __ornamental__ _adj, n_ :two::hammer:  
-__ornate__ _adj_ :nine::m::hammer: /ɔrˈneɪt/ _The ornate front entrance._  
+__ornate__ _adj_ :nine::m: /ɔrˈneɪt/ __1__ Elaborately, heavily, and often excessively ornamented. _The ornate front entrance._ __2__ Elaborate or showy, as in style: __ornate rhetoric.__  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
 __orofacial__ _adj_ Relating to the mouth and face.  
