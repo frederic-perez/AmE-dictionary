@@ -4497,8 +4497,11 @@ __thanks for nothing__ An expression of annoyance, exasperation, or disappointme
 __that being said__  
 __that will be the day__ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that’ll be the day!_  
 __that’s a given__  
+__that’s a wrap__ :dart::two: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __that’s all she wrote__ This is the end; there is nothing left to say. _I’m sorry, Ben, but the board’s decision is final. That’s all she wrote, I’m afraid._  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
+__the (hand)writing is on the wall__  
+__the (hand)writing on the wall__ :dart:  
 __the (hot) skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
 __the ball is in (one’s) court__  
@@ -4512,42 +4515,54 @@ __the bigger they come, the harder they fall__ _proverb_ :two: Those who are exc
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the cat is out of the bag__ Some secret or surprise has been revealed or exposed.  
 __the darkest hour is just before the dawn__  
-__the devil is in the detail(s)__ _proverb_ :two: Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
+__the devil is in the detail(s)__ _proverb_ :three: Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
+__the die was cast__ (the dice were cast)  
 __the eleventh hour__ :two: The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
 __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the end of the world__ An extremely bad situation or event. Almost always used hyperbolically and ironically. _Well, whoever is elected, it won’t be the end of the world; each candidate is as good or bad as the other in my book._  
+__the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
 __the fact of the matter__ The most basic, fundamental truth of something.  
+__the final nail in the coffin__  
 __the final straw__  
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
+__the floor__ The right or opportunity to speak in a group, especially at a formal event or gathering. _Let’s give someone else the floor for a bit, shall we? You’ve had plenty of time to give your opinion._  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence. _One must never forget the sway held by members of the Fourth Estate—if we want public support, then we need the press on our side._  
+__the frosting on the cake__  
 __the full monty__  
 __the going thing__ :two: The latest and most popular trend, fad, or fashion. _My son came home asking to have half his head shaved—apparently, that’s the going thing these days!_  
 __the golden rule__  
+__the grand scheme of things__  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
+__the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
+__the Greek calends__  
+__the green-eyed monster__ Jealousy. The phrase comes from the Shakespeare play _Othello._ _My daughter often succumbs to the green-eyed monster when she sees the toys that her friends have._  
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the handwriting on the wall__ _He could see the handwriting on the wall._  
-__the happy day__ A wedding, or marriage in general.  
+__the happy day__ :two: A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the head honcho__ _slang_ The person in charge. _That decision is above my pay grade. You’ll have to ask the head honcho._  
 __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. Often used with “get” or “give.” _I have the heebie-jeebies whenever I go to the dentist._  
 __the hell out of__ _slang_ To a huge or great degree; very much. _Don’t sneak up on me like that, you scared the hell out of me!_ _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ The sincere, unadulterated truth.  
-__the icing on the cake__  
-__the ick__ A sudden feeling of disgust or revulsion toward a person, usually one’s date.  
+__the icing on the cake__ :two::hammer:  
+__the ick__ :two: _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to. A sudden feeling of disgust or revulsion toward a person, usually one’s date.  
 __the idiot box__ A television set, or television in general.  
 __the inmates are running the asylum__ The people least capable of running a group or organization are now in charge. Said especially when the result is total chaos or calamity. _With the primary schools giving their young students complete control over the curriculum, it seems as though the inmates are running the asylum._  
+__the ins and outs__ The particular details and nuances of a situation, task, etc.  
 __the jet set__ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
+__the joke’s on (one)__  
 __the keys to the kingdom__ A resource that will give the possessor access to the most complete or profound knowledge or power possible in a given area or pursuit. A reference to Matthew 16:19, when Jesus said to Peter: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” _Whatever you do, don’t lose this external hard drive with all of our accounts and passwords. Anyone who has it will have the keys to the kingdom!_  
 __the knacker’s yard__ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
 __the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the lady of the house__ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list.  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
-__the likes of (someone or something)__  
+__the likes of (someone or something)__ :two::hammer:  
 __the likes of__  
 __the lion’s den__ :two: A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
-__the lion’s share__ :two: Major share of something.  
+__the lion’s share__ :three: Major share of something.  
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
+__the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat and potatoes__ :two: The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
@@ -4559,13 +4574,16 @@ __the name of the game__ :two: The most important aspect or component of somethi
 __the nature of the beast__  
 __the new black__  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
+__the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
-__the nitty-gritty__ :three::hammer:  
+__the nitty-gritty__ :four::hammer:  
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
+__the old gray mare ain’t what she used to be__  
 __the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
 __the outside world__ The people, culture, ideas, or experiences beyond an enclosed, sheltered, or remote place, situation or environment. _Being raised out on the farm meant Jacob had little knowledge of the outside world._  
 __the pit of (one’s) stomach__ :two: An area in the core of one’s abdomen, approximately in or near one’s stomach, in which one feels a physical response to strong emotion, especially fear, stress, or anxiety. _I’ve had this awful feeling in the pit of my stomach all morning because I know we’ll be finding out the results to the final exam this afternoon._  
-__the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
+__the powers that be__  
+__the proof is in the pudding__ :dart::two: The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas stations as a whole. _Prices at the pump have been at their lowest since 1995._  
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  

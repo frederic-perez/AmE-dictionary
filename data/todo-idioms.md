@@ -189,32 +189,6 @@ __test the waters__
 __thang__ A facetious or slang form of _thing._  
 __that been said__  
 __that’s a given__  
-__that’s a wrap__ :dart::two: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
-__the (hand)writing is on the wall__  
-__the (hand)writing on the wall__ :dart:  
-__the devil is in the detail(s)__  
-__the die was cast__ (the dice were cast)  
-__the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
-__the final nail in the coffin__  
-__the floor__ The right or opportunity to speak in a group, especially at a formal event or gathering. _Let’s give someone else the floor for a bit, shall we? You’ve had plenty of time to give your opinion._  
-__the frosting on the cake__  
-__the grand scheme of things__  
-__the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
-__the Greek calends__  
-__the green-eyed monster__ Jealousy. The phrase comes from the Shakespeare play _Othello._ _My daughter often succumbs to the green-eyed monster when she sees the toys that her friends have._  
-__the happy day__ A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
-__the icing on the cake__  
-__the ick__ _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to.  
-__the ins and outs__ The particular details and nuances of a situation, task, etc.  
-__the joke’s on (one)__  
-__the likes of (someone or something)__  
-__the lion’s share__  
-__the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
-__the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
-__the nitty-gritty__  
-__the old gray mare ain’t what she used to be__  
-__the powers that be__  
-__the proof is in the pudding__ :dart: The final results of something are the only way to judge its quality or veracity.  
 __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
 __the right call__  
 __the rubber meets the road__ Someone’s or something’s efforts, resolve, or viability are put to the test; things become truly or meaningfully challenging. Used especially after the words “where” or “when.”  
