@@ -87,33 +87,6 @@ __enthuse__ _v_
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
-__flummox__ _v_ :two::hammer:  
-__gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
-__geomancy__ _n_ Prophecy from the pattern made when a handful of earth is cast down or dots are drawn at random and connected with lines.  
-__grisly__ _adj_  
-__grok__ _v_ /GRAHK/ To grok something is to understand it both profoundly and intuitively.  
-__grubstake__  
-__gullible__ _adj_ /GULL-uh-bul/  
-__hacktivist__ _n_  
-__haggle__ _v_  
-__hallux__ _n_ /HAL-uhks/ The big toe. More generally, the innermost digit on the hind foot of animals.  
-__hammerlock__  
-__hogwash__ _n_  
-__in-fighting__ _n_  
-__inculcate__ _v_ /in-KUL-kayt/  
-__inordinate__ _adj_ /in-OR-dun-ut/  
-__intangible__ _adj_ __1__ Incapable of being perceived by the senses.  
-__irascible__ _adj_ /ir-RASS-uh-bul/ Someone who is irascible is easily angered and annoyed.  
-__Japan__ _n_ :mega: /dʒəˈpæn/  
-__kelly green__ _n_  
-__kerfuffle__ _n_  
-__kintsugi__ _n_ The Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold or similar material, highlighting the cracks instead of disguising them.  
-__knit cap__ _n_ A soft, head-hugging cap usually without a specified front or back, barring those with designs or logos.  
-__lackluster__ _adj_  
-__laissez-faire__ _n_ /less-ay-FAIR/  
-__landfill__ _n_  
-__language barrier__ _n_ Barrier to communication resulting from speaking different languages.  
-__lenient__ _adj_  
 __list price__ _n_  
 __long-lasting__ _adj_  
 __luscious__  
