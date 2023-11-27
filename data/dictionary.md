@@ -4958,7 +4958,7 @@ __dirty boogie__
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
 __dis<sup>2</sup>__ _v tr_ _informal_ :five::hammer:  
-__disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
+__disabuse__ _v_ :dart::six: /diss-uh-BYOOZ/ To disabuse someone of something, such as a belief, is to show or convince them that the belief is incorrect. To make someone realize that they were wrong to believe something.  
 __disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
 __disaffected__ _adj_ :four::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
@@ -4982,7 +4982,7 @@ __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in sprea
 __discipline__ _v_  
 __disclaimer__ _n_ :two::hammer:  
 __disclosure__ _n_  
-__discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
+__discombobulate__ _v tr_ :five::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discombobulated__ _adj_ :four::hammer: _Syn_ disconcerted  
 __discomfit__ _v_ To make uneasy or perplexed; disconcert. _Syn_ discompose, untune, upset, disconcert  
 __discomfited__ _adj_ :two: Uncomfortable.  
@@ -5084,7 +5084,7 @@ __disquisitition__ _n_ :pencil2:
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
-__dissatisfaction__ _n_ :three::hammer::pencil2:  
+__dissatisfaction__ _n_ :four::hammer::pencil2:  
 __dissatisfied__ _adj_ :four::pencil2: Feeling or exhibiting a lack of contentment or satisfaction.  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissection__ _n_ _Dissections in coronary vessels._  
@@ -5224,6 +5224,7 @@ __don<sup>1</sup>__ _n_ :two: __3__ The leader of an organized-crime family.
 __don<sup>2</sup>__ _v_ Put on (an item of clothing).  
 __donburi__ _n_  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
+__dongle__ _n_ :two::hammer:  
 __donjon__ _n_ :four::hammer: _The donjon was impervious to time._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
@@ -5382,7 +5383,7 @@ __drawstring__ _n_
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
 __dread<sup>1</sup>__ _n_  
-__dread<sup>2</sup>__ _v_ :four::hammer: _Do you dread giving presentations in English?_  
+__dread<sup>2</sup>__ _v_ :five::hammer: _Do you dread giving presentations in English?_  
 __dread<sup>3</sup>__ _adj_  
 __dreamboat__ _n_  
 __dreamy__ _adj_ :four: __4__ _informal_ Inspiring delight; wonderful.  
@@ -5506,11 +5507,13 @@ __duel__ _n_ :mega:
 __duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffer__ _n informal_ :six: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
+__duffle coat__  
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
 __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
 __dulcimer__ _n_ :two::hammer:  
-__dull__ _adj_ :two::hammer: _Never a dull moment._  
+__dull<sup>1</sup>__ _adj_ :two::hammer: _Never a dull moment._  
+__dull<sup>2</sup>__ _v_ _It dulls thinking._  
 __dullard__  
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
@@ -5569,6 +5572,7 @@ __dysfunction__ _n_ :pencil2: (dysfunctional)
 __dysfunctional__  
 __dysgraphia__ _n_  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
+__dysmorphia__ _n_ Any of various psychological disorders whose sufferers believe that their body is wrong or inadequate, such as anorexia, bulimia, and muscle dysmorphia.  
 __dyspepsia__ _n_ Disturbed digestion. _Syn_ indigestion, upset stomach  
 __dysphemism__ _n_  
 __dysphoria__ _n_ :four: An emotional state characterized by anxiety, depression, or unease.  
@@ -5581,7 +5585,7 @@ __dystrophy__ _n_ :pencil2:
 __e-blasts__  
 __e-commerce__  
 __each other__  
-__eager__  
+__eager__ _adj_ :two::hammer:  
 __Eagle Scout__ _n_ A Boy Scout who has achieved the highest rank.  
 __ear candy__ _n_ _slang_ Pleasant-sounding music.  
 __ear__ _n_ _Ear of corn._  
@@ -5592,8 +5596,9 @@ __early__ _adj, adv_ _I always get off the bus a stop early on the way to work._
 __Early-onset Alzheimer’s disease__ _n_ (younger-onset Alzheimer’s disease, early-onset AD)  
 __earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, use, or recipient: _to earmark goods for export._ _Syn_ allocate __2__ To mark the ear of (a domestic animal) for identification. __3__ To specify or allocate (funds) to be spent in a legislative earmark.  
 __earmuffs__ _n_ :two::hammer:  
-__earnest__ _adj_ :five::hammer:  
+__earnest__ _adj_ :six::hammer:  
 __earnestly__  
+__earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
 __earplug__ _n_ :pencil2:  
 __earring__ _n_ :three::pencil2: An ornament worn on or suspended from the ear, especially the earlobe.  
 __earth-shattering__  
@@ -5603,14 +5608,15 @@ __earthquake drill__
 __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun. Also called earthlight.  
 __earthworks__ _n_  
 __earthy__ _adj_  
-__earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
+__earwig__  
+__earworm__ _n_ :two: A song that gets stuck in your head; also called sticky tune.  
 __ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
 __easing__  
 __Easter egg__ _n_ :two: __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ An extra feature, as a message or video, hidden in a software program, computer game, DVD, etc., and revealed as by an obscure sequence of keystrokes, clicks, or actions.  
 __Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
-__easy chair__ _n_ :three: A large, comfortable, upholstered chair.  
+__easy chair__ _n_ :four: A large, comfortable, upholstered chair.  
 __easy-chair__  
 __easy-to-use__ _adj_ Straightforward and simple to use. _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
@@ -5619,7 +5625,7 @@ __eating disorder__
 __ebb and floor__  
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
-__ebb<sup>2</sup>__ _v_  
+__ebb<sup>2</sup>__ _v_ :two::hammer: _My confidence was ebbing._  
 __ebullience__ _n_  
 __ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
@@ -5629,6 +5635,7 @@ __echelon__ _n_ :two::hammer: /ESH-uh-lahn/ _The upper echelons of the State Sec
 __echo chamber__ _n_ :four: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
 __echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also a word created in this manner.  
+__echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary speech and writing as a synonym of authentic, genuine, and true.  
 __eclampsia__  
 __éclat__ _n_  
 __eclectic__ _adj_ :two::pencil2::hammer:  
@@ -5656,14 +5663,18 @@ __edify__ _v_ :two::hammer: /ED-uh-fye/
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __edtech__ _n_ Educational technology, that is, technology (usually information technology) that is focused on education.  
 __educated guess__ _n_ :three::hammer:  
+__edutainment__ _n_  
 __eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :nine: (eery) Uncanny, so as to inspire superstitious fear; strange and mysterious: _an eerie howl._ _Eerie incidents._  
 __eerily__ _adv_ :three::hammer:  
 __effect__ _v_ :four::hammer: (effecting) _A view to effecting opportunities._  
+__effective altruism__  
 __effeminacy__ _n_  
+__efferent__  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
-__effigy__ _n_ :five::hammer: (effigies)  
+__efficacy__ _n_ /ˈɛf ɪ kə si/  
+__effigy__ _n_ :six: (effigies) A likeness or image, especially of a person. _Syn_ simulacrum, image  
 __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
@@ -5688,12 +5699,13 @@ __egomaniac__
 __egotistical__ _adj_ :four: Characteristic of those having an inflated idea of their own importance.  
 __egotists__  
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
-__egress<sup>1</sup>__ _n_ :three::hammer:  
-__egress<sup>2</sup>__ _v intr_ To go out; emerge.  
+__egress<sup>1</sup>__ _n_ :four::hammer:  
+__egress<sup>2</sup>__ _v intr_ :two: To go out; emerge.  
 __egret__ _n_ :six: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __egrote__ _v intr_ /EE-groht/ To feign sickness.  
+__Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
-__eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
+__eidetic__ _adj_ :two: Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ _n_ :two::mute:[ei~~gh~~t]:hammer:  
 __eighty-eight__ _n_ _slang_ Piano.  
 __eighty-six__ _v_ :three: /ay-tee-SIKS/ Eighty-six is an informal word that means “to eject, dismiss, or remove someone.” It is usually used in the context of banning or refusing to serve a customer, but it can also refer to rejecting, discontinuing, or removing something in general. _The teenagers were eighty-sixed by the manager after they attempted to start a food fight in the restaurant._  
@@ -5707,6 +5719,7 @@ __elaborate__ _v_ :two::dart::hammer: _The authors elaborate on migration scenar
 __élan__ _n_ :two::pencil2::hammer:  
 __elapse__ _v_ :dart: Pass by. _Syn_ glide by, go by, slide by, slip by, slip away, go along _A month has elapsed since our last meeting, so let us begin by reviewing the minutes from that session._  
 __elastically__  
+__elastin__ _n_  
 __elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :four::hammer: /ɪˈleɪtɪd/  
 __elation__ _n_ :four::hammer:  

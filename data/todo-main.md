@@ -51,32 +51,6 @@ __denervation__ _n_
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
-__disabuse__ _v_ :two: /diss-uh-BYOOZ/ To disabuse someone of something, such as a belief, is to show or convince them that the belief is incorrect.  
-__discombobulate__ _v tr_ :two: To throw into a state of confusion. _Syn_ befuddle  
-__dispel__ _v_  
-__dissatisfaction__ _n_  
-__dongle__ _n_ :two::hammer:  
-__dread__ _v_  
-__duffle coat__  
-__dull__ _v_ _It dulls thinking._  
-__dysmorphia__ _n_ Any of various psychological disorders whose sufferers believe that their body is wrong or inadequate, such as anorexia, bulimia, and muscle dysmorphia.  
-__eager__ _adj_  
-__earnest__  
-__earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of time._  
-__earwig__  
-__earworm__  
-__easy chair__  
-__ebb__ _v_ _My confidence was ebbing._  
-__echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary speech and writing as a synonym of authentic, genuine, and true.  
-__edutainment__ _n_  
-__effective altruism__  
-__efferent__  
-__efficacy__ _n_ /ˈɛf ɪ kə si/  
-__effigy__ _n_ A likeness or image, especially of a person. _Syn_ simulacrum, image  
-__egress__  
-__Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
-__eidetic__  
-__elastin__ _n_  
 __eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
