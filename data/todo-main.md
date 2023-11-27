@@ -262,32 +262,6 @@ __strife__ _n_
 __stuffing__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
-__swami__ _n_ :two::hammer:  
-__swarm__ _v tr_  
-__swarms__  
-__swash__ _n_ _The susurous swash of the sea._  
-__swashbuckle__ _v_  
-__sway__ _n_  
-__swell__ _adj_  
-__swoon__ _v_  
-__swooning__ _v_  
-__syllabicate__ _v_  
-__syllabus__ _n_ :astonished: __1__ An outline or a summary of the main points of a text, lecture, or course of study.  
-__synesthesia__ _n_ :two::hammer:  
-__synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
-__table__ _v_ :astonished:  
-__tableau__ _n_ :astonished:  
-__tachypnoea__  
-__tacky__ _adj_ _Tacky birthday present._  
-__tagalong__ _n_  
-__Takeshi__ _n_ :mega:  
-__talking point__ _n_  
-__Tall Blacks__ _n pl_  
-__tamarind__  
-__tamper__ _v_  
-__tandem__ _n_  
-__tangible__ _adj_  
-__tardy__ _adj_  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  

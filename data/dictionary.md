@@ -17752,6 +17752,7 @@ __swagger<sup>2</sup>__ _v_ :four::hammer:
 __Swahili__  
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
+__swami__ _n_ :two::hammer:  
 __swamp<sup>1</sup>__ _n_ :three: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._ _We feel swamped by the mounting pressure to succeed at any cost._  
 __swamp<sup>2</sup>__ _v_ :seven::hammer: (swamped) _Syn_ overwhelm _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
@@ -17763,9 +17764,12 @@ __swank<sup>2</sup>__ _v_ :four::astonished::hammer:
 __swanky__ _adj_ :five::hammer: _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
+__swarm<sup>1</sup>__ _n_  
+__swarm<sup>2</sup>__ _v_  
 __swarthiness__  
 __swarthy__ _adj_ :four: Having a dark complexion or color. _Syn_ dusky, swart, dark-skinned _Swarthy skin._ :es: moreno  
-__swash__ _n_  
+__swash__ _n_ :two::hammer: _The susurous swash of the sea._  
+__swashbuckle__ _v_  
 __swashbuckling__ _adj_ :three::hammer:  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe, swathes) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
@@ -17775,7 +17779,7 @@ __swats__ _n_ :two::hammer:
 __swatted__  
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sway<sup>1</sup>__ _v_ :nine::m: /sweɪ/ (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__ To incline or bend to one side; veer: _She swayed and put out a hand to steady herself._ _The flowers bobbled and swayed._ __3a__ To incline toward change, as in opinion or feeling: _He swayed toward trying out for the chorus._ _Swayed to the Dark Side._ __b__ To fluctuate, as in outlook. __4__ Win approval or support for. _He could sway a mob._ _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
-__sway<sup>2</sup>__ _n_ :three: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
+__sway<sup>2</sup>__ _n_ :four: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
@@ -17790,6 +17794,7 @@ __sweethearts__
 __sweeting__ _n_ A sweet apple.  
 __swell<sup>1</sup>__ _n_ :five::hammer: _The swell of people from war-torn countries._  
 __swell<sup>2</sup>__ _v_ :four::hammer: (swelled, swelling)  
+__swell<sup>3</sup>__ _adj_  
 __swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
@@ -17835,8 +17840,10 @@ __sybarite__ _n_ A person devoted to pleasure and luxury; a voluptuary. _Syn_ vo
 __sycamore tree__  
 __sycamore__ _n_ :two::hammer:  
 __sycophant__ _n_ :dart::seven: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
+__syllabicate__ _v_  
 __syllable__ _n_  
 __syllabub__ _n_ _Syllabub of fresh fruit._  
+__syllabus__ _n_ :astonished: __1__ An outline or a summary of the main points of a text, lecture, or course of study.  
 __syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
 __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
@@ -17851,7 +17858,8 @@ __syndicate__ _n_ :pencil2: _The national gambling syndicate._
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
 __synecdoche__ _n_ :four: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
-__synesthesia__ _n_  
+__synesthesia__ _n_ :three::hammer:  
+__synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
 __synod__ _n_ :pencil2:  
 __synonymous__ _n_ :pencil2:  
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
@@ -17870,8 +17878,8 @@ __tabbouleh__ _n_
 __tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
-__table__ _v_ :two: Hold back to a later time. _Let’s table that idea._  
-__tableau__  
+__table__ _v_ :astonished::three: Hold back to a later time. _Let’s table that idea._  
+__tableau__ _n_ :astonished::two::hammer:  
 __tableaux__  
 __tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The hikers climbed all morning, planning to stop for lunch when they reached the tableland._  
 __tableside__ _n_ _Topless tableside dancing._  
@@ -17882,13 +17890,14 @@ __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators 
 __tachometer__  
 __tachyarrythmia__ _n_  
 __tachypnea__ _n_ Abnormally rapid and shallow breathing.  
+__tachypnoea__  
 __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
 __taciturn__ _adj_ :two::hammer:  
 __tack<sup>1</sup>__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tack<sup>2</sup>__ _v_ _Tack the note on the board._  
 __tackle<sup>1</sup>__ _n_ :two::hammer: _Bait and tackle available._  
 __tackle<sup>2</sup>__ _v_  
-__tacky__ _adj_ :nine::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ :es: cutre  
+__tacky__ _adj_ :nine::m::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __tactful__ _adj_ :two::hammer:  
 __tactfully__ _adv_ :two::hammer:  
 __tactical__ _adj_ _Tactical plot._  
@@ -17900,6 +17909,7 @@ __taffeta__ _n_
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
 __tag<sup>1</sup>__ _n_ :two::hammer: __1__ _Games_ A children’s game in which one player pursues the others until he or she is able to touch one of them, who then in turn becomes the pursuer. _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
+__tagalong__ _n_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
 __tahini__ _n_  
 __Tahitian__  
@@ -17924,6 +17934,7 @@ __takeout containers__
 __takeout<sup>1</sup>__ _n_ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __takeout<sup>2</sup>__ _adj_  
 __takeover__ _n_  
+__Takeshi__ _n_ :mega:  
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _n_ _A specific set of talents._  
@@ -17937,7 +17948,9 @@ __talk over__ _phr v_
 __talk shit__  
 __talk up__  
 __talk__ _v_ :mute:[ta~~l~~k]  
+__talking point__ _n_  
 __talktative__ _adj_ :two::hammer:  
+__Tall Blacks__ _n pl_  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say “That’s a tall order!” when someone else asks for something unrealistic.  
 __tall tale__ _n_ :four: (tall tales) __1__ _informal_ An entertaining and often oral account of a real or fictitious occurrence. _Syn_ anecdote, fable, story, tale __2__ _informal_ An untrue declaration _Syn_ canard, cock-and-bull story, falsehood, falsity, fib, fiction, inveracity, lie, misrepresentation, misstatement, prevarication, story, tale, untruth  
 __tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales of heroic exploits._  
@@ -17948,14 +17961,17 @@ __talon__ _n_ (talons) _The nails were sharp as talons._ :es: garra
 __talpa__ _n_ [:scroll: From Latin talpa (mole). Because a mole burrows under the earth, the word came to be applied to a growth under the skin: a cyst or a tumor.] /TAL-puh/ __1__ A mole (the animal). __2__ A cyst.  
 __Tamagotchi__ _n_ :pencil2:  
 __tamale__ _n_ (tamales) A Mexican dish made of chopped meat and crushed peppers, highly seasoned, wrapped in cornhusks spread with masa, and steamed. _I’m staying away from that one—that’s a hot tamale._  
+__tamarind__  
 __tambour__ _n_ A small wooden embroidery frame consisting of two concentric hoops between which fabric is stretched. _Syn_ embroidery frame, embroidery hoop _She was addicted to needlepoint and took her tambour wherever she went._  
 __tamp down__ _v_ :two::hammer:  
-__tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
+__tamper__ _v_ :two::hammer: (tampering) _Tampering with a Federal grand jury._  
 __tan<sup>1</sup>__ _v_  
 __tan<sup>2</sup>__ _n_  
+__tandem__ _n_  
 __tang__ _n_ :five: __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn’s Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
 __tangerine__ _n_  
+__tangible__ _adj_  
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
@@ -17987,7 +18003,7 @@ __taproom__ _n_ A room or establishment where alcoholic drinks are served over a
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _pl n_ A bugle call or drum signal sounded at night, as at a military camp, as an order to put out lights and also sounded at military funerals and memorial services. _A bugler played taps._  
 __taradiddle__ _n_  
-__tardy__ _adj_ :two::hammer:  
+__tardy__ _adj_ :three::hammer:  
 __target ball__  
 __target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
 __tariff__ _n_ :six::hammer: (tariffs)  
