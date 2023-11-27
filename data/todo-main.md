@@ -34,6 +34,15 @@ __apiarist__ _n_ _Syn_ apiculturist, beekeeper
 __articulate__ _v_  
 __assess__ _v tr_  
 __atopic__ _adj_  
+__befuddle__  
+__bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
+__bombastic__  
+__booty__ _n_  
+__bumfuzzle__  
+__cavort__  
+__covenant__ _n_  
+__crapula__  
+__crapulent__  
 __crisp__ _adj_  
 __crook__  
 __deliverance__ _n_  
@@ -42,11 +51,11 @@ __denervation__ _n_
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
-__disabuse__ _v_ /diss-uh-BYOOZ/ To disabuse someone of something, such as a belief, is to show or convince them that the belief is incorrect.  
-__discombobulate__  
+__disabuse__ _v_ :two: /diss-uh-BYOOZ/ To disabuse someone of something, such as a belief, is to show or convince them that the belief is incorrect.  
+__discombobulate__ _v tr_ :two: To throw into a state of confusion. _Syn_ befuddle  
 __dispel__ _v_  
 __dissatisfaction__ _n_  
-__dongle__  
+__dongle__ _n_ :two::hammer:  
 __dread__ _v_  
 __duffle coat__  
 __dull__ _v_ _It dulls thinking._  
@@ -87,6 +96,11 @@ __enthuse__ _v_
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
+__flummox__ _v_  
+__gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
+__hogwash__ _n_  
+__inordinate__ _adj_ /in-OR-dun-ut/  
+__kerfuffle__  
 __list price__ _n_  
 __long-lasting__ _adj_  
 __luscious__  
@@ -143,7 +157,7 @@ __purportedly__
 __purpose__ _n_ :mega:  
 __pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
-__retinue__ _v_  
+__retinue__ _v_ :two::hammer:  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rhinestone__ _n_ _Rhinestone glasses._  
 __rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
@@ -222,6 +236,7 @@ __sitting__ _n_
 __Six-Day War__ _n_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
+__smithereens__  
 __snuggle__ _v_  
 __solopreneur__  
 __sought-after__  
@@ -288,6 +303,7 @@ __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
 __toll__  
 __tonsil__ _n_  
+__toothsome__  
 __tout__ _v_ :dart:  
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
@@ -365,7 +381,7 @@ __ventilatory threshold__ _n_ The point of the workout where it becomes difficul
 __venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __verdict__  
 __verismo__  
-__vermin__ _n_ __2__ An objectionable or obnoxious person, or such persons collectively.  
+__vermin__ _n_ :two: __2__ An objectionable or obnoxious person, or such persons collectively.  
 __verruca__ _n_ A firm abnormal elevated blemish on the skin; caused by a virus. _Syn_ wart  
 __vesicle__ _n_ A small sac or cyst, especially one containing fluid. _Syn_ cyst  
 __vet__ _v tr_ :astonished: __2__ To subject to thorough examination or evaluation: _vet a manuscript._  
