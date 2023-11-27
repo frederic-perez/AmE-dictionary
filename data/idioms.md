@@ -4906,11 +4906,14 @@ __what do you know__ A phrase used to indicate one’s surprise upon discovering
 __what gives?__  
 __what if scenario__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
+__what it takes__ :two: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
 __what makes (one) tick__ :two::hammer: _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __what on earth__  
 __what the heck__  
 __what-if__ _n informal_ A hypothetical question; speculation: _one of the great what-ifs of modern history._ _Evaluate various what-if scenarios._  
-__What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
+__what’s in store__  
+__What’s that got to do with the price of tea in China?__ :two: A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person. _Yes, I agree that health care is an important issue, but what’s that got to do with the price of tea in China? We’re discussing tax incentives for local businesses—not exactly a related topic!_  
+__What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __what’s the deal?__  
 __what’s up with__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
@@ -4921,15 +4924,16 @@ __when pigs fly__ :three: Never, impossible.
 __when the chips are down__ :three: When a situation has become especially difficult, desperate, or hard to recover from. The expression alludes to having a low amount of poker chips, which means that one may soon lose. _You can tell a lot about a person’s character from how they act when the chips are down._  
 __when the stakes are low__ When the stakes are low, it means that there is little to lose in a given situation. This can refer to a situation in which the potential rewards or losses are minimal, or a situation in which the potential consequences of an action are not serious. It can also refer to a situation in which the outcome of a decision is not particularly important or significant.  
 __where the sun doesn’t shine__  
-__wherever you go, there you are__ _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
+__wherever you go, there you are__ :two: _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
 __whet (one’s) appetite__  
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
 __while away__ :two::hammer: _Nothing welcomes the summer season better than whiling away the hours at a waterfront venue._  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __whip by__ (whipping by) _The summer is whipping by._  
+__whip out__  
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
-__whistleblower__  
+__whistleblower__ :two::hammer:  
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
 __white elephant__ :two::hammer:  
 __white knuckle something__  
@@ -4940,33 +4944,44 @@ __white-knuckle__
 __whitewash__ :two::hammer:  
 __whittle down__  
 __whiz up__ _Go-karts can whiz up to 45 miles per hour._  
+__Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
 __who cares__ (who cares?; what do I, you, etc. care?) A phrase used to dismiss something as insignificant. _Oh, who cares, it’s not a big deal anyway._  
+__who’s who__ __2__ A gathering of the most famous, important, or influential individuals in a larger group, field, or profession. _The gala event is shaping up to be a who’s who of the film industry._  
 __whodunit__ :dart: A detective story or mystery story.  
 __whole nother thing__  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
+__whoopsie-daisy__  
 __why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wigged out__  
-__wild goose chase__ :two: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
-__wild__  
+__wild goose chase__ :three: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
+__wild ride__  
+__wild__ :two::hammer:  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
 __wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
 __willy-nilly__  
 __win (one) over__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
+__win over__  
 __win-win__ _A win-win scenario._  
 __wind down__ :three::hammer:  
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
+__window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
 __window of opportunity__  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wine by the glass__ _A wine list with over 80 wines by the glass._  
-__wing it__ :dart::two: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
+__wing it__ :dart::four: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  
+__wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
 __wipe the floor__  
+__wire__  
+__wise guy__ __2__ A mobster.  
+__wish (one) well__  
+__wishful thinking__ :two::hammer: :es: espejismo, ilusión  
 __wishy washy__ _slang_ Indecisive or not reliable.  
 __wishy-washy__ :two::hammer:  
 __wit’s end__ :two::dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
-__witch hunt__  
+__witch hunt__ :two: An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with (one’s) blessing__ With one’s express approval, consent, or well-wishes. _I asked Samantha to marry me, with her mother and father’s blessing, of course._  
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
@@ -4980,6 +4995,7 @@ __with a vengeance__ :three: Determinedly or passionately, perhaps fueled by ang
 __with a view__ _Chateau with a view._  
 __with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
 __with flying colors__ :two: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
+__with great (something) comes great (something else)__  
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __with reckless abandon__ With rash, unrestrained impulsiveness, enthusiasm, or zeal. _Ever since my brother got that car for his birthday, he’s been motoring around at night with reckless abandon._  
 __wither away__  
@@ -4990,11 +5006,13 @@ __without a doubt__
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ :two: With no more delay.  
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
+__wolf down__  
 __womp womp__ :astonished: A humorous phrase used to indicate or highlight minor disappointment. It mimics the sad trombone noise often used as a trope in movies and TV shows. _I tried to stop at that boutique on my way home from work, but it was already closed. Womp womp._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
-__word of mouth__ :two::hammer:  
-__word on the street__ The information, or the version of that information, that is currently spreading from person to person, often in a particular setting, like school or work. _There are so many people stopping by Shelly’s office because word on the street is that she’s leaving the company._  
+__word of mouth__ :three: Spoken communication: _News of their success spread by word of mouth._  
+__word on the street__ :two: The information, or the version of that information, that is currently spreading from person to person, often in a particular setting, like school or work. _There are so many people stopping by Shelly’s office because word on the street is that she’s leaving the company._  
 __work (one’s) ass off__  
+__work (one’s) butt off__ b work really hard (on or at something).  
 __work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
 __work like a charm__ :two::hammer:  
 __work one’s fingers to the bone__  

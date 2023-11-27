@@ -216,33 +216,6 @@ __washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usu
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
-__what it takes__ :two: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
-__what’s in store__  
-__What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person. _Yes, I agree that health care is an important issue, but what’s that got to do with the price of tea in China? We’re discussing tax incentives for local businesses—not exactly a related topic!_  
-__What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
-__wherever you go, there you are__  
-__whip out__  
-__whistleblower__  
-__Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
-__who’s who__ __2__ A gathering of the most famous, important, or influential individuals in a larger group, field, or profession. _The gala event is shaping up to be a who’s who of the film industry._  
-__whoopsie-daisy__  
-__wild goose chase__  
-__wild ride__  
-__wild__  
-__win over__  
-__window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
-__wing it__ :two: To do or attempt something with little preparation in advance; to improvise.  
-__wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
-__wire__  
-__wise guy__ __2__ A mobster.  
-__wish (one) well__  
-__wishful thinking__ :two::hammer: :es: espejismo, ilusión  
-__witch hunt__ An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
-__with great (something) comes great (something else)__  
-__wolf down__  
-__word of mouth__ Spoken communication: _News of their success spread by word of mouth._  
-__word on the street__  
-__work (one’s) butt off__ b work really hard (on or at something).  
 __work (one’s) tail off__  
 __work one’s tail off__  
 __work out__  
