@@ -14851,7 +14851,7 @@ __reticent__ _adj_ :three::astonished: /RET-uh-sunt/ Inclined to keep one’s th
 __reticle__ _n_ A grid or pattern placed in the eyepiece of an optical instrument, used to establish scale or position. _Syn_ graticule, reticule  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
-__retinue__ _n_ :eight: The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
+__retinue__ _n_ :nine::m: The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
 __retiree__ _n_ :four::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
@@ -14910,27 +14910,34 @@ __rhapsody__ _n_ :mute:[r~~h~~apsody] __1__ (music) A composition free in struct
 __rhathymia__ _n_ :two: Carefree behavior; light-heartedness. The state of being carefree. _Syn_ light-heartedness  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
 __rhetorical question__ _n_ A rhetorical question is a question that isn’t intended to be answered. The point of asking the question is to make an audience think or to cause an emotional reaction. Example: Can we really know what our place in the universe is? We have asked ourselves this question for millennia.  
+__rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
-__rhinestone cowboy hat__  
+__rhinestone__ _n_ :two::hammer: _Rhinestone glasses._ _Rhinestone cowboy hat._  
 __rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
 __rhinoceros__ _n_ :mega:  
 __rhinosinusitis__ _n_ Inflammation of the mucous membrane of the nose and paranasal sinuses. _Syn_ nasosinusitis _Chronic rhinosinusitis._  
-__rhododendron__ _n_  
+__rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
+__rhododendron__ _n_ :two::pencil2::hammer:  
 __rhubarb__ _n_  
 __rhyme<sup>1</sup>__ _n_ :mute:[r~~h~~yme]  
 __rhyme<sup>2</sup>__ _v_ :mute:[r~~h~~yme] (rhyming) :pencil2:  
 __rhyolites__ _n_  
 __rhythm__ _n_ :three::pencil2::mute:[r~~h~~ythm]:hammer:  
 __rib cage__ _n_ _Manning had an MRI on his rib cage._  
+__rib eye__ _n_ _Rib eye steaks._  
+__rib__ _v_ :two: _informal_ To tease or make fun of: ribbed my friend about losing the game.  
 __ribald__ _adj_  
-__ribbed__ _v_ :two::hammer:  
-__ribbing__ _n_ :two::hammer:  
+__ribald<sup>1</sup>__ _adj_ /ˈrɪbəld/ Coarse, obscene, or licentious, usually in a humorous or mocking way.  
+__ribald<sup>2</sup>__ _n_ A ribald person.  
+__ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
+__ribbing__ _n_ :three: __3__ _informal_ The act or an instance of joking or teasing.  
+__ribbon candy__  
 __ribbon-cutting ceremony__ _n_  
 __ribeye__ _n_ :two: /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
 __Rice Belt__ _n_ The Rice Belt of the United States includes Arkansas, Louisiana, Mississippi and Texas, four southern U.S. states that grow a significant portion of the nation’s rice crop.  
 __riches__ _pl n_ :nine::m: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
-__rickets__  
+__rickets__ _n_ :two: A bone disease of children marked by bone demineralization and defective bone growth, caused usually by a deficiency of or an impaired metabolism of vitamin D. _Syn_ rachitis :es: raquitismo  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :three: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for _cycle rickshaw._  
@@ -14943,6 +14950,7 @@ __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is
 __riddled__ _adj_  
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
+__ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __ridicule__ _v_ :two::hammer: _They were ridiculed._  
 __ridiculous__ _adj_ :mega:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
@@ -14960,11 +14968,11 @@ __right-wing__ _adj_ Believing in or supporting tenets of the political right. _
 __righteous__ _adj_ :two::mega: /ˈraɪ tʃəs/ __1__ Morally upright; without guilt or sin: _a righteous parishioner._ __2__ In accordance with virtue or morality: _a righteous judgment._ _Syn_ moral __3__ _slang_ Absolutely genuine or wonderful: _some righteous playing by a jazz great._  
 __rightful__ _adj_ _Edward III announced himself the rightful King of France._  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
-__rigmarole__ _n_ :five: __1__ Confused or meaningless talk. Confused, rambling, or incoherent discourse; nonsense. _Syn_twaddle, story, saga, trash, jargon, yarn, gibberish, spiel _When I asked why he missed the meeting, he gave me some rigmarole about the train being late._ __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
+__rigmarole__ _n_ :six: __1__ Confused or meaningless talk. Confused, rambling, or incoherent discourse; nonsense. _Syn_twaddle, story, saga, trash, jargon, yarn, gibberish, spiel _When I asked why he missed the meeting, he gave me some rigmarole about the train being late._ __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
 __rigor__ _n_ :two::hammer:  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
-__rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
+__rile__ _v_ :six: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rimless__ _adj_ _Rimless glasses._  
 __rind__ _n_ :two::hammer: _The color of rind._  
@@ -14998,6 +15006,7 @@ __rise__ _v_
 __risers__  
 __risibility__ _n_ __1__ Often, risibilities. the ability or disposition to laugh; humorous awareness. __2__ Laughter.  
 __risible__ _adj_ :four: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
+__risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
 __rite__ _n_ :two::hammer:  
 __ritz<sup>1</sup>__ _n_ /rits/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier.] Luxury, glamor, opulence, etc. The word ritz is often used in the phrase “to put on the ritz” meaning to “make an ostentatious show.”  
 __ritz<sup>2</sup>__ _v tr_ /rits/ __1__ To make a show of luxury or opulence. __2__ To behave haughtily toward someone; to snub.  
@@ -15014,7 +15023,7 @@ __roach paste__
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :pencil2:  
 __road salt__ _n_  
-__roadblock__ _n_ :two::hammer: _Substantial roadblocks stand in the way._  
+__roadblock__ _n_ :three::hammer: _Substantial roadblocks stand in the way._  
 __roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
 __roadside__ _n_ :two: __1a__ Ahe area at the edge of a road. __b__ (as modifier): _roadside diners._ _Roadside billboards._  
 __roam__ _v_ :nine::m: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._ _Users must be able to roam between networks._ _Cuts of beef served tableside by a parade of roaming carvers._  
@@ -15033,6 +15042,7 @@ __rock salt__ _n_ _Rock salt is used in the UK to treat roads during the winter 
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _n_ _Is this rock-paper-scissors?_  
+__rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
 __rocker__ _n_ :two::hammer: _Porch rockers._  
 __rockery__ _n_ :four::hammer:  
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
@@ -15222,7 +15232,7 @@ __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, 
 __runabout__ _n, v_  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
-__rundown__ _n_ :four::hammer:  
+__rundown__ _n_ :dart::five:::hammer: __1__ A point-by-point summary.  
 __rung__ _n informal_ :nine::m: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._ _The rung of the ladder._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running account__ _n_ Current account.  
@@ -15486,7 +15496,7 @@ __scarce__ _adj_ :three::hammer:
 __scarcely__ _adv_ :astonished: _The executioner seemed scarcely older than Rob._  
 __scare__ _n_  
 __scaremonger__ _n_ A person who spreads frightening rumors and stirs up trouble. _Syn_ stirrer _When he started spreading the rumor that the government was bent on destroying our homes, we decided that he was a scaremonger and stopped paying attention._  
-__scarlet letter__ _n_  
+__scarlet letter__ _n_ :two::hamer:  
 __scarlet__ _n_ :three: (vs _Scarlett_) A strong to vivid red or reddish orange.  
 __Scarlett__ _n_ (vs _scarlet_) A female given name transferred from the surname; in general use since 1936. Scarlett is the female name that has originated from the colour scarlet.  
 __scarper__ _n_ A hasty departure.  
@@ -15495,9 +15505,9 @@ __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure
 __scatheless__ _adj_ _A remarkably scatheless record._  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ :three: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
-__scattergood__ _n_ :three: Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
+__scattergood__ _n_ :four: /SKAT-uhr-good/ One who spends wastefully. Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
-__scenario__ _n_ :mute:[s~~c~~enario]  
+__scenario__ _n_ :mega::mute:[s~~c~~enario] /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
 __scend<sup>1</sup>__ _v intr_ (send) To rise or lift by, or as if by, a wave.  
 __scend<sup>2</sup>__ _n_ (send) The rising movement of a wave or a ship on a wave.  
 __scene__ _n_ :mute:[s~~c~~ene]  
@@ -15506,10 +15516,10 @@ __scenic<sup>2</sup>__ _n_ :two::hammer:
 __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  
-__schadenfreude__ _n_ :four::astonished: /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
+__schadenfreude__ _n_ :five::astonished: /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __schedule__ _n_ _A schedule was set._  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
-__schism__ _n_ :three::hammer: :es: cisma  
+__schism__ _n_ :four: A separation or division into factions. _Syn_ discord, split :es: cisma _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizoid__ _adj_ _She had a schizoid personality._  
 __schlep__ _v_ :four::hammer: (schlepping)  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  

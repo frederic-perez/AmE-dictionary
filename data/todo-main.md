@@ -131,32 +131,6 @@ __purportedly__
 __purpose__ _n_ :mega:  
 __pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
-__retinue__ _v_ :two::hammer:  
-__rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
-__rhinestone__ _n_ _Rhinestone glasses._  
-__rhizome__ _n_ A horizontal, usually underground stem that often sends out roots and shoots from its nodes. _Syn_ rootstalk _It was not apparent that the neighboring stalk belonged to the original plant because the rhizome connecting the two was underground._  
-__rhododendrons__ _n_ :pencil2:  
-__rib eye__ _n_ _Rib eye steaks._  
-__ribald<sup>1</sup>__ _adj_ /ˈrɪbəld/ Coarse, obscene, or licentious, usually in a humorous or mocking way.  
-__ribald<sup>2</sup>__ _n_ A ribald person.  
-__ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
-__ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
-__ribbon candy__  
-__rickets__ _n_ A bone disease of children marked by bone demineralization and defective bone growth, caused usually by a deficiency of or an impaired metabolism of vitamin D. _Syn_ rachitis :es: raquitismo  
-__ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
-__rife__ _adj_  
-__rigmarole__ _n_  
-__riled__ _v_  
-__ripe__  
-__risk stratification__ _n_ A formal estimate of the probability of a person’s succumbing to a disease or benefiting from a treatment for that disease.  
-__roadblock__ _n_  
-__rock, papers, scissors__ _n_ _“Rock, papers, scissors, shoot!”_  
-__rundown__ _n_ :dart: __1__ A point-by-point summary.  
-__scarlett letter__ _n_  
-__scattergood__ _n_ /SKAT-uhr-good/ One who spends wastefully.  
-__scenario__ _n_ :mega: /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
-__schadenfreude__  
-__schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
