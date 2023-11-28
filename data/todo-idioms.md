@@ -23,6 +23,7 @@ __apples and oranges__
 __as long as__  
 __at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
+__bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
 __bamboozle__  
 __bank on__  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
@@ -34,12 +35,17 @@ __big cheese__
 __bite (one’s) tongue__  
 __boom chicka wah wah__  
 __build a case__ To compile evidence that supports an argument or charges against someone or something.  
+__burp__ _informal_  
 __by and large__  
 __cause a stir__ To incite trouble or excitement.  
 __crack down (on someone or something)__  
 __crash course__  
 __cut it__  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
+__engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
+__game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
+__get around to doing something__ To find time to do something; to do something after a long delay.  
+__get into (someone or something)__  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
 __have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
@@ -97,8 +103,12 @@ __high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful
 __high note__ The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
+__hit home__  
+__in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  
+__in the money__  
 __keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
 __king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
+__lock out__ __2__ To prevent employees from coming to work or performing their duties during a labor dispute. _The factory gates were chained shut, a clear sign to the workers that the owners had locked them all out._  
 __loom large__ :dart: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mixed bag__ A diverse mixture or group.  
@@ -106,6 +116,8 @@ __more so__
 __neck and neck__  
 __nerve-wracking__ Causing fear or anxiety.  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
+__not know (one) from Adam__  
+__not know (one) from Eve__  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
 __of late__  
@@ -114,6 +126,8 @@ __on a roll__
 __on point__  
 __on the horizon__  
 __open season (on someone or something)__  
+__out of whack__  
+__pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
 __pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
 __pave the way (for someone or something)__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
@@ -158,6 +172,8 @@ __rat race__
 __ratchet up__  
 __red line__  
 __ripple effect__  
+__rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
+__rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
@@ -167,7 +183,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
-__rumor mill__  
+__rumor mill__ :two::hammer:  
 __screw up__  
 __scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
@@ -199,6 +215,9 @@ __then again__
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
+__through the roof__ To a very high level.  
+__TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_  
+__to a T__  
 __turkey__ __3__ _n_ _slang_ Stupid person.  
 __turn a deaf ear (to someone or something)__  
 __turn of phrase__  
@@ -216,6 +235,7 @@ __washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usu
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
+__wind down__  
 __work (one’s) tail off__  
 __work one’s tail off__  
 __work out__  
