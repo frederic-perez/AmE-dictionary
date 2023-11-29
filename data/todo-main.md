@@ -31,16 +31,24 @@ __allot__ _v_
 __alot__ _v_  
 __amicably__ _adv_  
 __apiarist__ _n_ _Syn_ apiculturist, beekeeper  
-__articulate__ _v_  
+__apiece__ _adv_ /əˈpiːs/  
+__articulate<sup>1</sup>__ _v_  
+__articulate<sup>2</sup>__ _adj_  
 __assess__ _v tr_  
 __atopic__ _adj_  
+__auction__ _n_ /ˈɔːkʃən/  
 __befuddle__  
 __bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
+__boba__ _n_  
 __bombastic__  
 __booty__ _n_  
+__bordeline__ _n_ __2__ An indeterminate position between two conditions or qualities: _the borderline between friendship and love._  
 __bumfuzzle__  
+__Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __cavort__  
+__contextualize__ _v tr_  
 __covenant__ _n_  
+__cram__ _v_  
 __crapula__  
 __crapulent__  
 __crisp__ _adj_  
@@ -51,6 +59,7 @@ __denervation__ _n_
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __deterrent__ _adj, n_  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
+__disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/  
 __eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
@@ -71,11 +80,17 @@ __envision__ _v tr_
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
 __flummox__ _v_  
+__gale__ _n_  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
+__hassle__ _n_  
+__havoc__ _n, v_ :mega: /ˈhæv ək/  
 __hogwash__ _n_  
 __inordinate__ _adj_ /in-OR-dun-ut/  
+__junction__ _n_ A place where roads meet.  
+__juncture__ _n_ A point in time.  
 __kerfuffle__  
 __list price__ _n_  
+__literate__ _adj_ __1b__ Knowledgeable or educated in a particular field or fields.  
 __long-lasting__ _adj_  
 __luscious__  
 __maelstrom__ _n_ /MAIL-strum/  
@@ -120,20 +135,27 @@ __palliative__ _adj_ :pencil2:
 __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
+__paraplegia__ _n_  
 __people pleaser__ _n_  
 __pester__ _v tr_  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
+__plaza__ _n_ :mega:  
+__possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
 __psychobabble__ _n_  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
+__ransom__ _n_  
+__repercussion__ _n_  
+__sanity check__  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
+__scorecard__ _n_  
 __scores__ _n pl_ A large number or amount.  
 __scraggly__ _adj_ _A scraggly beard._  
 __scramble__ _v_ _They scrambled for personal power._  
@@ -225,6 +247,7 @@ __strife__ _n_
 __stuffing__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
+__Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
@@ -273,7 +296,7 @@ __unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with stranger
 __unencumbered__ _adj_ /ˌʌnɪnˈkʌmbəd/ Not burdened, impeded, or hampered. _Unencumbered love._  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Not ambiguous; plain  
 __unerring__ _adj_  
-__unfurl__ _v_  
+__unfurl__ _v_ :two::hammer: :es: desplegar  
 __unheeded__ _adj_ :dart::two: /ʌnˈhiːdɪd/ Noticed or heard but disregarded.  
 __unhook__ _v tr_  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
