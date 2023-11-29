@@ -183,34 +183,6 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
-__rumor mill__ :two::hammer:  
-__screw up__  
-__scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
-__seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
-__shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
-__shirk (one’s) duty__ To avoid, neglect, or evade one’s duty or responsibility.  
-__shoot on sight__ To immediately shoot (someone) one sees.  
-__show, don’t tell__  
-__sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
-__silver bullet__  
-__simply put__ In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
-__sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
-__take a stand__  
-__take office__ To assume a position of political authority, especially one that is granted as the result of a public election.  
-__TBD__ An initialism of “to be determined.” Used in reference to something that is scheduled to happen but whose details have not yet been established or finalized.  
-__teem with (someone or something)__  
-__tell me about it__  
-__tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
-__test the waters__  
-__thang__ A facetious or slang form of _thing._  
-__that been said__  
-__that’s a given__  
-__the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
-__the right call__  
-__the rubber meets the road__ Someone’s or something’s efforts, resolve, or viability are put to the test; things become truly or meaningfully challenging. Used especially after the words “where” or “when.”  
-__the sky is the limit__  
-__the sky’s the limit__  
-__the tip of the iceberg__  
 __then again__  
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
