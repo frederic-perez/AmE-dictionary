@@ -15496,7 +15496,7 @@ __scarce__ _adj_ :three::hammer:
 __scarcely__ _adv_ :astonished: _The executioner seemed scarcely older than Rob._  
 __scare__ _n_  
 __scaremonger__ _n_ A person who spreads frightening rumors and stirs up trouble. _Syn_ stirrer _When he started spreading the rumor that the government was bent on destroying our homes, we decided that he was a scaremonger and stopped paying attention._  
-__scarlet letter__ _n_ :two::hamer:  
+__scarlet letter__ _n_ :two::hammer:  
 __scarlet__ _n_ :three: (vs _Scarlett_) A strong to vivid red or reddish orange.  
 __Scarlett__ _n_ (vs _scarlet_) A female given name transferred from the surname; in general use since 1936. Scarlett is the female name that has originated from the colour scarlet.  
 __scarper__ _n_ A hasty departure.  
@@ -18739,7 +18739,7 @@ __transseptal__ _adj_ :pencil2: Extending or performed through or across a septu
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
 __trap question__ _n_ :astonished: _That’s a trap question._  
 __trapdoor__ _n_  
-__trappings__ _n_ :five::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
+__trappings__ _n pl_ :seven::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
 __trascends__ _v_  
 __trash talk__ _n_ :two::hammer:  
@@ -18749,9 +18749,9 @@ __travail__ _n_ :two: Work, especially when arduous or involving painful effort.
 __travails__ _n_ :two::hammer:  
 __travelogue__ _n_ :three::hammer:  
 __travertine__ _n_ Calcium carbonate deposited by water, as in stalactites.  
-__travesty<sup>1</sup>__ _n_ :five: /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
+__travesty<sup>1</sup>__ _n_ :six: /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
-__trawl__ _v_ :three::hammer:  
+__trawl__ _v_ :four::hammer:  
 __trawler__  
 __treacherous__ _adj_ :three::hammer:  
 __treachery__ _n_ :five::hammer: _Navarre preferred guile and treachery._  
@@ -18759,7 +18759,7 @@ __treacle__
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
 __treading__  
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
-__treasure trove__ _n_ :two::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
+__treasure trove__ _n_ :three::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
 __treasure__ _v_ :five::hammer:  
 __treat<sup>1</sup>__ _v_ :three::hammer: _Treating a friend to lunch is a good way to spend the money on others._ _Treat yourself a coffee._  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
@@ -18771,13 +18771,14 @@ __treen__ _n_ Small woodenware.
 __treetops__ _n_  
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trek__ _n_ :mega:  
-__trellis__ _n_ :eight::hammer: (trellises) _A series of couches shaded by trellises._ _A trellis of steel pipes carries a state-of-the-art sound system._  
+__trellis__ _n_ :nine::hammer: (trellises) _A series of couches shaded by trellises._ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
 __tremendous__ _adj_ :two::hammer:  
 __tremendously__ _adv_ :two::hammer:  
 __tremor__ _n_  
 __trench coat__ _n_  
 __trenchant__ _adj_ :three: /TREN-chunt/ Having keenness and forcefulness and penetration in thought, expression, or intellect. Trenchant is a formal word that is usually used to describe communication that is notably strong, clear, and perceptive, or in other words, “sharp.” _Syn_ searching _His trenchant criticism redirected the debate and gave everyone something new to consider._ _The author’s trenchant wit was very evident in thencritique she wrote of the much-acclaimed film._  
+__trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
 __trend__ _v_  
 __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in popular music._ _FDR was certainly the trendsetter when it came to political initialisms._  
 __trepidation__ _n_ :eight: /trep-uh-DAY-shun/ Worry or anxiety about something that is going to happen. A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._ _With some trepidation, I asked him out for dinner._  
@@ -19081,6 +19082,7 @@ __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, o
 __unavenged__ _adj_  
 __unbidden__ _adj_ :four: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
+__unbox__ _n_  
 __unbridled__ _adj_ :two::hammer:  
 __unbundling__ _n_  
 __unburdened__  
@@ -19110,9 +19112,9 @@ __underbelly__ _n_ :four::hammer: /ˈʌn dərˌbɛl i/ (underbellies) _He is for
 __underbid__  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
-__undercurrent__ _n_ :three::hammer:  
+__undercurrent__ _n_ :astonished::five::hammer: :es: trasfondo  
 __undercut__ _v_ :nine::m::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
-__underdog__ _n_ :two::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+__underdog__ _n_ :three::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __underemployed__  
 __underfoot__ _adv_ :four::hammer: _They were reluctant to recognize crisis until it was underfoot._  
@@ -19125,8 +19127,8 @@ __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _Aft
 __underling__ _n_  
 __underlying__ _adj_ _The underlying software stack._  
 __undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
-__underpin__ _v tr_ :six::hammer:  
-__underpinning__ _n_ :three::hammer:  
+__underpin__ _v tr_ :seven::hammer:  
+__underpinning__ _n_ :five::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  
 __underscore__ _v_ :six: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
@@ -19155,13 +19157,14 @@ __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, 
 __undulate__ _v_ :two: /UN-juh-layt/ Undulate is a formal word that means “to move or be shaped like waves.” To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :nine::m: Excessively; immoderately: _unduly familiar with strangers._  
+__unduly__ _adv_ :nine::m: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
 __unearth__ _v_ :five::hammer: (unearthed)  
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
-__unencumbered__ _v_ _Now you can travel unencumbered._  
+__unencumbered__ _adj_ :two: /ˌʌnɪnˈkʌmbəd/ Not burdened, impeded, or hampered. _Unencumbered love._ _Now you can travel unencumbered._  
 __unequaled__ _adj_  
-__unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
+__unequivocal__ _adj_ :two: /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unequivocally__  
+__unerring__ _adj_  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
 __uneven__  
 __uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
@@ -19177,7 +19180,7 @@ __unfold__ _v_ :six::hammer: _Mysteries unfold._
 __unforeseen__ _adj_ _Unforeseen difficulties._  
 __unforgiving__ _adj_  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
-__unfurl__ _v_ :two::hammer: (unfurling)  
+__unfurl__ _v_ :four::hammer: (unfurling) :es: desplegar  
 __unfurnished__ _adj_ Having no furniture, especially when available to be rented. _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungainly__ _adj_ :two: __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
@@ -19185,23 +19188,30 @@ __ungodly__ _adj_
 __ungulate<sup>1</sup>__ _adj_ :two::hammer:  
 __ungulate<sup>2</sup>__ _n_ A hoofed mammal.  
 __unharness__ _v_  
+__unheeded__ _adj_ :dart::two: /ʌnˈhiːdɪd/ Noticed or heard but disregarded.  
 __unheralded__ _adj_ :two::hammer:  
 __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
 __unhinged__ _adj_ :three: Deranged or unbalanced. _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
+__unhook__ _v tr_  
 __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, inculpable, irreproachable _As is indeed not unfrequent with women of unimpeachable virtue ... at a distance she not only excused illicit love, she positively envied it._  
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
+__union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
+__unison__ _n_  
+__universe__ _n_ :pencil2:  
 __univocal__ _adj_ /yoo-NIV-uh-kul/  
-__unkempt__ _adj_ :three::hammer: _Unkempt beards._  
+__unkempt__ _adj_ :four::hammer: _Unkempt beards._  
+__unknome__ _n_ A tongue-in-cheek neologism (after ge-nome) for the plethora of genes lacking functional information.  
+__unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
 __unleash__ _v_  
 __unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _prep_  
 __unlucky__ _adj_  
-__unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
+__unmissable__ _adj_ :two: A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__ _adj_ :three::hammer::astonished:  
 __unobstrusive__  
 __unparalleled__ _adj_ :two::hammer:  

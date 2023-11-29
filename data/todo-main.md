@@ -279,33 +279,6 @@ __tout__ _v_ :dart:
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
-__trappings__ _n pl_ :two::hammer:  
-__travesty__ _n_ /TRAV-uh-stee/  
-__trawl__ _v_  
-__treasure trove__  
-__trellis__ _n_  
-__trencherman__ _n_ A hearty eater. _Syn_ glutton, gourmand  
-__trite__ _adj_  
-__unbox__ _n_  
-__undercurrent__ _n_ :two::astonished::hammer: :es: trasfondo  
-__undercut__  
-__underdog__ _n_  
-__underpin__ _v tr_  
-__underpinnings__ _n_ :two::hammer:  
-__unduly__ _adv_ :two: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
-__unencumbered__ _adj_ /ˌʌnɪnˈkʌmbəd/ Not burdened, impeded, or hampered. _Unencumbered love._  
-__unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Not ambiguous; plain  
-__unerring__ _adj_  
-__unfurl__ _v_ :two::hammer: :es: desplegar  
-__unheeded__ _adj_ :dart::two: /ʌnˈhiːdɪd/ Noticed or heard but disregarded.  
-__unhook__ _v tr_  
-__union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
-__unison__ _n_  
-__universe__ _n_ :pencil2:  
-__unkempt__ _adj_  
-__unknome__ _n_ A tongue-in-cheek neologism (after ge-nome) for the plethora of genes lacking functional information.  
-__unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
-__unmissable__  
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
