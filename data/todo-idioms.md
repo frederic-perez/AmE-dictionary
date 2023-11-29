@@ -21,7 +21,9 @@ __allude to (something)__
 __and then some__ And even more; and more than has been mentioned.  
 __apples and oranges__  
 __as long as__  
+__as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
 __at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
+__at times__  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
 __bamboozle__  
@@ -33,7 +35,9 @@ __beer money__ A small amount of money that somebody earns or is allowed to spen
 __beyond belief__ Inconceivable; outside of the realm of imagination, expectation, or anticipation. _I find it simply beyond belief the greed of all these big corporations._  
 __big cheese__  
 __bite (one’s) tongue__  
+__boggle the/(one’s) mind__ To thoroughly overwhelm, confuse, or surprise one. _The show of support from everyone just boggled my mind._  
 __boom chicka wah wah__  
+__breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
 __build a case__ To compile evidence that supports an argument or charges against someone or something.  
 __burp__ _informal_  
 __by and large__  
@@ -41,11 +45,14 @@ __cause a stir__ To incite trouble or excitement.
 __crack down (on someone or something)__  
 __crash course__  
 __cut it__  
+__darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
+__flatline__ _slang_ To die or come very close to death.  
 __game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
 __get into (someone or something)__  
+__have (got) game__ _slang_ __1__To be especially talented or adept at something, typically sports. _I know that guy’s small, but don’t underestimate him on the court—he’s got game._ __2__ To be very skilled at initiating a conversation with someone with the aim of having a romantic or sexual encounter with them. _Wow, you got his number? Dang, girl, you’ve got game!_  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
 __have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
@@ -104,14 +111,19 @@ __high note__ The most successful, impressive, or climactic point (of something)
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
 __hit home__  
+__homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ __2__ _slang_ A friend. _Teddy’s my homie—he’ll help us out._  
+__in hindsight__  
 __in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  
 __in the money__  
 __keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
 __king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
+__know a thing or two__  
+__lo and behold__  
 __lock out__ __2__ To prevent employees from coming to work or performing their duties during a labor dispute. _The factory gates were chained shut, a clear sign to the workers that the owners had locked them all out._  
 __loom large__ :dart: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mixed bag__ A diverse mixture or group.  
+__modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __neck and neck__  
 __nerve-wracking__ Causing fear or anxiety.  
@@ -136,6 +148,7 @@ __play with fire__
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
 __plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
+__point fingers (at someone or something)__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
@@ -183,6 +196,9 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__sell like hot cakes__  
+__status quo__ :mega: /kwoʊ/  
+__stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __then again__  
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
@@ -201,13 +217,16 @@ __under (one’s) watch__ A situation where someone is responsible for overseein
 __under one’s belt__  
 __under the guise of (something)__  
 __under the hood__  
+__vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A reference to vanilla being considered a plain or ordinary flavor.  
 __walk in the park__  
 __walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
 __washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usually hyphenated or spelled as one word. _He was a star player until he got busted for drugs and became a total washout._  
 __weird out__  
 __whack__  
 __what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
+__whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness. _Whoops! Dang it, I can’t believe I broke my favorite vase!_  
 __wind down__  
+__wishy-washy__  
 __work (one’s) tail off__  
 __work one’s tail off__  
 __work out__  
@@ -227,3 +246,4 @@ __you scratch my back, I scratch yours__
 __your/the last/final word (on/about something)__ your, etc. final decision or statement about something: ‘Will you take £900?’ ‘No, £1 000 and that’s my last word.’  
 __yuk__ __4__ _slang_ An expression or exclamation of extreme disgust, aversion, or contempt. (A variant of “yuck.”)  
 __zero sum game__  
+__zilch__  
