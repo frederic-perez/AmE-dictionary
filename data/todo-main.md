@@ -282,33 +282,6 @@ __transience__
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
-__unseemly__ _adj, adv_ :two::hammer:  
-__unspoken__ _adj_  
-__unstintingly__  
-__untapped__ _adj_ :two: __2__ Not utilized: _untapped resources._  
-__upbraid__ _v_ /up-BRAYD/  
-__upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
-__upcoming__ _adj_ :dart: In the relatively near future. _Syn_ approaching, coming, forthcoming  
-__upend__ _v_ :two::hammer:  
-__upheaval__ _n_  
-__upright bass__ _n_  
-__uproar__ _n_  
-__upside__ _n_ _The gig did have some upsides._  
-__uptake__ _n_  
-__uptick__ _n_ :two::hammer:  
-__utterance__  
-__uvula__ _n_ /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat.  
-__va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
-__va-va-voom<sup>2</sup>__ _adj informal_ Strikingly sexy, voluptuous, or appealing.  
-__vacant__ _adj_  
-__vacantly__  
-__vacate__  
-__vacationer__ _n_  
-__vacuous__  
-__vacuum__ _n_ __4__ A vacuum cleaner.  
-__vagary__ _n_ /VAY-guh-ree/ The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._  
-__vagus nerve__ _n_ :m:  
-__vainglory__ _n_ Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  

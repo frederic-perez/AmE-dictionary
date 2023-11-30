@@ -19234,7 +19234,8 @@ __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule.
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
 __unsavory__ _adj_ :two::hammer: /ʌnˈseɪ və ri/  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
-__unseemly__ _adj_ _Syn_ indecorous  
+__unseemly<sup>1</sup>__ _adj_ _Syn_ indecorous  
+__unseemly<sup>2</sup>__ _adv_ :two::hammer:  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
 __unsettling__ _adj_ :three: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man’s unsettling eyes._  
 __unshackle__ _v_ _The two guards unshackled Sam at the door._  
@@ -19244,8 +19245,10 @@ __unsightly__ _adj_ Unpleasant or offensive to look at; unattractive. _Syn_ ugly
 __unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
 __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
 __unsound__  
+__unspoken__ _adj_  
 __unspool__ _v_ (unspooling) _Unspooling microphone cables._  
 __unstiking__ _v_  
+__unstintingly__ _adv_ In an unstinting fashion; without stinting; generously; lavishly.  
 __unstoppable__ _adj_ :two::hammer: _She is our unstoppable force of nature._  
 __unsubstantiated__ _adj_  
 __unsung__  
@@ -19253,7 +19256,7 @@ __unsurmountable__ _adj_
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _adj_ :three: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._  
+__untapped__ _adj_ :five: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
 __untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
@@ -19282,8 +19285,10 @@ __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our 
 __up-and-comer__  
 __up-tempo__ _adj_ _Up-tempo kind of game._  
 __upbeat__ _adj_ :six: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil’s colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He’s extremely upbeat during down times._ __2__ Happy; cheerful. _The atmosphere is upbeat and fun._  
+__upbraid__ _v_ /up-BRAYD/  
+__upbringing__ _n_ :mega: /ˈʌpˌbrɪŋɪŋ/ The rearing and training received during childhood.  
 __upchuck__ _v_ _You know, Freddo, Frank Borman was upchucking most of the way to the moon on_ Apollo 8.  
-__upcoming__  
+__upcoming__ _adj_ :dart::two: In the relatively near future. _Syn_ approaching, coming, forthcoming  
 __upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
 __updraft__ _n_ The movement upward of air or other gas.  
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
@@ -19307,9 +19312,10 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__ _v_ :two::hammer:  
+__upright bass__ _n_  
 __upright piano__ _n_  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
-__uproar__ _n_  
+__uproar__ _n_ :two::hammer:  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
 __uproot__ _v_ :four::hammer: (uprooted) _Uprooted workers._  
 __uprparious__ _adj_ _An uproarious fracas._  
@@ -19322,7 +19328,7 @@ __upselling__ _n_ :two: The practice of offering customers additional or more ex
 __upset__ _n_ :three::mega::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
 __upshot__ _n_ :nine: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
-__upside__ _n_ :four: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
+__upside__ _n_ :five: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _The gig did have some upsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskill__ _v tr_ :dart: To improve the aptitude for work of (a person) by additional training.  
 __upskilling__ _n_ :dart::two: Teaching or learning additional skills.  
@@ -19334,9 +19340,9 @@ __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting foc
 __upstate__  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :six: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
+__uptake__ _n_ :seven::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
 __uptalk__ _v_  
-__uptick__ _n_ :eight::hammer:  
+__uptick__ _n_ :nine::m::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ _n_ :three: The time during which a device, such as a computer, is functioning or available for use.  
 __uptown__ _adj, adv, n_ :two::hammer:  
@@ -19367,31 +19373,35 @@ __utmost<sup>1</<sup>__ _adj_ :eight::mega: /UT-mohst/ __1__ Of the greatest or 
 __utmost<sup>2</<sup>__ _n_  
 __utopia__ _n_ /yoo-TOH-pee-uh/  
 __utter__ _adj_ _Utter darkness._  
-__utterance__  
+__utterance__ _n_ :two::hammer:  
 __utterly__ _adv_ :eight::hammer: _An utterly trivial dispute._  
-__uvula__ _n_ :es: úvula, campanilla  
+__uvula__ _n_ :two: /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat. :es: úvula, campanilla  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one’s wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __V bolt__  
 __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
 __V8__ _n_ _(beverage)_  
-__vacant__ _adj_ :two::hammer: _A vacant look._ _Adam parked in a vacant spot._  
+__va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
+__va-va-voom<sup>2</sup>__ _adj informal_ Strikingly sexy, voluptuous, or appealing.  
+__vacant__ _adj_ :three::hammer: _A vacant look._ _Adam parked in a vacant spot._  
 __vacant-eyed__  
-__vacate__ _v_ :three::hammer:  
+__vacantly__  
+__vacate__ _v_ :four::hammer:  
+__vacationer__ _n_  
 __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
 __vacillate__ _v intr_ :two: To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
-__vacuous__ _adj_ Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
-__vacuum__ _n_ :three::pencil2::hammer: _Upright/Canister vacuum._ :camera:  
+__vacuous__ _adj_ :two: Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
+__vacuum__ _n_ :four::pencil2::hammer: _Upright/Canister vacuum._ __4__ A vacuum cleaner. :camera:  
 __vagabond__ _n_  
-__vagary__ _n_ :six::hammer: (vagaries) _The vagaries of economics._ _The vagaries of nature._  
+__vagary__ _n_ :seven: /VAY-guh-ree/ (vagaries) The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._ _The vagaries of economics._ _The vagaries of nature._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
-__vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
+__vagus__ _n_ :two::mega: (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
-__vainglory__ _n_ :four::hammer:  
+__vainglory__ _n_ :five: Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __Val__ _n_ (Vals)  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
