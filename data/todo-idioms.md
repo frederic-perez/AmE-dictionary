@@ -221,29 +221,3 @@ __vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A 
 __walk in the park__  
 __walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
 __washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usually hyphenated or spelled as one word. _He was a star player until he got busted for drugs and became a total washout._  
-__weird out__  
-__whack__  
-__what gives?__ _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
-__whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness. _Whoops! Dang it, I can’t believe I broke my favorite vase!_  
-__wind down__  
-__wishy-washy__  
-__work (one’s) tail off__  
-__work one’s tail off__  
-__work out__  
-__wrangle with (something)__ To struggle to understand, solve, or deal with something.  
-__wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
-__wreak havoc__ /riːk ˈhæv ək/ To cause a lot of problems.  
-__writ large__  
-__wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
-__yada yada yada__  
-__yada yada__ Boring or empty talk.  
-__yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
-__yen__ A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
-__yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
-__you name it__ :two::hammer:  
-__you saved the day__  
-__you scratch my back, I scratch yours__  
-__your/the last/final word (on/about something)__ your, etc. final decision or statement about something: ‘Will you take £900?’ ‘No, £1 000 and that’s my last word.’  
-__yuk__ __4__ _slang_ An expression or exclamation of extreme disgust, aversion, or contempt. (A variant of “yuck.”)  
-__zero sum game__  
-__zilch__  

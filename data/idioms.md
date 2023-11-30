@@ -4910,12 +4910,14 @@ __weep (one’s) heart out__ To weep copiously; to cry intensely and for a long 
 __weigh down__ To make someone heavy and unable to move easily.  
 __weigh in__ :dart::two: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __weigh on__  
+__weird out__  
 __well in advance__ _Book tickets well in advance._  
 __well played__  
 __well-heeled__ :two: (well-fixed; well-off) [:scroll: Alluding to a person who can easily afford to replace shoes often] Wealthy; with sufficient money. Having plenty of money; prosperous. _My uncle can afford a new car. He’s well-heeled. Everyone in his family is well-off._  
 __welp__ A common alternative to “well” that is used to express disappointment, often in text messaging.  
 __Were you born in a tent?__ Have you no basic manners? (Usually said after someone has left open a door to the outside.) _Shut the door, it’s freezing outside! Were you born in a tent?_  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
+__whack__  
 __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems continue to arise faster than one is able to solve or cope with them, resulting in piecemeal, incomplete, or temporary results. _Every time we think we have the software debugged, more problems show up. We’ve just been playing whack-a-mole from day one!_  
 __whale on (someone or something)__  
 __whanger__ :two: _slang_ The penis.  
@@ -4923,7 +4925,7 @@ __what a drag__
 __what are the odds__  
 __what do I know__  
 __what do you know__ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
-__what gives?__  
+__what gives?__ :two: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what if scenario__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what it takes__ :two: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
@@ -4970,6 +4972,7 @@ __who’s who__ __2__ A gathering of the most famous, important, or influential 
 __whodunit__ :dart: A detective story or mystery story.  
 __whole nother thing__  
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
+__whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness. _Whoops! Dang it, I can’t believe I broke my favorite vase!_  
 __whoopsie-daisy__  
 __why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
@@ -4984,7 +4987,7 @@ __win (one) over__
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
 __win over__  
 __win-win__ _A win-win scenario._  
-__wind down__ :three::hammer:  
+__wind down__ :four::hammer:  
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
 __window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
 __window of opportunity__  
@@ -4999,7 +5002,7 @@ __wise guy__ __2__ A mobster.
 __wish (one) well__  
 __wishful thinking__ :two::hammer: :es: espejismo, ilusión  
 __wishy washy__ _slang_ Indecisive or not reliable.  
-__wishy-washy__ :two::hammer:  
+__wishy-washy__ :three::hammer:  
 __wit’s end__ :two::dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __witch hunt__ :two: An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
 __witching hour__ _The pizzeria servers until the witching hours._  
@@ -5033,10 +5036,12 @@ __word of mouth__ :three: Spoken communication: _News of their success spread by
 __word on the street__ :two: The information, or the version of that information, that is currently spreading from person to person, often in a particular setting, like school or work. _There are so many people stopping by Shelly’s office because word on the street is that she’s leaving the company._  
 __work (one’s) ass off__  
 __work (one’s) butt off__ b work really hard (on or at something).  
+__work (one’s) tail off__  
 __work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
 __work like a charm__ :two::hammer:  
 __work one’s fingers to the bone__  
-__work one’s tail off__  
+__work one’s tail off__ :two::hammer:  
+__work out__  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work up a sweat__ __1__ Literally, to perspire due to strenuous physical activity. _Ping pong is actually great exercise. You really can work up a sweat after just a few games._ __2__ By extension, to put forth a large amount of energy or effort into or toward a task. Often used in the negative to indicate the opposite. _That test was so easy, I aced it without even working up a sweat._  
 __work wonders__  
@@ -5045,20 +5050,27 @@ __worried sick__ Very concerned or anxious about a person or situation. _The nex
 __worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
 __wouldn’t listen__ _He wouldn’t listen._  
 __wouldn’t touch something/someone with a ten-foot pole__ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
+__wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __wrap (one’s) head around it__ :seven: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
 __wrap around one’s finger__ (twist around one’s finger) Exert complete control over someone, do as one likes with someone, as in _Alison could twist just about every man around her finger._  
 __wrap my head around something__  
-__wreak havoc__ :three: (wreaked havoc) To cause a lot of problems.  
+__wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
+__wreak havoc__ :four: /riːk ˈhæv ək/ (wreaked havoc) To cause a lot of problems.  
+__writ large__  
 __write (one’s) own ticket__ :two::hammer:  
 __write someone or something off__  
 __writing on the wall, the__ :four: An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
+__wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __x, y, and z__ _n_ A figure of speech used when making a hypothetical argument or example. _Well, I could say, “God doesn’t exist because of X, Y and Z.”_  
 __X’s and O’s__ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one’s team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x’s and o’s, but the team’s execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x’s and o’s of the budget._ __3__ Kisses and hugs.  
-__yada, yada(, yada)__ :seven: (yadda yadda yadda) __1__ _slang_ [:scroll: The phrase was popularized by the television show Seinfeld in the 1990s.] Used to summarize, characterize, or represent information or chatter that one finds boring, trivial, or unnecessary. Sometimes spelled “yadda, yadda, yadda.” _So then I ran into my friend, Sarah. Sarah and I went to high school together, and we were really good friends until we had a bit of a falling out. Yada, yada, yada, the point is that I haven’t seen her in a long time._ __2__ _slang_ By extension, et cetera; so on and so forth. _A: “What are you up to tonight?” B: “Not much. Dinner, homework, yada, yada. How about you?”_ _There were all sorts of things stuck in that attic—old furniture, dolls’ houses, broken appliances, yada, yada, yada._  
+__yada, yada(, yada)__ :nine::m: (yadda yadda yadda) __1__ _slang_ [:scroll: The phrase was popularized by the television show Seinfeld in the 1990s.] Used to summarize, characterize, or represent information or chatter that one finds boring, trivial, or unnecessary. Boring or empty talk. Sometimes spelled “yadda, yadda, yadda.” _So then I ran into my friend, Sarah. Sarah and I went to high school together, and we were really good friends until we had a bit of a falling out. Yada, yada, yada, the point is that I haven’t seen her in a long time._ __2__ _slang_ By extension, et cetera; so on and so forth. _A: “What are you up to tonight?” B: “Not much. Dinner, homework, yada, yada. How about you?”_ _There were all sorts of things stuck in that attic—old furniture, dolls’ houses, broken appliances, yada, yada, yada._  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
+__yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
+__yen__ A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
+__yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
 __you are what you eat__ To be healthy, you need to eat good food.  
 __you bet__ _Do you want more coffee? You bet._  
 __you can say that again__ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
@@ -5066,14 +5078,19 @@ __you can’t teach an old dog new tricks__
 __you could hear the grass grow(ing)__ :dart: It is so still or quiet that one would be able to hear even the tiniest, imperceptible sounds. _I reckon you could hear the grass growing in the awkward silence that followed that dreadful performance._  
 __you don’t say__ :two::hammer:  
 __you look a little peaked__ You look ill, especially as if you might vomit. _You look a little peaked since you got off that roller coaster. Do you want some ginger ale to settle your stomach?_  
-__you name it__ :dart::eight: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
-__you scratch my back, I’ll scratch yours__ :two: If you help me, I will help you.  
+__you name it__ :dart::nine::m: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
+__you saved the day__  
+__you scratch my back, I scratch yours__ :three: (you scratch my back, I’ll scratch yours) If you help me, I will help you.  
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’re a lifesaver__ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __you’ve got a point there__ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  
 __your eyes are bigger than your stomach__ You want more food than you can eat.  
+__your/the last/final word (on/about something)__ your, etc. final decision or statement about something: ‘Will you take £900?’ ‘No, £1 000 and that’s my last word.’  
+__yuk__ __4__ _slang_ An expression or exclamation of extreme disgust, aversion, or contempt. (A variant of “yuck.”)  
+__zero sum game__  
+__zilch__  
 __zinger__  
 __zip your lip__ Be quiet.  
 __zone out__ :two::hammer:  
