@@ -13,6 +13,7 @@ __a balancing act__ A situation in which one must accomplish a number of tasks a
 __a breeze__ Something that is especially easy, effortless, or trifling to accomplish or complete.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
+__a lone wolf__  
 __a mixed picture__ A portrayal of a situation highlighting both positive and negative aspects of its nature or status.  
 __a walk in the park__  
 __adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
@@ -23,10 +24,11 @@ __apples and oranges__
 __as long as__  
 __as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
 __at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
+__at the top of the hour__ At the start of the hour (such as 12:00, 3:00, etc.). _And we’ll cover that news story at the top of the hour._  
 __at times__  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
-__bamboozle__  
+__bamboozle__ :two::hammer:  
 __bank on__  
 __barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
 __be at odds (with)__ To be in conflict (with).  
@@ -34,25 +36,40 @@ __be in tall cotton__ To be in a time or period of great success or well-being; 
 __beer money__ A small amount of money that somebody earns or is allowed to spend, for example on beer. _Singing in bars keeps him in beer money._  
 __beyond belief__ Inconceivable; outside of the realm of imagination, expectation, or anticipation. _I find it simply beyond belief the greed of all these big corporations._  
 __big cheese__  
+__big name__ __2__ _adj_ Of great importance, fame, success, or reputation in a particular field or area. Often hyphenated. _We’ve got a lot of big-name singers who perform at our annual charity event._  
+__big time__  
 __bite (one’s) tongue__  
 __boggle the/(one’s) mind__ To thoroughly overwhelm, confuse, or surprise one. _The show of support from everyone just boggled my mind._  
 __boom chicka wah wah__  
 __breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
 __build a case__ To compile evidence that supports an argument or charges against someone or something.  
 __burp__ _informal_  
+__by (oneself)__  
 __by and large__  
+__Captain Obvious__  
+__catch (one) off guard__  
 __cause a stir__ To incite trouble or excitement.  
+__clear the room__ It can also be used figuratively to describe a situation where something, such as a strong odor or a loud noise, causes everyone to leave the room.  
+__cozy up__  
 __crack down (on someone or something)__  
 __crash course__  
+__cut (through) (the) red tape__  
 __cut it__  
 __darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
+__deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
+__drop the ball__  
+__egghead__ _slang_ A derogatory term for an intelligent, studious person.  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
 __flatline__ _slang_ To die or come very close to death.  
+__from bad to worse__  
 __game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
 __get into (someone or something)__  
+__give back__  
+__half-wit__ An insulting term for person who is not very smart.  
 __have (got) game__ _slang_ __1__To be especially talented or adept at something, typically sports. _I know that guy’s small, but don’t underestimate him on the court—he’s got game._ __2__ To be very skilled at initiating a conversation with someone with the aim of having a romantic or sexual encounter with them. _Wow, you got his number? Dang, girl, you’ve got game!_  
+__have (one’s) (best) interests at heart__ To be primarily concerned with what would benefit one.  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
 __have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
@@ -98,9 +115,10 @@ __head up__
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
-__heart and soul__  
+__heart and soul__ :two::hammer:  
 __heart of gold__  
 __heaven on earth__  
+__heinous__ _adj_  
 __helluva__  
 __help (one) out__  
 __here we go__  
@@ -111,22 +129,26 @@ __high note__ The most successful, impressive, or climactic point (of something)
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
 __hit (someone or something) hard__  
 __hit home__  
+__hold one’s breath__  
 __homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ __2__ _slang_ A friend. _Teddy’s my homie—he’ll help us out._  
 __in hindsight__  
 __in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  
 __in the money__  
 __keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
+__keep your ego checked__ The idiom “keep your ego checked” means to maintain control over one’s ego or to prevent it from becoming too inflated. It is often used in the context of leadership and personal development to emphasize the importance of staying humble and self-aware. Keeping your ego in check can help prevent arrogance and promote a balanced and healthy sense of self-confidence. It involves being open to feedback, staying grounded, and avoiding the trap of excessive pride.  
 __king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
-__know a thing or two__  
+__know a thing or two__ :two::hammer:  
 __lo and behold__  
 __lock out__ __2__ To prevent employees from coming to work or performing their duties during a labor dispute. _The factory gates were chained shut, a clear sign to the workers that the owners had locked them all out._  
-__loom large__ :dart: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
+__loom large__ :dart::two: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
+__MBWA__ An initialism of “management by walking around,” the strategy of literally walking among one’s employees or subordinates to manage them more effectively.  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mixed bag__ A diverse mixture or group.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __neck and neck__  
 __nerve-wracking__ Causing fear or anxiety.  
+__nest egg__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
@@ -134,6 +156,7 @@ __nothing but a__ The idiom “nothing but a” is used to emphasize that someth
 __nothing but__  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
+__on (one’s) own__  
 __on a roll__  
 __on point__  
 __on the horizon__  
@@ -144,6 +167,7 @@ __pass the buck__ To shift or reassign the blame or responsibility (for somethin
 __pave the way (for someone or something)__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
 __peeps__  
+__play around__  
 __play with fire__  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
@@ -183,6 +207,7 @@ __ramp up__ To increase. A noun or pronoun can be used between “ramp” and �
 __rank and file__  
 __rat race__  
 __ratchet up__  
+__rave about (something)__ To give wildly enthusiastic praise for something.  
 __red line__  
 __ripple effect__  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
@@ -196,21 +221,28 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__scoop__  
+__scruff(y)__  
 __sell like hot cakes__  
+__spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __status quo__ :mega: /kwoʊ/  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
+__swear by (someone or something)__  
+__take a deep breath__  
+__the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __then again__  
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
 __think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
 __think highly of (someone or something)__  
 __through the roof__ To a very high level.  
+__time and (time) again__  
 __TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_  
 __to a T__  
 __turkey__ __3__ _n_ _slang_ Stupid person.  
 __turn a deaf ear (to someone or something)__  
 __turn of phrase__  
 __two-way street__  
-__uncharted territory__  
+__uncharted territory__ :two::hammer:  
 __Uncle Sambo/Sammy/Samuel/Samwell__ Uncle Sam.  
 __under (one’s) belt__  
 __under (one’s) watch__ A situation where someone is responsible for overseeing or supervising a particular task, project, or group of people. It implies that the person in question has the duty of ensuring that everything runs smoothly and according to plan.  
@@ -221,3 +253,5 @@ __vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A 
 __walk in the park__  
 __walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
 __washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usually hyphenated or spelled as one word. _He was a star player until he got busted for drugs and became a total washout._  
+__where there’s a will, there’s a way__ _proverb_ If one is motivated enough to do something, they will find a way to do it. _Don’t tell me it’s impossible. Where there’s a will, there’s a way. And we’re going to find that way._  
+__you know the kind__ The idiom “you know the kind” is used to refer to a type of person or thing that is being implied or referenced. It is often used to indicate that the listener should be familiar with the type being described.  
