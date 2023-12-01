@@ -14,6 +14,7 @@ __abuzz__ _adj_
 __abyss__ _n_ (abyses)  
 __acerbic__  
 __achieve__ _v_ :mega:  
+__Achiles__ _n_ :mega:  
 __achoo__  
 __acolyte__ _n_  
 __acronym__ _n_ /AK-ruh-nim/  
@@ -32,6 +33,7 @@ __alot__ _v_
 __amicably__ _adv_  
 __apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __apiece__ _adv_ /əˈpiːs/  
+__arguably__  
 __articulate<sup>1</sup>__ _v_  
 __articulate<sup>2</sup>__ _adj_  
 __assess__ _v tr_  
@@ -43,7 +45,9 @@ __boba__ _n_
 __bombastic__  
 __booty__ _n_  
 __bordeline__ _n_ __2__ An indeterminate position between two conditions or qualities: _the borderline between friendship and love._  
+__bumbling__ _adj_  
 __bumfuzzle__  
+__buy in__ _v_  
 __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __cavort__  
 __contextualize__ _v tr_  
@@ -57,9 +61,12 @@ __deliverance__ _n_
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __denervation__ _n_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
+__despondent__ _adj_  
 __deterrent__ _adj, n_  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
+__dipstick__ _n_  
 __disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/  
+__divest__ _v tr_ /daɪˈvɛst/  
 __eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
@@ -79,12 +86,17 @@ __enthuse__ _v_
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
+__exposé__ _n_ :astonished: __1__ An exposure or a revelation of something discreditable. __2__ A formal exposition of facts.  
+__fib__ _v_  
+__flounder__ _v intr_ __1__ To struggle; to move with difficulty, as in mud. __2__ To behave awkwardly; make mistakes.  
 __flummox__ _v_  
 __gale__ _n_  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
+__grueling__ _adj_  
 __hassle__ _n_  
 __havoc__ _n, v_ :mega: /ˈhæv ək/  
 __hogwash__ _n_  
+__host__ _n_ __2__ A great number; a multitude. _A host of tchniques._  
 __inordinate__ _adj_ /in-OR-dun-ut/  
 __junction__ _n_ A place where roads meet.  
 __juncture__ _n_ A point in time.  
@@ -142,14 +154,20 @@ __philosophy__ _n_ /fɪˈlɒs ə fi/
 __pilfer__ _v_  
 __pilfered__  
 __plaza__ _n_ :mega:  
+__plodder__ _n_  
+__plodding__ _adj_  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
+__pry__ _v_  
 __psychobabble__ _n_  
+__punitive__ _adj_ Inflicting or aiming to inflict punishment; punishing.  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
+__rampant__ _adj_  
 __ransom__ _n_  
+__rapture__ _v_  
 __repercussion__ _n_  
 __sanity check__  
 __schizophrenic__ _adj, n_  
@@ -159,6 +177,7 @@ __scorecard__ _n_
 __scores__ _n pl_ A large number or amount.  
 __scraggly__ _adj_ _A scraggly beard._  
 __scramble__ _v_ _They scrambled for personal power._  
+__scrap__ _v tr_ :dart: __2__ To discard or abandon as useless; cancel: scrap a plan.  
 __scrawl__ _v_  
 __scrawny__  
 __scrim__ _n_  
@@ -194,6 +213,7 @@ __shady__
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
+__shirk__ _v_  
 __shit-hole__  
 __silkworm__ _n_ :es: gusano de seda  
 __simulacrum__  
@@ -226,7 +246,11 @@ __spaz__
 __speak up__  
 __spectate__ _v intr_  
 __spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
+__stairway__ _n_  
+__stairwell__ _n_ The vertical shaft or opening containing a stairway.  
+__statesman__  
 __steal__ _v_ _He sometimes “heard” classical music “stealing across the water.”_  
+__steeped__ _adj_  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
@@ -243,6 +267,7 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
+__strait__ _n_  
 __strife__ _n_  
 __stuffing__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
@@ -282,6 +307,7 @@ __transience__
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
+__unworldly__ _adj_  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
@@ -323,6 +349,7 @@ __winsome__
 __withhold__ _v tr_ :pencil2:  
 __withholding__  
 __withstand__ _v_  
+__woeful__ _adj_  
 __woke__ _adj_ :two: _slang_ Aware of the injustice of the social system in which one lives.  
 __womenfolk__  
 __wondrously__  
@@ -334,6 +361,7 @@ __woodwind player__
 __word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
 __wordsmith__ _n_  
 __workaday__ _adj_  
+__working order__ _n_  
 __workload__ _n_  
 __worthwhile__  
 __wrench__ _v_ _Pulling the plug was wrenching._  
@@ -347,6 +375,7 @@ __wrung__ _v_ _They have wrung their hands._
 __yammering__  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
+__yin and yang__  
 __yo-yo__ _n_  
 __yowl__ _v_  
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
