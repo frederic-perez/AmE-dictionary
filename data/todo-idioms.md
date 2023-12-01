@@ -28,31 +28,6 @@ __at the top of the hour__ At the start of the hour (such as 12:00, 3:00, etc.).
 __at times__  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
-__bamboozle__ :two::hammer:  
-__bank on__  
-__barter with__ To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
-__be at odds (with)__ To be in conflict (with).  
-__be in tall cotton__ To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
-__beer money__ A small amount of money that somebody earns or is allowed to spend, for example on beer. _Singing in bars keeps him in beer money._  
-__beyond belief__ Inconceivable; outside of the realm of imagination, expectation, or anticipation. _I find it simply beyond belief the greed of all these big corporations._  
-__big cheese__  
-__big name__ __2__ _adj_ Of great importance, fame, success, or reputation in a particular field or area. Often hyphenated. _We’ve got a lot of big-name singers who perform at our annual charity event._  
-__big time__  
-__bite (one’s) tongue__  
-__boggle the/(one’s) mind__ To thoroughly overwhelm, confuse, or surprise one. _The show of support from everyone just boggled my mind._  
-__boom chicka wah wah__  
-__breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
-__build a case__ To compile evidence that supports an argument or charges against someone or something.  
-__burp__ _informal_  
-__by (oneself)__  
-__by and large__  
-__Captain Obvious__  
-__catch (one) off guard__  
-__cause a stir__ To incite trouble or excitement.  
-__clear the room__ It can also be used figuratively to describe a situation where something, such as a strong odor or a loud noise, causes everyone to leave the room.  
-__cozy up__  
-__crack down (on someone or something)__  
-__crash course__  
 __cut (through) (the) red tape__  
 __cut it__  
 __darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
