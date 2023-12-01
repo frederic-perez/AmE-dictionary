@@ -19407,11 +19407,15 @@ __vale__ _n_
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __valedictory__ _n_ :two: A closing or farewell statement or address, especially one delivered at graduation exercises.  
+__valence__ _n_ :two::hammer:  
 __valentine__ _n_ :two: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
+__valet__ _n_  
 __valiant<sup>1</sup>__ _adj_  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
-__validate__ _v_  
+__validate__ _v_ :two: /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
+__vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
+__valorous__ _adj_ /VAL-uh-russ/  
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
@@ -19446,6 +19450,7 @@ __varmints__
 __varnish__ _n_  
 __varsity__ _n_ :nine::m: The principal team representing a university, college, or school in sports, games, or other competitions. The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _Syn_ first team _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._ _She was determined to make the varsity basketball team and practiced her game all summer._  
 __vasculitis__ _n_ Inflammation of the blood vessels.  
+__vasospasm__ _n_  
 __vassal__ _n_ :two::hammer:  
 __vast__ _adj_ :three::hammer: _The vast array of resources._ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
@@ -19454,9 +19459,9 @@ __vatic__ _adj_ Of or characteristic of a prophet; oracular.
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
-__vaunted__ _adj_ :two: Highly or widely praised or boasted about. _His vaunted years of experience._  
+__vaunted__ _adj_ :three: Highly or widely praised or boasted about. Praised more than deserved. _His vaunted years of experience._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
-__veal__ _n_ :three::hammer: :es: ternera  
+__veal__ _n_ :four::hammer: :es: ternera  
 __vector__ _v tr_ _He vectored toward the tanker waiting for him._  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
@@ -19480,7 +19485,7 @@ __vendetta__ _n_ :two: __1__ A feud between two families that arises from the in
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
-__veneer__ _n_ :nine::hammer: (veneers) _A veneer of quality._ _Porcelain veneers._  
+__veneer__ _n_ :nine::m::hammer: (veneers) _A veneer of quality._ _Porcelain veneers._  
 __venerable__ _adj_ :two::hammer: _Venerable institution._  
 __venerate__ _v_ :two: /VEN-uh-rayt/ To feel or show deep respect and honor for someone or something. To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._ _Volunteers of the Peace Corps are venerated for their selfless dedication and contributions._  
 __vengeful__ _adj_  
@@ -19492,7 +19497,9 @@ __venomous__ _adj_ :two::hammer:
 __vent__ _v_ _slang_ :four: To express a negative emotion in a forceful way.  
 __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __ventilator__ _n_ :two::pencil2: _med_ A machine that helps a patient breathe. This machine pumps oxygen into the lungs and removes carbon dioxide through a tube. The insertion of this tube into a person’s windpipe (trachea) is called intubation.  
-__venture__ _n_  
+__ventilatory threshold__ _n_ The point of the workout where it becomes difficult to carry on a conversation.  
+__venture<sup>1</sup>__ _n_  
+__venture<sup>2</sup>__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __venue__ _n_ :two::hammer: _What’s the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
 __veracity__ _n_  
@@ -19504,20 +19511,22 @@ __verbiage__ _n_ :three::hammer: _Ornamental verbiage._
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _adj_ :three: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ _Verdant hills._ __3__ Unripe in experience or judgment.  
-__verdict__ _n_ :five::hammer::pencil2:  
+__verdict__ _n_ :six::hammer::pencil2:  
 __verdigris__ _n_ :two::astonished: /VER-duh-greess/ __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
 __verge__ _n_ :two::hammer:  
 __vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
 __verigreen__ _n_ A simple or gullible person.  
 __verisimilitude__ _n_ :three: The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
+__verismo__  
 __veritable__ _adj_ :two::hammer:  
 __vermeil__ _adj, n_  
 __vermicelli__  
 __vermillion__  
-__vermin__ _n_ :four::hammer:  
+__vermin__ _n_ :six: __2__ An objectionable or obnoxious person, or such persons collectively.  
 __vermouth__ _n_  
 __vernacular__ _n_ :four::hammer:  
 __vernal__ _adj_  
+__verruca__ _n_ A firm abnormal elevated blemish on the skin; caused by a virus. _Syn_ wart  
 __verruciform__ _adj_ In the shape of a wart.  
 __verrucose__ _adj_ :two: (verrucous) Covered with warts or wartlike projections. _Syn_ wartlike, warty _The witch extended her verrucose arm and shook her gnarled finger in the little boy’s face._  
 __versatile__ _adj_ :three::hammer.  
@@ -19527,7 +19536,7 @@ __verve__ _n_ :eight::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great 
 __very true__  
 __very<sup>1</sup>__ _adj_ :two: __4__ Used to emphasize the importance of what is specified. _For this very reason._ _We were in this very room._  
 __very<sup>2</sup>__ _adv_  
-__vesicle__ _n_ (vesicula)  
+__vesicle__ _n_ :two: (vesicula) A small sac or cyst, especially one containing fluid. _Syn_ cyst  
 __vespine__ _adj_  
 __vest__ _v_  
 __vesta__ _n_ /VES-tuh/ [:scroll: After Vesta, the goddess of hearth and household in Roman mythology. Her temple had a fire tended by the vestal virgins.] A short wooden match. :es: cerilla  
@@ -19536,6 +19545,7 @@ __vested__ _adj_ _Vested hostilities._
 __vestibule__ _n_ :two::mega::hammer:  
 __vestige__ _n_ :three: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
 __vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
+__vet__ _v tr_ :astonished: __2__ To subject to thorough examination or evaluation: _vet a manuscript._  
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
@@ -19550,11 +19560,13 @@ __viand__ _n_ :two::hammer: (viands)
 __vibrissa__ _n_ :two: Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicar__ _n_ :two::hammer:  
 __vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
-__vicinity__ _n_ /vuh-SIN-uh-tee/  
+__vicinity__ _n_ :two::hammer: /vuh-SIN-uh-tee/  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you’re telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
+__vicissitude__ _n_ :pencil2:  
 __vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually refers to events or situations that occur by chance. It can also apply specifically to the difficulties or hardships, usually beyond one’s control, that are commonly encountered in a life, career, etc., or simply to the quality or state of being changeable.  
 __victimhood__  
+__victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victory lap__ _n_  
 __victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
@@ -19566,7 +19578,7 @@ __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two te
 __vie__ _v_  
 __viewfinder__ _n_  
 __vig__ _n_ :three::hammer:  
-__vignette__ _n_ /vin-YET/ A short written description or a brief scene in a movie or play. _The documentary is a series of vignettes showing the lives of three families under quarantine during the pandemic._  
+__vignette__ _n_ :two: /vin-YET/ A short written description or a brief scene in a movie or play. _The documentary is a series of vignettes showing the lives of three families under quarantine during the pandemic._  
 __vigorous__ _adj_ :two::hammer: _A vigorous intellect._  
 __Viking__ _n_ :pencil2:  
 __vile__  
@@ -19596,7 +19608,7 @@ __visage__ _n_ :two::mega: __1__ The face or facial expression of a person; coun
 __visceral__ _adj_ :two::hammer: /VIS-uhr-uhl/ _Visceral reaction._  
 __viscount__ _n_ :mega:  
 __viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
-__vise__ _n_  
+__vise__ _n_ :two::hammer:  
 __visitation__ _n_ :five::hammer:  
 __visitor__  
 __vista__ _n_ :three::hammer: (vistas)  
@@ -19616,8 +19628,8 @@ __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping liv
 __vivid__ _adj_  
 __vizier__ _n_ :two::hammer:  
 __vocab__  
-__vocal<sup>1</sup>__ _adj_ :four:::hammer: _Critics often are the most vocal._  
-__vocal<sup>2</sup>__ _n_  
+__vocal<sup>1</sup>__ _adj_ :five:::hammer: _Critics often are the most vocal._  
+__vocal<sup>2</sup>__ _n_ :two::hammer:  
 __vocation__ _n_ /voh-KAY-shun/  
 __vociferous__ _adj_ :two::hammer: /vəʊˈsɪfərəs/ /voh-SIF-uh-rus/  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
@@ -19627,7 +19639,7 @@ __voice over__ _n_ (voice-over)
 __voice__ _v_ :dart::two::hammer: _He was voicing his thoughts aloud._  
 __voicemail__ _n_  
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
-__volatile__ _adj_  
+__volatile__ _adj_ :two::hammer: /VAH-luh-tul/  
 __volcano__ _n_ :mega::two::hammer:  
 __vole__ _n_ :two: A small animal similar to a mouse but with a short tail. _Syn_ field mouse _Water voles._  
 __volition__ _n_ :five: /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” _Every choice I made was of my own volition and not subject to outside influence._  
@@ -19637,6 +19649,7 @@ __voltron__
 __voluble__ _adj_ :two: /VAHL-yuh-bul/ Characterized by ready or rapid speech.  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
 __voracious__ _adj_  
+__voracity__ _n_ /vuh-RASS-uh-tee/  
 __vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
 __votaries__  
 __vote in__ _phr v_ To choose somebody for a position by voting.  

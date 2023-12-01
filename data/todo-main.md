@@ -285,32 +285,6 @@ __unrepentant__
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
-__valence__ _n_ :two::hammer:  
-__valet__ _n_  
-__validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
-__vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ groove _The medical students studied the diagram depicting the vallecula between the hemispheres of the brain._  
-__valorous__ _adj_ /VAL-uh-russ/  
-__vasospasm__ _n_  
-__vaunted__ _adj_ Praised more than deserved.  
-__veal__ _n_ :es: ternera  
-__veneer__  
-__ventilatory threshold__ _n_ The point of the workout where it becomes difficult to carry on a conversation.  
-__venture__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
-__verdict__  
-__verismo__  
-__vermin__ _n_ :two: __2__ An objectionable or obnoxious person, or such persons collectively.  
-__verruca__ _n_ A firm abnormal elevated blemish on the skin; caused by a virus. _Syn_ wart  
-__vesicle__ _n_ A small sac or cyst, especially one containing fluid. _Syn_ cyst  
-__vet__ _v tr_ :astonished: __2__ To subject to thorough examination or evaluation: _vet a manuscript._  
-__vicinity__ _n_  
-__vicissitude__ _n_ :pencil2:  
-__victimize__ _v tr_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
-__vignette__ _n_  
-__vindicate__  
-__vise__ _n_  
-__vocal__  
-__volatile__ _adj_ /VAH-luh-tul/  
-__voracity__ _n_ /vuh-RASS-uh-tee/  
 __walkout__ _n_ :four: __1__ A labor strike.  
 __wanly__  
 __wanton__  
