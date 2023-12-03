@@ -19965,16 +19965,16 @@ __whinnied__ _v_
 __whip up__ _phr v_ To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
-__whiplash__ _n_ :four: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ :es: latigazo  
+__whiplash__ _n_ :six: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ _Economic whiplash._ :es: latigazo  
 __whippersnapper__  
 __whipsaw__ _v_  
-__whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
+__whir<sup>1</sup>__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
+__whir<sup>2</sup>__ _v_ :four::hammer: (whirred, whirring) _The arrow whirred over his head._ _The videotapes whirred._  
 __whirl<sup>1</sup>__ _v_ :mute:[w~~h~~irl]  
 __whirl<sup>2</sup>__ _n_ :two::hammer::mute:[w~~h~~irl] (whirled)  
 __whirlpool__ _n_ :two::hammer:  
 __whirlwind__ _n_ :three::hammer: _A whirlwind tour of American universities._ :es: torbellino  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
-__whirred__ _v_ :three::hammer: (wirring) _The arrow whirred over his head._  
 __whisk broom__  
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe’s fastest elevator whisk you 24 floors in a mere 20 seconds._  
@@ -19994,6 +19994,7 @@ __white hole__ _n_
 __white line__ _n_ (appliances)  
 __white paper__ _n_ :two::hammer:  
 __white supremacist__ _n_ One who believes that white people are racially superior to others and should therefore dominate society.  
+__white tie__ _n_ (vs _black tie_)  
 __white whale__ _n_ Small northern whale that is white when adult.  
 __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
@@ -20022,22 +20023,23 @@ __whole number__
 __whole<sup>1</sup>__ _adj_ :mute:[~~w~~hole]  
 __whole<sup>2</sup>__ _n_ :mute:[~~w~~hole]  
 __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a whole new idea._  
-__wholeheartedly__ _adv_ :two::hammer:  
+__wholeheartedly__ _adv_ :three::hammer:  
 __wholesale__ _adj, adv, n, v_ :six: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._ _The largest wholesale jewelry center open to the public._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
-__wholesome__ _adj_ :four::hammer:  
+__wholesome__ _adj_ :five::hammer:  
 __wholistic__ _adj_ A variant spelling of holistic.  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::four::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
 __whom__ _pron_ The objective form of who, used when who is not the subject of its own clause: _whom did you say you had seen?; he can’t remember whom he saw._  
 __whoop-de-do__ _n_  
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
-__whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
+__whoop<sup>2</sup>__ _v_ :four::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
 __whoopsie__ _n_ :dart::three: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
 __whoosh<sup>1</sup>__ _n_ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whoosh<sup>2</sup>__ _v_ (whooshed)  
+__whopping__ _adj_  
 __whorl__ _n_ :three: (whorls) A form that coils or spirals; a curl or swirl. _Syn_ curlicue, gyre, ringlet, roll  
 __why on earth__  
 __Wi-Fi__  
@@ -20046,7 +20048,7 @@ __wick__ _n_ :three::hammer: _Curiosity is the wick in the candle of learning._ 
 __wicked__ _adj_ :two::hammer:  
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
-__wicket__  
+__wicket__ _n_ :two: /ˈwɪkɪt/ __5__ _(Cricket)_ Equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket.  
 __wicking__ _adj_ :three: (Textiles) Acting to move moisture by capillary action from the inside to the surface: _wicking fabric._ _Podcast hosts can’t stop yapping about sweat-whicking underwear._ _Moisture wicking._ _High-wicking polyester._  
 __wicks__ _n_ :two::hammer: _Linen wicks._  
 __wide-eyed__ _adj_ _Wide-eyed ingenue._  
@@ -20059,7 +20061,7 @@ __wigged-out__ _adj_ Mentally or emotionally discomposed. Upset, crazy.
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)  
 __wigglers__  
-__wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
+__wild card__ _n_ :three::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild__ _adj_ :seven::hammer: _It’s wild!_  
 __wilderness__ _n_ :two::hammer:  
 __wildfire__ _n_ :pencil2:  
@@ -20073,9 +20075,10 @@ __wilfull__
 __will__ _v_  
 __will-o’-the-wisp__ _n_ /wĭl′ə-thə-wĭsp′/ __1__ Ignis fatuus. __2__ A delusive or misleading hope.  
 __Willamette__ _n_  
-__willful__ _adj_ :three::hammer:  
+__willful__ _adj_ :four::hammer:  
 __willfully__  
 __William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
+__Williams syndrome__ _n_  
 __williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
 __willpower__ _n_ :two::hammer:  
 __willy__ _n_ _slang_  
@@ -20087,7 +20090,7 @@ __wimp out__
 __wimp__ _n_ _slang_ :three: A weak person, a coward. Someone who is not brave, strong, or confident.  
 __wimpiness__  
 __wimpling__ _v_  
-__wimpy__ _adj_ :three::hammer:  
+__wimpy__ _adj_ :four::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
 __wince__ _v_ :nine::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ :two::hammer: _He winched his boat onto his trailer._  
@@ -20104,6 +20107,7 @@ __window dressing__
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
 __window__ _n_ __5__ An interval of time during which an activity can or must take place: _a window of opportunity for a space mission; a window of vulnerability when the air force was subject to attack._  
+__windowsill__ _n_ :two::hammer:  
 __windshear__ _n_ :four::hammer: _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windsock__ _n_ :two: A tapered, open-ended sleeve pivotally attached to a standard, that indicates the direction of the wind blowing through it. _Syn_ drogue, air sock, wind cone  
@@ -20122,7 +20126,7 @@ __wingtips__
 __winking__ _v_  
 __winningest__ _adj informal_ /ˈwɪn ɪŋ ɪst/ __1__ Winning most often: _the winningest coach in college basketball._ __2__ Most winning or charming: _the winningest smile in town._  
 __winnow__ _v_ :five::hammer: (winnowed, winnowing) [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
-__winsome__ _adj_ :two: /WIN-sum/ Pleasing or cheerful. Sweetly or innocently charming; winning; engaging: _a winsome smile._ _The interviewers all remarked on the candidate’s winsome personality, which made her stand out among the other qualified job applicants._  
+__winsome__ _adj_ :three: /WIN-sum/ Pleasing or cheerful. Sweetly or innocently charming; winning; engaging: _a winsome smile._ _The interviewers all remarked on the candidate’s winsome personality, which made her stand out among the other qualified job applicants._  
 __winter__ _v_ :three::hammer: (wintering) _Explorers wintered in the neighborhood in 1805._  
 __winterfest__ _n_ Any of various winter festivals.  
 __winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
@@ -20172,8 +20176,8 @@ __withered__ _adj_ _Withered deals._
 __withering__ _adj_ Tending to overwhelm or destroy; devastating: _withering sarcasm._  
 __withershins__ _adv_ :two: In a direction contrary to the apparent course of the sun; counterclockwise.  
 __withes__ _n_ :two::hammer:  
-__withhold__ _v_ :two::hammer::pencil2:  
-__withstand__ _v_ :five::hammer:  
+__withhold__ _v tr_ :four::hammer::pencil2:  
+__withstand__ _v_ :six::hammer:  
 __witless__ _adj_ Lacking intelligence or wit; foolish. _Syn_ nitwitted, soft-witted, senseless _He was a witless soul who never learned from his mistakes._  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ :two::hammer: _A witty cast of characters that serve and entertain._  
@@ -20183,10 +20187,10 @@ __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard fam
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :four: (woes) Misfortune; calamity: _economic and political woes._ _Born to woe._ :es: Nacido para el infortunio.  
-__woeful__ _adj_ :three::hammer: _Our woeful train system._  
+__woeful__ _adj_ :four::hammer: _Our woeful train system._  
 __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
-__woke__ _adj_ _slang_ :two: Aware of the injustice of the social system in which one lives.  
+__woke__ _adj_ :three: _slang_ Aware of the injustice of the social system in which one lives.  
 __wolf__ _v_ To eat greedily or voraciously.  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
@@ -20195,14 +20199,18 @@ __womanizer__ _n_ :four::hammer:
 __womanizing__  
 __womb__ _n_ :mute:[wom~~b~~] __1__ The nontechnical name for uterus.  
 __women__ _n_ :two::mega: /ˈwɪmɪn/  
+__womenfolk__  
 __wonderland__ _n_ :two::hammer:  
 __wondrous<sup>1</sup>__ _adj_ :nine::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
+__wondrously__  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ _adj_ :three::hammer:  
-__wont__ _adj_  
+__wont<sup>1</sup>__ _adj_ :three::hammer:  
+__wont<sup>2</sup>__ _n_ :three::hammer:  
+__wont<sup>3</sup>__ _v_ :two::hammer:  
 __wonted__ _adj_ Commonly used or practiced; usual.  
-__woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
+__woo-woo__ _adj_ :two: (or just plain woo) /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition. It refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood chipper__ _n_ A power-driven machine for cutting wood into chips.  
 __wood pellets__  
 __wood rasp__ _n_  
@@ -20216,6 +20224,7 @@ __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
 __woodsy__ _adj_ :two::hammer: _A warm, woodsy room._  
+__woodwind player__  
 __woodwork__ _n_ :two::hammer:  
 __woolcarder__ _n_ :two::hammer: _Peasant’s tools include hammer, knife, ax, and wool-carder’s comb._  
 __woolgathering__ _n_ Indulgence in idle daydreaming. _My woolgathering was abruptly interrupted by a question from the flight attendant._  
@@ -20225,6 +20234,7 @@ __woozy__ _adj_ :four::hammer:
 __wop__  
 __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
 __word-hoard__ _n_ :dart::two: A person’s vocabulary.  
+__word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wordiness__ _n_  
 __wording__ _n_  

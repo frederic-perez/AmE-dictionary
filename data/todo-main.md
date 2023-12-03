@@ -331,34 +331,6 @@ __wheelhouse__
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __whip up__  
-__whiplash__ _n_ :two::hammer: _Economic whiplash._  
-__whirred__ _v_ _The videotapes whirred._  
-__white tie__ _n_ (vs _black tie_)  
-__wholeheartedly__  
-__wholesome__  
-__whoop__ _v_  
-__whopping__ _adj_  
-__wicket__ _n_ /ˈwɪkɪt/ __5__ _(Cricket)_ Equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket.  
-__wield__ _v_  
-__wild card__  
-__willful__  
-__Williams syndrome__ _n_  
-__wimpy__  
-__windowsill__ _n_ :two::hammer:  
-__winsome__  
-__withhold__ _v tr_ :pencil2:  
-__withholding__  
-__withstand__ _v_  
-__woeful__ _adj_  
-__woke__ _adj_ :two: _slang_ Aware of the injustice of the social system in which one lives.  
-__womenfolk__  
-__wondrously__  
-__wont<sup>1</sup>__ _adj_ :two::hammer:  
-__wont<sup>2</sup>__ _n_ :three::hammer:  
-__wont<sup>3</sup>__ _v_ :two::hammer:  
-__woo-woo__ _adj_ /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition.  
-__woodwind player__  
-__word-perfect__ _adj_ :dart: Correct in every detail. _I’m word-perfect in Dylan’s lyrics._  
 __wordsmith__ _n_  
 __workaday__ _adj_  
 __working order__ _n_  
