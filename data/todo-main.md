@@ -31,14 +31,17 @@ __agency__ _n_
 __allot__ _v_  
 __alot__ _v_  
 __amicably__ _adv_  
+__anthropomorphism__ _n_  
 __apiarist__ _n_ _Syn_ apiculturist, beekeeper  
 __apiece__ _adv_ /əˈpiːs/  
+__apoplectic__ _adj_  
 __arguably__  
 __articulate<sup>1</sup>__ _v_  
 __articulate<sup>2</sup>__ _adj_  
 __assess__ _v tr_  
 __atopic__ _adj_  
 __auction__ _n_ /ˈɔːkʃən/  
+__august__ _adj_  
 __befuddle__  
 __bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
 __boba__ _n_  
@@ -50,11 +53,13 @@ __bumfuzzle__
 __buy in__ _v_  
 __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __cavort__  
+__citadel__ _n_  
 __contextualize__ _v tr_  
 __covenant__ _n_  
 __cram__ _v_  
 __crapula__  
 __crapulent__  
+__cripple__ _v tr_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
 __crisp__ _adj_  
 __crook__  
 __deliverance__ _n_  
@@ -81,18 +86,24 @@ __endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endure__  
 __engender__ _v_  
 __ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__ensconce__ _v tr_  
 __enshrine__ _v tr_  
 __enthuse__ _v_  
 __envision__ _v tr_  
 __escalation__  
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
+__evince__ _v tr_  
 __exposé__ _n_ :astonished: __1__ An exposure or a revelation of something discreditable. __2__ A formal exposition of facts.  
+__festoon<sup>1</sup>__ _n_  
+__festoon<sup>2</sup>__ _v tr_  
 __fib__ _v_  
 __flounder__ _v intr_ __1__ To struggle; to move with difficulty, as in mud. __2__ To behave awkwardly; make mistakes.  
 __flummox__ _v_  
 __gale__ _n_  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
+__genus__ _n_ /ˈdʒi nəs/  
 __grueling__ _adj_  
+__handler__ _n_ __1__ (Law) A person, esp a police officer, in charge of a specially trained dog.  
 __hassle__ _n_  
 __havoc__ _n, v_ :mega: /ˈhæv ək/  
 __hogwash__ _n_  
@@ -111,10 +122,13 @@ __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilia
 __mawkish__ _adj_  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
+__mirth__ _n_  
 __misnomer__ _n_  
 __misspend__ _v tr_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
+__nativist__ _adj_  
+__nativistic__ _adj_  
 __naught__ _n_  
 __navigate__ _v_  
 __Navy SEAL__ _n_  
@@ -149,10 +163,12 @@ __pamper__ _v_
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __paraplegia__ _n_  
 __people pleaser__ _n_  
+__peruse__ _v tr_  
 __pester__ _v tr_  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
+__playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.  
 __plaza__ _n_ :mega:  
 __plodder__ _n_  
 __plodding__ _adj_  
@@ -163,13 +179,17 @@ __psychobabble__ _n_
 __punitive__ _adj_ Inflicting or aiming to inflict punishment; punishing.  
 __purportedly__  
 __purpose__ _n_ :mega:  
+__pusillanimous__ _adj_  
 __pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
 __rampant__ _adj_  
 __ransom__ _n_  
 __rapture__ _v_  
+__register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __repercussion__ _n_  
+__run sheet__  
 __sanity check__  
+__sate__ _v tr_  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
@@ -193,6 +213,7 @@ __seersuckers__ _n_
 __seesaw__  
 __seething__ _adj_  
 __seize__ _v_ _Students with the growth mindset seized the chance._  
+__self-absorbed__  
 __senility__ _n_  
 __sepsis__ _n_  
 __sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
@@ -227,7 +248,7 @@ __Six-Day War__ _n_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __smithereens__  
-__snuggle__ _v_  
+__snuggle__ _v_ :two::hammer:  
 __solopreneur__  
 __sought-after__  
 __sound__ _adj_ _Sound advice._  
@@ -270,6 +291,7 @@ __stillbirth__ _n_
 __strait__ _n_  
 __strife__ _n_  
 __stuffing__ _n_  
+__suborn__ _v tr_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
@@ -304,10 +326,13 @@ __tout__ _v_ :dart:
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
+__ukulele__ _n_ :pencil2:  
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
+__unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
 __unworldly__ _adj_  
+__V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
@@ -322,6 +347,7 @@ __waver__ _v_
 __waxing__ _v_  
 __weaponize__  
 __weasel__ _v_  
+__weather__ _v tr_ __3__ To come through (something) safely; survive: _weather a crisis._  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
 __welter__ _n_ _A welter of objects._  

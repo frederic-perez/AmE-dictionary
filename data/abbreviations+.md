@@ -35,6 +35,7 @@ __CID__
 __CO__ Carbon monoxide, “the silent killer.”  
 __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).  
 __COVID__ Short for coronavirus disease.  
+__CP__ :two: __5__ Communist Party.  
 __CPR__ :two: Cardiopulmonary resuscitation.  
 __CVD__ Cardiovascular disease.  
 __CVS__ __1__ Computer Vision Syndrome. __2__ CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store and was founded in Lowell, Massachusetts, in 1963.  
