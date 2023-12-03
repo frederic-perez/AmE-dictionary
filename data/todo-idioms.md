@@ -90,35 +90,6 @@ __head up__
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
-__heart and soul__ :two::hammer:  
-__heart of gold__  
-__heaven on earth__  
-__heinous__ _adj_  
-__helluva__  
-__help (one) out__  
-__here we go__  
-__here’s to (someone or something)__  
-__high horse__  
-__high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful or rowdy activity, often involving mischievous pranks. _All sorts of high jinks go on at summer camp after “lights out.”_  
-__high note__ The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
-__high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
-__hit (someone or something) hard__  
-__hit home__  
-__hold one’s breath__  
-__homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ __2__ _slang_ A friend. _Teddy’s my homie—he’ll help us out._  
-__in hindsight__  
-__in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  
-__in the money__  
-__keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
-__keep your ego checked__ The idiom “keep your ego checked” means to maintain control over one’s ego or to prevent it from becoming too inflated. It is often used in the context of leadership and personal development to emphasize the importance of staying humble and self-aware. Keeping your ego in check can help prevent arrogance and promote a balanced and healthy sense of self-confidence. It involves being open to feedback, staying grounded, and avoiding the trap of excessive pride.  
-__king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
-__know a thing or two__ :two::hammer:  
-__lo and behold__  
-__lock out__ __2__ To prevent employees from coming to work or performing their duties during a labor dispute. _The factory gates were chained shut, a clear sign to the workers that the owners had locked them all out._  
-__loom large__ :dart::two: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
-__MBWA__ An initialism of “management by walking around,” the strategy of literally walking among one’s employees or subordinates to manage them more effectively.  
-__microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
-__mixed bag__ A diverse mixture or group.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __neck and neck__  
