@@ -9,6 +9,8 @@ __(I) told you (so)__
 __(it) takes one to know one__  
 __(kill) the golden goose__  
 __(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect. _Poor Mary, she isn’t half the person she used to be since that car accident._  
+__(one’s) heart goes out to (someone)__ One feels sympathy toward someone, typically because someone is experiencing a particularly tragic situation.  
+__(right) here and now__ At this exact place and point in time; right now.  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
 __a bleeding heart__ :astonished: A person who shows an overwhelming and often ostentatious display of sympathy, especially for those perceived as victims.  
 __a breeze__ Something that is especially easy, effortless, or trifling to accomplish or complete.  
@@ -24,6 +26,7 @@ __all in__ __3__ Putting all of one’s available resources into an effort: _The
 __all-time high__  
 __allude to (something)__  
 __and then some__ And even more; and more than has been mentioned.  
+__anecdotal evidence__  
 __antifreeze__ __1__ Alcohol, esp. cheap and as drunk by tramps and alcoholics. __2__ Heroin.  
 __apples and oranges__  
 __as long as__  
@@ -35,10 +38,14 @@ __B of A__ Bank of America.
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
 __be friends with (someone)__  
+__beat the crap out of (someone)__  
 __browbeat (one) into (something)__ To thoroughly and continually dominate, intimidate, or bully one into some state or action.  
+__buckle up__ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc.  
 __caboose__ /kəˈbus/  
 __call out__  
 __capeesh__ _phr_ :dart: As interrog., do you understand? thus as v., to understand.  
+__crack a book__ To open a book to study. (Usually used with a negative.) _I never cracked a book and still passed the course._ _Sally didn’t crack a book all semester._  
+__creep into (some place)__ To enter some place stealthily.  
 __cut (through) (the) red tape__  
 __cut it__  
 __darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
@@ -49,12 +56,15 @@ __do (one) a disservice__ To do something that hinders or is detrimental to one.
 __don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
 __doom and gloom__ (A situation) characterized by negativity or futility.  
 __drop the ball__  
+__early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __egghead__ _slang_ A derogatory term for an intelligent, studious person.  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
 __flatline__ _slang_ To die or come very close to death.  
+__fly high__  
 __for what it’s worth__  
 __from bad to worse__  
 __game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
+__get (someone or something) out of (one’s) head__ To make an effort to forget or stop thinking about someone or something.  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
 __get into (someone or something)__  
 __get someone’s goat__ _informal_ If someone or something gets your goat, they annoy you.  
@@ -129,6 +139,7 @@ __off (one’s) case__ No longer a source of constant pressure; not nagging one 
 __on (one’s) own__  
 __on a roll__  
 __on point__  
+__on that note__  
 __on the horizon__  
 __open season (on someone or something)__  
 __out of whack__  
@@ -145,6 +156,7 @@ __plod on__ To move, progress, or develop at a slow but constant and deliberate 
 __point fingers (at someone or something)__  
 __poon__  
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
+__pricey__ Moderately expensive.  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
@@ -181,6 +193,8 @@ __rat race__
 __ratchet up__  
 __rave about (something)__ To give wildly enthusiastic praise for something.  
 __red line__  
+__refrain from (doing something)__ To make a considered, conscious effort not to do something.  
+__regardless of (something)__  
 __ripple effect__  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
@@ -194,16 +208,25 @@ __roundhouse__
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
 __scoop__  
+__screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __sell like hot cakes__  
+__shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
 __six ways from (next) Sunday__ Askew, at an angle.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
+__sneak peek__  
 __speak with a forked tongue__  
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
+__stand by__  
 __status quo__ :mega: /kwoʊ/  
 __stick (one’s) tongue out__  
+__stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __swear by (someone or something)__  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __take a deep breath__  
+__take aim (at someone or something)__  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
+__twisted__  
+__walk through__  
+__wrack (one’s) brain(s)__  
