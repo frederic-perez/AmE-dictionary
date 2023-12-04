@@ -207,30 +207,3 @@ __swear by (someone or something)__
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __take a deep breath__  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
-__then again__  
-__thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
-__think before (one) (does something)__ To ruminate, reflect, or consider very carefully before undertaking some action.  
-__think highly of (someone or something)__  
-__through the roof__ To a very high level.  
-__throw (one) a curveball__  
-__time and (time) again__  
-__TMI__ An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_  
-__to a T__  
-__turkey__ __3__ _n_ _slang_ Stupid person.  
-__turn a deaf ear (to someone or something)__  
-__turn of phrase__  
-__two-way street__  
-__uncharted territory__ :two::hammer:  
-__Uncle Sambo/Sammy/Samuel/Samwell__ Uncle Sam.  
-__under (one’s) belt__  
-__under (one’s) watch__ A situation where someone is responsible for overseeing or supervising a particular task, project, or group of people. It implies that the person in question has the duty of ensuring that everything runs smoothly and according to plan.  
-__under one’s belt__  
-__under the guise of (something)__  
-__under the hood__  
-__vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A reference to vanilla being considered a plain or ordinary flavor.  
-__walk in the park__  
-__walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
-__washout__ __11__ _n_ A failure or disappointment. As a noun, the phrase is usually hyphenated or spelled as one word. _He was a star player until he got busted for drugs and became a total washout._  
-__where there’s a will, there’s a way__ _proverb_ If one is motivated enough to do something, they will find a way to do it. _Don’t tell me it’s impossible. Where there’s a will, there’s a way. And we’re going to find that way._  
-__wrinkle__ _n_ __1__ (also rinkle, winkle) An idea, device or trick, esp. a new one. A new idea; a new aspect of something. _Here’s a clever wrinkle for you. Nobody has ever tried this one._ __2__ A lie. __3__ A useful piece of information. __4__ A bit, a small amount. __5__ A minor problem. _A wrinkle has developed in the Wilson proposal._  
-__you know the kind__ The idiom “you know the kind” is used to refer to a type of person or thing that is being implied or referenced. It is often used to indicate that the listener should be familiar with the type being described.  
