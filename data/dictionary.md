@@ -16668,7 +16668,7 @@ __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._
 __snuffbox__ _n_ :two::hammer:  
 __snug__ _v_ :three::hammer:  
 __snuggery__ _n_ /ˈsnʌɡərɪ/ _Chiefly British_ __1__ A snug place or position. __2__ A comfortable or cozy room. _Syn_ cubby, cubbyhole  
-__snuggle<sup>1</sup>__ _v_  
+__snuggle<sup>1</sup>__ _v_ :three::hammer:  
 __snuggle<sup>2</sup>__ _n_  
 __snugly__ _adv_ :two::hammer:  
 __so far, so good__  
@@ -16744,6 +16744,7 @@ __soliloquy__ _n_ :three::hammer:
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :four::hammer:  
+__solopreneur__  
 __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._  
 __solvent__ _n_  
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
@@ -16790,13 +16791,13 @@ __sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of 
 __sot__ _n_ :two::hammer: _A surly sot._  
 __sotto voce__ _adj, adv_ :two::hammer:  
 __soubriquet__ _n_  
-__sought-after__ _adj_ :four: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
+__sought-after__ _adj_ :five: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul food__ _n_  
 __soul__ _n_ :mega:  
 __soul-searching__ _n_ :two::hammer::pencil2: Examination of one’s conscience especially with regard to motives and values.  
 __sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
 __sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
-__sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
+__sound__ _adj_ :five::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._ _Sound advice._  
 __sounding system__  
 __soundly__ _adv_ _Sleep soundly._  
 __soundness__ _n_  
@@ -16810,15 +16811,17 @@ __source__ _v_
 __sourdough__ _n_  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
+__souse__  
 __souse<sup>1</sup>__ _v tr_ /sous/ [:scroll: From Old French souser (to pickle)] __1__ To soak or steep. __2__ To pickle, cook in a marinade, etc. __3__ To make intoxicated.  
 __souse<sup>2</sup>__ _n_ __1__ Something or someone soaked. __2__ The liquid used in soaking. __3__ Food steeped in pickle; also such liquid. __4__ A drunkard. __5__ A period of heavy drinking.  
 __soused__ _v_  
 __South of the Border__  
 __southerly__ _adj_  
-__southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
+__southpaw__ _n_ :three: A left-handed boxer who leads with the right hand. A left-handed person, especially a left-handed baseball pitcher. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
+__souvenir__ _n_ _Souvenir items._  
 __sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:  
 __sovereignty__ _n_ :pencil2:  
-__sow__ _n_ :four::hammer: _A drunk sow._  
+__sow__ _n_ :five::hammer: _A drunk sow._  
 __soybean__ _n_  
 __space cadet__ _n_ _slang_ Someone who seems unable to respond appropriately to reality (as if under the influence of some narcotic drug).  
 __space heater__ _n_  
@@ -16832,9 +16835,13 @@ __spaghetti__ _n_ :two::pencil2: (Cookery) Pasta in the form of long strings.
 __span__ _v_  
 __spandex__ _n_  
 __spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target._  
-__spangle<sup>1</sup>__ _n_ __1__ A small thin piece of metal or other shiny material used as a decoration, esp on clothes; sequin. __2__ Any glittering or shiny spot or object.  
+__spangle<sup>1</sup>__ _n_ :two: __1__ A small thin piece of metal or other shiny material used as a decoration, esp on clothes; sequin. __2__ Any glittering or shiny spot or object.  
 __spangle<sup>2</sup>__ _v_ :seven: (spangled, spangling) __1__ (tr) To adorn or cause to sparkle by covering with or as if with spangles: _Lights spangled the night skyline._ __2__ (intr) To sparkle in the manner of spangles.  
+__spangled__ _adj_ Covered with small shiny objects. _The Star-Spangled Banner._  
+__Spanglish__ _n_ Spanish characterized by numerous borrowings from English.  
+__Spanish fly__  
 __Spanish moss__ _n_ :two::hammer:  
+__spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __Spanx__  
 __spar<sup>1</sup>__ _n_  
 __spar<sup>2</sup>__ _v_  
@@ -16844,14 +16851,16 @@ __spark plug__ _n_ :dart::three: (spark plugs) :es: bujía
 __sparklers__ _n_  
 __sparred__ _v_  
 __spars__ _n_  
+__spastic__  
 __spat__ _n_ :seven::hammer: _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
-__spate__ _n_ :eight: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
+__spate__ _n_ :nine: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatiotemporal__ _adj_  
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
+__spaz__  
 __spd__  
 __speak out__ _phr v_ :two::hammer: (spoke out)  
-__speak up__ _v_ :three::hammer:  
+__speak up__ _v_ :four::hammer:  
 __speakeasy__ _n_ :five::hammer: :es: taberna clandestina  
 __spear chucker__  
 __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _distaff side_).  
@@ -16875,7 +16884,7 @@ __specs__ _n_ :two: Spectacles, glasses.
 __spectacle__ _n_ :two::mega::hammer:  
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
 __spectacular__  
-__spectate__ _v intr_ To be present as a spectator (as at a sports event). _He resumed his spectating._  
+__spectate__ _v intr_ :two: To be present as a spectator (as at a sports event). _He resumed his spectating._  
 __spectra__ _n pl_  
 __speculate__ _v_ :two: /SPEK-yuh-layt/ __1__ In general contexts, _speculate_ means “to form ideas or theories about something usually when there are many things not known about it.” _Scientists speculate that the newly discovered exoplanet could contain liquid water._ __2__ In contexts relating to business or finance, it means “to invest money in ways that could produce a large profit but that also involve a lot of risk.” _Their research explores the implications of so many people speculating on the stock market in the years leading up to the Great Depression._  
 __speculative__ _adj_ :two: Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
@@ -16891,6 +16900,7 @@ __spell<sup>1</sup>__ _v_
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbind__ _v_  
 __spellbound__ _adj_  
+__spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
 __spelt__ _n_ :es: espelta _Spelt-crusted pizza._  
 __spelunking__ _n_  
 __spendolie__  
@@ -17117,7 +17127,8 @@ __stagnant__ _adj_ :four::hammer:
 __staid__ _adj_ :seven: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair-climber__ _n_ An exercise apparatus that simulates the act of climbing stairs.  
 __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs. __2__ Stair-climber (I guess). _Gyms and health clubs offer yoga along with stair-climbing machines._  
-__stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
+__stairway__ _n_  
+__stairwell__ _n_ :four::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
 __stake truck__ _n_ :camera:  
 __stake__ _n_  
 __stakeholder__ _n_ :seven::hammer:  
@@ -17205,7 +17216,7 @@ __Staten Island__ _n_ :m: /ˈstæt n ˈaɪlənd/
 __Staten Islander__ _n_  
 __stateroom scene__ _n_ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ :six: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner “stateroom scene.”_ _The spacious forward stateroom of the boat._ _73 spacious suites and staterooms._  
-__statesman__ _n_ :four::hammer: _The elder statesman of the group._  
+__statesman__ _n_ :five::hammer: _The elder statesman of the group._  
 __statesmen__ _n_ (notice, not ‘statement’)  
 __statin__ _n_ :two::hammer:  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
@@ -17241,6 +17252,7 @@ __steady__ _adj_ :six: __1__ Firm in position or place; fixed. __2__ Direct and 
 __steady-eddy__  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
+__steal__ _v_ _He sometimes “heard” classical music “stealing across the water.”_  
 __stealth camping__ _n_ _(US)_ Camping out of sight on land not designated as a campsite, especially on land not used for habitation, agriculture etc. _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you’re a plumber or whatever and no one would notice._  
 __stealthy__ _adj_ :two: Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, surreptitious, sneaky _Jane thought she was being stealthy as she sneaked in past curfew, but her mother heard the door creak as soon as it opened._  
 __steam room__ _n_  
@@ -17254,6 +17266,7 @@ __steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._
 __steelhead__ _n_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steep<sup>2</sup>__ _v_ :nine::m: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ _Steeped in hot water._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc. _This region is steeped in history._  
+__steeped__ _adj_  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__ _n_ :two: [:scroll: These horse races originally used churches (which are known for having steeples) to mark the end of the race or as a landmark for riders (who would “chase the steeple”).]  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
@@ -17262,6 +17275,8 @@ __steeply__ _adv_ :two::hammer:
 __steer<sup>1</sup>__ _v_  
 __steer<sup>2</sup>__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
 __stein__ _n_  
+__stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
+__stellar__ _adj_ _Stellar events._  
 __stem rust__ _n_  
 __stem-winding__ _adj_ _informal North American_ (of a speaker or speech) Entertaining and rousing. _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  

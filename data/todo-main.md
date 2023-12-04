@@ -248,32 +248,6 @@ __Six-Day War__ _n_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __smithereens__  
-__snuggle__ _v_ :two::hammer:  
-__solopreneur__  
-__sought-after__  
-__sound__ _adj_ _Sound advice._  
-__souse__  
-__southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
-__souvenir__ _n_ _Souvenir items._  
-__sow__ _n_  
-__spangle__ _n_ _Syn_ glitter, sequin  
-__spangled__ _adj_ Covered with small shiny objects. _The Star-Spangled Banner._  
-__Spanglish__ _n_ Spanish characterized by numerous borrowings from English.  
-__Spanish fly__  
-__spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
-__spastic__  
-__spate__ _n_  
-__spaz__  
-__speak up__  
-__spectate__ _v intr_  
-__spelldown__ _n_ A contest in which you are eliminated if you fail to spell a word correctly. _Syn_ spelling bee  
-__stairway__ _n_  
-__stairwell__ _n_ The vertical shaft or opening containing a stairway.  
-__statesman__  
-__steal__ _v_ _He sometimes “heard” classical music “stealing across the water.”_  
-__steeped__ _adj_  
-__stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
-__stellar__ _adj_ _Stellar events._  
 __stem__ _v_  
 __stenos__  
 __stenotic__ _adj_ _Stenotic burden._  
