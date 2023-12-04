@@ -1,28 +1,3 @@
-__(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all seriousness.  
-__(as) easy as pie__  
-__(as) happy as a clam__ Very joyful and contented.  
-__(be) careful what you wish for(, (because) you just might get it)__ A warning that something that one desires might prove to problematic or undesirable were it to happen or come true.  
-__(first) dibs (on something)__ _Sign up for their waitlist to get first dibs!_  
-__(good) heavens__  
-__(I) hope not__  
-__(I) told you (so)__  
-__(it) takes one to know one__  
-__(kill) the golden goose__  
-__(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect. _Poor Mary, she isn’t half the person she used to be since that car accident._  
-__(one’s) heart goes out to (someone)__ One feels sympathy toward someone, typically because someone is experiencing a particularly tragic situation.  
-__(right) here and now__ At this exact place and point in time; right now.  
-__a balancing act__ A situation in which one must accomplish a number of tasks at the same time.  
-__a bleeding heart__ :astonished: A person who shows an overwhelming and often ostentatious display of sympathy, especially for those perceived as victims.  
-__a breeze__ Something that is especially easy, effortless, or trifling to accomplish or complete.  
-__a doozy__  
-__a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides. _One of the prices of success for a pop star is having to live in a fishbowl under the scrutiny of the public eye._  
-__a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company. _He had such an impressive résumé that he was offered a sizeable golden hello for joining the company._  
-__a lone wolf__  
-__a mixed picture__ A portrayal of a situation highlighting both positive and negative aspects of its nature or status.  
-__a real doozy__  
-__a walk in the park__  
-__adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
-__all in__ __3__ Putting all of one’s available resources into an effort: _The governor mounted a halfhearted campaign for the presidency but didn’t go all in._  
 __all-time high__  
 __allude to (something)__  
 __and then some__ And even more; and more than has been mentioned.  
