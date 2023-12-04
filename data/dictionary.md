@@ -11,7 +11,9 @@ __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right 
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
 __-prone__ _adj_ _combining form_ Liable or disposed to suffer: _accident-prone._ _The delay-prone airports of New York, Newark and philadelphia._  
 __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
+__-sville__  
 __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
+__-ville__  
 __-wise__ _suffix_  
 __, so why (even) bother?__  
 __, to say the least.__  
@@ -24,6 +26,7 @@ __18-wheeler__ _n_ :two: A trucking rig consisting of a tractor and a trailer an
 __20/20 vision__ _n_  
 __21__ _n_ Drinking game.  
 __35-degree day__  
+__360-degree feedback__ _n_  
 __4-H__ _n_ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __411__ _n_  
 __501(c)(3)__ _n_ A charitable organization, named after Internal Revenue Code, Section 501(c)(3), which gives such organizations tax-exempt status. _501(c)(3) organization._  
@@ -44,7 +47,7 @@ __abase__ _v_ _To abase a King and leave him on the throne has its dangers._
 __abasement__ _n_  
 __abashed__ _adj_ :five: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
-__abate__ _v_ :four::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
+__abate__ _v_ :five::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :three: Slaughterhouse. A building where animals are butchered. _Syn_ slaughterhouse, butchery, shambles _The largest abattoirs are those of the meatpacking industry._  
 __abbesses__ _n pl_  
@@ -54,7 +57,7 @@ __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rud
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
 __aberrant__ _adj_ :two::hammer:  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
-__abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
+__abet__ _v_ :six: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The condition of being temporarily set aside. (The word itself is commonly preceded by the preposition in.) _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
@@ -66,7 +69,8 @@ __abjection__ _n_
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __ableism__  
 __abligurition__ _n_ /uh-blig-yoo-RISH-uhn/ [:scroll: From Latin abligurire (to squander on delicacies), from ab- (away) + ligurire (to be dainty), from lingere (to lick).] Extravagance, especially in matters of food and drink. Prodigal expense for food.  
-__abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
+__ablutions__  
+__abnegate__ _v tr_ :two: /AB-nih-gayt/ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abode__ _n_ __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
 __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrable _The abominable treatment of prisoners horrified the team of international observers._  
@@ -82,20 +86,22 @@ __abrade__ _v_
 __abrasive__ _adj_ /uh-BRAY-siv/ _Customer service requires being able to satisfy the polite subscribers but also the abrasive ones who argue with the terms of agreement._  
 __abreast__ _adv_ :eight: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
-__abrogate__ _v_ /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. _Citizens voted to abrogate the antiquated law._  
+__abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
+__abrogate__ _v_ :two: /AB-ruh-gayt/ __1__ To fail to do what is required by something, such as a responsibility. _The company’s directors are accused of abrogating their responsibilities._ __2__ To end or cancel something in a formal and official way. To abolish or annul by formal means; to repeal; put aside; cancel; revoke; rescind; nullify: _to abrogate a law._ _Citizens voted to abrogate the antiquated law._  
 __abrogation__ _n_ :two::hammer:  
 __abrupt__ _adj_ :two::hammer: /uh-BRUPT/ _An abrupt decrease._  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __abscission__ _n_ The act of cutting off. _Syn_ cutting off _He had surgery for the abscission of a malignancy._  
-__abscond__ _v_ :four: /ab-SKAHND/ (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
+__abscond__ _v_ :five: /ab-SKAHND/ (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __absent-minded__ _adj_  
 __absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away from the place where he or she is registered.  
 __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
+__absolute pitch__ _n_ (perfect pitch?)  
 __absolve__ _v_  
-__abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
+__abstain__ _v_ :four::pencil2: /ub-STAYN/ __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abstract__ _v_  
 __abstruse__ _adj_ :two: /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure. Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
@@ -103,9 +109,9 @@ __abundant__ _adj_ :two::hammer:
 __abusive__ _adj_  
 __abut__ _v_ :two::hammer: (abutted, abutting) _Bungalows abutting._  
 __abutting__ _adj_  
-__abuzz__ _adj_ :three: /əˈbʌz/ __1__ Buzzing. __2__ Full of or alive with activity or talk: _The company was abuzz with rumors._  
+__abuzz__ _adj_ :four: /əˈbʌz/ __1__ Buzzing. __2__ Full of or alive with activity or talk: _The company was abuzz with rumors._  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
-__abyss__ _n_ :seven::astonished::mega: /əˈbɪs/ _Looking into the abyss._  
+__abyss__ _n_ :eight::astonished::mega: /əˈbɪs/ (abyses) _Looking into the abyss._  
 __acacia__ _n_  
 __accenting__ _v_  
 __accentuate__ _v_ /ak-SEN-shu-wayt/ To make something more noticeable. _He likes to wear clothes that accentuate his muscular build._  
@@ -140,17 +146,18 @@ __accrete__ _v_ :seven: (accretes, accreted) To make larger or greater, as by in
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :six: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acculturation__ _n_  
-__acerbic__ _adj_ :four::hammer:  
+__acerbic__ _adj_ :five::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
+__achieve__ _v_ :mega:  
 __achiever__  
-__Achilles heel__ _n_ :two: A weakness or vulnerable point.  
-__Achilles__ _n_ _Out for season after tearing his Achilles against San Diego._  
-__Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.  
+__Achilles heel__ _n_ :four: (Achilles’ heel) A weakness or vulnerable point. A seemingly small but actually crucial weakness.  
+__Achilles__ _n_ :two::mega::hammer: _Out for season after tearing his Achilles against San Diego._  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
+__achoo__  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :eight: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ __2__ An altar attendant in public worship; altar boy.  
+__acolyte__ _n_ :nine: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ __2__ An altar attendant in public worship; altar boy.  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -166,13 +173,14 @@ __acrid__ _adj_
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrobat__ _n_ :mega:  
+__acronym__ _n_ /AK-ruh-nim/  
 __acrophobia__  
 __across__ _adj, adv, prep_ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
 __action-packed__ _adj_ :two: Full of activities, events and excitement.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
-__actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
+__actuary__ _n_ :three: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
@@ -181,7 +189,7 @@ __acute__ _adj_
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
-__ad nauseam__ _adv_ :four: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
+__ad nauseam__ _adv_ :five: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ :two::mega: Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
@@ -195,7 +203,7 @@ __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capab
 __adapt__ _v_ /uh-DAPT/  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
 __added value__ _n_ :two::hammer:  
-__addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
+__addle__ _v_ :four::hammer: (addled) _He’s addled and we shall tend him._  
 __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor heard an address of welcome by his host._  
 __address<sup>2</sup>__ _v_ :five::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
@@ -220,7 +228,7 @@ __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherap
 __admin<sup>1</sup>__ _n_ _informal_ Short for administration.  
 __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin stuff._  
 __admission__ _n_ :three::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
-__admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
+__admittedly__ _adv_ :two: By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonish__ _v_ /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
 __admonition__ _n_ :nine: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
@@ -260,6 +268,8 @@ __aero-hydroponics__
 __aerospike engine__ _n_  
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
+__affect<sup>1</sup>__ _n_  
+__affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._  
 __affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
 __affectionally__  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
@@ -270,7 +280,7 @@ __affix__ _v_
 __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :six: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
-__afford__ _v_ :two::hammer: _We can’t afford it._  
+__afford__ _v_ :three::hammer: _We can’t afford it._  
 __affordable__ _adj_ :three::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :three: A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  

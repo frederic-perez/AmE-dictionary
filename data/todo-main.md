@@ -1,30 +1,3 @@
-__-sville__  
-__-ville__  
-__360-degree feedback__ _n_  
-__abate__ _v_  
-__abet__ _v_  
-__ablutions__  
-__abnegate__ _v tr_ /AB-nih-gayt/  
-__abridgment__ _n_ A shortened version of a written work. _Syn_ condensation, capsule  
-__abrogate__ _v_ To abolish or annul by formal means; to repeal; put aside; cancel; revoke; rescind; nullify: _to abrogate a law._  
-__abscond__ _v_  
-__absolute pitch__ _n_ (perfect pitch?)  
-__abstain__ _v_ /ub-STAYN/  
-__abuzz__ _adj_  
-__abyss__ _n_ (abyses)  
-__acerbic__  
-__achieve__ _v_ :mega:  
-__Achiles__ _n_ :mega:  
-__achoo__  
-__acolyte__ _n_  
-__acronym__ _n_ /AK-ruh-nim/  
-__actuary__ _n_  
-__ad nauseam__  
-__addle__ _v_  
-__admittedly__  
-__affect<sup>1</sup>__ _n_  
-__affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._  
-__afford__ _v_  
 __aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
 __aflutter__  
 __agency__ _n_  
