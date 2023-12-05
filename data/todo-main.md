@@ -1,28 +1,3 @@
-__aficionado__ _n_ /uh-fish-ee-uh-NAH-doh/  
-__aflutter__  
-__agency__ _n_  
-__allot__ _v_  
-__alot__ _v_  
-__amicably__ _adv_  
-__anthropomorphism__ _n_  
-__apiarist__ _n_ _Syn_ apiculturist, beekeeper  
-__apiece__ _adv_ /əˈpiːs/  
-__apoplectic__ _adj_  
-__arguably__  
-__articulate<sup>1</sup>__ _v_  
-__articulate<sup>2</sup>__ _adj_  
-__assess__ _v tr_  
-__atopic__ _adj_  
-__auction__ _n_ /ˈɔːkʃən/  
-__august__ _adj_  
-__befuddle__  
-__bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
-__boba__ _n_  
-__bombastic__  
-__booty__ _n_  
-__bordeline__ _n_ __2__ An indeterminate position between two conditions or qualities: _the borderline between friendship and love._  
-__bumbling__ _adj_  
-__bumfuzzle__  
 __buy in__ _v_  
 __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __cavort__  

@@ -284,10 +284,11 @@ __afford__ _v_ :three::hammer: _We can’t afford it._
 __affordable__ _adj_ :three::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :three: A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  
-__aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
+__aficionado__ _n_ :three: /uh-fish-ee-uh-NAH-doh/ A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__ _adv_ :two::hammer: _A little farther afield._  
 __afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
+__aflutter__  
 __afoot__ _adj, adv_ :five: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :four: Mentioned previously.  
 __afoul__ _adj_ :two::hammer:  
@@ -314,7 +315,7 @@ __age<sup>2</sup>__ _v_
 __ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
 __agemate__ _n_  
-__agency__ _n_ :nine::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._ _We must use our agency._  
+__agency__ _n_ :nine::m::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._ _We must use our agency._  
 __agendum__ _n_ :two: Something to be done, especially an item on a program or list. _Syn_ order of business _It was getting late, so the members of the board decided to leave the last agendum for the next meeting._  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
@@ -436,7 +437,7 @@ __alliterate__ _v_ To use two or more words having the same initial sound, as in
 __alliteration__ _n_ :two: Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
-__allot__ _v tr_ :two::hammer: (alloted)  
+__allot__ _v tr_ :three::hammer: (alloted)  
 __allotment__ _n_ :two::hammer:  
 __allotriophagy__ _n_ /uh-lah-tree-AH-fuh-jee/ [:scroll: From Greek allotrio- (foreign) -phagy (eating)] An abnormal desire to eat things not usually eaten, such as chalk or clay. _Sun_ pica  
 __allotted__  
@@ -462,6 +463,7 @@ __alongside__ _prep_ :four::hammer:
 __aloof<sup>1</sup>__ _adj_ :nine: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Commanders with an aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
+__alot__ _v_  
 __alpaca__ _n_ :four::hammer:  
 __alphabetize__ _v tr_ :dart: __1__ To arrange in alphabetical order. __2__ To supply with an alphabet.  
 __alpine slide__ _n_ :two::hammer:  
@@ -514,7 +516,7 @@ __amethyst__ _n_ :four::pencil2::hammer:
 __ametropia__ _n_  
 __amiable__  
 __amicable__ _adj_  
-__amicably__ _adv_ :mega: /ˈæmɪkəblɪ/  
+__amicably__ _adv_ :two::mega::hammer: /ˈæmɪkəblɪ/  
 __amicus curiae__ _n_  
 __amid__  
 __Amish__ _n_ _Amish country._  
@@ -647,6 +649,7 @@ __anthology__
 __anthropic__ _adj_  
 __anthropogenic__  
 __anthropomorphic__ _adj_ /an-thruh-puh-MOR-fik/  
+__anthropomorphism__ _n_  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
 __anthurium__ _n_  
 __anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
@@ -691,8 +694,9 @@ __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or o
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
 __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
-__apiarist__ _n_ _Syn_ apiculturist, beekeeper  
+__apiarist__ _n_ :two::hammer: _Syn_ apiculturist, beekeeper  
 __apiary__ _n_ :two: A place where bees and beehives are kept, especially a place where bees are raised for their honey. _Syn_ bee house  
+__apiece__ _adv_ /əˈpiːs/  
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :dart::seven: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
@@ -703,7 +707,7 @@ __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from a
 __apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apologue__ _n_ A moral fable, especially one having animals or inanimate objects as characters. _Syn_ allegory, parable, fable  
-__apoplectic__ _adj_ :two::hammer:  
+__apoplectic__ _adj_ :three::hammer:  
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __apoptosis__ _n_  
 __aposematic__ _adj_  
@@ -807,7 +811,7 @@ __Argentina__ _n_ _Syn_ the Argentine
 __Argentine__ _n_ _The pope is an Argentine._  
 __argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
-__arguably__ _adv_ :four::hammer:  
+__arguably__ _adv_ :five::hammer:  
 __argue__ _v_  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
@@ -845,8 +849,8 @@ __Artemis__ _n_ :mega:
 __artery__ _n_ :mega:  
 __artful__  
 __artichoke__ _n_ :three::hammer:  
-__articulate<sup>1</sup>__ _adj_ :five: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
-__articulate<sup>2</sup>__ _v_ :eight::hammer: (articulated)  
+__articulate<sup>1</sup>__ _adj_ :six: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
+__articulate<sup>2</sup>__ _v_ :nine::hammer: (articulated)  
 __articulated__ _adj_ :two::hammer: _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
@@ -905,7 +909,7 @@ __assay<sup>2</sup>__ _v_ /a-SAY/
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
-__assess__ _v tr_ :two::hammer: (assessed)  
+__assess__ _v tr_ :three::hammer: (assessed)  
 __assessment__ _n_ :three::pencil2::hammer:  
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
@@ -964,7 +968,7 @@ __atone__ _v_ :four: /uh-TOHN/ Atone is usually used with for to mean “to make
 __atonement__ _n_ :two::hammer:  
 __atop<sup>1</sup>__ _adv_  
 __atop<sup>2</sup>__ _prep_  
-__atopic__ _adj_ /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
+__atopic__ _adj_ :two::astonished: /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
 __atraumatic__ _adj_ Without injury.  
 __atrium hotel__ _n_ _The first atrium hotel in America._  
 __atrium__ _n_ :two::hammer:  
@@ -1002,6 +1006,7 @@ __au shops__
 __auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
+__auction__ _n_ /ˈɔːkʃən/  
 __audacious__ _adj_ :dart::four::hammer: _In size it was the most audacious._  
 __audacity__ _n_ :dart::four: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
@@ -1009,7 +1014,7 @@ __audit__ _n_ :two::hammer: _A tax audit._
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __augur__ _v_ :two::hammer: /AW-gur/  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
-__august__ _adj_ :three: Inspiring reverence or admiration; of supreme dignity or grandeur. Inspiring awe or admiration; majestic. _Syn_ lordly, grand _He was of august lineage, and was widely admired for his family connections._  
+__august__ _adj_ :four: Inspiring reverence or admiration; of supreme dignity or grandeur. Inspiring awe or admiration; majestic. _Syn_ lordly, grand _He was of august lineage, and was widely admired for his family connections._  
 __Augustinian__ _adj_  
 __auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
 __Auld Man’s Milk__ _n_  
@@ -1547,7 +1552,7 @@ __bestiary__ _n_ A book consisting of a collection of descriptions of real and f
 __bestow__ _v tr_ _formal_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
-__bêtise__ _n_ __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
+__bêtise__ _n_ :two: __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
 __betoken__ _v_  
 __betray__ _v_ :three::hammer: /bɪˈtreɪ/  
 __betrayal__ _n_ :two::hammer:  
@@ -1861,6 +1866,7 @@ __boaters__
 __boatswain__  
 __bob<sup>1</sup>__ _v tr_ :eight::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
 __bob<sup>2</sup>__ _v intr_ :two: __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
+__boba__ _n_  
 __bobber__ _n_ :two::hammer:  
 __bobbled__ _v_ _The flowers bobbled and swayed._  
 __bobby pin__  
@@ -1910,7 +1916,7 @@ __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bol
 __bomb cyclone__  
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :eight: /BAHM-bast/ __1__ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
-__bombastic__ _adj_ :four: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
+__bombastic__ _adj_ :five: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _v intr_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
 __bombing__ _v_  
 __bombogenesis__  
@@ -1988,7 +1994,7 @@ __bootlegger__
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
 __bootstrap__ _v_ :three: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __bootstrapping__ _n_  
-__booty__ _n_ :two::hammer: _You can shake your booty at late-night hot spots._  
+__booty__ _n_ :three::hammer: _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
 __bop<sup>1</sup>__ _n_ A blow; a punch.  
@@ -1996,6 +2002,7 @@ __bop<sup>2</sup>__ _v tr_ :four: To hit or strike.
 __bop<sup>3</sup>__ _v intr_ :dart: _slang_ To move, go, or proceed. _I just bopped down to Boston for an action-packed 24 hours!_  
 __borak__ _n_ Rubbish; nonsense.  
 __borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
+__bordeline__ _n_ __2__ An indeterminate position between two conditions or qualities: _the borderline between friendship and love._  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __borderline__  
@@ -2357,8 +2364,8 @@ __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, 
 __bumble<sup><1/sup>__ _v intr_ :nine::m: __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner. _Syn_ blunder __3__ To make a buzzing sound.  
 __bumble<sup>2</sup>__ _v tr_ :nine::m: __1__ To say (something) in a faltering manner. __2__ To bungle; botch: _bumble one’s lines in a play._  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
-__bumbling__ _adj_ :three: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
-__bumfuzzle__ _v_ :two::hammer: _(Chiefly Southern US)_  
+__bumbling__ _adj_ :four: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
+__bumfuzzle__ _v_ :three::hammer: _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
 __bumper boat__ _n_ :two::hammer:  
