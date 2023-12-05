@@ -1,28 +1,3 @@
-__all-time high__  
-__allude to (something)__  
-__and then some__ And even more; and more than has been mentioned.  
-__anecdotal evidence__  
-__antifreeze__ __1__ Alcohol, esp. cheap and as drunk by tramps and alcoholics. __2__ Heroin.  
-__apples and oranges__  
-__as long as__  
-__as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
-__at a moment’s notice__ :dart: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
-__at the top of the hour__ At the start of the hour (such as 12:00, 3:00, etc.). _And we’ll cover that news story at the top of the hour._  
-__at times__  
-__B of A__ Bank of America.  
-__bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
-__bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
-__be friends with (someone)__  
-__beat the crap out of (someone)__  
-__browbeat (one) into (something)__ To thoroughly and continually dominate, intimidate, or bully one into some state or action.  
-__buckle up__ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc.  
-__caboose__ /kəˈbus/  
-__call out__  
-__capeesh__ _phr_ :dart: As interrog., do you understand? thus as v., to understand.  
-__crack a book__ To open a book to study. (Usually used with a negative.) _I never cracked a book and still passed the course._ _Sally didn’t crack a book all semester._  
-__creep into (some place)__ To enter some place stealthily.  
-__cut (through) (the) red tape__  
-__cut it__  
 __darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
 __deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
 __deus ex machina__ __2__ By extension, some narrative element that concludes the story or resolves a conflict in a way that seems too contrived and convenient to be believable.  

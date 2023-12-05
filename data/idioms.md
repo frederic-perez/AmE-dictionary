@@ -295,8 +295,10 @@ __all things considered__ :two::hammer:
 __all too often__ Too frequently. _We see this problem all too often._  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-out__ Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
+__all-time high__  
 __all-you-can-eat__  
 __all’s well that ends well__ _prov_ A positive ending can overshadow any problems that may have preceded it. Although this phrase is the title of a Shakespeare play, it likely predates it. _Hey, we’re not fighting anymore, and that’s all that matters. All’s well that ends well._  
+__allude to (something)__  
 __alter ego__  
 __amateur hour__ :two: A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
 __amirite__ :two: A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
@@ -316,10 +318,13 @@ __an uphill task__
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __and all__  
 __and so forth__ And or along with other such similar things; and all the rest; and so on; et cetera. _I like outdoor activities like running, hiking, cycling, and so forth._  
+__and then some__ And even more; and more than has been mentioned.  
+__anecdotal evidence__  
 __angle for (something)__  
 __anonymous tip__ :two: Information about something (typically criminal or illegal activity) that is offered by an anonymous source. _We’ve received an anonymous tip that there is going to be a major drug deal tonight at the harbor._  
 __another nail in the coffin__  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
+__antifreeze__ __1__ Alcohol, esp. cheap and as drunk by tramps and alcoholics. __2__ Heroin.  
 __any way you slice it__  
 __anyone’s guess__ Something that no one knows for sure.  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
@@ -327,6 +332,7 @@ __anything goes__ :three::hammer:
 __anytime soon__ In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __apeshit__  
 __apple of (one’s) eye__ :two::hammer:  
+__apples and oranges__  
 __approve of (someone or something)__ To agree with or support someone or something. _I don’t approve of your behavior right now._ _My parents have never approved of any of my girlfriends._  
 __arm candy__ :two: An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person they are accompanying. _Did you see the date she had with her at the movie premiere? I doubt they’re actually dating, but he was a nice piece of arm candy all the same._  
 __arm in arm__ _They were arm in arm, singing with the band._  
@@ -349,6 +355,7 @@ __as good as it gets__ :five: As good as is possible; impossible to improve upon
 __as if (one’s) life depends on it__  
 __as if to say__  
 __as it happens,__ :six: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as long as__  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as much__ Almost the same: _I thought as much._ _She said as much._  
@@ -356,6 +363,7 @@ __as of late__ :two::hammer:
 __as of now__ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
+__as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
 __as we know it__ :two: As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
 __as we speak__ At this very moment.  
 __as yet__ :two: At this time; yet. Up to the present time; up to now. _No one has responded to my email as yet, so I don’t have an answer for you._  
@@ -369,7 +377,7 @@ __at a (single) stroke__ All at once, with a single decisive or powerful action.
 __at a crossroads__ :dart::four::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
-__at a moment’s notice__:two: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
+__at a moment’s notice__:dart::three: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -400,7 +408,8 @@ __at the helm__ :two: In charge; acting as the leader of something. The phrase o
 __at the mercy of (someone or something)__  
 __at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
 __at the ready__ :three: Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
-__at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
+__at the top of the hour__ At the start of the hour (such as 12:00, 3:00, etc.). _And we’ll cover that news story at the top of the hour._  
+__at times__ :two: On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at top speed__ As fast as something or someone can go. _Once Tom caught the ball, he took off at top speed toward the end zone._  
 __at your leisure__  
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
@@ -410,6 +419,7 @@ __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I cou
 __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
 __aye aye, sir__ _Aye aye, Captain._  
 __B and E__ :three::hammer:  
+__B of A__ Bank of America.  
 __B-Team__  
 __baby boomer__  
 __baby step__ :two::hammer:  
@@ -431,11 +441,13 @@ __backpedal__ :three: To quickly and often abruptly reverse or retreat from one�
 __backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
 __backup plan__ A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
 __backwater__  
+__bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad blood__ :three: Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
 __bad boy__  
 __bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
 __bad press__ :three: Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
+__bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
 __badass__ :three::hammer:  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
@@ -509,6 +521,7 @@ __be caught with (one’s) pants down__ To be taken by surprise; to be caught in
 __be champing at the bit__ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
 __be cleaned out__ To be emptied or devoid of money, food, resources, etc.  
 __be even (with someone)__  
+__be friends with (someone)__  
 __be full of shit__  
 __be full of yourself__ To think that you are very important in a way that annoys other people.  
 __be game__ To be willing to do something. _Sure, I’m game to go to the mall._  
@@ -612,6 +625,7 @@ __beat down__
 __beat it__ To go away immediately.  
 __beat the bushes (for someone or something)__ To search for someone or something exhaustively and at great length. _I’ve been beating the bushes for a bigger apartment, but there’s nothing out there I can afford!_  
 __beat the clock__ :two: To finish something before the time is up.  
+__beat the crap out of (someone)__  
 __beat the shit out of (someone)__ :two::hammer: _I expect them to beat the shit out of the Eagles._  
 __beat your head against the wall__ To try to do something that is hopeless.  
 __beautiful people__ Stylish, glamorous, and often wealthy people admired by others. _I wish we were as cool as them—man, they are really the beautiful people._  
@@ -799,12 +813,13 @@ __broken record__ :dart::four: A person or thing that repeats itself over and ov
 __bromance__ _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
 __brood about (someone or something)__ To worry, fret, or obsess over someone or something.  
 __brood over__ :two: To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
+__browbeat (one) into (something)__ To thoroughly and continually dominate, intimidate, or bully one into some state or action.  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
 __buck the trend__  
 __bucket list__ :three::hammer: _That’s one of my bucket list items._  
 __buckle down__ _Buckle down and work harder._  
-__buckle up__ :five::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
+__buckle up__ :six::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
@@ -877,6 +892,7 @@ __by the same token__ :four: In the same way.
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ :three: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __C-note__  
+__caboose__ /kəˈbus/  
 __cake-eater__ :two: __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
 __call (all) the shots__ :two::hammer:  
 __call (one) names__  
@@ -889,7 +905,7 @@ __call it a day__ :two::hammer: _If there are no further points, then let’s ca
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
 __call on (someone or something)__ :two::hammer: _He called on me._  
-__call out__ :five::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
+__call out__ :six::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
 __call someone names__ :three: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
 __call someone out__ :four: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
@@ -916,6 +932,7 @@ __cannibalize__ _v_
 __cannon fodder__ :two: Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
 __cap__  
+__capeesh__ _phr_ :dart: As interrog., do you understand? thus as v., to understand.  
 __capitalize on (something)__ :dart::two: To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
 __Captain Obvious__ :three: A person who makes a statement or statements of such obvious meaning or implication as to be entirely redundant, superfluous, or unnecessary. _Pauline: “The President has said that lower-class families are bearing the brunt of the recession worse than anyone else.” Johnny: “Thank you, Captain Obvious!”_  
 __cards are stacked against someone__ Luck is against someone.  
@@ -1144,6 +1161,7 @@ __courtesy of (someone or something)__
 __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
 __cozy up (to someone or something)__ :two::hammer:  
 __cozy up__  
+__crack a book__ To open a book to study. (Usually used with a negative.) _I never cracked a book and still passed the course._ _Sally didn’t crack a book all semester._  
 __crack down (on someone or something)__ :three: To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
 __crack down__ _France is cracking down on shady influencers._  
 __crack open__  
@@ -1162,6 +1180,7 @@ __crasher__
 __crazy town__  
 __creature of habit__ :two: One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
 __cred__ A shortening of “credibility,” referring to one’s ability to be accepted or deemed legitimate in a particular situation or group. _A scrawny geek like me has no cred with the jocks._  
+__creep into (some place)__ To enter some place stealthily.  
 __creep on (someone or something)__  
 __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
@@ -1207,7 +1226,7 @@ __cuss a blue streak__ To use profane language with great rapidity and intensity
 __cut (one’s) teeth__ :two::hammer:  
 __cut (one) some slack__ :two::hammer:  
 __cut (someone or something) short__  
-__cut (through) (the) red tape__ To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
+__cut (through) (the) red tape__ :two: To circumvent bureaucratic obstacles (which are often referred to as “red tape”) in order to accomplish something.  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut and dry__  
 __cut back on (something)__ To reduce or decrease something. _My doctor told me that I need to cut back on eating fried foods in order to improve my cholesterol._  
@@ -1217,7 +1236,7 @@ __cut from the same cloth__ :four: To be very similar.
 __cut from whole cloth__ :two: Entirely fictional or utterly false; completely fabricated and not based on reality at all. A reference to tailors who would falsely advertise garments being made “out of whole cloth,” when, in reality, they were pieced together from different cuts. _To be honest, I don’t believe a word he says—it sounds like it’s cut from whole cloth to me._  
 __cut it close__ :two: To do or complete something very near to its limit, especially of time. _We’ll be cutting it close, but we should get there just before the movie starts._  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
-__cut it__ :two::hammer: _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
+__cut it__ :three::hammer: _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut out__ _Cutting out the negative influences._  
 __cut someone or something off (short)__  
