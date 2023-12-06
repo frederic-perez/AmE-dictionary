@@ -1,7 +1,14 @@
+__a crock of shit__ _rude slang_ Something that is false or ridiculous. _He never came, so his promise to help us was a crock of shit!_ _Oh, that rumor is a crock of shit._  
+__built to last__ Used to describe something that is durable, of high quality, and expected to serve for a long time.  
+__chafe at (something)__ To feel or express annoyance in response to something. _Bruce chafed at the idea that the new hire he was training made more money than him._  
+__change up__  
 __darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
+__Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
 __deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
 __deus ex machina__ __2__ By extension, some narrative element that concludes the story or resolves a conflict in a way that seems too contrived and convenient to be believable.  
 __dig deep__  
+__dipshit__  
+__ditz__ /dɪts/ _n_ _slang chiefly US_ A silly scatterbrained person.  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
 __doom and gloom__ (A situation) characterized by negativity or futility.  
@@ -9,16 +16,22 @@ __drop the ball__
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __egghead__ _slang_ A derogatory term for an intelligent, studious person.  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
+__figure someone or something out__ To begin to comprehend someone or something; to come to understand someone or something better. _I just can’t figure you out._  
+__fink on (someone)__ To report someone’s misdeeds to an authority figure. _The gang was determined to find the traitor who finked on them to the police._  
 __flatline__ _slang_ To die or come very close to death.  
 __fly high__  
+__for no good reason__ With no acceptable explanation. _She left for no good reason._  
 __for what it’s worth__  
 __from bad to worse__  
+__gab__ __1__ _v_ To talk or chat. _Geez, she’s been gabbing on the phone to her friend for an hour already._ __2__ _n_ Inane talk or gossip. _Don’t pay attention to what they’re saying—it’s all stupid gab._  
 __game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __get (someone or something) out of (one’s) head__ To make an effort to forget or stop thinking about someone or something.  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
 __get into (someone or something)__  
 __get someone’s goat__ _informal_ If someone or something gets your goat, they annoy you.  
+__get the picture__ To understand the real or overall meaning of a situation, without the need for further explanation. _OK, I get the picture. I’ll start looking for somewhere else to stay._  
 __give back__  
+__grok__  
 __gunk__ __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
 __half-wit__ An insulting term for person who is not very smart.  
 __hambone__ _n_ __1__ A second-rate actor. __2__ A second-rate performance. __3__ A show-off.  
@@ -69,17 +82,24 @@ __head up__
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
+__inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read this book inside out again and again, but I still enjoy it every time._  
+__jamoke__  
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
 __light on (one’s) feet__  
+__long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
+__loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
-__make (one’s)/the rounds__  
+__make (one’s)/the rounds__ :two::hammer:  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
+__mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
 __neck and neck__  
 __nerve-wracking__ Causing fear or anxiety.  
 __nest egg__  
 __nitpicker__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
+__noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
@@ -88,11 +108,14 @@ __of late__
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __on (one’s) own__  
 __on a roll__  
+__on and on__  
 __on point__  
+__on record__ __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on that note__  
 __on the horizon__  
 __open season (on someone or something)__  
 __out of whack__  
+__oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
 __pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
 __pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
 __pave the way (for someone or something)__  
@@ -110,6 +133,7 @@ __pricey__ Moderately expensive.
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
+__pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push up the daisies__  
 __pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
 __put (one) off (something)__  
@@ -135,8 +159,10 @@ __put upon__
 __putzo__  
 __quick buck__  
 __radio silence__  
+__rain check__  
 __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
 __raise the stakes__  
+__rake in (something)__ To acquire or accumulate an abundance of something, especially money.  
 __ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
 __rat race__  
@@ -145,6 +171,7 @@ __rave about (something)__ To give wildly enthusiastic praise for something.
 __red line__  
 __refrain from (doing something)__ To make a considered, conscious effort not to do something.  
 __regardless of (something)__  
+__riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
 __ripple effect__  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
@@ -162,10 +189,14 @@ __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this u
 __scruff(y)__  
 __sell like hot cakes__  
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
+__simply put__  
 __six ways from (next) Sunday__ Askew, at an angle.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
+__skate__  
 __sneak peek__  
+__snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __speak with a forked tongue__  
+__spill__ :dart: _informal_ To disclose or divulge (something).  
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __stand by__  
 __status quo__ :mega: /kwoʊ/  
@@ -173,10 +204,17 @@ __stick (one’s) tongue out__
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __swear by (someone or something)__  
+__switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __take a deep breath__  
 __take aim (at someone or something)__  
+__talk the talk__  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
+__trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __twisted__  
+__walk the walk__  
 __walk through__  
+__warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
+__with flying colors__  
 __wrack (one’s) brain(s)__  
+__XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
