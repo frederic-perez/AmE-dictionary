@@ -33,6 +33,7 @@ __CFL__ _Compact fluorescent lamp._
 __CIA__ Central Intelligence Agency _(US government)_.  
 __CID__  
 __CO__ Carbon monoxide, “the silent killer.”  
+__COO__  
 __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).  
 __COVID__ Short for coronavirus disease.  
 __CP__ :two: __5__ Communist Party.  

@@ -1,14 +1,21 @@
 __agency__ _n_ __3__ The state of being in action or exerting power. _She has free agency._  
+__aghast__ _adj_ Struck by shock, terror, or amazement.  
 __Alabama__ _n_ :mega:  
 __anecdotal__ _adj_ :mega:  
 __argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
 __ascribe__ _v tr_  
+__asunder__ _adv_  
+__Beatles__ _n_ The word “Beatles” is a blend of “beat” and “beetles.” It was originally spelled “Beatals,” punningly referencing the expression “beat all” and later altered to “Beatles.”  
+__beseech__ _v tr_  
 __blueprint__ _n_  
+__boocoo__  
 __buy in__ _v_  
 __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __cavort__  
+__cell__ _n_ :two: __5__ The smallest organizational unit of a clandestine group or movement, such as a banned political movement or a terrorist group. A cell’s leader is often the only person who knows members of the organization outside the cell. _A Communist cell._  
 __citadel__ _n_  
 __commonplace__ _adj, n_  
+__compunction__ _n_ :es: escrúpulo  
 __conformance__ _n_ /kənˈfɔr məns/ Conformity.  
 __contextualize__ _v tr_  
 __covenant__ _n_  
@@ -24,6 +31,7 @@ __cut-off date__ _n_
 __debt__ _n_ :mega:  
 __deliverance__ _n_  
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
+__den mother__ _n_ __2__ Someone who plays the role of a den mother. _He serves as den mother to all the freshmen in this dormitory._  
 __denervation__ _n_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __despondent__ _adj_  
@@ -58,11 +66,15 @@ __escalation__
 __eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
 __evince__ _v tr_  
 __exposé__ _n_ :astonished: __1__ An exposure or a revelation of something discreditable. __2__ A formal exposition of facts.  
+__fail-safe__  
+__fallback__  
+__fanfare__  
 __festoon<sup>1</sup>__ _n_  
 __festoon<sup>2</sup>__ _v tr_  
 __fib__ _v_  
 __flounder__ _v intr_ __1__ To struggle; to move with difficulty, as in mud. __2__ To behave awkwardly; make mistakes.  
 __flummox__ _v_  
+__footstool__ _n_  
 __gale__ _n_  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
 __genus__ _n_ /ˈdʒi nəs/  
@@ -72,6 +84,8 @@ __hassle__ _n_
 __havoc__ _n, v_ :mega: /ˈhæv ək/  
 __hogwash__ _n_  
 __host__ _n_ __2__ A great number; a multitude. _A host of tchniques._  
+__humbug<sup>1</sup>__ _n_ :dart:  
+__humbug<sup>2</sup>__ _v_ :dart: To cheat or deceive (someone).  
 __inordinate__ _adj_ /in-OR-dun-ut/  
 __junction__ _n_ A place where roads meet.  
 __juncture__ _n_ A point in time.  
@@ -80,6 +94,8 @@ __list price__ _n_
 __literate__ _adj_ __1b__ Knowledgeable or educated in a particular field or fields.  
 __long-lasting__ _adj_  
 __luscious__  
+__madcap<sup>1</sup>__ _adj_ Behaving or acting impulsively or rashly; wild.  
+__madcap<sup>2</sup>__ _n_  
 __maelstrom__ _n_ /MAIL-strum/  
 __marksmanship__ _n_ Skill in shooting.  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
@@ -108,6 +124,7 @@ __off label__
 __offset__ _v_  
 __ogre__ _n_  
 __one-stop shop__ _n_  
+__onslaught__ _n_  
 __onus__ _n_  
 __opportunistic__  
 __osprey__ _n_  
@@ -135,6 +152,7 @@ __pester__ _v tr_
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
+__pillory__ _v tr_ (pilloried)  
 __pit<sup>1</sup>__ _n_  
 __pit<sup>2</sup>__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _They pit two neural networks against each other._  
 __pit<sup>3</sup>__ _v intr_  
@@ -142,6 +160,7 @@ __playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.
 __plaza__ _n_ :mega:  
 __plodder__ _n_  
 __plodding__ _adj_  
+__pogrom__ _n_  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
 __pry__ _v_  
@@ -160,6 +179,7 @@ __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The
 __repercussion__ _n_  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
 __run sheet__  
+__running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __sanity check__  
 __sate__ _v tr_  
 __schizophrenic__ _adj, n_  
@@ -185,7 +205,7 @@ __seersuckers__ _n_
 __seesaw__  
 __seething__ _adj_  
 __seize__ _v_ _Students with the growth mindset seized the chance._  
-__self-absorbed__  
+__self-absorbed__ _adj_ :two::hammer:  
 __senility__ _n_  
 __sepsis__ _n_  
 __sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
@@ -217,16 +237,18 @@ __singsong<sup>2</sup>__ _n_
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
+__six-figure__ _adj_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __smithereens__  
+__sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __stem__ _v_  
 __stenos__  
 __stenotic__ _adj_ _Stenotic burden._  
 __stentorian__  
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
-__stepwise__ _adj_ _An optimal stepwise upgrade strategy._  
+__stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._  
 __stereophony__  
 __sternutation__  
 __Stetson__  
