@@ -1,33 +1,3 @@
-__agency__ _n_ __3__ The state of being in action or exerting power. _She has free agency._  
-__aghast__ _adj_ Struck by shock, terror, or amazement.  
-__Alabama__ _n_ :mega:  
-__anecdotal__ _adj_ :mega:  
-__argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
-__ascribe__ _v tr_  
-__asunder__ _adv_  
-__Beatles__ _n_ The word “Beatles” is a blend of “beat” and “beetles.” It was originally spelled “Beatals,” punningly referencing the expression “beat all” and later altered to “Beatles.”  
-__beseech__ _v tr_  
-__blueprint__ _n_  
-__boocoo__  
-__buy in__ _v_  
-__Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
-__cavort__  
-__cell__ _n_ :two: __5__ The smallest organizational unit of a clandestine group or movement, such as a banned political movement or a terrorist group. A cell’s leader is often the only person who knows members of the organization outside the cell. _A Communist cell._  
-__citadel__ _n_  
-__commonplace__ _adj, n_  
-__compunction__ _n_ :es: escrúpulo  
-__conformance__ _n_ /kənˈfɔr məns/ Conformity.  
-__contextualize__ _v tr_  
-__covenant__ _n_  
-__cram__ _v_  
-__crapula__  
-__crapulent__  
-__cripple__ _v tr_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
-__crisp__ _adj_  
-__crook__  
-__crux__ _n_ :dart: __1__ The basic, central, or critical point or feature: _the crux of the matter; the crux of an argument._ _That’s the crux oh how LLMs work._  
-__cryptanalyst__ _n_ :pencil2:  
-__cut-off date__ _n_  
 __debt__ _n_ :mega:  
 __deliverance__ _n_  
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  

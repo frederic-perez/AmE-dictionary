@@ -325,7 +325,7 @@ __aggravation__
 __aggravator__ _n_ An unpleasant person who is annoying or exasperating.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aggro__ _n_ :three::hammer:  
-__aghast__ _adj_ :nine: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
+__aghast__ _adj_ :nine::m: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitation__ _n_ __1__ A state of excitement, disturbance, or worry.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
@@ -383,6 +383,7 @@ __akin__ _adj_ :seven::mega: __1__ Related by blood; of the same kin. __2__ (oft
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__ _adj, adv_ :two::hammer:  
 __Al-Anon__  
+__Alabama__ _n_ :mega:  
 __alabaster__  
 __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
@@ -573,7 +574,7 @@ __andirons__
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotage__ _n_  
-__anecdotal__ _adj_ :mega:  
+__anecdotal__ _adj_ :two::hammer::mega:  
 __anecdotally__  
 __anecdote__ _n_ :two: An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
@@ -813,6 +814,7 @@ __argonaut__
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
 __arguably__ _adv_ :five::hammer:  
 __argue__ _v_  
+__argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :two::mega::hammer:  
@@ -875,7 +877,7 @@ __ascetic<sup>1</sup>__ _n_ :three: /uh-SET-ik/ A person who renounces material 
 __ascetic<sup>2</sup>__ _adj_  
 __asceticism__ _n_  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :nine::m: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
+__ascribe__ _v tr_ :nine::m: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __asexual__ _adj_  
 __ash borer__ _n_ _Emerald ash borers._  
@@ -942,7 +944,7 @@ __astringent__
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
 __astute__ _adj_ :two::hammer: /uh-STOOT/  
-__asunder__ _adj, adv_ :six: /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.” _A world torn asunder by evil and hate._  
+__asunder__ _adj, adv_ :seven: /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.” _A world torn asunder by evil and hate._  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
@@ -1380,6 +1382,7 @@ __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affec
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __beatitude__ _n_ Supreme blessedness or happiness. _Syn_ blessedness, beatification  
+__Beatles__ _n_ The word “Beatles” is a blend of “beat” and “beetles.” It was originally spelled “Beatals,” punningly referencing the expression “beat all” and later altered to “Beatles.”  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beauteous__ _adj_ Beautiful, especially to the sight.  
 __beaver__ _n_  
@@ -1532,7 +1535,7 @@ __berserk__ _adj_ :nine::m: /ber-SERK/ (usually used in the phrase “go berserk
 __berserkers__ _n_ :two::hammer:  
 __berth<sup>1</sup>__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
 __berth<sup>2</sup>__ _v_  
-__beseech__ _v_ :eight: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__beseech__ _v tr_ :nine: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :nine::m: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
@@ -1840,7 +1843,7 @@ __bluebell__ _n_
 __bluegill__  
 __bluegrass__  
 __bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
-__blueprint__ _n_ :eight: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
+__blueprint__ _n_ :nine: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
 __bluff<sup>1</sup>__ _v_ :four::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :four::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has.  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
@@ -1945,6 +1948,7 @@ __boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_ :three::hammer:  
 __booby-trapped 105’s__  
+__boocoo__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_  
@@ -2498,6 +2502,7 @@ __buttress<sup>2</sup>__ _v_ :six: (buttressed) Increase the strength of or just
 __buttwipes__ _n_  
 __butyraceous__ _adj_ Of, containing, or resembling butter.  
 __buxom__  
+__buy in__ _v_  
 __buy out__ _v_  
 __buy__ _v_ __5__ _informal_ To accept the truth or feasibility of: _The officer didn’t buy my lame excuse for speeding._ _I didn’t buy his explanations._  
 __buy-in__ _n_ :three: Acceptance of and willingness to actively support and participate in something (such as a proposed new plan or policy). _Without buy-in from his troops, Gruden’s just another tuned-out coach._ _He has tried different tactics to accelerate the buy-in._  
@@ -2662,6 +2667,7 @@ __canapé__ _n_
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
 __canasta__ _n_  
+__Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
 __candelabrum__ _n_  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
@@ -2920,7 +2926,7 @@ __cave__ _v_ :six: (caved) Short for cave in below. _The tunnel walls cave in._ 
 __caveat emptor__  
 __caveat__ _n_ :four::hammer:  
 __cavity__ _n_ :es: caries  
-__cavort__ _v intr_ :seven::hammer: (cavorted, cavorting) _Animals cavorting._  
+__cavort__ _v intr_ :eight::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
@@ -2934,6 +2940,7 @@ __celeriac__ _n_
 __celerity__ _n_ /suh-LAIR-uh-tee/ Celerity is a formal word that means “swiftness of motion or action.” _When the developers’ intentions became clear, the community came together with celerity to preserve the town’s beloved wetlands for future generations._  
 __celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __celibacy__ _n_  
+__cell__ _n_ :two: __5__ The smallest organizational unit of a clandestine group or movement, such as a banned political movement or a terrorist group. A cell’s leader is often the only person who knows members of the organization outside the cell. _A Communist cell._  
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
@@ -3278,7 +3285,7 @@ __circus__ _n_ [:scroll: Middle English, _round arena_, from Latin, _circus_, _c
 __cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
 __cistern__ _n_ :three::hammer: _More than a hundred households depend on cisterns and wells._  
-__citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
+__citadel__ _n_ :three::hammer: _This glass citadel of capitalism._  
 __citizenry__  
 __citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
 __City__ _n_ :two: Short for City of London.  
@@ -3637,7 +3644,7 @@ __commodity__ _n_ :two::hammer: _Communication on a commodity cluster._
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ :three::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
-__commonplace__ _adj, n_  
+__commonplace__ _adj, n_ :two::hammer:  
 __commonwealth__ _n_ :three: __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
 __commotion__ _n_  
 __communal__ _adj_ _The communal bathroom is down the hall._  
@@ -3689,7 +3696,7 @@ __comptroller__ _n_ :four: Variant of controller, used _esp_ as a title of any o
 __compulsive__ _adj_ _Compulsive thoughts._  
 __compulsory school__  
 __compulsory__ _adj_ :nine::m: /kəmˈpʌlsərɪ/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
-__compunction__ _n_ :three: A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach  
+__compunction__ _n_ :four: A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach :es: escrúpulo  
 __compurgator__ _n_  
 __compute<sup>1</sup>__ _n_  
 __compute<sup>2</sup>__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
@@ -3766,6 +3773,7 @@ __conflate__ _v tr_ :six: Mix together different elements. _Syn_ coalesce, fuse,
 __conflation__  
 __confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conform__ _v_  
+__conformance__ _n_ /kənˈfɔr məns/ Conformity.  
 __conforming__ _adj_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
@@ -3863,7 +3871,7 @@ __contentment__ _n_
 __contestation__ _n_ Controversy, debate.  
 __contested shot__ _n_ (vs uncontested shot)  
 __contextual__  
-__contextualize__ _v_ :dart::four:  
+__contextualize__ _v tr_ :dart::five:  
 __contiguous > the contiguous U.S.__  
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __continence__ _n_ :two::hammer:  
@@ -4069,7 +4077,7 @@ __courteous__ _adj_ _Remember it is courtesous to tip your driver for their serv
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __courtyard__ _n_ :three::hammer: :es: patio  
 __coven__ _n_ An assembly or community of witches who meet regularly.  
-__covenant__ _n_ :seven: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
+__covenant__ _n_ :eight: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
@@ -4136,7 +4144,8 @@ __crank<sup>1</sup>__ _n_ :six::hammer: __1__ A device for transmitting rotary m
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
-__crapula__ _n_ :two: (obsolete or literary) Sickness or indisposition caused by excessive eating or drinking.  
+__crapula__ _n_ :three: (obsolete or literary) Sickness or indisposition caused by excessive eating or drinking.  
+__crapulent__  
 __crapulous__ _adj_ :five: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash blossom__ _n_ An ambiguously worded news headline that can have a confusing or humorous interpretation. Crash blossom examples: Doctors Help Bee Sting Victims, Dead Man Remains Discovered by Police.  
 __crash course__  
@@ -4199,8 +4208,9 @@ __cringe__ _v_ :nine::m: (cringed) __1__ To shrink back, as in fear; cower. _I c
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__ _adv_  
+__cripple__ _v tr_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp<sup>1</sup>__ _adj_ :nine::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._ _A crisp young guy._  
+__crisp<sup>1</sup>__ _adj_ :nine::m::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._ _A crisp young guy._  
 __crisp<sup>2</sup>__ _v_  
 __crisp<sup>3</sup>__ _n_  
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
@@ -4227,7 +4237,7 @@ __cronies__ _n_ :four::hammer: _Military cronies._
 __Cronuts__ _n_ _trademark_  
 __crony__ _n_ :four: A close friend or companion.  
 __cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
-__crook__ _n_ :six::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
+__crook__ _n_ :seven::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
 __crop__ _n_ _He had a riding crop in one hand._  
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
@@ -4295,11 +4305,12 @@ __crush<sup>1</sup>__ _v_ _I was crushed._
 __crush<sup>2</sup>__ _n_ :two: __4__ _informal_ __a__ A usually temporary infatuation: _had a crush on her friend’s cousin._ __b__ One who is the object of such an infatuation.  
 __crusty__ _adj_ :two::hammer: _The judge was crusty._  
 __crutch__ _n_ :six::hammer: _Diabetes isn’t a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
-__crux__ _n_ :five: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
+__crux__ _n_ :dart::six: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. The basic, central, or critical point or feature: _the crux of the matter; the crux of an argument._ _That’s the crux oh how LLMs work._ _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn’t due._  
 __crybaby__ _n_ :dart::three: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
 __cryotherapy__  
+__cryptanalyst__ _n_ :pencil2:  
 __cryptic__ _adj_  
 __cryptography__ _n_ /krip-TAH-gruh-fee/  
 __cryptojacking__  
@@ -4397,6 +4408,7 @@ __cut me a little slack__
 __cut shot__ _n_ A type of shot in several sports.  
 __cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
 __cut-and-dry task__  
+__cut-off date__ _n_  
 __cutdown__ _n_ __2__ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
