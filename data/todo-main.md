@@ -1,7 +1,15 @@
+__agency__ _n_ __3__ The state of being in action or exerting power. _She has free agency._  
+__Alabama__ _n_ :mega:  
+__anecdotal__ _adj_ :mega:  
+__argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
+__ascribe__ _v tr_  
+__blueprint__ _n_  
 __buy in__ _v_  
 __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
 __cavort__  
 __citadel__ _n_  
+__commonplace__ _adj, n_  
+__conformance__ _n_ /kənˈfɔr məns/ Conformity.  
 __contextualize__ _v tr_  
 __covenant__ _n_  
 __cram__ _v_  
@@ -10,6 +18,10 @@ __crapulent__
 __cripple__ _v tr_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
 __crisp__ _adj_  
 __crook__  
+__crux__ _n_ :dart: __1__ The basic, central, or critical point or feature: _the crux of the matter; the crux of an argument._ _That’s the crux oh how LLMs work._  
+__cryptanalyst__ _n_ :pencil2:  
+__cut-off date__ _n_  
+__debt__ _n_ :mega:  
 __deliverance__ _n_  
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __denervation__ _n_  
@@ -18,13 +30,17 @@ __despondent__ _adj_
 __deterrent__ _adj, n_  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
 __dipstick__ _n_  
+__discord<sup>1</sup>__ _n_ /ˈdɪs kɔrd/  
+__discord<sup>2</sup>__ _v intr_ /dɪsˈkɔrd/ To fail to agree or harmonize; clash.  
 __disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/  
 __divest__ _v tr_ /daɪˈvɛst/  
+__dog-eared__ _adj_ __2__ Shabby or worn. _Ryan Holiday takes dog-eared copies of his books as praise._  
 __eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
 __emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
+__emir__ _n_ /əˈmɪər, eɪˈmɪər/ __1__ A prince, commander, or head of state in some Islamic countries.  
 __emollient__  
 __emote__ _adj_  
 __empirical__ _adj_ /im-PEER-uh-kul/  
@@ -72,6 +88,7 @@ __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __mirth__ _n_  
 __misnomer__ _n_  
+__misread__ _v tr_ 2. To misinterpret or misunderstand: _misread our friendly concern as prying._  
 __misspend__ _v tr_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
@@ -90,8 +107,10 @@ __o’clock__ _adv_ Short for _of the clock._
 __off label__  
 __offset__ _v_  
 __ogre__ _n_  
+__one-stop shop__ _n_  
 __onus__ _n_  
 __opportunistic__  
+__osprey__ _n_  
 __otitis__ _n_  
 __ottter__ _n_  
 __out-of-pocket__  
@@ -116,6 +135,9 @@ __pester__ _v tr_
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
+__pit<sup>1</sup>__ _n_  
+__pit<sup>2</sup>__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _They pit two neural networks against each other._  
+__pit<sup>3</sup>__ _v intr_  
 __playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.  
 __plaza__ _n_ :mega:  
 __plodder__ _n_  
@@ -133,8 +155,10 @@ __radio__ _v_ _He never even thought to radio for help._
 __rampant__ _adj_  
 __ransom__ _n_  
 __rapture__ _v_  
+__recidivism__ _n_  
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __repercussion__ _n_  
+__resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
 __run sheet__  
 __sanity check__  
 __sate__ _v tr_  
@@ -214,6 +238,7 @@ __strait__ _n_
 __strife__ _n_  
 __stuffing__ _n_  
 __suborn__ _v tr_  
+__subsequent__ _adj_ Following in time or order; succeeding.  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
