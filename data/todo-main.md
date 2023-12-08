@@ -1,28 +1,3 @@
-__afterimage__ _n_  
-__boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
-__Byzantine__ _adj_  
-__chagrin__ _n_  
-__chant__ _v_  
-__conscription__ _n_  
-__dart__ _v_  
-__debt__ _n_ :mega:  
-__deliverance__ _n_  
-__demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
-__den mother__ _n_ __2__ Someone who plays the role of a den mother. _He serves as den mother to all the freshmen in this dormitory._  
-__denervation__ _n_  
-__deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
-__despondent__ _adj_  
-__deterrent__ _adj, n_ :two::hammer:  
-__diligent__ _adj_ Marked by persevering, painstaking effort.  
-__dipstick__ _n_  
-__discord<sup>1</sup>__ _n_ /ˈdɪs kɔrd/  
-__discord<sup>2</sup>__ _v intr_ /dɪsˈkɔrd/ To fail to agree or harmonize; clash.  
-__disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/  
-__disinterest<sup>1</sup>__ _n_  
-__disinterest<sup>2</sup>__ _v tr_  
-__divest__ _v tr_ /daɪˈvɛst/  
-__dog-eared__ _adj_ __2__ Shabby or worn. _Ryan Holiday takes dog-eared copies of his books as praise._  
-__early adopter__ _n_ One of the first people or organizations to make use of a new technology.  
 __eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
