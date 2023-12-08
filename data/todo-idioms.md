@@ -1,9 +1,19 @@
+__(only) time will tell__  
 __a crock of shit__ _rude slang_ Something that is false or ridiculous. _He never came, so his promise to help us was a crock of shit!_ _Oh, that rumor is a crock of shit._  
+__a motor mouth__ A person who talks incessantly or irrepressibly.  
+__B-girl__ _n_ A woman who is employed by a bar to encourage customers to spend money freely. Oh, boy, we’re really getting into the 1940s slang now! A “B-girl“ was a type of female hustler who would hang out in bars and nightclubs, often working for the bar owners or managers.  
+__banner year__  
+__better late than never__  
+__bop__ _The term “Christmas bops” refers to songs that are upbeat, festive and have a fun, catchy tune._  
 __built to last__ Used to describe something that is durable, of high quality, and expected to serve for a long time.  
+__by the lube rack__ In James Ellroy’s novels, “by the lube rack” is a bit of slang that refers to a location where people gather to do shady or illicit activities. It could be a specific place where drug deals are made, or where prostitutes meet with their clients, for example.  
 __chafe at (something)__ To feel or express annoyance in response to something. _Bruce chafed at the idea that the new hire he was training made more money than him._  
 __change up__  
+__cornhole__ __2__ _n_ _slang_ The anus. _Some jokester on the team poked Todd in the cornhole after practice._  
 __darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
 __Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
+__day to day__ __1__ Continuously, without interruption, on a daily basis. _Running this office day to day is not an easy task._  
+__day-to-day__ __1__ Daily; regularly occurring. _And you will oversee the company’s day-to-day operations while I’m traveling._ _The majority of Americans aren’t using AI day-to-day._  
 __deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
 __deus ex machina__ __2__ By extension, some narrative element that concludes the story or resolves a conflict in a way that seems too contrived and convenient to be believable.  
 __dig deep__  
@@ -11,15 +21,19 @@ __dipshit__
 __ditz__ /dɪts/ _n_ _slang chiefly US_ A silly scatterbrained person.  
 __do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
+__doofus__ _slang_ One who is stupid or foolish.  
 __doom and gloom__ (A situation) characterized by negativity or futility.  
 __drop the ball__  
+__dupe__  
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __egghead__ _slang_ A derogatory term for an intelligent, studious person.  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
 __figure someone or something out__ To begin to comprehend someone or something; to come to understand someone or something better. _I just can’t figure you out._  
+__fine-tune__  
 __fink on (someone)__ To report someone’s misdeeds to an authority figure. _The gang was determined to find the traitor who finked on them to the police._  
 __flatline__ _slang_ To die or come very close to death.  
 __fly high__  
+__for certain__ Definitely.  
 __for no good reason__ With no acceptable explanation. _She left for no good reason._  
 __for what it’s worth__  
 __from bad to worse__  
@@ -31,6 +45,9 @@ __get into (someone or something)__
 __get someone’s goat__ _informal_ If someone or something gets your goat, they annoy you.  
 __get the picture__ To understand the real or overall meaning of a situation, without the need for further explanation. _OK, I get the picture. I’ll start looking for somewhere else to stay._  
 __give back__  
+__glom__ __1__ _v tr_ To steal something. (Underworld.) _He gloms just about everything he needs._ __2__ _v tr_ To take a look at someone or something. (Underworld.) _Come over here and glom the view of the bank from this window._ __3__ _v tr_ To arrest someone. _The copper glommed Fred on Tuesday._  
+__glommed__ _slang_ Arrested. _Dude, I hear sirens—we’re gonna get glommed if we stay here any longer!_  
+__grifter__ Someone who swindles other people.  
 __grok__  
 __gunk__ __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
 __half-wit__ An insulting term for person who is not very smart.  
@@ -41,6 +58,7 @@ __have (one’s) head in the sand__ To refuse to acknowledge or deal with proble
 __have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
 __have (something) on__ To be busy or engaged with something; to have plans to do something at a particular point in time. _I’’’ve got a few things on at the moment, but business has been pretty slow overall._  
+__have (the) first crack at (something)__ To have the first chance to do something.  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
@@ -83,14 +101,20 @@ __head-to-toe__
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
+__hophead__ _Tom hates hopheads and jailbait jumpers._  
+__hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—the kids are hot to trot._ __2__ Sexually arousing or aroused. _If you think he’s so hot to trot, why don’t you ask him out?_  
+__in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
 __inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read this book inside out again and again, but I still enjoy it every time._  
+__jailbait__ Someone who is attractive but younger than the legal age of consent. _Tom hates hopheads and jailbait jumpers._  
 __jamoke__  
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
+__lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __light on (one’s) feet__  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
 __make (one’s)/the rounds__ :two::hammer:  
+__Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
@@ -106,6 +130,7 @@ __nothing but a__ The idiom “nothing but a” is used to emphasize that someth
 __nothing but__  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
+__okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
 __on (one’s) own__  
 __on a roll__  
 __on and on__  
@@ -121,6 +146,7 @@ __pass the buck__ To shift or reassign the blame or responsibility (for somethin
 __pave the way (for someone or something)__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
 __peeps__  
+__plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __play around__  
 __play with fire__  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
@@ -156,7 +182,7 @@ __put up a fight__
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. _I don’t know how you put up with John—he’s such a loudmouth!_  
 __put up with something__  
 __put upon__  
-__putzo__  
+__putzo__ :two::hammer:  
 __quick buck__  
 __radio silence__  
 __rain check__  
@@ -184,6 +210,7 @@ __round something out__
 __roundhouse__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
+__rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __scoop__  
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
@@ -206,15 +233,19 @@ __stir the pot__ To exacerbate a tense or otherwise difficult situation.
 __swear by (someone or something)__  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
+__take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take a deep breath__  
 __take aim (at someone or something)__  
 __talk the talk__  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __twisted__  
+__under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __walk the walk__  
 __walk through__  
+__war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
 __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
 __with flying colors__  
 __wrack (one’s) brain(s)__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
+__zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
