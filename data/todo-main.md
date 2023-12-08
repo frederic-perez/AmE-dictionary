@@ -1,3 +1,10 @@
+__afterimage__ _n_  
+__boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
+__Byzantine__ _adj_  
+__chagrin__ _n_  
+__chant__ _v_  
+__conscription__ _n_  
+__dart__ _v_  
 __debt__ _n_ :mega:  
 __deliverance__ _n_  
 __demonize__ _v tr_ __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
@@ -5,14 +12,17 @@ __den mother__ _n_ __2__ Someone who plays the role of a den mother. _He serves 
 __denervation__ _n_  
 __deponent__ _n_ A person who testifies or gives a deposition. _Syn_ testifier  
 __despondent__ _adj_  
-__deterrent__ _adj, n_  
+__deterrent__ _adj, n_ :two::hammer:  
 __diligent__ _adj_ Marked by persevering, painstaking effort.  
 __dipstick__ _n_  
 __discord<sup>1</sup>__ _n_ /ˈdɪs kɔrd/  
 __discord<sup>2</sup>__ _v intr_ /dɪsˈkɔrd/ To fail to agree or harmonize; clash.  
 __disheartening__ _adj_ /dɪsˈhɑːtənɪŋ/  
+__disinterest<sup>1</sup>__ _n_  
+__disinterest<sup>2</sup>__ _v tr_  
 __divest__ _v tr_ /daɪˈvɛst/  
 __dog-eared__ _adj_ __2__ Shabby or worn. _Ryan Holiday takes dog-eared copies of his books as praise._  
+__early adopter__ _n_ One of the first people or organizations to make use of a new technology.  
 __eldritch__ _adj_ /EL-dritch/  
 __elicit__ _v_ _Syn_  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
@@ -39,9 +49,11 @@ __exposé__ _n_ :astonished: __1__ An exposure or a revelation of something disc
 __fail-safe__  
 __fallback__  
 __fanfare__  
+__fashion__ _v tr_  
 __festoon<sup>1</sup>__ _n_  
 __festoon<sup>2</sup>__ _v tr_  
 __fib__ _v_  
+__fine-tune__  
 __flounder__ _v intr_ __1__ To struggle; to move with difficulty, as in mud. __2__ To behave awkwardly; make mistakes.  
 __flummox__ _v_  
 __footstool__ _n_  
@@ -50,16 +62,19 @@ __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurea
 __genus__ _n_ /ˈdʒi nəs/  
 __grueling__ _adj_  
 __handler__ _n_ __1__ (Law) A person, esp a police officer, in charge of a specially trained dog.  
-__hassle__ _n_  
+__hassle__ _n, v_ :two::hammer:  
 __havoc__ _n, v_ :mega: /ˈhæv ək/  
 __hogwash__ _n_  
 __host__ _n_ __2__ A great number; a multitude. _A host of tchniques._  
 __humbug<sup>1</sup>__ _n_ :dart:  
 __humbug<sup>2</sup>__ _v_ :dart: To cheat or deceive (someone).  
+__initiative__  
 __inordinate__ _adj_ /in-OR-dun-ut/  
 __junction__ _n_ A place where roads meet.  
 __juncture__ _n_ A point in time.  
 __kerfuffle__  
+__lapdog__ _n_  
+__larceny__ _n_  
 __list price__ _n_  
 __literate__ _adj_ __1b__ Knowledgeable or educated in a particular field or fields.  
 __long-lasting__ _adj_  
@@ -102,6 +117,8 @@ __otitis__ _n_
 __ottter__ _n_  
 __out-of-pocket__  
 __outage__ _n_  
+__overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
+__overly__  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
@@ -116,6 +133,7 @@ __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marke
 __pamper__ _v_  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __paraplegia__ _n_  
+__pelt__ _n_  
 __people pleaser__ _n_  
 __peruse__ _v tr_  
 __pester__ _v tr_  
@@ -211,6 +229,7 @@ __six-figure__ _adj_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __smithereens__  
+__snarky__ _adj_ _informal_ Unpleasant and scornful.  
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __stem__ _v_  
 __stenos__  
@@ -226,6 +245,7 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
+__stoke__ _v_  
 __strait__ _n_  
 __strife__ _n_  
 __stuffing__ _n_  
@@ -250,6 +270,7 @@ __testy__ _adj_
 __that much__ _adv_ To a certain degree.  
 __thence__ _adv_  
 __thicket__  
+__thistle__ _n_ :es: cardo  
 __thrash__ _v_  
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
 __threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  

@@ -13,6 +13,7 @@ __ACL__ Anterior cruciate ligament.
 __ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __ADD__ Attention deficit disorder.  
 __ADHD__ :three: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
+__ASMR__ Autonomous sensory meridian response. This term refers to a tingling sensation often accompanied by a calming, pleasurable feeling.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BAE__ Beautiful and elegant.  
@@ -33,7 +34,7 @@ __CFL__ _Compact fluorescent lamp._
 __CIA__ Central Intelligence Agency _(US government)_.  
 __CID__  
 __CO__ Carbon monoxide, “the silent killer.”  
-__COO__  
+__COO__ :two: Chief operating officer.  
 __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).  
 __COVID__ Short for coronavirus disease.  
 __CP__ :two: __5__ Communist Party.  

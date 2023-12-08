@@ -9,6 +9,7 @@ __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate 
 __bejesus__ (bejeezus) Used to express exasperation, annoyance, or surprise.  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __blech__ _slang_ An imitation of the sound of gagging, used to express disgust or disdain. _Blech! Look at all those maggots!_  
+__boo-hoo__ A word used in comic books or children’s stories to show that someone is crying.  
 __boo<sup>2</sup>__  
 __boom__ :two::hammer:  
 __bosh__ :two::hammer: _Oh, bosh._  
