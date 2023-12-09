@@ -54,7 +54,7 @@ __(one’s) other half__ One’s spouse, romantic partner, or boyfriend/girlfrie
 __(one’s) secret weapon__  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ :two: One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
-__(only) time will tell__  
+__(only) time will tell__ :two::hammer:  
 __(right) from the off__ _He knew it from the off._  
 __(right) here and now__ At this exact place and point in time; right now.  
 __(someone’s or something’s) days are numbered__ :two::hammer:  
@@ -98,6 +98,7 @@ __a brick short of a load__
 __a bridge too far__ _cliché_ An act or plan whose ambition overreaches its capability, resulting in or potentially leading to difficulty or failure. Taken from the 1974 book _A Bridge Too Far_ by Cornelius Ryan, which details the Allies’ disastrous attempts to capture German-controlled bridges in the Netherlands during World War II. _The multi-million-dollar purchase of the small startup proved a bridge too far for the social media company, as the added revenue couldn’t make up for the cost in the end._  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a change is as good as a rest__ A change in one’s work can be as beneficial and revitalizing as taking a break. Primarily heard in US. _I’m hoping that starting on this new career path will help me to find joy in my work again—after all, a change is as good as a rest._  
+__a crock of shit__ _rude slang_ Something that is false or ridiculous. _He never came, so his promise to help us was a crock of shit!_ _Oh, that rumor is a crock of shit._  
 __a cross to bear__  
 __a cry for help__  
 __a cut above the rest__ :two: Better in quality than most others. _This new restaurant is a cut above the rest._  
@@ -173,7 +174,7 @@ __a mixed picture__ :two: A portrayal of a situation highlighting both positive 
 __a modest proposal__ An extreme, unorthodox, and often provocative or distasteful remedy to a complex problem, generally suggested humorously or satirically. (An allusion to Jonathan Swift’s 1729 essay _A Modest Proposal_, in which he suggests that the poor of Ireland could alleviate their woes by selling their children as food.) _Here’s a modest proposal, then: we create a hunting reserve where the world’s wealthiest serve as game for the world’s poorest, and for each hunter who makes a successful kill, their home country receives the wealth and assets of their prey._  
 __a morning person__ Someone who is more active and alert in the early hours of the morning than later in the day; an early riser. _I tried dating a morning person once, but since I like to sleep in late, it didn’t really work out._  
 __a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _My dad is pretty relaxed about most things, but he can be a bit of a mother hen when it comes to who I hang out with._  
-__a motor mouth__ A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
+__a motor mouth__ :two: A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
 __a necessary evil__  
 __a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations. _I never knew how much I would miss being able to have a night out once we had kids._  
 __a numbers game__  
@@ -420,6 +421,7 @@ __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._
 __aye aye, sir__ _Aye aye, Captain._  
 __B and E__ :three::hammer:  
 __B of A__ Bank of America.  
+__B-girl__ _n_ A woman who is employed by a bar to encourage customers to spend money freely. Oh, boy, we’re really getting into the 1940s slang now! A “B-girl“ was a type of female hustler who would hang out in bars and nightclubs, often working for the bar owners or managers.  
 __B-Team__  
 __baby boomer__  
 __baby step__ :two::hammer:  
@@ -473,6 +475,7 @@ __bank on something__
 __bank on__ :seven: To rely on a future occurrence (even though it might not happen). Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._ _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
 __banker’s hours__ A limited work schedule (as banks were once known for having short work days and being closed on holidays and weekends). _You won’t be able to reach her on a Saturday—she keeps banker’s hours._  
 __bankroll__ _Remember, Microsoft bankrolls OpenAI, which basically means it just paid for their secret recipe and served it up themselves._  
+__banner year__  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ :two: To display an angry, violent, or threatening reaction to or against something or someone, as does a dog or wolf when threatened. _I will bare my teeth to anyone who tries to take away my land._  
 __bare metal__  
@@ -662,6 +665,7 @@ __best of all__ Used to refer to the most important or appealing part of somethi
 __best-kept secret__  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __better (to be) safe than sorry__  
+__better late than never__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __better the devil you know__  
 __between a rock and a hard place__ :two::hammer:  
@@ -743,7 +747,7 @@ __booby prize__ :astonished: A mock prize given to the worst player or performer
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __boom chicka wah wah__  
 __boom__ An exclamation used in conjunction with a decisive or impressive statement or action. _Boom! You can’t argue with that logic._  
-__bop__ _v_ :four::hammer: (bopped)  
+__bop__ _v_ :five::hammer: (bopped) _The term “Christmas bops” refers to songs that are upbeat, festive and have a fun, catchy tune._  
 __bored to tears__ :three: Extremely bored to the point of distraction, frustration, or irritation. _I was bored to tears listening to that lecture this afternoon._  
 __born in the purple__ :two: Born into royalty. Purple is a color traditionally associated with royalty. _Did you see pictures of the latest addition to the royal family? What a sweet little princess born in the purple!_  
 __born to the purple__ Born in the purple. _Both were born to the purple._  
@@ -827,6 +831,7 @@ __build a case__ To compile evidence that supports an argument or charges agains
 __build bridges__  
 __build up__ :two::hammer:  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
+__built to last__ Used to describe something that is durable, of high quality, and expected to serve for a long time.  
 __bull in a china shop__ :two: A clumsy person.  
 __bulletproof__  
 __bullshitter__  
@@ -887,6 +892,7 @@ __by the balls__
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__  
 __by the dozen(s)__ :dart::two: __2__ In large numbers. Despite the using the word “dozen,” the phrase is not limited to quantities of 12 and can be written in the plural (“dozens”). _If we institute new rules by the dozen, we’ll never be able to police them all at once._ _Users are uncovering affairs and betrayals by the dozen._  
+__by the lube rack__ In James Ellroy’s novels, “by the lube rack” is a bit of slang that refers to a location where people gather to do shady or illicit activities. It could be a specific place where drug deals are made, or where prostitutes meet with their clients, for example.  
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :four: In the same way.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
@@ -990,6 +996,7 @@ __caught unaware(s)__ To be surprised by someone or something. _The clerk was ca
 __caught with your pants down__ To be found in an embarrassing situation.  
 __cause a stir__ :two: To incite trouble or excitement. _ChatGPT is the latest artificial intelligence (AI) chatbot to cause a stir._  
 __cautionary tale__ :three::hammer:  
+__chafe at (something)__ To feel or express annoyance in response to something. _Bruce chafed at the idea that the new hire he was training made more money than him._  
 __chafe at the bit__ :three: To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
 __chain reaction__ /CHAYN ree-ak-shuhn/ A series of events wherein the outcome of each instance specifically influences or causes the next. The phrase comes from the occurrence of such reactions in chemistry and physics. _Deciding to take a course studying James Joyce in college set up a chain reaction that ultimately led me to move to Ireland._  
 __chalk and cheese__ :two: A phrase used to emphasize that two people or things are very different from one another. _Good luck getting those two to talk to each other—they’re like chalk and cheese._  
@@ -998,6 +1005,7 @@ __chance of a lifetime__ An extremely important and/or fortuitous opportunity, e
 __chances are__ :five: It seems likely (that something will happen or be the case). _Chances are that my parents are throwing me a surprise party. Why else would they change the subject every time I mention my birthday?_  
 __change of heart__  
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
+__change up__  
 __chapter and verse__  
 __charley horse__ :dart: A painful muscle spasm that most commonly occurs in the legs. The phrase is thought to have originated from baseball slang. _Spending all day on my feet caused a charley horse in my leg that was so painful, I had to sit down for a while and rest._  
 __chase down__  
@@ -1145,7 +1153,7 @@ __cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wif
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
 __core values__  
-__cornhole__  
+__cornhole__ :two: __2__ _n_ _slang_ The anus. _Some jokester on the team poked Todd in the cornhole after practice._  
 __corny__  
 __corporate ladder__ :two::hammer:  
 __cost an arm and a leg__ To be extremely expensive.  
@@ -1258,7 +1266,8 @@ __dark days__ :two: Times of extreme misfortune or difficulty. _The company stru
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __dark joke__  
 __dark side__ A deeply negative, troubled, or antagonistic aspect of someone or something that is usually kept concealed. _Jonathan’s mom is always sweet to me and our friends, but apparently she has a bit of a dark side when we’re not around._  
-__darkest hour__  
+__darkest hour__ :two: The moment or period in which things are at their worst, lowest, or most discouraging.  
+__Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
 __dawn (up)on (one)__ :two::hammer:  
 __day and age__  
@@ -1267,7 +1276,9 @@ __day in, day out__ :three: For an indefinite number of successive days. _Syn_ t
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
 __day or night__ :two: At any point in time; 24 hours a day. _You know you can always talk to me about your problems. Call me day or night, it doesn’t matter._  
+__day to day__ __1__ Continuously, without interruption, on a daily basis. _Running this office day to day is not an easy task._  
 __day tripper__ _You are funny, sitting there like a day tripper._  
+__day-to-day__ __1__ Daily; regularly occurring. _And you will oversee the company’s day-to-day operations while I’m traveling._ _The majority of Americans aren’t using AI day-to-day._  
 __day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __days gone by__ _Read about the colorful characters of days gone by._  
 __days to come__  
@@ -1295,12 +1306,13 @@ __deep-six (someone or something)__ [:scroll: A reference to the standard six-fo
 __deepfake__ :two::hammer:  
 __defuse (something)__  
 __deliver on__ _v_ :dart: To do something one has promised or is expected to do: _The contractor delivered on his promises to get the work done by Friday._ _Caregiving robots don’t always deliver on their promises._  
+__deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
 __delve into (something)__ To study something thoroughly.  
 __demur at (something)__ To dispute or contest something.  
 __deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
 __desperate times call for desperate measures__ :two: _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
-__deus ex machina__ :four::hammer: _Leaders under fire often wait for some deus ex machina._  
+__deus ex machina__ :five: __2__ By extension, some narrative element that concludes the story or resolves a conflict in a way that seems too contrived and convenient to be believable. _Leaders under fire often wait for some deus ex machina._  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
 __devil take the hind most__ Each person must work independently toward their own success, as in competitive situations. The phrase is sometimes preceded by “Every man for himself.” _Increasingly, it seems like it’s the devil take the hindmost during election season._  
@@ -1310,7 +1322,7 @@ __dicey__
 __dick around__  
 __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
-__dig deep__  
+__dig deep__ :two::hammer:  
 __dig in (one’) heels__ :three: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dig in(to) (something)__ :two::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
@@ -1319,7 +1331,7 @@ __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound 
 __Ding, ding, ding, we have a winner!__ :two: _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __dingy__  
 __dippy__ Crazy, silly, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s a little dippy._ _A dippy denizen._  
-__dipshit__ _n_ _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
+__dipshit__ _n_ :two: _slang rude_ Stupid or foolish. _Geez, he keeps pulling on a door that’s clearly marked “push”—what a dipshit._ _Wow, that was a real dipshit plan—no wonder it didn’t work out._  
 __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I went to rehab that I realized how much of a dipso I really was. I just couldn’t say no to alcohol._  
 __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
 __dirtbag__  
@@ -1328,9 +1340,11 @@ __dish out__ :six::hammer: _Yoda will dish out the advice._
 __dish something out__  
 __diss__  
 __dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
+__ditz__ /dɪts/ _n_ _slang chiefly US_ A silly scatterbrained person.  
 __dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
 __dive in__ :dart::three::hammer: _Let’s dive in together._  
 __do (one’s) part__  
+__do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
 __do (one) wrong__ :three: _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
 __do (someone or something) harm__  
@@ -1377,11 +1391,13 @@ __don’t let the door hit you on the way out__ :two: Leave here quickly and dir
 __don’t mention it__  
 __don’t press your luck__ :two::hammer:  
 __don’t rock the boat__ Don’t say or do something that could upset a stable situation.  
+__don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
 __don’t shoot the messenger__ :two: Don’t get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
 __don’t sweat it__ _(American English, spoken)_ Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._  
 __done and done__ :dart::two: Totally, unequivocally finished or finalized.  
 __done and dusted__ (mainly BRITISH)  
-__doom and gloom__ :four: A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_. (A situation) characterized by negativity or futility. A general feeling of having lost all hope and of pessimism (= expecting things to go badly). _The situation isn’t all doom and gloom—there are still plenty of good schools that did accept you!_  
+__doofus__ _slang_ One who is stupid or foolish.  
+__doom and gloom__ :five: (A situation) characterized by negativity or futility. A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_. (A situation) characterized by negativity or futility. A general feeling of having lost all hope and of pessimism (= expecting things to go badly). _The situation isn’t all doom and gloom—there are still plenty of good schools that did accept you!_  
 __doormat__ :two::hammer:  
 __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
 __dorky__ Describing someone or something that is socially awkward, nerdy, or stupid.  

@@ -1,28 +1,3 @@
-__(only) time will tell__  
-__a crock of shit__ _rude slang_ Something that is false or ridiculous. _He never came, so his promise to help us was a crock of shit!_ _Oh, that rumor is a crock of shit._  
-__a motor mouth__ A person who talks incessantly or irrepressibly.  
-__B-girl__ _n_ A woman who is employed by a bar to encourage customers to spend money freely. Oh, boy, we’re really getting into the 1940s slang now! A “B-girl“ was a type of female hustler who would hang out in bars and nightclubs, often working for the bar owners or managers.  
-__banner year__  
-__better late than never__  
-__bop__ _The term “Christmas bops” refers to songs that are upbeat, festive and have a fun, catchy tune._  
-__built to last__ Used to describe something that is durable, of high quality, and expected to serve for a long time.  
-__by the lube rack__ In James Ellroy’s novels, “by the lube rack” is a bit of slang that refers to a location where people gather to do shady or illicit activities. It could be a specific place where drug deals are made, or where prostitutes meet with their clients, for example.  
-__chafe at (something)__ To feel or express annoyance in response to something. _Bruce chafed at the idea that the new hire he was training made more money than him._  
-__change up__  
-__cornhole__ __2__ _n_ _slang_ The anus. _Some jokester on the team poked Todd in the cornhole after practice._  
-__darkest hour__ The moment or period in which things are at their worst, lowest, or most discouraging.  
-__Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
-__day to day__ __1__ Continuously, without interruption, on a daily basis. _Running this office day to day is not an easy task._  
-__day-to-day__ __1__ Daily; regularly occurring. _And you will oversee the company’s day-to-day operations while I’m traveling._ _The majority of Americans aren’t using AI day-to-day._  
-__deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
-__deus ex machina__ __2__ By extension, some narrative element that concludes the story or resolves a conflict in a way that seems too contrived and convenient to be believable.  
-__dig deep__  
-__dipshit__  
-__ditz__ /dɪts/ _n_ _slang chiefly US_ A silly scatterbrained person.  
-__do (one) a disservice__ To do something that hinders or is detrimental to one. _You’ll really do your kids a disservice if you cater to their every whim._  
-__don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
-__doofus__ _slang_ One who is stupid or foolish.  
-__doom and gloom__ (A situation) characterized by negativity or futility.  
 __drop the ball__  
 __dupe__  
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
