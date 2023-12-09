@@ -14,6 +14,7 @@ __ACT__ _n_ A trademark for a standardized college entrance examination. A colle
 __ADD__ Attention deficit disorder.  
 __ADHD__ :three: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
 __ASMR__ Autonomous sensory meridian response. This term refers to a tingling sensation often accompanied by a calming, pleasurable feeling.  
+__assoc.__ __1__ Associate. __2__ Associated. __3__ Association. _Housing assoc._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BAE__ Beautiful and elegant.  

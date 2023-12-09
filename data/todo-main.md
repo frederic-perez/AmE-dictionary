@@ -1,3 +1,13 @@
+__appall__ _v tr_ To fill with horror and amazement; dismay greatly.  
+__appalled__ _adj_ /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
+__boatload__ _n_ The number of passengers or the amount of cargo that a boat can hold.  
+__chalet__ _n_  
+__complacent__ _adj_  
+__croc__ _n_  
+__dentures__ _n pl_ /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
+__distaff__ _adj, n_  
+__erupt__ _v intr_  
+__evince__ _v tr_ To show or demonstrate clearly; manifest: _evince distaste by grimacing._  
 __fanfare__  
 __fashion__ _v tr_  
 __festoon<sup>1</sup>__ _n_  
@@ -12,8 +22,10 @@ __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurea
 __genus__ _n_ /ˈdʒi nəs/  
 __grueling__ _adj_  
 __handler__ _n_ __1__ (Law) A person, esp a police officer, in charge of a specially trained dog.  
+__Hanukkah__ _n_ :mega: /ˈhɑ nə kə, ˈxɑ-/ (Hanukah, Chanukah)  
 __hassle__ _n, v_ :two::hammer:  
 __havoc__ _n, v_ :mega: /ˈhæv ək/  
+__hippo__ _n_ A hippopotamus.  
 __hogwash__ _n_  
 __host__ _n_ __2__ A great number; a multitude. _A host of tchniques._  
 __humbug<sup>1</sup>__ _n_ :dart:  
@@ -23,6 +35,7 @@ __inordinate__ _adj_ /in-OR-dun-ut/
 __junction__ _n_ A place where roads meet.  
 __juncture__ _n_ A point in time.  
 __kerfuffle__  
+__lambast__ _v tr_  
 __lapdog__ _n_  
 __larceny__ _n_  
 __list price__ _n_  
@@ -35,6 +48,7 @@ __maelstrom__ _n_ /MAIL-strum/
 __marksmanship__ _n_ Skill in shooting.  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
 __mawkish__ _adj_  
+__meager__ _adj_ (meagre)  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __mirth__ _n_  
@@ -109,15 +123,18 @@ __purpose__ _n_ :mega:
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
 __radio__ _v_ _He never even thought to radio for help._  
+__rage__ _v intr_  
 __rampant__ _adj_  
 __ransom__ _n_  
 __rapture__ _v_  
 __recidivism__ _n_  
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
+__rehouse__ _v tr_ To provide with new, usually improved housing.  
 __repercussion__ _n_  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
+__salvo__ _n_ (_n pl_ salvos, salvoes)  
 __sanity check__  
 __sate__ _v tr_  
 __schizophrenic__ _adj, n_  
@@ -126,6 +143,7 @@ __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidge
 __scorecard__ _n_  
 __scores__ _n pl_ A large number or amount.  
 __scraggly__ _adj_ _A scraggly beard._  
+__scram__ _v intr_  
 __scramble__ _v_ _They scrambled for personal power._  
 __scrap__ _v tr_ :dart: __2__ To discard or abandon as useless; cancel: scrap a plan.  
 __scrawl__ _v_  
@@ -166,12 +184,16 @@ __shanghai__ _v_
 __shash window__ _n_  
 __shirk__ _v_  
 __shit-hole__  
+__showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
 __silkworm__ _n_ :es: gusano de seda  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __single-handedly__  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
 __singsong<sup>2</sup>__ _n_  
+__siphon<sup>1</sup>__ _n_  
+__siphon<sup>2</sup>__ _v tr_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
+__siphon<sup>3</sup>__ _v intr_  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
@@ -181,6 +203,7 @@ __skin__ _v tr_ _He skinned his knee and started to cry._
 __smithereens__  
 __snarky__ _adj_ _informal_ Unpleasant and scornful.  
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
+__split__ _v_ _Women who have split from a relationship._  
 __stem__ _v_  
 __stenos__  
 __stenotic__ _adj_ _Stenotic burden._  
@@ -199,6 +222,7 @@ __stoke__ _v_
 __strait__ _n_  
 __strife__ _n_  
 __stuffing__ _n_  
+__subaltern__ _n_  
 __suborn__ _v tr_  
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
@@ -236,6 +260,8 @@ __tout__ _v_ :dart:
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
 __transience__  
+__transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
+__transvestite__ _n_  
 __ukulele__ _n_ :pencil2:  
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
