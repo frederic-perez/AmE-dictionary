@@ -5765,7 +5765,7 @@ __elderberry__
 __elderflower__  
 __elderly__ _adj, n_ :two::hammer: :es: tercera edad  
 __eldest__ _adj_  
-__eldritch__ _adj_ :two: Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
+__eldritch__ _adj_ :three: /EL-dritch/ Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
 __elective__ _n_ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
@@ -5781,7 +5781,7 @@ __elevator operator__ _n_ :camera:
 __elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
 __eleven__ _n_ :two::hammer::mega:  
 __elfin__ _adj_ :two::hammer:  
-__elicit__ _v_ :eight: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
+__elicit__ _v_ :nine: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
 __eligible__ _adj_  
@@ -5789,6 +5789,7 @@ __elision__
 __elite__ _n_ :two::hammer: (elites)  
 __elk__ _n_ :three::hammer: /ɛlk/ (_n pl_ elk or elks) :es: alce  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
+__elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __elope__ _v intr_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :four: /ih-LOO-suh-dayt/ /ɪˈluːsɪˌdeɪt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
@@ -5809,6 +5810,7 @@ __embark__ _v_ :two::hammer: _They embark on a motorcade._
 __embarrass__ _v_ :two::pencil2: /im-BAIR-us/ To cause to experience a state of self-conscious distress. _No one wants to embarrass themselves with spinach stuck in their teeth during a work luncheon—but it happens._  
 __embattle__ _v_ :four::hammer: (embattled)  
 __embattled__ _adj_  
+__embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
 __embellish__ _v_ /im-BELL-ish/  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
 __embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ /im-BEZZ-ul/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
@@ -5836,22 +5838,24 @@ __emerita<sup>2</sup>__ _n_ A woman who is retired, esp from academia, but still
 __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
 __emery board__ _n_ :two: A small flat strip of wood or card coated with emery powder and used for filing the fingernails. :es: lima de uñas  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
+__emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
 __eminent__  
 __eminently__ _adv_ /EM-uh-nunt-lee/ Eminently is used as a synonym of very and means “to a high degree.” _All three outfielders are eminently capable of making an All-Star-caliber catch to help their team._  
+__emir__ _n_ /əˈmɪər, eɪˈmɪər/ __1__ A prince, commander, or head of state in some Islamic countries.  
 __emissary__ _n_ :two: __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
-__emollient__ _adj_ :five: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
+__emollient__ _adj_ :six: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
-__emote__ _v intr_ :three::hammer:  
+__emote__ _v intr_ :four::hammer:  
 __empathetic__  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
 __emphasize__ _v_ :four::pencil2::hammer:  
 __emphysema__ _n_ :three::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __Empire State__ _n_ The U.S. State of New York.  
-__empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
+__empirical__ _adj_ :two: /im-PEER-uh-kul/ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
 __emporium__ _n_ :three::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
 __emprise__ _n_ [:scroll: Emprise descends from the Anglo-French word _emprendre_, meaning “to undertake.’] An adventurous, daring, or chivalric enterprise.  
@@ -5867,13 +5871,13 @@ __enact__ _v_ :nine::m: (enacted, enacting) Make (a bill or other proposal) law.
 __enactment__  
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
-__encampment__ _n_ :two::hammer:  
+__encampment__ _n_ :three::hammer:  
 __encapsulate__ _v_ /in-KAP-suh-layt/ To show or express the main idea or quality of (something) in a brief way. _Her first album encapsulates the sound of the 90s._  
 __encashment__ _n_  
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
 __enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
-__encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
+__encomium__ _n_ :three: /en-KOH-mee-um/ (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
 __encompass__ _v_ :nine::m: __1__ To enclose within a circle; surround. __2__ To bring about; cause to happen; contrive: _he encompassed the enemy’s ruin._ __3__ To have as part of something larger; include. _Syn_ include _A galaxy encompassing billions of stars._ _Very large-scale computing encompasses a varied range of systems._ __4__ To include entirely or comprehensively: _this book encompasses the whole range of knowledge._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
@@ -5890,6 +5894,7 @@ __end result__
 __end user__ _n_  
 __endangered__ _adj_ :mega:  
 __endangerment__  
+__endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
 __endarterectomy__ _n_ :mega:  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
@@ -5907,7 +5912,7 @@ __endpiece__ _n_
 __endpoint__ _n_ _Surrogate endpoints._  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
-__endure__ _v_ :three: Last for a long time.  
+__endure__ _v_ :four: Last for a long time.  
 __Energizer Bunny__  
 __energy harvesting__ _n_  
 __enervate__ _v_ :astonished: To weaken.  
@@ -5917,7 +5922,7 @@ __enfeoffed__ _v_ :three::hammer:
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ :three::hammer: _I’m engaged with my work._  
 __engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
-__engender__ _v_ :two: /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
+__engender__ _v_ :three: /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
 __engram__ _n_ _Syn_ memory trace  
 __engross__ _v_ :three::hammer::dart: (engrossed) _I was engrossed in my thoughts._  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
@@ -5930,7 +5935,7 @@ __enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; 
 __enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
-__ennui__ _n_ :five::mega::hammer:  
+__ennui__ _n_ :six::mega: Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
 __enormous__ _adj_ :two::hammer::mega: /ɪˈnɔːməs/  
 __enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
@@ -5939,10 +5944,10 @@ __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enc
 __enrich__ _v tr_  
 __enrichment__ _n_  
 __enrol__ _v_  
-__ensconce__ _v_ :seven: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
+__ensconce__ _v tr_ :eight: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
-__enshrined__  
+__enshrine__ _v tr_ :two::hammer:  
 __ensign__ _n_ :three::hammer: _Everyone saluted as the national ensign was raised on the fantail._  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :eight::hammer: (ensued, ensuing) _Complications ensue._  
@@ -5986,7 +5991,7 @@ __enviable__ _adj_ :two::hammer:
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __environs__ _n pl_  
 __envisage__ _v_ :four: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
-__envision__ _v_ :four::hammer:  
+__envision__ _v tr_ :five::hammer:  
 __eolian__ _adj_ :two: /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind. Borne, deposited, produced, or eroded by the wind.  
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __epee__  
@@ -6050,14 +6055,14 @@ __erupted__ _v_
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __erythro-__ _prefix_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
 __escalate__ _v_ :three: To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
-__escalation__ _n_ :two::hammer:  
+__escalation__ _n_ :three::hammer:  
 __escalator__ _n_ :three: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escape velocity__ _n_  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
-__eschew__ _v_ :three: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
+__eschew__ _v tr_ :five: /ɪsˈtʃuː/ (Formal) To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid. To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow<sup>1</sup>__ _n_ :seven: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __escrow<sup>2</sup>__ _v_  
 __esculent__ _adj_ Suitable for eating; edible.  
@@ -6131,7 +6136,7 @@ __evict<sup>2</sup>__ _v tr_ :nine::m: (evicted) To force out or expel, especial
 __eviction__ _n_ :four::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evildoer__ _n_  
-__evince__ _v_ :seven: /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly. To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._ _To evince an interest in politics._ _She didn’t evince surprise._  
+__evince__ _v tr_ :eight: /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly. To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._ _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
 __ewer__ _n_ :two::hammer:  
@@ -6223,7 +6228,7 @@ __explication__ _n_
 __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
 __exploit<sup>2</sup>__ _v_ :mega:  
 __exponent__ _n_ /ik-SPOH-nunt/ Exponent refers to “someone who supports a particular cause or belief” as well as “someone who is known for a particular method or style.” _He was a leading exponent of animal rights._  
-__exposé__ _n_ :two: A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
+__exposé__ _n_ :astonished::three: __1__ An exposure or a revelation of something discreditable. _S magazine exposé of political corruption._ __2__ A formal exposition of facts.  
 __expose__ _v_  
 __expostulate__ _v_ :three::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
@@ -6314,6 +6319,7 @@ __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made whi
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
+__fail-safe__  
 __failover<sup>1</sup>__ _n_ :four::hammer:  
 __failover<sup>2</sup>__ _v_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
@@ -6336,8 +6342,8 @@ __fall over__ _v_
 __fall__ _n_ [:scroll: The name _fall_ is thought to originate in the phrase _the fall of the leaf_, in reference to the time of year when deciduous trees shed their leaves. The name of its inverse season, _spring_, is thought to come from the phrase _spring of the leaf_—the time when everything is blossoming. The multiple senses of the word _fall_ come in handy for the helpful reminder “Spring Forward, Fall Back,” which serves as a mnemonic about how to set our clocks for daylight-saving time.]  
 __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
 __fallacy__ _n_ :six::hammer: _The lump of coding fallacy._  
-__fallback<sup>1</sup>__ _n_  
-__fallback<sup>2</sup>__ _adj_ (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
+__fallback<sup>1</sup>__ _n_ :two::hammer:  
+__fallback<sup>2</sup>__ _adj_ :two: (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
 __fallible__ _adj_ :five::mega::hammer: /FAL-uh-bul/ _Managers are as fallible as the rest of us._  
 __falling star__ _n_ A meteor; shooting star.  
 __falloff__  

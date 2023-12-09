@@ -1,28 +1,3 @@
-__eldritch__ _adj_ /EL-dritch/  
-__elicit__ _v_ _Syn_  
-__elliptical machine__ _n_ _He was working out on an elliptical machine._  
-__embed__ _n_ One that is embedded, especially a journalist who is assigned to an active military unit.  
-__emetic__ _adj_ An agent that causes vomiting. _Syn_ nauseant, vomitive, vomit  
-__emir__ _n_ /əˈmɪər, eɪˈmɪər/ __1__ A prince, commander, or head of state in some Islamic countries.  
-__emollient__  
-__emote__ _adj_  
-__empirical__ _adj_ /im-PEER-uh-kul/  
-__encampment__ _n_  
-__encomium__ _n_ /en-KOH-mee-um/  
-__endarken__ _v tr_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
-__endure__  
-__engender__ _v_  
-__ennui__ _n_ Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
-__ensconce__ _v tr_  
-__enshrine__ _v tr_  
-__enthuse__ _v_  
-__envision__ _v tr_  
-__escalation__  
-__eschew__ _v tr_ /ɪsˈtʃuː/ To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid.  
-__evince__ _v tr_  
-__exposé__ _n_ :astonished: __1__ An exposure or a revelation of something discreditable. __2__ A formal exposition of facts.  
-__fail-safe__  
-__fallback__  
 __fanfare__  
 __fashion__ _v tr_  
 __festoon<sup>1</sup>__ _n_  
