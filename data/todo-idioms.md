@@ -1,3 +1,11 @@
+__a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case. _I’m not too fond of taxes either, but i’s a bit of a stretch to claim they are the cause of all our problems._  
+__a whole lot of (something)__ A large amount of something; a lot of something.  
+__across the pond__  
+__back out (of something)__ _Medtronic backs out of $738M acquisition due to “multiple breaches.”_  
+__bopster__ The term “bopster” is a slang word that is used in James Ellroy’s novels to refer to a person who is hip or cool, usually in a jazz or beatnik context. The word is a combination of “bop“ (a style of jazz) and “hipster“ (someone who is in the know about the latest trends and fashions).  
+__brown eye__  
+__crazy__  
+__dipshit__  
 __drop the ball__  
 __dupe__  
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
@@ -8,20 +16,25 @@ __fine-tune__
 __fink on (someone)__ To report someone’s misdeeds to an authority figure. _The gang was determined to find the traitor who finked on them to the police._  
 __flatline__ _slang_ To die or come very close to death.  
 __fly high__  
+__follow suit__ :dart:  
 __for certain__ Definitely.  
 __for no good reason__ With no acceptable explanation. _She left for no good reason._  
 __for what it’s worth__  
 __from bad to worse__  
 __gab__ __1__ _v_ To talk or chat. _Geez, she’s been gabbing on the phone to her friend for an hour already._ __2__ _n_ Inane talk or gossip. _Don’t pay attention to what they’re saying—it’s all stupid gab._  
 __game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
+__gassed__ In James Ellroy’s novels, the term “gassed” is often used to describe someone who is intoxicated or under the influence of drugs or alcohol.  
 __get (someone or something) out of (one’s) head__ To make an effort to forget or stop thinking about someone or something.  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
 __get into (someone or something)__  
 __get someone’s goat__ _informal_ If someone or something gets your goat, they annoy you.  
 __get the picture__ To understand the real or overall meaning of a situation, without the need for further explanation. _OK, I get the picture. I’ll start looking for somewhere else to stay._  
+__gig__ _slang_ __4__ _v_ To work single or temporary professional jobs or engagements, especially those that are very brief. Often used in reference to the performance arts. _My dream is to become the house DJ for a high-end club, but for now I just gig at corporate events._  
 __give back__  
 __glom__ __1__ _v tr_ To steal something. (Underworld.) _He gloms just about everything he needs._ __2__ _v tr_ To take a look at someone or something. (Underworld.) _Come over here and glom the view of the bank from this window._ __3__ _v tr_ To arrest someone. _The copper glommed Fred on Tuesday._  
 __glommed__ _slang_ Arrested. _Dude, I hear sirens—we’re gonna get glommed if we stay here any longer!_  
+__go overboard__ __2__ To act without restraint in some area.  
+__green sheet__ In James Ellroy’s novels, the term “green sheet” is often used to refer to a document or record that contains information about a person or event. A “green sheet” is usually something that is kept by law enforcement or other authorities, and it contains details that are not publicly available or easily accessible. For example, a “green sheet” might contain information about a suspect in a crime, or about a witness who has given testimony in a trial.  
 __grifter__ Someone who swindles other people.  
 __grok__  
 __gunk__ __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
@@ -75,14 +88,20 @@ __head up__
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__hijinx__ Mischievous or playful behavior that is intended to be amusing or entertaining, but that often crosses the line into being disruptive or annoying.  
 __hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
 __hophead__ _Tom hates hopheads and jailbait jumpers._  
 __hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—the kids are hot to trot._ __2__ Sexually arousing or aroused. _If you think he’s so hot to trot, why don’t you ask him out?_  
 __in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
+__in voice__ In an ideal state or condition for speaking or singing.  
 __inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read this book inside out again and again, but I still enjoy it every time._  
+__it takes a village__  
 __jailbait__ Someone who is attractive but younger than the legal age of consent. _Tom hates hopheads and jailbait jumpers._  
-__jamoke__  
+__jamoke__ :two: The term “jamoke” is a slang word that is used in James Ellroy’s novels to refer to someone who is foolish, inept, or incompetent. It’s a derogatory term that is often used to describe a person who is not very intelligent or capable. The word “jamoke” is derived from the term “java,” which is a slang word for coffee, and “mocha,” which is a type of coffee drink. The combination of these two words created the term “jamoke,” which is used to describe someone who is as weak and insipid as a cup of watered-down coffee. In Ellroy’s novels, the term “jamoke” is often used by the characters to describe someone who is a nuisance or a hindrance, or someone who is not to be taken seriously. It’s a derogatory term that is meant to belittle or mock the person being described.  
+__jaw-dropping__ Astonishing or astounding; causing an overwhelming amount of surprise, wonder, or amazement.  
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
+__kiss-ass__  
+__ladies and gents__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __light on (one’s) feet__  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
@@ -189,12 +208,17 @@ __rumble on__ To continue at a low but consistent level or degree, especially wh
 __scoop__  
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
+__secret sauce__ _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
 __sell like hot cakes__  
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
+__shy away (from someone or something)__  
+__silver lining__  
 __simply put__  
 __six ways from (next) Sunday__ Askew, at an angle.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
+__skeevy__ Offensively or unscrupulously repellant, repugnant, or disreputable.  
+__skin flute__ _vulgar, slang_ A penis.  
 __sneak peek__  
 __snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __speak with a forked tongue__  
@@ -205,22 +229,30 @@ __status quo__ :mega: /kwoʊ/
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
+__strike a deal__ To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __swear by (someone or something)__  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
+__tail__ _n_  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take a deep breath__  
 __take aim (at someone or something)__  
+__take center stage__ To be the main focus.  
 __talk the talk__  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
+__time flies__  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __twisted__  
+__two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
+__vamoose__ (vamoosed)  
 __walk the walk__  
 __walk through__  
 __war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
 __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
+__what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
 __with flying colors__  
 __wrack (one’s) brain(s)__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
+__yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
