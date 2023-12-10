@@ -7489,6 +7489,7 @@ __gentrify__ _v_ (gentrifying)
 __gentry__ _n_ :two::hammer:  
 __genuflects__ _v_  
 __genuine__ _adj_ :two::hammer::mega:  
+__genus__ _n_ /ˈdʒi nəs/  
 __geomancy__ _n_ Prophecy from the pattern made when a handful of earth is cast down or dots are drawn at random and connected with lines.  
 __geotag__ _n, v_  
 __German shepherd__ _n_ An Alsatian.  
@@ -7676,7 +7677,7 @@ __goalpost__ _n_
 __goaltender__  
 __goatee__ _n_ _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
-__gobble<sup>1</sup>__ _v_ :four::hammer: _Gobbling a plate of spaguetti and meatballs._ _Do you savor or gobble?_  
+__gobble<sup>1</sup>__ _v_ :five::hammer: _Gobbling a plate of spaguetti and meatballs._ _Do you savor or gobble?_  
 __gobble<sup>2</sup>__ _n_  
 __gobbledygook__ _n_ :two::hammer:  
 __goblin__ _n_ :four::hammer: (goblins)  
@@ -7964,7 +7965,7 @@ __grudge<sup>2</sup>__ _n_ :nine: (grudges) A deep-seated feeling of resentment 
 __grudging__ _adj_ _That behavior had won the soldier’s respect, and grudging affection._  
 __grudgingly__ _adv_ :five::hammer:  
 __gruel__ _n_ :three::hammer:  
-__grueling__ _adj_ :five: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._ :es: duro, penoso; agotador  
+__grueling__ _adj_ :six: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._ :es: duro, penoso; agotador  
 __gruelling__  
 __gruesome__  
 __gruff__ _adj_ :six::hammer:  
@@ -8174,6 +8175,7 @@ __handicraft__ _n_
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
 __handkerchief__ _n_ :mute:[han~~d~~kerchief]  
+__handler__ _n_ __1__ (Law) A person, esp a police officer, in charge of a specially trained dog.  
 __handmaiden__ _n_ /HAND-may-duhn/ [:scroll: From hand + maiden, referring to a young woman who was ready at hand to serve her lady.] __1__ Someone or something that is subservient to another. __2__ A personal maid.  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
@@ -8207,6 +8209,7 @@ __hanky panky__
 __hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. __2__ Illicit sexual relations.  
 __Hannukah__ _n_ (Chanukah)  
 __hantavirus__  
+__Hanukkah__ _n_ :mega: /ˈhɑ nə kə, ˈxɑ-/ (Hanukah, Chanukah)  
 __haphazard<sup>1</sup>__ _adj_ :five::hammer:  
 __haphazard<sup>2</sup>__ _n_ :two::hammer:  
 __haphazard<sup>3</sup>__ _adv_  
@@ -8281,8 +8284,8 @@ __hash<sup>2</sup>__ _v_
 __hashish__ _n_ :two::hammer: (hasheesh)  
 __hasp__ _n_ :three::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
-__hassle<sup>1</sup>__ _n_ _Advance seat assignment to avoid boarding hassles._  
-__hassle<sup>2</sup>__ _v_ _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
+__hassle<sup>1</sup>__ _n_ :three::hammer: _Advance seat assignment to avoid boarding hassles._  
+__hassle<sup>2</sup>__ _v_ :three::hammer: _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
 __haste__ _n_  
 __hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
 __hastily__ _adv_ _A hastily arranged news conference._  
@@ -8311,7 +8314,7 @@ __hauteur__ _n_ :two: Haughtiness in bearing and attitude. _Syn_ arrogance, haug
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
 __haversack__ _n_ :three: A single-strapped big bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
-__havoc__  
+__havoc__ _n, v_ :two::hammer::mega: /ˈhæv ək/  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
 __hawing__  
@@ -8458,6 +8461,7 @@ __hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: 
 __Hell’s Kitchen__ _n_  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
+__hellion__ _n_ A mischievous, troublesome, or unruly person.  
 __hellish__ _adj_  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
 __helluva__ _adj, adv_ _A helluva year._  
@@ -8590,6 +8594,7 @@ __hip flask__ _n_ :camera:
 __hip__ _adj_ :four::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._ _A hip hangout for cocktails._  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
+__hippo__ _n_ A hippopotamus.  
 __hippocampus__ _n_ :pencil2:  
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
 __hipster__ _n_ /HIP-stuh/ One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.  
@@ -8642,7 +8647,7 @@ __hog the sofa__
 __hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v_ :three: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
-__hogwash__ _n_ :two: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
+__hogwash__ _n_ :three: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
@@ -8796,7 +8801,7 @@ __hosanna__ _n_ _A thousand hosannas._
 __hospice care__ _n_  
 __hospice__  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
-__host__ _n_ :six::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A whole host of consequences._  
+__host__ _n_ :dart::seven::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A host of techniques._ _A whole host of consequences._  
 __hostage__ _n_ :two::mega::hammer: /ˈhɒs tɪdʒ/  
 __hostas__ _n_  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
@@ -8880,13 +8885,14 @@ __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that
 __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my coworker some advice after the meeting, but she perceived it as criticism, got all huffy, and stormed away._  
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
-__hullabaloo__ _n_ (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
+__hullabaloo__ _n_ :two: (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __human shield__  
 __humanist__  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
-__humbug<sup>1</sup>__ _n_ :two: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
-__humbug<sup>2</sup>__ _v tr_ To deceive or trick.  
+__humbug__ _n, v_  
+__humbug<sup>1</sup>__ _n_ :dart::three: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
+__humbug<sup>2</sup>__ _v tr_ :dart::two: To deceive or trick. To cheat or deceive (someone).  
 __humbug<sup>3</sup>__ _v intr_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
 __humdrum<sup>1</sup>__ _adj_ :six::hammer: _A humdrum office building._  
@@ -9009,7 +9015,7 @@ __iconoclastic__
 __ID window__  
 __id__ _n_  
 __ideation__ _n_ :two::hammer:  
-__identical twin__ _n_ :two: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
+__identical twin__ _n_ :three: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __ides__ _n_ :three: The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
@@ -9316,7 +9322,7 @@ __inhibitor__ _n_
 __inimical__ _adj_ :five: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly __3__ Injurious or harmful in effect; adverse. _Syn_ hurtful, injurious _The inimical effects of smoking have been thoroughly documented._  
 __inimitable__ _adj_  
 __iniquity__ _n_ :six: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality _The sons of iniquity._ __2__ A grossly immoral act; a sin.  
-__initiative__  
+__initiative__ _adj, n_ :two::hammer:  
 __injunction__ _n_ :nine::m: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ /in-JUNK-shun/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _adj_ _Federer had an injury-marred season._  
@@ -9335,7 +9341,7 @@ __innumerate__
 __inobvious__  
 __inoculate__ _v_  
 __inoculation__ _n_  
-__inordinate__ _adj_ :eight::hammer: /in-OR-dun-ut/ _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
+__inordinate__ _adj_ :nine::hammer: /in-OR-dun-ut/ _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
 __inordinately__ _adv_ :four::hammer: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpatient__ _n_ :four: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
@@ -9741,8 +9747,8 @@ __jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak batte
 __jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery is dead) by connecting it to another car’s battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
 __jumpsuit__ _n_ :three::hammer: /ˈdʒʌmpˌsut/  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
-__junction__ _n_ :two::hammer: _At 1st junction turn R & head to E to Hapton on Burnley Road._ _Conjunction junctions._  
-__juncture__ _n_ :seven: /JUNK-cher/ A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
+__junction__ _n_ :three: A place where roads meet. _At 1st junction turn R & head to E to Hapton on Burnley Road._ _Conjunction junctions._  
+__juncture__ _n_ :eight: /JUNK-cher/ A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
 __Juneteenth__ _n_ :four: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
 __juniper berries__  
@@ -9813,7 +9819,7 @@ __kennel__ _n_ :two::hammer:
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
 __kerchief__ _n_  
 __kerf__ _n_  
-__kerfuffle__ _n informal_ :four: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
+__kerfuffle__ _n informal_ :five: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __kersey__ _n_  
 __keseboy__  
 __ketamine__ _n_ (Special K)  
@@ -10031,7 +10037,7 @@ __Lalique__
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _v_  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
-__lambast__ _v tr_ _informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
+__lambast__ _v tr_ :nine::m: _informal_ (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__ _adj_ :three: /LAM-bunt/ When used literally, lambent can mean “softly bright or radiant” or “flickering.” _Lambent_ is also often used to describe speech, writing, music, and even wine, that has a light, appealing quality.  
 __lambo__ _n_ A Lamborghini car.  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
@@ -10076,6 +10082,7 @@ __lap__ _v_ :astonished: _Vampire bats feed by lapping the blood of their prey t
 __lap<sup>1</sup>__ _n_ _The project’s amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
 __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
+__lapdog__ _n_  
 __laped pin__  
 __lapel__ _n_  
 __lapidary__ _adj_ /LAP-uh-dair-ee/  
@@ -10086,7 +10093,7 @@ __lapse<sup>1</sup>__ _v_
 __lapse<sup>2</sup>__ _n_  
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
-__larceny__ _n_ :eight: Theft of personal property. :es: hurto  
+__larceny__ _n_ :nine: Theft of personal property. :es: hurto  
 __lard__ _v_  
 __larder__ _n_ :five::hammer:  
 __largely__ _adv_ :four: To a large extent; mostly.  
@@ -10411,6 +10418,7 @@ __lisp<sup>2</sup>__ _v_
 __lissome__ _adj_ :two: Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
+__list price__ _n_  
 __list<sup>1</sup>__ _n_ __3__ An inclination to one side, as of a ship; a tilt. _She carried a starboard list of about five degrees._  
 __list<sup>2</sup>__ _v_ :astonished: (Nautical Terms) (esp of ships) To lean over or cause to lean over to one side. _The ship was listing in the water._  
 __listen__ _v_ :mute:[lis~~t~~en]  

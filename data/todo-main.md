@@ -1,28 +1,3 @@
-__genus__ _n_ /ˈdʒi nəs/  
-__gobble__ _v_  
-__grueling__ _adj_  
-__handler__ _n_ __1__ (Law) A person, esp a police officer, in charge of a specially trained dog.  
-__Hanukkah__ _n_ :mega: /ˈhɑ nə kə, ˈxɑ-/ (Hanukah, Chanukah)  
-__hassle__ _n, v_ :two::hammer:  
-__havoc__ _n, v_ :mega: /ˈhæv ək/  
-__hellion__ _n_ A mischievous, troublesome, or unruly person.  
-__hippo__ _n_ A hippopotamus.  
-__hogwash__ _n_  
-__host__ _n_ __2__ A great number; a multitude. _A host of tchniques._  
-__hullabaloo__ _n_  
-__humbug__ _n, v_  
-__humbug<sup>1</sup>__ _n_ :dart:  
-__humbug<sup>2</sup>__ _v_ :dart: To cheat or deceive (someone).  
-__identical twin__ _n_  
-__initiative__  
-__inordinate__ _adj_ /in-OR-dun-ut/  
-__junction__ _n_ A place where roads meet.  
-__juncture__ _n_ A point in time.  
-__kerfuffle__  
-__lambast__ _v tr_  
-__lapdog__ _n_  
-__larceny__ _n_  
-__list price__ _n_  
 __literate__ _adj_ __1b__ Knowledgeable or educated in a particular field or fields.  
 __long-lasting__ _adj_  
 __lox__ _n_ _(Cookery)_ A kind of smoked salmon.  
