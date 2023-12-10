@@ -1,28 +1,3 @@
-__appall__ _v tr_ To fill with horror and amazement; dismay greatly.  
-__appalled__ _adj_ /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
-__boatload__ _n_ The number of passengers or the amount of cargo that a boat can hold.  
-__boocoo__ _adj, adv, n_ _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
-__chalet__ _n_  
-__chugalug__ _v_  
-__complacent__ _adj_  
-__croc__ _n_  
-__dentures__ _n pl_ /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
-__distaff__ _adj, n_  
-__erupt__ _v intr_  
-__evince__ _v tr_ To show or demonstrate clearly; manifest: _evince distaste by grimacing._  
-__fanfare__  
-__fashion__ _v tr_  
-__festoon<sup>1</sup>__ _n_  
-__festoon<sup>2</sup>__ _v tr_  
-__fib__ _v_  
-__fine-tune__  
-__flounder__ _v intr_ __1__ To struggle; to move with difficulty, as in mud. __2__ To behave awkwardly; make mistakes.  
-__flummox__ _v_  
-__footstool__ _n_  
-__fraternal twin__ _n_  
-__gale__ _n_  
-__gallivant__ _v intr_  
-__gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
 __genus__ _n_ /ˈdʒi nəs/  
 __gobble__ _v_  
 __grueling__ _adj_  
