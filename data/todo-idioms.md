@@ -1,28 +1,3 @@
-__gassed__ In James Ellroy’s novels, the term “gassed” is often used to describe someone who is intoxicated or under the influence of drugs or alcohol.  
-__get (someone or something) out of (one’s) head__ To make an effort to forget or stop thinking about someone or something.  
-__get around to doing something__ To find time to do something; to do something after a long delay.  
-__get into (someone or something)__  
-__get someone’s goat__ _informal_ If someone or something gets your goat, they annoy you.  
-__get the picture__ To understand the real or overall meaning of a situation, without the need for further explanation. _OK, I get the picture. I’ll start looking for somewhere else to stay._  
-__gig__ _slang_ __4__ _v_ To work single or temporary professional jobs or engagements, especially those that are very brief. Often used in reference to the performance arts. _My dream is to become the house DJ for a high-end club, but for now I just gig at corporate events._  
-__give back__  
-__glom__ __1__ _v tr_ To steal something. (Underworld.) _He gloms just about everything he needs._ __2__ _v tr_ To take a look at someone or something. (Underworld.) _Come over here and glom the view of the bank from this window._ __3__ _v tr_ To arrest someone. _The copper glommed Fred on Tuesday._  
-__glommed__ _slang_ Arrested. _Dude, I hear sirens—we’re gonna get glommed if we stay here any longer!_  
-__go overboard__ __2__ To act without restraint in some area.  
-__green sheet__ In James Ellroy’s novels, the term “green sheet” is often used to refer to a document or record that contains information about a person or event. A “green sheet” is usually something that is kept by law enforcement or other authorities, and it contains details that are not publicly available or easily accessible. For example, a “green sheet” might contain information about a suspect in a crime, or about a witness who has given testimony in a trial.  
-__grifter__ Someone who swindles other people.  
-__grok__  
-__gunk__ __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
-__half-wit__ An insulting term for person who is not very smart.  
-__hambone__ _n_ __1__ A second-rate actor. __2__ A second-rate performance. __3__ A show-off.  
-__have (got) game__ _slang_ __1__To be especially talented or adept at something, typically sports. _I know that guy’s small, but don’t underestimate him on the court—he’s got game._ __2__ To be very skilled at initiating a conversation with someone with the aim of having a romantic or sexual encounter with them. _Wow, you got his number? Dang, girl, you’ve got game!_  
-__have (one’s) (best) interests at heart__ To be primarily concerned with what would benefit one.  
-__have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger. _Your department clearly has its head in the sand regarding this security breach!_  
-__have (someone) coming and going__ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
-__have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
-__have (something) on__ To be busy or engaged with something; to have plans to do something at a particular point in time. _I’’’ve got a few things on at the moment, but business has been pretty slow overall._  
-__have (the) first crack at (something)__ To have the first chance to do something.  
-__have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
 __have a thing for (something)__ To have a very keen or particular interest in something; to really like or enjoy something. _I know they’re stupid, but I’ve always had a thing for cheesy horror movies._  
