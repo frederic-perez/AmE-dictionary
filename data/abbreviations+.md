@@ -19,7 +19,7 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BAE__ Beautiful and elegant.  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
-__BCE__ Before the Common Era.  
+__BCE__ :two: Before the Common Era.  
 __BM__ Bowel movement (take a dump).  
 __BMX__ :two::hammer: _BMX bike._  
 __bn__ Billion. _US $30bn._  

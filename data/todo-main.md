@@ -1,7 +1,9 @@
 __appall__ _v tr_ To fill with horror and amazement; dismay greatly.  
 __appalled__ _adj_ /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
 __boatload__ _n_ The number of passengers or the amount of cargo that a boat can hold.  
+__boocoo__ _adj, adv, n_ _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
 __chalet__ _n_  
+__chugalug__ _v_  
 __complacent__ _adj_  
 __croc__ _n_  
 __dentures__ _n pl_ /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
@@ -17,19 +19,26 @@ __fine-tune__
 __flounder__ _v intr_ __1__ To struggle; to move with difficulty, as in mud. __2__ To behave awkwardly; make mistakes.  
 __flummox__ _v_  
 __footstool__ _n_  
+__fraternal twin__ _n_  
 __gale__ _n_  
+__gallivant__ _v intr_  
 __gastronome__ _n_ A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
 __genus__ _n_ /ˈdʒi nəs/  
+__gobble__ _v_  
 __grueling__ _adj_  
 __handler__ _n_ __1__ (Law) A person, esp a police officer, in charge of a specially trained dog.  
 __Hanukkah__ _n_ :mega: /ˈhɑ nə kə, ˈxɑ-/ (Hanukah, Chanukah)  
 __hassle__ _n, v_ :two::hammer:  
 __havoc__ _n, v_ :mega: /ˈhæv ək/  
+__hellion__ _n_ A mischievous, troublesome, or unruly person.  
 __hippo__ _n_ A hippopotamus.  
 __hogwash__ _n_  
 __host__ _n_ __2__ A great number; a multitude. _A host of tchniques._  
+__hullabaloo__ _n_  
+__humbug__ _n, v_  
 __humbug<sup>1</sup>__ _n_ :dart:  
 __humbug<sup>2</sup>__ _v_ :dart: To cheat or deceive (someone).  
+__identical twin__ _n_  
 __initiative__  
 __inordinate__ _adj_ /in-OR-dun-ut/  
 __junction__ _n_ A place where roads meet.  
@@ -41,15 +50,18 @@ __larceny__ _n_
 __list price__ _n_  
 __literate__ _adj_ __1b__ Knowledgeable or educated in a particular field or fields.  
 __long-lasting__ _adj_  
+__lox__ _n_ _(Cookery)_ A kind of smoked salmon.  
 __luscious__  
 __madcap<sup>1</sup>__ _adj_ Behaving or acting impulsively or rashly; wild.  
 __madcap<sup>2</sup>__ _n_  
 __maelstrom__ _n_ /MAIL-strum/  
 __marksmanship__ _n_ Skill in shooting.  
+__matchbook__ _n_ :dart:camera: A small folder into which matches are stapled or glued.  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
 __mawkish__ _adj_  
 __meager__ _adj_ (meagre)  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
+__menorah__ _n_  
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __mirth__ _n_  
 __misnomer__ _n_  
@@ -57,6 +69,7 @@ __misread__ _v tr_ 2. To misinterpret or misunderstand: _misread our friendly co
 __misspend__ _v tr_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
+__motormouth__ _n_  
 __nativist__ _adj_  
 __nativistic__ _adj_  
 __naught__ _n_  
@@ -87,6 +100,7 @@ __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
 __oxymoron__ _n_ /ahk-sih-MOR-ahn/  
+__pachuco__ _n_  
 __pad__ _v intr_ __1__ To go about on foot. __2__To move or walk about almost inaudibly. _The cat was padding through the grass._  
 __paganism__ _n_  
 __pageant__  
@@ -112,22 +126,27 @@ __playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.
 __plaza__ _n_ :mega:  
 __plodder__ _n_  
 __plodding__ _adj_  
+__plummet__ _v tr_ /ˈplʌm ɪt/ To fall straight or sharply down; plunge.  
 __pogrom__ _n_  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
 __pry__ _v_  
+__psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psychobabble__ _n_  
 __punitive__ _adj_ Inflicting or aiming to inflict punishment; punishing.  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
+__racketeer__ _n, v_  
 __radio__ _v_ _He never even thought to radio for help._  
 __rage__ _v intr_  
 __rampant__ _adj_  
+__ransack__ _v tr_  
 __ransom__ _n_  
 __rapture__ _v_  
 __recidivism__ _n_  
+__refusenik__ _n_  
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __rehouse__ _v tr_ To provide with new, usually improved housing.  
 __repercussion__ _n_  
@@ -179,6 +198,7 @@ __settee__ _n_
 __Seul__ _n_ :mega:  
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __shady__  
+__shakedown__ _n_ :two: An act of extortion. (Underworld.) _Mary was giving Bruno the shakedown, so he tried to put her out of the way._  
 __sham__ _n_  
 __shanghai__ _v_  
 __shash window__ _n_  
@@ -201,9 +221,12 @@ __six-figure__ _adj_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __smithereens__  
-__snarky__ _adj_ _informal_ Unpleasant and scornful.  
+__snarky__ _adj_ :two: _informal_ Unpleasant and scornful.  
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __split__ _v_ _Women who have split from a relationship._  
+__squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
+__squirm__ _v_ :two::hammer:  
+__stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
 __stem__ _v_  
 __stenos__  
 __stenotic__ _adj_ _Stenotic burden._  
@@ -293,6 +316,7 @@ __wheelhouse__
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __whip up__  
+__whiplash__ _n_  
 __wordsmith__ _n_  
 __workaday__ _adj_  
 __working order__ _n_  
