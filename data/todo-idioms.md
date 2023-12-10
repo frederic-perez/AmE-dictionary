@@ -1,28 +1,3 @@
-__a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case. _I’m not too fond of taxes either, but i’s a bit of a stretch to claim they are the cause of all our problems._  
-__a whole lot of (something)__ A large amount of something; a lot of something.  
-__across the pond__  
-__back out (of something)__ _Medtronic backs out of $738M acquisition due to “multiple breaches.”_  
-__bopster__ The term “bopster” is a slang word that is used in James Ellroy’s novels to refer to a person who is hip or cool, usually in a jazz or beatnik context. The word is a combination of “bop“ (a style of jazz) and “hipster“ (someone who is in the know about the latest trends and fashions).  
-__brown eye__  
-__crazy__  
-__dipshit__  
-__drop the ball__  
-__dupe__  
-__early days__ The beginning period or phase of some entity, trend, or phenomenon.  
-__egghead__ _slang_ A derogatory term for an intelligent, studious person.  
-__engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
-__figure someone or something out__ To begin to comprehend someone or something; to come to understand someone or something better. _I just can’t figure you out._  
-__fine-tune__  
-__fink on (someone)__ To report someone’s misdeeds to an authority figure. _The gang was determined to find the traitor who finked on them to the police._  
-__flatline__ _slang_ To die or come very close to death.  
-__fly high__  
-__follow suit__ :dart:  
-__for certain__ Definitely.  
-__for no good reason__ With no acceptable explanation. _She left for no good reason._  
-__for what it’s worth__  
-__from bad to worse__  
-__gab__ __1__ _v_ To talk or chat. _Geez, she’s been gabbing on the phone to her friend for an hour already._ __2__ _n_ Inane talk or gossip. _Don’t pay attention to what they’re saying—it’s all stupid gab._  
-__game-changer__ (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gassed__ In James Ellroy’s novels, the term “gassed” is often used to describe someone who is intoxicated or under the influence of drugs or alcohol.  
 __get (someone or something) out of (one’s) head__ To make an effort to forget or stop thinking about someone or something.  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
