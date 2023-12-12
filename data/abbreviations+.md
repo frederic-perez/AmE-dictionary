@@ -185,7 +185,7 @@ __pppn__ _abbr_ Per person per night.
 __PR__ :three: Public relations. _The best-kept secret in PR._ _The PR version of my life._  
 __PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
 __pt__ Patient.  
-__PTO__ Parent Teacher Organization.  
+__PTO__ __1__ Paid time off. __2__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
 __PVC__ Polyvinyl Chloride.  
 __PX__ Physical Examination. _You run the PX for these characters?_  
