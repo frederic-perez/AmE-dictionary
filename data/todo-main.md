@@ -1,28 +1,3 @@
-__-nik__ _suffix_ A suffix of nouns that refer, often in a derogatory way, to persons who espouse a cause, represent a cultural attitude, or are ardent enthusiasts of a thing or phenomenon: _beatnik; computernik; filmnik; peacenik._  
-__arbitrage__ _n_  
-__blackjack__ _n_ :astonished: __1__ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon.  
-__blather__ _n, v_  
-__boohoo__ _v_  
-__coming of age__  
-__counterfactual__ _adj, n_  
-__defrock__ _v tr_  
-__fatuously__ _adv_ Vacuously or complacently and unconsciously foolish. _Syn_ inanely  
-__gelt__ _n_ _slang chiefly US_ Cash or funds; money.  
-__gestalt__ _n_ :two::hammer:  
-__hullabaloo__  
-__inkblot test__ _n_ Any psychological test in which patterns formed by inkblots are interpreted by the subject.  
-__irksome__ _adj_  
-__jalopy__ _n_ An old, dilapidated motor vehicle, especially an automobile.  
-__juke__ _v_  
-__junta__ _n_  
-__lissome__ _adj_  
-__literate__ _adj_ __1b__ Knowledgeable or educated in a particular field or fields.  
-__long-lasting__ _adj_  
-__lox__ _n_ _(Cookery)_ A kind of smoked salmon.  
-__luscious__  
-__madcap<sup>1</sup>__ _adj_ Behaving or acting impulsively or rashly; wild.  
-__madcap<sup>2</sup>__ _n_  
-__maelstrom__ _n_ /MAIL-strum/  
 __marksmanship__ _n_ Skill in shooting.  
 __matchbook__ _n_ :dart:camera: A small folder into which matches are stapled or glued.  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  

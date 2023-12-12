@@ -6,6 +6,7 @@ __-esis__ _suffix_ Combining form meaning condition, action, or process.
 __-esque__ _suffix_ :six: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
 __-fold__ _suffix_ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __-itis__ _suffix_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
+__-nik__ _suffix_ A suffix of nouns that refer, often in a derogatory way, to persons who espouse a cause, represent a cultural attitude, or are ardent enthusiasts of a thing or phenomenon: _beatnik; computernik; filmnik; peacenik._  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
@@ -774,6 +775,7 @@ __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques o
 __Aragon__ _n_ :mega: /ˈærəɡən/  
 __Aramaic__  
 __Arapahoe__ _n_ :two::hammer:  
+__arbitrage__ _n_  
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
@@ -1712,7 +1714,7 @@ __blackface__ _n_ :two::hammer:
 __blackguard<sup>1</sup>__ _n_ __1a__ A rude or unscrupulous person __b__ A person who uses foul or abusive language.  
 __blackguard<sup>2</sup>__ _v tr_ To talk about or address in abusive terms.  
 __blackhead__ _n_ :five::hammer: (blackheads)  
-__blackjack<sup>1</sup>__ _n_  
+__blackjack<sup>1</sup>__ _n_ :two::astonished: __1__ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon.  
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
@@ -1735,7 +1737,8 @@ __blasé__ _adj_ :two::hammer:
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :three::hammer:  
 __blatantly__  
-__blather__ _v intr_ :three: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
+__blather<sup>1</sup>__ _n_  
+__blather<sup>2</sup>__ _v intr_ :four: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
 __blatherskite__ _n_ :two::hammer:  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
@@ -1953,7 +1956,7 @@ __booby-trapped 105’s__
 __boocoo__ _adj, adv, n_ :two: _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
-__boohoo__ _v_  
+__boohoo__ _v_ :two::hammer:  
 __book jacket__  
 __Book of Hours__  
 __book of matches__ _n_ :dart::two::camera: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
@@ -3612,7 +3615,7 @@ __comfortable__ _adj_ :two::dart::mega::hammer: /ˈkʌmftəbəl/
 __comforter sets__  
 __comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
-__coming of age__ _n_  
+__coming of age__ _n_ :two::hammer:  
 __coming up__  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
@@ -4059,6 +4062,7 @@ __countenance<sup>1</sup>__ _n_ :eight: /KOWN-tun-unss/ Countenance is a formal 
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
+__counterfactual__ _adj, n_  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_ :four: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
 __counteroffensive__ _n_  
@@ -4687,7 +4691,7 @@ __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to
 __deflect__ _v_ :three::hammer:  
 __deflection__ _n_ :two::hammer:  
 __defray__ _v tr_ :three::hammer:  
-__defrock__ _v tr_ :two: /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
+__defrock__ _v tr_ :three: /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
 __defrost__  
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one’s movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
@@ -6447,6 +6451,7 @@ __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.
 __fatso__  
 __fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
 __fatuous__ _adj_ :four: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
+__fatuously__ _adv_ Vacuously or complacently and unconsciously foolish. _Syn_ inanely  
 __fatwa__ _n_ :two: Religious edict.  
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
 __fault__ _v_  
@@ -7464,7 +7469,7 @@ __gel__ _v_ (gelled) _His hair was neatly gelled._
 __geld__ _v_ :two::hammer: (gelded)  
 __gelding__ _n_ :three:hammer:  
 __gelid__ _adj_ :two: Extremely cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._ _Gelid water._ _A man of gelid reserve._  
-__gelt__  
+__gelt__ _n_ :two: _slang chiefly US_ Cash or funds; money.  
 __gemini__ _n_ :mega:  
 __gemstone__ _n_ :es: piedra preciosa  
 __gender dysphoria__ _n_ :dart::two::hammer:  
@@ -7498,7 +7503,7 @@ __gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) +
 __gerrymander<sup>1</sup>__ _v_ :eight: /JAIR-ee-man-der/ (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
-__gestalt__ _n_ :six::hammer:  
+__gestalt__ _n_ :eight::hammer:  
 __get ahold__  
 __get away with__  
 __get enough__  
@@ -8885,7 +8890,7 @@ __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that
 __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my coworker some advice after the meeting, but she perceived it as criticism, got all huffy, and stormed away._  
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
-__hullabaloo__ _n_ :two: (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
+__hullabaloo__ _n_ :three: (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __human shield__  
 __humanist__  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
@@ -9327,6 +9332,7 @@ __injunction__ _n_ :nine::m: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ /in-JUNK-shun/ An authorit
 __injury time__  
 __injury-marred__ _adj_ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
+__inkblot test__ _n_ Any psychological test in which patterns formed by inkblots are interpreted by the subject.  
 __inkling__ _n_ :nine::m: /INK-ling/ __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ Inkling refers to a slight, uncertain idea about something, or to a slight amount of knowledge about something. A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
 __inland<sup>1</sup>__ _adj_ :two::hammer:  
 __inland<sup>2</sup>__ _adv_  
@@ -9489,7 +9495,7 @@ __iridology__ _n_ The study of the iris of the eye, especially as associated wit
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irk__ _v_ :two: To be irritating, wearisome, or vexing to. _What irks you?_ _Syn_ gall  
-__irksome__ _adj_ :two::hammer:  
+__irksome__ _adj_ :three::hammer:  
 __iron maiden__ _n_ :dart::camera: Instrument of torture consisting of a hollow iron frame shaped like the human body and lined with spikes to impale the victim. _His overstuffed couch was clearly designed by the same person who invented such medieval torture devices as the iron maiden and the pear of anguish._  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
@@ -9560,7 +9566,7 @@ __jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wi
 __jailbait__ _n_ _slang_ A girl who is younger than the legal age of consent for sexual activity.  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
-__jalopy__ _n informal_ :two: A dilapidated old vehicle or aircraft. Old car. _Syn_ heap, bus  
+__jalopy__ _n informal_ :three: A dilapidated old vehicle or aircraft. Old car. _Syn_ heap, bus  
 __jam up__ _v_  
 __jam__ _v_ :two::hammer:  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
@@ -9725,7 +9731,7 @@ __juice__ _n_ _slang_ :three: Energy, power.
 __juicy__ _adj_ :three::hammer:  
 __jujitsu__ _n_  
 __juke<sup>1</sup>__ _n_ _I was looking in my mirror and saw him juke to the right._  
-__juke<sup>2</sup>__ _v_  
+__juke<sup>2</sup>__ _v_ :two::hammer:  
 __julep__ _n_ :three::hammer: (juleps)  
 __julienne<sup>1</sup>__ _n_ Consommé or broth garnished with long thin strips of vegetables.  
 __julienne<sup>2</sup>__ _adj_ Cut into long thin strips: _julienne potatoes._  
@@ -9761,7 +9767,7 @@ __junket__ _n_ /JUNK-ut/ :five: __1__ A trip that is paid for by someone else, s
 __junkie__ _n_ :two: __2__ One who has an insatiable interest or devotion: _a sports junkie._ _He was a news junkie._  
 __junkyard__ _n_  
 __Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
-__junta__ _n_ :three::hammer:  
+__junta__ _n_ :four::hammer:  
 __jurisprudence__ _n_  
 __juror__ _n_ :mega: (jurors)  
 __jury box__ _n_ An enclosure where the jury sit in court.  
@@ -10415,7 +10421,7 @@ __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._
 __liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
-__lissome__ _adj_ :two: Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
+__lissome__ _adj_ :three: Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __list price__ _n_  
@@ -10433,7 +10439,7 @@ __lit crit__ _n_ _informal_ Literary criticism.
 __lit__ _n_ __3__ _informal_ Literature, especially as an academic subject: _enjoyed my course in French lit._  
 __litany__ _n_ :nine::m::mega: /LIT-uh-nee/ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
-__literate<sup>1</sup>__ _adj_  
+__literate<sup>1</sup>__ _adj_ :two: __1b__ Knowledgeable or educated in a particular field or fields.  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
 __lithe__ _adj_ :five::hammer: _A lithe cat._  
 __lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning “breaking stones.”  
@@ -10527,6 +10533,7 @@ __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have lo
 __long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a long-drawn-out story._  
 __long-haul__ _adj_ _Researchers examined a small group of long-haul COVID-19 patients._  
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
+__long-lasting__ _adj_  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
 __longboat__ _n_ A large oared boat usually carried by a merchant sailing ship. A long low boat, used especially in the past for traveling on the ocean. _A Viking longboat._  
@@ -10609,6 +10616,7 @@ __lowkey__
 __lowlife__ _n_ _slang_ :four: __1__ A contemptible person. A criminal or disreputable person. _That guy is a lowlife, always hitting on the waitresses and causing trouble._ __2__ The class of such people considered collectively. _As a private investigator, I’m well-acquainted with our city’s lowlife._  
 __lowlight__ _n_ :two::hammer:  
 __lowly__ _adj_ :four::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._ _He was a lowly graduate student._  
+__lox__ _n_ _(Cookery)_ A kind of smoked salmon.  
 __lozenge__ _n_ :two: Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
 __lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
@@ -10662,7 +10670,7 @@ __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over th
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :six::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
-__luscious__ _adj_ :four: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
+__luscious__ _adj_ :five: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
 __lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy. __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
@@ -10713,7 +10721,8 @@ __macrophages__ _n_ _We started looking at macrophages, cells that eat lipids st
 __macule__ _n_ :two: (macula) A discolored spot or area on the skin that is not elevated above the surface and is characteristic of certain conditions, such as smallpox, purpura, or roseola.  
 __Mad Libs__ _n_  
 __Mad Max__ _adj_ /mad MAKS/ Dystopian, post-apocalyptic, anarchic.  
-__madcap__  
+__madcap<sup>1</sup>__ _adj_ :two: Behaving or acting impulsively or rashly; wild.  
+__madcap<sup>2</sup>__ _n_ :two::hammer:  
 __Madchester__ _n_ Manchester, UK.  
 __madden__ _v_ :two::hammer: (maddening)  
 __madding__ _adj_ :astonished: _Madding crowds._  
@@ -10725,7 +10734,7 @@ __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or colleg
 __madrigal__ _n_ :two::hammer:  
 __madrigalist__ _n_  
 __madrigals__ _n_ :pencil2:  
-__maelstrom__ _n_ :nine: /MAIL-strum/ __1__ A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
+__maelstrom__ _n_ :nine::m: /MAIL-strum/ __1__ A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magazine__ _n_ _They were pledged to keep the castle’s magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
