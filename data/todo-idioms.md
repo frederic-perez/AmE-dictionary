@@ -1,28 +1,3 @@
-__211__ In James Ellroy’s novels, 211 refers to the California Penal Code section for robbery. It’s often used in the same way as 459, as a shorthand for illegal activity or criminal behavior.  
-__459__ :three: 459 is a reference to the California Penal Code section for burglary, which is often used by Ellroy as a code word for criminal activity in his novels.  
-__86__ _v tr_ :two: (eighty-six) To dispose of someone or something; to nix someone or something. _He wants $400? Eighty-six that! We can’t afford it._  
-__a doozy__ Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
-__a laundry list of (something)__ A very lengthy, thorough list of items.  
-__against all odds__ Despite being very likely to fail.  
-__atone for (something)__  
-__attaboy__  
-__B-boy__ It’s short for “Bronx boy,” and it refers to someone who is streetwise, tough, and cool. In Ellroy’s novels, it’s often used to describe characters who are involved in criminal activity or are part of the underworld.  
-__bad juju__ “Bad juju” is another slang term used by Ellroy to refer to a negative or dangerous situation or circumstance. In his novels, “bad juju” is often used to describe a situation that is going to end badly or that is fraught with risk. Basically, bad juju is like a warning sign of impending disaster!  
-__beyond repair__  
-__build castles in the air__ (build castles in the sky)  
-__butch__  
-__buy__ _slang_ To believe or accept something as true or feasible without question or investigation. _I can’t believe the boss bought my excuse for missing work yesterday._  
-__by and large__  
-__call out__ __3__ To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._ _He called me out for being late._  
-__catch something__ _v tr_ To see or listen to something. (More specific than the colloquial sense, to manage to hear something.) _Did you catch that radio program about cancer last night?_  
-__catch__ _n_ A drawback. _Okay, that sounds good, but what’s the catch?_ _There’s a big catch in the EU’s landmark new AI law._  
-__clam__ _n_ :three: __1__ A dollar. (Underworld.) _You got a couple of clams I can bum for a little bottle?_  
-__cough up__  
-__crank out__  
-__dawn (up)on (one)__  
-__down to brass tacks__ :two: Focused on the most important aspects of a particular situation. Often used in the phrase “get down to brass tacks.”  
-__drop the ball__  
-__flimflam__  
 __for kicks__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  

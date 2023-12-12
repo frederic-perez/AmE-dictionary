@@ -74,9 +74,12 @@ __(there’s) no rest for the wicked__ The lack of peace in one’s life, or the
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __15 minutes of fame__ A brief period of celebrity or notoriety. The term was coined by artist Andy Warhol. _Jane had her 15 minutes of fame when she appeared on the nightly news broadcast._  
+__211__ In James Ellroy’s novels, 211 refers to the California Penal Code section for robbery. It’s often used in the same way as 459, as a shorthand for illegal activity or criminal behavior.  
 __23 skidoo__ To clear out or get away in haste before getting into or causing trouble, referring either to oneself or to another. “23” may refer to the Flatiron Building in New York City (located on 23rd Street), around which great winds tend to blow. It may also derive from an older use meaning to tell someone to clear out of one”s way. Primarily heard in US. _It looks like there”s trouble brewing here. I”d better 23 skidoo!_  
 __411__ :two: (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
+__459__ :three: 459 is a reference to the California Penal Code section for burglary, which is often used by Ellroy as a code word for criminal activity in his novels.  
 __800-pound gorilla__ :three: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)] A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
+__86__ _v tr_ :two: (eighty-six) To dispose of someone or something; to nix someone or something. _He wants $400? Eighty-six that! We can’t afford it._  
 __a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasant, dishonorable, or unwanted tends to appear (or reappear), especially at inopportune times. __2__ Things that are done improperly eventually cause problems.  
@@ -107,7 +110,7 @@ __a different ball game__
 __a different kettle of fish__  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a disaster waiting to happen__  
-__a doozy__  
+__a doozy__ :two: Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
 __a double take__  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
 __a falling out__ :two: A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
@@ -147,7 +150,7 @@ __a kick in the teeth__ A humiliating disappointment or setback. _Losing my job 
 __a kind of (something)__ A replacement or alternative to (the real thing).  
 __a knee-slapper__ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
-__a laundry list of (something)__ :dart::two: A very lengthy, thorough list of items. A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._ _I have a laundry list of projects I need to get done before Friday._  
+__a laundry list of (something)__ :dart::three: A very lengthy, thorough list of items. A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._ _I have a laundry list of projects I need to get done before Friday._  
 __a lean patch__ :two: A period of failure, decline, or poor performance or results. _Almost every new business experiences a lean patch at some point or another._  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
 __a legend in (one’s) own mind__ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
@@ -249,6 +252,7 @@ __affinity for (someone or something)__ A passionate interest in or affection fo
 __affirmative action__  
 __after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
 __again and again__ :two::hammer: _The same groundhog festival is gearing up again and again._  
+__against all odds__ Despite being very likely to fail.  
 __against nature__ Contrary to what is considered natural, moral, or proper for human life. _The horrible way they treat homeless people around here is a crime against nature._  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
@@ -414,7 +418,8 @@ __at the top of the hour__ At the start of the hour (such as 12:00, 3:00, etc.).
 __at times__ :two: On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at top speed__ As fast as something or someone can go. _Once Tom caught the ball, he took off at top speed toward the end zone._  
 __at your leisure__  
-__attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
+__atone for (something)__  
+__attaboy__ :five: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
 __awash__ _adj_ Drunk.  
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
@@ -422,6 +427,7 @@ __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._
 __aye aye, sir__ _Aye aye, Captain._  
 __B and E__ :three::hammer:  
 __B of A__ Bank of America.  
+__B-boy__ It’s short for “Bronx boy,” and it refers to someone who is streetwise, tough, and cool. In Ellroy’s novels, it’s often used to describe characters who are involved in criminal activity or are part of the underworld.  
 __B-girl__ _n_ A woman who is employed by a bar to encourage customers to spend money freely. Oh, boy, we’re really getting into the 1940s slang now! A “B-girl“ was a type of female hustler who would hang out in bars and nightclubs, often working for the bar owners or managers.  
 __B-Team__  
 __baby boomer__  
@@ -447,6 +453,7 @@ __backwater__
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad blood__ :three: Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
 __bad boy__  
+__bad juju__ “Bad juju” is another slang term used by Ellroy to refer to a negative or dangerous situation or circumstance. In his novels, “bad juju” is often used to describe a situation that is going to end badly or that is fraught with risk. Basically, bad juju is like a warning sign of impending disaster!  
 __bad omen__ A sign, either real or imagined, of ill fortune or catastrophe in the future. _It was a bad omen when my girlfriend broke up with me the day before my final exams._  
 __bad press__ :three: Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
@@ -674,6 +681,7 @@ __between dog and wolf__ Between dusk and daylight. _What were you guys doing ou
 __beyond belief__ Inconceivable; outside of the realm of imagination, expectation, or anticipation. _I find it simply beyond belief the greed of all these big corporations._  
 __beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
 __beyond measure__ :three::hammer:  
+__beyond repair__  
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ :two: A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _He had been writing for years, but his big break came when his third novel became a huge international bestseller._ _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big cheese__ :two: An influential person.  
@@ -832,6 +840,7 @@ __bug off__ _slang_
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __build a case__ To compile evidence that supports an argument or charges against someone or something.  
 __build bridges__  
+__build castles in the air__ (build castles in the sky)  
 __build up__ :two::hammer:  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  
 __built to last__ Used to describe something that is durable, of high quality, and expected to serve for a long time.  
@@ -869,7 +878,7 @@ __but for (someone)__ Except for someone; if not for someone. _But for the suppo
 __but for (something)__ Except for something; if not for something. _That major home repair would have sent me into debt but for my emergency fund._  
 __but really__ “But really” is a colloquial phrase commonly used in informal speech and writing. It is often employed to emphasize a point or to express sincerity after a previous statement.  
 __but still__  
-__butch__ (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
+__butch__ :two: (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
 __butt heads__ __1__ Literally, to knock heads together, as of rams or sheep. _The two male rams fiercely butted heads to establish dominance among the group._ __2__ By extension, to completely disagree or get into a heated confrontation with someone. _Jonathan and Cynthia always butt heads over politics when they’re together._ _I got kicked out of the bar when I started butting heads with that guy._ _Sullivan butted heads with Standards and Practices._  
 __butt-kicker__  
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
@@ -878,13 +887,14 @@ __butterflies in the stomach__
 __butthead__  
 __button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __buy the farm__ To die.  
+__buy__ _slang_ To believe or accept something as true or feasible without question or investigation. _I can’t believe the boss bought my excuse for missing work yesterday._  
 __buzz__ :two::hammer: _Buzzed the fuzz._  
 __by (oneself)__  
 __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means__  
 __by and by__  
-__by and large__ :four::hammer:  
+__by and large__ :five::hammer:  
 __by any chance__ :dart::two: Used as a polite emphasis to a request or question. Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_ _Would you by any chance happen to know where the subway is from here?_  
 __by any means__  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
@@ -914,7 +924,7 @@ __call it a day__ :two::hammer: _If there are no further points, then let’s ca
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
 __call on (someone or something)__ :two::hammer: _He called on me._  
-__call out__ :six::hammer: _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
+__call out__ :seven::hammer: __3__ To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._ _He called me out for being late._ _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_  
 __call someone names__ :three: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
 __call someone out__ :four: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
@@ -987,10 +997,11 @@ __catch on__
 __catch one’s breath__ :two: To pause or rest before continuing an activity or beginning a new one; resume regular breathing: _Let me catch my breath before I begin anything new._  
 __catch onto (something)__  
 __catch some Zs__ To go to sleep, to take a nap.  
+__catch something__ _v tr_ To see or listen to something. (More specific than the colloquial sense, to manage to hear something.) _Did you catch that radio program about cancer last night?_  
 __catch the sun__ To get sunburned. _I caught the sun at the beach last weekend, and now my back hurts so much that I have to sleep on my side!_  
 __catch the wave__ If you catch the wave, you act quickly in order to use an opportunity, especially an opportunity to do something new. _We knew we had to catch the wave now or be left behind in the future._ _The venture relies on catching the wave of interest generated by the Tolkien films._  
 __catch wind of (something)__ :three: (get wind of something, caught wind) To learn of something; to hear about something.  
-__catch__ :two: __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_ _Here is the catch._  
+__catch__ :three: __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_ _Here is the catch._  
 __cater to (someone or something)__  
 __catfish__ _Dating sites are riddled with catfish._  
 __catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
@@ -1058,6 +1069,7 @@ __cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting abse
 __circle back (to something)__ :two::hammer:  
 __circle the drain__ :two: To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
 __cisgender__  
+__clam__ _n_ :three: __1__ A dollar. (Underworld.) _You got a couple of clams I can bum for a little bottle?_  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
@@ -1163,7 +1175,7 @@ __cost an arm and a leg__ To be extremely expensive.
 __cost the earth__ To be exorbitant or burdensome in expense.  
 __cottage industry__  
 __couch potato__  
-__cough up__  
+__cough up__ :two::hammer:  
 __count someone in (for something)__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
@@ -1181,6 +1193,7 @@ __crack the code__
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
 __cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
 __cram in__  
+__crank out__  
 __crank up__  
 __crap out__ __4__ _rude slang_ To die. _I felt so sick when I had food poisoning that I thought I was going to crap out._  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
@@ -1273,7 +1286,7 @@ __dark side__ A deeply negative, troubled, or antagonistic aspect of someone or 
 __darkest hour__ :two: The moment or period in which things are at their worst, lowest, or most discouraging.  
 __Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
-__dawn (up)on (one)__ :two::hammer:  
+__dawn (up)on (one)__ :three::hammer:  
 __day and age__  
 __day in and day out__ :eight: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in, day out__ :three: For an indefinite number of successive days. _Syn_ time after time  
@@ -1421,6 +1434,7 @@ __down the pike__ :dart: In the future. _I do want to get married, but down the 
 __down the road__ _informal_ :four: In the future; later on. _I do want to get married, but down the road, not any time soon._  
 __down the toilet__ :two::hammer: _Three hours down the toilet._  
 __down to (someone or something)__  
+__down to brass tacks__ :two: Focused on the most important aspects of a particular situation. Often used in the phrase “get down to brass tacks.”  
 __down to the wire__ :two: (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.) Until the last possible second.  
 __down under__  
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
@@ -1456,7 +1470,7 @@ __drop a bombshell__ To announce shocking news.
 __drop by__  
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop out__  
-__drop the ball__ :dart::six: To make a mistake, to fail.  
+__drop the ball__ :dart::seven: To make a mistake, to fail.  
 __duck and cover__  
 __duck__ __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._  
 __dud__ :two::astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
@@ -1638,6 +1652,7 @@ __flat-footed__ :dart::two: __1__ Slow to react. Unprepared. Often used in the p
 __flatline__ :two: _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __flesh out__ :two::hammer:  
 __flick off__ :dart: _He flicked off the light._  
+__flimflam__  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
 __flog a dead horse__  
