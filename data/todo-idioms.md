@@ -1,4 +1,6 @@
-__86__ _v tr_ (eighty-six) To dispose of someone or something; to nix someone or something. _He wants $400? Eighty-six that! We can’t afford it._  
+__211__ In James Ellroy’s novels, 211 refers to the California Penal Code section for robbery. It’s often used in the same way as 459, as a shorthand for illegal activity or criminal behavior.  
+__459__ :three: 459 is a reference to the California Penal Code section for burglary, which is often used by Ellroy as a code word for criminal activity in his novels.  
+__86__ _v tr_ :two: (eighty-six) To dispose of someone or something; to nix someone or something. _He wants $400? Eighty-six that! We can’t afford it._  
 __a doozy__ Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
 __a laundry list of (something)__ A very lengthy, thorough list of items.  
 __against all odds__ Despite being very likely to fail.  
@@ -12,12 +14,16 @@ __butch__
 __buy__ _slang_ To believe or accept something as true or feasible without question or investigation. _I can’t believe the boss bought my excuse for missing work yesterday._  
 __by and large__  
 __call out__ __3__ To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._ _He called me out for being late._  
-__clam__ _n_ __1__ A dollar. (Underworld.) _You got a couple of clams I can bum for a little bottle?_  
+__catch something__ _v tr_ To see or listen to something. (More specific than the colloquial sense, to manage to hear something.) _Did you catch that radio program about cancer last night?_  
+__catch__ _n_ A drawback. _Okay, that sounds good, but what’s the catch?_ _There’s a big catch in the EU’s landmark new AI law._  
+__clam__ _n_ :three: __1__ A dollar. (Underworld.) _You got a couple of clams I can bum for a little bottle?_  
 __cough up__  
 __crank out__  
 __dawn (up)on (one)__  
 __down to brass tacks__ :two: Focused on the most important aspects of a particular situation. Often used in the phrase “get down to brass tacks.”  
+__drop the ball__  
 __flimflam__  
+__for kicks__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
@@ -75,6 +81,7 @@ __hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—t
 __I can’t thank you enough__ Said when one is very appreciative of another’s words or actions.  
 __in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
 __in voice__ In an ideal state or condition for speaking or singing.  
+__in working order__ Of a machine, functional; not broken.  
 __inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read this book inside out again and again, but I still enjoy it every time._  
 __it takes a village__  
 __jailbait__ Someone who is attractive but younger than the legal age of consent. _Tom hates hopheads and jailbait jumpers._  
@@ -99,6 +106,7 @@ __make (one’s)/the rounds__ :two::hammer:
 __mama bear__  
 __Mary Jane__ :two::hammer:  
 __Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
+__Mickey (Finn)__  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
@@ -107,7 +115,9 @@ __nerve-wracking__ Causing fear or anxiety.
 __nest egg__  
 __nitpicker__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
+__no shit__  
 __noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
+__non sequitur__  
 __nosh__ __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
@@ -130,15 +140,17 @@ __one size fits all__ Supposedly well-suited to any situation, as of a product, 
 __open season (on someone or something)__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
 __out of whack__  
+__out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
 __oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
 __pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
 __pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
 __pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
 __pave the way (for someone or something)__  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
+__PC__  
 __peeps__  
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
-__phase out__  
+__phase out__ :two::hammer:  
 __pisser__  
 __plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __play around__  
@@ -164,6 +176,7 @@ __put a spoke in (one’s) wheel__
 __put an end to (something)__  
 __put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
 __put food on the table__  
+__put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
 __put on a clinic__  
 __put on the brakes__ To slow down, impede, or stop one’s activity or progress.  
 __put out fires__  
@@ -179,6 +192,7 @@ __put upon__
 __putzo__ :two::hammer:  
 __quick buck__  
 __radio silence__  
+__ragtop__ _n_ A convertible car.  
 __rain check__  
 __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
 __raise the stakes__  
@@ -209,6 +223,7 @@ __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me.
 __rub someone wrong__  
 __ruckus__ A large, uproarious commotion.  
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
+__sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schtick__  
 __scoop__  
@@ -242,6 +257,7 @@ __stick (one’s) tongue out__
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __strike a deal__ To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
+__swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
 __swear by (someone or something)__  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
@@ -251,16 +267,22 @@ __take a deep breath__
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
 __talk the talk__  
+__tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __the lowdown on__ :dart: The whole truth about something.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
+__the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
+__thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __time flies__  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
+__turkey__  
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
+__under the hood__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
+__up for grabs__  
 __vamoose__ :two::hammer: (vamoosed)  
 __walk the walk__  
 __walk through__  
