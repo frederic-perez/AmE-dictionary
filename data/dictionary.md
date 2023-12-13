@@ -575,7 +575,7 @@ __andirons__
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotage__ _n_  
-__anecdotal__ _adj_ :two::hammer::mega:  
+__anecdotal__ _adj_ :three::hammer::mega:  
 __anecdotally__  
 __anecdote__ _n_ :two: An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
@@ -1986,7 +1986,7 @@ __boomerang effect__
 __boomtown__ _n_ :two: A town experiencing an economic or a population boom.  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
-__boondoggle__ _n_ :five: __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
+__boondoggle__ _n_ :six: __1__ An unnecessary or wasteful project or activity. _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._ __2__ A braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.  
 __boonies__  
 __boor__ _n_ _Sometimes you can really be a boor._  
 __boorish__ _adj_ :five: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
@@ -2448,7 +2448,7 @@ __burr__ _n_
 __burrhead__ _n_  
 __burrito__ _n_ :mega:  
 __burrow<sup>1</sup>__ _n_ :six::hammer:  
-__burrow<sup>2</sup>__ _v_ :four::hammer:  
+__burrow<sup>2</sup>__ _v intr_ :five::hammer: (with adverbial of direction) To move underneath or press up against in search of safety or comfort. _He collapsed on the bed and burrowed under the covers._  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
 __bursitis__ _n_  
@@ -4532,7 +4532,7 @@ __Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direc
 __daven__ _v intr_ To recite Jewish liturgical prayers.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __davit__ _n_ :two::hammer:  
-__dawdle__ _v_ :dart::two::hammer:  
+__dawdle__ _v_ :dart::four::hammer:  
 __dawn__ _v_  
 __day and age__  
 __day job__  
@@ -4772,7 +4772,7 @@ __denizen__ _n_ :seven: (denizens) /ˈdɛnɪzən/ An inhabitant; a resident. _Sy
 __denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
-__dentures__ _n pl_ :dart::three: /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
+__dentures__ _n pl_ :dart::four: /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
 __deontology__ _n_  
 __depart__ _v_ _Buses depart every 30 minutes._  
 __departed__  
@@ -5388,7 +5388,10 @@ __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).
 __drab<sup>1</sup>__ _adj_ :seven: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __draconian__ _adj_ :seven: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
-__draft__ _v_ :three::astonished::hammer: _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
+__draft<sup>1</sup>__ _n_  
+__draft<sup>2</sup>__ _v tr_ :four::astonished::hammer: __1__ To select from a group for some usually compulsory service: _drafted into the army._ _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
+__draft<sup>3</sup>__ _v intr_  
+__draft<sup>4</sup>__ _adj_  
 __drafter__ _n_  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag queen__  
@@ -5421,7 +5424,7 @@ __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw g
 __drawbridge__ _n_ :three::hammer:  
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
-__drawl<sup>2</sup>__ _n_ :six: The way of speech of someone who drawls. _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
+__drawl<sup>2</sup>__ _n_ :seven: The way of speech of someone who drawls. _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
 __drawn-out__ _adj_ :two: Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __drawstring__ _n_  
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
@@ -6204,7 +6207,7 @@ __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someo
 __exhilarated__ _adj_ Very happy and excited.  
 __exhilarating__ _adj_ :nine::m: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
 __exhilaration__ _n_  
-__exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
+__exhort__ _v_ :two: /ig-ZORT/__1__ To incite by argument or advice; urge strongly to do something. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
 __exigent__ _adj_ /EK-suh-junt/  
 __exiguous__ _adj_ :two::hammer:  
@@ -6243,6 +6246,7 @@ __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._
 __expound__ _v_  
 __expropriate__ _v_ To take (a property) for public use.  
 __expunge__ _v tr_ :three: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
+__expurgate__ _v tr_ :astonished:  
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
 __extant__ _adj_ :two::hammer:  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
@@ -7378,6 +7382,7 @@ __galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (co
 __galvanize__ _v_ :nine::m: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
 __gambit__ _n_ :six: /GAM-bit/ A maneuver, stratagem, or ploy, especially one used at an initial stage. A gambit is something done or said in order to gain an advantage or to produce a desired effect. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._ _The workers’ opening gambit in the negotiations was to demand a wage hike._  
 __gamboge__ _n_ __2__ Yellow or yellow-orange.  
+__gambol__  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
 __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
@@ -8221,7 +8226,7 @@ __haphazard<sup>3</sup>__ _adv_
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
-__happenstance__ _n_ :two: A chance circumstance. _Syn_ coincidence  
+__happenstance__ _n_ :three: A chance circumstance. _Syn_ coincidence  
 __happy feet__  
 __haps__ _n_ :two::hammer: _What’s the haps?_  
 __haptic__ _adj_ Of or relating to the sense of touch; tactile.  
@@ -8530,8 +8535,8 @@ __heterogeneous__ _adj_
 __hew__ _v_ :nine::m: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._ _A hand-hewn cave._  
 __hex key__ _n_ Allen key. _Hex key set._  
 __hex sign__ _n_ _She made the hex sign._  
-__hex<sup>1</sup>__ _n_ :dart::three: __1__ An evil spell; a curse. _Looking for a hex-breaking sign._ __2__ One that brings bad luck.  
-__hex<sup>2</sup>__ _v tr_ :two: __1__ To put a hex on. __2__ To bring or wish bad luck to.  
+__hex<sup>1</sup>__ _n_ :dart::four: __1__ An evil spell; a curse. _Looking for a hex-breaking sign._ __2__ One that brings bad luck.  
+__hex<sup>2</sup>__ _v tr_ :three: __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hey__  
 __heyday__ _n_ :nine: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
@@ -8654,7 +8659,7 @@ __hog<sup>2</sup>__ _v_ :three: __4__ _informal_ To take more than one’s share
 __hogslop__  
 __hogwash__ _n_ :three: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
-__hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
+__hoist<sup>2</sup>__ _v_ :four::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
 __hokey__ _adj_ :two::hammer: _It may sound hokey._  
 __hokum__ _n_ :five: __1__ Utter nonsense; bunkum. _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
@@ -8979,7 +8984,7 @@ __hyphen__ _n_
 __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
 __hypochondriac__  
 __hypocorism__ _n_ :two: A pet name, esp one using a diminutive affix. A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_ _“Sally” is a hypocorism for “Sarah”._  
-__hypocrisy__  
+__hypocrisy__ _n_ :two::hammer::pencil2:  
 __hypocrite__  
 __hypocritical__ _adj_ :two::hammer::pencil2:  
 __hypogeusia__ _n_ A reduced ability to taste things (to taste sweet, sour, bitter, or salty substances). The complete lack of taste is referred to as ageusia. Causes of hypogeusia include the chemotherapy drug bleomycin, an antitumor antibiotic, as well as zinc deficiency.  
@@ -10421,7 +10426,7 @@ __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._
 __liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
-__lissome__ _adj_ :three: Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
+__lissome__ _adj_ :four: Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __list price__ _n_  
@@ -10441,7 +10446,7 @@ __litany__ _n_ :nine::m::mega: /LIT-uh-nee/ __1__ _Christianity_ A liturgical pr
 __literacy__  
 __literate<sup>1</sup>__ _adj_ :two: __1b__ Knowledgeable or educated in a particular field or fields.  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
-__lithe__ _adj_ :five::hammer: _A lithe cat._  
+__lithe__ _adj_ :six::hammer: _A lithe cat._  
 __lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning “breaking stones.”  
 __lithotripter__ _n_  
 __litigation__  
@@ -10480,7 +10485,7 @@ __lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wa
 __lobbyist__ _n_  
 __lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
 __lobster roll__  
-__locale__ _n_ :two::hammer: _We want to recruit nationally, but in our locale we have talent._  
+__locale__ _n_ :three::hammer: _We want to recruit nationally, but in our locale we have talent._  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
 __lock horns__  
@@ -10910,6 +10915,7 @@ __markdowns__
 __marketplace__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
 __marksman__ _n_  
+__marksmanship__ _n_ Skill in shooting.  
 __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov’t-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
 __maroon<sup>1</sup>__ _n_  
@@ -10961,6 +10967,7 @@ __masthead__ _n_
 __mastodon__ _n_ :two::hammer: :es: mastodonte  
 __mastoiditis__ _n_  
 __mat__ _n_ __4__ A densely woven or thickly tangled mass: _a mat of hair._  
+__matchbook__ _n_ :dart:camera: A small folder into which matches are stapled or glued.  
 __matchmaking service__  
 __matchmaking__ _n_ :two: Mediation in order to bring about a marriage between others.  
 __matchstick__ _n_ :two::hammer:  
@@ -10972,7 +10979,7 @@ __materteral__ _adj_ /muh-TUHR-tuhr-uhl/ [:scroll: From Latin matertera (materna
 __matey__  
 __matinee__ _n_ :five::hammer: (matinees) _The matinees were killing him._  
 __matins__ _n_ _Matins were chanted._  
-__matriarch__ _n_ :two::hammer:  
+__matriarch__ _n_ :three: A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __matrix__ _n_ :mega:  
 __matron__ _n_ :two::hammer: _A jailhouse matron._  
@@ -10992,7 +10999,7 @@ __mauve__ _n_
 __maven__ _n_ :four: A person who has special knowledge or experience; an expert.  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
 __maw__ _n_ :five::hammer:  
-__mawkish__ _adj_ :four: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
+__mawkish__ _adj_ :five: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
 __maxes__ _v_  

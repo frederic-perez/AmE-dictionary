@@ -1,28 +1,3 @@
-__anecdotal__ _adj_ :mega:  
-__boondoggle__  
-__burrow__ _v intr_ (with adverbial of direction) To move underneath or press up against in search of safety or comfort. _He collapsed on the bed and burrowed under the covers._  
-__dawdle__ _v_ :dart::two::hammer:  
-__dentures__  
-__draft<sup>1</sup>__ _n_  
-__draft<sup>2</sup>__ _v tr_ __1__ To select from a group for some usually compulsory service: _drafted into the army._  
-__draft<sup>3</sup>__ _v intr_  
-__draft<sup>4</sup>__ _adj_  
-__drawl__ _n_  
-__exhort__ _v_ /ig-ZORT/ To exhort someone is to try to strongly urge them to do something.  
-__expurgate__ _v tr_ :astonished:  
-__gambol__  
-__happenstance__ _n_  
-__hex<sup>1</sup>__ _n_  
-__hex<sup>2</sup>__ _v tr_  
-__hoist__ _v_  
-__hypocrisy__ _n_ :pencil2:  
-__lissome__ _adj_  
-__lithe__ _adj_  
-__locale__ _n_  
-__marksmanship__ _n_ Skill in shooting.  
-__matchbook__ _n_ :dart:camera: A small folder into which matches are stapled or glued.  
-__matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
-__mawkish__ _adj_  
 __meager__ _adj_ (meagre)  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __menorah__ _n_  
