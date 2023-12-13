@@ -1,13 +1,20 @@
+__(first) dibs (on something)__  
+__boffo__ :two: __2__ _adj_ Wonderful or fantastic. _That routine was just boffo, way to go!_  
+__bring (someone or something) to (someone’s or something’s) knees__  
+__bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
+__defuse (something)__ To settle, calm, or make less dangerous an extremely tense, hostile, or volatile situation. Likened to removing the fuse from or otherwise disabling a bomb.  
 __for kicks__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
 __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually said of the intention or expectation.)  
+__get the drift__  
 __get under (one’s) skin__  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __go above and beyond__ To act in a way that exceeds expectations or requirements.  
 __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
+__go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __grapple with (someone or something)__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
@@ -52,8 +59,10 @@ __hear crickets__ To receive no response or reaction at all from someone else, t
 __hijinx__ :two: Mischievous or playful behavior that is intended to be amusing or entertaining, but that often crosses the line into being disruptive or annoying.  
 __hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
 __hophead__ _Tom hates hopheads and jailbait jumpers._  
+__hot air__ Lies, exaggerations, or nonsense.  
 __hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—the kids are hot to trot._ __2__ Sexually arousing or aroused. _If you think he’s so hot to trot, why don’t you ask him out?_  
 __I can’t thank you enough__ Said when one is very appreciative of another’s words or actions.  
+__in a tiff__ In a state of disagreement, often over something minor or petty.  
 __in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
 __in voice__ In an ideal state or condition for speaking or singing.  
 __in working order__ Of a machine, functional; not broken.  
@@ -64,6 +73,7 @@ __jamoke__ :two: The term “jamoke” is a slang word that is used in James Ell
 __jaw__  
 __jaw-dropping__ Astonishing or astounding; causing an overwhelming amount of surprise, wonder, or amazement.  
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
+__jump the gun__ To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. In James Ellroy’s novels, it usually means to act prematurely or hastily, without waiting for the right moment.  
 __jungle juice__ _slang_ Any improvised mixture of large amounts various hard liquors combined with small amounts of fruit juice.  
 __kiss-ass__  
 __ladies and gents__  
@@ -82,6 +92,7 @@ __mama bear__
 __Mary Jane__ :two::hammer:  
 __Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
 __Mickey (Finn)__  
+__mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
@@ -90,6 +101,7 @@ __nerve-wracking__ Causing fear or anxiety.
 __nest egg__  
 __nitpicker__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
+__no sale__ I reject the request, offer, or plan in question. No.  
 __no shit__  
 __noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __non sequitur__  
@@ -165,8 +177,10 @@ __put up with (someone or something)__ To abide or endure someone or something t
 __put up with something__  
 __put upon__  
 __putzo__ :two::hammer:  
+__Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
 __quick buck__  
 __radio silence__  
+__rag on (one)__  
 __ragtop__ _n_ A convertible car.  
 __rain check__  
 __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
@@ -207,9 +221,13 @@ __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this u
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __secret sauce__ _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
+__secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
 __sell like hot cakes__  
+__shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
 __shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
+__shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
+__shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellroy’s writing. It’s basically a very, very rude way of referring to someone who’s a lowlife, a scoundrel, or just generally a bad person. In Ellroy’s world, it’s often used to describe corrupt cops, sleazy gangsters, or anyone else who’s part of the seedy underworld of crime and corruption.  
 __shy away (from someone or something)__  
 __silver lining__  
 __simply put__  
@@ -218,7 +236,9 @@ __six ways to Sunday__ _adj_ Askew, at an angle.
 __skate__  
 __skeevy__ Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skin flute__ _vulgar, slang_ A penis.  
+__smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __sneak peek__  
+__snout__ __4__ _slang_ A person’s nose.  
 __snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
 __something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
@@ -252,9 +272,11 @@ __the Wild West__ __2__ By extension, that which is characterized by a lack of l
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __time flies__  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
+__tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __turkey__  
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
+__two-way street__  
 __under the hood__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __up for grabs__  
@@ -263,7 +285,10 @@ __walk the walk__
 __walk through__  
 __war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
 __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
+__whammo__ It’s basically a slang term for a big, dramatic, or explosive event. James Ellroy uses it to describe things like shootouts, car chases, explosions, or any other kind of crazy action scene.  
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
+__whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
+__wingding__ :two::hammer:  
 __with flying colors__  
 __within reason__  
 __wrack (one’s) brain(s)__  
