@@ -1,3 +1,24 @@
+__anecdotal__ _adj_ :mega:  
+__boondoggle__  
+__burrow__ _v intr_ (with adverbial of direction) To move underneath or press up against in search of safety or comfort. _He collapsed on the bed and burrowed under the covers._  
+__dawdle__ _v_ :dart::two::hammer:  
+__dentures__  
+__draft<sup>1</sup>__ _n_  
+__draft<sup>2</sup>__ _v tr_ __1__ To select from a group for some usually compulsory service: _drafted into the army._  
+__draft<sup>3</sup>__ _v intr_  
+__draft<sup>4</sup>__ _adj_  
+__drawl__ _n_  
+__exhort__ _v_ /ig-ZORT/ To exhort someone is to try to strongly urge them to do something.  
+__expurgate__ _v tr_ :astonished:  
+__gambol__  
+__happenstance__ _n_  
+__hex<sup>1</sup>__ _n_  
+__hex<sup>2</sup>__ _v tr_  
+__hoist__ _v_  
+__hypocrisy__ _n_ :pencil2:  
+__lissome__ _adj_  
+__lithe__ _adj_  
+__locale__ _n_  
 __marksmanship__ _n_ Skill in shooting.  
 __matchbook__ _n_ :dart:camera: A small folder into which matches are stapled or glued.  
 __matriarch__ _n_ A woman who rules a family, clan, or tribe. _Syn_ materfamilias  
@@ -26,6 +47,7 @@ __nescience__ _n_
 __non-binding__ _adj_ That does not bind the participants.  
 __non-negotiable__ _adj_  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
+__note__ _v_ __1__ 1. (often with _down_) To write down. _He noted (down) her telephone number in his diary._  
 __o’clock__ _adv_ Short for _of the clock._  
 __off label__  
 __offset__ _v_  
@@ -45,6 +67,7 @@ __overly__
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
+__overzealous__ _adj_  
 __oxymoron__ _n_ /ahk-sih-MOR-ahn/  
 __pachuco__ _n_  
 __pad__ _v intr_ __1__ To go about on foot. __2__To move or walk about almost inaudibly. _The cat was padding through the grass._  
@@ -61,8 +84,10 @@ __paraplegia__ _n_
 __pelt__ _n_  
 __people pleaser__ _n_  
 __percolate__ _v_  
+__peremptory__ _adj_ :dart:  
 __peruse__ _v tr_  
 __pester__ _v tr_  
+__petulant__ _adj_  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
@@ -83,13 +108,16 @@ __pry__ _v_
 __psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psychobabble__ _n_  
 __punitive__ _adj_ Inflicting or aiming to inflict punishment; punishing.  
+__purloin__ _v tr_  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
+__quiescent__ _adj_  
 __racketeer__ _n, v_  
 __radio__ _v_ _He never even thought to radio for help._  
 __rage__ _v intr_  
+__rambunctious__ _adj_  
 __rampant__ _adj_  
 __ransack__ _v tr_  
 __ransom__ _n_  
@@ -99,8 +127,10 @@ __redux__ _adj_
 __refusenik__ _n_  
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __rehouse__ _v tr_ To provide with new, usually improved housing.  
+__reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
 __repercussion__ _n_  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
+__rue__ _v_  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __salve__ _v tr_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
@@ -116,6 +146,7 @@ __scraggly__ _adj_ _A scraggly beard._
 __scram__ _v intr_  
 __scramble__ _v_ _They scrambled for personal power._  
 __scrap__ _v tr_ :dart: __2__ To discard or abandon as useless; cancel: scrap a plan.  
+__scratch pad__ _n_  
 __scrawl__ _v_  
 __scrawny__  
 __scrim__ _n_  
@@ -135,6 +166,7 @@ __seize__ _v_ _Students with the growth mindset seized the chance._
 __self-absorbed__ _adj_ :two::hammer:  
 __senility__ _n_  
 __sepsis__ _n_  
+__serape__ _n_  
 __sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
 __serenade__ _n_ /ser-uh-NAYD/  
 __serial comma__ _n_ _Syn_ Oxford comma  
@@ -157,7 +189,9 @@ __shash window__ _n_
 __shirk__ _v_  
 __shit-hole__  
 __showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
+__shtup__ _v_  
 __sidekick__ _n informal_  
+__significant__ _adj_  
 __silkworm__ _n_ :es: gusano de seda  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
@@ -183,6 +217,7 @@ __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel
 __split__ _v_ _Women who have split from a relationship._  
 __squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
 __squirm__ _v_ :two::hammer:  
+__stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
 __stem__ _v_  
 __stenos__  
@@ -205,6 +240,7 @@ __stuffing__ _n_
 __subaltern__ _n_  
 __suborn__ _v tr_  
 __subsequent__ _adj_ Following in time or order; succeeding.  
+__succubus__ _n_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
@@ -234,6 +270,7 @@ __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbi
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
 __toll__  
+__tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
 __tonsil__ _n_  
 __toothsome__  
 __tout__ _v_ :dart:  
@@ -243,6 +280,7 @@ __transience__
 __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transvestite__ _n_  
 __ukulele__ _n_ :pencil2:  
+__uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
