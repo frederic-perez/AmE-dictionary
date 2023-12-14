@@ -1,28 +1,3 @@
-__bedevil__ _v tr_  
-__body dysmorphia__ _n_  
-__cautionary tale__ _n_  
-__channel__ _v_  
-__defamation__ _n_ /ˌdɛf əˈmeɪ ʃən/  
-__ethos__  
-__euphemism__ _n_ [:scroll: Derived from the Greek words “eu” (meaning “good”) and “pheme” (meaning “speech”).]  
-__flare__ _n_ __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala  
-__fluke__ _n_ :mega: /fluːk/  
-__implausible__ _adj_ /ɪmˈplɔ zə bəl/  
-__lavish<sup>1</sup>__ _adj_  
-__lavish<sup>2</sup>__ _v tr_  
-__lintel__ _n_ :es: dintel  
-__marriage license__ _n_ A legal document that authorizes two individuals to be married.  
-__mavis__ _n_ /ˈmeɪvɪs/  
-__meager__ _adj_ (meagre)  
-__medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
-__menorah__ _n_  
-__midwife__  
-__mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
-__mirth__ _n_  
-__miscegenation__ _n_  
-__misnomer__ _n_ :two::hammer:  
-__misread__ _v tr_ 2. To misinterpret or misunderstand: _misread our friendly concern as prying._  
-__misspend__ _v tr_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
 __motormouth__ _n_  

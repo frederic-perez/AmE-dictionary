@@ -1397,7 +1397,7 @@ __bedaub__ _v_ To smear all over with something thick, sticky, or dirty. _Syn_ b
 __bedazzled__  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
-__bedevil__ _v_ :eight: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
+__bedevil__ _v tr_ :nine: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedlam__ _n_ :six: A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
 __Bedouin__  
@@ -1886,6 +1886,7 @@ __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Ind
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __bodhi tree__  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
+__body dysmorphia__ _n_  
 __body odor__ _n_  
 __bodywork__ _n_ _A certified therapist of massage and bodywork._  
 __bog<sup>1</sup>__ _n_ :six::hammer: _Bog garden._ :es: ciénaga  
@@ -2921,7 +2922,7 @@ __cause célèbre__ _n_ Any controversy that attracts great public attention.
 __causeway__ _n_ :seven::hammer:  
 __caustic__ _adj_ /KAWSS-tik/  
 __caution__ _v_ :two::hammer:  
-__cautionary tale__ _n_  
+__cautionary tale__ _n_ :two::hammer:  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
@@ -3010,7 +3011,7 @@ __chandler__
 __change of heart__ _n_ A reversal of one’s opinion, attitude, or feelings.  
 __change__ _n_ _There is change in the shower._  
 __changeover__ _n_ :two::hammer:  
-__channel__ _v_ :three::hammer: _Channel your energy._  
+__channel__ _v_ :four::hammer: _Channel your energy._  
 __chant__ _v_ :two::hammer:  
 __chanticleer__ _n_  
 __chanting__  
@@ -4661,7 +4662,7 @@ __deepfake__ _n_ :two: /DEEP-fayk/ Deepfake refers to an image or recording that
 __deeply__  
 __deer__ _adj_ _A deer survey._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
-__defamation__ _n_ :dart::two::pencil2: /ˌdɛf əˈmeɪ ʃən/ Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
+__defamation__ _n_ :dart::three::pencil2: /ˌdɛf əˈmeɪ ʃən/ Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __defang__ _v_  
 __defanging__ _n_  
@@ -6122,7 +6123,7 @@ __eugenics__
 __eulogy__ _n_ :five::hammer:  
 __eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (well, good) + noos (mind, spirit). Eunoia is the shortest word in English with all five vowels.] __1__ A feeling of goodwill. __2__ A state of good mental health.  
 __eunuch__ _n_  
-__euphemism__ _n_ :three: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
+__euphemism__ _n_ :four: /YOO-fuh-miz-um/ [:scroll: Derived from the Greek words “eu” (meaning “good”) and “pheme” (meaning “speech”)] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
 __euphonium__ _n_  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
 __eupnea__ _n_ /yoop-NEE-uh/ [:scroll: From Greek eu- (good) + pnein (to breathe).] Normal breathing.  
@@ -6771,6 +6772,7 @@ __flap T__
 __flap__ _n_ :four::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._ _The sound of paper flaps on bicycle spokes._  
 __flapjack__ _n_  
 __flapping__ _n_ :three: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
+__flare__ _n_ __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :three::hammer: __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
 __flare<sup>2</sup>__ _v_ :four::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._ _Alarms flaring._  
@@ -6903,7 +6905,7 @@ __fluctuate__ _v_ :mega:
 __fluff__ _n_ :four::hammer: __4__ _informal_ A mistake, esp in speaking or reading lines or performing music. _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__ _adj_ :two::hammer: _Fluffy omelets and giant salads._  
-__fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ _n_ :nine::mega: /fluːk/ An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
 __flummox__ _v tr_ :nine::m::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
 __flummoxed__ _adj_ :three: /ˈflʌməkst/ Perplexed or bewildered. _He became flummoxed and speechless._  
@@ -9117,7 +9119,7 @@ __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful e
 __impinge__ _v_ :two::hammer:  
 __impish__ _adj_ Of or befitting an imp; mischievous. _Impish sense of humor._  
 __implacable__ _adj_ /im-PLAK-uh-bul/ Not capable of being appeased, significantly changed, or mitigated; not placable.  
-__implausible__  
+__implausible__ _adj_ :two::hammer::mega: /ɪmˈplɔ zə bəl/  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __implode__ _v_  
 __importantly__ _adv_  
@@ -10164,7 +10166,7 @@ __laurels__
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ :two: __1__ To wash or bathe. __2__ To flow.  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._ _A lavish castle surrounded by 600 acres of state._  
-__lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
+__lavish<sup>2</sup>__ _v tr_ :three::hammer: (lavished)  
 __lavishly__ _adv_ :three::hammer:  
 __law and order__  
 __law of the land__  
@@ -10410,7 +10412,7 @@ __liniment__ _n_ A medicinal liquid that is rubbed into the skin to relieve musc
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
-__lintel__ _n_ :three::hammer: _Stone lintels._ :es: dintel  
+__lintel__ _n_ :four::hammer: _Stone lintels._ :es: dintel  
 __lionhearted__ _adj_ :two::hammer:  
 __lionize__ _v_ :three: /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance. To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
 __lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
@@ -10925,6 +10927,7 @@ __marque__ _n_ A model or brand of a manufactured product, especially an automob
 __marquee__ _n_ :nine::m: /mɑːˈkiː/ __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
 __marquetry__ _n_ :astonished: _Marketry doors._ :es: marquetería  
 __marred__ _v_  
+__marriage license__ _n_ A legal document that authorizes two individuals to be married.  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :nine::m: __1__ To bring people or things together and organize them so that they can be used in an effective way. _The community will marshal its resources to help undocumented immigrants._ __2__ To organize information or ideas, especially in order to make an argument. _His ability to marshal facts._  
@@ -10998,6 +11001,7 @@ __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mand�
 __mauve__ _n_  
 __maven__ _n_ :four: A person who has special knowledge or experience; an expert.  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
+__mavis__ _n_ /ˈmeɪvɪs/  
 __maw__ _n_ :five::hammer:  
 __mawkish__ _adj_ :five: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
@@ -11020,7 +11024,7 @@ __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predic
 __McGuffin__ _n_ /məˈɡʌfɪn/ (MacGuffin)  
 __mea culpa__  
 __mead__ _n_ :two::hammer:  
-__meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
+__meager__ _adj_ :dart::nine: (meagre) __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
 __mealtime__ _n_ :dart:  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
@@ -11049,7 +11053,7 @@ __medial__ _adj_ Relating to, situated in, or extending toward the middle; media
 __medic__ _n informal_ :two: A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __medical school syndrome__ _n_  
-__medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
+__medicine__ _n_ :two::hammer::mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __mediocre__  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
 __medlar__ _n_ :es: níspero  
@@ -11113,7 +11117,7 @@ __menial<sup>2</sup>__ _n_
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
 __Mennonite__  
 __menology__  
-__menorah__ _n_ :two: _Judaism_ __1__ A nine-branched candelabrum used in celebrating Hanukkah. _At sundown on the first night of Hanukkah, Aaron’s father helped him light the first candle on the menorah._ __2__ (often Menorah) A ceremonial seven-branched candelabrum of the Jewish. Temple symbolizing the seven days of the Creation.  
+__menorah__ _n_ :three: _Judaism_ __1__ A nine-branched candelabrum used in celebrating Hanukkah. _At sundown on the first night of Hanukkah, Aaron’s father helped him light the first candle on the menorah._ __2__ (often Menorah) A ceremonial seven-branched candelabrum of the Jewish. Temple symbolizing the seven days of the Creation.  
 __menorrhagia__ _n_ Abnormally heavy or extended menstrual flow.  
 __mens room__ _n_  
 __mensch__  
@@ -11222,7 +11226,7 @@ __midst__ _n_ :two::hammer: _In the midst of this show._
 __midswing__  
 __midwatch__ _n_  
 __midway__  
-__midwife__ _n_ :four::pencil2: Nurse trained to assist women in childbirth.  
+__midwife__ _n_ :five::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __mifepristone__ _n_ /mɪf əˈprɪs toʊn/ An antigestational drug that prevents a fertilized egg from attaching to the uterine wall by blocking the action of progesterone.  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
@@ -11278,6 +11282,7 @@ __mind-boggling__ _adj_ _informal_ :two: Overwhelming; stunning: _mind-boggling 
 __minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant, esp in the criminal underworld. :es: guardaespaldas  
 __mindful__  
 __mindset__ _n_  
+__mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __minestrone__ _n_  
 __miniate__ _v tr_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
 __minie balls__  
@@ -11303,7 +11308,7 @@ __mirage__ _n_ /mɪˈrɑʒ/
 __Miranda rights__ _n_  
 __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
 __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ _He was mired in his fixed mindset._ __2__ To soil with mud or mire.  
-__mirth__ _n_ :six: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
+__mirth__ _n_ :seven: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __mirthless__  
 __misadventure__ _n_ :two: An instance of misfortune; a mishap.  
@@ -11313,7 +11318,7 @@ __misapprehension__
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
-__miscegenation__  
+__miscegenation__ _n_ :two::hammer:  
 __miscellanea__ _n_ Miscellaneous items or written works collected together. _Syn_ assortment, mixed bag, motley, potpourri, salmagundi, smorgasbord, variety, mixture _The office was littered with papers, files, and assorted miscellanea._  
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
@@ -11345,7 +11350,7 @@ __mishmash__ _n_ :two::hammer:
 __misinformation__ _n_ :three: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _v tr_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
 __mismatch__ _n_ :two::pencil2::hammer:  
-__misnomer__ _n_ :nine::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :nine::pencil2::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
@@ -11354,12 +11359,13 @@ __misphrase__ _v tr_
 __misplace__ _v_  
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
+__misread__ _v tr_ 2. To misinterpret or misunderstand: _misread our friendly concern as prying._  
 __misremember__ _v_ To remember incorrectly.  
 __miss__ _n_ _A memory cache miss._  
 __missal__ _n_ :two::hammer:  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_ :three::pencil2: To spell incorrectly.  
-__misspend__ _v_ To spend time more or money foolishly or wastefully.  
+__misspend__ _v tr_ :two::hammer: To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
 __misstep__ _n_ :five::pencil2::hammer:  
