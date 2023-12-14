@@ -1,3 +1,18 @@
+__bedevil__ _v tr_  
+__body dysmorphia__ _n_  
+__cautionary tale__ _n_  
+__channel__ _v_  
+__defamation__ _n_ /ˌdɛf əˈmeɪ ʃən/  
+__ethos__  
+__euphemism__ _n_ [:scroll: Derived from the Greek words “eu” (meaning “good”) and “pheme” (meaning “speech”).]  
+__flare__ _n_ __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala  
+__fluke__ _n_ :mega: /fluːk/  
+__implausible__ _adj_ /ɪmˈplɔ zə bəl/  
+__lavish<sup>1</sup>__ _adj_  
+__lavish<sup>2</sup>__ _v tr_  
+__lintel__ _n_ :es: dintel  
+__marriage license__ _n_ A legal document that authorizes two individuals to be married.  
+__mavis__ _n_ /ˈmeɪvɪs/  
 __meager__ _adj_ (meagre)  
 __medicine__ _n_ :mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
 __menorah__ _n_  
@@ -5,12 +20,13 @@ __midwife__
 __mine__ _v tr_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __mirth__ _n_  
 __miscegenation__ _n_  
-__misnomer__ _n_  
+__misnomer__ _n_ :two::hammer:  
 __misread__ _v tr_ 2. To misinterpret or misunderstand: _misread our friendly concern as prying._  
 __misspend__ _v tr_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
 __motormouth__ _n_  
+__mystified__ _adj_ :dart: /ˈmɪstɪˌfaɪd/ Very puzzled and confused.  
 __nativist__ _adj_  
 __nativistic__ _adj_  
 __naught__ _n_  
@@ -40,6 +56,7 @@ __outmatch__ _v tr_
 __overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
 __overly__  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
+__overtly__  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
 __overzealous__ _adj_  
@@ -53,9 +70,11 @@ __palliative care__ _n_
 __palliative__ _adj_ :pencil2:  
 __palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
 __pamper__ _v_  
+__panacea__ _n_ :mega: /ˌpæn əˈsi ə/  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __paraplegia__ _n_  
+__parcel__ _v tr_ :mega:  
 __pelt__ _n_  
 __people pleaser__ _n_  
 __percolate__ _v_  
@@ -79,6 +98,7 @@ __pogrom__ _n_
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
 __prevail__ _v intr_  
+__prove__ _v intr_ To be shown to be such; turn out: _a theory that proved impractical in practice; a schedule that proved to be too demanding._  
 __pry__ _v_  
 __psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psychobabble__ _n_  
@@ -131,6 +151,7 @@ __scurvy<sup>1</sup>__ _n_
 __scurvy<sup>2</sup>__ _adj_ Contemptible; despicable.  
 __seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
 __seance__ _n_ :es: sesión de esperitismo  
+__second__ _n_ :mega: /ˈsɛkənd/  
 __secreted__ _v_ _He secreted himself in the hotel._  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seep__ _v_ (seeped)  
@@ -186,9 +207,12 @@ __skin__ _v tr_ _He skinned his knee and started to cry._
 __slum<sup>1</sup>__ _n_  
 __slum<sup>2</sup>__ _v intr_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
 __smithereens__  
+__smorgasbord__  
 __snarf__ _v tr_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
 __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.  
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
+__snooker<sup>1</sup>__ _n_  
+__snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
 __split__ _v_ _Women who have split from a relationship._  
 __squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
 __squirm__ _v_ :two::hammer:  
@@ -255,6 +279,7 @@ __transience__
 __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transvestite__ _n_  
 __ukulele__ _n_ :pencil2:  
+__unfettered__ _adj_ /ʌnˈfɛtəd/  
 __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
@@ -267,6 +292,7 @@ __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table
 __valediction__ _n_  
 __valedictory__ _n_  
 __walkout__ _n_ :four: __1__ A labor strike.  
+__wanderlust__ _n_  
 __wanly__  
 __wanton__  
 __warrant__ _v_  
@@ -306,6 +332,7 @@ __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as 
 __yelp__ _v_  
 __yin and yang__  
 __yo-yo__ _n_  
+__yogi__ _n_ (_n pl_ yogis, yogin) /ˈjəʊgɪ/  
 __yowl__ _v_  
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
 __zip pouch__ _n_ (zipper pouch)  
