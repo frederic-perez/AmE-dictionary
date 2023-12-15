@@ -243,6 +243,7 @@ __adulate__ _v_ :mega:
 __adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
 __adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
 __adulterate__ _v_  
+__advancement__ _n_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
@@ -656,6 +657,7 @@ __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inani
 __anthurium__ _n_  
 __anti-fat__ _adj_ Opposed, hostile, or averse to fatness and fat people.  
 __anti-humor__  
+__anti-Semitic__ _adj_ (anti-semitic, antisemitic)  
 __anti-Semitism__  
 __antibiotic<sup>1</sup>__ _n_  
 __antibiotic<sup>2</sup>__ _adj_ :two::mega: \[ˈæntɪbaɪˈɒtɪk\]  
@@ -981,7 +983,7 @@ __atrocity__
 __atrophy__ _v_ :three: (atrophied) To waste away; wither or deteriorate. _Syn_ shrivel, weaken _She had not painted in many years, and she was worried that her creativity had atrophied._  
 __attaché case__ _n_ :three: (attaché cases) A slim briefcase with flat, rigid sides, hinges, and usually a lock.  
 __attack dog__ _n_  
-__attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
+__attain__ _v_ :six::hammer::pencil2: /əˈteɪn/ (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
 __attainment__ _n_ :two::hammer: _Scientific attainments._  
 __attend to__ _phr v_ To deal with something or someone.  
@@ -1007,7 +1009,7 @@ __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._
 __au gratin__ _adj_ Covered with bread crumbs and sometimes butter and grated cheese, and then browned in an oven: _potatoes au gratin._  
 __au pair__  
 __au shops__  
-__auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
+__auburn__ _n_ :three::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
 __auction__ _n_ /ˈɔːkʃən/  
@@ -2284,7 +2286,7 @@ __brussels sprout__ _n_ :two::hammer: (Brussels sprout)
 __brutal__  
 __brutalize__ _v tr_ :two::hammer: (brutalized)  
 __brute__ _adj, n_ /bruːt/  
-__brutish__ _adj_ :two::hammer:  
+__brutish__ _adj_ :three::hammer:  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
@@ -2773,6 +2775,7 @@ __career suicide__
 __career__ _v_ :astonished: /kuh-REER/ To go at top speed in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
 __carefree__ _adj_ :two::hammer:  
 __carefully__ _adv_ _It pays to consider his words carefully._  
+__caregiver__ _n_  
 __caresses__ _v_  
 __caretaker__ _n_ :two::hammer: _A caretaker government._  
 __cargo pants__  
@@ -3582,7 +3585,7 @@ __color blind__
 __color scheme__ _n_ :two: A particular combination of colors. _They chose an unusual color scheme for the living room._  
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
-__coloratura__ _n_  
+__coloratura__ _n_ :two::hammer:  
 __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
@@ -4202,7 +4205,7 @@ __crescent<sup>1</sup>__ _n_ :three::mute:[cres~~c~~ent]/ˈkrɛs ənt/:hammer:
 __crescent<sup>2</sup>__ _adj_ :two::hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__ _adj_ :seven: Dispirited and depressed; dejected.  
-__crevasse__ _n_  
+__crevasse__ _n_ :two::hammer:  
 __crevice__ _n_ :five: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crew cut__ _n_ :three::hammer: _A tall crew cut._  
 __crewcats__  
@@ -5971,7 +5974,7 @@ __entail<sup>2</sup>__ _n_
 __enthrall__ _v_ :six: (enthralled, enthralling) /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_ To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._ :es: entusiasmar; entusiasmarse  
-__enthused__ _adj_ :three: Having been filled with enthusiasm. :es: entusiasmado  
+__enthused__ _adj_ :four: /ɪnˈθjuːzd/ Having been filled with enthusiasm. :es: entusiasmado  
 __enthusiasm__  
 __enthusiastic__ _adj_ :mega:  
 __entice__ _v_ :two::hammer: (enticing)  
@@ -9953,7 +9956,8 @@ __knockout<sup>1</sup>__ _n_
 __knockout<sup>2</sup>__ _adj_ :two::hammer: _A knockout series._ _A knockout redhead._  
 __knockusing__  
 __knockwurst__ _n_  
-__knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
+__knoll<sup>1</sup>__ _n_ :four: A small hill or mound. _A grassy knoll._  
+__knoll<sup>2</sup>__ _v_  
 __knot__ _n, v_ :mute:[~~k~~not]  
 __knotty__  
 __know__ _v_ :mute:[~~k~~now]  
@@ -10166,7 +10170,7 @@ __laurels__
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _v tr_ :two: __1__ To wash or bathe. __2__ To flow.  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._ _A lavish castle surrounded by 600 acres of state._  
-__lavish<sup>2</sup>__ _v tr_ :three::hammer: (lavished)  
+__lavish<sup>2</sup>__ _v tr_ :four::hammer: (lavished)  
 __lavishly__ _adv_ :three::hammer:  
 __law and order__  
 __law of the land__  
@@ -10398,7 +10402,7 @@ __linchpin__ _n_ :eight: A central cohesive source of support and stability. _Sy
 __line up__ _v_ :three::hammer: _Huge crowds are lining up._  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-up__ _n_ _From time to time it is necessary to change (TV) channel line-ups._  
-__lineages__  
+__lineage__ _n_ :two::hammer:  
 __linear__  
 __lineman__  
 __linemen__ _n_  
@@ -11460,6 +11464,7 @@ __monophobia__ _n_ An abnormal fear of being alone.
 __Monopoly Deal__ _n_  
 __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
 __monopsony__ _n_  
+__monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
 __monstera__ _n_ :mega: /ˈmɑnstərə/  
@@ -11494,7 +11499,7 @@ __moppet__ _n_ A young child. _A lovable moppet._
 __mopping up__  
 __moral__  
 __morale__ _n_ :five::hammer: _The sunken morale left by defeats._  
-__morass__ _n_ :six: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._  
+__morass__ _n_ :seven: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._ __3__ A book of magical knowledge, especially one containing spells.  
 __moratorium__ _n_ :two::hammer:  
 __moray eel__ _n_  
 __morbid__ _adj_  
@@ -11549,7 +11554,7 @@ __motorhome__ _n_ :two::camera::hammer:
 __motoring__  
 __motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
-__motormouth__  
+__motormouth__ _n_ :two::hammer:  
 __mould__ _n_  
 __mound__ _v_ :two: __1__ (often foll by up) To gather into a mound; heap. __2__ To cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._ _He was mounding butter pats on his fourth hard roll._  
 __mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
@@ -11705,7 +11710,7 @@ __mysteries__ _n_ :pencil2:
 __mysterious__ _adj_ :two::pencil2:  
 __mystery shopper__ _n_ Someone hired by a company to pose as a customer in order to evaluate the quality of its service.  
 __mystery train__  
-__mystified__  
+__mystified__ _adj_ :dart::two: /ˈmɪstɪˌfaɪd/ Very puzzled and confused.  
 __mystify__ _v_ :two: __1__ To confuse or bewilder. _Syn_ perplex _The rules are mystifying._ _He was mystified._  
 __mystique__ _n_ :pencil2:  
 __myth__ _n_  
@@ -11766,19 +11771,22 @@ __Native American__ _n_ _Native American reservation._
 __native language__ _n_  
 __native__ _n_  
 __nativism__ _n_ :two::hammer:  
+__nativist__ _adj_  
+__nativistic__ _adj_  
 __nativity__ _n_ :two::hammer: /nuh-TIV-uh-tee/  
 __natter__ _v intr_ :dart::four: (nattering) Talk socially without exchanging too much information. To talk idly and at length; chatter or gossip. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
-__naught__  
+__naught__ _n_ :two::hammer:  
 __naughty<sup>1</sup>__ _adj_ :dart::two::mute:[nau~~gh~~ty] __1__ Behaving disobediently or mischievously: _a naughty child._ __2__ Indecent; improper: _a naughty wink._  
 __naughty<sup>2</sup>__ _n_ :mega:  
 __nauseous__ _adj_ /naw-shuhs/  
 __navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
-__navigate__ _v_  
+__navigate__ _v_ :two::hammer:  
+__Navy SEAL__ _n_  
 __naysayer__ _n_ :four::hammer:  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __Neapolitan__ _adj, n_ :two::pencil2:  
@@ -11797,7 +11805,7 @@ __necklace__ _n_ :two::hammer:
 __necktie__ _n_ :two::hammer: :es: corbata  
 __necrology__ _n_ A notice of someone’s death; usually includes a short biography. _Syn_ obituary _She dreamed of being a famous news reporter, but for years, she was stuck writing necrologies at the local paper._  
 __necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
-__necromancy__  
+__necromancy__ _n_ :two::hammer:  
 __necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
 __nectary__ _n_ A glandlike organ, located outside or within a flower, that secretes nectar. _Syn_ honey gland  
 __neediness__ _n_ The state of being needy; poverty.  
@@ -11821,6 +11829,7 @@ __nemesis__ _n_ /NEM-uh-siss/ A nemesis is a formidable foe—an opponent or ene
 __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
 __neocortex__ _n_  
 __neologism__ _n_  
+__neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __neophilia__ _n_  
 __neophyte__ _n_ :two::hammer:  
 __neorealist__  
@@ -11836,7 +11845,7 @@ __nerve__ _n_ :two::hammer: _He’s got nerve._
 __nerve-racking__ _adj_ :five::hammer: (nerve racking, nerve-wracking)  
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
-__nescience__ _n_  
+__nescience__ _n_ :two::hammer:  
 __Nesquik__ _n_ :mega:  
 __nest egg__ _n_ :three::hammer:  
 __nesting doll__ _n_  

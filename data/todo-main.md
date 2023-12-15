@@ -1,28 +1,3 @@
-__advancement__ _n_  
-__anti-Semitic__ _adj_ (anti-semitic, antisemitic)  
-__attain__ _v_ /əˈteɪn/  
-__auburn__ _n_  
-__brutish__ _adj_  
-__caregiver__ _n_  
-__coloratura__ _n_  
-__crevasse__ _n_  
-__enthused__ /ɪnˈθjuːzd/  
-__exertion__ _n_ /ɪgˈzɜr ʃən/  
-__knoll__ _v_  
-__lavish__ _v tr_  
-__lineage__ _n_  
-__monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
-__morass__ _n_ A book of magical knowledge, especially one containing spells.  
-__motormouth__ _n_  
-__mystified__ _adj_ :dart: /ˈmɪstɪˌfaɪd/ Very puzzled and confused.  
-__nativist__ _adj_  
-__nativistic__ _adj_  
-__naught__ _n_  
-__navigate__ _v_  
-__Navy SEAL__ _n_  
-__necromancy__ _n_  
-__neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
-__nescience__ _n_  
 __non-binding__ _adj_ That does not bind the participants.  
 __non-negotiable__ _adj_  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
