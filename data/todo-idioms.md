@@ -1,18 +1,28 @@
 __(first) dibs (on something)__  
 __a drop in the bucket__ _AmE_ (a drop in the ocean _BrE_) A very small amount compared with what is needed or expected.  
 __a drop in the ocean__ _BrE_ (a drop in the bucket _AmE_) A very small amount compared with what is needed or expected.  
+__addict__ _n_ Someone showing a strong preference for something or someone. (Not related to drug addiction.) _Sam is a real opera addict. He just loves the stuff._  
+__all or nothing__  
 __ascribe (something) to (something)__ To attribute something to a person or source. _The cause of the accident was ascribed to human error._  
+__at the end of the day__ :two: Ultimately.  
 __be on the same page__  
 __bits and pieces__  
 __boffo__ :two: __2__ _adj_ Wonderful or fantastic. _That routine was just boffo, way to go!_  
 __bring (someone or something) to (someone’s or something’s) knees__  
 __bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
+__burst (one’s) balloon__  
+__catfish__  
+__chug__ _v_  
 __come to terms with (someone or something)__  
 __dart out__ To move quickly out of somewhere or something.  
 __defuse (something)__ To settle, calm, or make less dangerous an extremely tense, hostile, or volatile situation. Likened to removing the fuse from or otherwise disabling a bomb.  
+__dime__ __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
+__disengage from (someone or something)__  
+__ditz__ __1__ _n_ _slang chiefly US_ A silly scatterbrained person. __2__ _v_ In James Ellroy’s novels, “ditz” is usually used as a verb to mean to be in a state of confusion or mental disarray. It’s often used to describe someone who is acting in a scatterbrained or disorganized way.  
 __don’t get (one) started__  
 __easy peasy__  
 __elephant in the room__  
+__enmesh in (something)__  
 __fall (flat) on (one’s)/its face__  
 __for kicks__  
 __from jump street__  
@@ -21,6 +31,7 @@ __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
 __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually said of the intention or expectation.)  
+__get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
 __get the drift__  
 __get under (one’s) skin__  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
@@ -30,6 +41,7 @@ __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gal
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __God forbid__  
 __grapple with (someone or something)__  
+__green sheet__  
 __have (got) (someone’s) back__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
@@ -74,6 +86,7 @@ __heads up__
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hidden agenda__ A secret goal or an ulterior motive.  
 __hijinx__ :two: Mischievous or playful behavior that is intended to be amusing or entertaining, but that often crosses the line into being disruptive or annoying.  
+__hit rock bottom__  
 __hold (one’s) breath__  
 __hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
 __hophead__ _Tom hates hopheads and jailbait jumpers._  
@@ -83,6 +96,7 @@ __how on earth__
 __I can’t thank you enough__ Said when one is very appreciative of another’s words or actions.  
 __in a tiff__ In a state of disagreement, often over something minor or petty.  
 __in the nick of time__  
+__in the thick of it__  
 __in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
 __in voice__ In an ideal state or condition for speaking or singing.  
 __in working order__ Of a machine, functional; not broken.  
@@ -95,6 +109,8 @@ __jaw-dropping__ Astonishing or astounding; causing an overwhelming amount of su
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
 __jump the gun__ To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. In James Ellroy’s novels, it usually means to act prematurely or hastily, without waiting for the right moment.  
 __jungle juice__ _slang_ Any improvised mixture of large amounts various hard liquors combined with small amounts of fruit juice.  
+__juniper juice__  
+__kill (one) with kindness__ To harm, inconvenience, or bother one by treating them with excessive favor or kindness. The phrase originated as the expression “kill with kindness as fond apes do their young,” referring to the notion that such animals sometimes crushed their offspring by hugging them too hard. _I love talking to Grandma, but she calls me twice a day to see how I’m doing—right now she’s killing me with kindness._  
 __kiss-ass__  
 __ladies and gents__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
@@ -105,6 +121,7 @@ __lionhearted__ _adj_
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __lose out__ __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
+__lox__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife.  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
@@ -124,12 +141,13 @@ __nerve-racking__ (nerve-wracking) Causing fear or anxiety.
 __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
 __nest egg__  
 __nitpicker__  
+__no offense taken__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
 __no sale__ I reject the request, offer, or plan in question. No.  
 __no shit__  
 __noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __non sequitur__  
-__nosh__ __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
+__nosh__ :two: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
@@ -137,6 +155,7 @@ __nothing but__
 __nudnik__ An irritating, nagging person; a boring pest of a person who makes constant or persistent demands or criticisms.  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
+__off to the races__  
 __oh, boy__  
 __okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
 __on (one’s) own__  
@@ -166,6 +185,7 @@ __PC__
 __peeps__  
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __phase out__ :two::hammer:  
+__pile up__ _The bad news keeps piling up for Elon Musk._  
 __pisser__  
 __plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __play around__  
@@ -181,6 +201,7 @@ __pricey__ Moderately expensive.
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __punk__ _n_  
+__puppy love__  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push up the daisies__  
 __pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
@@ -254,6 +275,7 @@ __scruff(y)__
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __secret sauce__ _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
 __secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
+__see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __sell like hot cakes__  
 __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
 __shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
@@ -268,6 +290,8 @@ __six ways to Sunday__ _adj_ Askew, at an angle.
 __skate__  
 __skeevy__ Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skin flute__ _vulgar, slang_ A penis.  
+__skyhook__  
+__slob__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __sneak peek__  
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
@@ -276,6 +300,7 @@ __snuff (one)__ _slang_ To kill one. _He was planning on going to the police, bu
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
 __something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
+__soul searching__ :two::hammer:  
 __speak with a forked tongue__  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
@@ -286,6 +311,7 @@ __stick (one’s) tongue out__
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __strike a deal__ To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
+__suck it up__ :dart:  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
 __swear by (someone or something)__  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
@@ -295,6 +321,7 @@ __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, es
 __take a deep breath__  
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
+__talk out (of) (one’s) ass__  
 __talk the talk__  
 __tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
@@ -310,6 +337,7 @@ __train wreck__ :dart:
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __turkey__  
+__turn out all right__  
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-way street__  
@@ -330,6 +358,7 @@ __what else?__ The phrase “what else?” in James Ellroy’s novels typically 
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __wingding__ :two::hammer:  
+__wise up__  
 __with flying colors__  
 __within reason__  
 __wrack (one’s) brain(s)__  
