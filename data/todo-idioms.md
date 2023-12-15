@@ -85,33 +85,6 @@ __head-to-toe__
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hidden agenda__ A secret goal or an ulterior motive.  
-__hijinx__ :two: Mischievous or playful behavior that is intended to be amusing or entertaining, but that often crosses the line into being disruptive or annoying.  
-__hit rock bottom__  
-__hold (one’s) breath__  
-__hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
-__hophead__ _Tom hates hopheads and jailbait jumpers._  
-__hot air__ Lies, exaggerations, or nonsense.  
-__hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—the kids are hot to trot._ __2__ Sexually arousing or aroused. _If you think he’s so hot to trot, why don’t you ask him out?_  
-__how on earth__  
-__I can’t thank you enough__ Said when one is very appreciative of another’s words or actions.  
-__in a tiff__ In a state of disagreement, often over something minor or petty.  
-__in the nick of time__  
-__in the thick of it__  
-__in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
-__in voice__ In an ideal state or condition for speaking or singing.  
-__in working order__ Of a machine, functional; not broken.  
-__inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read this book inside out again and again, but I still enjoy it every time._  
-__it takes a village__  
-__jailbait__ Someone who is attractive but younger than the legal age of consent. _Tom hates hopheads and jailbait jumpers._  
-__jamoke__ :two: The term “jamoke” is a slang word that is used in James Ellroy’s novels to refer to someone who is foolish, inept, or incompetent. It’s a derogatory term that is often used to describe a person who is not very intelligent or capable. The word “jamoke” is derived from the term “java,” which is a slang word for coffee, and “mocha,” which is a type of coffee drink. The combination of these two words created the term “jamoke,” which is used to describe someone who is as weak and insipid as a cup of watered-down coffee. In Ellroy’s novels, the term “jamoke” is often used by the characters to describe someone who is a nuisance or a hindrance, or someone who is not to be taken seriously. It’s a derogatory term that is meant to belittle or mock the person being described.  
-__jaw__  
-__jaw-dropping__ Astonishing or astounding; causing an overwhelming amount of surprise, wonder, or amazement.  
-__Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
-__jump the gun__ To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. In James Ellroy’s novels, it usually means to act prematurely or hastily, without waiting for the right moment.  
-__jungle juice__ _slang_ Any improvised mixture of large amounts various hard liquors combined with small amounts of fruit juice.  
-__juniper juice__  
-__kill (one) with kindness__ To harm, inconvenience, or bother one by treating them with excessive favor or kindness. The phrase originated as the expression “kill with kindness as fond apes do their young,” referring to the notion that such animals sometimes crushed their offspring by hugging them too hard. _I love talking to Grandma, but she calls me twice a day to see how I’m doing—right now she’s killing me with kindness._  
-__kiss-ass__  
 __ladies and gents__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
