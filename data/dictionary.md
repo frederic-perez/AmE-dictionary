@@ -11354,7 +11354,7 @@ __mishmash__ _n_ :two::hammer:
 __misinformation__ _n_ :three: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _v tr_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
 __mismatch__ _n_ :two::pencil2::hammer:  
-__misnomer__ _n_ :nine::pencil2::m: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :nine::m::pencil2: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
