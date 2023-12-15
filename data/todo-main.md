@@ -1,3 +1,16 @@
+__advancement__ _n_  
+__anti-Semitic__ _adj_ (anti-semitic, antisemitic)  
+__attain__ _v_ /əˈteɪn/  
+__auburn__ _n_  
+__brutish__ _adj_  
+__caregiver__ _n_  
+__coloratura__ _n_  
+__crevasse__ _n_  
+__enthused__ /ɪnˈθjuːzd/  
+__exertion__ _n_ /ɪgˈzɜr ʃən/  
+__knoll__ _v_  
+__lavish__ _v tr_  
+__lineage__ _n_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __morass__ _n_ A book of magical knowledge, especially one containing spells.  
 __motormouth__ _n_  
@@ -22,6 +35,7 @@ __one-stop shop__ _n_
 __onslaught__ _n_  
 __onus__ _n_  
 __opportunistic__  
+__oriole__ _n_  
 __osprey__ _n_  
 __otitis__ _n_  
 __ottter__ _n_  
@@ -30,6 +44,7 @@ __outage__ _n_
 __outmatch__ _v tr_  
 __overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
 __overly__  
+__overly__ _adv_  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtly__  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
@@ -50,6 +65,7 @@ __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in wh
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __paraplegia__ _n_  
 __parcel__ _v tr_ :mega:  
+__pedal pushers__ _n pl_  
 __pelt__ _n_  
 __people pleaser__ _n_  
 __percolate__ _v_  
@@ -61,6 +77,7 @@ __philosophy__ _n_ /fɪˈlɒs ə fi/
 __pilfer__ _v_  
 __pilfered__  
 __pillory__ _v tr_ (pilloried)  
+__pinafore__ _n_  
 __pit<sup>1</sup>__ _n_  
 __pit<sup>2</sup>__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _They pit two neural networks against each other._  
 __pit<sup>3</sup>__ _v intr_  
@@ -92,6 +109,7 @@ __rampant__ _adj_
 __ransack__ _v tr_  
 __ransom__ _n_  
 __rapture__ _v_  
+__rationalize__ _v_  
 __recidivism__ _n_  
 __redux__ _adj_  
 __refusenik__ _n_  
@@ -107,6 +125,7 @@ __salve__ _v tr_ __2__ To ease the distress or agitation of; assuage: _salved my
 __salvo__ _n_ (_n pl_ salvos, salvoes)  
 __sanity check__  
 __sate__ _v tr_  
+__saunter__  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
@@ -189,6 +208,7 @@ __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel
 __snooker<sup>1</sup>__ _n_  
 __snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
 __split__ _v_ _Women who have split from a relationship._  
+__squarely__ _adv_ /ˈskwɛəlɪ/  
 __squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
 __squirm__ _v_ :two::hammer:  
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
@@ -215,9 +235,11 @@ __subaltern__ _n_
 __suborn__ _v tr_  
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __succubus__ _n_  
+__sultry__ _adj_  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
+__talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
@@ -250,10 +272,13 @@ __toothsome__
 __tout__ _v_ :dart:  
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
+__traipse__ _v_  
 __transience__  
 __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transvestite__ _n_  
+__tumbledown__ _adj_  
 __ukulele__ _n_ :pencil2:  
+__undercut__  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
 __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
 __unpack__  
@@ -276,11 +301,13 @@ __washstand__ _n_
 __wattle__ _n_  
 __waver__ _v_  
 __waxing__ _v_  
+__wayward__  
 __weaponize__  
 __weasel__ _v_  
 __weather__ _v tr_ __3__ To come through (something) safely; survive: _weather a crisis._  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
+__welt__ _n_  
 __welter__ _n_ _A welter of objects._  
 __werewolf__ _n_ /WAIR-woolf/  
 __wharfage__ _n_ _Syn_ pier, dock  
@@ -289,6 +316,7 @@ __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or suppli
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __whip up__  
 __whiplash__ _n_  
+__wisteria__ _n_  
 __wordsmith__ _n_  
 __workaday__ _adj_  
 __working order__ _n_  
