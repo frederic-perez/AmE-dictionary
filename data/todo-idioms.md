@@ -1,28 +1,3 @@
-__(first) dibs (on something)__  
-__a drop in the bucket__ _AmE_ (a drop in the ocean _BrE_) A very small amount compared with what is needed or expected.  
-__a drop in the ocean__ _BrE_ (a drop in the bucket _AmE_) A very small amount compared with what is needed or expected.  
-__addict__ _n_ Someone showing a strong preference for something or someone. (Not related to drug addiction.) _Sam is a real opera addict. He just loves the stuff._  
-__all or nothing__  
-__ascribe (something) to (something)__ To attribute something to a person or source. _The cause of the accident was ascribed to human error._  
-__at the end of the day__ :two: Ultimately.  
-__be on the same page__  
-__bits and pieces__  
-__boffo__ :two: __2__ _adj_ Wonderful or fantastic. _That routine was just boffo, way to go!_  
-__bring (someone or something) to (someone’s or something’s) knees__  
-__bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
-__burst (one’s) balloon__  
-__catfish__  
-__chug__ _v_  
-__come to terms with (someone or something)__  
-__cut-rate__ Offered or sold at a low price. _I told you you’d regret buying a cut-rate car like that!_  
-__dart out__ To move quickly out of somewhere or something.  
-__defuse (something)__ To settle, calm, or make less dangerous an extremely tense, hostile, or volatile situation. Likened to removing the fuse from or otherwise disabling a bomb.  
-__dime__ __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
-__disengage from (someone or something)__  
-__ditz__ __1__ _n_ _slang chiefly US_ A silly scatterbrained person. __2__ _v_ In James Ellroy’s novels, “ditz” is usually used as a verb to mean to be in a state of confusion or mental disarray. It’s often used to describe someone who is acting in a scatterbrained or disorganized way.  
-__don’t get (one) started__  
-__draw to a close__  
-__easy peasy__  
 __elephant in the room__  
 __enmesh in (something)__  
 __fall (flat) on (one’s)/its face__  

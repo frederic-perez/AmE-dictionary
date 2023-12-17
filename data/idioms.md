@@ -17,7 +17,7 @@ __(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell 
 __(be) careful what you wish for(, (because) you just might get it)__ A warning that something that one desires might prove to problematic or undesirable were it to happen or come true.  
 __(deep) in the weeds__ :dart::two::hammer:  
 __(deep) into the weeds__ :two::hammer:  
-__(first) dibs (on something)__ :dart::two: _slang_ The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_ _Sign up for their waitlist to get first dibs!_  
+__(first) dibs (on something)__ :dart::three: _slang_ The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_ _Sign up for their waitlist to get first dibs!_  
 __(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
 __(good) heavens__  
 __(I) hope not__  
@@ -112,7 +112,8 @@ __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no val
 __a disaster waiting to happen__  
 __a doozy__ :two: Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
 __a double take__  
-__a drop in the bucket__ :two: A very small amount when compared to something else.  
+__a drop in the bucket__ :three: _AmE_ (a drop in the ocean _BrE_) A very small amount compared with what is needed or expected. A very small amount when compared to something else.  
+__a drop in the ocean__ _BrE_ (a drop in the bucket _AmE_) A very small amount compared with what is needed or expected.  
 __a falling out__ :two: A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship. _I haven’t spoken to my brother for nearly three years because of a falling-out we had over our late father’s estate._  
 __a far cry from (something)__ :three::hammer: [:sound: far cry from]  
 __a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
@@ -242,6 +243,7 @@ __add fuel to the fire__ To do or say something to make an argument, problem, or
 __add insult to injury__ :two: To hurt the feelings of a person who is already upset.  
 __add up to (something)__ :two: To equal or amount to something.  
 __add up__ :two::hammer: _It doesn’t add up._  
+__addict__ _n_ Someone showing a strong preference for something or someone. (Not related to drug addiction.) _Sam is a real opera addict. He just loves the stuff._  
 __admit defeat__ :two: To yield to the opposition or accept that one is wrong in some pursuit. _Well, I ran a good campaign, but it is time I admitted defeat in this election._  
 __adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
@@ -286,6 +288,7 @@ __all in__ :two: __3__ Putting all of one’s available resources into an effort
 __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ In a nervous, confused, or agitated state.  
 __all of a sudden__  
+__all or nothing__  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the map__  
 __all over the place<sup>1</sup>__ _adj_ :three: Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -374,6 +377,7 @@ __as we know it__ :two: As something is currently understood or viewed. This phr
 __as we speak__ At this very moment.  
 __as yet__ :two: At this time; yet. Up to the present time; up to now. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __as you please__  
+__ascribe (something) to (something)__ To attribute something to a person or source. _The cause of the accident was ascribed to human error._  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
 __ask for trouble__  
 __at (long) last__ :two: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
@@ -407,7 +411,7 @@ __at stake__ :two::hammer:
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of (one’s) tether__ Completely worn out, exasperated, or exhausted; having no more patience, endurance, or energy left. _Joshua has been throwing a tantrum all afternoon, and with all the other things I have to get done, I’m simply at the end of my tether!_  
-__at the end of the day__ :four::hammer:  
+__at the end of the day__ :six: Ultimately.  
 __at the expense of (someone or something)__  
 __at the forefront (of something)__ _In the clinical community, we need to be at the forefront._  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
@@ -593,7 +597,7 @@ __be on course__ :dart: __1__ Literally, to be moving in the correct direction o
 __be on edge__ :two::hammer:  
 __be on the fence (about something)__  
 __be on the lookout__ :four: To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
-__be on the same page__ :two::hammer:  
+__be on the same page__ :three::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be on vacation__ _During January and February the trolleys are on vacation._  
 __be partial to (someone or something)__  
@@ -704,7 +708,7 @@ __bite off more than one can chew__ To attempt to take on a task that is too muc
 __bite the bullet__  
 __bite the dust__ :three::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._ _Bite the dust, asteroid!_  
 __bite the hand that feeds (you)__ :two: To scorn or poorly treat those on whom you depend or derive benefit.  
-__bits and pieces__  
+__bits and pieces__ :two::hammer:  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black magic__  
@@ -739,6 +743,7 @@ __blue in the face__ Showing signs of exhaustion or strain. Often used in the ph
 __blue moon__  
 __blue pill__  
 __bode well for (someone or something)__ To seem indicative of a favorable outcome. This phrase is often used in the negative to suggest the opposite. _Sunny weather bodes well for our flight leaving on time._  
+__boffo__ :two: __2__ _adj_ Wonderful or fantastic. _That routine was just boffo, way to go!_  
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boggle the/(one’s) mind__ To thoroughly overwhelm, confuse, or surprise one. _The show of support from everyone just boggled my mind._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
@@ -811,6 +816,7 @@ __brighten up (the) day__
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __bring (one) up to speed__ To inform one of the latest details (about something). _Tom, will you please bring the rest of the team up to speed on the status of the project?_  
 __bring (someone or oneself) to (do something)__  
+__bring (someone or something) to (someone’s or something’s) knees__  
 __bring (someone or something) to a halt__  
 __bring (someone) to terms__ To compel a person or group to agree to or do something, especially a set of demands or conditions. _The rebels’ unflinching siege of the king’s palace eventually brought the government to terms._  
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
@@ -854,6 +860,7 @@ __bump heads with__ To clash with another person on a particular issue. _Monica 
 __bump someone or something up__  
 __bundle up__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
+__bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
 __burn the candle at both ends__ :two: To work very hard and stay up very late at night. (One end of the candle is work done in the daylight, and the other end is work done at night.) _No wonder Mary is ill. She has been burning the candle at both ends for a long time._ _You’ll wear out if you keep burning the candle at both ends._  
 __burn the midnight oil__ :three: To work late into the night.  
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
@@ -863,6 +870,7 @@ __burning desire__
 __burning question__ :three: An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
 __burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
 __burp__ _informal_  
+__burst (one’s) balloon__  
 __burst (one’s) bubble__  
 __burst at the seams__ :two::hammer:  
 __burst through (something)__  
@@ -1003,7 +1011,7 @@ __catch the wave__ If you catch the wave, you act quickly in order to use an opp
 __catch wind of (something)__ :three: (get wind of something, caught wind) To learn of something; to hear about something.  
 __catch__ :three: __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._ _Why are you selling this for so little? What’s the catch?_ _Here is the catch._  
 __cater to (someone or something)__  
-__catfish__ _Dating sites are riddled with catfish._  
+__catfish__ :two::hammer: _Dating sites are riddled with catfish._  
 __catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
 __caught on the hop__ Caught unawares or in a state of unpreparedness. _Please forgive my distracted attention—I’m afraid I was caught on the hop by your sudden arrival._  
 __caught unaware(s)__ To be surprised by someone or something. _The clerk was caught unawares, and the robber emptied out the cash register before the clerk could sound the alarm._  
@@ -1057,7 +1065,7 @@ __chomp at the bit__ To be impatient or eager for something to happen or over so
 __chopped liver__  
 __chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
 __chuck__  
-__chug__ _v_ [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
+__chug__ _v_ :two: [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
 __chugging the milk__ Chugging the milk is a phrase used to describe the task of quickly drinking a whole container of milk. It is often used in informal contexts and is commonly used by college students as a challenge. Chugging the milk can also be used as a hazing activity in certain organizations.  
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
@@ -1134,7 +1142,7 @@ __come to an end__
 __come to fruition__ :three: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__ :two::hammer:  
 __come to grips__ :two::hammer:  
-__come to terms with (someone or something)__ :eight: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
+__come to terms with (someone or something)__ :nine: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to the fore__  
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
@@ -1271,6 +1279,7 @@ __cut the line__
 __cut the spin__  
 __cut ties with (someone)__ :five::hammer: _I was cutting ties without even knowing._  
 __cut to the chase__ :three::hammer:  
+__cut-rate__ Offered or sold at a low price. _I told you you’d regret buying a cut-rate car like that!_  
 __cutting edge__ _Cutting edge fashion._  
 __dabble in (something)__  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
@@ -1285,6 +1294,7 @@ __dark joke__
 __dark side__ A deeply negative, troubled, or antagonistic aspect of someone or something that is usually kept concealed. _Jonathan’s mom is always sweet to me and our friends, but apparently she has a bit of a dark side when we’re not around._  
 __darkest hour__ :two: The moment or period in which things are at their worst, lowest, or most discouraging.  
 __Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
+__dart out__ To move quickly out of somewhere or something.  
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
 __dawn (up)on (one)__ :three::hammer:  
 __day and age__  
@@ -1321,7 +1331,7 @@ __deep dive__ :six: To go in-depth into something. A thorough analysis, perhaps 
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
 __deepfake__ :two::hammer:  
-__defuse (something)__  
+__defuse (something)__ :two: To settle, calm, or make less dangerous an extremely tense, hostile, or volatile situation. Likened to removing the fuse from or otherwise disabling a bomb.  
 __deliver on__ _v_ :dart: To do something one has promised or is expected to do: _The contractor delivered on his promises to get the work done by Friday._ _Caregiving robots don’t always deliver on their promises._  
 __deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
 __delve into (something)__ To study something thoroughly.  
@@ -1343,7 +1353,7 @@ __dig deep__ :two::hammer:
 __dig in (one’) heels__ :three: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dig in(to) (something)__ :two::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
-__dime__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value.  
+__dime__ :two: __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
 __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __Ding, ding, ding, we have a winner!__ :two: _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __dingy__  
@@ -1353,11 +1363,12 @@ __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I we
 __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
 __dirtbag__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
+__disengage from (someone or something)__  
 __dish out__ :six::hammer: _Yoda will dish out the advice._  
 __dish something out__  
 __diss__  
 __dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
-__ditz__ /dɪts/ _n_ _slang chiefly US_ A silly scatterbrained person.  
+__ditz__ :two: /dɪts/ __1__ _n_ _slang chiefly US_ A silly scatterbrained person. __2__ _v_ In James Ellroy’s novels, “ditz” is usually used as a verb to mean to be in a state of confusion or mental disarray. It’s often used to describe someone who is acting in a scatterbrained or disorganized way.  
 __dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
 __dive in__ :dart::three::hammer: _Let’s dive in together._  
 __do (one’s) part__  
@@ -1399,7 +1410,7 @@ __doll up__
 __dolled up to the nines__  
 __don’t call us, we’ll call you__ :two: _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
 __don’t count your chickens before they hatch__ :dart::three: (don’t count your chickens before they’re hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, “Don’t count your chickens before they’re hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don’t count your chickens before they’re hatched, babe!_  
-__don’t get (one) started__ :four::hammer:  
+__don’t get (one) started__ :five::hammer:  
 __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ :two: An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ :two: Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic. _A: “So, do you ever hear from your ex-husband?” B: “Don’t even go there. That divorce trial still gives me a headache!”_  
@@ -1452,7 +1463,7 @@ __draw a blank__ :two: To fail to find or remember something.
 __draw a line in the sand__ :two::hammer:  
 __draw a line__  
 __draw the line__ _Draw the line in the sand._  
-__draw to a close__ :five::hammer:  
+__draw to a close__ :six::hammer:  
 __draw up__  
 __draw upon__  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
@@ -1486,7 +1497,7 @@ __early bird__ _No early birds allowed because it just wouldn’t be fair to the
 __early days__ :three: The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ :two: Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
-__easy peasy__ :three::hammer:  
+__easy peasy__ :four::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-breeze__ :dart:  
 __eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
