@@ -1,28 +1,3 @@
-__acrimony__ _n_ Bitter, sharp animosity, especially as exhibited in speech or behavior. _Syn_ acerbity, bitterness, jaundice  
-__aglow__ _adj, adv_  
-__ambage__ _n_ A style that involves indirect ways of expressing things. _Syn_ circumlocution, periphrasis  
-__aplomb__ _n_ /uh-PLAHM/ Complete and confident composure or self-assurance. _Syn_ poise  
-__armillary__ _adj_ Consisting of hoops or rings.  
-__avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
-__beset__ _v tr_  
-__blather__  
-__boding__ _n_ An omen or foreboding, especially of evil. _Syn_ premonition, presentiment, foreboding  
-__cachinnate__ _v intr_  
-__convalesce__ _v_ /kahn-vuh-LESS/  
-__dainty__ _adj, n_  
-__delve__ _v_ /DELV/  
-__demure__ _adj_  
-__divest__ _v tr_  
-__enervate__ _v_ :astonished:  
-__gallimaufry__ _n_ A jumble; a hodgepodge.  
-__genial__ _adj_ /JEEN-yul/ Someone described as genial is cheerful and pleasant; a thing described as genial suggests or expresses friendliness and cheer.  
-__gestalt__  
-__goatee__ _n_  
-__guffaw__ _n, v_  
-__hogwash__ _n_  
-__hugger-mugger__  
-__instrumental__ _adj_ /ˌɪn strəˈmɛn tl/  
-__inveterate__ _adj_ :dart: Persisting in an ingrained habit. _Syn_ chronic, confirmed, habitual _He was an inveterate gambler, though a poor loser._  
 __kinetic__ _adj_ /kuh-NET-ik/  
 __lambast__ _v_  
 __largesse__ _n_  

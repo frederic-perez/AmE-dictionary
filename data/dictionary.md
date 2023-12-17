@@ -172,7 +172,7 @@ __acquittance__ _n_ A written release from an obligation, specifically a receipt
 __acreage__ _n_ :three: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
 __acrimonious__ _adj_ :three::hammer:  
-__acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
+__acrimony__ _n_ :four: Bitter, sharp animosity, especially as exhibited in speech or behavior. _Syn_ acerbity, bitterness, jaundice  
 __acrobat__ _n_ :mega:  
 __acronym__ _n_ /AK-ruh-nim/  
 __acrophobia__  
@@ -331,6 +331,7 @@ __aghast__ _adj_ :nine::m: Struck with terror, amazement, or horror; shocked and
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitation__ _n_ __1__ A state of excitement, disturbance, or worry.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
+__aglow__ _adj, adv_  
 __agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
@@ -489,6 +490,7 @@ __amalgam__
 __amaranth__ _n_ __2__ An imaginary flower that never fades.  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
+__ambage__ _n_ A style that involves indirect ways of expressing things. _Syn_ circumlocution, periphrasis  
 __Amber alert__ _n_  
 __ambiance__ _n_ :two::hammer: _Relaxing ambiance._  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
@@ -703,7 +705,7 @@ __apiary__ _n_ :two: A place where bees and beehives are kept, especially a plac
 __apiece__ _adv_ /əˈpiːs/  
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
-__aplomb__ _n_ :dart::seven: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
+__aplomb__ _n_ :dart::eight: /uh-PLAHM/ Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_ :four::mega: Temporary cessation of breathing. _Sleep apnea._  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
@@ -826,6 +828,7 @@ __arm bands__ _n_ :es: manguitos
 __armageddon__  
 __armagnac__  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
+__armillary__ _adj_ Consisting of hoops or rings.  
 __armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
 __armistice__ _n_ :three::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
@@ -1054,6 +1057,7 @@ __autumn__ _n_ :two::hammer::mute:[autum~~n~~]
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avail__ _v_ :three::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_ :two::hammer:  
+__avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
 __avenge__ _v tr_  
 __avent__ _n_  
 __aver__ _v_ :two::hammer:  
@@ -1739,8 +1743,8 @@ __blasé__ _adj_ :two::hammer:
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :three::hammer:  
 __blatantly__  
-__blather<sup>1</sup>__ _n_  
-__blather<sup>2</sup>__ _v intr_ :four: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
+__blather<sup>1</sup>__ _n_ :two::hammer:  
+__blather<sup>2</sup>__ _v intr_ :five: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
 __blatherskite__ _n_ :two::hammer:  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
@@ -1887,6 +1891,7 @@ __bodacious__
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __bodhi tree__  
+__boding__ _n_ An omen or foreboding, especially of evil. _Syn_ premonition, presentiment, foreboding  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __body dysmorphia__ _n_  
 __body odor__ _n_  
@@ -2565,7 +2570,7 @@ __caboose__ _n_ :camera::three::hammer: _Mr. Miller kept 50 engines, boxcars, fl
 __cache<sup>1</sup>__ _n_ :two::mega: A secret store of valuables or money. _Syn_ hoard, stash _In case of an emergency, I have a small cache of money and weapons hidden in the shed._  
 __cache<sup>2</sup>__ _v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
-__cachinnate__ _v intr_ :five: To laugh hard, loudly, or convulsively; guffaw.  
+__cachinnate__ _v intr_ :six: To laugh hard, loudly, or convulsively; guffaw.  
 __cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle<sup>1</sup>__ _v_ :four::hammer: (cackling)  
@@ -3910,7 +3915,7 @@ __controversial__
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conundrum__ _n_ :three: /kəˈnʌndrəm/ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
-__convalesce__ _v_ :four: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
+__convalesce__ _v_ :five: /kahn-vuh-LESS/ (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
@@ -4464,7 +4469,8 @@ __dagger__ _n_
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._  
-__dainty__ _adj_ :two::hammer: _Dainty eyebrows._  
+__dainty<sup>1</sup>__ _adj_ :three::hammer: _Dainty eyebrows._  
+__dainty<sup>2</sup>__ _n_  
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :five: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
 __daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
@@ -4739,7 +4745,7 @@ __deluge<sup>1</sup>__ _n_ :nine: A lot of things all happening or arriving at t
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _adj_ :two::hammer: _Deluxe album._ _Deluxe hotels._  
-__delve__ _v_ :three::dart::hammer:  
+__delve__ _v_ :four::dart::hammer: /DELV/  
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
 __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
 __demagogy__  
@@ -4758,7 +4764,7 @@ __demonstrators__
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __demosaicing__ _adj_ (de-mosaicing, demosaicking)  
 __demur__ _v_ (demurred) :five::hammer: (demurred)  
-__demure__ _adj_ :five: /dih-MYOOR/ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
+__demure__ _adj_ :six: /dih-MYOOR/ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
 __demurral__ _n_  
 __demystify__ _v tr_ :three::hammer:  
@@ -5186,8 +5192,7 @@ __diversion__ _n_
 __divert__ _v_ _Diverted flights_  
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
-__dives__ _v_  
-__divest__ _v tr_ :nine: /di/duh/dy-VEST/ /dye-VEST/ /daɪˈvɛst/ [:scroll: From Old French desvestir (to undress), from Latin divestire, from di- (away) + vestire (to dress), from vestis (garment).] __1__ To remove, give up, or sell off. To divest something valuable, such as property or stocks, is to sell it. Similarly, to divest yourself of something valuable is to sell it or give it away. __2__ If you divest someone or something of something, you take that thing away from them, or otherwise cause them to lose it or give it up. To take away or deprive. _Divested him of stolen lands and castles._ __3__ To strip of clothing, ornament, etc. _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._  
+__divest__ _v tr_ :nine::m: /di/duh/dy-VEST/ /dye-VEST/ /daɪˈvɛst/ [:scroll: From Old French desvestir (to undress), from Latin divestire, from di- (away) + vestire (to dress), from vestis (garment).] __1__ To remove, give up, or sell off. To divest something valuable, such as property or stocks, is to sell it. Similarly, to divest yourself of something valuable is to sell it or give it away. __2__ If you divest someone or something of something, you take that thing away from them, or otherwise cause them to lose it or give it up. To take away or deprive. _Divested him of stolen lands and castles._ __3__ To strip of clothing, ornament, etc. _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._  
 __divestiture__ _n_ :two::hammer:  
 __divide__ _n_ _There appears to be a divide between communications and electronics engineers._  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
@@ -5930,7 +5935,7 @@ __endurance__ _n_ _Endurance race._
 __endure__ _v_ :four: Last for a long time.  
 __Energizer Bunny__  
 __energy harvesting__ _n_  
-__enervate__ _v_ :astonished: To weaken.  
+__enervate__ _v_ :two::astonished: To weaken.  
 __enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfeebling, weakening  
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
@@ -7373,7 +7378,7 @@ __galleon__ _n_
 __galleria__ _n_ _Cafe galleria._  
 __galley__ _n_ :four::hammer: :es: galera  
 __Gallicism__ _n_  
-__gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
+__gallimaufry__ _n_ :two: A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __gallivant__ _v intr_ :two: /GAL-uh-vant/ To go or travel to many different places for pleasure. _She spent her gap year gallivanting around Europe with her best friend._  
@@ -7492,7 +7497,7 @@ __Generation Z__ _n_ :two: Label given to those born since 1995.
 __generic__ _adj, n_ _A generic diet cola._  
 __generous__ _adj_  
 __genetic algorithm__ _n_  
-__genial__ _adj_ :three::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
+__genial__ _adj_ :four::astonished: /JEEN-yul/ __1__ Cheerful, easy-going, and warm in manner or behavior. Someone described as genial is cheerful and pleasant; a thing described as genial suggests or expresses friendliness and cheer. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
 __genoise__ _n_ A light, buttery cake with a texture similar to sponge cake.  
@@ -7513,7 +7518,7 @@ __gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) +
 __gerrymander<sup>1</sup>__ _v_ :eight: /JAIR-ee-man-der/ (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
-__gestalt__ _n_ :eight::hammer:  
+__gestalt__ _n_ :nine::hammer:  
 __get ahold__  
 __get away with__  
 __get enough__  
@@ -7690,7 +7695,7 @@ __goalie__
 __goalkeeper__  
 __goalpost__ _n_  
 __goaltender__  
-__goatee__ _n_ _Sagging goatee._  
+__goatee__ _n_ :two::hammer: _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
 __gobble<sup>1</sup>__ _v_ :five::hammer: _Gobbling a plate of spaguetti and meatballs._ _Do you savor or gobble?_  
 __gobble<sup>2</sup>__ _n_  
@@ -8005,7 +8010,7 @@ __guest house__ _n_ _Syn_ boarding house, motel, bed and breakfast, B & B :es: h
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
 __guesthouse__ _n_  
-__guffaw<sup>1</sup>__ _n_ :two::hammer:  
+__guffaw<sup>1</sup>__ _n_ :three::hammer:  
 __guffaw<sup>2</sup>__ _v_ :nine::m: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __Guggenheim__ _n_ [:scroll: The surname is German, said to mean literally “swamp hamlet” or “cuckoo hamlet.”]  
 __guibble__  
@@ -8662,7 +8667,7 @@ __hog the sofa__
 __hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v_ :three: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
-__hogwash__ _n_ :three: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
+__hogwash__ _n_ :four: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :four::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
@@ -8898,7 +8903,7 @@ __Huey__
 __huff<sup>1</sup>__ _n_  
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my coworker some advice after the meeting, but she perceived it as criticism, got all huffy, and stormed away._  
-__hugger-mugger__ _adj, adv, n, v_  
+__hugger-mugger__ _adj, adv, n, v_ :two::hammer:  
 __huh__  
 __hullabaloo__ _n_ :three: (hullaballoo) __1__ _informal_ A loud, continued noise or mixture of noises. _Syn_ din __2__ _informal_ A state of commotion, excitement, or violent disturbance. _Syn_ uproar, fuss  
 __human shield__  
@@ -9398,7 +9403,7 @@ __instigator__ _n_
 __instill__ _v_ :nine::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
-__instrumental__ _adj_ :three::hammer: _He has been instrumental in a number of European research projects._  
+__instrumental__ _adj_ :four::hammer: /ˌɪn strəˈmɛn tl/ _He has been instrumental in a number of European research projects._  
 __insufferable__ _adj_ _This means means more insufferable clickbait Twitter threads._  
 __insular__ _adj_ _His small, insular group of loyalists._  
 __insulated__ _adj_ _Insulated coffee pitcher._  
@@ -9480,7 +9485,7 @@ __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing
 __inverness__ _n_  
 __invest__ _v_ :two::hammer: _The Black Prince could be starved out if the French chose to surround and invest him._  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
-__inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
+__inveterate__ _adj_ :dart::seven: Persisting in an ingrained habit. _Syn_ chronic, confirmed, habitual _He was an inveterate gambler, though a poor loser._ _Two inveterate peculators._  
 __invigorating__ _adj_  
 __invincible__ _adj_ /in-VIN-suh-bul/  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
