@@ -1,21 +1,33 @@
 __acrimony__ _n_ Bitter, sharp animosity, especially as exhibited in speech or behavior. _Syn_ acerbity, bitterness, jaundice  
+__aglow__ _adj, adv_  
 __ambage__ _n_ A style that involves indirect ways of expressing things. _Syn_ circumlocution, periphrasis  
 __aplomb__ _n_ /uh-PLAHM/ Complete and confident composure or self-assurance. _Syn_ poise  
 __armillary__ _adj_ Consisting of hoops or rings.  
 __avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
+__beset__ _v tr_  
+__blather__  
 __boding__ _n_ An omen or foreboding, especially of evil. _Syn_ premonition, presentiment, foreboding  
 __cachinnate__ _v intr_  
 __convalesce__ _v_ /kahn-vuh-LESS/  
+__dainty__ _adj, n_  
 __delve__ _v_ /DELV/  
+__demure__ _adj_  
+__divest__ _v tr_  
 __enervate__ _v_ :astonished:  
 __gallimaufry__ _n_ A jumble; a hodgepodge.  
 __genial__ _adj_ /JEEN-yul/ Someone described as genial is cheerful and pleasant; a thing described as genial suggests or expresses friendliness and cheer.  
+__gestalt__  
 __goatee__ _n_  
+__guffaw__ _n, v_  
+__hogwash__ _n_  
 __hugger-mugger__  
+__instrumental__ _adj_ /ˌɪn strəˈmɛn tl/  
 __inveterate__ _adj_ :dart: Persisting in an ingrained habit. _Syn_ chronic, confirmed, habitual _He was an inveterate gambler, though a poor loser._  
 __kinetic__ _adj_ /kuh-NET-ik/  
 __lambast__ _v_  
+__largesse__ _n_  
 __mince__ _v_ To moderate or restrain (words) for the sake of politeness and decorum; euphemize. _Syn_ moderate, soften  
+__minor__ _n_ /ˈmaɪ nər/ Underage person.  
 __mustache__ _n_ (moustache)  
 __non-binding__ _adj_ That does not bind the participants.  
 __non-negotiable__ _adj_  
@@ -59,6 +71,8 @@ __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in wh
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __paraplegia__ _n_  
 __parcel__ _v tr_ :mega:  
+__pastiche__ _n_  
+__patent leather__ _n_  
 __paunch__ _n_ A protruding abdomen. _Syn_ belly  
 __pedal pushers__ _n pl_  
 __pelt__ _n_  
@@ -90,12 +104,13 @@ __prove__ _v intr_ To be shown to be such; turn out: _a theory that proved impra
 __pry__ _v_  
 __psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psychobabble__ _n_  
-__punitive__ _adj_ Inflicting or aiming to inflict punishment; punishing.  
+__punitive__ _adj_ :two: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._  
 __purloin__ _v tr_  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
+__quash__ _v tr_  
 __quiescent__ _adj_  
 __quixotic__ _adj_ /kwik-SAH-tik/  
 __racketeer__ _n, v_  
@@ -109,6 +124,7 @@ __ransom__ _n_
 __rapture__ _v_  
 __rationalize__ _v_  
 __recidivism__ _n_  
+__redress__ _v tr_  
 __redux__ _adj_  
 __refusenik__ _n_  
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
@@ -116,6 +132,7 @@ __rehouse__ _v tr_ To provide with new, usually improved housing.
 __reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
 __repercussion__ _n_  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
+__rigmarole__ _n_  
 __rue__ _v_  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
@@ -144,6 +161,7 @@ __scrutiny__ _n_
 __scurvy<sup>1</sup>__ _n_  
 __scurvy<sup>2</sup>__ _adj_ Contemptible; despicable.  
 __seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
+__seamstress__ _n_ :dart:  
 __seance__ _n_ :es: sesión de esperitismo  
 __second__ _n_ :mega: /ˈsɛkənd/  
 __secreted__ _v_ _He secreted himself in the hotel._  
@@ -181,6 +199,7 @@ __shit-hole__
 __showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
 __shtup__ _v_  
 __sidekick__ _n informal_  
+__sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __significant__ _adj_  
 __silkworm__ _n_ :es: gusano de seda  
 __simulacrum__  
@@ -200,6 +219,7 @@ __ski jump__ _n_
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __slum<sup>1</sup>__ _n_  
 __slum<sup>2</sup>__ _v intr_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
+__small-time__  
 __smithereens__  
 __smorgasbord__  
 __snarf__ _v tr_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
@@ -240,8 +260,10 @@ __sultry__ _adj_
 __supercilious__  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
+__sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
+__tarnish__ _v_  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
@@ -286,6 +308,7 @@ __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
 __unrepentant__  
+__unsavory__ _adj_ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
 __unworldly__ _adj_  
 __upend__ _v_  
@@ -321,6 +344,7 @@ __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.
 __whip up__  
 __whiplash__ _n_  
 __wisteria__ _n_  
+__wistfully__ _adv_  
 __wordsmith__ _n_  
 __workaday__ _adj_  
 __working order__ _n_  
