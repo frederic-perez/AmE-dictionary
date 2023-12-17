@@ -1,9 +1,29 @@
+__acrimony__ _n_ Bitter, sharp animosity, especially as exhibited in speech or behavior. _Syn_ acerbity, bitterness, jaundice  
+__ambage__ _n_ A style that involves indirect ways of expressing things. _Syn_ circumlocution, periphrasis  
+__aplomb__ _n_ /uh-PLAHM/ Complete and confident composure or self-assurance. _Syn_ poise  
+__armillary__ _adj_ Consisting of hoops or rings.  
+__avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
+__boding__ _n_ An omen or foreboding, especially of evil. _Syn_ premonition, presentiment, foreboding  
+__cachinnate__ _v intr_  
+__convalesce__ _v_ /kahn-vuh-LESS/  
+__delve__ _v_ /DELV/  
+__enervate__ _v_ :astonished:  
+__gallimaufry__ _n_ A jumble; a hodgepodge.  
+__genial__ _adj_ /JEEN-yul/ Someone described as genial is cheerful and pleasant; a thing described as genial suggests or expresses friendliness and cheer.  
+__goatee__ _n_  
+__hugger-mugger__  
+__inveterate__ _adj_ :dart: Persisting in an ingrained habit. _Syn_ chronic, confirmed, habitual _He was an inveterate gambler, though a poor loser._  
+__kinetic__ _adj_ /kuh-NET-ik/  
+__lambast__ _v_  
+__mince__ _v_ To moderate or restrain (words) for the sake of politeness and decorum; euphemize. _Syn_ moderate, soften  
+__mustache__ _n_ (moustache)  
 __non-binding__ _adj_ That does not bind the participants.  
 __non-negotiable__ _adj_  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __note__ _v_ __1__ 1. (often with _down_) To write down. _He noted (down) her telephone number in his diary._  
 __o’clock__ _adv_ Short for _of the clock._  
 __off label__  
+__offprint__ _n_ A reproduction of or an excerpt from an article that was originally contained in a larger publication. _Syn_ separate, reprint  
 __offset__ _v_  
 __ogre__ _n_  
 __one-stop shop__ _n_  
@@ -18,8 +38,7 @@ __out-of-pocket__
 __outage__ _n_  
 __outmatch__ _v tr_  
 __overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
-__overly__  
-__overly__ _adv_  
+__overly__ _adv_ :two::hammer:  
 __oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
 __overtly__  
 __overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
@@ -40,11 +59,13 @@ __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in wh
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __paraplegia__ _n_  
 __parcel__ _v tr_ :mega:  
+__paunch__ _n_ A protruding abdomen. _Syn_ belly  
 __pedal pushers__ _n pl_  
 __pelt__ _n_  
 __people pleaser__ _n_  
 __percolate__ _v_  
 __peremptory__ _adj_ :dart:  
+__permeable__ _adj_ /PER-mee-uh-bul/  
 __peruse__ _v tr_  
 __pester__ _v tr_  
 __petulant__ _adj_  
@@ -76,10 +97,12 @@ __purpose__ _n_ :mega:
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
 __quiescent__ _adj_  
+__quixotic__ _adj_ /kwik-SAH-tik/  
 __racketeer__ _n, v_  
 __radio__ _v_ _He never even thought to radio for help._  
 __rage__ _v intr_  
 __rambunctious__ _adj_  
+__ramify__ _v_ To have complicating consequences or outgrowths. _Syn_ complexify _The problem merely ramified after the unsuccessful meeting._  
 __rampant__ _adj_  
 __ransack__ _v tr_  
 __ransom__ _n_  
@@ -96,8 +119,10 @@ __resumption__ _n_ The act or an instance of resuming; a beginning again: _resum
 __rue__ _v_  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
+__ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
 __salve__ _v tr_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
 __salvo__ _n_ (_n pl_ salvos, salvoes)  
+__sanguine__ _adj_ :two::hammer:  
 __sanity check__  
 __sate__ _v tr_  
 __saunter__  
@@ -185,6 +210,7 @@ __snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.
 __split__ _v_ _Women who have split from a relationship._  
 __squarely__ _adv_ /ˈskwɛəlɪ/  
 __squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
+__squib__ _n_ __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
 __squirm__ _v_ :two::hammer:  
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
@@ -211,6 +237,7 @@ __suborn__ _v tr_
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __succubus__ _n_  
 __sultry__ _adj_  
+__supercilious__  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
@@ -266,7 +293,9 @@ __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on whi
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
+__visceral__ _adj_ /VISS-uh-rul/  
 __walkout__ _n_ :four: __1__ A labor strike.  
+__walrus mustache__ _n_ A bushy, drooping mustache.  
 __wanderlust__ _n_  
 __wanly__  
 __wanton__  
