@@ -14,16 +14,19 @@ __burst (one’s) balloon__
 __catfish__  
 __chug__ _v_  
 __come to terms with (someone or something)__  
+__cut-rate__ Offered or sold at a low price. _I told you you’d regret buying a cut-rate car like that!_  
 __dart out__ To move quickly out of somewhere or something.  
 __defuse (something)__ To settle, calm, or make less dangerous an extremely tense, hostile, or volatile situation. Likened to removing the fuse from or otherwise disabling a bomb.  
 __dime__ __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
 __disengage from (someone or something)__  
 __ditz__ __1__ _n_ _slang chiefly US_ A silly scatterbrained person. __2__ _v_ In James Ellroy’s novels, “ditz” is usually used as a verb to mean to be in a state of confusion or mental disarray. It’s often used to describe someone who is acting in a scatterbrained or disorganized way.  
 __don’t get (one) started__  
+__draw to a close__  
 __easy peasy__  
 __elephant in the room__  
 __enmesh in (something)__  
 __fall (flat) on (one’s)/its face__  
+__fly under (the/someone’s) radar__  
 __for kicks__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
@@ -42,6 +45,7 @@ __go pffft__ It’s basically James Ellroy-speak for something just…fizzling o
 __God forbid__  
 __grapple with (someone or something)__  
 __green sheet__  
+__hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __have (got) (someone’s) back__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
@@ -49,6 +53,7 @@ __have a thing for (something)__ To have a very keen or particular interest in s
 __have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve. _I’ve got a few tricks up my sleeve if he decides to pursue legal action against me._  
 __have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a/the right to (something)__  
+__have egg on (one’s) face__  
 __have enough on (one’s) plate__  
 __have eyes bigger than (one’s) stomach__ To take more food than one is actually capable of eating. _I always have eyes bigger than my stomach when I go to all-you-can-eat buffets!_  
 __have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
@@ -85,6 +90,10 @@ __head-to-toe__
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hidden agenda__ A secret goal or an ulterior motive.  
+__hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
+__hoofing__ Walking.  
+__I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
+__keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __ladies and gents__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
@@ -102,6 +111,7 @@ __make (one’s)/the rounds__ :two::hammer:
 __make amends__  
 __mama bear__  
 __Mary Jane__ :two::hammer:  
+__megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
 __Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
 __mic drop__  
 __Mickey (Finn)__  
@@ -113,6 +123,7 @@ __neck and neck__
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
 __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
 __nest egg__  
+__nip and tuck__ :astonished:  
 __nitpicker__  
 __no offense taken__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
@@ -126,6 +137,7 @@ __not know (one) from Eve__
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
 __nudnik__ An irritating, nagging person; a boring pest of a person who makes constant or persistent demands or criticisms.  
+__null and void__  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __off to the races__  
@@ -148,6 +160,7 @@ __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe
 __out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of whack__  
 __out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
+__own someone__ The idiom “own someone” typically means to have power or control over someone else. It can imply that the person being “owned” is subservient or subordinate to the person doing the “owning.” For example, if someone says, “I totally owned that job interview,” it means they were confident and in control of the situation, and they likely impressed the interviewer. Conversely, if someone says “I got owned by my boss at the meeting,” it implies that they felt intimidated or powerless, and the boss had the upper hand in the conversation.  
 __oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
 __pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
 __pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
@@ -159,6 +172,7 @@ __peeps__
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __phase out__ :two::hammer:  
 __pile up__ _The bad news keeps piling up for Elon Musk._  
+__pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
 __pisser__  
 __plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __play around__  
@@ -167,6 +181,7 @@ __plea bargain__ To agree to plead guilty, especially to a lesser criminal offen
 __plea deal__ Plea bargain.  
 __plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
 __point fingers (at someone or something)__  
+__poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
 __poon__  
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
 __pressure cooker__  
@@ -200,10 +215,12 @@ __put up a fight__
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. _I don’t know how you put up with John—he’s such a loudmouth!_  
 __put up with something__  
 __put upon__  
+__putz__ __1__ _n_ _slang_ A stupid, incompetent, or unpleasant person. From Yiddish. _How on earth did those putzes in Washington screw this up so badly?_ __2__ _n_ _vulgar slang_ The penis. From Yiddish. _If he had made decisions with his brain instead of with his putz, maybe his marriage would have survived._  
 __putzo__ :two::hammer:  
 __putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe someone who is incompetent, inept, or otherwise ineffective. It’s a slang term that captures the idea of someone who is struggling to get things done, or who is making a lot of mistakes.  
 __Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
 __quick buck__  
+__rabbit__ _v_ __1__ To run away quickly, usually to escape from something or someone. __2__ To talk excessively or rapidly.  
 __radio silence__  
 __rag on (one)__  
 __ragtop__ _n_ A convertible car.  
@@ -221,7 +238,9 @@ __red tape__
 __refrain from (doing something)__ To make a considered, conscious effort not to do something.  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
+__riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
 __riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
+__ring-a-ding-ding__ The idiom “ring-a-ding-ding” generally means something that’s super exciting or energetic! It’s often used to describe things like parties, events, or even certain types of music. In a way, it’s kind of like saying “it’s a real hoot” or “it’s a blast!”  
 __ripple effect__  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
@@ -238,11 +257,12 @@ __rub someone wrong__
 __ruckus__ A large, uproarious commotion.  
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
+__sandbag__  
 __sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schtick__  
 __scoop__  
-__scoot__ __1__ _v intr_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
+__scoot__ :two: __1__ _v intr_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
@@ -251,7 +271,10 @@ __secretor__ A “secretor” in James Ellroy’s novels is essentially a charac
 __see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __sell like hot cakes__  
 __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
+__shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
+__shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
 __shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
+__shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
 __shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
 __shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellroy’s writing. It’s basically a very, very rude way of referring to someone who’s a lowlife, a scoundrel, or just generally a bad person. In Ellroy’s world, it’s often used to describe corrupt cops, sleazy gangsters, or anyone else who’s part of the seedy underworld of crime and corruption.  
@@ -283,8 +306,10 @@ __status quo__ :mega: /kwoʊ/
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
-__strike a deal__ To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
+__strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
+__studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
 __suck it up__ :dart:  
+__suck up to (one)__  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
 __swear by (someone or something)__  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
@@ -299,12 +324,14 @@ __talk the talk__
 __tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __the (hand)writing on the wall__  
+__the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
 __the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
+__time after time__  
 __time flies__  
 __train wreck__ :dart:  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
