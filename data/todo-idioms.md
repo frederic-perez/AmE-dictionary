@@ -1,14 +1,28 @@
+__(and) that’s that__  
 __all-out__  
+__as of now__  
+__bald as a coot__ Totally bald.  
+__bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
 __barter with__  
+__be on the line__ __1__ To be in a state of jeopardy or uncertainty.  
+__behind bars__  
+__behind closed doors__  
 __bow out__ To resign from a competition or election.  
+__by all accounts__  
 __catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
+__coast along__ To proceed with little effort. _I’m worried that you’re just coasting along through your senior year without taking your future seriously._  
+__coast__ To proceed with little effort. Taking it easy or not putting in as much effort as you normally would. _Only once did Michael Jordan try to coast._  
 __cockeyed__ Crazy, stupid, or ridiculous.  
 __cozy up__ Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
+__cry-baby__  
+__do or die__  
+__double down__  
 __elephant in the room__  
 __enmesh in (something)__  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
 __fall (flat) on (one’s)/its face__  
 __fall short__  
+__fallaway jumper__ _basketball_  
 __final nail in the coffin__  
 __fly under (the/someone’s) radar__  
 __for kicks__  
@@ -77,6 +91,7 @@ __head-to-toe__
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hidden agenda__ A secret goal or an ulterior motive.  
+__hit a wall__  
 __hit or miss__ _adj_ Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
 __hogwash__  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
@@ -85,9 +100,11 @@ __I don’t belong here__ The idiom “I don’t belong here” is a common phra
 __I hear you__  
 __in (one’s) own right__  
 __in earnest__ With sincere intentions.  
+__into overdrive__  
 __it is what it is__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
+__know for a fact__ To have definitive knowledge of something.  
 __ladies and gents__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
@@ -139,6 +156,7 @@ __off (one’s) case__ No longer a source of constant pressure; not nagging one 
 __off to the races__  
 __oh, boy__  
 __okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
+__old coot__ An eccentric or irritable older person, especially a man, whose views or attitudes are considered boring or old-fashioned.  
 __on (one’s) own__  
 __on a roll__  
 __on and on__  
@@ -149,7 +167,7 @@ __on the back foot__ In a position of disadvantage, retreat, or defeat.
 __on the bright side__  
 __on the horizon__  
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
-__on the table__  
+__on the table__ :two::hammer:  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __open season (on someone or something)__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
@@ -161,7 +179,7 @@ __oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression th
 __pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
 __pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
 __pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
-__pave the way (for someone or something)__  
+__pave the way (for someone or something)__ :two::hammer:  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
 __PC__  
 __peeps__  
@@ -318,6 +336,7 @@ __swear by (someone or something)__
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tail__ _n_  
+__take (someone, something, or some place) by storm__  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take a deep breath__  
 __take a shine to (someone or something)__  
@@ -327,7 +346,7 @@ __talk out (of) (one’s) ass__
 __talk the talk__  
 __tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
-__the (hand)writing on the wall__  
+__the (hand)writing on the wall__ :two::hammer:  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
@@ -337,11 +356,14 @@ __the Wild West__ __2__ By extension, that which is characterized by a lack of l
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __time after time__  
 __time flies__  
+__toe the line__  
 __train wreck__ :dart:  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
+__true to (one’s) word__ As one has promised.  
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __turkey__  
 __turn out all right__  
+__turnaround jumper__ _basketball_  
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-way street__  
@@ -352,6 +374,7 @@ __up for grabs__
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __vamoose__ :two::hammer: (vamoosed)  
 __wait for it__  
+__wake-up call__  
 __walk the walk__  
 __walk through__  
 __war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
