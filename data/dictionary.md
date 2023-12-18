@@ -123,6 +123,7 @@ __accidental__ _adj, n_ _Ottolenghi is an accidental chef._
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaim__ _n_  
 __acclaimed__ _adj_ :three::hammer:  
+__acclimate__ _v_ :pencil2:  
 __acclimation__ _n_ :pencil2:  
 __accolade__ _n_ :nine: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
 __accommodate__ _v_ :five::pencil2::hammer:  
@@ -903,7 +904,7 @@ __askance__ _adv_ :three::astonished: /uh-SKANSS/ __1__ With disapproval or dist
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
-__aspen__ _n_ :four::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
+__aspen__ _n_ :five::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
 __Asperger’s syndrome__ _n_ :two::hammer:  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
@@ -1218,6 +1219,7 @@ __ballcap__ _n_ A baseball cap.
 __ballet__ _n_ :mute:[balle~~t~~]  
 __ballistic__  
 __balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the art of balloon animals._ _Balloon-lined car dealership._  
+__ballot stuffing__  
 __ballot__ _n_ :two::hammer: _A lot of guys who did steroids are on the ballot._ _Over half of general practices in England would quit primary care networks, indicative ballot shows._  
 __ballpark<sup>1</sup>__ _n_ :three::hammer: _He got a job as a ballpark vendor._  
 __ballpark<sup>2</sup>__ _adj_ :two::hammer:  
@@ -1505,7 +1507,7 @@ __Beltane__ _n_ /BEL-tayn/ Beltane refers to the Celtic May Day festival.
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __beltway__ _n_ :dart:  
-__belvedere__ _n_ :five::hammer: [:scroll: From Italian, beautiful view] _Towers with belvederes and balconies._  
+__belvedere__ _n_ :six::hammer: [:scroll: From Italian, beautiful view] _architecture_ _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something. _Esquith bemoans the lowering of standards._  
 __bemuse__ _v tr_ :three: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
@@ -1701,6 +1703,7 @@ __black belt__ _n_
 __Black Belt__ _n_ :two: Strip of rolling prairie land extending across central Alabama and Mississippi with fertile black clayey soil formerly notable for the production of cotton.  
 __Black Dahlia__  
 __Black Death__ _n_ :two: A form of bubonic plague pandemic in Europe and Asia during the 14th century, when it killed over 50 million people.  
+__black fly__ _n_  
 __Black Friday__ _n_ [:scroll: “The origin of Black Friday in this sense is not known for certain. The day was allegedly so named either in reference to traffic congestion in central cities on the day after Thanksgiving or to the supposed fact that retailers’ accounts shifted from red to black with the beginning of the shopping season.”] The Friday immediately following Thanksgiving Day that is considered by retailers to mark the beginning of the holiday shopping season.  
 __black gold__  
 __black ice__  
@@ -2947,7 +2950,7 @@ __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteri
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
-__ceasefire__ _n_ :four::hammer:  
+__ceasefire__ _n_ :five::hammer: (cease-fire)  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
@@ -4113,7 +4116,7 @@ __covey__
 __cow__ _v_ :four: (cowed) To frighten or subdue with threats or a show of force. _Syn_ intimidate _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
-__cowering__ _v_ :two::hammer:  
+__cower__ _v intr_ :three::hammer:  
 __cowl__ _n_ :three::hammer: _Their cowls were filthy rags._ _Cowl-like hoods._ :es: capucha  
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
@@ -7553,7 +7556,7 @@ __ghost word__ _n_ A word form that has entered the language through the perpetu
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :seven::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
-__ghoulish__ _adj_ :five: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
+__ghoulish__ _adj_ :six: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __giant salamander__ _n_  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
@@ -8031,6 +8034,7 @@ __guillotine__ _n_ :mega:
 __guilt__ _n_ :mute:[g~~u~~ilt]  
 __guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_  
 __guinea pig__ _n_ :two::mega::hammer:  
+__Guinea__ _n_ :mega: /ˈɡɪnɪ/  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ _n_ :camera:  
 __guitar__ _n_ :two::mega::mute:[g~~u~~itar]:hammer:  
@@ -8593,6 +8597,7 @@ __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant
 __high-tail__ _v_  
 __highball<sup>1</sup>__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
 __highball<sup>2</sup>__ _v_ _To decide whether to lowball or highball an offer._  
+__highbinder__ _n_  
 __highfalutin__ _adj informal_ :three: /ˌhaɪfəˈluːtɪn/ (hifalutin; highfaluting) Pompous or pretentious.  
 __highlands__  
 __highlight<sup>1</sup>__ _n_ :es: punto culminante  
@@ -8758,7 +8763,7 @@ __honeycomb<sup>1</sup>__ _n_ _The legs had honeycomb aluminum shock absorbers t
 __honeycomb<sup>2</sup>__ _v_  
 __honeymoon__ _n_  
 __honeypot__  
-__honeysuckle__  
+__honeysuckle__ _n_ :three::hammer:  
 __Hong Kong__ _n_ _“Fragrant harbor” is the literal translation of Hong Kong._  
 __honk__ _n_  
 __honky tonk__ _n_ :two::hammer:  
@@ -8916,9 +8921,8 @@ __human shield__
 __humanist__  
 __humanness__ _n_ The quality of being human. _Syn_ humanity, manhood  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
-__humbug__ _n, v_  
-__humbug<sup>1</sup>__ _n_ :dart::three: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
-__humbug<sup>2</sup>__ _v tr_ :dart::two: To deceive or trick. To cheat or deceive (someone).  
+__humbug<sup>1</sup>__ _n_ :dart::five: __1__ Something intended to deceive; a hoax or fraud. __2__ A person who claims to be other than what he or she is; an impostor. __3__ Nonsense; rubbish. __4__ Pretense; deception.  
+__humbug<sup>2</sup>__ _v tr_ :dart::four: To deceive or trick. To cheat or deceive (someone).  
 __humbug<sup>3</sup>__ _v intr_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
 __humdrum<sup>1</sup>__ _adj_ :six::hammer: _A humdrum office building._  
@@ -11830,6 +11834,7 @@ __needy__ _adj_ :two::hammer:
 __nefarious__ _adj_ :nine: /nih-FAIR-ee-us/ __1__ Evil. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._ _Unsurprisingly, the movie’s villain has a nefarious plot to dominate the world._ __2__ Flagrantly wicked or impious; sinful.  
 __neglected__ _adj_ _I don’t feel neglected._  
 __negotiate__ _v_ /nih-GOH-shee-ayt/  
+__Negress__ _n_ /ˈni grɪs/ _Older Use: Usually Offensive_ A term used to refer to a black woman or girl.  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
 __neigh<sup>2</sup>__ _v_ :three::hammer: (neighed, neighing) :es: relinchar  
@@ -12069,7 +12074,8 @@ __not-for-profit__ _adj_
 __notate__ _v_ _He had never tried to write or notate music before._  
 __notch<sup>1</sup>__ _n_ :two: __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine::m: __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
-__note__ _n_ _On a much more serious note..._  
+__note<sup>1</sup>__ _n_ _On a much more serious note..._  
+__note<sup>2</sup>__ _v_ __1__ 1. (often with _down_) To write down. _He noted (down) her telephone number in his diary._  
 __noteworthy__  
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
 __noticeboard__ _n_  
@@ -12141,6 +12147,7 @@ __nuttily__
 __nuzzled__ _v_  
 __nymphaeum__ _n_ A Greek or Roman monument, frequently with a water feature, that is dedicated to nymphs.  
 __Nymphean__ _adj_ _Nymphean theater._  
+__o’clock__ _adv_ Short for _of the clock._  
 __oaf__ _n_ :four: (oafs) __1__ A stupid person. _Syn_ boob __2__ A big clumsy slow-witted person. _Syn_ goon, lout  
 __oafish__ _adj_ :three::hammer:  
 __Oakley__ _n_ A complimentary ticket or pass. Also known as an Annie Oakley. After the sharpshooter Annie Oakley (1860-1926) who was renowned for her skill, from association of the punched ticket with one of her bullet-riddled targets.  
@@ -12228,6 +12235,7 @@ __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristi
 __of__ _prep_ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
+__off label__  
 __off-color__ _adj_ :four: An off-color joke or remark is rude or offensive. _Off-color stories._  
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-hand__ _adv_  
@@ -12250,8 +12258,9 @@ __officer__ _n_ :two::hammer:
 __officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tends to offer unwanted advice in a way that annoys the advice recipients. It is a synonym of meddlesome. _After the boss told his workers what to do, his officious assistant stepped in to micromanage._  
 __offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offload__ _v_  
+__offprint__ _n_ A reproduction of or an excerpt from an article that was originally contained in a larger publication. _Syn_ separate, reprint  
 __offramp__  
-__offset<sup>1</sup>__ _v_ :four::hammer: (offsetting) __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
+__offset<sup>1</sup>__ _v_ :five::hammer: (offsetting) __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah’s older homes._  
 __offshoot__ _n_ :three::hammer:  
 __offshore__  
@@ -12260,7 +12269,7 @@ __oft-shouting-sermon__
 __often__ _adv_ :mute:[of~~t~~en]  
 __oftentimes__ _adv_ :five: Frequently; repeatedly.  
 __ogle__ _v_ :three::hammer: (ogled)  
-__ogre__ _n_  
+__ogre__ _n_ :two::hammer:  
 __Ohioans__  
 __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
 __oilcloth__  
@@ -12342,7 +12351,7 @@ __one-note__
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off<sup>1</sup>__ _adj_ :four: _British informal_ Done, made, or happening only once. _A one-off benefit show._ _One-off handcrafted pieces._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
-__one-stop__ _adj_ :two: Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
+__one-stop__ _adj_ :three: Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
 __onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
@@ -12352,7 +12361,7 @@ __onlooker__ _n_ :three::hammer: (onlookers)
 __only problem is__  
 __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
 __onset__ _n_ :nine::mega::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
-__onslaught__ _n_ :five: A violent attack. _The onslaught of the Jacques._  
+__onslaught__ _n_ :six: A violent attack. _The onslaught of the Jacques._  
 __ontology__ _n_  
 __onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
 __onyx__  
@@ -12385,6 +12394,7 @@ __opinionated__ _adj_ :five: Holding obstinately and unreasonably to one’s own
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opportune__ _adj_ /ˌɒp ərˈtun, -ˈtyun/ __1__ Suitable or convenient for a particular situation. _It is an opportune time to invest in the stock market._ __2__ Occurring at an appropriate time. _The book’s publication is opportune._  
+__opportunistic__  
 __opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/  
 __opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
@@ -12424,6 +12434,7 @@ __organization__ _n_ :mega:
 __organized crime__  
 __orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
 __originally__ _adv_ :dart:  
+__oriole__ _n_  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__ _n_ :two::hammer:  
 __ornamental__ _adj, n_ :two::hammer:  
@@ -12446,6 +12457,7 @@ __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
 __osculate__ _v_  
+__osprey__ _n_  
 __ossification__ _n_  
 __ossify__ _v_ :four: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible. To become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostensible__ _adj_ /ah-STEN-suh-bul/ Seeming or said to be true or real but very possibly not true or real. _The ostensible purpose of a filibuster is to extend debate._  

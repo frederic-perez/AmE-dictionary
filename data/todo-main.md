@@ -1,28 +1,3 @@
-__acclimate__ _v_ :pencil2:  
-__aspen__ _n_ :es: chopo  
-__ballot stuffing__  
-__belvedere__ _n_ _architecture_  
-__black fly__ _n_  
-__ceasefire__ _n_ (cease-fire)  
-__cower__ _v intr_  
-__ghoulish__ _adj_  
-__Guinea__ _n_ :mega: /ˈɡɪnɪ/  
-__highbinder__ _n_  
-__honeysuckle__ _n_ :two::hammer:  
-__humbug__ _n_ :dart:  
-__Negress__ _n_ /ˈni grɪs/ _Older Use: Usually Offensive_ A term used to refer to a black woman or girl.  
-__note__ _v_ __1__ 1. (often with _down_) To write down. _He noted (down) her telephone number in his diary._  
-__o’clock__ _adv_ Short for _of the clock._  
-__off label__  
-__offprint__ _n_ A reproduction of or an excerpt from an article that was originally contained in a larger publication. _Syn_ separate, reprint  
-__offset__ _v_  
-__ogre__ _n_  
-__one-stop shop__ _n_  
-__onslaught__ _n_  
-__onus__ _n_  
-__opportunistic__  
-__oriole__ _n_  
-__osprey__ _n_  
 __otitis__ _n_  
 __ottter__ _n_  
 __out-of-pocket__  
