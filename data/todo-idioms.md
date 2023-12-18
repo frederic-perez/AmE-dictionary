@@ -1,6 +1,15 @@
+__all-out__  
+__barter with__  
+__bow out__ To resign from a competition or election.  
+__catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
+__cockeyed__ Crazy, stupid, or ridiculous.  
+__cozy up__ Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
 __elephant in the room__  
 __enmesh in (something)__  
+__fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
 __fall (flat) on (one’s)/its face__  
+__fall short__  
+__final nail in the coffin__  
 __fly under (the/someone’s) radar__  
 __for kicks__  
 __from jump street__  
@@ -13,13 +22,16 @@ __get smart (with one)__ To make disrespectful comments to one; to sass one. _Ju
 __get the drift__  
 __get under (one’s) skin__  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
+__glitch__ _A phone glitch._  
 __go (off) on a tangent__ To begin addressing or discussing a topic or topics not relevant to the main discussion.  
 __go above and beyond__ To act in a way that exceeds expectations or requirements.  
 __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
+__go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __God forbid__  
 __grapple with (someone or something)__  
 __green sheet__  
+__gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __have (got) (someone’s) back__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
@@ -65,17 +77,26 @@ __head-to-toe__
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hidden agenda__ A secret goal or an ulterior motive.  
+__hit or miss__ _adj_ Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
+__hogwash__  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
 __hoofing__ Walking.  
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
+__I hear you__  
+__in (one’s) own right__  
+__in earnest__ With sincere intentions.  
+__it is what it is__  
+__keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __ladies and gents__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
+__left and right__  
 __let down__  
 __light on (one’s) feet__  
 __lionhearted__ _adj_  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
+__loom large__ To seem imminent and cause worry or unease.  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __lose out__ __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
 __lox__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife.  
@@ -146,6 +167,8 @@ __PC__
 __peeps__  
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __phase out__ :two::hammer:  
+__piece out__  
+__piece something out__  
 __pile up__ _The bad news keeps piling up for Elon Musk._  
 __pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
 __pisser__  
@@ -161,14 +184,17 @@ __poon__
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
 __pressure cooker__  
 __pricey__ Moderately expensive.  
+__prima donna__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
+__pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
 __punk__ _n_  
 __puppy love__  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push up the daisies__  
 __pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
 __put (one) off (something)__  
+__put (one) on notice__ To warn or alert one about something. _Boston put their prima donnas on notice._  
 __put (someone or something) out of business__  
 __put (someone or something) to bed__  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
@@ -249,6 +275,7 @@ __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of
 __shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
 __shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
 __shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
+__shantytown__  
 __shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
 __shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
@@ -278,6 +305,7 @@ __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __stand by__  
 __status quo__ :mega: /kwoʊ/  
+__staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
@@ -292,6 +320,7 @@ __switch-hitter__ __2__ By extension, someone who is bisexual.
 __tail__ _n_  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take a deep breath__  
+__take a shine to (someone or something)__  
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
 __talk out (of) (one’s) ass__  
@@ -330,6 +359,7 @@ __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated lefto
 __well, well, (well)__ Used to express surprise or incredulity, either sincerely or sarcastically. _Well, well, I must say that I didn’t expect to see results like that from the experiment!_  
 __whammo__ It’s basically a slang term for a big, dramatic, or explosive event. James Ellroy uses it to describe things like shootouts, car chases, explosions, or any other kind of crazy action scene.  
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
+__what it takes__  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __wingding__ :two::hammer:  
