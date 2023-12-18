@@ -1,3 +1,16 @@
+__acclimate__ _v_ :pencil2:  
+__aspen__ _n_ :es: chopo  
+__ballot stuffing__  
+__belvedere__ _n_ _architecture_  
+__black fly__ _n_  
+__ceasefire__ _n_ (cease-fire)  
+__cower__ _v intr_  
+__ghoulish__ _adj_  
+__Guinea__ _n_ :mega: /ˈɡɪnɪ/  
+__highbinder__ _n_  
+__honeysuckle__ _n_ :two::hammer:  
+__humbug__ _n_ :dart:  
+__Negress__ _n_ /ˈni grɪs/ _Older Use: Usually Offensive_ A term used to refer to a black woman or girl.  
 __note__ _v_ __1__ 1. (often with _down_) To write down. _He noted (down) her telephone number in his diary._  
 __o’clock__ _adv_ Short for _of the clock._  
 __off label__  
@@ -57,12 +70,14 @@ __pinafore__ _n_
 __pit<sup>1</sup>__ _n_  
 __pit<sup>2</sup>__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _They pit two neural networks against each other._  
 __pit<sup>3</sup>__ _v intr_  
+__plaintive__ _adj_  
 __playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.  
 __plaza__ _n_ :mega:  
 __plodder__ _n_  
 __plodding__ _adj_  
 __plummet__ _v tr_ /ˈplʌm ɪt/ To fall straight or sharply down; plunge.  
 __pogrom__ _n_  
+__poison__ _n_ /ˈpɔɪzən/  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
 __prevail__ _v intr_  
@@ -101,7 +116,9 @@ __reinstate__ _v tr_ /ˌri ɪnˈsteɪt/
 __repercussion__ _n_  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
+__rightfully__  
 __rigmarole__ _n_  
+__robe__ _n_  
 __rue__ _v_  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
@@ -141,6 +158,7 @@ __seesaw__
 __seething__ _adj_  
 __seize__ _v_ _Students with the growth mindset seized the chance._  
 __self-absorbed__ _adj_ :two::hammer:  
+__self-effacing__ _adj_  
 __senility__ _n_  
 __sepsis__ _n_  
 __serape__ _n_  
@@ -164,9 +182,12 @@ __sham__ _n_
 __shanghai__ _v_  
 __shanty__ _n_ A roughly built, often ramshackle building; a shack.  
 __shash window__ _n_  
+__shim__ _v tr_  
 __shirk__ _v_  
+__shirtsleeves__ _n_ :two::hammer:  
 __shit-hole__  
 __showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
+__shriveled__ _adj_  
 __shtup__ _v_  
 __sidekick__ _n informal_  
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
@@ -175,6 +196,7 @@ __silkworm__ _n_ :es: gusano de seda
 __simpatico__ _adj_  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
+__sinew__ _n_  
 __single-handedly__  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
 __singsong<sup>2</sup>__ _n_  
@@ -225,6 +247,7 @@ __strait__ _n_
 __strife__ _n_  
 __stuffing__ _n_  
 __subaltern__ _n_  
+__submarine__ _v_  
 __suborn__ _v tr_  
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __succubus__ _n_  
@@ -265,6 +288,7 @@ __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.
 __toll__  
 __tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
 __tonsil__ _n_  
+__tonsorial__ _adj_  
 __toothsome__  
 __tout__ _v_ :dart:  
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
@@ -290,6 +314,7 @@ __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on whi
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
+__veranda__ _n_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __walkout__ _n_ :four: __1__ A labor strike.  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
