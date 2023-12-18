@@ -1,6 +1,22 @@
+__airtime__ _n_  
+__ballpark__ _n_ _He got a job as a ballpark vendor._  
+__boycott__ _n, v_ :mega: /ˈbɔɪkɒt/  
+__canthus__ _n_  
+__chignon__ _n_ A roll of hair worn at the nape of the neck. :es: moño  
+__crease__ _v tr_ /kriːs/ __2__ To graze or wound superficially with a bullet.  
+__daybreak__ _n_  
+__dray__ _n, v_  
+__gin rummy__  
+__gush__ _v_  
+__haggard<sup>1</sup>__ _adj_ __1__ Gaunt, wasted, or exhausted in appearance, as from prolonged suffering or strain; worn: _the haggard faces of refugees._  
+__haggard<sup>2</sup>__ _n_  
+__harden__ _v_  
+__hashish__ _n_  
+__heyday__ _n_  
 __kinetic__ _adj_ /kuh-NET-ik/  
 __lambast__ _v_  
 __largesse__ _n_  
+__mercury__ _n_ :mega: /ˈmɜr kyə ri/  
 __mince__ _v_ To moderate or restrain (words) for the sake of politeness and decorum; euphemize. _Syn_ moderate, soften  
 __minor__ _n_ /ˈmaɪ nər/ Underage person.  
 __mustache__ _n_ (moustache)  
@@ -57,7 +73,7 @@ __peremptory__ _adj_ :dart:
 __permeable__ _adj_ /PER-mee-uh-bul/  
 __peruse__ _v tr_  
 __pester__ _v tr_  
-__petulant__ _adj_  
+__petulant__ _adj_ :two::hammer:  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
 __pilfer__ _v_  
 __pilfered__  
@@ -101,12 +117,15 @@ __rationalize__ _v_
 __recidivism__ _n_  
 __redress__ _v tr_  
 __redux__ _adj_  
+__refrain__ _n_  
 __refusenik__ _n_  
+__regency__ _n_  
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __rehouse__ _v tr_ To provide with new, usually improved housing.  
 __reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
 __repercussion__ _n_  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
+__rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __rigmarole__ _n_  
 __rue__ _v_  
 __run sheet__  
@@ -168,6 +187,7 @@ __shady__
 __shakedown__ _n_ :two: An act of extortion. (Underworld.) _Mary was giving Bruno the shakedown, so he tried to put her out of the way._  
 __sham__ _n_  
 __shanghai__ _v_  
+__shanty__ _n_ A roughly built, often ramshackle building; a shack.  
 __shash window__ _n_  
 __shirk__ _v_  
 __shit-hole__  
@@ -177,6 +197,7 @@ __sidekick__ _n informal_
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __significant__ _adj_  
 __silkworm__ _n_ :es: gusano de seda  
+__simpatico__ _adj_  
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __single-handedly__  
@@ -210,6 +231,7 @@ __squirm__ _v_ :two::hammer:
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
 __stem__ _v_  
+__steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and pen._  
 __stenos__  
 __stenotic__ _adj_ _Stenotic burden._  
 __stentorian__  
@@ -233,6 +255,7 @@ __subsequent__ _adj_ Following in time or order; succeeding.
 __succubus__ _n_  
 __sultry__ _adj_  
 __supercilious__  
+__surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __sweltering__ _adj_  
@@ -277,6 +300,7 @@ __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more c
 __transvestite__ _n_  
 __tumbledown__ _adj_  
 __ukulele__ _n_ :pencil2:  
+__unclear__ _adj_  
 __undercut__  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
 __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  

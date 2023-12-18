@@ -12,7 +12,7 @@ __ACK__ Acknowledge/Acknowledgement/Acknowledged.
 __ACL__ Anterior cruciate ligament.  
 __ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __ADD__ Attention deficit disorder.  
-__ADHD__ :three: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
+__ADHD__ :four: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
 __ASMR__ Autonomous sensory meridian response. This term refers to a tingling sensation often accompanied by a calming, pleasurable feeling.  
 __assoc.__ __1__ Associate. __2__ Associated. __3__ Association. _Housing assoc._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
