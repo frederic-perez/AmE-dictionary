@@ -1,28 +1,3 @@
-__airtime__ _n_  
-__ballpark__ _n_ _He got a job as a ballpark vendor._  
-__boycott__ _n, v_ :mega: /ˈbɔɪkɒt/  
-__canthus__ _n_  
-__chignon__ _n_ A roll of hair worn at the nape of the neck. :es: moño  
-__crease__ _v tr_ /kriːs/ __2__ To graze or wound superficially with a bullet.  
-__daybreak__ _n_  
-__dray__ _n, v_  
-__gin rummy__  
-__gush__ _v_  
-__haggard<sup>1</sup>__ _adj_ __1__ Gaunt, wasted, or exhausted in appearance, as from prolonged suffering or strain; worn: _the haggard faces of refugees._  
-__haggard<sup>2</sup>__ _n_  
-__harden__ _v_  
-__hashish__ _n_  
-__heyday__ _n_  
-__kinetic__ _adj_ /kuh-NET-ik/  
-__lambast__ _v_  
-__largesse__ _n_  
-__mercury__ _n_ :mega: /ˈmɜr kyə ri/  
-__mince__ _v_ To moderate or restrain (words) for the sake of politeness and decorum; euphemize. _Syn_ moderate, soften  
-__minor__ _n_ /ˈmaɪ nər/ Underage person.  
-__mustache__ _n_ (moustache)  
-__non-binding__ _adj_ That does not bind the participants.  
-__non-negotiable__ _adj_  
-__nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __note__ _v_ __1__ 1. (often with _down_) To write down. _He noted (down) her telephone number in his diary._  
 __o’clock__ _adv_ Short for _of the clock._  
 __off label__  

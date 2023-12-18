@@ -378,6 +378,7 @@ __airhead__ _n_ _slang_ A stupid person.
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
 __airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
+__airtime__ _n_  
 __airy__ _adj_ :two::hammer: _Airy restaurant._ _The master bedroom is airy._  
 __aisle__ _n_ :mega: /īl/  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
@@ -1218,7 +1219,7 @@ __ballet__ _n_ :mute:[balle~~t~~]
 __ballistic__  
 __balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the art of balloon animals._ _Balloon-lined car dealership._  
 __ballot__ _n_ :two::hammer: _A lot of guys who did steroids are on the ballot._ _Over half of general practices in England would quit primary care networks, indicative ballot shows._  
-__ballpark<sup>1</sup>__ _n_ :two::hammer:  
+__ballpark<sup>1</sup>__ _n_ :three::hammer: _He got a job as a ballpark vendor._  
 __ballpark<sup>2</sup>__ _adj_ :two::hammer:  
 __ballyhoo<sup>1</sup>__ _n_  
 __ballyhoo<sup>2</sup>__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
@@ -2086,8 +2087,8 @@ __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boxwood__ _n_ :two::hammer: /ˈbɒksˌwʊd/ /BOY-kaht/  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
-__boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
-__boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
+__boycott<sup>1</sup>__ _n_ :astonished::three::mega::hammer: /ˈbɔɪkɒt/  
+__boycott<sup>2</sup>__ _v_ :astonished::three::mega: /ˈbɔɪkɒt/ To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace<sup>1</sup>__ _n_ _To define Python dictionaries, we use braces._  
@@ -2717,6 +2718,7 @@ __canter up__ _v_
 __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait of a horse. _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
+__canthus__ _n_  
 __cantilever__ _v_ :four::hammer: (cantilevered)  
 __cantillation__  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
@@ -3141,6 +3143,7 @@ __chief<sup>1</sup>__ _adj_
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chieftain__ _n_  
 __chiffon__ _n_ :two::hammer: _Try the heavenly lemon chiffon cake._  
+__chignon__ _n_ A roll of hair worn at the nape of the neck. :es: moño  
 __chilblain__ _n_ :five::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
@@ -4186,7 +4189,7 @@ __creak__ _v_ :three::hammer: (creaked)
 __creaking__ _n_ A squeaking sound. _Door creakings._  
 __creaky__ _adj_ _Creaky infrastructure._  
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
-__crease<sup>2</sup>__ _v_ :three::hammer:  
+__crease<sup>2</sup>__ _v tr_ :four: /kriːs/ __2__ To graze or wound superficially with a bullet.  
 __cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :eight::hammer:  
 __credenza__ _n_ :two: A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
@@ -4548,6 +4551,7 @@ __day and age__
 __day job__  
 __Day Zero__  
 __daybeds__ _n_  
+__daybreak__ _n_  
 __daycation__ _n_ A day trip to a resort, hotel, etc that does not involve staying the night.  
 __dayglow__  
 __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the wall in a daze of half sleep._  
@@ -5436,7 +5440,8 @@ __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)
 __drawl<sup>2</sup>__ _n_ :seven: The way of speech of someone who drawls. _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
 __drawn-out__ _adj_ :two: Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __drawstring__ _n_  
-__dray__ _n_ :two::hammer: (drays) _Dray horse._  
+__dray<sup>1</sup>__ _n_ :three::hammer: (drays) _Dray horse._  
+__dray<sup>2</sup>__ _v_ :two::hammer:  
 __drayman__  
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :five::hammer: _Do you dread giving presentations in English?_  
@@ -7576,7 +7581,7 @@ __gimmicky__ _adj_ :two::hammer:
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin and tonic__ _n_ :pencil2:  
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
-__gin rummy__ _n_ _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
+__gin rummy__ _n_ :two: _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly<sup>1</sup>__ _adv_ :five::hammer: _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  
 __gingersnap__ _n_  
@@ -8124,8 +8129,8 @@ __haemodialysis__ _n_
 __haemophilia__  
 __haft sin__  
 __hag__ _n_ :two::hammer: _Screaming histerically like Shakespearean hags._  
-__haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
-__haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
+__haggard<sup>1</sup>__ _adj_ :six: __1__ Exhausted or distraught and often gaunt in appearance. Gaunt, wasted, or exhausted in appearance, as from prolonged suffering or strain; worn: _the haggard faces of refugees._ __2__ Wild and intractable. Used of a hawk in falconry.  
+__haggard<sup>2</sup>__ _n_ :two: An adult hawk captured for training.  
 __haggis__ _n_ :four: /ˈhæɡɪs/ _Cookery_ A Scottish dish made from sheep’s or calf’s offal, oatmeal, suet, and seasonings boiled in a skin made from the animal’s stomach. _Lindsay makes championship haggis at her family butchers._  
 __haggle__ _v_ :four::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
@@ -8262,6 +8267,7 @@ __hard-nosed__ _adj_ :four: Strict and/or unfeeling. _Hard-nosed approach._ _The
 __hard-won__ _adj_ Acquired through effort or in spite of problems.  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __hardball__  
+__harden__ _v_  
 __hardhat__ _n_  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
@@ -8301,7 +8307,7 @@ __has-been__ _n_ :two: One that is no longer famous, popular, successful, or use
 __hash browns__ _n pl_ :four: Chopped cooked potatoes, fried until brown. _Syn_ brown potatoes, hash brown potatoes  
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
-__hashish__ _n_ :two::hammer: (hasheesh)  
+__hashish__ _n_ :three::hammer: (hasheesh)  
 __hasp__ _n_ :three::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __hassle<sup>1</sup>__ _n_ :three::hammer: _Advance seat assignment to avoid boarding hassles._  
@@ -8548,7 +8554,7 @@ __hex sign__ _n_ _She made the hex sign._
 __hex<sup>1</sup>__ _n_ :dart::four: __1__ An evil spell; a curse. _Looking for a hex-breaking sign._ __2__ One that brings bad luck.  
 __hex<sup>2</sup>__ _v tr_ :three: __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hey__  
-__heyday__ _n_ :nine: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
+__heyday__ _n_ :nine::m: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
 __hiatus__ _n_ /hye-AY-tus/ __1__ A period of time when something, such as an activity or program, is suspended. _The band has been on hiatus for three years, but is returning to live performance this summer._ __2__ In biology, hiatus refers to a gap or passage in an anatomical part or organ. __3__ In linguistics, it denotes the occurrence of two vowel sounds without pause or intervening consonantal sound.  
 __hibachi__ _n_ :three::hammer: _Original hibachi cooking._  
@@ -9893,6 +9899,7 @@ __kindling__ _n_ :three: Material for starting a fire, such as dry wood, straw, 
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
+__kinetic__ _adj_ /kuh-NET-ik/  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
 __kingpin__ _n_ :two: /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._ __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
@@ -10120,7 +10127,7 @@ __lard__ _v_
 __larder__ _n_ :five::hammer:  
 __largely__ _adv_ :four: To a large extent; mostly.  
 __larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
-__largesse__ _n_ :seven::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
+__largesse__ _n_ :eight::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
@@ -11143,7 +11150,7 @@ __merchant<sup>1</sup>__ _n_ :two::hammer: _The merchants listed are easy to fin
 __merchant<sup>2</sup>__ _adj_ _A heavily laden merchant ship._  
 __mercurial__ _adj_ :five: /mer-KYUR-ee-ul/ Liable to sudden unpredictable change. Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._ _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
-__mercury__ _n_ :two::mega::hammer: /mûr′kyə-rē/  
+__mercury__ _n_ :three::mega::hammer: /mûr′kyə-rē/ /ˈmɜr kyə ri/  
 __mere__ _adj_ :six::hammer: _From mere $200._ _The mere possibility of a contract._ _A mere 2% of the cost._  
 __merely__  
 __meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
@@ -11281,7 +11288,7 @@ __million__ _n_ :two::mega::hammer: /ˈmɪljən/ (:astonished: _n pl_ million or
 __milquetoast__ _n_ :three: _(often cap.)_ /MILK-tohst/ [:scroll: Caspar _Milquetoast_, a cartoon character invented by H. T. Webster (1885–1952). The character’s name is derived from a bland and fairly inoffensive food, _milk toast_, which, light and easy to digest, is an appropriate food for someone with a weak or “nervous” stomach.] One who has a meek, timid, unassertive nature. _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __minatory__ _adj_ :two: Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
-__mince<sup>1</sup>__ _v_ :six: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ _Minced veal cooked in oil._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
+__mince<sup>1</sup>__ _v_ :seven: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ _Minced veal cooked in oil._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Syn_ moderate, soften _Don’t mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__ _n_ :two::hammer:  
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
@@ -11303,7 +11310,7 @@ __miniver__ _n_
 __minnie__ _n_ :three: /ˈmɪnɪ/ A mother.  
 __minnow__ _n_ :nine::m: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __minor key__  
-__minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
+__minor__ _n_ :three: /ˈmaɪ nər/ __1__ Underage person. __2__ A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
 __minstrel__ _n_ :five: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
@@ -11680,7 +11687,7 @@ __muss<sup>2</sup>__ _v_ :two::hammer: (mussed) _Her hair was down and mussed ar
 __mussed__ _v_  
 __mussel__ _n_ :five::pencil2: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
 __must have__  
-__mustache__ _n_ :two::pencil2::hammer: (moustache)  
+__mustache__ _n_ :three::pencil2::hammer: (moustache)  
 __mustachioed__  
 __mustard__ _n_ :mega:  
 __muster__ _v_ :four: (Military) An assembly of military personnel for duty, inspection, etc. _Muster stations._ _Muster reports._ To assemble or gather: _mustering for inspection._ Gather or bring together. _Syn_ rally, summon _Mustering all her strength, she pulled hard on the oars._  
@@ -11990,11 +11997,12 @@ __Nomex__ _n_
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __nomophobia__ _n_ :two: (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
 __non sequitur__ _n_ :eight: /NAHN-SEK-wuh-ter/ __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. A statement that either does not logically follow from or is not clearly related to what was previously said. _The host’s non sequitur about the award recipient’s unconventional dress did not go unnoticed by her fans on social media._ :es: incongruencia  
+__non-binding__ _adj_ That does not bind the participants.  
 __non-committal__  
 __non-communicable disease__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
-__non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
+__non-negotiable__ _adj_ :three: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-perishables__  
 __nonanswer__ _n_  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
@@ -12021,6 +12029,7 @@ __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
 __nonstaff jobs__  
+__nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __nonstop__  
 __noodle<sup>1</sup>__ _n_ Brain. _Use your noodle._  
 __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
