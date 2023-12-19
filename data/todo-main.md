@@ -1,3 +1,18 @@
+__buffer__ _v tr_  
+__champ__ _v_  
+__clang__ _n_ __2__ The strident call of a crane or goose.  
+__cloche__ _n_  
+__crinoline__ _n_  
+__Darjeeling__ _n_  
+__engage__  
+__engagement__  
+__friendly__ _n_ _sport_ (friendly match) A match played for its own sake, and not as part of a competition, etc. :es: partido amistoso  
+__glean__ _v tr_ :dart:  
+__grade school__ _n_ _US_ Another name for elementary school.  
+__haphazard__ _adj, adv, n_  
+__jilted__ _adj_  
+__ludicrous__ _adj_  
+__meager__ _adj_  
 __otitis__ _n_  
 __ottter__ _n_  
 __out-of-pocket__  
@@ -28,6 +43,7 @@ __parcel__ _v tr_ :mega:
 __pastiche__ _n_  
 __patent leather__ _n_  
 __paunch__ _n_ A protruding abdomen. _Syn_ belly  
+__paw__ _v_  
 __pedal pushers__ _n pl_  
 __pelt__ _n_  
 __people pleaser__ _n_  
@@ -38,6 +54,7 @@ __peruse__ _v tr_
 __pester__ _v tr_  
 __petulant__ _adj_ :two::hammer:  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
+__pier glass__ _n_ A tall mirror, especially one placed between windows.  
 __pilfer__ _v_  
 __pilfered__  
 __pillory__ _v tr_ (pilloried)  
@@ -61,11 +78,13 @@ __pry__ _v_
 __psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psychobabble__ _n_  
 __punitive__ _adj_ :two: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._  
+__pup__ _n_  
 __purloin__ _v tr_  
 __purportedly__  
 __purpose__ _n_ :mega:  
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
+__quaint__ _adj_  
 __quash__ _v tr_  
 __quiescent__ _adj_  
 __quixotic__ _adj_ /kwik-SAH-tik/  
@@ -94,7 +113,9 @@ __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewri
 __rightfully__  
 __rigmarole__ _n_  
 __robe__ _n_  
+__rubbing__ _n_  
 __rue__ _v_  
+__rumpled__ _adj_ _A rumpled voice._  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
@@ -104,6 +125,7 @@ __sanguine__ _adj_ :two::hammer:
 __sanity check__  
 __sate__ _v tr_  
 __saunter__  
+__scallop__ _n_  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
@@ -157,9 +179,11 @@ __sham__ _n_
 __shanghai__ _v_  
 __shanty__ _n_ A roughly built, often ramshackle building; a shack.  
 __shash window__ _n_  
+__sheep__ _n_ (_n pl_ sheep)  
 __shim__ _v tr_  
 __shirk__ _v_  
 __shirtsleeves__ _n_ :two::hammer:  
+__shirtwaist__ _n_ :two::hammer:  
 __shit-hole__  
 __showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
 __shriveled__ _adj_  
@@ -195,6 +219,7 @@ __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __snooker<sup>1</sup>__ _n_  
 __snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
+__spittoon__ _n_  
 __split__ _v_ _Women who have split from a relationship._  
 __squarely__ _adv_ /ˈskwɛəlɪ/  
 __squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
@@ -231,6 +256,7 @@ __supercilious__
 __surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
+__swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
@@ -260,6 +286,7 @@ __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was t
 __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
+__toil__ _n_ _A lifetime of toil._  
 __toll__  
 __tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
 __tonsil__ _n_  
