@@ -2334,7 +2334,7 @@ __buff<sup>1</sup>__ _n informal_ :nine::m: /bʌf/ (buffs) One who is enthusiast
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)  
-__buffer__ _v_  
+__buffer__ _v tr_ :two::hammer:  
 __buffet<sup>1</sup>__ _n_ _A ten-dollar buffet._  
 __buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :two::hammer:  
@@ -3012,7 +3012,7 @@ __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Mad
 __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
 __chamomille__  
 __champ<sup>1</sup>__ _n informal_ :three: /tʃæmp/ Short for champion.  
-__champ<sup>2</sup>__ _v_  
+__champ<sup>2</sup>__ _v_ :two::hammer:  
 __champagne flutes__ _n_ :camera:  
 __champagne powder__ _n_  
 __champion__ _n_ :mega:  
@@ -3331,7 +3331,7 @@ __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for ju
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clandestine__ _adj_ :two: /klænˈdɛstɪn/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
-__clang<sup>1</sup>__ _n_ :four::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._  
+__clang<sup>1</sup>__ _n_ :five::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._ __2__ The strident call of a crane or goose.  
 __clang<sup>2</sup>__ _v_ :two::hammer: _Bells clanging._  
 __clanging__ _adj_ :astonished::two::hammer:  
 __clangor__ _n, v_  
@@ -3417,7 +3417,7 @@ __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :three::hammer: :es: guardaropa  
 __clobber__ _v tr_ :four::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
-__cloche__ _n_ A low transparent cover put over young plants to protect them from cold.  
+__cloche__ _n_ :two: A low transparent cover put over young plants to protect them from cold.  
 __clock in__ _v_  
 __clock out__ _v_  
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
@@ -4230,6 +4230,7 @@ __cringe__ _v_ :nine::m: (cringed) __1__ To shrink back, as in fear; cower. _I c
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__ _adv_  
+__crinoline__ _n_  
 __cripple__ _v tr_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
 __crisp<sup>1</sup>__ _adj_ :nine::m::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._ _A crisp young guy._  
@@ -4520,6 +4521,7 @@ __dare<sup>2</sup>__ _v_
 __daredevil__ _n_ :four::hammer: _The daredevils of the group._  
 __daresay__ _v_  
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
+__Darjeeling__ _n_  
 __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
@@ -5948,8 +5950,9 @@ __enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfe
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
-__engage__ _v_ :three::hammer: _I’m engaged with my work._  
+__engage__ _v_ :four::hammer: _I’m engaged with my work._  
 __engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
+__engagement__  
 __engender__ _v_ :three: /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
 __engram__ _n_ _Syn_ memory trace  
 __engross__ _v_ :three::hammer::dart: (engrossed) _I was engrossed in my thoughts._  
@@ -7204,7 +7207,7 @@ __friar__ _n_ A member of any of various chiefly mendicant religious orders of t
 __friction__ _n_ :two::hammer: _The coefficient of friction._  
 __Friday__ _n_ :mega: /’fraIdi, -deI/  
 __fried green tomatoes__ _n_  
-__friendly__  
+__friendly__ _n_ :two: _sport_ (friendly match) A match played for its own sake, and not as part of a competition, etc. :es: partido amistoso  
 __frieze__ _n_  
 __frigate__ _n_ :es: fragata  
 __fright__ _n_ :two::hammer: _You gave me quite a fright, sonny!_  
@@ -7626,7 +7629,7 @@ __glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero
 __glaucoma__ _n_ :mega:  
 __glaze__ _n_  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
-__glean__ _v_ :six: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
+__glean__ _v tr_ :dart:seven: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glen__ _n_ :three: A small, narrow, secluded valley.  
 __glib__ _adj_ :eight::hammer: _A glib reply to his remark._ _A glib tongue._ _Murphy was glib, but careful._  
 __glider__ _n_  
@@ -7794,6 +7797,7 @@ __grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issu
 __gracious__ _adj_ :nine: __1__ Characterized by or showing kindness and courtesy. _An attitude of gracious humility._ __2__ Condescendingly courteous, benevolent, or indulgent. __3__ Characterized by elegance and good taste. Characterized by or suitable for a life of elegance, ease, and indulgence: _gracious living; gracious furnishings._ _You’ll find gracious accommodations and friendly service._ __4__ Merciful or compassionate.  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
+__grade school__ _n_ _US_ Another name for elementary school.  
 __grade<sup>1</sup>__ _n_ :three::hammer: _The grade over the mountain was well protected._ _Their jeep waited at a grade crossing for five minutes._  
 __grade<sup>2</sup>__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
@@ -8239,9 +8243,9 @@ __hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. _
 __Hannukah__ _n_ (Chanukah)  
 __hantavirus__  
 __Hanukkah__ _n_ :mega: /ˈhɑ nə kə, ˈxɑ-/ (Hanukah, Chanukah)  
-__haphazard<sup>1</sup>__ _adj_ :five::hammer:  
-__haphazard<sup>2</sup>__ _n_ :two::hammer:  
-__haphazard<sup>3</sup>__ _adv_  
+__haphazard<sup>1</sup>__ _adj_ :six::hammer:  
+__haphazard<sup>2</sup>__ _n_ :three::hammer:  
+__haphazard<sup>3</sup>__ _adv_ :two::hammer:  
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
@@ -9680,7 +9684,7 @@ __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-e
 __jigs__ _n_  
 __jigsaw__ _n_ :three::hammer: (power tool, not puzzle)  
 __jilt__ _v_ :six: (jilted) To deceive or drop (a lover) suddenly or callously. _Syn_ forsake _Since being jilted by his fiancée, he had grown to distrust all women._ _Jilted at the altar._  
-__jilted__ _adj_ Rebuffed (by a lover) without warning.  
+__jilted__ _adj_ :two: Rebuffed (by a lover) without warning.  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -11044,7 +11048,7 @@ __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predic
 __McGuffin__ _n_ /məˈɡʌfɪn/ (MacGuffin)  
 __mea culpa__  
 __mead__ _n_ :two::hammer:  
-__meager__ _adj_ :dart::nine: (meagre) __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
+__meager__ _adj_ :dart::nine::m: (meagre) __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
 __mealtime__ _n_ :dart:  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
@@ -12473,8 +12477,10 @@ __otalgia__ _n_
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
+__otitis__ _n_  
 __otter__ _n_ :three::hammer: _Keep a look out for the sea otters._  
 __ottoman__  
+__ottter__ _n_  
 __ouboros__ _n_  
 __Ouija board__ _n_ :astonished: [:scroll: from French _oui_ yes + German _ja_ yes] _We were doing Ouija board and I asked what I was going to be._  
 __ounce__  
@@ -12486,8 +12492,9 @@ __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritab
 __out of the blue__  
 __out of the woods__  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
+__out-of-pocket__  
 __out-of-the-box__  
-__outage__ _n_ :four::hammer: _Power outages._  
+__outage__ _n_ :five::hammer: _Power outages._  
 __outback__  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
@@ -12527,6 +12534,7 @@ __outline<sup>2</sup>__ _v tr_
 __outlook__ _n_ :six::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
+__outmatch__ _v tr_  
 __outnumber__ _v_  
 __outpace__ _v tr_ :five::hammer: (outpacing) _Airbus outpaces Boeing yet again._  
 __outpatient clinic__ _n_  
@@ -12596,6 +12604,7 @@ __overhaul<sup>1</sup>__ _v tr_ :dart::three::hammer:
 __overhaul<sup>2</sup>__ _n_ :three::hammer:  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
+__overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
 __overjoyed__ _adj_  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
 __overlay<sup>1</sup>__ _v tr_ _Overlay relevant metadata on the cellphone’s screen._  
@@ -12614,7 +12623,7 @@ __overreact__ _v_ :pencil2:
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
 __overrun__ _v_  
 __overseas__  
-__oversee__ _v_ :six::hammer: _Oversee compliance._  
+__oversee__ _v_ :seven: To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._ _Oversee compliance._  
 __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
@@ -12628,9 +12637,9 @@ __overtaxed__
 __overthink__ _v_ :three: To spend more time thinking about (something) than is necessary or productive.  
 __overthinker__ _n_ :two::hammer: _I’m a chronic overthinker._  
 __overtime__ _n_ :es: horas extras  
-__overtly__ _adv_  
+__overtly__ _adv_ :two::hammer:  
 __Overton window__ _n_ /OH-vuhr-tuhn WIN-doh/ [:scroll: After Joseph Overton (1960-2003) who proposed the idea] The range of beliefs, attitudes, etc., considered acceptable at any given time.  
-__overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
+__overtone__ _n_ :three: An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._ _Overtones of alien menace._  
 __overtourism__ _n_ A situation in which too many tourists travel to a popular destination, causing the place to suffer negative environmental, economic, and sociocultural impacts: From packed viewpoints to water shortages, _Santorini is the most visible face of overtourism in the Greek islands._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  

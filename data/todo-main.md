@@ -1,28 +1,3 @@
-__buffer__ _v tr_  
-__champ__ _v_  
-__clang__ _n_ __2__ The strident call of a crane or goose.  
-__cloche__ _n_  
-__crinoline__ _n_  
-__Darjeeling__ _n_  
-__engage__  
-__engagement__  
-__friendly__ _n_ _sport_ (friendly match) A match played for its own sake, and not as part of a competition, etc. :es: partido amistoso  
-__glean__ _v tr_ :dart:  
-__grade school__ _n_ _US_ Another name for elementary school.  
-__haphazard__ _adj, adv, n_  
-__jilted__ _adj_  
-__ludicrous__ _adj_  
-__meager__ _adj_  
-__otitis__ _n_  
-__ottter__ _n_  
-__out-of-pocket__  
-__outage__ _n_  
-__outmatch__ _v tr_  
-__overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
-__overly__ _adv_ :two::hammer:  
-__oversee__ _v_ To watch, supervise or manage something. _It’s John’s job to oversee the telesales team._  
-__overtly__  
-__overtone__ _n_ An ulterior, usually implicit meaning or quality; an implication or a hint. Often used in the plural. _Syn_ connotation, hint, implication, undercurrent, intimation _There were overtones of discontent in his speech._  
 __overview__ _n_ A general review or summary of something.  
 __overzealous__ _adj_  
 __oxymoron__ _n_ /ahk-sih-MOR-ahn/  
