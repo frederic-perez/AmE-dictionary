@@ -1,12 +1,19 @@
 __(and) that’s that__  
+__(down) in the trenches__ The place, situation, or environment in which the most difficult or demanding work takes place.  
+__a broken reed__ An unreliable or unsupportive person.  
 __all-out__  
+__and counting__ :two::hammer:  
+__and so on and so forth__ And or along with other things of a similar kind; et cetera.  
 __as of now__  
+__bad sport__ Someone who becomes petulant, disagreeable, or belligerent when they lose.  
 __bald as a coot__ Totally bald.  
 __bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
 __barter with__  
+__be in the wrong__ To have done something incorrect or inappropriate.  
 __be on the line__ __1__ To be in a state of jeopardy or uncertainty.  
 __behind bars__  
 __behind closed doors__  
+__behind the scenes__  
 __bow out__ To resign from a competition or election.  
 __by all accounts__  
 __catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
@@ -14,7 +21,9 @@ __coast along__ To proceed with little effort. _I’m worried that you’re just
 __coast__ To proceed with little effort. Taking it easy or not putting in as much effort as you normally would. _Only once did Michael Jordan try to coast._  
 __cockeyed__ Crazy, stupid, or ridiculous.  
 __cozy up__ Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
+__cross (one’s) mind__ To be thought of by one.  
 __cry-baby__  
+__do a dare__  
 __do or die__  
 __double down__  
 __elephant in the room__  
@@ -25,6 +34,7 @@ __fall short__
 __fallaway jumper__ _basketball_  
 __final nail in the coffin__  
 __fly under (the/someone’s) radar__  
+__flyboy__ _slang_ A pilot or other member of an air force.  
 __for kicks__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
@@ -34,7 +44,7 @@ __get (one’s) hands on (something)__ Obtain something that you want or need ve
 __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually said of the intention or expectation.)  
 __get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
 __get the drift__  
-__get under (one’s) skin__  
+__get under (one’s) skin__ :two: __2__ Obsess someone or affect someone’s deep feelings, as in _Jean’s really gotten under his skin; he misses her terribly._ Cole Porter used this sense in his love song, “I’ve Got You Under My Skin” (1936).  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __glitch__ _A phone glitch._  
 __go (off) on a tangent__ To begin addressing or discussing a topic or topics not relevant to the main discussion.  
@@ -91,6 +101,7 @@ __head-to-toe__
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hidden agenda__ A secret goal or an ulterior motive.  
+__highball__ To make an estimate which tends toward exaggeration. _Highball an offer._  
 __hit a wall__  
 __hit or miss__ _adj_ Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
 __hogwash__  
@@ -100,12 +111,15 @@ __I don’t belong here__ The idiom “I don’t belong here” is a common phra
 __I hear you__  
 __in (one’s) own right__  
 __in earnest__ With sincere intentions.  
+__in short order__ :dart: Quickly, efficiently, and without any delays.  
+__in the face of (something)__  
 __into overdrive__  
 __it is what it is__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __know for a fact__ To have definitive knowledge of something.  
 __ladies and gents__  
+__land on (one’s) feet__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
 __left and right__  
@@ -116,18 +130,21 @@ __long in the tooth__ Old. Animals’ teeth, especially those of horses, are tho
 __loom large__ To seem imminent and cause worry or unease.  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __lose out__ __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
+__lowball__ _Lowball an offer._  
 __lox__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife.  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s)/the rounds__ :two::hammer:  
 __make amends__  
+__make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
 __mama bear__  
 __Mary Jane__ :two::hammer:  
 __megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
 __Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
 __mic drop__  
 __Mickey (Finn)__  
+__mill about__ To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
@@ -147,6 +164,7 @@ __non sequitur__
 __nosh__ :two: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
+__note to self__  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__  
 __nudnik__ An irritating, nagging person; a boring pest of a person who makes constant or persistent demands or criticisms.  
@@ -169,6 +187,7 @@ __on the horizon__
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
 __on the table__ :two::hammer:  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
+__open question__  
 __open season (on someone or something)__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
 __out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
@@ -200,6 +219,7 @@ __point fingers (at someone or something)__
 __poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
 __poon__  
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
+__pounce on (someone or something)__  
 __pressure cooker__  
 __pricey__ Moderately expensive.  
 __prima donna__  
@@ -285,6 +305,7 @@ __scoot__ :two: __1__ _v intr_ To run or scurry quickly from one place to anothe
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
+__second base__ _singular only, US, colloquial_ Touching a partner under his or her clothes, without having sex.  
 __secret sauce__ _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
 __secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
 __see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
@@ -313,6 +334,7 @@ __sneak peek__
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snout__ __4__ _slang_ A person’s nose.  
 __snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
+__so to speak__  
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
 __something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
@@ -327,11 +349,13 @@ __staying power__ The ability to remain relevant, influential, profitable, or su
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
+__stop (dead) in (one’s) tracks__  
 __strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
 __suck it up__ :dart:  
 __suck up to (one)__  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
+__swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
 __swear by (someone or something)__  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
@@ -350,6 +374,7 @@ __the (hand)writing on the wall__ :two::hammer:
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
+__the old days__  
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
 __the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
