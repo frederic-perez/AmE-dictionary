@@ -1,28 +1,3 @@
-__allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ __1__ Reportedly; supposedly: _payments allegedly made to a former colleague._ __2__ _sentence modifier_ It is alleged that.  
-__betel nut__ _n_ The seed of the betel palm, chewed with betel leaves and lime by people in S and SE Asia as a digestive stimulant and narcotic.  
-__confidant__ _n_  
-__driver’s seat__ _n_ :dart: A position of control or authority.  
-__frontispiece__ _n_  
-__inpainting__ _n_ A conservation process where damaged, deteriorating, or missing parts of an artwork are filled in to present a complete image.  
-__jacks__ _n_ _functioning as singular_ A game in which jackstones are thrown and picked up in various groups between bounces of a small rubber ball. _Syn_ knucklebones, jackstones  
-__lair__ _n_ A wild animal’s den or resting place; a person’s hiding place.  
-__listless__ _adj_ :dart::two::hammer: :es: lánguido; apático, indiferente  
-__locus__ _n_ :three: __2__ A center or source, as of activities or power: _locus of control._  
-__maladaptive__ _adj_ :three::hammer:  
-__outpainting__ _n_ _Outpainting_ is a term used in the field of computer graphics, specifically in the context of AI-generated art. It refers to the process of expanding an existing image by generating additional content beyond the original image boundaries.  
-__overview__ _n_ A general review or summary of something.  
-__overzealous__ _adj_  
-__oxymoron__ _n_ /ahk-sih-MOR-ahn/  
-__pachuco__ _n_  
-__pad__ _v intr_ __1__ To go about on foot. __2__To move or walk about almost inaudibly. _The cat was padding through the grass._  
-__paganism__ _n_  
-__pageant__  
-__palaver__ _n_  
-__palliative care__ _n_  
-__palliative__ _adj_ :pencil2:  
-__palmy__ _adj_ /PAH-mee/ Palmy describes something that is flourishing or marked by prosperity, or something that is abounding in or bearing palms. _They knew her in her palmy days when she was living high._  
-__pamper__ _v_  
-__panacea__ _n_ :mega: /ˌpæn əˈsi ə/  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __paraplegia__ _n_  
